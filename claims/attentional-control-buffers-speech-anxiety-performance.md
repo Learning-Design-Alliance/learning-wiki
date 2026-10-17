@@ -15,18 +15,22 @@ sources:
     author: Jones Christopher R., Fazio Russell H., Vasey Michael W.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: jones-christopher-r-2012-2
     resource: "https://doi.org/10.1177/1948550611430166"
     title: "Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166"
     author: Jones Christopher R., Fazio Russell H., Vasey Michael W.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` The negative effect of public speaking anxiety on judged speech quality is statistically significant only at low levels of attentional control (ACS values of 2.59 or less). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)
@@ -38,7 +42,7 @@ sources:
 
 Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analysis in the Results section of a two-session study of 61 undergraduates who gave a three-minute videotaped speech. Mean-centered ACS, PRCS, and their interaction predicted judges' ratings of speech quality. The interaction was significant, "b = .17, t(57) = 2.41, p = .02", and Johnson-Neyman probing showed anxiety's effect was negative and significant only at low ACS.
 
@@ -48,7 +52,7 @@ Regression analysis in the Results section of a two-session study of 61 undergra
 
 Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Regression analysis in the Results section predicting seconds of speech from mean-centered ACS, PRCS, and their interaction in the same 61-participant sample. The interaction was marginal, "b = 3.25, t(57) = 1.92, p < .06", and probing showed the negative effect of anxiety on speech length was significant only at ACS values at or below 2.60.
 

@@ -15,12 +15,14 @@ sources:
     author: Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Higher fall and spring HTKS scores were associated with higher SSRS Social Skills scores and lower Problem Behavior scores, supporting the HTKS as a measure of self-regulation for first graders. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)
@@ -31,7 +33,7 @@ sources:
 
 Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J. (2010). First graders' literacy and self-regulation gains: The effect of individualizing student instruction. Journal of School Psychology. https://doi.org/10.1016/j.jsp.2010.06.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 HLM analysis of teacher SSRS ratings for 398 (88%) of the 445 students, controlling for the nested data structure. Inter-rater reliability for HTKS videotape scoring was .95 for self-corrections and .98 overall.
 

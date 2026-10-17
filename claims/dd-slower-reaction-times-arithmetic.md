@@ -15,12 +15,14 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Reaction times were significantly longer for children with DD than TD children, with no significant main effect of Operation or Group × Operation interaction. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -31,7 +33,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Two-way ANOVA on reaction times in the same 16 DD and 20 TD children during addition and subtraction verification. The study found "reaction times were significantly longer for children with DD than for TD children (F(34, 1) = 4.76, p = .036)", with no significant operation effect or interaction.
 

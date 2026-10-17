@@ -15,12 +15,14 @@ sources:
     author: Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Better mid-year decoding performance positively predicts end-of-year harm avoidance symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adding mid-year WJBR decoding scores significantly improved prediction of end-of-year harm avoidance, with poorer decoding predicting lower harm avoidance — a direction opposite to that hypothesized. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
@@ -31,7 +33,7 @@ sources:
 
 Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K. (2012). Anxiety and Reading Difficulties in Early Elementary School: Evidence for Unidirectional- or Bi-Directional Relations? Child Psychiatry and Human Development, 43(1), 35-47. https://doi.org/10.1007/s10578-011-0246-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical linear regression in the same 153-child first-grade sample. Adding T1 decoding (WJBR) significantly raised R2 for T2 harm avoidance from .07 to .12; Table 2 reports β = .20, and the discussion notes children performing worse at decoding tended to report lower harm avoidance.
 

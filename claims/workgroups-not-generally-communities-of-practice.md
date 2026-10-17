@@ -15,12 +15,14 @@ sources:
     author: David Boud and Heather Middleton
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Workgroups in the study could generally not be regarded as communities of practice, though subsets operated as communities of practice for specific issues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Using Wenger's fourteen indicators, the authors found behaviour consistent with some indicators in each workgroup and subsets operating as communities of practice, but the workgroups themselves generally did not qualify. [→ David Boud and Heather Middleton 2003](#david-boud-and-heather-middleton-2003)
@@ -31,7 +33,7 @@ sources:
 
 David Boud and Heather Middleton. (2003). Learning from Others at Work: Communities of Practice and Informal Learning. Journal of Workplace Learning, 15, 5, 194-202. https://doi.org/10.1108/13665620310483895
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Transcript analysis of four workgroups against Wenger's fourteen indicators. The article reports examples consistent with a number of indicators in each group, yet "the workgroups themselves could not generally be regarded as communities of practice" due to differences of function and lack of shared ways of operating.
 

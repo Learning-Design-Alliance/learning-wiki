@@ -15,18 +15,22 @@ sources:
     author: Duckworth, A. L., Kim, B., and Tsukayama, E.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: duckworth-2013-2
     resource: "https://doi.org/10.3389/fpsyg.2012.00608"
     title: "Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608"
     author: Duckworth, A. L., Kim, B., and Tsukayama, E.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 1 (NICHD-SECCYD, N=1,094), changes in negative life events predicted changes in self-control (β=−0.05, p=0.044). [→ Duckworth 2013](#duckworth-2013)
@@ -38,7 +42,7 @@ sources:
 
 Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Prospective longitudinal path model in the NICHD-SECCYD sample (N=1,094), with self-control rated by mothers, fathers, and teachers in grades 4 and 6. The article reports "changes in negative life events predicted changes in self-control, β=− 0.05, p= 0.044" controlling for baseline self-control, prior life events, and demographics.
 
@@ -48,7 +52,7 @@ Prospective longitudinal path model in the NICHD-SECCYD sample (N=1,094), with s
 
 Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 One-year prospective study of 527 middle school students using child-reported Life Events Checklist and self-, parent-, and teacher-rated impulsivity. The article reports "changes in negative life events predicted changes in self-control, β=− 0.10, p= 0.0164" with FIML estimation.
 

@@ -15,18 +15,22 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: gillen-oneel-2011-2
     resource: "https://doi.org/10.1111/j.1467-8624.2011.01621.x"
     title: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x"
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Ethnic-minority elementary-age children report higher awareness of ethnicity-based stigma than European-American children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` Ethnic-minority children reported lower levels of public regard than ethnic-majority children. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -38,7 +42,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Between-subjects ANOVA with ethnicity, grade, and gender factors on 451 children's public regard. The study found "ethnic-minority children reported lower levels of public regard than ethnic-majority children, F(4,391) = 10.10, p < .001, η2 = .09".
 
@@ -48,7 +52,7 @@ Between-subjects ANOVA with ethnicity, grade, and gender factors on 451 children
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Same ANOVA design applied to perceived group status. The article reports "African-American, Chinese, and Dominican children reported lower status perceptions than European-American and Russian children, F(4,391) = 55.93, p < .001, η2 = .36".
 

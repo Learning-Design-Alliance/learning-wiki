@@ -15,12 +15,14 @@ sources:
     author: Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Visual-motor integration is a predictor of orthographic skills in children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Visual-motor integration, assessed by a standardized test, proved to be a predictor of orthographic skills in the SEM model. [→ Wicki 2014](#wicki-2014)
@@ -31,7 +33,7 @@ sources:
 
 Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne (2014). Handwriting fluency in children. Swiss Journal of Psychology. https://doi.org/10.1024/1421-0185/a000127
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the SEM model of the 93-child sample, visual-motor integration measured with a standardized test "proved to be a predictor of orthographic skills".
 

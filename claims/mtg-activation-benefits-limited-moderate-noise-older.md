@@ -15,12 +15,14 @@ sources:
     author: Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Middle temporal gyrus activation in older listeners correlates with performance only in non-debilitating listening conditions, not in severe noise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` For bilateral MTG, positive brain-behavior correlations were found in the Quiet and SNR 20 conditions but not in the SNR -5 condition in older subjects. [→ Wong Patrick C. M. 2009](#wong-patrick-c-m-2009)
@@ -31,7 +33,7 @@ sources:
 
 Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit. (2009). Aging and Cortical Mechanisms of Speech Perception in Noise. Neuropsychologia 47(3), 693-703. https://doi.org/10.1016/j.neuropsychologia.2008.11.032
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Brain-behavior correlation analysis in the older group (n = 12) for bilateral MTG clusters. Right MTG correlated with accuracy in Quiet (r = .786, p < .001) and SNR 20 (r = .678, p = .008) but not SNR -5 (r = .336, p = .143); left MTG showed a similar pattern (r = .552, p = .031; r = .492, p = .052; r = .328, p = .149).
 

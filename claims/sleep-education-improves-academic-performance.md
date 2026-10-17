@@ -15,12 +15,14 @@ sources:
     author: Amandine Eve Rey, Anne Guignard-Perret, Françoise Imler-Weber, Luis Garcia Larrea, Stéphanie Mazza
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Sleep education at school improves academic performance in children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The school-based sleep education program improved academic performance in children. [→ Amandine Eve Rey 2020](#amandine-eve-rey-2020)
@@ -31,7 +33,7 @@ sources:
 
 Amandine Eve Rey, Anne Guignard-Perret, Françoise Imler-Weber, Luis Garcia Larrea, Stéphanie Mazza. (2020). Improving sleep, cognitive functioning and academic performance with sleep education at school in children. Learning and Instruction, 65, 101270. https://doi.org/10.1016/j.learninstruc.2019.101270
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 The article reports improved academic performance following a school-based sleep education program, as stated in the title and abstract of the published study.
 

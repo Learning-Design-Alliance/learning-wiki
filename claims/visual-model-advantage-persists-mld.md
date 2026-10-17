@@ -15,18 +15,22 @@ sources:
     author: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: mazzocco-2013-2
     resource: "https://doi.org/10.1016/j.jecp.2013.01.005"
     title: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005"
     author: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Item format accounted for significant variance in accuracy, with matching-parts visual models easiest and Arabic numerals hardest. [→ Mazzocco 2013](#mazzocco-2013)
@@ -38,7 +42,7 @@ sources:
 
 Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 A 4 (Format) × 5 (Grade) × 3 (MLD Status) ANOVA on one-half items compared Arabic numeral fractions with three visual-model formats. Format was significant, η2p = .604; the article reports accuracy was "greatest when visual models involved matching parts (units of comparable sizes), and lowest when fractions were represented by Arabic numbers".
 
@@ -48,7 +52,7 @@ A 4 (Format) × 5 (Grade) × 3 (MLD Status) ANOVA on one-half items compared Ara
 
 Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 The Format × MLD Status interaction (Wilks’ Lambda F(6, 234) = 8.73, p < .0001, η2p = .183) prompted within-group analyses. The article reports "the effect size of Item Format was comparable for the TA and LA groups" but "larger still for the MLD group, η2p = .889".
 

@@ -15,12 +15,14 @@ sources:
     author: "Burin, D. I., Irrazabal, N., Injoque Ricle, I., Saux, G., & Barreyro, J. P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Operational skills correlate moderately with Internet habitual use, while navigation and evaluation skills correlate only with informational activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Operational skills showed a significant positive moderate correlation with Internet habitual use; Formal/Navigation and Informational/Evaluation skills correlated significantly only with the number of informational activities online, not recreational activities. [→ Burin 2018](#burin-2018)
@@ -31,7 +33,7 @@ sources:
 
 Burin, D. I., Irrazabal, N., Injoque Ricle, I., Saux, G., & Barreyro, J. P. (2018). Self-reported internet skills, previous knowledge and working memory in text comprehension in E-learning. International Journal of Educational Technology in Higher Education, 15:18. https://doi.org/10.1186/s41239-018-0099-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Convergent validity analysis in Study 1 (n = 254) correlating standardized factorial scores with Internet frequency and counts of informational and recreational online activities, with significance set at p < .01 given the number of contrasts. The article describes the Operational correlation as "significant, positive and moderate".
 

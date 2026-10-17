@@ -15,12 +15,14 @@ sources:
     author: van Rijthoven R, Kleemans T, Segers E, Verhoeven L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Age predicts decoding efficiency in children with dyslexia while working memory and perceptual organization covariate effects are non-significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Age had a significant total effect on word reading and pseudoword decoding; perceptual organization and verbal working memory showed no significant effects as covariates. [→ van Rijthoven R 2018](#van-rijthoven-r-2018)
@@ -31,7 +33,7 @@ sources:
 
 van Rijthoven R, Kleemans T, Segers E, Verhoeven L. (2018). Beyond the phonological deficit: Semantics contributes indirectly to decoding efficiency in children with dyslexia. Dyslexia. https://doi.org/10.1002/dys.1597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Covariate results from the word-decoding mediation model in 55 children with dyslexia; the pseudoword model similarly showed a significant age total effect (0.0351) and no significant covariate effects.
 

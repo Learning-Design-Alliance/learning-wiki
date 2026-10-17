@@ -15,12 +15,14 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across both operations, children with DD had greater activity in right IPS, bilateral fusiform gyrus, left lingual gyrus, right visual cortex, and multiple prefrontal regions. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -31,7 +33,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Whole-brain block-design fMRI ANOVA main effect of Group in 16 DD and 20 TD children. The study reports "Children with DD had greater activity across operations in the right IPS, the bilateral fusiform gyrus, left lingual gyrus and right visual cortex", plus prefrontal hyperactivation, contrary to predicted under-activation.
 

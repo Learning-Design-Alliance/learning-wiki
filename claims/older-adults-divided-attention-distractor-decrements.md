@@ -15,12 +15,14 @@ sources:
     author: Owsley Cynthia
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Older adults show performance decrements in divided-attention visual localization tasks, exacerbated by distractors and greater eccentricity, despite intact central-task performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When only the central target must be identified, young and older adults perform similarly, but older adults show decrements when also localizing a peripheral target, worsened by distractors and greater eccentricity. [→ Owsley Cynthia 2012](#owsley-cynthia-2012)
@@ -31,7 +33,7 @@ sources:
 
 Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Sekuler and Ball's laboratory analog using brief 125 ms displays with a center discrimination task and a peripheral radial-localization task at 5°, 10°, or 15° eccentricity. It states that "older adults showed decrements in performance" under divided attention, exacerbated by distractors, with age differences greater at larger eccentricities.
 

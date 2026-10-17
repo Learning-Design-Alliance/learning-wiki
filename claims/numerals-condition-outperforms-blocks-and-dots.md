@@ -15,12 +15,14 @@ sources:
     author: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha"
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A significant stimulus condition main effect (ηp2=.21) was due to better performance in the numerals condition than blocks or dots. [→ Mix 2014](#mix-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 In Experiment 1's repeated measures ANOVA, the stimulus condition main effect was "due to better performance in the numerals condition" (numerals vs. blocks: p < .001; numerals vs. dots: p < .0001; blocks vs. dots: p = .65).
 

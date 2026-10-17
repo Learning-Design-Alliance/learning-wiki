@@ -15,12 +15,14 @@ sources:
     author: Puranik, Cynthia S., Lonigan, Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Writing features develop sequentially: universal features (linearity, segmentation, simple units) are acquired before language-specific features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Guttman scaling coefficients of reproducibility exceeded .90 on the Write Name and composing tasks, supporting sequential acquisition of writing features with universal features appearing first. [→ Puranik 2011](#puranik-2011)
@@ -31,7 +33,7 @@ sources:
 
 Puranik, Cynthia S., Lonigan, Christopher J. (2011). From Scribbles to Scrabble: Preschool Children's Developing Knowledge of Written Language. Reading and Writing. https://doi.org/10.1007/s11145-009-9220-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Guttman scaling analysis of feature scores from 372 preschoolers across the Write Name task (CR = .94) and four composing tasks. The article reports "High coefficients of reproducibility" on the composing tasks, implying a fixed acquisition order, and that the three universal features appeared before language-specific features.
 

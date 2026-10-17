@@ -15,12 +15,14 @@ sources:
     author: Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Automaticity of handwriting predicts handwriting speed in fourth-grade children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a SEM model of Swiss fourth graders, automaticity of handwriting significantly predicted handwriting speed. [→ Wicki 2014](#wicki-2014)
@@ -31,7 +33,7 @@ sources:
 
 Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne (2014). Handwriting fluency in children. Swiss Journal of Psychology. https://doi.org/10.1024/1421-0185/a000127
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional SEM analysis of 93 Swiss fourth graders (mean age 10;7). The abstract reports that automaticity of handwriting "predicts handwriting speed as well as orthographic skills"; no standardized coefficient is printed in the available text.
 

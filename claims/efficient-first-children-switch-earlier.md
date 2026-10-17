@@ -15,12 +15,14 @@ sources:
     author: "Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children who observed the efficient method first switched earlier than children observing the inefficient method first
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Median switch score was significantly lower in the Inefficient first condition than the Efficient first condition. [→ Davis 2022](#davis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H. (2022). Cognitive flexibility supports the development of cumulative cultural learning in children. Scientific Reports. https://doi.org/10.1038/s41598-022-18231-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Comparing conditions with nonparametric tests, "the median switch score in the Inefficient first condition (Med = 4.00), was significantly lower than that of the Efficient first condition (Med = 7.00, Z = − 11.74, p < 0.001)". The proportion switching did not significantly differ between conditions.
 

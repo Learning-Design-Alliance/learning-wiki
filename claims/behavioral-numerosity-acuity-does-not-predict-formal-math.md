@@ -15,12 +15,14 @@ sources:
     author: Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Behavioral nonsymbolic numerosity acuity (RT and accuracy ratio effects) does not reliably predict formal math achievement in typical to high-achieving participants aged 6 to 34
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Neither RT nor accuracy behavioral ratio effects significantly predicted the WJ-III Broad Math index, its four subtests, reading achievement, or full scale IQ in the full sample or any age group. [→ Haist Frank 2015](#haist-frank-2015)
@@ -31,7 +33,7 @@ sources:
 
 Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha. (2015). Development of brain systems for nonsymbolic numerosity and the relationship to formal math academic achievement. Human brain mapping. https://doi.org/10.1002/hbm.22666
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional fMRI study of 44 typically developing participants (14 children, 14 adolescents, 16 adults) performing a nonsymbolic dot comparison task; behavioral ratio effects were correlated with WJ-III achievement. The article reports "No significant relationship was found between the RT BRE" and any achievement or IQ measure.
 

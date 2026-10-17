@@ -15,18 +15,22 @@ sources:
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: koenig-ashley-2020-2
     resource: "https://doi.org/10.1080/15248372.2020.1802277"
     title: "Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277"
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lexical processing at 36 months did not predict later school readiness over and above concurrent vocabulary, but predicted BSRA better than vocabulary at 60 months did
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The main effect of lexical processing on BSRA at 60 months did not remain when TPVT at 36 months was added as a predictor. [→ Koenig Ashley 2020](#koenig-ashley-2020)
@@ -38,7 +42,7 @@ sources:
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression adding TPVT at 36 months to the BSRA models: 'the main effect of lexical processing did not remain when TPVT at 36 months was added as a predictor', so latency added no prediction over concurrent vocabulary.
 
@@ -48,7 +52,7 @@ Regression adding TPVT at 36 months to the BSRA models: 'the main effect of lexi
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Comparison of predictors in the BSRA models: 'lexical processing but not TPVT at 60 months predicted BSRA scores', which the authors read as lexical processing at 36 months being 'a better measure of later school readiness'.
 

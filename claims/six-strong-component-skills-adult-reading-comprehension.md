@@ -15,12 +15,14 @@ sources:
     author: Tighe, Elizabeth L.; Schatschneider, Christopher
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Morphological awareness, language comprehension, fluency, oral vocabulary knowledge, real word decoding, and working memory each exhibited strong relationships with adult reading comprehension (average rs between .52 and .59). [→ Tighe 2016](#tighe-2016)
@@ -31,7 +33,7 @@ sources:
 
 Tighe, Elizabeth L.; Schatschneider, Christopher. (2016). Examining the Relationships of Component Reading Skills to Reading Comprehension in Struggling Adult Readers: A Meta-Analysis. Journal of Learning Disabilities. https://doi.org/10.1177/0022219414555415
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, using Pearson r as the effect size index. The six strong predictors' average rs ranged from .52 to .59 (e.g., morphological awareness r = .59), meeting the article's Cohen-based strong threshold of "at least 25%" of comprehension variance.
 

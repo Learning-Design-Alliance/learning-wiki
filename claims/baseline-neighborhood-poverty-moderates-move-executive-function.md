@@ -15,12 +15,14 @@ sources:
     author: "Roy, A. L., McCoy, D. C., & Raver, C. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The relationship between residential mobility and fifth-grade executive function is moderated by baseline neighborhood poverty: moving out of low-poverty neighborhoods is detrimental while moving out of high-poverty neighborhoods shows a marginally significant benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The interaction between residential mobility and baseline neighborhood poverty was significantly related to children's Hearts and Flowers performance; moving out of a low poverty neighborhood was associated with a 189-ms (1.17-SD) increase in response time (t(288) = 2.59, p = .01), while moving out of a high poverty neighborhood was related to reductions in response time that were only marginally statistically significant (t(288) = −1.86, p = .06). [→ Roy 2014](#roy-2014)
@@ -31,7 +33,7 @@ sources:
 
 Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Residential Mobility, Neighborhood Poverty, and Children's Self-Regulation. Developmental Psychology. https://doi.org/10.1037/a0036984
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Interaction analysis from the same longitudinal regression models with inverse probability weighting, graphed in Figure 1 with simple slopes tested. The article reports the interaction between residential mobility and baseline neighborhood poverty was significantly related to Hearts and Flowers performance. The high-poverty simple slope was "only marginally statistically significant" (t(288) = −1.86, p = .06). No standardized effect size is printed, so impact is null.
 

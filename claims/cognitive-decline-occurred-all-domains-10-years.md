@@ -15,12 +15,14 @@ sources:
     author: Geboers B, Uiters E, Reijneveld SA, Jansen CJM, Almansa J, Nooyens ACJ, Verschuren WMM, de Winter AF, Picavet HSJ
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Cognitive decline occurred in all domains between the two measurement waves among participants with cognitive data at both time points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Participants who participated in cognitive testing at both measurements showed cognitive decline in all domains between the two measurement waves (all p-values < .0001). [→ Geboers B 2018](#geboers-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Geboers B, Uiters E, Reijneveld SA, Jansen CJM, Almansa J, Nooyens ACJ, Verschuren WMM, de Winter AF, Picavet HSJ. (2018). Health literacy among older adults is associated with their 10-years' cognitive functioning and decline - the Doetinchem Cohort Study. BMC Geriatrics. https://doi.org/10.1186/s12877-018-0766-7
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Paired samples t-tests among 737 participants with cognitive data at both measurement waves (mean age 68.5 at second measurement). "Participants who had also participated in cognitive testing in the first measurement (n = 737) had a mean age of 68.5 years at the second measurement, and showed cognitive decline in all domains between the two measurement waves (all p-values<.0001)." No effect sizes are printed.
 

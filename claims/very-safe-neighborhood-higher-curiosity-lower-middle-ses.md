@@ -15,18 +15,22 @@ sources:
     author: Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: shah-pe-2023-2
     resource: "https://doi.org/10.3389/fpsyg.2023.986221"
     title: "Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221"
     author: Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` In the main effects model, children in very safe neighborhoods had higher curiosity than children in fairly safe (ref) neighborhoods (β = 0.07, p = 0.002), with no difference for unsafe vs fairly safe (β = 0.01, p = 0.42). [→ Shah PE 2023](#shah-pe-2023)
@@ -38,7 +42,7 @@ sources:
 
 Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Adjusted main-effects regression on the weighted ECLS-B sample (N = 4,750); neighborhood safety was parent-reported and trichotomized (unsafe, fairly safe ref, very safe). The article reports "β = 0.07, p = 0.002" for very safe vs fairly safe.
 
@@ -48,7 +52,7 @@ Adjusted main-effects regression on the weighted ECLS-B sample (N = 4,750); neig
 
 Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SES-stratified models following a significant safety × SES interaction (p = 0.008), on the same weighted ECLS-B sample. Very safe vs fairly safe was significant for lower-resourced ("β = 0.10, p = 0.009") and middle-resourced (β = 0.10, p = 0.01) children; for higher-resourced children safety was not associated with curiosity (p = 0.99).
 

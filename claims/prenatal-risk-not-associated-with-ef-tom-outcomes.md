@@ -15,12 +15,14 @@ sources:
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Prenatal risk indices were not significantly associated with cognitive flexibility or theory of mind outcomes in this sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The cumulative prenatal risk index (premature birth, low birth weight, prenatal drug exposure) showed no significant association with either outcome. [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)
@@ -31,7 +33,7 @@ sources:
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Preliminary analyses tested whether a cumulative prenatal risk index (premature birth, low birth weight, prenatal drug exposure) predicted outcomes; no significant association was found with cognitive flexibility or theory of mind. Prenatal risk data were missing for 13 foster children whose parents were unsure of specific risk factors.
 

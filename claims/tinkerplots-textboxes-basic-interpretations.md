@@ -15,18 +15,22 @@ sources:
     author: Lyn D English and Jane M Watson
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: lyn-d-english-and-jane-m-watson-2015-2
     resource: "https://doi.org/10.1186/s40594-015-0016-x"
     title: "Lyn D English and Jane M Watson. (2015). Exploring variation in measurement as a foundation for statistical thinking in the elementary school. International Journal of STEM Education (2015) 2:3. https://doi.org/10.1186/s40594-015-0016-x"
     author: Lyn D English and Jane M Watson
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Student groups' TinkerPlots text boxes for one student's data were mostly literal reports of plot aspects, and comparison text boxes for the two scenarios mostly made basic rather than reasoned comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 36 groups creating TinkerPlots plots and text boxes for the single student, most showed literal reporting of plot aspects (code 1) or sequential description of explicit information (code 2), with only one group relating information in an argument (code 3). [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)
@@ -38,7 +42,7 @@ sources:
 
 Lyn D English and Jane M Watson. (2015). Exploring variation in measurement as a foundation for statistical thinking in the elementary school. International Journal of STEM Education (2015) 2:3. https://doi.org/10.1186/s40594-015-0016-x
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 SOLO-based coding of TinkerPlots plots and text boxes created by 36 student groups for the single-student measurement data. Table 6 reports 8% code 0, 50% code 1, 39% code 2, 3% code 3. Groups' text mostly focused on "single isolated aspects of their plots (code 1)."
 
@@ -48,7 +52,7 @@ SOLO-based coding of TinkerPlots plots and text boxes created by 36 student grou
 
 Lyn D English and Jane M Watson. (2015). Exploring variation in measurement as a foundation for statistical thinking in the elementary school. International Journal of STEM Education (2015) 2:3. https://doi.org/10.1186/s40594-015-0016-x
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Hierarchical coding of comparison plots and text boxes produced by 31 pairs of students contrasting the single-student and class data sets in TinkerPlots. Code 1 considered class data only; code 2 made basic comparisons; "two or more of the comparison statements were linked to give reasons for the differences in the two plots" at code 3.
 

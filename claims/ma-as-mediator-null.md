@@ -13,12 +13,14 @@ sources:
     title: Lai Y 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Modeling mathematics anxiety as the mediator of metacognition's effect on word problem solving yields no mediating effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the reverse path models with MA as mediator, the paths from MA and metacognition to WPS were non-significant, and MA was not found to have any mediating effect. [→ Lai Y 2015](#lai-y-2015)
@@ -29,7 +31,7 @@ sources:
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Supplementary SEM analyses (S1 Table, S1 Fig, S2 Fig) with the same 224-child sample tested metacognition->MA->WPS; the null result rules against anxiety as the mediating mechanism in this cross-sectional data.
 

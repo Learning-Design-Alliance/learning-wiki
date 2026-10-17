@@ -15,12 +15,14 @@ sources:
     author: "Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In a prospective longitudinal sample (ECLS-K:2011), numbers reversed performance follows a logarithmic growth pattern, decelerating over ages 6–11
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A logarithmic functional form best fit growth in Numbers Reversed performance in the ECLS-K:2011, indicating rapid early growth that decelerates. [→ Ahmed 2022](#ahmed-2022)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E. (2022). Working memory development from early childhood to adolescence using two nationally representative samples. Developmental Psychology. https://doi.org/10.1037/dev0001396
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Prospective longitudinal mixed-effects modeling of the ECLS-K:2011 (N = 18,174, nine waves, ages ~6–11) using W-scores; "A logarithmic functional form best fit growth" with b = 20.714, p < .001.
 

@@ -15,12 +15,14 @@ sources:
     author: "Dajani, D. R., & Uddin, L. Q."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` ASD is characterized by impaired cognitive flexibility and planning abilities with intact inhibitory control, and cognitive inflexibility is associated with higher levels of restricted and repetitive behaviors. [→ Dajani 2015](#dajani-2015)
@@ -31,7 +33,7 @@ sources:
 
 Dajani, D. R., & Uddin, L. Q. (2015). Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2015.07.003
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of clinical literature. Cognitive inflexibility in ASD "is associated with higher levels of RRBs". Although flexibility deficits may be present in ASD, ADHD and OCD, the review states flexibility may be most profoundly impacted in ASD and is specifically linked with its core symptomatology.
 

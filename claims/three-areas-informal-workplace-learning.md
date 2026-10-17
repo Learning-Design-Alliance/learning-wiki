@@ -15,12 +15,14 @@ sources:
     author: David Boud and Heather Middleton
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Informal learning in the studied workgroups clustered into three areas: mastery of organisational processes, negotiating the political, and dealing with the atypical
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Analysis of interviews across the four workgroups identified three significant, overlapping areas of informal learning. [→ David Boud and Heather Middleton 2003](#david-boud-and-heather-middleton-2003)
@@ -31,7 +33,7 @@ sources:
 
 David Boud and Heather Middleton. (2003). Learning from Others at Work: Communities of Practice and Informal Learning. Journal of Workplace Learning, 15, 5, 194-202. https://doi.org/10.1108/13665620310483895
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative interview analysis across four workgroups. The authors report "Three significant areas of learning are evident in the analysis of the interviews" and note the categories overlap, serving as a heuristic to illustrate the complexity of learning networks.
 

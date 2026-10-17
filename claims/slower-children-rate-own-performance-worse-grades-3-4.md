@@ -15,12 +15,14 @@ sources:
     author: "Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Children evaluated their own performance as worse when they were slower in Grades 3 and 4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In Grades 3 and 4, children evaluated their own performance as worse when they were slower. [→ Desoete 2019](#desoete-2019)
@@ -31,7 +33,7 @@ sources:
 
 Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J. (2019). Metacognition and motivation as predictors for mathematics performance of Belgian elementary school children. ZDM Mathematics Education, 51, 667–677. https://doi.org/10.1007/s11858-018-01020-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Observation from the longitudinal study of Belgian elementary children. The abstract reports that children "evaluated their own performance as worse when they were slower" in Grades 3 and 4; no effect size is printed.
 

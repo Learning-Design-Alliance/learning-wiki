@@ -15,12 +15,14 @@ sources:
     author: Lyn D English and Jane M Watson
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Students' surprise at measurement values was overwhelmingly expressed by identifying an outlier or extreme/unusual value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In response to being asked which measured values surprised them, most students (63%) identified an outlier or extreme/unusual value and explained why it had occurred. [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)
@@ -31,7 +33,7 @@ sources:
 
 Lyn D English and Jane M Watson. (2015). Exploring variation in measurement as a foundation for statistical thinking in the elementary school. International Journal of STEM Education (2015) 2:3. https://doi.org/10.1186/s40594-015-0016-x
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Content analysis of workbook question 2 responses (N = 95) about surprising values in the single-student measurement data. Table 2 reports 63% identifying an extreme/unusual value, 19% variation in values, 13% lack of surprise, 4% uninterpretable. Students "identified an outlier or extreme/unusual value and included why it had occurred."
 

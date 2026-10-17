@@ -15,12 +15,14 @@ sources:
     author: "Scheibe, S., & Blanchard-Fields, F."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Intentionally down-regulating disgust disrupts young adults' working memory performance but not older adults' at the second post-induction measurement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` When instructed to down-regulate disgust, young adults' N-Back performance dropped from T1 to T2 while older adults' performance continued to increase, yielding a significant Time × Age × Condition effect. [→ Scheibe 2009](#scheibe-2009)
@@ -31,7 +33,7 @@ sources:
 
 Scheibe, S., & Blanchard-Fields, F. (2009). Effects of Regulating Emotions on Cognitive Performance: What Is Costly for Young Adults Is not so Costly for Older Adults. Psychology and Aging, 24(1), 217-223. https://doi.org/10.1037/a0013807
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Planned pairwise comparison in a 4 (Time) × 2 (Age) × 4 (Condition) repeated-measures ANOVA of N-Back combined performance, contrasting the down-regulation condition with the no-instructions control. The article reports "a significant Time × Age × Condition effect" with η2 = .12. From T1 to T2 young adults' performance dropped whereas older adults' continued to increase.
 

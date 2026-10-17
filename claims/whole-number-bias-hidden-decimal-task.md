@@ -15,12 +15,14 @@ sources:
     author: Malone Amelia S., Loehr Abbey M., Fuchs Lynn S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Most at-risk fourth graders apply whole-number logic when comparing decimals with different digit counts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On a descriptive hidden decimal task, 86% of children identified 0.XXXX as greater than 0.X, consistent with whole number logic. [→ Malone Amelia S. 2017](#malone-amelia-s-2017)
@@ -31,7 +33,7 @@ sources:
 
 Malone Amelia S., Loehr Abbey M., Fuchs Lynn S. (2017). The Role of Domain-General Cognitive Abilities and Decimal Labels in At-Risk Fourth-Grade Students' Decimal Magnitude Understanding. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2017.05.007
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive hidden decimal task (Resnick et al., 1989) administered for descriptive purposes only; only 14% answered correctly on the first item and 45% on the second item.
 

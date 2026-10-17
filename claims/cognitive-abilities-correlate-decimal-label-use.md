@@ -15,12 +15,14 @@ sources:
     author: Malone Amelia S., Loehr Abbey M., Fuchs Lynn S.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Cognitive abilities correlate with decimal label use patterns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Language comprehension, nonverbal reasoning, and concept formation were positively correlated with place value label use and language comprehension and nonverbal reasoning negatively with whole number label use. [→ Malone Amelia S. 2017](#malone-amelia-s-2017)
@@ -31,7 +33,7 @@ sources:
 
 Malone Amelia S., Loehr Abbey M., Fuchs Lynn S. (2017). The Role of Domain-General Cognitive Abilities and Decimal Labels in At-Risk Fourth-Grade Students' Decimal Magnitude Understanding. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2017.05.007
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Correlations (Table 5): place value labels with WASI Vocabulary r=.27**, Matrix Reasoning r=.24**, Concept Formation r=.37***; whole number labels with Vocabulary r=-.36***, Concept Formation r=-.18*.
 

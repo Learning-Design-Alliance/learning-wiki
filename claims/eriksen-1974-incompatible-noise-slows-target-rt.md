@@ -15,12 +15,14 @@ sources:
     author: "Eriksen, B. A., & Eriksen, C. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Response-incompatible flanking noise letters impair target reaction time significantly more than response-compatible noise in a nonsearch task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` RT to the target was longest when noise letters belonged to the opposite response set and fastest when noise was identical to the target, across all spacing values. [→ Eriksen 1974](#eriksen-1974)
@@ -31,7 +33,7 @@ sources:
 
 Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/bf03203267
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Tachistoscopic experiment with six paid volunteer subjects responding by leverpress to a target letter at a fixed location. The results section reports that opposite-response-set noise gave the longest RT while identical noise gave the fastest, with "little difference" between identical and same-response noise conditions.
 

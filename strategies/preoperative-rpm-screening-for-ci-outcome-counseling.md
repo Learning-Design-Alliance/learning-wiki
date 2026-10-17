@@ -17,7 +17,7 @@ sources:
 # Use an abbreviated nonverbal reasoning test pre-operatively to identify CI candidates at risk for poor speech recognition outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors recommend administering a short nonverbal reasoning measure before implantation so clinicians can flag patients at risk, counsel realistically, and target weaknesses in rehabilitation. They write that predicting outcomes "could support identification of particular individuals who are at risk for poor post-operative outcomes, improve patient counseling regarding expected post-operative outcomes, and provide the opportunity to target particular weaknesses that could be addressed in a rehabilitative program." The abbreviated RPM is proposed as the feasible instrument for this purpose, likely in combination with other measures.

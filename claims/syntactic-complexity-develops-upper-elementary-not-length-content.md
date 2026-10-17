@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Between fourth and sixth grade, syntactic complexity of narratives showed a significant increase (d = .82), but text length and story content showed no developmental progression. [→ Drijbooms 2017](#drijbooms-2017)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2017). How executive functions predict development in syntactic complexity of narrative writing in the upper elementary grades. Reading and Writing, 30, 209–231. https://doi.org/10.1007/s11145-016-9670-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Paired-sample t tests on the longitudinal sample of 93 children tested growth in three narrative measures from fourth to sixth grade. The article reports "a signiﬁcant increase in syntactic complexity" with d = .82, while text length (d = .03) and story content (d = .02) did not progress.
 

@@ -15,12 +15,14 @@ sources:
     author: Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The effect of crystallized intelligence on children's creativity is mediated by shifting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Structural equation modeling indicates that crystallized intelligence's effect on creativity in children operates through shifting. [→ Krumm 2018](#krumm-2018)
@@ -31,7 +33,7 @@ sources:
 
 Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa. (2018). The contribution of executive functions to creativity in children: What is the role of crystallized and fluid intelligence?. Thinking Skills and Creativity. http://dx.doi.org/10.1016/j.tsc.2018.07.006
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation modeling of data from 209 8- to 13-year-olds tested relations among creativity, Gc, Gf and EFs. The article states that "the effect of Gc on creativity was mediated by shifting"; no mediation effect size is printed.
 

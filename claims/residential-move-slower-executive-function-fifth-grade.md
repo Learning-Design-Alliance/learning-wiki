@@ -15,12 +15,14 @@ sources:
     author: "Roy, A. L., McCoy, D. C., & Raver, C. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Experiencing a residential move during early or middle childhood is associated with greater cognitive dysregulation (slower Hearts and Flowers response latency) in fifth grade among low-income children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children who experienced a residential move had slower response latencies on the Hearts and Flowers task (indicating greater dysregulation) than children who did not move (b = 36.20, SE = 16.84, p = .03), a difference of 36.20 ms or 0.22 standard deviations. [→ Roy 2014](#roy-2014)
@@ -31,7 +33,7 @@ sources:
 
 Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Residential Mobility, Neighborhood Poverty, and Children's Self-Regulation. Developmental Psychology. https://doi.org/10.1037/a0036984
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal regression analysis of 602 low-income Chicago children followed from preschool to fifth grade, using inverse probability weighting with propensity scores and controlling for baseline self-regulation. The article reports movers responded "36.20 ms (or 0.22 standard deviations) slower" than nonmovers. No standardized effect size beyond the 0.22 SD descriptive difference is printed, so impact is null.
 

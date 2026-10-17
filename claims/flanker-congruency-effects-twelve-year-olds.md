@@ -15,12 +15,14 @@ sources:
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Incongruent trials produce slower reaction times (648 ms vs 574 ms) and higher error rates (4.3% vs 1.4%) than congruent trials. [→ Checa 2011](#checa-2011)
@@ -31,7 +33,7 @@ sources:
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Behavioral results from the combined Flanker-Go/No-Go task in 37 children. The study reports a significant reaction time difference between congruent and incongruent trials, with less errors in congruent (1.4%) than incongruent (4.3%) trials.
 

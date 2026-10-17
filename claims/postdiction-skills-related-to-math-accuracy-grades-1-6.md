@@ -15,12 +15,14 @@ sources:
     author: "Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Children's metacognitive postdiction skills were related to their accuracy in mathematics during the whole elementary school period. [→ Desoete 2019](#desoete-2019)
@@ -31,7 +33,7 @@ sources:
 
 Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J. (2019). Metacognition and motivation as predictors for mathematics performance of Belgian elementary school children. ZDM Mathematics Education, 51, 667–677. https://doi.org/10.1007/s11858-018-01020-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Longitudinal study testing Belgian children from Grade 1 till 6 in January and June. The abstract reports that "metacognitive postdiction skills of children were related to accuracy in mathematics" across the whole elementary period; no effect size is printed.
 

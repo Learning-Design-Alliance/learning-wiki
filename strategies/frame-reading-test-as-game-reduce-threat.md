@@ -17,7 +17,7 @@ sources:
 # Frame reading assessment as a game to reduce stereotype threat for boys
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's manipulation shows a concrete framing choice: presenting a reading test as diagnostic of reading abilities induced threat, while presenting the same test as a game reduced threat, reversing the gender gap. Teachers and test designers concerned about boys' reading underperformance can present low-stakes reading activities as games rather than as ability diagnoses. The article's evidence for this comes from one experiment, and the reversal held only among highly-identified students.
@@ -38,7 +38,7 @@ The article's manipulation shows a concrete framing choice: presenting a reading
 - reading performance
 
 ### Affordances
-- [Stereotype Threat Reading Account](../theories/stereotype-threat-reading-account.md)
+- Stereotype Threat Reading Account
 
 ## Claims
 

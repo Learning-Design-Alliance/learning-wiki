@@ -15,12 +15,14 @@ sources:
     author: Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Automaticity of handwriting is associated with both stroke frequency and stroke pressure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the SEM model, the latent automaticity-of-handwriting factor was associated with both stroke frequency and stroke pressure measured on the tablet. [→ Wicki 2014](#wicki-2014)
@@ -31,7 +33,7 @@ sources:
 
 Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne (2014). Handwriting fluency in children. Swiss Journal of Psychology. https://doi.org/10.1024/1421-0185/a000127
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM modeling of the 93-child sample treated stroke frequency and stroke pressure as indicators associated with the automaticity factor; the abstract reports automaticity is "associated with both stroke frequency and stroke pressure".
 

@@ -15,12 +15,14 @@ sources:
     author: Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adults show sustained RLPFC activation for REL-2 problems, whereas children's early RLPFC differentiation of REL-2 from REL-1 is not sustained across the trial
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant group x condition x timepoint interaction in RLPFC was driven by late-trial differences: adults maintained higher BOLD for REL-2 throughout, children showed increased signal for REL-1 in the later phase. [→ Crone Eveline A. 2009](#crone-eveline-a-2009)
@@ -31,7 +33,7 @@ sources:
 
 Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A. (2009). Neurocognitive development of relational reasoning. Developmental Science, 12(1), 55-66. https://doi.org/10.1111/j.1467-7687.2008.00743.x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ROI timecourse analysis of left RLPFC in 15 children and 17 adults during the RPM-like task. Both groups showed early REL-2 vs REL-1 differentiation (4-8 s), but "adults demonstrated a consistently higher level of BOLD signal for REL-2 throughout the period of measurement, children demonstrated increased signal for REL-1 during the later phase".
 

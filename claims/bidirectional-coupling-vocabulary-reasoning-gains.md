@@ -15,12 +15,14 @@ sources:
     author: "Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Higher starting scores in vocabulary predicted greater gains in matrix reasoning and vice versa (bidirectional positive coupling)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Both coupling parameters in the mutualism model were positive: Time 1 Vocabulary predicted Matrix Reasoning gains (r = .203) and Time 1 Matrix Reasoning predicted Vocabulary gains (r = .144). [→ Kievit 2017](#kievit-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J. (2017). Mutualistic Coupling Between Vocabulary and Reasoning Supports Cognitive Development During Late Adolescence and Early Adulthood. Psychological Science. https://doi.org/10.1177/0956797617710785
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Parameter estimates from the fitted mutualism LCS model in the Results section of the two-wave cohort study. The Vocabulary-to-Matrix-Reasoning coupling was "of typical size (r = .203, r2 = 4.1%)" and the reverse coupling was r = .144, r2 = 2.1%, in the small to typical range.
 

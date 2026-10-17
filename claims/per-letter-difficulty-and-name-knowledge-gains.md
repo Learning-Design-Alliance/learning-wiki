@@ -15,18 +15,22 @@ sources:
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: puranik-cynthia-s-2014-2
     resource: "https://doi.org/10.1016/j.jecp.2014.07.009"
     title: "Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009"
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Letter-writing difficulty varies widely across letters, with O easiest and K hardest, and knowing the letter name raises per-letter probabilities substantially
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For the full sample, letter O had the highest probability of correct writing (.89) and letter K the lowest (.10). [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
@@ -38,7 +42,7 @@ sources:
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Random effects from Models 1 and 2 converted to per-letter predicted probabilities for the full sample and by age group; 5-year-olds ranged from .63 (Z) to .99 (O).
 
@@ -48,7 +52,7 @@ Random effects from Models 1 and 2 converted to per-letter predicted probabiliti
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Conditional per-letter probabilities (Table 7) computed from Model 2 random effects, comparing children who knew versus did not know each letter's name; 23 letters showed 20%-or-more increases for 5-year-olds.
 

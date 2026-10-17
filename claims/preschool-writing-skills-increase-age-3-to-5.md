@@ -15,12 +15,14 @@ sources:
     author: Puranik, Cynthia S., Lonigan, Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Scores on Write Letters, Write Name, and Write CVC Words tasks increased significantly across age groups, with 3-year-olds scoring lower than 4- and 5-year-olds and 4-year-olds lower than 5-year-olds. [→ Puranik 2011](#puranik-2011)
@@ -31,7 +33,7 @@ sources:
 
 Puranik, Cynthia S., Lonigan, Christopher J. (2011). From Scribbles to Scrabble: Preschool Children's Developing Knowledge of Written Language. Reading and Writing. https://doi.org/10.1007/s11145-009-9220-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Cross-sectional ANOVA with age group as between-subjects factor across 372 preschoolers (30 three-year-olds, 201 four-year-olds, 141 five-year-olds), with Bonferroni-corrected pairwise contrasts. Table 2 reports F(2,369) = 30.27 for Write Letters, 30.52 for Write Name, and 27.49 for Write CVC Words, all p < .001. The study found "3-year-old children scored significantly lower than did the 5-year-old children on all tasks."
 

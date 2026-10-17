@@ -15,12 +15,14 @@ sources:
     author: "Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A model of kindergarten writing development including an attention factor fits better than a model with only language and literacy factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A SEM including attention fit statistically significantly better than a model constraining attention paths to zero (Δχ2 = 73.5, df = 4, p < .001). [→ Kent 2014](#kent-2014)
@@ -31,7 +33,7 @@ sources:
 
 Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writing fluency and quality in kindergarten and first grade: The role of attention, reading, transcription, and oral language. Reading and Writing, 27(7), 1163-1188. https://doi.org/10.1007/s11145-013-9480-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Chi-square difference test comparing two SEMs of kindergarten writing production in the same 265-student sample: one with the attention factor free, one with all covariances with and direct paths from attention constrained to 0. The difference test supported including attention.
 

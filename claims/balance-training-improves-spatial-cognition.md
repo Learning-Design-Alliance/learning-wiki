@@ -15,12 +15,14 @@ sources:
     author: "Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Balance training improves spatial cognition in healthy adults relative to relaxation training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The balance group's adjusted spatial cognition composite score was higher than the relaxation group's after training (d = 0.51). [→ Rogge 2017](#rogge-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K. (2017). Balance training improves memory and spatial cognition in healthy adults. Scientific Reports 7:5661. https://doi.org/10.1038/s41598-017-06071-9
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANCOVA on a composite of perspective-taking, figure-orientation and mirror-image tests, adjusted for pretest and age, showed "the adjusted spatial score was higher in the balance than in the relaxation training group" with d = 0.51.
 

@@ -15,18 +15,22 @@ sources:
     author: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha"
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: mix-2014-2
     resource: "https://doi.org/10.1111/cdev.12197"
     title: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197"
     author: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Kindergarteners use partial-knowledge heuristics such as digit recognition and the word hundred to interpret multidigit numerals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Kindergarteners performed above chance on items solvable by digit recognition or knowing that hundred signals more digits, but at chance on items requiring place-by-place mapping. [→ Mix 2014](#mix-2014)
@@ -37,7 +41,7 @@ sources:
 
 Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Item-level analysis of Experiment 1's 20 Which is x? numerals items showed "kindergarteners performed randomly on the first 6 items in the table, but performed significantly above chance on the rest." Items requiring accurate place-by-place mapping (e.g., 350 vs. 305) were most difficult.
 
@@ -47,7 +51,7 @@ Item-level analysis of Experiment 1's 20 Which is x? numerals items showed "kind
 
 Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The article infers strategies from item demands: some items were solvable by recognizing individual written digits, others by knowing "the word hundred in the number name signaled more digits," while "Items that required accurate mapping, place by place" remained hardest through first grade.
 

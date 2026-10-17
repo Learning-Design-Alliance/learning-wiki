@@ -13,12 +13,14 @@ sources:
     title: Stengelin R 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Theory of Mind skills differed substantially across the three populations, with German children scoring highest and Ovambo children lowest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Theory of Mind skills differed across populations. [→ Stengelin R 2020](#stengelin-r-2020)
@@ -29,7 +31,7 @@ sources:
 
 Stengelin R, Hepach R, Haun DBM (2020) Cultural variation in young children's social motivation for peer collaboration and its relation to the ontogeny of Theory of Mind. PLoS ONE 15(11): e0242071. https://doi.org/10.1371/journal.pone.0242071
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear mixed model on Theory of Mind scores (0–5 scale) from 240 children. "Theory of Mind skills differed across populations" (χ²(2) = 99.08, p < .001). German children (M = 3.43, SD = 1.22) scored higher than Hai||om children (M = 2.03, SD = 1.06), who scored higher than Ovambo children (M = 1.15, SD = 0.95).
 

@@ -15,12 +15,14 @@ sources:
     author: "Moore, A. M., vanMarle, K., & Geary, D. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Preschool one- and two-knowers perform at least 0.5 SDs lower on the kindergarten number sets test than early cardinal-principle knowers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children who were one- or two-knowers at the beginning of preschool scored at least 0.5 SDs lower on kindergarten number sets, depending on item type, than early CP-knowers, controlling multiple other factors; the article prints no standardized effect size statistic for this group contrast. [→ Moore 2016](#moore-2016)
@@ -31,7 +33,7 @@ sources:
 
 Moore, A. M., vanMarle, K., & Geary, D. C. (2016). Kindergartners' Fluent Processing of Symbolic Numerical Magnitude is Predicted by Their Cardinal Knowledge and Implicit Understanding of Arithmetic Two Years Earlier. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2016.05.003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal comparison of knower-level groups within the 112-child sample; one- and two-knowers performed "at least 0.5 SDs lower" than CP-knowers on kindergarten number sets. The article prints no d, g, or other standardized effect size statistic for this contrast, so no effect size is coded. In regression, the two-knower deficit was significant (p = .009) while the one-knower effect was a trend (p = .101).
 

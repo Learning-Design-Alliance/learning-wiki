@@ -15,12 +15,14 @@ sources:
     author: Kirkpatrick, Kathryn M.
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
 ---
 
 # Students with chronic medical conditions are less likely to complete high school on time than their healthy peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Healthy students had a higher on-time high school completion rate by age 19 than students with chronic medical conditions, with a small effect size below d = 0.2. [→ Kirkpatrick 2020](#kirkpatrick-2020)
@@ -31,7 +33,7 @@ sources:
 
 Kirkpatrick, Kathryn M. (2020). Adolescents With Chronic Medical Conditions and High School Completion: The Importance of Perceived School Belonging. Continuity in Education, 1(1), 50–63. https://doi.org/10.5334/cie.5
 
-`q3 · i0`
+`q3 · i0` · `associational · r3`
 
 T-test on Add Health subsamples comparing on-time completion by age 19: healthy students 94.4% versus chronically ill students 90.1%. The article reports "a small effect size (d = 0.16; Cohen, 1988)".
 

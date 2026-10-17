@@ -15,12 +15,14 @@ sources:
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Higher memory self-efficacy predicted better memory performance (β = .16, p<.05). [→ Hastings 2011](#hastings-2011)
@@ -32,7 +34,7 @@ sources:
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Final SEM of the pooled sample; about 24.8% of total variance in memory performance was explained. Sobel tests showed the learning-goal indirect effect was significant (statistic=1.97, p<.05) and the performance-goal indirect effect marginally significant (statistic= −1.81, p=.07).
 

@@ -15,12 +15,14 @@ sources:
     author: Puranik, Cynthia S., Lonigan, Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's name writing knowledge is more advanced than their other writing skills, with substantial letter knowledge of their own names by age 3-4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Approximately 54% of children could write their complete first names, and a majority of 3- and 4-year-olds knew the first letter of their name. [→ Puranik 2011](#puranik-2011)
@@ -31,7 +33,7 @@ sources:
 
 Puranik, Cynthia S., Lonigan, Christopher J. (2011). From Scribbles to Scrabble: Preschool Children's Developing Knowledge of Written Language. Reading and Writing. https://doi.org/10.1007/s11145-009-9220-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive analysis of the Write Name task in 372 preschoolers. The article reports 70% had some knowledge of the specific letters in their names and about 54% wrote their complete first names; 53.4% of 3-year-olds wrote the first letter of their name and 80.2% of 5-year-olds wrote all letters.
 

@@ -15,18 +15,22 @@ sources:
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: checa-2011-2
     resource: "https://doi.org/10.1080/87565641.2011.591857"
     title: "Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857"
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # ERP interference suppression amplitude predicts mathematics grades even after controlling for fluid intelligence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` The ERP-IS measure significantly predicts mathematics grades with and without intelligence subscales in the regression model. [→ Checa 2011](#checa-2011)
@@ -38,7 +42,7 @@ sources:
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Stepwise regression predicting math grades with vocabulary and matrices entered first, then EC, ISRT, and ERP-IS. The study reports ERP-IS as "a signiﬁcant predictor of grades in math even after controlling for ﬂuid intelligence" (β = -.35, p < .05 with IQ in model).
 
@@ -48,7 +52,7 @@ Stepwise regression predicting math grades with vocabulary and matrices entered 
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analyses predicting schooling skills from ERP-IS and other measures. The study reports ERP-IS uniquely accounted for variance in rule following (β = -.39, p < .05) and student-role understanding (β = -.43, p < .05).
 

@@ -13,12 +13,14 @@ sources:
     title: Daches Cohen L and Rubinsten O 2017
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Explicit and implicit measures of children's math anxiety are non-significantly correlated in this sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Correlations between the AMAS self-report questionnaire and the congruency effect in the numerical dot-probe task were non-significant; equivalence was not tested. [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)
@@ -29,7 +31,7 @@ sources:
 
 Daches Cohen L and Rubinsten O (2017) Mothers, Intrinsic Math Motivation, Arithmetic Skills, and Math Anxiety in Elementary School. Front. Psychol. 8:1939. https://doi.org/10.3389/fpsyg.2017.01939
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Pearson correlation analysis in the study of 27 sixth graders. The article reports "correlations between explicit and implicit measures of math anxiety were found to be non-signiﬁcant ( ps between 0.13 and 0.23)", contrasting with a significant correlation (r= 0.40) found by Rubinsten et al. (2015) using the MARS-R.
 

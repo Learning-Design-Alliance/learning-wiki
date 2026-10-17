@@ -9,27 +9,29 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 sources:
-  - id: ev-background
-    title: ev-background
+  - id: swords-2011
+    title: Swords 2011
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Children's perceptions of peers with internalising problems (depression) are under-researched relative to externalising problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Children's perceptions of peers with internalising problems, particularly depression, are neither well researched nor well understood. [→ ev-background](#ev-background)
+`q2 i?` Children's perceptions of peers with internalising problems, particularly depression, are neither well researched nor well understood. [→ ev-background](#swords-2011)
 
 ## Evidence
 
-### ev-background
+### Swords 2011
 
 Swords, L, Heary, C & Hennessy, E 2011, 'Factors associated with acceptance of peers with mental health problems in childhood and adolescence', Journal of Child Psychology and Psychiatry and Allied Disciplines, vol. 52, no. 9, pp. 933-941. https://doi.org/10.1111/j.1469-7610.2010.02351.x
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 A narrative review statement in the article's background motivating the study. The article asserts that perceptions of peers with internalising problems are "neither well researched nor understood"; it offers no systematic evidence for this claim in the supplied text.
 

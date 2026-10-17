@@ -15,12 +15,14 @@ sources:
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Kindergarteners' performance does not differ between approximate and exact single-digit addition formats, and the two dimensions do not interact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Neither the response-type main effect nor the stimulus x response interaction reached significance. [→ Xenidou-Dervou 2014](#xenidou-dervou-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same 2 x 2 repeated measures ANOVA of the four addition tasks, "No main effect for response type (p = .16) or interaction effect (p = .10) was found"; approximate M = 56.39% vs exact M = 53.10%, descriptively.
 

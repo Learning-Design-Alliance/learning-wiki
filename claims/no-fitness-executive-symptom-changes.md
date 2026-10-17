@@ -15,18 +15,22 @@ sources:
     author: "Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: rogge-2017-2
     resource: "https://doi.org/10.1038/s41598-017-06071-9"
     title: "Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K. (2017). Balance training improves memory and spatial cognition in healthy adults. Scientific Reports 7:5661. https://doi.org/10.1038/s41598-017-06071-9"
     author: "Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` VO2peak showed no significant group effect (d = −0.14). [→ Rogge 2017](#rogge-2017)
@@ -38,7 +42,7 @@ sources:
 
 Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K. (2017). Balance training improves memory and spatial cognition in healthy adults. Scientific Reports 7:5661. https://doi.org/10.1038/s41598-017-06071-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Graded maximal ergospirometry before and after the intervention showed no group change in VO2peak; equivalence was not tested.
 
@@ -48,7 +52,7 @@ Graded maximal ergospirometry before and after the intervention showed no group 
 
 Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K. (2017). Balance training improves memory and spatial cognition in healthy adults. Scientific Reports 7:5661. https://doi.org/10.1038/s41598-017-06071-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The Stroop effect was reliably elicited (congruent faster than incongruent, t(134) = 6.37, p < 0.001), but training did not change the interference score; equivalence was not tested.
 

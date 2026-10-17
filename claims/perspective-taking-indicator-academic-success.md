@@ -15,12 +15,14 @@ sources:
     author: Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors argue that perspective-taking task performance has been used as an indicator of academic success and high academic potential. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)
@@ -31,7 +33,7 @@ sources:
 
 Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen. (2013). Perspective-Taking Ability in Bilingual Children: Extending Advantages in Executive Control to Spatial Reasoning. Cognitive Development. https://doi.org/10.1016/j.cogdev.2012.10.002
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Discussion-section argument citing prior work: "performance on a spatial perspective-taking has been used as an indicator of academic success", with Tarshis and Shore (1991) cited as showing high-IQ preschoolers outperformed slightly above-average-IQ peers on a modified task.
 

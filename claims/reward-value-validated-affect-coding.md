@@ -13,12 +13,14 @@ sources:
     title: Stengelin R 2020
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children expressed more positive emotions in trials with high rewards compared to low rewards, validating the affect coding scheme
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children expressed more positive emotions in trials with high rewards as compared to trials with low rewards. [→ Stengelin R 2020](#stengelin-r-2020)
@@ -29,7 +31,7 @@ sources:
 
 Stengelin R, Hepach R, Haun DBM (2020) Cultural variation in young children's social motivation for peer collaboration and its relation to the ontogeny of Theory of Mind. PLoS ONE 15(11): e0242071. https://doi.org/10.1371/journal.pone.0242071
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed model on affect ratings across reward conditions from 240 children. "children expressed more positive emotions in trials with high rewards (M = 1.44,SD = 0.97) as compared to trials with low rewards (M = 1.34,SD = 0.95; χ2 (1) = 15.03,p< .001)". This validated the coding scheme's sensitivity to reward value.
 

@@ -15,12 +15,14 @@ sources:
     author: Lerner Matthew D., Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Neither initial letter-sound knowledge nor initial phonological awareness was uniquely associated with growth in the other skill; no significant predictors of letter-sound growth were found. [→ Lerner Matthew D. 2016](#lerner-matthew-d-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lerner Matthew D., Lonigan Christopher J. (2016). Bidirectional Relations between Phonological Awareness and Letter Knowledge in Preschool Revisited: A Growth Curve Analysis of the Relation between Two Code-Related Skills. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2015.09.023
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Growth models using letter-sound knowledge as the letter-knowledge predictor found no unique cross-construct relations; the article attributes this to shared predictive variance and notes there were "no significant predictors of growth in letter-sound knowledge." Equivalence was not tested.
 

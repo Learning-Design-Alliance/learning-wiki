@@ -15,12 +15,14 @@ sources:
     author: Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the extended model, openness predicted creativity (β = .36, p < .001) but not Gf (β = .16, p = .15), and the residual Gf–creativity correlation dropped to r = .29 (p = .06). [→ Benedek Mathias 2014](#benedek-mathias-2014)
@@ -31,7 +33,7 @@ sources:
 
 Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C. (2014). Intelligence, creativity, and cognitive control: The common and differential involvement of executive functions in intelligence and creativity. Intelligence. https://doi.org/10.1016/j.intell.2014.05.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Extended SEM in Section 3.3 of the same study, adding personality (NEO-FFI openness parcels) to the executive predictors. Openness predicted creativity (β = .36), not Gf (β = .16, p = .15); residual correlation fell to r = .29, p = .06.
 

@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Inhibition and updating indirectly affect text length, syntactic complexity and story content through handwriting fluency. [→ Drijbooms 2015](#drijbooms-2015)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2015). The contribution of executive functions to narrative writing in fourth grade children. Reading and Writing. https://doi.org/10.1007/s11145-015-9558-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Path analysis (LISREL, maximum likelihood) on 102 children; model fit satisfactory (χ2 = 11.01, p = .14, df = 7; RMSEA = .07, GFI = 1.00, NFI = .91, CFI = .97, AGFI = .90). "handwriting ﬂuency mediates the relation between EF and writing performance".
 

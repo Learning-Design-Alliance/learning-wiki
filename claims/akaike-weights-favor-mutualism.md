@@ -15,12 +15,14 @@ sources:
     author: "Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mutualism was overwhelmingly favored over g-factor and investment models by information criteria and Akaike weights
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The mutualism model had a normalized probability above 99.99% of being the best model and was 1.98 × 10^7 times more likely than the alternatives; it also outperformed the nested investment model, Δχ2(1) = 22.75, p < .001. [→ Kievit 2017](#kievit-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J. (2017). Mutualistic Coupling Between Vocabulary and Reasoning Supports Cognitive Development During Late Adolescence and Early Adulthood. Psychological Science. https://doi.org/10.1177/0956797617710785
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Results-section model comparison using AIC, BIC, and Akaike weights for the three LCS models in the NSPN cohort; the quote reports the normalized probability and relative likelihood favoring mutualism. A nested chi-square test also favored mutualism over investment.
 

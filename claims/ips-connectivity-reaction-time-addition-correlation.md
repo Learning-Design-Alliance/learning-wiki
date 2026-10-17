@@ -15,12 +15,14 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Greater IPS connectivity correlates with worse reaction-time performance during addition but not subtraction in children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` ROI correlations revealed significant positive correlations between IPS connectivity and reaction time during addition in left supramarginal gyrus, anterior cingulate, right middle frontal and inferior frontal gyri, with no significant correlations during subtraction. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -31,7 +33,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ROI-based correlation analysis on gPPI t-scores averaged across seeds in the full sample. The study reports "significant correlations between connectivity and reaction time during the addition task in the left supramarginal gyrus (r = .414, p = .012)" and other regions, with worse performance related to greater connectivity.
 

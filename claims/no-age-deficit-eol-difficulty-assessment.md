@@ -15,12 +15,14 @@ sources:
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Ease-of-learning judgments aligned with normative difficulty in both age groups, with slightly higher but non-reliable resolution for younger adults. [→ Price 2010](#price-2010)
@@ -31,7 +33,7 @@ sources:
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 Goodman-Kruskal gamma correlations of EOLs with normative difficulty; the printed means were .75 (younger) versus .69 (older), "t (94) = 1.69, p > .05". A parallel Experiment 2 comparison (.73 vs .64) was also not reliable.
 

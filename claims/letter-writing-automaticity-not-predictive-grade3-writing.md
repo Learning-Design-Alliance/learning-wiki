@@ -15,12 +15,14 @@ sources:
     author: Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten letter writing automaticity is not uniquely predictive of third-grade writing quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Kindergarten letter writing automaticity was not independently related to narrative (β = −.07, p = .43) or expository writing quality. [→ Kim Young-Suk 2015](#kim-young-suk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predictors of Third Grade Writing. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2014.11.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM of the 157-child longitudinal sample; letter writing automaticity was measured as correctly written lower-case letters in one minute (inter-rater agreement .99). The quote reports the null path for narrative; the expository model also found other predictors not related.
 

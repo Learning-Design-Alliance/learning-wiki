@@ -15,12 +15,14 @@ sources:
     author: "Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Backward digit span performance does not emerge until about age 5, whereas forward span is measurable from age 3
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Onset of backward span performance begins around age 5 while forward span is observed from age 3. [→ Ahmed 2022](#ahmed-2022)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E. (2022). Working memory development from early childhood to adolescence using two nationally representative samples. Developmental Psychology. https://doi.org/10.1037/dev0001396
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Figure 1-based results from the PSID-CDS cubic models show task-specific onset: "the onset of performance did not begin until the age of 5" for backward span, while forward span was measurable from age 3.
 

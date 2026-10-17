@@ -17,7 +17,7 @@ sources:
 # Use syntactic complexity as a sensitive developmental marker to monitor children's writing progress in the upper elementary grades
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 2 studies (2 associational), `q3` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends a specific assessment practice: "syntactic complexity could be considered an important developmental marker of written language, and thus a sensitive indicator to monitor children's progress in writing." This follows from the finding that syntactic complexity showed a clear developmental progression between fourth and sixth grade even though text length and story content did not, and despite a general lack of syntax-focused instruction in current writing curricula.

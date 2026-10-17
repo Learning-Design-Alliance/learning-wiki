@@ -15,12 +15,14 @@ sources:
     author: Malone Amelia S., Loehr Abbey M., Fuchs Lynn S.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Place value labels correlate positively with decimal magnitude understanding; whole number labels negatively
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Using place value labels was positively correlated with decimal number line (r=.32) and equivalency (r=.45) accuracy, while whole number labels were negatively correlated (r=-.32, r=-.34). [→ Malone Amelia S. 2017](#malone-amelia-s-2017)
@@ -31,7 +33,7 @@ sources:
 
 Malone Amelia S., Loehr Abbey M., Fuchs Lynn S. (2017). The Role of Domain-General Cognitive Abilities and Decimal Labels in At-Risk Fourth-Grade Students' Decimal Magnitude Understanding. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2017.05.007
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Correlational analysis (Table 5) among 127 at-risk fourth graders: place value labels r=.32** with Number Line and r=.45** with Decimal Equivalency; whole number labels r=-.32** and r=-.34** respectively.
 

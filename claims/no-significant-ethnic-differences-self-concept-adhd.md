@@ -10,16 +10,19 @@ generated:
 evidence_strength: weak
 sources:
   - id: houck-2011
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # No significant ethnic differences in behavior problems or self-concept among children with ADHD, though Caucasian children had the lowest mean self-concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` ANOVA revealed no significant differences between ethnic groups on CBCL internalizing or externalizing scores, and only a slight trend on self-concept scores (F(3, 141) = 2.106, p ≤ .10), with Caucasian children obtaining the lowest mean self-concept scores. [→ Houck 2011](#houck-2011)
@@ -28,9 +31,9 @@ sources:
 
 ### Houck 2011
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Separate ANOVAs with ethnicity as grouping variable in the descriptive correlational study. On self-concept only a trend emerged (F(3, 141) = 2.106, p ≤ .10); Caucasian children's mean (53.68) was lowest, Hispanic 55.44, African American 59.85, other/mixed 60.71.
 

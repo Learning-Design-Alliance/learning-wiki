@@ -15,12 +15,14 @@ sources:
     author: Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Group x condition interactions show condition-dependent activation differences in superior temporal, parietal, cingulate, medial frontal, and middle temporal regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Bilateral STG showed increased activation with noise in younger subjects but lower, condition-undifferentiated activation in older subjects; MTG showed the opposite pattern with increased activation in older subjects in SNR -5. [→ Wong Patrick C. M. 2009](#wong-patrick-c-m-2009)
@@ -31,7 +33,7 @@ sources:
 
 Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit. (2009). Aging and Cortical Mechanisms of Speech Perception in Noise. Neuropsychologia 47(3), 693-703. https://doi.org/10.1016/j.neuropsychologia.2008.11.032
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Voxel-wise mixed effects ANOVA (n = 24) identified regions with significant group x condition interactions (Table 2), e.g. right STG Interaction F(2,44) = 16.509, p < 0.001 (SNR -5: Young > Old, p = .005) and right MTG Interaction F(2,44) = 18.420, p < 0.001 (SNR -5: Old > Young, p = 0.028).
 

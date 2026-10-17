@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":17591,
-"design":789,
+"design":797,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":65,
 "principle":213,
 "process":18,
-"product":1646,
-"research-method":491,
+"product":1665,
+"research-method":478,
 "strategy":5872,
 "theory":1361
 },
@@ -159109,6 +159109,14 @@
 "type":"design"
 },
 {
+"description":"The ASSURE model is the instructional design framework the authors used to structure both workshop modalities.",
+"id":"assure-instructional-model-digital-literacy",
+"path":"designs/assure-instructional-model-digital-literacy.md",
+"status":"review",
+"title":"ASSURE instructional design model for face-to-face and blended older-adult instruction",
+"type":"design"
+},
+{
 "description":"The article defines auditability as the discipline's defining principle: \\\"a workflow that cannot be inspected, replayed or evaluated after the fact is craft, while engineering is accountable and reproducible.\\\" Its ope...",
 "id":"auditability-principle-seven-part-workflow-anatomy",
 "path":"designs/auditability-principle-seven-part-workflow-anatomy.md",
@@ -159219,6 +159227,14 @@
 "path":"designs/biweekly-homeroom-small-communities.md",
 "status":"review",
 "title":"Biweekly homerooms as relationship-centered small communities",
+"type":"design"
+},
+{
+"description":"A qualitative data-collection and analysis toolkit: 12 semi-structured interviews (average 32 minutes, ranging 23–42) covering Black girlhood meaning-making, school and STEM attitudes, and parental messaging, coded in...",
+"id":"black-girls-interview-protocol-codebook",
+"path":"designs/black-girls-interview-protocol-codebook.md",
+"status":"review",
+"title":"Semi-structured interview protocol and PVEST-aligned codebook for studying Black girls' identity and socialization",
 "type":"design"
 },
 {
@@ -159519,6 +159535,14 @@
 "type":"design"
 },
 {
+"description":"The study administered a battery measuring creativity, crystallized (Gc) and fluid intelligence (Gf), and executive functions, which the article specifies as \\\"working memory, inhibition and shifting\\\", to 209 children...",
+"id":"child-creativity-gc-gf-ef-measure-battery",
+"path":"designs/child-creativity-gc-gf-ef-measure-battery.md",
+"status":"review",
+"title":"Battery of creativity, intelligence and executive-function measures for 8- to 13-year-olds",
+"type":"design"
+},
+{
 "description":"The authors enumerate three design considerations for AMA: \\\"(1) to encourage engagement by focusing conversation on specific topics; (2) to respond to children in an age-appropriate and on-topic manner (context manage...",
 "id":"child-friendly-chatbot-design-considerations",
 "path":"designs/child-friendly-chatbot-design-considerations.md",
@@ -159756,6 +159780,14 @@
 "path":"designs/conditions-for-successful-coaching-implementation.md",
 "status":"review",
 "title":"Support successful coaching implementation by assigning coaches fewer classes, securing school leader commitment, and building teacher enthusiasm",
+"type":"design"
+},
+{
+"description":"Two novel controlled production instruments for eliciting Korean passive sentences.",
+"id":"constrained-production-tasks-limited-vocabulary",
+"path":"designs/constrained-production-tasks-limited-vocabulary.md",
+"status":"review",
+"title":"Constrained sentence-production tasks with limited color vocabulary (syntactic-priming and sentence-completion tasks)",
 "type":"design"
 },
 {
@@ -160568,6 +160600,14 @@
 "type":"design"
 },
 {
+"description":"A tachistoscopic task in which the subject responds with a right or left leverpress to a single target letter (H or K vs S or C) that always appears at a fixed location above fixation during a 1-sec exposure.",
+"id":"eriksen-1974-nonsearch-flanker-paradigm-element",
+"path":"designs/eriksen-1974-nonsearch-flanker-paradigm-element.md",
+"status":"review",
+"title":"Eriksen and Eriksen nonsearch flanker paradigm (six-condition tachistoscopic letter task)",
+"type":"design"
+},
+{
 "description":"Elemento metodológico central de la tesis: un estudio con diseño mixto en el que el análisis cualitativo de los enunciados se categoriza y transforma en datos cuantitativos.",
 "id":"estudio-mixto-audio-tutorias-seis-docentes",
 "path":"designs/estudio-mixto-audio-tutorias-seis-docentes.md",
@@ -160887,6 +160927,14 @@
 "path":"designs/five-unit-field-trip-arc-riparian.md",
 "status":"review",
 "title":"Five-unit arc building classroom skills toward a community field trip and public sharing",
+"type":"design"
+},
+{
+"description":"A variant of Fernald et al.'s (1998) lexical processing task in which, during the Response phase, 'the two images or videos disappeared, and a centrally positioned yellow star appeared, during which children heard the...",
+"id":"fixation-star-lexical-processing-task-noun-verb",
+"path":"designs/fixation-star-lexical-processing-task-noun-verb.md",
+"status":"review",
+"title":"Fixation-star lexical processing task with noun and verb trials",
 "type":"design"
 },
 {
@@ -163120,6 +163168,14 @@
 "type":"design"
 },
 {
+"description":"The intervention was a balance circuit training on varying surfaces with eight stations per session of 5 minutes each, designed to \\\"induce reactive postural adjustments, forcing participants to permanently re-stabilize\\\".",
+"id":"progressive-balance-circuit-training-pattern",
+"path":"designs/progressive-balance-circuit-training-pattern.md",
+"status":"review",
+"title":"Progressive, varied balance circuit training with reactive postural challenges",
+"type":"design"
+},
+{
 "description":"A lesson/programme-level design in which learners follow a progressive strength-and-balance curriculum at home at their own pace and convenience, guided by animated eCoaches providing \\\"instructions, guidance, safety i...",
 "id":"progressive-ecoach-digital-exercise-pattern",
 "path":"designs/progressive-ecoach-digital-exercise-pattern.md",
@@ -164109,6 +164165,14 @@
 "path":"designs/symbiosis-theory-human-ai-role-design.md",
 "status":"review",
 "title":"Symbiosis theory as a framework for designing human-machine symbiosis in online collaborative learning",
+"type":"design"
+},
+{
+"description":"A digital-tablet single-word dictation task used to dissociate spelling from graphomotor performance.",
+"id":"tablet-dictation-40-words-orthographic-graphic-complexity",
+"path":"designs/tablet-dictation-40-words-orthographic-graphic-complexity.md",
+"status":"review",
+"title":"Tablet-based single-word dictation task of 40 words varying orthographic and graphic complexity",
 "type":"design"
 },
 {
@@ -177813,6 +177877,14 @@
 "type":"product"
 },
 {
+"description":"A shortened computerized Raven's Progressive Matrices assessment developed by Mattingly Jameson K MD et al.",
+"id":"abbreviated-12-item-ravens-progressive-matrices-assessment",
+"path":"products/abbreviated-12-item-ravens-progressive-matrices-assessment.md",
+"status":"review",
+"title":"Abbreviated 12-item Raven's Progressive Matrices assessment",
+"type":"product"
+},
+{
 "description":"The AARP is an eight-item Likert-scaled assessment developed by Tarnowski and Simonian to measure the acceptability of treatments.",
 "id":"abbreviated-acceptability-rating-profile-aarp",
 "path":"products/abbreviated-acceptability-rating-profile-aarp.md",
@@ -177914,6 +177986,14 @@
 "path":"products/adapt.md",
 "status":"review",
 "title":"AdaPT",
+"type":"product"
+},
+{
+"description":"A culturally adapted self-report scale measuring operational, formal/navigation, and informational/evaluation Internet skills among Latin American college students.",
+"id":"adapted-15-item-internet-skills-scale",
+"path":"products/adapted-15-item-internet-skills-scale.md",
+"status":"review",
+"title":"Adapted 15-item Internet Skills Scale",
 "type":"product"
 },
 {
@@ -178523,6 +178603,14 @@
 "path":"products/ati-up.md",
 "status":"review",
 "title":"ATI-UP",
+"type":"product"
+},
+{
+"description":"A manualized 10-session parenting programme developed by Mary Dozier and colleagues and delivered by trained interventionists to help caregivers provide nurturing, synchronous care to young children who have experienced adversity.",
+"id":"attachment-and-biobehavioral-catch-up-abc-intervention",
+"path":"products/attachment-and-biobehavioral-catch-up-abc-intervention.md",
+"status":"review",
+"title":"Attachment and Biobehavioral Catch-up (ABC) intervention",
 "type":"product"
 },
 {
@@ -179328,6 +179416,14 @@
 "type":"product"
 },
 {
+"description":"A translated and psychometrically validated 23-item, 3-point self-report assessment developed by Chen et al.",
+"id":"chinese-version-of-the-sleep-self-report-ssr",
+"path":"products/chinese-version-of-the-sleep-self-report-ssr.md",
+"status":"review",
+"title":"Chinese version of the Sleep Self-Report (SSR)",
+"type":"product"
+},
+{
 "description":"A year-long, 12-chapter secondary-school AI curriculum covering machine learning, computer vision, speech and language processing, ethics, societal implications, and the future of work, developed by Chiu et al.",
 "id":"chiu-et-al-2022-12-chapter-school-based-ai-curriculum",
 "path":"products/chiu-et-al-2022-12-chapter-school-based-ai-curriculum.md",
@@ -179424,6 +179520,14 @@
 "type":"product"
 },
 {
+"description":"A 10-item, single-factor, five-point Likert self-report scale adapted into Turkish by Kaya et al.",
+"id":"clark-and-malecki-10-item-academic-grit-scale-turkish-adaptation",
+"path":"products/clark-and-malecki-10-item-academic-grit-scale-turkish-adaptation.md",
+"status":"review",
+"title":"Clark and Malecki 10-item Academic Grit Scale (Turkish adaptation)",
+"type":"product"
+},
+{
 "description":"A three-quarter introductory physics curriculum for bioscience majors, developed and run at UC Davis and implemented in other university settings.",
 "id":"clasp",
 "path":"products/clasp.md",
@@ -179445,6 +179549,14 @@
 "path":"products/classroom-organization-and-management-program.md",
 "status":"review",
 "title":"Classroom Organization and Management Program",
+"type":"product"
+},
+{
+"description":"A video-based assessment developed by Ramirez and colleagues that elicits and scores teachers' usable mathematical teaching knowledge through written analyses of authentic mathematics-instruction episodes.",
+"id":"classroom-video-analysis-cva-assessment",
+"path":"products/classroom-video-analysis-cva-assessment.md",
+"status":"review",
+"title":"Classroom Video Analysis (CVA) assessment",
 "type":"product"
 },
 {
@@ -179905,6 +180017,14 @@
 "type":"product"
 },
 {
+"description":"A corpus created by Montag Jessica L.",
+"id":"corpus-of-100-childrens-picture-books-68103-words",
+"path":"products/corpus-of-100-childrens-picture-books-68103-words.md",
+"status":"review",
+"title":"Corpus of 100 children's picture books (68,103 words)",
+"type":"product"
+},
+{
 "description":"A research corpus assembled and synthesized by Davis et al.",
 "id":"corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd",
 "path":"products/corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd.md",
@@ -180326,6 +180446,14 @@
 "path":"products/d3js.md",
 "status":"review",
 "title":"d3.js",
+"type":"product"
+},
+{
+"description":"A self-report subscale of the Racism and Life Experiences Scale that measures the frequency of everyday race-related discriminatory experiences, developed for research with adolescents and other populations.",
+"id":"daily-life-experiences-dle-scale",
+"path":"products/daily-life-experiences-dle-scale.md",
+"status":"review",
+"title":"Daily Life Experiences (DLE) scale",
 "type":"product"
 },
 {
@@ -181165,6 +181293,14 @@
 "type":"product"
 },
 {
+"description":"EISEL is an in-house LMS learning tool developed for the study that provides chapter-based question pools, randomized practice sets, immediate correctness feedback, and repeated practice for undergraduate MIS and information-technology learners.",
+"id":"eisel",
+"path":"products/eisel.md",
+"status":"review",
+"title":"EISEL",
+"type":"product"
+},
+{
 "description":"Eksploratoryòm is Suzanne Cole et al.'s Haitian Creole digital science curriculum for early-grade learners, using story-based, culturally relevant interactive lessons that integrate STEM, literacy, and social-emotional learning.",
 "id":"eksploratoryom",
 "path":"products/eksploratoryom.md",
@@ -181267,6 +181403,14 @@
 "path":"products/embodied-simulated-patient-training-application-for-act-oriented-psychotherapy-practice-wi.md",
 "status":"review",
 "title":"Embodied simulated-patient training application for ACT-oriented psychotherapy practice with spoken dialogue",
+"type":"product"
+},
+{
+"description":"Puranik et al.'s individually administered assessment battery measures preschoolers' conceptual, procedural, and generative emergent-writing skills through structured writing and language tasks.",
+"id":"emergent-writing-assessment-battery-of-conceptual-procedural-and-generative-subtests-for-p",
+"path":"products/emergent-writing-assessment-battery-of-conceptual-procedural-and-generative-subtests-for-p.md",
+"status":"review",
+"title":"Emergent writing assessment battery of conceptual, procedural, and generative subtests for preschoolers",
 "type":"product"
 },
 {
@@ -181600,6 +181744,14 @@
 "type":"product"
 },
 {
+"description":"A computer-based Stroop/Day-Night-adapted assessment for early primary school children that measures inhibitory control through 36 rule-reversal color-naming trials scored by accuracy.",
+"id":"extended-36-trial-red-blue-test",
+"path":"products/extended-36-trial-red-blue-test.md",
+"status":"review",
+"title":"Extended 36-trial Red-Blue Test",
+"type":"product"
+},
+{
 "description":"A dataset released by Josmario Albuquerque and colleagues containing 345 contextualized OER sentences annotated by 193 higher-education students for perceived ethnic bias, with contextual metadata, aggregate labels, bias scores, and reproducibility code.",
 "id":"extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude",
 "path":"products/extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude.md",
@@ -181829,6 +181981,14 @@
 "path":"products/five-item-pre-instruction-ai-perception-intake-survey.md",
 "status":"review",
 "title":"Five-item pre-instruction AI perception intake survey",
+"type":"product"
+},
+{
+"description":"A researcher-developed preschool emergent-writing assessment protocol comprising five writing tasks and task-tailored feature-based scoring, created by Puranik et al.",
+"id":"five-task-emergent-writing-assessment-protocol-with-feature-based-scoring-system",
+"path":"products/five-task-emergent-writing-assessment-protocol-with-feature-based-scoring-system.md",
+"status":"review",
+"title":"Five-task emergent writing assessment protocol with feature-based scoring system",
 "type":"product"
 },
 {
@@ -185333,6 +185493,14 @@
 "type":"product"
 },
 {
+"description":"A teacher-candidate performance assessment adapted from the Performance Assessment for California Teachers and implemented by a consortium of New Hampshire higher-education institutions to support candidate learning and assess readiness to teach.",
+"id":"new-hampshire-teacher-candidate-assessment-of-performance-nh-tcap",
+"path":"products/new-hampshire-teacher-candidate-assessment-of-performance-nh-tcap.md",
+"status":"review",
+"title":"New Hampshire Teacher Candidate Assessment of Performance (NH TCAP)",
+"type":"product"
+},
+{
 "description":"A school-based support programme for expectant and parenting teens, evaluated in Washington, DC, to improve students’ educational outcomes.",
 "id":"new-heights",
 "path":"products/new-heights.md",
@@ -185557,6 +185725,14 @@
 "type":"product"
 },
 {
+"description":"A speeded assessment developed by Moore et al.",
+"id":"number-sets-test",
+"path":"products/number-sets-test.md",
+"status":"review",
+"title":"Number Sets Test",
+"type":"product"
+},
+{
 "description":"An interactive NWEA Research dashboard that visualizes state-level MAP Growth achievement and projected proficiency data for the 2020–2021 school year to inform understanding of pandemic-related learning impacts and recovery.",
 "id":"nwea-covid-19-map-growth-data-visualization",
 "path":"products/nwea-covid-19-map-growth-data-visualization.md",
@@ -185762,6 +185938,14 @@
 "path":"products/once-early-reading-program.md",
 "status":"review",
 "title":"Once Early-Reading Program",
+"type":"product"
+},
+{
+"description":"A Web-based assessment system and battery of computerized cognitive and mathematical tasks developed for administering psychological and achievement measures to learners.",
+"id":"online-experimental-psychological-system-opes-computerized-cognitive-test-battery",
+"path":"products/online-experimental-psychological-system-opes-computerized-cognitive-test-battery.md",
+"status":"review",
+"title":"Online Experimental Psychological System (OPES) computerized cognitive test battery",
 "type":"product"
 },
 {
@@ -186026,6 +186210,14 @@
 "path":"products/parentpowered-ready4k.md",
 "status":"review",
 "title":"ParentPowered READY4K!",
+"type":"product"
+},
+{
+"description":"The PEACH is an interview-administered questionnaire developed by Ching and colleagues that uses parent observations and normative data to assess everyday functional communication in children with hearing loss and evaluate amplification effectiveness.",
+"id":"parents-evaluation-of-auraloral-performance-of-children-peach-questionnaire",
+"path":"products/parents-evaluation-of-auraloral-performance-of-children-peach-questionnaire.md",
+"status":"review",
+"title":"Parents’ Evaluation of Aural/oral performance of Children (PEACH) questionnaire",
 "type":"product"
 },
 {
@@ -186330,6 +186522,14 @@
 "path":"products/physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs.md",
 "status":"review",
 "title":"PhysicsMate benchmark of 1,834 curriculum-grounded Bengali physics QA pairs",
+"type":"product"
+},
+{
+"description":"A researcher-designed picture-based spelling assessment with phonological-plausibility scoring, developed by Geers and Hayes for adolescents with prelingual deafness and cochlear implants.",
+"id":"picture-spelling-test-with-phonological-plausibility-scoring",
+"path":"products/picture-spelling-test-with-phonological-plausibility-scoring.md",
+"status":"review",
+"title":"Picture Spelling Test with phonological plausibility scoring",
 "type":"product"
 },
 {
@@ -187772,6 +187972,14 @@
 "path":"products/selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations.md",
 "status":"review",
 "title":"SelfCode2.0 dataset of student and expert line-by-line code explanations",
+"type":"product"
+},
+{
+"description":"A 110-item assessment developed by Martínez-Alcalá and colleagues to measure older adults’ digital literacy and technological competencies across computer use, Internet use, and domestic and daily-life devices.",
+"id":"senior-digital-literacy-evaluation-sdle-instrument",
+"path":"products/senior-digital-literacy-evaluation-sdle-instrument.md",
+"status":"review",
+"title":"Senior Digital Literacy Evaluation (SDLE) instrument",
 "type":"product"
 },
 {
@@ -189937,6 +190145,14 @@
 "type":"product"
 },
 {
+"description":"A commercially available personal-computer implementation of the Useful Field of View test, developed and provided by the Visual Awareness Research Group to assess visual processing speed and attention.",
+"id":"ufov-test-software-visual-awareness-research-group",
+"path":"products/ufov-test-software-visual-awareness-research-group.md",
+"status":"review",
+"title":"UFOV test software (Visual Awareness Research Group)",
+"type":"product"
+},
+{
 "aliases":["unesco-ai-competency-framework-for-students"],
 "description":"A UNESCO framework that organizes 12 AI competencies for school students into four dimensions: human-centred mindset, ethics of AI, AI techniques and applications, and AI system design.",
 "id":"unesco-ai-competency-framework-for-school-students",
@@ -190754,6 +190970,7 @@
 "type":"research-method"
 },
 {
+"aliases":["student-development-agents"],
 "description":"Agent-based educational science (AES) is a research agenda in which educational theories are formalized as interacting agents and environments, enabling in silico experimentation on developmental processes.",
 "id":"agent-based-educational-science-aes",
 "path":"research-methods/agent-based-educational-science-aes.md",
@@ -191066,6 +191283,7 @@
 "type":"research-method"
 },
 {
+"aliases":["consortium-cohort-dropout-rate-calculation-procedure-for-cps"],
 "description":"The report calculates graduation and dropout rates by following student cohorts over multiple years using two cohort types.",
 "id":"cohort-based-graduation-and-dropout-rate-calculation",
 "path":"research-methods/cohort-based-graduation-and-dropout-rate-calculation.md",
@@ -191152,14 +191370,6 @@
 "path":"research-methods/consensus-calibration.md",
 "status":"review",
 "title":"Consensus calibration",
-"type":"research-method"
-},
-{
-"description":"A documented statistical procedure for computing comparable cohort dropout rates from administrative records.",
-"id":"consortium-cohort-dropout-rate-calculation-procedure-for-cps",
-"path":"research-methods/consortium-cohort-dropout-rate-calculation-procedure-for-cps.md",
-"status":"review",
-"title":"Consortium cohort dropout rate calculation procedure for CPS",
 "type":"research-method"
 },
 {
@@ -191339,6 +191549,7 @@
 "type":"research-method"
 },
 {
+"aliases":["exploratory-digital-learning-platform-data-analysis-for-research-planning"],
 "description":"The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress.",
 "id":"digital-learning-platform-process-data-analysis",
 "path":"research-methods/digital-learning-platform-process-data-analysis.md",
@@ -191384,14 +191595,6 @@
 "path":"research-methods/dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands.md",
 "status":"review",
 "title":"Dohn's three-level framework of competence demands applied to literacy demands",
-"type":"research-method"
-},
-{
-"description":"PTA's observation-extraction stage can run with generic prompts or with lenses that frame extraction around bodies of domain theory, such as self-regulated learning combined with ICAP for student-AI tutoring or SWEBOK knowledge areas for software engineering.",
-"id":"domain-theory-informed-lens-prompting-for-trait-discovery",
-"path":"research-methods/domain-theory-informed-lens-prompting-for-trait-discovery.md",
-"status":"review",
-"title":"Domain-theory-informed lens prompting for trait discovery",
 "type":"research-method"
 },
 {
@@ -191700,14 +191903,6 @@
 "type":"research-method"
 },
 {
-"description":"The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations.",
-"id":"exploratory-digital-learning-platform-data-analysis-for-research-planning",
-"path":"research-methods/exploratory-digital-learning-platform-data-analysis-for-research-planning.md",
-"status":"review",
-"title":"Exploratory digital learning platform data analysis for research planning",
-"type":"research-method"
-},
-{
 "description":"The paper extends Strobel et al.'s (2024) taxonomy of GenAI applications — originally derived from 100 commercial and professional applications — into a classification lens for educational settings.",
 "id":"extended-strobel-taxonomy-of-five-studentgenai-entanglement-types",
 "path":"research-methods/extended-strobel-taxonomy-of-five-studentgenai-entanglement-types.md",
@@ -191897,14 +192092,6 @@
 "path":"research-methods/five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items.md",
 "status":"review",
 "title":"Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items",
-"type":"research-method"
-},
-{
-"description":"The article co-constructed a set of five trustworthiness metrics comprising 20 quantitative measures tailored to pedagogical use.",
-"id":"five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in",
-"path":"research-methods/five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in.md",
-"status":"review",
-"title":"Five trustworthiness metrics comprising 20 measures for evaluating LLM trustworthiness in education",
 "type":"research-method"
 },
 {
@@ -192116,14 +192303,6 @@
 "type":"research-method"
 },
 {
-"description":"The Full Roster Method is one of three methods the article proposes for estimating teacher value added under co-teaching.",
-"id":"full-roster-method",
-"path":"research-methods/full-roster-method.md",
-"status":"review",
-"title":"Full Roster Method",
-"type":"research-method"
-},
-{
 "description":"The digest's recommendation set for teachers who plan similar projects: \\\"the following minimal conditions are suggested\\\" — theoretical teacher preparation, believing households contain abundant social and intellectual resources; home visits as participant-observers entering as learners; teacher labs",
 "id":"funds-of-knowledge",
 "path":"research-methods/funds-of-knowledge.md",
@@ -192228,14 +192407,7 @@
 "type":"research-method"
 },
 {
-"description":"The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables.",
-"id":"graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode",
-"path":"research-methods/graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode.md",
-"status":"review",
-"title":"Graphical model framework for junction-tree estimation of multidimensional IRT growth models",
-"type":"research-method"
-},
-{
+"aliases":["graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode"],
 "description":"The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations.",
 "id":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
 "path":"research-methods/graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models.md",
@@ -192444,14 +192616,6 @@
 "type":"research-method"
 },
 {
-"description":"The article rests on the idea that computer-based tests produce new forms of metadata, and that \\\"researchers have developed and validated procedures for using item response times to identify responses to items that are likely disengaged\\\".",
-"id":"item-response-time-analysis-for-detecting-test-disengagement",
-"path":"research-methods/item-response-time-analysis-for-detecting-test-disengagement.md",
-"status":"review",
-"title":"Item response-time analysis for detecting test disengagement",
-"type":"research-method"
-},
-{
 "description":"A two-step value-added estimation procedure, adapted from the teacher value-added literature, that produces teacher grade effects used to predict student outcomes.",
 "id":"jackknife-leave-one-year-out-empirical-bayes-estimation-of-teacher-grade-effects",
 "path":"research-methods/jackknife-leave-one-year-out-empirical-bayes-estimation-of-teacher-grade-effects.md",
@@ -192529,6 +192693,14 @@
 "path":"research-methods/large-scale-randomized-controlled-trial-design-for-evaluating-supplemental-literacy-curric.md",
 "status":"review",
 "title":"Large-scale randomized controlled trial design for evaluating supplemental literacy curricula",
+"type":"research-method"
+},
+{
+"description":"The article uses bivariate latent change score (LCS) models, which \\\"conceptualize differences between successive measurements as latent change factors,\\\" allowing within-subject change to be modeled via self-feedback (β) and coupling (γ) parameters.",
+"id":"latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories",
+"path":"research-methods/latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories.md",
+"status":"review",
+"title":"Latent change score (LCS) modeling framework for comparing developmental theories",
 "type":"research-method"
 },
 {
@@ -192700,14 +192872,6 @@
 "type":"research-method"
 },
 {
-"description":"The norming approach, employed previously in the course-specific MAP Growth Mathematics norming study (Thum & He, 2019), uses \\\"a multivariate true score model that accounts for the known imprecision of scores from the fall, winter, and spring terms.\\\" Observed scores are decomposed into true scores a",
-"id":"model-based-multivariate-true-score-norming-procedure",
-"path":"research-methods/model-based-multivariate-true-score-norming-procedure.md",
-"status":"review",
-"title":"Model-based multivariate true score norming procedure",
-"type":"research-method"
-},
-{
 "description":"The article presents a heuristic contrasting two ways of understanding models in science.",
 "id":"models-of-versus-models-for-heuristic",
 "path":"research-methods/models-of-versus-models-for-heuristic.md",
@@ -192780,19 +192944,12 @@
 "type":"research-method"
 },
 {
+"aliases":["multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection"],
 "description":"Multimodal analysis is one of three methodological advances the report highlights, defined as \\\"Integrating multiple streams of data, such as audio, video, eye gaze, sensors, and clickstream data.\\\" The introduction elaborates it as \\\"the study of learning with data streams that include physical moveme",
 "id":"multimodal-analysis",
 "path":"research-methods/multimodal-analysis.md",
 "status":"review",
 "title":"Multimodal analysis",
-"type":"research-method"
-},
-{
-"description":"A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligne",
-"id":"multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection",
-"path":"research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection.md",
-"status":"review",
-"title":"Multimodal classroom-video analysis for teacher–student interaction detection",
 "type":"research-method"
 },
 {
@@ -192812,6 +192969,7 @@
 "type":"research-method"
 },
 {
+"aliases":["model-based-multivariate-true-score-norming-procedure"],
 "description":"The report uses a model-based approach in which observed scores are decomposed into true scores and error scores, with the standard error of measurement introduced so that imprecision of observed scores is accounted for.",
 "id":"multivariate-true-score-model-for-achievement-and-growth-norming",
 "path":"research-methods/multivariate-true-score-model-for-achievement-and-growth-norming.md",
@@ -192833,6 +192991,14 @@
 "path":"research-methods/narrative-inquiry.md",
 "status":"review",
 "title":"Narrative inquiry",
+"type":"research-method"
+},
+{
+"description":"The negative priming paradigm, originally designed by Tipper (1985), rests on the logic that \\\"if a distractor (or a strategy) is inhibited on a given item (i.e., the prime), then its activation on the following item (i.e., the probe) should be disrupted\\\".",
+"id":"negative-priming-paradigm-adapted-to-misleading-strategies",
+"path":"research-methods/negative-priming-paradigm-adapted-to-misleading-strategies.md",
+"status":"review",
+"title":"Negative priming paradigm adapted to misleading strategies",
 "type":"research-method"
 },
 {
@@ -192956,14 +193122,6 @@
 "type":"research-method"
 },
 {
-"description":"The Partial Credit Method is one of three methods the article proposes for estimating teacher value added when students are co-taught.",
-"id":"partial-credit-method",
-"path":"research-methods/partial-credit-method.md",
-"status":"review",
-"title":"Partial Credit Method",
-"type":"research-method"
-},
-{
 "description":"The article proposes modelling educational tests as partially specified structural causal models in which observable endogenous variables (answers and hint usage) are generated by latent exogenous variables.",
 "id":"partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment",
 "path":"research-methods/partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment.md",
@@ -193076,6 +193234,7 @@
 "type":"research-method"
 },
 {
+"aliases":["domain-theory-informed-lens-prompting-for-trait-discovery"],
 "description":"PTA is a data-driven methodology that \\\"produces a representative set of textual descriptions we callprincipal traitsfrom a corpus of human collaborator-AI collaborative conversation sessions.\\\" It runs four stages: LLM-prompted behavior-observation extraction (generic or theory-lens), embedding-based",
 "id":"principal-trait-analysis-pta",
 "path":"research-methods/principal-trait-analysis-pta.md",
@@ -193260,6 +193419,7 @@
 "type":"research-method"
 },
 {
+"aliases":["response-time-classification-of-rapid-guessing-versus-solution-behavior"],
 "description":"This framework identifies disengaged item responses on computer-based tests using response times—the seconds between item presentation and answer.",
 "id":"rapid-guessing-detection-using-item-response-time-thresholds",
 "path":"research-methods/rapid-guessing-detection-using-item-response-time-thresholds.md",
@@ -193273,14 +193433,6 @@
 "path":"research-methods/rasch-rating-scale-analysis-for-deriving-educational-survey-measures.md",
 "status":"review",
 "title":"Rasch rating-scale analysis for deriving educational survey measures",
-"type":"research-method"
-},
-{
-"description":"The study's design uses student-level data drawn from a large-scale randomized controlled trial of charter schools as a benchmark against which nonexperimental regression and propensity score estimators are tested for bias.",
-"id":"rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators",
-"path":"research-methods/rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators.md",
-"status":"review",
-"title":"RCT-benchmark design for validating nonexperimental charter-school estimators",
 "type":"research-method"
 },
 {
@@ -193340,14 +193492,6 @@
 "type":"research-method"
 },
 {
-"description":"The article develops a replication method for within-study comparisons in settings with control-group noncompliance.",
-"id":"replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat",
-"path":"research-methods/replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat.md",
-"status":"review",
-"title":"Replication approach comparing nonexperimental estimates to experimental ITT estimates rather than CACE",
-"type":"research-method"
-},
-{
 "description":"A controlled holdout benchmark of 480 synthetic queries (369 injection, 111 benign) covering six attack families, with stratified bootstrap confidence intervals, paired McNemar tests, and multi-seed sensitivity sweeps, plus unified head-to-head adapter measurements.",
 "id":"reproducible-educational-llm-guardrails-benchmark-and-evaluation-protocol",
 "path":"research-methods/reproducible-educational-llm-guardrails-benchmark-and-evaluation-protocol.md",
@@ -193356,19 +193500,12 @@
 "type":"research-method"
 },
 {
+"aliases":["item-response-time-analysis-for-detecting-test-disengagement"],
 "description":"The chapter describes a capability for identifying test taker disengagement using response time, which underlies its analysis of what happens when test takers disengage and how disengagement should be managed during scoring.",
 "id":"response-time-based-detection-of-test-taker-disengagement",
 "path":"research-methods/response-time-based-detection-of-test-taker-disengagement.md",
 "status":"review",
 "title":"Response-time-based detection of test taker disengagement",
-"type":"research-method"
-},
-{
-"description":"Computer-based testing enables measuring examinee effort through response times: \\\"At the item level, responses can be classified as exhibiting either rapid-guessing behavior or solution behavior based on the item response time.\\\" This study applied that classification approach to a commercially avail",
-"id":"response-time-classification-of-rapid-guessing-versus-solution-behavior",
-"path":"research-methods/response-time-classification-of-rapid-guessing-versus-solution-behavior.md",
-"status":"review",
-"title":"Response-time classification of rapid-guessing versus solution behavior",
 "type":"research-method"
 },
 {
@@ -193449,14 +193586,6 @@
 "path":"research-methods/schochets-guidelines-for-handling-multiple-testing-in-education-research.md",
 "status":"review",
 "title":"Schochet's guidelines for handling multiple testing in education research",
-"type":"research-method"
-},
-{
-"description":"Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative.",
-"id":"school-value-added-modeling",
-"path":"research-methods/school-value-added-modeling.md",
-"status":"review",
-"title":"School value-added modeling",
 "type":"research-method"
 },
 {
@@ -193732,14 +193861,6 @@
 "type":"research-method"
 },
 {
-"description":"Student Development Agents are the article's concrete instantiation of AES: \\\"computational agents designed to generate developmental features under counterfactual educational environments.\\\" They serve as simulated learners whose developmental trajectories can be examined in silico, allowing educatio",
-"id":"student-development-agents",
-"path":"research-methods/student-development-agents.md",
-"status":"review",
-"title":"Student Development Agents",
-"type":"research-method"
-},
-{
 "description":"A Student Digital Twin is defined as \\\"a continuously evolving model of an individual learner's academic performance, learning behavior, career interests, degree progression, financial circumstances, co-curricular engagement, and workforce preparedness.\\\" Its purpose is \\\"to simulate\\\": answering counte",
 "id":"student-digital-twin",
 "path":"research-methods/student-digital-twin.md",
@@ -193809,14 +193930,6 @@
 "path":"research-methods/synthetic-benchmark-development-and-stress-testing-for-trace-based-learning-analytics-eval.md",
 "status":"review",
 "title":"Synthetic benchmark development and stress-testing for trace-based learning-analytics evaluation",
-"type":"research-method"
-},
-{
-"description":"A methodological artifact in which the authors \\\"generate synthetic RD data sets from experimental data sets\\\" from two recent evaluations of educational interventions—the Educational Technology Study and the Teach for America Study—and \\\"compare the RD impact estimates to the experimental estimates of",
-"id":"synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc",
-"path":"research-methods/synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc.md",
-"status":"review",
-"title":"Synthetic within-study comparison design for assessing regression discontinuity performance",
 "type":"research-method"
 },
 {
@@ -194012,6 +194125,14 @@
 "type":"research-method"
 },
 {
+"description":"An observational coding system in which thinking-aloud protocols are analyzed for spontaneous metacognitive activities during math problem solving.",
+"id":"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness",
+"path":"research-methods/thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness.md",
+"status":"review",
+"title":"Thinking-aloud protocol scoring system for math metacognitive skillfulness",
+"type":"research-method"
+},
+{
 "description":"The Thinking Through AI framework is a methodological approach integrating cyber-social research with cognitive labs and think-aloud protocols to create continuous feedback loops in AI tool development.",
 "id":"thinking-through-ai-framework",
 "path":"research-methods/thinking-through-ai-framework.md",
@@ -194132,6 +194253,7 @@
 "type":"research-method"
 },
 {
+"aliases":["full-roster-method","partial-credit-method"],
 "description":"The article organizes the problem of modeling value added \\\"when the same student is taught the same subject by multiple teachers\\\" into three named methods: the Partial Credit Method, the Teacher Team Method, and the Full Roster Method.",
 "id":"three-method-framework-for-accounting-for-co-teaching-in-value-added-models",
 "path":"research-methods/three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md",
@@ -194324,6 +194446,7 @@
 "type":"research-method"
 },
 {
+"aliases":["five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in"],
 "description":"The article proposes adapting trustworthiness criteria from the ML community as a structured lens for LLM evaluation in education.",
 "id":"trustworthiness-lens-for-evaluating-llms-in-education",
 "path":"research-methods/trustworthiness-lens-for-evaluating-llms-in-education.md",
@@ -194436,6 +194559,7 @@
 "type":"research-method"
 },
 {
+"aliases":["school-value-added-modeling"],
 "description":"Value-added measures quantify a teacher's contribution to students' learning gains.",
 "id":"value-added-modeling",
 "path":"research-methods/value-added-modeling.md",
@@ -194508,6 +194632,7 @@
 "type":"research-method"
 },
 {
+"aliases":["rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators","replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat","synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc"],
 "description":"A within-study comparison examines \\\"whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments.\\\" The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a rand",
 "id":"within-study-comparison-wsc-methodology",
 "path":"research-methods/within-study-comparison-wsc-methodology.md",
@@ -270999,6 +271124,7 @@
 "assessment-resisting-unattributed-automation":"assessment-resisting-unattributed-automation",
 "assessment-twins-dual-linked-components":"assessment-twins-dual-linked-components",
 "assistments-vplc-teacher-training-element":"assistments-vplc-teacher-training-element",
+"assure-instructional-model-digital-literacy":"assure-instructional-model-digital-literacy",
 "auditability-principle-seven-part-workflow-anatomy":"auditability-principle-seven-part-workflow-anatomy",
 "augmented-bow-hold-aid-force-mapping":"augmented-bow-hold-aid-force-mapping",
 "augmented-bow-track-graded-friction":"augmented-bow-track-graded-friction",
@@ -271013,6 +271139,7 @@
 "bioart-boundary-crossing-making":"bioart-boundary-crossing-making",
 "biology-learning-chatbot-system":"biology-learning-chatbot-system",
 "biweekly-homeroom-small-communities":"biweekly-homeroom-small-communities",
+"black-girls-interview-protocol-codebook":"black-girls-interview-protocol-codebook",
 "black-male-teacher-fellowship-program":"black-male-teacher-fellowship-program",
 "blended-funding-classroom-alignment-lindsay":"blended-funding-classroom-alignment-lindsay",
 "blind-turing-test-legal-exam-evaluation-protocol":"blind-turing-test-legal-exam-evaluation-protocol",
@@ -271050,6 +271177,7 @@
 "chatgpt-integrated-feedback-aid-vr-iot":"chatgpt-integrated-feedback-aid-vr-iot",
 "chatgpt-prompt-framework-childrens-art-teachers":"chatgpt-prompt-framework-childrens-art-teachers",
 "chatgpt-starting-point-cross-validation-activity":"chatgpt-starting-point-cross-validation-activity",
+"child-creativity-gc-gf-ef-measure-battery":"child-creativity-gc-gf-ef-measure-battery",
 "child-friendly-chatbot-design-considerations":"child-friendly-chatbot-design-considerations",
 "clasp-dl-activity-cycle":"clasp-dl-activity-cycle",
 "classroom-proof-assistant-design-criteria":"classroom-proof-assistant-design-criteria",
@@ -271080,6 +271208,7 @@
 "conceptual-model-cultural-contextual-discussion-behaviors":"conceptual-model-cultural-contextual-discussion-behaviors",
 "conditions-for-equitable-learning-and-development-three-categories":"conditions-for-equitable-learning-and-development-three-categories",
 "conditions-for-successful-coaching-implementation":"conditions-for-successful-coaching-implementation",
+"constrained-production-tasks-limited-vocabulary":"constrained-production-tasks-limited-vocabulary",
 "constructionism-imagineering-process-metaverse":"constructionism-imagineering-process-metaverse",
 "constructive-alignment-genai-embedding-extension":"constructive-alignment-genai-embedding-extension",
 "constructivist-model-reconstruction-course-pattern":"constructivist-model-reconstruction-course-pattern",
@@ -271181,6 +271310,7 @@
 "epic-michigan-district-covid-response-study":"epic-michigan-district-covid-response-study",
 "episode-memory-versioned-erd-states":"episode-memory-versioned-erd-states",
 "er-course-graded-readers-book-reports":"er-course-graded-readers-book-reports",
+"eriksen-1974-nonsearch-flanker-paradigm-element":"eriksen-1974-nonsearch-flanker-paradigm-element",
 "estudio-mixto-audio-tutorias-seis-docentes":"estudio-mixto-audio-tutorias-seis-docentes",
 "esylvan-mapping-to-bandura-requirements":"esylvan-mapping-to-bandura-requirements",
 "etf-forecasting-pipeline-sentiment-dataset":"etf-forecasting-pipeline-sentiment-dataset",
@@ -271221,6 +271351,7 @@
 "five-stage-spoken-learning-loop":"five-stage-spoken-learning-loop",
 "five-step-glt-prompting-framework":"five-step-glt-prompting-framework",
 "five-unit-field-trip-arc-riparian":"five-unit-field-trip-arc-riparian",
+"fixation-star-lexical-processing-task-noun-verb":"fixation-star-lexical-processing-task-noun-verb",
 "flexible-hypertext-course-design-pattern":"flexible-hypertext-course-design-pattern",
 "flexible-individualistic-pjbl-course-e":"flexible-individualistic-pjbl-course-e",
 "flipped-genai-studio-integration-framework":"flipped-genai-studio-integration-framework",
@@ -271499,6 +271630,7 @@
 "principled-resistance-dual-gatekeeping":"principled-resistance-dual-gatekeeping",
 "proficiency-sensitive-barrier-support-mapping-eap":"proficiency-sensitive-barrier-support-mapping-eap",
 "program-wide-portfolio-assessment-composition":"program-wide-portfolio-assessment-composition",
+"progressive-balance-circuit-training-pattern":"progressive-balance-circuit-training-pattern",
 "progressive-ecoach-digital-exercise-pattern":"progressive-ecoach-digital-exercise-pattern",
 "project-cal-well-three-component-model":"project-cal-well-three-component-model",
 "prompt-literacy-cycle":"prompt-literacy-cycle",
@@ -271623,6 +271755,7 @@
 "sustain-shcs-county-base-alongside-billing-initiatives":"sustain-shcs-county-base-alongside-billing-initiatives",
 "sustainable-development-pedagogy-sdp-model":"sustainable-development-pedagogy-sdp-model",
 "symbiosis-theory-human-ai-role-design":"symbiosis-theory-human-ai-role-design",
+"tablet-dictation-40-words-orthographic-graphic-complexity":"tablet-dictation-40-words-orthographic-graphic-complexity",
 "tandem-radar-simulation-2x2x2-active-learning-experiment":"tandem-radar-simulation-2x2x2-active-learning-experiment",
 "tasd-teacher-authored-prompt-orchestration":"tasd-teacher-authored-prompt-orchestration",
 "tdaa-test-driven-ai-assisted-pattern":"tdaa-test-driven-ai-assisted-pattern",
@@ -273558,6 +273691,7 @@
 "aacte-and-westat-pilot-survey-of-beginning-teachers-and-their-supervisors":"aacte-and-westat-pilot-survey-of-beginning-teachers-and-their-supervisors",
 "aarp-foundation-experience-corps":"aarp-foundation-experience-corps",
 "aasee-framework":"aasee-framework",
+"abbreviated-12-item-ravens-progressive-matrices-assessment":"abbreviated-12-item-ravens-progressive-matrices-assessment",
 "abbreviated-acceptability-rating-profile-aarp":"abbreviated-acceptability-rating-profile-aarp",
 "absence-reports":"absence-reports",
 "academic-integrity-indicator-framework-130-items-organised-under-eight-dimensions-of-acade":"academic-integrity-indicator-framework-130-items-organised-under-eight-dimensions-of-acade",
@@ -273571,6 +273705,7 @@
 "achieve3000":"achieve3000",
 "ada":"ada",
 "adapt":"adapt",
+"adapted-15-item-internet-skills-scale":"adapted-15-item-internet-skills-scale",
 "adapted-stories":"adapted-stories",
 "adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction":"adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction",
 "adaptive-through-year-assessment-atya":"adaptive-through-year-assessment-atya",
@@ -273648,6 +273783,7 @@
 "asu-createai-chat-platform":"asu-createai-chat-platform",
 "asyncform-af-dataset":"asyncform-af-dataset",
 "ati-up":"ati-up",
+"attachment-and-biobehavioral-catch-up-abc-intervention":"attachment-and-biobehavioral-catch-up-abc-intervention",
 "attitude-scale-towards-scientific-knowledge-sks":"attitude-scale-towards-scientific-knowledge-sks",
 "attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts":"attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts",
 "augustus-f-hawkins-center-for-excellence-grant-program":"augustus-f-hawkins-center-for-excellence-grant-program",
@@ -273750,6 +273886,7 @@
 "chicago-public-schools-three-pronged-theory-of-change":"chicago-public-schools-three-pronged-theory-of-change",
 "children-and-youth-behavioral-health-initiative-cybhi":"children-and-youth-behavioral-health-initiative-cybhi",
 "childrens-progress-academic-assessment":"childrens-progress-academic-assessment",
+"chinese-version-of-the-sleep-self-report-ssr":"chinese-version-of-the-sleep-self-report-ssr",
 "chiu-et-al-2022-12-chapter-school-based-ai-curriculum":"chiu-et-al-2022-12-chapter-school-based-ai-curriculum",
 "chormmunity":"chormmunity",
 "chula-vista-promise-neighborhood":"chula-vista-promise-neighborhood",
@@ -273762,9 +273899,11 @@
 "claas-cybersecurity-labs-as-a-service":"claas-cybersecurity-labs-as-a-service",
 "clara-collaboration-literacy-through-artifact-reasoning-and-augmentation":"clara-collaboration-literacy-through-artifact-reasoning-and-augmentation",
 "claremont-critical-social-justice-teaching-competencies":"claremont-critical-social-justice-teaching-competencies",
+"clark-and-malecki-10-item-academic-grit-scale-turkish-adaptation":"clark-and-malecki-10-item-academic-grit-scale-turkish-adaptation",
 "clasp":"clasp",
 "classroom-assessment-scoring-system-pre-k-class-pre-k":"classroom-assessment-scoring-system-pre-k-class-pre-k",
 "classroom-organization-and-management-program":"classroom-organization-and-management-program",
+"classroom-video-analysis-cva-assessment":"classroom-video-analysis-cva-assessment",
 "classtime":"classtime",
 "classwide-peer-tutoring":"classwide-peer-tutoring",
 "classworks":"classworks",
@@ -273823,6 +273962,7 @@
 "conversation-based-assessment-chat-log-corpus":"conversation-based-assessment-chat-log-corpus",
 "cooperative-integrated-reading-and-composition":"cooperative-integrated-reading-and-composition",
 "core-plus-mathematics":"core-plus-mathematics",
+"corpus-of-100-childrens-picture-books-68103-words":"corpus-of-100-childrens-picture-books-68103-words",
 "corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd":"corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd",
 "corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520":"corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520",
 "corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis":"corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis",
@@ -273878,6 +274018,7 @@
 "cyberagents":"cyberagents",
 "cyberscholar":"cyberscholar",
 "d3js":"d3js",
+"daily-life-experiences-dle-scale":"daily-life-experiences-dle-scale",
 "daisyquest":"daisyquest",
 "dana-center-mathematics-pathways":"dana-center-mathematics-pathways",
 "dash4emotion":"dash4emotion",
@@ -273983,6 +274124,7 @@
 "effective-practice-incentive-community-epic-school-award-program":"effective-practice-incentive-community-epic-school-award-program",
 "eight-proposed-cresst-assessment-tools":"eight-proposed-cresst-assessment-tools",
 "eight-scale-instrument-for-classifying-teaching-style":"eight-scale-instrument-for-classifying-teaching-style",
+"eisel":"eisel",
 "eksploratoryom":"eksploratoryom",
 "el-education":"el-education",
 "el-educations-teacher-potential-project-tpp":"el-educations-teacher-potential-project-tpp",
@@ -273996,6 +274138,7 @@
 "ellevation-education-student-level-el-records-database":"ellevation-education-student-level-el-records-database",
 "ellmplus-curriculum":"ellmplus-curriculum",
 "embodied-simulated-patient-training-application-for-act-oriented-psychotherapy-practice-wi":"embodied-simulated-patient-training-application-for-act-oriented-psychotherapy-practice-wi",
+"emergent-writing-assessment-battery-of-conceptual-procedural-and-generative-subtests-for-p":"emergent-writing-assessment-battery-of-conceptual-procedural-and-generative-subtests-for-p",
 "emerging-technology-adoption-framework":"emerging-technology-adoption-framework",
 "emints":"emints",
 "emotion-socialization-observation-scale-esos":"emotion-socialization-observation-scale-esos",
@@ -274040,6 +274183,7 @@
 "expert-vetted-assessment-suite-of-gui-oriented-vibe-coding-tasks-with-scoring-criteria":"expert-vetted-assessment-suite-of-gui-oriented-vibe-coding-tasks-with-scoring-criteria",
 "expository-reading-and-writing-course-erwc":"expository-reading-and-writing-course-erwc",
 "expository-reading-and-writing-curriculum-erwc":"expository-reading-and-writing-course-erwc",
+"extended-36-trial-red-blue-test":"extended-36-trial-red-blue-test",
 "extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude":"extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude",
 "facing-history-and-ourselves":"facing-history-and-ourselves",
 "factria-aware-chatbot":"factria-aware-chatbot",
@@ -274069,6 +274213,7 @@
 "five-fundamental-elements-of-a-high-quality-education-system":"five-fundamental-elements-of-a-high-quality-education-system",
 "five-goal-state-policy-framework-for-increasing-educator-workforce-diversity":"five-goal-state-policy-framework-for-increasing-educator-workforce-diversity",
 "five-item-pre-instruction-ai-perception-intake-survey":"five-item-pre-instruction-ai-perception-intake-survey",
+"five-task-emergent-writing-assessment-protocol-with-feature-based-scoring-system":"five-task-emergent-writing-assessment-protocol-with-feature-based-scoring-system",
 "five-year-longitudinal-cohort-dataset-of-4228-students-assessed-up-to-three-times-per-year":"five-year-longitudinal-cohort-dataset-of-4228-students-assessed-up-to-three-times-per-year",
 "five-year-twitter-corpus-14201-tweets-with-setfit-sentiment-classifier-and-bertopic-modell":"five-year-twitter-corpus-14201-tweets-with-setfit-sentiment-classifier-and-bertopic-modell",
 "flashlight360":"flashlight360",
@@ -274511,6 +274656,7 @@
 "nevada-mri-menu-of-more-rigorous-interventions-for-csi-schools":"nevada-mri-menu-of-more-rigorous-interventions-for-csi-schools",
 "nevadas-grad-score":"nevadas-grad-score",
 "new-chance":"new-chance",
+"new-hampshire-teacher-candidate-assessment-of-performance-nh-tcap":"new-hampshire-teacher-candidate-assessment-of-performance-nh-tcap",
 "new-heights":"new-heights",
 "new-jersey-statewide-principal-evaluation-system":"new-jersey-statewide-principal-evaluation-system",
 "new-leaders":"new-leaders",
@@ -274539,6 +274685,7 @@
 "nsf-proposal-analytic-dataset":"nsf-proposal-analytic-dataset",
 "nsmq-riddles":"nsmq-riddles",
 "number-rockets":"number-rockets",
+"number-sets-test":"number-sets-test",
 "nwea-covid-19-map-growth-data-visualization":"nwea-covid-19-map-growth-data-visualization",
 "nwea-map-growth":"map-growth",
 "nwea-map-growth-202223-achievement-dataset":"nwea-map-growth-202223-achievement-dataset",
@@ -274566,6 +274713,7 @@
 "omniedu-capability-oriented-instruction-tuning-corpus":"omniedu-capability-oriented-instruction-tuning-corpus",
 "on-the-rise-academy":"on-the-rise-academy",
 "once-early-reading-program":"once-early-reading-program",
+"online-experimental-psychological-system-opes-computerized-cognitive-test-battery":"online-experimental-psychological-system-opes-computerized-cognitive-test-battery",
 "online-figurative-assessment-tool-measuring-six-inductive-reasoning-processes":"online-figurative-assessment-tool-measuring-six-inductive-reasoning-processes",
 "onramps":"onramps",
 "onyourmark":"onyourmark",
@@ -274599,6 +274747,7 @@
 "parent-teacher-home-visits-pthv":"parent-teacher-home-visits-pthv",
 "parentcorps":"parentcorps",
 "parentpowered-ready4k":"parentpowered-ready4k",
+"parents-evaluation-of-auraloral-performance-of-children-peach-questionnaire":"parents-evaluation-of-auraloral-performance-of-children-peach-questionnaire",
 "partners-for-algorithmic-literacy-pal":"partners-for-algorithmic-literacy-pal",
 "partnership-for-21st-century-skills-p21-framework":"partnership-for-21st-century-skills-p21-framework",
 "passport-to-literacy":"passport-to-literacy",
@@ -274637,6 +274786,7 @@
 "phonological-awareness-lessons":"phonological-awareness-lessons",
 "physics-playground":"physics-playground",
 "physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs":"physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs",
+"picture-spelling-test-with-phonological-plausibility-scoring":"picture-spelling-test-with-phonological-plausibility-scoring",
 "pinpoint-learning-mock-exam-dataset-of-119034-uk-students-across-13-national-level-mock-ex":"pinpoint-learning-mock-exam-dataset-of-119034-uk-students-across-13-national-level-mock-ex",
 "pirate-math":"pirate-math",
 "pivot":"pivot",
@@ -274820,6 +274970,7 @@
 "self-determined-learning-model-of-instruction":"self-determined-learning-model-of-instruction",
 "self-regulated-strategy-development-srsd":"self-regulated-strategy-development-srsd",
 "selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations":"selfcode20-dataset-of-student-and-expert-line-by-line-code-explanations",
+"senior-digital-literacy-evaluation-sdle-instrument":"senior-digital-literacy-evaluation-sdle-instrument",
 "sensenablr":"sensenablr",
 "sensory-profile":"sensory-profile",
 "sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thinkarm-annotati":"sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thinkarm-annotati",
@@ -275095,6 +275246,7 @@
 "uchicago-consortiums-research-practice-partnership-model":"uchicago-consortiums-research-practice-partnership-model",
 "ucla-impact-ecemultiple-subject-program":"ucla-impact-ecemultiple-subject-program",
 "ucsmp-secondary-mathematics-curriculum":"ucsmp-secondary-mathematics-curriculum",
+"ufov-test-software-visual-awareness-research-group":"ufov-test-software-visual-awareness-research-group",
 "unesco-ai-competency-framework-for-school-students":"unesco-ai-competency-framework-for-school-students",
 "unesco-ai-competency-framework-for-students":"unesco-ai-competency-framework-for-school-students",
 "unesco-ai-competency-framework-for-teachers":"unesco-ai-competency-framework-for-teachers",
@@ -275251,7 +275403,7 @@
 "conceptual-framework-for-online-learning-along-three-dimensions-replacement-vs-enhancement":"conceptual-framework-for-online-learning-along-three-dimensions-replacement-vs-enhancement",
 "confidence-aware-selective-automated-scoring-framework":"confidence-aware-selective-automated-scoring-framework",
 "consensus-calibration":"consensus-calibration",
-"consortium-cohort-dropout-rate-calculation-procedure-for-cps":"consortium-cohort-dropout-rate-calculation-procedure-for-cps",
+"consortium-cohort-dropout-rate-calculation-procedure-for-cps":"cohort-based-graduation-and-dropout-rate-calculation",
 "construct-evaluation-framework":"construct-evaluation-framework",
 "constructivist-three-role-taxonomy-of-learner-generated-questions":"constructivist-three-role-taxonomy-of-learner-generated-questions",
 "contextual-similarity-scoring-model-for-automated-essay-grading":"contextual-similarity-scoring-model-for-automated-essay-grading",
@@ -275280,7 +275432,7 @@
 "discrimination-index-q-matrix-validation-for-cognitive-diagnostic-models":"discrimination-index-q-matrix-validation-for-cognitive-diagnostic-models",
 "dmo-gru-hybrid-student-performance-prediction-method":"dmo-gru-hybrid-student-performance-prediction-method",
 "dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands":"dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands",
-"domain-theory-informed-lens-prompting-for-trait-discovery":"domain-theory-informed-lens-prompting-for-trait-discovery",
+"domain-theory-informed-lens-prompting-for-trait-discovery":"principal-trait-analysis-pta",
 "dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o":"dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o",
 "dynamical-systems-analysis-of-intelligent-tutoring-system-process-data":"dynamical-systems-analysis-of-intelligent-tutoring-system-process-data",
 "dynemb-knowledge-tracing-framework":"dynemb-knowledge-tracing-framework",
@@ -275320,7 +275472,7 @@
 "expert-panel-interpretation-of-compiled-educational-evidence":"expert-panel-interpretation-of-compiled-educational-evidence",
 "expert-performance-approach":"expert-performance-approach",
 "explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe":"explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe",
-"exploratory-digital-learning-platform-data-analysis-for-research-planning":"exploratory-digital-learning-platform-data-analysis-for-research-planning",
+"exploratory-digital-learning-platform-data-analysis-for-research-planning":"digital-learning-platform-process-data-analysis",
 "extended-strobel-taxonomy-of-five-studentgenai-entanglement-types":"extended-strobel-taxonomy-of-five-studentgenai-entanglement-types",
 "extended-taxonomy-design-process-etdp":"extended-taxonomy-design-process-etdp",
 "facets-framework":"facets-framework",
@@ -275345,7 +275497,7 @@
 "five-part-scope-framework-for-post-exercise-automated-team-assessment-in-ttxs":"five-part-scope-framework-for-post-exercise-automated-team-assessment-in-ttxs",
 "five-pattern-taxonomy-of-ai-use-learning-behavior":"five-pattern-taxonomy-of-ai-use-learning-behavior",
 "five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items":"five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items",
-"five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in":"five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in",
+"five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in":"trustworthiness-lens-for-evaluating-llms-in-education",
 "five-usage-codes-for-ai-in-higher-education":"five-usage-codes-for-ai-in-higher-education",
 "forcing-variable-integrity-checks-in-regression-discontinuity-designs":"forcing-variable-integrity-checks-in-regression-discontinuity-designs",
 "formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq":"formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq",
@@ -275372,7 +275524,7 @@
 "four-step-methodological-framework-for-measuring-llm-alignment-to-intended-impact-in-high":"four-step-methodological-framework-for-measuring-llm-alignment-to-intended-impact-in-high",
 "framework-of-computer-based-scaffolding-design-characteristics-and-moderators":"framework-of-computer-based-scaffolding-design-characteristics-and-moderators",
 "fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval":"fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval",
-"full-roster-method":"full-roster-method",
+"full-roster-method":"three-method-framework-for-accounting-for-co-teaching-in-value-added-models",
 "funds-of-knowledge":"funds-of-knowledge",
 "game-based-assessment-gba-model":"game-based-assessment-gba-model",
 "game-telemetry-as-systematic-behavioral-observation-for-learning-inference":"game-telemetry-as-systematic-behavioral-observation-for-learning-inference",
@@ -275386,7 +275538,7 @@
 "graduated-assessment-rubric-separating-answer-correctness-from-method-validity":"graduated-assessment-rubric-separating-answer-correctness-from-method-validity",
 "graesser-et-al-question-taxonomy-adapted-to-student-ai-programming-interactions":"graesser-et-al-question-taxonomy-adapted-to-student-ai-programming-interactions",
 "graph-theory-based-passage-equating-for-wcpm-scores":"graph-theory-based-passage-equating-for-wcpm-scores",
-"graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode":"graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode",
+"graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
 "graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
 "harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g":"harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g",
 "hattie-and-timperleys-feedback-model":"hattie-and-timperleys-feedback-model",
@@ -275413,7 +275565,7 @@
 "isd-task-analysis-approach":"isd-task-analysis-approach",
 "item-characteristic-curve-unsigned-area-method-for-dif-detection-under-item-response-theor":"item-characteristic-curve-unsigned-area-method-for-dif-detection-under-item-response-theor",
 "item-response-time-analysis-as-response-process-metadata":"item-response-time-analysis-as-response-process-metadata",
-"item-response-time-analysis-for-detecting-test-disengagement":"item-response-time-analysis-for-detecting-test-disengagement",
+"item-response-time-analysis-for-detecting-test-disengagement":"response-time-based-detection-of-test-taker-disengagement",
 "jackknife-leave-one-year-out-empirical-bayes-estimation-of-teacher-grade-effects":"jackknife-leave-one-year-out-empirical-bayes-estimation-of-teacher-grade-effects",
 "joint-glmm-model-for-irt-estimation-with-collateral-information":"joint-glmm-model-for-irt-estimation-with-collateral-information",
 "joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem":"joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem",
@@ -275424,6 +275576,7 @@
 "kt-grounded-simulated-learner":"kt-grounded-simulated-learner",
 "l-statistic":"l-statistic",
 "large-scale-randomized-controlled-trial-design-for-evaluating-supplemental-literacy-curric":"large-scale-randomized-controlled-trial-design-for-evaluating-supplemental-literacy-curric",
+"latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories":"latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories",
 "latent-class-forest":"latent-class-forest",
 "latent-score-linking-method":"latent-score-linking-method",
 "latent-structural-readiness-space-for-digital-and-ai-transformation":"latent-structural-readiness-space-for-digital-and-ai-transformation",
@@ -275445,7 +275598,7 @@
 "messicks-seven-facets-of-validity":"messicks-seven-facets-of-validity",
 "metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat":"metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat",
 "mobile-eye-gaze-recording-methods-electrooculography-and-infrared-stereo-eye-tracking":"mobile-eye-gaze-recording-methods-electrooculography-and-infrared-stereo-eye-tracking",
-"model-based-multivariate-true-score-norming-procedure":"model-based-multivariate-true-score-norming-procedure",
+"model-based-multivariate-true-score-norming-procedure":"multivariate-true-score-model-for-achievement-and-growth-norming",
 "models-of-versus-models-for-heuristic":"models-of-versus-models-for-heuristic",
 "moving-intervention-framework-for-evaluating-educational-ai":"moving-intervention-framework-for-evaluating-educational-ai",
 "multi-armed-randomized-trial-analysis":"multi-armed-randomized-trial-analysis",
@@ -275456,12 +275609,13 @@
 "multilevel-conceptualization-of-moderators-in-genai-mediated-writing-research-technologica":"multilevel-conceptualization-of-moderators-in-genai-mediated-writing-research-technologica",
 "multilingual-embedding-based-automated-classification-of-self-regulated-learning-think-alo":"multilingual-embedding-based-automated-classification-of-self-regulated-learning-think-alo",
 "multimodal-analysis":"multimodal-analysis",
-"multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection":"multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection",
+"multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection":"multimodal-analysis",
 "multimodal-engagement-prediction-framework-with-perceiver-io-fusion-hierarchical-bayesian":"multimodal-engagement-prediction-framework-with-perceiver-io-fusion-hierarchical-bayesian",
 "multiple-design-element-interrupted-time-series-evaluation":"multiple-design-element-interrupted-time-series-evaluation",
 "multivariate-true-score-model-for-achievement-and-growth-norming":"multivariate-true-score-model-for-achievement-and-growth-norming",
 "name-based-imputation-of-student-immigration-background":"name-based-imputation-of-student-immigration-background",
 "narrative-inquiry":"narrative-inquiry",
+"negative-priming-paradigm-adapted-to-misleading-strategies":"negative-priming-paradigm-adapted-to-misleading-strategies",
 "nested-coding-scheme-for-demographic-information-use-in-edm-publications":"nested-coding-scheme-for-demographic-information-use-in-edm-publications",
 "neural-expected-increment-model-with-upper-bounded-softmax-for-next-skill-prediction":"neural-expected-increment-model-with-upper-bounded-softmax-for-next-skill-prediction",
 "neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules":"neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules",
@@ -275477,7 +275631,7 @@
 "overview-of-reviews-framework-for-professional-educational-and-quality-assurance-behavior":"overview-of-reviews-framework-for-professional-educational-and-quality-assurance-behavior",
 "p-curve-analysis":"p-curve-analysis",
 "pari-methodology-a-structured-dyadic-problem-solving-interview-for-cognitive-task-analysis":"pari-methodology-a-structured-dyadic-problem-solving-interview-for-cognitive-task-analysis",
-"partial-credit-method":"partial-credit-method",
+"partial-credit-method":"three-method-framework-for-accounting-for-co-teaching-in-value-added-models",
 "partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment":"partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment",
 "participatory-research":"participatory-research",
 "pattern-based-knowledge-component-extraction-from-program-asts":"pattern-based-knowledge-component-extraction-from-program-asts",
@@ -275517,7 +275671,7 @@
 "rapid-guessing-detection-of-test-taker-disengagement":"rapid-guessing-detection-of-test-taker-disengagement",
 "rapid-guessing-detection-using-item-response-time-thresholds":"rapid-guessing-detection-using-item-response-time-thresholds",
 "rasch-rating-scale-analysis-for-deriving-educational-survey-measures":"rasch-rating-scale-analysis-for-deriving-educational-survey-measures",
-"rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators":"rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators",
+"rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators":"within-study-comparison-wsc-methodology",
 "rec-cbm-framework-rubric-aware-error-correction-concept-bottleneck-model-for-trustworthy-o":"rec-cbm-framework-rubric-aware-error-correction-concept-bottleneck-model-for-trustworthy-o",
 "regression-discontinuity-design-power-and-validity-analysis":"regression-discontinuity-design-power-and-validity-analysis",
 "regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff":"regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff",
@@ -275525,10 +275679,10 @@
 "reliance-calibration-as-an-output-contingent-classification-of-reliance-decisions":"reliance-calibration-as-an-output-contingent-classification-of-reliance-decisions",
 "remnant-based-covariate-adjustment-reloop":"remnant-based-covariate-adjustment-reloop",
 "remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction":"remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction",
-"replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat":"replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat",
+"replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat":"within-study-comparison-wsc-methodology",
 "reproducible-educational-llm-guardrails-benchmark-and-evaluation-protocol":"reproducible-educational-llm-guardrails-benchmark-and-evaluation-protocol",
 "response-time-based-detection-of-test-taker-disengagement":"response-time-based-detection-of-test-taker-disengagement",
-"response-time-classification-of-rapid-guessing-versus-solution-behavior":"response-time-classification-of-rapid-guessing-versus-solution-behavior",
+"response-time-classification-of-rapid-guessing-versus-solution-behavior":"rapid-guessing-detection-using-item-response-time-thresholds",
 "response-time-effort-rte":"response-time-effort-rte",
 "responsible-dkt":"responsible-dkt",
 "retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics":"retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics",
@@ -275539,7 +275693,7 @@
 "savvy-content-derived-visual-and-auditory-information-density-metrics":"savvy-content-derived-visual-and-auditory-information-density-metrics",
 "sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp":"sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp",
 "schochets-guidelines-for-handling-multiple-testing-in-education-research":"schochets-guidelines-for-handling-multiple-testing-in-education-research",
-"school-value-added-modeling":"school-value-added-modeling",
+"school-value-added-modeling":"value-added-modeling",
 "seasonal-learning-analysis":"seasonal-learning-analysis",
 "sel-status-and-growth-early-warning-modeling":"sel-status-and-growth-early-warning-modeling",
 "select-the-research-design-that-fits-the-intervention-and-evaluation-setting":"select-the-research-design-that-fits-the-intervention-and-evaluation-setting",
@@ -275574,7 +275728,7 @@
 "stealth-assessment":"stealth-assessment",
 "stereotype-congruence-rate-scr":"stereotype-congruence-rate-scr",
 "strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod":"strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod",
-"student-development-agents":"student-development-agents",
+"student-development-agents":"agent-based-educational-science-aes",
 "student-digital-twin":"student-digital-twin",
 "student-momentum-indicator":"student-momentum-indicator",
 "subdomain-taxonomy-for-physical-activity-effects-four-executive-function-three-attention-a":"subdomain-taxonomy-for-physical-activity-effects-four-executive-function-three-attention-a",
@@ -275584,7 +275738,7 @@
 "supervised-versus-unsupervised-machine-learning-methods-for-automating-analysis-of-learnin":"supervised-versus-unsupervised-machine-learning-methods-for-automating-analysis-of-learnin",
 "swim-proficiency-conditioned-essay-generation-and-proficiency-alignment-evaluation":"swim-proficiency-conditioned-essay-generation-and-proficiency-alignment-evaluation",
 "synthetic-benchmark-development-and-stress-testing-for-trace-based-learning-analytics-eval":"synthetic-benchmark-development-and-stress-testing-for-trace-based-learning-analytics-eval",
-"synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc":"synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc",
+"synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc":"within-study-comparison-wsc-methodology",
 "systematic-review":"systematic-review",
 "systematic-screening-for-opportunistic-experiments":"systematic-screening-for-opportunistic-experiments",
 "tact-dual-taxonomy-framework-for-annotating-tutoring-moves-and-conditional-feedback-strate":"tact-dual-taxonomy-framework-for-annotating-tutoring-moves-and-conditional-feedback-strate",
@@ -275609,6 +275763,7 @@
 "the-socratic-test-framework":"the-socratic-test-framework",
 "the-stacks":"the-stacks",
 "theory-informed-statistically-sound-meta-analysis-planning":"theory-informed-statistically-sound-meta-analysis-planning",
+"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness":"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness",
 "thinking-through-ai-framework":"thinking-through-ai-framework",
 "three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc":"three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc",
 "three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim":"three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim",

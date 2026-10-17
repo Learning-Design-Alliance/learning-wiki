@@ -15,12 +15,14 @@ sources:
     author: "Scheibe, S., & Blanchard-Fields, F."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The disgust film induction elevated disgust ratings comparably in young and older adults, with no age differences in reactivity or recovery after baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A Time × Condition interaction confirmed the disgust clip elevated disgust at T1 relative to baseline while the neutral clip slightly decreased it; no Age or Age × Condition effects emerged at post-baseline time points. [→ Scheibe 2009](#scheibe-2009)
@@ -31,7 +33,7 @@ sources:
 
 Scheibe, S., & Blanchard-Fields, F. (2009). Effects of Regulating Emotions on Cognitive Performance: What Is Costly for Young Adults Is not so Costly for Older Adults. Psychology and Aging, 24(1), 217-223. https://doi.org/10.1037/a0013807
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 5 (Time) × 2 (Age) × 4 (Condition) repeated-measures ANOVA of disgust ratings at baseline and four post-induction assessments. The article reports the printed multivariate effects, including a Time effect with η2 = .75, and states no effects were found for Age, Condition × Age, or Time × Condition × Age; age affected only baseline disgust ratings.
 

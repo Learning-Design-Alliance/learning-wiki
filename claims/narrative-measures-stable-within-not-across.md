@@ -15,18 +15,22 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: drijbooms-2017-2
     resource: "https://doi.org/10.1007/s11145-016-9670-8"
     title: "Drijbooms, E., Groen, M. A., & Verhoeven, L. (2017). How executive functions predict development in syntactic complexity of narrative writing in the upper elementary grades. Reading and Writing, 30, 209–231. https://doi.org/10.1007/s11145-016-9670-8"
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Each narrative writing measure is longitudinally stable within itself across the upper elementary grades, with no significant cross-lagged relationships across measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Each measure in fourth grade had a significant autoregressive path to itself in sixth grade (standardized coefficients .27–.38), confirming relative stability. [→ Drijbooms 2017](#drijbooms-2017)
@@ -38,7 +42,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2017). How executive functions predict development in syntactic complexity of narrative writing in the upper elementary grades. Reading and Writing, 30, 209–231. https://doi.org/10.1007/s11145-016-9670-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Path analysis (AMOS 22, maximum likelihood) on the 93-child longitudinal sample fitted a simplex autoregressive and cross-lagged model. Each measure showed a significant within-measure longitudinal path, which the authors read as relative stability across the upper elementary grades.
 
@@ -48,7 +52,7 @@ Path analysis (AMOS 22, maximum likelihood) on the 93-child longitudinal sample 
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2017). How executive functions predict development in syntactic complexity of narrative writing in the upper elementary grades. Reading and Writing, 30, 209–231. https://doi.org/10.1007/s11145-016-9670-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the same path model, the only cross-lagged paths tested (text length and story content in fourth grade to syntactic complexity in sixth grade) were non-significant and removed; the final model fit well (χ²(6) = 5.32, p = .50, RMSEA = .00).
 

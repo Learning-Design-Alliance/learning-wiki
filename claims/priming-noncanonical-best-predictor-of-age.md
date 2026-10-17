@@ -13,12 +13,14 @@ sources:
     title: Sung JE 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The syntactic-priming task with noncanonical word order is the best single predictor of age among the four sentence-production conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a stepwise multiple regression, only priming-task noncanonical performance significantly predicted age. [→ Sung JE 2015](#sung-je-2015)
@@ -29,7 +31,7 @@ sources:
 
 Sung JE (2015) Age-Related Changes in Sentence Production Abilities and Their Relation to Working-Memory Capacity: Evidence from a Verb-Final Language. PLoS ONE 10(4): e0119424. https://doi.org/10.1371/journal.pone.0119424
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Stepwise multiple regression with age as the outcome and accuracy percentages from the four task conditions as predictors, in the 60-participant cross-sectional study. The article reports "F(1, 58) = 25.255, p <. 0001, R2 = .303"; no standardized effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Ramirez Gerardo, Hooper Sophia Yang, Kersting Nicole B., Ferguson Ronald, Yeager David
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In the full model, teacher math anxiety relates to lower ninth-grade GPA through a chain of reduced process-oriented practices and students' perceptions of a teacher fixed mindset
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The final SEM showed indirect effects from teacher math anxiety through process-oriented practices to perceived teacher fixed mindset (b = .08, p = .007) and from practices through perceived mindset to GPA (b = .04, p = .005). [→ Ramirez Gerardo 2018](#ramirez-gerardo-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ramirez Gerardo, Hooper Sophia Yang, Kersting Nicole B., Ferguson Ronald, Yeager David. (2018). Teacher Math Anxiety Relates to Adolescent Students' Math Achievement. AERA Open. https://doi.org/10.1177/2332858418756052
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Final combined SEM (Figure 3) with covariates; fit was acceptable (CFI = .98, RMSEA = .03). The article reports both indirect effects as significant with the printed coefficients; no standardized effect sizes are given.
 

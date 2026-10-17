@@ -15,12 +15,14 @@ sources:
     author: Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Bilingual 8-year-olds are more accurate than monolingual 8-year-olds on a computerized spatial perspective-taking task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Bilingual children obtained higher proportion-correct scores than monolingual children on the perspective-taking task across observer positions. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)
@@ -31,7 +33,7 @@ sources:
 
 Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen. (2013). Perspective-Taking Ability in Bilingual Children: Extending Advantages in Executive Control to Spatial Reasoning. Cognitive Development. https://doi.org/10.1016/j.cogdev.2012.10.002
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Experiment with 82 8-year-olds (45 monolingual, 37 bilingual) tested individually on a 12-trial computerized perspective-taking task. A three-way ANOVA on proportion correct found "a significant effect of language group, F(1, 78) = 9.52, MSE = .23, p < .003, d = .69".
 

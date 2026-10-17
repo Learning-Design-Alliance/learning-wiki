@@ -17,7 +17,7 @@ sources:
 # Use brief non-symbolic approximate number activities immediately before symbolic arithmetic practice with young children
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's results motivate a classroom strategy: a short bout of game-like non-symbolic approximate number practice (adding or comparing dot arrays) immediately before symbolic arithmetic work. The authors conclude that "the exercise of non-symbolic numerical processes can enhance children's performance of symbolic mathematics." The demonstrated paradigm used roughly 60 training trials interleaved with test problems in a computer-animated game format.
@@ -37,7 +37,7 @@ The article's results motivate a classroom strategy: a short bout of game-like n
 - exact symbolic addition speed and accuracy
 
 ### Affordances
-- [Ans Specialized Link Symbolic Arithmetic Children](../theories/ans-specialized-link-symbolic-arithmetic-children.md)
+- Ans Specialized Link Symbolic Arithmetic Children
 
 ## Claims
 

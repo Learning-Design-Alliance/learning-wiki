@@ -15,12 +15,14 @@ sources:
     author: "Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # STM and WM performance is worse in ADHD-C than in ADHD-I, while CE-related performance does not differ between subtypes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` STM and WM performance is worse in ADHD-C than in ADHD-I. [→ Dovis 2015](#dovis-2015)
@@ -32,7 +34,7 @@ sources:
 
 Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M. (2015). ADHD subtype differences in reinforcement sensitivity and visuospatial working memory. Journal of Clinical Child and Adolescent Psychology, 44(5), 859-874. https://doi.org/10.1080/15374416.2014.895940
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 This is the direct subtype comparison from the experiment with 27 children with ADHD-I and 70 children with ADHD-C aged 9-12. The article reports that "STM and WM performance was worse in ADHD-C than in ADHD-I, whereas CE-related performance did not differ." This dissociation indicates the subtypes differ in STM but not in CE functioning. No effect sizes are printed in the supplied text, so impact is null.
 

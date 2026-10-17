@@ -15,12 +15,14 @@ sources:
     author: Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adults, but not children or adolescents, showed robust negative NRE-achievement activation in the hippocampus bilaterally. [→ Haist Frank 2015](#haist-frank-2015)
@@ -31,7 +33,7 @@ sources:
 
 Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha. (2015). Development of brain systems for nonsymbolic numerosity and the relationship to formal math academic achievement. Human brain mapping. https://doi.org/10.1002/hbm.22666
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Group-wise whole-brain regression of NRE on math achievement reported in the fMRI results section. The negative hippocampal relationship was specific to the adult group and absent in children and adolescents.
 

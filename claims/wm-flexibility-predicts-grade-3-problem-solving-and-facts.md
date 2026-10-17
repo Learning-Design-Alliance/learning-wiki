@@ -15,12 +15,14 @@ sources:
     author: Viterbori, P.; Usai, M. C.; Traverso, L.; De Franchis, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # In Grade 3, both problem solving and arithmetical facts are predicted by the preschool WM–flexibility component
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In Grade 3, problem solving and arithmetical facts were each predicted by the WM–flexibility component. [→ Viterbori 2015](#viterbori-2015)
@@ -31,7 +33,7 @@ sources:
 
 Viterbori, P.; Usai, M. C.; Traverso, L.; De Franchis, V. (2015). How preschool executive functioning predicts several aspects of math achievement in Grades 1 and 3: A longitudinal study. https://hdl.handle.net/11567/813133
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 SEM results for single math indices in Grade 3; the article reports "both problem solving and arithmetical facts were predicted by the WM–flexibility component."
 

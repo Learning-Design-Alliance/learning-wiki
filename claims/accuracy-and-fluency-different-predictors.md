@@ -15,12 +15,14 @@ sources:
     author: "Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Mathematical accuracy and fluency have overlapping yet different predictors, supporting attention to both aspects in mathematics teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The study revealed overlapping yet different predictors for mathematical accuracy and fluency. [→ Desoete 2019](#desoete-2019)
@@ -31,7 +33,7 @@ sources:
 
 Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J. (2019). Metacognition and motivation as predictors for mathematics performance of Belgian elementary school children. ZDM Mathematics Education, 51, 667–677. https://doi.org/10.1007/s11858-018-01020-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Longitudinal opportunity–propensity analysis of Belgian children in Grades 1–6 tested in January and June. The abstract reports "overlapping yet different predictors for mathematical accuracy and fluency" and draws a practical recommendation for teachers from this.
 

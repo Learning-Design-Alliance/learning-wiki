@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Equation memory shows a strong validity effect (valid > invalid recall) that interacts with equation length
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A repeated measures ANOVA revealed substantially higher recall for valid than invalid equations, with significant length and validity-by-length interaction effects. [→ Geary David C. 2015](#geary-david-c-2015)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N. (2015). Individual Differences in Algebraic Cognition: Relation to the Approximate Number and Sematic Memory Systems. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2015.07.010
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Repeated measures ANOVA on the equation memory task in the 171-student sample, confirming Sweller and Cooper's schema finding. The interaction arose because a higher percentage of elements was recalled for valid longer than shorter equations, with the opposite for invalid equations.
 

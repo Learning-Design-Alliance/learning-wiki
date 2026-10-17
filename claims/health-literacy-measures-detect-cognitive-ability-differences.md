@@ -15,12 +15,14 @@ sources:
     author: Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Common health literacy measures largely detect individual differences in cognitive abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors conclude that the most common measures used in health literacy studies are detecting individual differences in cognitive abilities, which may predict capacity to engage in self-care and achieve desirable health outcomes. [→ Wolf 2012](#wolf-2012)
@@ -31,7 +33,7 @@ sources:
 
 Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al. (2012). Literacy, Cognitive Function, and Health: Results of the LitCog Study. J GEN INTERN MED. https://doi.org/10.1007/s11606-012-2079-4
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Authors' interpretive conclusion drawn from the LitCog correlational and multivariable findings, framed with the hedge "may predict". This is the article's interpretation rather than a separately tested result.
 

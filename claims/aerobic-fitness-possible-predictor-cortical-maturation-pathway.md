@@ -15,12 +15,14 @@ sources:
     author: Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The authors propose aerobic fitness as a possible predictor of developmental cortical thinning and a pathway to enhanced cognition and scholastic performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors interpret their findings as raising the possibility that individual differences in aerobic fitness play a role in childhood cortical gray matter structure important for scholastic success, particularly mathematics. [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF. (2015). The Role of Aerobic Fitness in Cortical Thickness and Mathematics Achievement in Preadolescent Children. PLoS ONE 10(8): e0134115. https://doi.org/10.1371/journal.pone.0134115
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' interpretation in the Discussion, not a tested result. They suggest "individual differences in aerobic fitness play a role in childhood cortical gray matter structure important for scholastic success", linking fitness to brain maturation and achievement.
 

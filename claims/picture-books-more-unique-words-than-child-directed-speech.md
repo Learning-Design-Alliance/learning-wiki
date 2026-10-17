@@ -15,12 +15,14 @@ sources:
     author: Montag Jessica L., Jones Michael N., Smith Linda B.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The text of children's picture books contains more unique word types than a length-matched sample of child-directed speech
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In total-sample comparisons, picture books contained 1.72 times more unique words than matched child-directed speech. [→ Montag Jessica L. 2015](#montag-jessica-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Montag Jessica L., Jones Michael N., Smith Linda B. (2015). The words children hear: Picture books and the statistics for language learning. Psychological Science. https://doi.org/10.1177/0956797615594361
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Corpus comparison of a 100-picture-book corpus against length-matched contiguous CHILDES segments, using random sampling of token sizes to count unique word types. The article reports that "picture books contained 1.72 times more unique words than did child-directed speech." No effect size or significance test is printed.
 

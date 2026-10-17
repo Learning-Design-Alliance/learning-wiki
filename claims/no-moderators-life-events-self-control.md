@@ -15,12 +15,14 @@ sources:
     author: Duckworth, A. L., Kim, B., and Tsukayama, E.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` None of the tested interaction effects were significant (ps>0.10) with Bonferroni corrections. [→ Duckworth 2013](#duckworth-2013)
@@ -31,7 +33,7 @@ sources:
 
 Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Exploratory moderator analyses reported in the Limitations section, with results not shown. The article states "none of these interaction effects were significant, ps > 0.10"; no effect sizes are printed.
 

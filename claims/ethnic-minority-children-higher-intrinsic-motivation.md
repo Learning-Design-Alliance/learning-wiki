@@ -15,12 +15,14 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Ethnic-minority children report higher intrinsic motivation than European-American children despite higher stigma awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` African-American, Chinese, Dominican, and Russian children all reported higher intrinsic motivation than European-American children. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i2`
+`q3 · i2` · `associational · r1`
 
 Between-subjects ANOVA on intrinsic motivation. The study found "African-American, Chinese, Dominican, and Russian children all reported higher intrinsic motivation than did European-American children, F(4,389) = 9.06, p < .001, η2 = .08".
 

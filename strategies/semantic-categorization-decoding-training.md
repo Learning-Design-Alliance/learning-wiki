@@ -17,7 +17,7 @@ sources:
 # Consider semantic categorization within word decoding training for poor readers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In discussing implications, the authors point to work showing that "semantic categorization in addition to feedback and motivation in a word decoding training task may yield important effects on decoding efficiency in poor readers in second grade". They recommend future research disentangle whether effects are due to semantic categorization, feedback, or motivational aspects. This suggests embedding semantic categorization activities in decoding training for struggling readers.
@@ -38,7 +38,7 @@ In discussing implications, the authors point to work showing that "semantic cat
 - word decoding efficiency
 
 ### Affordances
-- [Lexical Restructuring Semantics Decoding Dyslexia](../theories/lexical-restructuring-semantics-decoding-dyslexia.md)
+- Lexical Restructuring Semantics Decoding Dyslexia
 
 ## Claims
 

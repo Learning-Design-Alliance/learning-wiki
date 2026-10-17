@@ -15,12 +15,14 @@ sources:
     author: Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Middle school girls referenced culture (food, music, gatherings) as central to Blackness; high school girls stressed individual and collective strength in disproving stereotypes. [→ Burnett Marketa 2022](#burnett-marketa-2022)
@@ -31,7 +33,7 @@ sources:
 
 Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M. (2022). “When I Think of Black Girls, I Think of Opportunities”: Black Girls' Identity Development and the Protective Role of Parental Socialization in Educational Settings. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2022.933476
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Thematic analysis across developmental stages found middle school girls described Blackness as "community driven and celebratory," while high school participants reflected on individual efforts to disprove negative portrayals of the collective.
 

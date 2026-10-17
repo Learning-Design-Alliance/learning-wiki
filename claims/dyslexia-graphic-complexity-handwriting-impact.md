@@ -15,12 +15,14 @@ sources:
     author: "Gosse, C., & Van Reybroeck, M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children with dyslexia are more impacted by the graphic complexity of words than both chronological-age and spelling-age matched controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` DYS children were more impacted by word graphic complexity (simple vs. difficult) than both CA and SA children in handwriting performance. [→ Gosse 2020](#gosse-2020)
@@ -31,7 +33,7 @@ sources:
 
 Gosse, C., & Van Reybroeck, M. (2020). Do children with dyslexia present a handwriting deficit? Impact of word orthographic and graphic complexity on handwriting and spelling performance. Research in Developmental Disabilities, 97(1), 14. https://doi.org/10.1016/j.ridd.2019.103553
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Group-by-complexity interaction in the General Linear Mixed Model analysis of the tablet dictation task: the article reports that "the DYS children were more impacted by the graphic complexity of words than both the CA and SA children". No effect size is printed for this interaction.
 

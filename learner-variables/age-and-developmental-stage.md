@@ -12,7 +12,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (65 show a difference, 17 mixed, 11 no difference) · 74 studies (30 associational, 12 review, 10 causal, 9 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 5 of 74 report an effect size · 93 claims rest on one study
+> **Evidence** · 112 claims (75 show a difference, 23 mixed, 14 no difference) · 91 studies (38 associational, 17 causal, 13 review, 9 quant-synthesis, 8 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 8 of 91 report an effect size · 112 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.

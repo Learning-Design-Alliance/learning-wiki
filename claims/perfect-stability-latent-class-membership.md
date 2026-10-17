@@ -15,12 +15,14 @@ sources:
     author: "Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten latent profile membership is 100% stable from pre-k/kindergarten to end of 1st grade in the longitudinal subset
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All longitudinally followed children were classified into the same latent class at Year 2 as at Year 1, reflecting complete stability of profile membership. [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N. (2017). Longitudinal stability of pre-reading skill profiles of kindergarten children: Implications for early screening and theories of reading. Developmental Science. https://doi.org/10.1111/desc.12471
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Latent class regression on the longitudinal subset (n=95) assessed at end of 1st grade; the article reports "100% stability in class membership". A Monte Carlo simulation indicated power of 70–74% was acceptable for this sample size.
 

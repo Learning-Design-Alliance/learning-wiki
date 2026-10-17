@@ -15,12 +15,14 @@ sources:
     author: Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Behavioral ratio sensitivity for reaction time increases with age, with adults showing greater RT ratio sensitivity than children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Across the full sample, RT BRE correlated positively with age (r = .383), and adults showed greater RT ratio sensitivity than children, with adolescents intermediate. [→ Haist Frank 2015](#haist-frank-2015)
@@ -31,7 +33,7 @@ sources:
 
 Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha. (2015). Development of brain systems for nonsymbolic numerosity and the relationship to formal math academic achievement. Human brain mapping. https://doi.org/10.1002/hbm.22666
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Behavioral results section: linear regression of RT BRE on log age in the full sample of 44 participants, plus a one-way ANOVA showing a significant group effect with adults exceeding children (LSD p = .013). The printed correlation is "r = .383, R2 = .147, p = .010."
 

@@ -13,12 +13,14 @@ sources:
     title: Bellon E 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Inhibition skills did not significantly predict arithmetic fact retrieval in a simultaneous regression controlling for numerical magnitude processing, intellectual ability and motor reaction time. [→ Bellon E 2016](#bellon-e-2016)
@@ -29,7 +31,7 @@ sources:
 
 Bellon E, Fias W and De Smedt B (2016) Are Individual Differences in Arithmetic Fact Retrieval in Children Related to Inhibition? Front. Psychol. 7:825. https://doi.org/10.3389/fpsyg.2016.00825
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Simultaneous regression in 86 third graders with all predictors and confounds entered; Bayes factors (0.35 numerical stroop, 0.76 non-numerical stroop) indicated data were more likely under a model with no inhibition effect.
 

@@ -15,12 +15,14 @@ sources:
     author: Montag Jessica L., Jones Michael N., Smith Linda B.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Individual picture books typically contain more unique words at a given sample size than individual conversations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Individual books typically, though not always, contain more unique words given the sample size than does a conversation. [→ Montag Jessica L. 2015](#montag-jessica-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Montag Jessica L., Jones Michael N., Smith Linda B. (2015). The words children hear: Picture books and the statistics for language learning. Psychological Science. https://doi.org/10.1177/0956797615594361
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Figure 1b plots type and token counts of the 100 individual books and the individual CHILDES conversations. The article describes the plotted pattern as books' dots mostly above conversations' dots, a pattern it calls underestimated by the relatively small sample of books. No effect size is printed.
 

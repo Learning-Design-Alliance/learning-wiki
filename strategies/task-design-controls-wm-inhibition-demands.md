@@ -17,7 +17,7 @@ sources:
 # Design cognitive flexibility tasks controlling working memory and inhibition demands and matching accuracy across age cohorts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 review, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends that researchers "design tasks to isolate activations associated specifically with cognitive flexibility, while separating or controlling for the activity from working memory and inhibitory control processes". It further advises matching accuracy levels between child and adult cohorts to control task difficulty, designing tasks that produce a switch cost, and conducting psychometric analyses before novel fMRI tasks.

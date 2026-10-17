@@ -15,12 +15,14 @@ sources:
     author: "Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The amplitude of the negative priming effect did not differ between adolescents and adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A 2 (type of trial) × 2 (age) ANOVA on probe RTs found no significant two-way interaction, and Bayesian analysis provided moderate evidence in favor of the null hypothesis (BF01 = 3.20). [→ Rossi 2019](#rossi-2019)
@@ -31,7 +33,7 @@ sources:
 
 Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G. (2019). Adolescents and Adults Need Inhibitory Control to Compare Fractions. Journal of Numerical Cognition, 5(3), 314-336. https://doi.org/10.5964/jnc.v5i3.197
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 A two-way mixed ANOVA on probe RTs found "no effect of age, F(1, 48) = 1.12, p = .29, BF01 = 1.48, and no two-way interaction, F < 1, BF01 = 3.20". The authors note the Bayes factor suggests moderate evidence for the null (about 3 times more likely under the null).
 

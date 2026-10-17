@@ -15,12 +15,14 @@ sources:
     author: "Mollborn, S., Lawrence, E., James-Hawkins, L., & Fomby, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Growth curve analyses of ECLS-B data show the SES–cognitive (reading and math) relationship increased sharply from infancy to around age 4–4½, then decreased slightly through kindergarten start. [→ Mollborn 2014](#mollborn-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mollborn, S., Lawrence, E., James-Hawkins, L., & Fomby, P. (2014). When Do Socioeconomic Resources Matter Most in Early Childhood? Advances in Life Course Research. https://doi.org/10.1016/j.alcr.2014.03.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Growth curve (multilevel) analyses of the nationally representative ECLS-B cohort (N ≈ 8,450 children; ~27,450 person-time observations) modeled time-varying SES–outcome interactions. The authors report that the association "strengthened rapidly from infancy through the beginning of prekindergarten, then weakened slightly but remained strong through the start of kindergarten."
 

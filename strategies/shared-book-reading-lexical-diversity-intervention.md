@@ -17,7 +17,7 @@ sources:
 # Shared book reading as a potential intervention for increasing lexical diversity in young children's learning environments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 5 studies (4 quant-synthesis, 1 associational), `q2`–`q3` · 3 of 5 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends caregiver shared book reading as a practical route to enriching the lexical diversity of young children's input. It states that parent speech generated in the context of shared book reading "may be a key factor of observed individual differences in language ability among young children and also a potential intervention for increasing lexical diversity in the learning environments of children." Because reading frequency varies systematically with socio-economic status, the strategy targets caregivers who read less often.
@@ -37,7 +37,7 @@ The article recommends caregiver shared book reading as a practical route to enr
 - vocabulary growth through increased lexical diversity of input
 
 ### Affordances
-- [Lexical Diversity Input Drives Learnability](../theories/lexical-diversity-input-drives-learnability.md)
+- Lexical Diversity Input Drives Learnability
 
 ## Claims
 

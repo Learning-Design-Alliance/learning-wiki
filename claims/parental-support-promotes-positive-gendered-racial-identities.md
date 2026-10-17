@@ -15,12 +15,14 @@ sources:
     author: Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Black girls' awareness of difficulties navigating educational settings is coupled with parental support that promotes positive gendered racial identities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Among adolescent Black girls, awareness of educational difficulties co-occurred with parental support promoting positive gendered racial identities in middle school and high school. [→ Burnett Marketa 2022](#burnett-marketa-2022)
@@ -31,7 +33,7 @@ sources:
 
 Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M. (2022). “When I Think of Black Girls, I Think of Opportunities”: Black Girls' Identity Development and the Protective Role of Parental Socialization in Educational Settings. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2022.933476
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Semi-structured interviews with 12 adolescent Black girls (Mage = 13.66; six middle school, six high school) analyzed via theoretical thematic analysis. The study reports that awareness of difficulties was "coupled with parental support that promoted positive gendered racial identities."
 

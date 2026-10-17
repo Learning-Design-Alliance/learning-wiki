@@ -15,12 +15,14 @@ sources:
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Older adults set lower self-determined learning goals than younger adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Older adults reported reliably lower learning goals (how many of 72 items they hoped to learn) than younger adults. [→ Price 2010](#price-2010)
@@ -31,7 +33,7 @@ sources:
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Experiment 1 one-way ANOVA on self-determined learning goals stated before study; older adults' mean goal was 27.42 versus younger adults' 39.95, "F (1, 93) = 13.75, p < .001, ηp2 = .129". Younger adults' goals did not differ by allotted time.
 

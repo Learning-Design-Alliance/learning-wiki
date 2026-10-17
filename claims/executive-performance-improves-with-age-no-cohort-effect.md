@@ -15,12 +15,14 @@ sources:
     author: "Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Executive task accuracy and processing speed improve dramatically with age across the preschool period, with no cohort effect from repeated testing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant overall effect of study entry cohort, suggesting little impact of repeated testing. [→ Clark 2014](#clark-2014)
@@ -31,7 +33,7 @@ sources:
 
 Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A. (2014). Gaining control: changing relations between executive control and processing speed and their relevance for mathematics achievement over course of the preschool period. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00107
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Same MANOVA testing study entry cohort independent of the age effect. No significant cohort effect emerged ("F(36,2869.7) = 1.29, Wilk's λ(36) = 0.95, p = 0.11"), supporting the design's control of practice effects; equivalence was not otherwise tested.
 

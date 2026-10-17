@@ -15,12 +15,14 @@ sources:
     author: Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In an ANCOVA entering literal scores and delayed knowledge-base recall as covariates, the main effect of skill group on inference scores remained significant. [→ Kate Cain 2001](#kate-cain-2001)
@@ -31,7 +33,7 @@ sources:
 
 Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of covariance on the same 26 children's conditionalized inference scores, described as "a very stringent test" of whether memory differences explain inference differences. The skill-group effect remained significant, F(1,22) = 4.45, p < .05.
 

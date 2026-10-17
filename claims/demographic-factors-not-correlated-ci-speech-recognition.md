@@ -15,12 +15,14 @@ sources:
     author: Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Demographic and audiologic factors (age, duration of hearing loss, age at onset, residual hearing) were not significantly correlated with speech recognition in CI users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` None of the correlations between speech recognition scores and age, duration of hearing loss, age at onset of hearing loss, or better-ear unaided PTA were significant in CI users. [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD. (2018). Nonverbal Reasoning as a Contributor to Sentence Recognition Outcomes in Adults with Cochlear Implants. Otology & Neurotology. https://doi.org/10.1097/MAO.0000000000001998
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Correlational analyses among speech recognition scores and demographic/audiologic measures in the 39 CI users, reported in Results. The article states "None of these correlations were significant"; no effect sizes are printed, so this null does not establish equivalence.
 

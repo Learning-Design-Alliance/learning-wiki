@@ -15,18 +15,22 @@ sources:
     author: Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: shusterman-anna-2016-2
     resource: "https://doi.org/10.1371/journal.pone.0153072"
     title: "Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072"
     author: Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # ANS acuity (w) did not significantly improve within children over the six-month period in the session-level analysis, though a hierarchical linear model detected a linear increase in percent correct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A repeated measures ANCOVA found no significant within-subject improvement in w across sessions (F(1,32) = 0.31, p = .58), and none in percent correct (F(1,38) = 0.33, p = .57). [→ Shusterman Anna 2016](#shusterman-anna-2016)
@@ -38,7 +42,7 @@ sources:
 
 Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null result from the longitudinal ANCOVA with baseline age and sex as covariates in the 42-child sample. A null test does not establish that w was unchanged; equivalence was not tested.
 
@@ -48,7 +52,7 @@ Null result from the longitudinal ANCOVA with baseline age and sex as covariates
 
 Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Authors' notebook note in the Results: the HLM over all six sessions detected linear growth only in percent correct, not in w, motivating the focus on discrete transitions rather than linear change.
 

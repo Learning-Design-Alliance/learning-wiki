@@ -15,12 +15,14 @@ sources:
     author: "Nilsen, E. S., & Bacso, S. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adolescents with weaker communicative perspective-taking report worse peer relations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Adolescents with weaker communicative perspective-taking skills reported worse peer relations and lower prosocial behaviour. [→ Nilsen 2017](#nilsen-2017)
@@ -31,7 +33,7 @@ sources:
 
 Nilsen, E. S., & Bacso, S. A. (2017). Cognitive and Behavioural Predictors of Adolescents’ Communicative Perspective-taking and Social Relationships. Adolescence. https://doi.org/10.1016/j.adolescence.2017.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 In the community sample, self-reported social competence (SDQ peer problems and prosocial subscales) was examined against communicative perspective-taking. The article reports that "adolescents who showed more successful communicative perspective-taking rated themselves as having more positive peer relations and prosocial behaviour."
 

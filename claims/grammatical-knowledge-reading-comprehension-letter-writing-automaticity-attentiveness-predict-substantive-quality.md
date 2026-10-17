@@ -15,12 +15,14 @@ sources:
     author: "Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Grammatical knowledge, reading comprehension, letter writing automaticity, and attentiveness are uniquely and positively related to substantive quality of first-grade written composition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Children's grammatical knowledge was uniquely and positively related to substantive quality of written composition (p = .001) after accounting for instructional quality and other child-level variables. [→ Kim 2013](#kim-2013)
@@ -34,7 +36,7 @@ sources:
 
 Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L. (2013). Language, literacy, attentional behaviors, and instructional quality predictors of written composition for first graders. Early Childhood Research Quarterly, 28(3), 461–469. https://doi.org/10.1016/j.ecresq.2013.01.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Multilevel model analysis of 527 first-grade children nested in 34 classrooms, with child-level language, literacy, and attention predictors and classroom instructional quality entered simultaneously. Four child-level predictors were uniquely and positively related to the substantive quality outcome (sum of ideas, organization, word choice, and sentence flow).
 

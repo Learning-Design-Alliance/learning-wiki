@@ -15,12 +15,14 @@ sources:
     author: Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Acute stress did not significantly affect women's cognitive flexibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Women in the stress condition did not commit more perseverative errors than women in the control condition; no statistically significant difference was detected. [→ Shields Grant S. 2016](#shields-grant-s-2016)
@@ -31,7 +33,7 @@ sources:
 
 Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Planned pairwise contrast within the same randomized TSST-G experiment. The article reports the female stress-versus-control contrast as non-significant with "d=−0.15"; equivalence was not tested.
 

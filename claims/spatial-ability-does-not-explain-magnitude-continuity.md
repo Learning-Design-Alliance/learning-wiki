@@ -15,12 +15,14 @@ sources:
     author: Bailey Drew H., Siegler Robert S., Geary David C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Spatial ability does not account for the predictive relation between early whole number magnitude knowledge and later fraction magnitude knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` First graders' spatial ability did not predict fraction magnitude knowledge in middle school, and controlling for it did not change the whole number magnitude relation. [→ Bailey Drew H. 2014](#bailey-drew-h-2014)
@@ -31,7 +33,7 @@ sources:
 
 Bailey Drew H., Siegler Robert S., Geary David C. (2014). Early Predictors of Middle School Fraction Knowledge. Developmental Science. https://doi.org/10.1111/desc.12155
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Secondary regression analysis (Supporting Information, Table S2) adding first-grade spatial abilities as a predictor; the article reports the null spatial effect and that the primary relation was unaffected. No effect size printed.
 

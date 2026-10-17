@@ -15,12 +15,14 @@ sources:
     author: "Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Family ethnic socialization drives ERI in immigrant families, whereas youth ERI drives family socialization in U.S.-born families
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For youth in immigrant families, ERI development was driven by family members' ethnic socialization efforts, whereas in U.S.-born-parent families, family socialization efforts were driven by youth's ERI. [→ Umaña-Taylor 2014](#umana-taylor-2014)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T. (2014). Ethnic and Racial Identity During Adolescence and Into Young Adulthood: An Integrated Conceptualization. Child Development. https://doi.org/10.1111/cdev.12196
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing recent work with Mexican-origin late adolescents and young adults (Umaña-Taylor et al., 2013), a bidirectional pattern: "ERI development was driven by family members’ ethnic socialization efforts" in immigrant families, with the reverse direction in U.S.-born families. No effect size is printed.
 

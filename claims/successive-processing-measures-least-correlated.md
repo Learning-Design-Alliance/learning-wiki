@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Successive processing measures show the fewest significant correlations with other speeded measures, particularly in Chinese and Greek groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Successive processing measures revealed the smallest number of significant correlations with other measures, particularly in the Chinese and Greek groups. [→ Papadopoulos 2018](#papadopoulos-2018)
@@ -31,7 +33,7 @@ sources:
 
 Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P. (2018). The Structure of Speed of Processing Across Cultures. Advances in Cognitive Psychology, 14(3), 112–125. https://doi.org/10.5709/acp-0243-7
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A correlational analysis (Table 2) of the eight response-time measures in each cultural group showed most measures interrelated, with the two measures of each latent factor strongly related. Successive processing measures (Word Series, Sentence Questions) showed the fewest significant correlations, especially in the Chinese and Greek samples.
 

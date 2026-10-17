@@ -15,12 +15,14 @@ sources:
     author: "Eriksen, B. A., & Eriksen, C. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Target-alone RT is approximately 30 msec faster in blocked no-noise trials than in trials intermixed with noise conditions, indicating a preparatory inhibitory set
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` RT to the target letter alone presented in blocked trials was significantly faster than to the target alone presented in mixed blocks containing noise conditions. [→ Eriksen 1974](#eriksen-1974)
@@ -31,7 +33,7 @@ sources:
 
 Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/bf03203267
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Three-way ANOVA (Ss by Target Letter by Mixed vs Blocked Trial Presentation) on the two target-alone control conditions. The article reports the blocked condition averaged approximately 30 msec faster than the mixed control, which it takes as evidence of a preparatory set to inhibit responses to noise letters.
 

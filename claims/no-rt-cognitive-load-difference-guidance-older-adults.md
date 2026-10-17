@@ -15,12 +15,14 @@ sources:
     author: Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Auditory reaction-time measure of cognitive load did not differ between guided and unguided low-vision navigation in older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Reaction times on the concurrent auditory task were statistically indistinguishable between guided and unguided conditions, contrary to the prediction based on younger adults. [→ Barhorst-Cates Erica M. 2017](#barhorst-cates-erica-m-2017)
@@ -31,7 +33,7 @@ sources:
 
 Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H. (2017). Let Me be Your Guide: Physical Guidance Improves Spatial Learning for Older Adults with Simulated Low Vision. Experimental Brain Research. https://doi.org/10.1007/s00221-017-5063-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Same within-subjects older-adult experiment, with the auditory reaction-time task performed concurrently as a cognitive-load measure. The ANOVA on reaction time found no guidance effect; miss rates also did not differ (p = .57).
 

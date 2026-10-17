@@ -15,12 +15,14 @@ sources:
     author: Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Age of amplification (before vs at or after 6 months) was not significantly associated with language outcomes at 3 years in children with hearing aids
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After allowing for severity of hearing loss, the main effect of age of intervention on PLS-4 scores was not significant. [→ Ching Teresa Y. C. 2010](#ching-teresa-y-c-2010)
@@ -31,7 +33,7 @@ sources:
 
 Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia (2010). Language development and everyday functioning of children with hearing loss assessed at 3 years of age. International journal of speech-language pathology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094718/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANOVAs with PLS-4 AC and EC subscale scores as repeated measures, age of intervention (< 6 months vs. ≥ 6 months) as a categorical factor, and three-frequency average hearing loss as a continuous covariate. The article reports "the main effect of age of intervention was not significant (F[1,111] = .02, p = .8)"; separate ANOVAs on PPVT, DEAP and CDI quotients were likewise non-significant. Equivalence was not tested.
 

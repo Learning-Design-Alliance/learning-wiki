@@ -15,12 +15,14 @@ sources:
     author: Tighe, Elizabeth L.; Schatschneider, Christopher
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Statistically significant Q statistics emerged for all predictors except morphological awareness and working memory, and I² values ranged from 50.26% to 95.45%, with most predictors showing high heterogeneity. [→ Tighe 2016](#tighe-2016)
@@ -31,7 +33,7 @@ sources:
 
 Tighe, Elizabeth L.; Schatschneider, Christopher. (2016). Examining the Relationships of Component Reading Skills to Reading Comprehension in Struggling Adult Readers: A Meta-Analysis. Journal of Learning Disabilities. https://doi.org/10.1177/0022219414555415
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity was assessed with Q statistics and I² across the 10 predictor models. Morphological awareness (I² = 50.26%), working memory (61.32%), and language comprehension (64.20%) were the only predictors in the moderate range; the rest exceeded 70%. No moderator analyses were possible.
 

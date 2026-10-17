@@ -17,7 +17,7 @@ sources:
 # Stage-matched early writing instruction: match teaching to the child's position on the writing-feature continuum
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that writing instruction be sequential and matched to the child's current stage of writing development. For children still scribbling or showing only universal features, teachers should "promote understanding of basic writing features by acknowledging and highlighting specific features observed in their student's scribbles." For children showing language-specific features, name writing is an ideal starting point for teaching letter names and shapes, and advanced preschoolers using invented spelling benefit from increased social opportunities interacting with letters and words.
@@ -37,7 +37,7 @@ The article recommends that writing instruction be sequential and matched to the
 - emergent writing, letter knowledge, invented spelling
 
 ### Affordances
-- [Linearity Hypothesis Writing Development](../theories/linearity-hypothesis-writing-development.md)
+- Linearity Hypothesis Writing Development
 
 ## Claims
 

@@ -15,12 +15,14 @@ sources:
     author: Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In adjusted models, experiencing more positive parenting was associated with higher curiosity at kindergarten (β = 0.10, p < 0.001). [→ Shah PE 2023](#shah-pe-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Adjusted multivariable linear regression (SURVEYREG with sample weights) on the ECLS-B analytic sample of 4,750 children; parenting quality was observed and coded during the 24-month Two-Bags task. The article reports "β = 0.10, p < 0.001" for parenting quality; no standardized effect size beyond the β is printed.
 

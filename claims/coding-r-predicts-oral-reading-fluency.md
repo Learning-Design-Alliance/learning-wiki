@@ -15,12 +15,14 @@ sources:
     author: "Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` CodingR accounted for significant variance in GORT-IV Fluency (R2 = .092, p = .027) and TOWRE PDE (R2 = .121, p = .011), with no significant CodingR-by-group interaction. [→ Jacobson 2011](#jacobson-2011)
@@ -31,7 +33,7 @@ sources:
 
 Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M. (2011). Working Memory Influences Processing Speed and Reading Fluency in ADHD. Child Neuropsychology. https://doi.org/10.1080/09297049.2010.532204
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression in the same 62-child sample used a residualized Coding score controlling for sex and Coding Copy. "CodingR accounted for significant proportion of variance when predicting two of three measures of oral reading fluency"; the CodingR-by-group interaction was not significant, indicating a similar relationship in both groups.
 

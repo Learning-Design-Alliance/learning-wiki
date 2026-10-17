@@ -15,12 +15,14 @@ sources:
     author: Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A greater proportion of less skilled comprehenders' remaining inference failures were attributable to failure to recall the relevant textual premise, with a main effect of skill group and of inference type. [→ Kate Cain 2001](#kate-cain-2001)
@@ -31,7 +33,7 @@ sources:
 
 Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Two-way ANOVA (skill group x inference type) on proportions of remaining inference failures attributed to incorrect premise recall. Main effect of skill group F(1,24) = 5.33, p < .035; main effect of inference type F(1,24) = 7.08, p < .015; interaction not significant.
 

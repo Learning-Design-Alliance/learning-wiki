@@ -15,12 +15,14 @@ sources:
     author: "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Both self-concept (β = .29 in Model C2) and the value components intrinsic value, attainment value, and low cost uniquely predicted teacher-rated engagement. [→ Guo 2016](#guo-2016)
@@ -31,7 +33,7 @@ sources:
 
 Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U. (2016). Probing the Unique Contributions of Self-Concept, Task Values, and Their Interactions Using Multiple Value Facets and Multiple Academic Outcomes. AERA Open. https://doi.org/10.1177/2332858415626884
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 SEM models predicting the two-item teacher-rated engagement scale in 1,868 ninth-graders. In Model C2, self-concept β = .29, intrinsic value β = .22, attainment value β = .23, low cost β = .22; correlations of teacher-rated engagement with motivational beliefs were smaller (r = .16 to .32).
 

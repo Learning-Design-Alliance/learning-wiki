@@ -13,12 +13,14 @@ sources:
     title: Zhou X 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Figure-matching ability correlates more strongly with numerosity processing and computational fluency than other cognitive factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Figure-matching ability had higher correlations with numerosity processing and computational fluency than did forward verbal working memory, visual tracing, non-verbal matrix reasoning, mental rotation, and choice reaction time. [→ Zhou X 2015](#zhou-x-2015)
@@ -29,7 +31,7 @@ sources:
 
 Zhou X, Wei W, Zhang Y, Cui J, and Chen C (2015) Visual perception can account for the close relation between numerosity processing and computational fluency. Front. Psychol. 6:1364. https://doi.org/10.3389/fpsyg.2015.01364
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analyses across 424 children in grades 3–5 showed figure matching had the highest correlations with numerosity comparison accuracy and computational fluency among the cognitive tests administered. The article states "ﬁgure-matching ability had higher correlations with numerosity processing and computational ﬂuency than did other cognitive factors."
 

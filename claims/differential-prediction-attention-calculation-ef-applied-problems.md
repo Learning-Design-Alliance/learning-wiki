@@ -15,12 +15,14 @@ sources:
     author: "Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Attention problems are more important than executive functioning for predicting first-grade calculation, while executive functioning is more important for applied problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Attention problems showed larger unique predictive value than executive functioning for first-grade calculation, whereas executive functioning showed larger unique predictive value than attention problems for first-grade applied problems. [→ Hassinger-Das 2013](#hassinger-das-2013)
@@ -31,7 +33,7 @@ sources:
 
 Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N. (2013). Domain General Mediators of the Relation between Kindergarten Number Sense and First-Grade Mathematics Achievement. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2013.09.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Results of the four MRAs in the 107-child longitudinal sample: for WJ Calculation, attention problems' standardized beta (.541) was the largest unique contribution, 3.3 times that of executive functioning (.162); for WJ Applied Problems, executive functioning (.438) exceeded attention problems (.349).
 

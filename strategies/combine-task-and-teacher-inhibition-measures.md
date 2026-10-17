@@ -17,7 +17,7 @@ sources:
 # Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends measuring inhibition with both experimental tasks and teacher ratings, because "both types of measures capture unique and important aspects of inhibition." Teacher ratings were chosen over parent ratings since teachers observe children's behavior in relation to academic tasks in the classroom. Combining settings was intended to capture inhibition skills across experimental and classroom contexts, though in this study the two measure types did not correlate.

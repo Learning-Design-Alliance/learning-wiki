@@ -13,12 +13,14 @@ sources:
     title: Lai Y 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The study found no group differences in self-regulation, strategies, or motivation, which the authors attribute to measuring general rather than task-specific metacognitive strategies. [→ Lai Y 2015](#lai-y-2015)
@@ -29,7 +31,7 @@ sources:
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Group comparisons on the metacognition questionnaire's other three factors showed null results; the authors suggest task-specific strategies may differentiate groups and that determining the specificity of metacognitive strategies may help identify children with MLD.
 

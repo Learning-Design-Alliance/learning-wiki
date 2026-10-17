@@ -15,12 +15,14 @@ sources:
     author: "McCurdy, K., Reagan, E. M., Schram, T., & Rogers, A."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Building educator capacity to use performance assessments in practice is a repeated finding for implementing performance assessments in accountability systems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Stosich et al.'s review repeatedly found that educator capacity to use performance assessments in practice must be built for performance assessments to serve classroom and consequential aims. [→ McCurdy 2018](#mccurdy-2018)
@@ -31,7 +33,7 @@ sources:
 
 McCurdy, K., Reagan, E. M., Schram, T., & Rogers, A. (2018). Integrating performance assessments across a PK-20 continuum: A locally developed collaboration. Education Policy Analysis Archives, 26(14). http://dx.doi.org/10.14507/epaa.26.3437
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The commentary's reading of Stosich et al.'s (2018) review of PK-12 state-level performance-assessment policies, offered as its first broadly applicable point. The article presents this as a "repeated finding" of that review, not as new data of its own.
 

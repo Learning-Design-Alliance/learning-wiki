@@ -15,12 +15,14 @@ sources:
     author: "Roy, A. L., McCoy, D. C., & Raver, C. C."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A recent reanalysis of Moving to Opportunity data found positive program impacts on girls' mental health and behavior were related to length of time spent exposed to low-poverty neighborhoods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A reanalysis of Moving to Opportunity data found that positive program impacts on girls' mental health and behavior were related to length of time spent exposed to low-poverty neighborhoods. [→ Roy 2014](#roy-2014)
@@ -31,7 +33,7 @@ sources:
 
 Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Residential Mobility, Neighborhood Poverty, and Children's Self-Regulation. Developmental Psychology. https://doi.org/10.1037/a0036984
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 This is second-hand evidence cited in the article's discussion, reported as the article attributes it (citing Leventhal & Dupéré, 2011). The article offers it as support for the interpretation that residential mobility affects children by altering exposure to stressful neighborhood environments. No effect sizes are printed, so impact is null.
 

@@ -15,12 +15,14 @@ sources:
     author: Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # FIR analysis shows adults sustain DLPFC, RLPFC and superior parietal activation for relational integration through later time-bins, whereas children's integration-specific activation appears only in the first time-bins and late DLPFC activation is tied to REL-1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Whole-brain FIR analyses revealed markedly different activation dynamics over time in children compared with adults. [→ Crone Eveline A. 2009](#crone-eveline-a-2009)
@@ -31,7 +33,7 @@ sources:
 
 Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A. (2009). Neurocognitive development of relational reasoning. Developmental Science, 12(1), 55-66. https://doi.org/10.1111/j.1467-7687.2008.00743.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Finite impulse response whole-brain analysis in children and adults. In adults, integration-related increases in DLPFC, RLPFC and superior parietal cortex were "sustained over a longer duration, through the 8-12 second and 12-16 second time-bins"; children showed integration activation only early and late DLPFC for REL-1.
 

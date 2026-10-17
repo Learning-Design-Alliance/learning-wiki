@@ -13,12 +13,14 @@ sources:
     title: Li Y 2013
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological memory gains disappeared when central executive was controlled, but visuospatial memory gains remained substantial, suggesting different underlying mechanisms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Controlling for central executive reduced phonological memory gains to non-significance (p = .1560, d = .15) while visuospatial gains remained substantial (p = .0001, d = 1.06). [→ Li Y 2013](#li-y-2013)
@@ -29,7 +31,7 @@ sources:
 
 Li Y, Geary DC (2013) Developmental Gains in Visuospatial Memory Predict Gains in Mathematics Achievement. PLoS ONE 8(7): e70160. https://doi.org/10.1371/journal.pone.0070160
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Repeated-measures ANCOVA-style control analyses in the 177-child longitudinal sample. The authors interpret phonological gains as strategy-based (rehearsal) and note visuospatial gains were "reduced but still substantial" (d = 1.06).
 

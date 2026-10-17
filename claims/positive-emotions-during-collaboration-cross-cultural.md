@@ -13,12 +13,14 @@ sources:
     title: Stengelin R 2020
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children across three diverse populations expressed more positive emotions during peer collaboration than during individual activity, with the effect strongest among German and weakest among Hai||om children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children across populations showed higher positive affect during collaboration compared to individual trials, but the size of this effect differed between societies. [→ Stengelin R 2020](#stengelin-r-2020)
@@ -29,7 +31,7 @@ sources:
 
 Stengelin R, Hepach R, Haun DBM (2020) Cultural variation in young children's social motivation for peer collaboration and its relation to the ontogeny of Theory of Mind. PLoS ONE 15(11): e0242071. https://doi.org/10.1371/journal.pone.0242071
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed model on 240 children (120 dyads) from urban German, rural Hai||om, and rural Ovambo populations, coding positive emotional expressions during collaboration vs. individual trials. "Children across populations showed higher positive affect during collaboration, as compared to individual trials" with a significant Population × Condition interaction (χ²(2) = 31.62, p < .001).
 

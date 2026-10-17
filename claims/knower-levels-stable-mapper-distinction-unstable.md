@@ -15,12 +15,14 @@ sources:
     author: Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Knower levels were longitudinally stable across sessions, replicating Wynn, while the CP-Non-Mapper/CP-Mapper distinction fluctuated across sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only one drop in Give-N knower level occurred over six months, whereas 16 drops from CP-Mapper to CP-Non-Mapper were recorded. [→ Shusterman Anna 2016](#shusterman-anna-2016)
@@ -31,7 +33,7 @@ sources:
 
 Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal stability analysis of 42 children across six sessions; 30 children improved by at least one level. The authors present this as the first longitudinal assessment of the Non-Mapper/Mapper shift and conclude it may reflect "performance variables, such as attention during a particular session, rather than true conceptual stages."
 

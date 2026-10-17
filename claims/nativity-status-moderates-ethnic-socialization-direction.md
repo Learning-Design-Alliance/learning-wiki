@@ -15,12 +15,14 @@ sources:
     author: Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Family nativity status moderates the direction of association between family ethnic socialization and youth ethnic identity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Multi-group cross-lagged models showed significant differences by family nativity status in the cross-lag paths between family ethnic socialization and ethnic identity. [→ Umaña-Taylor Adriana J. 2013](#umana-taylor-adriana-j-2013)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A. (2013). Family Ethnic Socialization and Ethnic Identity: A Family-Driven, Youth-Driven, or Reciprocal Process? Journal of Family Psychology. https://doi.org/10.1037/a0031105
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Chi-square difference test comparing constrained and unconstrained multiple-group models across three nativity groups (U.S.-born n=67, Mexico-born n=24, mixed-nativity n=86) showed significant moderation by family nativity status of the cross-lagged paths between FES and EI.
 

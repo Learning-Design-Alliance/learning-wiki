@@ -15,12 +15,14 @@ sources:
     author: "Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Verbal working memory directly and positively predicts math performance in grades 3 and 4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Listening span (verbal WM) was significantly positively associated with math performance at the start of grade 3 (β = 0.15, P = 0.05) and grade 4 (β = 0.21, P < 0.01). [→ Pellizzoni 2021](#pellizzoni-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C. (2021). The interplay between math anxiety and working memory on math performance: a longitudinal study. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14722
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Path analysis (Model 1a) in 146 children; LS also negatively associated with DAYS_T (β = −0.37, P < 0.001) and AMAS (β = −0.15, P = 0.04). The authors say this "confirms the fundamental role of verbal WM as a math precursor".
 

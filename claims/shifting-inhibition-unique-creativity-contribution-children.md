@@ -15,12 +15,14 @@ sources:
     author: Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Once the child's level of intelligence is controlled, only the executive functions of shifting and inhibition continue to significantly predict creativity in children. [→ Krumm 2018](#krumm-2018)
@@ -31,7 +33,7 @@ sources:
 
 Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa. (2018). The contribution of executive functions to creativity in children: What is the role of crystallized and fluid intelligence?. Thinking Skills and Creativity. http://dx.doi.org/10.1016/j.tsc.2018.07.006
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational/regression analyses in a study of 209 children aged 8 to 13 administered measures of creativity, Gc, Gf and EFs. The article reports that "only shifting and inhibition continued to make a significant contribution to creativity" after intelligence was controlled; no effect size is printed.
 

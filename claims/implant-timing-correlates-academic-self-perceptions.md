@@ -15,18 +15,22 @@ sources:
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: marschark-m-2012-2
     resource: "https://doi.org/10.1080/08856257.2012.719106"
     title: "Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106"
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Among children with cochlear implants, later implantation correlates with more positive math self-views and longer use correlates negatively with math and scholastic self-views
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Later implant age correlated positively with math ability views (r = .53), while longer implant use correlated negatively with math (r = −.52) and overall scholastic views (r = −.60). [→ Marschark M 2012](#marschark-m-2012)
@@ -37,7 +41,7 @@ sources:
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Correlational analyses among the 15 deaf children with cochlear implants examined relations between questionnaire scale scores and implant age and duration. The article reports "children who received their implants later had more positive views of their math abilities, r (13) = .53", with longer use negatively associated with math views (r = −.52) and scholastic views (r = −.60).
 
@@ -47,7 +51,7 @@ Correlational analyses among the 15 deaf children with cochlear implants examine
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The authors offer competing interpretations of the correlations, stating "the locus of this finding is unclear" and proposing either later hearing losses or better early language development as explanations; no mechanism was tested.
 

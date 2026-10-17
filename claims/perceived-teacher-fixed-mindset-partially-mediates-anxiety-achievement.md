@@ -15,12 +15,14 @@ sources:
     author: Ramirez Gerardo, Hooper Sophia Yang, Kersting Nicole B., Ferguson Ronald, Yeager David
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students' perceptions of their teacher's fixed mindset partially mediate the relationship between teacher math anxiety and student math achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The indirect effect of teacher math anxiety on ninth-grade math achievement through perceived teacher fixed mindset was significant (b = –.02, p = .03), indicating partial mediation. [→ Ramirez Gerardo 2018](#ramirez-gerardo-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ramirez Gerardo, Hooper Sophia Yang, Kersting Nicole B., Ferguson Ronald, Yeager David. (2018). Teacher Math Anxiety Relates to Adolescent Students' Math Achievement. AERA Open. https://doi.org/10.1177/2332858418756052
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM mediation analysis with covariates in the same National Mindset Study sample; model fit was acceptable (CFI = .99, RMSEA = .02). The article reports the indirect effect "was significant, b = –.02, p = .03" and characterizes the mediation as partial. No standardized effect size is printed.
 

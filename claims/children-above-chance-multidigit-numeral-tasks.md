@@ -15,12 +15,14 @@ sources:
     author: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children from kindergarten through second grade perform significantly above chance on simple multidigit numeral identification and comparison tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Kindergarten, first-, and second-grade children performed significantly above chance on Which is x? and Which is more? tasks across numerals, blocks, and dots conditions. [→ Mix 2014](#mix-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 tested 91 children in kindergarten through second grade on mapping spoken number names to numerals, blocks, or dots and comparing quantities. The article reports that "Actual performance was significantly different from chance across age, task, and condition (all ps < .001)."
 

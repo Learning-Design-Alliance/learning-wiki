@@ -15,12 +15,14 @@ sources:
     author: Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Aerobic fitness group differences in cortical thickness are regionally specific, absent in middle frontal, middle temporal, and parietal areas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Some brain areas did not show aerobic fitness group differences in thickness, including anterior frontal, middle frontal, middle temporal, inferior temporal, superior parietal, and inferior parietal cortex. [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF. (2015). The Role of Aerobic Fitness in Cortical Thickness and Mathematics Achievement in Preadolescent Children. PLoS ONE 10(8): e0134115. https://doi.org/10.1371/journal.pone.0134115
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Follow-up univariate ANOVAs after the significant MANOVA tested each region of interest. The study reports "specificity to the aerobic fitness differences", with null results in anterior/middle frontal, temporal, and parietal regions (all p > 0.12).
 

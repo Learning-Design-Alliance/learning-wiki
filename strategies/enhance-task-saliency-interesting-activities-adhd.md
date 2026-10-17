@@ -17,7 +17,7 @@ sources:
 # Enhance the saliency of school and work tasks, and use intrinsically interesting activities to reinforce necessary but mundane behaviors, for learners with ADHD
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (4 review, 2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors recommend, on the basis of their findings and prior intervention work, that educators and clinicians use "interventions to enhance the saliency of school and work tasks to improve motivation and performance" in ADHD. One concrete tactic they name is using "intrinsically interesting activities (perhaps in areas where the individual shows talent and has successes) to reinforce mundane but necessary behaviors". This article itself tested no intervention; the recommendation rests on the motivation-deficit findings plus cited prior studies of motivational intervention and contingency management.
@@ -39,7 +39,7 @@ The authors recommend, on the basis of their findings and prior intervention wor
 - improved motivation and performance on school and work tasks that are not inherently rewarding
 
 ### Affordances
-- [Da Reward Pathway Hypofunction Adhd Motivation](../theories/da-reward-pathway-hypofunction-adhd-motivation.md)
+- Da Reward Pathway Hypofunction Adhd Motivation
 
 ## Claims
 

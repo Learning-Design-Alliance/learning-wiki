@@ -15,12 +15,14 @@ sources:
     author: Bailey Drew H., Siegler Robert S., Geary David C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # First graders' whole number magnitude knowledge predicts eighth graders' fraction magnitude knowledge after controlling for arithmetic, cognitive, and demographic variables
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` First graders' whole number magnitude knowledge uniquely predicted eighth graders' fraction magnitude knowledge, β = .27, p < .001. [→ Bailey Drew H. 2014](#bailey-drew-h-2014)
@@ -31,7 +33,7 @@ sources:
 
 Bailey Drew H., Siegler Robert S., Geary David C. (2014). Early Predictors of Middle School Fraction Knowledge. Developmental Science. https://doi.org/10.1111/desc.12155
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal regression analysis (N = 162) from a multi-year study of mathematical development; the standardized coefficient β = .27, p < .001 shows "first graders' whole number magnitude knowledge predicted eighth graders' fraction magnitude knowledge" with controls for IQ, executive function, demographics, and whole number arithmetic.
 

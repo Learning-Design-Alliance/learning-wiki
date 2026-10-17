@@ -15,12 +15,14 @@ sources:
     author: "Kleemans, T., Segers, E., & Verhoeven, L."
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological skills were not significantly correlated with fraction skills, and verbal reasoning was not significantly correlated with arithmetic skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Among 167 fifth graders, phonological skills did not correlate significantly with fraction skills (r = .059), and verbal reasoning did not correlate significantly with arithmetic skills (r = .101). [→ Kleemans 2018](#kleemans-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kleemans, T., Segers, E., & Verhoeven, L. (2018). Role of linguistic skills in fifth-grade mathematics. Journal of Experimental Child Psychology, 167, 404-413. https://doi.org/10.1016/j.jecp.2017.11.012
 
-`q3 · i0`
+`q3 · i0` · `associational · r2`
 
 Pearson correlations among predictor and criterion measures (N = 167) computed before the mediation analyses. The article prints r = .059 (p = .448) for phonological skills with fraction skills and r = .101 (p = .194) for verbal reasoning with arithmetic skills; both are non-significant.
 

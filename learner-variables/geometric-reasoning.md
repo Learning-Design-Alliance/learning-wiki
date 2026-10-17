@@ -12,7 +12,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 8 claims (6 show a difference, 2 mixed) · 6 studies (3 causal, 3 qualitative), `q1`–`q3` · 1 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (8 show a difference, 2 mixed) · 7 studies (3 causal, 3 qualitative, 1 associational), `q1`–`q3` · 1 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.

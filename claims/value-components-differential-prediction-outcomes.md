@@ -15,12 +15,14 @@ sources:
     author: "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U."
     q: 2
     i: 3
+    kind: associational
+    rigour: 3
 ---
 
 # Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` After partialing out global value, math achievement was more associated with low cost whereas self-rated effort was more associated with attainment value (β = .58). [→ Guo 2016](#guo-2016)
@@ -32,7 +34,7 @@ sources:
 
 Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U. (2016). Probing the Unique Contributions of Self-Concept, Task Values, and Their Interactions Using Multiple Value Facets and Multiple Academic Outcomes. AERA Open. https://doi.org/10.1177/2332858415626884
 
-`q2 · i3`
+`q2 · i3` · `associational · r3`
 
 SEM Models C2–C4 with the second-order bi-factor value structure. Attainment value predicted effort at β = .58 (.03)*** and engagement at β = .23; low cost predicted achievement (β = .26 in Model C2, reduced to .09 after global value); the text reports "utility value did not make a unique contribution in predicting the three outcomes".
 

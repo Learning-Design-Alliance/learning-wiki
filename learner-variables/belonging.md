@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (48 show a difference, 7 mixed, 1 no difference) · 50 studies (14 review, 11 qualitative, 10 causal, 5 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 1 of 50 report an effect size · 51 claims rest on one study
+> **Evidence** · 59 claims (50 show a difference, 8 mixed, 1 no difference) · 52 studies (14 review, 11 qualitative, 10 causal, 7 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 52 report an effect size · 54 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].

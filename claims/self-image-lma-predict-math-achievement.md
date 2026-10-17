@@ -13,12 +13,14 @@ sources:
     title: Lai Y 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hierarchical regression showed self-image (β = 0.20, p < .05) and LMA (β = -2.51, p < .01) significantly predicted mathematics achievement scores with IQ partialled out, while self-regulation, strategies, motivation, and MEA did not. [→ Lai Y 2015](#lai-y-2015)
@@ -29,7 +31,7 @@ sources:
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression on the full sample with IQ at step 1 (R2 = 0.47); step 2 added metacognition dimensions (self-image β = 0.20 significant) and separately anxiety (LMA β = -2.51 significant; MEA β = 0.13 non-significant).
 

@@ -15,12 +15,14 @@ sources:
     author: Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Verbal STM/WM, sustained attention, stop signal performance, finger knowledge, line bisection, symmetry and mental rotation showed no significant partial correlations with math. [→ Szűcs Dénes 2014](#szucs-denes-2014)
@@ -31,7 +33,7 @@ sources:
 
 Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2014). Cognitive components of a mathematical processing network in 9-year-old children. Developmental Science. https://doi.org/10.1111/desc.12144
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Zero-order and partial correlation analyses (controlling WISC Vocabulary, Block Design, Raven) in the 98-child sample; verbal STM (Word Recall), sustained attention, stop signal, symmetry and mental rotation also lacked significant partial correlations with math.
 

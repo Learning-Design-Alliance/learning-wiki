@@ -15,18 +15,22 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: rosenberg-lee-2014-2
     resource: "https://doi.org/10.1111/desc.12216"
     title: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216"
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant Group × Operation interaction revealed greater DD activation in bilateral IPS, right SPL and left fusiform gyrus during subtraction relative to addition, with no group differences during addition (except right SPL). [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -38,7 +42,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Whole-brain Group × Operation interaction analysis in the block-design fMRI study. The study found "children with DD showed greater activation in the bilateral IPS, right superior parietal lobule, and left fusiform gyrus during subtraction, compared to addition", with only right SPL differing during addition.
 
@@ -48,7 +52,7 @@ Whole-brain Group × Operation interaction analysis in the block-design fMRI stu
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Four-way ANOVA over cytoarchitectonic IPS subdivisions (hIP1, hIP2, hIP3) with a significant Group × Operation interaction (F(34, 1) = 6.20, p = .018). Follow-ups showed "children with DD did not differ from TD children in their IPS response during addition problem solving (F(34, 1) = .33, p = .569)" but greater activation during subtraction.
 

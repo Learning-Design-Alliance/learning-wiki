@@ -15,12 +15,14 @@ sources:
     author: Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parent-reported everyday functioning (PEACH) correlates significantly with standardized language measures in 3-year-old children with hearing loss
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` PEACH scores correlated significantly with PLS-4 scores and CDI language quotients. [→ Ching Teresa Y. C. 2010](#ching-teresa-y-c-2010)
@@ -31,7 +33,7 @@ sources:
 
 Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia (2010). Language development and everyday functioning of children with hearing loss assessed at 3 years of age. International journal of speech-language pathology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094718/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Spearman rank order correlations in the same cross-sectional LOCHI sample; Table III shows PEACH correlations of .57 with PLS-AC, .60 with PLS-EC, and .62 with CDI-LCQ (p < .01). The article reports "significant correlations between children’s everyday life functioning as observed by parents (PEACH scores) and language ability".
 

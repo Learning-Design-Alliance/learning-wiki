@@ -15,12 +15,14 @@ sources:
     author: "Hyde, D. C., Khanum, S., & Spelke, E. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The training-condition effect on symbolic arithmetic speed persists after controlling for training task reaction time and accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The critical main effect of Training Condition on speed remained significant after accounting for training task reaction time (F (3, 91) = 8.680, p < .001) and accuracy (F (3, 91) = 4.285, p < .01) as covariates. [→ Hyde 2014](#hyde-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hyde, D. C., Khanum, S., & Spelke, E. S. (2014). Brief non-symbolic, approximate number practice enhances subsequent exact symbolic arithmetic in children. Cognition, 131(1), 92-107. https://doi.org/10.1016/j.cognition.2013.12.007
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Further analyses in Experiment 1 addressed the alternative account that task difficulty or engagement explained group differences. The article reports the main effect "remained significant even after effects of training task reaction time" and accuracy were covariates, ruling out difficulty/engagement explanations.
 

@@ -15,12 +15,14 @@ sources:
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Metacognitive awareness of VSTM performance becomes less accurate with age but remains well above chance across the adult life span
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The trial-wise correlation between confidence and actual error weakened with age, with printed correlations of r = -0.23 unadjusted, r = -0.14 after sensorimotor adjustment, and r = -0.08 after adjusting for VSTM performance. [→ Daniel J. Mitchell 2018](#daniel-j-mitchell-2018)
@@ -31,7 +33,7 @@ sources:
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Correlational analysis of metacognitive awareness (confidence-error partial correlation) against age in the Cam-CAN sample, run with and without sensorimotor and VSTM-performance adjustment. The decline was minimal after adjusting for VSTM performance.
 

@@ -13,12 +13,14 @@ sources:
     title: Salillas E 2009
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The authors interpret blind participants' number-space congruency processing as restricted to a controlled, working-memory-dependent cognitive level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors propose that blind individuals apply working memory resources to compute number-space congruency, whereas sighted congruency effects arise at the sensory level. [→ Salillas E 2009](#salillas-e-2009)
@@ -29,7 +31,7 @@ sources:
 
 Salillas E, Grana´ A, El-Yagoubi R, Semenza C (2009) Numbers in the Blind's ''Eye''. PLoS ONE 4(7): e6357. https://doi.org/10.1371/journal.pone.0006357
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Authors' interpretation in the Discussion, not a separately tested result: the P300 is described as reflecting attention allocation and maintenance of a representation in working memory, and the absence of N100 modulation in the blind as indicating number representation activation does not influence sensory target processing. No effect size is printed.
 

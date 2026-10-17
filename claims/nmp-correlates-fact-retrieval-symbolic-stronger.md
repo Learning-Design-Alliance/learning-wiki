@@ -13,12 +13,14 @@ sources:
     title: Bellon E 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with better numerical magnitude processing skills showed better arithmetic fact retrieval performance, with a stronger association for symbolic than non-symbolic comparison. [→ Bellon E 2016](#bellon-e-2016)
@@ -29,7 +31,7 @@ sources:
 
 Bellon E, Fias W and De Smedt B (2016) Are Individual Differences in Arithmetic Fact Retrieval in Children Related to Inhibition? Front. Psychol. 7:825. https://doi.org/10.3389/fpsyg.2016.00825
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Pearson (partial, motor-RT-controlled) correlations in 86 third graders; the symbolic–verification correlation (r = 0.61) was stronger than non-symbolic (r = 0.26), a difference the William-Steiger test found significant.
 

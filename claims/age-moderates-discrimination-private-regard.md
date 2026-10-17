@@ -15,12 +15,14 @@ sources:
     author: Seaton Eleanor K., Yip Tiffany, Sellers Robert M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Age moderates the discrimination–private regard relation: discrimination at Time 2 predicts lower private regard at Time 3 among late (17–18) but not middle adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Nested model comparisons showed the discrimination–private regard relation differed by age group, with more frequent discrimination at Time 2 associated with lower private regard at Time 3 among late adolescents. [→ Seaton Eleanor K. 2009](#seaton-eleanor-k-2009)
@@ -31,7 +33,7 @@ sources:
 
 Seaton Eleanor K., Yip Tiffany, Sellers Robert M. (2009). A Longitudinal Examination of Racial Identity and Racial Discrimination Among African American Adolescents. Child Development. https://doi.org/10.1111/j.1467-8624.2009.01268.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Nested SEM comparison constraining regression coefficients equal across middle (14–16, n = 87) and late (17–18, n = 132) adolescents; the constrained model significantly worsened fit for private regard (ΔX2 = 16.21, Δdf = 8, p < .05), indicating non-equivalence across age groups, with the negative cross-lag present only among late adolescents.
 

@@ -15,12 +15,14 @@ sources:
     author: Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Treatment classroom teachers demonstrated better classroom management than control teachers (Wilks Lambda = .77, F(8, 453) = 16.67, p < .001), with students spending more time in instruction, small groups, and independent work, and less time in disruptions. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)
@@ -31,7 +33,7 @@ sources:
 
 Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J. (2010). First graders' literacy and self-regulation gains: The effect of individualizing student instruction. Journal of School Psychology. https://doi.org/10.1016/j.jsp.2010.06.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multivariate General Linear Modeling compared videotaped classroom observations (fall, winter, early spring) of the 120-minute literacy block across treatment and control classrooms. Treatment students spent significantly more time in instruction and less in disruptions.
 

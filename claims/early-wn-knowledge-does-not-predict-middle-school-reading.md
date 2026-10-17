@@ -15,12 +15,14 @@ sources:
     author: Bailey Drew H., Siegler Robert S., Geary David C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Neither first-grade whole number magnitude nor arithmetic knowledge uniquely predicted eighth-grade reading achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Reading achievement in eighth grade was not uniquely predicted by either whole number variable in first grade; it was predicted by IQ, central executive functioning, and parental education. [→ Bailey Drew H. 2014](#bailey-drew-h-2014)
@@ -31,7 +33,7 @@ sources:
 
 Bailey Drew H., Siegler Robert S., Geary David C. (2014). Early Predictors of Middle School Fraction Knowledge. Developmental Science. https://doi.org/10.1111/desc.12155
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analysis (N = 162) with eighth-grade Word Reading as outcome; the null finding indicates "reading achievement in eighth grade was not uniquely predicted by either whole number variable". Instead IQ (β = .29), central executive functioning (β = .29), and parental education (β = .24) were significant predictors.
 

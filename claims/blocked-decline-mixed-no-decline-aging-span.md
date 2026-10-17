@@ -15,12 +15,14 @@ sources:
     author: "Chiappe, P., Hasher, L., & Siegel, L. S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The blocked design showed span increasing until about age 20 then declining, whereas the mixed design showed increases across the life span with no adult decline except for poor readers. [→ Chiappe 2000](#chiappe-2000)
@@ -31,7 +33,7 @@ sources:
 
 Chiappe, P., Hasher, L., & Siegel, L. S. (2000). Working memory, inhibitory control, and reading disability. Memory & Cognition, 28(1), 8-17. https://doi.org/10.3758/bf03211570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Experiment 2 results for the mixed listening span design contrast with Experiment 1's blocked design, which showed scores starting to decline after age 20. Adults over 19 had significantly higher span scores than children and adolescents, with adult groups not differing.
 

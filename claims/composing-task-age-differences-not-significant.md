@@ -15,12 +15,14 @@ sources:
     author: Puranik, Cynthia S., Lonigan, Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Age differences on composing tasks (Picture Description, Sentence Retell) were not significant, unlike letter, name, and spelling tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Differences between age groups on Picture Description and Sentence Retell were not significant, whereas letter writing increased significantly at each age step. [→ Puranik 2011](#puranik-2011)
@@ -31,7 +33,7 @@ sources:
 
 Puranik, Cynthia S., Lonigan, Christopher J. (2011). From Scribbles to Scrabble: Preschool Children's Developing Knowledge of Written Language. Reading and Writing. https://doi.org/10.1007/s11145-009-9220-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 ANOVA results for the composing tasks in the 372-child sample: Table 2 reports F(2,369) = 1.05 for Picture Description (non-significant) and F(2,369) = 4.70 for Sentence Retell (p < .01, only 3 < 5). The article states composing differences between age groups "were not significant," implying some skills are later developing.
 

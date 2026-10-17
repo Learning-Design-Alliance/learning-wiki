@@ -15,12 +15,14 @@ sources:
     author: "Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Most 3–5-year-old children who first learned an inefficient puzzlebox method switched to a witnessed, more efficient alternative
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 62% of children in the Inefficient first condition switched from the inefficient to the efficient method after witnessing it. [→ Davis 2022](#davis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H. (2022). Cognitive flexibility supports the development of cumulative cultural learning in children. Scientific Reports. https://doi.org/10.1038/s41598-022-18231-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the Inefficient first condition of the Serialbox experiment with 3–5-year-olds (N = 167), "a total of 72 children (62%) switched from the inefficient to the efficient method once they witnessed E1 use it". Most switching occurred in Phase 2 before the token was placed in the dent.
 

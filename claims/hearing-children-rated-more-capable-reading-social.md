@@ -15,18 +15,22 @@ sources:
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: marschark-m-2012-2
     resource: "https://doi.org/10.1080/08856257.2012.719106"
     title: "Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106"
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Hearing children are rated as more capable in reading and more socially successful than deaf children by both children and parents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hearing children were seen as more capable in reading than deaf children. [→ Marschark M 2012](#marschark-m-2012)
@@ -38,7 +42,7 @@ sources:
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The 2 by 2 ANOVA on the Reading scale showed only a hearing-status main effect, with "hearing children were seen as more capable in reading than deaf children overall"; the article notes this is consistent with objective achievement testing findings. No effect size was printed.
 
@@ -48,7 +52,7 @@ The 2 by 2 ANOVA on the Reading scale showed only a hearing-status main effect, 
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 In the three-group ANOVA (deaf with implants, deaf without implants, hearing), the Social-Emotional scale showed a hearing-status main effect: "hearing children were seen to be more socially successful than deaf children with or without cochlear implants". No effect size was printed.
 

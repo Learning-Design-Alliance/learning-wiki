@@ -13,16 +13,20 @@ sources:
     title: Lai Y 2015
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: lai-y-2015-2
     title: Lai Y 2015 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` ANCOVA on learning mathematics anxiety showed a group effect approaching significance (F(3,90) = 2.67, p = .05, ηp2 = .08), with the MLD group (M = 1.97) significantly higher than LA (M = 1.66), TA (M = 1.55), and HA (M = 1.54) groups. [→ Lai Y 2015](#lai-y-2015)
@@ -34,7 +38,7 @@ sources:
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 ANCOVA with IQ as covariate across the four achievement groups; the main effect was "approaching significance, F(3,90) = 2.67, p = .05". Other groups did not differ from each other (ps > .05). With the full TA group the effect was significant (F(3, 211) = 3.10, p < .05, ηp2 = .04).
 
@@ -44,7 +48,7 @@ ANCOVA with IQ as covariate across the four achievement groups; the main effect 
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The abstract and results report that MLD children scored higher in learning mathematics anxiety "but not in mathematical evaluation anxiety (MEA)"; no test statistic for the MEA group comparison is printed in the text provided.
 

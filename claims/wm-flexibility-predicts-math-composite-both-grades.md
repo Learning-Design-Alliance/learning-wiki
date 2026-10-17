@@ -15,12 +15,14 @@ sources:
     author: Viterbori, P.; Usai, M. C.; Traverso, L.; De Franchis, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The math composite scores in Grades 1 and 3 were predicted by the preschool WM–flexibility factor. [→ Viterbori 2015](#viterbori-2015)
@@ -31,7 +33,7 @@ sources:
 
 Viterbori, P.; Usai, M. C.; Traverso, L.; De Franchis, V. (2015). How preschool executive functioning predicts several aspects of math achievement in Grades 1 and 3: A longitudinal study. https://hdl.handle.net/11567/813133
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Structural equation model testing whether kindergarten EF components explained math achievement in Grades 1 and 3; the article reports "The math composite scores were predicted by the WM–flexibility factor at both grade levels."
 

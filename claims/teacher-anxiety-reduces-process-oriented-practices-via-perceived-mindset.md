@@ -15,12 +15,14 @@ sources:
     author: Ramirez Gerardo, Hooper Sophia Yang, Kersting Nicole B., Ferguson Ronald, Yeager David
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher teacher math anxiety relates to fewer process-oriented teaching practices as reported by students, which partially explains students' perception of the teacher's fixed mindset
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teacher math anxiety was negatively related to students' reports of process-oriented teaching practices, and the indirect effect on perceived teacher fixed mindset through these practices was significant (b = .08, p = .007). [→ Ramirez Gerardo 2018](#ramirez-gerardo-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ramirez Gerardo, Hooper Sophia Yang, Kersting Nicole B., Ferguson Ronald, Yeager David. (2018). Teacher Math Anxiety Relates to Adolescent Students' Math Achievement. AERA Open. https://doi.org/10.1177/2332858418756052
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM mediation model with covariates in the National Mindset Study sample; fit was acceptable (CFI = .98, RMSEA = .03). Process-oriented practices were measured with Tripod 7Cs Challenge items (α = .84). The article reports the indirect effect "was significant, b = .08, p = .007"; no standardized effect size is printed.
 

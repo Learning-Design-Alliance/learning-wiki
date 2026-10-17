@@ -15,12 +15,14 @@ sources:
     author: Kirkpatrick, Kathryn M.
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Perceived school belonging predicts on-time high school completion more strongly for students with chronic medical conditions than for healthy peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Diagnostic status moderated the relation between perceived belonging and on-time completion: each unit increase in belonging was associated with a 63% increase in the odds of on-time graduation for students with a chronic medical condition (OR = 1.629, p = .003). [→ Kirkpatrick 2020](#kirkpatrick-2020)
@@ -31,7 +33,7 @@ sources:
 
 Kirkpatrick, Kathryn M. (2020). Adolescents With Chronic Medical Conditions and High School Completion: The Importance of Perceived School Belonging. Continuity in Education, 1(1), 50–63. https://doi.org/10.5334/cie.5
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Design-based logistic regression on the full Add Health data set with Wave IV weights (N = 10,253), controlling demographics, grades, and health report. The article states "An odds ratio of this magnitude is considered to have a small effect size" (OR = 1.629).
 

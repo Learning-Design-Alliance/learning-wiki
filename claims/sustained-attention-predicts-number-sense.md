@@ -15,12 +15,14 @@ sources:
     author: Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sustained attention predicts number sense task performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Sustained Attention emerged as the most robust predictor of number sense variables in supplementary analyses. [→ Szűcs Dénes 2014](#szucs-denes-2014)
@@ -31,7 +33,7 @@ sources:
 
 Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2014). Cognitive components of a mathematical processing network in 9-year-old children. Developmental Science. https://doi.org/10.1111/desc.12144
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Supplementary regression analyses predicting number sense measures; the article reports in summary that "Sustained Attention emerged as the most robust predictor of number sense variables". Details are in Supplementary Results not fully reproduced here.
 

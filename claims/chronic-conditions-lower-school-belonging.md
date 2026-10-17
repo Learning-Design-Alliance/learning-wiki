@@ -15,12 +15,14 @@ sources:
     author: Kirkpatrick, Kathryn M.
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Adolescents with chronic medical conditions report lower perceived school belonging than their healthy peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Students with chronic medical conditions reported significantly lower levels of perceived school belonging than healthy peers, with a small effect size. [→ Kirkpatrick 2020](#kirkpatrick-2020)
@@ -31,7 +33,7 @@ sources:
 
 Kirkpatrick, Kathryn M. (2020). Adolescents With Chronic Medical Conditions and High School Completion: The Importance of Perceived School Belonging. Continuity in Education, 1(1), 50–63. https://doi.org/10.5334/cie.5
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 T-test comparing subsamples of the Add Health Wave I data: healthy group (N = 897) versus chronic medical condition group (N = 629). The chronic group's mean belonging was lower, "with an effect size in the small range (d = 0.23; Cohen, 1988)".
 

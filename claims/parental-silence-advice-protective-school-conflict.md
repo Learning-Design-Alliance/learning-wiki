@@ -15,12 +15,14 @@ sources:
     author: Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` All 12 participants reported seeking parental support after school conflict, and parents consistently advised ignoring or not engaging with teachers and classmates. [→ Burnett Marketa 2022](#burnett-marketa-2022)
@@ -31,7 +33,7 @@ sources:
 
 Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M. (2022). “When I Think of Black Girls, I Think of Opportunities”: Black Girls' Identity Development and the Protective Role of Parental Socialization in Educational Settings. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2022.933476
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of the 12 interviews found that "All 12 participants mentioned that their parents helped them to navigate classroom or school-based conflict," with conflicts commonly rooted in racism and/or sexism.
 

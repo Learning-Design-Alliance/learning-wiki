@@ -12,7 +12,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 29 claims (11 show a difference, 8 mixed, 10 no difference) · 21 studies (14 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q3` · 14 of 21 report an effect size · 28 claims rest on one study
+> **Evidence** · 39 claims (20 show a difference, 8 mixed, 11 no difference) · 23 studies (14 causal, 4 quant-synthesis, 3 associational, 1 qualitative, 1 design), `q1`–`q3` · 15 of 23 report an effect size · 38 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.

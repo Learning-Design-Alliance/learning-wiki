@@ -15,12 +15,14 @@ sources:
     author: "Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Cognitive benefits of balance training do not differ by age in adults aged 19–65
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Age did not correlate with pre-to-post change in any physical or cognitive variable (all r < 0.12, p > 0.250). [→ Rogge 2017](#rogge-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K. (2017). Balance training improves memory and spatial cognition in healthy adults. Scientific Reports 7:5661. https://doi.org/10.1038/s41598-017-06071-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Pearson correlations between age and change scores across physical and cognitive variables were non-significant; the authors call for larger samples to test age-group differences with higher power.
 

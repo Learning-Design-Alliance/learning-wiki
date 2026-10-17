@@ -15,18 +15,22 @@ sources:
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: puranik-cynthia-s-2014-2
     resource: "https://doi.org/10.1016/j.jecp.2014.07.009"
     title: "Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009"
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q1`–`q3`
 
 ## Subclaims
 `q3 i?` For 5-year-olds, letter-sound knowledge raised the probability of correct writing from 50% to 60%, a smaller gain than letter-name knowledge. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
@@ -38,7 +42,7 @@ sources:
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model 5 fixed effects for 5-year-olds. Letter-sound knowledge was significant but the probability gain (50% to 60%) was smaller than for letter-name knowledge; no standardized effect size is printed.
 
@@ -48,7 +52,7 @@ Model 5 fixed effects for 5-year-olds. Letter-sound knowledge was significant bu
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Authors' interpretation in the discussion of why phonological awareness played a smaller role than in letter-sound learning; this is an explanatory claim, not a tested result.
 

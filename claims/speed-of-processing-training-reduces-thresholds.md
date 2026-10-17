@@ -15,18 +15,22 @@ sources:
     author: Owsley Cynthia
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: owsley-cynthia-2012-2
     resource: "https://doi.org/10.1016/j.visres.2012.11.014"
     title: "Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014"
     author: Owsley Cynthia
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Speed-of-processing training based on UFOV tasks reduces minimum duration thresholds in older adults, with benefits persisting up to two years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Practice on UFOV-based computer tasks leads to reductions in minimum duration thresholds, and training benefits are still manifest up to two years later. [→ Owsley Cynthia 2012](#owsley-cynthia-2012)
@@ -38,7 +42,7 @@ sources:
 
 Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review reports multiple studies including a randomized multi-site NIH-sponsored clinical trial showing UFOV-based training "leads to reductions in minimum duration thresholds", i.e. visual processing was speeded up, with benefits still manifest up to two years later. No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports multiple studies including a randomized multi-site NIH-sponso
 
 Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports moderator findings: trainees with elevated baseline duration thresholds benefit most, while educational level has no impact on training gains. Efficacy for visually impaired older adults and for those with mild cognitive impairment remains undetermined, though some evidence suggests those with MCI-consistent memory deficits may improve.
 

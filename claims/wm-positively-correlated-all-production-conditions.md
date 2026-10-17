@@ -13,12 +13,14 @@ sources:
     title: Sung JE 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Working-memory capacity correlates positively with accuracy on all four sentence-production conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` WM capacity correlates positively with all four conditions, with coefficients from .398 to .586. [→ Sung JE 2015](#sung-je-2015)
@@ -29,7 +31,7 @@ sources:
 
 Sung JE (2015) Age-Related Changes in Sentence Production Abilities and Their Relation to Working-Memory Capacity: Evidence from a Verb-Final Language. PLoS ONE 10(4): e0119424. https://doi.org/10.1371/journal.pone.0119424
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlations between a composite WM-capacity index (average of digits-forward, digits-backward, words-forward, words-backward tasks) and accuracy on the four production conditions in the same 60-participant study. The article prints coefficients ". 503,. 586,. 474, and. 398", including r = .586 for the priming-noncanonical condition.
 

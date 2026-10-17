@@ -13,16 +13,20 @@ sources:
     title: Reid Smith 2021
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: reid-smith-2021-2
     title: Reid Smith 2021 (2)
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Text cohesion interacts with background knowledge: low-knowledge readers benefit from high cohesion, high-knowledge readers from low cohesion (reverse cohesion effect)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Readers with less knowledge recall more and answer inferential questions better after reading highly cohesive and coherent texts. [→ Reid Smith 2021](#reid-smith-2021)
@@ -34,7 +38,7 @@ sources:
 
 Reid Smith, Pamela Snow, Tanya Serry & Lorraine Hammond (2021) The Role of Background Knowledge in Reading Comprehension: A Critical Review, Reading Psychology, 42:3, 214-240, https://doi.org/10.1080/02702711.2021.1888348
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports McNamara et al. (1996) finding that low-knowledge readers benefit from cohesive texts that provide more support for textbase and situation model production.
 
@@ -44,7 +48,7 @@ Review reports McNamara et al. (1996) finding that low-knowledge readers benefit
 
 Reid Smith, Pamela Snow, Tanya Serry & Lorraine Hammond (2021) The Role of Background Knowledge in Reading Comprehension: A Critical Review, Reading Psychology, 42:3, 214-240, https://doi.org/10.1080/02702711.2021.1888348
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports the reverse cohesion effect for high-knowledge readers, who process low-cohesion texts more actively and form richer situation models.
 

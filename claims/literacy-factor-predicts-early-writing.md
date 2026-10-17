@@ -15,12 +15,14 @@ sources:
     author: "Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Early literacy skill was uniquely and positively related to kindergarten composition fluency (γ = .58, p < .001) and to first-grade fluency (γ = .60, p < .001) and quality (γ = .36, p < .001). [→ Kent 2014](#kent-2014)
@@ -31,7 +33,7 @@ sources:
 
 Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writing fluency and quality in kindergarten and first grade: The role of attention, reading, transcription, and oral language. Reading and Writing, 27(7), 1163-1188. https://doi.org/10.1007/s11145-013-9480-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 SEM of kindergarten writing production in the 265-student sample. Reading and spelling factors were so highly related (r = .95) that a second-order literacy factor was preferred via chi-square difference test (Δχ2 = 8.84, df = 4, p = .065); literacy showed the largest unique path to compositional fluency.
 

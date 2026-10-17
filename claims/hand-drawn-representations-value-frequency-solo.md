@@ -15,12 +15,14 @@ sources:
     author: Lyn D English and Jane M Watson
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students produced a wide range of self-chosen hand-drawn representations, mostly frequency-based, but most summary statements only described the graph rather than its message
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 90 hand-drawn representations, 58% focused on frequency of measurements and 36% on the measured values, and of 84 summary statements the most frequent response was a strict description of the graph (35%, SOLO code 1) rather than a message combining variation and expectation (17%, code 3). [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)
@@ -31,7 +33,7 @@ sources:
 
 Lyn D English and Jane M Watson. (2015). Exploring variation in measurement as a foundation for statistical thinking in the elementary school. International Journal of STEM Education (2015) 2:3. https://doi.org/10.1186/s40594-015-0016-x
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of hand-drawn representations (n = 90) and SOLO-coded summary statements (n = 84) from the single-student scenario. Table 5 reports 35% code 1, 27% variation description, 7% expectation, 17% both expectation and variation. "58% focused on the frequency (F) with which the measured values occurred."
 

@@ -15,12 +15,14 @@ sources:
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Parents rate their children as more socially successful than the children rate themselves, regardless of hearing status
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Across deaf and hearing families, parents gave higher social-emotional ratings than children gave themselves. [→ Marschark M 2012](#marschark-m-2012)
@@ -31,7 +33,7 @@ sources:
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 A 2 (hearing status) by 2 (child vs parent) ANOVA on the Social-Emotional scale in the study of 54 deaf and 54 hearing children found a group main effect: "parents saw their children as more socially successful than the children saw themselves". No effect size was printed.
 

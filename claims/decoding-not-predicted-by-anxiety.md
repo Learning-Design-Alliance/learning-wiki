@@ -15,12 +15,14 @@ sources:
     author: Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # End-of-year decoding was not predicted by any mid-year anxiety subscale
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` None of the MASC anxiety subscales measured at T1 significantly predicted T2 decoding performance, in contrast to the positive anxiety-fluency relation. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
@@ -31,7 +33,7 @@ sources:
 
 Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K. (2012). Anxiety and Reading Difficulties in Early Elementary School: Evidence for Unidirectional- or Bi-Directional Relations? Child Psychiatry and Human Development, 43(1), 35-47. https://doi.org/10.1007/s10578-011-0246-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null finding from the anxiety-predicting-achievement regression set in the 153-child first-grade sample: T1 achievement was the only significant predictor of T2 decoding in all cases. No effect size is printed for this null; equivalence was not tested.
 

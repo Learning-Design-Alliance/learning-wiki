@@ -13,12 +13,14 @@ sources:
     title: Reid Smith 2021
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across several reviewed studies, knowledge had a much greater impact on children's ability to read expository texts compared to narrative texts. [→ Reid Smith 2021](#reid-smith-2021)
@@ -29,7 +31,7 @@ sources:
 
 Reid Smith, Pamela Snow, Tanya Serry & Lorraine Hammond (2021) The Role of Background Knowledge in Reading Comprehension: A Critical Review, Reading Psychology, 42:3, 214-240, https://doi.org/10.1080/02702711.2021.1888348
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review synthesis across multiple studies on genre effects. Expository texts were used in 20 of 23 reviewed studies, consistent with the field's focus on expository text difficulty.
 

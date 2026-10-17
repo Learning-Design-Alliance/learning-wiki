@@ -15,12 +15,14 @@ sources:
     author: "Kendeou, P., & van den Broek, P."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Readers with misconceptions generate more incorrect and fewer correct knowledge-based inferences than readers without misconceptions, in both text structures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The misconception group generated significantly fewer correct inferences (M = 7.5 vs. 13.9) and significantly more incorrect inferences (M = 3.8 vs. 0.5) than the nonmisconception group (incorrect-inference η² = .33). [→ Kendeou 2007](#kendeou-2007)
@@ -31,7 +33,7 @@ sources:
 
 Kendeou, P., & van den Broek, P. (2007). The effects of prior knowledge and text structure on comprehension processes during reading of scientific texts. Memory & Cognition, 35(7), 1567-1577. https://doi.org/10.3758/bf03193491
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Think-aloud study (Experiment 1) coding seven categories of cognitive processes; prior knowledge main effects on correct (η² = .15) and incorrect (η² = .33) inferences were significant with covariates for reading span and Need for Cognition. The misconception group made "significantly more incorrect inferences (M  3.8)" versus 0.5 for the nonmisconception group.
 

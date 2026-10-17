@@ -15,12 +15,14 @@ sources:
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Vowels were easier for 3- and 4-year-olds to write than CV letters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` For 3-year-olds, students had a higher probability of correctly writing vowels compared with CV letters. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
@@ -31,7 +33,7 @@ sources:
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Model 5 fixed effects for 3-year-olds, with CV letters as the referent category. The vowel contrast was significant; no standardized effect size is printed, and the article does not report this contrast for 5-year-olds.
 

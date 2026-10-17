@@ -15,12 +15,14 @@ sources:
     author: Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Changes in cortisol did not predict perseverative errors in any sex
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across all participants, and separately within males and females, cortisol change did not significantly predict perseverative errors. [→ Shields Grant S. 2016](#shields-grant-s-2016)
@@ -31,7 +33,7 @@ sources:
 
 Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary null analysis in the randomized experiment relating cortisol change to log-transformed perseverative errors. The article reports only p-values ("p=.781", "p=.205", "p=.844") with no effect size.
 

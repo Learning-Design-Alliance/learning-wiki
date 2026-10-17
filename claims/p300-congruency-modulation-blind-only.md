@@ -13,12 +13,14 @@ sources:
     title: Salillas E 2009
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Number-size/location congruency modulates the cognitive P300 only in blind participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In blind participants, congruent trials elicited larger P300 amplitudes than incongruent trials, with no interaction with target side. [→ Salillas E 2009](#salillas-e-2009)
@@ -29,7 +31,7 @@ sources:
 
 Salillas E, Grana´ A, El-Yagoubi R, Semenza C (2009) Numbers in the Blind's ''Eye''. PLoS ONE 4(7): e6357. https://doi.org/10.1371/journal.pone.0006357
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 ERP experiment (delayed detection) with seven early-onset blind and seven sighted adults. The group x congruency interaction indicated the P300 congruency effect appeared "only for the blind group"; larger amplitudes for congruent trials appeared in the blind group with no interaction with side of target presentation. No effect size is printed.
 

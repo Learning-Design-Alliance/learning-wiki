@@ -15,12 +15,14 @@ sources:
     author: Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # For U.S.-born Mexican-origin youth with U.S.-born parents, youth ethnic identity predicts later family ethnic socialization but not vice versa (a youth-driven process)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among U.S.-born youth with U.S.-born parents, youths' ethnic identity significantly predicted their future perceptions of family ethnic socialization, but perceptions of family ethnic socialization did not predict future ethnic identity. [→ Umaña-Taylor Adriana J. 2013](#umana-taylor-adriana-j-2013)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A. (2013). Family Ethnic Socialization and Ethnic Identity: A Family-Driven, Youth-Driven, or Reciprocal Process? Journal of Family Psychology. https://doi.org/10.1037/a0031105
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-lagged panel model results for the U.S.-born family nativity group (n = 67). The Phase 3 EI to Phase 4 FES path was significant (β = .38, p < .01), while the FES-to-EI path was not significant, suggesting youth agency drives ethnic socialization in families with longer U.S. generational history.
 

@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Coordinate plane placement accuracy shows no x- versus y-axis difference; quadrant errors are driven by sign transpositions in a small subset of students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A 2 (axis) by 4 (quadrant) repeated measures ANOVA found a non-significant axis effect, a significant quadrant effect, and a non-significant interaction; error rates were higher in quadrants II and IV due to transpositions. [→ Geary David C. 2015](#geary-david-c-2015)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N. (2015). Individual Differences in Algebraic Cognition: Relation to the Approximate Number and Sematic Memory Systems. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2015.07.010
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Repeated measures ANOVA on percent absolute error for x- and y-axis placements in the 171-student sample. The authors report error rates were higher for quadrant II and IV pairs, driven by sign transpositions committed largely by a small number of students (58% of double transpositions by 7 students).
 

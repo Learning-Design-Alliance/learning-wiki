@@ -13,12 +13,14 @@ sources:
     title: Lai Y 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Children with MLD score lower in self-image than typical and high achievers when IQ is partialled out
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` ANCOVA controlling for IQ showed a significant group effect on self-image (F(3, 211) = 3.84, p < .05, ηp2 = .11, 1 - β = .81), with MLD children (M = 3.21) significantly lower than TA (M = 3.76) and HA (M = 3.98) children. [→ Lai Y 2015](#lai-y-2015)
@@ -29,7 +31,7 @@ sources:
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 ANCOVA on four achievement groups (MLD n = 18, LA n = 29, TA subsample n = 30, HA n = 19) with IQ as covariate. LSD post hoc comparisons showed MLD self-image "significantly lower than TA and HA groups"; the MLD-LA difference was only approaching significance (p = .05).
 

@@ -45,7 +45,7 @@ The framework treats data analysis as proceeding through three stages: explorati
 
 ## Examples
 
-- [Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video](../research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection.md)
+- [Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video](../research-methods/multimodal-analysis.md)
 - [Design teacher-facing analytics that support interpretation of student persistence within classroom contexts](../strategies/teacher-facing-analytics-persistence-interpretation.md)
 
 ## Key Sources

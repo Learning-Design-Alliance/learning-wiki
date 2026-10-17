@@ -15,12 +15,14 @@ sources:
     author: "Dajani, D. R., & Uddin, L. Q."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children use qualitatively different strategies from adults for flexible cognition, shifting control strategies around 8 to 9 years of age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Around 8 to 9 years of age, children change control strategies from orienting attention to relevant stimulus features to using cue-stimulus-response associations. [→ Dajani 2015](#dajani-2015)
@@ -31,7 +33,7 @@ sources:
 
 Dajani, D. R., & Uddin, L. Q. (2015). Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2015.07.003
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to behavioral studies. Around 8 to 9 years children shift "from retrieving the task goal by orienting their attention to the relevant stimulus features to using cue-stimulus-response associations". Adult advantages are attributed to perceptual speed, working memory, interference resistance and task set reconfiguration.
 

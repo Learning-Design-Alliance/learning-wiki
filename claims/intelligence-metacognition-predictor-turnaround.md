@@ -15,12 +15,14 @@ sources:
     author: "Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the youngest group intellectual ability is the most important predictor of math performance, whereas in the oldest group the unique contribution of metacognitive quality outweighs that of intelligence. [→ Van der Stel 2010](#van-der-stel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J. (2010). The increasing role of metacognitive skills in math: a cross-sectional study from a developmental perspective. ZDM Mathematics Education, 42, 219–229. https://doi.org/10.1007/s11858-009-0224-2
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression-based variance decomposition (Table 5) for both age groups; the Results section states the contribution of metacognitive quality "outweighs the unique contribution of intellectual ability" in the older group.
 

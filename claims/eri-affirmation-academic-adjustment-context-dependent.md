@@ -15,12 +15,14 @@ sources:
     author: "Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Positive ethnic-racial affect is usually promotive but was linked to declining academic adjustment for Latino early adolescents in one study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In one study of Latino early adolescents, higher levels of affirmation were associated with decreases in academic adjustment from seventh to eighth grade, suggesting the adjustment link of positive affect depends on context. [→ Umaña-Taylor 2014](#umana-taylor-2014)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T. (2014). Ethnic and Racial Identity During Adolescence and Into Young Adulthood: An Integrated Conceptualization. Child Development. https://doi.org/10.1111/cdev.12196
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports, citing Umaña-Taylor, Wong, Gonzales, and Dumka (2012), that "higher levels of affirmation were associated with decreases in academic adjustment from seventh to eighth grades" among Latino early adolescents. This contrasts with the broader pattern of positive affect as promotive. No effect size is printed.
 

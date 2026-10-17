@@ -15,12 +15,14 @@ sources:
     author: Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Enrollment in center-based preschool was not associated with parent-reported curiosity at kindergarten
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Enrollment in center-based preschool showed no statistically significant association with curiosity at kindergarten (β = 0.02, p = 0.42); equivalence was not tested. [→ Shah PE 2023](#shah-pe-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Null finding from the same adjusted main-effects regression on the weighted ECLS-B sample of 4,750 children; preschool attendance was a yes/no variable from the preschool timepoint. The article reports "β = 0.02, p = 0.42" with no effect size.
 

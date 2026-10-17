@@ -15,12 +15,14 @@ sources:
     author: "Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bullied children had higher CBCL t-scores in all domains compared to non-bullied children. [→ Menken 2022](#menken-2022)
@@ -31,7 +33,7 @@ sources:
 
 Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L. (2022). Peer victimization (bullying) on mental health, behavioral problems, cognition, and academic performance in preadolescent children in the ABCD Study. Frontiers in Psychology, 13, 925727. https://doi.org/10.3389/fpsyg.2022.925727
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional ABCD analysis using caregiver-reported CBCL. The study reports "Children who were bullied had higher CBCL t-scores in all domains" with total problem score differences of 9.2 for boys and 8.9 for girls, both p < 0.001.
 

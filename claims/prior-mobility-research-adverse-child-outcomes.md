@@ -15,12 +15,14 @@ sources:
     author: "Roy, A. L., McCoy, D. C., & Raver, C. C."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Researchers have found detriments to children's educational, behavioral, and adjustment outcomes among low-income families that move relative to those who do not, and the disruptive nature of moving (e.g., interference with activities and routines) is often cited as the underlying factor. [→ Roy 2014](#roy-2014)
@@ -31,7 +33,7 @@ sources:
 
 Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Residential Mobility, Neighborhood Poverty, and Children's Self-Regulation. Developmental Psychology. https://doi.org/10.1037/a0036984
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Background literature cited in the article's introduction, reported as the article attributes it (citing Adam, 2004; Adam & Chase-Lansdale, 2002; Astone & McLanahan, 1994). The article notes moves often occur in response to parental transitions that can be positive or negative for children. No effect sizes are printed, so impact is null.
 

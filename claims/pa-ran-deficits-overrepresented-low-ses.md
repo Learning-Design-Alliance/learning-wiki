@@ -15,12 +15,14 @@ sources:
     author: "Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PA and RAN deficit profiles are over-represented in low-SES schools, while the double-deficit profile distribution is proportional to school SES group size
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Profile distribution differed significantly across the three school-level SES groups, with PA and RAN risk profiles concentrated in low-SES schools but the DD group distributed proportionally. [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N. (2017). Longitudinal stability of pre-reading skill profiles of kindergarten children: Implications for early screening and theories of reading. Developmental Science. https://doi.org/10.1111/desc.12471
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Chi-square test of profile distribution across high, middle, and low SES school groups (classified by free/reduced lunch percentage); the test was significant at p<0.001, and "the majority of the PA and RAN deficit students (Profiles 5 and 6) belonged to the low-SES group".
 

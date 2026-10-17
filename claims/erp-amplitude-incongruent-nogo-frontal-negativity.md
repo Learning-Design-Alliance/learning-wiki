@@ -15,12 +15,14 @@ sources:
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` ERP amplitude is more negative for incongruent than congruent trials and for No-Go than Go trials at frontal sites, with larger negativity at midline leads. [→ Checa 2011](#checa-2011)
@@ -31,7 +33,7 @@ sources:
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 ERP ANOVAs in 27 children with usable EEG data from the combined Flanker-Go/No-Go task. The study reports "larger negative amplitude for incongruent ( −.8 μV) compared to congruent (.23 μV) trials" and larger negativity for No-Go (−3.4 μV) than Go (−2 μV) trials.
 

@@ -15,12 +15,14 @@ sources:
     author: Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Activation in frontal and parietal cognitive regions is positively correlated with speech-in-noise behavioral performance in older listeners, supporting a compensatory role
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Brain activation in right precentral gyrus/middle frontal gyrus and right precuneus correlated positively with behavioral accuracy across all three listening conditions in older subjects. [→ Wong Patrick C. M. 2009](#wong-patrick-c-m-2009)
@@ -31,7 +33,7 @@ sources:
 
 Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit. (2009). Aging and Cortical Mechanisms of Speech Perception in Noise. Neuropsychologia 47(3), 693-703. https://doi.org/10.1016/j.neuropsychologia.2008.11.032
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Brain-behavior correlation analysis in the older group (n = 12) using percent signal change in clusters with higher activation in older subjects. Right precentral gyrus showed positive correlations with accuracy in all conditions (e.g. "Quiet: Pearson’s r = .779, p < .001"); right precuneus showed similar positive correlations (e.g. r = .539, p = .035 in Quiet).
 

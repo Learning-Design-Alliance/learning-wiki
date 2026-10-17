@@ -15,18 +15,22 @@ sources:
     author: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: mazzocco-2013-2
     resource: "https://doi.org/10.1016/j.jecp.2013.01.005"
     title: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005"
     author: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Across all 60 SymMCoF fraction items, TA students outperformed LA students, who outperformed MLD students, and all groups improved from Grades 4 to 8. [→ Mazzocco 2013](#mazzocco-2013)
@@ -38,7 +42,7 @@ sources:
 
 Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 A 5 (Grade) × 3 (MLD Status) repeated-measures ANOVA on percent correct across all 60 SymMCoF fraction items in the longitudinal sample. The main effect of MLD status was significant, F(2, 119) = 46.30, p < .0001, partial η2 = .438; "students in the TA group were more accurate" than both lower-achieving groups.
 
@@ -48,7 +52,7 @@ A 5 (Grade) × 3 (MLD Status) repeated-measures ANOVA on percent correct across 
 
 Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Growth curve models on raw SymMCoF total scores, with intercepts set at Grade 4 and slopes in monthly increments, tested whether the groups' trajectories differed. "no significant differences in the growth rates between any of the three groups" were found, so group differences reflect performance level, not rate of growth.
 

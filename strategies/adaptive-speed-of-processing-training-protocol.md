@@ -17,7 +17,7 @@ sources:
 # Adaptive speed-of-processing training protocol with tailored durations, feedback, and progressive difficulty
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An implementable training recipe in which an observer practices UFOV computer-administered tasks with display durations tailored to ability, trial-by-trial and block-level feedback, and trainer encouragement until criterion performance is reached. Display duration is then reduced, and once a duration-threshold criterion is met, task difficulty increases, for example by adding distractors to a concurrent localization task. The review states "The ultimate goal of training is to improve processing speed (reduce minimum duration thresholds for task performance) by slowly decreasing display duration until a criterion level of performance is met". A home-based variant on one's own PC has also shown efficacy.
@@ -37,7 +37,7 @@ An implementable training recipe in which an observer practices UFOV computer-ad
 - faster visual processing under divided attention and distractor conditions
 
 ### Affordances
-- [Useful Field Of View Construct](../theories/useful-field-of-view-construct.md)
+- Useful Field Of View Construct
 
 ## Claims
 

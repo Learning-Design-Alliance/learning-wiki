@@ -15,12 +15,14 @@ sources:
     author: Demir, Bora
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The phonological loop plays a significant role in vocabulary acquisition and second language learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The phonological loop, originally conceived as a slave system, has a significant role in vocabulary acquisition and is vital for learning a second language. [→ Demir 2021](#demir-2021)
@@ -31,7 +33,7 @@ sources:
 
 Demir, Bora. (2021). Working Memory Model and Language Learning. Shanlax International Journal of Education. https://doi.org/10.34293/education.v9iS2-Sep.4366
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review statement citing Miyake and Shah (1999) and Baddeley (2003a). The article reports that the phonological loop handles phonological information, rehearses verbal input, and facilitates language acquisition; no effect size is printed.
 

@@ -13,12 +13,14 @@ sources:
     title: Zhou X 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The relation between visual perception and computational fluency holds for simple subtraction across all grades but only for higher grades in complex arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The relation between visual perception and computational fluency was consistent across all three grades for simple subtraction, but significant only for higher grade levels for complex subtraction and complex multiplication. [→ Zhou X 2015](#zhou-x-2015)
@@ -29,7 +31,7 @@ sources:
 
 Zhou X, Wei W, Zhang Y, Cui J, and Chen C (2015) Visual perception can account for the close relation between numerosity processing and computational fluency. Front. Psychol. 6:1364. https://doi.org/10.3389/fpsyg.2015.01364
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Analysis of the three arithmetic subtests showed the visual perception–fluency relation held across grades 3–5 for simple subtraction but only at higher grades for complex subtraction and multiplication. The article states the relation "was signiﬁcant only for higher grade levels for complex subtraction and complex multiplication."
 

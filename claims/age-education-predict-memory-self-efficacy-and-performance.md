@@ -15,18 +15,22 @@ sources:
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
   - id: hastings-2011-2
     resource: "https://doi.org/10.1080/13825585.2011.575926"
     title: "Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926"
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Older age group predicted lower memory self-efficacy (β = −.38, p<.01) and more education predicted higher memory self-efficacy (β = .22, p<.01). [→ Hastings 2011](#hastings-2011)
@@ -38,7 +42,7 @@ sources:
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Final SEM paths for memory self-efficacy in the pooled sample of 216 younger and older adults, with age entered as a dichotomous group variable and education in years; the age-group path was β= −.38.
 
@@ -48,7 +52,7 @@ Final SEM paths for memory self-efficacy in the pooled sample of 216 younger and
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Final SEM path predicting the latent memory factor (free and cued recall loadings .45 and .92) in the pooled sample; younger adults outperformed older adults.
 

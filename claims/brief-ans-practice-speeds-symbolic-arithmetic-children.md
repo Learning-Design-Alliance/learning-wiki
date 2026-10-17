@@ -15,12 +15,14 @@ sources:
     author: "Hyde, D. C., Khanum, S., & Spelke, E. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Brief practice on non-symbolic approximate numerical addition or comparison tasks speeds subsequent exact symbolic arithmetic in first graders compared with non-numerical magnitude tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children who practiced non-symbolic numerical addition or comparison completed symbolic arithmetic problems faster than children who practiced line-length addition or brightness comparison. [→ Hyde 2014](#hyde-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hyde, D. C., Khanum, S., & Spelke, E. S. (2014). Brief non-symbolic, approximate number practice enhances subsequent exact symbolic arithmetic in children. Cognition, 131(1), 92-107. https://doi.org/10.1016/j.cognition.2013.12.007
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 assigned 96 first graders quasi-randomly to four training conditions (numerical addition, line addition, number comparison, brightness comparison) before a symbolic addition test. The results section reports that "children in the numerical addition and numerical comparison conditions completed symbolic arithmetic problems faster than children in the non-numerical conditions" (main effect F (3,92) = 3.366, p < .05).
 

@@ -15,24 +15,30 @@ sources:
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: marschark-m-2012-2
     resource: "https://doi.org/10.1080/08856257.2012.719106"
     title: "Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106"
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: marschark-m-2012-3
     resource: "https://doi.org/10.1080/08856257.2012.719106"
     title: "Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106"
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Deaf parental hearing status, sign language use at home, and attendance at a school for the deaf are each associated with more positive perceptions of deaf children's social success
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (3 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Deaf children of deaf parents were seen as more socially successful than deaf children of hearing parents. [→ Marschark M 2012](#marschark-m-2012)
@@ -45,7 +51,7 @@ sources:
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 A 2 (parental hearing status) by 2 (group) ANOVA on the Social-Emotional scale yielded main effects of parental hearing status, F (1, 52) = 6.94, and group, F (1, 52) = 9.67; "Deaf children of deaf parents were seen as more socially successful than deaf children of hearing parents". No effect size was printed.
 
@@ -55,7 +61,7 @@ A 2 (parental hearing status) by 2 (group) ANOVA on the Social-Emotional scale y
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 A 3 (home language: sign, English, or both) by 2 (group) ANOVA on Social-Emotional scores yielded main effects of language, F (1, 50) = 4.26, and group, F (1, 50) = 11.56; sign-language homes were rated higher, and English-only and mixed homes "did not differ". No effect size was printed.
 
@@ -65,7 +71,7 @@ A 3 (home language: sign, English, or both) by 2 (group) ANOVA on Social-Emotion
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 A 2 (school type) by 2 (group) ANOVA showed parents rated social success higher than children regardless of placement, and "Children enrolled in schools for the deaf also were seen by both their parents and themselves as more socially successful than those in mainstream schools". No effect size was printed.
 

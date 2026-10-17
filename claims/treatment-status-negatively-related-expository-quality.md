@@ -15,12 +15,14 @@ sources:
     author: Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten treatment status was negatively related to third-grade expository writing quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Treatment status in the kindergarten reading intervention was negatively related to expository writing quality (β = −.23, p = .009) after accounting for other predictors. [→ Kim Young-Suk 2015](#kim-young-suk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predictors of Third Grade Writing. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2014.11.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Secondary finding from the expository SEM in the longitudinal subsample (N = 157) of a larger cluster randomized reading intervention study. The quote reports the negative treatment path; no effect size beyond β was printed.
 

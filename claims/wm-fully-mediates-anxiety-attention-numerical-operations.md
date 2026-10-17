@@ -15,12 +15,14 @@ sources:
     author: "Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For non-verbal NO, only WM had significant direct paths; math anxiety and attention affected NO only indirectly through WM. [→ Wu 2017](#wu-2017)
@@ -31,7 +33,7 @@ sources:
 
 Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children's non-verbal and verbal mathematical abilities. Cognition, 166, 118-129. https://doi.org/10.1016/j.cognition.2017.05.016
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this structural model accounted for 44.1% variance in NO, and "The effects of math anxiety and attention on NO were fully mediated by WM" with bootstrapped indirect-path confidence intervals excluding zero.
 

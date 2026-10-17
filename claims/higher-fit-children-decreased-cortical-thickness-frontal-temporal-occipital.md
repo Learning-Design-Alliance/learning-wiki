@@ -15,12 +15,14 @@ sources:
     author: Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Higher fit preadolescent children show decreased cortical thickness in superior frontal, superior temporal, and lateral occipital cortex relative to lower fit children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Higher fit children (>70th percentile VO2max) showed decreased gray matter thickness in superior frontal cortex, superior temporal areas, and lateral occipital cortex compared to lower fit children (<30th percentile VO2max). [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF. (2015). The Role of Aerobic Fitness in Cortical Thickness and Mathematics Achievement in Preadolescent Children. PLoS ONE 10(8): e0134115. https://doi.org/10.1371/journal.pone.0134115
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Cross-sectional MRI study of 48 children (24 higher fit, 24 lower fit) screened for IQ, ADHD, pubertal timing, and SES. MANOVA on FreeSurfer-derived cortical thickness in a priori regions of interest showed "a significant effect of aerobic fitness on cortical thickness (F (22, 27) = 2.41, p = 0.017)".
 

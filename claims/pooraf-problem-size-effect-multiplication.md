@@ -15,12 +15,14 @@ sources:
     author: Mussolin, C. and Noël, M-P.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the multiplication selection task, the PoorAF group was slower than controls (2914 ms vs 1822 ms), small multiplications were processed faster than medium ones, and the group-by-problem-size interaction was marginally significant. [→ Mussolin 2008](#mussolin-2008)
@@ -31,7 +33,7 @@ sources:
 
 Mussolin, C. and Noël, M-P. (2008). Specific Retrieval Deficit from Long-Term Memory in Children with Poor Arithmetic Facts Abilities. The Open Psychology Journal. https://doi.org/10.2174/1874350100801010026
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 An ANOVA with problem size and group on multiplication task RTs. Both main effects were highly significant, and the interaction was marginally significant (F(1, 34) = 4.016, p = .053), reflecting a stronger problem-size influence on the PoorAF group (difference of 1091 ms) than on controls (difference of 553 ms).
 

@@ -15,12 +15,14 @@ sources:
     author: "Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Letter-writing fluency has a small unique concurrent relation to kindergarten compositional fluency but no significant relation to first-grade writing outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Letter-writing fluency was uniquely and positively related to kindergarten composition fluency (γ = .13, p = .047) but exhibited no statistically significant relationship to first-grade fluency or quality (γ = −.05 and −.03, ps > .41). [→ Kent 2014](#kent-2014)
@@ -31,7 +33,7 @@ sources:
 
 Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writing fluency and quality in kindergarten and first grade: The role of attention, reading, transcription, and oral language. Reading and Writing, 27(7), 1163-1188. https://doi.org/10.1007/s11145-013-9480-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Longitudinal SEM in the same cohort: the kindergarten letter-writing fluency factor, a significant concurrent predictor in the kindergarten model, showed no unique longitudinal path to first-grade compositional fluency or quality. Equivalence was not tested.
 

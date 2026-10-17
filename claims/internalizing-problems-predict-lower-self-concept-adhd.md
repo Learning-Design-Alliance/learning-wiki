@@ -10,21 +10,27 @@ generated:
 evidence_strength: moderate
 sources:
   - id: houck-2011
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: 2
+    kind: associational
+    rigour: "?"
   - id: houck-2011-2
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Internalizing behavior problems predict lower self-concept in children and adolescents with ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` More internalizing problems are related to lower self-concept scores (r = -.29, p = .001), and internalizing problems uniquely predict self-concept in regression (β = -.36, p < .01). [→ Houck 2011](#houck-2011)
@@ -34,9 +40,9 @@ sources:
 
 ### Houck 2011
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
-`q2 · i2`
+`q2 · i2` · `associational · r?`
 
 Correlation analysis in a descriptive correlational secondary analysis of 145 children with ADHD aged 6-18, using maternal CBCL scores and child Piers-Harris self-concept reports. The study found "more internalizing problems were related to lower self-concept scores."
 
@@ -44,9 +50,9 @@ Correlation analysis in a descriptive correlational secondary analysis of 145 ch
 
 ### Houck 2011 (2)
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Linear multiple regression with total self-concept as dependent variable and internalizing and externalizing CBCL scores as predictors. Only the internalizing score predicted self-concept (β = -.36, t = -3.53, p < .01); externalizing did not.
 

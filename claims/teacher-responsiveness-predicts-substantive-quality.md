@@ -15,12 +15,14 @@ sources:
     author: "Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children whose teachers were more responsive in their instruction had higher substantive quality scores (p = .009) after accounting for other instructional quality variables and child-level language, reading, and attention variables. [→ Kim 2013](#kim-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L. (2013). Language, literacy, attentional behaviors, and instructional quality predictors of written composition for first graders. Early Childhood Research Quarterly, 28(3), 461–469. https://doi.org/10.1016/j.ecresq.2013.01.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel model result from the same 527-child sample: teacher responsiveness, rated from winter classroom observations on a 0–3 scale, was uniquely related to substantive quality of written composition. Other instructional quality variables were not uniquely related (ps ≥ .06).
 

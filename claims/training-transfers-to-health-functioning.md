@@ -15,12 +15,14 @@ sources:
     author: Owsley Cynthia
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Speed-of-processing training transfers to health and functional outcomes including reduced crash risk, improved driving, faster daily-task completion, slower health-related quality-of-life decline, and reduced depression risk
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Increases in processing speed from training lead to reductions in motor vehicle collision risk, improved on-road driving, decreased reaction time to road signs, reduced time for daily visual activities, slowing of health-related quality-of-life reductions over 24 months, and reduced depression risk. [→ Owsley Cynthia 2012](#owsley-cynthia-2012)
@@ -31,7 +33,7 @@ sources:
 
 Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The review reports that randomized intervention trials show speed-of-processing training transfers to functional outcomes: crash risk reduction, on-road driving improvement, faster road-sign reaction, quicker daily visual activities, slower health-related quality-of-life decline over 24 months, and reduced depression risk. No effect sizes are printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Pascal Pansu, Isabelle Régner, Sylvain Max, Pascale Colé, John B. Nezlek, Pascal Huguet
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The gender gap in reading is three times bigger than the gender gap in math
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The gender gap in reading is three times bigger than the gender gap in math, according to OECD figures cited by the article. [→ Pascal Pansu 2016](#pascal-pansu-2016)
@@ -31,7 +33,7 @@ sources:
 
 Pascal Pansu, Isabelle Régner, Sylvain Max, Pascale Colé, John B. Nezlek, Pascal Huguet. (2016). A burden for the boys: Evidence of stereotype threat in boys' reading performance. Journal of Experimental Social Psychology, 65, pp.26-30. https://doi.org/10.1016/j.jesp.2016.02.008
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The article cites OECD (2014) figures for this comparison; it is a second-hand statistic reported as motivation, not a finding the article itself analyzed. No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the Canadian and Greek groups, the unitary ability model produced a significantly worse fit than the bifactor model. [→ Papadopoulos 2018](#papadopoulos-2018)
@@ -31,7 +33,7 @@ sources:
 
 Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P. (2018). The Structure of Speed of Processing Across Cultures. Advances in Cognitive Psychology, 14(3), 112–125. https://doi.org/10.5709/acp-0243-7
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Nested-model chi-square difference tests in the Canadian and Greek samples showed the unitary ability processing speed model fit significantly worse than the bifactor model. In Table 3, the Canadian unitary model (χ2 = 33.48*) and Greek unitary model (χ2 = 30.60*) were flagged significant at p < .05.
 

@@ -17,7 +17,7 @@ sources:
 # Deliver sleep education at school to improve sleep, cognition and academic performance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Sleep education delivered at school is a classroom-based intervention in which children learn about sleep and its role in learning. The article reports that this approach improved sleep, cognitive functioning and academic performance in children, making it a feasible whole-class strategy for supporting learning through health education.

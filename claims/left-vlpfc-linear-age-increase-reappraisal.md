@@ -15,12 +15,14 @@ sources:
     author: McRae et al
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Left ventrolateral prefrontal cortex activation shows linear age-related increases during reappraisal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Neural activation in left ventrolateral prefrontal cortex, previously identified in adult reappraisal, increases linearly with age. [→ McRae et al 2012](#mcrae-et-al-2012)
@@ -31,7 +33,7 @@ sources:
 
 McRae et al. (2012). The development of emotion regulation: an fMRI study of cognitive reappraisal in children, adolescents and young adults. Social Cognitive and Affective Neuroscience 7(1), 11–22. https://doi.org/10.1093/scan/nsr093
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 fMRI results from the developmental reappraisal task across three age groups. The authors "observed linear age-related increases in activation in the left ventrolateral prefrontal cortex, previously identified in adult reappraisal."
 

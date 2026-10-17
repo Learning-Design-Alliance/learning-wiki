@@ -15,12 +15,14 @@ sources:
     author: Demir, Bora
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Working memory capacity is a robust indicator of success or failure in language learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` WM capacity is a robust indicator of success or failure in language learning, and WM is significantly related to multiple aspects of second language learning. [→ Demir 2021](#demir-2021)
@@ -31,7 +33,7 @@ sources:
 
 Demir, Bora. (2021). Working Memory Model and Language Learning. Shanlax International Journal of Education. https://doi.org/10.34293/education.v9iS2-Sep.4366
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article's narrative review asserts, citing a large body of prior research (e.g., Engle et al., 1999; van den Noort et al., 2006), that "individuals' memory capacity is a robust indicator of success or failure in language learning". No effect size is reported in this article itself.
 

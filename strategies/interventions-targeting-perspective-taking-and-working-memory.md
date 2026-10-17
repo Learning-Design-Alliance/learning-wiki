@@ -17,7 +17,7 @@ sources:
 # Target communicative perspective-taking and working memory in interventions for adolescent social difficulties
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The authors recommend that interventions for adolescents' social difficulties target both communicative perspective-taking and the executive skills supporting it. They note that "interventions geared towards improved detection of the communicative intentions of others may be important" and that "enhancing the cognitive skills that support communicative perspective-taking, namely working memory, may be another avenue through which to bolster socio-communicative performance." They cite evidence that collaborative computer game training and working memory training have shown benefits.

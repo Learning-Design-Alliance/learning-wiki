@@ -15,12 +15,14 @@ sources:
     author: Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Direct subtraction items were solved more accurately and faster than indirect addition items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A repeated measures ANOVA showed significantly higher accuracy and faster response times for DS-items than IA-items. [→ Linsen 2014](#linsen-2014)
@@ -31,7 +33,7 @@ sources:
 
 Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association between Children's Numerical Magnitude Processing and Mental Multi-digit Subtraction. Acta Psychologica. https://doi.org/10.1016/j.actpsy.2013.10.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A repeated measures ANOVA on accuracies with item type as within-subject factor in the 56-child sample showed DS-items were solved significantly more accurately than IA-items, F(1,55) = 5.47, p < .05; response times were also significantly faster for DS-items, F(1,55) = 4.21, p < .05. No effect sizes are printed.
 

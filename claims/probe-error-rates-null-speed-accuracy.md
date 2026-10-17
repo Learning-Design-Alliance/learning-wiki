@@ -15,12 +15,14 @@ sources:
     author: "Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Non-parametric ANOVAs on probe error rates found no effect of condition, age, or their interaction, with Bayesian analysis providing strong evidence for the null (BF01 = 11.46 for the interaction). [→ Rossi 2019](#rossi-2019)
@@ -31,7 +33,7 @@ sources:
 
 Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G. (2019). Adolescents and Adults Need Inhibitory Control to Compare Fractions. Journal of Numerical Cognition, 5(3), 314-336. https://doi.org/10.5964/jnc.v5i3.197
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Non-parametric ANOVAs on probe error rates found "no effect of the condition, χ2(1) < 1, BF01 = 2.81, no effect of age, χ2(1) = 1.41, p = .24, BF01 = 1.97, and no two-way interaction, χ2(1) < 1, BF 01 = 11.46". The authors interpret this as ruling out speed-accuracy trade-offs.
 

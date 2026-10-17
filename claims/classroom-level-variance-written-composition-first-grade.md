@@ -15,12 +15,14 @@ sources:
     author: "Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Approximately 13–14% of total variance in first-grade written composition is attributable to differences among classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Intraclass correlations were .14 for substantive quality and .13 for writing conventions, indicating approximately 13–14% of total variance in written composition was attributable to classroom differences. [→ Kim 2013](#kim-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L. (2013). Language, literacy, attentional behaviors, and instructional quality predictors of written composition for first graders. Early Childhood Research Quarterly, 28(3), 461–469. https://doi.org/10.1016/j.ecresq.2013.01.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Baseline multilevel models fitted to partition variance in written composition outcomes between child and classroom levels for the 527-child sample nested in 34 classrooms.
 

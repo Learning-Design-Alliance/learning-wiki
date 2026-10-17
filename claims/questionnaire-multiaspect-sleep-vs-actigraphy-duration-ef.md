@@ -15,12 +15,14 @@ sources:
     author: Chen Y, Wang Y, Wang S, Zhang M and Wu N.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Studies measuring multiple aspects of sleep by questionnaire more often find sleep–EF associations than studies measuring sleep duration by actigraphy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors' comparison of prior studies suggests multiple-aspect sleep questionnaires yield significant sleep–EF associations while actigraphy-derived sleep duration often does not. [→ Chen Y 2021](#chen-y-2021)
@@ -31,7 +33,7 @@ sources:
 
 Chen Y, Wang Y, Wang S, Zhang M and Wu N. (2021). Self-Reported Sleep and Executive Function in Early Primary School Children. Front. Psychol. 12:793000. https://doi.org/10.3389/fpsyg.2021.793000
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Narrative comparison in the Discussion, in which the authors attribute this pattern to prior studies they cite (e.g., Sciberras et al., 2015; Sadeh et al., 2002; Buckhalt et al., 2007). The article reports "positive results were mostly provided by studies using questionnaire"; this is the authors' interpretation, not a pooled synthesis.
 

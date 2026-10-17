@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: ev-2
-    title: ev-2
+  - id: taboada-barber-2026
+    title: Taboada Barber 2026
     q: 3
     i: "?"
     kind: review
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Grade 2 Spanish-speaking ELLs who received HELPS significantly outperformed the control group on GORT Fluency and GORT-Comprehension. [→ ev-2](#ev-2)
+`q3 i?` Grade 2 Spanish-speaking ELLs who received HELPS significantly outperformed the control group on GORT Fluency and GORT-Comprehension. [→ ev-2](#taboada-barber-2026)
 
 ## Evidence
 
-### ev-2
+### Taboada Barber 2026
 
 Taboada Barber, A., Urbano Aguilar, S., Lopez Rodriguez, A., and Pan, Y. (2026, September). Performing Is Not Teaching: What the Evidence Says About Reading Fluency Practices for Emergent Bilinguals. Digital Promise. https://doi.org/10.51388/20.500.12265/316
 

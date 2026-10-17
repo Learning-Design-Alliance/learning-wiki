@@ -15,18 +15,22 @@ sources:
     author: Meule A
     q: 2
     i: 3
+    kind: theoretical
+    rigour: 3
   - id: meule-a-2017-2
     resource: "https://doi.org/10.3389/fpsyg.2017.00352"
     title: "Meule A (2017). Reporting and Interpreting Working Memory Performance in n-back Tasks. Front. Psychol. 8:352. https://doi.org/10.3389/fpsyg.2017.00352"
     author: Meule A
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Omission and commission errors in n-back tasks have different correlates and may represent different processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Reaction times correlated positively with omission errors but not commission errors in two 2-back studies. [→ Meule A 2017](#meule-a-2017)
@@ -38,7 +42,7 @@ sources:
 
 Meule A (2017). Reporting and Interpreting Working Memory Performance in n-back Tasks. Front. Psychol. 8:352. https://doi.org/10.3389/fpsyg.2017.00352
 
-`q2 · i3`
+`q2 · i3` · `theoretical · r3`
 
 Correlational analyses in two 2-back studies with food and neutral pictures (Meule et al., 2012; Meule, 2016) showed "reaction times were positively correlated with the number of omission errors" (r = 0.440; r = 0.449) but not commission errors. Omission and commission errors were unrelated.
 
@@ -48,7 +52,7 @@ Correlational analyses in two 2-back studies with food and neutral pictures (Meu
 
 Meule A (2017). Reporting and Interpreting Working Memory Performance in n-back Tasks. Front. Psychol. 8:352. https://doi.org/10.3389/fpsyg.2017.00352
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article reports, citing Oberauer (2005), that with neutral words "only omission but not commission errors or reaction times were associated with measures of working memory capacity." No effect sizes are printed.
 

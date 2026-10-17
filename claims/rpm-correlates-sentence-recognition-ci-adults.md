@@ -15,12 +15,14 @@ sources:
     author: Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Nonverbal reasoning (RPM) scores are positively correlated with sentence recognition in post-lingually deafened adult cochlear implant users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In adult CI users, the number of items answered correctly on the 48-item RPM significantly correlated with sentence recognition measures (r = .35 to .47). [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD. (2018). Nonverbal Reasoning as a Contributor to Sentence Recognition Outcomes in Adults with Cochlear Implants. Otology & Neurotology. https://doi.org/10.1097/MAO.0000000000001998
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Bivariate Pearson correlation analysis in 39 post-lingually deafened adults with CIs, reported in Results (Table 3). RPM items correct correlated with Harvard Standard sentences (% words correct r = .35; whole sentences r = .46) and PRESTO sentences (% words r = .41; whole sentences r = .47), i.e., "positively correlated with speech recognition measures."
 

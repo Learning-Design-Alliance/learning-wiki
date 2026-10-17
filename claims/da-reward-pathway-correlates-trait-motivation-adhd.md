@@ -15,12 +15,14 @@ sources:
     author: Volkow ND, Wang GJ, Newcorn JH, Kollins SH, Wigal TL, Telang F, Fowler JS, Goldstein RZ, Klein N, Logan J, Wong C, Swanson JM
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # In adults with ADHD, dopamine D2/D3 receptor and DAT availability in the reward pathway correlate positively with trait motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In ADHD participants, Achievement scale scores correlated significantly with D2/D3 receptor availability in accumbens (r=0.39, p<0.008) and midbrain (r=0.41, p<0.005) and with DAT availability in accumbens (r=0.35, p<0.02). [→ Volkow ND 2011](#volkow-nd-2011)
@@ -32,7 +34,7 @@ sources:
 
 Volkow ND, Wang GJ, Newcorn JH, Kollins SH, Wigal TL, Telang F, Fowler JS, Goldstein RZ, Klein N, Logan J, Wong C, Swanson JM. (2011). Motivation Deficit in ADHD is Associated with Dysfunction of the Dopamine Reward Pathway. Molecular Psychiatry 16(11). https://doi.org/10.1038/mp.2010.97
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlation analysis of PET measures against MPQ Achievement scores in the ADHD group; accumbens D2/D3 "r=0.39, p<0.008" and DAT "r=0.35, p < 0.02" were significant, while control-group correlations were not. Midbrain D2/D3 was also significant in ADHD (r=0.41, p<0.005).
 

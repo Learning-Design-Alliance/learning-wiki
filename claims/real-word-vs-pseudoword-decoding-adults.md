@@ -15,12 +15,14 @@ sources:
     author: Tighe, Elizabeth L.; Schatschneider, Christopher
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Real word decoding showed a strong relationship with comprehension (r = .52) versus a moderate relationship for pseudoword decoding (r = .42); the difference was not statistically significant. [→ Tighe 2016](#tighe-2016)
@@ -31,7 +33,7 @@ sources:
 
 Tighe, Elizabeth L.; Schatschneider, Christopher. (2016). Examining the Relationships of Component Reading Skills to Reading Comprehension in Struggling Adult Readers: A Meta-Analysis. Journal of Learning Disabilities. https://doi.org/10.1177/0022219414555415
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Random effects models estimated separate decoding-type effect sizes, each drawn from 13 studies. The .52 versus .42 contrast was descriptive under Cohen's standards, not a significant test difference; equivalence was not tested.
 

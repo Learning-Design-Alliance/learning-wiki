@@ -15,12 +15,14 @@ sources:
     author: "Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The mutualism model could be equality constrained across sexes without notable fit loss, and allowing age to directly predict change scores did not improve fit. [→ Kievit 2017](#kievit-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J. (2017). Mutualistic Coupling Between Vocabulary and Reasoning Supports Cognitive Development During Late Adolescence and Early Adulthood. Psychological Science. https://doi.org/10.1177/0956797617710785
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Control analysis in the Results section of the two-wave cohort study; a separate sensitivity check found allowing age to predict change scores did not improve fit (Δχ2(2) = 0.13, p = .93), supporting age as a Time 1 covariate only.
 

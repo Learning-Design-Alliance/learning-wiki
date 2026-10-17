@@ -13,16 +13,20 @@ sources:
     title: Van Rinsveld A 2015
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: van-rinsveld-a-2015-2
     title: Van Rinsveld A 2015 (2)
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # French base-20 number words for numbers over 70 disproportionately impair addition performance in French
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The problem size effect on accuracy was significant in French but not in German for complex additions. [→ Van Rinsveld A 2015](#van-rinsveld-a-2015)
@@ -34,7 +38,7 @@ sources:
 
 Van Rinsveld A, Brunner M, Landerl K, Schiltz C and Ugen S (2015) The relation between language and arithmetic in bilinguals: insights from different stages of language acquisition. Front. Psychol. 6:265. https://doi.org/10.3389/fpsyg.2015.00265
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Pairwise comparisons of the problem size × task language interaction showed the over-70 problem size effect on CRs was significant only in French (η² = 0.363), not German (p = 0.091).
 
@@ -44,7 +48,7 @@ Pairwise comparisons of the problem size × task language interaction showed the
 
 Van Rinsveld A, Brunner M, Landerl K, Schiltz C and Ugen S (2015) The relation between language and arithmetic in bilinguals: insights from different stages of language acquisition. Front. Psychol. 6:265. https://doi.org/10.3389/fpsyg.2015.00265
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A supplementary standardized re-analysis ruled out weaker French proficiency as the cause of the larger French problem size effect; the interaction remained significant.
 

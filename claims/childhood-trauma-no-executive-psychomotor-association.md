@@ -15,12 +15,14 @@ sources:
     author: Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Childhood trauma exposure is not significantly associated with executive function, psychomotor speed, or sustained attention measures in healthy adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No significant associations were found between CTQ scale scores and CANTAB measures of executive functions, psychomotor speed, or sustained attention. [→ Majer M 2010](#majer-m-2010)
@@ -31,7 +33,7 @@ sources:
 
 Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC. (2010). Association of childhood trauma with cognitive function in healthy adults: a pilot study. BMC Neurology. https://doi.org/10.1186/1471-2377-10-61
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple linear regression analysis in a pilot study of 47 healthy adults found no significant associations between CTQ scale scores and CANTAB measures of executive functions, with "no significant associations found between CTQ scale scores".
 

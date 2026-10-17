@@ -15,18 +15,22 @@ sources:
     author: "Moore, A. M., vanMarle, K., & Geary, D. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: moore-2016-2
     resource: "https://doi.org/10.1016/j.jecp.2016.05.003"
     title: "Moore, A. M., vanMarle, K., & Geary, D. C. (2016). Kindergartners' Fluent Processing of Symbolic Numerical Magnitude is Predicted by Their Cardinal Knowledge and Implicit Understanding of Arithmetic Two Years Earlier. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2016.05.003"
     author: "Moore, A. M., vanMarle, K., & Geary, D. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Preschoolers' cardinal knowledge predicts fluent processing of symbolic and nonsymbolic magnitudes on the kindergarten number sets test two years later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Beginning-of-preschool give-a-number, point-to-x, and nonverbal calculation performance predicted kindergarten number sets fluency with covariates controlled (overall model F(12, 95) = 7.10, p < .001, R2 = .47). [→ Moore 2016](#moore-2016)
@@ -38,7 +42,7 @@ sources:
 
 Moore, A. M., vanMarle, K., & Geary, D. C. (2016). Kindergartners' Fluent Processing of Symbolic Numerical Magnitude is Predicted by Their Cardinal Knowledge and Implicit Understanding of Arithmetic Two Years Earlier. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2016.05.003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal regression analysis of 112 at-risk preschoolers followed into kindergarten, controlling intelligence, executive functions, preliteracy, processing speed, and parental education. The model confirmed "the importance of number knower-level status, nonverbal calculation, and point-to-x" with R2 = .47.
 
@@ -48,7 +52,7 @@ Longitudinal regression analysis of 112 at-risk preschoolers followed into kinde
 
 Moore, A. M., vanMarle, K., & Geary, D. C. (2016). Kindergartners' Fluent Processing of Symbolic Numerical Magnitude is Predicted by Their Cardinal Knowledge and Implicit Understanding of Arithmetic Two Years Earlier. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2016.05.003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 End-of-preschool regression on the same sample: point-to-x was "highly significant (β = .37, p = .004)", nonverbal calculation showed only a trend, and the overall model explained R2 = .43 of number sets variance.
 

@@ -15,12 +15,14 @@ sources:
     author: "Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The mutualism model provides the best account of longitudinal changes in vocabulary and matrix reasoning, with by far the highest normalized model-selection probability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among three competing latent change score models fitted to two-wave longitudinal data, the mutualism model showed the best fit and highest Akaike weight. [→ Kievit 2017](#kievit-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J. (2017). Mutualistic Coupling Between Vocabulary and Reasoning Supports Cognitive Development During Late Adolescence and Early Adulthood. Psychological Science. https://doi.org/10.1177/0956797617710785
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model comparison in the Results section of a two-wave longitudinal SEM study (N = 785; n = 566 across two waves) fitting g-factor, investment, and mutualism LCS models to WASI-II subtests. The mutualism model showed "excellent model fit on all indices" (RMSEA = 0.000, CFI = 1.00, SRMR = 0.001), while the investment and g-factor models showed comparable, marginally acceptable fit.
 

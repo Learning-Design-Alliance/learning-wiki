@@ -15,12 +15,14 @@ sources:
     author: "Kendeou, P., & van den Broek, P."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Readers with misconceptions spend more time reading law sentences than readers without misconceptions, but only in refutation texts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 2, reading times of Newton's law sentences showed a text structure × prior knowledge interaction (F(1,44) = 8.3, p = .006, η² = .16); the misconception group read law sentences slower than the nonmisconception group only in refutation texts. [→ Kendeou 2007](#kendeou-2007)
@@ -31,7 +33,7 @@ sources:
 
 Kendeou, P., & van den Broek, P. (2007). The effects of prior knowledge and text structure on comprehension processes during reading of scientific texts. Memory & Cognition, 35(7), 1567-1577. https://doi.org/10.3758/bf03193491
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Reading-time experiment (Experiment 2) with 69 undergraduates (9 excluded), 30 per group, reading texts sentence by sentence on computer; reading times per syllable analyzed for target law and explanation sentences with Tukey outlier removal. The interaction (η² = .16) localized the slowdown to refutation texts.
 

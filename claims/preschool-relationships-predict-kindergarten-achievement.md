@@ -15,12 +15,14 @@ sources:
     author: "Torres, M. M., Domitrovich, C. E., & Bierman, K. L."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Positive preschool interpersonal relationships predict kindergarten academic achievement controlling for initial achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Positive interpersonal relationships in fall of preschool predicted kindergarten achievement (β = .19, p < .05) controlling for preschool achievement and cognitive ability. [→ Torres 2015](#torres-2015)
@@ -31,7 +33,7 @@ sources:
 
 Torres, M. M., Domitrovich, C. E., & Bierman, K. L. (2015). Preschool Interpersonal Relationships Predict Kindergarten Achievement: Mediated by Gains in Emotion Knowledge. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.04.008
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 First SEM (direct-effects model) in the same 164-child Head Start sample, with baseline covariates; the direct path from fall preschool relationships to end-of-kindergarten achievement was "significant (β = .19, p < .05)". Achievement was a composite of emergent literacy and numeracy measures.
 

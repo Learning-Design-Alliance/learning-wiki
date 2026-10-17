@@ -15,12 +15,14 @@ sources:
     author: Pascal Pansu, Isabelle Régner, Sylvain Max, Pascale Colé, John B. Nezlek, Pascal Huguet
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Boys underperformed girls in the threat condition, whereas they outperformed girls in the reduced-threat condition on a reading test. [→ Pascal Pansu 2016](#pascal-pansu-2016)
@@ -31,7 +33,7 @@ sources:
 
 Pascal Pansu, Isabelle Régner, Sylvain Max, Pascale Colé, John B. Nezlek, Pascal Huguet. (2016). A burden for the boys: Evidence of stereotype threat in boys' reading performance. Journal of Experimental Social Psychology, 65, pp.26-30. https://doi.org/10.1016/j.jesp.2016.02.008
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Controlled experiment in which eighty third-grade students took a reading test assigned to a threat condition (test presented as diagnostic of reading abilities) or a reduced-threat condition (test presented as a game). The article reports the condition-by-gender reversal with no printed effect size.
 

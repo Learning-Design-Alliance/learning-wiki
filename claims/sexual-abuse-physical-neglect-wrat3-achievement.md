@@ -15,12 +15,14 @@ sources:
     author: Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sexual abuse and physical neglect exposure are negatively associated with academic achievement (WRAT-3) scores in healthy adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Higher sexual abuse and physical neglect scores were associated with lower WRAT-3 standard scores, though the association did not reach the more conservative significance level of p < 0.01. [→ Majer M 2010](#majer-m-2010)
@@ -31,7 +33,7 @@ sources:
 
 Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC. (2010). Association of childhood trauma with cognitive function in healthy adults: a pilot study. BMC Neurology. https://doi.org/10.1186/1471-2377-10-61
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple linear regression analysis in a pilot study of 47 healthy adults found an association between the sexual abuse and physical neglect scores of the CTQ and the WRAT-3 standard score, with adjusted B = -6.18 for sexual abuse and adjusted B = -9.28 for physical neglect, though the association "did not achieve a more conservative sta".
 

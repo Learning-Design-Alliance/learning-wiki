@@ -15,24 +15,30 @@ sources:
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
   - id: checa-2011-2
     resource: "https://doi.org/10.1080/87565641.2011.591857"
     title: "Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857"
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
   - id: checa-2011-3
     resource: "https://doi.org/10.1080/87565641.2011.591857"
     title: "Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857"
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Effortful control positively predicts academic achievement and schooling skills in twelve-year-old children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Effortful control correlates positively with average grades (r = .56), math grades (r = .38), and literacy grades (r = .52). [→ Checa 2011](#checa-2011)
@@ -45,7 +51,7 @@ sources:
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Pearson correlations in a study of 37 twelve-year-olds from Granada, Spain, using the parent-report EATQ-R effortful control measure and school board grades. The study reports EC "positively related to average of all grades" with r = .56 for overall grades.
 
@@ -55,7 +61,7 @@ Pearson correlations in a study of 37 twelve-year-olds from Granada, Spain, usin
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Correlations between parent-reported effortful control and self-reported schooling skills (Health Resources Inventory) in the same sample of 37 children. The study reports "a positive correlation with the school skills" across three measures.
 
@@ -65,7 +71,7 @@ Correlations between parent-reported effortful control and self-reported schooli
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Stepwise multiple regression analyses with intelligence subscales entered first, followed by EC and IS measures. The study reports that "EC remained signiﬁcant after controlling by intelligence" for average grades and literacy.
 

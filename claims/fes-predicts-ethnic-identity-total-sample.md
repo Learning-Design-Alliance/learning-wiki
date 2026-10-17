@@ -15,12 +15,14 @@ sources:
     author: Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Family ethnic socialization shows high rank-order stability and significantly predicts youth ethnic identity across two years in the total sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the full sample, Phase 3 family ethnic socialization significantly predicted Phase 4 ethnic identity (β = .49, p < .001), while the reverse path from ethnic identity to family ethnic socialization was not significant. [→ Umaña-Taylor Adriana J. 2013](#umana-taylor-adriana-j-2013)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A. (2013). Family Ethnic Socialization and Ethnic Identity: A Family-Driven, Youth-Driven, or Reciprocal Process? Journal of Family Psychology. https://doi.org/10.1037/a0031105
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Autoregressive cross-lagged panel model (Cole & Maxwell, 2003) in Mplus 6.0 with the total sample (N = 178), controlling for SES and gender. FES showed high stability (β = .69) and EI moderate stability (β = .31); the cross-lag from FES to EI was significant while EI to FES was not.
 

@@ -15,12 +15,14 @@ sources:
     author: Ihle, Andreas; Mons, Ute; Perna, Laura; Oris, Michel; Fagot, Delphine; Gabriel, Rainer; Kliegel, Matthias
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Obesity relates to lower processing speed and cognitive flexibility only among older adults with low education or low engagement in activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Moderation analyses showed obesity was related to lower processing speed and cognitive flexibility only in individuals with low engagement in activities and low education. [→ Ihle 2016](#ihle-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ihle, Andreas; Mons, Ute; Perna, Laura; Oris, Michel; Fagot, Delphine; Gabriel, Rainer; Kliegel, Matthias (2016). The Relation of Obesity to Performance in Verbal Abilities, Processing Speed, and Cognitive Flexibility in Old Age: The Role of Cognitive Reserve. Dementia and Geriatric Cognitive Disorders. https://doi.org/10.1159/000448916
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Moderation analysis within the same cross-sectional study of 2,812 older adults, testing interactions between obesity and cognitive reserve proxies (education, engagement in activities). The study reports that "obesity was related to lower processing speed and cognitive flexibility only in individuals with low engagement in activities and low education."
 

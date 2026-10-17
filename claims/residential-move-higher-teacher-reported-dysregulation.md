@@ -15,12 +15,14 @@ sources:
     author: "Roy, A. L., McCoy, D. C., & Raver, C. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Experiencing a residential move during early or middle childhood is associated with greater teacher-reported cognitive and behavioral dysregulation in fifth grade among low-income children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teachers reported greater dysregulation on the BIS-BRIEF among children who moved relative to those who did not (b = 6.04, SE = 3.04, p = .05), a difference of 6.04 points or 0.24 standard deviations. [→ Roy 2014](#roy-2014)
@@ -31,7 +33,7 @@ sources:
 
 Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Residential Mobility, Neighborhood Poverty, and Children's Self-Regulation. Developmental Psychology. https://doi.org/10.1037/a0036984
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal regression analysis of 602 low-income Chicago children followed from preschool to fifth grade, using inverse probability weighting with propensity scores and controlling for baseline self-regulation. The article reports movers were scored as being "6.04 points (or 0.24 standard deviations) higher in dysregulation" than nonmovers. No standardized effect size is printed, so impact is null.
 

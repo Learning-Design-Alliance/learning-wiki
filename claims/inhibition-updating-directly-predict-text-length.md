@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Inhibition and updating directly predict narrative text length in fourth graders over and above transcription and language skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Inhibition and updating contributed uniquely and directly to text length of written narratives after controlling for transcription and language skills. [→ Drijbooms 2015](#drijbooms-2015)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2015). The contribution of executive functions to narrative writing in fourth grade children. Reading and Writing. https://doi.org/10.1007/s11145-015-9558-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression on 102 fourth graders' written narratives; EF entered last. "EF explained 8 % of unique variance after controlling for transcription and language skills", with inhibition and updating as significant predictors (betas .22* and .21*).
 

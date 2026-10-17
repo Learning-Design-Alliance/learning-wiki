@@ -15,12 +15,14 @@ sources:
     author: "Eriksen, B. A., & Eriksen, C. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Error data mirror the RT findings: opposite-response-set noise caused far more errors at the two closest spacings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Noise of the opposite response set both slowed responses and increased error frequency at the two closest spacings, and similar-feature noise of the opposite set had much the same effect. [→ Eriksen 1974](#eriksen-1974)
@@ -31,7 +33,7 @@ sources:
 
 Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/bf03203267
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Error analysis presented in Table 3 (errors per noise condition, six Ss combined) across the three spacings. The article states these error data reflect essentially the same differences between noise conditions and spacing effects as the RT measures.
 

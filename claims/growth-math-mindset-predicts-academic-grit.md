@@ -15,12 +15,14 @@ sources:
     author: "Kaya, S., & Karakoc, D."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Growth math mindset positively predicts academic grit in primary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Growth math mindset has a significant positive effect on academic grit (β=0.593), while fixed math mindset does not. [→ Kaya 2022](#kaya-2022)
@@ -31,7 +33,7 @@ sources:
 
 Kaya, S., & Karakoc, D. (2022). Math Mindsets and Academic Grit: How Are They Related to Primary Math Achievement?. European Journal of Science and Mathematics Education, 10(3), 298-309. https://doi.org/10.30935/scimath/11881
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 SEM path from Table 3: growth math mindset to academic grit β=0.593, p<0.01; the fixed-mindset-to-grit path was β=-0.008, non-significant. The model explained 64% of academic grit variance.
 

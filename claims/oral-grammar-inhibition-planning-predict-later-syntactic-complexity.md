@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the final path model, sixth-grade syntactic complexity was predicted by fourth-grade syntactic stability (β = .24), inhibition (β = .19), planning (β = .18), and oral grammar (β = .24), all significant. [→ Drijbooms 2017](#drijbooms-2017)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2017). How executive functions predict development in syntactic complexity of narrative writing in the upper elementary grades. Reading and Writing, 30, 209–231. https://doi.org/10.1007/s11145-016-9670-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A second path model on the longitudinal sample tested component-skill predictors of growth in syntactic complexity; the final model had strong fit (χ²(4) = .98, p = .91, RMSEA = .00). Inhibition and oral grammar also contributed indirectly via fourth-grade syntactic complexity (β = .21 and β = .43).
 

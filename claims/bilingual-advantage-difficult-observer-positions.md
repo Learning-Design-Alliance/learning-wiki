@@ -15,12 +15,14 @@ sources:
     author: Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The bilingual advantage in perspective taking appears at the 180° and 270° observer positions but not at the 90° position
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bilinguals scored significantly higher than monolinguals at the 180° and 270° positions but not at the 90° position. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)
@@ -31,7 +33,7 @@ sources:
 
 Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen. (2013). Perspective-Taking Ability in Bilingual Children: Extending Advantages in Executive Control to Spatial Reasoning. Cognitive Development. https://doi.org/10.1016/j.cogdev.2012.10.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Follow-up one-way ANOVAs by language group at each observer position in the same 82-child experiment found "bilinguals obtained significantly higher scores than monolinguals for the 180° position" and the 270° position, but not the 90° position.
 

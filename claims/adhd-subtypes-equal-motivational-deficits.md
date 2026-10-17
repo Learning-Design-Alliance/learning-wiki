@@ -15,12 +15,14 @@ sources:
     author: "Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Both ADHD-C and ADHD-I children show equally pronounced motivational deficits. [→ Dovis 2015](#dovis-2015)
@@ -32,7 +34,7 @@ sources:
 
 Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M. (2015). ADHD subtype differences in reinforcement sensitivity and visuospatial working memory. Journal of Clinical Child and Adolescent Psychology, 44(5), 859-874. https://doi.org/10.1080/15374416.2014.895940
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 This is the study's motivational-deficit conclusion, drawn from the experiment in which high reinforcement improved STM and WM performance in both ADHD subtypes but not in typically developing controls. The article states that "Both subtypes have equally pronounced motivational deficits, which have detrimental effects on their visuospatial STM and WM performance." The equal benefit of high reinforcement across subtypes is the basis for the claim of equally pronounced motivational deficits. No effect sizes are printed in the supplied text, so impact is null.
 

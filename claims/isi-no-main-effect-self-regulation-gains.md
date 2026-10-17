@@ -15,12 +15,14 @@ sources:
     author: Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The ISI intervention shows no main effect on first graders' self-regulation gains from fall to spring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For students with typical self-regulation, assignment to ISI classrooms produced no significant effect on HTKS score gains from fall to spring. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)
@@ -31,7 +33,7 @@ sources:
 
 Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J. (2010). First graders' literacy and self-regulation gains: The effect of individualizing student instruction. Journal of School Psychology. https://doi.org/10.1016/j.jsp.2010.06.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Cluster randomized control field trial with 445 first graders in 46 classrooms analyzed with HLM; the final model explained 13% of the variance in children's scores. The article reports "no main effect of ISI on students' self-regulation growth"; equivalence was not tested.
 

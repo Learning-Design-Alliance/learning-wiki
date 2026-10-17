@@ -15,12 +15,14 @@ sources:
     author: Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H.
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Physical guidance reduces pointing error during low-vision navigation in older adults, indicating better spatial learning with a guide
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Older adults with simulated degraded vision showed significantly greater pointing error when walking unguided than when walking with a physical guide. [→ Barhorst-Cates Erica M. 2017](#barhorst-cates-erica-m-2017)
@@ -31,7 +33,7 @@ sources:
 
 Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H. (2017). Let Me be Your Guide: Physical Guidance Improves Spatial Learning for Older Adults with Simulated Low Vision. Experimental Brain Research. https://doi.org/10.1007/s00221-017-5063-8
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Within-subjects experiment: 14 older adults (12 after outlier removal) walked real-world paths in simulated degraded vision, guided vs unguided. The 2x2 repeated-measures ANOVA found a significant guidance effect, "ηp2=.471", with unguided error M=36.58 vs guided M=26.71.
 

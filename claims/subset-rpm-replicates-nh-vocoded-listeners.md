@@ -15,12 +15,14 @@ sources:
     author: Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # The 12-item RPM subset similarly predicts degraded sentence recognition in normal-hearing controls, replicating the CI finding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In NH controls, Subset RPM scores computed from the same 12 items correlated with Harvard Standard sentences (r = .56) and PRESTO sentences (r = .49). [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD. (2018). Nonverbal Reasoning as a Contributor to Sentence Recognition Outcomes in Adults with Cochlear Implants. Otology & Neurotology. https://doi.org/10.1097/MAO.0000000000001998
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Replication analysis in the 43 normal-hearing controls using the same 12 RPM items identified in the CI group, reported in Results. Subset scores were "positively correlated with the percent correct on Harvard Standard sentences" (r = .56) and PRESTO sentences (r = .49), with z-tests showing magnitudes similar to the 48-item version.
 

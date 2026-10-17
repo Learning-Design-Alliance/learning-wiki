@@ -15,12 +15,14 @@ sources:
     author: Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Raven and WISC Block Design remained non-significant even when entered without the other non-verbal IQ variable, and did not change model R2. [→ Szűcs Dénes 2014](#szucs-denes-2014)
@@ -31,7 +33,7 @@ sources:
 
 Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2014). Cognitive components of a mathematical processing network in 9-year-old children. Developmental Science. https://doi.org/10.1111/desc.12144
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model refinement regressions (M2–M5, N = 98) adding IQ variables to the five significant predictors; only WISC Vocabulary was significant (M2 β = 0.18, p = .0156), while Raven and Block Design were non-significant and model R2 stayed at 0.68.
 

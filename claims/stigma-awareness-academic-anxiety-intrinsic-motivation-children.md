@@ -15,18 +15,22 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gillen-oneel-2011-2
     resource: "https://doi.org/10.1111/j.1467-8624.2011.01621.x"
     title: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x"
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Both lower public regard and lower perception of status were associated with higher academic anxiety. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -38,7 +42,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analyses of stigma awareness measures with academic anxiety (Table 2). The article states "both lower public regard and lower perception of status were associated with higher academic anxiety".
 
@@ -48,7 +52,7 @@ Correlational analyses of stigma awareness measures with academic anxiety (Table
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same correlational analyses for intrinsic motivation. The article reports "Only lower public regard was associated with lower intrinsic motivation".
 

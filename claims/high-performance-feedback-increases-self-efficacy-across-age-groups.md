@@ -15,12 +15,14 @@ sources:
     author: "Soederberg Miller, L. M., & West, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` High-performance feedback was associated with higher self-efficacy at Time 2 than low-performance feedback, and this effect did not interact with age. [→ Soederberg Miller 2010](#soederberg-miller-2010)
@@ -31,7 +33,7 @@ sources:
 
 Soederberg Miller, L. M., & West, R. L. (2010). The Effects of Age, Control Beliefs, and Feedback on Self-Regulation of Reading and Problem Solving. Experimental Aging Research, 36(1), 40-63. https://doi.org/10.1080/03610730903418380
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Hierarchical linear regression predicting Time 2 self-efficacy from feedback, age, and control beliefs in a false-feedback experiment with 37 younger and 58 older adults randomly assigned to feedback conditions. The article reports "A significant main effect of feedback, β = .62, p < .00" and an age effect of β = −.32, p < .001; no standardized effect size beyond the regression coefficients is printed.
 

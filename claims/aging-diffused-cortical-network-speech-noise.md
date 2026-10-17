@@ -15,12 +15,14 @@ sources:
     author: Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Older adults show a more diffused cortical network involving frontal and ventral regions, whereas younger adults show a streamlined auditory network during speech-in-noise processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Inter-regional correlation analysis seeded in left STG showed stronger correlations with frontal regions in older subjects but stronger correlation with right STG in younger subjects in the SNR -5 condition. [→ Wong Patrick C. M. 2009](#wong-patrick-c-m-2009)
@@ -31,7 +33,7 @@ sources:
 
 Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit. (2009). Aging and Cortical Mechanisms of Speech Perception in Noise. Neuropsychologia 47(3), 693-703. https://doi.org/10.1016/j.neuropsychologia.2008.11.032
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Whole-brain cross-correlation analysis seeded at a left STG voxel in the SNR -5 condition, comparing Fisher-z transformed correlations between groups (12 older, 12 younger). The older group showed significant correlations with frontal regions including PFC (Table 3), while younger subjects correlated only with right STG, and at subthreshold extent.
 

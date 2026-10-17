@@ -15,12 +15,14 @@ sources:
     author: Tighe, Elizabeth L.; Schatschneider, Christopher
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Pseudoword decoding, orthographic knowledge, and phonological awareness yielded moderate relationships with reading comprehension (rs between .34 and .42). [→ Tighe 2016](#tighe-2016)
@@ -31,7 +33,7 @@ sources:
 
 Tighe, Elizabeth L.; Schatschneider, Christopher. (2016). Examining the Relationships of Component Reading Skills to Reading Comprehension in Struggling Adult Readers: A Meta-Analysis. Journal of Learning Disabilities. https://doi.org/10.1177/0022219414555415
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Random effects models across the same 16-study meta-analysis produced moderate average rs for these three skills (e.g., phonological awareness r = .34), corresponding to 9%–25% of comprehension variance under the article's Cohen standards.
 

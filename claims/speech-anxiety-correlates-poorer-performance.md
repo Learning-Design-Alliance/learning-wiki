@@ -15,12 +15,14 @@ sources:
     author: Jones Christopher R., Fazio Russell H., Vasey Michael W.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Greater public speaking anxiety correlates with shorter and more poorly received speeches
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Participants with greater speech anxiety gave shorter speeches (r = -.34, p < .01). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)
@@ -32,7 +34,7 @@ sources:
 
 Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Correlational analysis in the Results section of the two-session study of 61 undergraduates, relating PRCS speech-anxiety scores to speech duration and judges' quality ratings. As the article reports, "participants with greater speech anxiety gave shorter (r = -.34, p < .01), more poorly received speeches (r = -.37, p < .01)"; both correlations are medium-sized.
 

@@ -17,7 +17,7 @@ sources:
 # Study basic learning processes in stress-exposed youth to guide targeted prevention and intervention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The authors recommend that future research investigate how impaired learning mechanisms impact social development and how understanding these processes "can be used to guide the development of targeted prevention and intervention programs for high-risk youth". They argue that studying basic learning processes in stress-exposed youth will generate knowledge about how stress affects brain development and behavior and in turn produce interventions ameliorating the downstream consequences of adverse early environments.
@@ -38,7 +38,7 @@ The authors recommend that future research investigate how impaired learning mec
 - cognitive flexibility
 
 ### Affordances
-- [General Learning Mechanism Early Stress Account](../theories/general-learning-mechanism-early-stress-account.md)
+- General Learning Mechanism Early Stress Account
 
 ## Claims
 

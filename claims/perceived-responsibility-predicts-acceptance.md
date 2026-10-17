@@ -9,27 +9,29 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 sources:
-  - id: ev-responsibility
-    title: ev-responsibility
+  - id: swords-2011
+    title: Swords 2011
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived responsibility of the target character for his/her condition predicts acceptance of peers with mental health problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The perceived responsibility of the target character for his/her condition was among the most important predictors of acceptance in all models. [→ ev-responsibility](#ev-responsibility)
+`q3 i?` The perceived responsibility of the target character for his/her condition was among the most important predictors of acceptance in all models. [→ ev-responsibility](#swords-2011)
 
 ## Evidence
 
-### ev-responsibility
+### Swords 2011
 
 Swords, L, Heary, C & Hennessy, E 2011, 'Factors associated with acceptance of peers with mental health problems in childhood and adolescence', Journal of Child Psychology and Psychiatry and Allied Disciplines, vol. 52, no. 9, pp. 933-941. https://doi.org/10.1111/j.1469-7610.2010.02351.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Attributional variable tested in regression models of vignette responses from 595 participants. The article identifies "the perceived responsibility of the target character for his/her condition" as a top predictor; no effect size is printed in the supplied text.
 

@@ -15,18 +15,22 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: rosenberg-lee-2014-2
     resource: "https://doi.org/10.1111/desc.12216"
     title: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216"
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with DD show hyper-connectivity, not reduced connectivity, between the IPS and fronto-parietal and default mode networks during arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` gPPI analysis revealed children with DD had greater IPS connectivity than TD children with bilateral middle, superior and left inferior frontal gyri, bilateral supramarginal and angular gyri, ventral medial prefrontal cortex, and anterior and posterior cingulate cortex. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -38,7 +42,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 gPPI effective connectivity analysis with 2 × 2 × 2 ANOVA (Group, Operation, Hemisphere) in 16 DD and 20 TD children. The main effect of Group showed "children with DD had greater connectivity of the IPS with bilateral middle, superior and left inferior frontal gyri and bilateral supramarginal and angular gyri", plus DMN regions.
 
@@ -48,7 +52,7 @@ gPPI effective connectivity analysis with 2 × 2 × 2 ANOVA (Group, Operation, H
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Follow-up visualization of connectivity t-scores in the same gPPI analysis established the direction of the group effect: "these effects were all driven by positive connectivity in the DD group, rather than reduced negative connectivity (i.e. anti-correlation)".
 

@@ -15,12 +15,14 @@ sources:
     author: "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Latent correlations showed self-concept was most strongly correlated with low cost (r = .82) and intrinsic value (r = .80), and moderately with attainment value (r = .55) and utility value (r = .45). [→ Guo 2016](#guo-2016)
@@ -31,7 +33,7 @@ sources:
 
 Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U. (2016). Probing the Unique Contributions of Self-Concept, Task Values, and Their Interactions Using Multiple Value Facets and Multiple Academic Outcomes. AERA Open. https://doi.org/10.1177/2332858415626884
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Latent correlations from the second-order CFA (Model FO-4V) in 1,868 ninth-graders. The four value components were themselves moderately to highly correlated, ranging from .41 (utility value and low cost) to .77 (intrinsic value and low cost).
 

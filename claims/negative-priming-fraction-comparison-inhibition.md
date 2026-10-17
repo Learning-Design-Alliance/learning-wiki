@@ -15,12 +15,14 @@ sources:
     author: "Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants were slower to compare common-denominator fractions (probe) after a common-numerator prime than after a denominator-numerator control prime, indicating the 'greater the whole number, the greater the fraction' strategy was inhibited on the prime and its reactivation was disrupted on the probe. [→ Rossi 2019](#rossi-2019)
@@ -31,7 +33,7 @@ sources:
 
 Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G. (2019). Adolescents and Adults Need Inhibitory Control to Compare Fractions. Journal of Numerical Cognition, 5(3), 314-336. https://doi.org/10.5964/jnc.v5i3.197
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In this experimental study, 20 adolescents and 30 adults completed a negative priming paradigm adapted to fraction comparison. A paired comparison of probe RTs showed slower responses on test-trial probes than control-trial probes: "adolescents and adults required more time to perform common denominator items preceded by common numerator items" than after control primes. No effect size was reported for this paired contrast beyond Cohen's d values reported separately by group.
 

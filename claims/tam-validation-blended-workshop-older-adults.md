@@ -13,12 +13,14 @@ sources:
     title: Martínez-Alcalá CI 2018
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the TAM-based validation, most BLG participants agreed the system was easy to use, useful, attractive to use, and that they intended to keep using it. [→ Martínez-Alcalá CI 2018](#martinez-alcala-ci-2018)
@@ -29,7 +31,7 @@ sources:
 
 Martínez-Alcalá CI, Rosales-Lagarde A, Alonso-Lavernia MÁ, Ramírez-Salvador JÁ, Jiménez-Rodríguez B, Cepeda-Rebollar RM, López-Noguerola JS, Bautista-Díaz ML and Agis-Juárez RA (2018) Digital Inclusion in Older Adults: A Comparison Between Face-to-Face and Blended Digital Literacy Workshops. Front. ICT 5:21. https://doi.org/10.3389/fict.2018.00021
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 TAM-based validation test (five-point Likert scale) applied to the blended workshop group after the workshops ended, covering ease of use, perceived usefulness, attitude toward using, and intention to use; counts printed per response category (e.g., 15 positive on intention to use), no effect sizes.
 

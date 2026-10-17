@@ -15,12 +15,14 @@ sources:
     author: Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al
     q: 3
     i: 3
+    kind: associational
+    rigour: 3
 ---
 
 # Health literacy measures are strongly correlated with fluid and crystallized cognitive abilities in older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Health literacy measures (REALM, TOFHLA, NVS) were strongly correlated with fluid and crystallized cognitive abilities (r = 0.57 to 0.77, all p < 0.001). [→ Wolf 2012](#wolf-2012)
@@ -31,7 +33,7 @@ sources:
 
 Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al. (2012). Literacy, Cognitive Function, and Health: Results of the LitCog Study. J GEN INTERN MED. https://doi.org/10.1007/s11606-012-2079-4
 
-`q3 · i3`
+`q3 · i3` · `associational · r3`
 
 Cross-sectional correlational analysis in the LitCog study of 882 English-speaking adults ages 55 to 74, using three health literacy assessments (REALM, TOFHLA, NVS) and a comprehensive cognitive battery. The article reports correlations "range: r = 0.57 to 0.77, all p < 0.001".
 

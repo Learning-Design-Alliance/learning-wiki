@@ -15,12 +15,14 @@ sources:
     author: Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The benefit of physical guidance for spatial learning increases with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A regression with age predicting the unguided-minus-guided pointing error difference score showed the guidance advantage grows with increasing age. [→ Barhorst-Cates Erica M. 2017](#barhorst-cates-erica-m-2017)
@@ -31,7 +33,7 @@ sources:
 
 Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H. (2017). Let Me be Your Guide: Physical Guidance Improves Spatial Learning for Older Adults with Simulated Low Vision. Experimental Brain Research. https://doi.org/10.1007/s00221-017-5063-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Cross-age regression on the pointing error difference score (Unguided Error – Guided Error) combining the older-adult sample with younger-adult data from Rand et al. (2015) Experiment 5. The article interprets this as the guide being more helpful for older adults.
 

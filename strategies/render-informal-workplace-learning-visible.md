@@ -17,7 +17,7 @@ sources:
 # Support informal workplace learning by recognising and rendering visible the informal networks through which workers actually learn
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article argues that informal learning is often not acknowledged as learning within organisations, being regarded as 'part of the job', and that "there is value in rendering learning visible so that it can be consciously deployed in enhancing work and the quality of work life". Organisations seeking to utilise informal learning more effectively should map and recognise the peers, informal networks and communities through which learning actually flows, rather than relying solely on designated supervisors or trainers.

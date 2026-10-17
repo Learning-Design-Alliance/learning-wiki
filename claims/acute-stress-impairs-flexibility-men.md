@@ -15,12 +15,14 @@ sources:
     author: Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Acute stress impaired cognitive flexibility in men (more perseverative errors than male controls)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Men in the stress condition committed significantly more perseverative errors than men in the control condition (d=0.68). [→ Shields Grant S. 2016](#shields-grant-s-2016)
@@ -31,7 +33,7 @@ sources:
 
 Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Planned pairwise contrast within the randomized TSST-G experiment (Berg Card Sorting Test, log-transformed perseverative errors). The article reports the male stress-versus-control contrast with "d=0.68"; higher scores indicate worse flexibility.
 

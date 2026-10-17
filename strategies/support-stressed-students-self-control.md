@@ -17,7 +17,7 @@ sources:
 # Inform educators and clinicians about acute effects of negative life events on self-control and offer interventions to affected children
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In the Conclusion the authors propose two practical implications should future research affirm the findings: first, "educators and clinicians might be informed about the acute influence of negative life events on self-control so as to obviate misinterpretation of stress-related impulsive behavior" (e.g., inaccurate ADHD diagnoses); second, identifying children coping with stressful life events and providing interventions that enhance self-control capacity or improve coping skills. Because life stress correlates with social disadvantage, such policies may disproportionately benefit the least advantaged youth.

@@ -15,12 +15,14 @@ sources:
     author: "Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The RAN risk group showed intact phonological awareness and all members were readers, supporting the independence of RAN from PA
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The RAN risk profile performed at or above mean on all kindergarten measures except RAN (1.27 SD below mean), and its members were all readers, consistent with the double-deficit view. [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N. (2017). Longitudinal stability of pre-reading skill profiles of kindergarten children: Implications for early screening and theories of reading. Developmental Science. https://doi.org/10.1111/desc.12471
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Profile description of the RAN Risk group (n=132, 10.86% of sample) from the LPA results; the group performed 1.27 SD below the mean on RAN while at or above mean elsewhere, and all members were readers.
 

@@ -15,12 +15,14 @@ sources:
     author: "Moore, A. M., vanMarle, K., & Geary, D. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Although ANS acuity correlated with later number sets performance (r = .32 at beginning, r = .39 at end of preschool), it did not emerge as a predictor in the Bayes or regression models. [→ Moore 2016](#moore-2016)
@@ -31,7 +33,7 @@ sources:
 
 Moore, A. M., vanMarle, K., & Geary, D. C. (2016). Kindergartners' Fluent Processing of Symbolic Numerical Magnitude is Predicted by Their Cardinal Knowledge and Implicit Understanding of Arithmetic Two Years Earlier. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2016.05.003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the longitudinal analysis of 112 children, ANS acuity (Panamath percent correct) correlated with number sets (r = .32 beginning, r = .39 end of preschool) but "did not emerge as a predictor of number sets performance", even for the nonsymbolic item set, once symbolic knowledge was considered.
 

@@ -15,12 +15,14 @@ sources:
     author: Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Five of six laboratory studies found significant effects of acute PA on cognitive control of attention, mainly on accuracy not reaction time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Five of six laboratory studies found a significant effect on cognitive control of attention; three showed significant accuracy improvement with no reaction-time improvement. [→ Janssen M 2014](#janssen-m-2014)
@@ -31,7 +33,7 @@ sources:
 
 Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review's synthesis of the six laboratory studies (treadmill or ergometer bouts around 60% HRmax, flanker or visual attention tasks). Reports "Five of the six la- boratory studies found a significant effect on cognitive control of attention."
 

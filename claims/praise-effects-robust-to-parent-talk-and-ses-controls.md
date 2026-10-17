@@ -15,12 +15,14 @@ sources:
     author: "Gunderson, E. A., Sorhagen, N. S., Gripshover, S. J., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Process praise effects persist after controlling for overall parent talk and SES, suggesting they are not proxies for general engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adding total parent utterances as a control left the indirect path from process praise through frameworks to achievement significant in both math and reading comprehension models. [→ Gunderson 2018](#gunderson-2018)
@@ -31,7 +33,7 @@ sources:
 
 Gunderson, E. A., Sorhagen, N. S., Gripshover, S. J., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C. (2018). Parent Praise to Toddlers Predicts Fourth Grade Academic Achievement via Children's Incremental Mindsets. Developmental Psychology. https://doi.org/10.1037/dev0000444
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Robustness path analyses adding overall parent talk (utterance counts from the same 90-minute home observations) as a predictor of 2nd and 4th grade achievement. The indirect path "was significant for both math" and reading comprehension.
 

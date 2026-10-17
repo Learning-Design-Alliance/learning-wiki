@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` EF made no significant unique contribution to syntactic complexity or story content in hierarchical regressions. [→ Drijbooms 2015](#drijbooms-2015)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2015). The contribution of executive functions to narrative writing in fourth grade children. Reading and Writing. https://doi.org/10.1007/s11145-015-9558-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression, 102 fourth graders: grammar explained syntactic complexity variance; "EF did not make a signiﬁcant contribution to the prediction of syntactic complexity"; likewise none of the EF domains uniquely predicted story content.
 

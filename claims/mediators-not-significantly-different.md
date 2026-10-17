@@ -15,12 +15,14 @@ sources:
     author: "Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Contrast tests of the two mediators' indirect effects showed no statistically significant difference between executive functioning and attention problems on any outcome. [→ Hassinger-Das 2013](#hassinger-das-2013)
@@ -31,7 +33,7 @@ sources:
 
 Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N. (2013). Domain General Mediators of the Relation between Kindergarten Number Sense and First-Grade Mathematics Achievement. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2013.09.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bootstrapped mediator-contrast estimates in the 107-child sample (Table 5) were −.126 (number sense), −.004 (applied problems), and −.153 (calculation), with bias-corrected confidence intervals including zero in each case. No effect size was printed for these null contrasts.
 

@@ -15,18 +15,22 @@ sources:
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: puranik-cynthia-s-2014-2
     resource: "https://doi.org/10.1016/j.jecp.2014.07.009"
     title: "Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009"
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Letter type, letter order, textual frequency, number of strokes, and symmetry did not substantially or consistently contribute to letter writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Apart from letters in the child's name, none of the five other letter features made a substantial and consistent contribution to letter writing. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
@@ -38,7 +42,7 @@ sources:
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Discussion summary of the Model 5 results across the three age groups, where only one of seven letter-level predictors was consistently significant. The article reports no standardized effect sizes for these null contrasts.
 
@@ -48,7 +52,7 @@ Discussion summary of the Model 5 results across the three age groups, where onl
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model 5 letter-type contrasts for 5-year-olds were non-significant (p > .05); equivalence was not tested. This contrasts with letter-type effects found for 3- and 4-year-olds, so evidence is age-limited.
 

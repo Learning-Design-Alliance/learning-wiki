@@ -15,12 +15,14 @@ sources:
     author: "Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Younger children performed more redundant actions than older children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Age negatively predicted redundancy score in the Inefficient first condition. [→ Davis 2022](#davis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H. (2022). Cognitive flexibility supports the development of cumulative cultural learning in children. Scientific Reports. https://doi.org/10.1038/s41598-022-18231-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the Inefficient first condition generalized mixed effects model, "younger children showed higher redundancy scores than older children" (beta = − 0.27, p = 0.001). Redundancy scores were highest in Phase 3 when the inefficient method was blocked.
 

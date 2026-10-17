@@ -15,12 +15,14 @@ sources:
     author: Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The brain regions showing fitness-related thinning overlap with regions undergoing typical developmental cortical thinning between ages 5 and 11
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors note that the frontal, temporal, and occipital regions showing fitness-related thinning are similar to developing brain areas that undergo significant cortical thinning between ages 5 and 11. [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF. (2015). The Role of Aerobic Fitness in Cortical Thickness and Mathematics Achievement in Preadolescent Children. PLoS ONE 10(8): e0134115. https://doi.org/10.1371/journal.pone.0134115
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Narrative comparison in the Discussion situating the study's findings against prior longitudinal developmental neuroimaging work. The authors state the fitness-related regions "are similar to developing brain areas that undergo significant cortical thinning between the ages of 5 and 11".
 

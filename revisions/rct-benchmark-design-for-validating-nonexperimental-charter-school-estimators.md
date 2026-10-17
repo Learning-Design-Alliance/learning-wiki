@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators.md
 ---
 
-# Revision history: [research-methods/rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators](../research-methods/rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators.md)
+# Revision history: [research-methods/rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators](../research-methods/within-study-comparison-wsc-methodology.md)
 
 Recorded as elements/rct-benchmark-charter-school-design before it was renamed, re-filed or merged.
 

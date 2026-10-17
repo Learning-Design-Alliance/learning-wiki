@@ -15,12 +15,14 @@ sources:
     author: Lyn D English and Jane M Watson
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Fourth-graders' explanations for differing repeated measurements of one arm span most often focused on the measuring tools and their use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When explaining why repeated measurements of one student's arm span differed, most students attributed the differences to measuring tools and how they were used or their accuracy (41%), with fewer citing different units (8%) or movement of the person measured (6%). [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)
@@ -31,7 +33,7 @@ sources:
 
 Lyn D English and Jane M Watson. (2015). Exploring variation in measurement as a foundation for statistical thinking in the elementary school. International Journal of STEM Education (2015) 2:3. https://doi.org/10.1186/s40594-015-0016-x
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Content analysis of workbook question 1 (n = 97) in the first scenario, where all students measured one student's arm span. Table 1 reports 41% citing measuring tools, 29% tool not used accurately, 8% different units, 6% movement of the person measured, 15% nebulous differences. Students "focused on the measuring tools and how they were used or their accuracy."
 

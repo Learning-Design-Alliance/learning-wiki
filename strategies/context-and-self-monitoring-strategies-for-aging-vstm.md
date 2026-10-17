@@ -17,7 +17,7 @@ sources:
 # Strategic interventions focused on attention to consistent context and self-monitoring of performance to offset age-related VSTM decline
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends building interventions on two preserved abilities: encoding and reinstating consistent external context around to-be-remembered items, and metacognitive monitoring of trial-to-trial memory performance. It reports that context causally boosts VSTM and that metacognitive awareness predicts better precision and fewer misbinding errors, with both benefits invariant across the healthy adult age range. As the authors write, strategic interventions, focused on attention to consistent context and self-monitoring of performance, may help to offset otherwise substantial declines in VSTM performance with advancing age.

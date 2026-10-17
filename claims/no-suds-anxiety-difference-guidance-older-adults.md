@@ -15,12 +15,14 @@ sources:
     author: Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Self-reported safety anxiety (SUDS) did not differ between guided and unguided conditions in older adults with simulated low vision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Subjective Units of Distress ratings did not differ significantly between guidance conditions, and overall anxiety levels were low. [→ Barhorst-Cates Erica M. 2017](#barhorst-cates-erica-m-2017)
@@ -31,7 +33,7 @@ sources:
 
 Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H. (2017). Let Me be Your Guide: Physical Guidance Improves Spatial Learning for Older Adults with Simulated Low Vision. Experimental Brain Research. https://doi.org/10.1007/s00221-017-5063-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Repeated-measures ANOVA on SUDS ratings collected after each path in the same older-adult experiment. No significant guidance difference; the article notes mean ratings were low relative to its younger-adult guidance study (guided 23, unguided 30).
 

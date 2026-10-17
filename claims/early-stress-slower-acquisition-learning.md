@@ -15,12 +15,14 @@ sources:
     author: Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Stress-exposed adolescents learn reward-punishment associations more slowly than controls during acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adolescents with early life stress histories responded less accurately throughout acquisition than controls, learning punishment associations more slowly. [→ Harms Madeline B. 2018](#harms-madeline-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D. (2018). Instrumental Learning and Cognitive Flexibility Processes are Impaired in Children Exposed to Early Life Stress. Developmental Science. https://doi.org/10.1111/desc.12596
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Behavioral ANOVA of the acquisition condition in 29 early-stress and 22 control adolescents showed a main effect of group: "stress-exposed adolescents responded less accurately throughout the task". A group × time interaction for punishment trials indicated slower learning of punishment cues.
 

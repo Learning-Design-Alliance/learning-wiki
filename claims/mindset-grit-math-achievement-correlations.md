@@ -15,12 +15,14 @@ sources:
     author: "Kaya, S., & Karakoc, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Math mindsets and academic grit correlate substantially with primary math achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Academic grit correlates highly with math achievement (r=0.765); growth mindset positively (r=0.564) and fixed mindset negatively. [→ Kaya 2022](#kaya-2022)
@@ -31,7 +33,7 @@ sources:
 
 Kaya, S., & Karakoc, D. (2022). Math Mindsets and Academic Grit: How Are They Related to Primary Math Achievement?. European Journal of Science and Mathematics Education, 10(3), 298-309. https://doi.org/10.30935/scimath/11881
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Bivariate correlations (Table 2) among the three constructs and math achievement for 225 students; all correlations significant at p<0.01. Fixed mindset correlation printed as r=-397 in text, -0.484 in table.
 

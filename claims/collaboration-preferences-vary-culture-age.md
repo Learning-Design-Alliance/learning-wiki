@@ -13,12 +13,14 @@ sources:
     title: Stengelin R 2020
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children's explicit preferences for collaboration varied markedly across populations and ages: German children preferred collaboration, Hai||om children preferred individual activity, and Ovambo children shifted toward individual preference with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The ontogenetic trajectories of children's preference for collaboration over individual activity varied across the three populations. [→ Stengelin R 2020](#stengelin-r-2020)
@@ -29,7 +31,7 @@ sources:
 
 Stengelin R, Hepach R, Haun DBM (2020) Cultural variation in young children's social motivation for peer collaboration and its relation to the ontogeny of Theory of Mind. PLoS ONE 15(11): e0242071. https://doi.org/10.1371/journal.pone.0242071
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Generalized linear mixed model on forced-choice trial decisions (binomial error distribution) from 240 children. "the ontogenetic trajectories of children's preference for collaboration over individual activity varied across the three populations" (Population × Age: χ²(2) = 7.29, p = .026). Only German children showed a preference for collaboration from ages 3 to 8 (p = .007); Hai||om children preferred the individual option (p < .001); Ovambo children showed no overall preference (p = .567) but shifted toward individual choice with age.
 

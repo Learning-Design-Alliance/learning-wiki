@@ -15,12 +15,14 @@ sources:
     author: Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Evidence for effects of acute bouts of physical activity on children's attention is weak and inconclusive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A systematic review of 12 prospective studies (916 participants, ages 7–17) found weak evidence for the effect of acute bouts of physical activity on attention, with inconclusive overall results. [→ Janssen M 2014](#janssen-m-2014)
@@ -31,7 +33,7 @@ sources:
 
 Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Systematic review per PRISMA of English studies from PubMed, Sportdiscus and PsycINFO (1990–May 2014); 12 studies with 916 participants aged 7–17. The review concludes "Overall the evidence is thin and incon clusive" due to methodological heterogeneity.
 

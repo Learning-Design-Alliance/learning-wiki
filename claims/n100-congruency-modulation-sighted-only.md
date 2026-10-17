@@ -13,12 +13,14 @@ sources:
     title: Salillas E 2009
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Number-size/location congruency modulates the early sensory N100 only in sighted participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In sighted participants, congruent trials elicited larger N100 amplitudes than incongruent trials, independent of target location. [→ Salillas E 2009](#salillas-e-2009)
@@ -29,7 +31,7 @@ sources:
 
 Salillas E, Grana´ A, El-Yagoubi R, Semenza C (2009) Numbers in the Blind's ''Eye''. PLoS ONE 4(7): e6357. https://doi.org/10.1371/journal.pone.0006357
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 ERP experiment using a delayed-detection paradigm with the same 7 blind and 7 sighted participants; ERPs were time-locked to the target. A group x congruency interaction showed the N100 (100–180 ms) "was modulated by congruency only in sighted participants" (lateral F(1,12) = 8.50, p = 0.013), with the effect anteriorly distributed.
 

@@ -15,12 +15,14 @@ sources:
     author: Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Gf and creativity correlated at r = .45; adding updating, shifting and inhibition reduced the residual correlation to r = .34 (a 43% reduction of shared variance), and adding openness reduced it further to r = .29 (a trend). [→ Benedek Mathias 2014](#benedek-mathias-2014)
@@ -31,7 +33,7 @@ sources:
 
 Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C. (2014). Intelligence, creativity, and cognitive control: The common and differential involvement of executive functions in intelligence and creativity. Intelligence. https://doi.org/10.1016/j.intell.2014.05.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Abstract-adjacent measurement model result in the same 230-participant SEM study; the latent Gf–creativity correlation was .45 (p < .001), later reduced by executive predictors as described in Section 3.3.
 

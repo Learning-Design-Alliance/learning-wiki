@@ -13,16 +13,20 @@ sources:
     title: Reid Smith 2021
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: reid-smith-2021-2
     title: Reid Smith 2021 (2)
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Low-skilled readers with strong background knowledge partially compensate for poor reading skill at the textbase level but not for inferencing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` High-knowledge low-skilled readers can compensate for poor reading skill in recall/summarization (textbase), reaching performance similar to high-knowledge skilled readers. [→ Reid Smith 2021](#reid-smith-2021)
@@ -34,7 +38,7 @@ sources:
 
 Reid Smith, Pamela Snow, Tanya Serry & Lorraine Hammond (2021) The Role of Background Knowledge in Reading Comprehension: A Critical Review, Reading Psychology, 42:3, 214-240, https://doi.org/10.1080/02702711.2021.1888348
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports the Recht and Leslie (1988) 'baseball study' finding at the textbase level, noting no statistically significant difference in recall between less-skilled and skilled high-knowledge children.
 
@@ -44,7 +48,7 @@ Review reports the Recht and Leslie (1988) 'baseball study' finding at the textb
 
 Reid Smith, Pamela Snow, Tanya Serry & Lorraine Hammond (2021) The Role of Background Knowledge in Reading Comprehension: A Critical Review, Reading Psychology, 42:3, 214-240, https://doi.org/10.1080/02702711.2021.1888348
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review synthesis: compensatory effect of knowledge on inference generation is weaker; low-skill readers gain some benefit from increased knowledge but less than above-average readers (Adams et al., 1995).
 

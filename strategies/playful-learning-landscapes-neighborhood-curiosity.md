@@ -17,7 +17,7 @@ sources:
 # Transform neighborhood spaces into safe, playful learning landscapes to foster caregiver-child interaction and curiosity in under-resourced communities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors recommend community-based interventions that transform everyday neighborhood spaces (bus stops, supermarkets, laundromats) into safe, playful learning hubs, citing Playful Learning Landscapes and Urban Thinkscape. These installations are designed to "promote caregiver-child interaction and interactive discourse," fostering conversational exchanges dotted with questions — a behavior the authors associate with curiosity — and are proposed as a pathway by which safer, more playful neighborhoods could promote early childhood curiosity in lower-resourced families.
@@ -37,7 +37,7 @@ The authors recommend community-based interventions that transform everyday neig
 - curiosity, question asking, language and school-readiness skills through caregiver-child interaction
 
 ### Affordances
-- [Ecological Multilevel Contexts Early Curiosity](../theories/ecological-multilevel-contexts-early-curiosity.md)
+- [Ecological Multilevel Contexts Early Curiosity](../theories/bioecological-model-of-human-development.md)
 
 ## Claims
 

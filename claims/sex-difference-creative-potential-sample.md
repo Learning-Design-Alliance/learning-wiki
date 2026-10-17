@@ -15,12 +15,14 @@ sources:
     author: Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Among the 230 participants, men showed higher creative potential than women (d = 0.52), while no sex differences appeared for fluid intelligence, updating, shifting, or inhibition. [→ Benedek Mathias 2014](#benedek-mathias-2014)
@@ -31,7 +33,7 @@ sources:
 
 Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C. (2014). Intelligence, creativity, and cognitive control: The common and differential involvement of executive functions in intelligence and creativity. Intelligence. https://doi.org/10.1016/j.intell.2014.05.007
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Descriptive t-tests of total factor scores in the 230-participant sample (70% female). Men scored higher on rated creative potential (d = 0.52); all executive-function and Gf comparisons were non-significant. The authors note the female-skewed sample may limit generalizability.
 

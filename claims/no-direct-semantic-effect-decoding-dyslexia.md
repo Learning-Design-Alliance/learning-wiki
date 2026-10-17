@@ -15,12 +15,14 @@ sources:
     author: van Rijthoven R, Kleemans T, Segers E, Verhoeven L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No significant total or direct effect of semantic knowledge on word or pseudoword decoding in children with dyslexia
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Neither the total nor the direct effect of semantics on word decoding or pseudoword decoding reached significance in the mediation models. [→ van Rijthoven R 2018](#van-rijthoven-r-2018)
@@ -31,7 +33,7 @@ sources:
 
 van Rijthoven R, Kleemans T, Segers E, Verhoeven L. (2018). Beyond the phonological deficit: Semantics contributes indirectly to decoding efficiency in children with dyslexia. Dyslexia. https://doi.org/10.1002/dys.1597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Word-decoding mediation model in 55 children with dyslexia: total effect c = 0.0255, p = 0.374; direct effect c′ = 0.0414, p = 0.200, both non-significant. The pseudoword model likewise showed no significant total or direct effect (p = 0.384; p = 0.641).
 

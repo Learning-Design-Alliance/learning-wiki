@@ -15,12 +15,14 @@ sources:
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Foster children who received the control intervention scored significantly lower on the post-switch task than never-fostered comparison children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Foster-care control children scored significantly lower than never-fostered comparison children on the post-switch card sort (d = 1.12). [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)
@@ -31,7 +33,7 @@ sources:
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 In the Bonferroni-adjusted follow-up contrasts from the same ANCOVA, foster-care control children scored significantly lower than never-fostered comparison children on the post-switch card sort, with a large effect size (d = 1.12), consistent with early adversity impairing set-shifting.
 

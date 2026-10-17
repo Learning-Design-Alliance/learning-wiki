@@ -15,12 +15,14 @@ sources:
     author: Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Monolingual and bilingual children show no differences in the types of errors committed on the perspective-taking task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Language groups did not differ in egocentric, oriented, or structured error rates. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)
@@ -31,7 +33,7 @@ sources:
 
 Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen. (2013). Perspective-Taking Ability in Bilingual Children: Extending Advantages in Executive Control to Spatial Reasoning. Cognitive Development. https://doi.org/10.1016/j.cogdev.2012.10.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Chi-square tests on error frequencies (children classified as committing or not committing each error type using a cutoff of more than 3 of 12 trials) found "no language group differences for egocentric errors" or the other two error types.
 

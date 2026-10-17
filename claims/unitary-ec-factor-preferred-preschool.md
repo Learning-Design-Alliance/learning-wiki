@@ -15,12 +15,14 @@ sources:
     author: "Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Two-factor EC models (working memory vs. inhibitory control) did not fit better than the unitary model at age 5.25. [→ Clark 2014](#clark-2014)
@@ -31,7 +33,7 @@ sources:
 
 Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A. (2014). Gaining control: changing relations between executive control and processing speed and their relevance for mathematics achievement over course of the preschool period. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00107
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Supplementary model test at age 5.25 comparing two-factor EC structures against the unitary model. The working-memory/inhibitory-control split did not improve fit ("Δχ² = 0.26(1), p = 0.61"), with a high inter-factor correlation (r = 0.91); an alternative loading scheme also was not superior (Δχ² = 0.003(1), p = 0.96).
 

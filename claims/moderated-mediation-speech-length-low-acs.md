@@ -15,12 +15,14 @@ sources:
     author: Jones Christopher R., Fazio Russell H., Vasey Michael W.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Speech length mediates the anxiety-to-judged-quality link only for individuals low in attentional control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` At low ACS (-1 sd), the conditional indirect effect of public speaking anxiety on judged quality via speech length was negative and statistically significant (95% CI = -.13 to -.02). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)
@@ -31,7 +33,7 @@ sources:
 
 Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Moderated-mediation analysis reported in a footnote, using bootstrap resampling (5000 samples) with the modmed macro in the same 61-participant sample. The conditional indirect effect was significant only at low ACS: "95%CI = (-.13, -.02)"; at mean and high ACS the confidence intervals included zero.
 

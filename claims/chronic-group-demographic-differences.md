@@ -15,12 +15,14 @@ sources:
     author: Kirkpatrick, Kathryn M.
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
 ---
 
 # Students with chronic medical conditions show demographic differences from healthy peers in the Add Health subsamples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` The chronic medical condition group included more females (g = 0.33), the healthy group more minority students (g = 0.22), and the healthy group had higher reported parent education (g = 0.11); all differences had small effect sizes below d = 0.2 or near that boundary, and no differences were found for age or prior grades. [→ Kirkpatrick 2020](#kirkpatrick-2020)
@@ -31,7 +33,7 @@ sources:
 
 Kirkpatrick, Kathryn M. (2020). Adolescents With Chronic Medical Conditions and High School Completion: The Importance of Perceived School Belonging. Continuity in Education, 1(1), 50–63. https://doi.org/10.5334/cie.5
 
-`q3 · i0`
+`q3 · i0` · `associational · r3`
 
 T-tests on demographic variables between the chronic condition (N = 629) and healthy (N = 897) subsamples (total N = 1,526), with Hedges g for effect size estimation. All differences "had a small effect size"; the printed g values (0.11, 0.33, 0.22) are at or below the small-effect boundary, coded 0.
 

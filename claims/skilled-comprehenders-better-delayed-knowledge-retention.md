@@ -15,12 +15,14 @@ sources:
     author: Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Skilled comprehenders show superior one-week retention of a taught knowledge base despite comparable immediate recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A skill group x test session ANOVA on knowledge-base recall showed a significant interaction: groups were comparable immediately, but skilled comprehenders retained more over a week. [→ Kate Cain 2001](#kate-cain-2001)
@@ -31,7 +33,7 @@ sources:
 
 Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Two-way ANOVA (skill group x test session) on immediate and one-week delayed recall of the 12-item knowledge base for both groups. The article reports the interaction F(1,24) = 9.75, p < .006, and a marginal effect of skill group, F(1,24) = 3.46, p < .08.
 

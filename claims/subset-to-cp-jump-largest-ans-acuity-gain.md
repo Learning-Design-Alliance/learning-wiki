@@ -15,18 +15,22 @@ sources:
     author: Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: shusterman-anna-2016-2
     resource: "https://doi.org/10.1371/journal.pone.0153072"
     title: "Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072"
     author: Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The subset-to-cardinal-principle knower-level transition coincides with the largest longitudinal gains in ANS acuity, exceeding other transition types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The Session x Jump Category interaction was significant: children who jumped from subset-knower to CP-knower showed the biggest change in w (Δw = -0.455) versus CP-Non-Mapper-to-Mapper (Δw = -0.069) and Subset-to-Subset (Δw = 0.001). [→ Shusterman Anna 2016](#shusterman-anna-2016)
@@ -38,7 +42,7 @@ sources:
 
 Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Repeated measures ANOVA on 27 isolated knower-level jumps, comparing w at [t-1] and [t0] sessions by Jump Category. Post-hoc: only Subset-to-CP vs Non-Mapper-to-Mapper reached significance (p = .02); Subset-to-CP vs Subset-to-Subset did not (p = .19).
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA on 27 isolated knower-level jumps, comparing w at [t-1] 
 
 Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA with S2-to-S5 percent correct, age and sex as covariates, replicated with w (F(1,29) = 3.89, p = .05): Subset-to-CP (M = 6.11%) exceeded Subset-to-Subset (M = 3.54%), Non-Mapper-to-Mapper (M = 4.44%), and No Change (M = 2.17%) groups, p < .05 for the first three comparisons.
 

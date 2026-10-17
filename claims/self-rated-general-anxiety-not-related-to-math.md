@@ -15,12 +15,14 @@ sources:
     author: "Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's self-rated general anxiety was not directly related to math achievement at either assessment time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children's self-ratings of general anxiety (RCMAS) were not directly related to math achievement at the start of grade 3 or grade 4, whereas teacher ratings were. [→ Pellizzoni 2021](#pellizzoni-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C. (2021). The interplay between math anxiety and working memory on math performance: a longitudinal study. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14722
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null finding from the same path analysis (Model 1a) in 146 children; Table 3 shows RCMAS indirect effect on MAT‐3 of −0.02*. The authors suggest GA "could, therefore, be harder for young children to detect and measure".
 

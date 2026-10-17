@@ -15,12 +15,14 @@ sources:
     author: Lerner Matthew D., Lonigan Christopher J.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Initial phonological awareness uniquely predicts growth in letter-name knowledge, most strongly via elision skill
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Growth in letter-name knowledge was uniquely predicted by higher initial composite phonological awareness, with elision the strongest individual factor (β = .41, p < .001). [→ Lerner Matthew D. 2016](#lerner-matthew-d-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lerner Matthew D., Lonigan Christopher J. (2016). Bidirectional Relations between Phonological Awareness and Letter Knowledge in Preschool Revisited: A Growth Curve Analysis of the Relation between Two Code-Related Skills. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2015.09.023
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Predictive growth models of 358 preschoolers tested initial phonological awareness and vocabulary as predictors of letter-name knowledge growth, controlling for age and initial letter-name knowledge. The article reports growth "was uniquely predicted by higher initial composite phonological awareness" with the Elision factor strongest (β = .41, p < .001).
 

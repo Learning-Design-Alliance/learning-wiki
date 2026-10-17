@@ -67,8 +67,8 @@ The Teacher Team Method is one of three methods the article proposes for estimat
 
 ## Related Elements
 
-- [Full Roster Method for co-taught value-added estimation](../research-methods/full-roster-method.md)
-- [Partial Credit Method for co-taught value-added estimation](../research-methods/partial-credit-method.md)
+- [Full Roster Method for co-taught value-added estimation](three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
+- [Partial Credit Method for co-taught value-added estimation](three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
 
 ## Examples
 -

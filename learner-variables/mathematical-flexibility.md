@@ -12,7 +12,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 4 claims (3 show a difference, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 show a difference, 2 mixed) · 8 studies (4 causal, 2 associational, 1 quant-synthesis, 1 review), `q2`–`q4` · 2 of 8 report an effect size · 7 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.

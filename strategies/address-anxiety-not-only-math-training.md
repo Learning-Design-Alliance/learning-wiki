@@ -17,7 +17,7 @@ sources:
 # Reduce math anxiety by addressing the anxiety rather than training math alone
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 associational), `q3`–`q4` · 3 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that techniques for reducing the link between math anxiety and poor performance often "involve addressing the anxiety rather than training math itself" (Maloney & Beilock, cited). It also notes effective instruction for struggling learners includes instructional explicitness, a strong conceptual basis, cumulative review and practice, and motivators to maintain interest and engagement.

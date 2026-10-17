@@ -15,12 +15,14 @@ sources:
     author: Isabelle Regner, Pascal Huguet, Jean-Marc Monteil
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In both studies, only the low-SES students generated stereotype-consistent inferences, indicating that low-SES students apply the SES stereotype to infer targets' cognitive ability. [→ Isabelle Regner 2002](#isabelle-regner-2002)
@@ -31,7 +33,7 @@ sources:
 
 Isabelle Regner, Pascal Huguet, Jean-Marc Monteil. (2002). Effects of socioEconomic status (SES) information on cognitive ability inferences: When low-SES students make use of a self-threatening stereotype. Social Psychology of Education, 5(3), 253-269. https://doi.org/10.1023/A:1016313908667
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Study 1 was an experiment in which "low versus high achievers with a low versus a high SES" received social class information about targets and inferred the targets' memory ability. The abstract reports that "only the low-SES students generated stereotype-consistent inferences."
 

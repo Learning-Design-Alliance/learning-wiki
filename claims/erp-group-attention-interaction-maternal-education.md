@@ -15,12 +15,14 @@ sources:
     author: Stevens Courtney, Lauinger Brittni, Neville Helen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The effect of selective auditory attention on early neural processing differs between children of higher and lower maternal education (significant group × attention interaction within 100–200 msec)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In an ERP study of 32 children, the effect of selective attention on probe-evoked amplitudes differed by maternal education group (group × attention interaction significant). [→ Stevens Courtney 2009](#stevens-courtney-2009)
@@ -31,7 +33,7 @@ sources:
 
 Stevens Courtney, Lauinger Brittni, Neville Helen. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 ERP mixed-design ANOVA testing the effects of attention (attended/unattended), probe type, and maternal education group on probe-evoked mean amplitude at 100–200 msec in 32 children. The omnibus interaction was significant: "F(1, 30) = 13.4, P = .001". The main effect of group was not significant, F(1, 30) = 1.0, p = .32.
 

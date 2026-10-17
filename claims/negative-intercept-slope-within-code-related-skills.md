@@ -15,12 +15,14 @@ sources:
     author: Lerner Matthew D., Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Intercepts were negatively correlated with slopes for blending, elision, letter-name, and letter-sound knowledge, so children starting higher grew less in the same skill; rhyme showed the opposite positive correlation. [→ Lerner Matthew D. 2016](#lerner-matthew-d-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lerner Matthew D., Lonigan Christopher J. (2016). Bidirectional Relations between Phonological Awareness and Letter Knowledge in Preschool Revisited: A Growth Curve Analysis of the Relation between Two Code-Related Skills. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2015.09.023
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Zero-order correlation analysis of growth model parameters in the 358-child sample. The article reports the negative intercept–slope correlations and, for rhyme, "a significant positive correlation between intercept and slope for Rhyme."
 

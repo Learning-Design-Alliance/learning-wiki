@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E.; Hayes Heather
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Most adolescents with cochlear implants maintain their reading standing relative to hearing norms from elementary school to high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 72% of the sample retained their reading standing relative to hearing norms between ages 8-9 and high school; the group mean PIAT standard score declined slightly from 89 to 83. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E.; Hayes Heather. (2011). Reading, Writing, and Phonological Processing Skills of Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://doi.org/10.1097/AUD.0b013e3181fa41fa
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal comparison of PIAT-R standard scores at the CI-E (ages 8-9) and CI-HS sessions for the same students. "40% of the students (N = 45) scored within 1 SD of the normative average at both sessions" and 32% stayed below at both; 28% changed standing, most falling from average to below-average. Mean declined from 89 to 83.
 

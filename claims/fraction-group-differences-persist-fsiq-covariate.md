@@ -15,12 +15,14 @@ sources:
     author: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Group differences in fraction comparison accuracy persist when full scale IQ is included as a covariate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` All significant main effects and two-way interactions re-emerged in ANCOVAs with FSIQ as a covariate; only the four-way interaction dropped below significance. [→ Mazzocco 2013](#mazzocco-2013)
@@ -31,7 +33,7 @@ sources:
 
 Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Each ANOVA was repeated as an ANCOVA with WASI full scale IQ (Grade 3) as a covariate. "all significant main effects reported above persisted when FSIQ was included in the models", and all two-way interactions re-emerged; only the four-way interaction was no longer significant (p = .13, η2p = .053).
 

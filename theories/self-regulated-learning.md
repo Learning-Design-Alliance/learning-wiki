@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 56 claims (32 for, 21 mixed, 3 against) · 58 studies (20 associational, 14 causal, 10 quant-synthesis, 5 review, 4 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 18 of 58 report an effect size · 41 claims rest on one study
+> **Evidence** · 58 claims (32 for, 23 mixed, 3 against) · 59 studies (20 associational, 15 causal, 10 quant-synthesis, 5 review, 4 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 19 of 59 report an effect size · 43 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -103,6 +103,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](../claims/srl-training-effects-by-outcome-category.md) [+W] — attached 2026-10-16 from Theobald (2021), which proposed "SRL strategy taxonomy: cognitive, metacognitive, and resource management strategies within a three-phase cyclical process".
 - [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](../claims/goal-setting-strategic-planning-predict-mooc-goal-attainment.md) [+W] — attached 2026-10-16 from Kizilcec et al. (2017), which proposed "Pintrich's model of self-regulated learning as three categories of trainable strategies".
 - [University students who choose e-textbooks report greater self-regulation of learning than students who choose print textbooks](../claims/e-textbook-choice-higher-self-regulation.md) [+W] — attached 2026-10-16 from Amanda J. Rockinson-Szapkiw et al. (2013), which proposed "Self-regulated learning theory as a framework for textbook reading at the university level".
+- [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](../claims/isi-greater-gains-weak-initial-self-regulation.md) [~W] — attached 2026-10-17 from Connor Carol McDonald et al. (2010), which proposed "Working model of self-regulation supporting academic growth through teacher practices".
+- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](../claims/fall-htks-predicts-literacy-gains.md) [~W] — attached 2026-10-17 from Connor Carol McDonald et al. (2010), which proposed "Working model of self-regulation supporting academic growth through teacher practices".
 
 ## The evidence by question
 

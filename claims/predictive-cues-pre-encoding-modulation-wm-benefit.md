@@ -15,12 +15,14 @@ sources:
     author: Gazzaley A, Nobre AC
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Predictive category cueing enhanced working memory for faces compared to faces following a neutral cue, accompanied by baseline shifts in the fusiform face area and pre-stimulus functional connectivity with prefrontal and parietal regions. [→ Gazzaley A 2012](#gazzaley-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 An fMRI study by Bollinger et al. using an object delayed-response task with predictive versus neutral category cues. The review reports that "Predictive category cueing led to enhanced WM for faces compared to faces following a neutral cue", with FFA connectivity to IFJ predicting the expectation-driven WM benefit.
 

@@ -15,12 +15,14 @@ sources:
     author: "Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children's vocabulary was not uniquely related to either the substantive quality or writing conventions outcome after accounting for instructional quality variables and other child-level variables (ps ≥ .54). [→ Kim 2013](#kim-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Y.-S., Al Otaiba, S., Sidler Folsom, J., & Gruelich, L. (2013). Language, literacy, attentional behaviors, and instructional quality predictors of written composition for first graders. Early Childhood Research Quarterly, 28(3), 461–469. https://doi.org/10.1016/j.ecresq.2013.01.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null finding from the multilevel models: expressive vocabulary (WJ-III Picture Vocabulary) showed no unique relation to either written composition dimension once grammatical knowledge, reading, spelling, letter writing automaticity, attentiveness, and instructional quality were accounted for.
 

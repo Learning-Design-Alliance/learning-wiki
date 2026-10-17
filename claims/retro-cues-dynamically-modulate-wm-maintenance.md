@@ -15,12 +15,14 @@ sources:
     author: Gazzaley A, Nobre AC
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Retro-cues trigger top-down biasing of maintained representations and consistently confer large benefits to WM performance; Kuo et al. showed modulation of the WM representations themselves, not just anticipatory attention to the probe. [→ Gazzaley A 2012](#gazzaley-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review synthesis of behavioral and neural retro-cue studies in delayed-response tasks. Kuo et al. used spatial retro-cues eliminating anticipatory spatial attention to the probe, with CDA ERP evidence providing "strong support for the ability to dynamically modulate WM representations themselves during the maintenance period".
 

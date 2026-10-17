@@ -15,18 +15,22 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: gillen-oneel-2011-2
     resource: "https://doi.org/10.1111/j.1467-8624.2011.01621.x"
     title: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x"
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Lower public regard was associated with lower intrinsic motivation for boys but not for girls. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -38,7 +42,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 ANCOVA testing equal slopes for the public regard × gender interaction on intrinsic motivation. The study found "lower public regard was associated with lower intrinsic motivation for boys (b = 0.22, p = .008), but not for girls (b = 0.01, p = .926)".
 
@@ -48,7 +52,7 @@ ANCOVA testing equal slopes for the public regard × gender interaction on intri
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA testing the group status × ethnicity interaction on intrinsic motivation. The article reports "perception of lower status was associated with lower intrinsic motivation for Chinese children only".
 

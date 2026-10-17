@@ -15,12 +15,14 @@ sources:
     author: Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # ACC activation to reward during reversal is positively associated with reversal learning performance in stress-exposed adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Among stress-exposed adolescents, ACC activation during reward trials was positively correlated with reversal learning performance (r = .517). [→ Harms Madeline B. 2018](#harms-madeline-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D. (2018). Instrumental Learning and Cognitive Flexibility Processes are Impaired in Children Exposed to Early Life Stress. Developmental Science. https://doi.org/10.1111/desc.12596
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Correlational analysis of mean voxel activation in the early stress group found "ACC activation during reward trials was positively associated with reversal learning performance" (Table 4 reports r = .517, p < .05); no significant associations emerged among controls.
 

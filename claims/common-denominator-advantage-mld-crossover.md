@@ -15,18 +15,22 @@ sources:
     author: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: mazzocco-2013-2
     resource: "https://doi.org/10.1016/j.jecp.2013.01.005"
     title: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005"
     author: "Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fraction pairs with common denominators are compared more accurately than pairs with common numerators, but children with MLD show a crossover, improving on common numerator items while declining on common denominator items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Same-denominator items led to more accurate performance (90.3%) than same-numerator fractions (85.7%). [→ Mazzocco 2013](#mazzocco-2013)
@@ -38,7 +42,7 @@ sources:
 
 Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 A 2 (Item Type) × 2 (Format) × 5 (Grade) × 3 (MLD Status) ANOVA on 12 common-denominator and 12 common-numerator item pairs. The Item Type main effect was significant, "with same denominator items leading to more accurate performance (90.3%) than same numerator fractions (85.7%)".
 
@@ -48,7 +52,7 @@ A 2 (Item Type) × 2 (Format) × 5 (Grade) × 3 (MLD Status) ANOVA on 12 common-
 
 Mazzocco, M. M. M., Myers, G. F., Lewis, K. E., Hanich, L. B., & Murphy, M. M. (2013). Limited knowledge of fraction representations differentiates middle school students with mathematics learning disability (dyscalculia) vs. low mathematics achievement. Journal of experimental child psychology, 115(2), 371-387. https://doi.org/10.1016/j.jecp.2013.01.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Post hoc comparisons of the significant four-way interaction (Wilks’ Lambda F(8, 230) = 2.646, p = .01, η2p = .084) revealed the crossover. "Only the MLD group showed a negative correlation between accuracy on same numerator and same denominator problems", with MLD performance on common denominator items dropping annually despite a Grade 4 level comparable to TA.
 

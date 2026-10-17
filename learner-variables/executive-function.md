@@ -12,7 +12,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 28 claims (15 show a difference, 6 mixed, 5 no difference, 2 unmarked) · 21 studies (6 causal, 6 associational, 4 quant-synthesis, 4 review, 1 design), `q2`–`q4` · 6 of 21 report an effect size · 26 claims rest on one study
+> **Evidence** · 65 claims (35 show a difference, 12 mixed, 16 no difference, 2 unmarked) · 37 studies (15 associational, 11 causal, 5 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 9 of 37 report an effect size · 63 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).

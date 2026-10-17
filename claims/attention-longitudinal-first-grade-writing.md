@@ -15,12 +15,14 @@ sources:
     author: "Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Kindergarten attention was uniquely related to first-grade compositional fluency (γ = .23, p < .001) and quality (γ = .19, p = .001) after accounting for other component skills. [→ Kent 2014](#kent-2014)
@@ -31,7 +33,7 @@ sources:
 
 Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writing fluency and quality in kindergarten and first grade: The role of attention, reading, transcription, and oral language. Reading and Writing, 27(7), 1163-1188. https://doi.org/10.1007/s11145-013-9480-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Longitudinal SEM predicting spring first-grade writing outcomes from kindergarten component skills in the same cohort. Attention showed unique positive paths to both outcomes; the model accounted for 33% of variance in quality and 45% in fluency.
 

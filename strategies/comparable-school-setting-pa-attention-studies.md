@@ -17,7 +17,7 @@ sources:
 # Conduct methodologically comparable experimental studies of acute PA and attention in school settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The review's central recommendation is that future research should strengthen the thin evidence base by conducting experimental studies with comparable methodology, especially in schools. It states "more methodologically comparable studies in the school setting are needed to strengthen this evidence" and calls for a robust knowledge base on bout duration, intensity, and school-based attention measurement. This directs researchers rather than teachers.

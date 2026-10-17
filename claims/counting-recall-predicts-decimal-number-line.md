@@ -15,12 +15,14 @@ sources:
     author: Malone Amelia S., Loehr Abbey M., Fuchs Lynn S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Numerical working memory predicts decimal number line estimation accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only Counting Recall (numerical working memory), not Listening Recall (verbal working memory), predicted decimal number line estimation accuracy. [→ Malone Amelia S. 2017](#malone-amelia-s-2017)
@@ -31,7 +33,7 @@ sources:
 
 Malone Amelia S., Loehr Abbey M., Fuchs Lynn S. (2017). The Role of Domain-General Cognitive Abilities and Decimal Labels in At-Risk Fourth-Grade Students' Decimal Magnitude Understanding. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2017.05.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression for Decimal Number Line: the model accounted for 12.9% of the variance, F(6, 120)=2.97, p=.01. Counting Recall B=0.005, p=.024; Listening Recall p=.054 did not reach significance.
 

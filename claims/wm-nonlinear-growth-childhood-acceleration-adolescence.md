@@ -15,12 +15,14 @@ sources:
     author: "Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Cubic functional forms best fit forward and backward digit span growth in the PSID-CDS, with most rapid growth in childhood and a brief acceleration in early adolescence. [→ Ahmed 2022](#ahmed-2022)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E. (2022). Working memory development from early childhood to adolescence using two nationally representative samples. Developmental Psychology. https://doi.org/10.1037/dev0001396
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal mixed-effects modeling of the PSID-CDS accelerated longitudinal sample (N = 3,562, ages 3–19) tested four functional forms; cubic fit best for both tasks. "a cubic functional form best characterized development" with significant cubic coefficients (b = 0.002, p < .001).
 

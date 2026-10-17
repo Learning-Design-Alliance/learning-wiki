@@ -17,7 +17,7 @@ sources:
 # Proactive planning of care and early identification of older adults with low health literacy and declining cognitive functioning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 8 claims (8 for) · 2 studies (2 associational), `q3` · 2 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 The article recommends that healthcare professionals engage in proactive planning of care for older adults with both low health literacy and declining cognitive functioning. It states that "Proactive planning of care is essential for older adults with both low health literacy and declining cognitive functioning" and that "early identification of the most vulnerable group is especially important" because cognitive decline is associated with low health literacy even in relatively young older adults.

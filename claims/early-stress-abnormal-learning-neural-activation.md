@@ -15,12 +15,14 @@ sources:
     author: Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Stress-exposed adolescents show abnormal neural activation in learning- and attention-related regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` During punished reversal errors, controls showed greater activation than the early stress group in attention-related regions including bilateral middle frontal gyri. [→ Harms Madeline B. 2018](#harms-madeline-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D. (2018). Instrumental Learning and Cognitive Flexibility Processes are Impaired in Children Exposed to Early Life Stress. Developmental Science. https://doi.org/10.1111/desc.12596
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Whole-brain fMRI ANOVAs (22 stress-exposed, 22 controls) during reversal switch trials revealed group × trial type interactions: "controls showed greater activation than the early stress group in a number of attention-related regions". No group differences emerged during correct hits.
 

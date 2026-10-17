@@ -15,12 +15,14 @@ sources:
     author: Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Classroom energizers improved on-task behaviour, but PA during a classroom task showed no improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Performing energizers led to significant improvement of time on task (Mahar et al. 2006), but energizers performed during a classroom task showed no improvement (Grieco et al. 2009). [→ Janssen M 2014](#janssen-m-2014)
@@ -31,7 +33,7 @@ sources:
 
 Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review reports two observational school studies: Mahar et al. (2006) observed significant on-task improvement (8%, p = 0.017; low performers 20%) after 10-min energizers; Grieco et al. (2009) found no decrease of time on task after PA during classroom tasks (p < 0.001 vs inactive lesson).
 

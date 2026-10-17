@@ -15,12 +15,14 @@ sources:
     author: Yılmaz Mutlu
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Math anxiety correlates strongly and negatively with mathematics achievement among third graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Math anxiety and math achievement show a strong negative correlation (r=-.597) in third-grade students. [→ Yılmaz Mutlu 2019](#ylmaz-mutlu-2019)
@@ -31,7 +33,7 @@ sources:
 
 Yılmaz Mutlu. (2019). Math Anxiety in Students With and Without Math Learning Difficulties. International Electronic Journal of Elementary Education, 11(5), 471-475. https://doi.org/10.26822/iejee.2019553343
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Pearson product-moment correlation analysis of math anxiety scale and math achievement test scores from 288 third graders in a low socioeconomic area elementary school. The study found "a strong and negative correlation between math anxiety and mathematics achievement" with r= -0.597, p= .00.
 

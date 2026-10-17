@@ -15,12 +15,14 @@ sources:
     author: Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Clinical diagnosis of ADHD was associated with increased odds of clinically significant depressive symptoms at 17.5 years (OR = 4.49, 95% CI = 1.53–13.19, p = 0.006). [→ Powell V 2020](#powell-v-2020)
@@ -31,7 +33,7 @@ sources:
 
 Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F. (2020). What explains the link between childhood ADHD and adolescent depression? Investigating the role of peer relationships and academic attainment. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01463-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Sensitivity analysis using DSM-IV ADHD diagnosis derived from the DAWBA as exposure in ALSPAC. Only 14 participants had a diagnosis; the article reports "OR = 4.49, 95% CI = 1.53–13.19, p = 0.006".
 

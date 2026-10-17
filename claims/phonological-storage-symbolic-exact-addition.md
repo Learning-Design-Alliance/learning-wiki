@@ -15,12 +15,14 @@ sources:
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Symbolic exact addition is predicted by symbolic number line representation and the phonological loop, reflecting phonological storage of numerical information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Symbolic number line representation and PL measures were the significant predictors of symbolic exact addition. [→ Xenidou-Dervou 2014](#xenidou-dervou-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Stepwise regression on the familiar "a + b = c" format; "the symbolic mental number line representation task, t(102) = -3.89, p < .001, and the PL, t(102) = 2.97, p = .004" were the significant predictors, indicating phonological storage in the symbolic code.
 

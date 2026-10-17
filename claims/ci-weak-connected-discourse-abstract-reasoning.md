@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E., Sedey Allison L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescent CI users perform weakest on connected discourse comprehension and abstract verbal reasoning subtests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The WISC Comprehension subtest (mean 6.8) and CELF Understanding Spoken Paragraphs (mean 7.6) were the poorest performances, both more than 1 SD below hearing age-mates. [→ Geers Ann E. 2011](#geers-ann-e-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E., Sedey Allison L. (2011). Language and Verbal Reasoning Skills in Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Results section (Table 2) reports subtest-level means for the CI-HS sample: Comprehension mean 6.8 (65% within normal limits) and Understanding Spoken Paragraphs mean 7.6 (69%), the lowest of the administered subtests, versus means of 9.3-9.4 on Information and Similarities.
 

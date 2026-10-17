@@ -15,12 +15,14 @@ sources:
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The achievement goal model's pattern of results holds for both younger and older adult age groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A multiple group analysis found the general pattern of results, including regression path weights, held for both age groups. [→ Hastings 2011](#hastings-2011)
@@ -31,7 +33,7 @@ sources:
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple group analysis in Amos 17.0 with age treated continuously within each group; constraining measurement and structural weights and intercepts equal still fit well (χ2(43)=47.83, p=.28, CFI=.986, RMSEA=.02).
 

@@ -15,12 +15,14 @@ sources:
     author: "Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # EC factor loadings on executive tasks strengthen and stabilize across the preschool period
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Longitudinal metric invariance tests showed most EC loadings at age 3 could not be equated with later ages, while loadings from 3.75 onward were largely constrainable to equality, and EC factor correlations increased over time. [→ Clark 2014](#clark-2014)
@@ -31,7 +33,7 @@ sources:
 
 Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A. (2014). Gaining control: changing relations between executive control and processing speed and their relevance for mathematics achievement over course of the preschool period. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00107
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Longitudinal metric invariance analysis combining all four age-point models (overall fit χ² = 1550.47(1124), CFI = 0.88). Correlations between EC factors rose from "β = 0.84 for EC at age 4.5 with EC at 5.25 years", indicating growing stability of the distinct EC factor.
 

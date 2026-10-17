@@ -17,7 +17,7 @@ sources:
 # Use false feedback paradigms with random assignment to disentangle feedback effects from ability effects in self-regulation research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Because feedback is typically based on actual performance and performance is related to ability, feedback type and ability are often confounded. The article recommends the false feedback paradigm as a methodological tool: "The false feedback paradigm used in the present study allowed us to more systematically evaluate the role of feedback in self-regulation while holding constant (within age group) pre-existing beliefs and cognitive ability." Practitioners and researchers can implement this by randomly assigning learners to receive fabricated high- or low-performance feedback, then measuring self-regulatory responses such as beliefs and attention.

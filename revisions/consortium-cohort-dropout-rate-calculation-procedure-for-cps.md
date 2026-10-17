@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/consortium-cohort-dropout-rate-calculation-procedure-for-cps.md
 ---
 
-# Revision history: [research-methods/consortium-cohort-dropout-rate-calculation-procedure-for-cps](../research-methods/consortium-cohort-dropout-rate-calculation-procedure-for-cps.md)
+# Revision history: [research-methods/consortium-cohort-dropout-rate-calculation-procedure-for-cps](../research-methods/cohort-based-graduation-and-dropout-rate-calculation.md)
 
 Recorded as elements/consortium-cps-cohort-dropout-calculation-procedure before it was renamed, re-filed or merged.
 

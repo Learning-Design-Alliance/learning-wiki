@@ -15,12 +15,14 @@ sources:
     author: "Nilsen, E. S., & Bacso, S. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Elevated ADHD traits are associated with weaker communicative perspective-taking in adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adolescents with elevated ADHD traits showed weaker performance on communicative perspective-taking tasks. [→ Nilsen 2017](#nilsen-2017)
@@ -31,7 +33,7 @@ sources:
 
 Nilsen, E. S., & Bacso, S. A. (2017). Cognitive and Behavioural Predictors of Adolescents’ Communicative Perspective-taking and Social Relationships. Adolescence. https://doi.org/10.1016/j.adolescence.2017.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlations in the community sample of 15- to 19-year-olds (N=46) linked parent-rated ADHD traits (SNAP-IV) to weaker performance on both communicative perspective-taking tasks and executive function tasks. The article reports "weaker performance on the working memory and interference control tasks, as well as on the communicative perspective-taking tasks."
 

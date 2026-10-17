@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Frequency of addition fact-retrieval errors predicts poor algebra equation memory but not coordinate plane or expression evaluation performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controls, frequency of memory-retrieval errors predicted algebra equation memory (β = .250) but was unrelated to coordinate plane PAE, expression evaluation RT, or accuracy. [→ Geary David C. 2015](#geary-david-c-2015)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N. (2015). Individual Differences in Algebraic Cognition: Relation to the Approximate Number and Sematic Memory Systems. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2015.07.010
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analysis in the same 171-student sample testing whether 8th-grade addition fact retrieval errors predicted 9th-grade algebraic cognition. Retrieval errors "predicted algebra equation memory" (β = .250) with no relation to the other three measures; no effect size beyond the regression coefficient is printed.
 

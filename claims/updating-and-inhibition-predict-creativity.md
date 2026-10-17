@@ -15,12 +15,14 @@ sources:
     author: Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In the same latent variable model, updating predicted creativity (β = .29, p < .001) and inhibition predicted creativity (β = .20, p = .04), while shifting showed no significant relation to creativity. [→ Benedek Mathias 2014](#benedek-mathias-2014)
@@ -31,7 +33,7 @@ sources:
 
 Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C. (2014). Intelligence, creativity, and cognitive control: The common and differential involvement of executive functions in intelligence and creativity. Intelligence. https://doi.org/10.1016/j.intell.2014.05.007
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Latent variable SEM: four divergent thinking tasks rated for creativity regressed on the three executive factors. Inhibition predicted creativity (β = .20, p = .04); updating's creativity path is reported in the same section (β = .29); shifting's paths were non-significant.
 

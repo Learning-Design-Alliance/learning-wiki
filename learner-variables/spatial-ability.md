@@ -12,7 +12,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 8 claims (6 show a difference, 2 unmarked) · 8 studies (4 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 8 report an effect size · 7 claims rest on one study
+> **Evidence** · 20 claims (14 show a difference, 1 mixed, 3 no difference, 2 unmarked) · 15 studies (7 associational, 4 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size · 19 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).

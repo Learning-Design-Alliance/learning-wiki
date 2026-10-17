@@ -12,7 +12,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (31 show a difference, 4 mixed, 7 no difference) · 38 studies (11 causal, 9 quant-synthesis, 7 associational, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 37 claims rest on one study
+> **Evidence** · 50 claims (37 show a difference, 5 mixed, 8 no difference) · 42 studies (11 causal, 10 quant-synthesis, 10 associational, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 13 of 42 report an effect size · 45 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.

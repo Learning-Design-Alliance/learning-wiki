@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # ANS acuity predicts accuracy of coordinate plane placements and expression evaluation accuracy, but not equation memory, in 9th graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling covariates, symbolic number processing, and algebra achievement, the ANS composite predicted coordinate plane PAE (β = .147) and expression evaluation accuracy (β = .240), but not equation memory or expression evaluation RT. [→ Geary David C. 2015](#geary-david-c-2015)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N. (2015). Individual Differences in Algebraic Cognition: Relation to the Approximate Number and Sematic Memory Systems. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2015.07.010
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analysis of the 171-student longitudinal sample predicting algebraic cognition tasks from ANS acuity, controlling covariates, symbolic number processing, and algebra achievement. The ANS composite "predicted PAE on the coordinate plane task" (β = .147) and expression accuracy (β = .240) but not equation memory; no standardized effect size beyond the regression coefficients is printed.
 

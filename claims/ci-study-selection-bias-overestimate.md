@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E., Sedey Allison L.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors state that volunteer selection at both recruitment waves may have inflated observed language outcomes relative to the full CI population. [→ Geers Ann E. 2011](#geers-ann-e-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E., Sedey Allison L. (2011). Language and Verbal Reasoning Skills in Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Authors' stated limitation in the Discussion: participating families were highly motivated early adopters with English-only homes and above-average parental education, and the 112 follow-up participants outperformed the 72 non-returners on some CI-E outcome measures.
 

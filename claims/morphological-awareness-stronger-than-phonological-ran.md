@@ -15,12 +15,14 @@ sources:
     author: Tighe, Elizabeth L.; Schatschneider, Christopher
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Morphological awareness (r = .59) was significantly more related to reading comprehension than phonological awareness (r = .34) and RAN (r = .15), judged by non-overlapping 95% CIs. [→ Tighe 2016](#tighe-2016)
@@ -31,7 +33,7 @@ sources:
 
 Tighe, Elizabeth L.; Schatschneider, Christopher. (2016). Examining the Relationships of Component Reading Skills to Reading Comprehension in Struggling Adult Readers: A Meta-Analysis. Journal of Learning Disabilities. https://doi.org/10.1177/0022219414555415
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 In the random effects synthesis, significance among predictor effect sizes was determined by non-overlapping 95% confidence intervals at the p < .05 level; morphological awareness's CI did not overlap those of phonological awareness or RAN. No standardized effect size for the difference is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Most variance in preschoolers' letter-writing skills is due to differences between students rather than between letters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Intraclass correlations showed 81% of letter-writing variance for 3-year-olds, 91% for 4-year-olds, and 82% for 5-year-olds was due to differences between students. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
@@ -31,7 +33,7 @@ sources:
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Explanatory item response modeling of letter-writing responses from 415 preschoolers, with models estimated separately by age after a chi-square test indicated heterogeneous variance across age groups. The intraclass correlations showed "81% of the variance in letter writing for 3-year-olds" was between students; letter-level variance was 19%, 10%, and 18% respectively.
 

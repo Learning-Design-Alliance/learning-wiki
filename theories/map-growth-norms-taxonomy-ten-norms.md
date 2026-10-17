@@ -42,7 +42,7 @@ The manual organizes MAP Growth norms as a taxonomy producing "10 distinct norms
 
 ## Related Theories
 
-- [Model-based multivariate true score norming procedure](../research-methods/model-based-multivariate-true-score-norming-procedure.md)
+- [Model-based multivariate true score norming procedure](../research-methods/multivariate-true-score-model-for-achievement-and-growth-norming.md)
 - [Piecewise multilevel growth modeling of seasonal learning patterns](piecewise-multilevel-growth-seasonal-learning.md)
 - [RIT vertical equal-interval scale grounded in item response theory](../products/map-growth.md)
 

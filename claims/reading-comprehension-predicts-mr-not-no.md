@@ -15,12 +15,14 @@ sources:
     author: "Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Reading comprehension significantly predicts verbal Math Reasoning but not non-verbal Numerical Operations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the combined model, reading had a significant path to MR and no effect on NO, with the coefficient difference itself significant. [→ Wu 2017](#wu-2017)
@@ -31,7 +33,7 @@ sources:
 
 Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children's non-verbal and verbal mathematical abilities. Cognition, 166, 118-129. https://doi.org/10.1016/j.cognition.2017.05.016
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Combined SEM (Full Mediation for NO, Partial Mediation for MR) in 330 children; the article adds that the difference in path coefficients was significant (z = 6.41, p < 0.001).
 

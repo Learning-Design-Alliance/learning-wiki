@@ -15,12 +15,14 @@ sources:
     author: Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # The Who Has More task showed moderate test-retest reliability (r = .46) in preschoolers, and the authors call for more stable ANS measures for this age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Pearson correlation between w at S2 and S5 was r(38) = .46, p < .001, which the authors say indicates a need to improve the stability of this ANS acuity measure in young children. [→ Shusterman Anna 2016](#shusterman-anna-2016)
@@ -31,7 +33,7 @@ sources:
 
 Shusterman Anna, Slusser Emily, Halberda Justin, Odic Darko. (2016). Acquisition of the Cardinal Principle Coincides with Improvement in Approximate Number System Acuity in Preschoolers. PLoS ONE 11(4): e0153072. https://doi.org/10.1371/journal.pone.0153072
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Test-retest reliability of the Panamath-based Who Has More task across roughly three months in the longitudinal sample (r = .46, a moderate correlation). The authors note measurement noise would limit detection of acuity effects and call for implicit measures such as ERP, NIRS, or eye-tracking for this age group.
 

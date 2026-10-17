@@ -15,12 +15,14 @@ sources:
     author: "Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Participants required more time and committed more errors when comparing fractions with common numerators than with common denominators
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A 2 (type of fraction) × 2 (age) mixed-design ANOVA showed participants required more time to compare common-numerator fractions than common-denominator fractions, with no significant interaction with age. [→ Rossi 2019](#rossi-2019)
@@ -31,7 +33,7 @@ sources:
 
 Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G. (2019). Adolescents and Adults Need Inhibitory Control to Compare Fractions. Journal of Numerical Cognition, 5(3), 314-336. https://doi.org/10.5964/jnc.v5i3.197
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A mixed-design ANOVA comparing prime RTs (common numerator) and control probe RTs (common denominator) showed "Participants required more time in determining which of the two fractions was largest when the two fractions had the same numerator" with ηp2 = .39. No significant interaction with age was found.
 

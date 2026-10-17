@@ -15,12 +15,14 @@ sources:
     author: Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Language group predicts perspective-taking accuracy after controlling for receptive vocabulary and fluid intelligence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a multiple regression with PPVT, K-BIT, and language group as predictors, language group remained significant when entered last. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)
@@ -31,7 +33,7 @@ sources:
 
 Greenberg Anastasia, Bellana Buddhika, Bialystok Ellen. (2013). Perspective-Taking Ability in Bilingual Children: Extending Advantages in Executive Control to Spatial Reasoning. Cognitive Development. https://doi.org/10.1016/j.cogdev.2012.10.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multiple regression on the same sample with correct responses as the dependent variable; "The model significantly predicted accuracy on the task, F(2,77) = 8.97, p < .001, and accounted for 25.9% of the variance", with language group significant in the final step (Table 3).
 

@@ -15,12 +15,14 @@ sources:
     author: Bailey Drew H., Siegler Robert S., Geary David C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Middle school fraction magnitude knowledge fully mediates the relation between first-grade whole number magnitude knowledge and middle school fraction arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` First graders' whole number magnitude knowledge exercised an indirect effect on middle school fraction arithmetic through fraction magnitude knowledge, β = .13, p < .05, with no direct relation remaining. [→ Bailey Drew H. 2014](#bailey-drew-h-2014)
@@ -31,7 +33,7 @@ sources:
 
 Bailey Drew H., Siegler Robert S., Geary David C. (2014). Early Predictors of Middle School Fraction Knowledge. Developmental Science. https://doi.org/10.1111/desc.12155
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mediation analysis (Table 3, first row) with alpha .05: indirect effect β = .13, p < .05; direct effect .08 with a confidence interval including zero; proportion via mediation .62. The article states there "was no direct relation" between early whole number magnitude and later fraction arithmetic knowledge.
 

@@ -15,12 +15,14 @@ sources:
     author: "Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` At age 3 years, most executive tasks loaded significantly on a processing speed factor while very few loaded on an independent EC factor. [→ Clark 2014](#clark-2014)
@@ -31,7 +33,7 @@ sources:
 
 Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A. (2014). Gaining control: changing relations between executive control and processing speed and their relevance for mathematics achievement over course of the preschool period. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00107
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Multidimensional latent model fitted to age-3 data from the cohort-sequential study (n = 228 at entry), with executive tasks cross-loaded on processing speed and EC latents and language covaried. Most tasks loaded on processing speed ("λ = 0.21−0.46, p < 0.05"); very few loaded on the EC factor (λ = −0.08–0.23, p > 0.05).
 

@@ -13,12 +13,14 @@ sources:
     title: Stengelin R 2020
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The link between children's affect index and their subsequent preferences varied with age. [→ Stengelin R 2020](#stengelin-r-2020)
@@ -29,7 +31,7 @@ sources:
 
 Stengelin R, Hepach R, Haun DBM (2020) Cultural variation in young children's social motivation for peer collaboration and its relation to the ontogeny of Theory of Mind. PLoS ONE 15(11): e0242071. https://doi.org/10.1371/journal.pone.0242071
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Exploratory analysis adding the affect index as a predictor of preferential choices. "the link between children's affect index and their subsequent preferences varied with age" (Affect Index × Age: χ²(1) = 4.83, p = .028). Younger children were more likely to prefer collaboration if they had expressed more positive emotions during previous collaboration trials; with increasing age, the two proxies became dissociated.
 

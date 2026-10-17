@@ -15,12 +15,14 @@ sources:
     author: Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # CI users answered fewer RPM items correctly than normal-hearing controls, though both groups attempted similar numbers of items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Despite attempting a similar number of items, CI users scored significantly worse than NH controls on RPM items correct (t = 2.61, p = .011). [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD. (2018). Nonverbal Reasoning as a Contributor to Sentence Recognition Outcomes in Adults with Cochlear Implants. Otology & Neurotology. https://doi.org/10.1097/MAO.0000000000001998
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Independent-samples t-test reported in Results (Table 2): mean items correct was 9.9 (SD 5.0) for CI users versus 13.0 (SD 5.8) for NH controls, t = 2.61, p = .011; items attempted did not differ (p = .355). The groups "attempting the same number of items on the RPM" still differed in accuracy.
 

@@ -13,12 +13,14 @@ sources:
     title: Bellon E 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-rated inhibition (BRIEF) does not correlate with stroop-based cognitive inhibition measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The behavioral teacher questionnaire measure of inhibition was not significantly correlated with the two cognitive stroop measures of inhibition. [→ Bellon E 2016](#bellon-e-2016)
@@ -29,7 +31,7 @@ sources:
 
 Bellon E, Fias W and De Smedt B (2016) Are Individual Differences in Arithmetic Fact Retrieval in Children Related to Inhibition? Front. Psychol. 7:825. https://doi.org/10.3389/fpsyg.2016.00825
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analysis in 86 third graders; the BRIEF inhibition subscale (10 items, α = 0.94) showed no significant correlation with any other measure, consistent with prior reports that ratings and performance measures tap different aspects.
 

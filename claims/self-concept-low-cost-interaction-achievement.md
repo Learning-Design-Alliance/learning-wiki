@@ -15,12 +15,14 @@ sources:
     author: "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Only the self-concept-by-low-cost interaction adds predictive power for achievement beyond the self-concept-by-global-value interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Among self-concept-by-specific-value-component interactions, only self-concept × low cost significantly predicted achievement (β = .10); the other component interactions were nonsignificant. [→ Guo 2016](#guo-2016)
@@ -31,7 +33,7 @@ sources:
 
 Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U. (2016). Probing the Unique Contributions of Self-Concept, Task Values, and Their Interactions Using Multiple Value Facets and Multiple Academic Outcomes. AERA Open. https://doi.org/10.1177/2332858415626884
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Models D2–D5 added self-concept-by-component interactions one at a time alongside the self-concept-by-global-value interaction in the LMS SEM of 1,868 ninth-graders. Only the low-cost interaction reached significance for achievement (β = .10); interactions with intrinsic, attainment, and utility value were nonsignificant for all outcomes.
 

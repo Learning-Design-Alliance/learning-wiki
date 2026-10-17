@@ -15,12 +15,14 @@ sources:
     author: "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Math self-concept is a stronger predictor of math achievement, whereas value beliefs are stronger predictors of self-reported effort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Self-concept substantially predicted achievement (β = .53 without controlling for value beliefs), while value beliefs were more predictive of self-rated effort. [→ Guo 2016](#guo-2016)
@@ -31,7 +33,7 @@ sources:
 
 Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U. (2016). Probing the Unique Contributions of Self-Concept, Task Values, and Their Interactions Using Multiple Value Facets and Multiple Academic Outcomes. AERA Open. https://doi.org/10.1177/2332858415626884
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Latent SEM analysis (Models C1–C4) of 1,868 German ninth-graders using the second-order bi-factor value structure. Self-concept predicted achievement at β = .53 and effort at β = .32 in Model C1; the summary states "self-concept was more predictive of achievement, whereas value beliefs were more predictive of self-rated effort".
 

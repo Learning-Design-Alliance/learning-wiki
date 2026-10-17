@@ -13,16 +13,20 @@ sources:
     title: Van Rinsveld A 2015
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: van-rinsveld-a-2015-2
     title: Van Rinsveld A 2015 (2)
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Simple additions are retrieved with equal accuracy in both languages from grade 10 onward, though still faster in German
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i?` Only seventh graders were less accurate in French than German on simple additions; all other age-groups performed with equal accuracy in both languages. [→ Van Rinsveld A 2015](#van-rinsveld-a-2015)
@@ -34,7 +38,7 @@ sources:
 
 Van Rinsveld A, Brunner M, Landerl K, Schiltz C and Ugen S (2015) The relation between language and arithmetic in bilinguals: insights from different stages of language acquisition. Front. Psychol. 6:265. https://doi.org/10.3389/fpsyg.2015.00265
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Decomposition of the language × age-group interaction on simple-addition CRs showed only seventh graders less accurate in French (η² = 0.092); other groups showed no difference (all F's < 1).
 
@@ -44,7 +48,7 @@ Decomposition of the language × age-group interaction on simple-addition CRs sh
 
 Van Rinsveld A, Brunner M, Landerl K, Schiltz C and Ugen S (2015) The relation between language and arithmetic in bilinguals: insights from different stages of language acquisition. Front. Psychol. 6:265. https://doi.org/10.3389/fpsyg.2015.00265
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 In the simple-addition ANOVA, the German task-language RT advantage was significant with η² = 0.296, even though accuracy equalized from grade 10 onward.
 

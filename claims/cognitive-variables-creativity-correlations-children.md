@@ -15,12 +15,14 @@ sources:
     author: Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Correlational analyses show associations between all the cognitive variables under study (creativity, Gc, Gf, working memory, inhibition, shifting). [→ Krumm 2018](#krumm-2018)
@@ -31,7 +33,7 @@ sources:
 
 Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa. (2018). The contribution of executive functions to creativity in children: What is the role of crystallized and fluid intelligence?. Thinking Skills and Creativity. http://dx.doi.org/10.1016/j.tsc.2018.07.006
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analyses in the study of 209 children administered measures of creativity, crystallized and fluid intelligence, and EFs (working memory, inhibition, shifting). The article reports "associations between all cognitive variables under study"; no correlation coefficients are printed in the available text.
 

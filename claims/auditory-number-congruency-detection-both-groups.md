@@ -13,12 +13,14 @@ sources:
     title: Salillas E 2009
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In an auditory number-cue detection task, both blind and sighted adults detect targets faster on number-size/location congruent trials, with no group difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Detection times were faster for congruent than incongruent trials regardless of side or group (F(1,12) = 17.55, p = 0.001; no group interaction). [→ Salillas E 2009](#salillas-e-2009)
@@ -29,7 +31,7 @@ sources:
 
 Salillas E, Grana´ A, El-Yagoubi R, Semenza C (2009) Numbers in the Blind's ''Eye''. PLoS ONE 4(7): e6357. https://doi.org/10.1371/journal.pone.0006357
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Behavioural experiment in which seven sighted and seven early-onset blind participants detected lateralized dichotic auditory targets preceded by spoken large (8, 9) or small (1, 2) number cues. The ANOVA "showed an effect of congruency (F(1,12) = 17.55, p = 0.001"; congruent mean RT was 376.12 ms vs 403.9 ms incongruent, with no interaction with side or group.
 

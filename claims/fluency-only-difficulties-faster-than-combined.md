@@ -15,12 +15,14 @@ sources:
     author: Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the authors' discussion of skill profiles, children who had only fluency difficulties demonstrated significantly more correct words per minute than those with decoding and fluency problems. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
@@ -31,7 +33,7 @@ sources:
 
 Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K. (2012). Anxiety and Reading Difficulties in Early Elementary School: Evidence for Unidirectional- or Bi-Directional Relations? Child Psychiatry and Human Development, 43(1), 35-47. https://doi.org/10.1007/s10578-011-0246-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 A contrast reported in the Discussion section to explain why the decoding-harm avoidance relation did not reciprocate for fluency: children with fluency difficulties can be accurate but slow, so they do not experience the inability to do things right. No test statistic or effect size is printed.
 

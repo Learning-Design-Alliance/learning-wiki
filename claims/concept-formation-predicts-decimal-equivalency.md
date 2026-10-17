@@ -15,12 +15,14 @@ sources:
     author: Malone Amelia S., Loehr Abbey M., Fuchs Lynn S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Concept formation predicts accuracy judging decimal equivalency statements
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Concept formation was the only cognitive predictor of accuracy on the Decimal Equivalency task beyond incoming calculation skill. [→ Malone Amelia S. 2017](#malone-amelia-s-2017)
@@ -31,7 +33,7 @@ sources:
 
 Malone Amelia S., Loehr Abbey M., Fuchs Lynn S. (2017). The Role of Domain-General Cognitive Abilities and Decimal Labels in At-Risk Fourth-Grade Students' Decimal Magnitude Understanding. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2017.05.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression for Decimal Equivalency: model accounted for 16.3% of variance, F(6, 120)=3.89, p=.001. Concept Formation B=0.059, p=.022; all other cognitive predictors non-significant.
 

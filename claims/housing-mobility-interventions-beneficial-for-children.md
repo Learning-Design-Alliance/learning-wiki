@@ -15,12 +15,14 @@ sources:
     author: "Roy, A. L., McCoy, D. C., & Raver, C. C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Prior experimental housing mobility interventions (Gautreaux Project and Moving to Opportunity) linked moving from higher-poverty to lower-poverty areas with benefits in children's education, behavioral, and health outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Findings from the Gautreaux Project and Moving to Opportunity mobility interventions have linked moving from higher poverty to lower poverty areas with benefits in children's education, behavioral, and health outcomes. [→ Roy 2014](#roy-2014)
@@ -31,7 +33,7 @@ sources:
 
 Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Residential Mobility, Neighborhood Poverty, and Children's Self-Regulation. Developmental Psychology. https://doi.org/10.1037/a0036984
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 This is background literature cited in the article's introduction, reported as the article attributes it (citing Kaufman & Rosenbaum, 1992; Kling, Liebman, & Katz, 2007). The article describes these as two of the most well studied mobility interventions. No effect sizes are printed, so impact is null.
 

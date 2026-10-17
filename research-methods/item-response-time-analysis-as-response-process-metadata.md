@@ -70,7 +70,7 @@ The article treats item response time as one common type of test metadata genera
 
 ## Related Theories
 
-- [Item response time metadata as a basis for identifying disengaged test responses](item-response-time-analysis-for-detecting-test-disengagement.md)
+- [Item response time metadata as a basis for identifying disengaged test responses](response-time-based-detection-of-test-taker-disengagement.md)
 - [Understand-solve-check model of examinee problem solving](../theories/understand-solve-check-problem-solving-model.md)
 - [Response-time-based measurement of test-taking effort as a validity concern](response-time-effort-rte.md)
 

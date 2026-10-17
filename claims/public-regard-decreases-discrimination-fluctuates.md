@@ -15,12 +15,14 @@ sources:
     author: Seaton Eleanor K., Yip Tiffany, Sellers Robert M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Repeated measures analyses showed no change in centrality or private regard, a linear decrease in public regard, and a dip-then-rise pattern in discrimination reports. [→ Seaton Eleanor K. 2009](#seaton-eleanor-k-2009)
@@ -31,7 +33,7 @@ sources:
 
 Seaton Eleanor K., Yip Tiffany, Sellers Robert M. (2009). A Longitudinal Examination of Racial Identity and Racial Discrimination Among African American Adolescents. Child Development. https://doi.org/10.1111/j.1467-8624.2009.01268.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Repeated measures analyses across the three annual waves (N = 219) of centrality, private regard, public regard and discrimination. Public regard decreased linearly (F(1, 218) = 17.35, p < .01); discrimination decreased at Time 2 then increased at Time 3 (F(1, 218) = 4.22, p < .05). Age effects on all four variables were not significant.
 

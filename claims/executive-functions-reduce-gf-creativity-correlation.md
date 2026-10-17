@@ -15,12 +15,14 @@ sources:
     author: Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Including updating, shifting, and inhibition as predictors reduced the residual Gf–creativity correlation to r = .34 (p = .01), corresponding to a reduction of shared variance by 43%. [→ Benedek Mathias 2014](#benedek-mathias-2014)
@@ -31,7 +33,7 @@ sources:
 
 Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C. (2014). Intelligence, creativity, and cognitive control: The common and differential involvement of executive functions in intelligence and creativity. Intelligence. https://doi.org/10.1016/j.intell.2014.05.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM structural model result reported in Section 3.2 of the same study. After regressing both Gf and creativity on the executive factors, the residual correlation was .34 (p = .01); dropping non-significant paths did not worsen fit.
 

@@ -15,12 +15,14 @@ sources:
     author: Chen Y, Wang Y, Wang S, Zhang M and Wu N.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Self-reported habitual sleep disturbance is significantly negatively correlated with all three executive function components in 7–9-year-old children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` More disturbed self-reported sleep is associated with worse inhibitory control, cognitive flexibility, and working memory in early primary school children. [→ Chen Y 2021](#chen-y-2021)
@@ -31,7 +33,7 @@ sources:
 
 Chen Y, Wang Y, Wang S, Zhang M and Wu N. (2021). Self-Reported Sleep and Executive Function in Early Primary School Children. Front. Psychol. 12:793000. https://doi.org/10.3389/fpsyg.2021.793000
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Zero-order correlation analysis in a cross-sectional study of 204 typically developing children (7.6–9.2 years) using the Sleep Self-Report and three EF tasks. The article reports "the more disturbed sleep was associated with worse EF abilities"; correlations ranged from r = −0.325 to −0.411, all p < 0.001.
 

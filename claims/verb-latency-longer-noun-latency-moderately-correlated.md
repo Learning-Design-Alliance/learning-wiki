@@ -15,18 +15,22 @@ sources:
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: koenig-ashley-2020-2
     resource: "https://doi.org/10.1080/15248372.2020.1802277"
     title: "Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277"
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verb trials with dynamic scenes yield longer latencies than noun trials with static images, and noun and verb latencies are moderately correlated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mean verb latency was longer than mean noun latency, which the authors attribute to the dynamic scenes used for verb trials. [→ Koenig Ashley 2020](#koenig-ashley-2020)
@@ -38,7 +42,7 @@ sources:
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive comparison in the Results: 'mean verb latency was longer than mean noun latency', which the authors attribute to verb trials including dynamic scenes, citing Valleau et al. (2018).
 
@@ -48,7 +52,7 @@ Descriptive comparison in the Results: 'mean verb latency was longer than mean n
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlation computed in the Results across the sample's task data: 'Noun and verb latencies were moderately correlated (r(124) = 0.43, p < .0001)', with descriptive statistics reported in Table 1.
 

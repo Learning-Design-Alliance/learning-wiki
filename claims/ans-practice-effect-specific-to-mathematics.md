@@ -15,12 +15,14 @@ sources:
     author: "Hyde, D. C., Khanum, S., & Spelke, E. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Non-symbolic numerical addition practice improves accuracy on symbolic arithmetic but not sentence completion, showing the practice effect is specific to mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children trained on non-symbolic numerical addition were more accurate on symbolic mathematics problems than the brightness comparison group (t (46) = −2.814, p < .01), with no difference on sentence completion (t (46) = −.480, p = .633). [→ Hyde 2014](#hyde-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hyde, D. C., Khanum, S., & Spelke, E. S. (2014). Brief non-symbolic, approximate number practice enhances subsequent exact symbolic arithmetic in children. Cognition, 131(1), 92-107. https://doi.org/10.1016/j.cognition.2013.12.007
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 with 48 first graders used an interleaved design with harder arithmetic problems and a sentence completion test. The interaction of Test Type and Training Condition was significant (F (1, 46) = 5.234, p < .05, ηp2 = .102), and "there was no difference between the two groups on the test of sentence completion test problems".
 

@@ -15,12 +15,14 @@ sources:
     author: Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Group differences in learning are more pronounced during reversal than acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A condition × group interaction showed early stress and control groups differed more in reversal than in acquisition. [→ Harms Madeline B. 2018](#harms-madeline-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D. (2018). Instrumental Learning and Cognitive Flexibility Processes are Impaired in Children Exposed to Early Life Stress. Developmental Science. https://doi.org/10.1111/desc.12596
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A 2 (condition) × 2 (trial type) × 2 (group) ANOVA on blocks 2–8 found a condition × group interaction: "early stress and control groups differed more in reversal" than in acquisition, indicating flexibility demands amplified the deficit.
 

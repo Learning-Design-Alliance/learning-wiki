@@ -15,18 +15,22 @@ sources:
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: price-2010-2
     resource: "https://doi.org/10.1080/13825580903287941"
     title: "Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941"
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 1, older adults were more likely than younger adults to restudy easy, medium, and difficult items. [→ Price 2010](#price-2010)
@@ -38,7 +42,7 @@ sources:
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 reselection analyses (Table 1); reselections rose with difficulty and older adults restudied more at every level, e.g. "F (1, 93) = 20.26, p < .001, ηp2= .179" for medium items. Experiment 2 replicated the age differences in restudying.
 
@@ -48,7 +52,7 @@ Experiment 1 reselection analyses (Table 1); reselections rose with difficulty a
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Experiment 1 correlational analyses of reselection with memory beliefs, working memory capacity, and vocabulary; printed correlations include "r = −.43 and r = −.42" for avoidance of difficult items, and lower control beliefs correlated with restudying moderately difficult items (r = −.37).
 

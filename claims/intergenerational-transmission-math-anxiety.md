@@ -13,16 +13,20 @@ sources:
     title: Daches Cohen L and Rubinsten O 2017
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: daches-cohen-l-and-rubinsten-o-2017-2
     title: Daches Cohen L and Rubinsten O 2017 (2)
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Preliminary evidence of intergenerational transmission of math anxiety: mothers' math anxiety relates to children's lower intrinsic math motivation and stronger attentional bias toward math stimuli
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2`–`i3`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i2`–`i3`
 
 ## Subclaims
 `q2 i3` Mothers' numerical task anxiety correlates with a larger congruency effect in children's single-digit trials (r= 0.47), indicating more attentional bias among children of more math-anxious mothers. [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)
@@ -34,7 +38,7 @@ sources:
 
 Daches Cohen L and Rubinsten O (2017) Mothers, Intrinsic Math Motivation, Arithmetic Skills, and Math Anxiety in Elementary School. Front. Psychol. 8:1939. https://doi.org/10.3389/fpsyg.2017.01939
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Pearson correlation between mothers' and children's variables (Table 3) in the study of 27 mother-child pairs. The article states this means "children of mothers who report higher levels of math anxiety show more attentional bias toward math-related stimuli compared to children of mothers who report lower levels of math anxiety."
 
@@ -44,7 +48,7 @@ Pearson correlation between mothers' and children's variables (Table 3) in the s
 
 Daches Cohen L and Rubinsten O (2017) Mothers, Intrinsic Math Motivation, Arithmetic Skills, and Math Anxiety in Elementary School. Front. Psychol. 8:1939. https://doi.org/10.3389/fpsyg.2017.01939
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Pearson correlation analysis (Table 3). The article reports "mothers' math anxiety was found to have a signiﬁcant negative correlation with children's intrinsic math motivation ( r = −0.32, p < 0.05)"; mothers' math course anxiety correlated at r= −0.43 with intrinsic math motivation.
 

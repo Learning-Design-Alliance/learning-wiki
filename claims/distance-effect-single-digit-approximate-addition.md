@@ -15,12 +15,14 @@ sources:
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Characteristic distance effects occur in both nonsymbolic and symbolic single-digit approximate addition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Smaller numerical distance made comparison harder in both approximate tasks, validating the measures. [→ Xenidou-Dervou 2014](#xenidou-dervou-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Preliminary validation analyses showed children performed above chance (nonsymbolic M = 81.72%, symbolic M = 74.68%) and "the characteristic distance effects were found for performance in both approximate tasks", replicating prior findings.
 

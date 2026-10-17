@@ -15,12 +15,14 @@ sources:
     author: Duckworth, A. L., Kim, B., and Tsukayama, E.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Self-control shows substantial rank-order stability in early adolescence, yet situational influences still matter
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` One-year test-retest stability of composite self-control was r=0.59 (Study 2) and r=0.81 (Study 3), and r=0.70 across grades 4–6 in Study 1, yet life events still predicted change. [→ Duckworth 2013](#duckworth-2013)
@@ -31,7 +33,7 @@ sources:
 
 Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Descriptive stability statistics from Study 2's summary correlations; Study 1 reported r=0.70 across grades 4 and 6 and Study 3 r=0.81. The article notes "despite substantial rank-order stability in self-control across development... situational influences can play an important role."
 

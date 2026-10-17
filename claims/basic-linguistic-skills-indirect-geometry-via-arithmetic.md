@@ -15,12 +15,14 @@ sources:
     author: "Kleemans, T., Segers, E., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Basic linguistic skills and working memory are indirectly related to fifth-grade geometric skills via arithmetic skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Phonological skills, grammatical ability, and working memory showed significant indirect effects on geometric skills through arithmetic skills in fifth graders. [→ Kleemans 2018](#kleemans-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kleemans, T., Segers, E., & Verhoeven, L. (2018). Role of linguistic skills in fifth-grade mathematics. Journal of Experimental Child Psychology, 167, 404-413. https://doi.org/10.1016/j.jecp.2017.11.012
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mediation analysis (Process add-on in SPSS, bootstrapping set at 5000 cycles) with 167 fifth graders, arithmetic skills as mediator and geometric skills as outcome, controlling for SES, age, and gender. The article reports "significant" indirect effects and an overall R2 of .40 (p < .001); no standardized effect sizes are printed.
 

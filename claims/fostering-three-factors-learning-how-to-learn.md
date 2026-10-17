@@ -15,12 +15,14 @@ sources:
     author: Frank Kellenberg, Joel Schmidt, Christian Werner
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The article hypothesizes that fostering self-determined, self-regulated and reflective adult educators and learners achieves the goal of creating people who know how to learn
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors hypothesize that fostering self-determined, self-regulated, and reflective adult educators as well as adult learners achieves the goal of helping people know how to learn. [→ Frank Kellenberg 2017](#frank-kellenberg-2017)
@@ -31,7 +33,7 @@ sources:
 
 Frank Kellenberg, Joel Schmidt, Christian Werner. (2017). The Adult Learner: Self-Determined, Self-Regulated, and Reflective. Signum Temporis 9(1). https://doi.org/10.1515/sigtem-2017-0001
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument from the article's conclusions, based on literature review and the authors' experience as adult educators; no data are reported. The authors state the goal is hypothesized, with a verbatim fragment: "it is hypothesized that this goal can be achieved".
 

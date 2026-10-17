@@ -15,12 +15,14 @@ sources:
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lexical processing speed at 36 months is associated with concurrent receptive vocabulary, but more weakly than at younger ages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Latency in a lexical processing task at 36 months correlated with concurrent receptive vocabulary, but the association was weaker than the −0.60 correlation reported for 25-month-olds. [→ Koenig Ashley 2020](#koenig-ashley-2020)
@@ -31,7 +33,7 @@ sources:
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlation reported in the Discussion of this study of 36-month-olds: the authors report their concurrent latency–vocabulary association, 'a correlation of only −0.27', contrasting it with the −0.60 correlation Fernald et al. (2006) reported for 25-month-olds on the PPVT.
 

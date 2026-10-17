@@ -15,12 +15,14 @@ sources:
     author: Isabelle Regner, Pascal Huguet, Jean-Marc Monteil
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Students' SES and academic achievement level moderate their use of the SES stereotype
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Across two studies, students' SES and academic achievement level moderated use of the SES stereotype, with stereotype-consistent inferences appearing only among low-SES students. [→ Isabelle Regner 2002](#isabelle-regner-2002)
@@ -31,7 +33,7 @@ sources:
 
 Isabelle Regner, Pascal Huguet, Jean-Marc Monteil. (2002). Effects of socioEconomic status (SES) information on cognitive ability inferences: When low-SES students make use of a self-threatening stereotype. Social Psychology of Education, 5(3), 253-269. https://doi.org/10.1023/A:1016313908667
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The article reports two studies testing moderation of SES-stereotype use by "students' Socioeconomic Status (SES) and academic achievement level." The reported outcome was that only low-SES students generated stereotype-consistent inferences in both studies.
 

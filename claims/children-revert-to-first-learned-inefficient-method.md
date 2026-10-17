@@ -15,12 +15,14 @@ sources:
     author: "Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Children who switched to the efficient method largely reverted to the inefficient method over subsequent trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` 85% of children who switched in the Inefficient first condition reverted to the inefficient method at least once. [→ Davis 2022](#davis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H. (2022). Cognitive flexibility supports the development of cumulative cultural learning in children. Scientific Reports. https://doi.org/10.1038/s41598-022-18231-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 In the Inefficient first condition, "61 children (85% of those who switched) reverted from the efficient method back to the inefficient method at least once". Reversion was more likely in later phases (Phase 5 = 83% of switchers).
 

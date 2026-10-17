@@ -13,12 +13,14 @@ sources:
     title: Li Y 2013
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Girls answered on average 2.31 fewer Numerical Operations problems correctly than boys in fifth grade, with the difference significantly smaller in earlier grades; no fifth grade sex difference in word reading. [→ Li Y 2013](#li-y-2013)
@@ -29,7 +31,7 @@ sources:
 
 Li Y, Geary DC (2013) Developmental Gains in Visuospatial Memory Predict Gains in Mathematics Achievement. PLoS ONE 8(7): e70160. https://doi.org/10.1371/journal.pone.0070160
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel model sex contrasts (Table 3) in the 177-child sample. For word reading there was no fifth grade sex difference (p = .3536), but girls had an advantage in third grade and earlier (slope p = .0084).
 

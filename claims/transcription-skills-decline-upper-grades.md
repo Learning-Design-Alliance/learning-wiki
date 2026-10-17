@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Handwriting fluency and spelling in fourth grade did not predict sixth-grade syntactic complexity, indicating their influence declines once these skills become automatized. [→ Drijbooms 2017](#drijbooms-2017)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2017). How executive functions predict development in syntactic complexity of narrative writing in the upper elementary grades. Reading and Writing, 30, 209–231. https://doi.org/10.1007/s11145-016-9670-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the path model on the 93-child longitudinal sample, paths from handwriting fluency and spelling to later syntactic complexity were non-significant and dropped. The authors interpret this against prior findings of transcription predictivity in earlier grades.
 

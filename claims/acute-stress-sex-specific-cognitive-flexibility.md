@@ -15,12 +15,14 @@ sources:
     author: Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P.
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Acute psychosocial stress differentially affects cognitive flexibility by sex (significant Sex × Condition interaction on perseverative errors)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` In a randomized experiment, the effect of acute stress on perseverative errors differed by sex (Sex × Condition interaction, η2partial=.037). [→ Shields Grant S. 2016](#shields-grant-s-2016)
@@ -31,7 +33,7 @@ sources:
 
 Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Randomized mixed-model ANOVA with Sex and Condition as between-subjects factors in 113 healthy young adults; participants nested within session. The article reports the omnibus interaction as significant with a small printed effect size, η2partial=.037.
 

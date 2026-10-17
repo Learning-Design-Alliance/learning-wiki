@@ -10,21 +10,27 @@ generated:
 evidence_strength: moderate
 sources:
   - id: houck-2011
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: 2
+    kind: associational
+    rigour: "?"
   - id: houck-2011-2
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Older children and adolescents with ADHD have lower self-concept scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Age yields a significant negative relationship with total self-concept score (r = -.23, p = .01), with older children having lower scores. [→ Houck 2011](#houck-2011)
@@ -34,9 +40,9 @@ sources:
 
 ### Houck 2011
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
-`q2 · i2`
+`q2 · i2` · `associational · r?`
 
 Correlation analysis in the descriptive correlational study of 145 children with ADHD aged 6-18. Age was not correlated with internalizing, externalizing, or total behavior problem scores but was negatively related to self-concept.
 
@@ -44,9 +50,9 @@ Correlation analysis in the descriptive correlational study of 145 children with
 
 ### Houck 2011 (2)
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Multiple regression of self-concept on gender, age, and internalizing and externalizing behavior problem scores. Two predictors uniquely contributed: age (β = -.19, p < .05) and internalizing problems (β = -.36, p < .01).
 

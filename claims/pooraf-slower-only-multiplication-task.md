@@ -15,12 +15,14 @@ sources:
     author: Mussolin, C. and Noël, M-P.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The PoorAF group had slower average RTs (2762 ms) than the control group (1759 ms) on the multiplication selection task, with no significant group differences on the other five tasks. [→ Mussolin 2008](#mussolin-2008)
@@ -31,7 +33,7 @@ sources:
 
 Mussolin, C. and Noël, M-P. (2008). Specific Retrieval Deficit from Long-Term Memory in Children with Poor Arithmetic Facts Abilities. The Open Psychology Journal. https://doi.org/10.2174/1874350100801010026
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A 2 (group) by 6 (task) mixed ANCOVA on RTs for correct trials, with LUM scores as covariate, in 18 PoorAF and 18 control children. The group-by-task interaction was significant (F(5, 165) = 2.423, p = .038), and the group effect was "only significant on the multiplication selection task".
 

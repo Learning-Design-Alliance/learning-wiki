@@ -15,12 +15,14 @@ sources:
     author: Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Peer problems remained a mediator when the victimisation item was removed, accounting for 12.50% of the association. [→ Powell V 2020](#powell-v-2020)
@@ -31,7 +33,7 @@ sources:
 
 Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F. (2020). What explains the link between childhood ADHD and adolescent depression? Investigating the role of peer relationships and academic attainment. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01463-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Sensitivity analysis repeating the peer-problem mediation with the SDQ victimisation item removed (n = 2161). The article reports "b = 0.07, 95% CI = 0.01–0.14" and "12.50% of the association".
 

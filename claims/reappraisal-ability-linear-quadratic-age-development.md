@@ -15,12 +15,14 @@ sources:
     author: McRae et al
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Behaviorally, no age differences in self-reported emotional reactivity, but linear and quadratic relationships between reappraisal ability and age across 10–22-year-olds. [→ McRae et al 2012](#mcrae-et-al-2012)
@@ -31,7 +33,7 @@ sources:
 
 McRae et al. (2012). The development of emotion regulation: an fMRI study of cognitive reappraisal in children, adolescents and young adults. Social Cognitive and Affective Neuroscience 7(1), 11–22. https://doi.org/10.1093/scan/nsr093
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Behavioral results from an fMRI task comparing older children (10–13), adolescents (14–17), and young adults (18–22) on reappraisal. The study "observed no age differences in self-reported emotional reactivity, but linear and quadratic relationships between reappraisal ability and age."
 

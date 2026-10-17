@@ -13,12 +13,14 @@ sources:
     title: Lai Y 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a fully mediated SEM model, mathematics anxiety negatively predicted metacognition (ß = -0.51, p = .001) and metacognition positively predicted word problem solving (ß = 0.15, p = .02), with a significant bootstrapped indirect effect of -0.08 (95% CI -0.14 to -0.012). [→ Lai Y 2015](#lai-y-2015)
@@ -29,7 +31,7 @@ sources:
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation modeling of data from 224 fourth-grade children, controlling for non-verbal IQ. The fully mediated model fit well and the bootstrapped indirect effect was "-0.08", with 95% CI "-0.14 to -0.012" not overlapping zero.
 

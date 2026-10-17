@@ -15,12 +15,14 @@ sources:
     author: Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Math achievement correlates with ventral occipital-temporal NRE in both children and adults, with children relying on extrastriate and adults on anterior higher-order visual regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adults and children, but not adolescents, showed robust positive NRE-achievement correlations in the VOT; children's activity was greater in posterior extrastriate regions while adults' was greater in anterior temporal regions. [→ Haist Frank 2015](#haist-frank-2015)
@@ -31,7 +33,7 @@ sources:
 
 Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha. (2015). Development of brain systems for nonsymbolic numerosity and the relationship to formal math academic achievement. Human brain mapping. https://doi.org/10.1002/hbm.22666
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Group-wise regression analyses of the NRE on math achievement in the fMRI results section. The article reports children produced greater activation in posterior VOT (lingual, middle occipital, fusiform) whereas "activation in adults was greater than children in the more anterior aspects of the VOT."
 

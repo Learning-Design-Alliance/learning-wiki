@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: ev-1
-    title: ev-1
+  - id: taboada-barber-2026
+    title: Taboada Barber 2026
     q: 3
     i: "?"
     kind: review
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Students receiving interventions that combined repeated reading, modeled/assisted reading, and systematic explicit feedback outperformed control peers in English reading fluency. [→ ev-1](#ev-1)
+`q3 i?` Students receiving interventions that combined repeated reading, modeled/assisted reading, and systematic explicit feedback outperformed control peers in English reading fluency. [→ ev-1](#taboada-barber-2026)
 
 ## Evidence
 
-### ev-1
+### Taboada Barber 2026
 
 Taboada Barber, A., Urbano Aguilar, S., Lopez Rodriguez, A., and Pan, Y. (2026, September). Performing Is Not Teaching: What the Evidence Says About Reading Fluency Practices for Emergent Bilinguals. Digital Promise. https://doi.org/10.51388/20.500.12265/316
 

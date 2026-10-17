@@ -13,12 +13,14 @@ sources:
     title: Sung JE 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Age is significantly and negatively correlated with passive-sentence production accuracy across all four task conditions in Korean adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Age correlates negatively with accuracy on all four sentence-production conditions, with coefficients from -.39 to -.55. [→ Sung JE 2015](#sung-je-2015)
@@ -29,7 +31,7 @@ sources:
 
 Sung JE (2015) Age-Related Changes in Sentence Production Abilities and Their Relation to Working-Memory Capacity: Evidence from a Verb-Final Language. PLoS ONE 10(4): e0119424. https://doi.org/10.1371/journal.pone.0119424
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlation analysis in a cross-sectional study of 60 Korean adults aged 21 to 86, relating age to percentage accuracy on four passive-production conditions. The article reports coefficients of "-.50,-.55,-.46, and -.39" (all ps < .01), including r = -.55 for the priming-noncanonical condition.
 

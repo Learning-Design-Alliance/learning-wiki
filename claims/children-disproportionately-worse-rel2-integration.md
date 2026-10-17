@@ -15,12 +15,14 @@ sources:
     author: Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Children aged 8-12 are disproportionately less accurate than adults on REL-2 problems requiring integration of two relations, but not on REL-1 or REL-0 problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The age-group difference in accuracy was more pronounced for REL-2 than for REL-1 trials, while the REL-1 vs REL-0 difference showed no age interaction. [→ Crone Eveline A. 2009](#crone-eveline-a-2009)
@@ -31,7 +33,7 @@ sources:
 
 Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A. (2009). Neurocognitive development of relational reasoning. Developmental Science, 12(1), 55-66. https://doi.org/10.1111/j.1467-7687.2008.00743.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Behavioral accuracy analysis during fMRI scanning in 15 children (8-12) and 17 adults (18-25) performing an RPM-like task. The Age Group x Relational complexity ANOVA showed the age difference in accuracy was "more pronounced for REL-2 than for REL-1 trials (F (1, 29) = 10.59, p < .001)". No effect size printed.
 

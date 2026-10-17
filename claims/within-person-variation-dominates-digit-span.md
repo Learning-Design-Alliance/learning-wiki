@@ -15,12 +15,14 @@ sources:
     author: "Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Most variation in digit span performance is within-person rather than between-person
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` ICC estimates attribute roughly a quarter of digit span variation to between-person differences and the rest to within-person variation. [→ Ahmed 2022](#ahmed-2022)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E. (2022). Working memory development from early childhood to adolescence using two nationally representative samples. Developmental Psychology. https://doi.org/10.1037/dev0001396
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 From the PSID-CDS mixed-effects models: "27% of the variation in Forward Digit Span could be attributed to differences between persons"; backward span showed a similar 26%/74% split.
 

@@ -15,12 +15,14 @@ sources:
     author: "Hyde, D. C., Khanum, S., & Spelke, E. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Engaging symbolic number representations does not by itself prime subsequent symbolic arithmetic: second test-set performance declined in both training groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Performance declined rather than improved from the first to the second symbolic addition test set, with no Test Set × Training Condition interaction, suggesting symbolic activation alone does not explain the ANS practice effect. [→ Hyde 2014](#hyde-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hyde, D. C., Khanum, S., & Spelke, E. S. (2014). Brief non-symbolic, approximate number practice enhances subsequent exact symbolic arithmetic in children. Cognition, 131(1), 92-107. https://doi.org/10.1016/j.cognition.2013.12.007
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Further analyses in Experiment 2 compared the two symbolic addition test sets; Test Set effects on speed (F (1, 46) = 7.427, p < .01) and accuracy (F (1, 46) = 21.454, p < .001) emerged with no interactions with Training Condition, and "performance declined rather than improved during the second set of test problems".
 

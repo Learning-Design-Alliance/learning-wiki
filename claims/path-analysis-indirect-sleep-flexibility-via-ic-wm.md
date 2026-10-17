@@ -15,18 +15,22 @@ sources:
     author: Chen Y, Wang Y, Wang S, Zhang M and Wu N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: chen-y-2021-2
     resource: "https://doi.org/10.3389/fpsyg.2021.793000"
     title: "Chen Y, Wang Y, Wang S, Zhang M and Wu N. (2021). Self-Reported Sleep and Executive Function in Early Primary School Children. Front. Psychol. 12:793000. https://doi.org/10.3389/fpsyg.2021.793000"
     author: Chen Y, Wang Y, Wang S, Zhang M and Wu N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Path analysis shows sleep disturbance relates to cognitive flexibility indirectly via inhibitory control and working memory, with a non-significant direct path
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a path model with good fit, the indirect effects from sleep to cognitive flexibility via inhibitory control and via working memory were both significant, while the direct path from sleep to cognitive flexibility was not. [→ Chen Y 2021](#chen-y-2021)
@@ -38,7 +42,7 @@ sources:
 
 Chen Y, Wang Y, Wang S, Zhang M and Wu N. (2021). Self-Reported Sleep and Executive Function in Early Primary School Children. Front. Psychol. 12:793000. https://doi.org/10.3389/fpsyg.2021.793000
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Path analysis computed with Mplus 7.0 using robust maximum likelihood in the same sample; model fit was reported as good (CFI = 0.996, RMSEA = 0.050). Both indirect effects were "significant"; the coefficients printed are unstandardised path coefficients, so no standardised effect size is reported.
 
@@ -48,7 +52,7 @@ Path analysis computed with Mplus 7.0 using robust maximum likelihood in the sam
 
 Chen Y, Wang Y, Wang S, Zhang M and Wu N. (2021). Self-Reported Sleep and Executive Function in Early Primary School Children. Front. Psychol. 12:793000. https://doi.org/10.3389/fpsyg.2021.793000
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A comparative model freeing the sleep-to-flexibility path confirmed the direct path "was not significant" while indirect effects remained significant (ps < 0.001). Non-significance of the direct path does not establish independence.
 

@@ -15,12 +15,14 @@ sources:
     author: "Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten profile membership predicts differentiated 1st-grade reading patterns: the double-deficit group performed worse than all other profiles on nearly all measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` At Year 2 the double-deficit profile performed worse than all other profiles on all measures except PA, with medium-to-large effect sizes; the PA risk group showed specific phonological decoding weaknesses while the RAN risk group showed specific fluency weaknesses. [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N. (2017). Longitudinal stability of pre-reading skill profiles of kindergarten children: Implications for early screening and theories of reading. Developmental Science. https://doi.org/10.1111/desc.12471
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Latent class regression predicting Year 2 measures (TOWRE-2, WRMT-III, GORT-5, CTOPP, WISC-IV coding, spelling) from kindergarten class membership in the n=95 subset; the DD group "performed worse, than all other profiles, on all measures except PA" with printed effect sizes of −.52 and −.50.
 

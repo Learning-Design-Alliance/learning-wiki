@@ -15,12 +15,14 @@ sources:
     author: Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Automaticity of handwriting predicts orthographic skills even when visual-motor integration is included in the model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The association between handwriting automaticity and orthographic skills remained significant after visual-motor integration was added to the SEM model. [→ Wicki 2014](#wicki-2014)
@@ -31,7 +33,7 @@ sources:
 
 Wicki, Werner; Hurschler Lichtsteiner, Sibylle; Saxer Geiger, Andrea; Müller, Marianne (2014). Handwriting fluency in children. Swiss Journal of Psychology. https://doi.org/10.1024/1421-0185/a000127
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM analysis in the same sample of 93 fourth graders showed the automaticity–orthographic association "remained significant" after including visual-motor integration, which was itself a predictor of orthographic skills.
 

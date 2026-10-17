@@ -17,7 +17,7 @@ sources:
 # Provide explicit comparison of decimals, whole numbers, and fractions with correct and incorrect examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 0 of 2 report an effect size
 
 ## Description
 The authors suggest providing students with strategies for explicitly comparing and contrasting decimals, whole numbers, and fractions, with the goal of improving students' ability to reason about the size of numbers and fluidly transitioning from one rational number notation to another. This includes the inclusion of correct and incorrect examples to minimize potential whole number misconceptions.

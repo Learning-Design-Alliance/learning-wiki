@@ -15,12 +15,14 @@ sources:
     author: "Nilsen, E. S., & Bacso, S. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Communicative perspective-taking mediates the relation between ADHD traits and social outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The indirect effect of ADHD traits on social outcomes through communicative perspective-taking was significant. [→ Nilsen 2017](#nilsen-2017)
@@ -31,7 +33,7 @@ sources:
 
 Nilsen, E. S., & Bacso, S. A. (2017). Cognitive and Behavioural Predictors of Adolescents’ Communicative Perspective-taking and Social Relationships. Adolescence. https://doi.org/10.1016/j.adolescence.2017.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Bootstrapped mediation analysis (5000 samples) tested whether communicative perspective-taking accounted for the ADHD traits–social relations relation. The indirect effect was significant (β = -.16, SE = .12, 95% CI [-.53, -.004]), indicating "adolescents with elevated ADHD traits have difficulty with reading the communicative intentions of speakers, which is related to worse social outcomes."
 

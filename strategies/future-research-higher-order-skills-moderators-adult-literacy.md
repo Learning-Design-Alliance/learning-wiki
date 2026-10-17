@@ -17,7 +17,7 @@ sources:
 # Future adult literacy research should examine neglected higher-order skills and test reader demographics as moderators
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The authors identify gaps for future work: comprehension monitoring, verbal reasoning, nonverbal reasoning, and working memory are "either minimally studied (i.e., working memory) or neglected entirely from the adult literacy research," and the large heterogeneity in effect sizes calls for studies testing "reader demographics and study characteristics as moderators of the strength of the various predictor-reading comprehension effect sizes."

@@ -15,12 +15,14 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with developmental dyscalculia are disproportionately impaired on subtraction accuracy relative to addition, showing a significant group × operation interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with DD show greater accuracy impairment on subtraction (49.7% vs 73.9%) than on addition (65.6% vs 76.4%), with a significant Group × Operation interaction. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -31,7 +33,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Two-way ANOVA on accuracy (Operation within-participants, Group between-participants) in 16 DD and 20 TD children. The interaction "was qualified by a significant Group × Operation interaction (F(34, 1) = 5.37, p = .027)", driven by subtraction impairment (DD 49.7% vs TD 73.9%, t(34) = −3.62, p = .001) versus addition (DD 65.6% vs TD 76.4%, t(34) = 1.84, p = .074).
 

@@ -13,12 +13,14 @@ sources:
     title: Li Y 2013
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` With the exception of intelligence, none of the predictors of Numerical Operations scores predicted Word Reading scores; visuospatial memory did not predict word reading fluency in any grade. [→ Li Y 2013](#li-y-2013)
@@ -29,7 +31,7 @@ sources:
 
 Li Y, Geary DC (2013) Developmental Gains in Visuospatial Memory Predict Gains in Mathematics Achievement. PLoS ONE 8(7): e70160. https://doi.org/10.1371/journal.pone.0070160
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel models of 177 children's word reading growth (WIAT-II Word Reading subtest). The negative visuospatial effect became non-significant (p = .2457) when central executive and phonological memory were dropped, suggesting it was spurious.
 

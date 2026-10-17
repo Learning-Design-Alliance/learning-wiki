@@ -15,12 +15,14 @@ sources:
     author: Gazzaley A, Nobre AC
     q: 2
     i: 3
+    kind: review
+    rigour: 2
 ---
 
 # Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · review `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Participants with greater attentional modulation of P1 amplitude around 100 ms post-stimulus showed greater subsequent memory of encoded stimuli (R=0.45, p<0.05). [→ Gazzaley A 2012](#gazzaley-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q2 · i3`
+`q2 · i3` · `review · r2`
 
 EEG study (Rutman et al.) using a delayed-response task with overlapping face and scene stimuli, reported via Figure 1 of the review. The correlation between early P1 modulation and subsequent memory was significant (R=0.45, p<0.05), supporting early filtering of distractors.
 

@@ -15,18 +15,22 @@ sources:
     author: Wais, P. E., and Gazzaley, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: wais-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.00280"
     title: "Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280"
     author: Wais, P. E., and Gazzaley, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Visual distraction disrupts functional connectivity in a left hippocampus-VLPFC-LOC network that supports episodic retrieval via visual imagery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Functional connectivity of the hippocampus-VLPFC-LOC network decreased during retrieval with visual distractors and no longer distinguished correct from incorrect retrieval. [→ Wais 2014](#wais-2014)
@@ -38,7 +42,7 @@ sources:
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 fMRI experiment using the same paradigm, with beta-series correlation analyses seeded by left hippocampus and left LOC ROIs. "functional connectivity decreased in association with VD correct, relative to SHUT correct"; no effect size printed.
 
@@ -48,7 +52,7 @@ fMRI experiment using the same paradigm, with beta-series correlation analyses s
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Regression analysis of connectivity change between conditions across participants, shown in Figure 3B. "the change in network connectivity between SHUT correct and VD correct was correlated"; no correlation coefficient printed.
 

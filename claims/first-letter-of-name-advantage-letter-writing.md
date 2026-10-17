@@ -15,18 +15,22 @@ sources:
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: puranik-cynthia-s-2014-2
     resource: "https://doi.org/10.1016/j.jecp.2014.07.009"
     title: "Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009"
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` For 5-year-olds, writing the first letter of one's name raised the probability of correct writing from 50% to 83%. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
@@ -38,7 +42,7 @@ sources:
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model 5 fixed effects for 5-year-olds. The first-letter-of-name dummy was significant with probability rising "from 50% to 83%"; no standardized effect size is printed.
 
@@ -48,7 +52,7 @@ Model 5 fixed effects for 5-year-olds. The first-letter-of-name dummy was signif
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Model 5 fixed effects for 4-year-olds show both first-letter and later-letter name effects were significant, with probabilities rising from 7% to 30% and 7% to 12% respectively.
 

@@ -15,12 +15,14 @@ sources:
     author: Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Better mid-year oral reading fluency predicts lower separation anxiety symptoms at end of first grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In hierarchical linear regression, adding mid-year CMERS fluency scores significantly improved prediction of end-of-year separation anxiety, with better fluency predicting fewer separation symptoms. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
@@ -31,7 +33,7 @@ sources:
 
 Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K. (2012). Anxiety and Reading Difficulties in Early Elementary School: Evidence for Unidirectional- or Bi-Directional Relations? Child Psychiatry and Human Development, 43(1), 35-47. https://doi.org/10.1007/s10578-011-0246-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical linear regression in a longitudinal study of 153 first-graders assessed at mid-year (T1) and end-of-year (T2). Adding T1 fluency (CMERS) significantly increased R2 for T2 separation anxiety from .04 to .09; the table reports β = −.23 for T1-CMERS, indicating better fluency predicted fewer separation symptoms.
 

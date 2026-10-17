@@ -15,18 +15,22 @@ sources:
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: koenig-ashley-2020-2
     resource: "https://doi.org/10.1080/15248372.2020.1802277"
     title: "Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277"
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lexical processing latency at 36 months does not predict concurrent grammatical complexity (LDS average length of phrase)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Overall target latency did not significantly predict average length of phrase at 36 months. [→ Koenig Ashley 2020](#koenig-ashley-2020)
@@ -38,7 +42,7 @@ sources:
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression analysis reported in the Results section: overall latency did not predict LDS average length of phrase at 36 months; the article states 'latency does not predict average length of phrase', while noting latency did predict TPVT.
 
@@ -48,7 +52,7 @@ Regression analysis reported in the Results section: overall latency did not pre
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Exploratory verb-only regression in the Results: 'we did examine verb trials alone; no significant effect of latency was found' for average length of phrase, despite expectations that verb knowledge supports grammar.
 

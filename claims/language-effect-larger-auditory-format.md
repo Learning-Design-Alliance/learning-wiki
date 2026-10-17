@@ -13,12 +13,14 @@ sources:
     title: Van Rinsveld A 2015
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Language effects on complex-addition accuracy are larger in auditory than visual presentation format
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Language-related accuracy differences between German and French were larger in auditory than visual presentation format. [→ Van Rinsveld A 2015](#van-rinsveld-a-2015)
@@ -29,7 +31,7 @@ sources:
 
 Van Rinsveld A, Brunner M, Landerl K, Schiltz C and Ugen S (2015) The relation between language and arithmetic in bilinguals: insights from different stages of language acquisition. Front. Psychol. 6:265. https://doi.org/10.3389/fpsyg.2015.00265
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Pairwise comparisons decomposing the language × format interaction on complex-addition CRs showed the German advantage was larger in auditory (η² = 0.373) than visual format (η² = 0.134).
 

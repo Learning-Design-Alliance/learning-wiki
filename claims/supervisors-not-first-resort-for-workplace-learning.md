@@ -15,12 +15,14 @@ sources:
     author: David Boud and Heather Middleton
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Workers in the studied workgroups tended to manage their learning needs to minimise their supervisors' involvement, with supervisors not the contacts of first resort for learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across four workgroups, workers generally avoided involving supervisors in their learning except when supervisors were part of the work flow or needed for strategic awareness. [→ David Boud and Heather Middleton 2003](#david-boud-and-heather-middleton-2003)
@@ -31,7 +33,7 @@ sources:
 
 David Boud and Heather Middleton. (2003). Learning from Others at Work: Communities of Practice and Informal Learning. Journal of Workplace Learning, 15, 5, 194-202. https://doi.org/10.1108/13665620310483895
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Cross-site qualitative finding from interviews and social network analysis in four workgroups of a large Australian vocational education organisation. The article reports workers "tended in general to manage their learning needs to minimise their supervisors' involvement" in learning.
 

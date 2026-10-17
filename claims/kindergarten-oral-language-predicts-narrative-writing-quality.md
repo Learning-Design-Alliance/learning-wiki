@@ -15,12 +15,14 @@ sources:
     author: Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten oral language independently predicts third-grade narrative writing quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Kindergarten oral language (vocabulary, grammatical knowledge, sentence memory) was independently related to narrative writing quality in third grade (β = .35, p < .001). [→ Kim Young-Suk 2015](#kim-young-suk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predictors of Third Grade Writing. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2014.11.009
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Structural equation modeling of longitudinal data from 157 children assessed in kindergarten and again in grade 3. The narrative model showed "oral language (β = .35, p < .001)" was related to narrative writing quality; the model explained 30% of variance.
 

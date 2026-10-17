@@ -15,12 +15,14 @@ sources:
     author: "Kaya, S., & Karakoc, D."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Fixed math mindset negatively predicts primary math achievement while growth math mindset shows no direct effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Fixed math mindset has a significant negative direct effect on math achievement (β=-0.170), whereas growth math mindset has no significant direct effect. [→ Kaya 2022](#kaya-2022)
@@ -31,7 +33,7 @@ sources:
 
 Kaya, S., & Karakoc, D. (2022). Math Mindsets and Academic Grit: How Are They Related to Primary Math Achievement?. European Journal of Science and Mathematics Education, 10(3), 298-309. https://doi.org/10.30935/scimath/11881
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 SEM results (Table 3) from 225 primary students: fixed mindset direct path "significant and negative ( β=-0.170; p<0.01)" with a small effect size; growth mindset direct path non-significant (β=0.073).
 

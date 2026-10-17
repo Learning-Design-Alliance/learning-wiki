@@ -15,18 +15,22 @@ sources:
     author: Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y.
     q: 3
     i: 0
+    kind: review
+    rigour: "?"
   - id: biotteau-m-2019-2
     resource: "https://doi.org/10.2147/NDT.S120514"
     title: "Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514"
     author: Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Process-oriented (bottom-up) therapies for DCD show weak or null effects, while task-oriented approaches are effective in improving motor performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Meta-analyses of process-oriented therapies found them largely ineffectual, with a second major meta-analysis finding a weak effect size of 0.12. [→ Biotteau M 2019](#biotteau-m-2019)
@@ -38,7 +42,7 @@ sources:
 
 Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514
 
-`q3 · i0`
+`q3 · i0` · `review · r?`
 
 The review reports that a meta-analysis of process-oriented interventions found "a weak (0.12) effect size", confirmed by Preston et al; consequently process-oriented approaches were excluded from European Academy of Childhood Disabilities recommendations and the 2012 American Academy of Pediatrics policy statement.
 
@@ -48,7 +52,7 @@ The review reports that a meta-analysis of process-oriented interventions found 
 
 Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review contrasts process-oriented weakness with reviews indicating "the task-oriented approach is effective in improving motor performance", citing multiple reviews. No effect size is printed for this statement.
 

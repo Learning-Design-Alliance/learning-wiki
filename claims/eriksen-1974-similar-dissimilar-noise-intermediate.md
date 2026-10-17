@@ -15,12 +15,14 @@ sources:
     author: "Eriksen, B. A., & Eriksen, C. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Heterogeneous noise letters with set-related features produce intermediate RT impairment, consistent with stimulus generalization at wider spacings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` At the two wider spacings, similar noise gave RTs not reliably different from identical or same-response noise, while dissimilar noise approached the RTs of the opposite-response condition. [→ Eriksen 1974](#eriksen-1974)
@@ -31,7 +33,7 @@ sources:
 
 Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143-149. https://doi.org/10.3758/bf03203267
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Separate three-way ANOVA (Ss by Spacing by Conditions) on the noise-similar and noise-dissimilar conditions; spacing and noise variables were significant at or beyond the .01 level [F(2,10) = 55.32 and F(1,5) = 15.34]. At the closest spacing both conditions gave RTs midway in the range between same- and opposite-response noise.
 

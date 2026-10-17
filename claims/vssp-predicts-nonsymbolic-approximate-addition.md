@@ -15,12 +15,14 @@ sources:
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The visuospatial sketchpad is the best and only unique predictor of kindergarteners' nonsymbolic approximate addition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In stepwise regression, only the VSSP uniquely predicted nonsymbolic approximate addition, consistent with a mental-model solution. [→ Xenidou-Dervou 2014](#xenidou-dervou-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Stepwise multiple linear regression on the nonsymbolic approximate task with WM and number line predictors; "the VSSP, t(102) = 2.83, p =	.006, was the best and only unique predictor". The task did not correlate with either number line measure.
 

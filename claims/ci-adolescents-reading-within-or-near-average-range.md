@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E.; Hayes Heather
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents with cochlear implants implanted by preschool age score just below the average range on standardized reading tests, with 47-66% within or above hearing norms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` CI-HS students averaged a PIAT-R standard score of 83, with 47% scoring within or above one SD of hearing norms, and a TORC total of 90 with 66% within the expected range. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E.; Hayes Heather. (2011). Reading, Writing, and Phonological Processing Skills of Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://doi.org/10.1097/AUD.0b013e3181fa41fa
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Assessment of 112 CI-HS students on the PIAT-R against the normative sample of typically-developing hearing students (mean = 100; SD = 15). The average standard score was 83 and "Almost half of the CI-HS students (47%) scored within or above one standard deviation of the mean". On the TORC the average total was 90 with 66% within the expected range.
 

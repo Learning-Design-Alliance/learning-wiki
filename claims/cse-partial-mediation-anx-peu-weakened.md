@@ -15,12 +15,14 @@ sources:
     author: "Saadé, R. G., & Kira, D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When PEU was regressed on both ANX and CSE, both paths remained significant (CSE→PEU: β = 0.117, t=-4.011, p = 0.0001; ANX→PEU: β = -0.094, t =-3.466, p =0.001), indicating partial mediation with reduced path strength. [→ Saadé 2009](#saade-2009)
@@ -31,7 +33,7 @@ sources:
 
 Saadé, R. G., & Kira, D. (2009). Computer Anxiety in E-Learning: The Effect of Computer Self-Efficacy. Journal of Information Technology Education, 8. https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multiple regression on the 645-student survey data showed both CSE→PEU (β = 0.117) and ANX→PEU (β = -0.094) significant, with the ANX path weakening from β = -0.276, indicating "some decrease in the strength of the relationship" consistent with mediation.
 

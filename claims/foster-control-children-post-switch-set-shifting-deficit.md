@@ -15,12 +15,14 @@ sources:
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Foster children who received a control intervention showed a specific post-switch (set-shifting) deficit on the card-sort task, with no group difference on the pre-switch trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The Task Type × Group interaction was significant, such that foster-care control children were impaired only on the post-switch card sort, not the pre-switch sort. [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)
@@ -31,7 +33,7 @@ sources:
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 A 2 × 3 repeated measures ANCOVA (Task Type × Group, controlling for receptive language) revealed a significant Task Type × Group interaction (F(2, 59) = 3.63, p = .03), indicating the foster-care control deficit was specific to the set-shifting (post-switch) condition. The interaction accounted for approximately 11 percent of within-subjects variability (η2 = .11).
 

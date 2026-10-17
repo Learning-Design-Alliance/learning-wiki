@@ -15,12 +15,14 @@ sources:
     author: Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The EI-to-FES path is significant only for U.S.-born families
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only youth in U.S.-born families showed a significant path from Phase 3 ethnic identity to Phase 4 family ethnic socialization (β = .38, p < .01); this path was significantly different from mixed-nativity families and marginally different from Mexico-born families. [→ Umaña-Taylor Adriana J. 2013](#umana-taylor-adriana-j-2013)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor Adriana J., Zeiders Katharine H., Updegraff Kimberly A. (2013). Family Ethnic Socialization and Ethnic Identity: A Family-Driven, Youth-Driven, or Reciprocal Process? Journal of Family Psychology. https://doi.org/10.1037/a0031105
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multiple-group cross-lagged panel model results for the reverse cross-lag path. The EI-to-FES path was significant only in the U.S.-born family group, supporting a youth-driven process specifically in families with longer U.S. generational history.
 

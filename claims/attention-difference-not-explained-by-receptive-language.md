@@ -15,12 +15,14 @@ sources:
     author: Stevens Courtney, Lauinger Brittni, Neville Helen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The maternal-education group difference in neural attentional modulation persists after controlling for receptive language scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Even when controlling for children's receptive language scores, the two maternal education groups differed significantly in the attention effect on neural processing. [→ Stevens Courtney 2009](#stevens-courtney-2009)
@@ -31,7 +33,7 @@ sources:
 
 Stevens Courtney, Lauinger Brittni, Neville Helen. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANCOVA comparing attended–unattended difference scores across the two maternal education groups with receptive language standard score as covariate in the 32-child ERP study. The groups still differed, "F (1, 29) = 14.2, P = .001"; language did not predict the attention index, F(1, 29) < 1, P = .36.
 

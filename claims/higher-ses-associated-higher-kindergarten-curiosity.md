@@ -15,12 +15,14 @@ sources:
     author: Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Higher SES is associated with higher parent-reported curiosity at kindergarten
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Higher socioeconomic status was associated with higher parent-reported curiosity at kindergarten (β = 0.08, p = 0.003). [→ Shah PE 2023](#shah-pe-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Adjusted main-effects regression on the weighted ECLS-B sample of 4,750 children; SES was the ECLS-B composite (parent education, occupation, income, range −2.31–2.09). The article reports "β = 0.08, p = 0.003".
 

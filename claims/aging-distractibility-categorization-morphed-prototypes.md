@@ -15,18 +15,22 @@ sources:
     author: Wais, P. E., and Gazzaley, A.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: wais-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.00280"
     title: "Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280"
     author: Wais, P. E., and Gazzaley, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Visual distraction impairs categorization in older adults but not younger adults, who perform equivalently without distraction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` An age × condition interaction showed older adults were more susceptible to visual distraction during categorization, with no age difference in the plain condition. [→ Wais 2014](#wais-2014)
@@ -38,7 +42,7 @@ sources:
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Study of 19 younger and 20 older adults categorizing morphed prototype exemplars with an adaptive staircase in plain and distractor conditions. "older adults categorized with a signiﬁcantly higher morph ratio in the distractor condition"; no effect size printed.
 
@@ -48,7 +52,7 @@ Study of 19 younger and 20 older adults categorizing morphed prototype exemplars
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Distractibility index computed as distractor minus plain morph ratio per participant and compared between the 19 younger and 20 older adults. "distractibility during categorization was greater for older than younger adults"; no effect size printed.
 

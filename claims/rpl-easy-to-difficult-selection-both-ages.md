@@ -15,18 +15,22 @@ sources:
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: price-2010-2
     resource: "https://doi.org/10.1080/13825580903287941"
     title: "Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941"
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Younger and older adults select study items in an easy-to-difficult order, consistent with the region of proximal learning model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i?` In Experiment 1, participants in both age groups selected easier items first and transitioned to more difficult items over subsequent selections. [→ Price 2010](#price-2010)
@@ -38,7 +42,7 @@ sources:
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 with 64 younger and 31 older adults studying 72 Spanish-English pairs in eight 3x3 grids; selection order coded by normative difficulty. The article reports "participants in both age groups selected easier items first" with reliable age differences only at the third through sixth selections.
 
@@ -48,7 +52,7 @@ Experiment 1 with 64 younger and 31 older adults studying 72 Spanish-English pai
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 2 (60 younger, 31 older adults) with manipulated point values and goals; selection order across the first six selections showed the printed linear trend "F (1, 46) = 97.28, p < .001, ηp2= .679".
 

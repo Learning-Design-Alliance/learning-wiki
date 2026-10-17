@@ -15,12 +15,14 @@ sources:
     author: Viterbori, P.; Usai, M. C.; Traverso, L.; De Franchis, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A confirmatory factor analysis of six EF measures in kindergarten showed a two-factor model with inhibition and WM–flexibility as separate dimensions fit best. [→ Viterbori 2015](#viterbori-2015)
@@ -31,7 +33,7 @@ sources:
 
 Viterbori, P.; Usai, M. C.; Traverso, L.; De Franchis, V. (2015). How preschool executive functioning predicts several aspects of math achievement in Grades 1 and 3: A longitudinal study. https://hdl.handle.net/11567/813133
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Confirmatory factor analysis on the same sample of 175 five-year-olds; the article reports "a two-factor model provided the best fit for the data" with inhibition and WM–flexibility as separate dimensions.
 

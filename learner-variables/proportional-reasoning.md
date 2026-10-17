@@ -12,7 +12,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 5 claims (5 show a difference) · 5 studies (2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 16 claims (13 show a difference, 3 mixed) · 8 studies (5 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 2 of 8 report an effect size · 16 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.

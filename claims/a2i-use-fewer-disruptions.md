@@ -15,12 +15,14 @@ sources:
     author: Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # More teacher time using A2i software is associated with less classroom time in disruption and discipline events
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among treatment teachers, the more time spent using A2i software, the less time students spent in disruption and discipline events. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)
@@ -31,7 +33,7 @@ sources:
 
 Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J. (2010). First graders' literacy and self-regulation gains: The effect of individualizing student instruction. Journal of School Psychology. https://doi.org/10.1016/j.jsp.2010.06.003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Observational analysis of the randomized trial's classroom video coding linked treatment teachers' A2i use minutes (averaging about 160 minutes, ranging 15 to 370) to reduced disruption and discipline time. The association is reported without an effect size.
 

@@ -15,12 +15,14 @@ sources:
     author: Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Stress-exposed adolescents show impaired cognitive flexibility in reversal learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Stress-exposed adolescents had greater difficulty updating learned contingencies when contingencies reversed, improving less over time than controls. [→ Harms Madeline B. 2018](#harms-madeline-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D. (2018). Instrumental Learning and Cognitive Flexibility Processes are Impaired in Children Exposed to Early Life Stress. Developmental Science. https://doi.org/10.1111/desc.12596
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Reversal-condition ANOVA in 26 early-stress and 21 control adolescents (switch trials only) showed a main effect of group, F(1,45) = 4.98, p = .03, and a group × time interaction: "adolescents with early stress exposure did not improve their accuracy over time to the same extent as controls".
 

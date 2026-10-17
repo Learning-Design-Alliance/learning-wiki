@@ -15,12 +15,14 @@ sources:
     author: van Rijthoven R, Kleemans T, Segers E, Verhoeven L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Semantic abilities indirectly predict word decoding efficiency in children with dyslexia via phonological awareness and rapid naming
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In children with dyslexia, semantics was indirectly related to word decoding efficiency through phonological awareness and rapid naming, with a significant total indirect effect. [→ van Rijthoven R 2018](#van-rijthoven-r-2018)
@@ -31,7 +33,7 @@ sources:
 
 van Rijthoven R, Kleemans T, Segers E, Verhoeven L. (2018). Beyond the phonological deficit: Semantics contributes indirectly to decoding efficiency in children with dyslexia. Dyslexia. https://doi.org/10.1002/dys.1597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression-based mediation analysis (Hayes PROCESS, 5,000 bootstrap cycles) with word decoding as dependent variable in 55 Dutch children with dyslexia, covariates verbal working memory, perceptual organization, and age. The "total indirect effect of semantics was significant"; model R2 = 0.691.
 

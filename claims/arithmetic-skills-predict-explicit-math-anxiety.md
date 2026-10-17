@@ -13,12 +13,14 @@ sources:
     title: Daches Cohen L and Rubinsten O 2017
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Children's arithmetic skills are the strongest predictor of their explicitly measured math anxiety, with higher skills associated with lower anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Math fluency scores significantly explained 17.6% of the variance in children's explicitly measured math anxiety (AMAS), such that higher arithmetic skills were associated with lower math anxiety. [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)
@@ -29,7 +31,7 @@ sources:
 
 Daches Cohen L and Rubinsten O (2017) Mothers, Intrinsic Math Motivation, Arithmetic Skills, and Math Anxiety in Elementary School. Front. Psychol. 8:1939. https://doi.org/10.3389/fpsyg.2017.01939
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Hierarchical regression in a correlational study of 27 sixth graders and their mothers, with math fluency entered first as predictor of AMAS scores. The article reports "math ﬂuency scores signiﬁcantly explained 17.6% of the variance" with F(1,25)= 5.34, p < 0.05. Math fluency also correlated with AMAS at r=−0.42.
 

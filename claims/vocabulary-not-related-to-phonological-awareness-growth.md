@@ -15,12 +15,14 @@ sources:
     author: Lerner Matthew D., Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Vocabulary was weakly and positively related to phonological awareness growth but reached conventional significance only for the blending outcome; in the letter-sound models it was not significant. [→ Lerner Matthew D. 2016](#lerner-matthew-d-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lerner Matthew D., Lonigan Christopher J. (2016). Bidirectional Relations between Phonological Awareness and Letter Knowledge in Preschool Revisited: A Growth Curve Analysis of the Relation between Two Code-Related Skills. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2015.09.023
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the letter-name predictive models of 358 preschoolers, vocabulary (PPVT-R standard scores at time 1) was tested as a predictor of growth in four phonological awareness factors. The article reports it "achieved a conventional level of statistical significance only for the blending outcome."
 

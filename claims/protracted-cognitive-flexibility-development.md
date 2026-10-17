@@ -15,12 +15,14 @@ sources:
     author: "Dajani, D. R., & Uddin, L. Q."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Cognitive flexibility shows a sharp increase between 7 and 9 years, is largely mature by age 10, and peaks between ages 21 and 30. [→ Dajani 2015](#dajani-2015)
@@ -31,7 +33,7 @@ sources:
 
 Dajani, D. R., & Uddin, L. Q. (2015). Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2015.07.003
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review of behavioral developmental studies. Skills continue improving through adolescence into adulthood, "reaching their peak between the ages of 21 and 30". Component executive functions follow different trajectories, with inhibition maturing by 10-12 years and working memory improving through adolescence.
 

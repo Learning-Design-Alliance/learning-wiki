@@ -15,18 +15,22 @@ sources:
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: price-2010-2
     resource: "https://doi.org/10.1080/13825580903287941"
     title: "Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941"
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Older adults allocate proportionally more study time to easy and medium items while younger adults allocate more to difficult items, yet older adults recall less despite studying more
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 1, older adults allocated proportionally more time to easy and medium items; younger adults allocated more time to difficult items. [→ Price 2010](#price-2010)
@@ -38,7 +42,7 @@ sources:
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 MANOVA on proportional study time by difficulty (Table 4); younger adults allocated reliably more time to difficult items, "F (1, 92) = 18.01, p < .001, ηp2= .164". Experiment 2 replicated the pattern for easy and difficult items.
 
@@ -48,7 +52,7 @@ Experiment 1 MANOVA on proportional study time by difficulty (Table 4); younger 
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 post-study recall; the printed test is "t (94) = 6.45, p < .001" overall with a difficulty-level effect of ηp2= .344. In Experiment 2, older adults used reliably more time (ηp2= .432) yet recalled less for all difficulty levels and point values.
 

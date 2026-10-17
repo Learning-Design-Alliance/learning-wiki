@@ -15,18 +15,22 @@ sources:
     author: Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: biotteau-m-2019-2
     resource: "https://doi.org/10.2147/NDT.S120514"
     title: "Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514"
     author: Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # About half of all children with DCD experience difficulty learning to write, making dysgraphia assessment essential because handwriting difficulties do not resolve without intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Approximately half of children with DCD experience difficulty learning to write. [→ Biotteau M 2019](#biotteau-m-2019)
@@ -38,7 +42,7 @@ sources:
 
 Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review states, citing Hamstra-Bletz and Blöte, that "about half of all children with DCD experience difficulty learning to write", framing handwriting as a social prerequisite for communication whose failure severely affects academic success.
 
@@ -48,7 +52,7 @@ The review states, citing Hamstra-Bletz and Blöte, that "about half of all chil
 
 Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review gives two reasons dysgraphia diagnosis is essential: handwriting difficulties "cannot be resolved without intervention" and intervention seems effective for rehabilitation, citing Feder and Majnemer. No effect sizes are printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In multivariable analyses, the association between health literacy and task performance was substantially reduced once fluid and crystallized cognitive abilities were entered into models (β = −28.9, 95% CI −31.4 to −26.4 without cognitive abilities; β = −8.5, 95% CI −10.9 to −6.0 with cognitive abilities). [→ Wolf 2012](#wolf-2012)
@@ -31,7 +33,7 @@ sources:
 
 Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al. (2012). Literacy, Cognitive Function, and Health: Results of the LitCog Study. J GEN INTERN MED. https://doi.org/10.1007/s11606-012-2079-4
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Multivariable regression analysis in the LitCog study (n = 882) showing the health literacy coefficient for task performance dropped from "β = −28.9" to "β = −8.5" after entering fluid and crystallized cognitive abilities. No standardized effect size is printed for the reduction itself.
 

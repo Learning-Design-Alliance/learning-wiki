@@ -15,18 +15,22 @@ sources:
     author: Wais, P. E., and Gazzaley, A.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: wais-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.00280"
     title: "Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280"
     author: Wais, P. E., and Gazzaley, A.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Older adults show greater distractibility than younger adults during episodic retrieval of long-term memory details
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A distraction index (SHUT correct minus VD correct) was significantly greater for older than younger adults. [→ Wais 2014](#wais-2014)
@@ -38,7 +42,7 @@ sources:
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Older adults completed the same visual distraction paradigm after a neuropsychological battery; a distraction index (SHUT correct — VD correct) compared groups. "greater distractibility in the older adults than the younger adults"; no effect size printed.
 
@@ -48,7 +52,7 @@ Older adults completed the same visual distraction paradigm after a neuropsychol
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Mixed-design ANOVA on conditional correct scores in the older-adult study; between-group tests showed aging-related decline in VD with only trends in SHUT and GRAY. "an interaction of age and condition"; no effect size printed.
 

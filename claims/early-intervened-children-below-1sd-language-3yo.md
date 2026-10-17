@@ -15,12 +15,14 @@ sources:
     author: Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # On average, 3-year-old children with hearing loss who received early intervention scored below 1 SD of normative mean on several standardized language measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Despite early detection and intervention, children experienced disadvantages in language development at 3 years. [→ Ching Teresa Y. C. 2010](#ching-teresa-y-c-2010)
@@ -31,7 +33,7 @@ sources:
 
 Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia (2010). Language development and everyday functioning of children with hearing loss assessed at 3 years of age. International journal of speech-language pathology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094718/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional descriptive results from the LOCHI cohort (Table II): PLS-AC mean 78.75, PLS-EC mean 84.3, PPVT mean 86.56, CDI-LCQ mean 72.1. The article reports children "attained language levels below 1 SD of the normative mean on several standardized measures".
 

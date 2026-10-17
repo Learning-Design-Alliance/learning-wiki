@@ -15,12 +15,14 @@ sources:
     author: Wais, P. E., and Gazzaley, A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Irrelevant visual stimuli present during a memory test diminish the fidelity of episodic details retrieved from long-term memory in younger adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Episodic retrieval of object-count details was significantly reduced when visual distractors were present compared with eyes-closed and gray-screen conditions. [→ Wais 2014](#wais-2014)
@@ -31,7 +33,7 @@ sources:
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Behavioral study in which younger adults studied object images, then after a 1-h retention interval answered auditory cued count questions under eyes-closed (SHUT), gray-screen (GRAY), and visual-distraction (VD) conditions. "episodic retrieval during VD was signiﬁcantly reduced compared to both SHUT and GRA Y"; no effect size printed.
 

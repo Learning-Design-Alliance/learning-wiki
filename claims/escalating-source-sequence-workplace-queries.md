@@ -15,12 +15,14 @@ sources:
     author: David Boud and Heather Middleton
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A common learning pattern: workers first consult documentary sources, then nearby peers, then distant peers or more senior roles, then supervisors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When a difficulty or query about organisational processes arises, workers typically seek answers first from documentary sources, then progressively from peers, more distant peers or senior roles, and finally supervisors. [→ David Boud and Heather Middleton 2003](#david-boud-and-heather-middleton-2003)
@@ -31,7 +33,7 @@ sources:
 
 David Boud and Heather Middleton. (2003). Learning from Others at Work: Communities of Practice and Informal Learning. Journal of Workplace Learning, 15, 5, 194-202. https://doi.org/10.1108/13665620310483895
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Cross-site qualitative pattern from interview and network analysis. The article describes an escalating sequence: documentary sources first, then "a peer, generally someone physically close to hand", then peers elsewhere or slightly more senior roles, then the supervisor.
 

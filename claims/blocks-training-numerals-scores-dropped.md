@@ -15,12 +15,14 @@ sources:
     author: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Base-10 blocks training was followed by a significant drop in kindergarteners' numerals-condition scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` For the blocks training group, numerals condition scores declined significantly from pretest to posttest. [→ Mix 2014](#mix-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 In Experiment 3, pairwise comparisons showed gains from pre- to posttest were not significant for any task in either condition (all ps > .05), and "for blocks children, scores in the numerals condition actually dropped from pretest" to posttest, t(11) = 4.28, p = .001.
 

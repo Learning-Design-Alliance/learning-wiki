@@ -15,12 +15,14 @@ sources:
     author: "Dajani, D. R., & Uddin, L. Q."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Meta-analyses identify a distributed frontoparietal network for flexible switching including vlPFC, dlPFC, ACC, right AI, parietal and subcortical regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Meta-analyses of neuroimaging studies in neurotypical adults identify a distributed network of frontoparietal regions involved in flexible switching. [→ Dajani 2015](#dajani-2015)
@@ -31,7 +33,7 @@ sources:
 
 Dajani, D. R., & Uddin, L. Q. (2015). Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2015.07.003
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review reporting meta-analytic findings of neuroimaging studies in neurotypical adults. The identified network includes "high-level cortical association areas" such as vlPFC, dlPFC, anterior cingulate and right AI, plus premotor, parietal, inferior temporal, occipital cortex, caudate and thalamus.
 

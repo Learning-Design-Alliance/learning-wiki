@@ -15,18 +15,22 @@ sources:
     author: Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: janssen-m-2014-2
     resource: "https://doi.org/10.1186/2193-1801-3-410"
     title: "Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410"
     author: Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM
     q: 1
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Short bouts (max 20 minutes) mostly showed significant effects while a 45-minute bout showed none, and moderate intensity may be optimal per an inverted-U relationship. [→ Janssen M 2014](#janssen-m-2014)
@@ -37,7 +41,7 @@ sources:
 
 Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review's narrative synthesis across 12 studies with bouts of 10–45 minutes at ~60% HRmax. Reports short bouts (max 20 min) mostly significant; the 45-min bout (Pirrie & Lodewyk 2012) showed no effect on attention.
 
@@ -47,7 +51,7 @@ Review's narrative synthesis across 12 studies with bouts of 10–45 minutes at 
 
 Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410
 
-`q1 · i?`
+`q1 · i?` · `review · r3`
 
 Authors' interpretation citing the Yerkes-Dodson inverted-U hypothesis and evidence in mice and adults that moderate PA intensity is optimal for arousal and cognitive performance; offered as an argument, not a tested result.
 

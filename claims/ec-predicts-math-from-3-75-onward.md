@@ -15,12 +15,14 @@ sources:
     author: "Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Latent EC at 3 years did not predict mathematics achievement, whereas higher latent EC at 3.75 years was associated with higher concurrent TEMA-3 and Applied Problems performance independent of processing speed and language. [→ Clark 2014](#clark-2014)
@@ -32,7 +34,7 @@ sources:
 
 Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A. (2014). Gaining control: changing relations between executive control and processing speed and their relevance for mathematics achievement over course of the preschool period. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00107
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural models regressing TEMA-3 and WJ-III Applied Problems scores at each time point on processing speed, EC, and language latents. EC at 4.5 predicted concurrent Applied Problems and 5.25 follow-up; EC at 5.25 predicted concurrent TEMA-3 and Applied Problems (all model χ²(76), p < 0.001).
 

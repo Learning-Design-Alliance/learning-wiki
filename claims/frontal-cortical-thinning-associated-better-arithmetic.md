@@ -15,12 +15,14 @@ sources:
     author: Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Cortical thinning in anterior and superior frontal cortex is associated with better arithmetic achievement across all children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Across all 48 children, WRAT-3 arithmetic scores were negatively correlated with cortical thickness in anterior frontal cortex (r = -0.292, p = 0.04) and superior frontal cortex (r = -0.291, p = 0.04). [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF. (2015). The Role of Aerobic Fitness in Cortical Thickness and Mathematics Achievement in Preadolescent Children. PLoS ONE 10(8): e0134115. https://doi.org/10.1371/journal.pone.0134115
 
-`q3 · i2`
+`q3 · i2` · `associational · r1`
 
 Pearson correlations across all 48 children between cortical thickness in nine regions and WRAT-3 reading, spelling, and arithmetic. The study reports arithmetic "negatively correlated with cortical thickness in anterior frontal cortex (r = -0.292, p = 0.04)" and superior frontal cortex (r = -0.291, p = 0.04).
 

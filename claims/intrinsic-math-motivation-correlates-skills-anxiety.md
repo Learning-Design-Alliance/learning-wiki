@@ -13,16 +13,20 @@ sources:
     title: Daches Cohen L and Rubinsten O 2017
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: daches-cohen-l-and-rubinsten-o-2017-2
     title: Daches Cohen L and Rubinsten O 2017 (2)
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2`–`i3`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i2`–`i3`
 
 ## Subclaims
 `q2 i3` Intrinsic math motivation correlates positively with math fluency (r= 0.59) and calculation (r= 0.37). [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)
@@ -34,7 +38,7 @@ sources:
 
 Daches Cohen L and Rubinsten O (2017) Mothers, Intrinsic Math Motivation, Arithmetic Skills, and Math Anxiety in Elementary School. Front. Psychol. 8:1939. https://doi.org/10.3389/fpsyg.2017.01939
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Pearson correlation analysis of children's measures (Table 2) in the study of 27 sixth graders. The article reports "signiﬁcant positive correlations were found between intrinsic math motivation and measures of arithmetic skills" with the printed r values.
 
@@ -44,7 +48,7 @@ Pearson correlation analysis of children's measures (Table 2) in the study of 27
 
 Daches Cohen L and Rubinsten O (2017) Mothers, Intrinsic Math Motivation, Arithmetic Skills, and Math Anxiety in Elementary School. Front. Psychol. 8:1939. https://doi.org/10.3389/fpsyg.2017.01939
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Pearson correlation analysis of children's measures (Table 2) in the same sample. The article reports intrinsic math motivation "signiﬁcantly negatively correlated with explicitly measured math anxiety" at r = −0.33, p < 0.05.
 

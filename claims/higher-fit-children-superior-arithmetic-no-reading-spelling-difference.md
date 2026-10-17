@@ -15,12 +15,14 @@ sources:
     author: Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher fit children show superior mathematics achievement but no reading or spelling advantage over lower fit children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Higher fit children scored higher on WRAT-3 arithmetic than lower fit children, with no fitness-group differences in reading or spelling. [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Chaddock-Heyman L, Erickson KI, Kienzler C, King M, Pontifex MB, Raine LB, Hillman CH, Kramer AF. (2015). The Role of Aerobic Fitness in Cortical Thickness and Mathematics Achievement in Preadolescent Children. PLoS ONE 10(8): e0134115. https://doi.org/10.1371/journal.pone.0134115
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Independent t-tests compared WRAT-3 scores between the same 24 higher fit and 24 lower fit children. The study reports "higher fit children showed superior mathematics achievement compared to lower fit children (t (46) = 1.98, p = 0.05)", with no reading or spelling differences.
 

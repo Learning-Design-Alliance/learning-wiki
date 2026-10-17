@@ -15,12 +15,14 @@ sources:
     author: "Torres, M. M., Domitrovich, C. E., & Bierman, K. L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Gains in emotion knowledge during preschool mediate the association between preschool relationships and kindergarten achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` With emotion knowledge gains in the model, the direct relationship–achievement path dropped to non-significance (β = –.06, p = .49) and the indirect effect was statistically significant (95% CI 0.009–0.265). [→ Torres 2015](#torres-2015)
@@ -31,7 +33,7 @@ sources:
 
 Torres, M. M., Domitrovich, C. E., & Bierman, K. L. (2015). Preschool Interpersonal Relationships Predict Kindergarten Achievement: Mediated by Gains in Emotion Knowledge. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.04.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Final SEM in the longitudinal Head Start sample tested full mediation; the indirect effect via preschool emotion knowledge gains was significant by RMediation confidence limits, "indicating a statistically significant indirect effect". No standardized effect size for the indirect effect is printed, so impact is null.
 

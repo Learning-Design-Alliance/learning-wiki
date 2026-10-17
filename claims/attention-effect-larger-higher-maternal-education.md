@@ -15,12 +15,14 @@ sources:
     author: Stevens Courtney, Lauinger Brittni, Neville Helen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Children of higher maternal education showed a significantly larger attention effect on neural responses (mean attended–unattended difference 1.7 vs. 0.6 μV)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The magnitude of the attentional modulation was significantly larger in the higher than in the lower maternal education group. [→ Stevens Courtney 2009](#stevens-courtney-2009)
@@ -31,7 +33,7 @@ sources:
 
 Stevens Courtney, Lauinger Brittni, Neville Helen. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Simple-effects comparison of attended–unattended amplitude difference across maternal education groups in the 32-child ERP study. Printed means are 1.7 and 0.6 μV; test statistic "unpaired t(30) = 3.6, P = .001". Children of lower maternal education also showed attentional modulation, t(15) = 2.1, P < .05.
 

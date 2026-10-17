@@ -15,24 +15,30 @@ sources:
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
   - id: checa-2011-2
     resource: "https://doi.org/10.1080/87565641.2011.591857"
     title: "Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857"
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: checa-2011-3
     resource: "https://doi.org/10.1080/87565641.2011.591857"
     title: "Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857"
     author: "Checa, P., & Rueda, M. R."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Interference suppression, but not response inhibition, relates to academic achievement and schooling skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Reaction-time interference suppression scores correlate negatively with average grades (r = -.37), math (r = -.39), and literacy (r = -.36). [→ Checa 2011](#checa-2011)
@@ -45,7 +51,7 @@ sources:
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Correlations between flanker-task interference suppression RT difference scores and school grades in 37 children. Larger interference effects (poorer suppression) related to poorer achievement, with the study reporting scores "negatively related to the average of school grades."
 
@@ -55,7 +61,7 @@ Correlations between flanker-task interference suppression RT difference scores 
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Response inhibition was measured as percentage of commission errors in No-Go trials. The study reports no significant correlations between RI and intelligence or school competence variables; equivalence was not tested.
 
@@ -65,7 +71,7 @@ Response inhibition was measured as percentage of commission errors in No-Go tri
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 ERP interference suppression scores (incongruent minus congruent amplitude, 460–760 ms) correlated with math grades and schooling skills in 27 children with usable EEG data. The study reports the score "negatively correlated with grades in mathematics."
 

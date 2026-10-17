@@ -15,12 +15,14 @@ sources:
     author: "Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten attention regulation is uniquely and positively related to compositional fluency after controlling for literacy, letter-writing fluency, and oral language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Attention-related skills exhibited a unique, statistically significant relation to kindergarten composition fluency (γ = .16, p = .001) in a SEM controlling for literacy, handwriting fluency, and oral language. [→ Kent 2014](#kent-2014)
@@ -31,7 +33,7 @@ sources:
 
 Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writing fluency and quality in kindergarten and first grade: The role of attention, reading, transcription, and oral language. Reading and Writing, 27(7), 1163-1188. https://doi.org/10.1007/s11145-013-9480-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Structural equation modeling of data from 265 kindergarten students in 10 schools tested component skills predicting compositional fluency. The attention factor (teacher-rated SWAN) showed a "unique and statistically significant relation" with a standardized coefficient of γ = .16, p = .001; the model accounted for approximately 49% of the variance.
 

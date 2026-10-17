@@ -15,12 +15,14 @@ sources:
     author: "Nilsen, E. S., & Bacso, S. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Working memory accounts for the relation between ADHD traits and communicative perspective-taking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When working memory was controlled, ADHD traits no longer significantly predicted communicative perspective-taking, suggesting reduced working memory underlies the association. [→ Nilsen 2017](#nilsen-2017)
@@ -31,7 +33,7 @@ sources:
 
 Nilsen, E. S., & Bacso, S. A. (2017). Cognitive and Behavioural Predictors of Adolescents’ Communicative Perspective-taking and Social Relationships. Adolescence. https://doi.org/10.1016/j.adolescence.2017.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression (n=38 with complete data) showed ADHD traits alone accounted for 18% of variance in perspective-taking, F(1,37) = 8.29, β = -.43, p = .007; adding working memory explained an additional 13% (ΔR² significant, F(1,36) = 6.75, p = .013), after which ADHD traits were no longer significant (β = -.28, p = .08).
 

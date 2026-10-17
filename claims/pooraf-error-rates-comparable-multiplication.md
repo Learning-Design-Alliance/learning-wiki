@@ -15,12 +15,14 @@ sources:
     author: Mussolin, C. and Noël, M-P.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PoorAF and control children do not differ in error rates on the multiplication task, indicating the problems were not too difficult
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The group effect on error rates was not significant and did not interact with task; PoorAF children's multiplication error rates were low and comparable to controls. [→ Mussolin 2008](#mussolin-2008)
@@ -31,7 +33,7 @@ sources:
 
 Mussolin, C. and Noël, M-P. (2008). Specific Retrieval Deficit from Long-Term Memory in Children with Poor Arithmetic Facts Abilities. The Open Psychology Journal. https://doi.org/10.2174/1874350100801010026
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A mixed ANCOVA on error rates with group as between-subjects factor, task as within-subjects factor, and LUM scores as covariate. The main effect of task was significant (F(5, 165) = 12.142, p < .001), but the group effect was not significant and did not interact with task.
 

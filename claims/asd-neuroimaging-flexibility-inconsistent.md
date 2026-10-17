@@ -15,12 +15,14 @@ sources:
     author: "Dajani, D. R., & Uddin, L. Q."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of four published ASD neuroimaging studies, two reported greater frontoparietal activation in children with ASD, one reported reduced activation correlating with RRBs, and one found insula activation decreasing with age in ASD. [→ Dajani 2015](#dajani-2015)
@@ -31,7 +33,7 @@ sources:
 
 Dajani, D. R., & Uddin, L. Q. (2015). Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2015.07.003
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of the four published neuroimaging studies of cognitive flexibility in ASD. The only consistent finding is "clear differences in activation patterns present in children with ASD". All studies controlled for accuracy, so altered activation could represent compensatory mechanisms.
 

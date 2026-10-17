@@ -23,7 +23,7 @@ sources:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 9 mixed, 2 against) · 39 studies (10 review, 9 quant-synthesis, 8 causal, 8 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 39 report an effect size · 15 claims rest on one study
+> **Evidence** · 25 claims (14 for, 9 mixed, 2 against) · 40 studies (10 review, 9 quant-synthesis, 8 causal, 8 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 40 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Visible thinking, the teacher's accurate reading of it, a well-chosen move, the 
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 - [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [~W]
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
+- [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](../claims/teacher-responsiveness-predicts-substantive-quality.md) [+W] — attached 2026-10-17 from Kim et al. (2013), which proposed "Promote teacher responsiveness to students' inquiries and responses as a lever for improving beginning writing quality"; tests this page's relationship.
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — responsive teaching is formative assessment enacted at the level of moment-to-moment instructional decisions

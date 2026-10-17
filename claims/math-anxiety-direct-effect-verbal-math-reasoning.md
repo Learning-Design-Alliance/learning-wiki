@@ -15,18 +15,22 @@ sources:
     author: "Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: wu-2017-2
     resource: "https://doi.org/10.1016/j.cognition.2017.05.016"
     title: "Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children's non-verbal and verbal mathematical abilities. Cognition, 166, 118-129. https://doi.org/10.1016/j.cognition.2017.05.016"
     author: "Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` The Partial Mediation model fit MR significantly better than the Full Mediation model, indicating a direct math-anxiety effect on MR beyond WM. [→ Wu 2017](#wu-2017)
@@ -38,7 +42,7 @@ sources:
 
 Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children's non-verbal and verbal mathematical abilities. Cognition, 166, 118-129. https://doi.org/10.1016/j.cognition.2017.05.016
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 SEM comparison in the same 330-child sample; the best-fitting modified Partial Mediation model for MR included a significant negative direct path from math anxiety to MR (β = -0.25, z = -4.09) and "accounted for 60.4% variance in MR".
 
@@ -48,7 +52,7 @@ SEM comparison in the same 330-child sample; the best-fitting modified Partial M
 
 Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children's non-verbal and verbal mathematical abilities. Cognition, 166, 118-129. https://doi.org/10.1016/j.cognition.2017.05.016
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM model comparison for NO in the same sample; the direct math-anxiety path was dropped, consistent with full mediation of anxiety via WM for non-verbal computation.
 

@@ -15,12 +15,14 @@ sources:
     author: Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Budde et al. (2008) found a significant difference in attention in favour of coordinative exercises compared to a normal PE lesson of the same intensity level. [→ Janssen M 2014](#janssen-m-2014)
@@ -31,7 +33,7 @@ sources:
 
 Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review's discussion of Budde et al. (2008), a school experiment with 115 adolescents (13–16 yrs) using heart-rate monitoring; significant improvement after coordinative exercises (p < 0.01) on the D2 test.
 

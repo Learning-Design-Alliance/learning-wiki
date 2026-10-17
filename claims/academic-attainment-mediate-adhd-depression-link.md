@@ -15,12 +15,14 @@ sources:
     author: Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Academic attainment (GCSE results) at age 16 mediates the association between childhood ADHD symptoms and late-adolescent depressive symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Academic attainment mediated the association, accounting for 20.13% of the total effect. [→ Powell V 2020](#powell-v-2020)
@@ -31,7 +33,7 @@ sources:
 
 Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F. (2020). What explains the link between childhood ADHD and adolescent depression? Investigating the role of peer relationships and academic attainment. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01463-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Potential-outcomes causal mediation analysis in ALSPAC (n = 2161) using GCSE point scores at 16 years as mediator. The article reports mediation of "20.13% of the total effect".
 

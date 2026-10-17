@@ -15,12 +15,14 @@ sources:
     author: "Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-rated general anxiety negatively predicts concurrent and future math performance in third and fourth graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teacher-rated general anxiety (DAYS_T) had a significant negative direct effect on concurrent grade-3 math performance (β = −0.39, P < 0.001) and on grade-4 math performance (β = −0.29, P < 0.001). [→ Pellizzoni 2021](#pellizzoni-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C. (2021). The interplay between math anxiety and working memory on math performance: a longitudinal study. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14722
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Path analysis (Model 1a, bootstrapping with 1000 samples) in 146 third graders found teacher-rated GA negatively associated with math performance; the authors note "DAYS_T was also strongly and negatively associated with performance in MAT‐4 (β = −0.29, P < 0.001)".
 

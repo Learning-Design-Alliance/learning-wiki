@@ -15,12 +15,14 @@ sources:
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Dispositional learning goals and performance goals were highly correlated (r = .66, p<.01). [→ Hastings 2011](#hastings-2011)
@@ -31,7 +33,7 @@ sources:
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Inter-correlation in the pooled sample, consistent with prior college-student findings that both goal types can be held simultaneously. Age was not related to holding either goal orientation.
 

@@ -15,12 +15,14 @@ sources:
     author: "Roy, A. L., McCoy, D. C., & Raver, C. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The relationship between residential mobility and fifth-grade teacher-reported dysregulation is moderated by both origin and destination neighborhood poverty, with moves out of low-poverty or into high-poverty neighborhoods detrimental and moves out of high-poverty or into low-poverty neighborhoods beneficial
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Interactions between residential mobility and baseline neighborhood poverty and between residential mobility and fifth-grade neighborhood poverty were significantly related to children's BIS-BRIEF ratings. [→ Roy 2014](#roy-2014)
@@ -33,7 +35,7 @@ sources:
 
 Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Residential Mobility, Neighborhood Poverty, and Children's Self-Regulation. Developmental Psychology. https://doi.org/10.1037/a0036984
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Interaction analyses from the same longitudinal regression models with inverse probability weighting, graphed in Figures 2 and 3 with simple slopes tested. The article reports both the baseline-poverty and fifth-grade-poverty interactions with residential mobility were significantly related to BIS-BRIEF ratings. Destination-neighborhood simple slopes are reported in a separate sentence: moving into low poverty was associated with a 27.91-point decrease (t(326) = −2.34, p = .02) and moving into high poverty with a 30.82-point increase (t(326) = 3.53, p < .01). No standardized effect sizes are printed, so impact is null.
 

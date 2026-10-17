@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/partial-credit-method.md
 ---
 
-# Revision history: [research-methods/partial-credit-method](../research-methods/partial-credit-method.md)
+# Revision history: [research-methods/partial-credit-method](../research-methods/three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
 
 Recorded as elements/partial-credit-method-co-teaching-value-added before it was renamed, re-filed or merged.
 

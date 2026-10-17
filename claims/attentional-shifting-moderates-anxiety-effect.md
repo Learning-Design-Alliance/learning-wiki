@@ -15,18 +15,22 @@ sources:
     author: Jones Christopher R., Fazio Russell H., Vasey Michael W.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: jones-christopher-r-2012-2
     resource: "https://doi.org/10.1177/1948550611430166"
     title: "Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166"
     author: Jones Christopher R., Fazio Russell H., Vasey Michael W.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Attentional shifting, but not focusing, significantly moderates the effect of speech anxiety on judged quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` When attentional shifting was the moderator, the ACS-PRCS interaction on judged quality was significant (b = .14, t(56) = 2.15, p = .04). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)
@@ -38,7 +42,7 @@ sources:
 
 Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Supplementary regression in the Results section using ACS shifting-subscale scores as moderator of PRCS on judged speech quality in the same 61-participant sample. The interaction was significant, "b = .14, t(56) = 2.15, p = .04", and of the same form as the full-ACS interaction.
 
@@ -48,7 +52,7 @@ Supplementary regression in the Results section using ACS shifting-subscale scor
 
 Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Control Buffers the Effect of Public Speaking Anxiety on Performance. Social Psychological and Personality Science. https://doi.org/10.1177/1948550611430166
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Parallel regression in the Results section using ACS focusing-subscale scores as moderator. The interaction was of the same form but "fell slightly short of statistical significance: b = .09, t(56) = 1.75, p = .08", indicating the moderating effect was more reliable for the shifting subscale.
 

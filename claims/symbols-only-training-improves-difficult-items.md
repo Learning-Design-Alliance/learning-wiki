@@ -15,12 +15,14 @@ sources:
     author: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha"
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` On the 27 items children originally performed at chance, there was a significant Test × Condition interaction (ηp2=.19) favoring symbols-only training. [→ Mix 2014](#mix-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Experiment 3 assigned 24 kindergarteners to symbols-only or base-10 blocks training (five lessons over 2 weeks). On difficult numerals items, a Test × Condition interaction, F(1, 22) = 5.03, p = .01, ηp2=.19, favored symbols-only training; "there was a significant increase from pre- to posttest for the symbols-only group."
 

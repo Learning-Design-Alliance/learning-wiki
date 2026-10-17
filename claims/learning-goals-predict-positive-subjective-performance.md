@@ -15,12 +15,14 @@ sources:
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Learning goals predict more positive subjective appraisals of memory performance after controlling for actual performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Learning goals had a significant positive effect on subjective performance independent of actual performance (β = .12, p<.05). [→ Hastings 2011](#hastings-2011)
@@ -31,7 +33,7 @@ sources:
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Final SEM path; subjective performance was also positively predicted by actual memory performance (β= .56, p<.01), and the model explained 33.6% of its variance.
 

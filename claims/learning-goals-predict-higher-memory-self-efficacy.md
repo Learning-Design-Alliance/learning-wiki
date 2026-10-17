@@ -15,12 +15,14 @@ sources:
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Dispositional learning goals positively predict memory self-efficacy in younger and older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Participants higher in dispositional learning goals reported higher memory self-efficacy (β = .28, p<.01). [→ Hastings 2011](#hastings-2011)
@@ -31,7 +33,7 @@ sources:
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Structural equation model of survey and telephone recall data from 119 undergraduates and 97 older adults. The final model showed "excellent fit to the data, χ2(15)=17.22, p=.31, CFI=.994, TLI=.986, RMSEA=.03".
 

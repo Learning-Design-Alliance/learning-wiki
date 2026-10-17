@@ -15,12 +15,14 @@ sources:
     author: Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Lower-resourced children in very safe neighborhoods showed curiosity above the mean, commensurate with middle- and higher-resourced children, whereas in fairly safe neighborhoods their curiosity was below the mean (M = −0.19 vs M = 0.11, p = 0.003). [→ Shah PE 2023](#shah-pe-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Post hoc pairwise comparisons of mean curiosity by neighborhood safety within SES tertiles (Figure 1), on the weighted ECLS-B sample. Lower- vs higher-resourced children in fairly safe neighborhoods differed (Mlower = −0.19 vs Mhigher = 0.11, p = 0.003); in very safe neighborhoods mean curiosity did not vary across SES tertiles.
 

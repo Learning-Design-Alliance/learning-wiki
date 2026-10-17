@@ -15,12 +15,14 @@ sources:
     author: "Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Deficit groups did not show average IQ with low language skills; instead non-verbal IQ was significantly positively correlated with all Year 1 measures (e.g., PA r = .344). [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N. (2017). Longitudinal stability of pre-reading skill profiles of kindergarten children: Implications for early screening and theories of reading. Developmental Science. https://doi.org/10.1111/desc.12471
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Pearson correlations between the KBIT-2 Matrices measure and Year 1 measures in the full sample; the article prints "Pearson r estimates with PA = .344, p<.001, with LSK = .140, p<.001, with RAN = .226, p<.001, and with NWR = .276".
 

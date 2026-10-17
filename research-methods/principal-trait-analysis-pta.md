@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: principal-trait-analysis-pta
+aliases: [domain-theory-informed-lens-prompting-for-trait-discovery]
 title: Principal Trait Analysis (PTA)
 description: "PTA is a data-driven methodology that \"produces a representative set of textual descriptions we callprincipal traitsfrom a corpus of human collaborator-AI collaborative conversation sessions.\" It runs four stages: LLM-prompted behavior-observation extraction (generic or theory-lens), embedding-based"
 status: review
@@ -20,6 +21,7 @@ PTA is a data-driven methodology that "produces a representative set of textual 
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Principal Trait Analysis (PTA): a four-stage, PCA-inspired pipeline for deriving behavioral traits from human-AI conversation corpora**: PTA is a data-driven methodology that "produces a representative set of textual descriptions we callprincipal traitsfrom a corpus of human collaborator-AI collaborative conversation sessions." It runs four stages: LLM-prompted behavior-observation extraction (generic or theory-lens), embedding-based top-down and agglomerative clustering into candidate traits, LLM-as-a-judge scoring of each session on a 1-5 Likert scale, and greedy principal-trait selection trading off relevance (item-total correlation plus factor-analysis communality) against redundancy in score and text-embedding space. Trait selection mirrors PCA's variance-maximizing criterion adapted to text, where orthogonality is undefined. (Hunter McNichols et al. (2026))
+- **Inject domain-theory lenses into data-driven trait discovery to improve explanatory generalizability**: PTA's observation-extraction stage can run with generic prompts or with lenses that frame extraction around bodies of domain theory, such as self-regulated learning combined with ICAP for student-AI tutoring or SWEBOK knowledge areas for software engineering. The article reports that "the theory informed lens traits are borderline significant in the Spring semester" when generic traits were not, suggesting "insights from learning theory can be used to derive traits that are more explanatory." The authors suggest advancing pedagogical theory of student-AI dialogue may shrink the gap toward interpreting derived traits as skills. (Hunter McNichols et al. (2026))
 
 ### Claims
 
@@ -33,3 +35,27 @@ PTA is a data-driven methodology that "produces a representative set of textual 
 
 ## Key Sources
 - Hunter McNichols, Kai Du, Andrew Lan. (2026). PRINCIPAL TRAIT ANALYSIS: TOWARDS DERIVING "SKILLS" IN HUMAN-AI COLLABORATION. A preprint - August 13, 2026. https://arxiv.org/abs/2608.11460
+
+<!-- merged 2026-10-17 from research-methods/domain-theory-informed-lens-prompting-for-trait-discovery ("Domain-theory-informed lens prompting for trait discovery"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# Domain-theory-informed lens prompting for trait discovery
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+PTA's observation-extraction stage can run with generic prompts or with lenses that frame extraction around bodies of domain theory, such as self-regulated learning combined with ICAP for student-AI tutoring or SWEBOK knowledge areas for software engineering. The article reports that "the theory informed lens traits are borderline significant in the Spring semester" when generic traits were not, suggesting "insights from learning theory can be used to derive traits that are more explanatory." The authors suggest advancing pedagogical theory of student-AI dialogue may shrink the gap toward interpreting derived traits as skills.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Inject domain-theory lenses into data-driven trait discovery to improve explanatory generalizability**: PTA's observation-extraction stage can run with generic prompts or with lenses that frame extraction around bodies of domain theory, such as self-regulated learning combined with ICAP for student-AI tutoring or SWEBOK knowledge areas for software engineering. The article reports that "the theory informed lens traits are borderline significant in the Spring semester" when generic traits were not, suggesting "insights from learning theory can be used to derive traits that are more explanatory." The authors suggest advancing pedagogical theory of student-AI dialogue may shrink the gap toward interpreting derived traits as skills. (Hunter McNichols et al. (2026))
+
+### Claims
+- [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](../claims/pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) [+M]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Hunter McNichols, Kai Du, Andrew Lan. (2026). PRINCIPAL TRAIT ANALYSIS: TOWARDS DERIVING "SKILLS" IN HUMAN-AI COLLABORATION. A preprint - August 13, 2026. https://arxiv.org/abs/2608.11460
+-->

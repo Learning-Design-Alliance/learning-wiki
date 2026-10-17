@@ -15,12 +15,14 @@ sources:
     author: "Kleemans, T., Segers, E., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal reasoning is directly related to fifth-grade fraction skills over and above arithmetic skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Verbal reasoning had a direct effect on fraction skills after controlling for arithmetic skills, working memory, general intelligence, SES, age, and gender. [→ Kleemans 2018](#kleemans-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kleemans, T., Segers, E., & Verhoeven, L. (2018). Role of linguistic skills in fifth-grade mathematics. Journal of Experimental Child Psychology, 167, 404-413. https://doi.org/10.1016/j.jecp.2017.11.012
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Second mediation analysis with 167 fifth graders, fraction skills as dependent variable and arithmetic skills as mediator. The article reports verbal reasoning among the predictors with direct effects; no standardized effect size for this direct effect is printed.
 

@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 sources:
-  - id: ev-benefits
-    title: ev-benefits
+  - id: daal-2026
+    title: Daal 2026
     q: 1
     i: "?"
     kind: design
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
-`q1 i?` A co-designed survey provides empirical evidence to validate programmatic initiatives or pathway models or pinpoint suspected preparation gaps, replacing anecdotal hunches. [→ ev-benefits](#ev-benefits)
+`q1 i?` A co-designed survey provides empirical evidence to validate programmatic initiatives or pathway models or pinpoint suspected preparation gaps, replacing anecdotal hunches. [→ ev-benefits](#daal-2026)
 
 ## Evidence
 
-### ev-benefits
+### Daal 2026
 
 Daal, S., Leones, T., & Iwatani, E. (2026, August). Equity-focused high school alumni connections: A design guide for alumni surveys. Digital Promise. https://doi.org/10.51388/20.500.12265/313
 

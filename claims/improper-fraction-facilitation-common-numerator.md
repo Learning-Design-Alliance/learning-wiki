@@ -15,12 +15,14 @@ sources:
     author: "Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Participants required less time to solve common-numerator items containing an improper fraction than items without improper fractions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A two-way ANOVA on prime RTs revealed participants were faster on common-numerator items in which one fraction was improper (M = 2942 ± 1151 ms) than on items where both were improper or both were not (M = 2673 ± 916 ms). [→ Rossi 2019](#rossi-2019)
@@ -31,7 +33,7 @@ sources:
 
 Rossi, S., Vidal, J., Letang, M., Houdé, O., & Borst, G. (2019). Adolescents and Adults Need Inhibitory Control to Compare Fractions. Journal of Numerical Cognition, 5(3), 314-336. https://doi.org/10.5964/jnc.v5i3.197
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A two-way ANOVA on prime RTs showed "participants required less time to solve common numerator items in which one of the two fractions was an improper fraction" with ηp2 = 0.15. No effect of age or interaction was found.
 

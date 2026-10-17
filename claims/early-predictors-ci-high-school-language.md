@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E., Sedey Allison L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Early elementary characteristics predict 71% of variance in high school language outcomes of CI users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Duration of deafness, PIQ, SES, sentence duration and early language PC score each contributed significant independent variance; together early predictors accounted for 71% of CI-HS language variance. [→ Geers Ann E. 2011](#geers-ann-e-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E., Sedey Allison L. (2011). Language and Verbal Reasoning Skills in Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical multiple linear regression (Table 4) predicting CI-HS language PC score from CI-E measures: step 1 (gender, duration of deafness, PIQ, family size, SES, sign enhancement) explained 25%; sentence duration added 29%; early language PC added 17% (β = 0.708, p <.001).
 

@@ -15,12 +15,14 @@ sources:
     author: Lerner Matthew D., Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Initial letter-name knowledge predicted phonological awareness growth, and initial phonological awareness predicted letter-name growth, even after accounting for age and common rate of growth across the two skills. [→ Lerner Matthew D. 2016](#lerner-matthew-d-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lerner Matthew D., Lonigan Christopher J. (2016). Bidirectional Relations between Phonological Awareness and Letter Knowledge in Preschool Revisited: A Growth Curve Analysis of the Relation between Two Code-Related Skills. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2015.09.023
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The predictive growth models included child age and growth in the predictor's code-related skill to rule out general maturation and correlated development as alternative explanations. The article states the results "do not support either of these alternative explanations."
 

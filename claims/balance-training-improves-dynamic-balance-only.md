@@ -15,12 +15,14 @@ sources:
     author: "Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Balance training improves dynamic balance performance but not functional balance or postural sway
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Dynamic balance on the stability platform improved in the balance group (d = 0.66), while CoP sway velocity and BESS errors showed no significant group effects. [→ Rogge 2017](#rogge-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K. (2017). Balance training improves memory and spatial cognition in healthy adults. Scientific Reports 7:5661. https://doi.org/10.1038/s41598-017-06071-9
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANCOVA of the stability platform test showed a significant group effect; "group difference = 1.57, 95% CI = [0.49, 2.65], d = 0.66". Forceplate sway (d = −0.01) and BESS (d = −0.09) were not significant.
 

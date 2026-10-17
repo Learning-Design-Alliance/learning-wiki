@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 sources:
-  - id: ev-6
-    title: ev-6
+  - id: taboada-barber-2026
+    title: Taboada Barber 2026
     q: 2
     i: "?"
     kind: review
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` The review finds no evidence of unique, reliable, or EL-specific gains in prosody, fluency, or comprehension attributable to readers' theater as a single practice; its benefits derive almost entirely from the embedded repeated readings. [→ ev-6](#ev-6)
+`q2 i?` The review finds no evidence of unique, reliable, or EL-specific gains in prosody, fluency, or comprehension attributable to readers' theater as a single practice; its benefits derive almost entirely from the embedded repeated readings. [→ ev-6](#taboada-barber-2026)
 
 ## Evidence
 
-### ev-6
+### Taboada Barber 2026
 
 Taboada Barber, A., Urbano Aguilar, S., Lopez Rodriguez, A., and Pan, Y. (2026, September). Performing Is Not Teaching: What the Evidence Says About Reading Fluency Practices for Emergent Bilinguals. Digital Promise. https://doi.org/10.51388/20.500.12265/316
 

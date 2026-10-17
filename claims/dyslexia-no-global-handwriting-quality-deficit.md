@@ -15,12 +15,14 @@ sources:
     author: "Gosse, C., & Van Reybroeck, M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Children with dyslexia show no global handwriting-quality deficit relative to chronological-age and spelling-age matched typically developing children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` General Linear Mixed Model analyses revealed no global differences in handwriting quality among DYS, CA-matched and SA-matched groups. [→ Gosse 2020](#gosse-2020)
@@ -31,7 +33,7 @@ sources:
 
 Gosse, C., & Van Reybroeck, M. (2020). Do children with dyslexia present a handwriting deficit? Impact of word orthographic and graphic complexity on handwriting and spelling performance. Research in Developmental Disabilities, 97(1), 14. https://doi.org/10.1016/j.ridd.2019.103553
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Controlled comparison of 23 children with dyslexia against 23 chronological-age and 23 spelling-age matched controls on a tablet dictation task; the article reports "no global differences between the three groups for handwriting quality". Equivalence was not tested beyond this analysis.
 

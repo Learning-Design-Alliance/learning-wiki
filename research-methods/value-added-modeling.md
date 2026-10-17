@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: value-added-modeling
+aliases: [school-value-added-modeling]
 title: Value-added modeling
 description: "Value-added measures quantify a teacher's contribution to students' learning gains."
 status: review
@@ -36,6 +37,10 @@ sources:
     resource: "https://ies.ed.gov/ncee/pubs/20114016/pdf/20114016_app.pdf"
     title: "Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing Teachers? NCEE Evaluation Brief, NCEE 2011-4016. https://ies.ed.gov/ncee/pubs/20114016/pdf/20114016_app.pdf"
     author: Steven Glazerman and Jeffrey Max
+  - id: kevin-booker-2008
+    resource: "https://www.mathematica.org/publications/measuring-school-effectiveness-in-memphis"
+    title: "Kevin Booker, Eric Isenberg. (2008). Measuring School Effectiveness in Memphis. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-school-effectiveness-in-memphis"
+    author: Kevin Booker, Eric Isenberg
 ---
 
 # Value-added modeling
@@ -56,6 +61,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - **Value-added models (VAM) as a framework for teacher and principal evaluation**: The report treats teacher and principal value-added models (VAM) as an organizing framework for educator evaluation, summarizing "research findings and implementation practices for teacher and principal value-added models (VAM)". VAM is presented as a measurement approach whose development requires decisions about data, modeling, and implementation. The report organizes the literature and practice examples around this framework for a state pilot project. (Lipscomb et al. (2010))
 - **Value added as a measure of teacher effectiveness**: The brief defines value added as a way of quantifying teaching quality: "'Value added' is a teacher's contribution to students' learning gains." It frames emerging research on disadvantaged students' access to effective teaching as based on these value-added measures, while noting that researchers have presented such evidence in varied ways, making it hard for practitioners to interpret. (Jeffrey Max (2014))
 - **Value-added measurement of teacher performance as the basis for defining highest-performing teachers**: The brief defines value-added in ideal terms as "the contribution of the teacher to student achievement growth, holding constant the factors outside the teacher's control." It estimates value-added as average test-score growth for each teacher relative to the district average, with statistical controls for student background and entering achievement, using up to three years of data per teacher for precision. The top 20 percent of teachers within each district, subject, and grade span are labeled highest performing. The authors note active debate about high-stakes use but observe these measures resemble indicators districts use in Race to the Top, the Teacher Incentive Fund, DC's IMPACT syste (Steven Glazerman et al. (2011))
+- **Value-added model for identifying effective schools in Memphis City school district**: Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative. The model "estimates each school's effect on student performance across all tested grades and subjects, accounting for student mobility, observable differences in student demographics, and measurement error in test scores." It served as the identification tool for a principal-training nonprofit's educator award program. (Kevin Booker (2008))
 
 ### Claims
 
@@ -97,6 +103,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](../claims/observation-scores-stronger-school-characteristic-relationship.md) [~W]
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](../claims/teacher-race-observation-gaps-explained-by-school-poverty.md) [~W]
 - [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](../claims/reach-observation-value-added-correlation-0349.md) [~W]
+- [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](../claims/memphis-model-adjusts-mobility-demographics-measurement-error.md) [+W]
 
 ## Related Research Methods
 -
@@ -110,6 +117,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - Lipscomb, Stephen; Teh, Bing-ru; Gill, Brian; Chiang, Hanley; Owens, Antoniya. (2010). Teacher and Principal Value-Added: Research Findings and Implementation Practices. Cambridge, MA: Mathematica Policy Research. https://www.mathematica.org/publications/teacher-and-principal-valueadded-research-findings-and-implementation-practices
 - Jeffrey Max, Steven Glazerman. (2014). Do Disadvantaged Students Get Less Effective Teaching? Key Findings from Recent Institute of Education Sciences Studies (Evaluation Brief). Washington, DC: Institute of Education Sciences. https://ies.ed.gov/ncee/
 - Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing Teachers? NCEE Evaluation Brief, NCEE 2011-4016. https://ies.ed.gov/ncee/pubs/20114016/pdf/20114016_app.pdf
+- Kevin Booker, Eric Isenberg. (2008). Measuring School Effectiveness in Memphis. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-school-effectiveness-in-memphis
 
 <!-- merged 2026-10-10 from elements/value-added-teacher-effectiveness-measures ("Value-added measures of teacher effectiveness"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Dan Goldhaber, Betheny Gross, Daniel Player. (2011). Teacher Career Paths, Teacher Quality, and Persistence in the Classroom: Are Public Schools Keeping Their Best? Journal of Policy Analysis and Management, vol. 30, issue 1. https://www.mathematica.org/publications/teacher-career-paths-teacher-quality-and-persistence-in-the-classroom-are-public-schools-keeping-their-best
@@ -487,4 +495,72 @@ The brief defines value-added in ideal terms as "the contribution of the teacher
 
 ## Key Sources
 - Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing Teachers? NCEE Evaluation Brief, NCEE 2011-4016. https://ies.ed.gov/ncee/pubs/20114016/pdf/20114016_app.pdf
+-->
+
+<!-- merged 2026-10-17 from research-methods/school-value-added-modeling ("School value-added modeling"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# School value-added modeling
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative. The model "estimates each school's effect on student performance across all tested grades and subjects, accounting for student mobility, observable differences in student demographics, and measurement error in test scores." It served as the identification tool for a principal-training nonprofit's educator award program.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Value-added model for identifying effective schools in Memphis City school district**: Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative. The model "estimates each school's effect on student performance across all tested grades and subjects, accounting for student mobility, observable differences in student demographics, and measurement error in test scores." It served as the identification tool for a principal-training nonprofit's educator award program. (Kevin Booker (2008))
+
+### Claims
+- [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](../claims/memphis-model-adjusts-mobility-demographics-measurement-error.md) [+W]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Kevin Booker, Eric Isenberg. (2008). Measuring School Effectiveness in Memphis. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-school-effectiveness-in-memphis
+
+<!- - merged 2026-10-10 from elements/memphis-value-added-school-effectiveness-model ("Value-added model for identifying effective schools in Memphis City school district"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Value-added model for identifying effective schools in Memphis City school district
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative. The model "estimates each school's effect on student performance across all tested grades and subjects, accounting for student mobility, observable differences in student demographics, and measurement error in test scores." It served as the identification tool for a principal-training nonprofit's educator award program.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Student test score data across all tested grades and subjects in the district
+- Information on student mobility and observable student demographics
+- Accounting for measurement error in test scores
+#### Constraints
+- Applied to the Memphis City school district during the first year of the project
+
+### Target Learners
+- K-12 students in the Memphis City school district
+
+### Target Learning Goals
+- School-level effectiveness in raising student performance on tested grades and subjects
+
+## Claims
+
+- [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](../claims/memphis-model-adjusts-mobility-demographics-measurement-error.md) [+W]
+
+## Related Elements
+
+- [Methods for identifying effective schools in Memphis City Schools (Year 2)](../elements/memphis-school-effectiveness-identification-methods-year-2.md)
+- [Teacher-level value-added model adaptation for identifying high-performing teachers in Memphis](../elements/teacher-level-value-added-model-memphis.md)
+- [New Leaders school and teacher effectiveness identification methods](../elements/new-leaders-effectiveness-identification-methods.md)
+
+## Examples
+
+- [Offering financial awards to effective educators as part of a principal-training initiative](../strategies/financial-awards-effective-educators-initiative.md)
+
+## Key Sources
+- Kevin Booker, Eric Isenberg. (2008). Measuring School Effectiveness in Memphis. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-school-effectiveness-in-memphis
+- ->
 -->

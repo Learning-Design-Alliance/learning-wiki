@@ -15,18 +15,22 @@ sources:
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: koenig-ashley-2020-2
     resource: "https://doi.org/10.1080/15248372.2020.1802277"
     title: "Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277"
     author: Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Overall lexical processing latency at 36 months predicts receptive vocabulary at 60 months, but not over and above concurrent vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Overall latency predicted TPVT at 60 months, but neither noun-only nor verb-only latency was a significant predictor. [→ Koenig Ashley 2020](#koenig-ashley-2020)
@@ -38,7 +42,7 @@ sources:
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression in the Results of this longitudinal study: 'Overall latency predicted TPVT at 60 months', but in follow-up analyses of noun and verb trials separately 'neither showed that latency was a significant predictor'.
 
@@ -48,7 +52,7 @@ Regression in the Results of this longitudinal study: 'Overall latency predicted
 
 Koenig Ashley, Arunachalam Sudha, Saudino Kimberly J. (2020). Lexical processing of nouns and verbs at 36 months of age predicts concurrent and later vocabulary and school readiness. Journal of cognition and development : official journal of the Cognitive Development Society. https://doi.org/10.1080/15248372.2020.1802277
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression adding TPVT at 36 months to the model: overall latency 'no longer is a significant predictor of TPVT at 60 months', and TPVT at 36 months itself was not significant (r(106) = 0.18, p = 0.053).
 

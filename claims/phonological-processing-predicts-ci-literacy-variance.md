@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E.; Hayes Heather
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q3 i?` In step 3 of the hierarchical regression, phonological processing accounted for 38.3% of added variance in literacy, and the full model accounted for 76.7% of variance including early reading level. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E.; Hayes Heather. (2011). Reading, Writing, and Phonological Processing Skills of Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://doi.org/10.1097/AUD.0b013e3181fa41fa
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical multiple regression predicting the literacy factor score in 112 CI-HS students (Table 4). "Phonological processing accounted for 38.3% of added variance in literacy level" in step 3; CI-E reading level added 10% in step 4, for a total R2 of 0.767. The phonological contribution was independent of performance intelligence.
 

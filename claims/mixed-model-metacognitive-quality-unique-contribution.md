@@ -15,12 +15,14 @@ sources:
     author: "Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In both age groups, intellectual ability and the quality of metacognitive skillfulness each have their own unique contribution to predicting math performance. [→ Van der Stel 2010](#van-der-stel-2010)
@@ -32,7 +34,7 @@ sources:
 
 Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J. (2010). The increasing role of metacognitive skills in math: a cross-sectional study from a developmental perspective. ZDM Mathematics Education, 42, 219–229. https://doi.org/10.1007/s11858-009-0224-2
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Semi-partial correlation and regression analyses (Tables 4–5) testing the mixed model in both age groups; the article states both predictors "have their own, unique contribution" for quality scores.
 

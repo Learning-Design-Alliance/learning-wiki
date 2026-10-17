@@ -15,12 +15,14 @@ sources:
     author: Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Severity of hearing loss is significantly negatively related to language development in 3-year-old children with hearing aids
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Better hearing was associated with better speech and language development at 3 years of age. [→ Ching Teresa Y. C. 2010](#ching-teresa-y-c-2010)
@@ -31,7 +33,7 @@ sources:
 
 Ching Teresa Y. C., Crowe Kathryn, Martin Vivienne, Day Julia, Mahler Nicole, Youn Samantha, Street Laura, Cook Cassandra, Orsini Julia (2010). Language development and everyday functioning of children with hearing loss assessed at 3 years of age. International journal of speech-language pathology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094718/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Spearman rank order correlations among outcome measures in a population-based cross-sectional study of 133 children with hearing loss assessed at 3 years. The article reports that "better hearing was associated with better speech and language development"; Table III shows correlations of 3FA HL with PLS-AC of −.35 and PLS-EC of −.42 (p < .01).
 

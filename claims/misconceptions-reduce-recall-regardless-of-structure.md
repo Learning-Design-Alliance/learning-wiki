@@ -15,12 +15,14 @@ sources:
     author: "Kendeou, P., & van den Broek, P."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Readers with misconceptions recall less textual information than readers without misconceptions, regardless of text structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In both experiments, recall showed a significant main effect of prior knowledge (Experiment 1: F(1,74) = 5.8, p = .02, η² = .08; Experiment 2: F(1,54) = 6.6, p = .01, η² = .11), with no text structure effects. [→ Kendeou 2007](#kendeou-2007)
@@ -31,7 +33,7 @@ sources:
 
 Kendeou, P., & van den Broek, P. (2007). The effects of prior knowledge and text structure on comprehension processes during reading of scientific texts. Memory & Cognition, 35(7), 1567-1577. https://doi.org/10.3758/bf03193491
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Offline recall analysis in Experiment 1 (think-aloud study), repeated measures ANOVA with reading span and Need for Cognition as covariates. Readers with misconceptions "recalled less textual information" independent of structure (η² = .08); Experiment 2 replicated this (F(1,54) = 6.6, p = .01, η² = .11).
 

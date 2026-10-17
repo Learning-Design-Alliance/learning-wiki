@@ -15,12 +15,14 @@ sources:
     author: "Nilsen, E. S., & Bacso, S. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Inhibitory control did not relate to adolescents' communicative perspective-taking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Neither interference control nor response inhibition significantly related to communicative perspective-taking performance in this adolescent sample. [→ Nilsen 2017](#nilsen-2017)
@@ -31,7 +33,7 @@ sources:
 
 Nilsen, E. S., & Bacso, S. A. (2017). Cognitive and Behavioural Predictors of Adolescents’ Communicative Perspective-taking and Social Relationships. Adolescence. https://doi.org/10.1016/j.adolescence.2017.01.004
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Inhibitory control was measured via a Stroop interference control task and a stop-signal response inhibition task (STOP-IT). The two measures were not significantly correlated (r = -.15, p = .37) and were examined separately; neither showed significant relations with communicative perspective-taking, so inhibitory control was excluded from regressions.
 

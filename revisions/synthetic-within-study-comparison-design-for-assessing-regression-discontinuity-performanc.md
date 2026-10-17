@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc.md
 ---
 
-# Revision history: [research-methods/synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc](../research-methods/synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc.md)
+# Revision history: [research-methods/synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc](../research-methods/within-study-comparison-wsc-methodology.md)
 
 Recorded as elements/synthetic-within-study-comparison-rd before it was renamed, re-filed or merged.
 

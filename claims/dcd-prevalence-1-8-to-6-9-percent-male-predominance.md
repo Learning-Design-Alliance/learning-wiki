@@ -15,18 +15,22 @@ sources:
     author: Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: biotteau-m-2019-2
     resource: "https://doi.org/10.2147/NDT.S120514"
     title: "Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514"
     author: Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # DCD prevalence estimates range from 1.8% to 6.9% with a male predominance of 2:1 to 3:1, and the disorder persists into adulthood for 30–70% of those diagnosed as children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Estimated DCD prevalence varies by study (1.8% to 6.9%) depending on definition, cut-off score, and population, with a male predominance ranging from 2:1 to 3:1. [→ Biotteau M 2019](#biotteau-m-2019)
@@ -38,7 +42,7 @@ sources:
 
 Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports prevalence estimates from population studies, citing Lingam et al's UK study of 6,990 children aged 7–8 years that found "a prevalence of 1.8%", rising to 4.9% (n=341) when probable DCD was included; other studies reported 6.9% or 4.3%. No effect sizes are printed.
 
@@ -48,7 +52,7 @@ The review reports prevalence estimates from population studies, citing Lingam e
 
 Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (2019). Developmental coordination disorder and dysgraphia: signs and symptoms, diagnosis, and rehabilitation. Neuropsychiatric Disease and Treatment. https://doi.org/10.2147/NDT.S120514
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's abstract states longitudinal persistence figures: "DCD persistence of 30–70% in adulthood" for childhood-diagnosed individuals, with academic consequences. The review attributes this to longitudinal studies; no effect sizes are printed.
 

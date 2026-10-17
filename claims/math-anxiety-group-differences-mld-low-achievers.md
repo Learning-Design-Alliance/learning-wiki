@@ -15,18 +15,22 @@ sources:
     author: Yılmaz Mutlu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: yılmaz-mutlu-2019-2
     resource: "https://doi.org/10.26822/iejee.2019553343"
     title: "Yılmaz Mutlu. (2019). Math Anxiety in Students With and Without Math Learning Difficulties. International Electronic Journal of Elementary Education, 11(5), 471-475. https://doi.org/10.26822/iejee.2019553343"
     author: Yılmaz Mutlu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Math anxiety differs significantly across achievement groups, with MLD students not differing from low achievers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` One-way ANOVA shows significant math anxiety differences across the four achievement groups (F(3,284)=36.584, p=.000). [→ Yılmaz Mutlu 2019](#ylmaz-mutlu-2019)
@@ -38,7 +42,7 @@ sources:
 
 Yılmaz Mutlu. (2019). Math Anxiety in Students With and Without Math Learning Difficulties. International Electronic Journal of Elementary Education, 11(5), 471-475. https://doi.org/10.26822/iejee.2019553343
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 One-way ANOVA comparing math anxiety scores of four achievement groups (MLD 0-10%, LA 11-25%, NA 26-95%, HA 96-100%) classified by achievement test scores. "a statistically significant difference between groups" was found, F(3,284)= 36.584, p= .000.
 
@@ -48,7 +52,7 @@ One-way ANOVA comparing math anxiety scores of four achievement groups (MLD 0-10
 
 Yılmaz Mutlu. (2019). Math Anxiety in Students With and Without Math Learning Difficulties. International Electronic Journal of Elementary Education, 11(5), 471-475. https://doi.org/10.26822/iejee.2019553343
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Tukey post hoc comparisons following the significant ANOVA. The MLD group (M= 1.96) differed significantly from the NA and HA groups; the quote continues that the MLD group "did not significantly differ from the LA group (M= 1.76, sd= 0.27)".
 

@@ -15,12 +15,14 @@ sources:
     author: "Mollborn, S., Lawrence, E., James-Hawkins, L., & Fomby, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The SES–positive behavior relationship follows the same curvilinear pattern but is weaker in magnitude than the SES–cognitive relationship at every wave.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The SES–behavior relationship peaked around age 4–4½ like the cognitive relationship, but its magnitude was smaller (peak ≈ 0.06 SD for income; ≈ 0.08 SD for maternal education). [→ Mollborn 2014](#mollborn-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mollborn, S., Lawrence, E., James-Hawkins, L., & Fomby, P. (2014). When Do Socioeconomic Resources Matter Most in Early Childhood? Advances in Life Course Research. https://doi.org/10.1016/j.alcr.2014.03.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Growth curve models of ECLS-B behavior outcomes (teacher/interviewer nonparent reports; N ≈ 8,350 children) showed the same peak-shaped pattern as cognitive outcomes. The income–behavior association peaked "at about 0.06 standard deviations," and the maternal education–behavior peak was about 0.08 SD, both smaller than cognitive peaks.
 

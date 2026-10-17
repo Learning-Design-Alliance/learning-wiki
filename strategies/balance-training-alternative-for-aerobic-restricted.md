@@ -17,7 +17,7 @@ sources:
 # Offer balance training as a cognitive intervention alternative for individuals unable to do aerobic training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends balance training "might represent a promising alternative intervention for individuals who are not able to participate in aerobic training following health restrictions". The 12-week program required no equipment-heavy aerobic workload yet improved memory and spatial cognition. Implementers should replicate the progressive circuit format with reactive postural tasks twice weekly.
@@ -39,7 +39,7 @@ The article recommends balance training "might represent a promising alternative
 - spatial cognition
 
 ### Affordances
-- [Vestibular Stimulation Cognition Mediator](../theories/vestibular-stimulation-cognition-mediator.md)
+- Vestibular Stimulation Cognition Mediator
 
 ## Claims
 

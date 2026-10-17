@@ -15,12 +15,14 @@ sources:
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Group differences in receptive language did not hold when controlling for SES, and receptive language was the covariate retained in the main analyses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Never-fostered children had higher receptive vocabulary scores than both foster groups, but these differences were non-significant after controlling for SES. [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)
@@ -31,7 +33,7 @@ sources:
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Preliminary analyses showed never-fostered children attained higher PPVT-III receptive language scores than both foster groups, but these differences were non-significant when controlling for the SES composite. Receptive language was the only covariate retained in the main analyses, as child age and SES were no longer significant once it was included.
 

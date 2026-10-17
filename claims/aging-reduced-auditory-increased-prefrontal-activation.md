@@ -15,12 +15,14 @@ sources:
     author: Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Older adults show reduced activation in auditory cortex and increased activation in prefrontal and precuneus regions during speech-in-noise processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Voxel-wise ANOVA showed a main effect of group with reduced right superior temporal activation but increased posterior parietal (precuneus) and prefrontal activation in older subjects. [→ Wong Patrick C. M. 2009](#wong-patrick-c-m-2009)
@@ -31,7 +33,7 @@ sources:
 
 Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit. (2009). Aging and Cortical Mechanisms of Speech Perception in Noise. Neuropsychologia 47(3), 693-703. https://doi.org/10.1016/j.neuropsychologia.2008.11.032
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Three-dimensional mixed effects voxel-wise ANOVA on fMRI beta values from 24 subjects (12 younger, 12 older) across three listening conditions. Table 1 cluster statistics showed e.g. right aSTG/insula Group F(1,22) = 16.617, p < 0.001 (Young > Old) and right precuneus Group F(1,22) = 15.391, p < 0.001 (Old > Young).
 

@@ -15,12 +15,14 @@ sources:
     author: "Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hyperactivity/impulsivity ratings did not uniquely predict first-grade number sense, applied problems, calculation, or reading, although they were correlated with attention problems. [→ Hassinger-Das 2013](#hassinger-das-2013)
@@ -31,7 +33,7 @@ sources:
 
 Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N. (2013). Domain General Mediators of the Relation between Kindergarten Number Sense and First-Grade Mathematics Achievement. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2013.09.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the 107-child low-number-sense sample, SWAN Hyperactivity/Impulsivity subscale ratings (standardized betas .039, −.056, −.167, −.181 in Table 4) were not unique predictors in any MRA; the correlation between the two SWAN subscales was .810. No effect size was printed for the null findings.
 

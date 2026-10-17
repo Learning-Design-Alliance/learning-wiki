@@ -17,7 +17,7 @@ sources:
 # Include both real word and pseudoword decoding measures to fully assess decoding in predicting adult reading comprehension
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on their own meta-analysis and child meta-analyses, the authors recommend that assessments "include multiple decoding measures (real word and pseudoword decoding) to fully assess the construct of decoding in predicting reading comprehension." The two decoding types yielded different average correlations in adults (r = .52 vs. r = .42), suggesting they are not interchangeable indicators.

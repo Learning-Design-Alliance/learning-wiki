@@ -17,7 +17,7 @@ sources:
 # Disseminate preschool social-emotional learning programs targeting emotion knowledge and strengthen teacher-student relationship components
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 associational), `q3` · 2 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the finding that emotion knowledge gains mediate the link between preschool relationships and kindergarten achievement, the authors recommend wider dissemination of early social-emotional learning programs that enhance emotion knowledge, noting several have shown efficacy in small randomized trials and one national study suggests scale-up with similar impacts. They further recommend "enhancements to existing interventions that directly promote supportive teacher-student relationships", since existing programs such as Preschool PATHS do not explicitly target low-closeness teacher-student relationships.

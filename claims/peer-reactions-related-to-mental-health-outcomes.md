@@ -9,27 +9,29 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 sources:
-  - id: ev-background-reactions
-    title: ev-background-reactions
+  - id: swords-2011
+    title: Swords 2011
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's reactions to peers with mental health problems are related to the maintenance and outcomes of those problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Research suggests children's reactions to peers with mental health problems relate to the maintenance and outcomes of these problems. [→ ev-background-reactions](#ev-background-reactions)
+`q2 i?` Research suggests children's reactions to peers with mental health problems relate to the maintenance and outcomes of these problems. [→ ev-background-reactions](#swords-2011)
 
 ## Evidence
 
-### ev-background-reactions
+### Swords 2011
 
 Swords, L, Heary, C & Hennessy, E 2011, 'Factors associated with acceptance of peers with mental health problems in childhood and adolescence', Journal of Child Psychology and Psychiatry and Allied Disciplines, vol. 52, no. 9, pp. 933-941. https://doi.org/10.1111/j.1469-7610.2010.02351.x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 A background statement attributed by the article to prior research, cited as motivation for the study. The article reports this as "Research suggests" without presenting the underlying studies in the supplied text.
 

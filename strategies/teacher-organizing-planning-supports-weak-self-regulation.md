@@ -17,7 +17,7 @@ sources:
 # Train teachers to organize, plan, and manage the classroom to support self-regulation in students with weak initial self-regulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that teachers deliberately plan instruction and organize the classroom — explaining the purpose of activities, describing upcoming activities, using routines, and providing scaffolded opportunities for students to rehearse task-related behaviors — because structured settings reduce the attentional and cognitive burden on students who enter first grade with weaker self-regulation. The ISI intervention's professional development focused on organizing, minimizing non-instructional time, and planning, and the study suggests this training "can shrink this variability in teacher practice" and support growth in students with weaker self-regulation skills.
@@ -38,7 +38,7 @@ The article recommends that teachers deliberately plan instruction and organize 
 - Early literacy skills
 
 ### Affordances
-- [Self Regulation Teacher Practices Model Isi](../theories/self-regulation-teacher-practices-model-isi.md)
+- [Self Regulation Teacher Practices Model Isi](../theories/self-regulated-learning.md)
 
 ## Claims
 

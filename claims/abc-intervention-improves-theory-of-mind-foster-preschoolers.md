@@ -15,18 +15,22 @@ sources:
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: lewis-morrarty-2012-2
     resource: "https://doi.org/10.1016/j.jadohealth.2012.05.005"
     title: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005"
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Foster children who received the ABC intervention showed stronger theory of mind at preschool age than foster children who received a control intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In the randomized trial follow-up, foster children who received ABC scored significantly higher on the penny-hiding theory of mind task than foster children who received the control intervention (d = 1.08). [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)
@@ -38,7 +42,7 @@ sources:
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A univariate ANCOVA controlling for receptive language compared theory of mind (penny-hiding game) performance across the three groups at ages 4–6. The ABC group "scored higher than children in the FCC group" with a large effect size (d = 1.08); the overall Group main effect was significant (F(2, 59) = 4.59, p = .01).
 
@@ -48,7 +52,7 @@ A univariate ANCOVA controlling for receptive language compared theory of mind (
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Follow-up contrasts showed ABC foster children's theory of mind scores did not differ significantly from never-fostered comparison children (p = .90), while the foster-care control group scored marginally lower than comparison children (p = .05).
 

@@ -15,12 +15,14 @@ sources:
     author: Isabelle Regner, Pascal Huguet, Jean-Marc Monteil
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Low-SES students also generate stereotype-consistent inferences in the reverse direction, inferring SES indicators from memory performance information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` When given memory performance information about targets, participants were asked to infer the targets' possessions and cultural activities (SES indicators), and again only low-SES students produced stereotype-consistent inferences. [→ Isabelle Regner 2002](#isabelle-regner-2002)
@@ -31,7 +33,7 @@ sources:
 
 Isabelle Regner, Pascal Huguet, Jean-Marc Monteil. (2002). Effects of socioEconomic status (SES) information on cognitive ability inferences: When low-SES students make use of a self-threatening stereotype. Social Psychology of Education, 5(3), 253-269. https://doi.org/10.1023/A:1016313908667
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Study 2 reversed the inference direction of Study 1: participants received "memory performance information about several targets" and inferred SES indicators. The abstract states that in both studies only low-SES students generated stereotype-consistent inferences.
 

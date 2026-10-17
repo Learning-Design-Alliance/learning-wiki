@@ -15,18 +15,22 @@ sources:
     author: Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: shields-grant-s-2016-2
     resource: "https://doi.org/10.1080/10253890.2016.1192603"
     title: "Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603"
     author: Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The TSST-G stress induction increased negative affect and cortisol relative to control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Negative affect rose in the stress group and fell in controls (Time × Condition interaction significant). [→ Shields Grant S. 2016](#shields-grant-s-2016)
@@ -38,7 +42,7 @@ sources:
 
 Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Manipulation check in the randomized experiment: mixed-model ANOVA on the negative affect composite (baseline α=.90, post α=.92). The article reports the interaction and the stress-group increase as significant, with no effect size.
 
@@ -48,7 +52,7 @@ Manipulation check in the randomized experiment: mixed-model ANOVA on the negati
 
 Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Cortisol reactivity analysis comparing the stress group with a randomly-selected 10 control participants assayed for cortisol; log-transformed values. The article reports the interaction and stress-group increase as significant, with no effect size.
 

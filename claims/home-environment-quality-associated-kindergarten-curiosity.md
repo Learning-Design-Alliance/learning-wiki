@@ -15,12 +15,14 @@ sources:
     author: Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` A higher quality home environment (abbreviated HOME-SF at 24 months) was associated with higher curiosity at kindergarten (β = 0.05, p = 0.02). [→ Shah PE 2023](#shah-pe-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N (2023). Ecological contexts associated with early childhood curiosity: Neighborhood safety, home and parenting quality, and socioeconomic status. Front. Psychol. 14:986221. https://doi.org/10.3389/fpsyg.2023.986221
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Same adjusted main-effects regression on the weighted ECLS-B sample (N = 4,750); home environment was the 8-item abbreviated HOME-SF scored 1–8. The article reports "β = 0.05, p = 0.02" for home environment quality.
 

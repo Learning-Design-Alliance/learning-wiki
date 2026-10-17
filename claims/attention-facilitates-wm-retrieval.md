@@ -15,12 +15,14 @@ sources:
     author: Gazzaley A, Nobre AC
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Spatial retro-cues abolished load-dependent ERP activity during WM search, showing attention can facilitate retrieval, though the stage of the effect remains unresolved. [→ Gazzaley A 2012](#gazzaley-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 ERP study by Nobre and colleagues in which participants searched a WM array at loads 1-4; spatial retro-cues completely abolished the load-dependent search-related ERP. The review notes the effect's locus (retrieval versus maintenance) remained unclear.
 

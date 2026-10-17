@@ -15,12 +15,14 @@ sources:
     author: Yılmaz Mutlu
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Early identification and treatment of math anxiety is important because early anxieties can snowball into avoidance of mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues early identification and treatment of math anxiety matters because early anxieties can snowball into course and career avoidance. [→ Yılmaz Mutlu 2019](#ylmaz-mutlu-2019)
@@ -31,7 +33,7 @@ sources:
 
 Yılmaz Mutlu. (2019). Math Anxiety in Students With and Without Math Learning Difficulties. International Electronic Journal of Elementary Education, 11(5), 471-475. https://doi.org/10.26822/iejee.2019553343
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Theoretical argument in the introduction, citing Ramirez et al. (2013), that early math anxiety snowballs into avoidance of mathematics courses and careers. The article offers this as a rationale rather than a tested result of this study.
 

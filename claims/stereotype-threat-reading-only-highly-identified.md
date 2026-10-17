@@ -15,12 +15,14 @@ sources:
     author: Pascal Pansu, Isabelle Régner, Sylvain Max, Pascale Colé, John B. Nezlek, Pascal Huguet
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The threat-by-gender pattern in reading occurred only among highly-identified students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The reversal of the gender gap across threat and reduced-threat conditions was obtained only among highly-identified students, consistent with stereotype threat theory. [→ Pascal Pansu 2016](#pascal-pansu-2016)
@@ -31,7 +33,7 @@ sources:
 
 Pascal Pansu, Isabelle Régner, Sylvain Max, Pascale Colé, John B. Nezlek, Pascal Huguet. (2016). A burden for the boys: Evidence of stereotype threat in boys' reading performance. Journal of Experimental Social Psychology, 65, pp.26-30. https://doi.org/10.1016/j.jesp.2016.02.008
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Moderator analysis reported in the same eighty-student third-grade experiment: the article states the threat condition pattern held only among highly-identified students. No effect size or test statistic is printed in the supplied text.
 

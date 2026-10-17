@@ -17,7 +17,7 @@ sources:
 # Incorporate extensive supports, scaffolds, and explicit strategies to minimize memory load during decimal magnitude assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 1 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors recommend that instruction be designed to incorporate extensive supports, scaffolds, and explicit strategies to minimize the amount of information students have to hold in memory to successfully assess decimal magnitude. This recommendation draws on the finding that working memory predicted decimal magnitude outcomes.

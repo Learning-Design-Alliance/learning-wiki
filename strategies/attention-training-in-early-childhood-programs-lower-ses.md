@@ -17,7 +17,7 @@ sources:
 # Include attention regulation and control training in early childhood programs for children from lower socioeconomic backgrounds
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that early childhood programs for children from lower socioeconomic backgrounds may include training in attention regulation and control, hypothesizing that "interventions targeting attention skills may serve as a force-multiplier, leading to improvements in domains outside of attention." This stems from the documented ERP finding of reduced distractor suppression among children of lower maternal education. The strategy is explicitly framed by the authors as a hypothesis for future research, to be investigated through intervention studies within comprehensive programs of systemic change, not as a validatedstandalone remedy.

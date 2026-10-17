@@ -15,12 +15,14 @@ sources:
     author: "Kaya, S., & Karakoc, D."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Academic grit has a significant positive effect on primary students' math achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Academic grit significantly and positively predicts math achievement in primary school students, with a moderate to high effect size. [→ Kaya 2022](#kaya-2022)
@@ -31,7 +33,7 @@ sources:
 
 Kaya, S., & Karakoc, D. (2022). Math Mindsets and Academic Grit: How Are They Related to Primary Math Achievement?. European Journal of Science and Mathematics Education, 10(3), 298-309. https://doi.org/10.30935/scimath/11881
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Cross-sectional SEM with 225 4th-grade students in Istanbul; the article reports the grit-to-achievement path as "significant and positive (β=0.662; p<0.01)" with a moderate to high effect size.
 

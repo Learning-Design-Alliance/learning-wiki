@@ -15,12 +15,14 @@ sources:
     author: "Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Prior mathematical accuracy is the dominant propensity factor: over half of January accuracy variance and under one-fifth of fluency variance predicted June performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` More than half of the variance in January accuracy and less than one-fifth of the variance in January fluency predicted children's mathematics performances in June. [→ Desoete 2019](#desoete-2019)
@@ -31,7 +33,7 @@ sources:
 
 Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J. (2019). Metacognition and motivation as predictors for mathematics performance of Belgian elementary school children. ZDM Mathematics Education, 51, 667–677. https://doi.org/10.1007/s11858-018-01020-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Longitudinal January–June testing of Belgian elementary children. The abstract states "More than half of the variance in accuracy" in January predicted June performance, highlighting the importance of prior mathematical accuracy; no standardized effect size is printed.
 

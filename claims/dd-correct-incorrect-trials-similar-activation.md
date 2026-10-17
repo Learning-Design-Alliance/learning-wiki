@@ -15,12 +15,14 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Correct and incorrect subtraction trials produce similar robust brain activity in DD children, indicating aberrant activation is not driven by error processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Quasi-event-related analysis showed both correct and incorrect trials produced robust activity in bilateral IPS and other hyperactive regions, with none of the trial-type differences overlapping operation-specific group differences. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -31,7 +33,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Quasi-event-related re-analysis of subtraction trials in 15 DD participants (one excluded for degenerate design matrix). Incorrect trials showed greater activity in "the right ventral occipito-temporal cortex, bilateral cerebellum, left thalamus and brainstem", regions distinct from the block-design group differences.
 

@@ -13,16 +13,20 @@ sources:
     title: Martínez-Alcalá CI 2018
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: martínez-alcalá-ci-2018-2
     title: Martínez-Alcalá CI 2018 (2)
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Cumulative correct answers on blended-workshop activities relate to final exam score, but number of attempts does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The cumulative number of correct answers on the eight activities was significantly related to the final examination score (r = 0.51). [→ Martínez-Alcalá CI 2018](#martinez-alcala-ci-2018)
@@ -34,7 +38,7 @@ sources:
 
 Martínez-Alcalá CI, Rosales-Lagarde A, Alonso-Lavernia MÁ, Ramírez-Salvador JÁ, Jiménez-Rodríguez B, Cepeda-Rebollar RM, López-Noguerola JS, Bautista-Díaz ML and Agis-Juárez RA (2018) Digital Inclusion in Older Adults: A Comparison Between Face-to-Face and Blended Digital Literacy Workshops. Front. ICT 5:21. https://doi.org/10.3389/fict.2018.00021
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Correlation analysis in the blended learning group relating cumulative correct answers on the eight activities to the final examination score; r = 0.51, p < 0.01, plotted in Figure 5.
 
@@ -44,7 +48,7 @@ Correlation analysis in the blended learning group relating cumulative correct a
 
 Martínez-Alcalá CI, Rosales-Lagarde A, Alonso-Lavernia MÁ, Ramírez-Salvador JÁ, Jiménez-Rodríguez B, Cepeda-Rebollar RM, López-Noguerola JS, Bautista-Díaz ML and Agis-Juárez RA (2018) Digital Inclusion in Older Adults: A Comparison Between Face-to-Face and Blended Digital Literacy Workshops. Front. ICT 5:21. https://doi.org/10.3389/fict.2018.00021
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Correlation analysis showing number of attempts per activity was not associated with cumulative correct answers or final examination score (r = 0.08, p > 0.10); equivalence was not tested.
 

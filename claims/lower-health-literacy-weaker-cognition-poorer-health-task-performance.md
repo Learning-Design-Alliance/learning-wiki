@@ -15,12 +15,14 @@ sources:
     author: Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Lower health literacy and weaker fluid and crystallized abilities were associated with poorer performance on healthcare tasks spanning comprehending print, recalling spoken and multimedia information, dosing and organizing medication, and healthcare problem-solving. [→ Wolf 2012](#wolf-2012)
@@ -31,7 +33,7 @@ sources:
 
 Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al. (2012). Literacy, Cognitive Function, and Health: Results of the LitCog Study. J GEN INTERN MED. https://doi.org/10.1007/s11606-012-2079-4
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Analysis of performance on common health tasks in the LitCog study (n = 882 older adults), globally assessed and categorized into five task domains including comprehending print information and dosing and organizing medication. The article reports the association without a printed effect size.
 

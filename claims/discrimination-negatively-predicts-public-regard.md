@@ -15,12 +15,14 @@ sources:
     author: Seaton Eleanor K., Yip Tiffany, Sellers Robert M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived racial discrimination at Time 1 is negatively linked to public regard at Time 2 among African American adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` More frequent experiences of racial discrimination at Time 1 were associated with lower public regard (belief that others view Blacks more negatively) at Time 2. [→ Seaton Eleanor K. 2009](#seaton-eleanor-k-2009)
@@ -31,7 +33,7 @@ sources:
 
 Seaton Eleanor K., Yip Tiffany, Sellers Robert M. (2009). A Longitudinal Examination of Racial Identity and Racial Discrimination Among African American Adolescents. Child Development. https://doi.org/10.1111/j.1467-8624.2009.01268.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal SEM analysis of the three-wave sample (N = 219 retained across all waves) testing public regard and discrimination with stability and cross-lag paths; the Time 1 discrimination to Time 2 public regard cross-lag was negative, with model fit reported (χ2 = 30.34, df = 6, CFI = .90, RMSEA = .14). The quote states "more frequent experiences of racial discrimination at Time 1 was associated with lower public regard at Time 2".
 

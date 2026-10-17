@@ -15,12 +15,14 @@ sources:
     author: Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Partial correlations controlling for performance on the other item type showed numerical magnitude processing uniquely explained performance on indirect addition items more than direct subtraction items. [→ Linsen 2014](#linsen-2014)
@@ -31,7 +33,7 @@ sources:
 
 Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association between Children's Numerical Magnitude Processing and Mental Multi-digit Subtraction. Acta Psychologica. https://doi.org/10.1016/j.actpsy.2013.10.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Partial correlational analyses on 56 third-graders' data compared unique contributions of magnitude processing to IA-items versus DS-items. The symbolic comparison task correlated with IA-item response times when controlling for DS-items, but not vice versa; the Williams-Steiger test showed the partial correlations differed significantly (t = -2.89; p < .01).
 

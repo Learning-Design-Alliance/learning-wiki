@@ -15,12 +15,14 @@ sources:
     author: "Hastings, E. C., & West, R. L."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Dispositional performance goals negatively predict memory self-efficacy in younger and older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Participants higher in dispositional performance goals reported lower memory self-efficacy (β = −.22, p<.01). [→ Hastings 2011](#hastings-2011)
@@ -31,7 +33,7 @@ sources:
 
 Hastings, E. C., & West, R. L. (2011). Goal orientation and self-efficacy in relation to memory in adulthood. Neuropsychology, Development, and Cognition. Section B, Aging, Neuropsychology and Cognition, 18(4), 471-493. https://doi.org/10.1080/13825585.2011.575926
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Path from the final SEM of the pooled sample (N=216). Goals and demographics together "explained 16.9% of the variance in memory self-efficacy in the final model".
 

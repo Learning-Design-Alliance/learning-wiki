@@ -15,12 +15,14 @@ sources:
     author: "McCurdy, K., Reagan, E. M., Schram, T., & Rogers, A."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # PK-12 performance assessments are enhanced when performance assessments are also part of teacher preparation, and vice versa
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that performance assessments at the PK-12 level and in teacher preparation mutually enhance one another within a shared, co-created system. [→ McCurdy 2018](#mccurdy-2018)
@@ -31,7 +33,7 @@ sources:
 
 McCurdy, K., Reagan, E. M., Schram, T., & Rogers, A. (2018). Integrating performance assessments across a PK-20 continuum: A locally developed collaboration. Education Policy Analysis Archives, 26(14). http://dx.doi.org/10.14507/epaa.26.3437
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A theoretical argument in the commentary, grounded in the premise of mutual responsibility across policy-making levels; it reports no data. The authors state this bidirectional enhancement as a logical consequence of a PK-20 continuum of performance assessments.
 

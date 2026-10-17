@@ -37,7 +37,7 @@ The article cautions that over-reliance on retrieved empirical findings may beha
 - accurate simulation of developmental trajectories including novel or unexpected behaviors
 
 ### Affordances
-- [Student Development Agent Framework](../research-methods/student-development-agents.md)
+- [Student Development Agent Framework](../research-methods/agent-based-educational-science-aes.md)
 
 ## Claims
 

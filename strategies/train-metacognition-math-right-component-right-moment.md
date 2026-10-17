@@ -17,7 +17,7 @@ sources:
 # Train metacognitive competencies in math as a supplement to spontaneous development, matching the trained component to the developmental moment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends supplementing the spontaneous, partly maturational development of metacognitive skills in math with explicit training programs. It cites IMPROVE, in which "students are taught to use a series of metacognitive questions during math tasks", the WWW&H rule (what activities, When, Why, and How), and the MASTER program for special education. It concludes that "children, varying substantially in intellectual and metacognitive abilities, can benefit from training their metacognitive competencies in math", and that such training "could be very useful as a supplement to spontaneous development, especially if the right component is trained at the right moment in the developmental trajectory".

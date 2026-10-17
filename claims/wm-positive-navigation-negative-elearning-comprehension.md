@@ -15,12 +15,14 @@ sources:
     author: "Burin, D. I., Irrazabal, N., Injoque Ricle, I., Saux, G., & Barreyro, J. P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In e-learning text comprehension, higher working memory and lower self-reported navigation behavior predict better comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a generalized linear regression on comprehension of e-learning science texts (n = 125), working memory (B = 0.214, p = .016) and Navigation (B = −0.345, p = .038) were the only significant predictors. [→ Burin 2018](#burin-2018)
@@ -31,7 +33,7 @@ sources:
 
 Burin, D. I., Irrazabal, N., Injoque Ricle, I., Saux, G., & Barreyro, J. P. (2018). Self-reported internet skills, previous knowledge and working memory in text comprehension in E-learning. International Journal of Educational Technology in Higher Education, 15:18. https://doi.org/10.1186/s41239-018-0099-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Study 2 generalized linear regression (normal distribution, identity link) predicting z-scored comprehension total in 125 college students who read high- and low-knowledge expository texts in a Moodle course accessed remotely. The overall model was significant, "Likelihood ratio test χ2 (8) = 17.04, p = .03"; higher WM and lower Navigation scores were associated with better comprehension.
 

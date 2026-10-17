@@ -17,7 +17,7 @@ sources:
 # Attentional training interventions may improve public speaking performance for speech-anxious individuals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors suggest that "interventions aimed at improving public speaking might focus on the role of attention." They review evidence that attentional training can improve emotion regulation through meditative techniques, auditory attentional training, and dot probe tasks that train focus toward or away from information of particular valence. Because these techniques appear to influence the alerting system of attention, which functions highly automatically, training could help meet the self-regulatory demands of public speaking without requiring effortful implementation during the speech itself.

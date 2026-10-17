@@ -15,12 +15,14 @@ sources:
     author: "Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Latent profile analysis of kindergarten pre-reading measures yields six distinct performance profiles, including PA risk, RAN risk, and double-deficit risk groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LPA on PA, RAN, LSK, and VSTM measures in 1,215 kindergarten/pre-k children identified six profiles: average, low-average, high performers, PA risk, RAN risk, and double deficit risk. [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ozernov-Palchik, O., Norton, E. S., Sideridis, G., Beach, S. D., Wolf, M., Gabrieli, J. D. E., & Gaab, N. (2017). Longitudinal stability of pre-reading skill profiles of kindergarten children: Implications for early screening and theories of reading. Developmental Science. https://doi.org/10.1111/desc.12471
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Latent profile analysis of a diverse sample of 1,215 kindergarten and pre-kindergarten students from 20 schools; model comparison favored a 6-class solution, as "Six profiles of performance emerged from the data" spanning average, high, and three risk profiles.
 

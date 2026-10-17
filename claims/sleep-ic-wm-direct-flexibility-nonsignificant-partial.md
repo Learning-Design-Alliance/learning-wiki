@@ -15,12 +15,14 @@ sources:
     author: Chen Y, Wang Y, Wang S, Zhang M and Wu N.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Sleep's association with inhibitory control and working memory remains significant after controlling for the other EF components, but cognitive flexibility's does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Partial correlations controlling for the other two EF components, sex, and age remain significant for inhibitory control (r = −0.272) and working memory (r = −0.213) but not for cognitive flexibility (r = −0.086, p = 0.227). [→ Chen Y 2021](#chen-y-2021)
@@ -31,7 +33,7 @@ sources:
 
 Chen Y, Wang Y, Wang S, Zhang M and Wu N. (2021). Self-Reported Sleep and Executive Function in Early Primary School Children. Front. Psychol. 12:793000. https://doi.org/10.3389/fpsyg.2021.793000
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Partial correlation analyses in the same 204-child sample, controlling for the other two EF subcomponents plus sex and age. The article reports inhibitory control "its correlation with sleep held" and working memory significant, while cognitive flexibility showed "no significant association with sleep"; equivalence was not tested.
 

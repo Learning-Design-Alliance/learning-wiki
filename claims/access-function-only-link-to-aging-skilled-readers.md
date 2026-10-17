@@ -15,12 +15,14 @@ sources:
     author: "Chiappe, P., Hasher, L., & Siegel, L. S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Age-related decline in span is associated only with the access function of inhibition, and only among skilled readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` CNF intrusions were more frequent among participants older than 29, consistent with access-function decline, but this age relation was restricted to skilled readers. [→ Chiappe 2000](#chiappe-2000)
@@ -31,7 +33,7 @@ sources:
 
 Chiappe, P., Hasher, L., & Siegel, L. S. (2000). Working memory, inhibitory control, and reading disability. Memory & Cognition, 28(1), 8-17. https://doi.org/10.3758/bf03211570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 General discussion of the blocked-format error analyses. The article reports the CNF-age relation was restricted to skilled readers; among disabled readers CNF errors were unrelated to age, and P and E intrusions showed no age-related decline.
 

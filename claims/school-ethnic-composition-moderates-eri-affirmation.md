@@ -15,12 +15,14 @@ sources:
     author: "Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # School ethnic composition moderates change in ERI affirmation during adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Among Latino adolescents, ethnic identity affirmation may increase significantly from middle to late adolescence for youth attending predominantly White schools, but may not change over time among youth attending schools where most students are ethnic minority group members. [→ Umaña-Taylor 2014](#umana-taylor-2014)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T. (2014). Ethnic and Racial Identity During Adolescence and Into Young Adulthood: An Integrated Conceptualization. Child Development. https://doi.org/10.1111/cdev.12196
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports two school-composition findings: affirmation "may increase significantly from middle to late adolescence for youth attending predominantly White schools" (citing Umaña-Taylor et al., 2009), while it "may not change over time" in majority-minority schools (citing Pahl & Way, 2006). No effect sizes are printed.
 

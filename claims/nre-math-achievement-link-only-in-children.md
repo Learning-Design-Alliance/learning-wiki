@@ -15,12 +15,14 @@ sources:
     author: Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A reliable positive relationship between parietal NRE and math achievement appears only in children, not adolescents or adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only children (6-12 years) produced a reliable positive math achievement effect in the IPS bilaterally and extensive right parietal cortex; adolescents and adults showed no reliable parietal link except a left precuneus effect in adults. [→ Haist Frank 2015](#haist-frank-2015)
@@ -31,7 +33,7 @@ sources:
 
 Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha. (2015). Development of brain systems for nonsymbolic numerosity and the relationship to formal math academic achievement. Human brain mapping. https://doi.org/10.1002/hbm.22666
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Separate whole-brain regression analyses per age group (children, adolescents, adults) with age, FSIQ, and Letter-Word ID as covariates, using achievement data from 43 participants. The finding that "only children produced a reliable positive math achievement effect in the IPS bilaterally" drives the full-sample parietal result.
 

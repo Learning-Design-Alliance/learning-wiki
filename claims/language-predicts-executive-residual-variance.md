@@ -15,12 +15,14 @@ sources:
     author: "Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` At every age point, language proficiency predicted residual variance in executive task performance beyond processing speed, with stronger associations for tasks with more verbal content. [→ Clark 2014](#clark-2014)
@@ -31,7 +33,7 @@ sources:
 
 Clark, C. A. C., Nelson, J. M., Garza, J., Sheffield, T. D., Wiebe, S. A., & Espy, K. A. (2014). Gaining control: changing relations between executive control and processing speed and their relevance for mathematics achievement over course of the preschool period. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00107
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 In the age-3 multidimensional model, executive task residuals were regressed on the Verbal Comprehension subtest to covary language proficiency. Most executive measures related significantly to language, with higher associations for "tasks with more verbal content (i.e., Shape School, Nebraska Barnyard)"; the discussion states this held at all age points.
 

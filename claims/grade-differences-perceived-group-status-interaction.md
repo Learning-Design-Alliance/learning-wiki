@@ -15,12 +15,14 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Fourth graders report lower perceived group status than second graders, qualified by an ethnicity × grade interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Fourth graders reported lower status perceptions than second graders, and this main effect was qualified by an ethnicity × grade interaction. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 ANOVA on perceived group status across grade levels. The study reports "fourth graders (M = 1.36, SD = 1.13) reported lower status perceptions than second graders (M = 1.49, SD = 1.11)" and an "interaction between ethnicity and grade on status".
 

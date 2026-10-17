@@ -15,12 +15,14 @@ sources:
     author: Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children show initially reduced DLPFC activation relative to adults for REL-1 and REL-2 trials, but sustained DLPFC activation for REL-1 problems in the later trial phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A strong group x condition x timepoint interaction in DLPFC reflected children's late REL-1 activation and adults' larger early REL-2 peak. [→ Crone Eveline A. 2009](#crone-eveline-a-2009)
@@ -31,7 +33,7 @@ sources:
 
 Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A. (2009). Neurocognitive development of relational reasoning. Developmental Science, 12(1), 55-66. https://doi.org/10.1111/j.1467-7687.2008.00743.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ROI timecourse analysis of left DLPFC in the same participants. The interaction "F (16, 480) = 2.62, p < .005" was driven by an increased peak activation in adults relative to children for the REL-2 condition (F(1,30) = 5.20, p < .05); children showed sustained DLPFC for REL-1.
 

@@ -15,12 +15,14 @@ sources:
     author: "Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children who first learned the efficient method switched to the observed inefficient method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 81% of children in the Efficient first condition switched from the efficient to the inefficient method, all in Phase 2. [→ Davis 2022](#davis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H. (2022). Cognitive flexibility supports the development of cumulative cultural learning in children. Scientific Reports. https://doi.org/10.1038/s41598-022-18231-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the Efficient first control condition, "52 (81%) children switched from the efficient to the inefficient method once they witnessed E1 use it"; all switching occurred in Phase 2 and none in Phase 3 when the door was locked.
 

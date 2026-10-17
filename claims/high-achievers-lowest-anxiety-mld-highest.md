@@ -15,12 +15,14 @@ sources:
     author: Yılmaz Mutlu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # High achievers show the lowest math anxiety and MLD students the highest across achievement groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Group-level results show the HA group has the lowest math anxiety score and the MLD group the highest. [→ Yılmaz Mutlu 2019](#ylmaz-mutlu-2019)
@@ -31,7 +33,7 @@ sources:
 
 Yılmaz Mutlu. (2019). Math Anxiety in Students With and Without Math Learning Difficulties. International Electronic Journal of Elementary Education, 11(5), 471-475. https://doi.org/10.26822/iejee.2019553343
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Group-level comparison of math and math anxiety scores plotted by achievement group (Figure 2) for the 288 third graders. The text states "the HA group has the lowest math anxiety score, while the MLD group has the highest math anxiety."
 

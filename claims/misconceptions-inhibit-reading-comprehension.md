@@ -13,16 +13,20 @@ sources:
     title: Reid Smith 2021
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: reid-smith-2021-2
     title: Reid Smith 2021 (2)
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When text contradicts prior knowledge, children preference prior knowledge; low-skill readers omit contradictory information and replace it with their misconception in recall. [→ Reid Smith 2021](#reid-smith-2021)
@@ -34,7 +38,7 @@ sources:
 
 Reid Smith, Pamela Snow, Tanya Serry & Lorraine Hammond (2021) The Role of Background Knowledge in Reading Comprehension: A Critical Review, Reading Psychology, 42:3, 214-240, https://doi.org/10.1080/02702711.2021.1888348
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports Lipson (1982): children relied more heavily on prior knowledge than on the text when information contradicted prior knowledge, with low-skill readers substituting misconceptions in recall.
 
@@ -44,7 +48,7 @@ Review reports Lipson (1982): children relied more heavily on prior knowledge th
 
 Reid Smith, Pamela Snow, Tanya Serry & Lorraine Hammond (2021) The Role of Background Knowledge in Reading Comprehension: A Critical Review, Reading Psychology, 42:3, 214-240, https://doi.org/10.1080/02702711.2021.1888348
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review reports Holmes (1983) replication with above/below-average readers, showing differential ability to detect and resolve text-knowledge inconsistencies.
 

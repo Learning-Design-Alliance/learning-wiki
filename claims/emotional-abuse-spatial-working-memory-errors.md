@@ -15,12 +15,14 @@ sources:
     author: Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Emotional abuse exposure is associated with more double errors in the Spatial Working Memory test in healthy adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Higher emotional abuse scores were significantly associated with a higher number of double errors in the Spatial Working Memory test. [→ Majer M 2010](#majer-m-2010)
@@ -31,7 +33,7 @@ sources:
 
 Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC. (2010). Association of childhood trauma with cognitive function in healthy adults: a pilot study. BMC Neurology. https://doi.org/10.1186/1471-2377-10-61
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple linear regression analysis in a pilot study of 47 healthy adults found that the emotional abuse score of the CTQ was significantly associated with the number of double errors in the Spatial Working Memory test, with the association "significantly associated with the number of double errors".
 

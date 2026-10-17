@@ -15,12 +15,14 @@ sources:
     author: Lerner Matthew D., Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with higher initial letter-name knowledge show faster growth in phonological awareness across the preschool year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Initial letter-name knowledge uniquely predicted growth in phonological awareness (blending, elision, rhyme, and composite factors) after controlling for age, initial phonological awareness, vocabulary, and growth in letter knowledge. [→ Lerner Matthew D. 2016](#lerner-matthew-d-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lerner Matthew D., Lonigan Christopher J. (2016). Bidirectional Relations between Phonological Awareness and Letter Knowledge in Preschool Revisited: A Growth Curve Analysis of the Relation between Two Code-Related Skills. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2015.09.023
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal growth curve modeling of 358 preschoolers assessed at three time points (beginning, middle, end of preschool year); the predictive models controlled for age, initial level of the same factor, vocabulary, and growth in letter-name knowledge. The article reports that children with "higher initial levels of letter-name knowledge experienced faster growth in phonological awareness."
 

@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E.; Hayes Heather
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q3 i?` Duration of deafness was the only significant step-1 predictor (negative influence), and in step 2 gender, PIQ, and sign enhancement were significant, with students whose vocabulary was not enhanced by sign achieving the highest literacy. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E.; Hayes Heather. (2011). Reading, Writing, and Phonological Processing Skills of Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://doi.org/10.1097/AUD.0b013e3181fa41fa
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Step-wise regression on 112 CI-HS students (Table 4). Child characteristics entered first accounted for 8.6% of variance, with duration of deafness the only significant predictor and its influence negative, suggesting long-term literacy benefits of early implantation. "Students with higher PIQ scores and those whose receptive vocabulary was not enhanced by addition of sign language obtained the highest literacy levels in high school".
 

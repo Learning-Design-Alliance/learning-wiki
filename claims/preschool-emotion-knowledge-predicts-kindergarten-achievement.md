@@ -15,12 +15,14 @@ sources:
     author: "Torres, M. M., Domitrovich, C. E., & Bierman, K. L."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Preschool emotion knowledge predicts kindergarten academic achievement one year later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Emotion knowledge at the end of preschool significantly predicted kindergarten achievement (β = .37, p < .01) controlling for baseline measures. [→ Torres 2015](#torres-2015)
@@ -31,7 +33,7 @@ sources:
 
 Torres, M. M., Domitrovich, C. E., & Bierman, K. L. (2015). Preschool Interpersonal Relationships Predict Kindergarten Achievement: Mediated by Gains in Emotion Knowledge. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.04.008
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Final SEM path in the 164-child Head Start longitudinal sample; spring preschool emotion knowledge predicted end-of-kindergarten achievement, "significant (β = .37, p < .01)", while the direct relationship path became non-significant. Baseline cognitive ability, emotion knowledge, and achievement were covariates.
 

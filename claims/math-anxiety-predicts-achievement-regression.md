@@ -15,12 +15,14 @@ sources:
     author: Yılmaz Mutlu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Math anxiety predicts mathematics achievement in linear regression (R2=.357)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A significant linear regression predicts math achievement from math anxiety, with R2 of .357. [→ Yılmaz Mutlu 2019](#ylmaz-mutlu-2019)
@@ -31,7 +33,7 @@ sources:
 
 Yılmaz Mutlu. (2019). Math Anxiety in Students With and Without Math Learning Difficulties. International Electronic Journal of Elementary Education, 11(5), 471-475. https://doi.org/10.26822/iejee.2019553343
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Linear regression analysis predicting mathematics achievement from math anxiety in the same 288-student sample. "A significant regression equation was found" with F(1,286)= 158.691, p< .000, R2=.357; achievement decreased -6.611 per unit of anxiety.
 

@@ -15,12 +15,14 @@ sources:
     author: "Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten writing fluency does not mediate the relations between kindergarten component skills and first-grade writing outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After accounting for component skills' direct effects, kindergarten writing was not predictive of first-grade quality (γ = .00, p = .99) or fluency (γ = .12, p = .24), so component-skill relations were direct rather than mediated. [→ Kent 2014](#kent-2014)
@@ -31,7 +33,7 @@ sources:
 
 Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writing fluency and quality in kindergarten and first grade: The role of attention, reading, transcription, and oral language. Reading and Writing, 27(7), 1163-1188. https://doi.org/10.1007/s11145-013-9480-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Full SEM with direct and indirect effects (Model 4) in the same cohort, testing whether kindergarten compositional fluency mediated component-skill effects on first-grade writing. Despite moderate factor correlations (r = .37 quality, r = .52 fluency), mediation was not supported.
 

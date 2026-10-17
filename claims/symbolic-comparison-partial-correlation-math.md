@@ -15,12 +15,14 @@ sources:
     author: Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only symbolic number comparison total accuracy showed a significant partial correlation with math; other number sense measures showed none. [→ Szűcs Dénes 2014](#szucs-denes-2014)
@@ -31,7 +33,7 @@ sources:
 
 Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2014). Cognitive components of a mathematical processing network in 9-year-old children. Developmental Science. https://doi.org/10.1111/desc.12144
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Partial correlation analysis in the 98-child sample; the sole number sense measure with a significant partial correlation with math was "the percentage of correct solutions in the symbolic number discrimination task" (partial r = 0.28, Table 1).
 

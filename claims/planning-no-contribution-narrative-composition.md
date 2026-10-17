@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Planning shows no contribution to any level of narrative composition in fourth graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Planning did not significantly predict text length, syntactic complexity, or story content. [→ Drijbooms 2015](#drijbooms-2015)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2015). The contribution of executive functions to narrative writing in fourth grade children. Reading and Writing. https://doi.org/10.1007/s11145-015-9558-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Path analysis and regressions in 102 fourth graders; "The contribution of planning to the transcription and writing performance outcomes was not signiﬁcant". Authors suggest planning develops late and the picture-elicitation task may reduce planning demands.
 

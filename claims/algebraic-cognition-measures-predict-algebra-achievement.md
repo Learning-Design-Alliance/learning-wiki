@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Each of the three algebraic cognition measures independently predicts algebra achievement, controlling demographic and domain-general covariates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Equation memory, coordinate plane PAE, and expression evaluation speed and accuracy each predicted algebra achievement in independent regressions (βs = .170 to .349) and when simultaneously entered (βs = .100 to .272). [→ Geary David C. 2015](#geary-david-c-2015)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N. (2015). Individual Differences in Algebraic Cognition: Relation to the Approximate Number and Sematic Memory Systems. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2015.07.010
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 External validity regressions in the 171-student sample, controlling parental education, sex, reading, processing speed, intelligence, and central executive. Each algebraic cognition measure "predicts algebra achievement in independent regression equations" (βs = .170 to .349); reading and intelligence were the only consistent covariate predictors.
 

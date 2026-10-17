@@ -10,29 +10,28 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|
 | Claims | 17,591 |
 | Evidence entries | 20,907 |
-| Distinct studies | 5,068 |
+| Distinct studies | 5,058 |
 | Claims resting on one study | 17,117 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,013 of 5,068 (20%) |
+| Studies reporting an effect size | 1,013 of 5,058 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 543 | 205 | 329 | 1,144 |
-| quant-synthesis | 60 | 113 | 38 | 118 | 329 |
-| review | 79 | 322 | 91 | 123 | 615 |
-| associational | 32 | 618 | 280 | 249 | 1,179 |
-| qualitative | 102 | 259 | 64 | 82 | 507 |
+| causal | 67 | 559 | 212 | 332 | 1,170 |
+| quant-synthesis | 60 | 114 | 38 | 118 | 330 |
+| review | 81 | 325 | 90 | 123 | 619 |
+| associational | 44 | 686 | 291 | 252 | 1,273 |
+| qualitative | 103 | 260 | 64 | 82 | 509 |
 | design | 49 | 504 | 130 | 30 | 713 |
-| theoretical | 83 | 255 | 49 | 53 | 440 |
-| not yet coded | | | | | 141 |
+| theoretical | 84 | 258 | 49 | 53 | 444 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 684 (13%) | 3,079 (61%) | 1,184 (23%) | 121 (2%) |
+| 683 (14%) | 3,076 (61%) | 1,178 (23%) | 121 (2%) |
 
 **Studies per claim:** 0: 0, 1: 17,117, 2: 392, 3: 66, 4 or more: 16.
 
@@ -88,14 +87,14 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 170 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 170 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 151 pages | 3 | q3 | 1 of 3 |
-| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 125 pages | 2 | q2–q3 | 0 of 2 |
+| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 126 pages | 2 | q2–q3 | 0 of 2 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 107 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 89 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 84 pages | 6 | q2–q3 | 1 of 6 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
-| [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3 | 0 of 3 |
+| [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
 
 Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
@@ -103,14 +102,14 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-261 claims are cited both ways.
+271 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 125 | 81 | 140 | 2 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 20 | 15 | 49 | 6 |
 | [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 318 | 42 | 19 | 3 |
-| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 24 | 25 | 18 | 3 |
+| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 25 | 25 | 18 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 491 | 64 | 17 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 2 | 1 | 12 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 21 | 5 | 11 | 4 |
@@ -121,12 +120,12 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 378 | 9 | 5 | 2 |
 | [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 2 | 6 | 5 | 2 |
 | [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](claims/psi-effect-increases-with-grade-level.md) | 1 | 1 | 5 | 1 |
+| [Executive functions do not directly predict syntactic complexity or story content once …](claims/ef-no-direct-effect-syntactic-complexity-story-content.md) | 1 | 0 | 4 | 1 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 2 | 1 | 4 | 1 |
 | [Redundant on-screen text impairs learning when it competes with a visualization, though …](claims/redundancy-principle.md) | 6 | 8 | 4 | 1 |
-| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 8 | 9 | 4 | 5 |
+| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 8 | 10 | 4 | 5 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 61 | 10 | 4 | 1 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 205 | 18 | 3 | 2 |
-| [Applying skill theory to grammar conflates constructs: pedagogical rules are not what …](claims/grammar-as-skill-is-a-conflation.md) | 1 | 1 | 3 | 1 |
 
 ## Evidence by kind of page
 
@@ -137,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,872 | 2,580 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,872 | 2,621 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
-| [theories](theories/index.md) | 1,361 | 888 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 74 | 72 | 31.5 | 0 |
-| [designs](designs/index.md) | 789 | 464 | 1 | 0 |
-| [products](products/index.md) | 1,646 | 1,107 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 491 | 347 | 1 | 0 |
+| [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 74 | 74 | 33 | 0 |
+| [designs](designs/index.md) | 797 | 467 | 1 | 0 |
+| [products](products/index.md) | 1,665 | 1,120 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 478 | 339 | 1 | 0 |
 
 ## Toward pooled estimates
 

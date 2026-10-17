@@ -15,12 +15,14 @@ sources:
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Nonsymbolic exact addition is predicted by the VSSP plus the CE and symbolic number line estimation, suggesting an alternate transcoding to the symbolic code
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Beyond the VSSP, symbolic number line estimation and the CE explained significant variance in nonsymbolic exact addition. [→ Xenidou-Dervou 2014](#xenidou-dervou-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Stepwise regression on the nonsymbolic exact task; the VSSP was the best WM predictor (t(102) = 5.89, p < .001) and "the symbolic mental number line predictor, t(102) = -3.73, p < .001 and the CE, t(102) = 2.00, p = .049 also explained significant variance".
 

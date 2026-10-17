@@ -15,12 +15,14 @@ sources:
     author: "Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha"
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Multidigit numeral interpretation improves with age, with second graders outperforming first graders and kindergarteners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A significant grade main effect (ηp2=.42) reflected improvement across grades, with second graders outperforming both younger groups. [→ Mix 2014](#mix-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mix, Kelly S., Prather, Richard W., Smith, Linda B., & Stockton, Jerri DaSha. (2014). Young Children's Interpretation of Multidigit Number Names: From Emerging Competence to Mastery. Child Development. https://doi.org/10.1111/cdev.12197
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Repeated measures ANOVA in Experiment 1 (n = 91) showed a significant main effect of grade, F(2, 264) = 94.37, p < .001, ηp2=.42. Bonferroni t tests showed "second graders (M = 0.87, SD = .10) outperformed both first graders (M = 0.81, SD = .12)" and kindergarteners (M = 0.66).
 

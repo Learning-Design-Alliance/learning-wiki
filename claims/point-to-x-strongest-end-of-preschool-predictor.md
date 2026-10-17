@@ -15,12 +15,14 @@ sources:
     author: "Moore, A. M., vanMarle, K., & Geary, D. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Point-to-x is the most consistent end-of-preschool predictor of kindergarten number sets performance across item types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` At the end of preschool, dropping point-to-x from the best Bayes model left a model only .3% as probable, and it remained significant for overall, nonsymbolic, and mixed item sets even with mathematics achievement controlled. [→ Moore 2016](#moore-2016)
@@ -31,7 +33,7 @@ sources:
 
 Moore, A. M., vanMarle, K., & Geary, D. C. (2016). Kindergartners' Fluent Processing of Symbolic Numerical Magnitude is Predicted by Their Cardinal Knowledge and Implicit Understanding of Arithmetic Two Years Earlier. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2016.05.003
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bayes factor analysis of end-of-preschool predictors in the same longitudinal sample: the best model included nonverbal calculation, point-to-x, and numeral recognition, but excluding point-to-x left a model only ".3% as probable", marking it as the critical predictor.
 

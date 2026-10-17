@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E., Sedey Allison L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal reasoning subtest scores of long-term CI users increased from elementary grades to high school beyond expected age-related growth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Information and Similarities scaled scores increased significantly from CI-E to CI-HS, indicating growth exceeding one year's growth in a year relative to hearing age-mates. [→ Geers Ann E. 2011](#geers-ann-e-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E., Sedey Allison L. (2011). Language and Verbal Reasoning Skills in Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal comparison of the same 112 students tested at ages 8-9 (CI-E) and in high school (CI-HS); repeated-measures F tests on WISC-III subtest scaled scores, with Information F (1, 90) = 52.9 and Similarities F (1,111) = 38.9, both p <.0001. Percent within expectation rose from 64% to 81% (Similarities) and 49% to 86% (Information).
 

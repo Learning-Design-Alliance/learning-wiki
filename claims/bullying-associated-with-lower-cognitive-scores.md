@@ -15,12 +15,14 @@ sources:
     author: "Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bullied preadolescent children have lower cognitive scores than non-bullied peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bullied children scored lower on 7 of 10 NIH Toolbox Cognitive domains than non-bullied children. [→ Menken 2022](#menken-2022)
@@ -31,7 +33,7 @@ sources:
 
 Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L. (2022). Peer victimization (bullying) on mental health, behavioral problems, cognition, and academic performance in preadolescent children in the ABCD Study. Frontiers in Psychology, 13, 925727. https://doi.org/10.3389/fpsyg.2022.925727
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional ABCD analysis using the NIH Toolbox Cognition Battery. The study reports "Children in the bullied group had lower scores on 7 of 10 NIH Toolbox Cognitive domains" with cognition total differences of 1.1 for boys and 1.7 for girls, both p < 0.001.
 

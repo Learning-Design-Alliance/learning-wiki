@@ -15,12 +15,14 @@ sources:
     author: Stevens Courtney, Lauinger Brittni, Neville Helen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The group difference in neural attentional modulation is tied to reduced distractor suppression in the unattended channel, not to differences in response to attended stimuli
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Children of lower maternal education showed a larger-amplitude response to unattended-channel probes, indicating reduced suppression; the two groups did not differ in the attended-channel response. [→ Stevens Courtney 2009](#stevens-courtney-2009)
@@ -31,7 +33,7 @@ sources:
 
 Stevens Courtney, Lauinger Brittni, Neville Helen. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Supplemental direct comparison of the two maternal education groups on attended vs. unattended probe amplitudes in the 32-child ERP study. The higher maternal education group had "a smaller amplitude response to probes in the unattended channel" than the lower group, indicating better suppression; unattended probe response differed, "independent samples t(30) = −2.87, P < .01".
 

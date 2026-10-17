@@ -16,7 +16,7 @@ sources:
 # Develop information and education programmes to improve integration of children with mental health problems, tailored to condition type
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 5 studies (4 associational, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends developing information and education programmes aimed at improving how children with mental health problems are integrated among peers. Because the study found that acceptance depends on the type of mental health problem, such programmes should account for differences between conditions such as depression and ADHD. The article states the findings "have implications for the development of information and education programmes to improve the integration of children with mental health problems."

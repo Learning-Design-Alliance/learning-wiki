@@ -12,7 +12,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (29 show a difference, 12 mixed, 15 no difference) · 43 studies (12 causal, 12 quant-synthesis, 11 review, 5 associational, 2 theoretical, 1 design), `q1`–`q3` · 15 of 43 report an effect size · 53 claims rest on one study
+> **Evidence** · 66 claims (35 show a difference, 13 mixed, 18 no difference) · 51 studies (13 associational, 12 causal, 12 quant-synthesis, 11 review, 2 theoretical, 1 design), `q1`–`q3` · 16 of 51 report an effect size · 63 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.

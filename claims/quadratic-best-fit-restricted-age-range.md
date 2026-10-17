@@ -15,12 +15,14 @@ sources:
     author: "Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In the age-restricted PSID-CDS comparison analysis, the cubic coefficient was non-significant and the quadratic form was the best fitting model. [→ Ahmed 2022](#ahmed-2022)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E. (2022). Working memory development from early childhood to adolescence using two nationally representative samples. Developmental Psychology. https://doi.org/10.1037/dev0001396
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Comparison analysis restricting PSID-CDS to ages 6–11 to mirror ECLS-K:2011: "the cubic coefficient was non-significant (b = 0.015, p = .208)", so the quadratic form with b = −0.101, p < .001 was selected.
 

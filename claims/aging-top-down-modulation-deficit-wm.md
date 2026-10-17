@@ -15,12 +15,14 @@ sources:
     author: Gazzaley A, Nobre AC
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Age-related deficits in top-down modulation underlie much of older adults' working memory impairment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Older adults fail to gain WM benefits from predictive cues, show selective suppression deficits at early visual processing stages, and are disproportionately harmed by multitasking during maintenance. [→ Gazzaley A 2012](#gazzaley-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Box 1 review synthesis of cognitive aging studies. The review reports that "there is accumulating evidence that impaired selective attention processes in aging underlie much of the WM deficits experienced by older adults", including expectation deficits, suppression deficits, and poor disengagement from interruptions.
 

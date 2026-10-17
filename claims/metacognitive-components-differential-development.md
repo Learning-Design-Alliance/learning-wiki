@@ -15,12 +15,14 @@ sources:
     author: "Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Metacognitive components differ in developmental trajectory: planning and evaluation grow in quantity and quality, orientation quantity decreases, and elaboration grows in frequency but not quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Quantity and quality of planning and evaluation activities increased significantly between 13 and 15 years. [→ Van der Stel 2010](#van-der-stel-2010)
@@ -32,7 +34,7 @@ sources:
 
 Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J. (2010). The increasing role of metacognitive skills in math: a cross-sectional study from a developmental perspective. ZDM Mathematics Education, 42, 219–229. https://doi.org/10.1007/s11858-009-0224-2
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Univariate tests on the four metacognition subscales (Table 2) show significant growth for planning and evaluation; the article reports "a significant growth of both the quantity and the quality of planning and evaluation activities".
 

@@ -15,12 +15,14 @@ sources:
     author: Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Average pointing error increases linearly with age across younger and older adults in a real-world low-vision navigation task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In a cross-age regression, each additional year of age predicted higher average pointing error, indicating overall spatial learning declines with age. [→ Barhorst-Cates Erica M. 2017](#barhorst-cates-erica-m-2017)
@@ -31,7 +33,7 @@ sources:
 
 Barhorst-Cates Erica M., Rand Kristina M., Creem-Regehr Sarah H. (2017). Let Me be Your Guide: Physical Guidance Improves Spatial Learning for Older Adults with Simulated Low Vision. Experimental Brain Research. https://doi.org/10.1007/s00221-017-5063-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Cross-age comparison combining 12 older adults with younger-adult data from Rand et al. (2015) Experiment 5 (413 younger adults per the article's cross-age sample description; age data from 41 of 46). Descriptive means: younger guided 19.08°, unguided 22.59°; older guided 26.71°, unguided 36.58°.
 

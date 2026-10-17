@@ -15,12 +15,14 @@ sources:
     author: "Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Balance training improves memory in healthy adults relative to relaxation training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` After 12 weeks, the balance group showed higher adjusted memory scores than the relaxation group (d = 0.47). [→ Rogge 2017](#rogge-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & Hötting, K. (2017). Balance training improves memory and spatial cognition in healthy adults. Scientific Reports 7:5661. https://doi.org/10.1038/s41598-017-06071-9
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 In the randomized controlled trial, ANCOVA of posttest memory (auditory verbal paired-associate learning) adjusted for pretest and age showed the balance group higher than relaxation: "group difference = 1.60, 95% CI = [0.05, 3.05], d = 0.47".
 

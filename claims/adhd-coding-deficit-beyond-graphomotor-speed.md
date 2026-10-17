@@ -15,12 +15,14 @@ sources:
     author: "Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with ADHD perform worse than controls on WISC-IV Coding but not on Coding Copy, indicating deficits beyond graphomotor speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with ADHD scored significantly lower than controls on WISC-IV Coding (ΔR2 = .177, p < .001) but did not differ on Coding Copy (ΔR2 = .000, p = .909). [→ Jacobson 2011](#jacobson-2011)
@@ -31,7 +33,7 @@ sources:
 
 Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M. (2011). Working Memory Influences Processing Speed and Reading Fluency in ADHD. Child Neuropsychology. https://doi.org/10.1080/09297049.2010.532204
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In a cross-sectional comparison of 41 children with ADHD and 21 controls (ages 9-14), regression controlling for sex showed "significant group differences (ADHD < control) on the Coding subtest (ΔR2 = .177, p < .001)". Coding Copy showed no group difference (ΔR2 = .000, p = .909).
 

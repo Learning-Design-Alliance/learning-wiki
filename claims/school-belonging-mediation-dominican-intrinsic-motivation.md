@@ -15,12 +15,14 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Only school belonging mediated the difference in intrinsic motivation, and only between Dominican and European-American children. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Baron and Kenny mediational analyses regressing intrinsic motivation on ethnicity and public regard, then testing school belonging and centrality as mediators. The article reports "only school belonging mediated the difference in intrinsic motivation" and "this mediation was only for the difference in intrinsic motivation between Dominican and European-American children".
 

@@ -15,12 +15,14 @@ sources:
     author: Demir, Bora
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The episodic buffer integrates multimodal representations from WM components and long-term memory, which is important for learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The episodic buffer uses multimodal codes to integrate representations from WM components and long-term memory into unitary representations, a function the article states is important for learning. [→ Demir 2021](#demir-2021)
@@ -31,7 +33,7 @@ sources:
 
 Demir, Bora. (2021). Working Memory Model and Language Learning. Shanlax International Journal of Education. https://doi.org/10.34293/education.v9iS2-Sep.4366
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review statement quoting Dehn (2008, p. 25). The EB was added as a fourth component after Baddeley observed amnesic patients retrieving stories that could not be stored in the phonological loop; no effect size is printed.
 

@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: houck-2011
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: 2
+    kind: associational
+    rigour: "?"
 ---
 
 # Total behavior problems show a moderate negative correlation with self-concept in children with ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` The CBCL total problem score correlates moderately and negatively with total self-concept score (r = -.20, p = .01). [→ Houck 2011](#houck-2011)
@@ -28,9 +31,9 @@ sources:
 
 ### Houck 2011
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
-`q2 · i2`
+`q2 · i2` · `associational · r?`
 
 Correlation analysis in the same descriptive correlational study of 145 children with ADHD, relating maternal CBCL total problem scores to child-reported Piers-Harris self-concept totals. The article reports a "moderate negative correlation."
 

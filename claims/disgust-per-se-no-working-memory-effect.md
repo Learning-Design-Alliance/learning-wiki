@@ -15,12 +15,14 @@ sources:
     author: "Scheibe, S., & Blanchard-Fields, F."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The experience of disgust per se does not affect the trajectory of working memory performance in either young or older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Comparing the no-instructions control with the neutral control condition revealed no interaction effects involving age or condition on N-Back performance. [→ Scheibe 2009](#scheibe-2009)
@@ -31,7 +33,7 @@ sources:
 
 Scheibe, S., & Blanchard-Fields, F. (2009). Effects of Regulating Emotions on Cognitive Performance: What Is Costly for Young Adults Is not so Costly for Older Adults. Psychology and Aging, 24(1), 217-223. https://doi.org/10.1037/a0013807
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Planned comparison within the repeated-measures ANOVA contrasting the disgust no-instructions condition with the neutral film condition. The article reports that "No interaction effects involving age or condition were found"; equivalence was not directly tested. Participants in all groups increased performance from baseline to T1 and remained stable thereafter.
 

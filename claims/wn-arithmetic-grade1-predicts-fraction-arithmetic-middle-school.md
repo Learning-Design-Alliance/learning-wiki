@@ -15,12 +15,14 @@ sources:
     author: Bailey Drew H., Siegler Robert S., Geary David C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # First graders' whole number arithmetic knowledge predicts seventh graders' fraction arithmetic knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling for whole number magnitude knowledge and other first-grade variables, fraction arithmetic in middle school was uniquely predicted by whole number arithmetic in first grade, β = .29, p < .001. [→ Bailey Drew H. 2014](#bailey-drew-h-2014)
@@ -31,7 +33,7 @@ sources:
 
 Bailey Drew H., Siegler Robert S., Geary David C. (2014). Early Predictors of Middle School Fraction Knowledge. Developmental Science. https://doi.org/10.1111/desc.12155
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear regression (N = 172) predicting seventh-grade fraction arithmetic from first-grade predictors; the article reports "uniquely predicted by whole number arithmetic in first grade, β =.29, p < .001". The whole number magnitude path (β = .20, p = .019) fell just short of the .01 alpha level.
 

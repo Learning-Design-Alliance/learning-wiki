@@ -15,12 +15,14 @@ sources:
     author: Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Fall self-regulation (HTKS) scores predict spring literacy gains in first grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students with lower fall HTKS scores demonstrated weaker literacy skill gains by spring on Picture Vocabulary, Letter-Word Identification, and Passage Comprehension than children with higher fall HTKS scores. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)
@@ -31,7 +33,7 @@ sources:
 
 Connor Carol McDonald, Ponitz Claire Cameron, Phillips Beth M., Travis Q. Monét, Glasney Stephanie, Morrison Frederick J. (2010). First graders' literacy and self-regulation gains: The effect of individualizing student instruction. Journal of School Psychology. https://doi.org/10.1016/j.jsp.2010.06.003
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multivariate multilevel models with spring WJ III W scores as dependent variables and fall HTKS as the independent variable, controlling for fall literacy skills, nested in classrooms. Correlations between fall self-regulation and fall vocabulary/reading were r = .21-.35.
 

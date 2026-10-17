@@ -15,12 +15,14 @@ sources:
     author: Stevens Courtney, Lauinger Brittni, Neville Helen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Children of higher and lower maternal education did not differ on on-task comprehension of attended stories during the ERP task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` There were no significant differences between the higher and lower maternal education groups in the number of comprehension questions correctly answered about the attended stories. [→ Stevens Courtney 2009](#stevens-courtney-2009)
@@ -31,7 +33,7 @@ sources:
 
 Stevens Courtney, Lauinger Brittni, Neville Helen. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Secondary behavioral measure in the 32-child ERP study: comprehension questions posed after each attended story. All children answered at least half correctly; group means were 10.1 vs 10.2, "t (30) = −.17, P = .87". No equivalence test was reported.
 

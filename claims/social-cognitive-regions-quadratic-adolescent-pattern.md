@@ -15,12 +15,14 @@ sources:
     author: McRae et al
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Social-cognitive regions show quadratic activation patterns with age, with adolescents showing lower reactivity-related but higher reappraisal-related activation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Medial prefrontal cortex, posterior cingulate cortex, and anterior temporal cortex show quadratic activation patterns with age; adolescents show relatively lower reactivity-related activation but higher reappraisal-related activation in these mental-state-attribution regions. [→ McRae et al 2012](#mcrae-et-al-2012)
@@ -31,7 +33,7 @@ sources:
 
 McRae et al. (2012). The development of emotion regulation: an fMRI study of cognitive reappraisal in children, adolescents and young adults. Social Cognitive and Affective Neuroscience 7(1), 11–22. https://doi.org/10.1093/scan/nsr093
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 fMRI findings across age groups in social-cognitive regions. The authors "observed a quadratic pattern of activation with age" in mental-state-attribution regions, with adolescents showing "relatively lower reactivity-related activation... but higher reappraisal-related activation."
 

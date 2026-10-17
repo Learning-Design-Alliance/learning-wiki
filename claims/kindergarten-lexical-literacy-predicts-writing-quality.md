@@ -15,12 +15,14 @@ sources:
     author: Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten lexical literacy (word reading and spelling) predicts third-grade writing quality in both narrative and expository genres
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Kindergarten lexical literacy skill predicted narrative writing quality (β = .23, p = .01) and expository writing quality (β = .43, p < .001). [→ Kim Young-Suk 2015](#kim-young-suk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predictors of Third Grade Writing. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2014.11.009
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 SEM of the 157-child longitudinal sample; narrative model quote shown. A second model for expository writing found "only kindergarten literacy skill was related (β = .43, p < .001)" while other predictors were not (ps ≥ .18), explaining 43% of variance.
 

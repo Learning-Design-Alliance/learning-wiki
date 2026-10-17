@@ -15,12 +15,14 @@ sources:
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Kindergarteners perform significantly better in nonsymbolic than symbolic single-digit addition problem formats
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Addition performance showed a significant main effect of stimulus type, with nonsymbolic conditions outperforming symbolic ones. [→ Xenidou-Dervou 2014](#xenidou-dervou-2014)
@@ -31,7 +33,7 @@ sources:
 
 Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A 2 x 2 repeated measures ANOVA with 103 kindergarteners (Mage = 5.98) compared four addition formats. The stimulus-type main effect was significant, "F(1, 102) = 20.30, p <.001, partial η2 = .17"; nonsymbolic M = 59.93% vs symbolic M = 49.55%.
 

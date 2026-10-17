@@ -15,12 +15,14 @@ sources:
     author: Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with better numerical magnitude processing ability were faster and more accurate in mentally solving multi-digit subtractions, even after controlling for intellectual ability and motor speed. [→ Linsen 2014](#linsen-2014)
@@ -31,7 +33,7 @@ sources:
 
 Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association between Children's Numerical Magnitude Processing and Mental Multi-digit Subtraction. Acta Psychologica. https://doi.org/10.1016/j.actpsy.2013.10.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Partial correlational analyses in a study of 56 third-graders, controlling for intellectual ability and motor reaction time, showed significant associations between numerical magnitude processing tasks and mental multi-digit subtraction performance. The article reports "a significant association between numerical magnitude processing and mental multi-digit subtraction"; no effect size is printed.
 

@@ -13,12 +13,14 @@ sources:
     title: Sung JE 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # WM capacity is significantly and negatively correlated with age in Korean adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` WM capacity declines with age (r = -.77, p < .0001). [→ Sung JE 2015](#sung-je-2015)
@@ -29,7 +31,7 @@ sources:
 
 Sung JE (2015) Age-Related Changes in Sentence Production Abilities and Their Relation to Working-Memory Capacity: Evidence from a Verb-Final Language. PLoS ONE 10(4): e0119424. https://doi.org/10.1371/journal.pone.0119424
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlation between the composite WM index and age in the 60-participant cross-sectional sample (ages 21–86). The article prints "r = -.77, p < .0001", a strong negative correlation.
 

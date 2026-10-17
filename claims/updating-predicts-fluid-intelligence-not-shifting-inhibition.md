@@ -15,12 +15,14 @@ sources:
     author: Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In a latent variable model, updating strongly predicted fluid intelligence (β = .53) but shifting and inhibition showed no significant relations with Gf. [→ Benedek Mathias 2014](#benedek-mathias-2014)
@@ -31,7 +33,7 @@ sources:
 
 Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha C. (2014). Intelligence, creativity, and cognitive control: The common and differential involvement of executive functions in intelligence and creativity. Intelligence. https://doi.org/10.1016/j.intell.2014.05.007
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Latent variable regression in a 230-participant SEM study (executive functions regressed on fluid intelligence). The article reports the standardized path updating strongly predicts Gf (β = .53), with inhibition (β = .12, p = .30) and shifting non-significant.
 

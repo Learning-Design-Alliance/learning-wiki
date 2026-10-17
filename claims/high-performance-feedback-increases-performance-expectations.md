@@ -15,12 +15,14 @@ sources:
     author: "Soederberg Miller, L. M., & West, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants who received high-performance feedback had higher performance expectations than those who received low-performance feedback; older adults had lower expectations than younger adults; higher control beliefs were associated with higher expectations; no interactions were significant. [→ Soederberg Miller 2010](#soederberg-miller-2010)
@@ -31,7 +33,7 @@ sources:
 
 Soederberg Miller, L. M., & West, R. L. (2010). The Effects of Age, Control Beliefs, and Feedback on Self-Regulation of Reading and Problem Solving. Experimental Aging Research, 36(1), 40-63. https://doi.org/10.1080/03610730903418380
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Hierarchical regression (Model 2) predicting performance expectations in the same false-feedback experiment. The article reports "main effects of feedback, β = .38, p < .001" and an age effect of β = −.22, p < .01, plus a control-beliefs main effect of β = .25, p < .01; no interaction terms reached significance (p > .10 for all).
 

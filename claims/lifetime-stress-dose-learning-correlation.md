@@ -15,12 +15,14 @@ sources:
     author: Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Lifetime stress severity correlates with poorer learning performance and reduced putamen/ACC activation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Higher lifetime stress was associated with poorer avoidance learning, less cognitive flexibility, and reduced putamen and ACC activation during reversal. [→ Harms Madeline B. 2018](#harms-madeline-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Harms Madeline B., Shannon-Bowen Katherine E., Hanson Jamie L., Pollak Seth D. (2018). Instrumental Learning and Cognitive Flexibility Processes are Impaired in Children Exposed to Early Life Stress. Developmental Science. https://doi.org/10.1111/desc.12596
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlations with the Youth Life Stress Interview (controlling for SES) showed e.g. putamen rewarded-trials reversal activation r = −.46 and avoidance learning r = −.36 in the full sample; correlations held in the early stress group alone (e.g. r = −.56).
 

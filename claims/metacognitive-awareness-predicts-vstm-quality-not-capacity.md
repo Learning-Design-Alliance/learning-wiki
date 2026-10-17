@@ -15,18 +15,22 @@ sources:
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: daniel-j-mitchell-2018-2
     resource: "https://doi.org/10.1037/pag0000265"
     title: "Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265"
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Better metacognitive awareness of trial-to-trial VSTM performance is associated with lower error, higher precision, and fewer misbinding errors, but not with item capacity, and this association is invariant across age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` People better able to judge variability in their performance had lower actual error (RMSE). [→ Daniel J. Mitchell 2018](#daniel-j-mitchell-2018)
@@ -38,7 +42,7 @@ sources:
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Linear model predicting memory performance from metacognitive awareness (partial correlation of confidence interval width with absolute error, partialing out load and context), age, and their interaction, in the Cam-CAN sample. The association is correlational; the article notes better memory could facilitate metacognition or a third factor could drive both.
 
@@ -48,7 +52,7 @@ Linear model predicting memory performance from metacognitive awareness (partial
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Component-measure analyses from the same linear models (Table 4). In no case was there a significant age-by-metacognitive-awareness interaction; Bayes factors indicated substantial evidence favoring the null that the association is not moderated by age.
 

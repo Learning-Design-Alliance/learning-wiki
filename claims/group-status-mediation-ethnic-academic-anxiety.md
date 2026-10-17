@@ -15,12 +15,14 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived group status mediates the ethnic differences in academic anxiety for African-American, Chinese, and Dominican children but not Russians
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Group status mediated the ethnic differences in academic anxiety for all ethnic-minority groups except Russians. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Baron and Kenny mediation analyses of ethnicity on academic anxiety through public regard and group status. The article reports "group status mediated the ethnic differences in academic anxiety for all ethnic-minority groups except Russians".
 

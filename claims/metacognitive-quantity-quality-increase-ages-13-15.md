@@ -15,12 +15,14 @@ sources:
     author: "Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Both the quantity and the quality of metacognitive skills in math increase between the second and third year of secondary education (ages 13–15)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Third-year students scored higher than second-year students on both quantitative and qualitative metacognition scores, with large age effects. [→ Van der Stel 2010](#van-der-stel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J. (2010). The increasing role of metacognitive skills in math: a cross-sectional study from a developmental perspective. ZDM Mathematics Education, 42, 219–229. https://doi.org/10.1007/s11858-009-0224-2
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Cross-sectional MANOVA comparing 29 second-year and 30 third-year students on thinking-aloud metacognition scores; the article reports "a significant age effect as well" with η² = 0.51 (quantity) and η² = 0.27 (quality).
 

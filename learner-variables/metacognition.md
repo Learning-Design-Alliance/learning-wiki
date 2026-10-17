@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (40 show a difference, 10 mixed, 5 no difference) · 43 studies (15 causal, 7 qualitative, 6 theoretical, 5 review, 5 associational, 3 quant-synthesis, 2 design), `q1`–`q4` · 12 of 43 report an effect size · 54 claims rest on one study
+> **Evidence** · 59 claims (42 show a difference, 12 mixed, 5 no difference) · 46 studies (16 causal, 7 associational, 7 qualitative, 6 theoretical, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 12 of 46 report an effect size · 58 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).

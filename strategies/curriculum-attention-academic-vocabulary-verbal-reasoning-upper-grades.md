@@ -17,7 +17,7 @@ sources:
 # Make academic vocabulary, verbal reasoning, and advanced mathematics part of the school curriculum in the upper primary grades
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the finding that advanced linguistic skills are directly related to advanced mathematics, the authors recommend focusing on academic vocabulary, verbal reasoning, and advanced mathematics in schools by making them part of the school curriculum. They suggest a promising way to stimulate academic vocabulary is to approach domain-specific words as the means for communicating and thinking about disciplinary content, and that training of cognitive skills along with open-ended questions that prompt metacognition may stimulate deductive reasoning skills.

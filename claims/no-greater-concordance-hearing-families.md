@@ -15,12 +15,14 @@ sources:
     author: Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Child-parent concordance is no greater for hearing families than for families with deaf children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Interactions between hearing status and respondent group were not significant, contradicting the expectation of poorer deaf child-parent agreement. [→ Marschark M 2012](#marschark-m-2012)
@@ -31,7 +33,7 @@ sources:
 
 Marschark M, Bull R, Sapere P, Nordmann E, Skene W, Lukomski J, Lumsden S. (2012). Do You See What I See? School Perspectives of Deaf Children, Hearing Children, and Their Parents. European Journal of Special Needs Education. https://doi.org/10.1080/08856257.2012.719106
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Across the 2 by 2 ANOVAs on the four scales, no hearing-status by group interactions emerged; the authors write this showed "a lack of support for the expectation that reports of hearing children and their parents would have greater concordance". No effect size was printed.
 

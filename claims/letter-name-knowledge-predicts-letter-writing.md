@@ -15,18 +15,22 @@ sources:
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: puranik-cynthia-s-2014-2
     resource: "https://doi.org/10.1016/j.jecp.2014.07.009"
     title: "Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009"
     author: Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Letter-name knowledge strongly predicts correct letter writing, especially for 4- and 5-year-olds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` For 5-year-olds, knowing a letter's name raised the probability of writing it correctly from 50% to 82%; for 4-year-olds from 7% to 33%. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)
@@ -38,7 +42,7 @@ sources:
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Model 5 fixed effects for 5-year-olds in the LR-LLTM analysis. The quote reports the log-odds increase and probability change from .50 to .82 for letter-name knowledge; the article reports no standardized effect size for this contrast.
 
@@ -48,7 +52,7 @@ Model 5 fixed effects for 5-year-olds in the LR-LLTM analysis. The quote reports
 
 Puranik Cynthia S., Petscher Yaacov, Lonigan Christopher J. (2014). Learning to Write Letters: Examination of Student and Letter Factors. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2014.07.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Model 5 results for 3-year-olds, whose referent predicted probability of correct writing was 1%. The statistically significant log-odds effect translated only "from 1% to 7%" in predicted probability, which the authors call marginal.
 

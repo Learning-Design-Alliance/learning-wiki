@@ -38,7 +38,7 @@ The article recommends that teachers, trainers and adult educators use the guidi
 - active engagement of adults in their own teaching, learning and knowledge building
 
 ### Affordances
-- [Triadic Model Adult Learning Factors](../theories/triadic-model-adult-learning-factors.md)
+- Triadic Model Adult Learning Factors
 
 ## Related Strategies
 

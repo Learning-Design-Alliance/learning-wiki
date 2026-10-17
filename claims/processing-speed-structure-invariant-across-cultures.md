@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The distinct abilities structure of processing speed is invariant across Chinese, Canadian, and Greek cultural groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Factor loadings of the distinct abilities processing speed model were invariant across the three cultural groups, supporting configural invariance. [→ Papadopoulos 2018](#papadopoulos-2018)
@@ -31,7 +33,7 @@ sources:
 
 Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P. (2018). The Structure of Speed of Processing Across Cultures. Advances in Cognitive Psychology, 14(3), 112–125. https://doi.org/10.5709/acp-0243-7
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multi-group SEM invariance testing (configural, weak, strong, partial metric) across the Canadian, Chinese, and Greek samples supported the same distinct abilities factor structure across cultures. The configural model was retained after comparisons among hierarchical invariance models.
 

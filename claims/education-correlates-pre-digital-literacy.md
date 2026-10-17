@@ -13,16 +13,20 @@ sources:
     title: Martínez-Alcalá CI 2018
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: martínez-alcalá-ci-2018-2
     title: Martínez-Alcalá CI 2018 (2)
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Years of education correlate positively with pre-workshop digital literacy scores in older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A positive correlation between years of education and pre SDLE scores was found for the FFG (r = 0.53) and a marginal one for the BLG (r = 0.34). [→ Martínez-Alcalá CI 2018](#martinez-alcala-ci-2018)
@@ -34,7 +38,7 @@ sources:
 
 Martínez-Alcalá CI, Rosales-Lagarde A, Alonso-Lavernia MÁ, Ramírez-Salvador JÁ, Jiménez-Rodríguez B, Cepeda-Rebollar RM, López-Noguerola JS, Bautista-Díaz ML and Agis-Juárez RA (2018) Digital Inclusion in Older Adults: A Comparison Between Face-to-Face and Blended Digital Literacy Workshops. Front. ICT 5:21. https://doi.org/10.3389/fict.2018.00021
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Spearman correlation analysis in the Results section relating years of education to pre SDLE scores for each group; r = 0.53 (FFG) and r = 0.34 (BLG, described as marginal). Age and education were inversely but non-significantly correlated in both groups.
 
@@ -44,7 +48,7 @@ Spearman correlation analysis in the Results section relating years of education
 
 Martínez-Alcalá CI, Rosales-Lagarde A, Alonso-Lavernia MÁ, Ramírez-Salvador JÁ, Jiménez-Rodríguez B, Cepeda-Rebollar RM, López-Noguerola JS, Bautista-Díaz ML and Agis-Juárez RA (2018) Digital Inclusion in Older Adults: A Comparison Between Face-to-Face and Blended Digital Literacy Workshops. Front. ICT 5:21. https://doi.org/10.3389/fict.2018.00021
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Spearman correlations between age and pre SDLE scores were non-significant in both groups; no effect size beyond the printed r values is reported, and equivalence was not tested.
 

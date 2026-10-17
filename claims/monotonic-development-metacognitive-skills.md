@@ -15,12 +15,14 @@ sources:
     author: "Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Metacognitive skillfulness develops alongside, but not fully dependent on, intellectual ability, in line with the monotonic development hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A parallel development of metacognitive skillfulness and intellectual ability as predictors of math performance was found, corroborating the monotonic development hypothesis. [→ Van der Stel 2010](#van-der-stel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Van der Stel, M., Veenman, M. V. J., Deelen, K., & Haenen, J. (2010). The increasing role of metacognitive skills in math: a cross-sectional study from a developmental perspective. ZDM Mathematics Education, 42, 219–229. https://doi.org/10.1007/s11858-009-0224-2
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The authors' interpretation of the cross-sectional age effects on both intelligence and metacognition scores, described as "a continuous growth of metacognitive skills with age, alongside intellectual growth".
 

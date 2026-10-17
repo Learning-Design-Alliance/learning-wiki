@@ -15,12 +15,14 @@ sources:
     author: "Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Working memory mediates the indirect effects of anxiety on math performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Models with WM as mediator between anxiety and math fit better than models with anxiety as mediator; WM mediated indirect associations of both teacher-rated GA and MA with concurrent and future math performance. [→ Pellizzoni 2021](#pellizzoni-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pellizzoni, S., Cargnelutti, E., Cuder, A., & Passolunghi, M.C. (2021). The interplay between math anxiety and working memory on math performance: a longitudinal study. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14722
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Comparison of two path-model series (WM vs. anxiety as mediator) with bootstrapping in 146 children; Model 1a explained r² = 0.26 for MAT‐3 and r² = 0.45 for MAT‐4, slightly higher than the anxiety-mediator models (0.24 and 0.42).
 

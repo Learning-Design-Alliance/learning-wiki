@@ -15,12 +15,14 @@ sources:
     author: "Torres, M. M., Domitrovich, C. E., & Bierman, K. L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher closeness and peer interaction measures load onto a single latent interpersonal relationships factor alongside a latent emotion knowledge factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A confirmatory factor analysis supported two latent variables (interpersonal relationships; emotion knowledge) with good fit (RMSEA = .00, CFI = 1.00, CMIN/DF = .42). [→ Torres 2015](#torres-2015)
@@ -31,7 +33,7 @@ sources:
 
 Torres, M. M., Domitrovich, C. E., & Bierman, K. L. (2015). Preschool Interpersonal Relationships Predict Kindergarten Achievement: Mediated by Gains in Emotion Knowledge. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.04.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Measurement model analysis preceding the SEMs: student-teacher closeness and peer relations loaded on an interpersonal relationships factor (β = .81 and .84), and the two emotion knowledge measures on an emotion knowledge factor (β = .73 and .56). The CFA "provided empirical support for the two latent variables". No effect size printed.
 

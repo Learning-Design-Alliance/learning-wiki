@@ -15,12 +15,14 @@ sources:
     author: "Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Boys are more likely than girls to be reported as bullied in preadolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Boys had higher odds of caregiver-reported bullying victimization than girls (OR 1.2). [→ Menken 2022](#menken-2022)
@@ -31,7 +33,7 @@ sources:
 
 Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L. (2022). Peer victimization (bullying) on mental health, behavioral problems, cognition, and academic performance in preadolescent children in the ABCD Study. Frontiers in Psychology, 13, 925727. https://doi.org/10.3389/fpsyg.2022.925727
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional ABCD baseline analysis of caregiver-reported bullying. The study reports "boys were more likely to be bullied than girls" with OR 1.2 (95% CI 1.1–1.3), p = 0.004.
 

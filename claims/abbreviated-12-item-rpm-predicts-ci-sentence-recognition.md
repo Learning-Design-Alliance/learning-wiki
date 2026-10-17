@@ -15,12 +15,14 @@ sources:
     author: Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # An abbreviated 12-item RPM subset predicts sentence recognition in CI users with comparable validity to the full 48-item test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Subset RPM scores (12 items that differentiated low- vs. high-PRESTO CI performers) correlated with Harvard Standard whole sentences (r = .40) and PRESTO whole sentences (r = .48), with correlations similar in magnitude to the 48-item version. [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mattingly Jameson K MD, Castellanos Irina PhD, Moberly Aaron C MD. (2018). Nonverbal Reasoning as a Contributor to Sentence Recognition Outcomes in Adults with Cochlear Implants. Otology & Neurotology. https://doi.org/10.1097/MAO.0000000000001998
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Sub-item analysis in the CI group: participants were split by median PRESTO whole-sentence score (21.67%), Fisher's Exact Tests identified 12 RPM items on which low performers scored significantly worse, and the resulting Subset RPM score correlated with both sentence measures, "positively correlated with the percent correct on Harvard Standard whole sentences" (r = .40) and PRESTO whole sentences (r = .48).
 

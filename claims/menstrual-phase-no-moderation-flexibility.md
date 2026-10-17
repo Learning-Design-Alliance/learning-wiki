@@ -15,12 +15,14 @@ sources:
     author: Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant moderating effect of menstrual cycle phase on cognitive flexibility. [→ Shields Grant S. 2016](#shields-grant-s-2016)
@@ -31,7 +33,7 @@ sources:
 
 Shields Grant S., Trainor Brian C., Lam Jovian C. W., Yonelinas Andrew P. (2016). Acute Stress Impairs Cognitive Flexibility in Men, Not Women. Stress. https://doi.org/10.1080/10253890.2016.1192603
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Additional analysis within the randomized experiment testing menstrual cycle phase (approximated from days since cycle onset) as a moderator. The article reports only the F statistic and "p=.167".
 

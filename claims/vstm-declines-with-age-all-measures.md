@@ -15,18 +15,22 @@ sources:
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: daniel-j-mitchell-2018-2
     resource: "https://doi.org/10.1037/pag0000265"
     title: "Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265"
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # VSTM performance declines with advancing adult age in raw error, item capacity, precision, and misbinding, even after adjusting for sensorimotor performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Raw error magnitude significantly increased with age and K, precision, and misbinding all worsened with age across the adult life span. [→ Daniel J. Mitchell 2018](#daniel-j-mitchell-2018)
@@ -38,7 +42,7 @@ sources:
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Cross-sectional analysis of the Cam-CAN population-based sample of 649 participants aged 18 to 89 on a continuous color-report VSTM task. The article reports statistically significant age-related worsening of raw error and K with no printed effect size in this passage.
 
@@ -48,7 +52,7 @@ Cross-sectional analysis of the Cam-CAN population-based sample of 649 participa
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Correlational analysis in which precision and K estimates from a no-memory perceptual control block were regressed out of every VSTM measure before recomputing age correlations. Declines persisted for all memory measures, indicating they are not attributable to poorer color perception or motor control.
 

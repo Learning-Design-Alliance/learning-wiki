@@ -13,12 +13,14 @@ sources:
     title: Li Y 2013
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Simultaneous (Mazes) visuospatial memory showed a trend predicting fifth grade mathematics while sequential (Block Recall) did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fifth grade Mazes Memory showed a trend predicting fifth grade Numerical Operations scores (ß = .23, p = .0661), but Block Recall did not (p = .5036); neither first grade measure was significant. [→ Li Y 2013](#li-y-2013)
@@ -29,7 +31,7 @@ sources:
 
 Li Y, Geary DC (2013) Developmental Gains in Visuospatial Memory Predict Gains in Mathematics Achievement. PLoS ONE 8(7): e70160. https://doi.org/10.1371/journal.pone.0070160
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Exploratory rerun of the multilevel model replacing total visuospatial memory with Block Recall and Mazes Memory scores. The trend for Mazes persisted (ß = .23, p = .071) when central executive and phonological memory were dropped; Block Recall remained non-significant.
 

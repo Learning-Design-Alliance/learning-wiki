@@ -15,12 +15,14 @@ sources:
     author: "Chiappe, P., Hasher, L., & Siegel, L. S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Disabled readers show working memory deficits at every age on the blocked listening span task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Skilled readers had higher absolute span scores than disabled readers at each age level from 6 to 49 on the blocked listening span task. [→ Chiappe 2000](#chiappe-2000)
@@ -31,7 +33,7 @@ sources:
 
 Chiappe, P., Hasher, L., & Siegel, L. S. (2000). Working memory, inhibitory control, and reading disability. Memory & Cognition, 28(1), 8-17. https://doi.org/10.3758/bf03211570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional analysis of 665 individuals (351 skilled, 314 disabled readers, classified below the 26th percentile on the WRAT with IQ > 79) on the blocked listening span task. The ANOVA showed a significant reading group main effect, and "skilled readers had higher scores than disabled readers at each age level".
 

@@ -15,18 +15,22 @@ sources:
     author: "Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: umaña-taylor-2014-2
     resource: "https://doi.org/10.1111/cdev.12196"
     title: "Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T. (2014). Ethnic and Racial Identity During Adolescence and Into Young Adulthood: An Integrated Conceptualization. Child Development. https://doi.org/10.1111/cdev.12196"
     author: "Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Perceived discrimination is negatively related to later public regard, and low public regard buffers discrimination's impact on adjustment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a longitudinal study of African American adolescents, perceived discrimination was negatively related to ERI public regard one year later. [→ Umaña-Taylor 2014](#umana-taylor-2014)
@@ -38,7 +42,7 @@ sources:
 
 Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T. (2014). Ethnic and Racial Identity During Adolescence and Into Young Adulthood: An Integrated Conceptualization. Child Development. https://doi.org/10.1111/cdev.12196
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Seaton, Yip, and Sellers (2009), a longitudinal study of African American adolescents in which "perceived discrimination was negatively related to ERI public regard 1 year later." No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Seaton, Yip, and Sellers (2009), a longitudinal study
 
 Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T. (2014). Ethnic and Racial Identity During Adolescence and Into Young Adulthood: An Integrated Conceptualization. Child Development. https://doi.org/10.1111/cdev.12196
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports, citing Sellers, Copeland-Linder, Martin, and Lewis (2006), that low-public-regard adolescents showed "relatively weaker associations between perceived discrimination and psychological adjustment" than high-public-regard counterparts, which the authors read as a buffering effect. No effect size is printed.
 

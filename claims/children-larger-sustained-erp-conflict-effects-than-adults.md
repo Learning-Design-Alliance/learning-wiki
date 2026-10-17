@@ -15,12 +15,14 @@ sources:
     author: "Checa, P., & Rueda, M. R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children show larger and more sustained frontal ERP conflict effects than adults, indicating less efficient executive attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The N2 component in Flanker and Go/No-Go tasks is delayed, larger, and more sustained in children compared to adults. [→ Checa 2011](#checa-2011)
@@ -31,7 +33,7 @@ sources:
 
 Checa, P., & Rueda, M. R. (2011). Behavioral and Brain Measures of Executive Attention and School Competence in Late Childhood. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2011.591857
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Narrative review of prior ERP developmental studies (Davis et al., 2003; Rueda et al., 2004b) cited by the authors as background. The study reports the N2 component "appears to be somewhat delayed compared to adults" with larger amplitude in children.
 

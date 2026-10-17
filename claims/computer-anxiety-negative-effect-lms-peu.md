@@ -15,12 +15,14 @@ sources:
     author: "Saadé, R. G., & Kira, D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Computer anxiety negatively affects students' perceived ease of use of a learning management system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Computer anxiety has a significant negative effect on perceived ease of use of an LMS (β = -0.276, p = 0.0001). [→ Saadé 2009](#saade-2009)
@@ -31,7 +33,7 @@ sources:
 
 Saadé, R. G., & Kira, D. (2009). Computer Anxiety in E-Learning: The Effect of Computer Self-Efficacy. Journal of Information Technology Education, 8. https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Survey of 645 university students using an in-house LMS in undergraduate MIS/FIT courses over one year. Regression analysis showed the effect of ANX on PEU was significant (β = -0.276, t=-7.732, p = 0.0001), "supporting the hypothesis" that anxiety affects PEU.
 

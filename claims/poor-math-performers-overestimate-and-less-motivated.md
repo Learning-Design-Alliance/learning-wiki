@@ -15,12 +15,14 @@ sources:
     author: "Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Poor mathematics performers are less intrinsically motivated and less metacognitively accurate than well-performing peers. [→ Desoete 2019](#desoete-2019)
@@ -32,7 +34,7 @@ sources:
 
 Desoete, A., Baten, E., Vercaemst, V., De Busschere, A., Baudonck, M., & Vanhaeke, J. (2019). Metacognition and motivation as predictors for mathematics performance of Belgian elementary school children. ZDM Mathematics Education, 51, 667–677. https://doi.org/10.1007/s11858-018-01020-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Comparison of poor versus well-performing children in the longitudinal Belgian sample across all grades. The abstract reports poor performers "overestimate their performances more often than well-performing peers" and are less motivated and metacognitively accurate; no effect size is printed.
 

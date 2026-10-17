@@ -13,12 +13,14 @@ sources:
     title: Li Y 2013
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with larger first-to-fifth grade gains in visuospatial memory had higher fifth grade mathematics achievement, controlling for first grade visuospatial memory and other predictors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fifth grade visuospatial memory scores predicted fifth grade Numerical Operations scores (p = .0346) controlling for first grade scores and other variables, indicating gains in visuospatial memory contribute to mathematics achievement. [→ Li Y 2013](#li-y-2013)
@@ -29,7 +31,7 @@ sources:
 
 Li Y, Geary DC (2013) Developmental Gains in Visuospatial Memory Predict Gains in Mathematics Achievement. PLoS ONE 8(7): e70160. https://doi.org/10.1371/journal.pone.0070160
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel (PROC MIXED) analysis of 177 children's kindergarten-to-fifth grade achievement. The bottom portion of Table 3 showed "children with higher visuospatial memory scores in fifth grade had higher same-grade Numerical Operations scores" (p = .0346); no effect size printed.
 

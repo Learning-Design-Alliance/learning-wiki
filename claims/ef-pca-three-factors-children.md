@@ -15,12 +15,14 @@ sources:
     author: "Drijbooms, E., Groen, M. A., & Verhoeven, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` PCA of eight EF tasks yielded three factors labeled Inhibition, Updating, and Planning, explaining 55.5 % of variance. [→ Drijbooms 2015](#drijbooms-2015)
@@ -31,7 +33,7 @@ sources:
 
 Drijbooms, E., Groen, M. A., & Verhoeven, L. (2015). The contribution of executive functions to narrative writing in fourth grade children. Reading and Writing. https://doi.org/10.1007/s11145-015-9558-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Principal components analysis with varimax rotation on EF measures of 102 children; three factors explained 55.5 % of variance. Shifting tasks loaded across factors, consistent with shifting not being dissociable in children.
 

@@ -13,12 +13,14 @@ sources:
     title: Sung JE 2015
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Partial correlation between WM and priming-noncanonical accuracy remained significant (r = .296, p < .05) after controlling for age; the other three conditions did not. [→ Sung JE 2015](#sung-je-2015)
@@ -29,7 +31,7 @@ sources:
 
 Sung JE (2015) Age-Related Changes in Sentence Production Abilities and Their Relation to Working-Memory Capacity: Evidence from a Verb-Final Language. PLoS ONE 10(4): e0119424. https://doi.org/10.1371/journal.pone.0119424
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Partial correlation analysis controlling for age, in the same cross-sectional study. Only the priming-noncanonical condition remained significant ("r = .296, p < .05"); the other partial coefficients (r = .21, .23, .16) were not reported as significant.
 

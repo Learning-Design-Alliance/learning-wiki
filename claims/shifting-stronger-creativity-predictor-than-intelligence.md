@@ -15,12 +15,14 @@ sources:
     author: Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The study's findings indicate shifting predicts children's creativity more powerfully than fluid or crystallized intelligence. [→ Krumm 2018](#krumm-2018)
@@ -31,7 +33,7 @@ sources:
 
 Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa. (2018). The contribution of executive functions to creativity in children: What is the role of crystallized and fluid intelligence?. Thinking Skills and Creativity. http://dx.doi.org/10.1016/j.tsc.2018.07.006
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Authors' summary conclusion from the correlational and SEM analyses of 209 8- to 13-year-olds: "shifting is a more powerful predictor of creativity than fluid and crystallized intelligence". No comparative effect size is printed in the available text.
 

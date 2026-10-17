@@ -15,12 +15,14 @@ sources:
     author: Volkow ND, Wang GJ, Newcorn JH, Kollins SH, Wigal TL, Telang F, Fowler JS, Goldstein RZ, Klein N, Logan J, Wong C, Swanson JM
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ADHD participants scored significantly lower on the Achievement scale than controls (11±5 vs 15±3, t=3.5, p<0.001). [→ Volkow ND 2011](#volkow-nd-2011)
@@ -31,7 +33,7 @@ sources:
 
 Volkow ND, Wang GJ, Newcorn JH, Kollins SH, Wigal TL, Telang F, Fowler JS, Goldstein RZ, Klein N, Logan J, Wong C, Swanson JM. (2011). Motivation Deficit in ADHD is Associated with Dysfunction of the Dopamine Reward Pathway. Molecular Psychiatry 16(11). https://doi.org/10.1038/mp.2010.97
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Group comparison in the PET imaging cohort of 45 never-medicated ADHD participants and 41 controls; independent t test showed the ADHD group's Achievement scale mean of 11±5 was lower than controls' 15±3, with "t = 3.5, p <0.001". No effect size printed.
 

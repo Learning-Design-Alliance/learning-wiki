@@ -15,12 +15,14 @@ sources:
     author: Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Prior research indicates intelligence and executive functions play an important role in creative thinking, with most research focused on adults rather than children. [→ Krumm 2018](#krumm-2018)
@@ -31,7 +33,7 @@ sources:
 
 Krumm, Gabriela Liliana; Arán Filippetti, Vanessa; Gutierrez Saez, Marisel Luisa. (2018). The contribution of executive functions to creativity in children: What is the role of crystallized and fluid intelligence?. Thinking Skills and Creativity. http://dx.doi.org/10.1016/j.tsc.2018.07.006
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 The article's framing statement, attributed to recent studies without citation detail in the available text: intelligence and EFs "play an important role in creative thinking", while "most research has focused on adult populations". No evidence or effect sizes are provided for this background assertion.
 

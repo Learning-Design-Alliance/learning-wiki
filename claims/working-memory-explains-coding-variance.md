@@ -15,12 +15,14 @@ sources:
     author: "Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Verbal attention/span, verbal working memory, and spatial working memory each added significant unique variance to Coding models (total R2 ranging .594-.633), while reaction time, intra-subject variability, inhibition, and naming speed did not. [→ Jacobson 2011](#jacobson-2011)
@@ -31,7 +33,7 @@ sources:
 
 Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M. (2011). Working Memory Influences Processing Speed and Reading Fluency in ADHD. Child Neuropsychology. https://doi.org/10.1080/09297049.2010.532204
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Supplemental hierarchical regressions entered seven hypothesized constructs after sex, Coding Copy, CPRS-R Scale N, and GAI. "The total R2 for the models including these three constructs ranged from .594 to .633"; verbal span (ΔR2 = .094, p = .016), verbal WM (ΔR2 = .076, p = .025), and spatial WM (ΔR2 = .115, p = .012) were significant.
 

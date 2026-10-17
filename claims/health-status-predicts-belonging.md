@@ -15,12 +15,14 @@ sources:
     author: Kirkpatrick, Kathryn M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Health status predicts perceived school belonging beyond demographic controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a linear regression on Wave I data, health report was positively related and symptom score inversely related to perceived belonging, together explaining an additional 7.2% of variance after demographic controls. [→ Kirkpatrick 2020](#kirkpatrick-2020)
@@ -31,7 +33,7 @@ sources:
 
 Kirkpatrick, Kathryn M. (2020). Adolescents With Chronic Medical Conditions and High School Completion: The Importance of Perceived School Belonging. Continuity in Education, 1(1), 50–63. https://doi.org/10.5334/cie.5
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Linear regression modeling with design-based Wave I Add Health data (Table 3 reports standardized coefficients: health report .120, symptoms mean score –.377, both p < .001; total model R2 = .139). No standardized effect size for the health block is printed beyond the variance increment.
 

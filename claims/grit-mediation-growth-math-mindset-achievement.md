@@ -15,12 +15,14 @@ sources:
     author: "Kaya, S., & Karakoc, D."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Academic grit mediates a positive indirect effect of growth math mindset on math achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Growth math mindset has a significant positive indirect effect on math achievement mediated by academic grit (β=0.393); the fixed mindset indirect effect is non-significant. [→ Kaya 2022](#kaya-2022)
@@ -31,7 +33,7 @@ sources:
 
 Kaya, S., & Karakoc, D. (2022). Math Mindsets and Academic Grit: How Are They Related to Primary Math Achievement?. European Journal of Science and Mathematics Education, 10(3), 298-309. https://doi.org/10.30935/scimath/11881
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 SEM mediation analysis with 225 4th graders; the indirect growth-mindset path via academic grit was β=0.393 (p<0.01), described as moderate in size; the fixed-mindset indirect path was β=-0.005, non-significant.
 

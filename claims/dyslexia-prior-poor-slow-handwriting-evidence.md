@@ -15,12 +15,14 @@ sources:
     author: "Gosse, C., & Van Reybroeck, M."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Prior research indicates children with dyslexia frequently show poor and slow handwriting skills, but the cause remained unclear
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article states that several studies have demonstrated poor and slow handwriting in dyslexia, while it was unclear whether these difficulties stem from the spelling deficit or graphomotor difficulties. [→ Gosse 2020](#gosse-2020)
@@ -31,7 +33,7 @@ sources:
 
 Gosse, C., & Van Reybroeck, M. (2020). Do children with dyslexia present a handwriting deficit? Impact of word orthographic and graphic complexity on handwriting and spelling performance. Research in Developmental Disabilities, 97(1), 14. https://doi.org/10.1016/j.ridd.2019.103553
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 The article's own framing of prior literature: it reports, citing several earlier studies, that children with dyslexia "frequently show poor and slow handwriting skills", and states the cause was unresolved. This is the reviewed literature as the article attributes it, not a new analysis.
 

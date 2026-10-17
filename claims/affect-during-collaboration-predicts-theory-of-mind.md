@@ -13,12 +13,14 @@ sources:
     title: Stengelin R 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Across populations, children's positive emotional expressions selectively during collaboration predicted their Theory of Mind skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children who selectively expressed more positive emotions during collaboration scored higher on the Theory of Mind scale. [→ Stengelin R 2020](#stengelin-r-2020)
@@ -29,7 +31,7 @@ sources:
 
 Stengelin R, Hepach R, Haun DBM (2020) Cultural variation in young children's social motivation for peer collaboration and its relation to the ontogeny of Theory of Mind. PLoS ONE 15(11): e0242071. https://doi.org/10.1371/journal.pone.0242071
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear mixed model testing whether Theory of Mind scores were predicted by the affect index (collaboration minus individual affect) and forced-choice decisions, controlling for population, age, and sex. "children's Theory of Mind performance could be predicted by their positive emotional expressions selectively during collaboration" (χ²(1) = 7.61, p = .006; Estimate ± SE: 0.41 ± 0.15).
 

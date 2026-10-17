@@ -15,12 +15,14 @@ sources:
     author: Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The ADHD–depression association does not significantly differ by sex, though point estimates are slightly stronger in females
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant interaction between ADHD symptoms and sex in predicting depressive symptom score (Wald test: F = 0.99, d.f. = (1, 2946), p = 0.32). [→ Powell V 2020](#powell-v-2020)
@@ -31,7 +33,7 @@ sources:
 
 Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F. (2020). What explains the link between childhood ADHD and adolescent depression? Investigating the role of peer relationships and academic attainment. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01463-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Wald test comparing regression models with and without an ADHD × sex interaction term in ALSPAC (n = 2950). The article reports "F = 0.99, d.f. = (1, 2946), p = 0.32".
 

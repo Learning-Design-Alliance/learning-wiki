@@ -15,12 +15,14 @@ sources:
     author: Malone Amelia S., Loehr Abbey M., Fuchs Lynn S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Domain-general cognitive abilities predict at-risk fourth graders' decimal magnitude understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Language comprehension, nonverbal reasoning, concept formation, and working memory each predicted at least one measure of decimal magnitude understanding among at-risk fourth graders. [→ Malone Amelia S. 2017](#malone-amelia-s-2017)
@@ -31,7 +33,7 @@ sources:
 
 Malone Amelia S., Loehr Abbey M., Fuchs Lynn S. (2017). The Role of Domain-General Cognitive Abilities and Decimal Labels in At-Risk Fourth-Grade Students' Decimal Magnitude Understanding. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2017.05.007
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analyses with 127 at-risk fourth graders controlling for incoming calculation ability (WRAT-4). The abstract states "Each of the domain-general cognitive abilities predicted students' decimal magnitude understanding" across three outcome measures.
 

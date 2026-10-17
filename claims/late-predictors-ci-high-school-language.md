@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E., Sedey Allison L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` PIQ, younger age at implantation, smallest sign enhancement, longer digit spans and shorter sentence durations predicted higher CI-HS language; combined predictors explained 70% of variance. [→ Geers Ann E. 2011](#geers-ann-e-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E., Sedey Allison L. (2011). Language and Verbal Reasoning Skills in Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression (Table 5) on CI-HS measures: step 1 explained 34% (sign enhancement β = −.345, p <.001); digit span and sentence duration added 15%; early language PC added 20% (β = 0.665, p <.001); total 70% of variance predicted.
 

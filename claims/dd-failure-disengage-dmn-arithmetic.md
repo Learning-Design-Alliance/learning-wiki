@@ -15,12 +15,14 @@ sources:
     author: "Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # DD children fail to disengage the default mode network during demanding arithmetic, showing aberrant coupling with task-positive IPS regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children with DD showed prominent IPS hyper-connectivity with bilateral angular gyrus, posterior cingulate cortex and ventromedial prefrontal cortex — core DMN regions — and reduced deactivation during subtraction relative to addition in the precuneus. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)
@@ -31,7 +33,7 @@ sources:
 
 Rosenberg-Lee, M., Ashkenazi, S., Chen, T., Young, C. B., Geary, D. C., & Menon, V. (2014). Brain hyper-connectivity and operation-specific deficits during arithmetic problem solving in children with developmental dyscalculia. Developmental Science. https://doi.org/10.1111/desc.12216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Authors' interpretation of the gPPI Group main effect and activation deactivation profiles in the same fMRI sample. The study reports "Children with DD showed prominent hyper-connectivity of the IPS with bilateral angular gyrus, posterior cingulate cortex and ventromedial prefrontal cortex", interpreted as failure to disengage the DMN from task-positive IPS regions.
 

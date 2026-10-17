@@ -15,12 +15,14 @@ sources:
     author: "Gunderson, E. A., Sorhagen, N. S., Gripshover, S. J., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Early process praise (ages 1–3) had a significant indirect effect on 4th grade math and reading comprehension achievement through 2nd–3rd grade incremental motivational frameworks, controlling for SES, gender, and prior achievement. [→ Gunderson 2018](#gunderson-2018)
@@ -32,7 +34,7 @@ sources:
 
 Gunderson, E. A., Sorhagen, N. S., Gripshover, S. J., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C. (2018). Parent Praise to Toddlers Predicts Fourth Grade Academic Achievement via Children's Incremental Mindsets. Developmental Psychology. https://doi.org/10.1037/dev0000444
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Path analysis (FIML, bias-corrected bootstrap with 10,000 draws) of the longitudinal sample of 53 children observed at ages 14, 26, and 38 months. The indirect path was "significant in the mathematics model" and in reading comprehension, holding controls. No standardized effect size printed for the indirect effect.
 

@@ -15,12 +15,14 @@ sources:
     author: Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a simultaneous regression with 98 children, Dot Matrix, visual WM, Phonological Decoding, Spatial Orientation and Trail-making were significant predictors of math, explaining 65% of variance. [→ Szűcs Dénes 2014](#szucs-denes-2014)
@@ -31,7 +33,7 @@ sources:
 
 Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2014). Cognitive components of a mathematical processing network in 9-year-old children. Developmental Science. https://doi.org/10.1111/desc.12144
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Simultaneous multiple regression (M1) in 98 9-year-olds with normal reading skill, using permutation and bootstrap procedures; the initial nine-variable model "explained 65% of variance" with five significant predictors.
 

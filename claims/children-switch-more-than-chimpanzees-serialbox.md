@@ -15,12 +15,14 @@ sources:
     author: "Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children switched to the efficient method more often than chimpanzees on the same puzzlebox task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 56% of children switched to the efficient method before the token was in the dent versus 18% of chimpanzees in prior work. [→ Davis 2022](#davis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Davis, S., Rawlings, B., Clegg, J. M., Ikejimba, D., Watson-Jones, R. E., Whiten, A. & Legare, C. H. (2022). Cognitive flexibility supports the development of cumulative cultural learning in children. Scientific Reports. https://doi.org/10.1038/s41598-022-18231-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Cross-species comparison with the same Serialbox used by Davis et al. with chimpanzees: "just 18% of chimpanzees, compared to 56% of children here, switched to the efficient method prior to the token being put into the dent". After the token was in the dent, 45% of chimpanzees versus 62% of children switched.
 

@@ -15,18 +15,22 @@ sources:
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: price-2010-2
     resource: "https://doi.org/10.1080/13825580903287941"
     title: "Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941"
     author: Price, Jodi; Hertzog, Christopher; Dunlosky, John
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Point values and point order altered item selection and recall: Easy First order produced higher recall, and points increased goal pursuit but appeared to hurt recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Participants given the Difficult First point order first selected reliably more difficult items than those given the Easy First order. [→ Price 2010](#price-2010)
@@ -38,7 +42,7 @@ sources:
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 2 first-selection analysis; the printed contrast is "(M = 2.08, SE = .11 versus M = 1.79, SE = .09, respectively), F (1, 79) = 4.79, p < .05, ηp2= .057". The effect was reliable only for the first selection.
 
@@ -48,7 +52,7 @@ Experiment 2 first-selection analysis; the printed contrast is "(M = 2.08, SE = 
 
 Price, Jodi; Hertzog, Christopher; Dunlosky, John. (2010). Self-Regulated Learning in Younger and Older Adults: Does Aging Affect Metacognitive Control? Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://doi.org/10.1080/13825580903287941
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 2 recall by point order; printed effects are "F (1, 89) = 6.33, p < .05, ηp2= .066" (high value) and "F (1, 89) = 6.61, p < .05, ηp2= .069" (low value). Younger adults showed high/low recall differentiation regardless of order; older adults did not.
 

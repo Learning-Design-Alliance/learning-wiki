@@ -15,12 +15,14 @@ sources:
     author: "Soederberg Miller, L. M., & West, R. L."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The false feedback manipulation successfully altered performance beliefs: the high-PFB group rated their performance higher relative to age peers than the low-PFB group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A main effect of feedback on final self-evaluation of performance (η² = .58) confirmed that both older and younger adults accepted the veracity of the feedback they were given. [→ Soederberg Miller 2010](#soederberg-miller-2010)
@@ -31,7 +33,7 @@ sources:
 
 Soederberg Miller, L. M., & West, R. L. (2010). The Effects of Age, Control Beliefs, and Feedback on Self-Regulation of Reading and Problem Solving. Experimental Aging Research, 36(1), 40-63. https://doi.org/10.1080/03610730903418380
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Age (young, old) × Feedback (high, low) ANOVA on final self-evaluation of performance relative to age group, serving as the manipulation check. The article reports "F(1,91) = 127.8, p < .001, η2 = .58", a large effect; a smaller main effect of age (F(1,91) = 5.8, p < .05, η2 = .06) showed older adults rated their performance lower than younger adults.
 

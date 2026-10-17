@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (3 quant-synthesis, 2 review, 2 associational), `q2`–`q3` · 2 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (3 quant-synthesis, 3 associational, 2 review), `q2`–`q3` · 2 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -46,6 +46,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](../claims/college-readiness-as-student-college-interaction.md) [+W]
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](../claims/positive-developmental-relationships-active-ingredient.md) [+W]
 - [Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments](../claims/poverty-concentration-and-parental-academic-press-negative-civic-effects.md) [~W]
+- [More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample](../claims/positive-parenting-associated-higher-kindergarten-curiosity.md) [+W] — attached 2026-10-17 from Shah PE et al. (2023), which proposed "Ecological (Bronfenbrenner) multi-level framework for contexts fostering early childhood curiosity".
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

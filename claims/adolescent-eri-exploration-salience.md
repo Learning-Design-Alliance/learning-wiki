@@ -15,12 +15,14 @@ sources:
     author: "Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # ERI exploration becomes a salient component of identity development during adolescence as social-cognitive maturity increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` During adolescence, increased social-cognitive maturity enables youth to explore their ethnicity and internalize values from their ethnic and racial groups, making exploration a particularly salient ERI component in this period. [→ Umaña-Taylor 2014](#umana-taylor-2014)
@@ -31,7 +33,7 @@ sources:
 
 Umaña-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M., Seaton, E., Quintana, S. M., Cross, W. E. Jr., Schwartz, S. J., & Yip, T. (2014). Ethnic and Racial Identity During Adolescence and Into Young Adulthood: An Integrated Conceptualization. Child Development. https://doi.org/10.1111/cdev.12196
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Theoretical synthesis by the Study Group, drawing on prior models (Phinney's extension of Erikson and Marcia), holds that "the construct of ERI exploration or search is particularly salient during this developmental period." Exploration includes thinking about one's ethnicity, talking with others, and participating in ethnic-group activities. No effect size is printed.
 

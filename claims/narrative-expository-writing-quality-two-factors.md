@@ -15,12 +15,14 @@ sources:
     author: Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Third-grade narrative and expository writing quality are distinct but strongly related factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A two-factor model of narrative and expository writing quality fit better than a single-factor model (Δχ²[Δdf = 1] = 18.99, p < .001), with the two factors correlated r = .70. [→ Kim Young-Suk 2015](#kim-young-suk-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predictors of Third Grade Writing. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2014.11.009
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Confirmatory factor analysis of third-grade writing quality ratings (idea development and organization, kappa .82–.88) from the 157-child sample. The quote reports the two-factor superiority test and the r = .70 correlation between factors.
 

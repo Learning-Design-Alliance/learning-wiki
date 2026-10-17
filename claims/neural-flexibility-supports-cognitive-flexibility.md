@@ -15,12 +15,14 @@ sources:
     author: "Dajani, D. R., & Uddin, L. Q."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Neural variability and flexibility may underlie cognitive flexibility, with an optimal level required across the lifespan
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Greater variability of functional connection strengths across time is seen with increasing age in typical development, but excessive neural variability may be maladaptive in disorders such as ASD. [→ Dajani 2015](#dajani-2015)
@@ -31,7 +33,7 @@ sources:
 
 Dajani, D. R., & Uddin, L. Q. (2015). Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2015.07.003
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review of emerging neuroimaging literature. Although neural variability appears beneficial in typical development, "excessive neural variability may be maladaptive in clinical disorders such as ASD", with EEG and fMRI studies reporting excessive variability in primary sensory regions in ASD.
 

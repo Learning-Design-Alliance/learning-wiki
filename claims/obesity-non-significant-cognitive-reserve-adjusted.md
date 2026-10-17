@@ -15,12 +15,14 @@ sources:
     author: Ihle, Andreas; Mons, Ute; Perna, Laura; Oris, Michel; Fagot, Delphine; Gabriel, Rainer; Kliegel, Matthias
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Obesity is not related to verbal abilities, processing speed, or cognitive flexibility when cognitive reserve in early and midlife is accounted for
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hierarchical regression analyses showed that obesity was not related to any of the three investigated cognitive performance measures when cognitive reserve in early and midlife was taken into account. [→ Ihle 2016](#ihle-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ihle, Andreas; Mons, Ute; Perna, Laura; Oris, Michel; Fagot, Delphine; Gabriel, Rainer; Kliegel, Matthias (2016). The Relation of Obesity to Performance in Verbal Abilities, Processing Speed, and Cognitive Flexibility in Old Age: The Role of Cognitive Reserve. Dementia and Geriatric Cognitive Disorders. https://doi.org/10.1159/000448916
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression analysis in the same cross-sectional study of 2,812 older adults, adding cognitive reserve proxies (educational attainment, occupation, engagement in activities throughout adulthood) as covariates. The study reports that "obesity was not related to any of the three investigated cognitive performance measures when cognitive reserve in early and midlife was taken into account."
 

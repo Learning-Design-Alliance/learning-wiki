@@ -17,7 +17,7 @@ sources:
 # School personnel practices to promote belonging for students with chronic medical conditions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends concrete school-level actions: "acknowledging the extra struggle that a student with a chronic medical condition may experience and communicating empathy can promote perceived belonging"; creating a safe environment for students who feel different because of absence or visible signs of condition; and expressing awareness of less obvious issues such as fatigue and processing speed delays. It also suggests offering high-risk students specific opportunities for positive teacher and peer relationships.
@@ -39,7 +39,7 @@ The article recommends concrete school-level actions: "acknowledging the extra s
 - on-time high school completion
 
 ### Affordances
-- [School Belonging Promotive Components](../theories/school-belonging-promotive-components.md)
+- [School Belonging Promotive Components](../theories/maslow-hierarchy-of-needs.md)
 
 ## Claims
 

@@ -15,12 +15,14 @@ sources:
     author: Mussolin, C. and Noël, M-P.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with PoorAF scored similarly to controls on word, object, country, and proverb selection tasks, refuting general semantic memory and verbal routine deficit hypotheses. [→ Mussolin 2008](#mussolin-2008)
@@ -31,7 +33,7 @@ sources:
 
 Mussolin, C. and Noël, M-P. (2008). Specific Retrieval Deficit from Long-Term Memory in Children with Poor Arithmetic Facts Abilities. The Open Psychology Journal. https://doi.org/10.2174/1874350100801010026
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Separate analyses by task following the group-by-task ANCOVA showed no significant group differences on word, object, country, or proverb selection tasks (all p > .05). The proverb task was more difficult for both groups but showed no group difference.
 

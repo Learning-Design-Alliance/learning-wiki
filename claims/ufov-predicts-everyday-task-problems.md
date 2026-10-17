@@ -15,18 +15,22 @@ sources:
     author: Owsley Cynthia
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: owsley-cynthia-2012-2
     resource: "https://doi.org/10.1016/j.visres.2012.11.014"
     title: "Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014"
     author: Owsley Cynthia
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Poorer useful field of view performance in older adults predicts motor vehicle collision risk and difficulties in everyday visual tasks, even after adjustment for sensory and cognitive impairment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Older drivers with impaired useful field of view performance are at elevated risk for collision involvement and impaired on-road or simulated driving performance. [→ Owsley Cynthia 2012](#owsley-cynthia-2012)
@@ -38,7 +42,7 @@ sources:
 
 Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The review synthesizes multiple studies, including prospective cohort work, finding that "Older drivers with impaired useful field of view performance are at an elevated risk for motor vehicle collision involvement" and impaired driving performance. No pooled effect size is printed.
 
@@ -48,7 +52,7 @@ The review synthesizes multiple studies, including prospective cohort work, find
 
 Owsley Cynthia. (2012). Visual Processing Speed. Vision Research. https://doi.org/10.1016/j.visres.2012.11.014
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports observational associations between UFOV deficits and daily-living problems including mobility, travel limitation, physical activity, falls risk, and increased time for tasks like reading a prescription bottle. These are correlational associations, not experimental effects.
 

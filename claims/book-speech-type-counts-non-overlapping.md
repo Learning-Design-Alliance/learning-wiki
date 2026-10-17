@@ -15,12 +15,14 @@ sources:
     author: Montag Jessica L., Jones Michael N., Smith Linda B.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # At matched token sizes, samples of picture-book text almost never contain fewer unique word types than samples of child-directed speech
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At a token size of 100, speech exceeded text in unique types in only 9 of 100 paired samples, and at 200 tokens in only 2 of 100; at 300 tokens or greater the ranges were completely non-overlapping. [→ Montag Jessica L. 2015](#montag-jessica-l-2015)
@@ -31,7 +33,7 @@ sources:
 
 Montag Jessica L., Jones Michael N., Smith Linda B. (2015). The words children hear: Picture books and the statistics for language learning. Psychological Science. https://doi.org/10.1177/0956797615594361
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Results of paired comparisons of 100 book samples with 100 length-matched CHILDES speech samples across token sizes (Figure 1a). The article reports the paired-sample counts quoted and states that in all samples of 300 tokens or greater the ranges of type counts were completely non-overlapping. No effect size is printed.
 

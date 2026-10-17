@@ -15,12 +15,14 @@ sources:
     author: "Torres, M. M., Domitrovich, C. E., & Bierman, K. L."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Positive preschool interpersonal relationships predict gains in emotion knowledge over the prekindergarten year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In a longitudinal SEM of Head Start children, positive interpersonal relationships (student-teacher closeness and positive peer interactions) in fall of preschool significantly predicted gains in emotion knowledge by spring (β = .27, p < .01). [→ Torres 2015](#torres-2015)
@@ -31,7 +33,7 @@ sources:
 
 Torres, M. M., Domitrovich, C. E., & Bierman, K. L. (2015). Preschool Interpersonal Relationships Predict Kindergarten Achievement: Mediated by Gains in Emotion Knowledge. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.04.008
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Structural equation model with 164 Head Start children, controlling for baseline cognitive ability, emotion knowledge, and achievement; model fit acceptable (RMSEA = .07; CFI = .95). The "direct effect of positive interpersonal relationships on gains in emotion knowledge during preschool was significant (β = .27, p < .01)".
 

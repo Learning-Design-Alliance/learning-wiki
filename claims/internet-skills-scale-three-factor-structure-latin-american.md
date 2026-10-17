@@ -15,12 +15,14 @@ sources:
     author: "Burin, D. I., Irrazabal, N., Injoque Ricle, I., Saux, G., & Barreyro, J. P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis of the adapted scale in 254 college students supported a three-factor solution corresponding to formal/navigation, informational/evaluation, and operational skills. [→ Burin 2018](#burin-2018)
@@ -31,7 +33,7 @@ sources:
 
 Burin, D. I., Irrazabal, N., Injoque Ricle, I., Saux, G., & Barreyro, J. P. (2018). Self-reported internet skills, previous knowledge and working memory in text comprehension in E-learning. International Journal of Educational Technology in Higher Education, 15:18. https://doi.org/10.1186/s41239-018-0099-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Factor analytic study (Study 1) of the translated Internet Skills Scale with 254 first-year undergraduates from a large public Argentinian university, using EFA for ordinal data with parallel analysis. The three-factor model showed "good model fit ( RMSR = .05)" and 69.57% explained variance, outperforming one- and two-factor models.
 

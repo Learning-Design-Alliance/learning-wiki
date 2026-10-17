@@ -15,12 +15,14 @@ sources:
     author: Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In partial correlational analyses, the association between number line estimation and subtraction disappeared while the association with numerical magnitude comparison remained significant. [→ Linsen 2014](#linsen-2014)
@@ -31,7 +33,7 @@ sources:
 
 Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association between Children's Numerical Magnitude Processing and Mental Multi-digit Subtraction. Acta Psychologica. https://doi.org/10.1016/j.actpsy.2013.10.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Partial correlational analyses controlling for the other task and intellectual ability showed number line estimation no longer predicted subtraction performance, whereas numerical magnitude comparison did. The article reports "the association with numerical magnitude comparison was still significant"; no effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Processing speed measured with response times is better represented as four distinct cognitive processes (planning, attention, simultaneous, successive) than as a unitary speed factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across three cultural groups, the distinct abilities processing speed model fit better than the unitary ability model and the bifactor model. [→ Papadopoulos 2018](#papadopoulos-2018)
@@ -31,7 +33,7 @@ sources:
 
 Papadopoulos, T. C., Georgiou, G. K., Deng, C., & Das, J. P. (2018). The Structure of Speed of Processing Across Cultures. Advances in Cognitive Psychology, 14(3), 112–125. https://doi.org/10.5709/acp-0243-7
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation modeling compared three nested theory-driven models (distinct abilities, unitary, bifactor) in 320 university students from Canada (n = 115), China (n = 110), and Cyprus (n = 95) assessed on a computerized D-N CAS adaptation. The distinct abilities model was "the most parsimonious" and produced the lowest AIC and ECVI among the configural models.
 

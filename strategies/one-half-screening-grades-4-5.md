@@ -17,7 +17,7 @@ sources:
 # Assess accuracy and strategy use on one-half fraction items at the end of Grades 4 and 5 to identify students needing additional fraction support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors propose a screening strategy grounded in their finding that one-half items are easier than non-half items for most children but not for those with MLD. They write that "assessing accuracy and strategy use on one-half items at the conclusion of 4th and 5th grades may be a relatively efficient way to identify children in need of additional instructional support with fraction concepts and to assess readiness to learn more advanced fraction concepts". The strategy pairs accuracy measurement with querying the strategies children use, since the article argues strategy use may be more informative than overall accuracy for children with MLD.

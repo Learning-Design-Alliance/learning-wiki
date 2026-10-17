@@ -15,12 +15,14 @@ sources:
     author: Malone Amelia S., Loehr Abbey M., Fuchs Lynn S.
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Place value label use correlates with accuracy on fraction-decimal equivalency items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Place value label use was positively correlated with accuracy on the six equivalency items containing both a fraction and a decimal (r=.43, p<.001). [→ Malone Amelia S. 2017](#malone-amelia-s-2017)
@@ -31,7 +33,7 @@ sources:
 
 Malone Amelia S., Loehr Abbey M., Fuchs Lynn S. (2017). The Role of Domain-General Cognitive Abilities and Decimal Labels in At-Risk Fourth-Grade Students' Decimal Magnitude Understanding. Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2017.05.007
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Secondary correlational analysis of the six true/false items pairing a fraction and decimal (e.g., 6/10=0.6). Authors suggest these items primed students to use place value knowledge.
 

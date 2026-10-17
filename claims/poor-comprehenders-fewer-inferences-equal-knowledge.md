@@ -15,12 +15,14 @@ sources:
     author: Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Skilled comprehenders made more inferences in general than less skilled comprehenders when knowledge-base recall was conditionalized, with no significant effect of inference type and no interaction. [→ Kate Cain 2001](#kate-cain-2001)
@@ -31,7 +33,7 @@ sources:
 
 Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Experiment with 13 skilled and 13 less skilled 7- to 8-year-old comprehenders matched for word reading; proportional inference scores were analyzed in a two-way ANOVA. The article reports "a main effect of skill group" with F(1,24) = 12.31, p < .002; effect sizes of 1.3 and 0.96 were calculated for coherence and elaborative inferences.
 

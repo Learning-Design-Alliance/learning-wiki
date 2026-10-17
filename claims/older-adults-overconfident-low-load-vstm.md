@@ -15,12 +15,14 @@ sources:
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # At low memory loads, older adults report less uncertainty than younger adults despite making larger errors, suggesting an overconfidence bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Reported uncertainty declined with age at loads 1 and 2 (load 1: r = -0.14, p < .001; load 2: r = -0.13, p < .01) but not at loads 3 through 4. [→ Daniel J. Mitchell 2018](#daniel-j-mitchell-2018)
@@ -31,7 +33,7 @@ sources:
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Correlation of mean confidence-interval width with age per memory load in the Cam-CAN sample. The article interprets this as older adults being more confident of their judgments than younger adults at low loads despite making larger errors, a metacognitive bias consistent with reported age-related increases in overconfidence.
 

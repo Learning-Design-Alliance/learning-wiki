@@ -15,18 +15,22 @@ sources:
     author: Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: kate-cain-2001-2
     resource: "https://doi.org/10.3758/bf03196414"
     title: "Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414"
     author: Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Skilled comprehenders recall more literal story content than less skilled comprehenders, but the groups do not differ significantly in interpreting novel similes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Skilled comprehenders recalled more literal information than less skilled comprehenders. [→ Kate Cain 2001](#kate-cain-2001)
@@ -38,7 +42,7 @@ sources:
 
 Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 T test on literal content question scores (maximum 18) for the two matched groups of 13 children each. The article reports t(24) = 2.65, p < .015, favoring skilled comprehenders.
 
@@ -48,7 +52,7 @@ T test on literal content question scores (maximum 18) for the two matched group
 
 Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 T test on simile comprehension scores (maximum 18) for the same two groups. The article reports the difference did not reach significance, t(24) = 1.63, p > .10; the authors call this finding somewhat surprising given shared inferential processes.
 

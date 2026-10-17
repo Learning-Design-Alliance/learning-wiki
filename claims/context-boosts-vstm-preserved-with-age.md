@@ -15,24 +15,30 @@ sources:
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: daniel-j-mitchell-2018-2
     resource: "https://doi.org/10.1037/pag0000265"
     title: "Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265"
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: daniel-j-mitchell-2018-3
     resource: "https://doi.org/10.1037/pag0000265"
     title: "Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265"
     author: Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Consistent visual context between sample and probe boosts all measures of VSTM performance, and the benefit is preserved across the adult age range
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Performance was better on all VSTM measures when probe context matched the sample display. [→ Daniel J. Mitchell 2018](#daniel-j-mitchell-2018)
@@ -45,7 +51,7 @@ sources:
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed effects model on the Cam-CAN sample with within-subject factor of probe context (present, absent), age covariate, and participant random effect. Context was experimentally manipulated, supporting a causal boost to VSTM performance.
 
@@ -55,7 +61,7 @@ Linear mixed effects model on the Cam-CAN sample with within-subject factor of p
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Descriptive estimate from the same mixed effects analysis: reinstating the colors of uncued items at probe raised maximum item capacity by 0.18 items on average. This is a printed mean difference, not a standardized effect size.
 
@@ -65,7 +71,7 @@ Descriptive estimate from the same mixed effects analysis: reinstating the color
 
 Daniel J. Mitchell, Cam-CAN (Cambridge Centre for Ageing and Neuroscience), Rhodri Cusack. (2018). Visual Short-Term Memory Through the Lifespan: Preserved Benefits of Context and Metacognition. Psychology and Aging. https://doi.org/10.1037/pag0000265
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Age-by-context interaction tests in the linear mixed effects model, run with and without sensorimotor adjustment. For RMSE the article reports a weakly significant interaction (p = .037) without adjustment that became nonsignificant (p = .054) after adjustment, with the context benefit on RMSE dropping from 8.7 to 5.8 degrees over 71 years.
 

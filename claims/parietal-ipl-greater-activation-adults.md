@@ -15,12 +15,14 @@ sources:
     author: Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Inferior parietal cortex (BA 39 and 40) shows greater overall activation in adults than children and a more pronounced effect of relational integration in adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Parietal activation was greater in adults than children, with a significant group x condition x timepoint interaction driven by relatively increased REL-1 activation in children. [→ Crone Eveline A. 2009](#crone-eveline-a-2009)
@@ -31,7 +33,7 @@ sources:
 
 Crone Eveline A., Wendelken Carter, van Leijenhorst Linda, Honomichl Ryan D., Christoff Kalina, Bunge Silvia A. (2009). Neurocognitive development of relational reasoning. Developmental Science, 12(1), 55-66. https://doi.org/10.1111/j.1467-7687.2008.00743.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ROI ANOVA on left BA 39 and BA 40 in children and adults performing the RPM-like task. The main effect of group "F(1,30) = 8.0, p < .01" and a group x condition x timepoint interaction (F(16,480)=3.2, p<.001) driven by increased REL-1 activation in children in both parietal ROIs.
 

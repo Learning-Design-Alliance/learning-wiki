@@ -15,12 +15,14 @@ sources:
     author: Gazzaley A, Nobre AC
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Ten minutes of rTMS to right IFJ significantly diminished top-down modulation of the P1 ERP component and significantly reduced color working memory accuracy, with recovery of both over time. [→ Gazzaley A 2012](#gazzaley-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Causal perturbation study (Zanto et al.) combining fMRI-guided rTMS of right IFJ with EEG during a feature delayed-response task. The review reports the significant P1 modulation reduction and "a significant reduction in WM accuracy for color", with P1 modulation and WM performance recovering together after rTMS.
 

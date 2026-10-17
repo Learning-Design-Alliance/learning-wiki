@@ -15,12 +15,14 @@ sources:
     author: Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # School-setting studies show no overall significant difference between active and classroom lessons, but subgroup effects emerge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` School-setting studies found no overall significant difference in attention after active vs classroom lessons, though subgroup analyses showed significant results for ages 9–10 and coordinative exercises. [→ Janssen M 2014](#janssen-m-2014)
@@ -31,7 +33,7 @@ sources:
 
 Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute bouts of physical activity on children's attention: a systematic review of the literature. SpringerPlus. https://doi.org/10.1186/2193-1801-3-410
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review's synthesis of six school-setting studies (D2-test, on-task observation, Woodcock-Johnson, CAS measures). Reports "no overall significant difference in attention after an active lesson and a classroom lesson" with subgroup effects.
 

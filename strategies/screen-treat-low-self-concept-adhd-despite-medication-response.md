@@ -16,7 +16,7 @@ sources:
 # Screen for and treat low self-concept in children with ADHD even when medication is managing symptoms well
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors recommend that clinicians address self-concept directly as part of ADHD care, not only symptoms. They write that "screening and treating low self-concept should be considered, even when medication is resulting in a good response for managing the symptoms of ADHD." Specific activities include identifying personal strengths, sharing success stories, and providing peer support, with early intervention to prevent secondary emotional injuries.

@@ -15,12 +15,14 @@ sources:
     author: Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Older adults show reduced accuracy in severe noise (SNR -5) but perform comparably to younger adults in quiet and moderate noise (SNR 20)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Older and younger adults did not differ significantly in word identification accuracy in the quiet and SNR 20 conditions, but older adults were significantly less accurate in the SNR -5 condition. [→ Wong Patrick C. M. 2009](#wong-patrick-c-m-2009)
@@ -31,7 +33,7 @@ sources:
 
 Wong Patrick C. M., Jin James Xumin, Gunasekera Geshri M., Abel Rebekah, Lee Edward R., Dhar Sumitrajit. (2009). Aging and Cortical Mechanisms of Speech Perception in Noise. Neuropsychologia 47(3), 693-703. https://doi.org/10.1016/j.neuropsychologia.2008.11.032
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 In-scanner behavioral accuracy from a group x condition repeated measures ANOVA in 24 adults (12 younger, 12 older). Posthoc Bonferroni-corrected t-tests showed "no significant within-group difference for the Quiet vs. SNR 20 comparison" and no between-group differences in those conditions; between-group differences emerged only in SNR -5 (p < .001).
 

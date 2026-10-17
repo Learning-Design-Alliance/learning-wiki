@@ -15,12 +15,14 @@ sources:
     author: Volkow ND, Wang GJ, Newcorn JH, Kollins SH, Wigal TL, Telang F, Fowler JS, Goldstein RZ, Klein N, Logan J, Wong C, Swanson JM
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Positive Emotionality correlates with midbrain D2/D3 receptor availability in ADHD adults, while Negative Emotionality and Constraint do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In ADHD participants, Positive Emotionality correlated significantly with midbrain D2/D3 receptor availability (r=0.41, p<0.005), but correlations with Negative Emotionality and Constraint were not significant. [→ Volkow ND 2011](#volkow-nd-2011)
@@ -31,7 +33,7 @@ sources:
 
 Volkow ND, Wang GJ, Newcorn JH, Kollins SH, Wigal TL, Telang F, Fowler JS, Goldstein RZ, Klein N, Logan J, Wong C, Swanson JM. (2011). Motivation Deficit in ADHD is Associated with Dysfunction of the Dopamine Reward Pathway. Molecular Psychiatry 16(11). https://doi.org/10.1038/mp.2010.97
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Secondary Pearson correlation analysis of MPQ broad factors against PET DA measures; midbrain D2/D3 with Positive Emotionality reached "r=0.41, p<0.005" in ADHD only. The authors attribute this to the Achievement scale being part of the Positive Emotionality factor.
 

@@ -15,12 +15,14 @@ sources:
     author: Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mid-year harm avoidance symptoms positively predict end-of-year oral reading fluency for boys and girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` T1 harm avoidance significantly predicted T2 fluency, with children reporting greater harm avoidance at mid-year tending to perform better on the fluency task. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
@@ -31,7 +33,7 @@ sources:
 
 Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K. (2012). Anxiety and Reading Difficulties in Early Elementary School: Evidence for Unidirectional- or Bi-Directional Relations? Child Psychiatry and Human Development, 43(1), 35-47. https://doi.org/10.1007/s10578-011-0246-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical linear regression predicting end-of-year fluency in the 153-child sample. T1 harm avoidance produced a small but significant ΔR2 of .01 beyond T1 fluency; Table 3 reports β = .11, t = 2.40. The discussion links this to a motivating role for moderate anxiety on timed tasks.
 

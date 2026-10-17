@@ -15,12 +15,14 @@ sources:
     author: Mussolin, C. and Noël, M-P.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PoorAF and control children do not differ in perceptual processing speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The two groups did not differ in a perceptual shape-matching task requiring no memory retrieval, refuting a general speed-of-processing deficit hypothesis. [→ Mussolin 2008](#mussolin-2008)
@@ -31,7 +33,7 @@ sources:
 
 Mussolin, C. and Noël, M-P. (2008). Specific Retrieval Deficit from Long-Term Memory in Children with Poor Arithmetic Facts Abilities. The Open Psychology Journal. https://doi.org/10.2174/1874350100801010026
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 A second ANCOVA with L3 scores as covariate confirmed a group effect only for the multiplication selection task (F(1, 33) = 11.695, p = .002) and not for the other tasks including the perceptual task. The article states the deficit "was not associated with a global low processing speed".
 

@@ -13,12 +13,14 @@ sources:
     title: Bellon E 2016
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Inhibition's role in arithmetic fact retrieval may be limited to atypically developing children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors propose that inhibition may matter for arithmetic fact retrieval in children with mathematical disabilities but not in typically developing children, an interpretation consistent with mixed prior findings. [→ Bellon E 2016](#bellon-e-2016)
@@ -29,7 +31,7 @@ sources:
 
 Bellon E, Fias W and De Smedt B (2016) Are Individual Differences in Arithmetic Fact Retrieval in Children Related to Inhibition? Front. Psychol. 7:825. https://doi.org/10.3389/fpsyg.2016.00825
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Authors' interpretation in the Discussion, contrasting their null result in typically developing children with Szucs et al.'s dyscalculia findings; they note other studies in mathematical disabilities found no association either.
 

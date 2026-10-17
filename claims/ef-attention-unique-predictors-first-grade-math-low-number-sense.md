@@ -15,18 +15,22 @@ sources:
     author: "Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: hassinger-das-2013-2
     resource: "https://doi.org/10.1016/j.jecp.2013.09.008"
     title: "Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N. (2013). Domain General Mediators of the Relation between Kindergarten Number Sense and First-Grade Mathematics Achievement. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2013.09.008"
     author: "Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In multiple regression analyses controlling for background variables, attention problems, kindergarten number sense, nonverbal reasoning, and executive functioning each made unique contributions to first-grade number sense. [→ Hassinger-Das 2013](#hassinger-das-2013)
@@ -38,7 +42,7 @@ sources:
 
 Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N. (2013). Domain General Mediators of the Relation between Kindergarten Number Sense and First-Grade Mathematics Achievement. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2013.09.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multiple regression analysis (MRA) of the longitudinal sample of 107 children with low kindergarten number sense (NSB ≤ 22). The model predicting first-grade NSB was significant, R2 = .616, F(9, 97) = 17.31, p = .001, and "attention problems, kindergarten number sense, nonverbal reasoning, and executive functioning" were unique predictors.
 
@@ -48,7 +52,7 @@ Multiple regression analysis (MRA) of the longitudinal sample of 107 children wi
 
 Hassinger-Das, B., Jordan, N. C., Glutting, J., Irwin, C., & Dyson, N. (2013). Domain General Mediators of the Relation between Kindergarten Number Sense and First-Grade Mathematics Achievement. Journal of Experimental Child Psychology. https://doi.org/10.1016/j.jecp.2013.09.008
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 MRA predicting first-grade WJ Applied Problems in the same 107-child low-number-sense sample was significant, R2 = .500, F(9, 97) = 10.76, p = .001; executive functioning made the largest unique contribution, 1.3 times that of attention problems.
 

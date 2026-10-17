@@ -15,12 +15,14 @@ sources:
     author: Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Childhood trauma exposure is associated with memory deficits specifically, not with attentional or organizational impairments, in healthy adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The higher error rate in the Spatial Working Memory task in subjects with higher levels of physical neglect or emotional abuse presumably reflects a pure memory deficit rather than attentional or organizational problems. [→ Majer M 2010](#majer-m-2010)
@@ -31,7 +33,7 @@ sources:
 
 Majer M, Nater UM, Lin J-MS, Capuron L, Reeves WC. (2010). Association of childhood trauma with cognitive function in healthy adults: a pilot study. BMC Neurology. https://doi.org/10.1186/1471-2377-10-61
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 The authors' interpretation of their pilot study findings, reasoning that the higher error rate "presumably reflects a pure memory deficit" because attentional and organizational measures showed no associations.
 

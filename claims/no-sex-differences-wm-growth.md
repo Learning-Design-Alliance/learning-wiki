@@ -15,12 +15,14 @@ sources:
     author: "Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Male and female WM growth trajectories do not differ: sex-by-age interactions are non-significant after multiple-comparison correction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Biological sex × age interaction coefficients for forward and backward digit span growth were non-significant in the full PSID-CDS and in the ECLS-K:2011 after correction. [→ Ahmed 2022](#ahmed-2022)
@@ -31,7 +33,7 @@ sources:
 
 Ahmed, S. F., Ellis, A., Ward, K. P., Chaku, N., & Davis-Kean, P. E. (2022). Working memory development from early childhood to adolescence using two nationally representative samples. Developmental Psychology. https://doi.org/10.1037/dev0001396
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Robustness check interacting biological sex with age in the PSID-CDS cubic models; "non-significant interaction coefficients" for both tasks (p = .217 and p = .224). The ECLS-K:2011 interaction (b = −0.520, p = .041) was also non-significant after Bonferroni correction.
 

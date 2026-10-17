@@ -10,16 +10,19 @@ generated:
 evidence_strength: weak
 sources:
   - id: houck-2011
-    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247."
+    resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
+    title: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)"
     author: "Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G."
     q: 2
     i: 1
+    kind: associational
+    rigour: "?"
 ---
 
 # Gender is not related to self-concept in children with ADHD, though females report more internalizing problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r?` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Gender shows a small but significant correlation with internalizing behavior problems, with females yielding higher scores (r = .17, p = .02), but is not related to externalizing scores or self-concept. [→ Houck 2011](#houck-2011)
@@ -28,9 +31,9 @@ sources:
 
 ### Houck 2011
 
-Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247.
+Houck, G., Kendall, J., Miller, A., Morrell, P., & Wiebe, G. (2011). Self Concept in Children and Adolescents with ADHD. Journal of Pediatric Nursing, 26(3), 239-247. [doi:10.1016/j.pedn.2010.02.004](https://doi.org/10.1016/j.pedn.2010.02.004)
 
-`q2 · i1`
+`q2 · i1` · `associational · r?`
 
 Correlation analysis in the descriptive correlational study of 145 children with ADHD (31 females, 21.4%). The article also states gender was not related to the self-concept score and did not uniquely predict self-concept in regression.
 

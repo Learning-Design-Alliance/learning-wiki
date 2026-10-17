@@ -15,12 +15,14 @@ sources:
     author: "Gunderson, E. A., Sorhagen, N. S., Gripshover, S. J., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Boys received more process praise and scored higher in 4th grade math than girls in this sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Boys received a larger proportion of process praise as toddlers than girls (d = 0.90) and had higher 4th grade math scores (d = 0.82); indirect paths from gender through praise and frameworks to achievement were significant. [→ Gunderson 2018](#gunderson-2018)
@@ -31,7 +33,7 @@ sources:
 
 Gunderson, E. A., Sorhagen, N. S., Gripshover, S. J., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C. (2018). Parent Praise to Toddlers Predicts Fourth Grade Academic Achievement via Children's Incremental Mindsets. Developmental Psychology. https://doi.org/10.1037/dev0000444
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Preliminary t-test comparisons in the same longitudinal sample. Boys' process praise advantage (d = 0.90) and marginal framework advantage (d = 0.48) are printed; boys also showed higher 4th grade math (t(48) = 2.83, p = .007, d = 0.82).
 

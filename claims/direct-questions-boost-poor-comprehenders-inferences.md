@@ -15,12 +15,14 @@ sources:
     author: Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # When explicitly required by direct questions, less skilled comprehenders' inference performance improves greatly while skilled comprehenders perform at ceiling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` With prompts and direct questions added, skilled comprehenders reached ceiling and less skilled comprehenders' inference scores improved substantially, though these descriptive data were not statistically analyzed. [→ Kate Cain 2001](#kate-cain-2001)
@@ -31,7 +33,7 @@ sources:
 
 Kate Cain, Jane V. Oakhill, Marcia A. Barnes, and Peter E. Bryant. (2001). Comprehension skill, inference-making ability, and their relation to knowledge. Memory & Cognition, 29(6), 850-859. https://doi.org/10.3758/bf03196414
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive analysis of total inferences made across initial questions, prompts, and direct questions (e.g., "Why did Dack wish he was a turtle?"), adjusted for knowledge-base recall. The article states these data are not independent of earlier scores and were not subjected to statistical analysis; means are reported in Table 7.
 

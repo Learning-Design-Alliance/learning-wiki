@@ -15,12 +15,14 @@ sources:
     author: Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Number sense measures are non-significant predictors of math once more robust predictors are included
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Non-symbolic comparison COV became non-significant when any visuo-spatial predictor was added, and no number sense measure survived with more than two non-number sense predictors. [→ Szűcs Dénes 2014](#szucs-denes-2014)
@@ -31,7 +33,7 @@ sources:
 
 Szűcs Dénes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2014). Cognitive components of a mathematical processing network in 9-year-old children. Developmental Science. https://doi.org/10.1111/desc.12144
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Forced-entry regression models starting from number sense measures in the same 98-child sample; number sense predictors lost significance as visuo-spatial and reading variables were added, and "None of the number sense measures proved to be reliable when there were more than two non-number sense predictors in the model."
 

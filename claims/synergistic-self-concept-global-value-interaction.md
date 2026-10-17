@@ -15,12 +15,14 @@ sources:
     author: "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Latent interactions between self-concept and global value significantly and positively predicted all three outcomes (achievement β = .15, effort β = .10, engagement β = .05), supporting a synergistic relation. [→ Guo 2016](#guo-2016)
@@ -31,7 +33,7 @@ sources:
 
 Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U. (2016). Probing the Unique Contributions of Self-Concept, Task Values, and Their Interactions Using Multiple Value Facets and Multiple Academic Outcomes. AERA Open. https://doi.org/10.1177/2332858415626884
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 LMS latent interaction SEM (Model D1 vs. C1; ΔAIC = 211, ΔBIC = 227) in the sample of 1,868 ninth-graders. The article prints unstandardized-magnitude interaction coefficients (achievement β = .15, effort β = .10, engagement β = .05) but no standardized effect size for the interactions; response-surface plots show the effect of self-concept on achievement is "weaker with low value and substantially stronger with high value".
 

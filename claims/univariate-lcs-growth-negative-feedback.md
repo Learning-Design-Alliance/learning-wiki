@@ -15,12 +15,14 @@ sources:
     author: "Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Both cognitive domains showed significant growth, negative self-feedback, and substantial individual differences in change over the interval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Univariate LCS models showed significant change-score intercepts in both domains, negative self-feedback (higher Time 1 scores associated with less improvement), and significant variance in change scores. [→ Kievit 2017](#kievit-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kievit, R. A., Lindenberger, U., Goodyer, I. M., Jones, P. B., Fonagy, P., Bullmore, E. T., the Neuroscience in Psychiatry Network, & Dolan, R. J. (2017). Mutualistic Coupling Between Vocabulary and Reasoning Supports Cognitive Development During Late Adolescence and Early Adulthood. Psychological Science. https://doi.org/10.1177/0956797617710785
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Two univariate LCS models fitted before the three-theory comparison in the Results section; both fitted well (Matrix Reasoning: CFI = 0.996; Vocabulary: CFI = 1.0) and showed change intercepts of 10.171 and 9.0 respectively, plus significant change-score variance.
 

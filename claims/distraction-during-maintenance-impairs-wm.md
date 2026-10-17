@@ -15,12 +15,14 @@ sources:
     author: Gazzaley A, Nobre AC
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Distractors presented during the maintenance period diminish WM performance, especially same-category distractors, and the degree of visual processing of irrelevant stimuli inversely correlates with subsequent recognition accuracy. [→ Gazzaley A 2012](#gazzaley-a-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gazzaley A, Nobre AC. (2012). Top-down modulation: Bridging selective attention and working memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2011.11.014
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review synthesis of ERP and fMRI studies of delay-period distraction. The review reports that "Distractions presented during maintenance diminish WM task performance, especially when distractors are of the same category as memoranda", and that distractor processing inversely correlates with recognition accuracy.
 

@@ -15,12 +15,14 @@ sources:
     author: "Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bullied boys show greater behavioral problems than bullied girls in withdrawn/depressed, social, thought, and aggression domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bullied boys had greater behavioral problems than bullied girls in withdrawn/depressed, social, thought, and aggression CBCL scales. [→ Menken 2022](#menken-2022)
@@ -31,7 +33,7 @@ sources:
 
 Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L. (2022). Peer victimization (bullying) on mental health, behavioral problems, cognition, and academic performance in preadolescent children in the ABCD Study. Frontiers in Psychology, 13, 925727. https://doi.org/10.3389/fpsyg.2022.925727
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional ABCD analysis of bullying-by-sex interactions on CBCL scores. The study reports "interactions were found between bullying status and sex" with ΔR² = 0.001, p < 0.01, and "bullied boys having greater problems than the bullied girls" in four syndrome scales.
 

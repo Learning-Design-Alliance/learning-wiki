@@ -13,12 +13,14 @@ sources:
     title: Bellon E 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Symbolic numerical magnitude processing significantly predicted arithmetic fact retrieval (p < 0.001) even when controlling for each inhibition task, whereas non-symbolic processing did not (p = 0.407). [→ Bellon E 2016](#bellon-e-2016)
@@ -29,7 +31,7 @@ sources:
 
 Bellon E, Fias W and De Smedt B (2016) Are Individual Differences in Arithmetic Fact Retrieval in Children Related to Inhibition? Front. Psychol. 7:825. https://doi.org/10.3389/fpsyg.2016.00825
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analysis in 86 third graders; the Bayes factor of 13 376 272 for symbolic NMP provided extreme evidence it is an important predictor, and omitting it from the model caused the largest loss of fit (Figure 2).
 

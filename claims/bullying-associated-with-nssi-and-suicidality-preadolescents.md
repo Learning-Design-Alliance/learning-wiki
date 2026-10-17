@@ -15,12 +15,14 @@ sources:
     author: "Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bullied children had higher odds of NSSI or passive suicidality (OR 2.4) and active suicidality (OR 3.4) than non-bullied children. [→ Menken 2022](#menken-2022)
@@ -31,7 +33,7 @@ sources:
 
 Menken, M. S., Isaiah, A., Liang, H., Rivera, P. R., Cloak, C. C., Reeves, G., Lever, N. A., & Chang, L. (2022). Peer victimization (bullying) on mental health, behavioral problems, cognition, and academic performance in preadolescent children in the ABCD Study. Frontiers in Psychology, 13, 925727. https://doi.org/10.3389/fpsyg.2022.925727
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional analysis of 11,015 ABCD Study children aged 9–10 using caregiver-reported K-SADS bullying and suicidality measures. The study reports "Bullied children were more likely to display NSSI or passive suicidality" with OR 2.4 and active suicidality with OR 3.4, both p < 0.001.
 

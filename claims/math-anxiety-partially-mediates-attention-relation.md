@@ -15,12 +15,14 @@ sources:
     author: "Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Math anxiety partially mediates the relation between attention problems and both math outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Attention problems showed a direct positive path to math anxiety, which was in turn negatively related to WM, providing an additional attention-to-math pathway. [→ Wu 2017](#wu-2017)
@@ -31,7 +33,7 @@ sources:
 
 Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children's non-verbal and verbal mathematical abilities. Cognition, 166, 118-129. https://doi.org/10.1016/j.cognition.2017.05.016
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Exploratory SEM pathway in 330 children; the article describes this as an exploratory analysis and interprets anxiety as possibly attenuating attentional weakness via increased vigilance.
 

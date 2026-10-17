@@ -15,12 +15,14 @@ sources:
     author: Wais, P. E., and Gazzaley, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Perturbing left VLPFC with rTMS exacerbates the disruptive effect of visual distraction on episodic retrieval, indicating a causal role in resolving interference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A Site × rTMS × Condition ANOVA showed a main effect of Condition and a significant Site × Condition interaction, with distraction effects greater after VLPFC than vertex treatment. [→ Wais 2014](#wais-2014)
@@ -31,7 +33,7 @@ sources:
 
 Wais, P. E., and Gazzaley, A. (2014). Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2014.00280
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Repeated-measures rTMS experiment comparing actual vs. sham stimulation at left VLPFC and vertex before test blocks. "this disruption of episodic retrieval was to a greater degree in the VLPFC experiment than the Vertex experiment"; no effect size printed.
 

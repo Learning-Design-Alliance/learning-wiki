@@ -15,12 +15,14 @@ sources:
     author: "Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Oral language showed no unique relation to first-grade compositional fluency (γ = −.07, p = .50) but a unique relation to quality (γ = .16, p = .05); in kindergarten its relation to fluency was non-significant (γ = −.10, p = .237). [→ Kent 2014](#kent-2014)
@@ -31,7 +33,7 @@ sources:
 
 Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writing fluency and quality in kindergarten and first grade: The role of attention, reading, transcription, and oral language. Reading and Writing, 27(7), 1163-1188. https://doi.org/10.1007/s11145-013-9480-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Longitudinal SEM of kindergarten component skills predicting first-grade outcomes in the 265-student cohort. Oral language (Picture Vocabulary, TOLD-P:3 subtests) was uniquely related to quality but not fluency; the authors describe the relations of oral language to writing outcomes as mixed.
 

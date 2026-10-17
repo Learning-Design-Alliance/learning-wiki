@@ -15,12 +15,14 @@ sources:
     author: Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Peer problems at 9.5 years still mediated the association between ADHD symptoms at 7.5 years and depressive symptoms at 13 years, accounting for over 20% of the total relationship. [→ Powell V 2020](#powell-v-2020)
@@ -31,7 +33,7 @@ sources:
 
 Powell V, Riglin L, Hammerton G, Eyre O, Martin J, Anney R, Thapar A, Rice F. (2020). What explains the link between childhood ADHD and adolescent depression? Investigating the role of peer relationships and academic attainment. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01463-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Sensitivity analysis using earlier time points (SDQ peer problems at 9.5 years; SMFQ at 13 years) to check timing of mediators. The article reports mediation of "over 20% of the total relationship".
 

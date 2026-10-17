@@ -15,12 +15,14 @@ sources:
     author: "Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal working memory predicts oral reading fluency in children with and without ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling for sex and GAI, verbal working memory measures predicted significant variance in GORT Fluency (ΔR2 = .137, p = .028) and TOWRE PDE (ΔR2 = .221, p = .005). [→ Jacobson 2011](#jacobson-2011)
@@ -31,7 +33,7 @@ sources:
 
 Jacobson, L. A., Ryan, M., Martin, R. B., Ewen, J., Mostofsky, S. H., Denckla, M. B., & Mahone, E. M. (2011). Working Memory Influences Processing Speed and Reading Fluency in ADHD. Child Neuropsychology. https://doi.org/10.1080/09297049.2010.532204
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression analyses in the 62-child sample tested verbal working memory measures (Sentence Span, Letter-Number Sequencing, Digit Span Backward) as predictors of reading fluency. "the verbal working memory measures predicted a significant proportion of variance in oral contextual and non-contextual reading fluency performance".
 

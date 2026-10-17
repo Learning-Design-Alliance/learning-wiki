@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N.
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # ANS acuity is not related to algebra achievement once covariates are controlled, whereas retrieval errors remain predictive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` With covariates controlled and both predictors entered simultaneously, ANS acuity was not related to algebra achievement (β = .012), but frequency of retrieval errors was (β = .263). [→ Geary David C. 2015](#geary-david-c-2015)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Hoard Mary K., Nugent Lara, Rouder Jeffrey N. (2015). Individual Differences in Algebraic Cognition: Relation to the Approximate Number and Sematic Memory Systems. Journal of experimental child psychology. https://doi.org/10.1016/j.jecp.2015.07.010
 
-`q3 · i0`
+`q3 · i0` · `associational · r2`
 
 Regression predicting algebra achievement in the 171-student sample. Although both ANS acuity and retrieval errors correlated with algebra scores (Table 1), only retrieval errors remained significant after covariate control; the ANS coefficient was negligible (β = .012) and the null means no detected relation, not tested equivalence.
 

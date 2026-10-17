@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (31 for, 17 mixed, 4 against) · 58 studies (19 review, 13 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 3 design, 2 associational), `q1`–`q4` · 6 of 58 report an effect size · 38 claims rest on one study
+> **Evidence** · 56 claims (35 for, 17 mixed, 4 against) · 61 studies (19 review, 13 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 5 associational, 3 design), `q1`–`q4` · 7 of 61 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,10 @@ None at present. Claims attached to this page after 2026-10-15 are listed here u
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](../claims/turkish-student-teachers-entity-performance-higher.md) [-W]
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](../claims/sense-of-belonging-predicts-persistence-intentions.md) [+W] — attached 2026-10-15 from Hausmann et al. (2007), which proposed "College retention programs should address students' sense of belonging, since belonging predicts persistence intentions and can be bolstered by intervention".
 - [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](../claims/belonging-intervention-smaller-decline.md) [+W] — attached 2026-10-15 from Hausmann et al. (2007), which proposed "College retention programs should address students' sense of belonging, since belonging predicts persistence intentions and can be bolstered by intervention"; tests this page's relationship.
+- [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](../claims/school-belonging-mediation-dominican-intrinsic-motivation.md) [+M] — attached 2026-10-17 from Gillen-O’Neel et al. (2011), which proposed "Foster supportive school environments and close interpersonal connections to support intrinsic motivation among ethnic-minority students facing stigma"; tests this page's relationship.
+- [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](../claims/process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) [+W] — attached 2026-10-17 from Gunderson et al. (2018), which proposed "Praise young children's effort and strategies (process) rather than fixed personal qualities to foster incremental mindsets and long-term achievement".
+- [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Foster learning goals and avoid performance-goal emphasis when supporting adult memory learners"; tests this page's relationship.
+- [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Foster learning goals and avoid performance-goal emphasis when supporting adult memory learners".
 
 ## Objective and learner-valued goal
 

@@ -15,12 +15,14 @@ sources:
     author: Geboers B, Uiters E, Reijneveld SA, Jansen CJM, Almansa J, Nooyens ACJ, Verschuren WMM, de Winter AF, Picavet HSJ
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Participants with low health literacy had poorer cognitive functioning in all domains and were more often (very) low-educated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Participants with low health literacy were older, more often had a (very) low level of education, and had poorer cognitive functioning in all domains. [→ Geboers B 2018](#geboers-b-2018)
@@ -31,7 +33,7 @@ sources:
 
 Geboers B, Uiters E, Reijneveld SA, Jansen CJM, Almansa J, Nooyens ACJ, Verschuren WMM, de Winter AF, Picavet HSJ. (2018). Health literacy among older adults is associated with their 10-years' cognitive functioning and decline - the Doetinchem Cohort Study. BMC Geriatrics. https://doi.org/10.1186/s12877-018-0766-7
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Chi-square tests and independent sample t-tests comparing background characteristics and current cognitive functioning by level of health literacy among 988 participants. "Participants with low health literacy were older, more often had a (very) low level of education, and had poorer cognitive functioning in all domains." No effect sizes are printed for these comparisons.
 

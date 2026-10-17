@@ -13,12 +13,14 @@ sources:
     title: Zhou X 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Neither numerosity processing nor figure matching predicts general mathematical achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In hierarchical regressions, neither numerosity comparison nor figure matching was a significant predictor of curriculum-based general mathematical achievement for any grade. [→ Zhou X 2015](#zhou-x-2015)
@@ -29,7 +31,7 @@ sources:
 
 Zhou X, Wei W, Zhang Y, Cui J, and Chen C (2015) Visual perception can account for the close relation between numerosity processing and computational fluency. Front. Psychol. 6:1364. https://doi.org/10.3389/fpsyg.2015.01364
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical multiple regression predicting curriculum-based mathematical achievement scores showed no significant contribution of numerosity comparison or figure matching beyond general cognitive factors. The article reports "Neither numerosity processing nor ﬁgure matching ability was signiﬁcant in the regression equations for gene ral mathematical achievement."
 

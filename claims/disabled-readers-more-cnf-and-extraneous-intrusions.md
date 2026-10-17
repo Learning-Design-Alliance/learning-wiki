@@ -15,18 +15,22 @@ sources:
     author: "Chiappe, P., Hasher, L., & Siegel, L. S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: chiappe-2000-2
     resource: "https://doi.org/10.3758/bf03211570"
     title: "Chiappe, P., Hasher, L., & Siegel, L. S. (2000). Working memory, inhibitory control, and reading disability. Memory & Cognition, 28(1), 8-17. https://doi.org/10.3758/bf03211570"
     author: "Chiappe, P., Hasher, L., & Siegel, L. S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Disabled readers produce more current nonfinal and extraneous intrusions, implicating access and restraint failures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Disabled readers produced more current nonfinal (CNF) intrusions than skilled readers in Experiment 1. [→ Chiappe 2000](#chiappe-2000)
@@ -38,7 +42,7 @@ sources:
 
 Chiappe, P., Hasher, L., & Siegel, L. S. (2000). Working memory, inhibitory control, and reading disability. Memory & Cognition, 28(1), 8-17. https://doi.org/10.3758/bf03211570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Error analysis of the blocked listening span task in Experiment 1 (N = 665). CNF intrusions are words from the current trial that are not targets, interpreted as failures of the access function of inhibition. The age x reading group interaction was also significant.
 
@@ -48,7 +52,7 @@ Error analysis of the blocked listening span task in Experiment 1 (N = 665). CNF
 
 Chiappe, P., Hasher, L., & Siegel, L. S. (2000). Working memory, inhibitory control, and reading disability. Memory & Cognition, 28(1), 8-17. https://doi.org/10.3758/bf03211570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Error analysis of the blocked listening span task in Experiment 1. Extraneous intrusions are words not presented in current or previous trials, interpreted as reflecting deficiencies in the restraining function of inhibition. The age x reading group interaction was not significant.
 

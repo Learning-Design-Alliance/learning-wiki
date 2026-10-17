@@ -12,7 +12,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 8 claims (2 show a difference, 6 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 qualitative), `q1`–`q4` · 1 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 23 claims (14 show a difference, 8 mixed, 1 no difference) · 15 studies (7 associational, 3 quant-synthesis, 2 causal, 2 review, 1 qualitative), `q1`–`q4` · 3 of 15 report an effect size · 23 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).

@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E., Sedey Allison L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 68% achieved a CELF-4 Language Content Index within or above 1 SD of hearing age-mates; 71% scored in range on PPVT in SC administration (66% OC) and 74% on the EOWPVT. [→ Geers Ann E. 2011](#geers-ann-e-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E., Sedey Allison L. (2011). Language and Verbal Reasoning Skills in Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Results section reports the standardized language battery for the CI-HS sample (n = 112): CELF-4 Language Content Index mean 92.1 with 68% within normal limits; PPVT mean 90.3 (OC) and 93 (SC); EOWPVT mean 91.4 with 74% in range. In a normal distribution 84% would be expected in this range.
 

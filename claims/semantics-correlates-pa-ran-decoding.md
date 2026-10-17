@@ -15,12 +15,14 @@ sources:
     author: van Rijthoven R, Kleemans T, Segers E, Verhoeven L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Semantics was significantly related to PA and RAN, and all predictor measures were significantly related to word and pseudoword decoding. [→ van Rijthoven R 2018](#van-rijthoven-r-2018)
@@ -31,7 +33,7 @@ sources:
 
 van Rijthoven R, Kleemans T, Segers E, Verhoeven L. (2018). Beyond the phonological deficit: Semantics contributes indirectly to decoding efficiency in children with dyslexia. Dyslexia. https://doi.org/10.1002/dys.1597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Pearson correlations among standardized measures in the n = 55 dyslexia sample (Table 2); the semantics–word decoding correlation was 0.667 and semantics–pseudoword decoding 0.549, both printed in the correlation table.
 

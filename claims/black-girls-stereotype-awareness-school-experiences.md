@@ -15,12 +15,14 @@ sources:
     author: Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported stereotypes about vocality, body policing, and academic potential, and linked them to their own negative school experiences. [→ Burnett Marketa 2022](#burnett-marketa-2022)
@@ -31,7 +33,7 @@ sources:
 
 Burnett Marketa, McBride Margarett, Green McKenzie N., Cooper Shauna M. (2022). “When I Think of Black Girls, I Think of Opportunities”: Black Girls' Identity Development and the Protective Role of Parental Socialization in Educational Settings. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2022.933476
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Interview analysis found stereotypes related to "vocality and loudness of Black girls, policing of their bodies or suggestions about promiscuity, and Black girls' intelligence or academic potential." One participant described teachers placing her in different classes based on stereotypes.
 

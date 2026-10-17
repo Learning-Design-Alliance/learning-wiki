@@ -15,12 +15,14 @@ sources:
     author: Bailey Drew H., Siegler Robert S., Geary David C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The relation between early whole number magnitude knowledge and later fraction magnitude knowledge is not attributable to number line tasks being used at both measurement times
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When fraction magnitude comparison accuracy alone replaced the composite outcome, the same mediation effects emerged, ruling out task-overlap explanation. [→ Bailey Drew H. 2014](#bailey-drew-h-2014)
@@ -31,7 +33,7 @@ sources:
 
 Bailey Drew H., Siegler Robert S., Geary David C. (2014). Early Predictors of Middle School Fraction Knowledge. Developmental Science. https://doi.org/10.1111/desc.12155
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mediation models rerun with fraction magnitude comparison accuracy as the sole middle-school outcome measure; the article reports "the same set of indirect and direct effects emerged as in Table 3". No new effect sizes printed.
 

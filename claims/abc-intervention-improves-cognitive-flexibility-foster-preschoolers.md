@@ -15,18 +15,22 @@ sources:
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: lewis-morrarty-2012-2
     resource: "https://doi.org/10.1016/j.jadohealth.2012.05.005"
     title: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005"
     author: "Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Foster children who received the ABC intervention in infancy showed stronger cognitive flexibility at preschool age than foster children who received a control intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In a randomized clinical trial follow-up, foster children who received the ABC intervention scored significantly higher on the post-switch card sort than foster children who received the control intervention (d = 1.06). [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)
@@ -38,7 +42,7 @@ sources:
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Preschool follow-up (ages 4–6) of a randomized clinical trial in which foster children were randomly assigned before age 20 months to ABC (n = 17) or a control intervention (n = 20). An ANCOVA controlling for receptive language showed the ABC group "scored higher than children in the FCC group" on the post-switch task, with a large effect size (d = 1.06).
 
@@ -48,7 +52,7 @@ Preschool follow-up (ages 4–6) of a randomized clinical trial in which foster 
 
 Lewis-Morrarty, E., Dozier, M., Bernard, K., Terracciano, S., & Moore, S. (2012). Cognitive Flexibility and Theory of Mind Outcomes Among Foster Children: Preschool Follow-up Results of a Randomized Clinical Trial. Journal of Adolescent Health. https://doi.org/10.1016/j.jadohealth.2012.05.005
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same ANCOVA follow-up contrasts, the ABC group's post-switch scores were statistically indistinguishable from those of never-fostered comparison children (Mcontrast = −0.21, p = 1.00), suggesting ABC children's cognitive flexibility was normalized to comparison-group levels.
 

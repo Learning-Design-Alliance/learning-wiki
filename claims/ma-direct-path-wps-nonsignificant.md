@@ -13,12 +13,14 @@ sources:
     title: Lai Y 2015
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The direct path from mathematics anxiety to word problem solving is non-significant once metacognition is modeled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the partially mediated model, the standardized path from mathematics anxiety to word problem solving was non-significant (ß = -0.04, p = .71), as was the path from metacognition to WPS (ß = 0.13, p = .12), favoring the fully mediated model. [→ Lai Y 2015](#lai-y-2015)
@@ -29,7 +31,7 @@ sources:
 
 Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematical Metacognition on Word Problem Solving in Children with and without Mathematical Learning Difficulties. PLoS ONE 10(6): e0130570. https://doi.org/10.1371/journal.pone.0130570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM with 224 participants: the partially mediated model (Model 1) fit well but its direct paths were non-significant; a chi-square difference test found "No significant Chi-square difference existed between Model 1 and Model 2", so the parsimonious fully mediated model was preferred.
 

@@ -15,12 +15,14 @@ sources:
     author: "Chiappe, P., Hasher, L., & Siegel, L. S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Omission (no response) errors vary with age but not with reading skill
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, no-response rates differed among age groups but showed no difference as a function of reading skill. [→ Chiappe 2000](#chiappe-2000)
@@ -31,7 +33,7 @@ sources:
 
 Chiappe, P., Hasher, L., & Siegel, L. S. (2000). Working memory, inhibitory control, and reading disability. Memory & Cognition, 28(1), 8-17. https://doi.org/10.3758/bf03211570
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Error analysis of omissions in Experiment 1's blocked listening span task. Post hoc comparisons indicated children under 10 committed more no-response errors than all older groups; there were no differences in omission rates by reading skill.
 

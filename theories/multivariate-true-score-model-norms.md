@@ -46,7 +46,6 @@ The norming approach is "a model-based approach employing a multivariate true sc
 
 - [Joint student-level and school-level achievement and growth norms](../research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md)
 - [Multivariate true score model for building achievement and growth norms](../research-methods/multivariate-true-score-model-for-achievement-and-growth-norming.md)
-- [Model-based multivariate true score norming procedure](../research-methods/model-based-multivariate-true-score-norming-procedure.md)
 
 ## Examples
 

@@ -15,12 +15,14 @@ sources:
     author: Tighe, Elizabeth L.; Schatschneider, Christopher
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Rapid automatized naming is the only component skill weakly related to reading comprehension in struggling adult readers (r = .15)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` RAN was the only component skill weakly related to reading comprehension (r = .15), based on only four studies. [→ Tighe 2016](#tighe-2016)
@@ -31,7 +33,7 @@ sources:
 
 Tighe, Elizabeth L.; Schatschneider, Christopher. (2016). Examining the Relationships of Component Reading Skills to Reading Comprehension in Struggling Adult Readers: A Meta-Analysis. Journal of Learning Disabilities. https://doi.org/10.1177/0022219414555415
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Random effects meta-analysis across the 16 included studies found RAN's average correlation with comprehension was r = .15, below the article's .30 moderate threshold; the RAN effect size drew on only four studies, limiting interpretability.
 

@@ -15,18 +15,22 @@ sources:
     author: "Soederberg Miller, L. M., & West, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: soederberg-miller-2010-2
     resource: "https://doi.org/10.1080/03610730903418380"
     title: "Soederberg Miller, L. M., & West, R. L. (2010). The Effects of Age, Control Beliefs, and Feedback on Self-Regulation of Reading and Problem Solving. Experimental Aging Research, 36(1), 40-63. https://doi.org/10.1080/03610730903418380"
     author: "Soederberg Miller, L. M., & West, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Feedback effects on attention to conceptual integration are moderated by age and control beliefs: only older adults with high control beliefs allocate more attention after high-performance feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant Feedback × Age × Control Beliefs interaction on attention to conceptual integration was driven by larger feedback effects among older adults with high control beliefs; older high-control adults receiving high-PFB allocated significantly more time to conceptual integration than those receiving low-PFB. [→ Soederberg Miller 2010](#soederberg-miller-2010)
@@ -37,7 +41,7 @@ sources:
 
 Soederberg Miller, L. M., & West, R. L. (2010). The Effects of Age, Control Beliefs, and Feedback on Self-Regulation of Reading and Problem Solving. Experimental Aging Research, 36(1), 40-63. https://doi.org/10.1080/03610730903418380
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Hierarchical regression (Model 3) predicting attention to conceptual integration, estimated from segment-by-segment reading times in the false-feedback reading task. The article reports "a significant Feedback × Age × Control Beliefs interaction, β = .21, p < .05" with a Feedback × Age effect of β = .38, p = .05 among high-control participants but β = −.17, p > .10 among low-control participants.
 
@@ -47,7 +51,7 @@ Hierarchical regression (Model 3) predicting attention to conceptual integration
 
 Soederberg Miller, L. M., & West, R. L. (2010). The Effects of Age, Control Beliefs, and Feedback on Self-Regulation of Reading and Problem Solving. Experimental Aging Research, 36(1), 40-63. https://doi.org/10.1080/03610730903418380
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Follow-up independent-samples t-tests decomposing the three-way interaction. The article reports "t(16) = 3.8, p < .001" for the older high-control contrast, while feedback differences within the three other groups (older low-control, young high-control, young low-control) were nonsignificant.
 

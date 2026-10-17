@@ -15,12 +15,14 @@ sources:
     author: "Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Attention problems had no direct paths to either NO or MR; their effects ran through WM regardless of task verbal load. [→ Wu 2017](#wu-2017)
@@ -31,7 +33,7 @@ sources:
 
 Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V. (2017). Distinct influences of affective and cognitive factors on children's non-verbal and verbal mathematical abilities. Cognition, 166, 118-129. https://doi.org/10.1016/j.cognition.2017.05.016
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Discussion of the SEM results in 330 children; in the models, attention showed significant negative paths to WM, and for MR an additional indirect path via reading achievement.
 

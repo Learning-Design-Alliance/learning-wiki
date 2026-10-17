@@ -15,12 +15,14 @@ sources:
     author: Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Total anxiety predicts later fluency for girls only, via a significant gender-by-anxiety interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The MASCT-by-gender interaction significantly predicted T2 fluency; girls with greater T1 total anxiety showed significantly better T2 fluency, while anxiety level did not impact boys' performance. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
@@ -31,7 +33,7 @@ sources:
 
 Grills-Taquechel, Amie E.; Fletcher, Jack M.; Vaughn, Sharon R.; Stuebing, Karla K. (2012). Anxiety and Reading Difficulties in Early Elementary School: Evidence for Unidirectional- or Bi-Directional Relations? Child Psychiatry and Human Development, 43(1), 35-47. https://doi.org/10.1007/s10578-011-0246-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Post-hoc probing (Holmbeck's method) of the significant MASCT * Gender interaction (Table 3: β = .13, t = 2.20, p < .05) predicting T2 fluency. For boys the slope was non-significant, t(148) = −.38, ns; girls with the lowest anxiety scored below the normative average and performed more poorly.
 

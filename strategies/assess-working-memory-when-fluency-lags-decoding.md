@@ -17,7 +17,7 @@ sources:
 # Assess reading fluency difficulties in accurate decoders by evaluating working memory and response-selection speed, not just decoding accuracy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Because children with ADHD who decode accurately can still show inefficient reading fluency, the article recommends that evaluation of fluency problems among accurate decoders include measures of working memory and non-graphomotor processing speed. The authors state that "it will be important to investigate the association between the slowed 'processing' typical of children with ADHD and reading comprehension skills", and call for "Development of additional measures permitting the dissociation of response components".
@@ -39,7 +39,7 @@ Because children with ADHD who decode accurately can still show inefficient read
 - reading comprehension readiness
 
 ### Affordances
-- [Processing Speed Component Deconstruction Model](../theories/processing-speed-component-deconstruction-model.md)
+- Processing Speed Component Deconstruction Model
 
 ## Claims
 

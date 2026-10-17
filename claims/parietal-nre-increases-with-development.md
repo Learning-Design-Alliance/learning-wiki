@@ -15,12 +15,14 @@ sources:
     author: Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Neural ratio sensitivity in parietal cortex, including bilateral IPS, increases with development from childhood into adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Positive NRE age effects were found predominantly in parietal regions including bilateral IPS, with no negative age effects in the parietal lobe, indicating increasing ratio sensitivity with age. [→ Haist Frank 2015](#haist-frank-2015)
@@ -31,7 +33,7 @@ sources:
 
 Haist Frank, Wazny Jarnet H., Toomarian Elizabeth, Adamo Maha. (2015). Development of brain systems for nonsymbolic numerosity and the relationship to formal math academic achievement. Human brain mapping. https://doi.org/10.1002/hbm.22666
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Whole-brain linear regression of the voxelwise neural ratio effect on the natural logarithm of age across the 44-participant developmental sample, analyzed in the fMRI results section. Positive age effects included bilateral IPS, angular gyrus, IPL/SMG, and SPL, and were "generally more extensive in right hemisphere parietal cortex."
 

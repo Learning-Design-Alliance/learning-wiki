@@ -15,12 +15,14 @@ sources:
     author: Geers Ann E., Sedey Allison L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Early sign enhancement positively predicted CI-HS language after controlling early language, but sign enhancement measured in adolescence negatively predicted language outcomes. [→ Geers Ann E. 2011](#geers-ann-e-2011)
@@ -31,7 +33,7 @@ sources:
 
 Geers Ann E., Sedey Allison L. (2011). Language and Verbal Reasoning Skills in Adolescents with 10 or More Years of Cochlear Implant Experience. Ear and Hearing. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Authors' interpretation in the Discussion of the regression findings: early sign enhancement (β = −0.181, p = .003 in Table 4 step 3) was positive once early language was controlled, whereas CI-HS sign enhancement (β = −.345, p <.001 in Table 5 step 1) was negative. The authors attribute the reversal to children with early sign enhancement having more room for improvement.
 

@@ -17,7 +17,7 @@ sources:
 # Dysgraphia rehabilitation strategies: ductus-informed models, movement-focused perception, rhythmic support, and digital tablets
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review lists scientifically validated strategies for dysgraphia rehabilitation, most focusing on the graphomotor component. Therapists should give children very simple exercises "focusing on the primitives of writing (loops, bridges, etc)", gradually increasing complexity. Berninger et al showed a model with additional ductus information is more efficient than a static model; Vinter and Chartrel found video of a writer more efficient than a static model; joining dots seems detrimental. Strategies also include fake pens without ink to remove the visual trace, tactile and kinesthetic exploration of letters in relief, background music, and graphic or digitizing tablets providing supplementary auditory feedback or real-time ink-color changes.

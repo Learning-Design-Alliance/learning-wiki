@@ -15,12 +15,14 @@ sources:
     author: "Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Dominican children report higher school belonging than all other ethnic groups, and all ethnic-minority groups report higher centrality than European Americans
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Dominicans reported higher school belonging than all other groups, and all ethnic-minority groups reported higher centrality than European Americans. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)
@@ -31,7 +33,7 @@ sources:
 
 Gillen-O’Neel, C., Ruble, D. N., & Fuligni, A. J. (2011). Ethnic Stigma, Academic Anxiety, and Intrinsic Motivation in Middle Childhood. Child Development. https://doi.org/10.1111/j.1467-8624.2011.01621.x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 One-way ANOVAs with ethnicity as the factor for school belonging, centrality, and private regard. The article reports "Dominicans reported higher school belonging than all other groups" and "all ethnic-minority groups reported higher centrality than European Americans"; ethnicity was not associated with private regard.
 

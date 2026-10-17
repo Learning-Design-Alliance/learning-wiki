@@ -15,12 +15,14 @@ sources:
     author: Duckworth, A. L., Kim, B., and Tsukayama, E.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The authors hypothesize a possible vicious cycle in which stress-induced self-control losses generate further stressful life events
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The article speculates that negative life events might precipitate a positive feedback loop through decreases in self-control. [→ Duckworth 2013](#duckworth-2013)
@@ -31,7 +33,7 @@ sources:
 
 Duckworth, A. L., Kim, B., and Tsukayama, E. (2013). Life stress impairs self-control in early adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2012.00608
 
-`q1 · i?`
+`q1 · i?` · `associational · r3`
 
 A forward-looking hypothesis in the Future Directions section, offered without test in this article; the authors note they deliberately eliminated events that could be consequences of self-control. Analogous feedback loops have been observed for depression and internalizing/externalizing behaviors in cited work.
 
