@@ -37,7 +37,6 @@ The paper recommends restructuring the NCHEMS data element so that each instruct
 - making instructional method data meaningful for outcome-related institutional analysis
 
 ### Affordances
-- [Black Box Analysis Instruction Learning Interface](../research-methods/black-box-analysis-of-educational-processes.md)
 
 ## Related Strategies
 - 

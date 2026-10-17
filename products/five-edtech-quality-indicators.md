@@ -122,7 +122,6 @@ The EdTech Quality Collaborative published a five-indicator framework for evalua
 
 ## Examples
 
-- [Evidence Evaluation Rubric for edtech efficacy (Resource C)](../research-methods/evidence-evaluation-rubric.md)
 - [Inclusive Design Evaluation Rubric (Resource D)](../elements/edtech-inclusive-design-evaluation-rubric.md)
 - [EdTech Pilot Navigator with four pilot models (Resource E)](../products/ai-enabled-edtech-adoption-cycle.md)
 

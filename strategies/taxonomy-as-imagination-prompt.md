@@ -40,7 +40,6 @@ Rather than only describing existing activities, the taxonomy can be used genera
 - ensuring comprehensive consideration of activity dimensions
 
 ### Affordances
-- [Six Category Genai Learning Taxonomy](../research-methods/six-category-taxonomy-for-characterising-genai-learning-activities.md)
 
 ## Related Strategies
 - 

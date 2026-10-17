@@ -37,7 +37,6 @@ As the second of the review's four stages, meta-analysts in SLA should develop a
 - reliable coding of primary studies for quantitative synthesis
 
 ### Affordances
-- [Four Stage Meta Analysis Model Sla](../research-methods/four-stage-model-of-conducting-a-meta-analysis-in-sla-research.md)
 
 ## Claims
 

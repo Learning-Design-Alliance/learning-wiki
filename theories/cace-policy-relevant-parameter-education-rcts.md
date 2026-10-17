@@ -40,7 +40,6 @@ The article frames the complier average causal effect (CACE) parameter as the es
 
 ## Related Theories
 
-- [Causal inference and instrumental variables framework for identifying and estimating CACE in two-level clustered RCTs](../research-methods/correct-variance-estimation-for-cace-in-clustered-education-rcts.md)
 
 ## Examples
 -

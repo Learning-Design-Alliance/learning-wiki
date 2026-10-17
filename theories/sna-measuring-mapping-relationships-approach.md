@@ -40,7 +40,6 @@ The brief presents social network analysis as a methodological approach for prog
 
 ## Related Theories
 
-- [Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse](../research-methods/social-cartography.md)
 
 ## Examples
 

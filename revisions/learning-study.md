@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/learning-study.md
 ---
 
-# Revision history: [research-methods/learning-study](../research-methods/learning-study.md)
+# Revision history: research-methods/learning-study
 
 Recorded as theories/learning-study-variation-theory-alignment-approach before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes.md
 ---
 
-# Revision history: [research-methods/logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes](../research-methods/logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes.md)
+# Revision history: research-methods/logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes
 
 Recorded as theories/schochet-sample-size-approach-binary-outcomes-rcts before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/ies-practice-guide-levels-of-evidence-framework.md
 ---
 
-# Revision history: [research-methods/ies-practice-guide-levels-of-evidence-framework](../research-methods/ies-practice-guide-levels-of-evidence-framework.md)
+# Revision history: research-methods/ies-practice-guide-levels-of-evidence-framework
 
 Recorded as theories/ies-practice-guide-evidence-levels before it was renamed, re-filed or merged.
 

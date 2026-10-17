@@ -51,7 +51,6 @@ The document describes the RD design as a method for obtaining unbiased estimate
 
 - [Use regression discontinuity designs to replicate or check experimental impact estimates for education interventions](../strategies/rd-design-to-replicate-experimental-impact-estimates.md)
 - [Regression discontinuity design exploiting oversubscription rationing of SEdS](../elements/seds-oversubscription-regression-discontinuity-design.md)
-- [Forcing-variable integrity checks in regression discontinuity designs](../research-methods/forcing-variable-integrity-checks-in-regression-discontinuity-designs.md)
 
 ## Key Sources
 - Schochet, P., Cook, T., Deke, J., Imbens, G., Lockwood, J.R., Porter, J., Smith, J. (2010). Standards for Regression Discontinuity Designs. Retrieved from What Works Clearinghouse website: http://ies.ed.gov/ncee/wwc/pdf/wwc_rd.pdf.

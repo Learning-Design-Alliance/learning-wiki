@@ -57,7 +57,8 @@ at the top, under this paragraph.
   settling disagreements) proposed a parent for 103, but a strict check, two models reading both pages in full
   and asking whether the thin page is the same method or a variant, passed only 16, which were folded
   (`merge_pages.py research-methods`). Most thin pages are one paper's own coding scheme, taxonomy or evaluation
-  rubric with nothing general to fold into; 138 of them cite no claim, and their removal is the maintainer's call.
+  rubric with nothing general to fold into. The 138 that cite no claim were removed (maintainer, 2026-10-17);
+  the 90 that rest on a claim stay. `research-methods/` went from 492 pages to 340.
 
 ## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
 

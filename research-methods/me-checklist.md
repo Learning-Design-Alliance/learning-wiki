@@ -66,7 +66,6 @@ The M&E Checklist organizes evidence building into four sequential phases, each 
 ## Related Theories
 
 - [Four-phase evidence-building framework for designing and testing education solutions](../products/me-checklist.md)
-- [Four-phase evidence-building process for designing and validating solutions](four-phase-evidence-building-process-for-designing-and-validating-solutions.md)
 
 ## Examples
 

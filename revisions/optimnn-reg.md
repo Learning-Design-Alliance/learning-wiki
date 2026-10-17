@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/optimnn-reg.md
 ---
 
-# Revision history: [research-methods/optimnn-reg](../research-methods/optimnn-reg.md)
+# Revision history: research-methods/optimnn-reg
 
 Recorded as elements/optimnn-reg-penalty-framework before it was renamed, re-filed or merged.
 

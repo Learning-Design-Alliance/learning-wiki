@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/adaptive-self-referenced-testing-asrt.md
 ---
 
-# Revision history: [research-methods/adaptive-self-referenced-testing-asrt](../research-methods/adaptive-self-referenced-testing-asrt.md)
+# Revision history: research-methods/adaptive-self-referenced-testing-asrt
 
 Recorded as theories/adaptive-self-referenced-testing-asrt before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction.md
 ---
 
-# Revision history: [research-methods/remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction](../research-methods/remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction.md)
+# Revision history: research-methods/remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction
 
 Recorded as elements/four-remnant-deep-learning-imputation-models before it was renamed, re-filed or merged.
 

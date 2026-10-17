@@ -64,7 +64,6 @@ The instrument is a one-page construct map titled "Shared Measures Construct Map
 - measuring and monitoring progress of curriculum-based professional learning and HQIM implementation
 
 ### Affordances
-- [Shared Measures Construct Map Curriculum Shifts](../research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md)
 
 ## Claims
 
@@ -73,7 +72,6 @@ The instrument is a one-page construct map titled "Shared Measures Construct Map
 ## Related Elements
 
 - [Student outcomes dimension: engagement, mindsets, belonging, and grade-level proficiency](../elements/student-outcomes-dimension-construct-map.md)
-- [Teacher instructional practice dimension: implementing HQIM with integrity while adapting to students](../research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity.md)
 
 ## Examples
 

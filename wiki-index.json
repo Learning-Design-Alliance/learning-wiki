@@ -9,7 +9,7 @@
 "principle":213,
 "process":18,
 "product":1665,
-"research-method":478,
+"research-method":340,
 "strategy":5872,
 "theory":1361
 },
@@ -190866,14 +190866,6 @@
 "type":"research-method"
 },
 {
-"description":"To analyze the role of theory in studies of digital educational technologies, the article defines a scale distinguishing ways learning theories influence research, \\\"ranging from simple conceptual mention to their implementation as functional components of educational technologies.\\\" The levels are L0",
-"id":"a-five-level-scale-of-learning-theory-operationalization-l0-mention-to-l4-operational-impl",
-"path":"research-methods/a-five-level-scale-of-learning-theory-operationalization-l0-mention-to-l4-operational-impl.md",
-"status":"review",
-"title":"A five-level scale of learning-theory operationalization (L0 mention to L4 operational implementation)",
-"type":"research-method"
-},
-{
 "description":"The article develops a health care setting-adapted version of cognitive task analysis, a suite of methods for studying cognitive processes such as reasoning, problem-solving, and decision-making.",
 "id":"a-four-step-adapted-cognitive-task-analysis-framework-for-clinical-environments",
 "path":"research-methods/a-four-step-adapted-cognitive-task-analysis-framework-for-clinical-environments.md",
@@ -190930,14 +190922,6 @@
 "type":"research-method"
 },
 {
-"description":"The article presents an adaptation of Tessmer and Richey's (1997) context-based analysis model, which defines context as a \\\"multilevel body of factors in which learning and performance are embedded.\\\" The model investigates context across three temporal aspects—orienting, instructional and transfer—a",
-"id":"adapted-context-based-analysis-model-for-instructional-design-in-developing-countries",
-"path":"research-methods/adapted-context-based-analysis-model-for-instructional-design-in-developing-countries.md",
-"status":"review",
-"title":"Adapted context-based analysis model for instructional design in developing countries",
-"type":"research-method"
-},
-{
 "description":"The study adapts Shen et al.'s (2015) interdisciplinary reasoning and communication (IRC) framework for novice high-school students rather than experts.",
 "id":"adapted-irc-framework-for-novice-students-interdisciplinary-reasoning",
 "path":"research-methods/adapted-irc-framework-for-novice-students-interdisciplinary-reasoning.md",
@@ -190962,14 +190946,6 @@
 "type":"research-method"
 },
 {
-"description":"ASRT is a proposed framework, arising from the project's finding that norm-referenced and criterion-referenced approaches lack a common structure, for measuring individual improvement in achievement during instruction.",
-"id":"adaptive-self-referenced-testing-asrt",
-"path":"research-methods/adaptive-self-referenced-testing-asrt.md",
-"status":"review",
-"title":"Adaptive Self-Referenced Testing (ASRT)",
-"type":"research-method"
-},
-{
 "aliases":["student-development-agents"],
 "description":"Agent-based educational science (AES) is a research agenda in which educational theories are formalized as interacting agents and environments, enabling in silico experimentation on developmental processes.",
 "id":"agent-based-educational-science-aes",
@@ -190987,51 +190963,11 @@
 "type":"research-method"
 },
 {
-"description":"AI×Ed is a categorization framework for research at the intersection of AI and education.",
-"id":"aied-framework-two-axes-role-of-ai-end-user-yielding-four-quadrants-for-categorizing-ai-in",
-"path":"research-methods/aied-framework-two-axes-role-of-ai-end-user-yielding-four-quadrants-for-categorizing-ai-in.md",
-"status":"review",
-"title":"AI×Ed framework: two axes (role of AI, end user) yielding four quadrants for categorizing AI-in-education research",
-"type":"research-method"
-},
-{
-"description":"A rubric that differentiates laboratory activities into six levels (originally five, recently updated) based on six characteristics: problem/question, theory/background, procedure/design, result/analysis, results communication, and conclusions.",
-"id":"almeida-bauer-zytkuewisz-rubric-for-characterizing-levels-of-inquiry-in-undergraduate-labo",
-"path":"research-methods/almeida-bauer-zytkuewisz-rubric-for-characterizing-levels-of-inquiry-in-undergraduate-labo.md",
-"status":"review",
-"title":"Almeida Bauer Zytkuewisz rubric for characterizing levels of inquiry in undergraduate laboratories",
-"type":"research-method"
-},
-{
 "description":"AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical methodology for testing the internal and external validity of uniquely designed psychometric instruments.",
 "id":"amova-accumulative-manifold-validation-analysis",
 "path":"research-methods/amova-accumulative-manifold-validation-analysis.md",
 "status":"review",
 "title":"AMOVA (Accumulative Manifold Validation Analysis)",
-"type":"research-method"
-},
-{
-"description":"MUSE's construction framework separates what an image contains from how a capability is queried: \\\"each artwork is annotated once with a reusable structured representation of its visual and semantic content, after which task-specific questions are instantiated through predefined generation rules.\\\" Th",
-"id":"annotation-first-task-generative-benchmark-construction-framework",
-"path":"research-methods/annotation-first-task-generative-benchmark-construction-framework.md",
-"status":"review",
-"title":"Annotation-first, task-generative benchmark construction framework",
-"type":"research-method"
-},
-{
-"description":"The APL framework organizes research on animated pedagogical agents around three areas analogous to classroom elements: 'A represents APA characteristics', 'P represents Presentation by the APA', and 'L represents Learners' characteristics'.",
-"id":"apl-framework-for-organizing-apa-research",
-"path":"research-methods/apl-framework-for-organizing-apa-research.md",
-"status":"review",
-"title":"APL framework for organizing APA research",
-"type":"research-method"
-},
-{
-"description":"ACTA is an interview technique designed to identify the key cognitive elements required to perform expert tasks, typically in three phases: developing a task diagram, a knowledge audit interview, and data analysis with knowledge representation.",
-"id":"applied-cognitive-task-analysis-acta",
-"path":"research-methods/applied-cognitive-task-analysis-acta.md",
-"status":"review",
-"title":"Applied Cognitive Task Analysis (ACTA)",
 "type":"research-method"
 },
 {
@@ -191067,43 +191003,11 @@
 "type":"research-method"
 },
 {
-"description":"The paper reconceptualises authenticity as \\\"a multidimensional continuum rather than a binary\\\", locating it across four intersecting dimensions: task–context alignment with contemporary professional practice, foregrounding of professional judgement and ethics, visibility of process (iteration, criti",
-"id":"authenticity-reconceptualised-as-a-four-dimensional-continuum-for-ai-present-assessment",
-"path":"research-methods/authenticity-reconceptualised-as-a-four-dimensional-continuum-for-ai-present-assessment.md",
-"status":"review",
-"title":"Authenticity reconceptualised as a four-dimensional continuum for AI-present assessment",
-"type":"research-method"
-},
-{
-"description":"The review presents Baker's [in press] classification of EDM methods into five categories: prediction (with sub-categories classification, regression, and density estimation), clustering, relationship mining (association rule mining, correlation mining, sequential pattern mining, causal data mining)",
-"id":"bakers-five-category-taxonomy-of-educational-data-mining-methods",
-"path":"research-methods/bakers-five-category-taxonomy-of-educational-data-mining-methods.md",
-"status":"review",
-"title":"Baker's five-category taxonomy of educational data mining methods",
-"type":"research-method"
-},
-{
 "description":"The paper recommends that studies using student achievement outcomes generally aim to collect and use baseline data, because analyses using more than one wave of data typically have much greater statistical power than posttest-only analyses.",
 "id":"baseline-covariate-adjustment-in-education-randomized-trials",
 "path":"research-methods/baseline-covariate-adjustment-in-education-randomized-trials.md",
 "status":"review",
 "title":"Baseline covariate adjustment in education randomized trials",
-"type":"research-method"
-},
-{
-"description":"BASIE (BAyeSian Interpretation of Estimates) is a framework for interpreting impact estimates from evaluations.",
-"id":"basie",
-"path":"research-methods/basie.md",
-"status":"review",
-"title":"BASIE",
-"type":"research-method"
-},
-{
-"description":"The paper recommends that researchers interested in studying complex interventions adopt Bayesian analysis for factorial designs.",
-"id":"bayesian-analysis-for-complex-factorial-experiments",
-"path":"research-methods/bayesian-analysis-for-complex-factorial-experiments.md",
-"status":"review",
-"title":"Bayesian analysis for complex factorial experiments",
 "type":"research-method"
 },
 {
@@ -191136,22 +191040,6 @@
 "path":"research-methods/bit-coding-method-for-newtons-third-law-responses.md",
 "status":"review",
 "title":"BIT Coding method for Newton's Third Law responses",
-"type":"research-method"
-},
-{
-"description":"The BKT RNN is a PyTorch recurrent neural network layer whose cell dynamics exactly implement BKT's hidden Markov model forward algorithm, making the model fully differentiable and trainable with stochastic gradient descent on GPUs.",
-"id":"bkt-rnn",
-"path":"research-methods/bkt-rnn.md",
-"status":"review",
-"title":"BKT RNN",
-"type":"research-method"
-},
-{
-"description":"The paper's central framework is black box analysis: the examination of the internal character and content of educational processes that lie between documented inputs (instructional formats) and outcomes.",
-"id":"black-box-analysis-of-educational-processes",
-"path":"research-methods/black-box-analysis-of-educational-processes.md",
-"status":"review",
-"title":"Black box analysis of educational processes",
 "type":"research-method"
 },
 {
@@ -191211,22 +191099,6 @@
 "type":"research-method"
 },
 {
-"description":"Chapelle's (2001) framework delineates six criteria for assessing the task appropriateness of CALL tools: \\\"Language Learning Potential, Learner Fit, Meaning Focus, Authenticity, Positive Impact, and Practicality\\\".",
-"id":"chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness",
-"path":"research-methods/chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness.md",
-"status":"review",
-"title":"Chapelle's six-criterion evaluation framework for CALL task appropriateness",
-"type":"research-method"
-},
-{
-"description":"The article introduces an evaluation framework for child safety in generative AI that combines two resources: expert-proposed child safety guidelines and AI incident databases.",
-"id":"child-centered-ai-safety-evaluation-framework-integrating-expert-guidelines-with-real-worl",
-"path":"research-methods/child-centered-ai-safety-evaluation-framework-integrating-expert-guidelines-with-real-worl.md",
-"status":"review",
-"title":"Child-centered AI safety evaluation framework integrating expert guidelines with real-world AI incident data",
-"type":"research-method"
-},
-{
 "description":"CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores.",
 "id":"classical-test-theory",
 "path":"research-methods/classical-test-theory.md",
@@ -191251,14 +191123,6 @@
 "type":"research-method"
 },
 {
-"description":"The article frames CDMs against unidimensional item response models: unidimensional models \\\"postulate a single underlying proficiency,\\\" whereas CDMs \\\"posit multiple, discrete skills or attributes, thus allowing CDMs to provide a finer-grained assessment of examinees' test performance.\\\" The Q-matrix ",
-"id":"cognitive-diagnostic-models-cdms",
-"path":"research-methods/cognitive-diagnostic-models-cdms.md",
-"status":"review",
-"title":"Cognitive diagnostic models (CDMs)",
-"type":"research-method"
-},
-{
 "description":"CDP is a zero-shot framework that draws on cognitive diagnostic models \\\"to represent each simulated examinee as a binary attribute-mastery profile and prompts an LLM to generate item responses consistent with that profile.\\\" It proceeds in six steps: construct decomposition into binary attributes, ma",
 "id":"cognitive-diagnostic-profiling-cdp",
 "path":"research-methods/cognitive-diagnostic-profiling-cdp.md",
@@ -191272,14 +191136,6 @@
 "path":"research-methods/cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in.md",
 "status":"review",
 "title":"Cognitive episodes: an eight-way taxonomy of functional problem-solving states grounded in Schoenfeld's Episode Theory",
-"type":"research-method"
-},
-{
-"description":"CTA is a collection of interview-based qualitative methods for identifying the cognitive processes and skills required to perform complex tasks in demanding, contextually dependent work domains.",
-"id":"cognitive-task-analysis",
-"path":"research-methods/cognitive-task-analysis.md",
-"status":"review",
-"title":"Cognitive Task Analysis",
 "type":"research-method"
 },
 {
@@ -191300,14 +191156,6 @@
 "type":"research-method"
 },
 {
-"description":"The review defines a balanced evaluation approach for AI-driven decision support systems combining technical metrics (accuracy, precision, recall, scalability, response time) with user-focused outcomes (user satisfaction via validated surveys drawing on the Technology Acceptance Model, and engagemen",
-"id":"combined-quantitativequalitative-evaluation-framework-and-metric-set-for-ai-dsss",
-"path":"research-methods/combined-quantitativequalitative-evaluation-framework-and-metric-set-for-ai-dsss.md",
-"status":"review",
-"title":"Combined quantitative–qualitative evaluation framework and metric set for AI-DSSs",
-"type":"research-method"
-},
-{
 "description":"When a threshold-based policy changes conditions for non-targeted students too, a standard regression discontinuity cannot estimate the policy effect, only the enrollment effect.",
 "id":"combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var",
 "path":"research-methods/combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var.md",
@@ -191324,36 +191172,12 @@
 "type":"research-method"
 },
 {
-"description":"The article presents compensatory multidimensional IRT (MIRT), estimated via the BMIRT program with MCMC (Metropolis-Hastings), as an explanatory framework for combining subtests measuring distinct but overlapping abilities into a composite.",
-"id":"compensatory-multidimensional-item-response-theory",
-"path":"research-methods/compensatory-multidimensional-item-response-theory.md",
-"status":"review",
-"title":"Compensatory multidimensional item response theory",
-"type":"research-method"
-},
-{
-"description":"The article frames MIRT equating as transforming the equated group's reference system into the base group's system via a composite transformation: \\\"an orthogonal procrustes rotation, a translation transformation and a single dilation\\\".",
-"id":"composite-transformation-framework-for-mirt-equating",
-"path":"research-methods/composite-transformation-framework-for-mirt-equating.md",
-"status":"review",
-"title":"Composite transformation framework for MIRT equating",
-"type":"research-method"
-},
-{
 "aliases":["compound-polynomial-cp-growth-model"],
 "description":"The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns.",
 "id":"compound-polynomial-growth-model",
 "path":"research-methods/compound-polynomial-growth-model.md",
 "status":"review",
 "title":"Compound Polynomial growth model",
-"type":"research-method"
-},
-{
-"description":"The report develops a conceptual framework to guide its literature search and review, \\\"identifying three key components describing online learning\\\": (a) whether the activity serves as a replacement for or an enhancement to conventional face-to-face instruction, (b) the type of learning experience (e",
-"id":"conceptual-framework-for-online-learning-along-three-dimensions-replacement-vs-enhancement",
-"path":"research-methods/conceptual-framework-for-online-learning-along-three-dimensions-replacement-vs-enhancement.md",
-"status":"review",
-"title":"Conceptual framework for online learning along three dimensions: replacement vs. enhancement, learning-experience type, and synchronicity",
 "type":"research-method"
 },
 {
@@ -191413,14 +191237,6 @@
 "type":"research-method"
 },
 {
-"description":"The report's methodological contribution is to work out the correct variance formulas for the CACE estimator under clustered designs and to compare them with \\\"those that are typically used in practice\\\".",
-"id":"correct-variance-estimation-for-cace-in-clustered-education-rcts",
-"path":"research-methods/correct-variance-estimation-for-cace-in-clustered-education-rcts.md",
-"status":"review",
-"title":"Correct variance estimation for CACE in clustered education RCTs",
-"type":"research-method"
-},
-{
 "description":"The article introduces an angular-statistics framework in which item and test difficulty and discriminating values are obtained from the cosine of the angle between the observed score vector and the maximum possible score vector, involving inner products and vector lengths.",
 "id":"cosine-similarity-framework",
 "path":"research-methods/cosine-similarity-framework.md",
@@ -191450,14 +191266,6 @@
 "path":"research-methods/cpig-the-creative-psychometric-item-generator-framework.md",
 "status":"review",
 "title":"CPIG: the creative psychometric item generator framework",
-"type":"research-method"
-},
-{
-"description":"The review defines a four-part experimental design that any credible validation of learning-styles-based instruction must satisfy: learners are classified by learning style, randomly assigned to at least two instructional methods, all take the same achievement test, and results must show a crossover",
-"id":"crossover-interaction-criteria-framework-for-validating-learning-styles-interventions",
-"path":"research-methods/crossover-interaction-criteria-framework-for-validating-learning-styles-interventions.md",
-"status":"review",
-"title":"Crossover-interaction criteria framework for validating learning-styles interventions",
 "type":"research-method"
 },
 {
@@ -191493,30 +191301,6 @@
 "type":"research-method"
 },
 {
-"description":"The article recommends constructing a DAG before data collection so that decisions about when to control, what to control for, and when to avoid control can be derived by inspecting the graph.",
-"id":"dag-guided-covariate-selection-for-causal-inference",
-"path":"research-methods/dag-guided-covariate-selection-for-causal-inference.md",
-"status":"review",
-"title":"DAG-guided covariate selection for causal inference",
-"type":"research-method"
-},
-{
-"description":"The report's fourth consideration addresses data availability: DLPs may lack individual demographic data while collecting school-level covariates such as locale type or Title I status.",
-"id":"data-integration-planning-for-digital-learning-platform-research",
-"path":"research-methods/data-integration-planning-for-digital-learning-platform-research.md",
-"status":"review",
-"title":"Data integration planning for digital learning platform research",
-"type":"research-method"
-},
-{
-"description":"The review defines agentic AI as systems \\\"powered by generative AI, that exhibit goal-directed autonomy\\\": perceiving the environment, reasoning about goals, formulating and executing multi-step plans, adapting behaviour, and coordinating with tools, other agents, or human stakeholders.",
-"id":"definition-of-generative-ai-powered-agentic-ai-via-three-core-characteristics-task-autonom",
-"path":"research-methods/definition-of-generative-ai-powered-agentic-ai-via-three-core-characteristics-task-autonom.md",
-"status":"review",
-"title":"Definition of generative AI-powered agentic AI via three core characteristics: task autonomy, goal-directed reasoning, and memory- and context-aware interaction",
-"type":"research-method"
-},
-{
 "description":"DBIR is an emerging research-and-development approach the article positions as the process for co-developing its differentiated instruction practice framework.",
 "id":"design-based-implementation-research-dbir",
 "path":"research-methods/design-based-implementation-research-dbir.md",
@@ -191530,22 +191314,6 @@
 "path":"research-methods/design-based-rct-analysis-with-grouped-administrative-data.md",
 "status":"review",
 "title":"Design-based RCT analysis with grouped administrative data",
-"type":"research-method"
-},
-{
-"description":"The report's methods theme identifies the most common or growing approaches: Design-Based Research, 'a methodology that rigorously explores which design features have the most potential to improve learning'; learning analytics, providing insights into the learning process often linked to formative a",
-"id":"design-based-research-learning-analytics-and-multimodal-analytics",
-"path":"research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md",
-"status":"review",
-"title":"Design-based research, learning analytics, and multimodal analytics",
-"type":"research-method"
-},
-{
-"description":"The article proposes principles for implementing design-based research in work on technology-enhanced learning environments.",
-"id":"design-based-research-with-technology-enhanced-learning-environments-teles",
-"path":"research-methods/design-based-research-with-technology-enhanced-learning-environments-teles.md",
-"status":"review",
-"title":"Design-based research with technology-enhanced learning environments (TELEs)",
 "type":"research-method"
 },
 {
@@ -191590,14 +191358,6 @@
 "type":"research-method"
 },
 {
-"description":"The paper uses Dohn's (2009a, b) context-level framework to analyze literacy demands as context-sensitive expectations placed on students at three interacting levels.",
-"id":"dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands",
-"path":"research-methods/dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands.md",
-"status":"review",
-"title":"Dohn's three-level framework of competence demands applied to literacy demands",
-"type":"research-method"
-},
-{
 "description":"A methodology adapted from clinical psychology that jointly measures self-reported characteristics and observer-rated behavioral expressions of an LLM persona.",
 "id":"dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o",
 "path":"research-methods/dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o.md",
@@ -191611,14 +191371,6 @@
 "path":"research-methods/dynamical-systems-analysis-of-intelligent-tutoring-system-process-data.md",
 "status":"review",
 "title":"Dynamical-systems analysis of intelligent tutoring system process data",
-"type":"research-method"
-},
-{
-"description":"DynEmb is a knowledge tracing framework with two independently trained components: QuestionEmb, which learns a static d-dimensional question embedding via regularized biased matrix factorization from student-question interactions, and StudentDyn, an RNN (an LSTM by default) whose hidden state serves",
-"id":"dynemb-knowledge-tracing-framework",
-"path":"research-methods/dynemb-knowledge-tracing-framework.md",
-"status":"review",
-"title":"DynEmb knowledge tracing framework",
 "type":"research-method"
 },
 {
@@ -191663,27 +191415,11 @@
 "type":"research-method"
 },
 {
-"description":"The materials analysis produced a coding framework for the knowledge and skills addressed by professional development texts on data use.",
-"id":"eight-category-content-coding-framework-for-data-literacy-professional-development-materia",
-"path":"research-methods/eight-category-content-coding-framework-for-data-literacy-professional-development-materia.md",
-"status":"review",
-"title":"Eight-category content coding framework for data-literacy professional development materials",
-"type":"research-method"
-},
-{
 "description":"The review constructs eight recurring themes via reflexive thematic analysis of 18 studies: GenAI reconfigures knowledge development, reshapes higher-order thinking, mediates communication, transforms team interaction, improves administrative efficiency, provides personalised feedback, and raises da",
 "id":"eight-theme-analytical-framework-for-genai-in-higher-education-group-work",
 "path":"research-methods/eight-theme-analytical-framework-for-genai-in-higher-education-group-work.md",
 "status":"review",
 "title":"Eight-theme analytical framework for GenAI in higher-education group work",
-"type":"research-method"
-},
-{
-"description":"This pattern describes embedding interventions directly within platform infrastructure—modifying problem formats, feedback types, or visual scaffolds—and observing effects during authentic learning activities.",
-"id":"embedded-experimental-designs-in-digital-learning-platforms",
-"path":"research-methods/embedded-experimental-designs-in-digital-learning-platforms.md",
-"status":"review",
-"title":"Embedded experimental designs in digital learning platforms",
 "type":"research-method"
 },
 {
@@ -191727,14 +191463,6 @@
 "type":"research-method"
 },
 {
-"description":"The paper adapts Callahan et al.'s (2019) funnel of influences on occupational identity into a narrowed \\\"engagement funnel\\\" of awareness, interest, and engagement, used as the organizing coding scheme for interviews and observations.",
-"id":"engagement-funnel-framework",
-"path":"research-methods/engagement-funnel-framework.md",
-"status":"review",
-"title":"Engagement funnel framework",
-"type":"research-method"
-},
-{
 "description":"The article frames its single-item probe (\\\"How difficult was it to pay attention during the last minute of the lecture?\\\") as a temporally localized reference signal targeting perceived difficulty sustaining attention, explicitly not equivalent to engagement as a whole.",
 "id":"engagement-probe-ratings-as-a-pragmatic-single-item-operationalization-of-momentary-attent",
 "path":"research-methods/engagement-probe-ratings-as-a-pragmatic-single-item-operationalization-of-momentary-attent.md",
@@ -191756,14 +191484,6 @@
 "path":"research-methods/epistemic-network-analysis-ena.md",
 "status":"review",
 "title":"Epistemic network analysis (ENA)",
-"type":"research-method"
-},
-{
-"description":"ESS is a required system declaration stating what the simulated learner can access at a given moment, how errors are generated, and whether and how the state changes over time.",
-"id":"epistemic-state-specification-ess",
-"path":"research-methods/epistemic-state-specification-ess.md",
-"status":"review",
-"title":"Epistemic State Specification (ESS)",
 "type":"research-method"
 },
 {
@@ -191807,27 +191527,11 @@
 "type":"research-method"
 },
 {
-"description":"The fifth category, evaluation frameworks, provides \\\"a structure for evaluating implementation endeavours\\\" by specifying aspects of implementation that could be evaluated to determine implementation success.",
-"id":"evaluation-frameworks-for-implementation-endeavours",
-"path":"research-methods/evaluation-frameworks-for-implementation-endeavours.md",
-"status":"review",
-"title":"Evaluation frameworks for implementation endeavours",
-"type":"research-method"
-},
-{
 "description":"ECD is a principled assessment design framework that structures the rationales, choices, and consequences of assessment development.",
 "id":"evidence-centered-design",
 "path":"research-methods/evidence-centered-design.md",
 "status":"review",
 "title":"Evidence-Centered Design",
-"type":"research-method"
-},
-{
-"description":"Resource C is a rubric for scoring whether an edtech tool has valid and sufficient evidence of impact, organized around strength of the evidence base, applicability to the district's need and context, feasibility of implementation, and continuous improvement.",
-"id":"evidence-evaluation-rubric",
-"path":"research-methods/evidence-evaluation-rubric.md",
-"status":"review",
-"title":"Evidence Evaluation Rubric",
 "type":"research-method"
 },
 {
@@ -191847,14 +191551,6 @@
 "type":"research-method"
 },
 {
-"description":"The article frames evidence reviews as \\\"projects that identify, assess, and summarize existing research in a given area\\\" that play an important role in supporting the quality of program evaluations and how findings are used.",
-"id":"evidence-reviews-for-evidence-based-program-decisions",
-"path":"research-methods/evidence-reviews-for-evidence-based-program-decisions.md",
-"status":"review",
-"title":"Evidence reviews for evidence-based program decisions",
-"type":"research-method"
-},
-{
 "description":"EVOL adapts the robotics sim-to-real demonstration recipe to educational recommendation: a DKT-based knowledge evolution simulator (KES) both synthesizes per-learner expert paths via evolutionary search and hosts RL fine-tuning, while the deployed actor plans from the initial mastery alone.",
 "id":"evol-simulator-guided-demonstration-learning-for-deployment-free-learning-path-recommendat",
 "path":"research-methods/evol-simulator-guided-demonstration-learning-for-deployment-free-learning-path-recommendat.md",
@@ -191871,27 +191567,11 @@
 "type":"research-method"
 },
 {
-"description":"The AutoTutor-based Expectation-Misconception Tailored Dialogue framework structures agent responses around a main question with a pre-programmed complete expected answer.",
-"id":"expectation-misconception-tailored-dialogue-framework-adapted-for-assessment",
-"path":"research-methods/expectation-misconception-tailored-dialogue-framework-adapted-for-assessment.md",
-"status":"review",
-"title":"Expectation-Misconception Tailored Dialogue framework adapted for assessment",
-"type":"research-method"
-},
-{
 "description":"The article describes an evidence-review approach in which a research organization compiles a large body of studies and convenes expert panels to interpret the data.",
 "id":"expert-panel-interpretation-of-compiled-educational-evidence",
 "path":"research-methods/expert-panel-interpretation-of-compiled-educational-evidence.md",
 "status":"review",
 "title":"Expert-panel interpretation of compiled educational evidence",
-"type":"research-method"
-},
-{
-"description":"The expert performance approach, first presented by Ericsson and Smith in 1991, is a systematic framework for studying expertise in three stages.",
-"id":"expert-performance-approach",
-"path":"research-methods/expert-performance-approach.md",
-"status":"review",
-"title":"Expert performance approach",
 "type":"research-method"
 },
 {
@@ -191919,22 +191599,6 @@
 "type":"research-method"
 },
 {
-"description":"The FACETS framework, introduced by Gordon et al.",
-"id":"facets-framework",
-"path":"research-methods/facets-framework.md",
-"status":"review",
-"title":"FACETS framework",
-"type":"research-method"
-},
-{
-"description":"The study adapts the reconceptualized family resemblance approach, in which science is a cognitive-epistemic and social-institutional system, to compare institutional science with text-based conversational GenAI across five categories: aims and values, methods, practices, knowledge, and social-insti",
-"id":"family-resemblance-approach-comparison-framework-for-institutional-science-and-text-based",
-"path":"research-methods/family-resemblance-approach-comparison-framework-for-institutional-science-and-text-based.md",
-"status":"review",
-"title":"Family resemblance approach comparison framework for institutional science and text-based generative systems",
-"type":"research-method"
-},
-{
 "description":"The article organizes the evaluation of multimodal learning analytics around four dimensions synthesized from prior FATE research in AI and learning analytics.",
 "id":"fate-framework",
 "path":"research-methods/fate-framework.md",
@@ -191948,46 +191612,6 @@
 "path":"research-methods/fight-pair-comparison.md",
 "status":"review",
 "title":"Fight-pair comparison",
-"type":"research-method"
-},
-{
-"description":"The article's core methodological pattern is presenting each of six teachers with the same tasks under controlled conditions and filming 20-minute sessions so that inter- and intra-teaching comparisons can be analyzed by diverse observers.",
-"id":"filmed-standardized-task-units",
-"path":"research-methods/filmed-standardized-task-units.md",
-"status":"review",
-"title":"Filmed standardized task units",
-"type":"research-method"
-},
-{
-"description":"The review's organizing framework separates technical sophistication (RQ1: tasks, methods, technological families, contexts) from four analytically separate value dimensions (RQ2–RQ5).",
-"id":"five-axis-evidence-map-framework-a-technical-axis-read-against-four-value-dimensions",
-"path":"research-methods/five-axis-evidence-map-framework-a-technical-axis-read-against-four-value-dimensions.md",
-"status":"review",
-"title":"Five-axis evidence map framework: a technical axis read against four value dimensions",
-"type":"research-method"
-},
-{
-"description":"The taxonomy defines five skill categories calibrated to NEET-type science MCQs: S1 Direct Recall, S2 Conceptual Application, S3 Multi-concept Integration, S4 Quantitative Reasoning, and S5 Elimination and Negation.",
-"id":"five-category-latent-skill-taxonomy-for-science-mcqs-s1-s5",
-"path":"research-methods/five-category-latent-skill-taxonomy-for-science-mcqs-s1-s5.md",
-"status":"review",
-"title":"Five-category latent skill taxonomy for science MCQs (S1-S5)",
-"type":"research-method"
-},
-{
-"description":"The review operationalizes student diversity for evaluating universal SEL interventions in terms of five demographic characteristics: \\\"gender, race/ethnicity, SES, disability status, and sexual orientation/gender identity.\\\" It uses this framework to assess how and when demographic characteristics we",
-"id":"five-characteristic-framework-of-student-diversity-for-evaluating-universal-sel-interventi",
-"path":"research-methods/five-characteristic-framework-of-student-diversity-for-evaluating-universal-sel-interventi.md",
-"status":"review",
-"title":"Five-characteristic framework of student diversity for evaluating universal SEL interventions",
-"type":"research-method"
-},
-{
-"description":"This brief organizes complete reporting of education research measures into five checklists covering, in the authors' words, \\\"their study's measures; (2) data collection training and quality; (3) the study's reference population, study sample, and measurement timing; (4) evidence of the reliability ",
-"id":"five-checklist-framework-for-complete-reporting-of-education-research-measures",
-"path":"research-methods/five-checklist-framework-for-complete-reporting-of-education-research-measures.md",
-"status":"review",
-"title":"Five-checklist framework for complete reporting of education research measures",
 "type":"research-method"
 },
 {
@@ -192007,43 +191631,11 @@
 "type":"research-method"
 },
 {
-"description":"PRISMA-LLM organizes implementation disclosure into five cumulative levels: off-the-shelf software; prompt-only LLM; structured/engineered workflows; retrieval/adapted/single-agent workflows; and multi-agent/swarm systems, each adding the technical detail needed to reconstruct the workflow.",
-"id":"five-cumulative-implementation-disclosure-levels-with-a-consequence-sensitive-evaluation-o",
-"path":"research-methods/five-cumulative-implementation-disclosure-levels-with-a-consequence-sensitive-evaluation-o.md",
-"status":"review",
-"title":"Five cumulative implementation-disclosure levels with a consequence-sensitive evaluation override",
-"type":"research-method"
-},
-{
-"description":"The article proposes a human-centered evaluation framework for generated feedback, stating \\\"we manually evaluate generated feedback in five dimensions: Readability, Suggestions, Problems, Positive Tone, and Factuality\\\".",
-"id":"five-dimension-framework-for-manually-evaluating-system-generated-feedback",
-"path":"research-methods/five-dimension-framework-for-manually-evaluating-system-generated-feedback.md",
-"status":"review",
-"title":"Five-dimension framework for manually evaluating system-generated feedback",
-"type":"research-method"
-},
-{
-"description":"The report defines implementation as \\\"a reduction in the translational difference between the essential, intended design elements of the curriculum and its enactment in classrooms\\\" and operationalizes five dimensions.",
-"id":"five-dimension-framework-for-operationalizing-hqim-implementation-fidelity",
-"path":"research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity.md",
-"status":"review",
-"title":"Five-dimension framework for operationalizing HQIM implementation fidelity",
-"type":"research-method"
-},
-{
 "description":"The article proposes a validation procedure in which peer assessment may only be judged valid after five prior conditions are confirmed: teacher reliability, correct test items, internal consistency of the test, reliability of the observation and marking tools, and clear, coherent marking instructio",
 "id":"five-hypothesis-validation-process-for-online-peer-assessment",
 "path":"research-methods/five-hypothesis-validation-process-for-online-peer-assessment.md",
 "status":"review",
 "title":"Five-hypothesis validation process for online peer assessment",
-"type":"research-method"
-},
-{
-"description":"The article provides an enumerated set of five considerations for judging whether CTA is appropriate: whether the study concerns a complex workplace environment characterized by uncertainty, whether the research focuses on cognition that is hard to articulate, whether relevant experts can be accesse",
-"id":"five-key-questions-for-determining-whether-cta-methods-fit-a-research-study",
-"path":"research-methods/five-key-questions-for-determining-whether-cta-methods-fit-a-research-study.md",
-"status":"review",
-"title":"Five key questions for determining whether CTA methods fit a research study",
 "type":"research-method"
 },
 {
@@ -192092,22 +191684,6 @@
 "path":"research-methods/five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items.md",
 "status":"review",
 "title":"Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items",
-"type":"research-method"
-},
-{
-"description":"This systematic review used grounded coding of 138 articles to let uses of AI in higher education emerge from the data rather than fitting them to pre-existing frameworks.",
-"id":"five-usage-codes-for-ai-in-higher-education",
-"path":"research-methods/five-usage-codes-for-ai-in-higher-education.md",
-"status":"review",
-"title":"Five usage codes for AI in higher education",
-"type":"research-method"
-},
-{
-"description":"Standard 1 requires that no systematic manipulation of the forcing variable occurred, since manipulation makes \\\"the true relationship between the outcome and forcing variable can no longer be identified, which could lead to biased impact estimates.\\\" Institutional integrity requires describing who sc",
-"id":"forcing-variable-integrity-checks-in-regression-discontinuity-designs",
-"path":"research-methods/forcing-variable-integrity-checks-in-regression-discontinuity-designs.md",
-"status":"review",
-"title":"Forcing-variable integrity checks in regression discontinuity designs",
 "type":"research-method"
 },
 {
@@ -192215,22 +191791,6 @@
 "type":"research-method"
 },
 {
-"description":"The article proposes a framework for thinking about what LA methods add to the learning sciences method space.",
-"id":"four-part-framework-for-conceptualizing-the-tradeoffs-of-learning-analytics-methods-sampli",
-"path":"research-methods/four-part-framework-for-conceptualizing-the-tradeoffs-of-learning-analytics-methods-sampli.md",
-"status":"review",
-"title":"Four-part framework for conceptualizing the tradeoffs of learning analytics methods: sampling, capturing, reduction, and pattern finding",
-"type":"research-method"
-},
-{
-"description":"The checklist organizes evidence building into four sequential phases: Design the Solution (Phase 1), Refine the Solution (Phase 2), Assess for Early Evidence of Success (Phase 3), and Validate Effectiveness (Phase 4).",
-"id":"four-phase-evidence-building-process-for-designing-and-validating-solutions",
-"path":"research-methods/four-phase-evidence-building-process-for-designing-and-validating-solutions.md",
-"status":"review",
-"title":"Four-phase evidence-building process for designing and validating solutions",
-"type":"research-method"
-},
-{
 "description":"The article organizes evaluation around four requirements an education-facing model should jointly satisfy, drawn from the learning-sciences literature (Shulman's pedagogical content knowledge, Vygotsky's zone of proximal development, Bloom's tutoring ideal, and AI-in-education ethics frameworks).",
 "id":"four-requirement-framework-for-education-facing-llms",
 "path":"research-methods/four-requirement-framework-for-education-facing-llms.md",
@@ -192268,14 +191828,6 @@
 "path":"research-methods/four-stage-dropout-timing-definitions-for-cross-institutional-persistence-comparison.md",
 "status":"review",
 "title":"Four-stage dropout timing definitions for cross-institutional persistence comparison",
-"type":"research-method"
-},
-{
-"description":"The review organizes the conduct of a meta-analysis in second language acquisition research into four typical stages: \\\"defining the research domain,\\\" \\\"developing a reliable coding scheme,\\\" \\\"analyzing data,\\\" and \\\"interpreting results.\\\" The model frames meta-analysis as a staged process in which each ",
-"id":"four-stage-model-of-conducting-a-meta-analysis-in-sla-research",
-"path":"research-methods/four-stage-model-of-conducting-a-meta-analysis-in-sla-research.md",
-"status":"review",
-"title":"Four-stage model of conducting a meta-analysis in SLA research",
 "type":"research-method"
 },
 {
@@ -192319,14 +191871,6 @@
 "type":"research-method"
 },
 {
-"description":"The chapter conceives game telemetry as \\\"the data associated with specific game events, the state of a game, or other parameters of interest,\\\" captured to a permanent external store using a predefined record format rather than ad hoc logging.",
-"id":"game-telemetry-as-systematic-behavioral-observation-for-learning-inference",
-"path":"research-methods/game-telemetry-as-systematic-behavioral-observation-for-learning-inference.md",
-"status":"review",
-"title":"Game telemetry as systematic behavioral observation for learning inference",
-"type":"research-method"
-},
-{
 "description":"A learning-analytics method using institutional student records.",
 "id":"gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate",
 "path":"research-methods/gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate.md",
@@ -192335,43 +191879,11 @@
 "type":"research-method"
 },
 {
-"description":"The GRU is a recurrent neural network architecture used in the proposed model to capture temporal patterns in student engagement, quiz performance and content interaction.",
-"id":"gated-recurrent-unit-gru-network",
-"path":"research-methods/gated-recurrent-unit-gru-network.md",
-"status":"review",
-"title":"Gated Recurrent Unit (GRU) network",
-"type":"research-method"
-},
-{
-"description":"The article constructed a general education categorization from 343,238 Web of Science papers via a pipeline of \\\"literature screening, term extraction, embedding generation, coarse categorization and semantic clustering,\\\" refined by two domain experts.",
-"id":"general-education-categorization-two-level-taxonomy-of-learning-environments-endowment-dim",
-"path":"research-methods/general-education-categorization-two-level-taxonomy-of-learning-environments-endowment-dim.md",
-"status":"review",
-"title":"General education categorization: two-level taxonomy of learning environments, endowment dimensions, and developmental dimensions",
-"type":"research-method"
-},
-{
 "description":"The general polytomous testlet model is an item response theory model for testlet-based tests containing both dichotomously and polytomously scored items.",
 "id":"general-polytomous-testlet-model",
 "path":"research-methods/general-polytomous-testlet-model.md",
 "status":"review",
 "title":"General polytomous testlet model",
-"type":"research-method"
-},
-{
-"description":"A coding scheme used to classify think-aloud utterances into mutually exclusive categories of superficial processes (e.g., reading/watching and filtering, checking solution steps), elaborative processes (developing and testing hypotheses, relating and integrating, giving (self-)explanations), and re",
-"id":"generic-learning-processes-coding-scheme-for-think-aloud-protocols",
-"path":"research-methods/generic-learning-processes-coding-scheme-for-think-aloud-protocols.md",
-"status":"review",
-"title":"Generic learning processes coding scheme for think-aloud protocols",
-"type":"research-method"
-},
-{
-"description":"The article proposes organizing the simulated-student design space along two dimensions: behavioral goals (performance, learning, human aspects) and environment (subject domain, learner population, interaction modality).",
-"id":"goal-by-environment-framework-for-classifying-simulated-student-systems",
-"path":"research-methods/goal-by-environment-framework-for-classifying-simulated-student-systems.md",
-"status":"review",
-"title":"Goal-by-Environment framework for classifying simulated student systems",
 "type":"research-method"
 },
 {
@@ -192432,27 +191944,11 @@
 "type":"research-method"
 },
 {
-"description":"The HelpNeed classification labels each problem-solving step using two data-driven dimensions: step duration (Quick vs Long, thresholded at the 75th percentile of historical per-problem step time) and step efficiency (derived from Hint Factory state quality and progress).",
-"id":"helpneed-classification",
-"path":"research-methods/helpneed-classification.md",
-"status":"review",
-"title":"HelpNeed classification",
-"type":"research-method"
-},
-{
 "description":"The article establishes the task of history-conditioned student simulation, where a model predicts a student's next tutoring-dialogue turn conditioned on their prior question-answering and dialogue history.",
 "id":"history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram",
 "path":"research-methods/history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram.md",
 "status":"review",
 "title":"History-conditioned student simulation: two-component profile-generator-plus-simulator framework",
-"type":"research-method"
-},
-{
-"description":"The study adapted Braun and Clarke's six-phase reflexive thematic analysis to incorporate systematic human-AI collaboration guided by the IAVES framework for Human-Centered AI Interaction.",
-"id":"human-ai-collaborative-thematic-analysis-process-guided-by-the-iaves-framework",
-"path":"research-methods/human-ai-collaborative-thematic-analysis-process-guided-by-the-iaves-framework.md",
-"status":"review",
-"title":"Human-AI collaborative thematic analysis process guided by the IAVES framework",
 "type":"research-method"
 },
 {
@@ -192480,22 +191976,6 @@
 "type":"research-method"
 },
 {
-"description":"The guide operationalizes the IES levels of evidence for practice guides: strong evidence requires studies with high internal and external validity, such as a systematic review meeting WWC standards or well-designed randomized trials with no contradictory evidence; moderate evidence allows strong ca",
-"id":"ies-practice-guide-levels-of-evidence-framework",
-"path":"research-methods/ies-practice-guide-levels-of-evidence-framework.md",
-"status":"review",
-"title":"IES practice guide levels-of-evidence framework",
-"type":"research-method"
-},
-{
-"description":"Teams should gather data on implementation integrity and variability across contexts, addressing both whether a solution is implemented as intended and how it performs across a wide range of contexts.",
-"id":"implementation-integrity-and-cross-context-robustness-evaluation",
-"path":"research-methods/implementation-integrity-and-cross-context-robustness-evaluation.md",
-"status":"review",
-"title":"Implementation-integrity and cross-context robustness evaluation",
-"type":"research-method"
-},
-{
 "description":"The guide is a practical resource for researchers who conduct implementation analyses as part of impact studies of education interventions.",
 "id":"implementation-research-within-impact-studies-of-education-interventions",
 "path":"research-methods/implementation-research-within-impact-studies-of-education-interventions.md",
@@ -192509,14 +191989,6 @@
 "path":"research-methods/improvement-rate-difference-meta-analysis.md",
 "status":"review",
 "title":"Improvement Rate Difference meta-analysis",
-"type":"research-method"
-},
-{
-"description":"The white paper defines Improvement Science as \\\"a systematic approach to identifying and solving educational problems through iterative testing, data collection, systematic reflection, and refinement\\\" focused on enhancing educational processes and systems.",
-"id":"improvement-science",
-"path":"research-methods/improvement-science.md",
-"status":"review",
-"title":"Improvement Science",
 "type":"research-method"
 },
 {
@@ -192560,43 +192032,11 @@
 "type":"research-method"
 },
 {
-"description":"Tool 5 is \\\"designed to assist SEAs, LEAs, or schools as they review research on interventions that target a specific issue, problem, or outcome.\\\" By completing the tool, \\\"the user can assess the levels of evidence for a specific intervention under consideration for selection (based on the evidence d",
-"id":"intervention-evidence-review-tool-tool-5-for-assessing-an-interventions-essa-evidence-leve",
-"path":"research-methods/intervention-evidence-review-tool-tool-5-for-assessing-an-interventions-essa-evidence-leve.md",
-"status":"review",
-"title":"Intervention Evidence Review tool (Tool 5) for assessing an intervention's ESSA evidence level",
-"type":"research-method"
-},
-{
-"description":"The article develops a classification framework for describing peer assessment practices, replacing Topping's discrete-variable typology because 'the range of variation appeared to no longer be a list of separate values but rather a continuum, or sometimes even a multi-dimensional space'.",
-"id":"inventory-of-peer-assessment-diversity-20-variables-grouped-into-five-clusters",
-"path":"research-methods/inventory-of-peer-assessment-diversity-20-variables-grouped-into-five-clusters.md",
-"status":"review",
-"title":"Inventory of peer assessment diversity: 20 variables grouped into five clusters",
-"type":"research-method"
-},
-{
-"description":"The paper proposes applying Item Response Theory and, within it, Person-Fit Statistics to educational assessment as a lens for detecting GenAI cheating.",
-"id":"irt-based-person-fit-statistics-for-detecting-aberrant-response-patterns",
-"path":"research-methods/irt-based-person-fit-statistics-for-detecting-aberrant-response-patterns.md",
-"status":"review",
-"title":"IRT-based person-fit statistics for detecting aberrant response patterns",
-"type":"research-method"
-},
-{
 "description":"The article recommends an IRT framework for its repeated measurement linking design because IRT \\\"easily allows for incomplete designs and for equality constraints between item parameters.\\\" The author notes that when new randomized groups are formed at each occasion and all links are put to work in c",
 "id":"irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links",
 "path":"research-methods/irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links.md",
 "status":"review",
 "title":"IRT-based repeated-measurement linking with re-randomized groups and concurrent links",
-"type":"research-method"
-},
-{
-"description":"Instructional Systems Design is a general-purpose task decomposition methodology widely used by the Air Force since 1972, in which duties are broken into tasks, subtasks, and supporting skills and knowledge via expert observation and documentation review.",
-"id":"isd-task-analysis-approach",
-"path":"research-methods/isd-task-analysis-approach.md",
-"status":"review",
-"title":"ISD task analysis approach",
 "type":"research-method"
 },
 {
@@ -192640,27 +192080,11 @@
 "type":"research-method"
 },
 {
-"description":"The 2020 norms treat student-level and school-level norming as a joint enterprise rather than separate products.",
-"id":"joint-student-level-and-school-level-achievement-and-growth-norms",
-"path":"research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md",
-"status":"review",
-"title":"Joint student-level and school-level achievement and growth norms",
-"type":"research-method"
-},
-{
 "description":"The article adapts Jonassen's problem-classification framework to generative-AI problem solving along two dimensions: \\\"prompt-specificity, or how much information is explicitly given versus left for the model to infer, and modality, or whether the problem is presented through text alone or with visu",
 "id":"jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph",
 "path":"research-methods/jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph.md",
 "status":"review",
 "title":"Jonassen-informed prompt-variation framework with MAPS-based evaluation for probing LRM physics reasoning",
-"type":"research-method"
-},
-{
-"description":"The article presents a taxonomy of oral assessments along six dimensions: primary content type, interaction, authenticity, structure, examiners, and orality.",
-"id":"joughins-six-dimension-taxonomy-of-oral-assessments",
-"path":"research-methods/joughins-six-dimension-taxonomy-of-oral-assessments.md",
-"status":"review",
-"title":"Joughin's six-dimension taxonomy of oral assessments",
 "type":"research-method"
 },
 {
@@ -192704,14 +192128,6 @@
 "type":"research-method"
 },
 {
-"description":"The latent class forest (LCF) embeds latent class analysis within a random forest ensemble, recursively partitioning observations via EM-estimated two-class splits at each internal node, then clustering a pairwise distance matrix built from terminal-node similarity.",
-"id":"latent-class-forest",
-"path":"research-methods/latent-class-forest.md",
-"status":"review",
-"title":"Latent class forest",
-"type":"research-method"
-},
-{
 "description":"A prediction-model approach that links scores across different K-2 literacy assessments using test records already available in administrative data.",
 "id":"latent-score-linking-method",
 "path":"research-methods/latent-score-linking-method.md",
@@ -192728,35 +192144,11 @@
 "type":"research-method"
 },
 {
-"description":"Learning study is described as \\\"an approach for developing lessons, using a theory of variation\\\", in which teachers formulate a learning object, construct pre/post tests, plan and video-record lessons, analyze them, and improve successive lessons.",
-"id":"learning-study",
-"path":"research-methods/learning-study.md",
-"status":"review",
-"title":"Learning study",
-"type":"research-method"
-},
-{
 "description":"The article proposes an analysis framework in which \\\"Essays are first evaluated by LLMs to produce both predicted scores and textual feedback.\\\" Essay-level features (length, Flesch Reading Ease readability, and LanguageTool error counts) and feedback-derived signals (trait-specific praise and critic",
 "id":"llm-scoring-generated-feedback-and-essay-feature-analysis-framework",
 "path":"research-methods/llm-scoring-generated-feedback-and-essay-feature-analysis-framework.md",
 "status":"review",
 "title":"LLM scoring, generated-feedback, and essay-feature analysis framework",
-"type":"research-method"
-},
-{
-"description":"LDF is a DIF-detection method, drawn from Miller and Spray (1993), in which the probability of group membership is modeled from total score plus item score, and \\\"the response variable, U, need not be restricted to only two categories...but can take on any one of the J values associated with each ite",
-"id":"logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol",
-"path":"research-methods/logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol.md",
-"status":"review",
-"title":"Logistic discriminant function analysis for differential item functioning detection in polytomously scored items",
-"type":"research-method"
-},
-{
-"description":"Because binary outcomes demand larger samples than continuous test-score or behavioral-scale outcomes, designers of clustered school-based RCTs should plan for more schools than the 40 to 60 typically used.",
-"id":"logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes",
-"path":"research-methods/logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes.md",
-"status":"review",
-"title":"Logit-based power planning for clustered education RCTs with binary outcomes",
 "type":"research-method"
 },
 {
@@ -192773,14 +192165,6 @@
 "path":"research-methods/loss-function-decision-rule-for-late-pretest-use-in-education-rcts.md",
 "status":"review",
 "title":"Loss-function decision rule for late pretest use in education RCTs",
-"type":"research-method"
-},
-{
-"description":"When a school of choice has more applicants than seats, its admissions lottery can serve as the randomizer for a causal evaluation.",
-"id":"lottery-based-randomized-controlled-trials-for-school-choice-evaluation",
-"path":"research-methods/lottery-based-randomized-controlled-trials-for-school-choice-evaluation.md",
-"status":"review",
-"title":"Lottery-based randomized controlled trials for school-choice evaluation",
 "type":"research-method"
 },
 {
@@ -192816,14 +192200,6 @@
 "type":"research-method"
 },
 {
-"description":"Among the practical steps the article recommends for meeting evidence and accountability demands are \\\"identifying appropriate sample definitions and analysis methods.\\\" In a clustered design this means defining the school and student samples deliberately and using analysis methods appropriate to clus",
-"id":"matching-sample-definitions-and-analysis-methods-to-clustered-education-trial-designs",
-"path":"research-methods/matching-sample-definitions-and-analysis-methods-to-clustered-education-trial-designs.md",
-"status":"review",
-"title":"Matching sample definitions and analysis methods to clustered education trial designs",
-"type":"research-method"
-},
-{
 "description":"MBP-KT is a three-component framework for knowledge tracing.",
 "id":"mbp-kt",
 "path":"research-methods/mbp-kt.md",
@@ -192837,54 +192213,6 @@
 "path":"research-methods/me-checklist.md",
 "status":"review",
 "title":"M&E Checklist",
-"type":"research-method"
-},
-{
-"description":"The brief organizes measurement work around a team whose members carry defined responsibilities.",
-"id":"measurement-team-roles-and-responsibilities-framework-for-education-studies",
-"path":"research-methods/measurement-team-roles-and-responsibilities-framework-for-education-studies.md",
-"status":"review",
-"title":"Measurement team roles and responsibilities framework for education studies",
-"type":"research-method"
-},
-{
-"description":"The paper adopts Messick's taxonomy of validity facets to structure validation investigations in epistemic game contexts.",
-"id":"messicks-seven-facets-of-validity",
-"path":"research-methods/messicks-seven-facets-of-validity.md",
-"status":"review",
-"title":"Messick's seven facets of validity",
-"type":"research-method"
-},
-{
-"description":"The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all \\\"fail to square with the common understanding of racial integration.\\\" I",
-"id":"metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat",
-"path":"research-methods/metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat.md",
-"status":"review",
-"title":"Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration",
-"type":"research-method"
-},
-{
-"description":"The article describes two promising methods for recording eye gaze in real-life mobile settings.",
-"id":"mobile-eye-gaze-recording-methods-electrooculography-and-infrared-stereo-eye-tracking",
-"path":"research-methods/mobile-eye-gaze-recording-methods-electrooculography-and-infrared-stereo-eye-tracking.md",
-"status":"review",
-"title":"Mobile eye-gaze recording methods (electrooculography and infrared stereo eye tracking)",
-"type":"research-method"
-},
-{
-"description":"The article presents a heuristic contrasting two ways of understanding models in science.",
-"id":"models-of-versus-models-for-heuristic",
-"path":"research-methods/models-of-versus-models-for-heuristic.md",
-"status":"review",
-"title":"Models of versus models for heuristic",
-"type":"research-method"
-},
-{
-"description":"A conceptual account of why conventional evaluation lags educational AI: the intervention \\\"may be better understood as a versioned configuration of technological capabilities, pedagogical functions and implementation practices at a particular point in time: a moving intervention rather than a fixed ",
-"id":"moving-intervention-framework-for-evaluating-educational-ai",
-"path":"research-methods/moving-intervention-framework-for-evaluating-educational-ai.md",
-"status":"review",
-"title":"Moving intervention framework for evaluating educational AI",
 "type":"research-method"
 },
 {
@@ -192978,43 +192306,11 @@
 "type":"research-method"
 },
 {
-"description":"Because second-generation immigrants with German citizenship cannot be identified from administrative records, the authors impute immigration background and region of origin from first and family names using the Humpert and Schneiderheinze method, drawing on name databases of around 200,000 first na",
-"id":"name-based-imputation-of-student-immigration-background",
-"path":"research-methods/name-based-imputation-of-student-immigration-background.md",
-"status":"review",
-"title":"Name-based imputation of student immigration background",
-"type":"research-method"
-},
-{
-"description":"Narrative inquiry is a qualitatively oriented research method in education, first named by Connelly and Clandinin in 1990 and grounded in Dewey's philosophy.",
-"id":"narrative-inquiry",
-"path":"research-methods/narrative-inquiry.md",
-"status":"review",
-"title":"Narrative inquiry",
-"type":"research-method"
-},
-{
 "description":"The negative priming paradigm, originally designed by Tipper (1985), rests on the logic that \\\"if a distractor (or a strategy) is inhibited on a given item (i.e., the prime), then its activation on the following item (i.e., the probe) should be disrupted\\\".",
 "id":"negative-priming-paradigm-adapted-to-misleading-strategies",
 "path":"research-methods/negative-priming-paradigm-adapted-to-misleading-strategies.md",
 "status":"review",
 "title":"Negative priming paradigm adapted to misleading strategies",
-"type":"research-method"
-},
-{
-"description":"The article proposes a nested coding scheme for how demographic information appears in research: publications are first coded as applicable or not applicable, then as analyzed, merely reported, or not reported, and analyzed papers are subdivided by whether demographics were investigated, used as fea",
-"id":"nested-coding-scheme-for-demographic-information-use-in-edm-publications",
-"path":"research-methods/nested-coding-scheme-for-demographic-information-use-in-edm-publications.md",
-"status":"review",
-"title":"Nested coding scheme for demographic information use in EDM publications",
-"type":"research-method"
-},
-{
-"description":"The article introduces a feed-forward neural model that maps a continuous mastery state to a distribution over the next skill using the Upper Bounded Softmax function, which assigns probability mass only to currently unmastered skills.",
-"id":"neural-expected-increment-model-with-upper-bounded-softmax-for-next-skill-prediction",
-"path":"research-methods/neural-expected-increment-model-with-upper-bounded-softmax-for-next-skill-prediction.md",
-"status":"review",
-"title":"Neural expected-increment model with Upper Bounded Softmax for next-skill prediction",
 "type":"research-method"
 },
 {
@@ -193066,22 +192362,6 @@
 "type":"research-method"
 },
 {
-"description":"The guide follows a three-part organizing structure: it \\\"defines opportunistic experiments and provides examples,\\\" \\\"discusses issues to consider when identifying potential opportunistic experiments,\\\" and \\\"outlines the critical steps to complete opportunistic experiments.\\\" This sequence moves readers",
-"id":"opportunistic-experiments",
-"path":"research-methods/opportunistic-experiments.md",
-"status":"review",
-"title":"Opportunistic experiments",
-"type":"research-method"
-},
-{
-"description":"OptimNN-Reg extends OptimNN by adding regularizing penalty terms to the binary cross-entropy loss with chosen coefficients, enforcing allowable-parameter rules (slip below 0.5, guess below 0.5, learn below (1-slip)/guess) and supporting priors over BKT parameters via any differentiable distribution,",
-"id":"optimnn-reg",
-"path":"research-methods/optimnn-reg.md",
-"status":"review",
-"title":"OptimNN-Reg",
-"type":"research-method"
-},
-{
 "description":"Ordered network analysis extends epistemic network analysis by incorporating temporal ordering into network construction, \\\"allowing edges to represent ordered transitions between codes rather than unordered co-occurrence.\\\" The article applies ONA to retrospective cued-recall affect reports from a sh",
 "id":"ordered-network-analysis-ona",
 "path":"research-methods/ordered-network-analysis-ona.md",
@@ -193106,35 +192386,11 @@
 "type":"research-method"
 },
 {
-"description":"P-curve analysis is a tool for assessing whether a set of statistically significant findings contains evidential value.",
-"id":"p-curve-analysis",
-"path":"research-methods/p-curve-analysis.md",
-"status":"review",
-"title":"P-curve analysis",
-"type":"research-method"
-},
-{
-"description":"The PARI (Precursor, Action, Result, Interpretation) methodology is a structured, thinking-aloud interview technique for cognitive task analysis of diagnostic problem solving, developed under the Basic Job Skills program.",
-"id":"pari-methodology-a-structured-dyadic-problem-solving-interview-for-cognitive-task-analysis",
-"path":"research-methods/pari-methodology-a-structured-dyadic-problem-solving-interview-for-cognitive-task-analysis.md",
-"status":"review",
-"title":"PARI methodology: a structured dyadic problem-solving interview for cognitive task analysis",
-"type":"research-method"
-},
-{
 "description":"The article proposes modelling educational tests as partially specified structural causal models in which observable endogenous variables (answers and hint usage) are generated by latent exogenous variables.",
 "id":"partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment",
 "path":"research-methods/partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment.md",
 "status":"review",
 "title":"Partially specified structural causal model (PSCM) protocol for educational assessment",
-"type":"research-method"
-},
-{
-"description":"The article defines participatory research (PR) as an \\\"umbrella term for research designs, methods, and frameworks\\\" that \\\"use systematic inquiry in direct collaboration with those affected by the issue being studied for the purpose of action or change\\\".",
-"id":"participatory-research",
-"path":"research-methods/participatory-research.md",
-"status":"review",
-"title":"Participatory research",
 "type":"research-method"
 },
 {
@@ -193170,27 +192426,11 @@
 "type":"research-method"
 },
 {
-"description":"The DFIT framework is an IRT-based, parametric procedure for detecting differential item and test functioning that \\\"can be used withdichotomous, polytomous, ormultidimensional data.\\\" For polytomous data it computes expected item scores and true test scores under the graded response model for each Fo",
-"id":"polytomous-dfit-framework",
-"path":"research-methods/polytomous-dfit-framework.md",
-"status":"review",
-"title":"Polytomous DFIT framework",
-"type":"research-method"
-},
-{
 "description":"The article built a comparative evaluation testbed simulating an institution's position under vendor procurement: a research replica EWS and six post-hoc fairness methods applied without accessing, modifying, or retraining the underlying model.",
 "id":"post-hoc-fairness-evaluation-testbed-for-vendor-controlled-early-warning-systems",
 "path":"research-methods/post-hoc-fairness-evaluation-testbed-for-vendor-controlled-early-warning-systems.md",
 "status":"review",
 "title":"Post-hoc fairness evaluation testbed for vendor-controlled early-warning systems",
-"type":"research-method"
-},
-{
-"description":"Post-occupancy evaluation (POE) is presented as an established methodology for evaluating non-domestic buildings, which the review charts historically to contextualize learning-space evaluation.",
-"id":"post-occupancy-evaluation-poe",
-"path":"research-methods/post-occupancy-evaluation-poe.md",
-"status":"review",
-"title":"Post-occupancy evaluation (POE)",
 "type":"research-method"
 },
 {
@@ -193347,22 +192587,6 @@
 "type":"research-method"
 },
 {
-"description":"Quantized Learning Gain is a binary qualitative measurement introduced to avoid the asymmetry problems of Normalized Learning Gain for students with high pretest scores.",
-"id":"quantized-learning-gain-qlg",
-"path":"research-methods/quantized-learning-gain-qlg.md",
-"status":"review",
-"title":"Quantized Learning Gain (QLG)",
-"type":"research-method"
-},
-{
-"description":"The article proposes a \\\"quasi-mixed\\\" method in which \\\"our “quasi-mixed” method applies quantitative and qualitative analysis to the same qualitative dataset\\\", extending NLP-human mixed-methods workflows to an LLM-human workflow.",
-"id":"quasi-mixed-methods-llm-human-workflow-for-analyzing-qualitative-reflection-data",
-"path":"research-methods/quasi-mixed-methods-llm-human-workflow-for-analyzing-qualitative-reflection-data.md",
-"status":"review",
-"title":"Quasi-mixed methods: LLM-human workflow for analyzing qualitative reflection data",
-"type":"research-method"
-},
-{
 "description":"RACES (Reward-Aligned Consistent Essay Scoring) is a unified AES framework that \\\"integrates LoRA-based parameter-efficient fine-tuning, reward modeling, and PPO with KL regularization\\\".",
 "id":"races-reward-aligned-consistent-essay-scoring-framework",
 "path":"research-methods/races-reward-aligned-consistent-essay-scoring-framework.md",
@@ -193371,27 +192595,11 @@
 "type":"research-method"
 },
 {
-"description":"RAISE (Reporting AI Studies in Education) is a structured reporting standard for empirical studies involving AI as part of the educational experience.",
-"id":"raise-reporting-ai-studies-in-education",
-"path":"research-methods/raise-reporting-ai-studies-in-education.md",
-"status":"review",
-"title":"RAISE (Reporting AI Studies in Education)",
-"type":"research-method"
-},
-{
 "description":"This element is the quantitative synthesis itself: studies reporting effects of physical exercise on motor skills and executive functions in children with ADHD were identified \\\"through Cochrane, PsycInfo, PubMed, Web of Science databases\\\" and \\\"Ten publications were selected.\\\" A \\\"Random-effects model",
 "id":"random-effects-meta-analysis",
 "path":"research-methods/random-effects-meta-analysis.md",
 "status":"review",
 "title":"Random-effects meta-analysis",
-"type":"research-method"
-},
-{
-"description":"Rapid-cycle evaluation is presented as an approach organizations can use when decision-makers 'often lack timely and reliable evidence of whether such changes produce the expected results.' The page frames it as a 'decision support tool for continuous program and quality improvement,' applied to 'sm",
-"id":"rapid-cycle-evaluation",
-"path":"research-methods/rapid-cycle-evaluation.md",
-"status":"review",
-"title":"Rapid-cycle evaluation",
 "type":"research-method"
 },
 {
@@ -193473,22 +192681,6 @@
 "path":"research-methods/reliance-calibration-as-an-output-contingent-classification-of-reliance-decisions.md",
 "status":"review",
 "title":"Reliance calibration as an output-contingent classification of reliance decisions",
-"type":"research-method"
-},
-{
-"description":"This principle directs platform researchers analyzing randomized experiments to train outcome-prediction models on log data from non-experimental ('remnant') users and incorporate those predictions, together with within-sample covariates, into design-based covariate-adjusted estimators such as ReLOO",
-"id":"remnant-based-covariate-adjustment-reloop",
-"path":"research-methods/remnant-based-covariate-adjustment-reloop.md",
-"status":"review",
-"title":"Remnant-based covariate adjustment (ReLOOP+)",
-"type":"research-method"
-},
-{
-"description":"The article trained four neural networks on remnant data to predict assignment completion and problems to mastery: a feed-forward network on prior student statistics, LSTM networks on the last 20 started assignments and the last 60 days of tutor actions, and an ensemble.",
-"id":"remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction",
-"path":"research-methods/remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction.md",
-"status":"review",
-"title":"Remnant-trained deep-learning models for assignment-completion and mastery prediction",
 "type":"research-method"
 },
 {
@@ -193581,14 +192773,6 @@
 "type":"research-method"
 },
 {
-"description":"A methodological guidance report developed for education research, published by Mathematica Policy Research in 2008.",
-"id":"schochets-guidelines-for-handling-multiple-testing-in-education-research",
-"path":"research-methods/schochets-guidelines-for-handling-multiple-testing-in-education-research.md",
-"status":"review",
-"title":"Schochet's guidelines for handling multiple testing in education research",
-"type":"research-method"
-},
-{
 "description":"The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows.",
 "id":"seasonal-learning-analysis",
 "path":"research-methods/seasonal-learning-analysis.md",
@@ -193602,14 +192786,6 @@
 "path":"research-methods/sel-status-and-growth-early-warning-modeling.md",
 "status":"review",
 "title":"SEL status-and-growth early-warning modeling",
-"type":"research-method"
-},
-{
-"description":"The article recommends that school health researchers take practical steps to ensure high-quality evidence, beginning with design choice.",
-"id":"select-the-research-design-that-fits-the-intervention-and-evaluation-setting",
-"path":"research-methods/select-the-research-design-that-fits-the-intervention-and-evaluation-setting.md",
-"status":"review",
-"title":"Select the research design that fits the intervention and evaluation setting",
 "type":"research-method"
 },
 {
@@ -193661,22 +192837,6 @@
 "type":"research-method"
 },
 {
-"description":"Because standard errors from alternative estimators of treatment effects in clustered RCTs can differ, the report's key recommendation is that analysts \\\"test the sensitivity of their impact findings using different estimation methods and cluster-level weighting schemes\\\".",
-"id":"sensitivity-analysis-across-estimators-and-cluster-level-weighting-schemes-for-clustered-r",
-"path":"research-methods/sensitivity-analysis-across-estimators-and-cluster-level-weighting-schemes-for-clustered-r.md",
-"status":"review",
-"title":"Sensitivity analysis across estimators and cluster-level weighting schemes for clustered RCTs",
-"type":"research-method"
-},
-{
-"description":"The review proposes a construct-validity framework separating seven measurement targets: epistemic evaluation, verification initiation, process quality, success, reliance decisions, immediate task performance, and independent learning.",
-"id":"seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs",
-"path":"research-methods/seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs.md",
-"status":"review",
-"title":"Seven analytically ordered measurement targets for critical engagement with GenAI outputs",
-"type":"research-method"
-},
-{
 "description":"The article develops and applies a comparison framework that identifies characteristics of summative assessments in seven dimensions: cognitive process, transferability, depth of analysis, interdependence, novelty, scaffolding and communication.",
 "id":"seven-dimensional-outcome-comparison-framework-for-analyzing-implicit-learning-outcomes-in",
 "path":"research-methods/seven-dimensional-outcome-comparison-framework-for-analyzing-implicit-learning-outcomes-in.md",
@@ -193698,14 +192858,6 @@
 "path":"research-methods/seven-type-feedback-focus-taxonomy-adapted-from-narciss-for-written-teacher-feedback.md",
 "status":"review",
 "title":"Seven-type feedback focus taxonomy adapted from Narciss for written teacher feedback",
-"type":"research-method"
-},
-{
-"description":"The article applies its developed statistical power formulas in a simulated power analysis of clustered school-based RCTs of education interventions.",
-"id":"simulated-power-analysis-for-clustered-education-rcts",
-"path":"research-methods/simulated-power-analysis-for-clustered-education-rcts.md",
-"status":"review",
-"title":"Simulated power analysis for clustered education RCTs",
 "type":"research-method"
 },
 {
@@ -193733,46 +192885,6 @@
 "type":"research-method"
 },
 {
-"description":"The article proposes a taxonomy comprising six categories for characterising GenAI learning activities: Learning Objective (intentionality), Content/GenAI Objects and Processes (what students engage with), Representation Format (media selection), Epistemic Engagement (methodology), Human-GenAI Labou",
-"id":"six-category-taxonomy-for-characterising-genai-learning-activities",
-"path":"research-methods/six-category-taxonomy-for-characterising-genai-learning-activities.md",
-"status":"review",
-"title":"Six-category taxonomy for characterising GenAI learning activities",
-"type":"research-method"
-},
-{
-"description":"The review operationalizes agentic AI with a checklist of six verifiable criteria covering autonomy, reasoning, memory, planning, goal-directed interaction and related capabilities.",
-"id":"six-criterion-operational-checklist-for-classifying-a-system-as-agentic",
-"path":"research-methods/six-criterion-operational-checklist-for-classifying-a-system-as-agentic.md",
-"status":"review",
-"title":"Six-criterion operational checklist for classifying a system as agentic",
-"type":"research-method"
-},
-{
-"description":"The article presents a construct map that organizes measurement of curriculum shifts into six dimensions: support for instructional leaders, instructional leadership, teacher professional learning, teacher mindsets and beliefs, teacher instructional practice, and student outcomes.",
-"id":"six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation",
-"path":"research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md",
-"status":"review",
-"title":"Six-dimension construct map for measuring ELA and math curriculum-shift implementation",
-"type":"research-method"
-},
-{
-"description":"A governance profile is \\\"an explicit account of how an AI-mediated teaching tool distributes pedagogical authority, learner agency, human accountability, contextual boundaries, and evaluation visibility\\\".",
-"id":"six-dimension-governance-profile-framework-for-characterizing-ai-teaching-tools",
-"path":"research-methods/six-dimension-governance-profile-framework-for-characterizing-ai-teaching-tools.md",
-"status":"review",
-"title":"Six-dimension governance profile framework for characterizing AI teaching tools",
-"type":"research-method"
-},
-{
-"description":"The review develops a coding rubric rating six agentic capability dimensions — autonomy and proactivity; planning and reasoning depth; memory and context management; tool and environment interaction; multi-agent collaboration; and robustness, explainability and governance — each on \\\"A 1–5 ordinal sc",
-"id":"six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale",
-"path":"research-methods/six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale.md",
-"status":"review",
-"title":"Six-dimensional agentic capability framework rated on a 1–5 ordinal scale",
-"type":"research-method"
-},
-{
 "description":"The review proposes a six-dimensional framework for authentic assessment (AA) characteristics consisting of authenticity in assessment, cognitive challenges, assessment criteria, feedback, student agency and social collaboration.",
 "id":"six-dimensional-framework-of-authentic-assessment-characteristics",
 "path":"research-methods/six-dimensional-framework-of-authentic-assessment-characteristics.md",
@@ -193781,27 +192893,11 @@
 "type":"research-method"
 },
 {
-"description":"The article offers best practices for designing and analyzing cluster randomized controlled trials with ten or fewer clusters, contexts where it says meaningful effects may still be detectable.",
-"id":"small-cluster-randomized-trial-design-and-analysis",
-"path":"research-methods/small-cluster-randomized-trial-design-and-analysis.md",
-"status":"review",
-"title":"Small cluster-randomized trial design and analysis",
-"type":"research-method"
-},
-{
 "description":"A catalog of item features developed through focus groups with four subject matter experts from the assessment design team and cross-referenced with prior literature, then rated by GPT-4o for each item.",
 "id":"sme-elicited-llm-feature-based-item-difficulty-prediction",
 "path":"research-methods/sme-elicited-llm-feature-based-item-difficulty-prediction.md",
 "status":"review",
 "title":"SME-elicited LLM feature-based item difficulty prediction",
-"type":"research-method"
-},
-{
-"description":"Social cartography is a methodology, grounded in an anti-foundational perspective and Foucault's notion of spatial dispersion, for representing the interrelations of discourse communities in educational policy studies.",
-"id":"social-cartography",
-"path":"research-methods/social-cartography.md",
-"status":"review",
-"title":"Social cartography",
 "type":"research-method"
 },
 {
@@ -193826,14 +192922,6 @@
 "path":"research-methods/srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-taggi.md",
 "status":"review",
 "title":"SRJudge: three-stage Select-Reason-Judge framework for fine-grained knowledge concept tagging",
-"type":"research-method"
-},
-{
-"description":"Because PN-RCT treatment students are nested in intervention clusters while control students are not, analysis must use \\\"basic statistical models that adjust for the clustering of treatment students within intervention clusters\\\".",
-"id":"statistical-analysis-of-partially-nested-randomized-controlled-trials",
-"path":"research-methods/statistical-analysis-of-partially-nested-randomized-controlled-trials.md",
-"status":"review",
-"title":"Statistical analysis of partially nested randomized controlled trials",
 "type":"research-method"
 },
 {
@@ -193909,14 +192997,6 @@
 "type":"research-method"
 },
 {
-"description":"The article introduces the machine learning distinction it uses to organize the special issue.",
-"id":"supervised-versus-unsupervised-machine-learning-methods-for-automating-analysis-of-learnin",
-"path":"research-methods/supervised-versus-unsupervised-machine-learning-methods-for-automating-analysis-of-learnin.md",
-"status":"review",
-"title":"Supervised versus unsupervised machine learning methods for automating analysis of learning data",
-"type":"research-method"
-},
-{
 "description":"SWIM formalizes student writing simulation as proficiency-conditioned essay generation: given a writing prompt and a target trait-score profile, a generator produces an essay exhibiting the specified writing behavior, and \\\"an AES-based evaluation framework for\\\" measuring profile alignment scores the",
 "id":"swim-proficiency-conditioned-essay-generation-and-proficiency-alignment-evaluation",
 "path":"research-methods/swim-proficiency-conditioned-essay-generation-and-proficiency-alignment-evaluation.md",
@@ -193957,14 +193037,6 @@
 "type":"research-method"
 },
 {
-"description":"From 54 articles containing specific examples, the review classifies AI integration into categories: \\\"AI teaching assistance/machine teachers; automated AI monitoring; AI-driven surveillance; algorithms, generative AI (GAI), large language models, machine learning, prediction model performance (i.e.",
-"id":"taxonomy-of-ai-integration-types-in-online-higher-education",
-"path":"research-methods/taxonomy-of-ai-integration-types-in-online-higher-education.md",
-"status":"review",
-"title":"Taxonomy of AI integration types in online higher education",
-"type":"research-method"
-},
-{
 "description":"The review organizes the educational AI literature by intervention type, finding that studies \\\"address the potential of EAI on student performance through applications (n = 8), simulations (n = 8), VR (n = 4) and AR (n = 2)\\\".",
 "id":"taxonomy-of-eai-modalities-in-education",
 "path":"research-methods/taxonomy-of-eai-modalities-in-education.md",
@@ -193994,14 +193066,6 @@
 "path":"research-methods/taxonomy-of-knowledge-components-classified-by-task-features-response-relationship-and-rat.md",
 "status":"review",
 "title":"Taxonomy of knowledge components classified by task features, response, relationship, and rationale",
-"type":"research-method"
-},
-{
-"description":"The review's organizing taxonomy identifies the various types of oral corrective feedback teachers provide in second language classrooms.",
-"id":"taxonomy-of-oral-corrective-feedback-types-in-l2-classrooms",
-"path":"research-methods/taxonomy-of-oral-corrective-feedback-types-in-l2-classrooms.md",
-"status":"review",
-"title":"Taxonomy of oral corrective feedback types in L2 classrooms",
 "type":"research-method"
 },
 {
@@ -194109,22 +193173,6 @@
 "type":"research-method"
 },
 {
-"description":"The Stacks is a workshop visualization that 'allows for a small set of different, parallel dimensions of evidence rather than sequential levels'.",
-"id":"the-stacks",
-"path":"research-methods/the-stacks.md",
-"status":"review",
-"title":"The Stacks",
-"type":"research-method"
-},
-{
-"description":"This principle holds that a meta-analysis in applied linguistics delivers critical information only under three conditions: it must be \\\"well planned,\\\" \\\"employs sound statistical methods,\\\" and be \\\"based on a thorough understanding of relevant theory.\\\" When these hold, the review states the meta-analy",
-"id":"theory-informed-statistically-sound-meta-analysis-planning",
-"path":"research-methods/theory-informed-statistically-sound-meta-analysis-planning.md",
-"status":"review",
-"title":"Theory-informed, statistically sound meta-analysis planning",
-"type":"research-method"
-},
-{
 "description":"An observational coding system in which thinking-aloud protocols are analyzed for spontaneous metacognitive activities during math problem solving.",
 "id":"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness",
 "path":"research-methods/thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness.md",
@@ -194133,27 +193181,11 @@
 "type":"research-method"
 },
 {
-"description":"The Thinking Through AI framework is a methodological approach integrating cyber-social research with cognitive labs and think-aloud protocols to create continuous feedback loops in AI tool development.",
-"id":"thinking-through-ai-framework",
-"path":"research-methods/thinking-through-ai-framework.md",
-"status":"review",
-"title":"Thinking Through AI framework",
-"type":"research-method"
-},
-{
 "description":"Chapter IV presents an organizing framework of methods for setting academic expectations for English Learners.",
 "id":"three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc",
 "path":"research-methods/three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc.md",
 "status":"review",
 "title":"Three accountability methods for setting English Learners' academic progress and proficiency expectations",
-"type":"research-method"
-},
-{
-"description":"The review proposes an organizing taxonomy for educational agentic AI built on three axes.",
-"id":"three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim",
-"path":"research-methods/three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim.md",
-"status":"review",
-"title":"Three-axis taxonomy of agentic AI in education: pedagogical role, autonomy level and embodiment",
 "type":"research-method"
 },
 {
@@ -194181,51 +193213,11 @@
 "type":"research-method"
 },
 {
-"description":"The article describes a core set of tools that LA contributes to learning research.",
-"id":"three-core-tool-classes-of-learning-analytics",
-"path":"research-methods/three-core-tool-classes-of-learning-analytics.md",
-"status":"review",
-"title":"Three core tool classes of learning analytics",
-"type":"research-method"
-},
-{
 "description":"The report organizes its comparability evaluation around three criteria drawn from the score-comparability literature: \\\"there are three general categories of criteria adopted in evaluating comparability: (1) content and construct validity, (2) psychometric properties and reliability, and (3) statist",
 "id":"three-criterion-framework-for-evaluating-test-mode-comparability",
 "path":"research-methods/three-criterion-framework-for-evaluating-test-mode-comparability.md",
 "status":"review",
 "title":"Three-criterion framework for evaluating test mode comparability",
-"type":"research-method"
-},
-{
-"description":"Because no validated risk-of-bias tool existed for studies evaluating search strategy tools, the review authors developed, by consensus, a self-developed set of three criteria: \\\"searcher skills\\\", \\\"match between model and question\\\", and \\\"quality of searches\\\".",
-"id":"three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools",
-"path":"research-methods/three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools.md",
-"status":"review",
-"title":"Three-criterion risk-of-bias framework for studies evaluating search strategy tools",
-"type":"research-method"
-},
-{
-"description":"To assess interventions, five educational experts decomposed classroom behavior management into three facets drawn from Behavior Management Frameworks: \\\"(1) Humanistic orientation, reflecting emphasis on empathy, dialogue, and student needs versus reinforced control; (2) Reactivity, capturing reacti",
-"id":"three-facet-behavior-management-framework-decomposition-used-for-expert-evaluation",
-"path":"research-methods/three-facet-behavior-management-framework-decomposition-used-for-expert-evaluation.md",
-"status":"review",
-"title":"Three-facet Behavior Management Framework decomposition used for expert evaluation",
-"type":"research-method"
-},
-{
-"description":"The article proposes a matrix framework for organizing research and theory relevant to interactive multimedia design.",
-"id":"three-foundations-by-three-sources-framework-for-organizing-interactive-multimedia-researc",
-"path":"research-methods/three-foundations-by-three-sources-framework-for-organizing-interactive-multimedia-researc.md",
-"status":"review",
-"title":"Three-foundations by three-sources framework for organizing interactive multimedia research and theory",
-"type":"research-method"
-},
-{
-"description":"The book organizes all research on games for learning into three research paradigms.",
-"id":"three-genre-taxonomy-of-research-on-games-for-learning-value-added-cognitive-consequences",
-"path":"research-methods/three-genre-taxonomy-of-research-on-games-for-learning-value-added-cognitive-consequences.md",
-"status":"review",
-"title":"Three-genre taxonomy of research on games for learning: value-added, cognitive consequences, and media comparison",
 "type":"research-method"
 },
 {
@@ -194318,35 +193310,11 @@
 "type":"research-method"
 },
 {
-"description":"The review organizes how GenAI is operationalized in assessment workflows by the role the model plays.",
-"id":"three-role-taxonomy-of-genai-operationalization-in-grading-workflows",
-"path":"research-methods/three-role-taxonomy-of-genai-operationalization-in-grading-workflows.md",
-"status":"review",
-"title":"Three-role taxonomy of GenAI operationalization in grading workflows",
-"type":"research-method"
-},
-{
 "description":"The article introduces a framework that treats difficulty as \\\"a quantity to be explained\\\" rather than only estimated.",
 "id":"three-step-framework-for-generating-validated-natural-language-explanations-of-question-di",
 "path":"research-methods/three-step-framework-for-generating-validated-natural-language-explanations-of-question-di.md",
 "status":"review",
 "title":"Three-step framework for generating validated natural-language explanations of question difficulty",
-"type":"research-method"
-},
-{
-"description":"The review organises knowledge modelling for LLM-based Simulated Students into three strategies.",
-"id":"three-strategy-taxonomy-for-modelling-student-knowledge-in-simulated-students",
-"path":"research-methods/three-strategy-taxonomy-for-modelling-student-knowledge-in-simulated-students.md",
-"status":"review",
-"title":"Three-strategy taxonomy for modelling student knowledge in Simulated Students",
-"type":"research-method"
-},
-{
-"description":"The chapter proposes that \\\"three types of measures can be derived from gameplay: (a) overall game performance, (b) in-game performance, and (c) in-game strategies,\\\" each with certain uses and selected according to the question being asked.",
-"id":"three-types-of-measures-derivable-from-gameplay-telemetry-overall-game-performance-in-game",
-"path":"research-methods/three-types-of-measures-derivable-from-gameplay-telemetry-overall-game-performance-in-game.md",
-"status":"review",
-"title":"Three types of measures derivable from gameplay telemetry: overall game performance, in-game performance, and in-game strategies",
 "type":"research-method"
 },
 {
@@ -194363,14 +193331,6 @@
 "path":"research-methods/tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak.md",
 "status":"review",
 "title":"Tool-supported workflow for identifying, clustering, and visualizing common modelling mistakes as bug fixing transformations",
-"type":"research-method"
-},
-{
-"description":"The article defines peer assessment as \\\"an arrangement in which individuals consider the amount, level, value, worth, quality, or success of the products or outcomes of learning of peers of similar status\\\", restricted to students of similar degree status in higher education.",
-"id":"toppings-17-parameter-typology-of-peer-assessment",
-"path":"research-methods/toppings-17-parameter-typology-of-peer-assessment.md",
-"status":"review",
-"title":"Topping's 17-parameter typology of peer assessment",
 "type":"research-method"
 },
 {
@@ -194395,14 +193355,6 @@
 "path":"research-methods/transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis.md",
 "status":"review",
 "title":"Transcript-based interactional fluency and direction-sensitive uptake analysis",
-"type":"research-method"
-},
-{
-"description":"Transfer for Future Learning (TFL) is an assessment approach measuring whether students transfer recently learned concepts to future topics within the same learning progression.",
-"id":"transfer-for-future-learning-tfl-three-phase-assessment-approach",
-"path":"research-methods/transfer-for-future-learning-tfl-three-phase-assessment-approach.md",
-"status":"review",
-"title":"Transfer for Future Learning (TFL) three-phase assessment approach",
 "type":"research-method"
 },
 {
@@ -194463,14 +193415,6 @@
 "type":"research-method"
 },
 {
-"description":"The review organizes RL-based educational applications by the kind of action the RL agent takes, distinguishing two main categories.",
-"id":"two-axis-taxonomy-of-rl-based-adaptation-in-education-content-related-versus-guidance-rela",
-"path":"research-methods/two-axis-taxonomy-of-rl-based-adaptation-in-education-content-related-versus-guidance-rela.md",
-"status":"review",
-"title":"Two-axis taxonomy of RL-based adaptation in education: content-related versus guidance-related",
-"type":"research-method"
-},
-{
 "description":"The article formalizes misconception acquisition from two perspectives.",
 "id":"two-complementary-misconception-acquisition-formalizations-the-novice-student-misconceptio",
 "path":"research-methods/two-complementary-misconception-acquisition-formalizations-the-novice-student-misconceptio.md",
@@ -194503,14 +193447,6 @@
 "type":"research-method"
 },
 {
-"description":"The authors developed a two-leveled dialogue act schema with 8 broad labels and 31 specific labels (Writing, Editing, Contextual Questions, Conceptual Questions, Verification, Context, Off Topic, Misc), built on prior co-programming work and their own systematic review of the conversations.",
-"id":"two-level-dialogue-act-labeling-schema-for-studentllm-interactions",
-"path":"research-methods/two-level-dialogue-act-labeling-schema-for-studentllm-interactions.md",
-"status":"review",
-"title":"Two-level dialogue act labeling schema for student–LLM interactions",
-"type":"research-method"
-},
-{
 "description":"An evaluation pipeline that scores both sides of student-chatbot interactions at the turn level.",
 "id":"two-metric-turn-level-evaluation-of-chatbot-scaffolding-and-student-uptake",
 "path":"research-methods/two-metric-turn-level-evaluation-of-chatbot-scaffolding-and-student-uptake.md",
@@ -194532,14 +193468,6 @@
 "path":"research-methods/two-stage-pooled-then-specialized-student-simulation-training.md",
 "status":"review",
 "title":"Two-stage pooled-then-specialized student-simulation training",
-"type":"research-method"
-},
-{
-"description":"The article names and describes two complementary validation types for LLM-generated simulations.",
-"id":"two-type-validation-framework-technical-validation-and-physical-validation-of-ai-generated",
-"path":"research-methods/two-type-validation-framework-technical-validation-and-physical-validation-of-ai-generated.md",
-"status":"review",
-"title":"Two-type validation framework: technical validation and physical validation of AI-generated simulations",
 "type":"research-method"
 },
 {
@@ -194576,14 +193504,6 @@
 "type":"research-method"
 },
 {
-"description":"The VCG approach creates an equivalent virtual comparison for each treatment student: each treatment student was matched with up to 51 real students from NWEA's national MAP test database based on school locale, school-level FRL percentage, test-taking dates, grade level, and pretest scores; aggrega",
-"id":"virtual-comparison-group-construction-via-database-matching",
-"path":"research-methods/virtual-comparison-group-construction-via-database-matching.md",
-"status":"review",
-"title":"Virtual comparison group construction via database matching",
-"type":"research-method"
-},
-{
 "description":"The study introduces a novel research design that exploits discontinuities in course admissions created by waitlists, applied to administrative course registration data at a community college.",
 "id":"waitlist-cutoff-regression-discontinuity-design-using-administrative-course-registration-d",
 "path":"research-methods/waitlist-cutoff-regression-discontinuity-design-using-administrative-course-registration-d.md",
@@ -194597,14 +193517,6 @@
 "path":"research-methods/weekly-0-structural-check-for-cohort-behavioural-reorganisation.md",
 "status":"review",
 "title":"Weekly β0 structural check for cohort behavioural reorganisation",
-"type":"research-method"
-},
-{
-"description":"The study introduces two methods for controlling for exam difficulty in longitudinal course comparisons.",
-"id":"weighted-blooms-index-and-predicted-exam-score-methods",
-"path":"research-methods/weighted-blooms-index-and-predicted-exam-score-methods.md",
-"status":"review",
-"title":"Weighted Bloom's Index and Predicted Exam Score methods",
 "type":"research-method"
 },
 {
@@ -194657,14 +193569,6 @@
 "type":"research-method"
 },
 {
-"description":"The review adopts Worsley et al.'s (2021) framework of \\\"12 commitments for conducting high-quality MMLA research, which are grouped into three major categories: 1) data collection, 2) analysis and inference, and 3) feedback and data dissemination.\\\" Unlike prior work focusing on a few aspects, the co",
-"id":"worsley-et-als-twelve-commitments-for-high-quality-mmla-research",
-"path":"research-methods/worsley-et-als-twelve-commitments-for-high-quality-mmla-research.md",
-"status":"review",
-"title":"Worsley et al.'s twelve commitments for high-quality MMLA research",
-"type":"research-method"
-},
-{
 "description":"The WWC attrition model is a framework for limiting attrition bias in assessments of intervention effectiveness: it establishes a standard for acceptable levels of sample attrition in randomized controlled trials by deriving bounds on the bias attrition can induce.",
 "id":"wwc-attrition-model",
 "path":"research-methods/wwc-attrition-model.md",
@@ -194678,14 +193582,6 @@
 "path":"research-methods/wwc-effectiveness-rating-framework-for-intervention-evidence.md",
 "status":"review",
 "title":"WWC effectiveness rating framework for intervention evidence",
-"type":"research-method"
-},
-{
-"description":"This typology classifies AI-in-education research into four broad areas: Profiling and prediction, Intelligent Tutoring Systems, Assessment and Evaluation, and Adaptive Systems and Personalisation.",
-"id":"zawacki-richter-et-als-four-area-aied-typology",
-"path":"research-methods/zawacki-richter-et-als-four-area-aied-typology.md",
-"status":"review",
-"title":"Zawacki-Richter et al.'s four-area AIEd typology",
 "type":"research-method"
 },
 {
@@ -275339,7 +274235,6 @@
 "research-method":{
 "a-bottom-up-taxonomy-of-seven-student-llm-usage-categories-organized-into-three-support-ty":"a-bottom-up-taxonomy-of-seven-student-llm-usage-categories-organized-into-three-support-ty",
 "a-cat-sensitive-process-for-evaluating-content-alignment":"a-cat-sensitive-process-for-evaluating-content-alignment",
-"a-five-level-scale-of-learning-theory-operationalization-l0-mention-to-l4-operational-impl":"a-five-level-scale-of-learning-theory-operationalization-l0-mention-to-l4-operational-impl",
 "a-four-step-adapted-cognitive-task-analysis-framework-for-clinical-environments":"a-four-step-adapted-cognitive-task-analysis-framework-for-clinical-environments",
 "a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness":"a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness",
 "a-hierarchical-taxonomy-of-novice-difficulties-with-selection-and-iteration-in-code-readin":"a-hierarchical-taxonomy-of-novice-difficulties-with-selection-and-iteration-in-code-readin",
@@ -275347,34 +274242,21 @@
 "a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and":"a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and",
 "activepassive-localglobal-coding-framework-for-llm-offloading-prompts":"activepassive-localglobal-coding-framework-for-llm-offloading-prompts",
 "adapted-conjecture-map-framework-for-learning-scientists-and-computer-scientists":"adapted-conjecture-map-framework-for-learning-scientists-and-computer-scientists",
-"adapted-context-based-analysis-model-for-instructional-design-in-developing-countries":"adapted-context-based-analysis-model-for-instructional-design-in-developing-countries",
 "adapted-irc-framework-for-novice-students-interdisciplinary-reasoning":"adapted-irc-framework-for-novice-students-interdisciplinary-reasoning",
 "adapted-personalized-learning-continuum-framework-plcf":"adapted-personalized-learning-continuum-framework-plcf",
 "adaptive-g-ukt":"adaptive-g-ukt",
-"adaptive-self-referenced-testing-asrt":"adaptive-self-referenced-testing-asrt",
 "agent-based-educational-science-aes":"agent-based-educational-science-aes",
 "agent-based-simulation-methodology-for-decomposing-teacher-quality-gap-sources":"agent-based-simulation-methodology-for-decomposing-teacher-quality-gap-sources",
-"aied-framework-two-axes-role-of-ai-end-user-yielding-four-quadrants-for-categorizing-ai-in":"aied-framework-two-axes-role-of-ai-end-user-yielding-four-quadrants-for-categorizing-ai-in",
-"almeida-bauer-zytkuewisz-rubric-for-characterizing-levels-of-inquiry-in-undergraduate-labo":"almeida-bauer-zytkuewisz-rubric-for-characterizing-levels-of-inquiry-in-undergraduate-labo",
 "amova-accumulative-manifold-validation-analysis":"amova-accumulative-manifold-validation-analysis",
-"annotation-first-task-generative-benchmark-construction-framework":"annotation-first-task-generative-benchmark-construction-framework",
-"apl-framework-for-organizing-apa-research":"apl-framework-for-organizing-apa-research",
-"applied-cognitive-task-analysis-acta":"applied-cognitive-task-analysis-acta",
 "approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education":"approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education",
 "architecturally-enforced-novice-like-student-simulation":"architecturally-enforced-novice-like-student-simulation",
 "assessment-metadata-as-naturally-occurring-direct-sel-measurement":"assessment-metadata-as-naturally-occurring-direct-sel-measurement",
 "attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s":"attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s",
-"authenticity-reconceptualised-as-a-four-dimensional-continuum-for-ai-present-assessment":"authenticity-reconceptualised-as-a-four-dimensional-continuum-for-ai-present-assessment",
-"bakers-five-category-taxonomy-of-educational-data-mining-methods":"bakers-five-category-taxonomy-of-educational-data-mining-methods",
 "baseline-covariate-adjustment-in-education-randomized-trials":"baseline-covariate-adjustment-in-education-randomized-trials",
-"basie":"basie",
-"bayesian-analysis-for-complex-factorial-experiments":"bayesian-analysis-for-complex-factorial-experiments",
 "bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs":"bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs",
 "between-student-testing-and-response-curve-method":"between-student-testing-and-response-curve-method",
 "bidirectional-validity-approach":"bidirectional-validity-approach",
 "bit-coding-method-for-newtons-third-law-responses":"bit-coding-method-for-newtons-third-law-responses",
-"bkt-rnn":"bkt-rnn",
-"black-box-analysis-of-educational-processes":"black-box-analysis-of-educational-processes",
 "bloom-aligned-framework-for-measuring-educational-control-in-llms":"bloom-aligned-framework-for-measuring-educational-control-in-llms",
 "bloom-driven-cognitive-leap-evaluation-framework-with-cogshift-category-consistency-and-kn":"bloom-driven-cognitive-leap-evaluation-framework-with-cogshift-category-consistency-and-kn",
 "body-of-work-approach-to-standard-setting-for-alternate-assessments":"body-of-work-approach-to-standard-setting-for-alternate-assessments",
@@ -275382,25 +274264,17 @@
 "causal-chain-analysis-of-built-environment-effects":"causal-chain-analysis-of-built-environment-effects",
 "causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials":"causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials",
 "chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity":"chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity",
-"chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness":"chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness",
-"child-centered-ai-safety-evaluation-framework-integrating-expert-guidelines-with-real-worl":"child-centered-ai-safety-evaluation-framework-integrating-expert-guidelines-with-real-worl",
 "classical-test-theory":"classical-test-theory",
 "classical-test-theory-decision-consistency-estimation-methods":"classical-test-theory-decision-consistency-estimation-methods",
 "coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction":"coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction",
-"cognitive-diagnostic-models-cdms":"cognitive-diagnostic-models-cdms",
 "cognitive-diagnostic-profiling-cdp":"cognitive-diagnostic-profiling-cdp",
 "cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in":"cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in",
-"cognitive-task-analysis":"cognitive-task-analysis",
 "cohort-based-graduation-and-dropout-rate-calculation":"cohort-based-graduation-and-dropout-rate-calculation",
 "college-readiness-predictor-selection-using-decision-trees-random-forests-lasso-and-factor":"college-readiness-predictor-selection-using-decision-trees-random-forests-lasso-and-factor",
-"combined-quantitativequalitative-evaluation-framework-and-metric-set-for-ai-dsss":"combined-quantitativequalitative-evaluation-framework-and-metric-set-for-ai-dsss",
 "combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var":"combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var",
 "combined-tssna-and-ona-method":"combined-tssna-and-ona-method",
-"compensatory-multidimensional-item-response-theory":"compensatory-multidimensional-item-response-theory",
-"composite-transformation-framework-for-mirt-equating":"composite-transformation-framework-for-mirt-equating",
 "compound-polynomial-cp-growth-model":"compound-polynomial-growth-model",
 "compound-polynomial-growth-model":"compound-polynomial-growth-model",
-"conceptual-framework-for-online-learning-along-three-dimensions-replacement-vs-enhancement":"conceptual-framework-for-online-learning-along-three-dimensions-replacement-vs-enhancement",
 "confidence-aware-selective-automated-scoring-framework":"confidence-aware-selective-automated-scoring-framework",
 "consensus-calibration":"consensus-calibration",
 "consortium-cohort-dropout-rate-calculation-procedure-for-cps":"cohort-based-graduation-and-dropout-rate-calculation",
@@ -275409,88 +274283,59 @@
 "contextual-similarity-scoring-model-for-automated-essay-grading":"contextual-similarity-scoring-model-for-automated-essay-grading",
 "continuous-conjunctive-model":"continuous-conjunctive-model",
 "coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment":"coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment",
-"correct-variance-estimation-for-cace-in-clustered-education-rcts":"correct-variance-estimation-for-cace-in-clustered-education-rcts",
 "cosine-similarity-framework":"cosine-similarity-framework",
 "countable-versus-dispositional-prompt-rule-audit":"countable-versus-dispositional-prompt-rule-audit",
 "coursegraph-course-overlap-detection-methodology":"coursegraph-course-overlap-detection-methodology",
 "cpig-the-creative-psychometric-item-generator-framework":"cpig-the-creative-psychometric-item-generator-framework",
-"crossover-interaction-criteria-framework-for-validating-learning-styles-interventions":"crossover-interaction-criteria-framework-for-validating-learning-styles-interventions",
 "curricular-analytics-graph-based-measures-of-degree-program-complexity-blocking-delay-cent":"curricular-analytics-graph-based-measures-of-degree-program-complexity-blocking-delay-cent",
 "curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile":"curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile",
 "curriculum-grounded-ontology-framework-for-building-educational-qa-benchmarks":"curriculum-grounded-ontology-framework-for-building-educational-qa-benchmarks",
 "curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet":"curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet",
-"dag-guided-covariate-selection-for-causal-inference":"dag-guided-covariate-selection-for-causal-inference",
-"data-integration-planning-for-digital-learning-platform-research":"data-integration-planning-for-digital-learning-platform-research",
-"definition-of-generative-ai-powered-agentic-ai-via-three-core-characteristics-task-autonom":"definition-of-generative-ai-powered-agentic-ai-via-three-core-characteristics-task-autonom",
 "design-based-implementation-research-dbir":"design-based-implementation-research-dbir",
 "design-based-rct-analysis-with-grouped-administrative-data":"design-based-rct-analysis-with-grouped-administrative-data",
-"design-based-research-learning-analytics-and-multimodal-analytics":"design-based-research-learning-analytics-and-multimodal-analytics",
-"design-based-research-with-technology-enhanced-learning-environments-teles":"design-based-research-with-technology-enhanced-learning-environments-teles",
 "digital-learning-platform-process-data-analysis":"digital-learning-platform-process-data-analysis",
 "digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions":"digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions",
 "dina-and-dino-cognitive-diagnostic-models":"dina-and-dino-cognitive-diagnostic-models",
 "discrimination-index-q-matrix-validation-for-cognitive-diagnostic-models":"discrimination-index-q-matrix-validation-for-cognitive-diagnostic-models",
 "dmo-gru-hybrid-student-performance-prediction-method":"dmo-gru-hybrid-student-performance-prediction-method",
-"dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands":"dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands",
 "domain-theory-informed-lens-prompting-for-trait-discovery":"principal-trait-analysis-pta",
 "dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o":"dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o",
 "dynamical-systems-analysis-of-intelligent-tutoring-system-process-data":"dynamical-systems-analysis-of-intelligent-tutoring-system-process-data",
-"dynemb-knowledge-tracing-framework":"dynemb-knowledge-tracing-framework",
 "early-warning-and-college-readiness-indicator-construction":"early-warning-indicator-construction",
 "early-warning-indicator-construction":"early-warning-indicator-construction",
 "ebbinghaus-savings-paradigm-variation-for-detecting-early-incidental-vocabulary-gains":"ebbinghaus-savings-paradigm-variation-for-detecting-early-incidental-vocabulary-gains",
 "edubehaviors":"edubehaviors",
 "effort-analysis":"effort-analysis",
 "effort-moderated-e-m-scoring-model":"effort-moderated-e-m-scoring-model",
-"eight-category-content-coding-framework-for-data-literacy-professional-development-materia":"eight-category-content-coding-framework-for-data-literacy-professional-development-materia",
 "eight-theme-analytical-framework-for-genai-in-higher-education-group-work":"eight-theme-analytical-framework-for-genai-in-higher-education-group-work",
-"embedded-experimental-designs-in-digital-learning-platforms":"embedded-experimental-designs-in-digital-learning-platforms",
 "emergent-llm-coding-plus-embedding-based-consolidation-pipeline-for-large-scale-student-di":"emergent-llm-coding-plus-embedding-based-consolidation-pipeline-for-large-scale-student-di",
 "emote-aloud-procedure-for-on-line-identification-of-affective-states-during-learning":"emote-aloud-procedure-for-on-line-identification-of-affective-states-during-learning",
 "empirical-bayes-shrinkage-for-teacher-value-added-estimates":"empirical-bayes-shrinkage-for-teacher-value-added-estimates",
 "engagement-based-evaluation-framework-for-ai-tutors-relscore-and-succscore":"engagement-based-evaluation-framework-for-ai-tutors-relscore-and-succscore",
 "engagement-forecasting-as-a-supervised-week-ahead-prediction-task-in-its":"engagement-forecasting-as-a-supervised-week-ahead-prediction-task-in-its",
-"engagement-funnel-framework":"engagement-funnel-framework",
 "engagement-probe-ratings-as-a-pragmatic-single-item-operationalization-of-momentary-attent":"engagement-probe-ratings-as-a-pragmatic-single-item-operationalization-of-momentary-attent",
 "epi2diff-framework-episode-induced-process-representations-combined-with-semantic-embeddin":"epi2diff-framework-episode-induced-process-representations-combined-with-semantic-embeddin",
 "epistemic-network-analysis-ena":"epistemic-network-analysis-ena",
-"epistemic-state-specification-ess":"epistemic-state-specification-ess",
 "epistemological-move-analysis-ema":"epistemological-move-analysis-ema",
 "equipercentile-linking-with-conditional-growth-norms-for-deriving-assessment-cut-scores":"equipercentile-linking-with-conditional-growth-norms-for-deriving-assessment-cut-scores",
 "equity-oriented-research-methodology":"equity-oriented-research-methodology",
 "error-type-profiling":"error-type-profiling",
 "essa-four-tier-evidence-hierarchy-for-intervention-selection":"essa-four-tier-evidence-hierarchy-for-intervention-selection",
-"evaluation-frameworks-for-implementation-endeavours":"evaluation-frameworks-for-implementation-endeavours",
 "evidence-centered-design":"evidence-centered-design",
-"evidence-evaluation-rubric":"evidence-evaluation-rubric",
 "evidence-grounded-multimodal-lecture-to-kg-pipeline":"evidence-grounded-multimodal-lecture-to-kg-pipeline",
 "evidence-grounding-extraction-schema-for-auditable-educational-knowledge-graphs":"evidence-grounding-extraction-schema-for-auditable-educational-knowledge-graphs",
-"evidence-reviews-for-evidence-based-program-decisions":"evidence-reviews-for-evidence-based-program-decisions",
 "evol-simulator-guided-demonstration-learning-for-deployment-free-learning-path-recommendat":"evol-simulator-guided-demonstration-learning-for-deployment-free-learning-path-recommendat",
 "executive-llm-adaptive-assessment-method":"executive-llm-adaptive-assessment-method",
-"expectation-misconception-tailored-dialogue-framework-adapted-for-assessment":"expectation-misconception-tailored-dialogue-framework-adapted-for-assessment",
 "expert-panel-interpretation-of-compiled-educational-evidence":"expert-panel-interpretation-of-compiled-educational-evidence",
-"expert-performance-approach":"expert-performance-approach",
 "explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe":"explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe",
 "exploratory-digital-learning-platform-data-analysis-for-research-planning":"digital-learning-platform-process-data-analysis",
 "extended-strobel-taxonomy-of-five-studentgenai-entanglement-types":"extended-strobel-taxonomy-of-five-studentgenai-entanglement-types",
 "extended-taxonomy-design-process-etdp":"extended-taxonomy-design-process-etdp",
-"facets-framework":"facets-framework",
-"family-resemblance-approach-comparison-framework-for-institutional-science-and-text-based":"family-resemblance-approach-comparison-framework-for-institutional-science-and-text-based",
 "fate-framework":"fate-framework",
 "fight-pair-comparison":"fight-pair-comparison",
-"filmed-standardized-task-units":"filmed-standardized-task-units",
-"five-axis-evidence-map-framework-a-technical-axis-read-against-four-value-dimensions":"five-axis-evidence-map-framework-a-technical-axis-read-against-four-value-dimensions",
-"five-category-latent-skill-taxonomy-for-science-mcqs-s1-s5":"five-category-latent-skill-taxonomy-for-science-mcqs-s1-s5",
-"five-characteristic-framework-of-student-diversity-for-evaluating-universal-sel-interventi":"five-characteristic-framework-of-student-diversity-for-evaluating-universal-sel-interventi",
-"five-checklist-framework-for-complete-reporting-of-education-research-measures":"five-checklist-framework-for-complete-reporting-of-education-research-measures",
 "five-class-taxonomy-of-knowledge-sources-for-synthesizing-stem-plc-knowledge":"five-class-taxonomy-of-knowledge-sources-for-synthesizing-stem-plc-knowledge",
 "five-component-framework-of-quality-formative-feedback-on-writing":"five-component-framework-of-quality-formative-feedback-on-writing",
-"five-cumulative-implementation-disclosure-levels-with-a-consequence-sensitive-evaluation-o":"five-cumulative-implementation-disclosure-levels-with-a-consequence-sensitive-evaluation-o",
-"five-dimension-framework-for-manually-evaluating-system-generated-feedback":"five-dimension-framework-for-manually-evaluating-system-generated-feedback",
-"five-dimension-framework-for-operationalizing-hqim-implementation-fidelity":"five-dimension-framework-for-operationalizing-hqim-implementation-fidelity",
 "five-hypothesis-validation-process-for-online-peer-assessment":"five-hypothesis-validation-process-for-online-peer-assessment",
-"five-key-questions-for-determining-whether-cta-methods-fit-a-research-study":"five-key-questions-for-determining-whether-cta-methods-fit-a-research-study",
 "five-level-diagnostic-taxonomy-of-humanai-teaming-defined-by-observable-affordances":"five-level-diagnostic-taxonomy-of-humanai-teaming-defined-by-observable-affordances",
 "five-level-scaffolding-scale-for-measuring-the-directness-of-assistance-in-llm-tutoring-re":"five-level-scaffolding-scale-for-measuring-the-directness-of-assistance-in-llm-tutoring-re",
 "five-part-question-taxonomy-with-multi-endpoint-metrics-for-evaluating-course-grounded-ai":"five-part-question-taxonomy-with-multi-endpoint-metrics-for-evaluating-course-grounded-ai",
@@ -275498,8 +274343,6 @@
 "five-pattern-taxonomy-of-ai-use-learning-behavior":"five-pattern-taxonomy-of-ai-use-learning-behavior",
 "five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items":"five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items",
 "five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in":"trustworthiness-lens-for-evaluating-llms-in-education",
-"five-usage-codes-for-ai-in-higher-education":"five-usage-codes-for-ai-in-higher-education",
-"forcing-variable-integrity-checks-in-regression-discontinuity-designs":"forcing-variable-integrity-checks-in-regression-discontinuity-designs",
 "formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq":"formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq",
 "four-capability-taxonomy-for-organizing-educational-foundation-model-supervision":"four-capability-taxonomy-for-organizing-educational-foundation-model-supervision",
 "four-category-framework-for-evaluating-the-generalizability-of-learning-techniques":"four-category-framework-for-evaluating-the-generalizability-of-learning-techniques",
@@ -275513,27 +274356,19 @@
 "four-measurable-properties-for-evaluating-adaptive-virtual-patients":"four-measurable-properties-for-evaluating-adaptive-virtual-patients",
 "four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat":"four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat",
 "four-options-for-accounting-for-co-teaching-in-value-added-models":"four-options-for-accounting-for-co-teaching-in-value-added-models",
-"four-part-framework-for-conceptualizing-the-tradeoffs-of-learning-analytics-methods-sampli":"four-part-framework-for-conceptualizing-the-tradeoffs-of-learning-analytics-methods-sampli",
-"four-phase-evidence-building-process-for-designing-and-validating-solutions":"four-phase-evidence-building-process-for-designing-and-validating-solutions",
 "four-requirement-framework-for-education-facing-llms":"four-requirement-framework-for-education-facing-llms",
 "four-role-taxonomy-of-genai-roles-instructor-enhancement-tool-replacement-tool-collaborato":"four-role-taxonomy-of-genai-roles-instructor-enhancement-tool-replacement-tool-collaborato",
 "four-shifts-for-establishing-ground-truth-in-aied-diagnostic-irr-transparent-reporting-llm":"four-shifts-for-establishing-ground-truth-in-aied-diagnostic-irr-transparent-reporting-llm",
 "four-stage-dataset-preparation-workflow-for-assessment-research":"four-stage-dataset-preparation-workflow-for-assessment-research",
 "four-stage-dropout-timing-definitions-for-cross-institutional-persistence-comparison":"four-stage-dropout-timing-definitions-for-cross-institutional-persistence-comparison",
-"four-stage-model-of-conducting-a-meta-analysis-in-sla-research":"four-stage-model-of-conducting-a-meta-analysis-in-sla-research",
 "four-step-methodological-framework-for-measuring-llm-alignment-to-intended-impact-in-high":"four-step-methodological-framework-for-measuring-llm-alignment-to-intended-impact-in-high",
 "framework-of-computer-based-scaffolding-design-characteristics-and-moderators":"framework-of-computer-based-scaffolding-design-characteristics-and-moderators",
 "fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval":"fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval",
 "full-roster-method":"three-method-framework-for-accounting-for-co-teaching-in-value-added-models",
 "funds-of-knowledge":"funds-of-knowledge",
 "game-based-assessment-gba-model":"game-based-assessment-gba-model",
-"game-telemetry-as-systematic-behavioral-observation-for-learning-inference":"game-telemetry-as-systematic-behavioral-observation-for-learning-inference",
 "gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate":"gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate",
-"gated-recurrent-unit-gru-network":"gated-recurrent-unit-gru-network",
-"general-education-categorization-two-level-taxonomy-of-learning-environments-endowment-dim":"general-education-categorization-two-level-taxonomy-of-learning-environments-endowment-dim",
 "general-polytomous-testlet-model":"general-polytomous-testlet-model",
-"generic-learning-processes-coding-scheme-for-think-aloud-protocols":"generic-learning-processes-coding-scheme-for-think-aloud-protocols",
-"goal-by-environment-framework-for-classifying-simulated-student-systems":"goal-by-environment-framework-for-classifying-simulated-student-systems",
 "grade-productivity-profile":"grade-productivity-profile",
 "graduated-assessment-rubric-separating-answer-correctness-from-method-validity":"graduated-assessment-rubric-separating-answer-correctness-from-method-validity",
 "graesser-et-al-question-taxonomy-adapted-to-student-ai-programming-interactions":"graesser-et-al-question-taxonomy-adapted-to-student-ai-programming-interactions",
@@ -275542,65 +274377,42 @@
 "graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
 "harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g":"harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g",
 "hattie-and-timperleys-feedback-model":"hattie-and-timperleys-feedback-model",
-"helpneed-classification":"helpneed-classification",
 "history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram":"history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram",
-"human-ai-collaborative-thematic-analysis-process-guided-by-the-iaves-framework":"human-ai-collaborative-thematic-analysis-process-guided-by-the-iaves-framework",
 "human-validated-llm-reconstruction-of-syllabus-assessment-weights":"human-validated-llm-reconstruction-of-syllabus-assessment-weights",
 "hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato":"hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato",
 "hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem":"hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem",
-"ies-practice-guide-levels-of-evidence-framework":"ies-practice-guide-levels-of-evidence-framework",
-"implementation-integrity-and-cross-context-robustness-evaluation":"implementation-integrity-and-cross-context-robustness-evaluation",
 "implementation-research-within-impact-studies-of-education-interventions":"implementation-research-within-impact-studies-of-education-interventions",
 "improvement-rate-difference-meta-analysis":"improvement-rate-difference-meta-analysis",
-"improvement-science":"improvement-science",
 "information-based-rapid-guessing-threshold-methods":"information-based-rapid-guessing-threshold-methods",
 "ingredients-method-for-educational-cost-analysis":"ingredients-method-for-educational-cost-analysis",
 "integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped":"integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped",
 "integrated-framework-linking-cognitive-ownership-mutual-evaluation-and-outcome-aligned-ver":"integrated-framework-linking-cognitive-ownership-mutual-evaluation-and-outcome-aligned-ver",
 "intersectional-disaggregation-of-school-climate-survey-data":"intersectional-disaggregation-of-school-climate-survey-data",
-"intervention-evidence-review-tool-tool-5-for-assessing-an-interventions-essa-evidence-leve":"intervention-evidence-review-tool-tool-5-for-assessing-an-interventions-essa-evidence-leve",
-"inventory-of-peer-assessment-diversity-20-variables-grouped-into-five-clusters":"inventory-of-peer-assessment-diversity-20-variables-grouped-into-five-clusters",
-"irt-based-person-fit-statistics-for-detecting-aberrant-response-patterns":"irt-based-person-fit-statistics-for-detecting-aberrant-response-patterns",
 "irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links":"irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links",
-"isd-task-analysis-approach":"isd-task-analysis-approach",
 "item-characteristic-curve-unsigned-area-method-for-dif-detection-under-item-response-theor":"item-characteristic-curve-unsigned-area-method-for-dif-detection-under-item-response-theor",
 "item-response-time-analysis-as-response-process-metadata":"item-response-time-analysis-as-response-process-metadata",
 "item-response-time-analysis-for-detecting-test-disengagement":"response-time-based-detection-of-test-taker-disengagement",
 "jackknife-leave-one-year-out-empirical-bayes-estimation-of-teacher-grade-effects":"jackknife-leave-one-year-out-empirical-bayes-estimation-of-teacher-grade-effects",
 "joint-glmm-model-for-irt-estimation-with-collateral-information":"joint-glmm-model-for-irt-estimation-with-collateral-information",
 "joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem":"joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem",
-"joint-student-level-and-school-level-achievement-and-growth-norms":"joint-student-level-and-school-level-achievement-and-growth-norms",
 "jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph":"jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph",
-"joughins-six-dimension-taxonomy-of-oral-assessments":"joughins-six-dimension-taxonomy-of-oral-assessments",
 "ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios":"ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios",
 "kt-grounded-simulated-learner":"kt-grounded-simulated-learner",
 "l-statistic":"l-statistic",
 "large-scale-randomized-controlled-trial-design-for-evaluating-supplemental-literacy-curric":"large-scale-randomized-controlled-trial-design-for-evaluating-supplemental-literacy-curric",
 "latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories":"latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories",
-"latent-class-forest":"latent-class-forest",
 "latent-score-linking-method":"latent-score-linking-method",
 "latent-structural-readiness-space-for-digital-and-ai-transformation":"latent-structural-readiness-space-for-digital-and-ai-transformation",
-"learning-study":"learning-study",
 "llm-scoring-generated-feedback-and-essay-feature-analysis-framework":"llm-scoring-generated-feedback-and-essay-feature-analysis-framework",
-"logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol":"logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol",
-"logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes":"logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes",
 "longitudinal-achievement-growth-analysis":"longitudinal-achievement-growth-analysis",
 "loss-function-decision-rule-for-late-pretest-use-in-education-rcts":"loss-function-decision-rule-for-late-pretest-use-in-education-rcts",
-"lottery-based-randomized-controlled-trials-for-school-choice-evaluation":"lottery-based-randomized-controlled-trials-for-school-choice-evaluation",
 "lt-mkt-framework-joint-modeling-of-cognitive-load-and-knowledge-transfer-for-multi-domain":"lt-mkt-framework-joint-modeling-of-cognitive-load-and-knowledge-transfer-for-multi-domain",
 "machine-learning-prediction-of-accessible-assessment-item-quality":"machine-learning-prediction-of-accessible-assessment-item-quality",
 "many-facet-rasch-model":"many-facet-rasch-model",
 "map-growth-item-calibration-workflow":"map-growth-item-calibration-workflow",
-"matching-sample-definitions-and-analysis-methods-to-clustered-education-trial-designs":"matching-sample-definitions-and-analysis-methods-to-clustered-education-trial-designs",
 "mbp-kt":"mbp-kt",
 "me-checklist":"me-checklist",
-"measurement-team-roles-and-responsibilities-framework-for-education-studies":"measurement-team-roles-and-responsibilities-framework-for-education-studies",
-"messicks-seven-facets-of-validity":"messicks-seven-facets-of-validity",
-"metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat":"metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat",
-"mobile-eye-gaze-recording-methods-electrooculography-and-infrared-stereo-eye-tracking":"mobile-eye-gaze-recording-methods-electrooculography-and-infrared-stereo-eye-tracking",
 "model-based-multivariate-true-score-norming-procedure":"multivariate-true-score-model-for-achievement-and-growth-norming",
-"models-of-versus-models-for-heuristic":"models-of-versus-models-for-heuristic",
-"moving-intervention-framework-for-evaluating-educational-ai":"moving-intervention-framework-for-evaluating-educational-ai",
 "multi-armed-randomized-trial-analysis":"multi-armed-randomized-trial-analysis",
 "multi-dimensional-fidelity-framework-for-llm-student-simulation":"multi-dimensional-fidelity-framework-for-llm-student-simulation",
 "multi-rater-latent-growth-curve-model":"multi-rater-latent-growth-curve-model",
@@ -275613,34 +274425,23 @@
 "multimodal-engagement-prediction-framework-with-perceiver-io-fusion-hierarchical-bayesian":"multimodal-engagement-prediction-framework-with-perceiver-io-fusion-hierarchical-bayesian",
 "multiple-design-element-interrupted-time-series-evaluation":"multiple-design-element-interrupted-time-series-evaluation",
 "multivariate-true-score-model-for-achievement-and-growth-norming":"multivariate-true-score-model-for-achievement-and-growth-norming",
-"name-based-imputation-of-student-immigration-background":"name-based-imputation-of-student-immigration-background",
-"narrative-inquiry":"narrative-inquiry",
 "negative-priming-paradigm-adapted-to-misleading-strategies":"negative-priming-paradigm-adapted-to-misleading-strategies",
-"nested-coding-scheme-for-demographic-information-use-in-edm-publications":"nested-coding-scheme-for-demographic-information-use-in-edm-publications",
-"neural-expected-increment-model-with-upper-bounded-softmax-for-next-skill-prediction":"neural-expected-increment-model-with-upper-bounded-softmax-for-next-skill-prediction",
 "neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules":"neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules",
 "nine-step-game-design-methodology-for-generating-a-psychological-profile-of-players":"nine-step-game-design-methodology-for-generating-a-psychological-profile-of-players",
 "office-hours-queue-simulation-framework":"office-hours-queue-simulation-framework",
 "offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors":"offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors",
 "on-line-versus-off-line-methods-for-assessing-strategy-use":"on-line-versus-off-line-methods-for-assessing-strategy-use",
 "one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue":"one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue",
-"opportunistic-experiments":"opportunistic-experiments",
-"optimnn-reg":"optimnn-reg",
 "ordered-network-analysis-ona":"ordered-network-analysis-ona",
 "outcome-oriented-equity-framework-distinguishing-access-equity-from-impact-equity":"outcome-oriented-equity-framework-distinguishing-access-equity-from-impact-equity",
 "overview-of-reviews-framework-for-professional-educational-and-quality-assurance-behavior":"overview-of-reviews-framework-for-professional-educational-and-quality-assurance-behavior",
-"p-curve-analysis":"p-curve-analysis",
-"pari-methodology-a-structured-dyadic-problem-solving-interview-for-cognitive-task-analysis":"pari-methodology-a-structured-dyadic-problem-solving-interview-for-cognitive-task-analysis",
 "partial-credit-method":"three-method-framework-for-accounting-for-co-teaching-in-value-added-models",
 "partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment":"partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment",
-"participatory-research":"participatory-research",
 "pattern-based-knowledge-component-extraction-from-program-asts":"pattern-based-knowledge-component-extraction-from-program-asts",
 "pea-policy-enforcement-and-authority-analytic-lens":"pea-policy-enforcement-and-authority-analytic-lens",
 "per-draw-robust-linking":"per-draw-robust-linking",
 "planned-comparable-group-courseware-impact-study":"planned-comparable-group-courseware-impact-study",
-"polytomous-dfit-framework":"polytomous-dfit-framework",
 "post-hoc-fairness-evaluation-testbed-for-vendor-controlled-early-warning-systems":"post-hoc-fairness-evaluation-testbed-for-vendor-controlled-early-warning-systems",
-"post-occupancy-evaluation-poe":"post-occupancy-evaluation-poe",
 "poverty-adjusted-value-added-school-effectiveness-rating-model":"poverty-adjusted-value-added-school-effectiveness-rating-model",
 "power-planning-for-mediatoroutcome-linkage-analyses-in-clustered-education-rcts":"power-planning-for-mediatoroutcome-linkage-analyses-in-clustered-education-rcts",
 "ppmc-assuming-posterior-normality-ppmc-n":"ppmc-assuming-posterior-normality-ppmc-n",
@@ -275660,12 +274461,8 @@
 "pseudo-temporal-ordering-inclusion-relations-among-snapshot-skill-sets-as-a-proxy-for-lear":"pseudo-temporal-ordering-inclusion-relations-among-snapshot-skill-sets-as-a-proxy-for-lear",
 "psychometric-pipeline-for-mapping-llm-performance-onto-interpretable-proficiency-levels-an":"psychometric-pipeline-for-mapping-llm-performance-onto-interpretable-proficiency-levels-an",
 "qualitative-meta-synthesis":"qualitative-meta-synthesis",
-"quantized-learning-gain-qlg":"quantized-learning-gain-qlg",
-"quasi-mixed-methods-llm-human-workflow-for-analyzing-qualitative-reflection-data":"quasi-mixed-methods-llm-human-workflow-for-analyzing-qualitative-reflection-data",
 "races-reward-aligned-consistent-essay-scoring-framework":"races-reward-aligned-consistent-essay-scoring-framework",
-"raise-reporting-ai-studies-in-education":"raise-reporting-ai-studies-in-education",
 "random-effects-meta-analysis":"random-effects-meta-analysis",
-"rapid-cycle-evaluation":"rapid-cycle-evaluation",
 "rapid-cycle-product-efficacy-assessment-and-feedback-loop-for-ed-tech-pilots":"rapid-cycle-product-efficacy-assessment-and-feedback-loop-for-ed-tech-pilots",
 "rapid-guessing-as-a-behavioral-proxy-for-test-effort":"rapid-guessing-as-a-behavioral-proxy-for-test-effort",
 "rapid-guessing-detection-of-test-taker-disengagement":"rapid-guessing-detection-of-test-taker-disengagement",
@@ -275677,8 +274474,6 @@
 "regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff":"regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff",
 "reinforcement-learning-measurement-model-rlmm":"reinforcement-learning-measurement-model-rlmm",
 "reliance-calibration-as-an-output-contingent-classification-of-reliance-decisions":"reliance-calibration-as-an-output-contingent-classification-of-reliance-decisions",
-"remnant-based-covariate-adjustment-reloop":"remnant-based-covariate-adjustment-reloop",
-"remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction":"remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction",
 "replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat":"within-study-comparison-wsc-methodology",
 "reproducible-educational-llm-guardrails-benchmark-and-evaluation-protocol":"reproducible-educational-llm-guardrails-benchmark-and-evaluation-protocol",
 "response-time-based-detection-of-test-taker-disengagement":"response-time-based-detection-of-test-taker-disengagement",
@@ -275692,39 +274487,26 @@
 "rule-space-model":"rule-space-model",
 "savvy-content-derived-visual-and-auditory-information-density-metrics":"savvy-content-derived-visual-and-auditory-information-density-metrics",
 "sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp":"sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp",
-"schochets-guidelines-for-handling-multiple-testing-in-education-research":"schochets-guidelines-for-handling-multiple-testing-in-education-research",
 "school-value-added-modeling":"value-added-modeling",
 "seasonal-learning-analysis":"seasonal-learning-analysis",
 "sel-status-and-growth-early-warning-modeling":"sel-status-and-growth-early-warning-modeling",
-"select-the-research-design-that-fits-the-intervention-and-evaluation-setting":"select-the-research-design-that-fits-the-intervention-and-evaluation-setting",
 "self-management-intervention-taxonomy-for-academic-outcomes":"self-management-intervention-taxonomy-for-academic-outcomes",
 "self-referential-analytic-assessment-framework":"self-referential-analytic-assessment-framework",
 "self-reflective-llm-annotation-agent-with-iterative-criteria-refinement-and-short-term-mem":"self-reflective-llm-annotation-agent-with-iterative-criteria-refinement-and-short-term-mem",
 "semantically-equivalent-prompt-variant-benchmark-construction-for-measuring-prompt-privile":"semantically-equivalent-prompt-variant-benchmark-construction-for-measuring-prompt-privile",
 "semi-supervised-ann-framework-combining-anns-with-dina-and-dino-diagnostic-classification":"semi-supervised-ann-framework-combining-anns-with-dina-and-dino-diagnostic-classification",
 "semi-supervised-deep-learning-bias-adjustment-framework-for-irt-parameter-estimation-under":"semi-supervised-deep-learning-bias-adjustment-framework-for-irt-parameter-estimation-under",
-"sensitivity-analysis-across-estimators-and-cluster-level-weighting-schemes-for-clustered-r":"sensitivity-analysis-across-estimators-and-cluster-level-weighting-schemes-for-clustered-r",
-"seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs":"seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs",
 "seven-dimensional-outcome-comparison-framework-for-analyzing-implicit-learning-outcomes-in":"seven-dimensional-outcome-comparison-framework-for-analyzing-implicit-learning-outcomes-in",
 "seven-phase-framework-for-reflecting-on-how-ai-methodologies-may-transform-science-educati":"seven-phase-framework-for-reflecting-on-how-ai-methodologies-may-transform-science-educati",
 "seven-type-feedback-focus-taxonomy-adapted-from-narciss-for-written-teacher-feedback":"seven-type-feedback-focus-taxonomy-adapted-from-narciss-for-written-teacher-feedback",
-"simulated-power-analysis-for-clustered-education-rcts":"simulated-power-analysis-for-clustered-education-rcts",
 "simulated-respondent-framework":"simulated-respondent-framework",
 "simulation-based-framework-for-evaluating-learner-task-selection-strategies-and-system-con":"simulation-based-framework-for-evaluating-learner-task-selection-strategies-and-system-con",
 "six-behaviour-spatial-pedagogy-coding-scheme-for-team-teaching":"six-behaviour-spatial-pedagogy-coding-scheme-for-team-teaching",
-"six-category-taxonomy-for-characterising-genai-learning-activities":"six-category-taxonomy-for-characterising-genai-learning-activities",
-"six-criterion-operational-checklist-for-classifying-a-system-as-agentic":"six-criterion-operational-checklist-for-classifying-a-system-as-agentic",
-"six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation":"six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation",
-"six-dimension-governance-profile-framework-for-characterizing-ai-teaching-tools":"six-dimension-governance-profile-framework-for-characterizing-ai-teaching-tools",
-"six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale":"six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale",
 "six-dimensional-framework-of-authentic-assessment-characteristics":"six-dimensional-framework-of-authentic-assessment-characteristics",
-"small-cluster-randomized-trial-design-and-analysis":"small-cluster-randomized-trial-design-and-analysis",
 "sme-elicited-llm-feature-based-item-difficulty-prediction":"sme-elicited-llm-feature-based-item-difficulty-prediction",
-"social-cartography":"social-cartography",
 "spatially-explicit-markov-simulation-of-educational-network-growth":"spatially-explicit-markov-simulation-of-educational-network-growth",
 "srem":"srem",
 "srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-taggi":"srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-taggi",
-"statistical-analysis-of-partially-nested-randomized-controlled-trials":"statistical-analysis-of-partially-nested-randomized-controlled-trials",
 "stealth-assessment":"stealth-assessment",
 "stereotype-congruence-rate-scr":"stereotype-congruence-rate-scr",
 "strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod":"strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod",
@@ -275735,19 +274517,16 @@
 "subject-level-demographic-mae-gap-fairness-regularization-for-multimodal-attention-models":"subject-level-demographic-mae-gap-fairness-regularization-for-multimodal-attention-models",
 "suitability-and-feasibility-framework-for-deciding-whether-to-use-state-tests-in-education":"suitability-and-feasibility-framework-for-deciding-whether-to-use-state-tests-in-education",
 "summer-dip-measurement-of-educational-chatgpt-use":"summer-dip-measurement-of-educational-chatgpt-use",
-"supervised-versus-unsupervised-machine-learning-methods-for-automating-analysis-of-learnin":"supervised-versus-unsupervised-machine-learning-methods-for-automating-analysis-of-learnin",
 "swim-proficiency-conditioned-essay-generation-and-proficiency-alignment-evaluation":"swim-proficiency-conditioned-essay-generation-and-proficiency-alignment-evaluation",
 "synthetic-benchmark-development-and-stress-testing-for-trace-based-learning-analytics-eval":"synthetic-benchmark-development-and-stress-testing-for-trace-based-learning-analytics-eval",
 "synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc":"within-study-comparison-wsc-methodology",
 "systematic-review":"systematic-review",
 "systematic-screening-for-opportunistic-experiments":"systematic-screening-for-opportunistic-experiments",
 "tact-dual-taxonomy-framework-for-annotating-tutoring-moves-and-conditional-feedback-strate":"tact-dual-taxonomy-framework-for-annotating-tutoring-moves-and-conditional-feedback-strate",
-"taxonomy-of-ai-integration-types-in-online-higher-education":"taxonomy-of-ai-integration-types-in-online-higher-education",
 "taxonomy-of-eai-modalities-in-education":"taxonomy-of-eai-modalities-in-education",
 "taxonomy-of-eight-primary-self-management-intervention-configurations":"taxonomy-of-eight-primary-self-management-intervention-configurations",
 "taxonomy-of-interaction-behaviors-with-ai-code-suggestions":"taxonomy-of-interaction-behaviors-with-ai-code-suggestions",
 "taxonomy-of-knowledge-components-classified-by-task-features-response-relationship-and-rat":"taxonomy-of-knowledge-components-classified-by-task-features-response-relationship-and-rat",
-"taxonomy-of-oral-corrective-feedback-types-in-l2-classrooms":"taxonomy-of-oral-corrective-feedback-types-in-l2-classrooms",
 "taxonomy-of-pedagogical-sycophancy":"taxonomy-of-pedagogical-sycophancy",
 "taxonomy-of-test-score-based-school-evaluation-estimators":"taxonomy-of-test-score-based-school-evaluation-estimators",
 "teachbench":"teachbench",
@@ -275761,21 +274540,12 @@
 "testlet-level-cfa-for-assessing-dimensionality-of-cat-data":"testlet-level-cfa-for-assessing-dimensionality-of-cat-data",
 "the-effort-moderated-irt-model-of-test-taking-motivation":"the-effort-moderated-irt-model-of-test-taking-motivation",
 "the-socratic-test-framework":"the-socratic-test-framework",
-"the-stacks":"the-stacks",
-"theory-informed-statistically-sound-meta-analysis-planning":"theory-informed-statistically-sound-meta-analysis-planning",
 "thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness":"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness",
-"thinking-through-ai-framework":"thinking-through-ai-framework",
 "three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc":"three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc",
-"three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim":"three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim",
 "three-complementary-views-of-ai-integrated-writing-product-process-and-interaction":"three-complementary-views-of-ai-integrated-writing-product-process-and-interaction",
 "three-component-decomposition-of-teacher-grade-effects":"three-component-decomposition-of-teacher-grade-effects",
 "three-construct-framework-for-measuring-challenge-navigation-in-games":"three-construct-framework-for-measuring-challenge-navigation-in-games",
-"three-core-tool-classes-of-learning-analytics":"three-core-tool-classes-of-learning-analytics",
 "three-criterion-framework-for-evaluating-test-mode-comparability":"three-criterion-framework-for-evaluating-test-mode-comparability",
-"three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools":"three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools",
-"three-facet-behavior-management-framework-decomposition-used-for-expert-evaluation":"three-facet-behavior-management-framework-decomposition-used-for-expert-evaluation",
-"three-foundations-by-three-sources-framework-for-organizing-interactive-multimedia-researc":"three-foundations-by-three-sources-framework-for-organizing-interactive-multimedia-researc",
-"three-genre-taxonomy-of-research-on-games-for-learning-value-added-cognitive-consequences":"three-genre-taxonomy-of-research-on-games-for-learning-value-added-cognitive-consequences",
 "three-group-coding-framework-for-scientific-habits-of-mind-in-informal-game-forums":"three-group-coding-framework-for-scientific-habits-of-mind-in-informal-game-forums",
 "three-level-engagement-typology-information-sharing-feedback-and-collaboration":"three-level-engagement-typology-information-sharing-feedback-and-collaboration",
 "three-measures-of-test-adaptation-based-on-optimal-test-information":"three-measures-of-test-adaptation-based-on-optimal-test-information",
@@ -275787,17 +274557,12 @@
 "three-pooling-formulations-for-bayesian-knowledge-tracing-standard-multi-and-hierarchical":"three-pooling-formulations-for-bayesian-knowledge-tracing-standard-multi-and-hierarchical",
 "three-question-framework-for-reviewing-noncognitive-measurement-and-segmentation-in-postse":"three-question-framework-for-reviewing-noncognitive-measurement-and-segmentation-in-postse",
 "three-question-structure-for-school-performance-inquiry":"three-question-structure-for-school-performance-inquiry",
-"three-role-taxonomy-of-genai-operationalization-in-grading-workflows":"three-role-taxonomy-of-genai-operationalization-in-grading-workflows",
 "three-step-framework-for-generating-validated-natural-language-explanations-of-question-di":"three-step-framework-for-generating-validated-natural-language-explanations-of-question-di",
-"three-strategy-taxonomy-for-modelling-student-knowledge-in-simulated-students":"three-strategy-taxonomy-for-modelling-student-knowledge-in-simulated-students",
-"three-types-of-measures-derivable-from-gameplay-telemetry-overall-game-performance-in-game":"three-types-of-measures-derivable-from-gameplay-telemetry-overall-game-performance-in-game",
 "three-validation-targets-for-educational-simulation-behavioral-believability-educational-m":"three-validation-targets-for-educational-simulation-behavioral-believability-educational-m",
 "tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak":"tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak",
-"toppings-17-parameter-typology-of-peer-assessment":"toppings-17-parameter-typology-of-peer-assessment",
 "trace-transformer-for-academic-course-grade-estimation":"trace-transformer-for-academic-course-grade-estimation",
 "trajectory-based-early-indicator-framework-for-college-readiness-monitoring":"trajectory-based-early-indicator-framework-for-college-readiness-monitoring",
 "transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis":"transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis",
-"transfer-for-future-learning-tfl-three-phase-assessment-approach":"transfer-for-future-learning-tfl-three-phase-assessment-approach",
 "transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add":"transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add",
 "transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors":"transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors",
 "transition-network-analysis-tna":"transition-network-analysis-tna",
@@ -275805,34 +274570,27 @@
 "trio-ethnography":"trio-ethnography",
 "trustworthiness-lens-for-evaluating-llms-in-education":"trustworthiness-lens-for-evaluating-llms-in-education",
 "tutoring-effectiveness-index-tei":"tutoring-effectiveness-index-tei",
-"two-axis-taxonomy-of-rl-based-adaptation-in-education-content-related-versus-guidance-rela":"two-axis-taxonomy-of-rl-based-adaptation-in-education-content-related-versus-guidance-rela",
 "two-complementary-misconception-acquisition-formalizations-the-novice-student-misconceptio":"two-complementary-misconception-acquisition-formalizations-the-novice-student-misconceptio",
 "two-dimensional-conceptual-framework-for-studentgenai-interaction-and-perception-in-steam":"two-dimensional-conceptual-framework-for-studentgenai-interaction-and-perception-in-steam",
 "two-dimensional-rubric-coding-operational-process-category-and-depth-of-explicit-metacogni":"two-dimensional-rubric-coding-operational-process-category-and-depth-of-explicit-metacogni",
 "two-form-ai-difficulty-ruler-solving-based-and-review-based":"two-form-ai-difficulty-ruler-solving-based-and-review-based",
-"two-level-dialogue-act-labeling-schema-for-studentllm-interactions":"two-level-dialogue-act-labeling-schema-for-studentllm-interactions",
 "two-metric-turn-level-evaluation-of-chatbot-scaffolding-and-student-uptake":"two-metric-turn-level-evaluation-of-chatbot-scaffolding-and-student-uptake",
 "two-stage-llm-misconception-identification-pipeline":"two-stage-llm-misconception-identification-pipeline",
 "two-stage-pooled-then-specialized-student-simulation-training":"two-stage-pooled-then-specialized-student-simulation-training",
-"two-type-validation-framework-technical-validation-and-physical-validation-of-ai-generated":"two-type-validation-framework-technical-validation-and-physical-validation-of-ai-generated",
 "unidimensional-rasch-model-scaling":"unidimensional-rasch-model-scaling",
 "validity-reliability-and-fairness-of-ai-outputs-as-a-practical-evaluation-framework-ground":"validity-reliability-and-fairness-of-ai-outputs-as-a-practical-evaluation-framework-ground",
 "value-added-modeling":"value-added-modeling",
 "varia-four-property-formalisation-of-the-aiaa-integrity-via-variation-hypothesis":"varia-four-property-formalisation-of-the-aiaa-integrity-via-variation-hypothesis",
-"virtual-comparison-group-construction-via-database-matching":"virtual-comparison-group-construction-via-database-matching",
 "waitlist-cutoff-regression-discontinuity-design-using-administrative-course-registration-d":"waitlist-cutoff-regression-discontinuity-design-using-administrative-course-registration-d",
 "weekly-0-structural-check-for-cohort-behavioural-reorganisation":"weekly-0-structural-check-for-cohort-behavioural-reorganisation",
-"weighted-blooms-index-and-predicted-exam-score-methods":"weighted-blooms-index-and-predicted-exam-score-methods",
 "wested-course-categorization-scheme-for-eo-1110-entry-level-wc-and-qr-course-types":"wested-course-categorization-scheme-for-eo-1110-entry-level-wc-and-qr-course-types",
 "what-works-clearinghouse-evidence-based-standards-for-reviewing-transition-program-researc":"what-works-clearinghouse-evidence-based-standards-for-reviewing-transition-program-researc",
 "what-works-clearinghouse-wwc-design-standards":"what-works-clearinghouse-wwc-design-standards",
 "within-study-comparison-wsc-methodology":"within-study-comparison-wsc-methodology",
 "working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching":"working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching",
 "workload-dynamics-framework-temporal-metrics-of-workload-variation-intensity-and-distribut":"workload-dynamics-framework-temporal-metrics-of-workload-variation-intensity-and-distribut",
-"worsley-et-als-twelve-commitments-for-high-quality-mmla-research":"worsley-et-als-twelve-commitments-for-high-quality-mmla-research",
 "wwc-attrition-model":"wwc-attrition-model",
-"wwc-effectiveness-rating-framework-for-intervention-evidence":"wwc-effectiveness-rating-framework-for-intervention-evidence",
-"zawacki-richter-et-als-four-area-aied-typology":"zawacki-richter-et-als-four-area-aied-typology"
+"wwc-effectiveness-rating-framework-for-intervention-evidence":"wwc-effectiveness-rating-framework-for-intervention-evidence"
 },
 "strategy":{
 "3-2-1_reflection":"3-2-1_reflection",

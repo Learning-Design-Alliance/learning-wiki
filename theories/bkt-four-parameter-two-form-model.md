@@ -52,7 +52,6 @@ Bayesian Knowledge Tracing models student learning of a skill with four paramete
 ## Examples
 
 - [Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM](../strategies/fit-a-fix-one-parameter-alternative-to-dirichlet-priors.md)
-- [BKT RNN: a fast, flexible PyTorch recurrent neural network implementation of Bayesian Knowledge Tracing](../research-methods/bkt-rnn.md)
 - [Use posterior credible intervals on condition-specific BKT parameter contrasts to compare experimental conditions](../strategies/posterior-contrasts-condition-specific-bkt-parameters.md)
 
 ## Key Sources

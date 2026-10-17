@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity.md
 ---
 
-# Revision history: [research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity](../research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity.md)
+# Revision history: research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity
 
 Recorded as elements/teacher-instructional-practice-dimension-construct-map before it was renamed, re-filed or merged.
 

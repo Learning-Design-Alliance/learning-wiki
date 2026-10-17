@@ -61,7 +61,6 @@ A downloadable software artifact released with the guide. The page instructs rea
 - applying BASIE to interpret impact estimates
 
 ### Affordances
-- [Basie Bayesian Interpretation Of Estimates Framework](../research-methods/basie.md)
 
 ## Related Elements
 

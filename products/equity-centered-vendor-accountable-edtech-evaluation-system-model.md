@@ -78,7 +78,6 @@ The report's organizing framework is an evaluation system that "codifies priorit
 - [Five recommendations for higher education systems elevating student and faculty voice in edtech evaluation](../strategies/recommendations-learner-voice-edtech-evaluation-systems.md)
 - [Contact Initiation Form (CIF)](../elements/ccc-contact-initiation-form.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](../strategies/five-step-codesign-badge-development-process.md)
-- [Evidence Evaluation Rubric for edtech efficacy (Resource C)](../research-methods/evidence-evaluation-rubric.md)
 - [Offer templates and exemplars to streamline edtech review requests for vendors and staff](../strategies/edtech-review-templates-and-exemplars.md)
 
 ## Key Sources

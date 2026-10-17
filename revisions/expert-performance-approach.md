@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/expert-performance-approach.md
 ---
 
-# Revision history: [research-methods/expert-performance-approach](../research-methods/expert-performance-approach.md)
+# Revision history: research-methods/expert-performance-approach
 
 Recorded as theories/expert-performance-approach-three-stages before it was renamed, re-filed or merged.
 

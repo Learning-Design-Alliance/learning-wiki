@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/polytomous-dfit-framework.md
 ---
 
-# Revision history: [research-methods/polytomous-dfit-framework](../research-methods/polytomous-dfit-framework.md)
+# Revision history: research-methods/polytomous-dfit-framework
 
 Recorded as theories/polytomous-dfit-framework-polytomous-extension before it was renamed, re-filed or merged.
 

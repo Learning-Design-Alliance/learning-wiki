@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md
 ---
 
-# Revision history: [research-methods/joint-student-level-and-school-level-achievement-and-growth-norms](../research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md)
+# Revision history: research-methods/joint-student-level-and-school-level-achievement-and-growth-norms
 
 Recorded as theories/joint-student-and-school-norms-2020-map-growth before it was renamed, re-filed or merged.
 

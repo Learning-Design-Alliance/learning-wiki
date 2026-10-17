@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/correct-variance-estimation-for-cace-in-clustered-education-rcts.md
 ---
 
-# Revision history: [research-methods/correct-variance-estimation-for-cace-in-clustered-education-rcts](../research-methods/correct-variance-estimation-for-cace-in-clustered-education-rcts.md)
+# Revision history: research-methods/correct-variance-estimation-for-cace-in-clustered-education-rcts
 
 Recorded as theories/cace-parameter-clustered-education-rcts before it was renamed, re-filed or merged.
 

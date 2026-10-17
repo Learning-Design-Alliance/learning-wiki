@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/nested-coding-scheme-for-demographic-information-use-in-edm-publications.md
 ---
 
-# Revision history: [research-methods/nested-coding-scheme-for-demographic-information-use-in-edm-publications](../research-methods/nested-coding-scheme-for-demographic-information-use-in-edm-publications.md)
+# Revision history: research-methods/nested-coding-scheme-for-demographic-information-use-in-edm-publications
 
 Recorded as theories/edm-demographics-nested-coding-scheme before it was renamed, re-filed or merged.
 

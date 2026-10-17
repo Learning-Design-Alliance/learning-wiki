@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness.md
 ---
 
-# Revision history: [research-methods/chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness](../research-methods/chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness.md)
+# Revision history: research-methods/chapelles-six-criterion-evaluation-framework-for-call-task-appropriateness
 
 Recorded as theories/chapelle-2001-call-evaluation-framework-applied-to-genai before it was renamed, re-filed or merged.
 

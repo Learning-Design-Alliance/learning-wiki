@@ -37,7 +37,6 @@ The guide recommends that researchers and policymakers "discuss issues to consid
 
 ## Related Research Methods
 
-- [Opportunistic experiments](opportunistic-experiments.md)
 
 ## Key Sources
 - Alexandra Resch, Jillian Berk, Lauren Akers. (2014). Recognizing and Conducting Opportunistic Experiments in Education: A Guide for Policymakers and Researchers. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/edprojects
@@ -115,7 +114,6 @@ The guide names and defines opportunistic experiments as "type of randomized con
 
 ## Related Theories
 
-- [Partially Nested RCTs: a design taxonomy distinguishing I-RCTs, C-RCTs, and PN-RCTs](statistical-analysis-of-partially-nested-randomized-controlled-trials.md)
 
 ## Examples
 

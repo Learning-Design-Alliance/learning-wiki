@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/worsley-et-als-twelve-commitments-for-high-quality-mmla-research.md
 ---
 
-# Revision history: [research-methods/worsley-et-als-twelve-commitments-for-high-quality-mmla-research](../research-methods/worsley-et-als-twelve-commitments-for-high-quality-mmla-research.md)
+# Revision history: research-methods/worsley-et-als-twelve-commitments-for-high-quality-mmla-research
 
 Recorded as theories/mmla-twelve-commitments-framework before it was renamed, re-filed or merged.
 

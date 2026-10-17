@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/basie.md
 ---
 
-# Revision history: [research-methods/basie](../research-methods/basie.md)
+# Revision history: research-methods/basie
 
 Recorded as theories/basie-bayesian-interpretation-of-estimates-framework before it was renamed, re-filed or merged.
 

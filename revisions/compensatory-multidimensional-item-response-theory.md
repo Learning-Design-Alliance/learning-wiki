@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/compensatory-multidimensional-item-response-theory.md
 ---
 
-# Revision history: [research-methods/compensatory-multidimensional-item-response-theory](../research-methods/compensatory-multidimensional-item-response-theory.md)
+# Revision history: research-methods/compensatory-multidimensional-item-response-theory
 
 Recorded as theories/compensatory-mirt-composite-scoring-framework before it was renamed, re-filed or merged.
 

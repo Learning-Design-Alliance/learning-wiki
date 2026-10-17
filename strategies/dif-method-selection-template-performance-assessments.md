@@ -37,7 +37,6 @@ The article offers its method comparison as "a useful template for test analysts
 - selecting and applying appropriate DIF detection methods for performance assessments
 
 ### Affordances
-- [Ldf Dif Polytomous Items Framework](../research-methods/logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol.md)
 - [Icc Unsigned Area Dif Method](../research-methods/item-characteristic-curve-unsigned-area-method-for-dif-detection-under-item-response-theor.md)
 
 ## Related Strategies

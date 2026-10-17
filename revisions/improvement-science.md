@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/improvement-science.md
 ---
 
-# Revision history: [research-methods/improvement-science](../research-methods/improvement-science.md)
+# Revision history: research-methods/improvement-science
 
 Recorded as theories/improvement-science-systematic-iterative-approach before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/measurement-team-roles-and-responsibilities-framework-for-education-studies.md
 ---
 
-# Revision history: [research-methods/measurement-team-roles-and-responsibilities-framework-for-education-studies](../research-methods/measurement-team-roles-and-responsibilities-framework-for-education-studies.md)
+# Revision history: research-methods/measurement-team-roles-and-responsibilities-framework-for-education-studies
 
 Recorded as theories/measurement-team-responsibilities-framework before it was renamed, re-filed or merged.
 

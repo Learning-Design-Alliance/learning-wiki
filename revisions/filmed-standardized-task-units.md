@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/filmed-standardized-task-units.md
 ---
 
-# Revision history: [research-methods/filmed-standardized-task-units](../research-methods/filmed-standardized-task-units.md)
+# Revision history: research-methods/filmed-standardized-task-units
 
 Recorded as designs/filmed-common-task-comparison-pattern before it was renamed, re-filed or merged.
 

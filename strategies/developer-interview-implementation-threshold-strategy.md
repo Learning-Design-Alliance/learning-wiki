@@ -37,7 +37,6 @@ The study's strategy for defining fidelity begins with an expert review of stude
 - defining treatment and core program dimensions to operationalize implementation fidelity for efficacy studies
 
 ### Affordances
-- [Five Dimension Hqim Implementation Fidelity Framework](../research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity.md)
 - Official To Enacted Curriculum Translation Framework
 
 ## Related Strategies
