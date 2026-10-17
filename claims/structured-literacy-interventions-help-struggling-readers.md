@@ -92,3 +92,5 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — a narrower finding that bears on this claim
 - Multisensory literacy strategies help students with low working memory become better at decoding — related
 - [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
+- [Adults who completed supplemental basic-skills tutoring showed significant pre-to-post gains across a battery of decoding, word recognition, fluency, and comprehension measures](adult-completers-significant-gains-basic-reading.md) — related
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related

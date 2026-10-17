@@ -48,3 +48,4 @@ Pre-registered moderation test in the national experiment, standardized β = −
 - [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](peer-norms-sustain-mindset-gpa-effects.md) — related
+- [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related

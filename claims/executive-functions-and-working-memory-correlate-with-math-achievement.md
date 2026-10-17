@@ -47,3 +47,4 @@ The authors relate this to the load of mathematical problem solving, which requi
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related

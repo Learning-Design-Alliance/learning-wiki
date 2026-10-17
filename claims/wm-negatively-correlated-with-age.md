@@ -45,3 +45,4 @@ Pearson correlation between the composite WM index and age in the 60-participant
 - [VSTM performance declines with advancing adult age in raw error, item capacity, precision, and misbinding, even after adjusting for sensorimotor performance](vstm-declines-with-age-all-measures.md) — related
 - [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](wm-partial-correlation-only-priming-noncanonical.md) — related
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — related
+- [Verbal memory performance declines with age in the full sample, significantly at the one-week delay](verbal-memory-declines-with-age-t3.md) — related

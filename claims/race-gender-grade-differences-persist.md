@@ -76,3 +76,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color](gateway-success-rates-racial-gap-baseline.md) — related
 - [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
 - [The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course](peer-assessment-effect-size-versus-achievement-gaps.md) — related
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — a narrower finding that bears on this claim

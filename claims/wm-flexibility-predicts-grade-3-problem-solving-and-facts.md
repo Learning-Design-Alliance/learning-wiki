@@ -48,4 +48,4 @@ SEM results for single math indices in Grade 3; the article reports "both proble
 ## Related Claims
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — a broader claim this one bears on
 - [The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3](wm-flexibility-predicts-math-composite-both-grades.md) — related
-- [Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility](two-factor-ef-model-kindergarten.md) — related
+- Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility — related

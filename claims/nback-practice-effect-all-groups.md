@@ -47,3 +47,5 @@ Omnibus repeated-measures ANOVA of combined N-Back performance at baseline and t
 - [Instructions to maintain feelings of disgust do not disrupt working memory performance in either age group](maintaining-disgust-no-performance-cost.md) — related
 - [The experience of disgust per se does not affect the trajectory of working memory performance in either young or older adults](disgust-per-se-no-working-memory-effect.md) — related
 - [The disgust film induction elevated disgust ratings comparably in young and older adults, with no age differences in reactivity or recovery after baseline](mood-induction-effective-no-age-reactivity-difference.md) — related
+- [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](adults-higher-accuracy-startle-load-group-interaction.md) — related
+- [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related

@@ -22,7 +22,7 @@ sources:
 # Corrective Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (1 for, 3 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 Corrective Reading is a scripted, structured reading intervention curriculum for upper-elementary struggling readers, focused on phonics, fluency, and comprehension.
@@ -30,6 +30,7 @@ Corrective Reading is a scripted, structured reading intervention curriculum for
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Deliver Corrective Reading in small groups with sessions 4-5 days per week for optimal achievement gains**: The article states the program "is most effective when taught in small groups" and that "Sessions should occur 4-5 days per week for optimal achievement gains". Delivery can occur inside or outside the regular classroom, and instructors may teach multiple groups across the school day. (Corrective Reading (2021))
+- **SRA/McGraw-Hill Direct Instruction Corrective Reading program adapted for struggling adult readers**: The Corrective Reading program is the explicit instructional intervention used in the DF, DCF, and DCEF conditions. In the Decoding component, "students learned skills such as phonemic relationships, new sound combinations, word endings and letter and sound combinations." In the Comprehension component, students learned to organize related facts and use analogies, classifications, deductions, inductions, descriptions, conclusions, contradictions, and written directions. Placement tests assigned students to levels: 94% started in Decoding B2 and 6% in Decoding B1; 85% started in Comprehension B1 and 15% in Comprehension A. The program includes frequent mastery tests and decision rules for providing additional instruction. (Greenberg Daphne et al. (2011))
 
 ### Claims
 - [Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important](../claims/corrective-reading-alphabetics-mixed-outcomes.md) [~W]
@@ -37,6 +38,8 @@ Corrective Reading is a scripted, structured reading intervention curriculum for
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](../claims/corrective-reading-significant-fluency-effect.md) [+W]
 - [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](../claims/corrective-reading-small-evidence-base.md) [~W]
 - [Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts](../claims/corrective-reading-subgroup-moderators.md) [~W]
+- [Only one between-group difference emerged: the Control/Comparison, Decoding and Fluency, and DCEF groups showed stronger word attack outcomes than the Extensive Reading group](../claims/word-attack-group-differences-er-weakest.md) [+M]
+- [Struggling adult readers made significant reading gains across all instructional groups, but all improvements were associated with small effect sizes](../claims/adult-literacy-significant-gains-small-effect-sizes.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -44,9 +47,9 @@ Corrective Reading is a scripted, structured reading intervention curriculum for
 ## Key Sources
 - Corrective Reading. (2021). https://www.evidenceforessa.org/
 - Corrective Reading—What Works Clearinghouse Intervention Report. (2007). U.S. Department of Education, What Works Clearinghouse. https://www.ed.gov/rschstat/eval/disadv/title1interimreport/index.html
-
 <!-- merged 2026-10-10 from elements/corrective-reading-program-element ("Corrective Reading: scripted, structured lessons for upper-elementary struggling readers"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Corrective Reading—What Works Clearinghouse Intervention Report. (2007). U.S. Department of Education, What Works Clearinghouse. https://www.ed.gov/rschstat/eval/disadv/title1interimreport/index.html
+- Greenberg Daphne, Wise Justin, Morris Robin, Fredrick Laura, Nanda Alice O., Pae Hye-K. (2011). A randomized control study of instructional approaches for struggling adult readers. Journal of Research on Educational Effectiveness. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237050/
 
 # Corrective Reading: scripted, structured lessons for upper-elementary struggling readers
 

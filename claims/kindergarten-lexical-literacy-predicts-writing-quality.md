@@ -54,3 +54,4 @@ SEM of the 157-child longitudinal sample; narrative model quote shown. A second 
 - [A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [Third-grade narrative and expository writing quality are distinct but strongly related factors](narrative-expository-writing-quality-two-factors.md) — related
 - [Kindergarten treatment status was negatively related to third-grade expository writing quality](treatment-status-negatively-related-expository-quality.md) — related
+- [Set size, crowding and pre-cue use jointly predict literacy, with set size uniquely predicting spelling and pre-cue use uniquely predicting reading](regression-unique-literacy-predictors.md) — related

@@ -45,3 +45,4 @@ Case study process-view analysis across the three settings. Automated entry show
 ## Related Claims
 - [Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone](copy-typing-requires-combining-product-and-process-views.md) — related
 - [Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered](product-view-reflects-who-formulated-text.md) — related
+- [Combining collaborative-writing observation, text analysis, and retrospective-prospective interviews provides productive tools to assess writing processes and knowledge of struggling adult writers](triangulated-assessment-writing-processes-adults.md) — related

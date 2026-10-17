@@ -44,3 +44,4 @@ Experiment 1 accuracy and response-time analysis. Correct congruent responses av
 
 ## Related Claims
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
+- [Relational integration is less accurate and slower than single-relation matching regardless of audience or age](relational-harder-than-control-main-effect.md) — related

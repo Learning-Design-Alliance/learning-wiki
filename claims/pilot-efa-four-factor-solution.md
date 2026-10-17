@@ -45,4 +45,4 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 ## Related Claims
 - Exploratory factor analysis indicates a four-factor solution best fits the survey response data — related
 - A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs — related
-- [The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students](internet-skills-scale-three-factor-structure-latin-american.md) — related
+- The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students — related

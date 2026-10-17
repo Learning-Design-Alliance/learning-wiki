@@ -69,3 +69,4 @@ Blinded Bayesian machine-learning robustness analysis (Bayesian causal forest) r
 - [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related
 - [Cross-school variability in the GPA treatment effect was significant while variability in the mindset treatment effect was not](heterogeneous-gpa-effects-homogeneous-mindset-effects.md) — related
 - [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](peer-norms-sustain-mindset-gpa-effects.md) — a narrower finding that bears on this claim
+- [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — possibly the same claim (merge candidate)

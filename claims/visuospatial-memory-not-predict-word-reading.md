@@ -51,3 +51,4 @@ Multilevel models of 177 children's word reading growth (WIAT-II Word Reading su
 - [Simultaneous (Mazes) visuospatial memory showed a trend predicting fifth grade mathematics while sequential (Block Recall) did not](simultaneous-versus-sequential-visuospatial-math-prediction.md) — related
 - [Children with larger first-to-fifth grade gains in visuospatial memory had higher fifth grade mathematics achievement, controlling for first grade visuospatial memory and other predictors](visuospatial-memory-gains-predict-fifth-grade-math.md) — related
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — related
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related

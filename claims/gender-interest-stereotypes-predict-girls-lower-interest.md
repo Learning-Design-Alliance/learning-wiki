@@ -62,4 +62,4 @@ Regression comparison in Study 1 with both stereotype types as simultaneous pred
 
 
 ## Related Claims
--
+- [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related

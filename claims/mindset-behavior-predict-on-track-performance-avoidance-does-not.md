@@ -78,3 +78,4 @@ Same logistic regression analysis of 13,578 students. The null finding for perfo
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — related
 - [No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics](sel-no-prediction-chronic-absenteeism.md) — related
 - [Background characteristics independently predict 9th-grade off-track indicators: boys are 1.7 times as likely to be suspended and 3.5 times as likely to have a GPA below a C than girls](background-covariates-predict-off-track.md) — related
+- [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related

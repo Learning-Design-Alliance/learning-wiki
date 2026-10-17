@@ -66,3 +66,5 @@ The review reports this simulated-classroom study found "signiﬁcant impairment
 - [Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise](meaningful-speech-impairs-prose-memory-teenagers.md) — related
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
 - [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](vulnerable-children-more-noise-impaired-speech-perception.md) — related
+- [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — a broader claim this one bears on
+- [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related

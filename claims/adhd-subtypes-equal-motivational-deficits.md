@@ -48,3 +48,7 @@ This is the study's motivational-deficit conclusion, drawn from the experiment i
 - [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
 - [High reinforcement improves STM and WM performance in both ADHD subtypes but not in controls](high-reinforcement-improves-stm-wm-adhd.md) — related
 - [Cognitive deficits in children with ADHD are not permanent neuropsychological impairments and cognitive capacity can be modulated by motivation](adhd-cognitive-capacity-modulated-by-motivation.md) — a broader claim this one bears on
+- [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related
+- [Impairment on WM, STM, and/or motivation is associated with more inattention symptoms, medication use, and lower IQ scores](impairment-associated-inattention-medication-lower-iq.md) — related
+- [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — reports the opposite
+- [Motivational impairments in reinforcement sensitivity are uncommon (22% impaired) and equally prevalent in both ADHD subtypes](motivational-impairments-uncommon-22-percent-equal-subtypes.md) — related

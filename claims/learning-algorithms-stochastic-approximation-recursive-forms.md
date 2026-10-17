@@ -47,3 +47,4 @@ Statement from the Preface and Introduction, following its discussion of renewed
 - [For tracking time-varying systems, the step size is kept strictly away from zero](constant-step-size-tracking-nonstationary-systems.md) — related
 - [Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate](polyak-juditsky-iterate-averaging-optimal-rate.md) — related
 - OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — related
+- [Optimal play in coordination games requires estimating a partner's degree of recursion and one's certainty in that estimate](stag-hunt-recursive-metacognitive-estimates.md) — related

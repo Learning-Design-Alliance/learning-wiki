@@ -64,3 +64,4 @@ Behavioral log measures from the same within-subjects study: query counts, canva
 ## Related Claims
 - [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
 - [VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction](veriforge-creativity-support-workload.md) — related
+- [Students perceived non-traditional letter writing as helpful for learning, enjoyable, and superior to traditional writing](students-perceive-letter-writing-helpful-enjoyable.md) — related

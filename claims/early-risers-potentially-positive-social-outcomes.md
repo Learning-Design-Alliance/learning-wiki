@@ -70,3 +70,4 @@ In the urban randomized effectiveness study, the WWC confirmed no statistically 
 - [Early Risers has potentially positive effects on academic performance, driven by a significant Academic Achievement Composite effect in one of two studies](early-risers-potentially-positive-academic-performance.md) — related
 - [After two years of implementation, Early Risers showed a statistically significant positive effect on the Academic Competence Composite in the 2001 supplemental findings](early-risers-two-year-academic-competence-significant.md) — related
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
+- [Social and personal skills interventions were highly effective, with only 2 of 6 studies (33%) reporting a small and statistically insignificant change.](social-personal-skills-interventions-highly-effective-4-of-6.md) — related

@@ -46,7 +46,7 @@ Separate analyses by task following the group-by-task ANCOVA showed no significa
 - [Arithmetic Fact Retrieval](../learner-variables/arithmetic-fact-retrieval.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [A factor analysis separates the multiplication selection task from the other selection tasks on a second component](factor-analysis-multiplication-second-component.md) — related
+- A factor analysis separates the multiplication selection task from the other selection tasks on a second component — related
 - [PoorAF and control children do not differ in perceptual processing speed](pooraf-no-perceptual-speed-deficit.md) — related
 - [PoorAF and control children do not differ in error rates on the multiplication task, indicating the problems were not too difficult](pooraf-error-rates-comparable-multiplication.md) — related
 - [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](pooraf-slower-only-multiplication-task.md) — related

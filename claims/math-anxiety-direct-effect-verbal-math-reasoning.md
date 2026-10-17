@@ -72,3 +72,4 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 - [Working memory mediates the indirect effects of anxiety on math performance](wm-mediates-anxiety-effect-on-math.md) — a broader claim this one bears on
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related

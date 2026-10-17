@@ -78,3 +78,5 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
 - [Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback](self-efficacy-does-not-moderate-feedback-gains.md) — related
 - [Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training](individual-differences-program-characteristics-shape-mindfulness-effectiveness.md) — related
+- [Child-parent communication frequency is not associated with CMS scores](cms-communication-null.md) — related
+- [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related

@@ -48,3 +48,4 @@ Follow-up data from Gunn et al. (2002), reported in Appendix A4 of the WWC revie
 ## Related Claims
 - [Supplemental Reading Mastery instruction showed substantively important immediate effects on four of five reading measures for English language learners, none statistically significant](reading-mastery-immediate-posttest-reading-outcomes-ell.md) — related
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related

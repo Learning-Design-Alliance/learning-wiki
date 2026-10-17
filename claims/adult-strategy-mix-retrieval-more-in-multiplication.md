@@ -43,4 +43,4 @@ Strategy-distribution ANOVAs on trial-by-trial verbal reports in the 25 dyslexia
 
 
 ## Related Claims
--
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related

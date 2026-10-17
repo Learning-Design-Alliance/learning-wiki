@@ -50,3 +50,4 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related
+- [Background measures show no group differences in age, intelligence, or English vocabulary, confirming group matching](group-matching-background-measures.md) — related

@@ -50,3 +50,4 @@ Pedagogical observations, quick interviews, and worksheet analysis during the ex
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
 - [Language difficulties, rather than inherent inability to grasp numerical concepts, may often underlie struggles in mathematics](language-difficulties-underlie-math-struggles.md) — related
+- [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](metacognitive-prompts-improve-collaborative-communication.md) — related

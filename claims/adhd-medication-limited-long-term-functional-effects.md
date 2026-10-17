@@ -43,4 +43,4 @@ Narrative review of disease outcome with and without treatment, reporting a syst
 
 
 ## Related Claims
--
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related

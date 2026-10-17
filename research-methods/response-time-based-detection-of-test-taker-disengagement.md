@@ -26,7 +26,7 @@ sources:
 # Response-time-based detection of test taker disengagement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (3 theoretical, 1 review, 1 associational), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 6 studies (3 theoretical, 2 associational, 1 review), `q1`–`q2` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 The chapter describes a capability for identifying test taker disengagement using response time, which underlies its analysis of what happens when test takers disengage and how disengagement should be managed during scoring. The method detects disengaged item responses such as rapid guesses, and "research using this capability has revealed that test takers generally disengage during only a portion of their items." It functions as a measurement tool for flagging responses where response correctness no longer reflects achievement level.

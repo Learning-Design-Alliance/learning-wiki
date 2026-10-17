@@ -64,3 +64,4 @@ Same pre–post analysis using Woodcock Johnson III standard scores. The results
 ## Related Claims
 - [SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages](smart-significant-oral-reading-fluency-effects.md) — related
 - [After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not](smart-one-year-interim-mixed-significance.md) — related
+- [Program-specific gains appeared only in isolated t-tests: GRR on reading comprehension and RAVE-O on word-level efficiency measures](program-specific-ttest-gains.md) — related

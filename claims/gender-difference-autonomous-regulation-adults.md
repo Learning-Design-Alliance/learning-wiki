@@ -1,0 +1,46 @@
+---
+type: claim
+title: Men show significantly lower autonomous regulation than women among adult learners
+description: Men show significantly lower autonomous regulation than women among adult learners
+id: gender-difference-autonomous-regulation-adults
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: ana-rothes-2017
+    resource: "https://doi.org/10.1177/0741713616669588"
+    title: "Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588"
+    author: Ana Rothes, Marina S. Lemos, and Teresa Gonçalves
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Men show significantly lower autonomous regulation than women among adult learners
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+
+## Subclaims
+`q2 i?` Independent t tests showed men had significantly lower levels of autonomous regulation than women. [→ Ana Rothes 2017](#ana-rothes-2017)
+
+## Evidence
+
+### Ana Rothes 2017
+
+Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588
+
+`q2 · i?` · `associational · r2`
+
+Independent samples t tests on the 188-participant sample (Table 2): male M = 3.36 (SD = 0.41) versus female M = 3.51 (SD = 0.43) for autonomous regulation, t = −2.45, p < .05. No significant gender differences appeared in the other measured variables.
+
+> "Independent t tests showed that men had significantly lower levels of autonomous regulation than women, and participants below the secondary education level had significantly higher levels of controlled regulation than participants above the secondary level."
+
+## Discussion
+
+
+## Related Claims
+- [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related

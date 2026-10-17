@@ -47,3 +47,4 @@ The PLS-SEM serial mediation test in the 432-student survey found that "in a dir
 - [AI literacy strongly predicts LMS quality among non-STEM students (β = .814, p < .001)](ai-literacy-predicts-lms-quality-knust.md) — related
 - [LMS quality did not significantly influence academic performance and did not independently mediate the AI literacy–performance relationship](lms-quality-no-direct-effect-no-independent-mediation.md) — reports the opposite
 - [LMS quality predicts blended-learning satisfaction, which predicts academic performance (β = .604 and β = .535)](lms-quality-satisfaction-performance-chain.md) — related
+- [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related

@@ -83,3 +83,7 @@ The review reports, citing Chevalier and Blaye (2016), a study recording gaze po
 ## Related Claims
 - [Foster children who received the ABC intervention in infancy showed stronger cognitive flexibility at preschool age than foster children who received a control intervention](abc-intervention-improves-cognitive-flexibility-foster-preschoolers.md) — related
 - [Neural variability and flexibility may underlie cognitive flexibility, with an optimal level required across the lifespan](neural-flexibility-supports-cognitive-flexibility.md) — related
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related
+- [Metacognitive scaffolding added to computer-based executive attention training produces larger intelligence gains in preschoolers than regular training or an untrained active control](metacognitive-scaffolding-larger-intelligence-gains-preschoolers.md) — related
+- [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](metacognitive-scaffolding-n2-erp-increase-children.md) — related
+- [Changes in the N2 ERP component predict intelligence gains in the metacognitive scaffolding group](n2-change-predicts-intelligence-gains-metacognitive-group.md) — related

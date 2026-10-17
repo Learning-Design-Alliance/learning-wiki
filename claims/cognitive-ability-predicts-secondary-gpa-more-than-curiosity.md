@@ -72,3 +72,4 @@ Bivariate correlations with self-reported, degree-corrected secondary GPA (N = 4
 - Work-avoidant orientation correlates negatively with GPA in the project-based course — related
 - [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related
 - [Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills](cognitive-skills-correlate-with-vibe-coding-and-predictors.md) — related
+- [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related

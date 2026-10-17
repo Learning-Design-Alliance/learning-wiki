@@ -43,4 +43,4 @@ The article reports, citing prior stereotype-threat research (Brock, 2020), that
 
 
 ## Related Claims
--
+- [Chronic stereotype threat is negatively associated with mathematical achievement in secondary schoolgirls](chronic-stereotype-threat-lower-math-achievement.md) — a narrower finding that bears on this claim

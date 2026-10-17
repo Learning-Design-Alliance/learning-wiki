@@ -52,3 +52,4 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 - [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
 - [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — related
+- [Frustration at not understanding a concept is perceived to motivate exploration and persistence, while frustration attributed to teachers or curriculum impairs motivation](frustration-epistemic-motivates-external-impairs.md) — related

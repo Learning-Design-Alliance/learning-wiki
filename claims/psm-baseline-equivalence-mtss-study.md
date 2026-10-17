@@ -54,3 +54,4 @@ Propensity scores were estimated by logistic regression on gender, race/ethnicit
 - Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs — related
 - Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
 - Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects — related
+- Conventional regression models cannot consistently estimate effects of time-varying treatments when time-varying confounders are affected by past treatment — related

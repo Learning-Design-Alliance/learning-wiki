@@ -50,3 +50,4 @@ Structural equation modeling in a cross-sectional study of 368 adolescents aged 
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related
 - [Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components](inhibitory-control-strongest-reappraisal-correlate.md) — a narrower finding that bears on this claim
 - [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](reappraisal-ability-linear-quadratic-age-development.md) — related
+- [Better executive functions associate with greater reappraisal use and poorer functions with suppression reliance in adolescents](executive-functions-associate-adolescent-strategy-use.md) — possibly the same claim (merge candidate)

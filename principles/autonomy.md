@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (11 for, 21 mixed, 1 against) · 37 studies (11 review, 6 causal, 6 qualitative, 6 theoretical, 3 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 4 of 37 report an effect size · 25 claims rest on one study
+> **Evidence** · 34 claims (12 for, 21 mixed, 1 against) · 38 studies (11 review, 6 causal, 6 qualitative, 6 theoretical, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 38 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Several statements on the earlier page carried evidence markers with no claim be
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](../claims/big-book-reading-cognitive-autonomy.md) [+W]
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W]
 - [Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system](../claims/orthographic-autonomy-requires-instruction.md) [~W]
+- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](../claims/profiles-predict-self-efficacy-strategies-engagement.md) [+M] — attached 2026-10-17 from Ana Rothes et al. (2017), which proposed "Create autonomy-supportive adult learning environments that give choices, validate prior experience, and provide meaningful rationales"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

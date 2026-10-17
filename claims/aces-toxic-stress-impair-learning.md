@@ -75,3 +75,5 @@ The report presents the Center on the Developing Child at Harvard University's i
 - Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse — related
 - [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — related
 - [The authors hypothesize a possible vicious cycle in which stress-induced self-control losses generate further stressful life events](stress-self-control-vicious-cycle-hypothesis.md) — related
+- [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — reports the opposite
+- [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related

@@ -62,4 +62,4 @@ The review reports an intervention in which children attending a Football Exerci
 
 
 ## Related Claims
--
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related

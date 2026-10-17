@@ -52,3 +52,4 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite
 - Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor — related
 - [Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)](mindfulness-domain-effects-cognitive-stress-resilience.md) — related
+- [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related

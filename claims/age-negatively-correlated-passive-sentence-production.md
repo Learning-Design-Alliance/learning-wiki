@@ -45,3 +45,4 @@ Pearson correlation analysis in a cross-sectional study of 60 Korean adults aged
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — related
 - [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](wm-partial-correlation-only-priming-noncanonical.md) — related
 - [The syntactic-priming task with noncanonical word order is the best single predictor of age among the four sentence-production conditions](priming-noncanonical-best-predictor-of-age.md) — related
+- [Word-learning performance correlates with vocabulary production in normal-hearing children but not with sentence length](word-learning-correlates-nh-vocabulary.md) — related

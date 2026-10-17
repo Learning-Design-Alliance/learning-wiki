@@ -44,3 +44,4 @@ Regression analyses from the LOGIC reanalysis predicting later achievement with 
 
 ## Related Claims
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
+- [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related

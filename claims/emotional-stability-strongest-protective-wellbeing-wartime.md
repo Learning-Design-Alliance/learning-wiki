@@ -53,3 +53,4 @@ Cross-sectional Pearson correlation analysis of 147 Ukrainian students surveyed 
 - [Openness protects against well-being decline only when emotional stability is average or high](openness-protects-only-with-emotional-stability.md) — related
 - [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](openness-mediates-personality-wellbeing-pathways.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
+- [Faculty identify emotion intensity, personality, demographics and task nature as mediating factors determining whether negative emotions promote or inhibit learning](mediating-factors-emotion-impact-learning.md) — related

@@ -41,4 +41,4 @@ Hierarchical multiple regression (N = 81) predicting misconception accuracy; mod
 
 
 ## Related Claims
--
+- [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](bilinguals-marginally-smaller-stroop-effect.md) — related

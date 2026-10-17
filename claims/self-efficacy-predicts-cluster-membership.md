@@ -52,3 +52,4 @@ Binary logistic regression on the survey of 236 participants with GSE score pred
 - [Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning](two-attitude-clusters-differ-preparedness-confidence.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](student-confidence-readiness-self-efficacy-collaboration.md) — related
+- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — related

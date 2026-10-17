@@ -46,3 +46,4 @@ Covariate regression of class membership on cohort, race/ethnicity, gender, FARM
 - [Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk](lpa-four-baseline-risk-classes.md) — related
 - Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low — a broader claim this one bears on
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
+- [No statistically significant mean differences by sleep health class on literacy, mathematics, or executive functioning after covariate adjustment](no-sleep-class-differences-literacy-math-ef.md) — related

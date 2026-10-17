@@ -61,3 +61,4 @@ Descriptive, unadjusted analyses of pooled 2006-13 CPS cohorts (Figures 2-7): ge
 - [Ninth-grade course failure rates varied substantially across CPS high schools even after controlling for demographics and prior achievement, and student-teacher relationship measures were associated with better-than-expected Freshman OnTrack rates](cross-school-variation-student-teacher-relationships-ontrack.md) — related
 - [Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color](gateway-success-rates-racial-gap-baseline.md) — related
 - [The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course](peer-assessment-effect-size-versus-achievement-gaps.md) — related
+- [Girls report higher school engagement at time 1 and higher cumulative GPA than boys](girls-higher-engagement-and-gpa-than-boys.md) — related

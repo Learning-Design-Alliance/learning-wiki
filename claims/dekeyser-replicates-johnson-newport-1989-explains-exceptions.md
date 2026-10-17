@@ -45,3 +45,4 @@ The article states its replication of Johnson and Newport (1989) directly: "This
 ## Related Claims
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [Verbal analytical ability is not a significant predictor of second language success for childhood arrivals](verbal-analytical-ability-not-predictor-childhood-arrivals.md) — related
+- Prior small-sample critical-period findings were too noisy to provide precise estimates; thousands of subjects are required — related

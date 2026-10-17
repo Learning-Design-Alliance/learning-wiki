@@ -46,3 +46,4 @@ Poor-performance rates (GPA below 2.0 on a four-point scale), a pre-registered s
 - [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
+- [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related

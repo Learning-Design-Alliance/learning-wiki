@@ -59,3 +59,5 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - Adaptive motivation predicts greater behavioral, cognitive and emotional engagement in master's thesis students — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related
+- [University students and teachers perceive anger, boredom and fear as the most salient negative emotions in learning, with students mentioning sadness and self-conscious emotions more than faculty](anger-boredom-fear-salient-negative-emotions-learning.md) — related
+- [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related

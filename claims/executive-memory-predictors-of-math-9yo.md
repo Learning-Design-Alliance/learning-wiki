@@ -53,3 +53,4 @@ Simultaneous multiple regression (M1) in 98 9-year-olds with normal reading skil
 - [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — reports the opposite
 - [The best math-predicting model is specific to mathematics; reading requires a different model](math-model-specificity-reading.md) — related
 - [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — a narrower finding that bears on this claim
+- [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related

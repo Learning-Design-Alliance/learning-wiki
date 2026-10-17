@@ -46,3 +46,4 @@ Experiment with low-achieving children in a long-division instructional program 
 - [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](attributional-feedback-credibility-effort-ability.md) — related
 - [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](peer-model-similarity-effects-mixed-evidence.md) — related
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
+- [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — reports the opposite

@@ -62,4 +62,7 @@ Ziereis and Jansen (2015) study as tabulated: 39 children with ADHD randomly ass
 
 
 ## Related Claims
--
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [A 13-week randomized exercise trial in overweight children showed a dose-response benefit on executive planning and math achievement, with no effects on other CAS scales or reading](davis-exercise-dose-response-planning-math.md) — related
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
+- [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related

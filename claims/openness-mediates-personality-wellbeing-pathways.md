@@ -53,3 +53,4 @@ Conditional process modelling (Hayes Model 4, 5,000 bootstrap resamples) on the 
 - [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related
 - [Openness protects against well-being decline only when emotional stability is average or high](openness-protects-only-with-emotional-stability.md) — related
 - [Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students](agreeableness-risk-factor-wartime-wellbeing.md)
+- [Faculty identify emotion intensity, personality, demographics and task nature as mediating factors determining whether negative emotions promote or inhibit learning](mediating-factors-emotion-impact-learning.md) — related

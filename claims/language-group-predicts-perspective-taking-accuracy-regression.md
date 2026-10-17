@@ -50,3 +50,4 @@ Multiple regression on the same sample with correct responses as the dependent v
 - [Bilingual 8-year-olds are more accurate than monolingual 8-year-olds on a computerized spatial perspective-taking task](bilingual-advantage-spatial-perspective-taking.md) — related
 - [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](working-memory-accounts-adhd-perspective-taking-relation.md) — related
 - [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related
+- [Background measures show no group differences in age, intelligence, or English vocabulary, confirming group matching](group-matching-background-measures.md) — related

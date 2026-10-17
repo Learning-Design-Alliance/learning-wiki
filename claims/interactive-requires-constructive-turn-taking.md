@@ -52,3 +52,4 @@ The article's operational definition of interactive engagement, stated as a theo
 - [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related
 - [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
+- [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related

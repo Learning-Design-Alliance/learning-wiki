@@ -43,4 +43,5 @@ Cross-sectional linear regression analysis (Model 1, adjusted for age, sex, mate
 
 
 ## Related Claims
--
+- [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md) — related
+- [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related

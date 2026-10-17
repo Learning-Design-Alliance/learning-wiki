@@ -61,4 +61,5 @@ Bivariate correlations between kindergarten DIBELS and first-grade DRA instructi
 
 
 ## Related Claims
--
+- [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related
+- [Set size, crowding and pre-cue use jointly predict literacy, with set size uniquely predicting spelling and pre-cue use uniquely predicting reading](regression-unique-literacy-predictors.md) — related

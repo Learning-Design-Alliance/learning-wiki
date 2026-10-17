@@ -43,4 +43,4 @@ Independent-samples t-test in the same 55-participant sample comparing native si
 
 
 ## Related Claims
--
+- [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related

@@ -45,3 +45,6 @@ fMRI results from the developmental reappraisal task across three age groups. Th
 ## Related Claims
 - [Social-cognitive regions show quadratic activation patterns with age, with adolescents showing lower reactivity-related but higher reappraisal-related activation](social-cognitive-regions-quadratic-adolescent-pattern.md) — related
 - [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](reappraisal-ability-linear-quadratic-age-development.md) — related
+- [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related
+- [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — related
+- [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related

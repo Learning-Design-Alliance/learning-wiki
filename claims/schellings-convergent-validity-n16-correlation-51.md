@@ -44,3 +44,4 @@ Discussion of a convergent-validity validation study comparing a task-specific q
 
 ## Related Claims
 - [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related
+- [Questionnaire measures of curiosity are difficult to use validly with young children](questionnaire-measures-poor-fit-young-children.md) — related

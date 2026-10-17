@@ -51,3 +51,4 @@ Behavioral results from an fMRI task comparing older children (10–13), adolesc
 - [Left ventrolateral prefrontal cortex activation shows linear age-related increases during reappraisal](left-vlpfc-linear-age-increase-reappraisal.md) — related
 - [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — related
 - [High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern](digital-use-threshold-pattern-ef-er.md) — related
+- [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — possibly the same claim (merge candidate)

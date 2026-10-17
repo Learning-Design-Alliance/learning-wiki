@@ -43,4 +43,4 @@ Cognitive consequences study from the author's lab comparing pretest-to-posttest
 
 
 ## Related Claims
--
+- [The spatial curriculum produced near transfer to improved spatial scanning and increased self-reported spatial habits of mind, but not to mental rotation](spatial-curriculum-near-transfer-scanning-habits.md) — related

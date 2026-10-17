@@ -13,7 +13,7 @@ generated:
 # Agent-based educational science (AES)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (1 associational, 1 design, 1 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Agent-based educational science (AES) is a research agenda in which educational theories are formalized as interacting agents and environments, enabling in silico experimentation on developmental processes. The authors frame it as "a coordinated invitation to the research community to reorient its priorities, workflows, data infrastructures, and validation practices around theory-constrained, dynamically updateable, and empirically examinable simulations of learner development." It targets developmental processes that are otherwise slow or infeasible to test empirically.

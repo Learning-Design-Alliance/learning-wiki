@@ -73,3 +73,4 @@ MRA predicting first-grade WJ Applied Problems in the same 107-child low-number-
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
 - [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](mixed-model-metacognitive-quality-unique-contribution.md) — related
 - [Sustained attention predicts number sense task performance](sustained-attention-predicts-number-sense.md) — related
+- [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related

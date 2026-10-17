@@ -1,0 +1,50 @@
+---
+type: claim
+title: Inhibition accuracy is marginally correlated with verbal WM but not visuospatial WM in kindergarten children
+description: Inhibition accuracy is marginally correlated with verbal WM but not visuospatial WM in kindergarten children
+id: inhibition-accuracy-verbal-wm-not-visuospatial
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: ger-ebru-2023
+    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
+    title: "Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
+    author: Ger Ebru, Roebers Claudia M.
+    q: 3
+    i: 1
+    kind: associational
+    rigour: 2
+---
+
+# Inhibition accuracy is marginally correlated with verbal WM but not visuospatial WM in kindergarten children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+
+## Subclaims
+`q3 i1` Accuracy in the incongruent HF block was marginally positively correlated with verbal WM (ρ = 0.16, p = .053), significant when controlling for RT, but unrelated to visuospatial WM (ρ = −0.01). [→ Ger Ebru 2023](#ger-ebru-2023)
+
+## Evidence
+
+### Ger Ebru 2023
+
+Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/
+
+`q3 · i1` · `associational · r2`
+
+Correlational analysis in the same N = 147 sample. Inhibition accuracy correlated marginally with verbal WM (Dwarf backward color recall) and not at all with visuospatial WM (Mole position span): "ρ = −0.01, p = .954".
+
+> "Accuracy in the incongruent HF was also marginally positively correlated with verbal WM (ρ = 0.16, p = .053; Figure 2b), which turned significant when controlling for RT (ρ = 0.16, p = .049), but not with visuospatial WM (ρ = −0.01, p = .954)"
+
+## Discussion
+
+
+## Related Claims
+- [Mean RT in HF blocks is negatively correlated with visuospatial WM and mixed-block RT positively with intelligence](ef-rt-visuospatial-wm-correlations.md) — related
+- [Exploratory WM-task measures correlate with EF indices: inhibition accuracy with correct colors, PES mixed with verbal span, congruency effect with correct locations](exploratory-wm-measures-ef-correlations.md) — related
+- [Inhibition accuracy in the Hearts and Flowers incongruent block is positively correlated with fluid intelligence in kindergarten children](inhibition-accuracy-correlates-fluid-intelligence-kindergarten.md) — related
+- [Post-error slowing in EF shows no significant association with intelligence or WM in kindergarten children](pes-null-intelligence-wm-kindergarten.md) — related
+- [Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children](verbal-wm-intelligence-visuospatial-null.md) — related

@@ -47,3 +47,4 @@ One-way ANOVA on expert-rated TCP scores (three experts, ICC = 0.89) comparing s
 - [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
+- [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](creative-inquiry-course-creative-self-efficacy-increase.md) — related

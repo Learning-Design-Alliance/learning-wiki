@@ -67,3 +67,4 @@ In Experiment 2's stepwise regression, the rereading-vs-once dummy variable was 
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
+- [Readers with an entertainment goal make more evaluative comments than readers with a study goal, with no difference in affective responses](entertainment-goal-more-evaluations.md) — related

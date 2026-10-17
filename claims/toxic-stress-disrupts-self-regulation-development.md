@@ -59,3 +59,4 @@ The brief states this as a finding from the research literature on stress and se
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — a narrower finding that bears on this claim
 - [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — related
+- [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related

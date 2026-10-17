@@ -47,3 +47,5 @@ Pearson correlation analysis of PET measures against MPQ Achievement scores in t
 - [ADHD adults show lower D2/D3 receptor and DAT availability in nucleus accumbens and midbrain than controls](adhd-lower-da-availability-accumbens-midbrain.md) — related
 - [Lower trait motivation scores in ADHD adults are associated with more severe inattention symptoms, but not hyperactivity](low-motivation-correlates-inattention-adhd.md) — related
 - [Positive Emotionality correlates with midbrain D2/D3 receptor availability in ADHD adults, while Negative Emotionality and Constraint do not](positive-emotionality-midbrain-d2d3-adhd.md) — related
+- [Dopamine neurons treat informational reward like primary reward, and OFC encodes information value separately from reward size](dopamine-and-ofc-encode-information-value.md) — related
+- [Intrinsic motivation during idea generation does not differ between adults with ADHD and controls](no-intrinsic-motivation-difference-idea-generation.md) — related

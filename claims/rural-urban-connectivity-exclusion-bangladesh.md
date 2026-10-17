@@ -49,3 +49,4 @@ Synthesis of the Bangladesh Bureau of Statistics ICT Access and Use Survey FY202
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
+- [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related

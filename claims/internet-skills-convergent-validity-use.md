@@ -43,5 +43,5 @@ Convergent validity analysis in Study 1 (n = 254) correlating standardized facto
 
 
 ## Related Claims
-- [The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students](internet-skills-scale-three-factor-structure-latin-american.md) — related
+- The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students — related
 - [Subscales of the adapted Internet Skills Scale show acceptable internal consistency, lowest for the Operational subscale](internet-skills-scale-reliability-omega.md) — related

@@ -43,4 +43,4 @@ Bivariate correlation analysis of vCPT hit rate and false alarm rate against voc
 
 
 ## Related Claims
--
+- [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related

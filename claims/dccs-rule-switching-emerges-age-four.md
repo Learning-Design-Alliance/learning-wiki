@@ -44,3 +44,5 @@ Narrative review of DCCS studies of preschoolers, citing Zelazo and Doebel and Z
 
 ## Related Claims
 - [Foster children who received a control intervention showed a specific post-switch (set-shifting) deficit on the card-sort task, with no group difference on the pre-switch trials](foster-control-children-post-switch-set-shifting-deficit.md) — a narrower finding that bears on this claim
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related
+- [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](perseverator-proportion-declines-preschool.md) — related

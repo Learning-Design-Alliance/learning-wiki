@@ -44,8 +44,8 @@ Structural models regressing TEMA-3 and WJ-III Applied Problems scores at each t
 
 
 ## Related Claims
-- [At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed](ec-not-distinct-from-processing-speed-at-age-3.md) — related
-- [By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor](ec-distinct-factor-by-age-5-25.md) — related
+- At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed — related
+- By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor — related
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
-- [A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language](unitary-ec-factor-preferred-preschool.md) — related
+- A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language — related
 - [Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points](language-predicts-executive-residual-variance.md) — related

@@ -51,3 +51,4 @@ Two-way ANOVA on accuracy (Operation within-participants, Group between-particip
 - [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition](dd-subtraction-specific-parietal-hyperactivation.md) — related
 - [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
 - [Direct subtraction items were solved more accurately and faster than indirect addition items](ds-items-faster-more-accurate-than-ia-items.md) — related
+- [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — related

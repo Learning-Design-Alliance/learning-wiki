@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 158 claims (69 for, 76 mixed, 13 against) · 122 studies (41 associational, 30 design, 17 review, 17 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 122 report an effect size · 153 claims rest on one study
+> **Evidence** · 159 claims (70 for, 76 mixed, 13 against) · 123 studies (41 associational, 30 design, 18 review, 17 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 123 report an effect size · 154 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Peer assessment is equivalent to teacher assessment for exact-science exams with clear marking schemes](../claims/peer-assessment-valid-exact-science-exams.md) [+W] — attached 2026-10-16 from Bouzidi et al. (2009), which proposed "Trust peer assessment only for exact-science exams marked by at least four peers with quality precautions in place"; tests this page's relationship.
 - [In JEU SERAI, questionnaire-like in-game items (diary ordering, mini game ranking, narrative questionnaires) correlated best with RIASEC questionnaire results, while other item types correlated poorly](../claims/jeu-serai-item-type-correlation-quality-ranking.md) [+W] — attached 2026-10-16 from Guardiola et al. (2015), which proposed "A profiling game's psychological model must be scientifically validated and must match the profiling intention"; tests this page's relationship.
 - [Enterprising-type items in JEU SERAI did not work correctly, attributed to panel underrepresentation and weak action-verb rationalization](../claims/jeu-serai-enterprising-items-failed.md) [~W] — attached 2026-10-16 from Guardiola et al. (2015), which proposed "Mini-game structure to prevent gameplay optimization from masking psychological preferences".
+- [Questionnaire measures of curiosity are difficult to use validly with young children](../claims/questionnaire-measures-poor-fit-young-children.md) [+W] — attached 2026-10-17 from Jirout et al. (2011), which proposed "Use behavioral rather than questionnaire measures to assess young children's curiosity"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

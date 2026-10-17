@@ -66,3 +66,4 @@ The brief asserts that community trauma, including "grief and collective hardshi
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related
+- [Participants described significant psychosocial stress related to uncorrected poor vision, with different etiologies for parents, teachers, and students](uncorrected-poor-vision-causes-stress.md) — related

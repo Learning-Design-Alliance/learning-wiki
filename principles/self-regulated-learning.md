@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (33 for, 27 mixed, 3 against) · 51 studies (19 causal, 9 quant-synthesis, 8 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 51 report an effect size · 52 claims rest on one study
+> **Evidence** · 65 claims (34 for, 28 mixed, 3 against) · 52 studies (19 causal, 9 quant-synthesis, 9 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 52 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,8 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](../claims/problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) [+W] — attached 2026-10-16 from Agran et al. (2002), which proposed "Use curricular augmentation — teaching self-directed learning strategies — to help students with disabilities succeed in the general curriculum"; tests this page's relationship.
 - [Generative learning strategy prompts with metacognitive feedback yield higher self-regulation, strategy-use quality, recall and comprehension than strategy tools alone, controlling for prior knowledge](../claims/prompts-metacognitive-feedback-beat-tools-alone-generative-learning.md) [+W] — attached 2026-10-16 from Lee (2008), which proposed "Provide cognitive and metacognitive prompts while learners study in computer-based learning environments"; tests this page's relationship.
 - [Scaffolds supporting the whole SRL process are more helpful than scaffolds supporting a single phase](../claims/whole-process-srl-scaffolding-more-effective.md) [+W] — attached 2026-10-16 from Lanqin Zheng (2016), which proposed "Design SRL scaffolds to support the whole self-regulation process using integrated, multiple, and combined domain-general and domain-specific scaffolds".
+- [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](../claims/metacognitive-selfregulation-training-beats-strategy-training.md) [+W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Use spared metacognitive monitoring as the basis for compensatory self-regulated learning in older adults"; tests this page's relationship.
+- [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](../claims/aging-spares-jol-resolution-encoding.md) [~W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Use spared metacognitive monitoring as the basis for compensatory self-regulated learning in older adults".
 
 ## Objective and learner-valued goal
 

@@ -63,3 +63,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 
 ## Related Claims
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
+- [Predictive weights of IQ, memory and study habits do not differ significantly between 3rd and 4th grade](predictor-weights-stable-across-two-grades.md) — related

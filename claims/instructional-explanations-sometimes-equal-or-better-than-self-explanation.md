@@ -108,3 +108,4 @@ and transfer"
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — related
+- [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — related

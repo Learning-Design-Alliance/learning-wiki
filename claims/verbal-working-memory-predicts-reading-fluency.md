@@ -51,3 +51,4 @@ Regression analyses in the 62-child sample tested verbal working memory measures
 - [Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD](coding-r-predicts-oral-reading-fluency.md) — related
 - [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — a broader claim this one bears on
+- [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — related

@@ -41,4 +41,4 @@ ANCOVA controlling for age and WASI score on the Expressive One Word Picture Voc
 
 
 ## Related Claims
--
+- [Non-native signers entering a signing school before age 6 had better ASL abilities than those entering later, but did not equal native signers](early-entry-non-native-better-asl.md) — related

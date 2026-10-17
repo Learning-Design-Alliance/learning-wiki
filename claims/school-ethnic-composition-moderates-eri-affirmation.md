@@ -49,3 +49,4 @@ The review reports two school-composition findings: affirmation "may increase si
 - [Age moderates the discrimination–private regard relation: discrimination at Time 2 predicts lower private regard at Time 3 among late (17–18) but not middle adolescents](age-moderates-discrimination-private-regard.md) — related
 - [Positive ethnic-racial affect is usually promotive but was linked to declining academic adjustment for Latino early adolescents in one study](eri-affirmation-academic-adjustment-context-dependent.md) — related
 - [Ethnic identity tends to follow an increasing trajectory across the middle-school years among ethnic minority youth](ethnic-identity-increasing-trajectory-grades-6-9.md) — related
+- [School ethnic diversity moderates the representation-change association: declining same-ethnic representation predicts lower belonging and GPA only in less diverse middle schools](school-ethnic-diversity-buffers-representation-decline.md) — related

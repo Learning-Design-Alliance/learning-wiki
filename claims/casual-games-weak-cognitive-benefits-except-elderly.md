@@ -43,3 +43,4 @@ The review's interpretive synthesis of its 317-article corpus concludes on cogni
 ## Related Claims
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
 - [Casual games show promise for mitigating anxiety, depression, stress, and low mood across the range of mental health issues examined](casual-games-mental-health-promise.md) — related
+- [A preliminary iPad case study confirmed the creative potential of the elderly and tablets' potential to overcome ICT adoption challenges](ipad-case-study-elderly-creative-collaboration.md) — related

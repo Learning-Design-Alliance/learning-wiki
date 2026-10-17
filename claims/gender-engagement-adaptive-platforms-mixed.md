@@ -49,3 +49,4 @@ The review reports, citing an included study, that "girls exhibited higher behav
 
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
+- [Gender findings on adolescent creativity are mixed and depend on the domain or topic of the creativity test](gender-creativity-mixed-domain-dependent.md) — related

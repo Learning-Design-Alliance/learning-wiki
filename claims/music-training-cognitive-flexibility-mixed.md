@@ -58,4 +58,4 @@ The review reports that "10 studies (three in preschoolers and seven in school-a
 
 
 ## Related Claims
--
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related

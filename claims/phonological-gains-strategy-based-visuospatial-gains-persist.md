@@ -44,3 +44,4 @@ Repeated-measures ANCOVA-style control analyses in the 177-child longitudinal sa
 - [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](central-executive-coordinates-language-learning-functions.md) — related
 - [First-to-fifth grade gains in visuospatial memory span (d = 2.4) were larger than gains in central executive capacity (d = 1.6) and phonological memory span (d = 1.1)](visuospatial-memory-gains-exceed-other-working-memory-components.md) — related
 - [Children with larger first-to-fifth grade gains in visuospatial memory had higher fifth grade mathematics achievement, controlling for first grade visuospatial memory and other predictors](visuospatial-memory-gains-predict-fifth-grade-math.md) — related
+- [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](developmental-capacity-gain-primary.md) — related

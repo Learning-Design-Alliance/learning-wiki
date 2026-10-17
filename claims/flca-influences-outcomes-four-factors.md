@@ -55,3 +55,4 @@ Findings from this qualitative case study of two Japanese EFL learners indicated
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related
+- [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](higher-initial-self-efficacy-predicts-accomplishing-it.md) — related

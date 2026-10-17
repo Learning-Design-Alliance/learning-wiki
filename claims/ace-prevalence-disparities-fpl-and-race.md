@@ -62,4 +62,4 @@ Descriptive ACE prevalence by race/ethnicity from the same NSCH sample, reported
 
 
 ## Related Claims
--
+- [The racial disparity in long-term exposure to the most disadvantaged neighborhoods is more pronounced than the disparity at any single age](racial-disparity-cumulative-neighborhood-exposure.md) — related

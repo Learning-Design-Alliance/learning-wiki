@@ -62,4 +62,5 @@ Cross-sectional evidence cited by the review contrasts sport-participating child
 
 
 ## Related Claims
--
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — a narrower finding that bears on this claim
+- [Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups](high-exercise-hours-better-cognitive-adolescents.md) — a narrower finding that bears on this claim

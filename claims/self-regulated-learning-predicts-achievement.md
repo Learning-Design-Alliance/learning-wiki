@@ -122,3 +122,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — a narrower finding that bears on this claim
 - The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
+- [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — a narrower finding that bears on this claim

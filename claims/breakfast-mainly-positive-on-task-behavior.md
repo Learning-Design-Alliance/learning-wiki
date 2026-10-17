@@ -43,4 +43,4 @@ Narrative synthesis of 11 studies using direct classroom observation measures. T
 
 
 ## Related Claims
--
+- [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related

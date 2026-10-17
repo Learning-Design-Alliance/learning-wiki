@@ -47,4 +47,4 @@ In this experimental study, 20 adolescents and 30 adults completed a negative pr
 - [Participants committed more errors on common-numerator prime items than on denominator-numerator control prime items](common-numerator-prime-higher-error-rate.md) — related
 - [The amplitude of the negative priming effect did not differ between adolescents and adults](negative-priming-amplitude-no-age-difference.md) — related
 - [The negative priming effect on probe RTs was statistically significant in both adolescents (Cohen's d = 1.07) and adults (Cohen's d = 0.73)](negative-priming-effect-size-adolescents-adults.md) — a narrower finding that bears on this claim
-- [No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs](probe-error-rates-null-speed-accuracy.md) — related
+- No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs — related

@@ -109,3 +109,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
 - [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related
 - [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — related
+- [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](struggling-adult-writers-limited-planning-revision.md) — related

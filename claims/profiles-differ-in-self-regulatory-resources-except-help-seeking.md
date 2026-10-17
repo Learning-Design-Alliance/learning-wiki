@@ -48,3 +48,4 @@ One-way ANOVAs comparing the four clusters with Tukey HSD post hoc tests. The HL
 - [Self-efficacy profiles differ in AI use for educational support (η² = .36), the highest-rated support type in the high profile](educational-support-ai-use-profile-differences.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
+- [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — related

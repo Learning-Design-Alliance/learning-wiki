@@ -70,3 +70,4 @@ Same district-cohort SEM analysis predicting GPA below a C; the printed Table 5 
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](sel-status-more-frequently-significant-predictor-off-track.md) — related
 - [Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study](sel-stability-and-predictive-value-largely-unknown.md) — related
 - [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related
+- [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related

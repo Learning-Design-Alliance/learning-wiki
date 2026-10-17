@@ -31,7 +31,7 @@ sources:
 # Chunking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 14 studies (6 causal, 4 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 15 studies (6 causal, 5 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 15 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,6 +97,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - None. The one claim this page cited before the rewrite, [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+W], is read above as part of the model.
 - [Reading passages segmented along phrase boundaries (pausal or syntactic) yields higher comprehension scores than standard prose format in elementary students](../claims/text-segmentation-improves-comprehension.md) [+W] — attached 2026-10-16 from David S. Weiss (1983), which proposed "Segment new social studies textbook text along phrase boundaries to improve children's comprehension"; tests this page's relationship.
 - [Text segmentation benefits all reading levels: no interactions with grade, reading level, or passage difficulty](../claims/segmentation-facilitative-all-readers.md) [+W] — attached 2026-10-16 from David S. Weiss (1983), which proposed "Segment new social studies textbook text along phrase boundaries to improve children's comprehension"; tests this page's relationship.
+- [Normal adults typically can keep in mind only about 3 or 4 items, a limit replicated across many methods](../claims/adult-working-memory-limit-3-4-chunks.md) [+W] — attached 2026-10-17 from Cowan Nelson (2014), which proposed "Avoid presenting more than a few items or ideas at once unless they can be rapidly integrated".
 
 ## Objective and learner-valued goal
 

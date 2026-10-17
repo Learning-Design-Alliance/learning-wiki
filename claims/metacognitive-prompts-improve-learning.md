@@ -113,3 +113,4 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](expertise-reversal-writing-journal-prompts-fading.md) — related
 - [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — related
 - [Strategy prompts strongly increase learners' use of the prompted strategies, and the effect on comprehension is mediated by strategy use](strategy-prompts-increase-strategy-use-mediated-outcomes.md) — a narrower finding that bears on this claim
+- [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](explicit-metacognition-limited-access-inaccurate-reports.md) — related

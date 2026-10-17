@@ -120,3 +120,4 @@ Two further open questions for the evidence base: (1) durability — most rubric
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
+- [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](teacher-audience-promotes-evaluation-not-construction.md) — related

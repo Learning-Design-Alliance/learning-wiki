@@ -62,4 +62,5 @@ The review reports improved academic performance "in both children with ADHD and
 
 
 ## Related Claims
--
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — possibly the same claim (merge candidate)
+- [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related

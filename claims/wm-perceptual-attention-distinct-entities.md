@@ -43,4 +43,4 @@ The review's assessment of the identity position that WM and perceptual attentio
 
 
 ## Related Claims
--
+- [Processing of affective stimuli is prioritized and interferes with target processing during the attentional blink interval in early adolescence](affective-stimuli-interfere-attentional-blink-adolescents.md) — related

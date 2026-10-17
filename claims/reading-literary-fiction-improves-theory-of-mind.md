@@ -124,3 +124,4 @@ In five experiments, adults read a short passage and then took tests of affectiv
 - [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](false-belief-training-no-language-effect.md) — related
 - [Brief intervention improves empathic discipline and cuts suspensions.](brief-intervention-empathic-discipline-cuts-suspensions.md) — empathy can be shifted by brief interventions in educational settings
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — narrative cases as a vehicle for perspective-taking and situated understanding
+- [Perspective taking increases the creativity of dyadic interactions](perspective-taking-increases-dyad-creativity.md) — related

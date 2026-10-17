@@ -43,4 +43,4 @@ Resting-state EEG in the group comparison of 30 children with ADHD and 30 TD chi
 
 
 ## Related Claims
--
+- [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](sleep-restriction-lowers-tonic-arousal-classroom.md) — related

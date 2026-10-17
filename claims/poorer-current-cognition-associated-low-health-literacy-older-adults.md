@@ -49,3 +49,5 @@ Logistic regression analyses among 988 participants (mean age = 65.3) of the Doe
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
 - [Poorer past cognitive functioning (measured 10 years earlier) is associated with low health literacy in older adults](poorer-past-cognition-associated-low-health-literacy.md) — related
 - [Cognitive decline occurred in all domains between the two measurement waves among participants with cognitive data at both time points](cognitive-decline-occurred-all-domains-10-years.md) — related
+- [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related
+- [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](literacy-associated-health-promoting-behaviors-older-adults.md) — related

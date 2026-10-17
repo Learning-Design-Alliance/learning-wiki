@@ -66,3 +66,4 @@ Stated limitation: the pooled state samples were heterogeneous by gender and eth
 - [Teacher effects may be heterogeneous across students of differing aptitudes, affecting growth modeling and teacher evaluation](teacher-effect-heterogeneity-across-aptitudes.md) — related
 - Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity — related
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
+- Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related

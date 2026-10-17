@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,591 |
-| Evidence entries | 20,907 |
-| Distinct studies | 5,058 |
-| Claims resting on one study | 17,117 (97%) |
+| Claims | 18,427 |
+| Evidence entries | 21,901 |
+| Distinct studies | 5,205 |
+| Claims resting on one study | 17,936 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,013 of 5,058 (20%) |
+| Studies reporting an effect size | 1,073 of 5,205 (21%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 559 | 212 | 332 | 1,170 |
-| quant-synthesis | 60 | 114 | 38 | 118 | 330 |
-| review | 81 | 325 | 90 | 123 | 619 |
-| associational | 44 | 686 | 291 | 252 | 1,273 |
-| qualitative | 103 | 260 | 64 | 82 | 509 |
+| causal | 67 | 582 | 218 | 333 | 1,200 |
+| quant-synthesis | 61 | 115 | 38 | 118 | 332 |
+| review | 86 | 342 | 91 | 123 | 642 |
+| associational | 52 | 746 | 303 | 256 | 1,357 |
+| qualitative | 106 | 262 | 64 | 83 | 515 |
 | design | 49 | 504 | 130 | 30 | 713 |
-| theoretical | 84 | 258 | 49 | 53 | 444 |
+| theoretical | 84 | 260 | 49 | 53 | 446 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 683 (14%) | 3,076 (61%) | 1,178 (23%) | 121 (2%) |
+| 684 (13%) | 3,123 (60%) | 1,277 (25%) | 121 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,117, 2: 392, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 17,936, 2: 409, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -47,6 +47,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 25 | 25 |
 | [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 20 | 20 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 18 | 17 |
+| [Frith Chris D. (2012). The role of metacognition in human social interactions. Philosophical Transactions of …](claims/agency-responsibility-altruistic-punishment.md) | q2 | 17 | 17 |
 | [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
 | [Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A …](claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md) | q3 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
@@ -55,14 +56,13 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' …](claims/annotating-improves-learning.md) | q2 | 12 | 8 |
+| [Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for …](claims/abused-children-anger-sensitivity.md) | q2 | 12 | 12 |
 | [Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. …](claims/cal-well-13262-students-received-services.md) | q2 | 12 | 12 |
 | [Spanish MAP Reading Fluency Technical Report. (2026). NWEA. …](claims/cross-linguistic-transfer-skill-specific.md) | q2 | 12 | 10 |
 | [Merging Cognitive Science and Curriculum to Strengthen Middle School Math. (2014). WestEd R&D Alert, Vol. 15, …](claims/decorative-images-distract-from-math-problems.md) | q2 | 11 | 11 |
 | [Clark Douglas B., Tanner-Smith Emily E., Killingsworth Stephen S. (2016). Digital Games, Design, and …](claims/camera-perspective-moderator-games.md) | q3 | 11 | 11 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
-| [Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic …](claims/district-level-variance-kindergarten-entry-scores.md) | q2 | 11 | 11 |
-| [Feng, M., Li, L., Brezack, N., & Schneider, M. (2025). Scaling teachers' professional development for …](claims/assistments-classwork-shift-rural-equity.md) | q2 | 11 | 11 |
-| [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
+| [Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM. (2018). Effectiveness of Universal …](claims/exercise-based-interventions-improved-sr-4-of-6.md) | q3 | 11 | 11 |
 
 ## Citation load against evidence base
 
@@ -136,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,872 | 2,621 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,940 | 2,621 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 33 | 0 |
-| [designs](designs/index.md) | 797 | 467 | 1 | 0 |
-| [products](products/index.md) | 1,665 | 1,120 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 340 | 339 | 1 | 0 |
+| [designs](designs/index.md) | 819 | 481 | 1 | 0 |
+| [products](products/index.md) | 1,691 | 1,131 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 346 | 343 | 1 | 0 |
 
 ## Toward pooled estimates
 

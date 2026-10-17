@@ -54,3 +54,4 @@ The article reports, citing Fernandes et al. (2026) and Klingbeil et al. (2024),
 - [AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust](ai-literacy-recalibrates-rather-than-increases-trust.md) — related
 - [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](boundary-conditions-verification-reliance-genai.md) — related
 - [The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%](rhythm-error-detection-recall-91-2.md) — related
+- [Post-error behavioural adjustments can occur automatically, dissociated from explicit error detection](implicit-post-error-adjustment-typists.md) — related

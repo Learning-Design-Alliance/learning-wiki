@@ -42,3 +42,5 @@ Paired-sample t-tests on the 225 children's Dot Task accuracy showed a significa
 
 ## Related Claims
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
+- [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](accuracy-decreases-mixed-block-trials.md) — related
+- [Relational integration is less accurate and slower than single-relation matching regardless of audience or age](relational-harder-than-control-main-effect.md) — related

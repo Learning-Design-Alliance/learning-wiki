@@ -49,3 +49,4 @@ First SEM (direct-effects model) in the same 164-child Head Start sample, with b
 - [Gains in emotion knowledge during preschool mediate the association between preschool relationships and kindergarten achievement](emotion-knowledge-gains-mediate-relationships-achievement.md) — a broader claim this one bears on
 - [Preschool emotion knowledge predicts kindergarten academic achievement one year later](preschool-emotion-knowledge-predicts-kindergarten-achievement.md) — related
 - [Positive preschool interpersonal relationships predict gains in emotion knowledge over the prekindergarten year](preschool-relationships-predict-emotion-knowledge-gains.md) — related
+- [Growth in both vocabulary and social communication skills predicts kindergarten math achievement](vocabulary-and-communication-growth-predict-kindergarten-math.md) — related

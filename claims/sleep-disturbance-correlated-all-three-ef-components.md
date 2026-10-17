@@ -49,3 +49,4 @@ Zero-order correlation analysis in a cross-sectional study of 204 typically deve
 - [Path analysis shows sleep disturbance relates to cognitive flexibility indirectly via inhibitory control and working memory, with a non-significant direct path](path-analysis-indirect-sleep-flexibility-via-ic-wm.md) — related
 - [Sleep education at school improves cognitive functioning in children](sleep-education-improves-cognitive-functioning.md) — related
 - [Sleep's association with inhibitory control and working memory remains significant after controlling for the other EF components, but cognitive flexibility's does not](sleep-ic-wm-direct-flexibility-nonsignificant-partial.md) — related
+- [Inhibitory control showed insignificant correlations with reading and early mathematics except kindergarten word problems](inhibitory-control-null-correlations-reading-math.md) — related

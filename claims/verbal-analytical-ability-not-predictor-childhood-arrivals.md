@@ -48,3 +48,4 @@ The study of 57 adult Hungarian-speaking immigrants tested whether verbal analyt
 ## Related Claims
 - [Very few adult immigrants score within the range of child arrivals on a grammaticality judgment test, and those who do have high verbal analytical ability](few-adult-immigrants-match-child-range-gjt-verbal-analytical-ability.md) — related
 - [The study replicates Johnson and Newport (1989) and explains the apparent exceptions in that study](dekeyser-replicates-johnson-newport-1989-explains-exceptions.md) — related
+- Prior small-sample critical-period findings were too noisy to provide precise estimates; thousands of subjects are required — related

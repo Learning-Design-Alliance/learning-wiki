@@ -43,4 +43,4 @@ Cross-sectional survey evidence reported by the review (attributed to Lien, 2007
 
 
 ## Related Claims
--
+- [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — a narrower finding that bears on this claim

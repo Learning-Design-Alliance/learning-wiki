@@ -17,7 +17,7 @@ sources:
 # Design cognitive flexibility tasks controlling working memory and inhibition demands and matching accuracy across age cohorts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 review, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 2 studies (2 review), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The review recommends that researchers "design tasks to isolate activations associated specifically with cognitive flexibility, while separating or controlling for the activity from working memory and inhibitory control processes". It further advises matching accuracy levels between child and adult cohorts to control task difficulty, designing tasks that produce a switch cost, and conducting psychometric analyses before novel fMRI tasks.
@@ -42,7 +42,6 @@ The review recommends that researchers "design tasks to isolate activations asso
 
 ## Claims
 
-- [Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility](../claims/two-factor-ef-model-kindergarten.md) [+W]
 - [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](../claims/protracted-cognitive-flexibility-development.md) [+W]
 - [Children use qualitatively different strategies from adults for flexible cognition, shifting control strategies around 8 to 9 years of age](../claims/children-qualitatively-different-flexibility-strategies.md) [~W]
 - [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](../claims/task-switching-training-transfer-ef.md) [~W]

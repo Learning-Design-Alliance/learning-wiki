@@ -51,3 +51,5 @@ Logistic regressions of each off-track indicator on background covariates withou
 - [No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics](sel-no-prediction-chronic-absenteeism.md) — related
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — related
 - [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related
+- [Girls report higher school engagement at time 1 and higher cumulative GPA than boys](girls-higher-engagement-and-gpa-than-boys.md) — related
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related

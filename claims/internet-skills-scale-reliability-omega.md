@@ -44,4 +44,4 @@ Reliability analysis within the Study 1 factor analytic validation (n = 254). Th
 
 ## Related Claims
 - [Operational skills correlate moderately with Internet habitual use, while navigation and evaluation skills correlate only with informational activities](internet-skills-convergent-validity-use.md) — related
-- [The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students](internet-skills-scale-three-factor-structure-latin-american.md) — related
+- The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students — related

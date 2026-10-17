@@ -53,3 +53,5 @@ This is a single-classroom, four-child qualitative study using video-elicited in
 - [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — related
 - Congruent-shape definitions are nearly identical across CPM's 8th and 9th grade materials, with the 9th-grade version adding only the congruence symbol — related
 - [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](slower-children-rate-own-performance-worse-grades-3-4.md) — related
+- [Children demonstrate knowledge of others' cognitive processes by assessing peers' comprehension and identifying others' cognitive inadequacies during group work](knowledge-of-others-expressions-peer-group-work.md) — related
+- [Peer interactions supported both children's metacognitive tasks and strategies, with children organizing performance using others' directions and evaluating others' performance](peer-interactions-support-metacognitive-tasks-strategies.md) — related

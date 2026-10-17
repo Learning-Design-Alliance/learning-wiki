@@ -41,4 +41,4 @@ Meta-analysis of 23 studies of acute exercise effects on inhibitory control meas
 
 
 ## Related Claims
--
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related

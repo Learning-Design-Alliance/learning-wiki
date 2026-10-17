@@ -43,4 +43,4 @@ Bivariate correlations in the same retrospective 47-child clinical dataset show 
 
 
 ## Related Claims
--
+- [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related

@@ -68,3 +68,4 @@ Pearson correlation analysis of children's measures (Table 2) in the same sample
 - [Preliminary evidence of intergenerational transmission of math anxiety: mothers' math anxiety relates to children's lower intrinsic math motivation and stronger attentional bias toward math stimuli](intergenerational-transmission-math-anxiety.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — a broader claim this one bears on
 - [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — related
+- [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — related

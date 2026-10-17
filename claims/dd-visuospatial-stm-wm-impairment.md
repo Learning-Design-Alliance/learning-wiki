@@ -44,3 +44,4 @@ Case-control comparison of 12 DD and 12 matched control children (selected from 
 
 ## Related Claims
 - [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — related
+- [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related

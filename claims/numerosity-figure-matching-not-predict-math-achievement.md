@@ -49,3 +49,4 @@ Hierarchical multiple regression predicting curriculum-based mathematical achiev
 - [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — related
 - [Figure-matching ability accounts for the association between numerosity processing and computational fluency in third- to fifth-grade children](visual-perception-accounts-numerosity-computational-fluency-link.md) — related
 - [Figure-matching ability correlates more strongly with numerosity processing and computational fluency than other cognitive factors](figure-matching-strongest-correlate-numerosity-fluency.md) — related
+- [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related

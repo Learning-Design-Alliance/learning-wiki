@@ -63,3 +63,4 @@ Narrative review statement in the brief's universal supports section. It notes t
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - Drawing promising practices from program evaluations and extant character-development studies is challenging — a broader claim this one bears on
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related
+- [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related

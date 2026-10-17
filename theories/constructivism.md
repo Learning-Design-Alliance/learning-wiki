@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 18 studies (4 causal, 4 quant-synthesis, 3 associational, 2 review, 2 design, 2 theoretical, 1 qualitative), `q2`–`q4` · 4 of 18 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 19 studies (5 causal, 4 quant-synthesis, 3 associational, 2 review, 2 design, 2 theoretical, 1 qualitative), `q2`–`q4` · 4 of 19 report an effect size · 6 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -45,6 +45,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](../claims/constructivism-dominates-iranian-pre-university-elt-textbooks.md) [+W]
 - [Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels](../claims/no-smooth-shift-behaviourism-to-constructivism-iranian-elt.md) [~W]
 - [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](../claims/constructivist-valued-but-not-applicable-person-level.md) [~W]
+- [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](../claims/teacher-audience-promotes-evaluation-not-construction.md) [+W] — attached 2026-10-17 from Kingir (2013), which proposed "Knowledge-transforming model of writing as a mode of learning in science".
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

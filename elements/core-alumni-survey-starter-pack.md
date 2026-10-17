@@ -16,7 +16,7 @@ sources:
 # Core Alumni Survey Starter Pack: three item clusters balancing quantitative baseline metrics with qualitative depth
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (3 design), `q1` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The starter pack is a foundational set of survey questions refined and iterated by a dozen school systems across the multi-year pilots. Its questions balance quantitative baseline metrics useful for district reporting with qualitative depth useful for institutional change. Item Cluster A covers current postsecondary status and pathway persistence; Cluster B compares sense of belonging and support then and now; Cluster C gathers perceived helpfulness of high school preparation, a preparation competency matrix, and open-response items on biggest advantage and opportunity for improvement.

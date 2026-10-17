@@ -46,7 +46,7 @@ Latent variable SEM: four divergent thinking tasks rated for creativity regresse
 - [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
 
 ## Related Claims
-- [EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable](ef-pca-three-factors-children.md) — related
+- EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable — related
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — reports the opposite
 - [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md) — related

@@ -63,3 +63,4 @@ The review identifies a challenge from dual-task studies showing the cost of mem
 
 ## Related Claims
 - [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related
+- [Cognitive load in concurrent storage-processing tasks has a negative linear effect on memory span](cognitive-load-negative-linear-span-effect.md) — a narrower finding that bears on this claim

@@ -45,3 +45,4 @@ Figure 1-based results from the PSID-CDS cubic models show task-specific onset: 
 ## Related Claims
 - [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md) — related
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related
+- [Explicit mentalizing (false-belief understanding) emerges robustly between ages 4 and 6](explicit-mentalizing-emerges-ages-4-6.md) — related

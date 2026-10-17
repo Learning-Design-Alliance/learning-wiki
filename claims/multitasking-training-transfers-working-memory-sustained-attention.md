@@ -44,3 +44,4 @@ Experiment 2 transfer testing on untrained cognitive control tasks (delayed-reco
 
 ## Related Claims
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — reports the opposite
+- [Explicit transfer instructions, in which trainees discuss how trained strategies could apply to a new task, produced reliable transfer of imagery and sentence-generation training to unpracticed text learning in older adults](explicit-transfer-instructions-enable-strategy-transfer.md) — related

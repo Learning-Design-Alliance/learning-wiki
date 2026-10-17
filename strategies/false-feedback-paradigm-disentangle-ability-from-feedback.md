@@ -17,7 +17,7 @@ sources:
 # Use false feedback paradigms with random assignment to disentangle feedback effects from ability effects in self-regulation research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Because feedback is typically based on actual performance and performance is related to ability, feedback type and ability are often confounded. The article recommends the false feedback paradigm as a methodological tool: "The false feedback paradigm used in the present study allowed us to more systematically evaluate the role of feedback in self-regulation while holding constant (within age group) pre-existing beliefs and cognitive ability." Practitioners and researchers can implement this by randomly assigning learners to receive fabricated high- or low-performance feedback, then measuring self-regulatory responses such as beliefs and attention.
@@ -47,7 +47,6 @@ Because feedback is typically based on actual performance and performance is rel
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](../claims/high-performance-feedback-increases-performance-expectations.md) [+W]
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](../claims/high-performance-feedback-increases-self-efficacy-across-age-groups.md) [+W]
 - [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](../claims/problem-solving-accuracy-age-declines-no-feedback-effect.md) [~W]
-- [Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group](../claims/random-assignment-produced-comparable-feedback-groups.md) [+W]
 
 ## Related Strategies
 - 

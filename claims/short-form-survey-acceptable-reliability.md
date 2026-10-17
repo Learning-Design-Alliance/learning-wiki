@@ -65,3 +65,4 @@ The same short-form evaluation reports test-retest reliability of 0.75 and item 
 - [The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test](full-survey-internal-consistency-alpha-094.md) — related
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
+- [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related

@@ -46,3 +46,4 @@ Behavioral analysis of the acquisition condition found "stress-exposed adolescen
 - [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](early-stress-impaired-reversal-flexibility.md) — related
 - [Stress-exposed adolescents learn reward-punishment associations more slowly than controls during acquisition](early-stress-slower-acquisition-learning.md) — related
 - [Stress-exposed adolescents show abnormal neural activation in learning- and attention-related regions](early-stress-abnormal-learning-neural-activation.md) — related
+- [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related

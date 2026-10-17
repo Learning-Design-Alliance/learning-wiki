@@ -138,3 +138,5 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
 - [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — a narrower finding that bears on this claim
+- [Parents' beliefs about failure and reactions to children's failures, not their own mindsets, predict children's mindsets](parent-failure-reactions-predict-child-mindsets.md) — related
+- [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — possibly the same claim (merge candidate)

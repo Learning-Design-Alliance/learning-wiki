@@ -54,3 +54,4 @@ One experiment is recorded (Brewer & Klein 2003); the outcome is self-reported a
 - [All three structured interdependence conditions produce higher agreement that team members' sense of obligation to contribute aided learning, compared with no structured interdependence](structured-interdependence-contribution-obligation-attitude.md) — related
 - [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](participant-feedback-diverse-perspectives.md) — related
 - [Methods derived from all four theoretical perspectives contribute to achievement gain under certain conditions](all-four-perspectives-contribute-under-conditions.md) — related
+- [Competition raises idea originality for all participants but does not affect fluency or flexibility](competition-main-effect-originality-not-fluency.md) — related

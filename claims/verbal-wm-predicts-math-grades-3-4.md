@@ -51,3 +51,5 @@ Path analysis (Model 1a) in 146 children; LS also negatively associated with DAY
 - [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
 - [Numerical working memory predicts decimal number line estimation accuracy](counting-recall-predicts-decimal-number-line.md) — related
 - [The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3](wm-flexibility-predicts-math-composite-both-grades.md) — related
+- [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related
+- [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related

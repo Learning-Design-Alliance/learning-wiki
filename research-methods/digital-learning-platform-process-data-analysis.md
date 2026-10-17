@@ -13,7 +13,7 @@ generated:
 # Digital learning platform process-data analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 4 studies (3 associational, 1 review), `q2` · 1 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 5 studies (3 associational, 1 review, 1 design), `q2` · 1 of 5 report an effect size · 9 claims rest on one study
 
 ## Description
 The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress. Such data can reveal attrition or compliance indirectly and "may serve as a measure of important intermediate outcomes, or mediators, that are often very difficult to collect in conventional research settings." Researchers unfamiliar with log data should work with platform teams and review codebooks and data dictionaries.

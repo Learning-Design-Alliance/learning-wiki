@@ -52,3 +52,4 @@ Hierarchical regression (Table 5) on CI-HS measures: step 1 explained 34% (sign 
 - [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](duration-of-deafness-piq-sign-enhancement-predict-literacy.md) — related
 - [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](sign-enhancement-direction-reversal.md) — related
 - [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related
+- [Age at implantation accounts for significant variance in word-learning performance when pre-CI hearing is in the typical range for CI candidates](age-at-implantation-predicts-word-learning.md) — related

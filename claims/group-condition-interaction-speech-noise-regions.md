@@ -52,3 +52,4 @@ Voxel-wise mixed effects ANOVA (n = 24) identified regions with significant grou
 - [Activation in frontal and parietal cognitive regions is positively correlated with speech-in-noise behavioral performance in older listeners, supporting a compensatory role](frontal-parietal-activation-compensates-speech-noise-older.md) — related
 - [Middle temporal gyrus activation in older listeners correlates with performance only in non-debilitating listening conditions, not in severe noise](mtg-activation-benefits-limited-moderate-noise-older.md) — related
 - [Older adults show reduced accuracy in severe noise (SNR -5) but perform comparably to younger adults in quiet and moderate noise (SNR 20)](older-adults-reduced-accuracy-severe-noise-only.md) — related
+- [A peer audience differentially modulates fronto-parietal activation by age: increased in adolescents, decreased in adults](peer-audience-age-differential-frontoparietal-activation.md) — related

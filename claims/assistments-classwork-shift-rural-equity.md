@@ -70,3 +70,4 @@ Teacher instructional log data corroborated by system use data: teachers made AS
 - [Over 96 percent of surveyed low-performing schools adopted three SIG-promoted improvement practices: data-informed differentiated instruction, expanded technology access or computer-assisted instruction, and collaborative or leader-facilitated ongoing professional development](sig-schools-adopt-three-improvement-practices.md) — related
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas — related
+- [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related

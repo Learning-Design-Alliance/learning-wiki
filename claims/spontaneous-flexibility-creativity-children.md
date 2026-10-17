@@ -43,4 +43,4 @@ Study 2 with 177 children aged 8 to 13 used hierarchical regressions and SEM mod
 
 
 ## Related Claims
--
+- [Schooling disciplines and constrains children's spontaneity in idea generation with mixed results](schooling-disciplines-childrens-spontaneity-mixed-results.md) — related

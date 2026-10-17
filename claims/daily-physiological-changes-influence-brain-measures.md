@@ -49,3 +49,4 @@ The protocol asserts, citing prior studies, that "measures of brain structure an
 - [Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume](time-of-day-and-scan-interval-predict-within-person-brain-volume-variance.md) — a narrower finding that bears on this claim
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — related
 - [Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility](menstrual-phase-no-moderation-flexibility.md) — related
+- [Physical exercise up-regulates neurotrophic factors and enhances neural structure and function in animals and human adults](exercise-upregulates-neurotrophic-factors-neural-growth.md) — related

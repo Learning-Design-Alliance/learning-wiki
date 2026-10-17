@@ -43,4 +43,4 @@ Narrative review of clinical literature. Cognitive inflexibility in ASD "is asso
 
 
 ## Related Claims
-- [The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory](asd-neuroimaging-flexibility-inconsistent.md) — related
+- The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory — related

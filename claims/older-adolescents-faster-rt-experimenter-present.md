@@ -63,3 +63,4 @@ Follow-up repeated-measures ANOVA within the older adolescent group (n = 20). Th
 
 ## Related Claims
 - [The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children](affect-preference-link-dissociates-with-age.md) — related
+- [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md) — related

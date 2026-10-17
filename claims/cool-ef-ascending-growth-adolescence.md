@@ -43,3 +43,6 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 ## Related Claims
 - [Backward digit span performance does not emerge until about age 5, whereas forward span is measurable from age 3](backward-span-onset-age-5.md) — related
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related
+- [World knowledge-based audience design improves between ages 11–12 and 15–16 during online referential production](audience-design-improves-ages-11-12-to-15-16.md) — related
+- [Executive function increases with age between 11–12 and 15–16, but knowledge attribution assumptions do not](ef-increases-with-age-kas-does-not.md) — related
+- [Working memory capacity is significantly smaller in lower-SES than higher-SES adolescents](lower-ses-smaller-working-memory-capacity.md) — related

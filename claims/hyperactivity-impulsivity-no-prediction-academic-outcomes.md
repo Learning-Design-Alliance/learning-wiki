@@ -47,3 +47,4 @@ In the 107-child low-number-sense sample, SWAN Hyperactivity/Impulsivity subscal
 - [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related
 - [Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense](ef-not-predictor-first-grade-reading.md) — related
 - [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](mediators-not-significantly-different.md) — related
+- [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related

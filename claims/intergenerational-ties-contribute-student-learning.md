@@ -62,3 +62,4 @@ Definitional/interpretive statement accompanying the Intergenerational Ties scal
 ## Related Claims
 
 - Program participation benefited participants' family roles and intergenerational communication, including parenting, advising relatives on health, and reduced reliance on children as translators — related
+- [Neighborhood effects on graduation appear to operate in part through neighborhood effects on parents (time-varying family characteristics)](neighborhood-effects-mediated-through-parents.md) — related

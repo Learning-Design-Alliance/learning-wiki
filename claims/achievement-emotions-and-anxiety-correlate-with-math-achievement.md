@@ -51,3 +51,4 @@ Correlations only, and the authors expect the relationship to run both ways: ach
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
 - [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — a narrower finding that bears on this claim
+- [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — related

@@ -66,3 +66,4 @@ Random-effects meta-analysis of 29 studies reporting executive function outcomes
 - [CCT improves processing speed with a moderate effect, the largest domain effect, though with large heterogeneity](cct-processing-speed-moderate-effect.md) — related
 - [Working-memory-only training shows no positive evidence of efficacy in healthy older adults](wm-only-training-ineffective-older-adults.md) — related
 - [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](central-executive-coordinates-language-learning-functions.md) — related
+- [Processing speed showed no significant group × time interaction, with only a marginal intervention advantage at 4 weeks](processing-speed-no-significant-social-media-effect.md) — related

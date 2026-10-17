@@ -52,3 +52,4 @@ The review attributes this finding to Barron (2003) as the rationale for assessi
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies — related
 - Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related
+- [Group diversity problems stem from coordination failures rather than categorisation differences](diversity-coordination-failures-not-categorisation.md) — related

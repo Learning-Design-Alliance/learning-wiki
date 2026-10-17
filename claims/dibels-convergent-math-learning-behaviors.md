@@ -62,4 +62,4 @@ Bivariate correlations with the Learning Behaviors Scale showed "Significant ass
 
 
 ## Related Claims
--
+- [Inhibitory control showed insignificant correlations with reading and early mathematics except kindergarten word problems](inhibitory-control-null-correlations-reading-math.md) — related

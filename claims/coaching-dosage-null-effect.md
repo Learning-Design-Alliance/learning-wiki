@@ -58,3 +58,4 @@ Exploratory meta-analytic regressions across the 60 studies; the authors call th
 
 - [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 -
+- [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related

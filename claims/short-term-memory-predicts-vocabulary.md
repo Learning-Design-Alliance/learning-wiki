@@ -43,4 +43,4 @@ Hierarchical regression Model 3 on vocabulary (N = 174): KABC short-term memory 
 
 
 ## Related Claims
--
+- [Phonological short-term memory capacity selectively predicts new vocabulary learning](phonological-memory-predicts-vocabulary-learning.md) — related

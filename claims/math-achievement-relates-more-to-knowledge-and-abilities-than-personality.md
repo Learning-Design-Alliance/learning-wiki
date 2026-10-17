@@ -66,3 +66,7 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Creativity correlates strongly with mathematics achievement in school (r = .47), more so in elementary than in high school](creativity-correlates-strongly-with-math-achievement.md)
 - [Emotional intelligence correlates only weakly with mathematics achievement (r = .16), less than with achievement in the humanities](emotional-intelligence-correlates-weakly-with-math-achievement.md)
 - [State-level percentage of uncertified teachers correlates negatively with NAEP state assessment performance (r from –.40 to –.63)](uncertified-rate-negative-naep-correlation.md) — related
+- [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
+- [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — a narrower finding that bears on this claim
+- [Math anxiety's negative impact on math achievement is limited to more difficult math, emerging around late elementary school content](math-anxiety-impact-limited-to-difficult-math.md) — related
+- [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related

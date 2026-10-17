@@ -48,3 +48,4 @@ Chi-square comparison of comprehension question accuracy across 56 children; mon
 
 ## Related Claims
 - [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
+- [Faces-task accuracy was near ceiling with no language-group or gender differences, and gender was dropped from RT analyses](faces-task-accuracy-ceiling-no-group-differences.md) — related

@@ -54,3 +54,4 @@ A lesson-learned synthesized from classroom trials, instructor and student feedb
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — a broader claim this one bears on
 - [The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists](synthesizer-expected-reduce-overload-support-affect.md) — related
 - [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — related
+- [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](educational-factors-support-adolescent-creativity.md) — related

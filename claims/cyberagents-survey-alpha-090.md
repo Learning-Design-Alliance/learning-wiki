@@ -59,3 +59,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related

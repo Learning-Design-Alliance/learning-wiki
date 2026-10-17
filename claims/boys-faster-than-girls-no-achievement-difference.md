@@ -76,3 +76,4 @@ The authors' comparison of achievement across gender groups in the same test fou
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
 - Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction — related
 - [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related
+- [Gender findings on adolescent creativity are mixed and depend on the domain or topic of the creativity test](gender-creativity-mixed-domain-dependent.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ Al-Bogami and Alahmadi (2025) measured English oral reading fluency by speed, ac
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — related
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
+- [Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum](timed-reading-adults-sacrifice-accuracy.md) — related

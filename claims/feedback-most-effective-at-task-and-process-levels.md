@@ -167,3 +167,4 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Districts report more success with future-ready skill assessment focused on student growth than on proficiency](growth-over-proficiency-pog-assessment.md) — related
 - [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — feedback adds information; excess or mistimed feedback can overload working memory.
+- [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related

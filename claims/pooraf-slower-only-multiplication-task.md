@@ -47,7 +47,7 @@ A 2 (group) by 6 (task) mixed ANCOVA on RTs for correct trials, with LUM scores 
 - [Long-Term Memory](../learner-variables/long-term-memory.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [A factor analysis separates the multiplication selection task from the other selection tasks on a second component](factor-analysis-multiplication-second-component.md) — related
+- A factor analysis separates the multiplication selection task from the other selection tasks on a second component — related
 - [PoorAF and control children do not differ in error rates on the multiplication task, indicating the problems were not too difficult](pooraf-error-rates-comparable-multiplication.md) — related
 - [PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)](pooraf-no-deficit-semantic-verbal-tasks.md) — related
 - [PoorAF and control children do not differ in perceptual processing speed](pooraf-no-perceptual-speed-deficit.md) — related

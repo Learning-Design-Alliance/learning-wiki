@@ -75,4 +75,4 @@ Meta-analysis of chronic exercise studies on cognitive flexibility, showing "a s
 
 
 ## Related Claims
--
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — a narrower finding that bears on this claim

@@ -69,3 +69,4 @@ Experiment 1 correlational analyses of reselection with memory beliefs, working 
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [Older adults set lower self-determined learning goals than younger adults](older-adults-lower-learning-goals.md) — related
 - [Younger and older adults select study items in an easy-to-difficult order, consistent with the region of proximal learning model](rpl-easy-to-difficult-selection-both-ages.md) — related
+- [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — related

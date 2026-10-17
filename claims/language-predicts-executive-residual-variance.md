@@ -46,6 +46,6 @@ In the age-3 multidimensional model, executive task residuals were regressed on 
 - [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed](ec-not-distinct-from-processing-speed-at-age-3.md) — related
+- At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed — related
 - [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related
 - [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related

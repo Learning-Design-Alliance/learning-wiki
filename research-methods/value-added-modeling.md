@@ -46,7 +46,7 @@ sources:
 # Value-added modeling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 38 claims (28 for, 9 mixed, 1 against) · 22 studies (18 associational, 2 review, 2 design), `q1`–`q3` · 0 of 22 report an effect size · 37 claims rest on one study
+> **Evidence** · 39 claims (29 for, 9 mixed, 1 against) · 23 studies (19 associational, 2 review, 2 design), `q1`–`q3` · 0 of 23 report an effect size · 38 claims rest on one study
 
 ## Description
 Value-added measures quantify a teacher's contribution to students' learning gains. The brief defines the approach: "'Value added' is a teacher's contribution to students' learning gains." It reports that newly emerging research uses these measures to shed light on disadvantaged students' access to effective teaching, and that variation in how researchers present such evidence complicates practitioner use.

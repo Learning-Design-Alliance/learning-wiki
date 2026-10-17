@@ -45,3 +45,5 @@ Group-wise whole-brain regression of NRE on math achievement reported in the fMR
 ## Related Claims
 - [A reliable positive relationship between parietal NRE and math achievement appears only in children, not adolescents or adults](nre-math-achievement-link-only-in-children.md) — related
 - [Neural ratio sensitivity in parietal cortex, including bilateral IPS, increases with development from childhood into adulthood](parietal-nre-increases-with-development.md) — related
+- [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
+- [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related

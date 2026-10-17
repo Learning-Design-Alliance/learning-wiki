@@ -76,3 +76,4 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [The study replicates Johnson and Newport (1989) and explains the apparent exceptions in that study](dekeyser-replicates-johnson-newport-1989-explains-exceptions.md) — related
+- [Early language skills predict later adolescent externalizing behavior problems](early-language-predicts-externalizing.md) — related

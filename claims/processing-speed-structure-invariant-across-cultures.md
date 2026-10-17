@@ -44,5 +44,5 @@ Multi-group SEM invariance testing (configural, weak, strong, partial metric) ac
 
 ## Related Claims
 - [Processing speed measured with response times is better represented as four distinct cognitive processes (planning, attention, simultaneous, successive) than as a unitary speed factor](processing-speed-distinct-abilities-not-unitary.md) — related
-- [The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups](unitary-speed-model-poorer-fit-canadian-greek.md) — related
+- The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups — related
 - [Successive processing measures show the fewest significant correlations with other speeded measures, particularly in Chinese and Greek groups](successive-processing-measures-least-correlated.md) — related

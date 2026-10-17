@@ -54,3 +54,4 @@ The brief's description of its research on differential growth during school yea
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — a narrower finding that bears on this claim
 - [Test score disparities between ever-SPED and never-SPED students grew from under 0.4 standard deviations in kindergarten to 0.9 standard deviations in 4th grade](sped-score-gap-grows-04-to-09-sd.md) — related
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related
+- [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related

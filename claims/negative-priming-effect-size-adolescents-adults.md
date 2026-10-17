@@ -45,4 +45,4 @@ Paired t-tests on probe RTs in the negative priming paradigm showed significant 
 ## Related Claims
 - [The amplitude of the negative priming effect did not differ between adolescents and adults](negative-priming-amplitude-no-age-difference.md) — related
 - [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — a broader claim this one bears on
-- [No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs](probe-error-rates-null-speed-accuracy.md) — related
+- No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs — related

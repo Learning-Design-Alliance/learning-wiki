@@ -49,3 +49,4 @@ Editorial analysis (critical essay, no empirical dataset reported) countering th
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [AI is not an inherently autonomous, intelligent, or objective entity but a product of human ingenuity dependent on exploitative labour and data extraction](ai-not-autonomous-objective-human-product.md) — a narrower finding that bears on this claim
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
+- [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](diy-digital-learning-hits-wall.md) — related

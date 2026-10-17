@@ -61,3 +61,5 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas — a narrower finding that bears on this claim
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related
+- [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related
+- [Digital access among adults on the margins is not a one-time event but an ongoing, contingent accomplishment requiring an assemblage of resources](digital-access-ongoing-accomplishment.md) — related
