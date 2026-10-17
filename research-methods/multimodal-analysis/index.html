@@ -978,7 +978,7 @@
 
 
               
-              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method"><span data-pagefind-filter="tier:curated"></span>
+              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method"><span data-pagefind-filter="tier:curated"></span><span data-pagefind-meta="aliases:multimodal classroom video analysis for teacherstudent interaction detection"></span>
                 
                   
 
@@ -997,6 +997,7 @@
 <li><strong>Multimodal analysis: studying learning with multiple integrated data streams</strong>: Multimodal analysis is one of three methodological advances the report highlights, defined as "Integrating multiple streams of data, such as audio, video, eye gaze, sensors, and clickstream data." The introduction elaborates it as "the study of learning with data streams that include physical movement, sound, and logs from interactions with technology (as well as more traditional observations)." The report presents the Connected Worlds exhibit at the New York Hall of Science, which enables embodied learning in an immersive sensor-rich space, as a research site where scientists are pushing the frontiers of multimodal analytics. (Roschelle et al. (2017))</li>
 <li><strong>AI-based speech processing pipeline for multi-teacher classroom audio</strong>: An automated pipeline for analysing team-teaching talk: multi-channel headset recordings are processed with a weighted fusion of spectral masking and ECAPA-TDNN speaker-embedding-based masking to reduce cross-channel interference, transcribed with WhisperX, and used to extract 88 acoustic features with openSMILE from fixed 1-second segments. Quality was verified via word error rate: "The WER decreased from158%before cross-talk mitigation to21%after processing, which is considered acceptable". Standardised features were reduced by Varimax-rotated PCA into five rotated components explaining 58% of cumulative variance. (Yuchen Liu et al. (2026))</li>
 <li><strong>EEG-fNIRS bimodal complementarity framework for attention quantification</strong>: The article's attention modeling framework rests on the complementary strengths of EEG and fNIRS. EEG offers millisecond-level temporal resolution sensitive to rapid stimulus changes but is susceptible to motion artifacts, while fNIRS suffers hemodynamic latency yet provides region-level spatial specificity and greater tolerance to movement. As the authors state, "EEG primarily contributes high-temporal-resolution neural dynamics, whereas fNIRS provides complementary region-level spatial information over the targeted cortical regions." These complementary properties motivate the bimodal input, with fused features feeding a DDQN that outputs high, medium, or low attention levels. (Shixian Zhou et al. (2026))</li>
+<li><strong>Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video</strong>: A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligned to detected windows. A pose-based heuristic flags teacher–group interactions using vertical dominance and proximity with 10-second smoothing and a 10-second minimum episode length. An on-premises Mistral large language model classified transcript snippets for question-asking, confusion, need for help, and math talk. (Hur et al. (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
@@ -1010,6 +1011,7 @@
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Roschelle, J., Martin, W., Ahn, J. &amp; Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad</li>
+<li>Hur, P., Palaguachi, C., Machaka, N., Krist, C., Dyer, E. B., D'Angelo, C., &amp; Bosch, N. (2026). A Framework for Considering Exploration, Interpretation, and Confirmation During Data Analysis: Computationally Assisted Analysis of Teacher–Group Interactions. Journal of Educational Data Mining, 18(1). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1030</li>
 </ul>
 <!-- merged 2026-10-10 from theories/multimodal-analysis-cyberlearning-method ("Multimodal analysis: studying learning with multiple integrated data streams"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, and Sadia Nawaz. (2026). AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design. https://arxiv.org/abs/2606.09831
@@ -1048,11 +1050,74 @@ Multimodal analysis is one of three methodological advances the report highlight
 
 ## Examples
 
-- [Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video](../research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection.md)
+- [Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video](multimodal-analysis.md)
 - [Proposed MMLA design for maritime simulation combining body sensors, eye-tracking, and speech recognition](../../elements/mmla-design-body-sensors-eye-tracking-speech-recognition-maritime/)
 
 ## Key Sources
 - Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad
+-->
+
+<!-- merged 2026-10-17 from research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection ("Multimodal classroom-video analysis for teacher–student interaction detection"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# Multimodal classroom-video analysis for teacher–student interaction detection
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
+
+## Description
+A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligned to detected windows. A pose-based heuristic flags teacher–group interactions using vertical dominance and proximity with 10-second smoothing and a 10-second minimum episode length. An on-premises Mistral large language model classified transcript snippets for question-asking, confusion, need for help, and math talk.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video**: A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligned to detected windows. A pose-based heuristic flags teacher–group interactions using vertical dominance and proximity with 10-second smoothing and a 10-second minimum episode length. An on-premises Mistral large language model classified transcript snippets for question-asking, confusion, need for help, and math talk. (Hur et al. (2026))
+
+### Claims
+
+## Related Research Methods
+-
+
+## Key Sources
+- Hur, P., Palaguachi, C., Machaka, N., Krist, C., Dyer, E. B., D'Angelo, C., & Bosch, N. (2026). A Framework for Considering Exploration, Interpretation, and Confirmation During Data Analysis: Computationally Assisted Analysis of Teacher–Group Interactions. Journal of Educational Data Mining, 18(1). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1030
+
+<!- - merged 2026-10-10 from elements/multimodal-teacher-group-interaction-pipeline ("Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligned to detected windows. A pose-based heuristic flags teacher–group interactions using vertical dominance and proximity with 10-second smoothing and a 10-second minimum episode length. An on-premises Mistral large language model classified transcript snippets for question-asking, confusion, need for help, and math talk.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Videos with sufficient visibility of target groups; group-level audio recorders placed at table centers; groups of at least three students mostly unobscured and discrete from other groups
+#### Constraints
+- The detector's heuristic assumes teachers stand while students sit; it systematically missed interactions where the teacher stood outside the group boundary box or was visually obscured or crouching
+
+### Target Learners
+- High school mathematics students in small groups (data context); education researchers as pipeline users
+
+### Target Learning Goals
+- Detecting and analyzing teacher–student group interactions to understand responsive pedagogy
+
+### Affordances
+- [Analytic Agency Framework Three Stages](../../theories/analytic-agency-framework-three-stages/)
+
+## Claims
+
+
+## Related Elements
+- 
+
+## Examples
+-
+
+## Key Sources
+- Hur, P., Palaguachi, C., Machaka, N., Krist, C., Dyer, E. B., D'Angelo, C., & Bosch, N. (2026). A Framework for Considering Exploration, Interpretation, and Confirmation During Data Analysis: Computationally Assisted Analysis of Teacher–Group Interactions. Journal of Educational Data Mining, 18(1). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1030
+- ->
 -->
 
 <details class="info">
@@ -1072,6 +1137,10 @@ Multimodal analysis is one of three methodological advances the report highlight
 <tr>
 <td><code>id</code></td>
 <td><code>multimodal-analysis</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection</code></td>
 </tr>
 <tr>
 <td><code>title</code></td>
@@ -1095,7 +1164,7 @@ Multimodal analysis is one of three methodological advances the report highlight
 </tr>
 <tr>
 <td><code>sources</code></td>
-<td>1 — <code>roschelle-2017</code></td>
+<td>2 — <code>roschelle-2017</code>, <code>hur-2026</code></td>
 </tr>
 </tbody>
 </table>
