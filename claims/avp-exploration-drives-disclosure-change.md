@@ -35,7 +35,7 @@ Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang 
 
 `q2 · i?` · `design · r2`
 
-OLS regression with cluster-robust SEs on session (530 turn-pairs, 40 AVP sessions; 423 turn-pairs, 40 SVP sessions) of evaluated disclosure change on empathy total and exploration. The quote shows "exploration drives the change ( ˆβexp = +0.281"; the unstandardized coefficients are not standardized effect sizes, so impact is null.
+OLS regression with cluster-robust SEs on session (530 turn-pairs, 40 AVP sessions; 423 turn-pairs, 40 SVP sessions) of evaluated disclosure change on empathy total and exploration. The quote shows "exploration drives the change ( ˆβexp = +0.281"; the exploration coefficient is positive and significant, but it is unstandardized and no standardized effect size is printed, so the magnitude is coded `i?`.
 
 > "In A VP, exploration drives the change ( ˆβexp = +0.281 , p<10 −6) while the empathy coefficient is effectively zero (ˆβemp = +0.004,p=.87 )"
 

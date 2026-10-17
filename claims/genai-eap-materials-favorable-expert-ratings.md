@@ -43,4 +43,4 @@ Expert review of 15 anonymized material versions by three independent EAP review
 ## Related Claims
 - [Differentiated-AI EAP versions showed limited passage-level structural separation, with automated complexity metrics failing to classify intended proficiency labels](limited-structural-separation-differentiated-versions.md) — related
 - [Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)](within-stratum-differentiated-advantage-reading-comprehension.md) — related
-- [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related
+- [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related

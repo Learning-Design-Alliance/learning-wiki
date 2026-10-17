@@ -39,7 +39,7 @@ The review commits to outlining potential strategies and technological intervent
 
 ## Claims
 
-- [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](../claims/ai-overreliance-impairs-decision-making.md) [+W]
+- [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](../claims/ai-overreliance-impairs-decision-making.md) [+W]
 - [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](../claims/overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) [+W]
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](../claims/over-reliance-ai-reduces-human-interaction.md) [+W]
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](../claims/ai-scaffolding-fading-learned-helplessness.md) [+W]

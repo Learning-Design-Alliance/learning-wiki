@@ -85,7 +85,7 @@ Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky.
 
 `q4 · i?` · `causal · r3`
 
-Same ITT analysis, secondary session-level measures from Table 2. Attempting the exit ticket was marginal (p<0.1); conditional passing was significant (p<0.01). The article prints no standardized effect size for either measure, so impact is null.
+Same ITT analysis, secondary session-level measures from Table 2. Attempting the exit ticket was marginal (p<0.1); conditional passing was significant (p<0.01). Both effects are positive (2 and 3 percentage points), but the article prints no standardized effect size for either, so the magnitude is coded `i?`.
 
 > "We also found that students were 2 p.p. more likely to attempt the exit ticket (p< 0.1), and conditional on their attempt, they were 3 p.p. more likely to pass the exit ticket (p< 0.01)."
 
@@ -105,7 +105,7 @@ Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). Th
 
 `q3 · i?` · `review · r2`
 
-The review reports this large-scale randomized controlled trial by Wang et al., a human-in-the-loop design where humans review and edit AI-generated messages. The printed gain is "4 percentage points on average"; no standardized effect size is printed, so impact is null.
+The review reports this large-scale randomized controlled trial by Wang et al., a human-in-the-loop design where humans review and edit AI-generated messages. The printed gain is a positive "4 percentage points on average"; no standardized effect size is printed, so the magnitude is coded `i?`. The review does not name Tutor CoPilot, the population or the exit-ticket measure; it describes the outcome as mastering knowledge components, and those details come from the trial itself (Wang et al. entries above).
 
 > "In a large-scale randomized controlled trial, Wang et al. [78] found that providing human tutors with real-time, LLM-generated pedagogical suggestions increased the probability of students mastering knowledge components by 4 percentage points on average."
 

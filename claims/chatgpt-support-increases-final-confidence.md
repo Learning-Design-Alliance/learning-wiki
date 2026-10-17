@@ -41,7 +41,7 @@ Randomized three-condition experiment (114 per condition) on reasoning and infor
 
 ## Related Claims
 
-- [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](ai-overreliance-impairs-decision-making.md) — the general claim this finding bears on, with the studies behind it
+- [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](ai-overreliance-impairs-decision-making.md) — the general claim this finding bears on, with the studies behind it
 - [Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection](chatgpt-support-attribution-bias.md) — related
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related

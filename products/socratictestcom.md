@@ -24,7 +24,7 @@ socratictest.com is a custom platform developed by Ilya Mikhelson to administer 
 ### Claims
 
 - [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](../claims/socratic-test-pilot-beyond-recall.md) [+W]
-- [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
+- [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
 - [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](../claims/socratic-test-pilot-scaffolding-acceptance.md) [+W]
 - [In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams](../claims/socratic-test-pilot-lower-stress.md) [+W]
 

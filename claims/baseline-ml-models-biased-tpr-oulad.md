@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Baseline LR and XGBoost classifiers trained on OULAD show unequal true-positive rates across gender, age, IMD, and disability subgroups, indicating disparate impact. [→ Raymond A. Opoku 2025](#raymond-a-opoku-2025)
+`q2 i?` A baseline logistic-regression classifier trained on OULAD showed unequal true-positive rates across gender, age, IMD, and disability subgroups, indicating disparate impact; the authors say the same holds for standard models such as XGBoost but show subgroup rates only for LR. [→ Raymond A. Opoku 2025](#raymond-a-opoku-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Raymond A. Opoku, Bo Pei and Wanli Xing. (2025). Unveiling Accuracy-Fairness Tra
 
 `q2 · i?` · `design · r2`
 
-Analysis of baseline LR and XGBoost classifiers on OULAD (25,690 students) with group-specific TPRs shown in Figure 6, using Tukey's range tests for pairwise TPR/FPR differences. The article reports "unequal true positive rates (TPRs)" across subgroups. No effect size is printed.
+Baseline LR and XGBoost classifiers were trained on OULAD (25,690 students); group-specific TPRs are shown in Figure 6 for the LR classifiers only (baseline and bias-mitigated), with Tukey's range tests for pairwise TPR/FPR differences. The discussion says standard approaches "such as LR and XGBoost, can exhibit biased performance", but no subgroup TPRs are shown for XGBoost. The article reports "unequal true positive rates (TPRs)" across subgroups. No effect size is printed.
 
 > "The plots reveal biases in the baseline classifier performance across different subgroups. As evident from the varying prevalence rates and unequal true positive rates (TPRs). These biases suggest disparate impact based on factors such as sex, age, index of multiple deprivation and disability."
 

@@ -35,7 +35,7 @@ Kostopoulos, G., Gkamas, V., Rigou, M., & Kotsiantis, S. (2025). Agentic AI in E
 
 `q2 · i?` · `review · r2`
 
-The review reports a randomized controlled trial with 86 K-12 students evaluating agentic coaching systems fostering self-regulated learning, finding a "significant SRL-strategy gain, p < 0.05". Only a p-value is printed; no effect size is reported, so impact is null.
+The review reports a randomized controlled trial with 86 K-12 students evaluating agentic coaching systems fostering self-regulated learning, finding a "significant SRL-strategy gain, p < 0.05". Only a p-value is printed and no effect size, so the magnitude is unknown and impact is coded `i?`; the gain itself is reported as significant.
 
 > "Controlled evaluations show positive effects on metacognitive strategy use and persistence (Zimmerman [11]; Panadero [15] — randomized controlled trial, N = 86 K-12 students, significant SRL-strategy gain, p < 0.05)."
 
