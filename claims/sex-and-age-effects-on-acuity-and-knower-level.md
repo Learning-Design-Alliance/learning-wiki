@@ -66,3 +66,4 @@ Spearman correlations in the cross-sectional samples replicating the known age t
 
 ## Related Claims
 - [Children's knower level of verbal number words is cross-sectionally associated with ANS acuity even after controlling for age and sex](knower-level-correlated-ans-acuity-cross-sectional.md) — related
+- [ANS acuity improves throughout development, from w = 0.525 at age 3 to w = 0.179 at age 6 and w = 0.108 in adulthood](ans-acuity-improves-throughout-development.md) — related

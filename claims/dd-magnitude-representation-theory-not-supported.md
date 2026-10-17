@@ -43,4 +43,4 @@ In the same case-control study, the between-group difference in the non-symbolic
 
 
 ## Related Claims
--
+- [At all ages, children with developmental dyscalculia perform significantly lower than controls in magnitude comparison tasks using symbolic numbers](dd-symbolic-magnitude-comparison-deficit-all-ages.md) — reports the opposite

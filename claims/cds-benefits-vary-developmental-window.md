@@ -48,3 +48,5 @@ The review reports studies showing younger infants (4–6 months) prefer CDS whi
 - [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) — related
 - [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related
 - [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related
+- [Child-directed speech predicts real-time language-processing efficiency at 19 and 24 months and explains gains in efficiency](child-directed-speech-predicts-processing-efficiency.md) — related
+- [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related

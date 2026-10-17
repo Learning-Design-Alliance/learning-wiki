@@ -41,4 +41,4 @@ Mixed-model ANOVA on the misconceptions task (N = 87) showed a main effect of Ag
 
 
 ## Related Claims
--
+- [Accuracy and speed of simple equation rearrangement increase with students' age across grades 7–12](equation-rearrangement-accuracy-speed-increase-with-age.md) — related

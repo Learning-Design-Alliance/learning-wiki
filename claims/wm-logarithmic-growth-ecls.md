@@ -45,3 +45,4 @@ Prospective longitudinal mixed-effects modeling of the ECLS-K:2011 (N = 18,174, 
 ## Related Claims
 - [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related
+- [Behavioral self-regulation development between ages three and seven is best described by an exponential (nonlinear) growth curve](exponential-growth-behavioral-self-regulation-early-childhood.md) — related

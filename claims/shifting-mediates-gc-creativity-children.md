@@ -50,3 +50,4 @@ Structural equation modeling of data from 209 8- to 13-year-olds tested relation
 - [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
 - [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](efs-intelligence-role-creative-thinking-children-gap.md) — a broader claim this one bears on
 - [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](shifting-stronger-creativity-predictor-than-intelligence.md) — related
+- [Creative and conventional metaphors are anchored in different patterns of cognitive abilities](differential-abilities-creative-conventional-metaphor.md) — related

@@ -112,3 +112,4 @@ Open questions the recorded evidence does not settle: how large the effect is re
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - Extensive reading improves grammatical knowledge and writing style — related
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related
+- [Reading and writing are similar but not symmetric processes, with writing more demanding than reading](reading-writing-asymmetric-processes.md) — related

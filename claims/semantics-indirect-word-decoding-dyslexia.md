@@ -51,3 +51,4 @@ Regression-based mediation analysis (Hayes PROCESS, 5,000 bootstrap cycles) with
 - [No significant total or direct effect of semantic knowledge on word or pseudoword decoding in children with dyslexia](no-direct-semantic-effect-decoding-dyslexia.md) — related
 - [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — a broader claim this one bears on
 - [Semantic abilities indirectly predict pseudoword decoding efficiency in children with dyslexia via phonological awareness and rapid naming](semantics-indirect-pseudoword-decoding-dyslexia.md) — related
+- [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related

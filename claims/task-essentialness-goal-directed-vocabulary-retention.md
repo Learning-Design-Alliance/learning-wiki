@@ -52,3 +52,4 @@ The review reports, citing McCafferty et al. (2001), a preliminary study applyin
 - [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — related
 - [Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form](informative-contexts-produce-higher-word-meaning-retention.md) — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — possibly the same claim (merge candidate)
+- [MACE participation increased students' use of daily (tier 1) geometrical words, but not academic (tier 2) geometrical words, which decreased in all conditions](mace-daily-geometrical-words-effect.md) — related

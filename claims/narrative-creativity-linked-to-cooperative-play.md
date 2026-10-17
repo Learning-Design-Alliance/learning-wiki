@@ -41,4 +41,4 @@ Study 2 correlational analysis assigning each child the group's narrative creati
 
 
 ## Related Claims
--
+- [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related

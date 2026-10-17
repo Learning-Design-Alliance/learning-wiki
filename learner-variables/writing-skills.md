@@ -12,7 +12,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (52 show a difference, 12 mixed, 11 no difference) · 50 studies (20 causal, 15 associational, 6 review, 4 quant-synthesis, 3 theoretical, 2 design), `q1`–`q4` · 13 of 50 report an effect size · 70 claims rest on one study
+> **Evidence** · 79 claims (55 show a difference, 13 mixed, 11 no difference) · 53 studies (20 causal, 18 associational, 6 review, 4 quant-synthesis, 3 theoretical, 2 design), `q1`–`q4` · 16 of 53 report an effect size · 74 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -112,6 +112,10 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Spelling and attentiveness are uniquely related to writing conventions of first-grade written composition, but instructional quality is not](../claims/spelling-attentiveness-predict-writing-conventions.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](../claims/teacher-responsiveness-predicts-substantive-quality.md) [+M] — instruction changes it
 - [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](../claims/transcription-skills-decline-upper-grades.md) [-M] — learners who differ on it differ in outcomes
+- [Fine motor precision and manual dexterity are positively correlated with handwriting legibility in preschool children, and Functional Dexterity Test time is inversely correlated](../claims/fine-motor-skills-correlate-handwriting-legibility-preschool.md) [+M] — instruction changes it
+- [In stepwise multiple regression, fine motor precision accounts for about sixty percent and Functional Dexterity Test time about four percent of handwriting legibility in preschool children](../claims/regression-fine-motor-precision-effect-handwriting-legibility.md) [+M] — instruction changes it
+- [Motor coordination uniquely predicts written language achievement, and ADHD symptom severity negatively predicts written language, in children with and without ADHD](../claims/motor-coordination-adhd-symptoms-predict-written-language.md) [+M] — instruction changes it
+- [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](../claims/grade5-correlations-vmi-mc-vp-dysgraphia.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

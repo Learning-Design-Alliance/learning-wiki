@@ -51,3 +51,4 @@ Correlational analysis of norming-sample test events after listwise deletion (st
 - [Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades](foundational-skills-scores-increase-across-terms-and-grades.md) — related
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
 - [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related
+- [The SYMP Test shows satisfactory test-retest reliability, with overall-score correlations between .72 and .86 across Grades 1–6](symp-test-reliable-test-retest-overall-scores.md) — related

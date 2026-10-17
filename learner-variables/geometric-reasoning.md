@@ -12,7 +12,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 10 claims (8 show a difference, 2 mixed) · 7 studies (3 causal, 3 qualitative, 1 associational), `q1`–`q3` · 1 of 7 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (10 show a difference, 2 mixed) · 9 studies (4 causal, 4 qualitative, 1 associational), `q1`–`q3` · 1 of 9 report an effect size · 12 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -46,6 +46,8 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](../claims/genai-geometry-ancova-group-effect.md) [+M] — instruction changes it
 - [Academic vocabulary is directly related to fifth-grade geometric skills over and above arithmetic skills](../claims/academic-vocabulary-directly-related-geometric-skills.md) [+M] — instruction changes it
 - [Basic linguistic skills and working memory are indirectly related to fifth-grade geometric skills via arithmetic skills](../claims/basic-linguistic-skills-indirect-geometry-via-arithmetic.md) [+M] — instruction changes it
+- [Folding back to inner layers of understanding supported Grade 10 learners' geometric reasoning on proof tasks](../claims/folding-back-supported-grade10-geometric-reasoning.md) [+M] — instruction changes it
+- [Students' ability to understand and explain geometric phenomena improved in all conditions, with no difference between MACE and regular geometry lessons](../claims/mace-no-gat-advantage.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

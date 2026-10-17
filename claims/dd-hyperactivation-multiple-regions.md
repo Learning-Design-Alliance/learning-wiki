@@ -56,3 +56,4 @@ Whole-brain block-design fMRI ANOVA main effect of Group in 16 DD and 20 TD chil
 - [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — related
 - [Adults with developmental dyscalculia show reduced left intraparietal activation during serial order processing relative to controls](dyscalculia-reduced-left-intraparietal-serial-order-activation.md) — related
 - [The putative visual word form area increases activation with presentation rate similarly in both groups, with no group difference or group-by-rate interaction](vwfa-rate-increase-no-group-difference.md) — related
+- [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related

@@ -47,3 +47,4 @@ Analytical discussion in the reliability section of the paper, drawing on classi
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
 - [Standardized test data proved too statistically unreliable for determining individual teacher effectiveness, and support for its use is waning](test-based-teacher-effectiveness-unreliable.md) — related
 - Standardized effect sizes communicate the practical significance of results and enable meta-analyses and a-priori power analyses, facilitating cumulative science — related
+- [Mood-related measures (contentedness, smiling, fidgetiness) did not vary systematically across the reliable and unreliable conditions](mood-measures-did-not-vary-across-conditions.md) — related

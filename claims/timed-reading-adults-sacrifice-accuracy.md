@@ -15,12 +15,14 @@ sources:
     author: "Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Design studies revealed that timing adults' reading led them to sacrifice accuracy for speed, so the curriculum uses untimed repeated reading practice. [→ Alamprese 2011](#alamprese-2011)
@@ -31,7 +33,7 @@ sources:
 
 Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D. (2011). Effects of a Structured Decoding Curriculum on Adult Literacy Learners' Reading Development. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2011.555294
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Qualitative conclusion from the curriculum design studies conducted in ABE classes; each lesson accordingly concludes with a brief smooth reading passage of 50-75 words that learners read repeatedly in pairs, untimed.
 

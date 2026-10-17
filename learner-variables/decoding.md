@@ -12,7 +12,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (37 show a difference, 5 mixed, 8 no difference) · 42 studies (11 causal, 10 quant-synthesis, 10 associational, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 13 of 42 report an effect size · 45 claims rest on one study
+> **Evidence** · 61 claims (43 show a difference, 8 mixed, 10 no difference) · 45 studies (13 associational, 11 causal, 10 quant-synthesis, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 14 of 45 report an effect size · 56 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -90,6 +90,17 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](../claims/six-strong-component-skills-adult-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Speed of numeral processing showed a trend predicting fifth grade mathematics achievement, and letter processing speed predicted word reading](../claims/processing-speed-predicts-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](../claims/visuospatial-memory-not-predict-word-reading.md) [-M] — learners who differ on it differ in outcomes
+- [Adolescents read silently faster than orally, and this oral–silent difference is smaller for adolescents with dyslexia than for typical readers](../claims/adolescents-silent-faster-than-oral-reading.md) [~W] — an instructional effect differs with it
+- [At-risk first graders required an average of 5.65 exposures to master a high-frequency sight word in a daily timed reading activity](../claims/five-point-six-five-exposures-average-sight-word-mastery.md) [+W] — instruction changes it
+- [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](../claims/non-significant-child-predictors-exposures.md) [-W] — learners who differ on it differ in outcomes
+- [First-grade attention has no direct effect on third-grade reading comprehension but an indirect effect through word reading, not listening comprehension](../claims/attention-indirect-effect-comprehension-via-word-reading.md) [+W] — learners who differ on it differ in outcomes
+- [For children and adolescents with dyslexia, the silent reading deficit is as large as or larger than the oral reading deficit](../claims/dyslexia-silent-reading-deficit-as-large-or-larger.md) [+W] — learners who differ on it differ in outcomes
+- [For children in Grades 3–5, with and without dyslexia, oral and silent text reading fluency do not differ](../claims/children-oral-silent-reading-fluency-do-not-differ.md) [-W] — learners who differ on it differ in outcomes
+- [Initial word reading skill interacted with imageability: the poorest readers needed nearly 4 more exposures for low-imageability words than stronger readers](../claims/swe-imageability-interaction-exposures.md) [~W] — an instructional effect differs with it
+- [Initial word reading skill interacted with vocabulary grade: the poorest readers required more than twice as many exposures for later-introduced words](../claims/swe-vocabulary-grade-interaction-exposures.md) [~W] — an instructional effect differs with it
+- [Initial word reading skill was the only significant child-level predictor of exposures required for mastery](../claims/initial-word-reading-skill-only-child-predictor.md) [+W] — learners who differ on it differ in outcomes
+- [Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates](../claims/attention-predicts-word-reading-growth-at-risk-first-graders.md) [+W] — instruction changes it
+- [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](../claims/grade3-comprehension-predicted-by-word-reading-and-listening.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

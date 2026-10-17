@@ -12,7 +12,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (23 show a difference, 2 mixed, 4 no difference, 2 unmarked) · 26 studies (8 causal, 7 review, 6 quant-synthesis, 4 associational, 1 qualitative), `q1`–`q4` · 8 of 26 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (23 show a difference, 2 mixed, 5 no difference, 2 unmarked) · 27 studies (8 causal, 7 review, 6 quant-synthesis, 5 associational, 1 qualitative), `q1`–`q4` · 9 of 27 report an effect size · 31 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -65,6 +65,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities](../claims/lovaas-model-no-discernible-social-emotional-effects.md) [-W] — instruction changes it
 - [The recommendation to provide intentional, engaging social-emotional instruction carries strong evidence from five studies meeting WWC standards without reservations](../claims/strong-evidence-social-emotional-instruction-preschool.md) [+M] — instruction changes it
 - [Across populations, children's positive emotional expressions selectively during collaboration predicted their Theory of Mind skills](../claims/affect-during-collaboration-predicts-theory-of-mind.md) [+W] — learners who differ on it differ in outcomes
+- [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](../claims/numerical-metacognition-predicts-math-achievement.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

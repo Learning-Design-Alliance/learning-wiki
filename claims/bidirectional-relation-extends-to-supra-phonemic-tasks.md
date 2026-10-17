@@ -51,3 +51,4 @@ Discussion of the growth curve results from 358 preschoolers, whose phonological
 - [Children with higher initial letter-name knowledge show faster growth in phonological awareness across the preschool year](initial-letter-name-knowledge-predicts-phonological-awareness-growth.md) — a narrower finding that bears on this claim
 - [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](letter-sound-knowledge-no-unique-bidirectional-relation.md) — related
 - [Initial phonological awareness uniquely predicts growth in letter-name knowledge, most strongly via elision skill](initial-phonological-awareness-predicts-letter-name-growth.md) — related
+- [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related

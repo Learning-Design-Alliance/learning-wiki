@@ -52,3 +52,4 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
+- [Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it](higher-metacognition-children-felt-difficult-but-solvable.md) — related

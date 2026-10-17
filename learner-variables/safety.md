@@ -12,7 +12,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (46 show a difference, 12 mixed, 5 no difference) · 40 studies (14 associational, 9 review, 5 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 40 report an effect size · 63 claims rest on one study
+> **Evidence** · 72 claims (49 show a difference, 17 mixed, 6 no difference) · 42 studies (16 associational, 9 review, 5 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 42 report an effect size · 72 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -98,6 +98,15 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children](../claims/very-safe-neighborhood-closes-curiosity-gap.md) [~W] — learners who differ on it differ in outcomes
 - [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](../claims/very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) [~W] — learners who differ on it differ in outcomes
 - [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](../claims/peer-mediation-not-solely-victimisation.md) [~W] — learners who differ on it differ in outcomes
+- [Among youth from low-income families, perceived neighborhood safety is negatively associated with GPA, whereas among non-low-income youth no association is observed](../claims/safety-gpa-negative-for-low-income-youth.md) [~W] — learners who differ on it differ in outcomes
+- [Bullied adolescents are about half as likely to reach the national academic achievement benchmark for their age group two years later](../claims/bullying-lower-achievement-benchmark-odds.md) [+W] — learners who differ on it differ in outcomes
+- [Bullying predicts depressive symptoms two years later for boys but not for girls](../claims/bullying-depressive-symptoms-boys-not-girls.md) [~W] — learners who differ on it differ in outcomes
+- [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](../claims/high-friend-support-buffers-achievement-effect.md) [~W] — learners who differ on it differ in outcomes
+- [Observer-rated physical neighborhood disorder is negatively associated with GPA, with each standard deviation of disorder linked to a 20.7% of a standard deviation decrease](../claims/observer-disorder-negative-gpa-association.md) [+W] — learners who differ on it differ in outcomes
+- [Perceived neighborhood safety is not significantly associated with standardized test scores or GPA once confounding variables are controlled](../claims/perceived-safety-null-test-scores-gpa.md) [-W] — learners who differ on it differ in outcomes
+- [Perceived neighborhood safety is positively associated with school attachment among 15-year-olds after controlling for individual, family, school, and external neighborhood factors](../claims/perceived-neighborhood-safety-school-attachment-association.md) [+W] — learners who differ on it differ in outcomes
+- [Perceived neighborhood safety is protective for school attachment among low-income youth in high-disorder neighborhoods, and mediates the affluence-school attachment link only among non-low-income youth](../claims/safety-attachment-moderation-and-mediation-by-income.md) [~W] — learners who differ on it differ in outcomes
+- [The association between perceived neighborhood safety and GPA is moderated by observer-rated neighborhood disorder and by neighborhood affluence](../claims/safety-gpa-moderated-by-disorder-and-affluence.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

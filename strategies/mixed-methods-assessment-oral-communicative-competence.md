@@ -39,6 +39,7 @@ The review recommends that future studies combine methods, because standardized 
 ## Related Strategies
 
 - [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
+- [Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions](group-based-ef-assessment-in-naturalistic-school-settings.md)
 
 ## Examples
 -

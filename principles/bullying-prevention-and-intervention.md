@@ -140,8 +140,10 @@ Bullying rated by teachers, bullying reported by students, fear of bullying, bys
 - [Support internet safety for teens with ASD through simple, frequent conversations and clear rules and limits on internet use](frequent-conversations-clear-limits-internet-safety.md) — the online-safety routine for learners with autism
 
 ## Examples
+
 - [Restorative Justice Conferencing](../strategies/restorative-justice-conferencing.md) — a facilitated meeting after harm; for bullying, only with a trained facilitator and the target's agreement
 - [Acting and role-play](../strategies/acting-role-play.md) — the format for rehearsing bystander moves
+- [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](../strategies/active-school-intervention-against-bullying.md)
 
 ## Key Sources
 - U.S. Centers for Disease Control and Prevention. StopBullying.gov.

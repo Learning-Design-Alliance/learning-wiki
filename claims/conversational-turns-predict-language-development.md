@@ -104,3 +104,6 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — related
 - [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related
 - [Within low-SES samples, quality of mother–child communication predicts children's later expressive language more strongly than input quantity](within-ses-quality-over-quantity.md) — possibly the same claim (merge candidate)
+- [Child-directed speech varies dramatically among low-SES families, up to an 18-fold difference, largely independent of maternal education and overall talkativeness](cds-variability-within-low-ses-families.md) — related
+- [LENA automated adult word counts are reliable for Spanish-language home environments](lena-adult-word-estimates-reliable-spanish.md) — related
+- [Family income and parental education show regionally specific positive relationships with children's cortical surface area, strongest at the lowest SES levels](ses-cortical-surface-area-strongest-at-low-ses.md) — related

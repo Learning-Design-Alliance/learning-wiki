@@ -43,4 +43,4 @@ Cross-sectional regression in 106 children with overweight/obesity (1-RM subsamp
 
 
 ## Related Claims
--
+- [Muscular fitness shows no association with academic performance in primary school children](muscular-fitness-no-academic-association.md) — reports the opposite

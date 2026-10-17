@@ -66,3 +66,4 @@ The same models show relative-position effects are much smaller than the overall
 - [A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one](demanding-schedule-gpa-penalty.md) — related
 - [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](selective-schools-no-academic-benefit-lower-gpa.md) — related
 - Students attending higher-performing Chicago high schools have lower GPAs, on average, than similar students at lower-performing schools — related
+- [Selecting students for the math circle initiated a labeling process designating them as good at math among peers, teachers, and parents](math-circle-selection-labeling-good-at-math.md) — related

@@ -69,3 +69,4 @@ In the Denton, Ory, Glassnap, & Poggio (1976) study included in the synthesis, g
 - Teachers report the program supports student interest, confidence, and enjoyment of math — a narrower finding that bears on this claim
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
 - [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
+- [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — a narrower finding that bears on this claim

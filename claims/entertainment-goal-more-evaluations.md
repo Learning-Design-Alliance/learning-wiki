@@ -15,12 +15,14 @@ sources:
     author: "P. van den Broek, R. F. Lorch, Jr., T. Linderholm, & M. Gustafson"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Readers with an entertainment goal make more evaluative comments than readers with a study goal, with no difference in affective responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Evaluative responses were more common in the entertainment condition, while affective responses did not differ between reading conditions. [→ P. van den Broek 2001](#p-van-den-broek-2001)
@@ -31,7 +33,7 @@ sources:
 
 P. van den Broek, R. F. Lorch, Jr., T. Linderholm, & M. Gustafson. (2001). The effects of readers' goals on inference generation and memory for texts. Memory & Cognition, 29(8), 1081-1087. https://link.springer.com/journal/13414
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Think-aloud ANOVAs for the evaluative and affective categories in the same experiment. Evaluations (opinions about the text) favored the entertainment condition, but "there were no differences between the two reading conditions with respect to affective responses (both Fs , 1)."
 

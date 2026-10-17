@@ -49,3 +49,4 @@ Cross-sectional ABCD baseline analysis of caregiver-reported bullying. The study
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [Bullied boys show greater behavioral problems than bullied girls in withdrawn/depressed, social, thought, and aggression domains](bullied-boys-greater-behavioral-problems-than-bullied-girls.md) — related
 - [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](bullied-girls-lower-episodic-memory-crystallized-scores.md) — related
+- [Bullying predicts depressive symptoms two years later for boys but not for girls](bullying-depressive-symptoms-boys-not-girls.md) — related

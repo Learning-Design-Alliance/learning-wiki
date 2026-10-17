@@ -15,12 +15,14 @@ sources:
     author: Greenberg Daphne, Wise Justin, Morris Robin, Fredrick Laura, Nanda Alice O., Pae Hye-K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Only one between-group difference emerged: the Control/Comparison, Decoding and Fluency, and DCEF groups showed stronger word attack outcomes than the Extensive Reading group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across three MANCOVAs, only one significant instructional-group finding was detected, for reading achievement, with follow-up ANCOVA showing the C/C, DCEF, and DF groups scored significantly higher on Word Attack than the ER group. [→ Greenberg Daphne 2011](#greenberg-daphne-2011)
@@ -31,7 +33,7 @@ sources:
 
 Greenberg Daphne, Wise Justin, Morris Robin, Fredrick Laura, Nanda Alice O., Pae Hye-K. (2011). A randomized control study of instructional approaches for struggling adult readers. Journal of Research on Educational Effectiveness. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237050/
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A 2 (Native Language Status) × 5 (reading instruction group) MANCOVA with posttest data found one significant group effect for reading achievement, F (16, 708) = 2.49, p = .002, η2 = .05. The follow-up univariate ANCOVA on Word Attack yielded F (4, 177) = 4.93, p = .001, η2 = .10.
 

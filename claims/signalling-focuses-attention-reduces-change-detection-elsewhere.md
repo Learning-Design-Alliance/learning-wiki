@@ -53,3 +53,4 @@ Small-group case study of 21 undergraduates studying a multimedia animation on c
 - [The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
 - [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-improves-learning.md) — related
 - [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — related
+- [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related

@@ -55,3 +55,4 @@ The article's comparison of 10-year-olds taught by analytic or synthetic phonics
 - [Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes](gender-reading-outcomes-depend-on-phonics-method.md) — a broader claim this one bears on
 - [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](synthetic-phonics-group-better-overall-outcomes.md) — related
 - [Early synthetic phonics teaching that emphasises blending letter sounds showed no evidence of impairing reading of irregular words](synthetic-phonics-no-irregular-word-impairment.md) — related
+- [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related

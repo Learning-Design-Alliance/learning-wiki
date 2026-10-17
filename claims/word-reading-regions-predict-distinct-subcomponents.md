@@ -15,12 +15,14 @@ sources:
     author: Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Reading-defined regions uniquely predict distinct cognitive subcomponents: LSTG for phonetic representation, LSMG for phonological awareness, and LITG for orthography-phonology mapping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In stepwise regression models, LITG thickness predicted orthography-phonology mapping (t = 3.153, p = 0.005), LSMG thickness predicted phonological awareness (t = 2.438, p = 0.025), and LSTG thickness predicted categorical perception of lexical tones (t = 3.17, p = 0.005), all surviving FDR correction. [→ Xia Zhichao 2018](#xia-zhichao-2018)
@@ -31,7 +33,7 @@ sources:
 
 Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua. (2018). Neural Correlates of Oral Word Reading, Silent Reading Comprehension, and Cognitive Subcomponents. International Journal of Behavioral Development. https://doi.org/10.1177/0165025417727872
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 ROI regression analyses (n = 21) in the Results section, with cognitive measures adjusted for age, gender and performance IQ and stepwise selection; all correlations remained significant after FDR correction. No significant result was found for orthographic processing.
 

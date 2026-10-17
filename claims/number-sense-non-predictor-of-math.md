@@ -51,3 +51,5 @@ Forced-entry regression models starting from number sense measures in the same 9
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — possibly the same claim (merge candidate)
 - [Sustained attention predicts number sense task performance](sustained-attention-predicts-number-sense.md) — related
+- [Non-symbolic addition performance correlates with mathematics achievement in a new sample, surviving controls for verbal intelligence and literacy (Experiment 2)](nonsymbolic-addition-predicts-math-exp2.md) — reports the opposite
+- [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related

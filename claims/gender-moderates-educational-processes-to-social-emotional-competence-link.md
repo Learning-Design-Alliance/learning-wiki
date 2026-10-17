@@ -63,3 +63,4 @@ Simple slope tests probing the gender interaction. The association between educa
 - [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](paternal-mindset-predicts-girls-not-boys.md) — related
 - [Child gender at kindergarten entry predicts initial functioning: boys show more conflict and inattention/impulsivity, girls more closeness and school engagement](gender-predicts-relationships-and-behavior-at-entry.md) — related
 - [Gender was not significantly correlated with social–emotional competence in this sample, though it functioned as a moderator](no-zero-order-gender-difference-in-preschoolers-social-emotional-competence.md) — related
+- [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related

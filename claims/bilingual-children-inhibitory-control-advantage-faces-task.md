@@ -46,3 +46,4 @@ Cost analysis from the faces task with ninety 8-year-olds in three language grou
 - [Bilingual children in Canada and India perform equivalently, supporting bilingualism rather than culture or immigration as the advantage's source](bilingual-advantage-generalizes-across-two-cultures.md) — related
 - [Bilingual and monolingual 8-year-olds do not differ in response suppression costs](no-bilingual-advantage-response-suppression-children.md) — related
 - [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related
+- [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related

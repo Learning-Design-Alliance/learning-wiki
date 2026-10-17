@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (50 show a difference, 17 mixed, 6 no difference) · 63 studies (16 causal, 15 review, 12 associational, 10 quant-synthesis, 4 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 11 of 63 report an effect size · 68 claims rest on one study
+> **Evidence** · 85 claims (58 show a difference, 19 mixed, 8 no difference) · 69 studies (17 causal, 17 associational, 15 review, 10 quant-synthesis, 4 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 11 of 69 report an effect size · 80 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -110,6 +110,18 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Sustained attention predicts number sense task performance](../claims/sustained-attention-predicts-number-sense.md) [+M] — learners who differ on it differ in outcomes
 - [Visual distraction disrupts functional connectivity in a left hippocampus-VLPFC-LOC network that supports episodic retrieval via visual imagery](../claims/distraction-disrupts-hippocampus-vlpfc-loc-network.md) [+M] — learners who differ on it differ in outcomes
 - [Visual distraction impairs categorization in older adults but not younger adults, who perform equivalently without distraction](../claims/aging-distractibility-categorization-morphed-prototypes.md) [~M] — learners who differ on it differ in outcomes
+- [Academic-media multitasking predicts an increase in subsequent academic attention problems](../claims/multitasking-increases-subsequent-academic-attention-problems.md) [+W] — instruction changes it
+- [Attention does not differentially predict broad math versus broad ELA scores](../claims/attention-equally-predictive-broad-math-and-ela.md) [-W] — learners who differ on it differ in outcomes
+- [Attention is more predictive of targeted than broad math, but equally predictive of both reading measure types](../claims/attention-predicts-targeted-math-more-than-broad-math.md) [~M] — learners who differ on it differ in outcomes
+- [Attention more strongly predicts targeted math than targeted reading at a trend level](../claims/attention-more-predictive-targeted-math-than-reading-trend.md) [~W] — learners who differ on it differ in outcomes
+- [Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills](../claims/attention-problems-predict-poorer-emergent-academics.md) [+W] — learners who differ on it differ in outcomes
+- [Attention robustly increases linguistic-probe late-N1 amplitude from age 10 through adulthood](../claims/linguistic-late-n1-attention-amplitude-increases-from-age-10.md) [+W] — learners who differ on it differ in outcomes
+- [Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders](../claims/rrrp-associated-with-self-regulation-measures.md) [+M] — learners who differ on it differ in outcomes
+- [Sustained attention positively predicts broad statewide standardized test scores in math and ELA](../claims/sustained-attention-predicts-broad-standardized-test-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Sustained attention positively predicts math fluency assessed in group-based school settings](../claims/sustained-attention-predicts-school-based-math-fluency.md) [+W] — learners who differ on it differ in outcomes
+- [Sustained attention positively predicts reading comprehension assessed in group-based school settings](../claims/sustained-attention-predicts-school-based-reading-comprehension.md) [+W] — learners who differ on it differ in outcomes
+- [Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers](../claims/attention-not-predict-listening-comprehension-growth.md) [-W] — learners who differ on it differ in outcomes
+- [Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates](../claims/attention-predicts-word-reading-growth-at-risk-first-graders.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

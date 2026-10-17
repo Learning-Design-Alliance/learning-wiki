@@ -15,12 +15,14 @@ sources:
     author: "Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The relation between word reading and reading comprehension is largely invariant across age groups 8 to 10 and 11 to 16
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A partially constrained multi-group model fit as well as the unconstrained baseline, indicating partial measurement invariance of the reading factors across ages. [→ Christopher 2012](#christopher-2012)
@@ -31,7 +33,7 @@ sources:
 
 Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K. (2012). Predicting Word Reading and Comprehension with Executive Function and Speed Measures Across Development: A Latent Variable Analysis. Journal of Experimental Psychology: General. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multi-group CFA of word reading, reading comprehension, and listening comprehension factors in 483 participants split into ages 8 to 10 (n = 266) and 11 to 16 (n = 217). The article reports the partially constrained model was "not significantly different from the baseline model, Δχ2(21) = 31.53, p = .07."
 

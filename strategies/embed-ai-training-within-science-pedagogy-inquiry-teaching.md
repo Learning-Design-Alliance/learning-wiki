@@ -53,6 +53,7 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
+- [Introduce computational thinking to preservice teachers within teacher education programs](ct-in-preservice-teacher-education.md)
 
 ## Examples
 -

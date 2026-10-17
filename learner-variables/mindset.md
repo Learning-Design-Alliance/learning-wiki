@@ -12,7 +12,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (13 show a difference, 7 mixed, 3 no difference) · 13 studies (5 associational, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 3 of 13 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (17 show a difference, 9 mixed, 3 no difference) · 17 studies (8 associational, 4 review, 3 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 27 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -53,6 +53,12 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Fixed math mindset negatively predicts primary math achievement while growth math mindset shows no direct effect](../claims/fixed-math-mindset-negative-direct-effect-primary.md) [~W] — learners who differ on it differ in outcomes
 - [Growth math mindset positively predicts academic grit in primary students](../claims/growth-math-mindset-predicts-academic-grit.md) [+M] — learners who differ on it differ in outcomes
 - [Math mindsets and academic grit correlate substantially with primary math achievement](../claims/mindset-grit-math-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindset interacts with gender for health major choice — men's chances decline 3.9 percentage points per unit increase — but no gender difference appears in how ability beliefs influence PEMC major choice](../claims/gender-growth-mindset-interaction-health-not-pemc.md) [~S] — an instructional effect differs with it
+- [In Study 1, measured fixed mindset correlated with fixed-trait attributions (r=.28), performance avoidance goals (r=.23), and hypothetical easy-problem choice (r=.12)](../claims/fixed-mindset-correlates-study1-replication.md) [+M] — learners who differ on it differ in outcomes
+- [In Study 1, the revised intervention reduced self-reported fixed mindset more than the original intervention](../claims/revised-mindset-intervention-larger-fixed-mindset-reduction.md) [+M] — instruction changes it
+- [In the pilot A/B experiments, indirect framing outperformed direct framing, refuting the fixed mindset backfired for strong fixed-mindset holders, and celebrity endorsements increased adoption](../claims/ab-testing-mindset-content-findings.md) [~M] — an instructional effect differs with it
+- [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](../claims/sem-differential-paths-mindsets-cbsr.md) [+M] — learners who differ on it differ in outcomes
+- [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](../claims/mindsets-achievement-indirect-via-self-regulation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

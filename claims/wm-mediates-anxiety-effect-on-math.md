@@ -52,3 +52,4 @@ Comparison of two path-model series (WM vs. anxiety as mediator) with bootstrapp
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [Teacher-rated general anxiety negatively predicts concurrent and future math performance in third and fourth graders](teacher-rated-general-anxiety-predicts-math-performance.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — a narrower finding that bears on this claim
+- [Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3](grade-2-math-anxiety-indirect-effect-grade-3-performance.md) — related

@@ -13,12 +13,14 @@ sources:
     title: Schmidt FTC 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The full regression model explained 29% of mathematics and 37% of physics test variance but only 12% of mGPA variance. [→ Schmidt FTC 2020](#schmidt-ftc-2020)
@@ -29,7 +31,7 @@ sources:
 
 Schmidt FTC, Lindner C, Etzel JM and Retelsdorf J (2020) Self-Control Outdoes Fluid Reasoning in Explaining Vocational and Academic Performance—But Does It? Front. Psychol. 11:757. https://doi.org/10.3389/fpsyg.2020.00757
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Multivariate regression on N = 3,146 trainees; the printed R² values were 0.29 (math), 0.37 (physics), and 0.12 (mGPA), and "the constructs explained substantially more variance of the achievement tests" than of grades.
 

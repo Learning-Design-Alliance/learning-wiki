@@ -12,7 +12,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 45 claims (26 show a difference, 10 mixed, 9 no difference) · 39 studies (9 associational, 8 causal, 7 review, 5 quant-synthesis, 5 theoretical, 3 design, 2 qualitative), `q1`–`q3` · 6 of 39 report an effect size · 44 claims rest on one study
+> **Evidence** · 51 claims (30 show a difference, 12 mixed, 9 no difference) · 44 studies (12 associational, 8 causal, 8 review, 5 quant-synthesis, 5 theoretical, 4 design, 2 qualitative), `q1`–`q3` · 7 of 44 report an effect size · 50 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -85,6 +85,12 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Kindergarten writing fluency does not mediate the relations between kindergarten component skills and first-grade writing outcomes](../claims/kindergarten-writing-no-mediation.md) [-W] — learners who differ on it differ in outcomes
 - [Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points](../claims/language-predicts-executive-residual-variance.md) [+M] — learners who differ on it differ in outcomes
 - [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](../claims/oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) [+M] — learners who differ on it differ in outcomes
+- [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](../claims/preschoolers-creative-communicative-collaborative-tasks.md) [+M] — instruction changes it
+- [Expressive language in kindergarten explains 24% of the variance in kindergarten arithmetic controlling for number naming and procedural counting knowledge](../claims/expressive-language-explains-24-percent-kindergarten-arithmetic-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Higher expressive vocabulary predicts membership in faster self-regulation trajectories](../claims/expressive-vocabulary-predicts-self-regulation-trajectory.md) [+W] — learners who differ on it differ in outcomes
+- [Kindergarten expressive language predicts grade 1 arithmetic, adding 4.6% of explained variance beyond kindergarten arithmetic](../claims/kindergarten-expressive-language-predicts-grade-1-arithmetic.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](../claims/phonological-awareness-not-arithmetic-predictor.md) [~M] — learners who differ on it differ in outcomes
+- [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](../claims/ell-early-reading-intervention-word-level-gains.md) [~M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

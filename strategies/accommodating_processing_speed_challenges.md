@@ -65,6 +65,7 @@ Processing speed is a bottleneck resource: slow execution of basic operations co
 - [Acoustics and noise management](acoustics_and_noise_management.md) — reducing auditory distraction preserves processing resources for the task itself
 - [Accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) — lowering linguistic processing demands complements pacing adjustments at the input stage
 - [Use the AI Fatigue Model to adjust task design, pacing, and scaffolding at points where AI-related pressure is likely to increase](adjust-task-design-pacing-scaffolding-ai-fatigue-points.md)
+- [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](accommodations-extended-time-assistive-tech-slow-ps.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — pauseable, self-paced video with transcript controls lets learners set their own processing rate rather than the instructor's.

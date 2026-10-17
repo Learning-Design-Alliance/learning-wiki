@@ -13,7 +13,7 @@ generated:
 # Orientation discrimination task
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A computerized adaptive psychophysical assessment in which children judge relative segment orientation to estimate visual-processing discrimination thresholds.

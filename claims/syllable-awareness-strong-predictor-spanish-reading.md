@@ -50,3 +50,4 @@ Narrative review statement in section 2.3.2 attributing the finding to cited Spa
 - [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](spanish-transparent-orthography-rate-predictor.md) — related
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](spanish-decoding-rate-better-predictor-than-accuracy.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — a broader claim this one bears on
+- [Prephonological spellers do not show the syllable-length signature predicted by the hypothesized syllabic stage](no-syllabic-stage-in-prephonological-spelling.md) — related

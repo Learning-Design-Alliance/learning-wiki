@@ -17,7 +17,7 @@ sources:
 # Cognitive and reading test battery from the Colorado Learning Disabilities Research Center twin study
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study drew on a battery of measures administered across four 2.5-hour testing sessions to 483 twins ages 8 to 16. Working memory was measured with digit span, sentence span, and counting span; inhibition with GDS CPT vigilance and distractibility commission errors and stop-signal reaction time; processing speed with Colorado perceptual speed and ETS identical pictures; naming speed with RAN colors and objects. Reading measures included three word reading tests, four reading comprehension tests, and three listening comprehension tests. Reliability low-bound estimates came from monozygotic twin correlations.

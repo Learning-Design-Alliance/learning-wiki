@@ -51,3 +51,4 @@ Null finding from the longitudinal study of 467 preschoolers: no statistically s
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related
+- [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Mark H. Ashcraft and Jeremy A. Krause
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Larger operands increase response latencies and errors, and larger problems increasingly rely on nonretrieval strategies that demand working memory. [→ Mark H. Ashcraft and Jeremy A. Krause 2007](#mark-h-ashcraft-and-jeremy-a-krause-2007)
@@ -31,7 +33,7 @@ sources:
 
 Mark H. Ashcraft and Jeremy A. Krause. (2007). Working memory, math performance, and math anxiety. Psychonomic Bulletin & Review, 14(2), 243-248. https://doi.org/10.3758/bf03194059
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of the mathematical cognition literature, citing LeFevre et al. (2005) and Zbrodoff & Logan (2005), reports that "response latencies and errors increase as the size of the operands increases". The review attributes part of this to lower memory strength for less frequent larger problems.
 

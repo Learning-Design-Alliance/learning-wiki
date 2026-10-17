@@ -51,3 +51,4 @@ The predictive growth models included child age and growth in the predictor's co
 - [Children with higher initial letter-name knowledge show faster growth in phonological awareness across the preschool year](initial-letter-name-knowledge-predicts-phonological-awareness-growth.md) — a narrower finding that bears on this claim
 - [Initial phonological awareness uniquely predicts growth in letter-name knowledge, most strongly via elision skill](initial-phonological-awareness-predicts-letter-name-growth.md) — a narrower finding that bears on this claim
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
+- [Children use letter-name knowledge as a shortcut when inventing phonologically based spellings](letter-names-bootstrap-invented-spellings.md) — related

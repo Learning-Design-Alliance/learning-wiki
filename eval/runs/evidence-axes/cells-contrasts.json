@@ -33418,5 +33418,333 @@
  "other\t1980\t2002": {
   "label": "1980 vs 2002",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative, project-based after-school mathematics\tregular classroom mathematics dominated by numbers, operations, and rote practices": {
+  "label": "collaborative, project-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative, project-based after-school mathematics\tregular mathematics classrooms": {
+  "label": "collaborative, project-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical sharing of ideas among learners\tinteraction resulting in discontinuity or limited peer contribution": {
+  "label": "productive peer interaction and discussion vs limited or discontinuous peer interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical sharing of ideas and peer discussion with teacher intervention\talgebraic-error discontinuity while working outside geometry": {
+  "label": "productive peer interaction and discussion vs limited or discontinuous peer interaction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tafter-school mathematics allowing students’ strategies and community knowledge\tschool mathematics emphasizing external evaluation and prescribed ways": {
+  "label": "autonomy-supportive vs controlling instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-chosen exercise intensity\tlow-, moderate-, or high-intensity prescribed exercise": {
+  "label": "self-chosen vs prescribed exercise intensity",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents choosing their own mathematical strategies\tteacher-prescribed methods and external evaluations such as grades or test scores": {
+  "label": "autonomy-supportive vs controlling instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tnumber-line comparison\tdebts-context comparison": {
+  "label": "number-line comparison vs debts-context comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t50-minute metacognitive strategy instruction\tregular brainstorm lesson": {
+  "label": "Metacognitive strategy instruction vs regular brainstorming lesson",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDirect and Indirect Child pedagogical demonstrations\tIndirect Adult and Intentional conditions": {
+  "label": "Pedagogical instruction or demonstration vs non-pedagogical or adult-directed conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcombined letter name and sound instruction\tletter sound only instruction": {
+  "label": "Combined letter-name-and-sound instruction vs letter-sound-only instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcombined letter name and sound instruction\tnumber identification instruction": {
+  "label": "Combined letter-name-and-sound instruction vs number-identification instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconceptual instruction with fact retrieval practice\tfact retrieval practice": {
+  "label": "Conceptual instruction plus fact-retrieval practice vs fact-retrieval practice alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction or overheard instruction to another child\toverheard instruction to an adult or non-pedagogical intentional action": {
+  "label": "Pedagogical instruction or demonstration vs non-pedagogical or adult-directed conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tletter sound only instruction\tnumber identification instruction": {
+  "label": "Letter-sound-only instruction vs number-identification instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpedagogical demonstration\tinterrupted, naïve, and baseline conditions": {
+  "label": "Pedagogical demonstration vs non-pedagogical or no-demonstration conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpedagogical demonstration\tinterrupted, naïve, or baseline condition": {
+  "label": "Pedagogical demonstration vs non-pedagogical or no-demonstration conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpedagogical demonstration of one toy function\tinterrupted, naïve, and baseline conditions": {
+  "label": "Pedagogical demonstration vs non-pedagogical or no-demonstration conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprocedural computation/estimation instruction\tcontrol, no tutoring": {
+  "label": "Procedural computation or estimation instruction vs no tutoring",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic phonics instruction\tinstruction without systematic phonics": {
+  "label": "Systematic phonics instruction vs instruction without systematic phonics",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tyes/no feedback after correct responses\tno feedback": {
+  "label": "Feedback after correct responses vs no feedback after correct responses",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tyes/no feedback after high-confidence errors\tno feedback after high-confidence errors": {
+  "label": "Feedback after high-confidence errors vs no feedback after high-confidence errors",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tyes/no feedback after low-confidence errors\tno feedback after low-confidence errors": {
+  "label": "Feedback after low-confidence errors vs no feedback after low-confidence errors",
+  "treatment_is_a": true
+ },
+ "gamification\tCompetitive lectures, collective challenges, and Atari Go\tNoncompetitive circle activities": {
+  "label": "Competitive vs noncompetitive gamification",
+  "treatment_is_a": true
+ },
+ "guided-discovery\trelatively guided instructional procedures\trelatively unguided instructional procedures": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "media-design\tdot-array notation\tArabic-numeral notation": {
+  "label": "dot-array notation vs Arabic-numeral notation",
+  "treatment_is_a": true
+ },
+ "media-design\tlogos with additional visual features\tlogos with only color and typeface": {
+  "label": "feature-rich logos vs minimalist logos",
+  "treatment_is_a": true
+ },
+ "media-design\tsequential item presentation\tsimultaneous item presentation": {
+  "label": "sequential vs simultaneous presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tsequential presentation\tsimultaneous presentation": {
+  "label": "sequential vs simultaneous presentation",
+  "treatment_is_a": true
+ },
+ "other\t0.8 numerical ratio (difficult/fine ratio)\t0.5 numerical ratio (easy/crude ratio)": {
+  "label": "difficult/fine numerical ratio vs easy/crude numerical ratio",
+  "treatment_is_a": true
+ },
+ "other\t1-s retention interval\t12-s retention interval": {
+  "label": "longer vs shorter retention interval",
+  "treatment_is_a": false
+ },
+ "other\t10-minute moderate-intensity aerobic exercise at 50% VO2 peak\trest": {
+  "label": "aerobic exercise vs rest",
+  "treatment_is_a": true
+ },
+ "other\t12-second versus 1-second retention interval with sequential presentation\t1-second versus 12-second retention interval with sequential presentation": {
+  "label": "12-second-then-1-second retention interval vs 1-second-then-12-second retention interval",
+  "treatment_is_a": true
+ },
+ "other\t12-second versus 1-second retention interval with simultaneous presentation\t1-second versus 12-second retention interval with simultaneous presentation": {
+  "label": "12-second-then-1-second retention interval vs 1-second-then-12-second retention interval",
+  "treatment_is_a": true
+ },
+ "other\t1994 survey\t1991 survey": {
+  "label": "1994 survey vs 1991 survey",
+  "treatment_is_a": true
+ },
+ "other\t1994 teacher survey\t1991 teacher survey": {
+  "label": "1994 teacher survey vs 1991 teacher survey",
+  "treatment_is_a": true
+ },
+ "other\t1996 ITBS gains\t1994 ITBS gains": {
+  "label": "1996 ITBS gains vs 1994 ITBS gains",
+  "treatment_is_a": true
+ },
+ "other\t1996 K-to-L gain scores\t1994 K-to-L gain scores": {
+  "label": "1996 K-to-L gain scores vs 1994 K-to-L gain scores",
+  "treatment_is_a": true
+ },
+ "other\t1996 gains\t1994 gains": {
+  "label": "1996 gains vs 1994 gains",
+  "treatment_is_a": true
+ },
+ "other\t1996-1999 early-grade retention trend\t1992-1995 early-grade retention trend": {
+  "label": "1996–1999 early-grade retention trend vs 1992–1995 early-grade retention trend",
+  "treatment_is_a": true
+ },
+ "other\t1997 CPS college-preparatory curriculum requirements\tpre-1997 curriculum requirements": {
+  "label": "1997 college-preparatory curriculum requirements vs pre-1997 curriculum requirements",
+  "treatment_is_a": true
+ },
+ "other\t1997 CPS three-course college-preparatory science requirement\tpre-1997 graduation requirements": {
+  "label": "1997 three-course college-preparatory science requirement vs pre-1997 graduation requirements",
+  "treatment_is_a": true
+ },
+ "other\t1997 CPS three-course college-preparatory science requirement\tpre-1997 one-science-credit requirement": {
+  "label": "1997 three-course college-preparatory science requirement vs pre-1997 one-science-credit requirement",
+  "treatment_is_a": true
+ },
+ "other\t1997 college-preparatory science requirements\tpre-policy science requirements": {
+  "label": "1997 college-preparatory science requirements vs pre-policy science requirements",
+  "treatment_is_a": true
+ },
+ "other\t1997 eighth graders retained or sent to Transition Centers\t1995 eighth graders in the corresponding low-achieving comparison category": {
+  "label": "1997 promotional-policy group vs 1995 corresponding low-achieving comparison group",
+  "treatment_is_a": true
+ },
+ "other\t1997 eighth graders retained or sent to Transition Centers\t1995 pre-policy eighth graders": {
+  "label": "1997 promotional-policy group vs 1995 pre-policy group",
+  "treatment_is_a": true
+ },
+ "other\t1997 eighth-grade cohort under the promotional policy\t1995 pre-policy eighth-grade cohort": {
+  "label": "1997 promotional-policy cohort vs 1995 pre-policy cohort",
+  "treatment_is_a": true
+ },
+ "other\t1997 low-achieving eighth graders under the promotional policy\t1995 low-achieving eighth graders in the pre-policy cohort": {
+  "label": "1997 low-achieving promotional-policy group vs 1995 low-achieving pre-policy group",
+  "treatment_is_a": true
+ },
+ "other\t1997 ninth-grade teacher survey\t1994 ninth-grade teacher survey": {
+  "label": "1997 ninth-grade teacher survey vs 1994 ninth-grade teacher survey",
+  "treatment_is_a": true
+ },
+ "practice-amount\t30-minute sessions four times weekly for 16 weeks (32 hours)\t30-minute sessions four times weekly for 8 weeks (16 hours)": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t30-minute sessions four times weekly for 16 weeks (32 hours)\t30-minute sessions two times weekly for 16 weeks (16 hours)": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t30-minute sessions four times weekly for 8 weeks (16 hours)\t30-minute sessions two times weekly for 16 weeks (16 hours)": {
+  "label": "more frequent vs less frequent practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadditional hour per month of all EI services\tlower overall EI service intensity": {
+  "label": "higher vs lower overall EI service intensity",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadditional hour per month of developmental intervention\tlower developmental-intervention intensity": {
+  "label": "higher vs lower developmental-intervention intensity",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadditional hour per month of speech and language pathology\tlower speech-and-language-pathology intensity": {
+  "label": "higher vs lower speech-and-language-pathology intensity",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore repeated practice pushing beyond current competence\tless practice or no sustained practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsame small-group intervention four times per week\tcontrol": {
+  "label": "four-times-weekly practice vs control",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsame small-group intervention twice per week\tcontrol": {
+  "label": "twice-weekly practice vs control",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond block\tfirst block": {
+  "label": "later vs earlier practice block",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond block of equation-solving trials\tfirst block of equation-solving trials": {
+  "label": "later vs earlier equation-solving practice block",
+  "treatment_is_a": true
+ },
+ "praise\thigher cumulative process praise\tlower cumulative process praise": {
+  "label": "Higher vs lower cumulative process praise",
+  "treatment_is_a": true
+ },
+ "praise\thigher early person praise\tlower early person praise": {
+  "label": "Higher vs lower early person praise",
+  "treatment_is_a": true
+ },
+ "praise\thigher person praise as a proportion of total praise\tlower person praise as a proportion of total praise": {
+  "label": "Higher vs lower person-praise proportion",
+  "treatment_is_a": true
+ },
+ "praise\thigher proportion of process praise\tlower proportion of process praise": {
+  "label": "Higher vs lower process-praise proportion",
+  "treatment_is_a": true
+ },
+ "praise\tother praise at 38 months\tother praise at 14 months": {
+  "label": "Other praise at 38 months vs 14 months",
+  "treatment_is_a": true
+ },
+ "praise\tperson praise at 38 months\tperson praise at 14 months": {
+  "label": "Person praise at 38 months vs 14 months",
+  "treatment_is_a": true
+ },
+ "praise\tprocess praise at 38 months\tprocess praise at 14 months": {
+  "label": "Process praise at 38 months vs 14 months",
+  "treatment_is_a": true
+ },
+ "praise\trepeated encouragement and praise for helping\tno encouragement and praise": {
+  "label": "Repeated encouragement and praise for helping vs none",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMD-only conceptual fact retrieval instruction with practice\tMD-only no tutoring control": {
+  "label": "conceptual fact retrieval instruction with practice vs no tutoring",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMD-only conceptual fact retrieval instruction with practice\tMD-only procedural computation/estimation instruction": {
+  "label": "conceptual fact retrieval instruction with practice vs procedural computation/estimation instruction",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMD-only fact retrieval practice\tMD-only no tutoring control": {
+  "label": "fact retrieval practice vs no tutoring",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMD-only fact retrieval practice\tMD-only procedural computation/estimation instruction": {
+  "label": "fact retrieval practice vs procedural computation/estimation instruction",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tconceptual fact retrieval instruction with practice\tcontrol, no tutoring": {
+  "label": "conceptual fact retrieval instruction with practice vs no tutoring",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tconceptual fact retrieval instruction with practice\tno tutoring control": {
+  "label": "conceptual fact retrieval instruction with practice vs no tutoring",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tconceptual fact retrieval instruction with practice\tprocedural computation/estimation instruction": {
+  "label": "conceptual fact retrieval instruction with practice vs procedural computation/estimation instruction",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfact retrieval practice\tconceptual fact retrieval instruction with practice": {
+  "label": "conceptual fact retrieval instruction with practice vs fact retrieval practice",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tfact retrieval practice\tcontrol, no tutoring": {
+  "label": "fact retrieval practice vs no tutoring",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfact retrieval practice\tno tutoring control": {
+  "label": "fact retrieval practice vs no tutoring",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfact retrieval practice\tprocedural computation/estimation instruction": {
+  "label": "fact retrieval practice vs procedural computation/estimation instruction",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfact retrieval tutoring conditions\tcontrol and procedural computation/estimation tutoring": {
+  "label": "fact retrieval tutoring vs control and procedural computation/estimation tutoring",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tantisaccade task with impending rewards\tantisaccade task without impending rewards": {
+  "label": "impending rewards vs no impending rewards",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttransparent goal cue tracked with a finger\tabstract cue tracked with a finger": {
+  "label": "transparent vs abstract goal cue",
+  "treatment_is_a": true
  }
 }

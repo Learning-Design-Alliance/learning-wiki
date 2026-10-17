@@ -58,8 +58,10 @@ Self-advocacy instruction works because it shifts control of learning decisions 
 5. Provide [Feedback](../elements/provide-feedback.md) on the attempt, not just the outcome, and escalate responsibility over time (student-led IEP sections, then full meetings)
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — regular structured conversations that surface needs before they become crises
 - [Choice boards](../elements/choice-boards.md) — low-stakes decision-making practice that builds the autonomy self-advocacy depends on
+- [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](accommodations-extended-time-assistive-tech-slow-ps.md)
 
 ## Examples
 - **Self-Directed IEP** (Zarrow Center, University of Oklahoma) — a published curriculum in which students learn to lead their own IEP meetings; students complete lessons on goals, strengths, and accommodations, then present meeting sections themselves. https://www.ou.edu/zarrow

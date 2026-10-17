@@ -12,7 +12,7 @@ generated:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 16 studies (6 review, 5 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 16 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 17 studies (6 review, 5 quant-synthesis, 3 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 17 report an effect size · 9 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills (Polly et al., 2018).
@@ -73,6 +73,8 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](../claims/four-cas-integrate-pedagogical-theories.md) [+W]
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](../claims/scaffolding-little-incremental-exam-prediction.md) [-W]
 - [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](../claims/apps-focus-cognitive-receptive-skills-lack-collaboration.md) [+W]
+- [Exchanging differing opinions during small-group collaboration is associated with individual post-test performance among students aged 10 to 22](../claims/differing-opinions-associated-posttest-adolescents.md) [+W] — attached 2026-10-17 from Howe et al. (2017), which proposed "Difference-driven account of small-group collaboration: differing opinions drive individual gains while joint constructions play a tangential role"; tests this page's relationship.
+- [Collaborative constructions (joint analyses built while collaborating) had little relevance to individual post-test performance in adolescence and early adulthood](../claims/collaborative-constructions-little-relevance-older-learners.md) [~W] — attached 2026-10-17 from Howe et al. (2017), which proposed "Difference-driven account of small-group collaboration: differing opinions drive individual gains while joint constructions play a tangential role"; tests this page's relationship.
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

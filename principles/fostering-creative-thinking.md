@@ -27,7 +27,7 @@ sources:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 6 mixed, 2 against) · 21 studies (6 causal, 5 review, 4 theoretical, 3 design, 2 quant-synthesis, 1 associational), `q1`–`q4` · 5 of 21 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (14 for, 6 mixed, 2 against) · 23 studies (8 causal, 5 review, 4 theoretical, 3 design, 2 quant-synthesis, 1 associational), `q1`–`q4` · 5 of 23 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,9 @@ Claims this page cited before it was rewritten, and claims found while rewriting
 - [Reported study: free ChatGPT use aided the assisted creative task but the advantage reversed on a later task without ChatGPT](../claims/chatgpt-free-use-originality-gains-vanish-unassisted.md) [+M]: a second-hand report of the same Wong and Qiu study used in the model; not independent evidence.
 - [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](../claims/grading-harms-maker-education-outcomes.md) [+W]: used in the model; an argument citing Kohn, not maker-specific data.
 - [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md): a theory page (eight principles and five practices for assessing maker education, from a literature review), cited by the old page among its claims; it is the source of the portfolio and three-part rubric moves and carries no study of its own.
+- [Unconscious thinkers outperform conscious thinkers and immediate responders in selecting their most creative idea (Experiment 1)](../claims/unconscious-thought-improves-most-creative-idea-selection-exp1.md) [+W] — attached 2026-10-17 from Ritter et al. (2012), which proposed "Insert a period of distraction before idea selection to improve selection of one's most creative idea"; tests this page's relationship.
+- [Unconscious thinkers better select both their most and least creative idea (Experiment 2 replication)](../claims/unconscious-thought-improves-most-and-least-creative-selection-exp2.md) [+W] — attached 2026-10-17 from Ritter et al. (2012), which proposed "Insert a period of distraction before idea selection to improve selection of one's most creative idea"; tests this page's relationship.
+- [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+W] — attached 2026-10-17 from van de Kamp et al. (2016), which proposed "Teach divergent thinking through explicit instruction of metacognitive strategy knowledge rather than relying on brainstorming exercises alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

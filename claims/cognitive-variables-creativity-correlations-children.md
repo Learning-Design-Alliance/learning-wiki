@@ -57,3 +57,4 @@ Correlational analyses in the study of 209 children administered measures of cre
 - [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](efs-intelligence-role-creative-thinking-children-gap.md) — related
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
 - [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
+- [Creative and conventional metaphors are anchored in different patterns of cognitive abilities](differential-abilities-creative-conventional-metaphor.md) — related

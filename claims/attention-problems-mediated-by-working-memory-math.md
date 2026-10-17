@@ -53,3 +53,4 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
+- [Processing speed affects math achievement directly and both reading and math indirectly through working memory](ps-direct-math-indirect-wm-academic-effects.md) — related

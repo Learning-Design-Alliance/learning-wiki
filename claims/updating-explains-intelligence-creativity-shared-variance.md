@@ -52,3 +52,4 @@ Abstract-adjacent measurement model result in the same 230-participant SEM study
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — related
 - [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](updating-and-inhibition-predict-creativity.md) — related
 - [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md) — related
+- [Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)](gf-predicts-creative-metaphor-quality.md) — related

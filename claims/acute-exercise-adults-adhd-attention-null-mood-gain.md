@@ -62,4 +62,5 @@ Same study's mood outcomes: the exercise condition showed "signiﬁcantly higher
 
 
 ## Related Claims
--
+- [Acute exercise alleviates negative affect, enhances positive affect, and reduces stress responses, with mood effects lasting up to 24 hours](acute-exercise-mood-and-stress-effects.md) — related
+- [Mood-related measures (contentedness, smiling, fidgetiness) did not vary systematically across the reliable and unreliable conditions](mood-measures-did-not-vary-across-conditions.md) — related

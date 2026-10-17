@@ -47,3 +47,4 @@ The article states as a general pattern across cited studies that "reaction time
 - [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related
 - [Reaction times and accuracy in n-back tasks have dissociable correlates and should not be interpreted interchangeably](nback-rt-accuracy-dissociable.md) — related
 - [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — possibly the same claim (merge candidate)
+- [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — a narrower finding that bears on this claim

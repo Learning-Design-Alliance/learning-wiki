@@ -13,12 +13,14 @@ sources:
     title: Christodoulou JA 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The putative visual word form area increases activation with presentation rate similarly in both groups, with no group difference or group-by-rate interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The VWFA region of interest exhibited greater activation as a function of rate, but there was neither an effect of group nor a group x rate interaction. [→ Christodoulou JA 2014](#christodoulou-ja-2014)
@@ -29,7 +31,7 @@ sources:
 
 Christodoulou JA, Del Tufo SN, Lymberis J, Saxler PK, Ghosh SS, et al. (2014) Brain Bases of Reading Fluency in Typical Reading and Impaired Fluency in Dyslexia. PLoS ONE 9(7): e100552. https://doi.org/10.1371/journal.pone.0100552
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 An a priori 10 mm sphere ROI at canonical VWFA coordinates was examined across rates and groups. The ROI showed greater activation as a function of rate (p<.0001) with no group effect and no group x rate interaction (p = .41).
 

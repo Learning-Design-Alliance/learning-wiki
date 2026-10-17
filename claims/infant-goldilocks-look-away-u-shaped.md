@@ -47,3 +47,4 @@ The review reports the authors' infant studies (Kidd, Piantadosi, & Aslin, 2012,
 - [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related
 - [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](cds-prosody-supports-phoneme-segmentation.md) — related
 - [Structural features of child-directed speech—isolated words, short sentence frames, and repetition—facilitate word segmentation, processing, and word learning](cds-structural-features-aid-word-learning.md) — related
+- [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Partial correlational analyses on 56 third-graders' data compared unique contrib
 - [Direct subtraction items were solved more accurately and faster than indirect addition items](ds-items-faster-more-accurate-than-ia-items.md) — related
 - [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](magnitude-comparison-more-unique-than-number-line.md) — related
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](magnitude-processing-associated-mental-multidigit-subtraction.md) — a broader claim this one bears on
+- [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related

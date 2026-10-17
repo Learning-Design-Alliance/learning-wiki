@@ -67,3 +67,4 @@ Experiment 3 analysis of words repeated within List 3, presented and tested in t
 - [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, disconfirming a pure context-retrieval account for that condition](within-list-lag-persists-with-interitem-associations.md) — related
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](free-recall-lag-effect-structural-components.md) — related
+- [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — related

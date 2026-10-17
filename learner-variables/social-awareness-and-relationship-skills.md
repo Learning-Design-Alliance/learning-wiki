@@ -12,7 +12,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (44 show a difference, 12 mixed, 7 no difference) · 49 studies (13 review, 10 quant-synthesis, 9 causal, 7 associational, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 17 of 49 report an effect size · 59 claims rest on one study
+> **Evidence** · 68 claims (47 show a difference, 13 mixed, 8 no difference) · 52 studies (13 review, 10 quant-synthesis, 10 associational, 9 causal, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 17 of 52 report an effect size · 64 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -103,6 +103,11 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The bilingual advantage in perspective taking appears at the 180° and 270° observer positions but not at the 90° position](../claims/bilingual-advantage-difficult-observer-positions.md) [~M] — instruction changes it
 - [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](../claims/working-memory-accounts-adhd-perspective-taking-relation.md) [+M] — instruction changes it
 - [Working memory is the strongest predictor of adolescents' communicative perspective-taking](../claims/working-memory-predicts-adolescent-communicative-perspective-taking.md) [+M] — instruction changes it
+- [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](../claims/ethnicity-moderates-social-academic-relations.md) [~M] — learners who differ on it differ in outcomes
+- [Observed help-seeking during the challenge task is unrelated to teacher-rated learning-related behaviors and academic skills](../claims/observed-help-seeking-unrelated-to-school-readiness.md) [-M] — learners who differ on it differ in outcomes
+- [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](../claims/social-skills-independently-predict-emergent-academics.md) [+M] — learners who differ on it differ in outcomes
+- [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](../claims/social-competence-positive-externalizing-negative-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

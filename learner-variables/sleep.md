@@ -12,7 +12,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 6 claims (4 show a difference, 2 mixed) · 4 studies (2 review, 1 causal, 1 associational), `q2`–`q3` · 1 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (9 show a difference, 3 mixed, 1 no difference) · 6 studies (3 associational, 2 review, 1 causal), `q2`–`q3` · 3 of 6 report an effect size · 13 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -41,6 +41,13 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [School-based sleep education improves children's sleep duration and quality](../claims/sleep-education-improves-childrens-sleep.md) [+M] — instruction changes it
 - [Self-reported habitual sleep disturbance is significantly negatively correlated with all three executive function components in 7–9-year-old children](../claims/sleep-disturbance-correlated-all-three-ef-components.md) [+M] — learners who differ on it differ in outcomes
 - [Sleep's association with inhibitory control and working memory remains significant after controlling for the other EF components, but cognitive flexibility's does not](../claims/sleep-ic-wm-direct-flexibility-nonsignificant-partial.md) [~M] — learners who differ on it differ in outcomes
+- [Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years](../claims/delayed-school-start-time-increases-sleep-duration.md) [+M] — instruction changes it
+- [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](../claims/frequent-daytime-sleepiness-impaired-school-performance.md) [+W] — learners who differ on it differ in outcomes
+- [In the intervention trial, short sleep prevalence fell sharply in delayed-start schools (intervention 2: 40.47% to 11.87%) while sufficient-sleep prevalence remained low overall](../claims/delayed-start-reduced-short-sleep-prevalence.md) [+M] — instruction changes it
+- [Irregular sleep is associated with longer target P3 latencies in toddlers](../claims/irregular-sleep-longer-toddler-p3-latency.md) [+M] — learners who differ on it differ in outcomes
+- [P3 amplitudes and sleep duration show no significant associations with sleep deficits or sustained attention in toddlers](../claims/null-p3-amplitude-sleep-duration-associations-toddlers.md) [-M] — learners who differ on it differ in outcomes
+- [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](../claims/short-sleep-duration-academic-achievement-longitudinal.md) [~W] — learners who differ on it differ in outcomes
+- [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](../claims/nonlinear-sleep-duration-school-performance-association.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

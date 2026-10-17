@@ -47,3 +47,4 @@ Planned comparisons in the older-adult sample of the sign priming experiment. Pr
 - [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md) — related
 - [Presenting the '+' sign 150 ms before operands speeds up addition problem solving in expert older adults, replicating the effect found in young adults](sign-priming-addition-older-adults.md) — a broader claim this one bears on
 - [Problem type modulated solution times, with large problems slowest and +1 problems fastest in both age groups](problem-type-solution-time-structure.md) — related
+- [Previously identified effects in single digit multiplication, including the problem size effect and the tie effect, replicate in an integrated item-difficulty analysis.](problem-size-and-tie-effects-replicated-integrated-analysis.md) — related

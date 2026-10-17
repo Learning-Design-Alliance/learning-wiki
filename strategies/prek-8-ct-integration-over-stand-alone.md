@@ -43,6 +43,7 @@ The report's first commitment is focusing on PreK-8 integration of computing wit
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts](when-to-teach-algorithms-five-contexts.md)
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
+- [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 
 ## Examples
 -

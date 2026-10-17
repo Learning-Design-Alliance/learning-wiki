@@ -59,9 +59,11 @@ Extending wait-time beyond the typical sub-second classroom pause changes both t
 6. Follow up with [Practice](../elements/practice.md) and [Provide Feedback](../elements/provide-feedback.md) to confirm that the extra time produced understanding, not just familiarity.
 
 ## Related Strategies
+
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — the broader accommodation set this strategy belongs to
 - [Chunking](../principles/chunking.md) — reduces the per-pass processing load, making think-time more productive
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — gives the re-reading pass something to hook onto
+- [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](accommodations-extended-time-assistive-tech-slow-ps.md)
 
 ## Examples
 - **Wait-time in science discourse**: Rowe's classic studies found that extending teacher wait-time from ~1 to 3+ seconds increased student response length, student-initiated questions, and participation by slower responders (Rowe, 1974).

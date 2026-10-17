@@ -12,7 +12,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (56 show a difference, 20 mixed, 7 no difference, 2 unmarked) · 57 studies (22 associational, 12 review, 10 causal, 5 qualitative, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 18 of 57 report an effect size · 81 claims rest on one study
+> **Evidence** · 95 claims (63 show a difference, 21 mixed, 9 no difference, 2 unmarked) · 61 studies (26 associational, 12 review, 10 causal, 5 qualitative, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 18 of 61 report an effect size · 89 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -120,6 +120,16 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Total anxiety predicts later fluency for girls only, via a significant gender-by-anxiety interaction](../claims/gender-moderates-anxiety-fluency-relation.md) [~M] — learners who differ on it differ in outcomes
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](../claims/wm-fully-mediates-anxiety-attention-numerical-operations.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory mediates the indirect effects of anxiety on math performance](../claims/wm-mediates-anxiety-effect-on-math.md) [+M] — learners who differ on it differ in outcomes
+- [Both SEMA subscales — numerical and situational anxiety — are equally negatively related to math achievement](../claims/math-anxiety-subscale-effects-on-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)](../claims/math-anxiety-arises-early-primary-school.md) [+W] — learners who differ on it differ in outcomes
+- [Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3](../claims/grade-2-math-anxiety-indirect-effect-grade-3-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Math anxiety is not significantly correlated with reading achievement in young children](../claims/math-anxiety-not-correlated-reading-achievement.md) [-W] — learners who differ on it differ in outcomes
+- [Math anxiety is not significantly correlated with trait anxiety in young children](../claims/math-anxiety-uncorrelated-trait-anxiety-children.md) [-W] — learners who differ on it differ in outcomes
+- [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](../claims/math-anxiety-negative-math-achievement-young-children.md) [+W] — learners who differ on it differ in outcomes
+- [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](../claims/math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) [~M] — learners who differ on it differ in outcomes
+- [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](../claims/observed-anxiety-predicts-lower-work-self-regulation.md) [+W] — learners who differ on it differ in outcomes
+- [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](../claims/math-anxiety-performance-link-significant-grade-3.md) [+W] — learners who differ on it differ in outcomes
+- [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

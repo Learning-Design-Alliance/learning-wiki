@@ -49,3 +49,4 @@ Correlational analysis relating each child's mean RT at 19, 25 and 31 months to 
 - [Faster processing speed at 19 months predicts faster syntactic growth between 19 and 30 months, controlling for concurrent vocabulary](processing-speed-predicts-syntactic-growth-controlling-vocabulary.md) — related
 - [Faster processing speed predicts greater vocabulary growth only for children with smaller vocabularies at 19 months](processing-speed-predicts-vocabulary-growth-low-vocabulary-only.md) — related
 - [Vocabulary size at 19 months is a strong predictor of later syntactic growth between 19 and 30 months](vocabulary-size-predicts-syntactic-growth-19-30-months.md) — related
+- [Early ANS acuity does not predict later expressive vocabulary; only initial vocabulary size predicts vocabulary six months later](ans-acuity-not-predicting-vocabulary-growth.md) — related

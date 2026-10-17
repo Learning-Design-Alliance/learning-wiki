@@ -66,3 +66,5 @@ Model B growth model adding receptive vocabulary and processing speed measured a
 - [The Chicago School Readiness Project, a classroom-based RCT, improved low-income children's executive function and academic skills with effect sizes of 0.34 to 0.63](csrp-intervention-improved-self-regulation-and-academics.md) — related
 - [Directly assessed effortful control at 48 months predicts prekindergarten math but not reading, and not growth in either](direct-effortful-control-predicts-math-not-reading.md) — related
 - [Combined teacher and parent report of effortful control predicts both prekindergarten math level and growth, persisting through the most stringent model](effortful-control-report-predicts-math-growth.md) — related
+- [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
+- [Executive function at 48 months moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](ef-moderates-preschool-kindergarten-ecls-k-math.md) — related

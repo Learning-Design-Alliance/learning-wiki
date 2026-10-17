@@ -52,3 +52,4 @@ Narrative review attributing this to Moschkovich's (1996) analysis of how Latino
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](unfamiliar-contexts-distract-from-mathematics.md) — related
+- [Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back](discontinuity-during-folding-back-still-effective.md) — related

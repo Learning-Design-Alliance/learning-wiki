@@ -45,3 +45,4 @@ Longitudinal stability analysis of 42 children across six sessions; 30 children 
 ## Related Claims
 - [The subset-to-cardinal-principle knower-level transition coincides with the largest longitudinal gains in ANS acuity, exceeding other transition types](subset-to-cp-jump-largest-ans-acuity-gain.md) — related
 - [ANS acuity (w) did not significantly improve within children over the six-month period in the session-level analysis, though a hierarchical linear model detected a linear increase in percent correct](no-significant-w-improvement-over-six-months.md) — related
+- [Analyzing Give-N data by knower-level yields greater statistical power than analyzing by percent correct, plausibly explaining the discrepancy with Ansari et al. (2003).](knower-level-analysis-greater-power-than-percent-correct.md) — related

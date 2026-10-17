@@ -48,3 +48,4 @@ Multiple regression analysis (Model 6) predicting PPVT at 42 months. "when the n
 - [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) — possibly the same claim (merge candidate)
 - [Proportions of rare words and decontextualized utterances in parent input increase linearly from 18 to 42 months](proportions-rare-decontextualized-increase-over-time.md) — related
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — related
+- [Parent number talk is not related to children's general vocabulary development once SES and overall talk are controlled, indicating domain specificity](number-talk-domain-specific-not-vocabulary.md) — related

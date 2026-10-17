@@ -49,3 +49,4 @@ Cross-sectional ABCD analysis of bullying-by-sex interactions on CBCL scores. Th
 - [Boys are more likely than girls to be reported as bullied in preadolescence](boys-more-likely-bullied-than-girls-preadolescent.md) — related
 - [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — a broader claim this one bears on
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
+- [Bullying predicts depressive symptoms two years later for boys but not for girls](bullying-depressive-symptoms-boys-not-girls.md) — related

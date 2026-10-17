@@ -44,6 +44,7 @@ The paper recommends teaching computational thinking across subject areas in K-1
 ## Related Strategies
 
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
+- [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 
 ## Examples
 -

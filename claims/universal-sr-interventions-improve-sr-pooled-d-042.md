@@ -15,12 +15,14 @@ sources:
     author: Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Universal self-regulation interventions improve self-regulation in children and adolescents, with a pooled effect size of d = 0.42 (95% CI, 0.32-0.53) on task performance scores.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Meta-analysis of 19 studies measuring SR via task performance scores found a statistically significant pooled effect favoring intervention (d = 0.42; 95% CI, 0.32-0.53). [→ Pandey A 2018](#pandey-a-2018)
@@ -31,7 +33,7 @@ sources:
 
 Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM. (2018). Effectiveness of Universal Self-regulation–Based Interventions in Children and Adolescents: A Systematic Review and Meta-analysis. JAMA Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 19 studies reporting SR outcomes based on task performance scores, pooled under a random-effects model. The review states the overall effect was statistically significant and favored the intervention, with "pooled effect size d = 0.42; 95% CI, 0.32-0.53".
 
@@ -48,3 +50,4 @@ Meta-analysis of 19 studies reporting SR outcomes based on task performance scor
 - [Interventions were effective across all child and adolescent age groups, with no particular age group in which interventions were most effective.](sr-interventions-effective-across-all-age-groups.md) — a narrower finding that bears on this claim
 - [Family-based interventions improved self-regulation in 5 of 9 studies (56%) and had longer follow-up durations than other intervention types.](family-based-interventions-improved-sr-5-of-9.md) — related
 - [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related
+- [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](mindfulness-yoga-ef-gains-poorest-gain-most.md) — a narrower finding that bears on this claim

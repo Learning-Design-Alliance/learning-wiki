@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -43,6 +43,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+W]
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](../claims/genai-ethics-reflection-versus-copying-boundaries.md) [+W]
+- [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+W] — attached 2026-10-17 from van de Kamp et al. (2016), which proposed "A 50-minute metacognitive strategy instruction lesson on divergent thinking for visual arts"; tests this page's relationship.
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

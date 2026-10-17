@@ -299,3 +299,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations](no-clear-simulation-advantage-over-expository.md) — related
 - [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — a narrower finding that bears on this claim
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — a narrower finding that bears on this claim
+- [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — a broader claim this one bears on

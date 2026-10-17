@@ -68,3 +68,6 @@ Longitudinal study of a racially/ethnically and linguistically diverse sample of
 - [Mathematical accuracy and fluency have overlapping yet different predictors, supporting attention to both aspects in mathematics teaching](accuracy-and-fluency-different-predictors.md) — related
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
+- [Preschool executive function positively predicts kindergarten math on both measures, while teacher–child relationship quality shows only a trend-level main effect on ECLS-K Math and none on Applied Problems](ef-main-effect-teacher-relationship-main-effect-kindergarten-math.md) — related
+- [Executive function at 48 months moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](ef-moderates-preschool-kindergarten-ecls-k-math.md) — related
+- [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related

@@ -44,3 +44,4 @@ Background battery (PPVT, animal span, sequencing span, Corsi blocks, trail-maki
 
 ## Related Claims
 - [Bilingual children in Canada and India perform equivalently, supporting bilingualism rather than culture or immigration as the advantage's source](bilingual-advantage-generalizes-across-two-cultures.md) — related
+- [Controlling for SES, monolingual children outperform both simultaneous and sequential bilinguals on single-language English receptive and expressive vocabulary measures](monolinguals-outperform-bilinguals-single-language-english-vocabulary.md) — related

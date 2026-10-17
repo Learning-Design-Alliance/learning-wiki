@@ -42,3 +42,4 @@ Logistic regression in the Bergen Child Study longitudinal cohort (N = 3453) com
 
 ## Related Claims
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
+- [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related

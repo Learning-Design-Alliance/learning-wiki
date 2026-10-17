@@ -48,3 +48,4 @@ Authors' interpretation in the Discussion, contrasting their null result in typi
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — a narrower finding that bears on this claim
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
 - [Teacher-rated inhibition (BRIEF) does not correlate with stroop-based cognitive inhibition measures](brief-uncorrelated-stroop-inhibition.md) — related
+- [No significant independent relationship was found between inhibition and factual knowledge of arithmetic in either children or adults](no-inhibition-factual-knowledge-relationship.md) — related

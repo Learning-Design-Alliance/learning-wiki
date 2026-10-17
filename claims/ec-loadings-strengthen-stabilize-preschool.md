@@ -49,3 +49,4 @@ Longitudinal metric invariance analysis combining all four age-point models (ove
 - [Executive task accuracy and processing speed improve dramatically with age across the preschool period, with no cohort effect from repeated testing](executive-performance-improves-with-age-no-cohort-effect.md) — related
 - A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language — related
 - The four effortful control subscales load onto a single latent factor in preschoolers — related
+- [EF and ToM each show substantial longitudinal stability from 3 to 5 years](ef-tom-longitudinal-stability.md) — related

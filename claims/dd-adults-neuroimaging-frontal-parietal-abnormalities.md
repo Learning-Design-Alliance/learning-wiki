@@ -50,3 +50,6 @@ Review reports Cappelletti and Price (2014) fMRI study: DD adults showed "strong
 - [Children with DD show hyper-connectivity, not reduced connectivity, between the IPS and fronto-parietal and default mode networks during arithmetic](dd-ips-hyperconnectivity-fronto-parietal-dmn.md) — related
 - [Adults with developmental dyscalculia show reduced left intraparietal activation during serial order processing relative to controls](dyscalculia-reduced-left-intraparietal-serial-order-activation.md) — related
 - [The putative visual word form area increases activation with presentation rate similarly in both groups, with no group difference or group-by-rate interaction](vwfa-rate-increase-no-group-difference.md) — related
+- [No white-matter structural connectivity differences between adults with dyscalculia and controls in the examined tracts](dyscalculia-no-structural-connectivity-differences.md) — related
+- [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — reports the opposite
+- [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related

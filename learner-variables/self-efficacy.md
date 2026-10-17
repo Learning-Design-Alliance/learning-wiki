@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (84 show a difference, 13 mixed, 8 no difference) · 88 studies (37 associational, 14 causal, 12 review, 12 qualitative, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 12 of 88 report an effect size · 102 claims rest on one study
+> **Evidence** · 107 claims (86 show a difference, 13 mixed, 8 no difference) · 90 studies (37 associational, 14 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 12 of 90 report an effect size · 104 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -135,6 +135,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](../claims/high-performance-feedback-increases-self-efficacy-across-age-groups.md) [+M] — instruction changes it
 - [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+W] — learners who differ on it differ in outcomes
 - [Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items](../claims/older-adults-restudy-easy-items-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Community-based mathematical investigations gave students confidence to use mathematics for social change](../claims/community-based-math-social-change.md) [+M] — instruction changes it
+- [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
 
 ## The evidence by question
 

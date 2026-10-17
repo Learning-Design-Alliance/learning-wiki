@@ -51,3 +51,4 @@ The authors call these promising targets because they are malleable, citing a se
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
 - [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related
+- [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — a narrower finding that bears on this claim

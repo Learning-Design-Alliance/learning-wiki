@@ -46,3 +46,4 @@ Table 2 of the hierarchical regression models shows the general processing speed
 - [Neither numerosity processing nor figure matching predicts general mathematical achievement](numerosity-figure-matching-not-predict-math-achievement.md) — related
 - [The prediction power of specific processing speed for mathematics decreases with reduced arithmetic fluency: complex multiplication did not predict mathematics although it predicted Chinese and English](arithmetic-fluency-gradient-complex-multiplication-null-for-math.md) — related
 - [Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
+- [Inattention is the only psychopathology symptom dimension associated with slow processing speed, and it does not explain the associations with ASD or psychosis](inattention-dimension-associated-slow-ps.md) — related

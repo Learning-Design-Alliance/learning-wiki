@@ -47,3 +47,4 @@ Secondary coded behaviors in the video-monitored subset (n=8): yawning, eye rubb
 - [Sleep restriction increases objectively coded inattentive behaviors in a simulated classroom](sleep-restriction-increases-inattentive-classroom-behaviors.md) — related
 - [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](sleep-restriction-lowers-tonic-arousal-classroom.md) — related
 - [Sleep restriction impairs emotional self-regulation in toddlers, with randomized-trial evidence of moderate-to-large effects](sleep-restriction-emotional-regulation-toddlers.md) — related
+- [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related

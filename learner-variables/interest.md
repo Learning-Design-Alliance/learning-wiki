@@ -12,7 +12,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (69 show a difference, 10 mixed, 6 no difference, 2 unmarked) · 75 studies (27 causal, 16 associational, 11 review, 11 design, 4 quant-synthesis, 4 qualitative, 2 theoretical), `q1`–`q4` · 14 of 75 report an effect size · 82 claims rest on one study
+> **Evidence** · 96 claims (77 show a difference, 11 mixed, 6 no difference, 2 unmarked) · 80 studies (28 causal, 18 associational, 12 design, 11 review, 5 qualitative, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 15 of 80 report an effect size · 91 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -121,6 +121,15 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Only the self-concept-by-low-cost interaction adds predictive power for achievement beyond the self-concept-by-global-value interaction](../claims/self-concept-low-cost-interaction-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](../claims/synergistic-self-concept-global-value-interaction.md) [+M] — learners who differ on it differ in outcomes
 - [Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement](../claims/self-concept-and-value-equal-predictors-teacher-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](../claims/competition-enjoyment-task-focused-evaluation.md) [+M] — instruction changes it
+- [In Study 1, students rated the revised intervention as more interesting and more informative than the original intervention](../claims/revised-intervention-rated-more-interesting-study1.md) [+M] — instruction changes it
+- [In the higher track, reading enjoyment and sex show main effects on non-leisure readers' school achievement, with enjoyers of both sexes scoring higher](../claims/higher-track-enjoyment-grades-both-sexes.md) [+M] — learners who differ on it differ in outcomes
+- [In the lower track, reading enjoyment relates to school achievement for girls but not for boys among non-leisure readers](../claims/lower-track-enjoyment-grades-girls-only.md) [~M] — learners who differ on it differ in outcomes
+- [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
+- [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst](../claims/observed-interest-arousal-predicts-poorer-readiness.md) [+M] — learners who differ on it differ in outcomes
+- [Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items](../claims/studying-high-curiosity-items-improves-recall.md) [+M] — learners who differ on it differ in outcomes
+- [Yes/no feedback that one was wrong increased curiosity selectively for high-confidence errors, leaving curiosity about low-confidence errors largely unchanged](../claims/yes-no-feedback-high-confidence-errors-increase-curiosity.md) [+M] — instruction changes it
+- [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](../claims/yes-no-feedback-correct-answers-quench-curiosity.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

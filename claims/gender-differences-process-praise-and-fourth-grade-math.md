@@ -54,3 +54,7 @@ Preliminary t-test comparisons in the same longitudinal sample. Boys' process pr
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [Process praise effects persist after controlling for overall parent talk and SES, suggesting they are not proxies for general engagement](praise-effects-robust-to-parent-talk-and-ses-controls.md) — related
 - [Boys scored significantly higher than girls on IQ in the sample (p=.001)](sex-difference-iq-boys-higher-sample.md) — related
+- [Boys received significantly more process praise than girls, despite equal overall praise](boys-more-process-praise-than-girls.md) — a narrower finding that bears on this claim
+- [Girls show early EF and ToM advantages, but the EF advantage diminishes with age while the ToM advantage persists](gender-advantage-ef-diminishes-tom-persists.md) — related
+- [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related
+- [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — reports the opposite

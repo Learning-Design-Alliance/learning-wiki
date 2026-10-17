@@ -49,3 +49,4 @@ Descriptive analysis of maternal speech from 12-minute play sessions at 18 month
 - [Maternal talk influences on vocabulary and processing speed are largely overlapping, with each mediating the other's relation to input](overlapping-influences-input-vocabulary-processing.md) — related
 - [Children's vocabulary and reaction time improved significantly from 18 to 24 months, and maternal talk measures were highly intercorrelated](vocabulary-and-processing-speed-gains-18-to-24-months.md) — related
 - [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
+- [Child-directed speech varies dramatically among low-SES families, up to an 18-fold difference, largely independent of maternal education and overall talkativeness](cds-variability-within-low-ses-families.md) — related

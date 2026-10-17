@@ -15,12 +15,14 @@ sources:
     author: Stea TH, Torstveit MK
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` High lemonade intake was associated with lower odds of high achievement in girls (AOR 0.42) and boys (AOR 0.67); high sugar-sweetened soft drink (AOR 0.47) and salty snack (AOR 0.63) intake were significant in girls only. [→ Stea TH 2014](#stea-th-2014)
@@ -31,7 +33,7 @@ sources:
 
 Stea TH, Torstveit MK. (2014). Association of lifestyle habits and academic achievement in Norwegian adolescents: a cross-sectional study. BMC Public Health 2014, 14:829. https://doi.org/10.1186/1471-2458-14-829
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional logistic regression of unhealthy food and beverage intake (more than three times per week) against grades, adjusted for BMI and parental education. Girls' soft-drink association was "AOR: 0.47 (0.35- 0.64)"; diet soft drinks and candy were not significant. No standardized effect size was printed.
 

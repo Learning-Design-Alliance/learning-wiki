@@ -15,12 +15,14 @@ sources:
     author: Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Arithmetic performance was additionally predicted by visuo-motor integration performance and knowledge of Arabic numerals. [→ Véronique Cornu 2017](#veronique-cornu-2017)
@@ -31,7 +33,7 @@ sources:
 
 Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin. (2017). The predictive role of spatial skills for arithmetic and number line estimation in kindergarten children. https://doi.org/10.1016/j.cogdev.2017.09.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Same hierarchical regression analysis in the kindergarten longitudinal sample (N = 125). The article reports arithmetic was predicted by "their performance on the spatial orientation and visuo-motor integration task, as well as their knowledge of the Arabic numerals"; no coefficients are printed in the supplied text.
 

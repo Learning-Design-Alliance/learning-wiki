@@ -45,6 +45,7 @@ The summary recommends that LLI Interventionists receive formal 3-day LLI traini
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 - [Staff Passport to Literacy with trained paraprofessional interventionists receiving 8 hours of training over 2 days](passport-to-literacy-staffing-training-strategy.md)
 - [Provide formal training, ongoing supervisory support, and colleague collaboration when introducing new child assessments](supports-for-acting-on-child-assessment-information.md)
+- [Transportable tutoring protocol with structured tutor training and supervision](fact-retrieval-tutoring-training-transportability.md)
 
 ## Examples
 -

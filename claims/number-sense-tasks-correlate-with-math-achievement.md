@@ -54,3 +54,5 @@ The authors note that these correlations run against the expectation that numeri
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — a narrower finding that bears on this claim
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
+- [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — reports the opposite
+- [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — related

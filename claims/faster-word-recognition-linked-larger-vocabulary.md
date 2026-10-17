@@ -50,3 +50,4 @@ In the same longitudinal sample, children's RT was measured with the looking-whi
 - [Children of mothers who produced more word tokens at 18 months were faster to recognize familiar words at 24 months](maternal-input-predicts-faster-word-recognition.md) — related
 - [Maternal talk influences on vocabulary and processing speed are largely overlapping, with each mediating the other's relation to input](overlapping-influences-input-vocabulary-processing.md) — a broader claim this one bears on
 - [Children get faster at recognising familiar words in speech between 19 and 31 months of age](toddler-lexical-processing-speed-increases-19-31-months.md) — related
+- [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related

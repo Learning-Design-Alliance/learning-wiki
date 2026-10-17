@@ -47,3 +47,4 @@ Qualitative theme from interviews and a worked example (Fig. 2): the chatbot cal
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
 - [Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations](ai-as-explanation-scaffold-verification-secondary-stem.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Teacher interventions that are not explicit encourage learners' self-awareness of the limitations of their current understanding without prescribing a solution](non-explicit-teacher-interventions-encourage-self-awareness.md) — related

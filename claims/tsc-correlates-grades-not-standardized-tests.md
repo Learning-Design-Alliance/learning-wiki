@@ -13,12 +13,14 @@ sources:
     title: Schmidt FTC 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Trait self-control correlates with grades but not with standardized test scores at the bivariate level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Trait self-control showed significant positive correlations with mGPA (r = 0.16) but non-significant correlations with mathematics (r = 0.03) and physics (r = 0.01) scores. [→ Schmidt FTC 2020](#schmidt-ftc-2020)
@@ -29,7 +31,7 @@ sources:
 
 Schmidt FTC, Lindner C, Etzel JM and Retelsdorf J (2020) Self-Control Outdoes Fluid Reasoning in Explaining Vocational and Academic Performance—But Does It? Front. Psychol. 11:757. https://doi.org/10.3389/fpsyg.2020.00757
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Observed correlations in Table 1 for N = 3,146 trainees; TSC correlated 0.16 with mGPA (p < 0.05) and 0.03/0.01 with the test scores, showing "no statistically significant relationships with either standardized achievement test".
 

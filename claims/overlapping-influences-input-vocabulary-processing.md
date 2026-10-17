@@ -48,3 +48,4 @@ Multiple regression mediation analyses on the 27-dyad longitudinal sample, model
 - [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — related
 - [Children's vocabulary and reaction time improved significantly from 18 to 24 months, and maternal talk measures were highly intercorrelated](vocabulary-and-processing-speed-gains-18-to-24-months.md) — related
 - [Faster word recognition at 24 months is associated with larger vocabularies and greater vocabulary gains in Spanish-learning children](faster-word-recognition-linked-larger-vocabulary.md) — a narrower finding that bears on this claim
+- [Processing efficiency at 19 months mediates the relation between child-directed speech and 24-month vocabulary](processing-efficiency-mediates-cds-vocabulary.md) — related

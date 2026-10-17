@@ -1,0 +1,48 @@
+---
+type: claim
+title: Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group
+description: Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group
+id: vmi-lowest-mc-highest-all-groups
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: capellini-2017
+    resource: "https://doi.org/10.4236/psych.2017.82015"
+    title: "Capellini, S. A., Giaconi, C., & Germano, G. D. (2017). Relation between Visual Motor Integration and Handwriting in Students of Elementary School. Psychology, 8, 258-270. https://doi.org/10.4236/psych.2017.82015"
+    author: "Capellini, S. A., Giaconi, C., & Germano, G. D."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+
+## Subclaims
+`q2 i?` Within every group, Friedman tests found significant differences among the three subtests, and all groups shared the performance standard MC > VP > VMI. [→ Capellini 2017](#capellini-2017)
+
+## Evidence
+
+### Capellini 2017
+
+Capellini, S. A., Giaconi, C., & Germano, G. D. (2017). Relation between Visual Motor Integration and Handwriting in Students of Elementary School. Psychology, 8, 258-270. https://doi.org/10.4236/psych.2017.82015
+
+`q2 · i?` · `associational · r1`
+
+Friedman tests compared VMI, VP and MC within each group (all significant, e.g. GI p = 0.021, GV p = 0.001); the conclusion states "The viso -motor integration was the ability that all groups had lower score and motor coordination was the ability that all groups had better performance".
+
+> "The viso -motor integration was the ability that all groups had lower score and motor coordination was the ability that all groups had better performance"
+
+## Discussion
+
+
+## Related Claims
+- [No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels](no-group-difference-performance-classification.md) — related
+- [Acquisition of visual perception, motor coordination and visual-motor integration does not progress linearly across grades 1 to 5](nonlinear-grade-progression-visomotor-skills.md) — related
+- [First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups](grade1-inferior-vmi-vp-mc-performance.md) — related

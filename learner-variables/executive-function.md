@@ -12,7 +12,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (35 show a difference, 11 mixed, 16 no difference, 2 unmarked) · 37 studies (15 associational, 11 causal, 5 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 9 of 37 report an effect size · 62 claims rest on one study
+> **Evidence** · 80 claims (48 show a difference, 13 mixed, 17 no difference, 2 unmarked) · 45 studies (21 associational, 11 causal, 7 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 11 of 45 report an effect size · 78 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -100,6 +100,22 @@ Executive function covers inhibitory control, updating working memory, and shift
 - The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory [~M] — learners who differ on it differ in outcomes
 - [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](../claims/mediators-not-significantly-different.md) [~M] — learners who differ on it differ in outcomes
 - [Working memory is the strongest predictor of adolescents' communicative perspective-taking](../claims/working-memory-predicts-adolescent-communicative-perspective-taking.md) [+M] — learners who differ on it differ in outcomes
+- [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](../claims/moderate-exercise-stroop-dlpfc-activation.md) [+M] — instruction changes it
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](../claims/acute-exercise-small-positive-executive-cognition-effect.md) [+M] — instruction changes it
+- [Children with the weakest executive functions benefit the most from EF interventions, so early training may reduce social disparities in EFs](../claims/weakest-efs-benefit-most-from-training.md) [+M] — an instructional effect differs with it
+- [Children's adult-reported and observed effortful control in early elementary school prospectively predicts academic achievement 6 years later](../claims/ec-prospective-achievement-six-year.md) [+M] — learners who differ on it differ in outcomes
+- [Computer-based training reliably improves children's working memory and reasoning, but computerized training has not succeeded in improving 4- to 6-year-olds' inhibitory control](../claims/computerized-training-wm-reasoning-not-young-inhibition.md) [~W] — instruction changes it
+- [Early expressive vocabulary predicts emergent literacy outcomes only until inhibitory control measures are added, after which it is no longer significant](../claims/early-vocabulary-nonsignificant-once-inhibition-added.md) [~M] — learners who differ on it differ in outcomes
+- [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](../claims/tap-test-significant-fist-not-in-math-prediction.md) [+M] — learners who differ on it differ in outcomes
+- [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](../claims/ec-social-functioning-path-covariates.md) [+M] — learners who differ on it differ in outcomes
+- [Executive function at age 3 predicts theory of mind at age 4, controlling for gender, income-to-needs, and receptive language](../claims/ef-at-3-predicts-tom-at-4.md) [+M] — learners who differ on it differ in outcomes
+- [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](../claims/exercise-intensity-moderates-cognitive-benefits.md) [+M] — instruction changes it
+- [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](../claims/early-adolescent-inhibitory-control-predicts-delinquency-increase.md) [+M] — learners who differ on it differ in outcomes
+- [Lower temperamental effortful control at 36 months directly predicts reduced N2 amplitude in adolescence, above and beyond ADHD symptoms](../claims/early-effortful-control-predicts-adolescent-n2.md) [+M] — learners who differ on it differ in outcomes
+- [Rate of growth in task-based inhibitory control is unrelated to later delinquent behavior](../claims/inhibitory-control-growth-rate-unrelated-delinquency.md) [-M] — learners who differ on it differ in outcomes
+- [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [The mediated EC-achievement model is not moderated by children's sex, age, or SES](../claims/no-moderation-sex-age-ses.md) [+W] — learners who differ on it differ in outcomes
+- [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](../claims/narrow-transfer-computerized-ef-training.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

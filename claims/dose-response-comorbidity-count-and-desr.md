@@ -48,3 +48,4 @@ Descriptive dose–response analysis in ADHD probands relating the number of cur
 - [The association between ADHD and DESR is not fully explained by comorbid psychiatric disorders](desr-not-fully-explained-by-comorbidity.md) — related
 - [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
 - [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related
+- [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md) — related

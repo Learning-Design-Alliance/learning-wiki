@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 7 studies (6 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (7 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies (Hidi & Renninger, 2006; Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -55,6 +55,8 @@ The model is widely cited but only partially validated: it has received limited 
 
 - [Seductive details can distract from learning](../claims/seductive-details-effect.md) [-M]
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](../claims/personalization-improves-hard-kc-accuracy-algebra-its.md) [+W] — attached 2026-10-14 from Walkington (2013), which proposed "Interest-based framework for context personalization: individual, situational, and topic interest in adaptive learning".
+- [In the treatment condition, both epistemic curiosity and situational interest increased after problem presentation and decreased after the explanatory text](../claims/treatment-condition-arousal-decrease.md) [+W] — attached 2026-10-17 from Henk G. Schmidt et al. (2021), which proposed "Knowledge-deprivation account: situational interest and epistemic curiosity share one knowledge-gap mechanism".
+- [In the control condition, no arousal or decrease of either measure occurred because prior knowledge eliminated the knowledge gap](../claims/control-condition-no-arousal.md) [~W] — attached 2026-10-17 from Henk G. Schmidt et al. (2021), which proposed "Knowledge-deprivation account: situational interest and epistemic curiosity share one knowledge-gap mechanism".
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

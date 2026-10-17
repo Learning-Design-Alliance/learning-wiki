@@ -15,12 +15,14 @@ sources:
     author: Tiago Ferreira, Joana Cadima, Marisa Matias, Joana Marina Vieira, and Teresa Leal; Karine Verschueren; Paula Mena Matos
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parents' working hours and number of children do not add explanatory power for engagement beyond work-family conflict
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Parents' working hours and the number of children did not significantly increase the proportion of variance explained in either mothers' or fathers' engagement beyond what was explained by work-family conflict at any wave. [→ Tiago Ferreira 2018](#tiago-ferreira-2018)
@@ -31,7 +33,7 @@ sources:
 
 Tiago Ferreira, Joana Cadima, Marisa Matias, Joana Marina Vieira, and Teresa Leal; Karine Verschueren; Paula Mena Matos. (2018). Trajectories of Parental Engagement in Early Childhood Among Dual-Earner Families: Effects on Child Self-Control. Developmental Psychology, 54(4), 731–743. https://doi.org/10.1037/dev0000458
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression analyses testing whether working hours and number of children added variance beyond WFC for engagement at each wave. The article reports "Parents’ working hours and the number children did not significantly increase the proportion of variance explained by WFC" at any wave for either parent.
 

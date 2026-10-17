@@ -43,6 +43,7 @@ The review recommends leveraging AI literacy to enhance learning of disciplinary
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](prek-8-ct-integration-over-stand-alone.md)
+- [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 
 ## Examples
 -

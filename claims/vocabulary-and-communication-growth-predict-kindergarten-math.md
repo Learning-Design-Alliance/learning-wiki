@@ -15,12 +15,14 @@ sources:
     author: Ramsook K. Ashana, Welsh Janet A., Bierman Karen L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Growth in both vocabulary and social communication skills predicts kindergarten math achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Initial levels of vocabulary (β = .20, p < .05) and social communication (β = .25, p < .01) predicted math achievement, and growth in both vocabulary (β = .17, p < .05) and social communication (β = .15, p < .05) was associated with better math. [→ Ramsook K. Ashana 2020](#ramsook-k-ashana-2020)
@@ -31,7 +33,7 @@ sources:
 
 Ramsook K. Ashana, Welsh Janet A., Bierman Karen L. (2020). What you say, and how you say it: Preschoolers' growth in vocabulary and communication skills differentially predict kindergarten academic achievement and self‐regulation. Social Development, 29(3), 783–800. https://doi.org/10.1111/sode.12425
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel models predicting Wave 3 Applied Problems scores for 164 Head Start children, controlling for Wave 1 math and covariates. The article reports "Growth in both vocabulary (β = .17, SE = .22, p < .05)" and social communication growth each contributed incrementally.
 

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 66 claims (40 for, 23 mixed, 3 against) · 50 studies (23 causal, 8 review, 7 theoretical, 6 qualitative, 3 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 8 of 50 report an effect size · 62 claims rest on one study
+> **Evidence** · 67 claims (41 for, 23 mixed, 3 against) · 51 studies (24 causal, 8 review, 7 theoretical, 6 qualitative, 3 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 8 of 51 report an effect size · 63 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -108,6 +108,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](../claims/aging-spares-jol-resolution-encoding.md) [~W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Metacognition as monitoring plus control in a reciprocal relation, forming the basis of self-regulated learning".
 - [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](../claims/metacognitive-selfregulation-training-beats-strategy-training.md) [+W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Metacognition as monitoring plus control in a reciprocal relation, forming the basis of self-regulated learning".
 - [Feeling-of-knowing resolution for episodic memory depends on underlying memory quality: repeated presentations raised FOK resolution for both age groups, with a larger benefit for older adults, and FOK resolution was at least as good for older adults tested with a 48-hour delay as for younger adults](../claims/fok-resolution-depends-memory-quality.md) [+W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Memory-quality account of episodic feeling-of-knowing resolution: FOK accuracy derives from the diagnosticity of cues produced by encoding quality".
+- [From age 4, children spontaneously devise multiple previously unseen reminder-setting strategies across transfer trials, with this tendency increasing with age](../claims/age-four-spontaneous-novel-reminder-strategies.md) [+W] — attached 2026-10-17 from Armitage et al. (2023), which proposed "External metacognitive offloading: awareness of one's own cognitive struggles used to offload internal demand into the environment".
 
 ## The evidence by question
 

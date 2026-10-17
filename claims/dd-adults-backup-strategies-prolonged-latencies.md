@@ -49,3 +49,4 @@ Review reports Cappelletti and Price (2014) findings that DD adults' "longer res
 - [Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps](working-memory-demand-increases-with-math-problem-complexity.md) — related
 - [Adults with DD show deficient conceptual size processing with preserved physical size processing, supporting shared magnitude substrates](dd-adults-conceptual-size-dissociation.md) — related
 - [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related
+- [Arithmetic deficits in adults with DD concentrate in mental calculation, arithmetical rules, and written calculation, with number comprehension and transcoding preserved](dd-adults-calculation-deficits-comprehension-preserved.md) — related

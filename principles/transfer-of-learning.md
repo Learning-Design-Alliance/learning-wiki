@@ -23,7 +23,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (14 for, 10 mixed) · 24 studies (10 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (15 for, 10 mixed) · 25 studies (10 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 25 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,7 @@ Claims bearing on transfer that the wiki holds and this model does not use. None
 - [Meta Analytic Replication Latent Ef Model](../claims/meta-analytic-replication-latent-ef-model.md) [+M]
 - [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](../claims/math-correlates-more-with-ef-than-ef-internally.md) [+W]
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [+W]
+- [After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning](../claims/post-lesson-flexible-perspective-switching.md) [+W] — attached 2026-10-17 from Maike Schindler et al. (2017), which proposed "Design lesson series on negative numbers around a rich out-of-school context plus the number line as origins for students' inferences".
 
 ## Objective and learner-valued goal
 

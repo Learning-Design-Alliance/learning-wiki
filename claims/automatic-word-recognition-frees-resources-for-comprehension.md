@@ -118,3 +118,5 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Disabled readers show working memory deficits at every age on the blocked listening span task](disabled-readers-lower-listening-span-all-ages.md) — a narrower finding that bears on this claim
 - [Adults who completed supplemental basic-skills tutoring showed significant pre-to-post gains across a battery of decoding, word recognition, fluency, and comprehension measures](adult-completers-significant-gains-basic-reading.md) — related
 - [Automaticity does not predict decoding or reading comprehension in middle-school students](automaticity-not-predict-decoding-comprehension.md) — related
+- [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
+- [Reading and writing are similar but not symmetric processes, with writing more demanding than reading](reading-writing-asymmetric-processes.md) — related

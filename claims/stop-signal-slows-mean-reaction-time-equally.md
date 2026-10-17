@@ -47,3 +47,5 @@ Tier 1 Bayesian mixed ANOVA on mean reaction time in 144 children aged 8-13. "ch
 - [Introducing intermittent stop trials does not change processing speed (drift rate) in children with or without ADHD](stop-signal-demands-no-drift-rate-change.md) — related
 - [Non-decision time (encoding/motor speed) is unchanged when inhibitory demands are introduced](stop-signal-demands-no-nondecision-time-change.md) — related
 - [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related
+- [Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task](no-reaction-time-difference-go-trials-groups.md) — related
+- [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](proactive-inhibition-present-pre-adolescence.md) — related

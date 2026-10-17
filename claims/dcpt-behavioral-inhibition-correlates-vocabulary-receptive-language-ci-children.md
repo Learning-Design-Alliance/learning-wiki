@@ -44,3 +44,4 @@ Retrospective analysis of clinical data from 47 prelingually deaf children with 
 
 ## Related Claims
 - [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related
+- [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related

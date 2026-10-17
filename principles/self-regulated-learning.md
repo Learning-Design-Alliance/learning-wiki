@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (34 for, 28 mixed, 3 against) · 52 studies (19 causal, 9 quant-synthesis, 9 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 52 report an effect size · 54 claims rest on one study
+> **Evidence** · 66 claims (35 for, 28 mixed, 3 against) · 53 studies (19 causal, 9 quant-synthesis, 9 review, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 15 of 53 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Scaffolds supporting the whole SRL process are more helpful than scaffolds supporting a single phase](../claims/whole-process-srl-scaffolding-more-effective.md) [+W] — attached 2026-10-16 from Lanqin Zheng (2016), which proposed "Design SRL scaffolds to support the whole self-regulation process using integrated, multiple, and combined domain-general and domain-specific scaffolds".
 - [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](../claims/metacognitive-selfregulation-training-beats-strategy-training.md) [+W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Use spared metacognitive monitoring as the basis for compensatory self-regulated learning in older adults"; tests this page's relationship.
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](../claims/aging-spares-jol-resolution-encoding.md) [~W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Use spared metacognitive monitoring as the basis for compensatory self-regulated learning in older adults".
+- [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — attached 2026-10-17 from Mary C. English (2013), which proposed "Design PBL learning environments and teaching practices with intention to support students' self-regulated learning".
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Exploratory categorical analysis dichotomizing total rest time at the 7-h group 
 - [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
 - [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — related
+- [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](nonlinear-sleep-duration-school-performance-association.md) — related

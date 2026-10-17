@@ -93,6 +93,7 @@ Growth mindset interventions have produced measurable gains in achievement for s
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](chatbot-support-reinforces-effort-and-strategy.md)
 - [Embed growth-mindset messages framing technological competence as developable into existing curricula as a low-cost, broad-reach intervention](embed-growth-mindset-messages-in-curricula-for-ai-literacy.md)
 - [School-based interventions promoting growth math mindset and academic grit](school-based-growth-mindset-grit-interventions.md)
+- [Theory-guided content revisions for adolescent mindset interventions: strategies over hard work, prosocial motives, peer norms, reactance, and self-persuasion](theory-guided-mindset-content-revisions.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org)** (Jo Boaler, Stanford) — mathematical mindset lessons and teacher resources built around the claim that everyone can learn math to high levels; includes error-normalization routines and "low floor, high ceiling" tasks.

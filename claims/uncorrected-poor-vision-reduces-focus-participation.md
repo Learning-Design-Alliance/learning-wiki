@@ -15,12 +15,14 @@ sources:
     author: "Dudovitz, R. N., Izadpanah, N., Chung, P. J., & Slusser, W."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Participants perceived that uncorrected visual deficits reduced students' classroom focus, perseverance, and class participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Parents, teachers, and students reported that poor vision made it hard to see the board, disrupted focus, and led students to give up on school tasks and disengage from classwork. [→ Dudovitz 2016](#dudovitz-2016)
@@ -31,7 +33,7 @@ sources:
 
 Dudovitz, R. N., Izadpanah, N., Chung, P. J., & Slusser, W. (2016). Parent, Teacher, and Student Perspectives on how Corrective Lenses Improve Child Wellbeing and School Function. Maternal and Child Health Journal. https://doi.org/10.1007/s10995-015-1882-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of nine focus groups with 20 parents, 25 teachers, and 21 students from three Los Angeles elementary schools; participants described disengagement "manifested by poor class participation, giving up on school-related tasks, and disrupting other students." No effect sizes reported (qualitative design).
 

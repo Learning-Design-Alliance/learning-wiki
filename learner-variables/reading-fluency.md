@@ -12,7 +12,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (24 show a difference, 6 mixed, 8 no difference) · 31 studies (10 causal, 7 review, 5 quant-synthesis, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 8 of 31 report an effect size · 37 claims rest on one study
+> **Evidence** · 45 claims (28 show a difference, 8 mixed, 9 no difference) · 34 studies (10 causal, 8 review, 7 associational, 5 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 9 of 34 report an effect size · 44 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -77,6 +77,13 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD](../claims/coding-r-predicts-oral-reading-fluency.md) [+M] — instruction changes it
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](../claims/moderate-metalinguistic-pseudoword-adult-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Verbal working memory predicts oral reading fluency in children with and without ADHD](../claims/verbal-working-memory-predicts-reading-fluency.md) [+M] — instruction changes it
+- [Children with dyslexia read texts significantly more slowly than typical readers in both oral and silent reading](../claims/children-dyslexia-slower-both-reading-modes.md) [+M] — instruction changes it
+- [End-of-Grade-1 oral reading fluency status predicts later reading comprehension better than growth slope, though slope added to first-grade screening accuracy in one study](../claims/orf-status-beats-slope-for-prediction.md) [+W] — learners who differ on it differ in outcomes
+- [For children and adolescents with dyslexia, the silent reading deficit is as large as or larger than the oral reading deficit](../claims/dyslexia-silent-reading-deficit-as-large-or-larger.md) [+M] — instruction changes it
+- [For children in Grades 3–5, with and without dyslexia, oral and silent text reading fluency do not differ](../claims/children-oral-silent-reading-fluency-do-not-differ.md) [-M] — instruction changes it
+- [Initial word reading skill was the only significant child-level predictor of exposures required for mastery](../claims/initial-word-reading-skill-only-child-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Oral and silent text reading fluency correlate strongly in children but only moderately in adolescents, and a standardized oral word reading test relates to silent reading differently by group](../claims/oral-silent-correlations-developmental-shift.md) [~M] — learners who differ on it differ in outcomes
+- [The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading](../claims/oral-silent-divergence-increases-with-reading-experience.md) [~W] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

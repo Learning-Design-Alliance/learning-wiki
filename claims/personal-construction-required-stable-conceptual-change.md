@@ -62,3 +62,4 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](half-of-texts-showed-collaborative-learning.md) — related
 - [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](student-understanding-alternates-between-local-coherences-tickertape.md) — related
 - Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
+- [Collaborative constructions (joint analyses built while collaborating) had little relevance to individual post-test performance in adolescence and early adulthood](collaborative-constructions-little-relevance-older-learners.md) — reports the opposite

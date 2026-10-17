@@ -37,7 +37,8 @@ The article concludes that because bullying victimization is associated with alt
 - protecting cognitive development including reading, processing speed, and inhibitory control and attention
 
 ## Related Strategies
-- 
+
+- [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](active-school-intervention-against-bullying.md)
 
 ## Examples
 -

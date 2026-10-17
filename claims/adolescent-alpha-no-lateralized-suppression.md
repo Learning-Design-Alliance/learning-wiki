@@ -45,3 +45,4 @@ Anticipatory alpha (TSE) ANOVA in 24 adolescents: cue × ROI interaction F(1,23)
 ## Related Claims
 - [Adolescents show adult-like anticipatory broadband ERP attention components (ADAN, LDAP, BRN) contralateral to the attended location](adolescent-anticipatory-erp-components-adult-like.md) — related
 - [Exploratory analysis reveals sustained greater anticipatory activation for high versus low motivation conditions from 700–1100 ms post-cue over parieto-occipital scalp](sustained-motivation-anticipatory-activation-700-1100ms.md) — related
+- [Adolescents show adult-level dlPFC beta-band power but lower FEF alpha-band power and weaker dlPFC/FEF beta-alpha cross-frequency coupling during antisaccade preparation](adolescent-meg-feb-alpha-coupling-deficit.md) — related

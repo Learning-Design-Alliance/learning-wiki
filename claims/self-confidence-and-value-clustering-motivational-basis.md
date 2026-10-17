@@ -54,3 +54,4 @@ Interpretation of the Factor 2 composition (task-value and self-efficacy items) 
 - K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented — related
 - [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](student-confidence-readiness-self-efficacy-collaboration.md) — related
 - [Middle school mathematics teachers frame low persistence in i-Ready Math as an interaction among motivational, cognitive, and contextual factors, with four recurring themes](teachers-frame-low-persistence-four-themes.md) — related
+- [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related

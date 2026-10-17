@@ -53,3 +53,4 @@ Reversal-condition ANOVA in 26 early-stress and 21 control adolescents (switch t
 - [Group differences in learning are more pronounced during reversal than acquisition](reversal-deficit-exceeds-acquisition-deficit.md) — related
 - [Stress-exposed adolescents fail to follow the optimal exploratory strategy of initial indiscriminate responding](early-stress-reduced-exploration-learning-task.md) — related
 - [Stress-exposed adolescents learn reward-punishment associations more slowly than controls during acquisition](early-stress-slower-acquisition-learning.md) — related
+- [Adolescents and adults perform equally well on the probabilistic reversal learning task overall](adolescent-adult-equal-reversal-task-performance.md) — related

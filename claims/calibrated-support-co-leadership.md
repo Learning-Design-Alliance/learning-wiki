@@ -87,3 +87,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project](cgpt-co-creation-enhances-student-agency-ownership.md) — related
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](pbl-success-requires-srl-processes-not-natural.md) — related

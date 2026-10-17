@@ -80,6 +80,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Organize integrated support systems as universal, supplemental, and intensive tiers](tiered-integrated-support-systems.md)
 - [MTSS wraparound services with adequate counseling ratios and continuous improvement monitoring](mtss-wraparound-services-counseling-ratio.md)
 - [Screen for and monitor children at risk of nonresponse to universal SWPBIS and target nonresponders for more intensive tiered interventions](screen-and-target-swpbis-nonresponders.md)
+- [Use two-stage gated screening: an early reading screen followed by several weeks of progress monitoring before confirming at-risk status](two-stage-gated-screening-at-risk-readers.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

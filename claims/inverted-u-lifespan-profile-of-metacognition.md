@@ -48,3 +48,4 @@ Cross-study synthesis combining this article's adult sample (18–84) with Weil 
 - [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
 - [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — a narrower finding that bears on this claim
+- [Age-achievement functions take an inverted-U shape, but the quality of contributions remains roughly constant with age, with lower productivity reflecting reduced quantity of output](age-achievement-constant-quality-ratio.md) — related

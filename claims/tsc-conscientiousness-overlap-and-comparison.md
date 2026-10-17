@@ -13,12 +13,14 @@ sources:
     title: Schmidt FTC 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Trait self-control and conscientiousness overlap substantially, and conscientiousness slightly outperforms self-control for grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Trait self-control and conscientiousness share 34% of variance, and conscientiousness showed slightly stronger associations with mGPA than trait self-control in the final model. [→ Schmidt FTC 2020](#schmidt-ftc-2020)
@@ -29,7 +31,7 @@ sources:
 
 Schmidt FTC, Lindner C, Etzel JM and Retelsdorf J (2020) Self-Control Outdoes Fluid Reasoning in Explaining Vocational and Academic Performance—But Does It? Front. Psychol. 11:757. https://doi.org/10.3389/fpsyg.2020.00757
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Correlational and regression results for N = 3,146 trainees; Table 1 prints a TSC–conscientiousness correlation of 0.58 ("shared variance 34%"), and the discussion notes conscientiousness "showed overall slightly stronger associations with mGPA".
 

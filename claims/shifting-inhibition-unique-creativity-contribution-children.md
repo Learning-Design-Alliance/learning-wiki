@@ -53,3 +53,4 @@ Correlational/regression analyses in a study of 209 children aged 8 to 13 admini
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related
 - [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](shifting-stronger-creativity-predictor-than-intelligence.md) — related
 - [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md) — related
+- [Creative and conventional metaphors are anchored in different patterns of cognitive abilities](differential-abilities-creative-conventional-metaphor.md) — related

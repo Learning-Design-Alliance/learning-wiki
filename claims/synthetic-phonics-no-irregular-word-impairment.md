@@ -49,3 +49,4 @@ The article reports a null finding: "There was no evidence that the synthetic ph
 - [Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'](synthetic-phonics-boys-better-word-reading.md) — related
 - [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](synthetic-phonics-group-better-overall-outcomes.md) — related
 - [Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes](gender-reading-outcomes-depend-on-phonics-method.md) — related
+- [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related

@@ -50,3 +50,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related
 - [Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation](erwc-implementation-hindering-factors-qualitative.md) — related
 - [Implementation of school mindfulness programs is facilitated by collegial teaching, administrative and parental support, and children's enthusiasm, and hindered by lack of time and disengaged students](mindfulness-implementation-facilitators-barriers.md) — related
+- [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — a narrower finding that bears on this claim

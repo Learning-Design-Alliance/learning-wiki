@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (62 show a difference, 22 mixed, 6 no difference) · 83 studies (31 causal, 17 associational, 15 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 83 report an effect size · 86 claims rest on one study
+> **Evidence** · 92 claims (63 show a difference, 23 mixed, 6 no difference) · 85 studies (32 causal, 17 associational, 16 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 85 report an effect size · 88 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -146,6 +146,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](../claims/spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) [~M] — learners who differ on it differ in outcomes
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](../claims/low-guidance-longer-time-on-task.md) [+M] — instruction changes it
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](../claims/isi-teachers-stronger-classroom-management.md) [+M] — instruction changes it
+- [Preschoolers given a pedagogical demonstration of a toy function play for less time than children in interrupted, naive, or baseline conditions](../claims/pedagogical-demonstration-shortens-preschool-exploration-time.md) [+M] — instruction changes it
+- [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](../claims/tier2-dosage-scheduling-mixed-findings.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

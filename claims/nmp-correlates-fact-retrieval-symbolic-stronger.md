@@ -48,3 +48,5 @@ Pearson (partial, motor-RT-controlled) correlations in 86 third graders; the sym
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — a broader claim this one bears on
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
+- [Fourth graders' multiplication fact solving speed correlates significantly with both symbolic and nonsymbolic magnitude comparison speed](magnitude-comparison-correlates-multiplication-facts.md) — related
+- [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](symbolic-beats-nonsymbolic-multiplication-variance.md) — related

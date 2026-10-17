@@ -48,3 +48,6 @@ Review's discussion of Budde et al. (2008), a school experiment with 115 adolesc
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
 - [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
 - [Five of six laboratory studies found significant effects of acute PA on cognitive control of attention, mainly on accuracy not reaction time](laboratory-studies-acute-pa-attention-accuracy.md) — related
+- [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
+- [Physical activities combining exercise with character development or mindfulness improved children's EFs more than exercise alone: tae kwon do outperformed standard PE, and a yoga pilot improved planning](exercise-plus-character-or-mindfulness-improves-efs.md) — related
+- [Self-chosen exercise intensity produced the greatest mood benefits in a small study, suggesting enjoyable workouts may best improve mood](self-chosen-exercise-greatest-mood-benefit.md) — related

@@ -59,6 +59,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Privacy-conscious, teacher-mediated GenAI implementation: anonymized feedback, pre-programmed prompts, and accessible original comments](privacy-conscious-teacher-mediated-genai-feedback-workflow.md)
 - [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
 - [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
+- [Introduce computational thinking to preservice teachers within teacher education programs](ct-in-preservice-teacher-education.md)
 
 ## Examples
 -

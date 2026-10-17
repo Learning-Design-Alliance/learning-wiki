@@ -48,3 +48,4 @@ Secondary analysis of the ECLS-K: 2010, a nationally representative sample of 18
 - [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — a broader claim this one bears on
 - [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — related
 - Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility — reports the opposite
+- A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation — related

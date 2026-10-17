@@ -41,4 +41,4 @@ Factorial experiment (Bol et al., 2012) with high school biology students crossi
 
 
 ## Related Claims
--
+- [Research-driven guidelines exist for promoting student responsibility for learning in PBL](research-driven-guidelines-promote-responsibility-pbl.md) — related

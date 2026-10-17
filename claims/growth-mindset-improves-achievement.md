@@ -139,3 +139,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — related
 - [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — related
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — possibly the same claim (merge candidate)
+- [In the pilot A/B experiments, indirect framing outperformed direct framing, refuting the fixed mindset backfired for strong fixed-mindset holders, and celebrity endorsements increased adoption](ab-testing-mindset-content-findings.md) — related

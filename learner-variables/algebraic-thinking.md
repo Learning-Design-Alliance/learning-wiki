@@ -12,7 +12,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 27 claims (16 show a difference, 8 mixed, 3 no difference) · 19 studies (11 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 19 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (17 show a difference, 8 mixed, 4 no difference) · 22 studies (11 causal, 3 associational, 2 review, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 5 of 22 report an effect size · 26 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -63,6 +63,8 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](../claims/double-dose-policy-harmed-above-norm-grades.md) [+M] — an instructional effect differs with it
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [-W] — instruction changes it
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](../claims/its-reduces-executive-state-ma-improves-algebra.md) [+M] — instruction changes it
+- [Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back](../claims/discontinuity-during-folding-back-still-effective.md) [-W] — learners who differ on it differ in outcomes
+- [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](../claims/short-practice-improves-equation-rearrangement.md) [+M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

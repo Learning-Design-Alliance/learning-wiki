@@ -41,7 +41,8 @@ The review recommends that intervention methods for adults with DD are likely to
 - working memory
 
 ## Related Strategies
-- 
+
+- [Design innovative, age-appropriate interventions for adults with DD targeting cognitive, numerical, social, and emotional dimensions](age-appropriate-interventions-adults-dd.md)
 
 ## Examples
 -

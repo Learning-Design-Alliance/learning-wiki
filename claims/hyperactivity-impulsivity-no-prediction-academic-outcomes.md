@@ -48,3 +48,6 @@ In the 107-child low-number-sense sample, SWAN Hyperactivity/Impulsivity subscal
 - [Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense](ef-not-predictor-first-grade-reading.md) — related
 - [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](mediators-not-significantly-different.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
+- [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related
+- [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
+- [Children's ability to wait for 'go' on the RRRP was not a significant predictor of any academic outcome and was removed from the models](wait-for-go-not-predictive-of-academic-outcomes.md) — related

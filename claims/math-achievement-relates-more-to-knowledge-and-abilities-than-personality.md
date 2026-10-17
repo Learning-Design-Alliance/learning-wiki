@@ -70,3 +70,6 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — a narrower finding that bears on this claim
 - [Math anxiety's negative impact on math achievement is limited to more difficult math, emerging around late elementary school content](math-anxiety-impact-limited-to-difficult-math.md) — related
 - [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related
+- [General cognitive ability has moderate positive relations with work performance, with meta-analytic validity coefficients in the 0.4 to 0.6 range across many job types](cognitive-ability-validity-work-performance.md) — related
+- [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — a narrower finding that bears on this claim
+- [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](social-competence-positive-externalizing-negative-achievement.md) — related

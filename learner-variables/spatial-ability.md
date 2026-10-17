@@ -12,7 +12,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 20 claims (14 show a difference, 1 mixed, 3 no difference, 2 unmarked) · 15 studies (7 associational, 4 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (20 show a difference, 1 mixed, 4 no difference, 2 unmarked) · 18 studies (10 associational, 4 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 4 of 18 report an effect size · 26 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -55,6 +55,13 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [The visuospatial sketchpad is the best and only unique predictor of kindergarteners' nonsymbolic approximate addition](../claims/vssp-predicts-nonsymbolic-approximate-addition.md) [+M] — learners who differ on it differ in outcomes
 - [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](../claims/working-memory-explains-coding-variance.md) [+M] — learners who differ on it differ in outcomes
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](../claims/visuospatial-memory-not-predict-word-reading.md) [-M] — learners who differ on it differ in outcomes
+- [Adolescent, but not childhood, spatial activity participation predicts adolescent spatial skills (paper folding)](../claims/adolescent-activities-predict-spatial-skills.md) [+M] — instruction changes it
+- [Childhood spatial activities are more predictive of spatial habits of mind than of spatial skills](../claims/childhood-activities-more-predictive-of-habits-of-mind.md) [+M] — instruction changes it
+- [Executive function and spatial skills jointly predict 70% of the variance in age-4 mathematics performance without an explicit number-knowledge measure](../claims/ef-and-spatial-predict-70-percent-preschool-math-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4](../claims/tosa-age-3-predicts-age-4-math.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial skills show null bivariate correlations with childhood and adolescent spatial activity participation](../claims/null-correlation-spatial-skills-activities.md) [-M] — instruction changes it
+- [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](../claims/spatial-skills-unique-27-percent-math-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly](../claims/visuospatial-sketchpad-predicts-higher-qnc.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -12,7 +12,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (39 show a difference, 14 mixed, 11 no difference, 2 unmarked) · 46 studies (16 associational, 14 causal, 7 review, 6 quant-synthesis, 3 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 63 claims rest on one study
+> **Evidence** · 77 claims (47 show a difference, 15 mixed, 13 no difference, 2 unmarked) · 52 studies (21 associational, 14 causal, 8 review, 6 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 52 report an effect size · 74 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -101,6 +101,17 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [The effect of crystallized intelligence on children's creativity is mediated by shifting](../claims/shifting-mediates-gc-creativity-children.md) [+M] — learners who differ on it differ in outcomes
 - [The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15](../claims/intelligence-metacognition-predictor-turnaround.md) [~M] — learners who differ on it differ in outcomes
 - [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](../claims/updating-explains-intelligence-creativity-shared-variance.md) [+M] — learners who differ on it differ in outcomes
+- [A cumulative risk index and nonverbal IQ together account for 31% of variance in reading readiness at school entry](../claims/cumulative-risk-iq-31-percent-reading-readiness.md) [+M] — learners who differ on it differ in outcomes
+- [Child IQ, sex, and parental income do not predict initial levels or growth of task-based inhibitory control](../claims/covariates-null-task-inhibitory-control-growth.md) [-M] — learners who differ on it differ in outcomes
+- [Creative and conventional metaphors are anchored in different patterns of cognitive abilities](../claims/differential-abilities-creative-conventional-metaphor.md) [+M] — learners who differ on it differ in outcomes
+- [Crystallized intelligence predicts conventional metaphor quality, while Gf and Gr effects are small and nonsignificant](../claims/gc-predicts-conventional-metaphor.md) [+M] — learners who differ on it differ in outcomes
+- [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](../claims/executive-skills-not-nonverbal-iq-predict-number-skills.md) [-M] — learners who differ on it differ in outcomes
+- [Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)](../claims/gf-predicts-creative-metaphor-quality.md) [+M] — learners who differ on it differ in outcomes
+- [General cognitive ability has moderate positive relations with work performance, with meta-analytic validity coefficients in the 0.4 to 0.6 range across many job types](../claims/cognitive-ability-validity-work-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Higher early-life cognitive ability is associated with decreased mortality risk, a relation reported in all nine reviewed studies and partly mediated by health behaviors](../claims/cognitive-ability-mortality-risk.md) [+M] — learners who differ on it differ in outcomes
+- [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](../claims/fluid-cognition-predicts-independent-living.md) [+M] — learners who differ on it differ in outcomes
+- [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](../claims/openness-predicts-creative-metaphor.md) [~M] — learners who differ on it differ in outcomes
+- [Students with higher general cognitive ability are more efficient in equation rearrangement](../claims/cognitive-ability-correlates-equation-efficiency.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

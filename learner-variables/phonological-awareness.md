@@ -12,7 +12,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (32 show a difference, 11 mixed, 14 no difference) · 32 studies (16 causal, 11 associational, 2 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 14 of 32 report an effect size · 56 claims rest on one study
+> **Evidence** · 66 claims (36 show a difference, 11 mixed, 19 no difference) · 41 studies (18 associational, 17 causal, 3 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 14 of 41 report an effect size · 64 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -97,6 +97,15 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](../claims/bidirectional-relation-independent-of-maturation.md) [+W] — learners who differ on it differ in outcomes
 - [The RAN risk group showed intact phonological awareness and all members were readers, supporting the independence of RAN from PA](../claims/ran-deficit-independent-construct.md) [-W] — learners who differ on it differ in outcomes
 - [Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending](../claims/vocabulary-not-related-to-phonological-awareness-growth.md) [~W] — instruction changes it
+- [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](../claims/alphabet-instruction-no-transfer-emergent-literacy.md) [-M] — instruction changes it
+- [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](../claims/non-significant-child-predictors-exposures.md) [-M] — learners who differ on it differ in outcomes
+- [Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later](../claims/phonological-awareness-predicts-qnc-level-i.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](../claims/phonological-awareness-verbal-wm-predict-math.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](../claims/phonological-awareness-not-arithmetic-predictor.md) [-M] — learners who differ on it differ in outcomes
+- [Phonological awareness has no direct effect on higher-order QNC (Level II and above) or Grade 3 math achievement once QNC skills are modeled, confirming the isolated number-words hypothesis](../claims/isolated-number-words-hypothesis-confirmed.md) [-M] — learners who differ on it differ in outcomes
+- [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](../claims/phonological-memory-modest-multiplication-contribution.md) [-S] — learners who differ on it differ in outcomes
+- [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](../claims/disorder-specific-phoneme-naming-set-shifting.md) [+M] — learners who differ on it differ in outcomes
+- [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](../claims/ell-early-reading-intervention-word-level-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

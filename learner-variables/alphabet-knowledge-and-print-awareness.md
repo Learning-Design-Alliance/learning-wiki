@@ -12,7 +12,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (20 show a difference, 8 mixed, 11 no difference) · 23 studies (14 causal, 4 quant-synthesis, 3 associational, 1 qualitative, 1 design), `q1`–`q3` · 15 of 23 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (22 show a difference, 10 mixed, 11 no difference) · 25 studies (15 causal, 4 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q3` · 16 of 25 report an effect size · 42 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -78,6 +78,10 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](../claims/bidirectional-relation-extends-to-supra-phonemic-tasks.md) [+M] — learners who differ on it differ in outcomes
 - [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](../claims/bidirectional-relation-independent-of-maturation.md) [+M] — learners who differ on it differ in outcomes
 - [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](../claims/first-letter-of-name-advantage-letter-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Children use letter-name knowledge as a shortcut when inventing phonologically based spellings](../claims/letter-names-bootstrap-invented-spellings.md) [+M] — learners who differ on it differ in outcomes
+- [Combined letter name and sound instruction produced greater letter name production gains than letter sound only instruction in preschoolers](../claims/combined-lnls-beats-ls-letter-name-production-gains.md) [+M] — instruction changes it
+- [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](../claims/combined-lnls-letter-sound-gains-over-control.md) [~M] — instruction changes it
+- [Letter sound only instruction may interfere with letter name learning relative to incidental exposure](../claims/ls-only-possible-letter-name-interference.md) [~M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

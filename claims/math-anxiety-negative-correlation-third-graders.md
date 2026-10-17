@@ -53,3 +53,4 @@ Pearson product-moment correlation analysis of math anxiety scale and math achie
 - [Teacher-rated general anxiety negatively predicts concurrent and future math performance in third and fourth graders](teacher-rated-general-anxiety-predicts-math-performance.md) — related
 - [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](intrinsic-math-motivation-correlates-skills-anxiety.md) — related
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — a broader claim this one bears on
+- [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](math-anxiety-negative-math-achievement-young-children.md) — related

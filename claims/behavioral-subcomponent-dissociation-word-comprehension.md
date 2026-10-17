@@ -67,3 +67,4 @@ The same behavioral correlation analysis in the Results section shows sentence c
 - [The word-reading and comprehension cortical regions are specific to their respective reading level: cross-level correlations were nonsignificant after FDR correction](level-specific-ct-reading-regions.md) — related
 - [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
 - [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — related
+- [The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading](oral-silent-divergence-increases-with-reading-experience.md) — related

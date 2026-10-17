@@ -47,3 +47,5 @@ Interview study of 80 kindergarten children (ages 5;1–6;5) who heard four fami
 - [When recalling their own experiences, 5- and 6-year-olds use metacognitive strategies more to alleviate sadness and fear than anger](metacognitive-strategies-more-for-sadness-fear-than-anger.md) — related
 - [Children's emotion-specific strategy use emerges for autobiographical events but not hypothetical stories, suggesting personal experience supports flexible regulation](autobiographical-recall-reveals-emotion-specific-regulation.md) — related
 - [Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy](children-change-thoughts-more-than-goals.md) — related
+- [Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning](fod-communication-associated-with-metacognition-except-planning.md) — related
+- [Younger children (3–5-year-olds) answered story comprehension questions less accurately than all older age groups](preschoolers-lower-story-comprehension-accuracy.md) — related

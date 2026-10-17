@@ -49,3 +49,4 @@ This is the authors' interpretive rationale in the Early Childhood Development s
 - Adults learn better when learning content and methods link to their previous experience — a broader claim this one bears on
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — related
+- [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related

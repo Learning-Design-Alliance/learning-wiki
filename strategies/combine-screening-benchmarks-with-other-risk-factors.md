@@ -44,6 +44,7 @@ The article recommends that schools and educators not rely solely on MAP Growth 
 - [Schools and districts should choose screener benchmarks that match their goals and resources for defining and serving at-risk students](match-screener-benchmark-choice-to-goals-resources.md)
 - [Use multiple, diverse data sources selected to offer distinct yet complementary information](use-multiple-diverse-data-sources.md)
 - [Use predicted ARM scores solely to select personalized tutoring content in MAP Reading Fluency Coach, not for benchmarking or instructional decisions](predicted-arm-scores-tutoring-placement-only.md)
+- [Use two-stage gated screening: an early reading screen followed by several weeks of progress monitoring before confirming at-risk status](two-stage-gated-screening-at-risk-readers.md)
 
 ## Examples
 -

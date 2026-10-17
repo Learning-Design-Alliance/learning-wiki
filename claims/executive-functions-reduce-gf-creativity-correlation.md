@@ -54,3 +54,4 @@ SEM structural model result reported in Section 3.2 of the same study. After reg
 - [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](updating-and-inhibition-predict-creativity.md) — related
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — related
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — related
+- [Creative and conventional metaphors are anchored in different patterns of cognitive abilities](differential-abilities-creative-conventional-metaphor.md) — related

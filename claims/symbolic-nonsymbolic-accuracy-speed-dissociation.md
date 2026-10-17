@@ -52,3 +52,5 @@ Correlational analyses in the 56-child sample dissociated accuracy and speed: su
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — related
 - [More accurate symbolic number line representations relate to better performance in exact, but not approximate, addition formats](symbolic-number-line-relates-to-exact-addition.md) — related
+- [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related
+- [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](one-digit-math-association-decreases-with-grade.md) — related

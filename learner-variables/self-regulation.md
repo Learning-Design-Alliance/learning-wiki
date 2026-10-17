@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (85 show a difference, 26 mixed, 13 no difference, 2 unmarked) · 91 studies (26 associational, 21 causal, 19 review, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 91 report an effect size · 118 claims rest on one study
+> **Evidence** · 133 claims (91 show a difference, 27 mixed, 13 no difference, 2 unmarked) · 96 studies (29 associational, 21 causal, 20 review, 10 quant-synthesis, 8 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 19 of 96 report an effect size · 125 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -174,6 +174,13 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](../claims/mediators-not-significantly-different.md) [-M] — learners who differ on it differ in outcomes
 - [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](../claims/mixed-model-metacognitive-quality-unique-contribution.md) [+M] — learners who differ on it differ in outcomes
 - [The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15](../claims/intelligence-metacognition-predictor-turnaround.md) [~M] — learners who differ on it differ in outcomes
+- [Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task](../claims/self-regulation-proactive-response-slowing-children.md) [+W] — learners who differ on it differ in outcomes
+- [Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it](../claims/higher-metacognition-children-felt-difficult-but-solvable.md) [+W] — learners who differ on it differ in outcomes
+- [Children with the weakest executive functions benefit the most from EF interventions, so early training may reduce social disparities in EFs](../claims/weakest-efs-benefit-most-from-training.md) [+M] — an instructional effect differs with it
+- [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](../claims/self-regulation-frontal-activation-proactive-inhibition.md) [+W] — learners who differ on it differ in outcomes
+- [Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)](../claims/trait-belief-goal-orientation-interaction-cbsr.md) [~M] — instruction changes it
+- [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](../claims/self-regulation-striatal-motor-coupling-reactive.md) [+W] — learners who differ on it differ in outcomes
+- [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

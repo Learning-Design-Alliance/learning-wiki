@@ -12,7 +12,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (35 show a difference, 13 mixed, 18 no difference) · 51 studies (13 associational, 12 causal, 12 quant-synthesis, 11 review, 2 theoretical, 1 design), `q1`–`q3` · 16 of 51 report an effect size · 63 claims rest on one study
+> **Evidence** · 81 claims (47 show a difference, 14 mixed, 20 no difference) · 60 studies (21 associational, 12 causal, 12 quant-synthesis, 12 review, 2 theoretical, 1 design), `q1`–`q3` · 19 of 60 report an effect size · 78 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -102,6 +102,21 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Maternal education beyond 12 years is associated with better language skills at 3 years after accounting for hearing loss severity](../claims/maternal-education-predicts-language-3yo-hearing-loss.md) [+M] — instruction changes it
 - [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](../claims/oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) [+M] — learners who differ on it differ in outcomes
 - [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](../claims/ci-adolescents-language-measures-normal-range.md) [+M] — instruction changes it
+- [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](../claims/child-directed-speech-predicts-vocabulary-low-ses.md) [+M] — instruction changes it
+- [Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills](../claims/attention-problems-predict-poorer-emergent-academics.md) [+M] — instruction changes it
+- [Children in higher family engagement profiles had higher total language skills in both language subsamples, most pronounced among English-speaking families](../claims/engagement-profiles-language-skills.md) [+M] — instruction changes it
+- [Controlling for SES, monolingual children outperform both simultaneous and sequential bilinguals on single-language English receptive and expressive vocabulary measures](../claims/monolinguals-outperform-bilinguals-single-language-english-vocabulary.md) [+M] — instruction changes it
+- [Early language and executive skills at age 3–4 predict preschool counting and number knowledge, which mediate their influence on later arithmetic](../claims/language-executive-mediate-arithmetic-via-number-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Expressive language in kindergarten explains 24% of the variance in kindergarten arithmetic controlling for number naming and procedural counting knowledge](../claims/expressive-language-explains-24-percent-kindergarten-arithmetic-variance.md) [+M] — learners who differ on it differ in outcomes
+- [First-grade attention has no direct effect on third-grade reading comprehension but an indirect effect through word reading, not listening comprehension](../claims/attention-indirect-effect-comprehension-via-word-reading.md) [-M] — learners who differ on it differ in outcomes
+- [Higher expressive vocabulary predicts membership in faster self-regulation trajectories](../claims/expressive-vocabulary-predicts-self-regulation-trajectory.md) [+W] — learners who differ on it differ in outcomes
+- [Kindergarten expressive language predicts grade 1 arithmetic, adding 4.6% of explained variance beyond kindergarten arithmetic](../claims/kindergarten-expressive-language-predicts-grade-1-arithmetic.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](../claims/phonological-awareness-not-arithmetic-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](../claims/social-skills-independently-predict-emergent-academics.md) [+M] — instruction changes it
+- [Sequential bilinguals score significantly below monolinguals on English vocabulary even with conceptual scoring and SES controlled](../claims/sequential-bilinguals-gap-persists-conceptual-scoring.md) [+M] — instruction changes it
+- [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](../claims/simultaneous-sequential-vocabulary-differences.md) [~M] — instruction changes it
+- [Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers](../claims/attention-not-predict-listening-comprehension-growth.md) [-M] — instruction changes it
+- [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](../claims/grade3-comprehension-predicted-by-word-reading-and-listening.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

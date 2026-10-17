@@ -47,3 +47,4 @@ Cross-sectional fMRI study of 44 typically developing participants (14 children,
 - [Neither numerosity processing nor figure matching predicts general mathematical achievement](numerosity-figure-matching-not-predict-math-achievement.md) — related
 - [A reliable positive relationship between parietal NRE and math achievement appears only in children, not adolescents or adults](nre-math-achievement-link-only-in-children.md) — related
 - [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — related
+- [Ratio-effect scores correlated with mathematics achievement in Experiment 1 but not in Experiment 2 with easier ratios](ratio-effect-math-correlation-mixed.md) — related

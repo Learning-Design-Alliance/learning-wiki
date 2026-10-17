@@ -53,6 +53,7 @@ The article recommends caregiver shared book reading as a practical route to enr
 - [Family Literacy Programs](family-literacy-programs.md)
 - [Family Literacy Engagement](family-literacy-engagement.md)
 - [Take Home Book Bags](take-home-book-bags.md)
+- [Interventions aimed at increasing parents' verbal engagement with their infants to strengthen processing skills and vocabulary growth](increase-parental-verbal-engagement-infants.md)
 
 ## Examples
 -

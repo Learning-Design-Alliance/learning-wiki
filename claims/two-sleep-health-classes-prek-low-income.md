@@ -15,12 +15,14 @@ sources:
     author: Turnbull Khara L. P. PhD; Mateus Deiby Mayaris Cubides; LoCasale-Crouch Jennifer PhD; Lewin Daniel S. Ph.D., D.ABSM; CBSM; Williford Amanda P. PhD
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Two parent-reported sleep health patterns characterize low-income pre-kindergarteners: an earlier, longer, consistent class (87%) and a later, shorter, inconsistent class (13%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Latent class analysis of parent-reported sleep timing, duration, and behaviors identified two classes, with 87% of children in the earlier, longer, consistent class and 13% in the later, shorter, inconsistent class. [→ Turnbull Khara L. P. PhD; Mateus Deiby Mayaris Cubides; LoCasale-Crouch Jennifer PhD; Lewin Daniel S. Ph.D. 2022](#turnbull-khara-l-p-phd-mateus-deiby-mayaris-cubides-locasale-crouch-jennifer-phd-lewin-daniel-s-phd-2022)
@@ -31,7 +33,7 @@ sources:
 
 Turnbull Khara L. P. PhD; Mateus Deiby Mayaris Cubides; LoCasale-Crouch Jennifer PhD; Lewin Daniel S. Ph.D., D.ABSM; CBSM; Williford Amanda P. PhD. (2022). Sleep Patterns and School Readiness of Pre-Kindergarteners from Racially/Ethnically Diverse, Low-Income Backgrounds: A Secondary Data Analysis. The Journal of Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10621568/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Latent class analysis of parent-reported sleep health from 351 children in publicly-funded PreK programs; the two-class solution was selected as most parsimonious. The article states "87% of children in the sample were classified in Class 1, henceforth, the earlier, longer, consistent sleep health class."
 

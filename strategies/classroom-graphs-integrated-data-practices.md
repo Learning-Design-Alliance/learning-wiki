@@ -41,6 +41,7 @@ The webinar recommends embedding data practices into routines primary teachers a
 - [Use a culture-themed children's book to generate data for K-2 glyph and graph activities.](culture-themed-picture-book-data-generation.md)
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
+- [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 
 ## Examples
 -

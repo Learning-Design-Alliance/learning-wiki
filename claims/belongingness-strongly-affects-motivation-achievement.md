@@ -60,3 +60,4 @@ In its What Does the Research Say? section, the primer attributes this synthesis
 
 ## Related Claims
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related
+- [Genetic differences in learning motivation are more strongly predictive of math achievement among four-year-olds in higher-SES homes](genetic-motivation-math-link-moderated-by-ses.md) — related

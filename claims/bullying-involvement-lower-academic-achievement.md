@@ -62,4 +62,4 @@ Subgroup meta-analysis restricted to studies of victims only (k = 10). Victims w
 
 
 ## Related Claims
--
+- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](moderate-family-support-buffers-achievement.md) — related

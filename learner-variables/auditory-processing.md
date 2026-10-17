@@ -12,7 +12,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 16 claims (7 show a difference, 7 mixed, 2 no difference) · 9 studies (3 causal, 2 quant-synthesis, 2 review, 2 associational), `q2`–`q3` · 3 of 9 report an effect size · 14 claims rest on one study
+> **Evidence** · 17 claims (8 show a difference, 7 mixed, 2 no difference) · 10 studies (3 causal, 3 associational, 2 quant-synthesis, 2 review), `q2`–`q3` · 4 of 10 report an effect size · 15 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -51,6 +51,7 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Older adults show reduced activation in auditory cortex and increased activation in prefrontal and precuneus regions during speech-in-noise processing](../claims/aging-reduced-auditory-increased-prefrontal-activation.md) [+M] — learners who differ on it differ in outcomes
 - [The effect of selective auditory attention on early neural processing differs between children of higher and lower maternal education (significant group × attention interaction within 100–200 msec)](../claims/erp-group-attention-interaction-maternal-education.md) [~M] — learners who differ on it differ in outcomes
 - [The maternal-education group difference in neural attentional modulation persists after controlling for receptive language scores](../claims/attention-difference-not-explained-by-receptive-language.md) [+M] — learners who differ on it differ in outcomes
+- [Longer target P3 latencies are associated with poorer sustained attention in toddlers](../claims/longer-p3-latency-poorer-toddler-sustained-attention.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

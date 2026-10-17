@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (19 for, 13 mixed, 3 against) · 41 studies (12 causal, 8 review, 7 theoretical, 5 quant-synthesis, 4 qualitative, 3 design, 2 associational), `q1`–`q4` · 4 of 41 report an effect size · 29 claims rest on one study
+> **Evidence** · 36 claims (20 for, 13 mixed, 3 against) · 42 studies (12 causal, 8 review, 7 theoretical, 5 quant-synthesis, 4 qualitative, 3 associational, 3 design), `q1`–`q4` · 4 of 42 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Claims this page cited before it was rewritten as a conditional model. None test
 - [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](../claims/waivers-promoted-failing-students-1997.md) [~W]
 - [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](../claims/higher-passing-rates-did-not-lower-retention.md) [~W]
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](../claims/postpolicy-retention-effect-smaller-but-larger-impact.md) [~W]
+- [For children and adolescents with dyslexia, the silent reading deficit is as large as or larger than the oral reading deficit](../claims/dyslexia-silent-reading-deficit-as-large-or-larger.md) [+W] — attached 2026-10-17 from Madelon van den Boer et al. (2022), which proposed "Include silent reading in dyslexia diagnosis and treatment, especially for adolescents, alongside oral reading assessment".
 
 ## Objective and learner-valued goal
 

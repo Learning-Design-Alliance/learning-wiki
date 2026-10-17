@@ -50,3 +50,4 @@ Moderation analysis within the same cross-sectional study of 2,812 older adults,
 - [Obesity is not related to verbal abilities, processing speed, or cognitive flexibility when cognitive reserve in early and midlife is accounted for](obesity-non-significant-cognitive-reserve-adjusted.md) — related
 - [Obesity (BMI ≥30) is associated with lower performance in verbal abilities, processing speed, and cognitive flexibility in older adults](obesity-lower-cognitive-performance-old-age.md) — related
 - [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](high-performance-linked-education-language-iq.md) — related
+- [SES moderates the brain-behavior relationship in children's arithmetic, with higher and lower SES children engaging different neurocognitive systems](ses-moderates-arithmetic-brain-behavior-relationship.md) — a narrower finding that bears on this claim

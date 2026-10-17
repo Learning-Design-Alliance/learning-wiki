@@ -91,3 +91,4 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Nature-based learning appears to work especially well for disadvantaged and disengaged students, potentially narrowing achievement gaps](nature-based-learning-benefits-disadvantaged-students.md) — related
 - [High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect](high-structure-reduces-failure-intro-biology.md) — related
+- [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related

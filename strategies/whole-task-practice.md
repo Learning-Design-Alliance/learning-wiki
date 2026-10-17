@@ -58,9 +58,11 @@ Whole task practice supports schema construction by letting learners experience 
 5. Provide [Practice](../elements/practice.md) on multiple varied tasks per class, then move to the next complexity class; embed brief part-task drills only for subskills that need automation.
 
 ## Related Strategies
+
 - [Part-Task Practice](../elements/part-task-practice.md) — the complementary strategy for automating subskills; whole task practice provides integration, part-task practice provides fluency
 - [Worked Examples](worked-examples-first.md) — a low-load way to expose learners to whole tasks before independent performance
 - [Case-Based Learning](case-based-learning.md) — whole-task practice applied to ill-structured, case-anchored domains
+- [Manage intrinsic load with a part-whole approach, task variability, and self-explanation to raise germane load](part-whole-variability-self-explanation-raise-germane-load.md)
 
 ## Examples
 - **4C/ID implementations in medical education** — students perform simplified but complete patient consultations from early training, with complexity increasing across task classes (see [Open Universiteit 4C/ID resources](https://www.4cid.org)).

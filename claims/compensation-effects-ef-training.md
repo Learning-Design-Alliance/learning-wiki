@@ -43,4 +43,4 @@ The review reports, citing prior studies (e.g., Cepeda et al., 2001; Karbach and
 
 
 ## Related Claims
--
+- [Children with the weakest executive functions benefit the most from EF interventions, so early training may reduce social disparities in EFs](weakest-efs-benefit-most-from-training.md) — a narrower finding that bears on this claim

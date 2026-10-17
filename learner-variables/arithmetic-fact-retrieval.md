@@ -12,7 +12,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 11 claims (4 show a difference, 3 mixed, 4 no difference) · 3 studies (3 associational), `q3` · 1 of 3 report an effect size · 11 claims rest on one study
+> **Evidence** · 27 claims (13 show a difference, 6 mixed, 8 no difference) · 8 studies (7 associational, 1 causal), `q3` · 2 of 8 report an effect size · 25 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -47,6 +47,22 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)](../claims/pooraf-no-deficit-semantic-verbal-tasks.md) [-M] — learners who differ on it differ in outcomes
 - [PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls](../claims/pooraf-problem-size-effect-multiplication.md) [~M] — learners who differ on it differ in outcomes
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](../claims/symbolic-nmp-strong-predictor-fact-retrieval.md) [+M] — instruction changes it
+- [Adding conceptual instruction to fact retrieval practice yields no additional fact retrieval benefit](../claims/conceptual-instruction-no-added-fact-retrieval-benefit.md) [-W] — instruction changes it
+- [Counting-string intrusion errors are as common in LA-Severe Fact Retrieval children as in children with MLD, but decline across grades only for the MLD group](../claims/counting-string-intrusions-mld-vs-la-severe.md) [~M] — instruction changes it
+- [Fact retrieval deficits in LA-Severe children occur alongside intact addition procedural competencies and modest, improving number-task performance](../claims/retrieval-deficit-dissociated-from-procedures.md) [+M] — instruction changes it
+- [Fourth graders show the typical problem-size effect in multiplication, with slower and less accurate responses to large than small problems](../claims/multiplication-problem-size-effect-fourth-graders.md) [+M] — instruction changes it
+- [Fourth graders' multiplication fact solving speed correlates significantly with both symbolic and nonsymbolic magnitude comparison speed](../claims/magnitude-comparison-correlates-multiplication-facts.md) [+M] — instruction changes it
+- [LA-Severe Fact Retrieval children commit retrieval errors on forced retrieval at rates equal to children with MLD, with no across-grade improvement](../claims/la-severe-retrieval-errors-equal-mld.md) [+M] — instruction changes it
+- [MD-only students outperform MDRD students in fact retrieval skill overall](../claims/md-only-outperform-mdrd-fact-retrieval.md) [+M] — instruction changes it
+- [MD-only third graders in fact retrieval tutoring outperform PROC/E and control students on fact retrieval](../claims/md-only-fact-retrieval-tutoring-gains.md) [+M] — instruction changes it
+- [MDRD third graders show no significant differences among tutoring conditions on fact retrieval](../claims/mdrd-no-fact-retrieval-tutoring-response.md) [-M] — instruction changes it
+- [No significant independent relationship was found between inhibition and factual knowledge of arithmetic in either children or adults](../claims/no-inhibition-factual-knowledge-relationship.md) [-M] — instruction changes it
+- [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](../claims/magnitude-comparison-unique-variance-multiplication.md) [+M] — instruction changes it
+- [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](../claims/phonological-memory-modest-multiplication-contribution.md) [~S] — instruction changes it
+- [Procedural computation/estimation tutoring does not improve automatic fact retrieval](../claims/procedural-tutoring-no-fact-retrieval-gain.md) [-M] — instruction changes it
+- [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](../claims/symbolic-beats-nonsymbolic-multiplication-variance.md) [+M] — instruction changes it
+- [The association between nonsymbolic magnitude comparison and multiplication facts does not depend on trial type (OTS/ANS range or congruency) or numerical distance](../claims/nonsymbolic-multiplication-link-trial-type-independent.md) [+S] — instruction changes it
+- [Tutoring condition interacts with MD subtype status in effects on third graders' fact retrieval skill](../claims/fact-retrieval-tutoring-md-subtype-interaction.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

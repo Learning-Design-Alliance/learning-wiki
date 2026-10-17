@@ -49,3 +49,4 @@ Further analyses in Experiment 2 compared the two symbolic addition test sets; T
 - [The training-condition effect on symbolic arithmetic speed persists after controlling for training task reaction time and accuracy](training-effect-persists-after-task-performance-covariates.md) — reports the opposite
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
 - [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — reports the opposite
+- [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related

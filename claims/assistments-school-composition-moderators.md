@@ -99,3 +99,4 @@ Companion school-level moderator analysis using average percentage of White stud
 - The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - Coursemojo use narrowed achievement gaps for students with disabilities and economically disadvantaged students in Tennessee — related
+- [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related

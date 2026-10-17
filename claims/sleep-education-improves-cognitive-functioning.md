@@ -52,3 +52,4 @@ The article reports improved cognitive functioning following a school-based slee
 - [Path analysis shows sleep disturbance relates to cognitive flexibility indirectly via inhibitory control and working memory, with a non-significant direct path](path-analysis-indirect-sleep-flexibility-via-ic-wm.md) — related
 - [Sleep's association with inhibitory control and working memory remains significant after controlling for the other EF components, but cognitive flexibility's does not](sleep-ic-wm-direct-flexibility-nonsignificant-partial.md) — related
 - [Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations](sleep-quality-time-in-bed-predict-morning-working-memory.md) — related
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related

@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (46 show a difference, 14 mixed, 3 no difference) · 47 studies (25 associational, 6 review, 5 causal, 4 qualitative, 3 design, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 47 report an effect size · 59 claims rest on one study
+> **Evidence** · 68 claims (48 show a difference, 16 mixed, 4 no difference) · 48 studies (26 associational, 6 review, 5 causal, 4 qualitative, 3 design, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 48 report an effect size · 64 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -106,6 +106,11 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Poorer useful field of view performance in older adults predicts motor vehicle collision risk and difficulties in everyday visual tasks, even after adjustment for sensory and cognitive impairment](../claims/ufov-predicts-everyday-task-problems.md) [+M] — learners who differ on it differ in outcomes
 - [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](../claims/duration-of-deafness-piq-sign-enhancement-predict-literacy.md) [+W] — learners who differ on it differ in outcomes
 - [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](../claims/sign-enhancement-direction-reversal.md) [~M] — learners who differ on it differ in outcomes
+- [Deaf and hearing children do not differ in accuracy of object counting or creating sets of a given cardinality up to 14 items](../claims/no-group-difference-object-counting-accuracy.md) [-M] — learners who differ on it differ in outcomes
+- [Deaf children produce shorter conventional number strings in abstract counting than hearing children of the same school level, with a roughly 2-year delay](../claims/deaf-children-abstract-counting-delay.md) [+M] — learners who differ on it differ in outcomes
+- [Deaf children's abstract-counting errors reflect the rule-bound base-5 structure of Belgian French Sign Language: they stop at production-rule boundaries and make fewer omission errors than hearing children](../claims/sign-language-structure-shapes-counting-errors.md) [+M] — learners who differ on it differ in outcomes
+- [In object counting, deaf and hearing children make similar attention and principle errors, but deaf children make more number-string errors](../claims/deaf-more-number-string-errors-object-counting.md) [~M] — learners who differ on it differ in outcomes
+- [Linguistic delay may affect verbal mathematical abilities without impairing conceptual counting development, as deaf children's one-to-one correspondence understanding was age-appropriate](../claims/linguistic-delay-spares-conceptual-counting.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

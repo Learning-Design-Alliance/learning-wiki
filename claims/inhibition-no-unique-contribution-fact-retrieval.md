@@ -49,3 +49,5 @@ Simultaneous regression in 86 third graders with all predictors and confounds en
 - [Inhibition's role in arithmetic fact retrieval may be limited to atypically developing children](inhibition-fact-retrieval-scope-atypical-children.md) — a broader claim this one bears on
 - [Cognitive inhibition is not significantly associated with arithmetic fact retrieval in typically developing third graders](no-association-inhibition-arithmetic-fact-retrieval.md) — possibly the same claim (merge candidate)
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
+- [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related
+- [Mathematics achievement is more strongly related to inhibition measured in numerical than non-numerical contexts](numerical-inhibition-stronger-math-achievement-link.md) — related

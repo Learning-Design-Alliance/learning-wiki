@@ -47,3 +47,5 @@ A study of 100 participants aged 11-25 using a go/no-go task with letters over n
 - [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — a broader claim this one bears on
 - [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](adolescent-happy-nogo-false-alarm-ventral-striatum.md) — related
 - [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](task-relevant-emotions-stronger-response-inhibition-effect.md) — related
+- [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
+- [Inhibition relates to procedural skill in secondary-school children but to conceptual understanding in adults](inhibition-procedural-children-conceptual-adults.md) — related

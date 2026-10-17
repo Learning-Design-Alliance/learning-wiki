@@ -48,3 +48,4 @@ Empirical verification on the 911-candidate, 50-item Selection Test data. The co
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related
+- [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — related

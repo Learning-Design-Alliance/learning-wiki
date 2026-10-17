@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (115 show a difference, 32 mixed, 15 no difference, 2 unmarked) · 134 studies (44 associational, 35 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 31 of 134 report an effect size · 153 claims rest on one study
+> **Evidence** · 172 claims (121 show a difference, 34 mixed, 15 no difference, 2 unmarked) · 139 studies (48 associational, 36 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 32 of 139 report an effect size · 160 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -213,6 +213,14 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](../claims/school-belonging-mediation-dominican-intrinsic-motivation.md) [+M] — instruction changes it
 - [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](../claims/stigma-awareness-academic-anxiety-intrinsic-motivation-children.md) [+M] — instruction changes it
 - [The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity](../claims/stigma-motivation-moderation-gender-ethnicity.md) [~M] — instruction changes it
+- [Genetic variance in learning motivation fully mediates the gene-by-SES interaction on four-year-olds' math achievement](../claims/motivation-mediation-gene-ses-math.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindset interacts with gender for health major choice — men's chances decline 3.9 percentage points per unit increase — but no gender difference appears in how ability beliefs influence PEMC major choice](../claims/gender-growth-mindset-interaction-health-not-pemc.md) [~S] — learners who differ on it differ in outcomes
+- [In Study 1, students rated the revised intervention as more interesting and more informative than the original intervention](../claims/revised-intervention-rated-more-interesting-study1.md) [+M] — instruction changes it
+- [In Study 1, the revised growth mindset intervention reduced choosing easy over hard math problems more than the original intervention (d=.19)](../claims/revised-mindset-intervention-greater-challenge-seeking-study1.md) [+M] — instruction changes it
+- [In the pilot A/B experiments, indirect framing outperformed direct framing, refuting the fixed mindset backfired for strong fixed-mindset holders, and celebrity endorsements increased adoption](../claims/ab-testing-mindset-content-findings.md) [~M] — an instructional effect differs with it
+- [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst](../claims/observed-interest-arousal-predicts-poorer-readiness.md) [+M] — learners who differ on it differ in outcomes
+- [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](../claims/observed-persistence-predicts-school-readiness-head-start.md) [+M] — learners who differ on it differ in outcomes
+- [The reverse math-to-motivation genetic pathway is not moderated by SES, supporting a directional motivation-to-achievement relation](../claims/reverse-pathway-not-ses-moderated.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -13,12 +13,14 @@ sources:
     title: Yang X and Meng X 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Visual processing at senior kindergarten significantly explained 7% of additional variance in grade-one mathematics beyond initial mathematics, nonverbal IQ, sustained attention, inhibitory control, age, and gender. [→ Yang X and Meng X 2020](#yang-x-and-meng-x-2020)
@@ -29,7 +31,7 @@ sources:
 
 Yang X and Meng X (2020) Visual Processing Matters in Chinese Reading Acquisition and Early Mathematics. Front. Psychol. 11:462. https://doi.org/10.3389/fpsyg.2020.00462
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Univariate hierarchical regression in the same longitudinal sample predicting grade-one mathematics (calculation and word problems factor score). The article reports visual processing "still signiﬁcantly explained 7% of the variance in mathematics" (β = −0.30, t = −2.54, p < .05, Table 3); no standardized effect size is printed, so impact is null.
 

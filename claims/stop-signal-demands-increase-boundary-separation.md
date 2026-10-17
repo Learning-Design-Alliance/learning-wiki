@@ -48,3 +48,4 @@ Bayesian mixed ANOVA (Group x Task) in a sample of 144 children aged 8-13. The T
 - [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
 - [Non-decision time (encoding/motor speed) is unchanged when inhibitory demands are introduced](stop-signal-demands-no-nondecision-time-change.md) — related
 - [Equivalent performance-adjustment effects hold when clinical control and neurotypical children are analyzed separately](three-group-exploratory-analyses-consistent.md) — related
+- [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](proactive-inhibition-present-pre-adolescence.md) — related

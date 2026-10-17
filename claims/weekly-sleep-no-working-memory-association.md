@@ -15,12 +15,14 @@ sources:
     author: "Stefansdottir, R., Gundersen, H., Rognvaldsdottir, V., Lundervold, A. S., Gestsdottir, S., Gudmundsdottir, S. L., Chen, K. Y., Brychta, R. J. & Johannsson, E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Weekly average sleep measures show no association with working memory performance in older adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No weekly sleep parameter (rest time, sleep time, efficiency, WASO, or variability) was associated with n-back response times or accuracies at p < 0.05. [→ Stefansdottir 2020](#stefansdottir-2020)
@@ -31,7 +33,7 @@ sources:
 
 Stefansdottir, R., Gundersen, H., Rognvaldsdottir, V., Lundervold, A. S., Gestsdottir, S., Gudmundsdottir, S. L., Chen, K. Y., Brychta, R. J. & Johannsson, E. (2020). Association between free-living sleep and memory and attention in healthy adolescents. Scientific Reports 10:16877. https://doi.org/10.1038/s41598-020-73774-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null result from the same linear regression models in 160 adolescents; the authors suggest a floor effect, since "over 88% averaged less than the recommended 8 h time-in-bed over the week", and compensatory night-to-night variation may have obscured associations.
 

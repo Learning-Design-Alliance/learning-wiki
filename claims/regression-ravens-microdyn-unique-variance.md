@@ -46,3 +46,4 @@ Multiple regression analysis from the validation study with Raven's entered firs
 - [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](microdyn-stronger-predictor-than-ravens.md) — related
 - [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](stealth-assessment-problem-solving-correlates-external-measures.md) — related
 - [Adding MicroDYN rule application significantly improves prediction of overall problem solving, planning, tool usage, and evaluating progress, but not analyzing givens](rule-application-predicts-facets-except-analyzing-givens.md) — related
+- [Students with higher general cognitive ability are more efficient in equation rearrangement](cognitive-ability-correlates-equation-efficiency.md) — related
