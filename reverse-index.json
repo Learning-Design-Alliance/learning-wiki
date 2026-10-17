@@ -21908,7 +21908,7 @@
 },
 "note":"Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
 "totals":{
-"claims":19225,
+"claims":19242,
 "designs":837,
 "elements":1066,
 "learner-variables":74,
@@ -21918,7 +21918,7 @@
 "processes":18,
 "products":1716,
 "research-methods":351,
-"strategies":5997,
+"strategies":5998,
 "theories":1361
 }
 }

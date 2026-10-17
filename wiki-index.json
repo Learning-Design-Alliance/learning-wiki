@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":19225,
+"claim":19242,
 "design":837,
 "element":1066,
 "learner-variable":74,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1716,
 "research-method":351,
-"strategy":5997,
+"strategy":5998,
 "theory":1361
 },
 "kinds":[
@@ -309,6 +309,15 @@
 "path":"claims/26-states-statewide-leadership-initiatives.md",
 "status":"review",
 "title":"At least 26 states supported ongoing statewide leadership development initiatives for in-service leaders as of 2022–23",
+"type":"claim"
+},
+{
+"description":"2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs.",
+"evidence_strength":"moderate",
+"id":"2d-agents-tend-more-effective-than-3d",
+"path":"claims/2d-agents-tend-more-effective-than-3d.md",
+"status":"review",
+"title":"2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs. g+ = 0.11), as predicted by the redundancy effect and the coherence principle",
 "type":"claim"
 },
 {
@@ -5272,6 +5281,15 @@
 "path":"claims/agent-beats-mean-baseline-rmse-mae.md",
 "status":"review",
 "title":"In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE",
+"type":"claim"
+},
+{
+"description":"Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents",
+"evidence_strength":"moderate",
+"id":"agent-characteristics-mostly-not-moderators",
+"path":"claims/agent-characteristics-mostly-not-moderators.md",
+"status":"review",
+"title":"Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents",
 "type":"claim"
 },
 {
@@ -17889,6 +17907,24 @@
 "type":"claim"
 },
 {
+"description":"Classroom use of Betty's Brain showed a performance dichotomy: one study found 18 of 40 students made very little progress teaching Betty, while 16 taught a correct or nearly correct map.",
+"evidence_strength":"weak",
+"id":"betty-brain-classroom-performance-dichotomy",
+"path":"claims/betty-brain-classroom-performance-dichotomy.md",
+"status":"review",
+"title":"Classroom use of Betty's Brain showed a performance dichotomy: one study found 18 of 40 students made very little progress teaching Betty, while 16 taught a correct or nearly correct map.",
+"type":"claim"
+},
+{
+"description":"In one video study of Betty's Brain, 77% of the feedback delivered by the agents was ignored by students.",
+"evidence_strength":"weak",
+"id":"betty-brain-feedback-ignored-77-percent",
+"path":"claims/betty-brain-feedback-ignored-77-percent.md",
+"status":"review",
+"title":"In one video study of Betty's Brain, 77% of the feedback delivered by the agents was ignored by students.",
+"type":"claim"
+},
+{
 "description":"Substantial between-class differences exist in the accuracy with which intensive ESL students use structures such as progressive -ing and adjective–noun order in noun phrases",
 "evidence_strength":"moderate",
 "id":"between-class-accuracy-differences-intensive-esl",
@@ -29989,6 +30025,15 @@
 "type":"claim"
 },
 {
+"description":"Cluster analysis of coherence metrics on 98 students revealed five distinct behavior profiles, with engaged and efficient students showing the highest reading scores and significantly higher science gains than all oth...",
+"evidence_strength":"weak",
+"id":"coherence-cluster-five-behavior-profiles-outcomes",
+"path":"claims/coherence-cluster-five-behavior-profiles-outcomes.md",
+"status":"review",
+"title":"Cluster analysis of coherence metrics on 98 students revealed five distinct behavior profiles, with engaged and efficient students showing the highest reading scores and significantly higher science gains than all other clusters.",
+"type":"claim"
+},
+{
 "description":"Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom",
 "evidence_strength":"moderate",
 "id":"coherence-entrainment-higher-desirable-style-classroom",
@@ -32917,6 +32962,15 @@
 "path":"claims/conflict-trajectory-classes-elementary.md",
 "status":"review",
 "title":"Teacher-student conflict follows distinct longitudinal trajectory classes across elementary school, including low-stable, low-increasing, high-declining, and (for boys only) high-stable patterns",
+"type":"claim"
+},
+{
+"description":"Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.",
+"evidence_strength":"weak",
+"id":"confused-guessers-lower-skills-similar-gains",
+"path":"claims/confused-guessers-lower-skills-similar-gains.md",
+"status":"review",
+"title":"Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.",
 "type":"claim"
 },
 {
@@ -38162,6 +38216,69 @@
 "path":"claims/csc-potentially-positive-behavior-effects.md",
 "status":"review",
 "title":"The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points",
+"type":"claim"
+},
+{
+"description":"The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted",
+"evidence_strength":"weak",
+"id":"cscl-effectiveness-independent-of-number-of-activity-prompts",
+"path":"claims/cscl-effectiveness-independent-of-number-of-activity-prompts.md",
+"status":"review",
+"title":"The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted",
+"type":"claim"
+},
+{
+"description":"The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge",
+"evidence_strength":"moderate",
+"id":"cscl-scripts-effect-larger-for-skills-than-knowledge",
+"path":"claims/cscl-scripts-effect-larger-for-skills-than-knowledge.md",
+"status":"review",
+"title":"The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge",
+"type":"claim"
+},
+{
+"description":"Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL",
+"evidence_strength":"moderate",
+"id":"cscl-scripts-large-effect-collaboration-skills",
+"path":"claims/cscl-scripts-large-effect-collaboration-skills.md",
+"status":"review",
+"title":"Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL",
+"type":"claim"
+},
+{
+"description":"CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning",
+"evidence_strength":"moderate",
+"id":"cscl-scripts-medium-positive-collaboration-skills-effect",
+"path":"claims/cscl-scripts-medium-positive-collaboration-skills-effect.md",
+"status":"review",
+"title":"CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning",
+"type":"claim"
+},
+{
+"description":"CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning",
+"evidence_strength":"moderate",
+"id":"cscl-scripts-non-significant-positive-motivation-effect",
+"path":"claims/cscl-scripts-non-significant-positive-motivation-effect.md",
+"status":"review",
+"title":"CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning",
+"type":"claim"
+},
+{
+"description":"Learning with CSCL scripts yields a small positive effect on domain-specific knowledge compared to unstructured CSCL",
+"evidence_strength":"moderate",
+"id":"cscl-scripts-small-effect-domain-knowledge",
+"path":"claims/cscl-scripts-small-effect-domain-knowledge.md",
+"status":"review",
+"title":"Learning with CSCL scripts yields a small positive effect on domain-specific knowledge compared to unstructured CSCL",
+"type":"claim"
+},
+{
+"description":"CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning",
+"evidence_strength":"moderate",
+"id":"cscl-scripts-small-positive-domain-learning-effect",
+"path":"claims/cscl-scripts-small-positive-domain-learning-effect.md",
+"status":"review",
+"title":"CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning",
 "type":"claim"
 },
 {
@@ -96776,6 +96893,15 @@
 "type":"claim"
 },
 {
+"description":"Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects",
+"evidence_strength":"weak",
+"id":"measurement-level-moderator-not-significant",
+"path":"claims/measurement-level-moderator-not-significant.md",
+"status":"review",
+"title":"Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects",
+"type":"claim"
+},
+{
 "description":"Current measurement models underlying achievement testing assume students respond effortfully to test items",
 "evidence_strength":"weak",
 "id":"measurement-models-assume-effortful-responding",
@@ -101043,6 +101169,15 @@
 "path":"claims/more-school-level-variance-fall-to-spring-growth.md",
 "status":"review",
 "title":"More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much",
+"type":"claim"
+},
+{
+"description":"More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.",
+"evidence_strength":"weak",
+"id":"more-successful-students-higher-gains-focused-actions",
+"path":"claims/more-successful-students-higher-gains-focused-actions.md",
+"status":"review",
+"title":"More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.",
 "type":"claim"
 },
 {
@@ -114782,6 +114917,15 @@
 "path":"claims/pedagogical-agents-enhance-learning.md",
 "status":"review",
 "title":"Pedagogical agents enhance learning compared with learning environments that do not feature agents",
+"type":"claim"
+},
+{
+"description":"Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)",
+"evidence_strength":"moderate",
+"id":"pedagogical-agents-small-overall-learning-benefit",
+"path":"claims/pedagogical-agents-small-overall-learning-benefit.md",
+"status":"review",
+"title":"Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)",
 "type":"claim"
 },
 {
@@ -146361,6 +146505,15 @@
 "path":"claims/species-eulogy-fosters-more-than-human-recognition.md",
 "status":"review",
 "title":"Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality",
+"type":"claim"
+},
+{
+"description":"Scripts scaffolding coordination alone or negotiation with information sharing show the largest domain-learning effects, while three-way combinations show smaller significant effects",
+"evidence_strength":"weak",
+"id":"specific-activity-combinations-domain-learning-moderator",
+"path":"claims/specific-activity-combinations-domain-learning-moderator.md",
+"status":"review",
+"title":"Scripts scaffolding coordination alone or negotiation with information sharing show the largest domain-learning effects, while three-way combinations show smaller significant effects",
 "type":"claim"
 },
 {
@@ -215547,6 +215700,14 @@
 "type":"strategy"
 },
 {
+"description":"The authors propose a potentially valuable application of coherence analysis in OELEs: presenting CA-derived metrics to classroom teachers for evaluation and formative assessment.",
+"id":"coherence-metrics-teacher-formative-assessment-strategy",
+"path":"strategies/coherence-metrics-teacher-formative-assessment-strategy.md",
+"status":"review",
+"title":"Present coherence-analysis-derived metrics to classroom teachers for formative assessment of open-ended problem solving",
+"type":"strategy"
+},
+{
 "description":"The page describes a research brief that \\\"examines the practices and conditions of a coherent instructional system, and where and how it had the most impact.\\\" Drawing on \\\"a case study from a U.S.",
 "id":"coherent-instructional-system-model-for-leaders",
 "path":"strategies/coherent-instructional-system-model-for-leaders.md",
@@ -268555,6 +268716,7 @@
 "21st-cclc-students-felt-safer-after-school":"21st-cclc-students-felt-safer-after-school",
 "22-states-less-per-pupil-funding-than-2008-09":"22-states-less-per-pupil-funding-than-2008-09",
 "26-states-statewide-leadership-initiatives":"26-states-statewide-leadership-initiatives",
+"2d-agents-tend-more-effective-than-3d":"2d-agents-tend-more-effective-than-3d",
 "300-minutes-requires-360-400-minute-day":"300-minutes-requires-360-400-minute-day",
 "31-million-enrolled-not-completed":"31-million-enrolled-not-completed",
 "37-states-dual-funding-el-low-income":"37-states-dual-funding-el-low-income",
@@ -269114,6 +269276,7 @@
 "agency-subsystems-dominate-temporally":"agency-subsystems-dominate-temporally",
 "agency-theft-victimization-framing":"agency-theft-victimization-framing",
 "agent-beats-mean-baseline-rmse-mae":"agent-beats-mean-baseline-rmse-mae",
+"agent-characteristics-mostly-not-moderators":"agent-characteristics-mostly-not-moderators",
 "agent-consumer-distinction-epistemic-agency":"agent-consumer-distinction-epistemic-agency",
 "agent-context-lower-order-dominance":"agent-context-lower-order-dominance",
 "agent-descriptions-improve-dropout-prediction":"agent-descriptions-improve-dropout-prediction",
@@ -270528,6 +270691,8 @@
 "best-frontier-model-55-percent-pass-academiclaw":"best-frontier-model-55-percent-pass-academiclaw",
 "best-guess-predictions-modal-idea":"best-guess-predictions-modal-idea",
 "best-llms-below-best-students-nsmq-riddles":"best-llms-below-best-students-nsmq-riddles",
+"betty-brain-classroom-performance-dichotomy":"betty-brain-classroom-performance-dichotomy",
+"betty-brain-feedback-ignored-77-percent":"betty-brain-feedback-ignored-77-percent",
 "between-class-accuracy-differences-intensive-esl":"between-class-accuracy-differences-intensive-esl",
 "between-paragraph-manipulation-maintains-generation-advantage":"between-paragraph-manipulation-maintains-generation-advantage",
 "between-student-label-variance-limits-clip-models":"between-student-label-variance-limits-clip-models",
@@ -271888,6 +272053,7 @@
 "cohen-benchmarks-arbitrary":"cohen-benchmarks-arbitrary",
 "cohens-kappa-paradox-decision-consistency":"cohens-kappa-paradox-decision-consistency",
 "coherence-alignment-student-experience-supports":"coherence-alignment-student-experience-supports",
+"coherence-cluster-five-behavior-profiles-outcomes":"coherence-cluster-five-behavior-profiles-outcomes",
 "coherence-entrainment-higher-desirable-style-classroom":"coherence-entrainment-higher-desirable-style-classroom",
 "coherence-preexisting-initiatives-uptake":"coherence-preexisting-initiatives-uptake",
 "coherence-principle-irrelevant-material-hurts-learning":"coherence-principle-irrelevant-material-hurts-learning",
@@ -272218,6 +272384,7 @@
 "conflict-seed-induces-deeper-reflection":"conflict-seed-induces-deeper-reflection",
 "conflict-trajectories-predict-achievement":"conflict-trajectories-predict-achievement",
 "conflict-trajectory-classes-elementary":"conflict-trajectory-classes-elementary",
+"confused-guessers-lower-skills-similar-gains":"confused-guessers-lower-skills-similar-gains",
 "confusion-amplifies-negative-effect-of-incorrect-trials":"confusion-amplifies-negative-effect-of-incorrect-trials",
 "confusion-facial-action-units-4-7-12":"confusion-facial-action-units-4-7-12",
 "confusion-ks4-unimodal-vs-multimodal":"confusion-ks4-unimodal-vs-multimodal",
@@ -272811,6 +272978,13 @@
 "csc-no-discernible-academic-effects":"csc-no-discernible-academic-effects",
 "csc-no-discernible-kav-effects":"csc-no-discernible-kav-effects",
 "csc-potentially-positive-behavior-effects":"csc-potentially-positive-behavior-effects",
+"cscl-effectiveness-independent-of-number-of-activity-prompts":"cscl-effectiveness-independent-of-number-of-activity-prompts",
+"cscl-scripts-effect-larger-for-skills-than-knowledge":"cscl-scripts-effect-larger-for-skills-than-knowledge",
+"cscl-scripts-large-effect-collaboration-skills":"cscl-scripts-large-effect-collaboration-skills",
+"cscl-scripts-medium-positive-collaboration-skills-effect":"cscl-scripts-medium-positive-collaboration-skills-effect",
+"cscl-scripts-non-significant-positive-motivation-effect":"cscl-scripts-non-significant-positive-motivation-effect",
+"cscl-scripts-small-effect-domain-knowledge":"cscl-scripts-small-effect-domain-knowledge",
+"cscl-scripts-small-positive-domain-learning-effect":"cscl-scripts-small-positive-domain-learning-effect",
 "cscl-simulation-conceptual-change-cognitive-engagement":"cscl-simulation-conceptual-change-cognitive-engagement",
 "cse-mediates-anxiety-peu-lms":"cse-mediates-anxiety-peu-lms",
 "cse-partial-mediation-anx-peu-weakened":"cse-partial-mediation-anx-peu-weakened",
@@ -279454,6 +279628,7 @@
 "meaningful-speech-impairs-prose-memory-teenagers":"meaningful-speech-impairs-prose-memory-teenagers",
 "meanings-grow-out-of-social-intercourse":"meanings-grow-out-of-social-intercourse",
 "measurement-invariance-gender-structural-equivalence-rejected":"measurement-invariance-gender-structural-equivalence-rejected",
+"measurement-level-moderator-not-significant":"measurement-level-moderator-not-significant",
 "measurement-models-assume-effortful-responding":"measurement-models-assume-effortful-responding",
 "measurement-noise-negative-gain-pretest-correlation":"measurement-noise-negative-gain-pretest-correlation",
 "measuring-math-impact-key-to-improving-performance":"measuring-math-impact-key-to-improving-performance",
@@ -279941,6 +280116,7 @@
 "more-regulation-higher-product-quality":"more-regulation-higher-product-quality",
 "more-representations-mathematical-ideas-higher-achievement":"more-representations-mathematical-ideas-higher-achievement",
 "more-school-level-variance-fall-to-spring-growth":"more-school-level-variance-fall-to-spring-growth",
+"more-successful-students-higher-gains-focused-actions":"more-successful-students-higher-gains-focused-actions",
 "more-whole-class-instruction-time-higher-math-achievement":"more-whole-class-instruction-time-higher-math-achievement",
 "morning-meeting-academic-choice-emotional-support":"morning-meeting-academic-choice-emotional-support",
 "morphological-awareness-contributes-reading-development":"morphological-awareness-contributes-reading-development",
@@ -281489,6 +281665,7 @@
 "pears-holistic-feedback-correlates-tutor-marks-specific-does-not":"pears-holistic-feedback-correlates-tutor-marks-specific-does-not",
 "pecs-sgd-larger-than-other-picture-based-systems":"pecs-sgd-larger-than-other-picture-based-systems",
 "pedagogical-agents-enhance-learning":"pedagogical-agents-enhance-learning",
+"pedagogical-agents-small-overall-learning-benefit":"pedagogical-agents-small-overall-learning-benefit",
 "pedagogical-ai-competence-associated-with-ai-use":"pedagogical-ai-competence-associated-with-ai-use",
 "pedagogical-burnout-detection-policing":"pedagogical-burnout-detection-policing",
 "pedagogical-challenges-distance-learning-design-software":"pedagogical-challenges-distance-learning-design-software",
@@ -285091,6 +285268,7 @@
 "specialization-role-interdependence-moderated-by-social-climate":"specialization-role-interdependence-moderated-by-social-climate",
 "specially-designed-instruction-responsive-to-assessment-data-improves-outcomes":"specially-designed-instruction-responsive-to-assessment-data-improves-outcomes",
 "species-eulogy-fosters-more-than-human-recognition":"species-eulogy-fosters-more-than-human-recognition",
+"specific-activity-combinations-domain-learning-moderator":"specific-activity-combinations-domain-learning-moderator",
 "specific-difficult-goals-lead-to-higher-performance":"specific-difficult-goals-lead-to-higher-performance",
 "specific-processing-speed-generalises-to-all-academic-achievements":"specific-processing-speed-generalises-to-all-academic-achievements",
 "specific-processing-speed-predicts-grade7-math":"specific-processing-speed-predicts-grade7-math",
@@ -293726,6 +293904,7 @@
 "cognitively-guided-instruction":"cognitively-guided-instruction",
 "cognitively_demanding_tasks":"cognitively_demanding_tasks",
 "coherence":"coherence",
+"coherence-metrics-teacher-formative-assessment-strategy":"coherence-metrics-teacher-formative-assessment-strategy",
 "coherent-instructional-system-model-for-leaders":"coherent-instructional-system-model-for-leaders",
 "coherent-instructional-system-model-reading-science":"coherent-instructional-system-model-reading-science",
 "coherent-instructional-system-reading-science":"coherent-instructional-system-reading-science",

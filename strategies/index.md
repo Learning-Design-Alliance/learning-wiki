@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**5997 entries** · 0 stable · 5997 in review · 0 drafts
+**5998 entries** · 0 stable · 5998 in review · 0 drafts
 
 ---
 
@@ -3623,6 +3623,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md) - The dissertation's third manuscript provides a guide for preservice teacher faculty on integrating AI-Powered Personalized Learning (AI-PPL) in special education.
 * [Prequestions](prequestions.md) - Asking learners questions about material before it has been taught, priming them to learn from the subsequent instruction.
 * [Present animations as distinct logical chunks separated by short pauses](chunked-animations-with-pauses.md) - The article recommends that, because learners rarely take advantage of self-paced flow control in animations, designers should pre-structure the material instead.
+* [Present coherence-analysis-derived metrics to classroom teachers for formative assessment of open-ended problem solving](coherence-metrics-teacher-formative-assessment-strategy.md) - The authors propose a potentially valuable application of coherence analysis in OELEs: presenting CA-derived metrics to classroom teachers for evaluation and formative assessment.
 * [Present early space-science activities as inquiry-based learning integrated with play, informed by children's existing mental models](inquiry-based-play-space-science-early-years.md) - The article recommends that \"early science learning activities targeting space science concepts, including the day and night cycle, should be inquiry-based and presented within the context of play.\" Science activities...
 * [Present information in a manner that encourages learner activities optimizing intellectual performance](presentation-guidelines-optimize-intellectual-performance.md) - Cognitive load theory is described as \"designed to provide guidelines intended to assist in the presentation of information in a manner that encourages learner activities that optimize intellectual performance.\" As an...
 * [Present information in a manner that encourages learner activities that optimize intellectual performance](present-information-to-optimize-intellectual-performance.md) - The article states that cognitive load theory \"has been designed to provide guidelines intended to assist in the presentation of information in a manner that encourages learner activities that optimize intellectual pe...

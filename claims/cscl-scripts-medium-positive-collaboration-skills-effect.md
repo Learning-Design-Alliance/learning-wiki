@@ -1,0 +1,39 @@
+---
+type: claim
+title: CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning
+description: CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning
+id: cscl-scripts-medium-positive-collaboration-skills-effect
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: radkowitsch-2020
+    resource: "https://doi.org/10.1007/s11412-020-09316-4"
+    title: "Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4"
+    author: "Radkowitsch, A., Vogel, F., & Fischer, F"
+---
+
+# CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning
+
+## Subclaims
+`q3 i2` Learning with CSCL scripts yields a significant medium-sized positive summary effect on collaboration skills (Hedges' g = 0.72; g = 0.59 excluding two outlier studies). [→ Radkowitsch 2020](#radkowitsch-2020)
+
+## Evidence
+
+### Radkowitsch 2020
+
+Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4
+
+`q3 · i2`
+
+Random-effects meta-analysis of 41 collaboration-skill effects (23 independent) from experimental CSCL-script comparisons, showing "a significant medium-sized positive summary effect of Hedges' g = 0.72". Excluding two outlier studies the effect remained medium at g = 0.59.
+
+> "We examined 41 effects of CSCL scripts on collaboration skills. Of these, 23 were independent. The meta-analysis resulted in a significant medium-sized positive summary effect of Hedges' g = 0.72."
+
+## Discussion
+
+
+## Related Claims
+-

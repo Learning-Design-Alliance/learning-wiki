@@ -1,0 +1,40 @@
+---
+type: claim
+title: "More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities."
+description: "More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities."
+id: more-successful-students-higher-gains-focused-actions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: weak
+sources:
+  - id: gautam-biswas-2016
+    resource: "https://doi.org/10.1007/s40593-015-0057-9"
+    title: "Gautam Biswas, James R. Segedy, Kritya Bunchongchit. (2016). From Design to Implementation to Practice: a Learning by Teaching System: Betty's Brain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0057-9"
+    author: Gautam Biswas, James R. Segedy, Kritya Bunchongchit
+---
+
+# More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.
+
+## Subclaims
+`q2 i?` More successful students exhibited significantly higher science learning gains and were more accurate in their causal map edits. [→ Gautam Biswas 2016](#gautam-biswas-2016)
+`q2 i?` More successful students performed actions more often related to their recent previous actions, and productively combined map editing, reading, and quizzing behaviors. [→ Gautam Biswas 2016](#gautam-biswas-2016)
+
+## Evidence
+
+### Gautam Biswas 2016
+
+Gautam Biswas, James R. Segedy, Kritya Bunchongchit. (2016). From Design to Implementation to Practice: a Learning by Teaching System: Betty's Brain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0057-9
+
+`q2 · i?`
+
+The paper reports that analyses using hidden Markov models, differential sequence mining, and statistical analyses contrasted more and less successful students, finding they "were more accurate in their causal map edits" and more focused; no effect sizes are printed.
+
+> "More successful students: (1) exhibited significantly higher science learning gains; (2) were more accurate in their causal map edits; and (3) performed actions that were more often related to their recent previous actions, suggesting that they were more focused and less random in their activities."
+
+## Discussion
+
+
+## Related Claims
+-
