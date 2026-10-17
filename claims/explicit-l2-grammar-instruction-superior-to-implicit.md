@@ -143,3 +143,4 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — related
 - [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — reports the opposite
 - [Instructed learners outperform all other condition groups in learning simple second language rules](instructed-learners-outperform-others-simple-rules.md) — a narrower finding that bears on this claim
+- [Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input](attention-to-form-rule-vs-highlighting-comprehension.md) — a narrower finding that bears on this claim

@@ -45,3 +45,4 @@ Learning-efficiency analysis in the simulation comparing four conditions across 
 ## Related Claims
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — related
 - [ARPG+ produces higher final prompt quality than unguided, template, and rule-based conditions among simulated learners](arpg-plus-higher-prompt-quality-than-baselines.md) — related
+- [Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)](simulation-based-learning-large-positive-effect-complex-skills.md) — related

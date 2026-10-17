@@ -66,3 +66,4 @@ Moderator analysis across six types of computer-based environments in the 29 stu
 - [Multiple kinds of scaffolds are more effective than a unique scaffold for academic performance](multiple-scaffolds-outperform-unique.md) — related
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
+- [Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did](scaffolding-added-value-partly-supported.md) — related

@@ -48,3 +48,4 @@ Multivariate logistic regression in 133 junior high students adjusted for grade 
 - [No cognitive test score is associated with decreased intrinsic academic motivation in elementary school students](no-cognitive-test-associated-elementary-motivation-decline.md) — related
 - [Intrinsic academic motivation scores are lower in 7th- and 8th-grade junior high students than in 4th-grade elementary students](motivation-scores-lower-junior-high-than-4th-grade.md) — related
 - [Prevalence of decreased intrinsic academic motivation is approximately twice as high in junior high as in elementary students](motivation-decline-prevalence-doubles-junior-high.md) — related
+- [Students with low peer problems score significantly higher in reading comprehension than students with high peer problems](low-peer-problems-higher-reading-comprehension.md) — related

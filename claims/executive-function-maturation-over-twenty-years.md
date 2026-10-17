@@ -43,4 +43,4 @@ The review reports, citing neuroimaging studies, that brain maturation "takes mo
 
 
 ## Related Claims
--
+- [Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge](prior-knowledge-consistency-brain-systems-memory.md) — related

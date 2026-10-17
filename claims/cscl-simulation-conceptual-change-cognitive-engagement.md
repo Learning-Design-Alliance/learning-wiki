@@ -58,3 +58,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related
 - [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
+- [Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)](simulation-based-learning-large-positive-effect-complex-skills.md) — related

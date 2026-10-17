@@ -68,3 +68,4 @@ Spearman correlation analysis in the two younger age groups (n = 521 aged 6–9;
 - [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related
 - [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — reports the opposite
 - [Active play is associated with time with family and peers in all age groups (r = 0.485)](active-play-family-peers-association.md) — related
+- [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](anthropometrics-no-correlation-creativity.md) — related

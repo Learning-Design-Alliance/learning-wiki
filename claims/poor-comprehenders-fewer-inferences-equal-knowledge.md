@@ -52,3 +52,4 @@ Experiment with 13 skilled and 13 less skilled 7- to 8-year-old comprehenders ma
 - [Incorrect inference generation is more common for elaborative than for coherence inference failures, indicating children are less aware which information is relevant for elaborative inferences](incorrect-inferences-more-common-elaborative.md) — related
 - [Skilled comprehenders show superior one-week retention of a taught knowledge base despite comparable immediate recall](skilled-comprehenders-better-delayed-knowledge-retention.md) — related
 - [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related
+- [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related

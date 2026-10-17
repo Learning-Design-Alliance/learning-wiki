@@ -75,3 +75,4 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — reports the opposite
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
 - [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](previous-knowledge-null-elearning-comprehension.md) — related
+- [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — related

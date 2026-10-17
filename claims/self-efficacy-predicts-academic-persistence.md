@@ -163,3 +163,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
 - [Former students reported positive changes in self-perception and self-confidence after participating in prison higher education](prison-college-improved-self-perception-women.md) — related
 - [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — a narrower finding that bears on this claim
+- [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related

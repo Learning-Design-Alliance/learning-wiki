@@ -44,3 +44,4 @@ Micro-longitudinal ambulatory assessment in which 110 third- and fourth-graders 
 
 ## Related Claims
 - [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related

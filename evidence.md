@@ -8,12 +8,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 19,102 |
-| Evidence entries | 22,736 |
-| Distinct studies | 5,334 |
-| Claims resting on one study | 18,594 (97%) |
+| Claims | 19,232 |
+| Evidence entries | 22,894 |
+| Distinct studies | 5,356 |
+| Claims resting on one study | 18,724 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,125 of 5,334 (21%) |
+| Studies reporting an effect size | 1,136 of 5,356 (21%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -26,14 +26,15 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | qualitative | 108 | 264 | 64 | 83 | 519 |
 | design | 50 | 506 | 131 | 30 | 717 |
 | theoretical | 87 | 262 | 49 | 53 | 451 |
+| not yet coded | | | | | 22 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 687 (13%) | 3,162 (59%) | 1,364 (26%) | 121 (2%) |
+| 688 (13%) | 3,166 (59%) | 1,381 (26%) | 121 (2%) |
 
-**Studies per claim:** 0: 0, 1: 18,594, 2: 426, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 18,724, 2: 426, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -51,6 +52,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
 | [Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A …](claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md) | q3 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
+| [Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car …](claims/vp-blended-knowledge-advantage.md) | q3 | 14 | 14 |
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
 | [Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make …](claims/achievement-focused-mission-charter-impacts.md) | q2 | 13 | 13 |
 | [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
@@ -62,7 +64,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Merging Cognitive Science and Curriculum to Strengthen Middle School Math. (2014). WestEd R&D Alert, Vol. 15, …](claims/decorative-images-distract-from-math-problems.md) | q2 | 11 | 11 |
 | [Clark Douglas B., Tanner-Smith Emily E., Killingsworth Stephen S. (2016). Digital Games, Design, and …](claims/camera-perspective-moderator-games.md) | q3 | 11 | 11 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
-| [Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM. (2018). Effectiveness of Universal …](claims/exercise-based-interventions-improved-sr-4-of-6.md) | q3 | 11 | 11 |
 
 ## Citation load against evidence base
 
@@ -135,8 +136,8 @@ Each page that cites claims carries its own profile under its title. Summarised 
 |---|---|---|---|---|
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
-| [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,986 | 2,663 | 5 | 0 |
+| [patterns](patterns/index.md) | 68 | 61 | 23 | 0 |
+| [strategies](strategies/index.md) | 5,997 | 2,663 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |

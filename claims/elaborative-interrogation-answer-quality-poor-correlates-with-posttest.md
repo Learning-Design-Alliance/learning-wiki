@@ -87,3 +87,4 @@ Spearman rank-order correlation in the embedded-questioning condition (mean 3.08
 - [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
 - [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — related
 - [Elaborative interrogation benefits increase as learners' prior knowledge increases](elaborative-interrogation-prior-knowledge-moderator.md) — related
+- [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related

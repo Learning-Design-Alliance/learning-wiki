@@ -1,0 +1,63 @@
+---
+type: claim
+title: Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions
+description: Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions
+id: vp-design-variants-mostly-null
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: weak
+sources:
+  - id: kononowicz-aa-2019
+    resource: "https://doi.org/10.2196/14676"
+    title: "Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676"
+    author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
+    q: 2
+    i: "?"
+  - id: kononowicz-aa-2019-2
+    resource: "https://doi.org/10.2196/14676"
+    title: "Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676"
+    author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
+    q: 2
+    i: "?"
+---
+
+# Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` Most comparisons of virtual patient design variants (linear vs branched, scaffolded vs not, worked vs unworked, spaced vs nonspaced, solving vs constructing) showed no significant differences in knowledge or skills outcomes. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
+`q2 i?` Exceptions: empathic human feedback improved communication skills (P<.03), narrative design beat problem-solving for communication skills (P=.03), and representational scaffolding improved diagnostic efficiency (P=.045). [→ Kononowicz AA 2019 (2)](#kononowicz-aa-2019-2)
+
+## Evidence
+
+### Kononowicz AA 2019
+
+Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
+
+`q2 · i?`
+
+Narrative synthesis of design-variant RCTs in the knowledge domain; only one study (pedagogic vs problem-solving vs high-fidelity design, P<.01) reached significance. The review states trials comparing design variants "were not numerous enough to give clear recommendations".
+
+> "Comparing linear and branched virtual patients [92], scaffolded versus nonscaffolded [93], worked and unworked examples [97], virtual patient with usability extensions [94], self-determined versus mandatory integration [98], spaced versus nonspaced release of cases [99], and virtual patient solving versus virtual patient design exercises [100] resulted in no significant differences in knowledge outcomes."
+
+### Kononowicz AA 2019 (2)
+
+Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
+
+`q2 · i?`
+
+Skills-domain design comparisons: human empathic feedback and narrative structure each outperformed their contrast on communication skills; Braun et al found scaffolding improved diagnostic efficiency (P=.045); constructing versus solving showed no difference (P=.54).
+
+> "Foster et al [95] showed that virtual patients with emphatic feedback were significantly better in training communication skills than those virtual patients without feedback (P<.03). In the study by Bearman et al [91], narrative virtual patients were significantly better than problem-solving virtual patients in conveying communication skills (P=.03)."
+
+## Discussion
+
+
+## Related Claims
+- [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — related
+- [Virtual patients show no significant differences versus other types of digital education for knowledge or skills](vp-vs-other-digital-no-difference.md) — related
+- [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related

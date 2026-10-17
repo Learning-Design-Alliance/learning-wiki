@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":19102,
+"claim":19232,
 "design":832,
 "element":1066,
 "learner-variable":74,
 "method":38,
-"pattern":65,
+"pattern":68,
 "principle":213,
 "process":18,
 "product":1712,
 "research-method":350,
-"strategy":5986,
+"strategy":5997,
 "theory":1361
 },
 "kinds":[
@@ -354,6 +354,24 @@
 "path":"claims/38-of-132-early-literacy-interventions-effective.md",
 "status":"review",
 "title":"Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects",
+"type":"claim"
+},
+{
+"description":"The 3B VR classroom system achieves an average end-to-end latency of approximately 73 ms, below the 150 ms threshold required for real-time interactions",
+"evidence_strength":"moderate",
+"id":"3b-end-to-end-latency-below-realtime-threshold",
+"path":"claims/3b-end-to-end-latency-below-realtime-threshold.md",
+"status":"review",
+"title":"The 3B VR classroom system achieves an average end-to-end latency of approximately 73 ms, below the 150 ms threshold required for real-time interactions",
+"type":"claim"
+},
+{
+"description":"A first evaluation of 3B confirms its conformance to critical usability requirements including safety and comfort, believability, simplicity, acceptability, extensibility, affordability, and mobility",
+"evidence_strength":"weak",
+"id":"3b-first-evaluation-confirms-usability-requirements",
+"path":"claims/3b-first-evaluation-confirms-usability-requirements.md",
+"status":"review",
+"title":"A first evaluation of 3B confirms its conformance to critical usability requirements including safety and comfort, believability, simplicity, acceptability, extensibility, affordability, and mobility",
 "type":"claim"
 },
 {
@@ -2115,6 +2133,15 @@
 "type":"claim"
 },
 {
+"description":"Academic achievement is moderately correlated with academic self-concept in African American middle school youth",
+"evidence_strength":"moderate",
+"id":"achievement-self-concept-correlation-african-american-youth",
+"path":"claims/achievement-self-concept-correlation-african-american-youth.md",
+"status":"review",
+"title":"Academic achievement is moderately correlated with academic self-concept in African American middle school youth",
+"type":"claim"
+},
+{
 "description":"Within-school variation in baseline achievement is greater in middle school grades, but upper elementary grades show an offsetting amount of between-school variation",
 "evidence_strength":"moderate",
 "id":"achievement-variation-offset-across-grade-bands",
@@ -2383,6 +2410,15 @@
 "path":"claims/active-control-enhances-memory-development.md",
 "status":"review",
 "title":"Active control over the learning experience enhances recognition memory from age 7 into adulthood",
+"type":"claim"
+},
+{
+"description":"Active control of learning enhances event memory and concept acquisition, with benefits present early in childhood",
+"evidence_strength":"moderate",
+"id":"active-control-of-learning-enhances-memory",
+"path":"claims/active-control-of-learning-enhances-memory.md",
+"status":"review",
+"title":"Active control of learning enhances event memory and concept acquisition, with benefits present early in childhood",
 "type":"claim"
 },
 {
@@ -3285,6 +3321,15 @@
 "type":"claim"
 },
 {
+"description":"21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index",
+"evidence_strength":"weak",
+"id":"adhd-21-percent-highly-creative",
+"path":"claims/adhd-21-percent-highly-creative.md",
+"status":"review",
+"title":"21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index",
+"type":"claim"
+},
+{
 "description":"Clinically relevant attention problems in ADHD cause writing problems without impairing reading",
 "evidence_strength":"moderate",
 "id":"adhd-attention-deficits-cause-writing-problems",
@@ -3309,6 +3354,42 @@
 "path":"claims/adhd-c-worse-stm-wm-than-adhd-i.md",
 "status":"review",
 "title":"STM and WM performance is worse in ADHD-C than in ADHD-I, while CE-related performance does not differ between subtypes",
+"type":"claim"
+},
+{
+"description":"Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths",
+"evidence_strength":"moderate",
+"id":"adhd-children-higher-creative-strengths",
+"path":"claims/adhd-children-higher-creative-strengths.md",
+"status":"review",
+"title":"Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths",
+"type":"claim"
+},
+{
+"description":"Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls",
+"evidence_strength":"moderate",
+"id":"adhd-children-higher-creativity-index",
+"path":"claims/adhd-children-higher-creativity-index.md",
+"status":"review",
+"title":"Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls",
+"type":"claim"
+},
+{
+"description":"Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency",
+"evidence_strength":"moderate",
+"id":"adhd-children-higher-ttct-fluency",
+"path":"claims/adhd-children-higher-ttct-fluency.md",
+"status":"review",
+"title":"Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency",
+"type":"claim"
+},
+{
+"description":"Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality",
+"evidence_strength":"moderate",
+"id":"adhd-children-higher-ttct-originality",
+"path":"claims/adhd-children-higher-ttct-originality.md",
+"status":"review",
+"title":"Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality",
 "type":"claim"
 },
 {
@@ -3438,6 +3519,15 @@
 "type":"claim"
 },
 {
+"description":"Children with ADHD show significantly lower learning ability scores than control children",
+"evidence_strength":"moderate",
+"id":"adhd-lower-learning-ability-scores-than-controls",
+"path":"claims/adhd-lower-learning-ability-scores-than-controls.md",
+"status":"review",
+"title":"Children with ADHD show significantly lower learning ability scores than control children",
+"type":"claim"
+},
+{
 "description":"Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls",
 "evidence_strength":"moderate",
 "id":"adhd-lower-mpq-achievement-scale",
@@ -3501,6 +3591,15 @@
 "type":"claim"
 },
 {
+"description":"ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure",
+"evidence_strength":"moderate",
+"id":"adhd-no-difference-elaboration-abstractness-closure",
+"path":"claims/adhd-no-difference-elaboration-abstractness-closure.md",
+"status":"review",
+"title":"ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure",
+"type":"claim"
+},
+{
 "description":"Adults with ADHD generate more original ideas under competition for a bonus, but not without competition",
 "evidence_strength":"moderate",
 "id":"adhd-originality-increases-under-competition",
@@ -3552,6 +3651,15 @@
 "path":"claims/adhd-poorer-accuracy-wm-change-trials.md",
 "status":"review",
 "title":"Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating",
+"type":"claim"
+},
+{
+"description":"ADHD children show significantly prolonged ABR wave III, IV, V and interpeak I-III, III-V, I-V latencies compared with controls",
+"evidence_strength":"moderate",
+"id":"adhd-prolonged-abr-latencies",
+"path":"claims/adhd-prolonged-abr-latencies.md",
+"status":"review",
+"title":"ADHD children show significantly prolonged ABR wave III, IV, V and interpeak I-III, III-V, I-V latencies compared with controls",
 "type":"claim"
 },
 {
@@ -4426,6 +4534,15 @@
 "path":"claims/aerobic-exercise-improves-executive-function-children.md",
 "status":"review",
 "title":"Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect",
+"type":"claim"
+},
+{
+"description":"Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood",
+"evidence_strength":"weak",
+"id":"aerobic-fitness-diet-hippocampus-episodic-memory",
+"path":"claims/aerobic-fitness-diet-hippocampus-episodic-memory.md",
+"status":"review",
+"title":"Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood",
 "type":"claim"
 },
 {
@@ -5614,6 +5731,15 @@
 "path":"claims/aging-increases-distractibility-ltm-retrieval.md",
 "status":"review",
 "title":"Older adults show greater distractibility than younger adults during episodic retrieval of long-term memory details",
+"type":"claim"
+},
+{
+"description":"Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli",
+"evidence_strength":"moderate",
+"id":"aging-multisensory-gains-simple-deficits-complex",
+"path":"claims/aging-multisensory-gains-simple-deficits-complex.md",
+"status":"review",
+"title":"Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli",
 "type":"claim"
 },
 {
@@ -12459,6 +12585,15 @@
 "type":"claim"
 },
 {
+"description":"Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample",
+"evidence_strength":"moderate",
+"id":"anthropometrics-no-correlation-creativity",
+"path":"claims/anthropometrics-no-correlation-creativity.md",
+"status":"review",
+"title":"Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample",
+"type":"claim"
+},
+{
 "description":"Anthropomorphic explanations of 15 abstract physics concepts differ significantly before and after classroom pedagogical interventions",
 "evidence_strength":"moderate",
 "id":"anthropomorphic-explanations-corrected-by-pedagogical-interventions",
@@ -14079,6 +14214,15 @@
 "type":"claim"
 },
 {
+"description":"Comprehension assessment questioning dominated over instruction, with only six question-answer sessions classified as instruction",
+"evidence_strength":"moderate",
+"id":"assessment-questioning-dominates-instruction",
+"path":"claims/assessment-questioning-dominates-instruction.md",
+"status":"review",
+"title":"Comprehension assessment questioning dominated over instruction, with only six question-answer sessions classified as instruction",
+"type":"claim"
+},
+{
 "description":"Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation",
 "evidence_strength":"weak",
 "id":"assessment-redesign-insights-tlc-convening",
@@ -14925,6 +15069,15 @@
 "type":"claim"
 },
 {
+"description":"Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input",
+"evidence_strength":"moderate",
+"id":"attention-to-form-rule-vs-highlighting-comprehension",
+"path":"claims/attention-to-form-rule-vs-highlighting-comprehension.md",
+"status":"review",
+"title":"Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input",
+"type":"claim"
+},
+{
 "description":"Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs",
 "evidence_strength":"weak",
 "id":"attention-training-interventions-evidence-note",
@@ -15484,6 +15637,24 @@
 "type":"claim"
 },
 {
+"description":"Autistic individuals show reduced multisensory integration, most consistently for speech-related stimuli",
+"evidence_strength":"mixed",
+"id":"autism-reduced-mcgurk-fusion-meta-analysis",
+"path":"claims/autism-reduced-mcgurk-fusion-meta-analysis.md",
+"status":"review",
+"title":"Autistic individuals show reduced multisensory integration, most consistently for speech-related stimuli",
+"type":"claim"
+},
+{
+"description":"Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology",
+"evidence_strength":"moderate",
+"id":"autism-temporal-precision-links-language-symptoms",
+"path":"claims/autism-temporal-precision-links-language-symptoms.md",
+"status":"review",
+"title":"Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology",
+"type":"claim"
+},
+{
 "description":"Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing",
 "evidence_strength":"weak",
 "id":"auto-updates-drew-users-from-explanations",
@@ -15781,6 +15952,24 @@
 "type":"claim"
 },
 {
+"description":"The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters",
+"evidence_strength":"moderate",
+"id":"autotutor-content-matters-not-talking-head",
+"path":"claims/autotutor-content-matters-not-talking-head.md",
+"status":"review",
+"title":"The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters",
+"type":"claim"
+},
+{
+"description":"AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons",
+"evidence_strength":"moderate",
+"id":"autotutor-gains-equivalent-to-human-tutoring",
+"path":"claims/autotutor-gains-equivalent-to-human-tutoring.md",
+"status":"review",
+"title":"AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons",
+"type":"claim"
+},
+{
 "description":"The review reports that AutoTutor improves learning by nearly one letter grade compared with reading a textbook for an equivalent time or with a pretest",
 "evidence_strength":"weak",
 "id":"autotutor-improves-learning-one-letter-grade",
@@ -15790,12 +15979,30 @@
 "type":"claim"
 },
 {
+"description":"AutoTutor yields average learning gains of 0.3 to 0.8 sigma compared to reading text for an equivalent amount of time",
+"evidence_strength":"moderate",
+"id":"autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading",
+"path":"claims/autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading.md",
+"status":"review",
+"title":"AutoTutor yields average learning gains of 0.3 to 0.8 sigma compared to reading text for an equivalent amount of time",
+"type":"claim"
+},
+{
 "description":"AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy",
 "evidence_strength":"weak",
 "id":"autotutor-learning-gains-comparable-human-tutors",
 "path":"claims/autotutor-learning-gains-comparable-human-tutors.md",
 "status":"review",
 "title":"AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy",
+"type":"claim"
+},
+{
+"description":"AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions",
+"evidence_strength":"weak",
+"id":"autotutor-student-questions-extinguish",
+"path":"claims/autotutor-student-questions-extinguish.md",
+"status":"review",
+"title":"AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions",
 "type":"claim"
 },
 {
@@ -22774,6 +22981,15 @@
 "type":"claim"
 },
 {
+"description":"Racial centrality plays different roles across outcomes: protective against discrimination's effects on mental health but a vulnerability factor for stereotype effects on self-perceptions",
+"evidence_strength":"weak",
+"id":"centrality-dual-role-discrimination-versus-stereotypes",
+"path":"claims/centrality-dual-role-discrimination-versus-stereotypes.md",
+"status":"review",
+"title":"Racial centrality plays different roles across outcomes: protective against discrimination's effects on mental health but a vulnerability factor for stereotype effects on self-perceptions",
+"type":"claim"
+},
+{
 "description":"Centralized enrollment systems with a universal application, combined with community partnerships, build families' awareness of preschool programs",
 "evidence_strength":"moderate",
 "id":"centralized-enrollment-builds-family-awareness",
@@ -27801,6 +28017,15 @@
 "type":"claim"
 },
 {
+"description":"Clinical-significance analysis replicated the community interaction: Level C versus control differed significantly in Aurora and marginally in Chicago schools",
+"evidence_strength":"moderate",
+"id":"clinical-significance-level-c-community-difference",
+"path":"claims/clinical-significance-level-c-community-difference.md",
+"status":"review",
+"title":"Clinical-significance analysis replicated the community interaction: Level C versus control differed significantly in Aurora and marginally in Chicago schools",
+"type":"claim"
+},
+{
 "description":"The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples",
 "evidence_strength":"moderate",
 "id":"clinical-status-does-not-moderate-reward-effect-on-inhibitory-control",
@@ -29590,6 +29815,15 @@
 "path":"claims/cognitive-skills-correlate-with-vibe-coding-and-predictors.md",
 "status":"review",
 "title":"Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills",
+"type":"claim"
+},
+{
+"description":"Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males",
+"evidence_strength":"moderate",
+"id":"cognitive-strategy-use-varies-by-subject-area",
+"path":"claims/cognitive-strategy-use-varies-by-subject-area.md",
+"status":"review",
+"title":"Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males",
 "type":"claim"
 },
 {
@@ -33306,6 +33540,15 @@
 "type":"claim"
 },
 {
+"description":"The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome",
+"evidence_strength":"weak",
+"id":"content-support-moderator-not-significant",
+"path":"claims/content-support-moderator-not-significant.md",
+"status":"review",
+"title":"The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome",
+"type":"claim"
+},
+{
 "description":"Content-related problems trigger most negotiation routines, and syntactic triggers are absent from text chat where turns are short",
 "evidence_strength":"moderate",
 "id":"content-triggers-dominate-syntactic-triggers-absent-text-chat",
@@ -33375,6 +33618,42 @@
 "path":"claims/context-intent-joint-association.md",
 "status":"review",
 "title":"Interaction context and cognitive intent are structurally associated: task-directed interactions sit at lower-to-mid Bloom levels while own-work references carry higher-level requests",
+"type":"claim"
+},
+{
+"description":"The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers",
+"evidence_strength":"weak",
+"id":"context-learning-comprehension-interaction-marginal",
+"path":"claims/context-learning-comprehension-interaction-marginal.md",
+"status":"review",
+"title":"The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers",
+"type":"claim"
+},
+{
+"description":"Incidental word learning from context occurred equally from a narrative text and an expository text",
+"evidence_strength":"weak",
+"id":"context-learning-equal-narrative-expository",
+"path":"claims/context-learning-equal-narrative-expository.md",
+"status":"review",
+"title":"Incidental word learning from context occurred equally from a narrative text and an expository text",
+"type":"claim"
+},
+{
+"description":"Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data",
+"evidence_strength":"mixed",
+"id":"context-learning-prior-knowledge-interaction-mixed",
+"path":"claims/context-learning-prior-knowledge-interaction-mixed.md",
+"status":"review",
+"title":"Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data",
+"type":"claim"
+},
+{
+"description":"Per minute of instructional time, incidental learning from context yielded roughly twelve times more words learned than an intensive direct-instruction program, though direct instruction wins for any small word set",
+"evidence_strength":"weak",
+"id":"context-learning-versus-direct-instruction-efficiency",
+"path":"claims/context-learning-versus-direct-instruction-efficiency.md",
+"status":"review",
+"title":"Per minute of instructional time, incidental learning from context yielded roughly twelve times more words learned than an intensive direct-instruction program, though direct instruction wins for any small word set",
 "type":"claim"
 },
 {
@@ -37886,6 +38165,15 @@
 "type":"claim"
 },
 {
+"description":"Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts",
+"evidence_strength":"weak",
+"id":"cscl-meta-analysis-no-publication-bias",
+"path":"claims/cscl-meta-analysis-no-publication-bias.md",
+"status":"review",
+"title":"Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts",
+"type":"claim"
+},
+{
 "description":"Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions",
 "evidence_strength":"moderate",
 "id":"cscl-simulation-conceptual-change-cognitive-engagement",
@@ -41339,6 +41627,15 @@
 "type":"claim"
 },
 {
+"description":"Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade",
+"evidence_strength":"weak",
+"id":"demographic-correlates-identity-motivation",
+"path":"claims/demographic-correlates-identity-motivation.md",
+"status":"review",
+"title":"Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade",
+"type":"claim"
+},
+{
 "description":"Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect",
 "evidence_strength":"weak",
 "id":"demographic-differences-ai-anxiety-small-grade-effect",
@@ -42173,6 +42470,15 @@
 "path":"claims/developmental-education-loss-point-60-30.md",
 "status":"review",
 "title":"Developmental education is a major loss point: 60 percent of community college students are referred to developmental education but only 30 percent ever take subsequent college-level courses",
+"type":"claim"
+},
+{
+"description":"Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions",
+"evidence_strength":"moderate",
+"id":"developmental-improvements-local-global-coherence-inferences",
+"path":"claims/developmental-improvements-local-global-coherence-inferences.md",
+"status":"review",
+"title":"Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions",
 "type":"claim"
 },
 {
@@ -46574,6 +46880,15 @@
 "type":"claim"
 },
 {
+"description":"Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping",
+"evidence_strength":"moderate",
+"id":"dyslexia-audiovisual-integration-impairments",
+"path":"claims/dyslexia-audiovisual-integration-impairments.md",
+"status":"review",
+"title":"Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping",
+"type":"claim"
+},
+{
 "description":"Children with dyslexia are more impacted by the graphic complexity of words than both chronological-age and spelling-age matched controls",
 "evidence_strength":"moderate",
 "id":"dyslexia-graphic-complexity-handwriting-impact",
@@ -47238,6 +47553,15 @@
 "path":"claims/early-language-predicts-externalizing.md",
 "status":"review",
 "title":"Early language skills predict later adolescent externalizing behavior problems",
+"type":"claim"
+},
+{
+"description":"Early-delivered Level A (classroom-only) and Level B (classroom plus small-group) interventions showed no significant effects on high-risk children's aggression",
+"evidence_strength":"moderate",
+"id":"early-level-a-b-no-aggression-effect",
+"path":"claims/early-level-a-b-no-aggression-effect.md",
+"status":"review",
+"title":"Early-delivered Level A (classroom-only) and Level B (classroom plus small-group) interventions showed no significant effects on high-risk children's aggression",
 "type":"claim"
 },
 {
@@ -52842,6 +53166,15 @@
 "type":"claim"
 },
 {
+"description":"Epileptiform EEG activity is more prevalent in the inattentive ADHD subtype",
+"evidence_strength":"weak",
+"id":"epileptiform-eeg-inattentive-adhd",
+"path":"claims/epileptiform-eeg-inattentive-adhd.md",
+"status":"review",
+"title":"Epileptiform EEG activity is more prevalent in the inattentive ADHD subtype",
+"type":"claim"
+},
+{
 "description":"Episode-composition and transition features contribute predictive process evidence beyond semantics, with Epi.+Tran.",
 "evidence_strength":"moderate",
 "id":"episode-features-predictive-importance-beyond-semantics",
@@ -52875,6 +53208,15 @@
 "path":"claims/episodic-memory-improves-middle-childhood-familiarity-age-invariant.md",
 "status":"review",
 "title":"Episodic memory improves during middle childhood while familiarity-based recognition reaches adult levels by age 8",
+"type":"claim"
+},
+{
+"description":"Episodic prospection develops over an extended period and may support academic behaviors aimed at envisioned future selves",
+"evidence_strength":"weak",
+"id":"episodic-prospection-development-academic-behavior",
+"path":"claims/episodic-prospection-development-academic-behavior.md",
+"status":"review",
+"title":"Episodic prospection develops over an extended period and may support academic behaviors aimed at envisioned future selves",
 "type":"claim"
 },
 {
@@ -63872,6 +64214,15 @@
 "type":"claim"
 },
 {
+"description":"Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects",
+"evidence_strength":"weak",
+"id":"further-moderators-discipline-duration-measurement-level",
+"path":"claims/further-moderators-discipline-duration-measurement-level.md",
+"status":"review",
+"title":"Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects",
+"type":"claim"
+},
+{
 "description":"Larger right fusiform surface area in bullied children partially suppresses the negative effect of bullying on crystallized composite and vocabulary scores",
 "evidence_strength":"moderate",
 "id":"fusiform-surface-area-suppresses-bullying-cognition-effect",
@@ -64599,6 +64950,15 @@
 "path":"claims/gaps-in-learning-environment-evaluation-approaches.md",
 "status":"review",
 "title":"The review identifies gaps in existing evaluative approaches for physical learning environments",
+"type":"claim"
+},
+{
+"description":"Instruction on the marked OBJECT OF A PREPOSITION relative clause type improved grammaticality judgment across most relative clause categories (review-reported, citing Gass 1981)",
+"evidence_strength":"weak",
+"id":"gass-1981-marked-instruction-generalizes",
+"path":"claims/gass-1981-marked-instruction-generalizes.md",
+"status":"review",
+"title":"Instruction on the marked OBJECT OF A PREPOSITION relative clause type improved grammaticality judgment across most relative clause categories (review-reported, citing Gass 1981)",
 "type":"claim"
 },
 {
@@ -67421,6 +67781,15 @@
 "type":"claim"
 },
 {
+"description":"In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender",
+"evidence_strength":"moderate",
+"id":"gender-aggression-increase-no-treatment-difference",
+"path":"claims/gender-aggression-increase-no-treatment-difference.md",
+"status":"review",
+"title":"In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender",
+"type":"claim"
+},
+{
 "description":"Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic",
 "evidence_strength":"moderate",
 "id":"gender-and-school-poverty-moderate-pandemic-gains",
@@ -68907,6 +69276,15 @@
 "type":"claim"
 },
 {
+"description":"Generating a good question for a topic strongly predicts answering the matching test item correctly",
+"evidence_strength":"moderate",
+"id":"good-question-predicts-matching-item-correct",
+"path":"claims/good-question-predicts-matching-item-correct.md",
+"status":"review",
+"title":"Generating a good question for a topic strongly predicts answering the matching test item correctly",
+"type":"claim"
+},
+{
 "description":"Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries",
 "evidence_strength":"weak",
 "id":"google-trends-chatgpt-plagiarism-queries",
@@ -69833,6 +70211,15 @@
 "path":"claims/grader-llm-correctness-comparison-socrates.md",
 "status":"review",
 "title":"gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly",
+"type":"claim"
+},
+{
+"description":"Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes",
+"evidence_strength":"moderate",
+"id":"grades-3-6-near-zero-comprehension-instruction",
+"path":"claims/grades-3-6-near-zero-comprehension-instruction.md",
+"status":"review",
+"title":"Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes",
 "type":"claim"
 },
 {
@@ -72394,6 +72781,15 @@
 "type":"claim"
 },
 {
+"description":"High authenticity simulations show higher effects than low authenticity simulations",
+"evidence_strength":"moderate",
+"id":"high-authenticity-simulations-higher-effects",
+"path":"claims/high-authenticity-simulations-higher-effects.md",
+"status":"review",
+"title":"High authenticity simulations show higher effects than low authenticity simulations",
+"type":"claim"
+},
+{
 "description":"Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions",
 "evidence_strength":"weak",
 "id":"high-but-heterogeneous-voluntary-ai-discussion-uptake",
@@ -72904,6 +73300,15 @@
 "path":"claims/high-quality-early-care-school-readiness-benefits.md",
 "status":"review",
 "title":"High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement",
+"type":"claim"
+},
+{
+"description":"Most students in the high reading comprehension group fall in the low externalizing behavior groups, most strongly for peer problems",
+"evidence_strength":"moderate",
+"id":"high-reading-group-low-externalizing-behaviors",
+"path":"claims/high-reading-group-low-externalizing-behaviors.md",
+"status":"review",
+"title":"Most students in the high reading comprehension group fall in the low externalizing behavior groups, most strongly for peer problems",
 "type":"claim"
 },
 {
@@ -73707,6 +74112,15 @@
 "path":"claims/hippocampal-engagement-inverted-u-development.md",
 "status":"review",
 "title":"Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence",
+"type":"claim"
+},
+{
+"description":"Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity",
+"evidence_strength":"weak",
+"id":"hippocampal-plasticity-mismatch-individual-capacity",
+"path":"claims/hippocampal-plasticity-mismatch-individual-capacity.md",
+"status":"review",
+"title":"Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity",
 "type":"claim"
 },
 {
@@ -75328,6 +75742,15 @@
 "path":"claims/hyper-reference-consultation-frequency-no-comprehension-gain.md",
 "status":"review",
 "title":"Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly",
+"type":"claim"
+},
+{
+"description":"Hyperactivity and conduct problems were not statistically significant predictors of reading comprehension in this sample",
+"evidence_strength":"moderate",
+"id":"hyperactivity-conduct-problems-not-significant-predictors",
+"path":"claims/hyperactivity-conduct-problems-not-significant-predictors.md",
+"status":"review",
+"title":"Hyperactivity and conduct problems were not statistically significant predictors of reading comprehension in this sample",
 "type":"claim"
 },
 {
@@ -77106,6 +77529,24 @@
 "type":"claim"
 },
 {
+"description":"The inattentive ADHD subtype shows the most delayed ABR latencies in waves III and V and intervals I-III and I-V",
+"evidence_strength":"moderate",
+"id":"inattentive-adhd-most-delayed-abr",
+"path":"claims/inattentive-adhd-most-delayed-abr.md",
+"status":"review",
+"title":"The inattentive ADHD subtype shows the most delayed ABR latencies in waves III and V and intervals I-III and I-V",
+"type":"claim"
+},
+{
+"description":"The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes",
+"evidence_strength":"moderate",
+"id":"inattentive-adhd-worst-learning-score",
+"path":"claims/inattentive-adhd-worst-learning-score.md",
+"status":"review",
+"title":"The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes",
+"type":"claim"
+},
+{
 "description":"Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors",
 "evidence_strength":"weak",
 "id":"inattentive-symptoms-fearful-vocal-error-correlations",
@@ -77248,6 +77689,15 @@
 "path":"claims/incidental-vocabulary-retention-problems.md",
 "status":"review",
 "title":"Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest",
+"type":"claim"
+},
+{
+"description":"Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect",
+"evidence_strength":"moderate",
+"id":"incidental-word-learning-from-natural-context",
+"path":"claims/incidental-word-learning-from-natural-context.md",
+"status":"review",
+"title":"Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect",
 "type":"claim"
 },
 {
@@ -85396,6 +85846,24 @@
 "type":"claim"
 },
 {
+"description":"Late-delivered Level A and Level C interventions showed no detectable effect on high-risk children's aggression",
+"evidence_strength":"moderate",
+"id":"late-level-a-c-no-aggression-effect",
+"path":"claims/late-level-a-c-no-aggression-effect.md",
+"status":"review",
+"title":"Late-delivered Level A and Level C interventions showed no detectable effect on high-risk children's aggression",
+"type":"claim"
+},
+{
+"description":"Late-elementary (Grades 5–6) small-group peer-skills training (Level B) was associated with higher posttest aggression than control among high-risk children",
+"evidence_strength":"moderate",
+"id":"late-level-b-increased-aggression",
+"path":"claims/late-level-b-increased-aggression.md",
+"status":"review",
+"title":"Late-elementary (Grades 5–6) small-group peer-skills training (Level B) was associated with higher posttest aggression than control among high-risk children",
+"type":"claim"
+},
+{
 "description":"Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes",
 "evidence_strength":"moderate",
 "id":"late-predictors-ci-high-school-language",
@@ -86757,6 +87225,15 @@
 "type":"claim"
 },
 {
+"description":"Learning disability scores correlate negatively with ABR wave III/IV/V latencies, I-III and I-V intervals, and epileptiform EEG activity",
+"evidence_strength":"moderate",
+"id":"learning-disability-correlates-abr-eeg",
+"path":"claims/learning-disability-correlates-abr-eeg.md",
+"status":"review",
+"title":"Learning disability scores correlate negatively with ABR wave III/IV/V latencies, I-III and I-V intervals, and epileptiform EEG activity",
+"type":"claim"
+},
+{
 "description":"Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations",
 "evidence_strength":"moderate",
 "id":"learning-disability-feedback-lowered-expectations",
@@ -87703,6 +88180,24 @@
 "type":"claim"
 },
 {
+"description":"Early comprehensive (Level C) intervention effects on high-risk children's aggression interacted with community type, decreasing aggression in Aurora but increasing it in Chicago",
+"evidence_strength":"mixed",
+"id":"level-c-early-aggression-community-interaction",
+"path":"claims/level-c-early-aggression-community-interaction.md",
+"status":"review",
+"title":"Early comprehensive (Level C) intervention effects on high-risk children's aggression interacted with community type, decreasing aggression in Aurora but increasing it in Chicago",
+"type":"claim"
+},
+{
+"description":"For children receiving both early and late intervention, the Level C Community × Treatment interaction replicated: Aurora treated children decreased in aggression while Chicago treated children increased",
+"evidence_strength":"mixed",
+"id":"level-c-early-plus-late-replication",
+"path":"claims/level-c-early-plus-late-replication.md",
+"status":"review",
+"title":"For children receiving both early and late intervention, the Level C Community × Treatment interaction replicated: Aurora treated children decreased in aggression while Chicago treated children increased",
+"type":"claim"
+},
+{
 "description":"The word-reading and comprehension cortical regions are specific to their respective reading level: cross-level correlations were nonsignificant after FDR correction",
 "evidence_strength":"weak",
 "id":"level-specific-ct-reading-regions",
@@ -87988,6 +88483,15 @@
 "path":"claims/light-ai-edits-flagged-at-high-rates.md",
 "status":"review",
 "title":"Light AI-assisted edits to human-written abstracts are flagged by commercial detectors at 64–80% (Pangram) and 38–49% (GPTZero) rates",
+"type":"claim"
+},
+{
+"description":"Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity",
+"evidence_strength":"moderate",
+"id":"light-moderate-sedentary-no-creativity-relationship",
+"path":"claims/light-moderate-sedentary-no-creativity-relationship.md",
+"status":"review",
+"title":"Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity",
 "type":"claim"
 },
 {
@@ -91580,6 +92084,15 @@
 "type":"claim"
 },
 {
+"description":"Longer simulation duration is associated with higher effects, but evidence for simulations over one month is inconclusive",
+"evidence_strength":"weak",
+"id":"longer-simulation-duration-higher-effects",
+"path":"claims/longer-simulation-duration-higher-effects.md",
+"status":"review",
+"title":"Longer simulation duration is associated with higher effects, but evidence for simulations over one month is inconclusive",
+"type":"claim"
+},
+{
 "description":"Longer sleep duration is associated with linear growth in infants, with small printed odds ratios",
 "evidence_strength":"weak",
 "id":"longer-sleep-linear-growth-infants",
@@ -92201,6 +92714,15 @@
 "type":"claim"
 },
 {
+"description":"Students with low peer problems score significantly higher in reading comprehension than students with high peer problems",
+"evidence_strength":"moderate",
+"id":"low-peer-problems-higher-reading-comprehension",
+"path":"claims/low-peer-problems-higher-reading-comprehension.md",
+"status":"review",
+"title":"Students with low peer problems score significantly higher in reading comprehension than students with high peer problems",
+"type":"claim"
+},
+{
 "description":"Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs",
 "evidence_strength":"moderate",
 "id":"low-performers-procrastinated-exercises-and-videos",
@@ -92729,6 +93251,15 @@
 "path":"claims/lsa-complete-chain-collaborator-only.md",
 "status":"review",
 "title":"Only the Collaborator group shows a complete significant sequential metacognitive chain from orientation through elaboration; the Replacement Tool group shows only self-loops",
+"type":"claim"
+},
+{
+"description":"A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful",
+"evidence_strength":"weak",
+"id":"lsa-word-overlap-regex-best-semantic-matcher",
+"path":"claims/lsa-word-overlap-regex-best-semantic-matcher.md",
+"status":"review",
+"title":"A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful",
 "type":"claim"
 },
 {
@@ -94513,6 +95044,15 @@
 "path":"claims/marked-students-praise-withholding-bias.md",
 "status":"review",
 "title":"LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts",
+"type":"claim"
+},
+{
+"description":"Markedness theory, as realized in the Noun Phrase Accessibility Hierarchy, plays an important role in instructed interlanguage development",
+"evidence_strength":"moderate",
+"id":"markedness-role-instructed-il-development",
+"path":"claims/markedness-role-instructed-il-development.md",
+"status":"review",
+"title":"Markedness theory, as realized in the Noun Phrase Accessibility Hierarchy, plays an important role in instructed interlanguage development",
 "type":"claim"
 },
 {
@@ -96722,6 +97262,15 @@
 "type":"claim"
 },
 {
+"description":"Complexity of children's naturalistic memory reports predicts reading ability over and above IQ",
+"evidence_strength":"moderate",
+"id":"memory-report-complexity-predicts-reading-ability",
+"path":"claims/memory-report-complexity-predicts-reading-ability.md",
+"status":"review",
+"title":"Complexity of children's naturalistic memory reports predicts reading ability over and above IQ",
+"type":"claim"
+},
+{
 "description":"Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations",
 "evidence_strength":"moderate",
 "id":"memory-self-efficacy-predicts-performance-mediation",
@@ -96773,6 +97322,15 @@
 "path":"claims/mental-representation-not-directly-instructable.md",
 "status":"review",
 "title":"Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data",
+"type":"claim"
+},
+{
+"description":"Teachers acted as assignment givers rather than instructors, using brief mentioning followed by workbook assignments",
+"evidence_strength":"moderate",
+"id":"mentioning-precedes-workbook-assignments",
+"path":"claims/mentioning-precedes-workbook-assignments.md",
+"status":"review",
+"title":"Teachers acted as assignment givers rather than instructors, using brief mentioning followed by workbook assignments",
 "type":"claim"
 },
 {
@@ -99911,6 +100469,15 @@
 "type":"claim"
 },
 {
+"description":"Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students",
+"evidence_strength":"moderate",
+"id":"moderated-mediation-belonging-srl-efficacy",
+"path":"claims/moderated-mediation-belonging-srl-efficacy.md",
+"status":"review",
+"title":"Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students",
+"type":"claim"
+},
+{
 "description":"The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)",
 "evidence_strength":"moderate",
 "id":"moderated-mediation-conditional-indirect-effect",
@@ -100793,6 +101360,15 @@
 "type":"claim"
 },
 {
+"description":"The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies",
+"evidence_strength":"moderate",
+"id":"motivation-cognition-relations-similar-across-subjects",
+"path":"claims/motivation-cognition-relations-similar-across-subjects.md",
+"status":"review",
+"title":"The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies",
+"type":"claim"
+},
+{
 "description":"Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students",
 "evidence_strength":"moderate",
 "id":"motivation-correlates-with-l2-wtc-turkish-efl",
@@ -101015,6 +101591,51 @@
 "path":"claims/move-availability-information-did-not-enhance-water-jug-planning.md",
 "status":"review",
 "title":"In water-jug problems, presenting information about available moves and their consequences did not enhance planning, though looping moves reliably decreased",
+"type":"claim"
+},
+{
+"description":"Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students",
+"evidence_strength":"moderate",
+"id":"mpathic-vr-more-positive-attitudes",
+"path":"claims/mpathic-vr-more-positive-attitudes.md",
+"status":"review",
+"title":"Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students",
+"type":"claim"
+},
+{
+"description":"MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills",
+"evidence_strength":"moderate",
+"id":"mpathic-vr-nonverbal-osce-advantage",
+"path":"claims/mpathic-vr-nonverbal-osce-advantage.md",
+"status":"review",
+"title":"MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills",
+"type":"claim"
+},
+{
+"description":"MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later",
+"evidence_strength":"moderate",
+"id":"mpathic-vr-osce-composite-transfer",
+"path":"claims/mpathic-vr-osce-composite-transfer.md",
+"status":"review",
+"title":"MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later",
+"type":"claim"
+},
+{
+"description":"Qualitative reflections indicate MPathic-VR students valued immediate feedback, nonverbal skill teaching, and preparation for emotion-charged encounters, while CBL students reported lack of interactivity and informati...",
+"evidence_strength":"moderate",
+"id":"mpathic-vr-qualitative-experience-themes",
+"path":"claims/mpathic-vr-qualitative-experience-themes.md",
+"status":"review",
+"title":"Qualitative reflections indicate MPathic-VR students valued immediate feedback, nonverbal skill teaching, and preparation for emotion-charged encounters, while CBL students reported lack of interactivity and information overload",
+"type":"claim"
+},
+{
+"description":"Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios",
+"evidence_strength":"moderate",
+"id":"mpathic-vr-repeat-runthrough-improvement",
+"path":"claims/mpathic-vr-repeat-runthrough-improvement.md",
+"status":"review",
+"title":"Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios",
 "type":"claim"
 },
 {
@@ -102186,6 +102807,15 @@
 "path":"claims/mvpa-associated-executive-function-adhd-boys.md",
 "status":"review",
 "title":"Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD",
+"type":"claim"
+},
+{
+"description":"Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone",
+"evidence_strength":"moderate",
+"id":"mvpa-correlates-creativity-dimensions",
+"path":"claims/mvpa-correlates-creativity-dimensions.md",
+"status":"review",
+"title":"Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone",
 "type":"claim"
 },
 {
@@ -105424,6 +106054,15 @@
 "type":"claim"
 },
 {
+"description":"Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL",
+"evidence_strength":"moderate",
+"id":"no-efficacy-moderation-value-path",
+"path":"claims/no-efficacy-moderation-value-path.md",
+"status":"review",
+"title":"Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL",
+"type":"claim"
+},
+{
 "description":"No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness",
 "evidence_strength":"weak",
 "id":"no-eligible-crc-studies-identified",
@@ -107284,6 +107923,15 @@
 "path":"claims/nonexpert-perceived-empathy-unreliable.md",
 "status":"review",
 "title":"Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method",
+"type":"claim"
+},
+{
+"description":"Noninstruction, transition, and listening to oral reading consumed almost 31 percent of fourth-grade teachers' reading-period time",
+"evidence_strength":"moderate",
+"id":"noninstruction-transition-round-robin-consume-31-percent",
+"path":"claims/noninstruction-transition-round-robin-consume-31-percent.md",
+"status":"review",
+"title":"Noninstruction, transition, and listening to oral reading consumed almost 31 percent of fourth-grade teachers' reading-period time",
 "type":"claim"
 },
 {
@@ -109618,6 +110266,15 @@
 "path":"claims/one-digit-math-association-decreases-with-grade.md",
 "status":"review",
 "title":"The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable",
+"type":"claim"
+},
+{
+"description":"The probability of learning an unknown word from a single natural-context exposure is roughly .05 to .11, supporting an extrapolated 750 to 5,500 words learned per year from reading",
+"evidence_strength":"weak",
+"id":"one-exposure-context-learning-probability-extrapolation",
+"path":"claims/one-exposure-context-learning-probability-extrapolation.md",
+"status":"review",
+"title":"The probability of learning an unknown word from a single natural-context exposure is roughly .05 to .11, supporting an extrapolated 750 to 5,500 words learned per year from reading",
 "type":"claim"
 },
 {
@@ -113630,6 +114287,15 @@
 "type":"claim"
 },
 {
+"description":"Formally instructed learners proceed further down the Accessibility Hierarchy in ultimate attainment of relativization than untutored learners (review-reported, citing Pavesi 1986)",
+"evidence_strength":"weak",
+"id":"pavesi-1986-formal-instruction-ahh-attainment",
+"path":"claims/pavesi-1986-formal-instruction-ahh-attainment.md",
+"status":"review",
+"title":"Formally instructed learners proceed further down the Accessibility Hierarchy in ultimate attainment of relativization than untutored learners (review-reported, citing Pavesi 1986)",
+"type":"claim"
+},
+{
 "description":"Implementation of the pay-for-performance policy differed from the envisioned approach, with about 40 percent of teachers unaware they were eligible for a performance bonus",
 "evidence_strength":"moderate",
 "id":"pay-for-performance-implementation-gap-bonus-unawareness",
@@ -114668,12 +115334,30 @@
 "type":"claim"
 },
 {
+"description":"Peer problems show a significant inverse correlation with reading comprehension (r = -.304)",
+"evidence_strength":"moderate",
+"id":"peer-problems-inverse-correlation-reading-comprehension",
+"path":"claims/peer-problems-inverse-correlation-reading-comprehension.md",
+"status":"review",
+"title":"Peer problems show a significant inverse correlation with reading comprehension (r = -.304)",
+"type":"claim"
+},
+{
 "description":"Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms",
 "evidence_strength":"moderate",
 "id":"peer-problems-mediate-adhd-depression-link",
 "path":"claims/peer-problems-mediate-adhd-depression-link.md",
 "status":"review",
 "title":"Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms",
+"type":"claim"
+},
+{
+"description":"Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems",
+"evidence_strength":"moderate",
+"id":"peer-problems-only-significant-predictor-reading-comprehension",
+"path":"claims/peer-problems-only-significant-predictor-reading-comprehension.md",
+"status":"review",
+"title":"Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems",
 "type":"claim"
 },
 {
@@ -117791,6 +118475,33 @@
 "path":"claims/planning-no-contribution-narrative-composition.md",
 "status":"review",
 "title":"Planning shows no contribution to any level of narrative composition in fourth graders",
+"type":"claim"
+},
+{
+"description":"The planning-prompt effect on MOOC completion is largest for students enrolled in traditional schools",
+"evidence_strength":"moderate",
+"id":"planning-prompt-effect-larger-traditional-school-students",
+"path":"claims/planning-prompt-effect-larger-traditional-school-students.md",
+"status":"review",
+"title":"The planning-prompt effect on MOOC completion is largest for students enrolled in traditional schools",
+"type":"claim"
+},
+{
+"description":"Planning prompts increase payment for certificates in MOOCs by 40%",
+"evidence_strength":"moderate",
+"id":"planning-prompts-increase-certificate-payment",
+"path":"claims/planning-prompts-increase-certificate-payment.md",
+"status":"review",
+"title":"Planning prompts increase payment for certificates in MOOCs by 40%",
+"type":"claim"
+},
+{
+"description":"Open-ended planning prompts at the start of a MOOC increase course completion by 29%",
+"evidence_strength":"moderate",
+"id":"planning-prompts-increase-mooc-completion",
+"path":"claims/planning-prompts-increase-mooc-completion.md",
+"status":"review",
+"title":"Open-ended planning prompts at the start of a MOOC increase course completion by 29%",
 "type":"claim"
 },
 {
@@ -122030,6 +122741,15 @@
 "type":"claim"
 },
 {
+"description":"Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge",
+"evidence_strength":"weak",
+"id":"prior-knowledge-consistency-brain-systems-memory",
+"path":"claims/prior-knowledge-consistency-brain-systems-memory.md",
+"status":"review",
+"title":"Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"moderate",
 "id":"prior-knowledge-correlates-very-strongly-with-later-math-achievement",
@@ -122081,6 +122801,15 @@
 "path":"claims/prior-knowledge-moderates-feeling-of-learning-accuracy.md",
 "status":"review",
 "title":"Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)",
+"type":"claim"
+},
+{
+"description":"Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels",
+"evidence_strength":"moderate",
+"id":"prior-knowledge-moderates-scaffolding-effectiveness",
+"path":"claims/prior-knowledge-moderates-scaffolding-effectiveness.md",
+"status":"review",
+"title":"Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels",
 "type":"claim"
 },
 {
@@ -124525,6 +125254,15 @@
 "type":"claim"
 },
 {
+"description":"Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages",
+"evidence_strength":"moderate",
+"id":"prompting-improves-inference-performance",
+"path":"claims/prompting-improves-inference-performance.md",
+"status":"review",
+"title":"Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages",
+"type":"claim"
+},
+{
 "description":"The 45-minute prompting lesson significantly increased prompting self-efficacy relative to a business-as-usual control lesson",
 "evidence_strength":"moderate",
 "id":"prompting-lesson-raises-self-efficacy",
@@ -125914,6 +126652,15 @@
 "type":"claim"
 },
 {
+"description":"Prenatal synchronous multisensory exposure enhances learning and memory for a mother's call in quail embryos",
+"evidence_strength":"moderate",
+"id":"quail-embryos-multisensory-prenatal-exposure-enhanced-learning",
+"path":"claims/quail-embryos-multisensory-prenatal-exposure-enhanced-learning.md",
+"status":"review",
+"title":"Prenatal synchronous multisensory exposure enhances learning and memory for a mother's call in quail embryos",
+"type":"claim"
+},
+{
 "description":"Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant",
 "evidence_strength":"weak",
 "id":"qualitative-distress-companion-loss-emotionally-significant-use",
@@ -126192,6 +126939,15 @@
 "type":"claim"
 },
 {
+"description":"Question quality, not study time, predicted comprehension test performance among questioners",
+"evidence_strength":"moderate",
+"id":"question-quality-not-time-predicts-achievement",
+"path":"claims/question-quality-not-time-predicts-achievement.md",
+"status":"review",
+"title":"Question quality, not study time, predicted comprehension test performance among questioners",
+"type":"claim"
+},
+{
 "description":"An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning",
 "evidence_strength":"moderate",
 "id":"question-specificity-classifier-accuracy",
@@ -126251,6 +127007,15 @@
 "path":"claims/questioning-strategies-improve-learning.md",
 "status":"review",
 "title":"Questioning Strategies Improve Learning",
+"type":"claim"
+},
+{
+"description":"Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)",
+"evidence_strength":"moderate",
+"id":"questioning-with-training-beats-rereading",
+"path":"claims/questioning-with-training-beats-rereading.md",
+"status":"review",
+"title":"Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)",
 "type":"claim"
 },
 {
@@ -129902,6 +130667,15 @@
 "path":"claims/regulatory-absence-competency-gaps-top-barriers-managers.md",
 "status":"review",
 "title":"Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers",
+"type":"claim"
+},
+{
+"description":"Regulatory strategy use and classroom grades showed no subject-area differences, though females received higher grades than males",
+"evidence_strength":"moderate",
+"id":"regulatory-strategy-use-and-grades-stable-across-subjects",
+"path":"claims/regulatory-strategy-use-and-grades-stable-across-subjects.md",
+"status":"review",
+"title":"Regulatory strategy use and classroom grades showed no subject-area differences, though females received higher grades than males",
 "type":"claim"
 },
 {
@@ -135292,6 +136066,15 @@
 "type":"claim"
 },
 {
+"description":"Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did",
+"evidence_strength":"mixed",
+"id":"scaffolding-added-value-partly-supported",
+"path":"claims/scaffolding-added-value-partly-supported.md",
+"status":"review",
+"title":"Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did",
+"type":"claim"
+},
+{
 "description":"LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories",
 "evidence_strength":"moderate",
 "id":"scaffolding-associated-with-next-student-move",
@@ -135570,6 +136353,15 @@
 "path":"claims/schematic-visuals-outperform-realistic.md",
 "status":"review",
 "title":"Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions",
+"type":"claim"
+},
+{
+"description":"Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing",
+"evidence_strength":"moderate",
+"id":"schizophrenia-reduced-audiovisual-benefit-temporal-acuity",
+"path":"claims/schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md",
+"status":"review",
+"title":"Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing",
 "type":"claim"
 },
 {
@@ -137005,6 +137797,15 @@
 "path":"claims/screening-without-followup-insufficient.md",
 "status":"review",
 "title":"Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent",
+"type":"claim"
+},
+{
+"description":"The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills",
+"evidence_strength":"weak",
+"id":"script-level-moderator-not-significant",
+"path":"claims/script-level-moderator-not-significant.md",
+"status":"review",
+"title":"The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills",
 "type":"claim"
 },
 {
@@ -138804,6 +139605,15 @@
 "type":"claim"
 },
 {
+"description":"Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use",
+"evidence_strength":"moderate",
+"id":"self-efficacy-and-test-anxiety-predict-performance",
+"path":"claims/self-efficacy-and-test-anxiety-predict-performance.md",
+"status":"review",
+"title":"Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use",
+"type":"claim"
+},
+{
 "description":"Academic self-efficacy is associated with high school graduation rates and mathematics achievement",
 "evidence_strength":"weak",
 "id":"self-efficacy-associated-graduation-and-math",
@@ -139397,6 +140207,15 @@
 "path":"claims/self-paced-mastery-programs-reduce-college-course-completion.md",
 "status":"review",
 "title":"Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage",
+"type":"claim"
+},
+{
+"description":"Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)",
+"evidence_strength":"moderate",
+"id":"self-questioning-benefits-low-verbal-ability-more",
+"path":"claims/self-questioning-benefits-low-verbal-ability-more.md",
+"status":"review",
+"title":"Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)",
 "type":"claim"
 },
 {
@@ -141985,6 +142804,15 @@
 "type":"claim"
 },
 {
+"description":"Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)",
+"evidence_strength":"moderate",
+"id":"simulation-based-learning-large-positive-effect-complex-skills",
+"path":"claims/simulation-based-learning-large-positive-effect-complex-skills.md",
+"status":"review",
+"title":"Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)",
+"type":"claim"
+},
+{
 "description":"In a fixed-person calibration simulation with 60 Rasch items and 1,200 simulees, estimates from both tools were comparable to true parameters, with the existing tool underestimating difficulty by 0.03 RIT on average",
 "evidence_strength":"moderate",
 "id":"simulation-comparability-60-items-1200-simulees",
@@ -142000,6 +142828,15 @@
 "path":"claims/simulation-content-shifts-curiosity-categories.md",
 "status":"review",
 "title":"The category distribution of student questions varies substantially across different simulations",
+"type":"claim"
+},
+{
+"description":"Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills",
+"evidence_strength":"moderate",
+"id":"simulation-effects-vary-by-complex-skill",
+"path":"claims/simulation-effects-vary-by-complex-skill.md",
+"status":"review",
+"title":"Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills",
 "type":"claim"
 },
 {
@@ -142090,6 +142927,15 @@
 "path":"claims/simulation-task-difficulty-ai-quality-set-overreliance-baseline.md",
 "status":"review",
 "title":"In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor",
+"type":"claim"
+},
+{
+"description":"Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)",
+"evidence_strength":"moderate",
+"id":"simulation-type-moderates-effectiveness",
+"path":"claims/simulation-type-moderates-effectiveness.md",
+"status":"review",
+"title":"Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)",
 "type":"claim"
 },
 {
@@ -142833,6 +143679,15 @@
 "type":"claim"
 },
 {
+"description":"Second language instruction increases the rate of acquisition of English relativization by ESL learners",
+"evidence_strength":"moderate",
+"id":"sl-instruction-effective-relativization-rate",
+"path":"claims/sl-instruction-effective-relativization-rate.md",
+"status":"review",
+"title":"Second language instruction increases the rate of acquisition of English relativization by ESL learners",
+"type":"claim"
+},
+{
 "description":"Positive SLAM-student relationship qualities correlate with civic action",
 "evidence_strength":"moderate",
 "id":"slam-relationship-quality-correlates-civic-action",
@@ -142938,6 +143793,15 @@
 "path":"claims/sleep-cognitive-development-mixed-early-years.md",
 "status":"review",
 "title":"Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association",
+"type":"claim"
+},
+{
+"description":"Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory",
+"evidence_strength":"weak",
+"id":"sleep-consolidation-semantic-memory-school-start-times",
+"path":"claims/sleep-consolidation-semantic-memory-school-start-times.md",
+"status":"review",
+"title":"Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory",
 "type":"claim"
 },
 {
@@ -143109,6 +143973,15 @@
 "path":"claims/sleepy-behaviors-nonsignificant-medium-effects.md",
 "status":"review",
 "title":"Sleepy behaviors (eyes closed, head down) showed medium-sized but non-significant effects of sleep restriction",
+"type":"claim"
+},
+{
+"description":"Children with specific language impairment show reduced selective attention to and integration of audiovisual speech",
+"evidence_strength":"moderate",
+"id":"sli-reduced-audiovisual-speech-attention-integration",
+"path":"claims/sli-reduced-audiovisual-speech-attention-integration.md",
+"status":"review",
+"title":"Children with specific language impairment show reduced selective attention to and integration of audiovisual speech",
 "type":"claim"
 },
 {
@@ -143407,6 +144280,15 @@
 "path":"claims/small-labeled-data-plateaus-evaluator.md",
 "status":"review",
 "title":"A model trained only on the 300-conversation BEA dataset plateaus at 74.84% average macro F1 due to limited data size and diversity",
+"type":"claim"
+},
+{
+"description":"The study's findings are limited by a small, non-randomly chosen, geographically concentrated sample",
+"evidence_strength":"weak",
+"id":"small-nonrandom-sample-limits-generalizability",
+"path":"claims/small-nonrandom-sample-limits-generalizability.md",
+"status":"review",
+"title":"The study's findings are limited by a small, non-randomly chosen, geographically concentrated sample",
 "type":"claim"
 },
 {
@@ -144118,6 +145000,15 @@
 "path":"claims/social-skills-training-positive-social-emotional-effects-preschool-disabilities.md",
 "status":"review",
 "title":"Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings",
+"type":"claim"
+},
+{
+"description":"Social studies periods gave little preparation for reading (1.73 percent) and focused assessment questions on facts",
+"evidence_strength":"moderate",
+"id":"social-studies-little-preparation-fact-questions",
+"path":"claims/social-studies-little-preparation-fact-questions.md",
+"status":"review",
+"title":"Social studies periods gave little preparation for reading (1.73 percent) and focused assessment questions on facts",
 "type":"claim"
 },
 {
@@ -146358,6 +147249,15 @@
 "type":"claim"
 },
 {
+"description":"SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents",
+"evidence_strength":"moderate",
+"id":"srl-partially-mediates-identity-mastery",
+"path":"claims/srl-partially-mediates-identity-mastery.md",
+"status":"review",
+"title":"SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents",
+"type":"claim"
+},
+{
 "description":"SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)",
 "evidence_strength":"moderate",
 "id":"srl-scaffolds-positive-effect-academic-performance",
@@ -148095,12 +148995,30 @@
 "type":"claim"
 },
 {
+"description":"Among African American eighth graders high in racial centrality, stronger endorsement of the traditional academic race stereotype is associated with lower academic self-concept, controlling achievement and demographic...",
+"evidence_strength":"moderate",
+"id":"stereotype-endorsement-lowers-self-concept-high-centrality-study1",
+"path":"claims/stereotype-endorsement-lowers-self-concept-high-centrality-study1.md",
+"status":"review",
+"title":"Among African American eighth graders high in racial centrality, stronger endorsement of the traditional academic race stereotype is associated with lower academic self-concept, controlling achievement and demographics (Study 1)",
+"type":"claim"
+},
+{
 "description":"Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often",
 "evidence_strength":"moderate",
 "id":"stereotype-label-causes-lower-girls-interest-novel-activity",
 "path":"claims/stereotype-label-causes-lower-girls-interest-novel-activity.md",
 "status":"review",
 "title":"Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often",
+"type":"claim"
+},
+{
+"description":"In an independent seventh-grade sample, stereotype endorsement predicted lower academic self-concept at average and high racial centrality but not at low centrality (Study 2 replication)",
+"evidence_strength":"moderate",
+"id":"stereotype-self-concept-replication-study2",
+"path":"claims/stereotype-self-concept-replication-study2.md",
+"status":"review",
+"title":"In an independent seventh-grade sample, stereotype endorsement predicted lower academic self-concept at average and high racial centrality but not at low centrality (Study 2 replication)",
 "type":"claim"
 },
 {
@@ -150561,6 +151479,15 @@
 "path":"claims/students-endorse-descriptive-predictive-prescriptive-data-points.md",
 "status":"review",
 "title":"Students endorsed descriptive, predictive, and prescriptive data points driven by a desire to understand study progress and act on it",
+"type":"claim"
+},
+{
+"description":"African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept",
+"evidence_strength":"moderate",
+"id":"students-endorse-traditional-stereotype-high-self-concept",
+"path":"claims/students-endorse-traditional-stereotype-high-self-concept.md",
+"status":"review",
+"title":"African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept",
 "type":"claim"
 },
 {
@@ -155281,12 +156208,30 @@
 "type":"claim"
 },
 {
+"description":"Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison",
+"evidence_strength":"moderate",
+"id":"task-value-higher-mathematics-both-genders",
+"path":"claims/task-value-higher-mathematics-both-genders.md",
+"status":"review",
+"title":"Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"strong",
 "id":"task-value-increases-motivation-and-engagement",
 "path":"claims/task-value-increases-motivation-and-engagement.md",
 "status":"review",
 "title":"Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.",
+"type":"claim"
+},
+{
+"description":"Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects",
+"evidence_strength":"moderate",
+"id":"task-value-predicts-strategy-use-not-grades",
+"path":"claims/task-value-predicts-strategy-use-not-grades.md",
+"status":"review",
+"title":"Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects",
 "type":"claim"
 },
 {
@@ -158299,6 +159244,15 @@
 "type":"claim"
 },
 {
+"description":"Higher levels of technology support during simulation are associated with greater effects on learning outcomes",
+"evidence_strength":"moderate",
+"id":"technology-support-associated-with-greater-effects",
+"path":"claims/technology-support-associated-with-greater-effects.md",
+"status":"review",
+"title":"Higher levels of technology support during simulation are associated with greater effects on learning outcomes",
+"type":"claim"
+},
+{
 "description":"Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share",
 "evidence_strength":"weak",
 "id":"technology-training-spending-inadequate",
@@ -158730,6 +159684,15 @@
 "path":"claims/test-anxiety-negative-exam-performance.md",
 "status":"review",
 "title":"Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation",
+"type":"claim"
+},
+{
+"description":"Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender",
+"evidence_strength":"moderate",
+"id":"test-anxiety-varies-by-subject-and-gender",
+"path":"claims/test-anxiety-varies-by-subject-and-gender.md",
+"status":"review",
+"title":"Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender",
 "type":"claim"
 },
 {
@@ -160795,6 +161758,15 @@
 "type":"claim"
 },
 {
+"description":"The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion",
+"evidence_strength":"moderate",
+"id":"time-focused-plans-forecast-lower-mooc-completion",
+"path":"claims/time-focused-plans-forecast-lower-mooc-completion.md",
+"status":"review",
+"title":"The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion",
+"type":"claim"
+},
+{
 "description":"Time-matched unlocking did not reproduce the engagement state that triggered unlocks: most Time-Matched Unlock participants received access before meeting the discourse criteria",
 "evidence_strength":"moderate",
 "id":"time-matched-unlock-does-not-reproduce-engagement-state",
@@ -162381,6 +163353,15 @@
 "type":"claim"
 },
 {
+"description":"Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills",
+"evidence_strength":"weak",
+"id":"transactivity-moderator-not-significant",
+"path":"claims/transactivity-moderator-not-significant.md",
+"status":"review",
+"title":"Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills",
+"type":"claim"
+},
+{
 "description":"Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code",
 "evidence_strength":"moderate",
 "id":"transcoding-in-symbolic-approximate-addition",
@@ -162774,6 +163755,15 @@
 "path":"claims/trc-spanish-least-correlated-with-other-assessments.md",
 "status":"review",
 "title":"TRC-Spanish is the assessment least correlated with the others, though strongly correlated with TRC-English",
+"type":"claim"
+},
+{
+"description":"Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)",
+"evidence_strength":"mixed",
+"id":"treatment-ability-interaction-middle-group-excluded",
+"path":"claims/treatment-ability-interaction-middle-group-excluded.md",
+"status":"review",
+"title":"Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)",
 "type":"claim"
 },
 {
@@ -167348,6 +168338,33 @@
 "type":"claim"
 },
 {
+"description":"Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children",
+"evidence_strength":"moderate",
+"id":"vigorous-activity-correlates-divergent-thinking",
+"path":"claims/vigorous-activity-correlates-divergent-thinking.md",
+"status":"review",
+"title":"Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children",
+"type":"claim"
+},
+{
+"description":"Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration",
+"evidence_strength":"moderate",
+"id":"vigorous-activity-predicts-o-flu-fle-not-ela",
+"path":"claims/vigorous-activity-predicts-o-flu-fle-not-ela.md",
+"status":"review",
+"title":"Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration",
+"type":"claim"
+},
+{
+"description":"In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity",
+"evidence_strength":"weak",
+"id":"vigorous-activity-regression-creativity-variance",
+"path":"claims/vigorous-activity-regression-creativity-variance.md",
+"status":"review",
+"title":"In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity",
+"type":"claim"
+},
+{
 "description":"Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities",
 "evidence_strength":"weak",
 "id":"vils-career-advancement-survey-majorities",
@@ -168049,6 +169066,15 @@
 "type":"claim"
 },
 {
+"description":"Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds",
+"evidence_strength":"moderate",
+"id":"vocabulary-mediation-working-memory-inference",
+"path":"claims/vocabulary-mediation-working-memory-inference.md",
+"status":"review",
+"title":"Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds",
+"type":"claim"
+},
+{
 "description":"Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending",
 "evidence_strength":"moderate",
 "id":"vocabulary-not-related-to-phonological-awareness-growth",
@@ -168064,6 +169090,15 @@
 "path":"claims/vocabulary-not-uniquely-related-to-written-composition.md",
 "status":"review",
 "title":"Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables",
+"type":"claim"
+},
+{
+"description":"Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years",
+"evidence_strength":"moderate",
+"id":"vocabulary-only-unique-predictor-global-coherence-all-ages",
+"path":"claims/vocabulary-only-unique-predictor-global-coherence-all-ages.md",
+"status":"review",
+"title":"Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years",
 "type":"claim"
 },
 {
@@ -168118,6 +169153,15 @@
 "path":"claims/vocabulary-size-predicts-syntactic-growth-19-30-months.md",
 "status":"review",
 "title":"Vocabulary size at 19 months is a strong predictor of later syntactic growth between 19 and 30 months",
+"type":"claim"
+},
+{
+"description":"Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds",
+"evidence_strength":"mixed",
+"id":"vocabulary-unique-predictor-local-coherence-younger-children",
+"path":"claims/vocabulary-unique-predictor-local-coherence-younger-children.md",
+"status":"review",
+"title":"Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds",
 "type":"claim"
 },
 {
@@ -168326,6 +169370,132 @@
 "path":"claims/voyager-study-average-effect-sizes-differ.md",
 "status":"review",
 "title":"The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not",
+"type":"claim"
+},
+{
+"description":"Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)",
+"evidence_strength":"weak",
+"id":"vp-blended-knowledge-advantage",
+"path":"claims/vp-blended-knowledge-advantage.md",
+"status":"review",
+"title":"Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)",
+"type":"claim"
+},
+{
+"description":"Virtual patients blended with traditional education show moderate positive knowledge effects over traditional education alone (SMD=0.73)",
+"evidence_strength":"weak",
+"id":"vp-blended-knowledge-moderate-effect",
+"path":"claims/vp-blended-knowledge-moderate-effect.md",
+"status":"review",
+"title":"Virtual patients blended with traditional education show moderate positive knowledge effects over traditional education alone (SMD=0.73)",
+"type":"claim"
+},
+{
+"description":"Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero",
+"evidence_strength":"weak",
+"id":"vp-blended-skills-mixed",
+"path":"claims/vp-blended-skills-mixed.md",
+"status":"review",
+"title":"Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero",
+"type":"claim"
+},
+{
+"description":"Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)",
+"evidence_strength":"weak",
+"id":"vp-blended-skills-pooled-nonsignificant",
+"path":"claims/vp-blended-skills-pooled-nonsignificant.md",
+"status":"review",
+"title":"Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)",
+"type":"claim"
+},
+{
+"description":"Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions",
+"evidence_strength":"weak",
+"id":"vp-design-variants-mostly-null",
+"path":"claims/vp-design-variants-mostly-null.md",
+"status":"review",
+"title":"Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions",
+"type":"claim"
+},
+{
+"description":"Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries",
+"evidence_strength":"weak",
+"id":"vp-effectiveness-global-applicability",
+"path":"claims/vp-effectiveness-global-applicability.md",
+"status":"review",
+"title":"Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries",
+"type":"claim"
+},
+{
+"description":"Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning",
+"evidence_strength":"weak",
+"id":"vp-passive-versus-active-comparison",
+"path":"claims/vp-passive-versus-active-comparison.md",
+"status":"review",
+"title":"Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning",
+"type":"claim"
+},
+{
+"description":"Virtual patients show larger effects when replacing passive traditional learning (lectures, reading) than active learning (group discussion, mannequin-based)",
+"evidence_strength":"weak",
+"id":"vp-passive-vs-active-comparison",
+"path":"claims/vp-passive-vs-active-comparison.md",
+"status":"review",
+"title":"Virtual patients show larger effects when replacing passive traditional learning (lectures, reading) than active learning (group discussion, mannequin-based)",
+"type":"claim"
+},
+{
+"description":"Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions",
+"evidence_strength":"weak",
+"id":"vp-satisfaction-generally-positive",
+"path":"claims/vp-satisfaction-generally-positive.md",
+"status":"review",
+"title":"Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions",
+"type":"claim"
+},
+{
+"description":"Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)",
+"evidence_strength":"moderate",
+"id":"vp-traditional-knowledge-no-difference",
+"path":"claims/vp-traditional-knowledge-no-difference.md",
+"status":"review",
+"title":"Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)",
+"type":"claim"
+},
+{
+"description":"Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)",
+"evidence_strength":"moderate",
+"id":"vp-traditional-skills-advantage",
+"path":"claims/vp-traditional-skills-advantage.md",
+"status":"review",
+"title":"Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)",
+"type":"claim"
+},
+{
+"description":"Virtual patients show no significant differences versus other types of digital education for knowledge or skills",
+"evidence_strength":"weak",
+"id":"vp-vs-other-digital-no-difference",
+"path":"claims/vp-vs-other-digital-no-difference.md",
+"status":"review",
+"title":"Virtual patients show no significant differences versus other types of digital education for knowledge or skills",
+"type":"claim"
+},
+{
+"description":"Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)",
+"evidence_strength":"moderate",
+"id":"vp-vs-traditional-knowledge-no-difference",
+"path":"claims/vp-vs-traditional-knowledge-no-difference.md",
+"status":"review",
+"title":"Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)",
+"type":"claim"
+},
+{
+"description":"Virtual patients are more effective than traditional education for skills outcomes (pooled SMD=0.90)",
+"evidence_strength":"moderate",
+"id":"vp-vs-traditional-skills-favored",
+"path":"claims/vp-vs-traditional-skills-favored.md",
+"status":"review",
+"title":"Virtual patients are more effective than traditional education for skills outcomes (pooled SMD=0.90)",
 "type":"claim"
 },
 {
@@ -188634,6 +189804,16 @@
 "type":"pattern"
 },
 {
+"canonical":true,
+"description":"A reusable policy for tutoring by software: an intelligent tutoring system or a conversational AI tutor that responds to each learner's work step by step, deciding how much it explains, hints or withholds, how it checks understanding, and when it hands the learner to a human.",
+"grain_size":"course",
+"id":"ai-tutoring",
+"path":"patterns/ai-tutoring.md",
+"status":"review",
+"title":"AI Tutoring",
+"type":"pattern"
+},
+{
 "aliases":["storyline-science-curriculum-design"],
 "canonical":true,
 "description":"A reusable policy for building a lesson or unit around a shared narrative or media scenario: check that solving the anchor's problem requires the target concept, guide novices through it rather than leave them to search, connect the anchor explicitly to the concept, and judge the unit on individual use of the concept in a new situation.",
@@ -189005,6 +190185,16 @@
 "type":"pattern"
 },
 {
+"canonical":true,
+"description":"A reusable policy for supporting learners in asynchronous, self-paced online courses through mentors or instructors who are available on demand and who reach out proactively, deciding when contact is learner-initiated, when it is triggered by progress data, and what it consists of.",
+"grain_size":"course",
+"id":"mentor-support-in-self-paced-online-learning",
+"path":"patterns/mentor-support-in-self-paced-online-learning.md",
+"status":"review",
+"title":"Mentor Support in Self-Paced Online Learning",
+"type":"pattern"
+},
+{
 "description":"The digest enumerates the supporting generalizations for Merrill's remaining phases.",
 "id":"merrill-demonstration-application-integration-corollaries",
 "path":"patterns/merrill-demonstration-application-integration-corollaries.md",
@@ -189070,6 +190260,16 @@
 "path":"patterns/positive-behavioral-interventions-and-supports.md",
 "status":"review",
 "title":"Positive Behavioral Interventions And Supports",
+"type":"pattern"
+},
+{
+"canonical":true,
+"description":"A reusable policy for rehearsing interpersonal and professional performances with a simulated person (a standardized or virtual patient, a simulated client or customer, avatar students in a classroom simulation, or an AI role-play partner), followed by feedback and a debrief, before or alongside real practice.",
+"grain_size":"course",
+"id":"practice-with-simulated-people",
+"path":"patterns/practice-with-simulated-people.md",
+"status":"review",
+"title":"Practice with Simulated People",
 "type":"pattern"
 },
 {
@@ -208542,6 +209742,14 @@
 "type":"strategy"
 },
 {
+"description":"The article proposes that the seven trialogue designs should be adaptively administered depending on the student's knowledge and other psychological attributes.",
+"id":"adaptively-administer-trialogue-designs-by-learner-knowledge",
+"path":"strategies/adaptively-administer-trialogue-designs-by-learner-knowledge.md",
+"status":"review",
+"title":"Adaptively administer trialogue designs according to the student's knowledge and psychological attributes",
+"type":"strategy"
+},
+{
 "description":"The article recommends that K-12 districts already administering climate surveys \\\"including two or three questions about college expectations and aspirations could be helpful when those districts attempt to identify w...",
 "id":"add-aspiration-questions-to-climate-surveys",
 "path":"strategies/add-aspiration-questions-to-climate-surveys.md",
@@ -210442,6 +211650,14 @@
 "path":"strategies/assess-concerns-three-methods.md",
 "status":"review",
 "title":"Use three methods to assess concerns: questionnaire, open-ended statements, and informal conversation",
+"type":"strategy"
+},
+{
+"description":"The authors recommend that educators and clinicians evaluate creative potential in children with ADHD and build on it, rather than focusing only on deficits.",
+"id":"assess-creativity-as-compensatory-strength-adhd",
+"path":"strategies/assess-creativity-as-compensatory-strength-adhd.md",
+"status":"review",
+"title":"Assess and use creativity as a compensatory strength in ADHD children",
 "type":"strategy"
 },
 {
@@ -217467,6 +218683,14 @@
 "path":"strategies/curriculum-based-measurement.md",
 "status":"review",
 "title":"Curriculum Based Measurement",
+"type":"strategy"
+},
+{
+"description":"In its closing recommendations the article proposes that \\\"Schools in which the manifold contributions of African Americans are a prominent part of the curriculum and that feature successful African American role model...",
+"id":"curriculum-featuring-african-american-contributions-and-role-models",
+"path":"strategies/curriculum-featuring-african-american-contributions-and-role-models.md",
+"status":"review",
+"title":"Feature African American contributions and successful role models prominently in the school curriculum to support motivation and buffer stereotype effects",
 "type":"strategy"
 },
 {
@@ -232871,6 +234095,14 @@
 "type":"strategy"
 },
 {
+"description":"The article's training program teaches a three-step questioning procedure: \\\"First, the students were instructed to identify the main idea of each paragraph, which would serve as the core of the questions.",
+"id":"main-idea-question-generation-training-steps",
+"path":"strategies/main-idea-question-generation-training-steps.md",
+"status":"review",
+"title":"Train students to generate main-idea questions via identify-then-transform steps",
+"type":"strategy"
+},
+{
 "description":"The review concludes that it is time to take nature seriously as a resource for learning and to expand isolated nature-based efforts into increasingly mainstream practices.",
 "id":"mainstream-nature-based-pedagogy-strategy",
 "path":"strategies/mainstream-nature-based-pedagogy-strategy.md",
@@ -235581,6 +236813,14 @@
 "type":"strategy"
 },
 {
+"description":"The review proposes that impairments in multisensory integration and temporal processing \\\"may point toward novel targets for remediation\\\".",
+"id":"multisensory-training-remediation-strategy",
+"path":"strategies/multisensory-training-remediation-strategy.md",
+"status":"review",
+"title":"Use multisensory exposure and training as targets for remediation of sensory-based developmental and cognitive impairments",
+"type":"strategy"
+},
+{
 "aliases":["simultaneous_multisensory_instruction"],
 "description":"Multisensory instruction combines visual, auditory, and tactile-kinesthetic techniques simultaneously to teach skills — most prominently decoding and spelling — so that learning is reinforced through multiple sensory channels.",
 "id":"multisensory_instruction",
@@ -237924,6 +239164,14 @@
 "type":"strategy"
 },
 {
+"description":"Based on the finding that peer problems were the strongest behavioral correlate of reading comprehension, the authors urge education stakeholders to \\\"focus on interventions to build social skills and peer -to-peer int...",
+"id":"peer-to-peer-reading-interventions-social-skills",
+"path":"strategies/peer-to-peer-reading-interventions-social-skills.md",
+"status":"review",
+"title":"Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading",
+"type":"strategy"
+},
+{
 "aliases":["peer_tutoring"],
 "description":"Learners take structured turns as tutor and tutee, explaining, questioning, and correcting each other to deepen mastery of shared content.",
 "id":"peer-tutoring",
@@ -238620,6 +239868,14 @@
 "path":"strategies/plan-build-implement-pathways-design-process.md",
 "status":"review",
 "title":"Plan-Build-Implement co-design process for developing Integrated Learning Pathways",
+"type":"strategy"
+},
+{
+"description":"The article's forecasting result suggests a concrete implementation strategy: collect learners' open-ended plans at the start of a course and read their content for risk signals, since \\\"the contents of students' plans...",
+"id":"plan-content-early-warning-strategy",
+"path":"strategies/plan-content-early-warning-strategy.md",
+"status":"review",
+"title":"Use the content of learners' written plans as an early-warning signal to identify students least likely to succeed",
 "type":"strategy"
 },
 {
@@ -240887,6 +242143,14 @@
 "type":"strategy"
 },
 {
+"description":"The article draws an educational implication from its finding that performance improved after prompting for all age groups on both inference types.",
+"id":"prompt-underspecified-inference-responses",
+"path":"strategies/prompt-underspecified-inference-responses.md",
+"status":"review",
+"title":"Prompt children's underspecified inference responses to reveal their comprehension potential and model the standard of coherence required",
+"type":"strategy"
+},
+{
 "description":"Prompt cards — especially emotion prompt cards — give learners at-the-ready reminders of self-regulation strategies to use when emotions escalate.",
 "id":"prompt_cards_for_emotional_regulation",
 "path":"strategies/prompt_cards_for_emotional_regulation.md",
@@ -242873,6 +244137,14 @@
 "path":"strategies/relational-feedback-email-design-strategy.md",
 "status":"review",
 "title":"Design at-risk intervention emails by mapping message sentences to the four relational feedback principles with expert collaboration",
+"type":"strategy"
+},
+{
+"description":"Based on the moderated mediation findings, the authors recommend that schools support the relational resources through which belonging translates into regulated learning for struggling students.",
+"id":"relational-resources-low-efficacy-students",
+"path":"strategies/relational-resources-low-efficacy-students.md",
+"status":"review",
+"title":"Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students",
 "type":"strategy"
 },
 {
@@ -254929,6 +256201,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends virtual human simulation as a means of providing \\\"a safe environment in which to practice, reflect, and become adept\\\" in communication skills.",
+"id":"virtual-humans-standardized-communication-practice",
+"path":"strategies/virtual-humans-standardized-communication-practice.md",
+"status":"review",
+"title":"Use virtual humans to standardize communication training scenarios and allow safe repetition of emotionally charged conversations",
+"type":"strategy"
+},
+{
 "aliases":["virtual-reality-vr-training","virtual-reality-training"],
 "description":"Learners practice skills inside a computer-generated, head-tracked 3D environment that simulates the target performance context.",
 "id":"virtual-reality-immersive-training",
@@ -255183,6 +256463,14 @@
 "path":"strategies/volunteers-first-small-wins-sustainability.md",
 "status":"review",
 "title":"Recruit volunteer implementers first to generate small wins, models, and critical mass for change",
+"type":"strategy"
+},
+{
+"description":"The review recommends deploying virtual patients where they show the greatest benefit: replacing passive forms of traditional education and training clinical reasoning and critical thinking before direct patient contact.",
+"id":"vp-replace-passive-before-bedside-strategy",
+"path":"strategies/vp-replace-passive-before-bedside-strategy.md",
+"status":"review",
+"title":"Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours",
 "type":"strategy"
 },
 {
@@ -267250,6 +268538,8 @@
 "37-states-dual-funding-el-low-income":"37-states-dual-funding-el-low-income",
 "37-states-require-kea-2024":"37-states-require-kea-2024",
 "38-of-132-early-literacy-interventions-effective":"38-of-132-early-literacy-interventions-effective",
+"3b-end-to-end-latency-below-realtime-threshold":"3b-end-to-end-latency-below-realtime-threshold",
+"3b-first-evaluation-confirms-usability-requirements":"3b-first-evaluation-confirms-usability-requirements",
 "43-million-adults-lack-basic-english-literacy":"43-million-adults-lack-basic-english-literacy",
 "44-states-provide-at-risk-funding-2023-24":"44-states-provide-at-risk-funding-2023-24",
 "46-percent-low-achieving-schools-same-growth-as-top":"46-percent-low-achieving-schools-same-growth-as-top",
@@ -267447,6 +268737,7 @@
 "achievement-gap-societal-costs":"achievement-gap-societal-costs",
 "achievement-measure-moderator-lab-exclusion":"achievement-measure-moderator-lab-exclusion",
 "achievement-returns-to-expected-after-closing":"achievement-returns-to-expected-after-closing",
+"achievement-self-concept-correlation-african-american-youth":"achievement-self-concept-correlation-african-american-youth",
 "achievement-variation-offset-across-grade-bands":"achievement-variation-offset-across-grade-bands",
 "achievement-weighting-clouds-learning-high-poverty":"achievement-weighting-clouds-learning-high-poverty",
 "acquiring-changes-the-thing-acquired":"acquiring-changes-the-thing-acquired",
@@ -267479,6 +268770,7 @@
 "active-community-engagement-over-passive-feedback":"active-community-engagement-over-passive-feedback",
 "active-comparison-instruction-reverses-simulation-game-advantage":"active-comparison-instruction-reverses-simulation-game-advantage",
 "active-control-enhances-memory-development":"active-control-enhances-memory-development",
+"active-control-of-learning-enhances-memory":"active-control-of-learning-enhances-memory",
 "active-control-rcts-benefits-restricted":"active-control-rcts-benefits-restricted",
 "active-defenses-limited-partial-protection":"active-defenses-limited-partial-protection",
 "active-el-reporting-bias":"active-el-reporting-bias",
@@ -267582,9 +268874,14 @@
 "additive-tpack-belief-models-weak-intervention-guidance":"additive-tpack-belief-models-weak-intervention-guidance",
 "adequacy-gap-associated-outcomes":"adequacy-gap-associated-outcomes",
 "adequate-responders-still-below-typical-on-cognitive-measures":"adequate-responders-still-below-typical-on-cognitive-measures",
+"adhd-21-percent-highly-creative":"adhd-21-percent-highly-creative",
 "adhd-attention-deficits-cause-writing-problems":"adhd-attention-deficits-cause-writing-problems",
 "adhd-attention-deficits-normal-conditions":"adhd-attention-deficits-normal-conditions",
 "adhd-c-worse-stm-wm-than-adhd-i":"adhd-c-worse-stm-wm-than-adhd-i",
+"adhd-children-higher-creative-strengths":"adhd-children-higher-creative-strengths",
+"adhd-children-higher-creativity-index":"adhd-children-higher-creativity-index",
+"adhd-children-higher-ttct-fluency":"adhd-children-higher-ttct-fluency",
+"adhd-children-higher-ttct-originality":"adhd-children-higher-ttct-originality",
 "adhd-coaching-improved-goal-attainment-process":"adhd-coaching-improved-goal-attainment-process",
 "adhd-coding-deficit-beyond-graphomotor-speed":"adhd-coding-deficit-beyond-graphomotor-speed",
 "adhd-cognitive-capacity-modulated-by-motivation":"adhd-cognitive-capacity-modulated-by-motivation",
@@ -267599,6 +268896,7 @@
 "adhd-inattentive-adults-more-fearful-affect-errors":"adhd-inattentive-adults-more-fearful-affect-errors",
 "adhd-less-useful-problem-reconstruction":"adhd-less-useful-problem-reconstruction",
 "adhd-lower-da-availability-accumbens-midbrain":"adhd-lower-da-availability-accumbens-midbrain",
+"adhd-lower-learning-ability-scores-than-controls":"adhd-lower-learning-ability-scores-than-controls",
 "adhd-lower-mpq-achievement-scale":"adhd-lower-mpq-achievement-scale",
 "adhd-lower-vmi-intact-visual-perception":"adhd-lower-vmi-intact-visual-perception",
 "adhd-medication-limited-long-term-functional-effects":"adhd-medication-limited-long-term-functional-effects",
@@ -267606,12 +268904,14 @@
 "adhd-medication-reduces-injury-emergency-risk-children":"adhd-medication-reduces-injury-emergency-risk-children",
 "adhd-more-real-world-creative-achievements":"adhd-more-real-world-creative-achievements",
 "adhd-motivation-profile-sdt-dimensions":"adhd-motivation-profile-sdt-dimensions",
+"adhd-no-difference-elaboration-abstractness-closure":"adhd-no-difference-elaboration-abstractness-closure",
 "adhd-originality-increases-under-competition":"adhd-originality-increases-under-competition",
 "adhd-peer-problems-effect-sizes-d072-d125":"adhd-peer-problems-effect-sizes-d072-d125",
 "adhd-peer-rejection-and-friendship-deficits":"adhd-peer-rejection-and-friendship-deficits",
 "adhd-persistence-into-adulthood-subthreshold":"adhd-persistence-into-adulthood-subthreshold",
 "adhd-poor-academic-outcomes-longitudinal":"adhd-poor-academic-outcomes-longitudinal",
 "adhd-poorer-accuracy-wm-change-trials":"adhd-poorer-accuracy-wm-change-trials",
+"adhd-prolonged-abr-latencies":"adhd-prolonged-abr-latencies",
 "adhd-ptsd-symptom-overlap-misdiagnosis-risk":"adhd-ptsd-symptom-overlap-misdiagnosis-risk",
 "adhd-reading-writing-difficulties-comorbidity":"adhd-reading-writing-difficulties-comorbidity",
 "adhd-reduced-oral-reading-fluency":"adhd-reduced-oral-reading-fluency",
@@ -267710,6 +269010,7 @@
 "aei-majority-occupations-zero-ai-usage":"aei-majority-occupations-zero-ai-usage",
 "aerobic-exercise-dose-response-ef":"aerobic-exercise-dose-response-ef",
 "aerobic-exercise-improves-executive-function-children":"aerobic-exercise-improves-executive-function-children",
+"aerobic-fitness-diet-hippocampus-episodic-memory":"aerobic-fitness-diet-hippocampus-episodic-memory",
 "aerobic-fitness-possible-predictor-cortical-maturation-pathway":"aerobic-fitness-possible-predictor-cortical-maturation-pathway",
 "aerobic-fitness-predicts-memory-retention":"aerobic-fitness-predicts-memory-retention",
 "aes-accuracy-cost-tradeoff-recipes":"aes-accuracy-cost-tradeoff-recipes",
@@ -267842,6 +269143,7 @@
 "aging-fewer-relevant-steps-meps":"aging-fewer-relevant-steps-meps",
 "aging-fewer-specific-responses-generation":"aging-fewer-specific-responses-generation",
 "aging-increases-distractibility-ltm-retrieval":"aging-increases-distractibility-ltm-retrieval",
+"aging-multisensory-gains-simple-deficits-complex":"aging-multisensory-gains-simple-deficits-complex",
 "aging-reduced-auditory-increased-prefrontal-activation":"aging-reduced-auditory-increased-prefrontal-activation",
 "aging-reduces-syntactic-complexity-left-branching-loss":"aging-reduces-syntactic-complexity-left-branching-loss",
 "aging-spares-jol-resolution-encoding":"aging-spares-jol-resolution-encoding",
@@ -268612,6 +269914,7 @@
 "answers-add-unsupported-background-knowledge":"answers-add-unsupported-background-knowledge",
 "antagonistic-agent-broadens-stakeholder-coverage":"antagonistic-agent-broadens-stakeholder-coverage",
 "anterior-hippocampus-functional-specialization-adolescence":"anterior-hippocampus-functional-specialization-adolescence",
+"anthropometrics-no-correlation-creativity":"anthropometrics-no-correlation-creativity",
 "anthropomorphic-explanations-corrected-by-pedagogical-interventions":"anthropomorphic-explanations-corrected-by-pedagogical-interventions",
 "anthropomorphic-explanations-lessen-with-age":"anthropomorphic-explanations-lessen-with-age",
 "anthropomorphism-benefits-vary-by-context":"anthropomorphism-benefits-vary-by-context",
@@ -268792,6 +270095,7 @@
 "assessment-marking-inverse-demand-ai-association":"assessment-marking-inverse-demand-ai-association",
 "assessment-metadata-quantify-disengagement-impact":"assessment-metadata-quantify-disengagement-impact",
 "assessment-plans-outcome-based-dominant":"assessment-plans-outcome-based-dominant",
+"assessment-questioning-dominates-instruction":"assessment-questioning-dominates-instruction",
 "assessment-redesign-insights-tlc-convening":"assessment-redesign-insights-tlc-convening",
 "assessment-restart-advocacy-after-2020-waivers":"assessment-restart-advocacy-after-2020-waivers",
 "assessment-shift-task-articulation-over-text-quality":"assessment-shift-task-articulation-over-text-quality",
@@ -268886,6 +270190,7 @@
 "attention-problems-mediated-by-working-memory-math":"attention-problems-mediated-by-working-memory-math",
 "attention-problems-predict-poorer-emergent-academics":"attention-problems-predict-poorer-emergent-academics",
 "attention-shift-meaning-to-form-over-cycles":"attention-shift-meaning-to-form-over-cycles",
+"attention-to-form-rule-vs-highlighting-comprehension":"attention-to-form-rule-vs-highlighting-comprehension",
 "attention-training-interventions-evidence-note":"attention-training-interventions-evidence-note",
 "attention-unique-predictor-kindergarten-writing-fluency":"attention-unique-predictor-kindergarten-writing-fluency",
 "attentional-control-buffers-speech-anxiety-performance":"attentional-control-buffers-speech-anxiety-performance",
@@ -268949,6 +270254,8 @@
 "authorship-ceiling-concentration":"authorship-ceiling-concentration",
 "authorship-coherence-dissociation-prediction":"authorship-coherence-dissociation-prediction",
 "authorship-distinct-performance-dimension":"authorship-distinct-performance-dimension",
+"autism-reduced-mcgurk-fusion-meta-analysis":"autism-reduced-mcgurk-fusion-meta-analysis",
+"autism-temporal-precision-links-language-symptoms":"autism-temporal-precision-links-language-symptoms",
 "auto-updates-drew-users-from-explanations":"auto-updates-drew-users-from-explanations",
 "autobiographical-recall-reveals-emotion-specific-regulation":"autobiographical-recall-reveals-emotion-specific-regulation",
 "automated-ai-assessment-high-impact-moderate-challenge":"automated-ai-assessment-high-impact-moderate-challenge",
@@ -268982,8 +270289,12 @@
 "autonomy-support-versus-controlling-teaching":"autonomy-support-versus-controlling-teaching",
 "autonomy-supports-intrinsic-motivation":"autonomy-supports-intrinsic-motivation",
 "autonomy-teacher-support-compensatory-interaction-digital-skills":"autonomy-teacher-support-compensatory-interaction-digital-skills",
+"autotutor-content-matters-not-talking-head":"autotutor-content-matters-not-talking-head",
+"autotutor-gains-equivalent-to-human-tutoring":"autotutor-gains-equivalent-to-human-tutoring",
 "autotutor-improves-learning-one-letter-grade":"autotutor-improves-learning-one-letter-grade",
+"autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading":"autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading",
 "autotutor-learning-gains-comparable-human-tutors":"autotutor-learning-gains-comparable-human-tutors",
+"autotutor-student-questions-extinguish":"autotutor-student-questions-extinguish",
 "av-advantage-analysis-support-dimensions":"av-advantage-analysis-support-dimensions",
 "av-gain-correlates-speech-intelligibility":"av-gain-correlates-speech-intelligibility",
 "av-higher-acuity-detail-sensitivity":"av-higher-acuity-detail-sensitivity",
@@ -269768,6 +271079,7 @@
 "central-executive-coordinates-language-learning-functions":"central-executive-coordinates-language-learning-functions",
 "central-object-change-detection-low-without-cueing":"central-object-change-detection-low-without-cueing",
 "central-office-relationships-stronger-at-top-with-rifts-among-other-staff":"central-office-relationships-stronger-at-top-with-rifts-among-other-staff",
+"centrality-dual-role-discrimination-versus-stereotypes":"centrality-dual-role-discrimination-versus-stereotypes",
 "centralized-enrollment-builds-family-awareness":"centralized-enrollment-builds-family-awareness",
 "centralized-partnership-management-frees-schools":"centralized-partnership-management-frees-schools",
 "centralized-planning-converges-fastest-on-authenticity":"centralized-planning-converges-fastest-on-authenticity",
@@ -270332,6 +271644,7 @@
 "climate-stronger-association-than-resources":"climate-stronger-association-than-resources",
 "clinical-adhd-diagnosis-increased-odds-adolescent-depression":"clinical-adhd-diagnosis-increased-odds-adolescent-depression",
 "clinical-feedback-predicts-tpa-passing-preservice-only":"clinical-feedback-predicts-tpa-passing-preservice-only",
+"clinical-significance-level-c-community-difference":"clinical-significance-level-c-community-difference",
 "clinical-status-does-not-moderate-reward-effect-on-inhibitory-control":"clinical-status-does-not-moderate-reward-effect-on-inhibitory-control",
 "clinical-supervision-effectiveness-inconclusive":"clinical-supervision-effectiveness-inconclusive",
 "clinical-support-related-to-preparedness-600-hours":"clinical-support-related-to-preparedness-600-hours",
@@ -270534,6 +271847,7 @@
 "cognitive-presence-highest-least-variable-online-cbi":"cognitive-presence-highest-least-variable-online-cbi",
 "cognitive-reading-domains-share-genetic-variance":"cognitive-reading-domains-share-genetic-variance",
 "cognitive-skills-correlate-with-vibe-coding-and-predictors":"cognitive-skills-correlate-with-vibe-coding-and-predictors",
+"cognitive-strategy-use-varies-by-subject-area":"cognitive-strategy-use-varies-by-subject-area",
 "cognitive-support-largely-independent-of-emotional-support":"cognitive-support-largely-independent-of-emotional-support",
 "cognitive-surrender-inflates-confidence-after-errors":"cognitive-surrender-inflates-confidence-after-errors",
 "cognitive-tutor-algebra-i-mixed-effects-algebra":"cognitive-tutor-algebra-i-mixed-effects-algebra",
@@ -270951,6 +272265,7 @@
 "content-proximity-pilot-validity-reliability-comparability":"content-proximity-pilot-validity-reliability-comparability",
 "content-recency-moderates-feedback-effectiveness":"content-recency-moderates-feedback-effectiveness",
 "content-snapping-resolves-referential-uncertainty":"content-snapping-resolves-referential-uncertainty",
+"content-support-moderator-not-significant":"content-support-moderator-not-significant",
 "content-triggers-dominate-syntactic-triggers-absent-text-chat":"content-triggers-dominate-syntactic-triggers-absent-text-chat",
 "contest-participation-decline-precedes-cp-attrition":"contest-participation-decline-precedes-cp-attrition",
 "context-adjusted-ratings-raise-black-teacher-rankings":"context-adjusted-ratings-raise-black-teacher-rankings",
@@ -270959,6 +272274,10 @@
 "context-clarification-validation-interviews":"context-clarification-validation-interviews",
 "context-effect-depends-on-guidance-style":"context-effect-depends-on-guidance-style",
 "context-intent-joint-association":"context-intent-joint-association",
+"context-learning-comprehension-interaction-marginal":"context-learning-comprehension-interaction-marginal",
+"context-learning-equal-narrative-expository":"context-learning-equal-narrative-expository",
+"context-learning-prior-knowledge-interaction-mixed":"context-learning-prior-knowledge-interaction-mixed",
+"context-learning-versus-direct-instruction-efficiency":"context-learning-versus-direct-instruction-efficiency",
 "context-length-no-effect-fkt":"context-length-no-effect-fkt",
 "context-sensitive-personalization-disciplinary-backgrounds":"context-sensitive-personalization-disciplinary-backgrounds",
 "context-type-c-d-not-operationally-distinguished":"context-type-c-d-not-operationally-distinguished",
@@ -271470,6 +272789,7 @@
 "csc-no-discernible-academic-effects":"csc-no-discernible-academic-effects",
 "csc-no-discernible-kav-effects":"csc-no-discernible-kav-effects",
 "csc-potentially-positive-behavior-effects":"csc-potentially-positive-behavior-effects",
+"cscl-meta-analysis-no-publication-bias":"cscl-meta-analysis-no-publication-bias",
 "cscl-simulation-conceptual-change-cognitive-engagement":"cscl-simulation-conceptual-change-cognitive-engagement",
 "cse-mediates-anxiety-peu-lms":"cse-mediates-anxiety-peu-lms",
 "cse-partial-mediation-anx-peu-weakened":"cse-partial-mediation-anx-peu-weakened",
@@ -271862,6 +273182,7 @@
 "democracy-prep-lottery-registration-gain-16-points":"democracy-prep-increases-voter-registration-16-points",
 "democracy-prep-lottery-voting-gain-12-points":"democracy-prep-increases-voting-rates-12-points",
 "demographic-category-heterogeneity-harms-atypical-members":"demographic-category-heterogeneity-harms-atypical-members",
+"demographic-correlates-identity-motivation":"demographic-correlates-identity-motivation",
 "demographic-differences-ai-anxiety-small-grade-effect":"demographic-differences-ai-anxiety-small-grade-effect",
 "demographic-differences-engagement-psycap-commitment":"demographic-differences-engagement-psycap-commitment",
 "demographic-differences-engagement-strategy-perceptions":"demographic-differences-engagement-strategy-perceptions",
@@ -271956,6 +273277,7 @@
 "developmental-capacity-gain-primary":"developmental-capacity-gain-primary",
 "developmental-dissociation-hippocampal-volume-episodic-memory":"developmental-dissociation-hippocampal-volume-episodic-memory",
 "developmental-education-loss-point-60-30":"developmental-education-loss-point-60-30",
+"developmental-improvements-local-global-coherence-inferences":"developmental-improvements-local-global-coherence-inferences",
 "developmental-level-conditions-interaction-outcomes":"developmental-level-conditions-interaction-outcomes",
 "developmental-practices-require-clear-priorities-and-leadership":"developmental-practices-require-clear-priorities-and-leadership",
 "developmental-reversal-change-detection-cued-uncued":"developmental-reversal-change-detection-cued-uncued",
@@ -272454,6 +273776,7 @@
 "dyscalculia-symbolic-representations-not-impaired":"dyscalculia-symbolic-representations-not-impaired",
 "dyscalculia-visual-hyperconnectivity":"dyscalculia-visual-hyperconnectivity",
 "dysgraphia-classification-varies-by-grade":"dysgraphia-classification-varies-by-grade",
+"dyslexia-audiovisual-integration-impairments":"dyslexia-audiovisual-integration-impairments",
 "dyslexia-graphic-complexity-handwriting-impact":"dyslexia-graphic-complexity-handwriting-impact",
 "dyslexia-inhibition-error-composite-impairment":"dyslexia-inhibition-error-composite-impairment",
 "dyslexia-knowledge-term-versus-explanation-items":"dyslexia-knowledge-term-versus-explanation-items",
@@ -272530,6 +273853,7 @@
 "early-intervened-children-below-1sd-language-3yo":"early-intervened-children-below-1sd-language-3yo",
 "early-intervention-remediates-adversity-neurodevelopmental-consequences":"early-intervention-remediates-adversity-neurodevelopmental-consequences",
 "early-language-predicts-externalizing":"early-language-predicts-externalizing",
+"early-level-a-b-no-aggression-effect":"early-level-a-b-no-aggression-effect",
 "early-literacy-persistence-below-benchmark":"early-literacy-persistence-below-benchmark",
 "early-literacy-risk-persistence-within-and-across-years":"early-literacy-risk-persistence-within-and-across-years",
 "early-math-development-importance":"early-math-development-importance",
@@ -273159,10 +274483,12 @@
 "epic-baseline-compares-partner-student-characteristics-and-award-data":"epic-baseline-compares-partner-student-characteristics-and-award-data",
 "epic-principals-positive-attitudes-merit-pay":"epic-principals-positive-attitudes-merit-pay",
 "epic-year2-methods-identify-effective-schools-teachers":"epic-year2-methods-identify-effective-schools-teachers",
+"epileptiform-eeg-inattentive-adhd":"epileptiform-eeg-inattentive-adhd",
 "episode-features-predictive-importance-beyond-semantics":"episode-features-predictive-importance-beyond-semantics",
 "episode-one-most-complex-retell-pattern":"episode-one-most-complex-retell-pattern",
 "episodic-buffer-multimodal-integration-learning":"episodic-buffer-multimodal-integration-learning",
 "episodic-memory-improves-middle-childhood-familiarity-age-invariant":"episodic-memory-improves-middle-childhood-familiarity-age-invariant",
+"episodic-prospection-development-academic-behavior":"episodic-prospection-development-academic-behavior",
 "epistemic-agency-changes-across-phases":"epistemic-agency-changes-across-phases",
 "epistemic-behavior-fails-to-mediate-academic-performance":"epistemic-behavior-fails-to-mediate-academic-performance",
 "epistemic-behavior-relates-curiosity-not-cognitive-ability":"epistemic-behavior-relates-curiosity-not-cognitive-ability",
@@ -274417,6 +275743,7 @@
 "funds-of-knowledge-research-raises-teacher-expectations":"funds-of-knowledge-research-raises-teacher-expectations",
 "funds-of-knowledge-tasks-reveal-computational-thinking":"funds-of-knowledge-tasks-reveal-computational-thinking",
 "furtak-metaanalysis-37-studies-inquiry-positive":"inquiry-based-teaching-improves-science-achievement",
+"further-moderators-discipline-duration-measurement-level":"further-moderators-discipline-duration-measurement-level",
 "fusiform-surface-area-suppresses-bullying-cognition-effect":"fusiform-surface-area-suppresses-bullying-cognition-effect",
 "fusion-no-inference-time-penalty":"fusion-no-inference-time-penalty",
 "fusion-transformer-lowest-worst-group-mae-smallest-gender-gap":"fusion-transformer-lowest-worst-group-mae-smallest-gender-gap",
@@ -274498,6 +275825,7 @@
 "gap-usefulness-depends-on-challenge":"gap-usefulness-depends-on-challenge",
 "gaps-collaborative-talk-and-written-assignments":"gaps-collaborative-talk-and-written-assignments",
 "gaps-in-learning-environment-evaluation-approaches":"gaps-in-learning-environment-evaluation-approaches",
+"gass-1981-marked-instruction-generalizes":"gass-1981-marked-instruction-generalizes",
 "gate-delays-easier-to-recover-than-course-failure":"gate-delays-easier-to-recover-than-course-failure",
 "gate-retention-increased-dropout-likelihood":"gate-retention-increased-dropout-likelihood",
 "gateway-98-percent-four-year-graduation-rate":"gateway-98-percent-four-year-graduation-rate",
@@ -274814,6 +276142,7 @@
 "genarch-wblt-quality-presentation-correlation-exploratory":"genarch-wblt-quality-presentation-correlation-exploratory",
 "gender-advantage-ef-diminishes-tom-persists":"gender-advantage-ef-diminishes-tom-persists",
 "gender-age-proficiency-chatbot-differences":"gender-age-proficiency-chatbot-differences",
+"gender-aggression-increase-no-treatment-difference":"gender-aggression-increase-no-treatment-difference",
 "gender-and-school-poverty-moderate-pandemic-gains":"gender-and-school-poverty-moderate-pandemic-gains",
 "gender-and-subject-differences-graduate-attributes":"gender-and-subject-differences-graduate-attributes",
 "gender-creativity-mixed-domain-dependent":"gender-creativity-mixed-domain-dependent",
@@ -274982,6 +276311,7 @@
 "good-grades-predict-act-gains":"good-grades-predict-act-gains",
 "good-idea-reward-no-incentive-effect":"good-idea-reward-no-incentive-effect",
 "good-learners-violate-practice-principles":"good-learners-violate-practice-principles",
+"good-question-predicts-matching-item-correct":"good-question-predicts-matching-item-correct",
 "google-trends-chatgpt-plagiarism-queries":"google-trends-chatgpt-plagiarism-queries",
 "gottlieb-1997-group-size-increase-lowered-reading-scores":"gottlieb-1997-group-size-increase-lowered-reading-scores",
 "governance-889-events-ger-9-26":"governance-889-events-ger-9-26",
@@ -275089,6 +276419,7 @@
 "grader-errors-dominate-rule-based-evaluator-benchmarks":"grader-errors-dominate-rule-based-evaluator-benchmarks",
 "grader-grade-relates-to-grading-reliability":"grader-grade-relates-to-grading-reliability",
 "grader-llm-correctness-comparison-socrates":"grader-llm-correctness-comparison-socrates",
+"grades-3-6-near-zero-comprehension-instruction":"grades-3-6-near-zero-comprehension-instruction",
 "grades-3-8-age-placebo-null":"grades-3-8-age-placebo-null",
 "grades-3-8-focus-remote-testing-comparability":"grades-3-8-focus-remote-testing-comparability",
 "grades-better-predictor-than-test-scores":"grades-better-predictor-than-test-scores",
@@ -275383,6 +276714,7 @@
 "high-and-low-achievers-benefit-authentic-assignments":"high-and-low-achievers-benefit-authentic-assignments",
 "high-and-low-achievers-benefit-from-quality-assignments":"high-and-low-achievers-benefit-from-quality-assignments",
 "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load":"high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load",
+"high-authenticity-simulations-higher-effects":"high-authenticity-simulations-higher-effects",
 "high-but-heterogeneous-voluntary-ai-discussion-uptake":"high-but-heterogeneous-voluntary-ai-discussion-uptake",
 "high-cf-higher-rule-acquisition-rate-probabilistic":"high-cf-higher-rule-acquisition-rate-probabilistic",
 "high-cf-post-learning-accuracy-advantage":"high-cf-post-learning-accuracy-advantage",
@@ -275441,6 +276773,7 @@
 "high-promotion-power-better-expected-outcomes":"high-promotion-power-better-expected-outcomes",
 "high-qualifications-needed-for-majority-graduation-odds":"high-qualifications-needed-for-majority-graduation-odds",
 "high-quality-early-care-school-readiness-benefits":"high-quality-early-care-school-readiness-benefits",
+"high-reading-group-low-externalizing-behaviors":"high-reading-group-low-externalizing-behaviors",
 "high-regret-overdeferral-good-ai-hard-tasks":"high-regret-overdeferral-good-ai-hard-tasks",
 "high-reinforcement-improves-stm-wm-adhd":"high-reinforcement-improves-stm-wm-adhd",
 "high-relational-trust-educators-experiment-and-partner-with-parents":"high-relational-trust-educators-experiment-and-partner-with-parents",
@@ -275532,6 +276865,7 @@
 "hippocampal-connectivity-predicts-retrieval-gains":"hippocampal-connectivity-predicts-retrieval-gains",
 "hippocampal-engagement-increases-prefrontal-parietal-decreases":"hippocampal-engagement-increases-prefrontal-parietal-decreases",
 "hippocampal-engagement-inverted-u-development":"hippocampal-engagement-inverted-u-development",
+"hippocampal-plasticity-mismatch-individual-capacity":"hippocampal-plasticity-mismatch-individual-capacity",
 "hippocampal-representation-stability-increases-development":"hippocampal-representation-stability-increases-development",
 "hippocampus-anterior-loss-posterior-gain-age-4-25":"hippocampus-anterior-loss-posterior-gain-age-4-25",
 "hiring-difficulties-correlated-with-high-turnover":"hiring-difficulties-correlated-with-high-turnover",
@@ -275714,6 +277048,7 @@
 "hybrid-work-human-ai-duality":"hybrid-work-human-ai-duality",
 "hybridization-of-authorship-argumentation":"hybridization-of-authorship-argumentation",
 "hyper-reference-consultation-frequency-no-comprehension-gain":"hyper-reference-consultation-frequency-no-comprehension-gain",
+"hyperactivity-conduct-problems-not-significant-predictors":"hyperactivity-conduct-problems-not-significant-predictors",
 "hyperactivity-impulsivity-no-prediction-academic-outcomes":"hyperactivity-impulsivity-no-prediction-academic-outcomes",
 "hyperinteractivity-can-intensify-inequality":"hyperinteractivity-can-intensify-inequality",
 "hypermedia-lowest-total-process-engagement":"hypermedia-lowest-total-process-engagement",
@@ -275915,6 +277250,8 @@
 "inattention-dimension-associated-slow-ps":"inattention-dimension-associated-slow-ps",
 "inattention-manipulation-verified-by-report":"inattention-manipulation-verified-by-report",
 "inattention-moderates-ai-benefit-associations":"inattention-moderates-ai-benefit-associations",
+"inattentive-adhd-most-delayed-abr":"inattentive-adhd-most-delayed-abr",
+"inattentive-adhd-worst-learning-score":"inattentive-adhd-worst-learning-score",
 "inattentive-symptoms-fearful-vocal-error-correlations":"inattentive-symptoms-fearful-vocal-error-correlations",
 "inattentive-symptoms-positive-hyperactive-negative-sad-errors":"inattentive-symptoms-positive-hyperactive-negative-sad-errors",
 "incentives-improve-calibration-lower-achievers":"incentives-improve-calibration-lower-achievers",
@@ -275931,6 +277268,7 @@
 "incidental-vocabulary-learning-through-reading-for-meaning":"incidental-vocabulary-learning-through-reading-for-meaning",
 "incidental-vocabulary-retained-intentional-forgotten":"incidental-vocabulary-retained-intentional-forgotten",
 "incidental-vocabulary-retention-problems":"incidental-vocabulary-retention-problems",
+"incidental-word-learning-from-natural-context":"incidental-word-learning-from-natural-context",
 "incidental-word-learning-while-reading-about-15-percent":"incidental-vocabulary-exposure-limited",
 "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure":"incidental-vocabulary-exposure-limited",
 "inclusion-effects-heterogeneous-moderator-analyses-inconclusive":"inclusion-effects-heterogeneous-moderator-analyses-inconclusive",
@@ -276853,6 +278191,8 @@
 "late-completers-enrolled-more-than-eight-terms":"late-completers-enrolled-more-than-eight-terms",
 "late-emergence-findings-paradigm-limited":"late-emergence-findings-paradigm-limited",
 "late-implanted-fail-word-learning":"late-implanted-fail-word-learning",
+"late-level-a-c-no-aggression-effect":"late-level-a-c-no-aggression-effect",
+"late-level-b-increased-aggression":"late-level-b-increased-aggression",
 "late-predictors-ci-high-school-language":"late-predictors-ci-high-school-language",
 "late-pretest-analyzed-for-several-estimators":"late-pretest-analyzed-for-several-estimators",
 "late-pretest-estimators-typically-preferred":"late-pretest-estimators-typically-preferred",
@@ -277013,6 +278353,7 @@
 "learning-diary-alone-no-self-regulation-gain":"learning-diary-alone-no-self-regulation-gain",
 "learning-diary-alone-no-significant-srl-gains-online-math-prep-course":"learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
 "learning-disabilities-drove-cps-special-education-increase":"learning-disabilities-drove-cps-special-education-increase",
+"learning-disability-correlates-abr-eeg":"learning-disability-correlates-abr-eeg",
 "learning-disability-feedback-lowered-expectations":"learning-disability-feedback-lowered-expectations",
 "learning-format-perspectives-correlate-immigrant-integration":"learning-format-perspectives-correlate-immigrant-integration",
 "learning-genai-anxiety-moderates-intention-procrastination":"learning-genai-anxiety-moderates-intention-procrastination",
@@ -277120,6 +278461,8 @@
 "letter-writing-automaticity-not-predictive-grade3-writing":"letter-writing-automaticity-not-predictive-grade3-writing",
 "letter-writing-fluency-concurrent-not-longitudinal":"letter-writing-fluency-concurrent-not-longitudinal",
 "letters-rapid-naming-significant-correlation-reading-writing":"letters-rapid-naming-significant-correlation-reading-writing",
+"level-c-early-aggression-community-interaction":"level-c-early-aggression-community-interaction",
+"level-c-early-plus-late-replication":"level-c-early-plus-late-replication",
 "level-specific-ct-reading-regions":"level-specific-ct-reading-regions",
 "leveled-articles-shared-topics-cohesion":"leveled-articles-shared-topics-cohesion",
 "leveling-up-associated-checkpoint-quiz-accuracy":"leveling-up-associated-checkpoint-quiz-accuracy",
@@ -277152,6 +278495,7 @@
 "lifelong-learning-paradium-equal-opportunity-unesco-2013":"lifelong-learning-paradium-equal-opportunity-unesco-2013",
 "lifetime-stress-dose-learning-correlation":"lifetime-stress-dose-learning-correlation",
 "light-ai-edits-flagged-at-high-rates":"light-ai-edits-flagged-at-high-rates",
+"light-moderate-sedentary-no-creativity-relationship":"light-moderate-sedentary-no-creativity-relationship",
 "light-verbs-modulate-intermediate-sorting":"light-verbs-modulate-intermediate-sorting",
 "lightcast-only-illinois-exceeds-ai-postings":"lightcast-only-illinois-exceeds-ai-postings",
 "lighthouse-baseline-capacity-needs-assessment":"lighthouse-baseline-capacity-needs-assessment",
@@ -277556,6 +278900,7 @@
 "longer-partnership-greater-data-capacity":"longer-partnership-greater-data-capacity",
 "longer-reading-times-linked-higher-recall":"longer-reading-times-linked-higher-recall",
 "longer-sequence-length-no-consistent-pkt-gain":"longer-sequence-length-no-consistent-pkt-gain",
+"longer-simulation-duration-higher-effects":"longer-simulation-duration-higher-effects",
 "longer-sleep-linear-growth-infants":"longer-sleep-linear-growth-infants",
 "longitudinal-dsa-review-ruler-tracking":"longitudinal-dsa-review-ruler-tracking",
 "longitudinal-physical-activity-improves-academic-performance":"longitudinal-physical-activity-improves-academic-performance",
@@ -277626,6 +278971,7 @@
 "low-motivation-correlates-inattention-adhd":"low-motivation-correlates-inattention-adhd",
 "low-motivation-formulaic-writing":"low-motivation-formulaic-writing",
 "low-participation-related-to-parent-communication-problems":"low-participation-related-to-parent-communication-problems",
+"low-peer-problems-higher-reading-comprehension":"low-peer-problems-higher-reading-comprehension",
 "low-performers-procrastinated-exercises-and-videos":"low-performers-procrastinated-exercises-and-videos",
 "low-performing-elementary-csr-math-gains-research-models":"low-performing-elementary-csr-math-gains-research-models",
 "low-performing-models-subject-variance-technology-general":"low-performing-models-subject-variance-technology-general",
@@ -277685,6 +279031,7 @@
 "lrk-underrepresented-core-competency":"lrk-underrepresented-core-competency",
 "ls-only-possible-letter-name-interference":"ls-only-possible-letter-name-interference",
 "lsa-complete-chain-collaborator-only":"lsa-complete-chain-collaborator-only",
+"lsa-word-overlap-regex-best-semantic-matcher":"lsa-word-overlap-regex-best-semantic-matcher",
 "lsc-community-partnerships-social-capital":"lsc-community-partnerships-social-capital",
 "lsc-contribution-views-differ-top-bottom-quartile-schools":"lsc-contribution-views-differ-top-bottom-quartile-schools",
 "lsc-contributions-strongest-in-operations-weakest-on-student-behavior":"lsc-contributions-strongest-in-operations-weakest-on-student-behavior",
@@ -277889,6 +279236,7 @@
 "marginalized-group-schools-early-literacy-benchmark-gaps":"marginalized-group-schools-early-literacy-benchmark-gaps",
 "marginalized-students-furthest-from-recovery-2023-24":"marginalized-students-furthest-from-recovery-2023-24",
 "marked-students-praise-withholding-bias":"marked-students-praise-withholding-bias",
+"markedness-role-instructed-il-development":"markedness-role-instructed-il-development",
 "markers-rarely-detect-contract-cheating":"markers-rarely-detect-contract-cheating",
 "marketing-educators-gai-use-tool-most-common":"marketing-educators-gai-use-tool-most-common",
 "markov-workflow-dynamics-three-clusters":"markov-workflow-dynamics-three-clusters",
@@ -278138,12 +279486,14 @@
 "memory-metacognition-correlates-with-wms-scores":"memory-metacognition-correlates-with-wms-scores",
 "memory-metacognitive-efficiency-nonsignificant-age-decline":"memory-metacognitive-efficiency-nonsignificant-age-decline",
 "memory-motivation-independent-neuropsychological-domains":"memory-motivation-independent-neuropsychological-domains",
+"memory-report-complexity-predicts-reading-ability":"memory-report-complexity-predicts-reading-ability",
 "memory-self-efficacy-predicts-performance-mediation":"memory-self-efficacy-predicts-performance-mediation",
 "memphis-model-adjusts-mobility-demographics-measurement-error":"memphis-model-adjusts-mobility-demographics-measurement-error",
 "menstrual-phase-no-moderation-flexibility":"menstrual-phase-no-moderation-flexibility",
 "mental-effort-study-time-indicate-element-interactivity":"mental-effort-study-time-indicate-element-interactivity",
 "mental-imagery-no-achievement-relation-ceiling":"mental-imagery-no-achievement-relation-ceiling",
 "mental-representation-not-directly-instructable":"mental-representation-not-directly-instructable",
+"mentioning-precedes-workbook-assignments":"mentioning-precedes-workbook-assignments",
 "mentor-coach-access-inequity-poverty":"mentor-coach-access-inequity-poverty",
 "mentor-mentee-talk-time-classroom-management-dialogues":"mentor-mentee-talk-time-classroom-management-dialogues",
 "mentor-modeling-shapes-novice-advocacy-beliefs":"mentor-modeling-shapes-novice-advocacy-beliefs",
@@ -278505,6 +279855,7 @@
 "moderate-motivation-imi-mangomon":"moderate-motivation-imi-mangomon",
 "moderate-overall-interleaving-effect":"interleaving-improves-inductive-learning",
 "moderated-mediation-anxiety-serial-path":"moderated-mediation-anxiety-serial-path",
+"moderated-mediation-belonging-srl-efficacy":"moderated-mediation-belonging-srl-efficacy",
 "moderated-mediation-conditional-indirect-effect":"moderated-mediation-conditional-indirect-effect",
 "moderated-mediation-curiosity-greater-black-children":"moderated-mediation-curiosity-greater-black-children",
 "moderated-mediation-indirect-effect-conditional-reflective-thinking":"moderated-mediation-indirect-effect-conditional-reflective-thinking",
@@ -278603,6 +279954,7 @@
 "motivation-anxiety-correlate-with-programming-performance":"motivation-anxiety-correlate-with-programming-performance",
 "motivation-associated-better-pronunciation-outcomes":"motivation-associated-better-pronunciation-outcomes",
 "motivation-buy-in-theme-persistence":"motivation-buy-in-theme-persistence",
+"motivation-cognition-relations-similar-across-subjects":"motivation-cognition-relations-similar-across-subjects",
 "motivation-correlates-with-l2-wtc-turkish-efl":"motivation-correlates-with-l2-wtc-turkish-efl",
 "motivation-decline-prevalence-doubles-junior-high":"motivation-decline-prevalence-doubles-junior-high",
 "motivation-group-interaction-attention-adhd":"motivation-group-interaction-attention-adhd",
@@ -278628,6 +279980,11 @@
 "motor-milestones-vary-by-cultural-childcare-practices":"motor-milestones-vary-by-cultural-childcare-practices",
 "motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups":"motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups",
 "move-availability-information-did-not-enhance-water-jug-planning":"move-availability-information-did-not-enhance-water-jug-planning",
+"mpathic-vr-more-positive-attitudes":"mpathic-vr-more-positive-attitudes",
+"mpathic-vr-nonverbal-osce-advantage":"mpathic-vr-nonverbal-osce-advantage",
+"mpathic-vr-osce-composite-transfer":"mpathic-vr-osce-composite-transfer",
+"mpathic-vr-qualitative-experience-themes":"mpathic-vr-qualitative-experience-themes",
+"mpathic-vr-repeat-runthrough-improvement":"mpathic-vr-repeat-runthrough-improvement",
 "mpfc-schema-encoding-predicts-grades":"mpfc-schema-encoding-predicts-grades",
 "mr-reading-correlation-stronger-than-no":"mr-reading-correlation-stronger-than-no",
 "mrbq-factor-correlations-positive":"mrbq-factor-correlations-positive",
@@ -278764,6 +280121,7 @@
 "mutual-enrichment-positionality-work":"mutual-enrichment-positionality-work",
 "mutualism-model-best-fit-vocabulary-reasoning":"mutualism-model-best-fit-vocabulary-reasoning",
 "mvpa-associated-executive-function-adhd-boys":"mvpa-associated-executive-function-adhd-boys",
+"mvpa-correlates-creativity-dimensions":"mvpa-correlates-creativity-dimensions",
 "mvpa-negatively-associated-off-task-carlson":"mvpa-negatively-associated-off-task-carlson",
 "n100-congruency-modulation-sighted-only":"n100-congruency-modulation-sighted-only",
 "n170-peak-latency-delayed-children":"n170-peak-latency-delayed-children",
@@ -279126,6 +280484,7 @@
 "no-effect-high-school-on-track-rates":"no-effect-high-school-on-track-rates",
 "no-effect-retention-special-education-referrals":"no-effect-retention-special-education-referrals",
 "no-efficacy-differences-three-adult-reading-programs":"no-efficacy-differences-three-adult-reading-programs",
+"no-efficacy-moderation-value-path":"no-efficacy-moderation-value-path",
 "no-eligible-crc-studies-identified":"no-eligible-crc-studies-identified",
 "no-evaluation-step-deletion-second-deployment":"no-evaluation-step-deletion-second-deployment",
 "no-evidence-mere-visual-presence-social-cue-hypothesis":"no-evidence-mere-visual-presence-social-cue-hypothesis",
@@ -279333,6 +280692,7 @@
 "noncognitive-factors-related-to-school-performance-farrington-2012":"noncognitive-factors-related-to-school-performance-farrington-2012",
 "noncompleters-want-proactive-return-outreach":"noncompleters-want-proactive-return-outreach",
 "nonexpert-perceived-empathy-unreliable":"nonexpert-perceived-empathy-unreliable",
+"noninstruction-transition-round-robin-consume-31-percent":"noninstruction-transition-round-robin-consume-31-percent",
 "noninstructional-cognitive-behavioral-programs-effective":"noninstructional-cognitive-behavioral-programs-effective",
 "nonjudgmental-ai-tone-risk-taking":"nonjudgmental-ai-tone-risk-taking",
 "nonlinear-grade-progression-visomotor-skills":"nonlinear-grade-progression-visomotor-skills",
@@ -279597,6 +280957,7 @@
 "on-track-relationship-holds-after-background-controls":"on-track-relationship-holds-after-background-controls",
 "one-caring-adult-protective-bond":"one-caring-adult-protective-bond",
 "one-digit-math-association-decreases-with-grade":"one-digit-math-association-decreases-with-grade",
+"one-exposure-context-learning-probability-extrapolation":"one-exposure-context-learning-probability-extrapolation",
 "one-in-six-elementary-teachers-linked-to-untaught-subject":"one-in-six-elementary-teachers-linked-to-untaught-subject",
 "one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data":"one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data",
 "one-of-ten-software-products-significant-positive-effects":"one-of-ten-software-products-significant-positive-effects",
@@ -280048,6 +281409,7 @@
 "pattern-detector-high-precision-low-coverage":"pattern-detector-high-precision-low-coverage",
 "pattern-kc-retrieval-outperforms-baselines":"pattern-kc-retrieval-outperforms-baselines",
 "pattern-plus-llm-fallback-no-gain":"pattern-plus-llm-fallback-no-gain",
+"pavesi-1986-formal-instruction-ahh-attainment":"pavesi-1986-formal-instruction-ahh-attainment",
 "pay-for-performance-implementation-gap-bonus-unawareness":"pay-for-performance-implementation-gap-bonus-unawareness",
 "pay-parity-policies-nonlea-teachers":"pay-parity-policies-nonlea-teachers",
 "pbis-collegial-leadership-fidelity-model":"pbis-collegial-leadership-fidelity-model",
@@ -280170,7 +281532,9 @@
 "peer-pairing-language-behavior-jun-aust":"peer-pairing-language-behavior-jun-aust",
 "peer-pd-reinforces-variability-understanding":"peer-pd-reinforces-variability-understanding",
 "peer-plus-self-assessment-closer-to-teacher":"peer-plus-self-assessment-closer-to-teacher",
+"peer-problems-inverse-correlation-reading-comprehension":"peer-problems-inverse-correlation-reading-comprehension",
 "peer-problems-mediate-adhd-depression-link":"peer-problems-mediate-adhd-depression-link",
+"peer-problems-only-significant-predictor-reading-comprehension":"peer-problems-only-significant-predictor-reading-comprehension",
 "peer-professional-skills-reliability-outcomes":"peer-professional-skills-reliability-outcomes",
 "peer-programs-most-effective-drug-use-prevention":"peer-programs-most-effective-drug-use-prevention",
 "peer-reactions-related-to-mental-health-outcomes":"peer-reactions-related-to-mental-health-outcomes",
@@ -280521,6 +281885,9 @@
 "planning-ai-ideas-redundant-unused":"planning-ai-ideas-redundant-unused",
 "planning-in-test-contexts-mixed-effects":"planning-in-test-contexts-mixed-effects",
 "planning-no-contribution-narrative-composition":"planning-no-contribution-narrative-composition",
+"planning-prompt-effect-larger-traditional-school-students":"planning-prompt-effect-larger-traditional-school-students",
+"planning-prompts-increase-certificate-payment":"planning-prompts-increase-certificate-payment",
+"planning-prompts-increase-mooc-completion":"planning-prompts-increase-mooc-completion",
 "planning-strategic-reflective-higher-think-aloud":"planning-strategic-reflective-higher-think-aloud",
 "planning-timing-no-link-to-instruction-start":"planning-timing-no-link-to-instruction-start",
 "platform-modality-no-relationship-cognitive-engagement":"platform-modality-no-relationship-cognitive-engagement",
@@ -281001,12 +282368,14 @@
 "prior-kipp-research-limited-scope-and-methods":"prior-kipp-research-limited-scope-and-methods",
 "prior-knowledge-activation-little-effect-on-retention":"prior-knowledge-activation-little-effect-on-retention",
 "prior-knowledge-by-worked-example-type-interaction-on-germane-load":"prior-knowledge-by-worked-example-type-interaction-on-germane-load",
+"prior-knowledge-consistency-brain-systems-memory":"prior-knowledge-consistency-brain-systems-memory",
 "prior-knowledge-correlates-very-strongly-with-later-math-achievement":"prior-knowledge-correlates-very-strongly-with-later-math-achievement",
 "prior-knowledge-determines-new-learning":"prior-knowledge-determines-new-learning",
 "prior-knowledge-does-not-predict-kbr":"prior-knowledge-does-not-predict-kbr",
 "prior-knowledge-education-relate-knowledge-categories":"prior-knowledge-education-relate-knowledge-categories",
 "prior-knowledge-impacts-text-understanding":"prior-knowledge-impacts-text-understanding",
 "prior-knowledge-moderates-feeling-of-learning-accuracy":"prior-knowledge-moderates-feeling-of-learning-accuracy",
+"prior-knowledge-moderates-scaffolding-effectiveness":"prior-knowledge-moderates-scaffolding-effectiveness",
 "prior-knowledge-moderates-segmenting-retention":"prior-knowledge-moderates-segmenting-retention",
 "prior-knowledge-moderates-vf-process-vs-pf":"prior-knowledge-moderates-vf-process-vs-pf",
 "prior-knowledge-most-powerful-influence-multimedia-layering":"prior-knowledge-most-powerful-influence-multimedia-layering",
@@ -281282,6 +282651,7 @@
 "prompting-collapses-proficiency-variation-toward-idealized-students":"prompting-collapses-proficiency-variation-toward-idealized-students",
 "prompting-effect-distorts-retrospective-self-reports":"prompting-effect-distorts-retrospective-self-reports",
 "prompting-effort-and-verbose-response-costs":"prompting-effort-and-verbose-response-costs",
+"prompting-improves-inference-performance":"prompting-improves-inference-performance",
 "prompting-lesson-raises-self-efficacy":"prompting-lesson-raises-self-efficacy",
 "prompting-limited-uneven-proficiency-control-writing-simulation":"prompting-limited-uneven-proficiency-control-writing-simulation",
 "prompting-paralysis-and-authority-bias":"prompting-paralysis-and-authority-bias",
@@ -281438,6 +282808,7 @@
 "quadratic-best-fit-restricted-age-range":"quadratic-best-fit-restricted-age-range",
 "quadratic-cubic-trends-improve-linear-model-teacher-behavior":"quadratic-cubic-trends-improve-linear-model-teacher-behavior",
 "quadratic-growth-fits-map-better-than-linear":"quadratic-growth-fits-map-better-than-linear",
+"quail-embryos-multisensory-prenatal-exposure-enhanced-learning":"quail-embryos-multisensory-prenatal-exposure-enhanced-learning",
 "qualitative-distress-companion-loss-emotionally-significant-use":"qualitative-distress-companion-loss-emotionally-significant-use",
 "qualitative-genai-challenges-policy-gap-barrier":"qualitative-genai-challenges-policy-gap-barrier",
 "qualitative-selective-verification-intensive-use":"qualitative-selective-verification-intensive-use",
@@ -281469,6 +282840,7 @@
 "question-part-agreement-partial-credit-limits":"question-part-agreement-partial-credit-limits",
 "question-prompts-improve-learning":"question-prompts-improve-learning",
 "question-quality-limited-first-cycle-outcomes":"question-quality-limited-first-cycle-outcomes",
+"question-quality-not-time-predicts-achievement":"question-quality-not-time-predicts-achievement",
 "question-specificity-classifier-accuracy":"question-specificity-classifier-accuracy",
 "question-specificity-correlates-expected-grade":"question-specificity-correlates-expected-grade",
 "question-specificity-rises-over-socratic-ai-dialogue":"question-specificity-rises-over-socratic-ai-dialogue",
@@ -281476,6 +282848,7 @@
 "questioning-benefit-decays-with-impasse-depth":"questioning-benefit-decays-with-impasse-depth",
 "questioning-habits-internalized-after-ai-removal":"questioning-habits-internalized-after-ai-removal",
 "questioning-strategies-improve-learning":"questioning-strategies-improve-learning",
+"questioning-with-training-beats-rereading":"questioning-with-training-beats-rereading",
 "questionnaire-constructs-internal-consistency":"questionnaire-constructs-internal-consistency",
 "questionnaire-measures-poor-fit-young-children":"questionnaire-measures-poor-fit-young-children",
 "quiz-accuracy-declines-after-one-week-delay":"quiz-accuracy-declines-after-one-week-delay",
@@ -281893,6 +283266,7 @@
 "regulation-skills-can-be-taught":"regulation-skills-can-be-taught",
 "regulation-strategic-reflective-higher-interaction-log":"regulation-strategic-reflective-higher-interaction-log",
 "regulatory-absence-competency-gaps-top-barriers-managers":"regulatory-absence-competency-gaps-top-barriers-managers",
+"regulatory-strategy-use-and-grades-stable-across-subjects":"regulatory-strategy-use-and-grades-stable-across-subjects",
 "rehearsal-account-inconsistent-with-developmental-spacing-pattern":"rehearsal-account-inconsistent-with-developmental-spacing-pattern",
 "rejected-children-less-responsive-communication":"rejected-children-less-responsive-communication",
 "rejected-neglected-lower-communicative-competence":"rejected-neglected-lower-communicative-competence",
@@ -282505,6 +283879,7 @@
 "scaffolded-strategy-talk-repurposed-critical-evaluation":"scaffolded-strategy-talk-repurposed-critical-evaluation",
 "scaffolded-support-constructive-participation":"scaffolded-support-constructive-participation",
 "scaffolded-task-progression-diagnostic-shift":"scaffolded-task-progression-diagnostic-shift",
+"scaffolding-added-value-partly-supported":"scaffolding-added-value-partly-supported",
 "scaffolding-associated-with-next-student-move":"scaffolding-associated-with-next-student-move",
 "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states":"scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
 "scaffolding-balance-confusion-versus-critical-thinking":"scaffolding-balance-confusion-versus-critical-thinking",
@@ -282538,6 +283913,7 @@
 "schema-related-facts-better-remembered":"schema-related-facts-better-remembered",
 "schematic-realism-larger-game-effects":"schematic-visuals-outperform-realistic",
 "schematic-visuals-outperform-realistic":"schematic-visuals-outperform-realistic",
+"schizophrenia-reduced-audiovisual-benefit-temporal-acuity":"schizophrenia-reduced-audiovisual-benefit-temporal-acuity",
 "school-absence-variation-net-of-students-neighborhoods":"school-absence-variation-net-of-students-neighborhoods",
 "school-accountability-multiple-constituencies":"school-accountability-multiple-constituencies",
 "school-as-performance-unit-lower-error-rates":"school-as-performance-unit-lower-error-rates",
@@ -282699,6 +284075,7 @@
 "screening-language-tied-to-ele-program-type":"screening-language-tied-to-ele-program-type",
 "screening-predictive-value-varies-15-69-percent":"screening-predictive-value-varies-15-69-percent",
 "screening-without-followup-insufficient":"screening-without-followup-insufficient",
+"script-level-moderator-not-significant":"script-level-moderator-not-significant",
 "script-research-platform-data-collection":"script-research-platform-data-collection",
 "scripted-interaction-eliminates-observer-drift":"scripted-interaction-eliminates-observer-drift",
 "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains":"scripted-personal-inquiry-associated-with-inquiry-knowledge-gains",
@@ -282908,6 +284285,7 @@
 "self-disclosure-mediation-regional-differences":"self-disclosure-mediation-regional-differences",
 "self-discovery-incompatible-with-error-minimization":"self-discovery-incompatible-with-error-minimization",
 "self-efficacy-accuracy-lower-in-learning-settings":"self-efficacy-accuracy-lower-in-learning-settings",
+"self-efficacy-and-test-anxiety-predict-performance":"self-efficacy-and-test-anxiety-predict-performance",
 "self-efficacy-associated-graduation-and-math":"self-efficacy-associated-graduation-and-math",
 "self-efficacy-change-correlates-vds-change":"self-efficacy-change-correlates-vds-change",
 "self-efficacy-correlates-conceptual-understanding":"self-efficacy-correlates-conceptual-understanding",
@@ -282979,6 +284357,7 @@
 "self-monitoring-improves-self-regulation":"self-monitoring-improves-self-regulation",
 "self-monitoring-strong-effects-asd-tau-u-083":"self-monitoring-strong-effects-asd-tau-u-083",
 "self-paced-mastery-programs-reduce-college-course-completion":"self-paced-mastery-programs-reduce-college-course-completion",
+"self-questioning-benefits-low-verbal-ability-more":"self-questioning-benefits-low-verbal-ability-more",
 "self-questioning-improves-comprehension":"self-questioning-improves-comprehension",
 "self-rated-general-anxiety-not-related-to-math":"self-rated-general-anxiety-not-related-to-math",
 "self-recorded-reading-playback-improved-accuracy-case":"self-recorded-reading-playback-improved-accuracy-case",
@@ -283278,8 +284657,10 @@
 "simulation-ai-assisted-students-score-increase":"simulation-ai-assisted-students-score-increase",
 "simulation-based-education-improves-outcomes":"simulation-based-education-improves-outcomes",
 "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes":"simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+"simulation-based-learning-large-positive-effect-complex-skills":"simulation-based-learning-large-positive-effect-complex-skills",
 "simulation-comparability-60-items-1200-simulees":"simulation-comparability-60-items-1200-simulees",
 "simulation-content-shifts-curiosity-categories":"simulation-content-shifts-curiosity-categories",
+"simulation-effects-vary-by-complex-skill":"simulation-effects-vary-by-complex-skill",
 "simulation-games-as-supplement-not-standalone":"simulation-games-as-supplement-not-standalone",
 "simulation-games-effective-when-instruction-active":"simulation-games-effective-when-instruction-active",
 "simulation-games-higher-skill-based-knowledge":"simulation-games-higher-skill-based-knowledge",
@@ -283291,6 +284672,7 @@
 "simulation-quality-correlates-with-cognitive-ability":"simulation-quality-correlates-with-cognitive-ability",
 "simulation-shows-adaptation-measures-identify-difficulties":"simulation-shows-adaptation-measures-identify-difficulties",
 "simulation-task-difficulty-ai-quality-set-overreliance-baseline":"simulation-task-difficulty-ai-quality-set-overreliance-baseline",
+"simulation-type-moderates-effectiveness":"simulation-type-moderates-effectiveness",
 "simulations-adaptive-feedback-support-engagement":"simulations-adaptive-feedback-support-engagement",
 "simultaneous-alerts-prompt-collective-branching":"simultaneous-alerts-prompt-collective-branching",
 "simultaneous-sequential-vocabulary-differences":"simultaneous-sequential-vocabulary-differences",
@@ -283375,6 +284757,7 @@
 "skipping-decisions-diverge-from-computer":"skipping-decisions-diverge-from-computer",
 "skipping-feedback-fixed-time-improves-recall":"skipping-feedback-fixed-time-improves-recall",
 "skipping-permits-more-retrieval-attempts":"skipping-permits-more-retrieval-attempts",
+"sl-instruction-effective-relativization-rate":"sl-instruction-effective-relativization-rate",
 "slam-relationship-quality-correlates-civic-action":"slam-relationship-quality-correlates-civic-action",
 "sld-anticipates-start-but-not-stop-in-mdc-hard-numbers":"sld-anticipates-start-but-not-stop-in-mdc-hard-numbers",
 "sld-math-weakest-persona-profile":"sld-math-weakest-persona-profile",
@@ -283387,6 +284770,7 @@
 "sleep-class-emotion-regulation-assertiveness":"sleep-class-emotion-regulation-assertiveness",
 "sleep-class-expressive-vocabulary-advantage":"sleep-class-expressive-vocabulary-advantage",
 "sleep-cognitive-development-mixed-early-years":"sleep-cognitive-development-mixed-early-years",
+"sleep-consolidation-semantic-memory-school-start-times":"sleep-consolidation-semantic-memory-school-start-times",
 "sleep-deprivation-impairst-astronaut-performance":"sleep-deprivation-impairst-astronaut-performance",
 "sleep-disturbance-correlated-all-three-ef-components":"sleep-disturbance-correlated-all-three-ef-components",
 "sleep-education-improves-academic-performance":"sleep-education-improves-academic-performance",
@@ -283406,6 +284790,7 @@
 "sleep-restriction-lowers-simulated-classroom-quiz-scores":"sleep-restriction-lowers-simulated-classroom-quiz-scores",
 "sleep-restriction-lowers-tonic-arousal-classroom":"sleep-restriction-lowers-tonic-arousal-classroom",
 "sleepy-behaviors-nonsignificant-medium-effects":"sleepy-behaviors-nonsignificant-medium-effects",
+"sli-reduced-audiovisual-speech-attention-integration":"sli-reduced-audiovisual-speech-attention-integration",
 "slide-image-override-corpus-grounding-recovery":"slide-image-override-corpus-grounding-recovery",
 "slider-extremes-support-qualitative-comparisons":"slider-extremes-support-qualitative-comparisons",
 "sliding-window-controls-document-length-effects":"sliding-window-controls-document-length-effects",
@@ -283440,6 +284825,7 @@
 "small-group-language-instruction-larger-effects":"small-group-language-instruction-larger-effects",
 "small-group-learning-improves-stem-achievement":"small-group-learning-improves-stem-achievement",
 "small-labeled-data-plateaus-evaluator":"small-labeled-data-plateaus-evaluator",
+"small-nonrandom-sample-limits-generalizability":"small-nonrandom-sample-limits-generalizability",
 "small-pdsa-cycles-narrow-first-problem":"small-pdsa-cycles-narrow-first-problem",
 "small-presentation-changes-large-participation-impact":"small-presentation-changes-large-participation-impact",
 "small-presentation-groups-make-learning-visible":"small-presentation-groups-make-learning-visible",
@@ -283521,6 +284907,7 @@
 "social-skills-perseverance-declined-pandemic":"social-skills-perseverance-declined-pandemic",
 "social-skills-training-no-discernible-cognition-effects":"social-skills-training-no-discernible-cognition-effects",
 "social-skills-training-positive-social-emotional-effects-preschool-disabilities":"social-skills-training-positive-social-emotional-effects-preschool-disabilities",
+"social-studies-little-preparation-fact-questions":"social-studies-little-preparation-fact-questions",
 "social-support-no-buffer-depression":"social-support-no-buffer-depression",
 "social-support-partial-mediator-empathy-prosocial":"social-support-partial-mediator-empathy-prosocial",
 "social-support-positive-achievement-gains-chicago":"social-support-positive-achievement-gains-chicago",
@@ -283783,6 +285170,7 @@
 "srl-moderates-cognitive-load-critical-thinking":"srl-moderates-cognitive-load-critical-thinking",
 "srl-moderates-indirect-ai-effect":"srl-moderates-indirect-ai-effect",
 "srl-partial-mediation-achievement-higher-ed":"srl-partial-mediation-achievement-higher-ed",
+"srl-partially-mediates-identity-mastery":"srl-partially-mediates-identity-mastery",
 "srl-scaffolds-positive-effect-academic-performance":"srl-scaffolds-positive-effect-academic-performance",
 "srl-strategies-associated-lower-digital-distraction":"srl-strategies-associated-lower-digital-distraction",
 "srl-strategies-large-effect-academic-achievement":"srl-strategies-large-effect-academic-achievement",
@@ -283976,7 +285364,9 @@
 "step-linked-visualization-externalizes-reasoning":"step-linked-visualization-externalizes-reasoning",
 "stepwise-conflict-guidance-reduces-idea-addition":"stepwise-conflict-guidance-reduces-idea-addition",
 "stereotype-creates-gender-gap-cs-activity-study4":"stereotype-creates-gender-gap-cs-activity-study4",
+"stereotype-endorsement-lowers-self-concept-high-centrality-study1":"stereotype-endorsement-lowers-self-concept-high-centrality-study1",
 "stereotype-label-causes-lower-girls-interest-novel-activity":"stereotype-label-causes-lower-girls-interest-novel-activity",
+"stereotype-self-concept-replication-study2":"stereotype-self-concept-replication-study2",
 "stereotype-threat-athletic-task-white-men":"stereotype-threat-athletic-task-white-men",
 "stereotype-threat-compromises-performance":"stereotype-threat-compromises-performance",
 "stereotype-threat-partly-explains-ses-achievement-gap":"stereotype-threat-partly-explains-ses-achievement-gap",
@@ -284254,6 +285644,7 @@
 "students-discomfort-legendre-transform-general-tool":"students-discomfort-legendre-transform-general-tool",
 "students-dissatisfied-with-college-websites":"students-dissatisfied-with-college-websites",
 "students-endorse-descriptive-predictive-prescriptive-data-points":"students-endorse-descriptive-predictive-prescriptive-data-points",
+"students-endorse-traditional-stereotype-high-self-concept":"students-endorse-traditional-stereotype-high-self-concept",
 "students-engage-positively-with-ai-feedback":"students-engage-positively-with-ai-feedback",
 "students-exceeded-teacher-gas-expectations":"students-exceeded-teacher-gas-expectations",
 "students-exemplified-clues-orally":"students-exemplified-clues-orally",
@@ -284787,7 +286178,9 @@
 "task-type-moderates-induction-error-usefulness":"task-type-moderates-induction-error-usefulness",
 "task-type-moderates-reward-effect-on-inhibitory-control":"task-type-moderates-reward-effect-on-inhibitory-control",
 "task-type-strong-determinant-robot-trust":"task-type-strong-determinant-robot-trust",
+"task-value-higher-mathematics-both-genders":"task-value-higher-mathematics-both-genders",
 "task-value-increases-motivation-and-engagement":"task-value-increases-motivation-and-engagement",
+"task-value-predicts-strategy-use-not-grades":"task-value-predicts-strategy-use-not-grades",
 "task-variety-enables-transfer-same-task-type":"task-variety-enables-transfer-same-task-type",
 "taught-domain-instruction-improves-taught-domain":"taught-domain-instruction-improves-taught-domain",
 "taxonomy-applied-salzburg-student-ratings":"taxonomy-applied-salzburg-student-ratings",
@@ -285134,6 +286527,7 @@
 "technology-stories-no-code-related-literacy-effect":"technology-stories-no-code-related-literacy-effect",
 "technology-stories-no-engagement-effect":"technology-stories-no-engagement-effect",
 "technology-stories-no-receptive-vocabulary-effect":"technology-stories-no-receptive-vocabulary-effect",
+"technology-support-associated-with-greater-effects":"technology-support-associated-with-greater-effects",
 "technology-training-spending-inadequate":"technology-training-spending-inadequate",
 "tecta-credential-attainment-concentrated-below-bachelors":"tecta-credential-attainment-concentrated-below-bachelors",
 "tecta-support-network-enabled-degree-access":"tecta-support-network-enabled-degree-access",
@@ -285184,6 +286578,7 @@
 "terminology-and-data-sharing-barriers-hmy":"terminology-and-data-sharing-barriers-hmy",
 "terracotta-retrieval-practice-outperforms-restudy":"terracotta-retrieval-practice-outperforms-restudy",
 "test-anxiety-negative-exam-performance":"test-anxiety-negative-exam-performance",
+"test-anxiety-varies-by-subject-and-gender":"test-anxiety-varies-by-subject-and-gender",
 "test-based-accountability-pressured-annenberg-network-schools":"test-based-accountability-pressured-annenberg-network-schools",
 "test-based-teacher-effectiveness-unreliable":"test-based-teacher-effectiveness-unreliable",
 "test-case-feedback-effects-depend-on-validity":"test-case-feedback-effects-depend-on-validity",
@@ -285421,6 +286816,7 @@
 "time-biggest-barrier-strategy-implementation":"time-biggest-barrier-strategy-implementation",
 "time-by-group-interaction-problem-solving-plan":"time-by-group-interaction-problem-solving-plan",
 "time-distribution-differences-trace-vs-thinkaloud":"time-distribution-differences-trace-vs-thinkaloud",
+"time-focused-plans-forecast-lower-mooc-completion":"time-focused-plans-forecast-lower-mooc-completion",
 "time-matched-unlock-does-not-reproduce-engagement-state":"time-matched-unlock-does-not-reproduce-engagement-state",
 "time-of-day-and-scan-interval-predict-within-person-brain-volume-variance":"time-of-day-and-scan-interval-predict-within-person-brain-volume-variance",
 "time-on-difficult-items-correlates-motivation-self-efficacy":"time-on-difficult-items-correlates-motivation-self-efficacy",
@@ -285598,6 +286994,7 @@
 "trajectory-groups-differ-school-demographics":"trajectory-groups-differ-school-demographics",
 "trajectory-similarity-dominates-wd-pair-overlap":"trajectory-similarity-dominates-wd-pair-overlap",
 "transactional-competence-sociometric-relation":"transactional-competence-sociometric-relation",
+"transactivity-moderator-not-significant":"transactivity-moderator-not-significant",
 "transcoding-in-symbolic-approximate-addition":"transcoding-in-symbolic-approximate-addition",
 "transcript-grades-blurred-currency":"transcript-grades-blurred-currency",
 "transcript-integration-inaccuracies-pervasive":"transcript-integration-inaccuracies-pervasive",
@@ -285642,6 +287039,7 @@
 "trauma-memory-deficits-not-secondary-to-illness":"trauma-memory-deficits-not-secondary-to-illness",
 "trauma-memory-specific-deficit":"trauma-memory-specific-deficit",
 "trc-spanish-least-correlated-with-other-assessments":"trc-spanish-least-correlated-with-other-assessments",
+"treatment-ability-interaction-middle-group-excluded":"treatment-ability-interaction-middle-group-excluded",
 "treatment-amenability-subscales-null-manova":"treatment-amenability-subscales-null-manova",
 "treatment-classrooms-less-disruptive-than-control":"universal-classroom-management-reduces-problem-behavior",
 "treatment-condition-arousal-decrease":"treatment-condition-arousal-decrease",
@@ -286163,6 +287561,9 @@
 "viewing-full-length-tv-incidental-vocabulary-learning":"viewing-full-length-tv-incidental-vocabulary-learning",
 "viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness":"viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness",
 "viewpoint-aware-spatial-reasoning-bottleneck":"viewpoint-aware-spatial-reasoning-bottleneck",
+"vigorous-activity-correlates-divergent-thinking":"vigorous-activity-correlates-divergent-thinking",
+"vigorous-activity-predicts-o-flu-fle-not-ela":"vigorous-activity-predicts-o-flu-fle-not-ela",
+"vigorous-activity-regression-creativity-variance":"vigorous-activity-regression-creativity-variance",
 "vils-career-advancement-survey-majorities":"vils-career-advancement-survey-majorities",
 "vils-coach-time-associated-better-teaching-outcomes":"vils-coach-time-associated-better-teaching-outcomes",
 "vils-coaches-71-percent-improved-job-satisfaction":"vils-coaches-71-percent-improved-job-satisfaction",
@@ -286242,14 +287643,17 @@
 "vocabulary-instruction-no-generalization":"vocabulary-instruction-no-generalization",
 "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts":"vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts",
 "vocabulary-mediates-self-efficacy-listening-comprehension":"vocabulary-mediates-self-efficacy-listening-comprehension",
+"vocabulary-mediation-working-memory-inference":"vocabulary-mediation-working-memory-inference",
 "vocabulary-not-related-to-phonological-awareness-growth":"vocabulary-not-related-to-phonological-awareness-growth",
 "vocabulary-not-uniquely-related-to-written-composition":"vocabulary-not-uniquely-related-to-written-composition",
+"vocabulary-only-unique-predictor-global-coherence-all-ages":"vocabulary-only-unique-predictor-global-coherence-all-ages",
 "vocabulary-poorer-in-weaker-language":"vocabulary-poorer-in-weaker-language",
 "vocabulary-positively-associated-listening-comprehension-upper-elementary":"vocabulary-positively-associated-listening-comprehension-upper-elementary",
 "vocabulary-predicts-executive-loaded-nvwm":"vocabulary-predicts-executive-loaded-nvwm",
 "vocabulary-predicts-knower-level-beyond-age-hierarchical-regression":"vocabulary-predicts-knower-level-beyond-age-hierarchical-regression",
 "vocabulary-programs-insufficient-to-close-vocabulary-gap":"vocabulary-programs-insufficient-to-close-vocabulary-gap",
 "vocabulary-size-predicts-syntactic-growth-19-30-months":"vocabulary-size-predicts-syntactic-growth-19-30-months",
+"vocabulary-unique-predictor-local-coherence-younger-children":"vocabulary-unique-predictor-local-coherence-younger-children",
 "vocabulary-uniquely-related-word-reading-spelling-kindergarten":"vocabulary-uniquely-related-word-reading-spelling-kindergarten",
 "vocal-emotion-confusion-patterns-development":"vocal-emotion-confusion-patterns-development",
 "vocal-emotion-recognition-improves-age-5-17":"vocal-emotion-recognition-improves-age-5-17",
@@ -286273,6 +287677,20 @@
 "voyager-potentially-negative-comprehension":"voyager-potentially-negative-comprehension",
 "voyager-potentially-positive-alphabetics":"voyager-potentially-positive-alphabetics",
 "voyager-study-average-effect-sizes-differ":"voyager-study-average-effect-sizes-differ",
+"vp-blended-knowledge-advantage":"vp-blended-knowledge-advantage",
+"vp-blended-knowledge-moderate-effect":"vp-blended-knowledge-moderate-effect",
+"vp-blended-skills-mixed":"vp-blended-skills-mixed",
+"vp-blended-skills-pooled-nonsignificant":"vp-blended-skills-pooled-nonsignificant",
+"vp-design-variants-mostly-null":"vp-design-variants-mostly-null",
+"vp-effectiveness-global-applicability":"vp-effectiveness-global-applicability",
+"vp-passive-versus-active-comparison":"vp-passive-versus-active-comparison",
+"vp-passive-vs-active-comparison":"vp-passive-vs-active-comparison",
+"vp-satisfaction-generally-positive":"vp-satisfaction-generally-positive",
+"vp-traditional-knowledge-no-difference":"vp-traditional-knowledge-no-difference",
+"vp-traditional-skills-advantage":"vp-traditional-skills-advantage",
+"vp-vs-other-digital-no-difference":"vp-vs-other-digital-no-difference",
+"vp-vs-traditional-knowledge-no-difference":"vp-vs-traditional-knowledge-no-difference",
+"vp-vs-traditional-skills-favored":"vp-vs-traditional-skills-favored",
 "vplc-assistments-low-performing-significant-gain":"vplc-assistments-low-performing-significant-gain",
 "vplc-assistments-no-significant-overall-effect":"vplc-assistments-no-significant-overall-effect",
 "vplc-assistments-rural-subgroup-effects":"vplc-assistments-rural-subgroup-effects",
@@ -288752,6 +290170,7 @@
 "pattern":{
 "4cid":"4cid-four-component-instructional-design",
 "4cid-four-component-instructional-design":"4cid-four-component-instructional-design",
+"ai-tutoring":"ai-tutoring",
 "anchored-instruction":"anchored-instruction",
 "authentic-assessment":"authentic-assessment",
 "balanced-pronunciation-curriculum-three-areas":"balanced-pronunciation-curriculum-three-areas",
@@ -288814,6 +290233,7 @@
 "massive-open-online-course":"massive-open-online-course",
 "mastery-learning":"mastery-learning",
 "mastery-learning-formative-corrective-cycle":"mastery-learning",
+"mentor-support-in-self-paced-online-learning":"mentor-support-in-self-paced-online-learning",
 "merrill-demonstration-application-integration-corollaries":"merrill-demonstration-application-integration-corollaries",
 "merrills-first-principles":"4cid-four-component-instructional-design",
 "merrills-first-principles-of-instruction":"4cid-four-component-instructional-design",
@@ -288827,6 +290247,7 @@
 "plc-facets-catalyze-scholarship-epistemology":"fostering-communities-of-learning-fcl",
 "pogil":"process-oriented-guided-inquiry-learning-pogil",
 "positive-behavioral-interventions-and-supports":"positive-behavioral-interventions-and-supports",
+"practice-with-simulated-people":"practice-with-simulated-people",
 "pre-visit-onsite-post-visit-field-trip-arc":"experiential-learning-cycle",
 "problem-based-learning":"problem-based-learning",
 "problem-based-learning-pbl":"problem-based-learning",
@@ -291527,6 +292948,7 @@
 "adaptive-speed-of-processing-training-protocol":"adaptive-speed-of-processing-training-protocol",
 "adaptive-strategy-prompt-injection-rules":"adaptive-strategy-prompt-injection-rules",
 "adaptive-teachable-agents-sustained-knowledge-building":"adaptive-teachable-agents-sustained-knowledge-building",
+"adaptively-administer-trialogue-designs-by-learner-knowledge":"adaptively-administer-trialogue-designs-by-learner-knowledge",
 "add-aspiration-questions-to-climate-surveys":"add-aspiration-questions-to-climate-surveys",
 "add-cartoon-visuals-to-vocabulary-error-instruction":"add-cartoon-visuals-to-vocabulary-error-instruction",
 "add-enjoyment-elements-to-gamified-language-apps":"add-enjoyment-elements-to-gamified-language-apps",
@@ -291770,6 +293192,7 @@
 "assess-adjust-sample-population-differences":"assess-adjust-sample-population-differences",
 "assess-and-group-for-phonological-awareness":"assess-and-group-for-phonological-awareness",
 "assess-concerns-three-methods":"assess-concerns-three-methods",
+"assess-creativity-as-compensatory-strength-adhd":"assess-creativity-as-compensatory-strength-adhd",
 "assess-disruption-reclamation-adaptability":"assess-disruption-reclamation-adaptability",
 "assess-district-capacity-early-implementers":"assess-district-capacity-early-implementers",
 "assess-language-history-context-modulators":"assess-language-history-context-modulators",
@@ -292693,6 +294116,7 @@
 "curriculum-aligned-tls-design-recipe":"curriculum-aligned-tls-design-recipe",
 "curriculum-attention-academic-vocabulary-verbal-reasoning-upper-grades":"curriculum-attention-academic-vocabulary-verbal-reasoning-upper-grades",
 "curriculum-based-measurement":"curriculum-based-measurement",
+"curriculum-featuring-african-american-contributions-and-role-models":"curriculum-featuring-african-american-contributions-and-role-models",
 "curriculum-mapping-by-grading-periods":"curriculum-mapping-by-grading-periods",
 "curriculum-reiteration-one-step-forward-two-steps-back":"curriculum-reiteration-one-step-forward-two-steps-back",
 "curriculum-sequencing-human-translation-before-ai-workflows":"curriculum-sequencing-human-translation-before-ai-workflows",
@@ -294709,6 +296133,7 @@
 "magnetic-reading-professional-learning-strategy":"magnetic-reading-professional-learning-strategy",
 "magnetism_investigations":"magnetism_investigations",
 "mail-personalized-absence-reports-parents":"mail-personalized-absence-reports-parents",
+"main-idea-question-generation-training-steps":"main-idea-question-generation-training-steps",
 "mainstream-nature-based-pedagogy-strategy":"mainstream-nature-based-pedagogy-strategy",
 "maintain_optimal_classroom_temperature":"maintain_optimal_classroom_temperature",
 "maintain_presence_for_students":"maintain_presence_for_students",
@@ -295066,6 +296491,7 @@
 "multisensory-phonics-instruction":"multisensory-phonics-instruction",
 "multisensory-pronunciation-comprehension-exercises":"multisensory-pronunciation-comprehension-exercises",
 "multisensory-teaching":"multisensory-teaching",
+"multisensory-training-remediation-strategy":"multisensory-training-remediation-strategy",
 "multisensory_instruction":"multisensory_instruction",
 "multisensory_memory_strategies_for_irregular_words":"multisensory_memory_strategies_for_irregular_words",
 "multisensory_phonics_instruction":"multisensory-phonics-instruction",
@@ -295374,6 +296800,7 @@
 "peer-review-peer-editing":"peer-review-peer-editing",
 "peer-review-protocols":"peer-review-protocols",
 "peer-teaching":"peer-teaching",
+"peer-to-peer-reading-interventions-social-skills":"peer-to-peer-reading-interventions-social-skills",
 "peer-tutoring":"peer-tutoring",
 "peer-tutoring-after-fading-strategy":"peer-tutoring-after-fading-strategy",
 "peer-tutoring-future-research-directions":"peer-tutoring-future-research-directions",
@@ -295468,6 +296895,7 @@
 "place-train-additional-data-staff":"place-train-additional-data-staff",
 "plan-2006-six-didactic-orientations":"plan-2006-six-didactic-orientations",
 "plan-build-implement-pathways-design-process":"plan-build-implement-pathways-design-process",
+"plan-content-early-warning-strategy":"plan-content-early-warning-strategy",
 "plan-engagement-objectives-questions-type-pilot":"plan-engagement-objectives-questions-type-pilot",
 "plan-for-device-delays-and-longer-engagement":"plan-for-device-delays-and-longer-engagement",
 "plan-neighborhood-school-support-for-shifting-enrollment":"plan-neighborhood-school-support-for-shifting-enrollment",
@@ -295764,6 +297192,7 @@
 "prompt-engineering-training-before-gen-ai-self-study":"prompt-engineering-training-before-gen-ai-self-study",
 "prompt-learners-to-continue-leveling-up":"prompt-learners-to-continue-leveling-up",
 "prompt-learners-to-self-explain-during-study":"prompt-learners-to-self-explain-during-study",
+"prompt-underspecified-inference-responses":"prompt-underspecified-inference-responses",
 "prompt_cards_for_emotional_regulation":"prompt_cards_for_emotional_regulation",
 "prompted_source_evaluation":"prompted_source_evaluation",
 "prompting-as-complementary-cs-entry-pathway":"prompting-as-complementary-cs-entry-pathway",
@@ -296038,6 +297467,7 @@
 "relational-ai-literacy-cultivation-strategy":"relational-ai-literacy-cultivation-strategy",
 "relational-buy-in-strategies-restorative-implementation":"relational-buy-in-strategies-restorative-implementation",
 "relational-feedback-email-design-strategy":"relational-feedback-email-design-strategy",
+"relational-resources-low-efficacy-students":"relational-resources-low-efficacy-students",
 "relational-translator-design-strategy":"relational-translator-design-strategy",
 "relationship-building":"relationship-building",
 "relationship_skills_identification_and_support":"relationship_skills_identification_and_support",
@@ -297643,6 +299073,7 @@
 "vif-based-indicator-selection-formative-measures":"vif-based-indicator-selection-formative-measures",
 "vils-coach-training-support-system":"vils-coach-training-support-system",
 "virtual-engagement-sustain-apprenticeship-systems":"virtual-engagement-sustain-apprenticeship-systems",
+"virtual-humans-standardized-communication-practice":"virtual-humans-standardized-communication-practice",
 "virtual-reality-immersive-training":"virtual-reality-immersive-training",
 "virtual-reality-simulations":"virtual-reality-simulations",
 "virtual-reality-training":"virtual-reality-immersive-training",
@@ -297681,6 +299112,7 @@
 "voluntary-statewide-climate-survey-tracking":"voluntary-statewide-climate-survey-tracking",
 "volunteer-faculty-recruitment-modeling-practice":"volunteer-faculty-recruitment-modeling-practice",
 "volunteers-first-small-wins-sustainability":"volunteers-first-small-wins-sustainability",
+"vp-replace-passive-before-bedside-strategy":"vp-replace-passive-before-bedside-strategy",
 "vplc-replaces-in-person-coaching-for-scale":"vplc-replaces-in-person-coaching-for-scale",
 "vr-ar-k12-stem-six-research-agendas":"vr-ar-k12-stem-six-research-agendas",
 "wait-time":"wait-time",

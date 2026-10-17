@@ -44,3 +44,4 @@ A 3x2 repeated measures ANOVA on in-scanner reaction time found significant main
 - [Group differences in activation are more extensive when behavioral performance is equated across groups, indicating they are not a consequence of worse performance](performance-equated-activation-differences-persist.md) — related
 - [In-scanner sentence judgment accuracy declines with faster word presentation rates, and dyslexic readers' accuracy declines disproportionately across rates](presentation-rate-accuracy-decline-dyslexia-disproportionate.md) — related
 - [Typical readers show significantly greater rate-related activation gains than dyslexic readers in left prefrontal and left superior temporal regions](typical-readers-greater-rate-activation-gains-left-frontotemporal.md) — related
+- [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](dyslexia-audiovisual-integration-impairments.md) — related

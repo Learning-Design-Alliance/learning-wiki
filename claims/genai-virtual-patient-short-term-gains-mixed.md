@@ -78,3 +78,4 @@ The review reports countervailing findings in the same category, including that 
 - [Overall 3E, Empower, and Empathize scores were higher in the second AI-patient encounter, but the uncontrolled design precludes attributing this to training](session2-3e-scores-higher-uncontrolled.md) — a narrower finding that bears on this claim
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — a broader claim this one bears on
+- [Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions](vp-design-variants-mostly-null.md) — related

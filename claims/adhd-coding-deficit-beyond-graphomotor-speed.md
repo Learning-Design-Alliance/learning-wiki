@@ -47,3 +47,4 @@ In a cross-sectional comparison of 41 children with ADHD and 21 controls (ages 9
 - [PoorAF and control children do not differ in perceptual processing speed](pooraf-no-perceptual-speed-deficit.md) — related
 - [Children with ADHD show lower oral contextual and non-contextual reading fluency than controls despite intact word reading](adhd-reduced-oral-reading-fluency.md) — related
 - [Children with ADHD exhibit significantly lower visual-motor integration and math and written language achievement than Non-ADHD peers, but intact visual perception and reading](adhd-lower-vmi-intact-visual-perception.md) — related
+- [Children with ADHD show significantly lower learning ability scores than control children](adhd-lower-learning-ability-scores-than-controls.md) — related

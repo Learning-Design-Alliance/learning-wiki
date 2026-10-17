@@ -91,3 +91,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — related
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
+- [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related

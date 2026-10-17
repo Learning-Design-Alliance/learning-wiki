@@ -43,4 +43,4 @@ The review reports, citing Graesser et al. (2007), that "AutoTutor improves lear
 
 
 ## Related Claims
--
+- [AutoTutor yields average learning gains of 0.3 to 0.8 sigma compared to reading text for an equivalent amount of time](autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading.md) — related

@@ -62,4 +62,4 @@ One-way ANOVAs on polysomnographic parameters (Table 3, e.g. sleep latency P = 0
 
 
 ## Related Claims
--
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related

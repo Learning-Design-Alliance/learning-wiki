@@ -53,3 +53,4 @@ The brief reports this developmental neuroscience finding as background from res
 - A second wave of brain development, including experience-dependent synaptic pruning, occurs during adolescence from roughly age 11 or 12 through approximately 24 — related
 - [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — a narrower finding that bears on this claim
+- [Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge](prior-knowledge-consistency-brain-systems-memory.md) — related

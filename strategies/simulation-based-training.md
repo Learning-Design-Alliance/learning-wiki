@@ -68,6 +68,7 @@ Simulation works because it compresses experience: learners encounter rare, high
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](simulated-class-deliberate-practice-late-placement.md)
 - [Use simulated task environments for learning tasks so multimedia principles support inductive learning](simulated-task-environments-inductive-learning-strategy.md)
+- [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 
 ## Examples
 - **Flight simulation (aviation)** — Full-motion simulators with standardized proficiency checks are the canonical case; airline pilots log most initial type-rating hours in simulation before touching the aircraft.

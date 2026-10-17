@@ -65,3 +65,4 @@ Experiment 2 (94 introductory psychology students, two dropped) replicated the i
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — a broader claim this one bears on
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related

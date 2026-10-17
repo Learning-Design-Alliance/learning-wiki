@@ -83,3 +83,4 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [Instructed learners outperform all other condition groups in learning simple second language rules](instructed-learners-outperform-others-simple-rules.md) — reports the opposite
 - [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — reports the opposite
 - [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — related
+- [Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input](attention-to-form-rule-vs-highlighting-comprehension.md) — a narrower finding that bears on this claim

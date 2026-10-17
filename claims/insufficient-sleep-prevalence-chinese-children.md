@@ -47,3 +47,4 @@ Cross-sectional survey of 20,778 children in eight Chinese cities; sleep duratio
 - [In the intervention trial, short sleep prevalence fell sharply in delayed-start schools (intervention 2: 40.47% to 11.87%) while sufficient-sleep prevalence remained low overall](delayed-start-reduced-short-sleep-prevalence.md) — related
 - [Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years](delayed-school-start-time-increases-sleep-duration.md) — related
 - [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md) — related
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related

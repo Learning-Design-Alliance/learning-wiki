@@ -49,3 +49,4 @@ Bivariate correlational analysis among 74 adults with ASD linking the processing
 - [Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures](asd-adults-processing-speed-composite-deficit.md) — related
 - [The processing speed deficit in adults with ASD appears on each of the three standardized subtests: Trail Making A, Symbol Coding, and Category Fluency](asd-processing-speed-deficit-all-three-subtests.md) — related
 - [Processing speed in adults with ASD shows no significant association with SAS-II social adjustment, and only a near-significant positive association with GAF functioning](processing-speed-not-associated-with-sas-social-adjustment.md) — related
+- [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](autism-temporal-precision-links-language-symptoms.md) — related

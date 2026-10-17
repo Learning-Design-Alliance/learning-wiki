@@ -57,3 +57,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](motivation-anxiety-correlate-with-programming-performance.md) — related
 - The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related
+- [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related

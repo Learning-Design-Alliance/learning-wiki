@@ -50,3 +50,4 @@ The review attributes this to a pilot randomized study by Gutierrez et al. (2023
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related
 - [Example-problem sequences reduce cognitive load and improve learning outcomes.](worked-example-problem-sequences.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](mpathic-vr-osce-composite-transfer.md) — related

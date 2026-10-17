@@ -47,3 +47,4 @@ In Experiment 2, WMC was measured as a composite of reading span and operation s
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — related
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related
