@@ -36,12 +36,12 @@
 the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
 <p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
 </details>
-<p><code>q2 i?</code> Baseline LR and XGBoost classifiers trained on OULAD show unequal true-positive rates across gender, age, IMD, and disability subgroups, indicating disparate impact. <a href="#raymond-a-opoku-2025">→ Raymond A. Opoku 2025</a></p>
+<p><code>q2 i?</code> A baseline logistic-regression classifier trained on OULAD showed unequal true-positive rates across gender, age, IMD, and disability subgroups, indicating disparate impact; the authors say the same holds for standard models such as XGBoost but show subgroup rates only for LR. <a href="#raymond-a-opoku-2025">→ Raymond A. Opoku 2025</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="raymond-a-opoku-2025">Raymond A. Opoku 2025<a class="headerlink" href="#raymond-a-opoku-2025" title="Permanent link">&para;</a></h3>
 <p>Raymond A. Opoku, Bo Pei and Wanli Xing. (2025). Unveiling Accuracy-Fairness Trade-Offs: Investigating Machine Learning Models in Student Performance Prediction. Journal of Learning Analytics 12(2). https://doi.org/10.18608/jla.2025.8543</p>
 <p><code>q2 · i?</code> · <code>design · r2</code></p>
-<p>Analysis of baseline LR and XGBoost classifiers on OULAD (25,690 students) with group-specific TPRs shown in Figure 6, using Tukey's range tests for pairwise TPR/FPR differences. The article reports "unequal true positive rates (TPRs)" across subgroups. No effect size is printed.</p>
+<p>Baseline LR and XGBoost classifiers were trained on OULAD (25,690 students); group-specific TPRs are shown in Figure 6 for the LR classifiers only (baseline and bias-mitigated), with Tukey's range tests for pairwise TPR/FPR differences. The discussion says standard approaches "such as LR and XGBoost, can exhibit biased performance", but no subgroup TPRs are shown for XGBoost. The article reports "unequal true positive rates (TPRs)" across subgroups. No effect size is printed.</p>
 <blockquote>
 <p>"The plots reveal biases in the baseline classifier performance across different subgroups. As evident from the varying prevalence rates and unequal true positive rates (TPRs). These biases suggest disparate impact based on factors such as sex, age, index of multiple deprivation and disability."</p>
 </blockquote>
