@@ -48,7 +48,7 @@ Longitudinal SEM study of 175 children assessed at age 5 on six EF measures and 
 ## Related Claims
 - [In Grade 3, both problem solving and arithmetical facts are predicted by the preschool WM–flexibility component](wm-flexibility-predicts-grade-3-problem-solving-and-facts.md) — a narrower finding that bears on this claim
 - [The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3](wm-flexibility-predicts-math-composite-both-grades.md) — a narrower finding that bears on this claim
-- [Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility](two-factor-ef-model-kindergarten.md) — related
+- Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related

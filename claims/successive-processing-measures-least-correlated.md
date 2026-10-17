@@ -45,4 +45,4 @@ A correlational analysis (Table 2) of the eight response-time measures in each c
 ## Related Claims
 - [Processing speed measured with response times is better represented as four distinct cognitive processes (planning, attention, simultaneous, successive) than as a unitary speed factor](processing-speed-distinct-abilities-not-unitary.md) — related
 - [The distinct abilities structure of processing speed is invariant across Chinese, Canadian, and Greek cultural groups](processing-speed-structure-invariant-across-cultures.md) — related
-- [The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups](unitary-speed-model-poorer-fit-canadian-greek.md) — related
+- The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups — related

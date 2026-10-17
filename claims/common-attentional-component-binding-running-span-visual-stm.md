@@ -44,7 +44,7 @@ Summary structural finding from the CFA and SEM analyses of 13 tasks in 168 chil
 
 ## Related Claims
 - [Binding tasks showed no separate episodic buffer faculty, loading instead with visuospatial tasks or the focus of attention](binding-tasks-load-focus-of-attention-no-episodic-buffer.md) — possibly the same claim (merge candidate)
-- [Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children](central-executive-focus-attention-distinct-factors.md) — related
+- Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children — related
 - [Digit span running loaded on the focus of attention factor rather than the phonological factor, supporting Cowan's claim that running span performance reflects attentional capacity](digit-span-running-loads-focus-of-attention.md) — a narrower finding that bears on this claim
 - [The focus of attention factor was the only significant predictor of both fluid reasoning and visual processing intelligence when all three working memory factors were entered](focus-of-attention-predicts-gf-gv-children.md) — related
 - [Cowan's three-factor embedded processes model fit young children's working memory data slightly better than Baddeley and Hitch's three-factor model and decisively better than Baddeley's four-factor episodic buffer model](cowan-embedded-processes-model-best-fit-young-children.md) — related

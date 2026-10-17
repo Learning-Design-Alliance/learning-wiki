@@ -43,7 +43,7 @@ Cross-sectional analysis of food intake versus dichotomized grades, adjusted for
 
 
 ## Related Claims
-- [The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement](cross-sectional-design-limits-causal-inference-lifestyle-achievement.md) — related
+- The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement — related
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Regular lunch consumption is associated with increased odds of high academic achievement in both girls and boys, and regular dinner and an all-meals pattern in boys](regular-lunch-dinner-meal-pattern-associated-achievement-boys.md) — related
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related

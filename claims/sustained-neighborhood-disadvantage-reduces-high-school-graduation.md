@@ -62,8 +62,8 @@ Same IPT-weighted PSID analysis, nonblack children. Predicted graduation falls f
 
 
 ## Related Claims
-- [IPT-weighted estimates of neighborhood effects on high school graduation are substantially larger than conventional regression-adjusted estimates](ipt-estimates-larger-than-regression-estimates.md) — related
-- [The Moving to Opportunity experiment provides conservative estimates of neighborhood effects because it cannot capture the total effect of sustained exposure](mto-conservative-estimates-sustained-exposure.md) — related
+- IPT-weighted estimates of neighborhood effects on high school graduation are substantially larger than conventional regression-adjusted estimates — related
+- The Moving to Opportunity experiment provides conservative estimates of neighborhood effects because it cannot capture the total effect of sustained exposure — related
 - [Neighborhood context is a transient ecological setting, with many families moving between neighborhood disadvantage quintiles during childhood](neighborhood-context-transient-frequent-mobility.md) — related
 - [The racial disparity in long-term exposure to the most disadvantaged neighborhoods is more pronounced than the disparity at any single age](racial-disparity-cumulative-neighborhood-exposure.md) — related
 - [Neighborhood effects on graduation appear to operate in part through neighborhood effects on parents (time-varying family characteristics)](neighborhood-effects-mediated-through-parents.md) — related

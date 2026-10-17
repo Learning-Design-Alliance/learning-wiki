@@ -43,7 +43,7 @@ In the same cross-sectional logistic regression analysis, regular lunch was asso
 
 
 ## Related Claims
-- [The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement](cross-sectional-design-limits-causal-inference-lifestyle-achievement.md) — related
+- The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement — related
 - [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
 - [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related

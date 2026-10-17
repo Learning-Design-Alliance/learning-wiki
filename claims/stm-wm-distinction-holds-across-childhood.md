@@ -43,5 +43,5 @@ Samples were split into 8- to 10-year-olds and 11- to 13-year-olds in both studi
 
 
 ## Related Claims
-- [Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility](two-factor-ef-model-kindergarten.md) — related
+- Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility — related
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — a broader claim this one bears on

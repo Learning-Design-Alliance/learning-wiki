@@ -44,6 +44,6 @@ Exploratory statistical cluster-plot analysis (point-wise paired t-tests, alpha 
 
 ## Related Claims
 - [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](motivation-modulates-ldap-right-parieto-occipital.md) — related
-- [Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences](cue-responses-no-interest-arousal-difference.md) — related
+- Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences — related
 - [Adolescent anticipatory alpha-band activity lacks the adult-like lateralized suppression pattern, instead showing higher right-parieto-occipital alpha and stronger modulation for cue-left than cue-right](adolescent-alpha-no-lateralized-suppression.md) — related
 - [Adolescents show adult-like anticipatory broadband ERP attention components (ADAN, LDAP, BRN) contralateral to the attended location](adolescent-anticipatory-erp-components-adult-like.md) — related

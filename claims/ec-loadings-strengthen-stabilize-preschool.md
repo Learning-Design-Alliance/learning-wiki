@@ -43,9 +43,9 @@ Longitudinal metric invariance analysis combining all four age-point models (ove
 
 
 ## Related Claims
-- [By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor](ec-distinct-factor-by-age-5-25.md) — related
-- [At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed](ec-not-distinct-from-processing-speed-at-age-3.md) — related
+- By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor — related
+- At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed — related
 - [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related
 - [Executive task accuracy and processing speed improve dramatically with age across the preschool period, with no cohort effect from repeated testing](executive-performance-improves-with-age-no-cohort-effect.md) — related
-- [A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language](unitary-ec-factor-preferred-preschool.md) — related
-- [The four effortful control subscales load onto a single latent factor in preschoolers](ec-subscales-load-onto-latent-factor.md) — related
+- A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language — related
+- The four effortful control subscales load onto a single latent factor in preschoolers — related

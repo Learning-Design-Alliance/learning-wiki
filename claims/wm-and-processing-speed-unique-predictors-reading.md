@@ -62,6 +62,6 @@ Same constrained SEM across age groups. The article reports null paths: "Inhibit
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
 - [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](iq-predicts-comprehension-more-than-word-reading.md) — related
 - [The unique link between naming speed and word reading partly depends on using alphanumeric stimuli; non-alphanumeric naming speed adds no unique prediction](naming-speed-word-reading-link-alphanumeric-dependent.md) — related
-- [The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups](four-distinct-cognitive-factors-stable-across-ages.md) — related
-- [Word reading and comprehension form distinct latent factors, supporting that the two constructs are separable with potentially different cognitive predictors](word-reading-comprehension-distinct-factors.md) — related
+- The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups — related
+- Word reading and comprehension form distinct latent factors, supporting that the two constructs are separable with potentially different cognitive predictors — related
 - [The relation between word reading and reading comprehension is largely invariant across age groups 8 to 10 and 11 to 16](word-reading-comprehension-relation-age-invariant.md) — related

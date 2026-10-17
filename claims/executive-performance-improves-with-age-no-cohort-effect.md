@@ -44,6 +44,6 @@ Same MANOVA testing study entry cohort independent of the age effect. No signifi
 
 ## Related Claims
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
-- [At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed](ec-not-distinct-from-processing-speed-at-age-3.md) — related
-- [By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor](ec-distinct-factor-by-age-5-25.md) — related
+- At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed — related
+- By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor — related
 - [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](perseverator-proportion-declines-preschool.md) — related

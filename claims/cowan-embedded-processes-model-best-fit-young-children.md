@@ -63,7 +63,7 @@ CFA of Baddeley's four-component model in the same sample. The correlation betwe
 
 ## Related Claims
 - [Binding tasks showed no separate episodic buffer faculty, loading instead with visuospatial tasks or the focus of attention](binding-tasks-load-focus-of-attention-no-episodic-buffer.md) — related
-- [Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children](central-executive-focus-attention-distinct-factors.md) — related
+- Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children — related
 - [In the Baddeley and Hitch model, the visuospatial factor was most strongly related to intelligence, but the only significant path was between visuospatial and Gv](visuospatial-factor-gv-significant-path-bh-model.md) — related
 - [Digit span running loaded on the focus of attention factor rather than the phonological factor, supporting Cowan's claim that running span performance reflects attentional capacity](digit-span-running-loads-focus-of-attention.md) — related
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — a broader claim this one bears on

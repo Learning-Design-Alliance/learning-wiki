@@ -64,5 +64,5 @@ A follow-up SEM with a surgency latent factor (high intensity pleasure, impulsiv
 ## Related Claims
 - [Attentional focusing is the only effortful control subdomain associated with DLPFC activation when controlling for age and accuracy](attentional-focusing-only-subdomain-associated-with-dlpfc-activation.md) — related
 - [Greater parent-reported temperamental effortful control predicts less DLPFC activation during cognitive flexibility in preschoolers](effortful-control-predicts-less-dlpfc-activation.md) — related
-- [The four effortful control subscales load onto a single latent factor in preschoolers](ec-subscales-load-onto-latent-factor.md) — related
+- The four effortful control subscales load onto a single latent factor in preschoolers — related
 - [Greater temperamental effortful control predicts better cognitive flexibility task accuracy in preschoolers](effortful-control-predicts-better-cognitive-flexibility-accuracy.md) — related

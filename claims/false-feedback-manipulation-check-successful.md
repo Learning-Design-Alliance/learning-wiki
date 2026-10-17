@@ -45,6 +45,6 @@ Age (young, old) × Feedback (high, low) ANOVA on final self-evaluation of perfo
 ## Related Claims
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](high-performance-feedback-increases-performance-expectations.md) — related
-- [Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group](random-assignment-produced-comparable-feedback-groups.md) — related
+- Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group — related
 - [Feedback effects on attention to conceptual integration are moderated by age and control beliefs: only older adults with high control beliefs allocate more attention after high-performance feedback](feedback-attention-moderated-by-age-and-control-beliefs.md) — related
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — related

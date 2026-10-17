@@ -44,7 +44,7 @@ Difference-in-differences analysis of the 2003 4th-grade NAEP math and reading s
 
 ## Related Claims
 - [A binding state mandate makes schools 33 percentage points more likely to offer the SBP, and SBP availability increases math, reading, and science achievement in ECLS-K data](sbp-availability-increases-ecls-k-achievement.md) — related
-- [Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency](sbp-mandate-falsification-tests-null.md) — reports the opposite
+- Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency — reports the opposite
 - [The effect of a binding SBP mandate is larger for low-income students, males, and students from larger families, and does not vary with threshold levels from 10 to 40 percent](sbp-mandate-heterogeneity-low-income-males.md) — a narrower finding that bears on this claim
 - [Each year of attending a school with a binding SBP mandate increases math achievement by 0.572 points (2.7% of a standard deviation), reading by 0.470 points (2.0%), and science by 0.130 points (0.9%)](sbp-years-of-exposure-achievement.md) — related
 - [In NAEP regression discontinuity estimates, exceeding the state threshold increases math achievement by 2.6 points (9.1% of a standard deviation) and reading achievement by 4.4 points (12.2% of a standard deviation)](sbp-mandate-naep-rd-achievement.md) — related

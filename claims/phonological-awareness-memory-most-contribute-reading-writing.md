@@ -43,6 +43,6 @@ The study investigated the contribution of phonological awareness, phonological 
 
 
 ## Related Claims
-- [Exploratory factor analysis grouped literacy-predictor variables into three factors: phonological memory with phonological awareness, rapid naming, and visual processing](three-factor-structure-phonological-processing-variables.md) — related
+- Exploratory factor analysis grouped literacy-predictor variables into three factors: phonological memory with phonological awareness, rapid naming, and visual processing — related
 - [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related
 - [Visual processing showed no correlation with reading or writing in third-grade students](visual-processing-no-correlation-reading-writing.md) — related

@@ -41,6 +41,6 @@ Omnibus analysis of the 118-participant experiment: 3x2 mixed-design ANOVA with 
 
 
 ## Related Claims
-- [Control groups show no significant pre-to-post change in visual discrimination thresholds, indicating the two blocks did not interact](control-groups-no-vds-change.md) — related
+- Control groups show no significant pre-to-post change in visual discrimination thresholds, indicating the two blocks did not interact — related
 - [Participants induced to hold high self-efficacy show greater improvement in visual discrimination sensitivity than participants induced to hold low self-efficacy](high-self-efficacy-improves-visual-discrimination-sensitivity.md) — related
 - [Changes in self-efficacy correlate with changes in visual discrimination sensitivity after regressing out objective ability and baseline self-efficacy](self-efficacy-change-correlates-vds-change.md) — related

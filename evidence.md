@@ -8,10 +8,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,463 |
-| Evidence entries | 21,941 |
+| Claims | 18,427 |
+| Evidence entries | 21,901 |
 | Distinct studies | 5,205 |
-| Claims resting on one study | 17,971 (97%) |
+| Claims resting on one study | 17,936 (97%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 1,073 of 5,205 (21%) |
 
@@ -33,7 +33,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|
 | 684 (13%) | 3,123 (60%) | 1,277 (25%) | 121 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,971, 2: 410, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 17,936, 2: 409, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -142,8 +142,8 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 33 | 0 |
 | [designs](designs/index.md) | 819 | 481 | 1 | 0 |
-| [products](products/index.md) | 1,691 | 1,132 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 346 | 344 | 1 | 0 |
+| [products](products/index.md) | 1,691 | 1,131 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 346 | 343 | 1 | 0 |
 
 ## Toward pooled estimates
 

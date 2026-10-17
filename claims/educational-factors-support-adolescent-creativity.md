@@ -62,7 +62,7 @@ The review reports, citing a questionnaire study (N = 658, Taiwan) on mobile lea
 
 
 ## Related Claims
-- [The vast majority of studies on adolescent creativity (94%) did not take social contextual factors into account](94-percent-adolescent-creativity-studies-ignore-social-context.md) — related
+- The vast majority of studies on adolescent creativity (94%) did not take social contextual factors into account — related
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — related

@@ -44,6 +44,6 @@ Model comparison in the Results section of a two-wave longitudinal SEM study (N 
 
 ## Related Claims
 - [Higher starting scores in vocabulary predicted greater gains in matrix reasoning and vice versa (bidirectional positive coupling)](bidirectional-coupling-vocabulary-reasoning-gains.md) — related
-- [Mutualism was overwhelmingly favored over g-factor and investment models by information criteria and Akaike weights](akaike-weights-favor-mutualism.md) — possibly the same claim (merge candidate)
+- Mutualism was overwhelmingly favored over g-factor and investment models by information criteria and Akaike weights — possibly the same claim (merge candidate)
 - [The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores](coupling-robust-across-sexes-age.md) — related
 - [Both cognitive domains showed significant growth, negative self-feedback, and substantial individual differences in change over the interval](univariate-lcs-growth-negative-feedback.md) — related

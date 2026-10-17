@@ -12,7 +12,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 65 claims (35 show a difference, 12 mixed, 16 no difference, 2 unmarked) · 37 studies (15 associational, 11 causal, 5 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 9 of 37 report an effect size · 63 claims rest on one study
+> **Evidence** · 64 claims (35 show a difference, 11 mixed, 16 no difference, 2 unmarked) · 37 studies (15 associational, 11 causal, 5 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 9 of 37 report an effect size · 62 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -97,7 +97,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Sleep education at school improves cognitive functioning in children](../claims/sleep-education-improves-cognitive-functioning.md) [+M] — instruction changes it
 - [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](../claims/early-stress-impaired-reversal-flexibility.md) [+M] — instruction changes it
 - [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](../claims/central-executive-coordinates-language-learning-functions.md) [+M] — learners who differ on it differ in outcomes
-- [The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory](../claims/asd-neuroimaging-flexibility-inconsistent.md) [~M] — learners who differ on it differ in outcomes
+- The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory [~M] — learners who differ on it differ in outcomes
 - [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](../claims/mediators-not-significantly-different.md) [~M] — learners who differ on it differ in outcomes
 - [Working memory is the strongest predictor of adolescents' communicative perspective-taking](../claims/working-memory-predicts-adolescent-communicative-perspective-taking.md) [+M] — learners who differ on it differ in outcomes
 

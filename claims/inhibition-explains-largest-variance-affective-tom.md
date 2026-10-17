@@ -43,4 +43,4 @@ In the study's analysis of executive-function contributions, the authors report 
 
 
 ## Related Claims
-- [EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable](ef-pca-three-factors-children.md) — related
+- EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable — related

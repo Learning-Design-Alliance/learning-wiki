@@ -46,4 +46,4 @@ In the same SEM model, "effortful control was associated with increased behavior
 - [Attentional focusing is the only effortful control subdomain associated with DLPFC activation when controlling for age and accuracy](attentional-focusing-only-subdomain-associated-with-dlpfc-activation.md) — related
 - [Greater parent-reported temperamental effortful control predicts less DLPFC activation during cognitive flexibility in preschoolers](effortful-control-predicts-less-dlpfc-activation.md) — related
 - [The effortful control–DLPFC activation model is specific to effortful control, not to negative affectivity or surgency](ec-activation-model-specific-to-effortful-control.md) — related
-- [The four effortful control subscales load onto a single latent factor in preschoolers](ec-subscales-load-onto-latent-factor.md) — a broader claim this one bears on
+- The four effortful control subscales load onto a single latent factor in preschoolers — a broader claim this one bears on

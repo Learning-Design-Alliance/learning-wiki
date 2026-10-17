@@ -41,7 +41,7 @@ Controlled lab experiment with 118 participants randomly assigned to high, low o
 
 
 ## Related Claims
-- [Control groups show no significant pre-to-post change in visual discrimination thresholds, indicating the two blocks did not interact](control-groups-no-vds-change.md) — related
+- Control groups show no significant pre-to-post change in visual discrimination thresholds, indicating the two blocks did not interact — related
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — related
 - [Mixed-design ANOVAs reveal significant group-by-time interactions on visual discrimination sensitivity in both tasks](se-group-time-interaction-vds.md) — related
 - [Changes in self-efficacy correlate with changes in visual discrimination sensitivity after regressing out objective ability and baseline self-efficacy](self-efficacy-change-correlates-vds-change.md) — related

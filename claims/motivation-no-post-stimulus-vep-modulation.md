@@ -43,7 +43,7 @@ Post-stimulus VEP analysis of bilateral non-targets (average 85 trials per condi
 
 
 ## Related Claims
-- [Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences](cue-responses-no-interest-arousal-difference.md) — related
+- Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences — related
 - [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](motivation-modulates-ldap-right-parieto-occipital.md) — related
 - [Adolescents show higher target-detection sensitivity (d-prime) for high-interest than low-interest stimuli, with better performance in the right hemifield](interest-boosts-adolescent-detection-sensitivity.md) — related
 - [Cognitive deficits in children with ADHD are not permanent neuropsychological impairments and cognitive capacity can be modulated by motivation](adhd-cognitive-capacity-modulated-by-motivation.md) — related

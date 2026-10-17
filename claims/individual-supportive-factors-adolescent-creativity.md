@@ -64,4 +64,4 @@ The review attributes this to a questionnaire study (N = 439, China) reported in
 ## Related Claims
 - [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](educational-factors-support-adolescent-creativity.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — reports the opposite
-- [The vast majority of studies on adolescent creativity (94%) did not take social contextual factors into account](94-percent-adolescent-creativity-studies-ignore-social-context.md) — related
+- The vast majority of studies on adolescent creativity (94%) did not take social contextual factors into account — related

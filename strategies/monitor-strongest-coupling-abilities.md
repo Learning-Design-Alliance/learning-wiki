@@ -17,7 +17,7 @@ sources:
 # Focus intervention and monitoring on abilities with the strongest coupling strengths, not only on outcomes below a desired threshold
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend that "to facilitate early detection and possibly even effective intervention, it may pay off to focus on abilities that have the strongest coupling strengths rather than solely on outcomes that are currently below some desirable threshold." This follows from their finding that baseline scores in one domain predict gains in the other, and from related dynamic-modeling work they cite. It implies monitoring coupled supporting abilities (e.g., vocabulary as a leading indicator of reading comprehension) rather than only end-goal outcomes.
@@ -43,7 +43,6 @@ The authors recommend that "to facilitate early detection and possibly even effe
 
 - [Higher starting scores in vocabulary predicted greater gains in matrix reasoning and vice versa (bidirectional positive coupling)](../claims/bidirectional-coupling-vocabulary-reasoning-gains.md) [+M]
 - [The mutualism model provides the best account of longitudinal changes in vocabulary and matrix reasoning, with by far the highest normalized model-selection probability](../claims/mutualism-model-best-fit-vocabulary-reasoning.md) [+W]
-- [Mutualism was overwhelmingly favored over g-factor and investment models by information criteria and Akaike weights](../claims/akaike-weights-favor-mutualism.md) [+W]
 
 ## Related Strategies
 - 

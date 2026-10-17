@@ -46,4 +46,4 @@ Multi-sample CFA compared younger (n = 196) and older (n = 176) groups split at 
 - [Older preschoolers outperformed younger preschoolers on most writing measures but not on the generative composing tasks](age-differences-emergent-writing-tasks.md) — related
 - [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](three-factor-structure-emergent-writing-preschoolers.md) — a broader claim this one bears on
 - [The three emergent writing factors show distinct patterns of relations to general cognitive, language, and emergent literacy measures](distinct-correlates-emergent-writing-factors.md) — related
-- [The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups](four-distinct-cognitive-factors-stable-across-ages.md) — related
+- The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups — related

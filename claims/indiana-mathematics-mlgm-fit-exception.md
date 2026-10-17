@@ -46,4 +46,4 @@ MLGM goodness-of-fit analyses across ten states; the article reports fit was exc
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related
-- [Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change](factorial-invariance-not-sufficient-necessary-for-change.md) — related
+- Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related

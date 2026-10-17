@@ -43,7 +43,7 @@ Anticipatory ERP ANOVA (motivation × ROI interaction F(1,23) = 5.96, p = .023) 
 
 
 ## Related Claims
-- [Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences](cue-responses-no-interest-arousal-difference.md) — related
+- Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences — related
 - [Adolescents show higher target-detection sensitivity (d-prime) for high-interest than low-interest stimuli, with better performance in the right hemifield](interest-boosts-adolescent-detection-sensitivity.md) — a broader claim this one bears on
 - [Exploratory analysis reveals sustained greater anticipatory activation for high versus low motivation conditions from 700–1100 ms post-cue over parieto-occipital scalp](sustained-motivation-anticipatory-activation-700-1100ms.md) — related
 - [Adolescents show adult-like anticipatory broadband ERP attention components (ADAN, LDAP, BRN) contralateral to the attended location](adolescent-anticipatory-erp-components-adult-like.md) — related

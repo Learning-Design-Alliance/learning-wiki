@@ -59,6 +59,9 @@ at the top, under this paragraph.
   (`merge_pages.py research-methods`). Most thin pages are one paper's own coding scheme, taxonomy or evaluation
   rubric with nothing general to fold into. The 138 that cite no claim were removed (maintainer, 2026-10-17);
   the 90 that rest on a claim stay. `research-methods/` went from 492 pages to 340.
+- **lvn-wave-3**: 163 of 250 fetched, 140 ingested, no wrong documents; Moores et al. 2011's DOI added after a
+  Crossref check. A second sort of the 1,614 unsorted claims (waves 2–3 and the Zotero batch) found 36 more
+  research-practice claims, removed under the standing rule.
 
 ## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
 

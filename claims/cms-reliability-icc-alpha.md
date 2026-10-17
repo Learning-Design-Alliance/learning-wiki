@@ -58,6 +58,6 @@ Internal consistency was examined using Cronbach's alpha. Values were acceptable
 
 
 ## Related Claims
-- [The CMS has a one-factor structure with five items for both metacognition and self-judgment accuracy scales](cms-one-factor-five-items.md) — related
+- The CMS has a one-factor structure with five items for both metacognition and self-judgment accuracy scales — related
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related

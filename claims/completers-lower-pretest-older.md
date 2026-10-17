@@ -43,6 +43,6 @@ Table 2 ANOVA comparing pretest scores of non-intervention (n = 279), non-comple
 
 
 ## Related Claims
-- [About half of assigned adults dropped out before post-testing, and non-completers differed initially from completers](high-attrition-noncompleters-differ.md) — related
+- About half of assigned adults dropped out before post-testing, and non-completers differed initially from completers — related
 - [The 46% of adult learners classified as gainers had higher pretest reading and phonological awareness scores and included fewer adults with a history of special education (Scarborough et al.)](adult-gainers-higher-pretest-scores.md) — related
 - [Learning strategies instruction produced no significantly different gains in word reading subskills or oral reading fluency measures than typical adult education instruction](learning-strategies-instruction-no-subskill-gains-ae.md) — related

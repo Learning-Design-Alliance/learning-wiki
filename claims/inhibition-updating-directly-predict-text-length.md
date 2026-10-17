@@ -49,4 +49,4 @@ Hierarchical regression on 102 fourth graders' written narratives; EF entered la
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](ef-no-direct-effect-syntactic-complexity-story-content.md) — related
 - [Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
 - [Planning shows no contribution to any level of narrative composition in fourth graders](planning-no-contribution-narrative-composition.md) — related
-- [EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable](ef-pca-three-factors-children.md) — related
+- EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable — related

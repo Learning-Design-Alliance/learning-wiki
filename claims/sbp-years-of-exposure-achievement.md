@@ -44,7 +44,7 @@ ECLS-K difference-in-differences specification replacing the binary above-thresh
 
 ## Related Claims
 - [A binding state mandate makes schools 33 percentage points more likely to offer the SBP, and SBP availability increases math, reading, and science achievement in ECLS-K data](sbp-availability-increases-ecls-k-achievement.md) — related
-- [Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency](sbp-mandate-falsification-tests-null.md) — reports the opposite
+- Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency — reports the opposite
 - [The effect of a binding SBP mandate is larger for low-income students, males, and students from larger families, and does not vary with threshold levels from 10 to 40 percent](sbp-mandate-heterogeneity-low-income-males.md) — a narrower finding that bears on this claim
 - [A binding state SBP mandate increases 4th-grade math achievement by 2.2 points (7.7% of a standard deviation) and reading by 2.0 points (5.4% of a standard deviation) in NAEP difference-in-differences estimates](sbp-mandate-increases-naep-achievement-dd.md) — related
 - [In NAEP regression discontinuity estimates, exceeding the state threshold increases math achievement by 2.6 points (9.1% of a standard deviation) and reading achievement by 4.4 points (12.2% of a standard deviation)](sbp-mandate-naep-rd-achievement.md) — related

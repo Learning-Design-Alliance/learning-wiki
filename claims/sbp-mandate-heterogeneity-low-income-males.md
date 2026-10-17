@@ -63,7 +63,7 @@ ECLS-K heterogeneity test interacting the above-threshold indicator with the mea
 
 ## Related Claims
 - [A binding state mandate makes schools 33 percentage points more likely to offer the SBP, and SBP availability increases math, reading, and science achievement in ECLS-K data](sbp-availability-increases-ecls-k-achievement.md) — related
-- [Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency](sbp-mandate-falsification-tests-null.md) — related
+- Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency — related
 - [A binding state SBP mandate increases 4th-grade math achievement by 2.2 points (7.7% of a standard deviation) and reading by 2.0 points (5.4% of a standard deviation) in NAEP difference-in-differences estimates](sbp-mandate-increases-naep-achievement-dd.md) — a broader claim this one bears on
 - [Each year of attending a school with a binding SBP mandate increases math achievement by 0.572 points (2.7% of a standard deviation), reading by 0.470 points (2.0%), and science by 0.130 points (0.9%)](sbp-years-of-exposure-achievement.md) — a broader claim this one bears on
 - [A binding SBP mandate increases milk and fruit consumption and decreases soda consumption, but its effects on attendance are imprecise, suggesting the achievement effect operates through improved nutrition](sbp-improves-nutrition-not-attendance.md) — related

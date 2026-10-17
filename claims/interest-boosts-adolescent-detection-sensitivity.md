@@ -44,5 +44,5 @@ Behavioral ANOVA in the cued spatial attention task of 24 male adolescents (mean
 
 ## Related Claims
 - [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](motivation-modulates-ldap-right-parieto-occipital.md) — a narrower finding that bears on this claim
-- [Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences](cue-responses-no-interest-arousal-difference.md) — related
+- Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences — related
 - [Motivation did not interact with visuospatial attention effects on post-stimulus visual evoked potentials to imperative stimuli](motivation-no-post-stimulus-vep-modulation.md) — related

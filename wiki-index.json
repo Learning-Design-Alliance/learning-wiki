@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":18463,
+"claim":18427,
 "design":819,
 "element":1066,
 "learner-variable":74,
@@ -561,15 +561,6 @@
 "path":"claims/8th-grade-on-track-nsi-null-ela-attendance-suspension.md",
 "status":"review",
 "title":"8th-grade on-track NSI did not improve ELA test scores, attendance, or suspension rates",
-"type":"claim"
-},
-{
-"description":"The vast majority of studies on adolescent creativity (94%) did not take social contextual factors into account",
-"evidence_strength":"moderate",
-"id":"94-percent-adolescent-creativity-studies-ignore-social-context",
-"path":"claims/94-percent-adolescent-creativity-studies-ignore-social-context.md",
-"status":"review",
-"title":"The vast majority of studies on adolescent creativity (94%) did not take social contextual factors into account",
 "type":"claim"
 },
 {
@@ -10677,15 +10668,6 @@
 "type":"claim"
 },
 {
-"description":"Mutualism was overwhelmingly favored over g-factor and investment models by information criteria and Akaike weights",
-"evidence_strength":"moderate",
-"id":"akaike-weights-favor-mutualism",
-"path":"claims/akaike-weights-favor-mutualism.md",
-"status":"review",
-"title":"Mutualism was overwhelmingly favored over g-factor and investment models by information criteria and Akaike weights",
-"type":"claim"
-},
-{
 "description":"In simulated learners with forgetting, study-practice yields higher skill gains while practice-only yields higher fact gains, mirroring the human pattern",
 "evidence_strength":"moderate",
 "id":"al-simple-effects-mirror-human-pattern",
@@ -13401,15 +13383,6 @@
 "path":"claims/asd-flexibility-deficit-intact-inhibition.md",
 "status":"review",
 "title":"ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control",
-"type":"claim"
-},
-{
-"description":"The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory",
-"evidence_strength":"mixed",
-"id":"asd-neuroimaging-flexibility-inconsistent",
-"path":"claims/asd-neuroimaging-flexibility-inconsistent.md",
-"status":"review",
-"title":"The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory",
 "type":"claim"
 },
 {
@@ -22144,15 +22117,6 @@
 "type":"claim"
 },
 {
-"description":"Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children",
-"evidence_strength":"moderate",
-"id":"central-executive-focus-attention-distinct-factors",
-"path":"claims/central-executive-focus-attention-distinct-factors.md",
-"status":"review",
-"title":"Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children",
-"type":"claim"
-},
-{
 "description":"Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued",
 "evidence_strength":"weak",
 "id":"central-object-change-detection-low-without-cueing",
@@ -27551,24 +27515,6 @@
 "type":"claim"
 },
 {
-"description":"The CMS has a one-factor structure with five items for both metacognition and self-judgment accuracy scales",
-"evidence_strength":"moderate",
-"id":"cms-one-factor-five-items",
-"path":"claims/cms-one-factor-five-items.md",
-"status":"review",
-"title":"The CMS has a one-factor structure with five items for both metacognition and self-judgment accuracy scales",
-"type":"claim"
-},
-{
-"description":"The retained CMS items are five positive adjectives, replicating prior findings on positive metacognitive beliefs",
-"evidence_strength":"weak",
-"id":"cms-positive-adjective-items",
-"path":"claims/cms-positive-adjective-items.md",
-"status":"review",
-"title":"The retained CMS items are five positive adjectives, replicating prior findings on positive metacognitive beliefs",
-"type":"claim"
-},
-{
 "description":"CMS shows acceptable test-retest reliability and internal consistency",
 "evidence_strength":"moderate",
 "id":"cms-reliability-icc-alpha",
@@ -32793,15 +32739,6 @@
 "type":"claim"
 },
 {
-"description":"Control groups show no significant pre-to-post change in visual discrimination thresholds, indicating the two blocks did not interact",
-"evidence_strength":"moderate",
-"id":"control-groups-no-vds-change",
-"path":"claims/control-groups-no-vds-change.md",
-"status":"review",
-"title":"Control groups show no significant pre-to-post change in visual discrimination thresholds, indicating the two blocks did not interact",
-"type":"claim"
-},
-{
 "description":"Typically-developing children show the standard affective priming pattern, responding faster to arithmetic targets after positive than negative primes",
 "evidence_strength":"moderate",
 "id":"control-positive-prime-facilitation-arithmetic",
@@ -36590,15 +36527,6 @@
 "type":"claim"
 },
 {
-"description":"The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement",
-"evidence_strength":"weak",
-"id":"cross-sectional-design-limits-causal-inference-lifestyle-achievement",
-"path":"claims/cross-sectional-design-limits-causal-inference-lifestyle-achievement.md",
-"status":"review",
-"title":"The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement",
-"type":"claim"
-},
-{
 "description":"The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random",
 "evidence_strength":"moderate",
 "id":"cross-sectional-view-full-sample-attrition-caveat",
@@ -37256,15 +37184,6 @@
 "type":"claim"
 },
 {
-"description":"Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences",
-"evidence_strength":"moderate",
-"id":"cue-responses-no-interest-arousal-difference",
-"path":"claims/cue-responses-no-interest-arousal-difference.md",
-"status":"review",
-"title":"Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences",
-"type":"claim"
-},
-{
 "description":"In Experiment 1, the type-of-recall by varied-constant by distribution interaction was significant, with a massed-distributed effect only in constant cued recall and a distribution effect in both free-recall conditions",
 "evidence_strength":"moderate",
 "id":"cued-free-recall-interaction-varied-constant-distribution",
@@ -37634,30 +37553,12 @@
 "type":"claim"
 },
 {
-"description":"Factor-analytic studies identify distinct curiosity dimensions, including depth versus breadth and interest versus deprivation",
-"evidence_strength":"weak",
-"id":"curiosity-factor-analytic-dimensions",
-"path":"claims/curiosity-factor-analytic-dimensions.md",
-"status":"review",
-"title":"Factor-analytic studies identify distinct curiosity dimensions, including depth versus breadth and interest versus deprivation",
-"type":"claim"
-},
-{
 "description":"Learner-side gains from curiosity modulation generalize across model families, academic domains, and topic complexity levels",
 "evidence_strength":"moderate",
 "id":"curiosity-gains-generalize-across-models-domains-complexity",
 "path":"claims/curiosity-gains-generalize-across-models-domains-complexity.md",
 "status":"review",
 "title":"Learner-side gains from curiosity modulation generalize across model families, academic domains, and topic complexity levels",
-"type":"claim"
-},
-{
-"description":"State epistemic curiosity and situational interest items load on a single latent factor in confirmatory factor analysis",
-"evidence_strength":"moderate",
-"id":"curiosity-interest-one-factor-cfa",
-"path":"claims/curiosity-interest-one-factor-cfa.md",
-"status":"review",
-"title":"State epistemic curiosity and situational interest items load on a single latent factor in confirmatory factor analysis",
 "type":"claim"
 },
 {
@@ -46269,15 +46170,6 @@
 "type":"claim"
 },
 {
-"description":"By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor",
-"evidence_strength":"moderate",
-"id":"ec-distinct-factor-by-age-5-25",
-"path":"claims/ec-distinct-factor-by-age-5-25.md",
-"status":"review",
-"title":"By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor",
-"type":"claim"
-},
-{
 "description":"Early childhood educators' formal preparation and child development skills are particularly important for successful public preschool programs",
 "evidence_strength":"moderate",
 "id":"ec-educator-preparation-important-for-preschool-success",
@@ -46296,15 +46188,6 @@
 "type":"claim"
 },
 {
-"description":"At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed",
-"evidence_strength":"moderate",
-"id":"ec-not-distinct-from-processing-speed-at-age-3",
-"path":"claims/ec-not-distinct-from-processing-speed-at-age-3.md",
-"status":"review",
-"title":"At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed",
-"type":"claim"
-},
-{
 "description":"Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics",
 "evidence_strength":"moderate",
 "id":"ec-predicts-math-from-3-75-onward",
@@ -46320,15 +46203,6 @@
 "path":"claims/ec-program-low-burden-to-teachers.md",
 "status":"review",
 "title":"The Experience Corps program was found to be a low burden to teachers",
-"type":"claim"
-},
-{
-"description":"The four effortful control subscales load onto a single latent factor in preschoolers",
-"evidence_strength":"moderate",
-"id":"ec-subscales-load-onto-latent-factor",
-"path":"claims/ec-subscales-load-onto-latent-factor.md",
-"status":"review",
-"title":"The four effortful control subscales load onto a single latent factor in preschoolers",
 "type":"claim"
 },
 {
@@ -47734,15 +47608,6 @@
 "path":"claims/ef-not-predictor-first-grade-reading.md",
 "status":"review",
 "title":"Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense",
-"type":"claim"
-},
-{
-"description":"EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable",
-"evidence_strength":"weak",
-"id":"ef-pca-three-factors-children",
-"path":"claims/ef-pca-three-factors-children.md",
-"status":"review",
-"title":"EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable",
 "type":"claim"
 },
 {
@@ -55282,24 +55147,6 @@
 "type":"claim"
 },
 {
-"description":"A factor analysis separates the multiplication selection task from the other selection tasks on a second component",
-"evidence_strength":"weak",
-"id":"factor-analysis-multiplication-second-component",
-"path":"claims/factor-analysis-multiplication-second-component.md",
-"status":"review",
-"title":"A factor analysis separates the multiplication selection task from the other selection tasks on a second component",
-"type":"claim"
-},
-{
-"description":"Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change",
-"evidence_strength":"weak",
-"id":"factorial-invariance-not-sufficient-necessary-for-change",
-"path":"claims/factorial-invariance-not-sufficient-necessary-for-change.md",
-"status":"review",
-"title":"Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change",
-"type":"claim"
-},
-{
 "description":"Multiple workforce factors contributed to the growth of alternative teacher certification programs",
 "evidence_strength":"weak",
 "id":"factors-driving-alternative-certification-growth",
@@ -60457,15 +60304,6 @@
 "path":"claims/four-difficulty-themes-textbook-listening.md",
 "status":"review",
 "title":"Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure",
-"type":"claim"
-},
-{
-"description":"The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups",
-"evidence_strength":"moderate",
-"id":"four-distinct-cognitive-factors-stable-across-ages",
-"path":"claims/four-distinct-cognitive-factors-stable-across-ages.md",
-"status":"review",
-"title":"The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups",
 "type":"claim"
 },
 {
@@ -70171,15 +70009,6 @@
 "type":"claim"
 },
 {
-"description":"About half of assigned adults dropped out before post-testing, and non-completers differed initially from completers",
-"evidence_strength":"moderate",
-"id":"high-attrition-noncompleters-differ",
-"path":"claims/high-attrition-noncompleters-differ.md",
-"status":"review",
-"title":"About half of assigned adults dropped out before post-testing, and non-completers differed initially from completers",
-"type":"claim"
-},
-{
 "description":"Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions",
 "evidence_strength":"weak",
 "id":"high-but-heterogeneous-voluntary-ai-discussion-uptake",
@@ -78126,15 +77955,6 @@
 "type":"claim"
 },
 {
-"description":"The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students",
-"evidence_strength":"moderate",
-"id":"internet-skills-scale-three-factor-structure-latin-american",
-"path":"claims/internet-skills-scale-three-factor-structure-latin-american.md",
-"status":"review",
-"title":"The adapted 15-item Internet Skills Scale replicates a three-factor structure (formal/navigation, informational/evaluation, operational) in Latin American college students",
-"type":"claim"
-},
-{
 "description":"Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents",
 "evidence_strength":"weak",
 "id":"internet-use-frequency-longitudinal-gray-matter-verbal-iq",
@@ -78699,15 +78519,6 @@
 "path":"claims/ipsd-title-i-computing-equity-goal.md",
 "status":"review",
 "title":"IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide",
-"type":"claim"
-},
-{
-"description":"IPT-weighted estimates of neighborhood effects on high school graduation are substantially larger than conventional regression-adjusted estimates",
-"evidence_strength":"moderate",
-"id":"ipt-estimates-larger-than-regression-estimates",
-"path":"claims/ipt-estimates-larger-than-regression-estimates.md",
-"status":"review",
-"title":"IPT-weighted estimates of neighborhood effects on high school graduation are substantially larger than conventional regression-adjusted estimates",
 "type":"claim"
 },
 {
@@ -81928,15 +81739,6 @@
 "path":"claims/kra-subset-administration-greatly-reduces-growth-precision.md",
 "status":"review",
 "title":"Administering the Kindergarten Readiness Assessment to a subset of students per classroom greatly reduces precision of schools' K-3 growth estimates",
-"type":"claim"
-},
-{
-"description":"Behavioral factor analysis of children's curiosity yields five distinct curiosity factors",
-"evidence_strength":"weak",
-"id":"kreitler-five-curiosity-factors",
-"path":"claims/kreitler-five-curiosity-factors.md",
-"status":"review",
-"title":"Behavioral factor analysis of children's curiosity yields five distinct curiosity factors",
 "type":"claim"
 },
 {
@@ -97958,15 +97760,6 @@
 "type":"claim"
 },
 {
-"description":"The Moving to Opportunity experiment provides conservative estimates of neighborhood effects because it cannot capture the total effect of sustained exposure",
-"evidence_strength":"weak",
-"id":"mto-conservative-estimates-sustained-exposure",
-"path":"claims/mto-conservative-estimates-sustained-exposure.md",
-"status":"review",
-"title":"The Moving to Opportunity experiment provides conservative estimates of neighborhood effects because it cannot capture the total effect of sustained exposure",
-"type":"claim"
-},
-{
 "description":"A recent reanalysis of Moving to Opportunity data found positive program impacts on girls' mental health and behavior were related to length of time spent exposed to low-poverty neighborhoods",
 "evidence_strength":"weak",
 "id":"mto-reanalysis-exposure-duration-matters",
@@ -102739,15 +102532,6 @@
 "path":"claims/no-objectives-group-most-positive-attitudes.md",
 "status":"review",
 "title":"Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items",
-"type":"claim"
-},
-{
-"description":"No universally accepted operational definition of children's curiosity exists, and operational measures vary widely across studies",
-"evidence_strength":"moderate",
-"id":"no-operational-definition-childrens-curiosity",
-"path":"claims/no-operational-definition-childrens-curiosity.md",
-"status":"review",
-"title":"No universally accepted operational definition of children's curiosity exists, and operational measures vary widely across studies",
 "type":"claim"
 },
 {
@@ -118007,15 +117791,6 @@
 "type":"claim"
 },
 {
-"description":"Prior small-sample critical-period findings were too noisy to provide precise estimates; thousands of subjects are required",
-"evidence_strength":"moderate",
-"id":"prior-studies-underpowered-thousands-required",
-"path":"claims/prior-studies-underpowered-thousands-required.md",
-"status":"review",
-"title":"Prior small-sample critical-period findings were too noisy to provide precise estimates; thousands of subjects are required",
-"type":"claim"
-},
-{
 "description":"Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective",
 "evidence_strength":"weak",
 "id":"prior-technology-meta-analyses-inconsistent-effects",
@@ -118328,15 +118103,6 @@
 "path":"claims/probe-data-path-separation-peer-tutoring.md",
 "status":"review",
 "title":"Lesson-probe data paths showed clear separation favoring the peer tutoring condition for most probes across all eight participants",
-"type":"claim"
-},
-{
-"description":"No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs",
-"evidence_strength":"weak",
-"id":"probe-error-rates-null-speed-accuracy",
-"path":"claims/probe-error-rates-null-speed-accuracy.md",
-"status":"review",
-"title":"No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs",
 "type":"claim"
 },
 {
@@ -121916,15 +121682,6 @@
 "type":"claim"
 },
 {
-"description":"Studies measuring multiple aspects of sleep by questionnaire more often find sleep–EF associations than studies measuring sleep duration by actigraphy",
-"evidence_strength":"weak",
-"id":"questionnaire-multiaspect-sleep-vs-actigraphy-duration-ef",
-"path":"claims/questionnaire-multiaspect-sleep-vs-actigraphy-duration-ef.md",
-"status":"review",
-"title":"Studies measuring multiple aspects of sleep by questionnaire more often find sleep–EF associations than studies measuring sleep duration by actigraphy",
-"type":"claim"
-},
-{
 "description":"Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium",
 "evidence_strength":"moderate",
 "id":"quiz-accuracy-declines-after-one-week-delay",
@@ -122426,15 +122183,6 @@
 "path":"claims/ranch-road-traffic-noise-enhanced-episodic-memory.md",
 "status":"review",
 "title":"In the RANCH study, increasing road traffic noise exposure was associated with enhanced episodic memory, an unexplained counter-intuitive finding",
-"type":"claim"
-},
-{
-"description":"Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group",
-"evidence_strength":"moderate",
-"id":"random-assignment-produced-comparable-feedback-groups",
-"path":"claims/random-assignment-produced-comparable-feedback-groups.md",
-"status":"review",
-"title":"Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group",
 "type":"claim"
 },
 {
@@ -125276,15 +125024,6 @@
 "path":"claims/registered-apprenticeship-sector-impacts-it-healthcare-manufacturing.md",
 "status":"review",
 "title":"Registered apprenticeship had strong ninth-quarter employment and earnings impacts for IT, healthcare, and advanced manufacturing sectors",
-"type":"claim"
-},
-{
-"description":"Conventional regression models cannot consistently estimate effects of time-varying treatments when time-varying confounders are affected by past treatment",
-"evidence_strength":"moderate",
-"id":"regression-fails-time-varying-confounders-affected-by-treatment",
-"path":"claims/regression-fails-time-varying-confounders-affected-by-treatment.md",
-"status":"review",
-"title":"Conventional regression models cannot consistently estimate effects of time-varying treatments when time-varying confounders are affected by past treatment",
 "type":"claim"
 },
 {
@@ -130402,15 +130141,6 @@
 "path":"claims/sbp-improves-nutrition-not-attendance.md",
 "status":"review",
 "title":"A binding SBP mandate increases milk and fruit consumption and decreases soda consumption, but its effects on attendance are imprecise, suggesting the achievement effect operates through improved nutrition",
-"type":"claim"
-},
-{
-"description":"Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency",
-"evidence_strength":"moderate",
-"id":"sbp-mandate-falsification-tests-null",
-"path":"claims/sbp-mandate-falsification-tests-null.md",
-"status":"review",
-"title":"Falsification tests show a binding SBP mandate is unrelated to achievement upon school entry, Title I funding, principal experience, and vigorous exercise frequency",
 "type":"claim"
 },
 {
@@ -154692,15 +154422,6 @@
 "type":"claim"
 },
 {
-"description":"Exploratory factor analysis grouped literacy-predictor variables into three factors: phonological memory with phonological awareness, rapid naming, and visual processing",
-"evidence_strength":"weak",
-"id":"three-factor-structure-phonological-processing-variables",
-"path":"claims/three-factor-structure-phonological-processing-variables.md",
-"status":"review",
-"title":"Exploratory factor analysis grouped literacy-predictor variables into three factors: phonological memory with phonological awareness, rapid naming, and visual processing",
-"type":"claim"
-},
-{
 "description":"Three factors influenced adoption of the SST agenda tool: lack of guided practice, inconsistent routines, and value not visible to teachers",
 "evidence_strength":"moderate",
 "id":"three-factors-sst-tool-adoption",
@@ -158605,15 +158326,6 @@
 "type":"claim"
 },
 {
-"description":"Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility",
-"evidence_strength":"moderate",
-"id":"two-factor-ef-model-kindergarten",
-"path":"claims/two-factor-ef-model-kindergarten.md",
-"status":"review",
-"title":"Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility",
-"type":"claim"
-},
-{
 "description":"Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable",
 "evidence_strength":"moderate",
 "id":"two-force-plate-impulse-asymmetry-student-project",
@@ -158629,15 +158341,6 @@
 "path":"claims/two-gendered-classroom-cultures.md",
 "status":"review",
 "title":"Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space",
-"type":"claim"
-},
-{
-"description":"Teacher closeness and peer interaction measures load onto a single latent interpersonal relationships factor alongside a latent emotion knowledge factor",
-"evidence_strength":"moderate",
-"id":"two-latent-factors-relationships-emotion-knowledge",
-"path":"claims/two-latent-factors-relationships-emotion-knowledge.md",
-"status":"review",
-"title":"Teacher closeness and peer interaction measures load onto a single latent interpersonal relationships factor alongside a latent emotion knowledge factor",
 "type":"claim"
 },
 {
@@ -159615,30 +159318,12 @@
 "type":"claim"
 },
 {
-"description":"A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language",
-"evidence_strength":"weak",
-"id":"unitary-ec-factor-preferred-preschool",
-"path":"claims/unitary-ec-factor-preferred-preschool.md",
-"status":"review",
-"title":"A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language",
-"type":"claim"
-},
-{
 "description":"When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)",
 "evidence_strength":"moderate",
 "id":"unitary-format-worked-examples-superior-conventional-problems",
 "path":"claims/unitary-format-worked-examples-superior-conventional-problems.md",
 "status":"review",
 "title":"When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)",
-"type":"claim"
-},
-{
-"description":"The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups",
-"evidence_strength":"moderate",
-"id":"unitary-speed-model-poorer-fit-canadian-greek",
-"path":"claims/unitary-speed-model-poorer-fit-canadian-greek.md",
-"status":"review",
-"title":"The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups",
 "type":"claim"
 },
 {
@@ -164789,15 +164474,6 @@
 "path":"claims/word-learning-predicts-vocabulary-ci.md",
 "status":"review",
 "title":"Word-learning performance correlates with later vocabulary size in children with cochlear implants",
-"type":"claim"
-},
-{
-"description":"Word reading and comprehension form distinct latent factors, supporting that the two constructs are separable with potentially different cognitive predictors",
-"evidence_strength":"moderate",
-"id":"word-reading-comprehension-distinct-factors",
-"path":"claims/word-reading-comprehension-distinct-factors.md",
-"status":"review",
-"title":"Word reading and comprehension form distinct latent factors, supporting that the two constructs are separable with potentially different cognitive predictors",
 "type":"claim"
 },
 {
@@ -260850,7 +260526,6 @@
 "8th-grade-on-track-nsi-math-percentile-gain":"8th-grade-on-track-nsi-math-percentile-gain",
 "8th-grade-on-track-nsi-no-impacts-year-two":"8th-grade-on-track-nsi-no-impacts-year-two",
 "8th-grade-on-track-nsi-null-ela-attendance-suspension":"8th-grade-on-track-nsi-null-ela-attendance-suspension",
-"94-percent-adolescent-creativity-studies-ignore-social-context":"94-percent-adolescent-creativity-studies-ignore-social-context",
 "95-improving-schools-extra-half-year-reading-1-25-math":"95-improving-schools-extra-half-year-reading-1-25-math",
 "95-percent-us-schools-conduct-lockdown-drills":"95-percent-us-schools-conduct-lockdown-drills",
 "969-percent-experts-prefer-remediation-workflow":"969-percent-experts-prefer-remediation-workflow",
@@ -261983,7 +261658,6 @@
 "aivaluate-sus-usability-good-range":"aivaluate-sus-usability-good-range",
 "aivaluate-thematic-advantages-and-limitations":"aivaluate-thematic-advantages-and-limitations",
 "aixspeed-adaptive-playback-higher-listenability":"aixspeed-adaptive-playback-higher-listenability",
-"akaike-weights-favor-mutualism":"akaike-weights-favor-mutualism",
 "al-simple-effects-mirror-human-pattern":"al-simple-effects-mirror-human-pattern",
 "alabama-cybersecurity-demand-18778-employed-8373-openings":"alabama-cybersecurity-demand-18778-employed-8373-openings",
 "alas-progressing-completing-null-follow-up":"alas-progressing-completing-null-follow-up",
@@ -262294,7 +261968,6 @@
 "asap-increases-degree-attainment":"asap-increases-degree-attainment",
 "asap-null-sixth-semester-any-college-enrollment":"asap-null-sixth-semester-any-college-enrollment",
 "asd-flexibility-deficit-intact-inhibition":"asd-flexibility-deficit-intact-inhibition",
-"asd-neuroimaging-flexibility-inconsistent":"asd-neuroimaging-flexibility-inconsistent",
 "asd-teens-cyberbullying-targets-missed-cues":"asd-teens-cyberbullying-targets-missed-cues",
 "asd-teens-vulnerable-compulsive-internet-use":"asd-teens-vulnerable-compulsive-internet-use",
 "ase-stress-and-si-dependence-null-paths":"ase-stress-and-si-dependence-null-paths",
@@ -263275,7 +262948,6 @@
 "center-difficulty-difficulty-degradation-llms":"center-difficulty-difficulty-degradation-llms",
 "centering-teacher-of-color-voice-distributed-leadership":"centering-teacher-of-color-voice-distributed-leadership",
 "central-executive-coordinates-language-learning-functions":"central-executive-coordinates-language-learning-functions",
-"central-executive-focus-attention-distinct-factors":"central-executive-focus-attention-distinct-factors",
 "central-object-change-detection-low-without-cueing":"central-object-change-detection-low-without-cueing",
 "central-office-relationships-stronger-at-top-with-rifts-among-other-staff":"central-office-relationships-stronger-at-top-with-rifts-among-other-staff",
 "centralized-enrollment-builds-family-awareness":"centralized-enrollment-builds-family-awareness",
@@ -263883,8 +263555,6 @@
 "cms-communication-null":"cms-communication-null",
 "cms-criterion-validity-aq":"cms-criterion-validity-aq",
 "cms-criterion-validity-bcis":"cms-criterion-validity-bcis",
-"cms-one-factor-five-items":"cms-one-factor-five-items",
-"cms-positive-adjective-items":"cms-positive-adjective-items",
 "cms-reliability-icc-alpha":"cms-reliability-icc-alpha",
 "cmt-alignment-cosine-similarity-0962":"cmt-alignment-cosine-similarity-0962",
 "cnn-lstm-multitask-oral-diagnostic-accuracy":"cnn-lstm-multitask-oral-diagnostic-accuracy",
@@ -264472,7 +264142,6 @@
 "control-external-obligation-techno-optimism":"control-external-obligation-techno-optimism",
 "control-flow-ordering-errors-context-dependent":"control-flow-ordering-errors-context-dependent",
 "control-group-gains-limited-reading-total":"control-group-gains-limited-reading-total",
-"control-groups-no-vds-change":"control-groups-no-vds-change",
 "control-positive-prime-facilitation-arithmetic":"control-positive-prime-facilitation-arithmetic",
 "control-score-distributions-vary-by-domain":"control-score-distributions-vary-by-domain",
 "control-started-higher-basic-value":"control-started-higher-basic-value",
@@ -264903,7 +264572,6 @@
 "cross-role-threads-adversarial-integrity-contact":"cross-role-threads-adversarial-integrity-contact",
 "cross-school-variation-student-teacher-relationships-ontrack":"cross-school-variation-student-teacher-relationships-ontrack",
 "cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing":"cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing",
-"cross-sectional-design-limits-causal-inference-lifestyle-achievement":"cross-sectional-design-limits-causal-inference-lifestyle-achievement",
 "cross-sectional-view-full-sample-attrition-caveat":"cross-sectional-view-full-sample-attrition-caveat",
 "cross-sector-enthusiasm-competency-recognition-k12":"cross-sector-enthusiasm-competency-recognition-k12",
 "cross-sector-partnership-success-characteristics":"cross-sector-partnership-success-characteristics",
@@ -264977,7 +264645,6 @@
 "cube-reasoning-transfers-to-non-cube-permutation-tasks":"cube-reasoning-transfers-to-non-cube-permutation-tasks",
 "cube-tower-sequence-elaborated-cf-instantiation":"cube-tower-sequence-elaborated-cf-instantiation",
 "cue-effects-forgetting-slip-small-reductions":"cue-effects-forgetting-slip-small-reductions",
-"cue-responses-no-interest-arousal-difference":"cue-responses-no-interest-arousal-difference",
 "cued-free-recall-interaction-varied-constant-distribution":"cued-free-recall-interaction-varied-constant-distribution",
 "cueing-outcompetes-signalling-alone-for-attention":"cueing-outcompetes-signalling-alone-for-attention",
 "cues-eliminate-set-size-controls-not-awd":"cues-eliminate-set-size-controls-not-awd",
@@ -265019,9 +264686,7 @@
 "curiosity-driver-mistrust-barrier-llm-learning":"curiosity-driver-mistrust-barrier-llm-learning",
 "curiosity-enhances-learning":"curiosity-enhances-learning",
 "curiosity-enhances-trivia-memory-children-adolescents":"curiosity-enhances-trivia-memory-children-adolescents",
-"curiosity-factor-analytic-dimensions":"curiosity-factor-analytic-dimensions",
 "curiosity-gains-generalize-across-models-domains-complexity":"curiosity-gains-generalize-across-models-domains-complexity",
-"curiosity-interest-one-factor-cfa":"curiosity-interest-one-factor-cfa",
 "curiosity-interventions-increase-exploratory-learner-behaviors":"curiosity-interventions-increase-exploratory-learner-behaviors",
 "curiosity-knowledge-gap-balance-engagement-memory":"curiosity-knowledge-gap-balance-engagement-memory",
 "curiosity-may-be-unaffected-by-age-or-schooling":"curiosity-may-be-unaffected-by-age-or-schooling",
@@ -265999,13 +265664,10 @@
 "ebt-enactment-residualized-learning-correlation":"ebt-enactment-residualized-learning-correlation",
 "ec-activation-model-specific-to-effortful-control":"ec-activation-model-specific-to-effortful-control",
 "ec-credential-barriers-cost-time-navigation":"ec-credential-barriers-cost-time-navigation",
-"ec-distinct-factor-by-age-5-25":"ec-distinct-factor-by-age-5-25",
 "ec-educator-preparation-important-for-preschool-success":"ec-educator-preparation-important-for-preschool-success",
 "ec-loadings-strengthen-stabilize-preschool":"ec-loadings-strengthen-stabilize-preschool",
-"ec-not-distinct-from-processing-speed-at-age-3":"ec-not-distinct-from-processing-speed-at-age-3",
 "ec-predicts-math-from-3-75-onward":"ec-predicts-math-from-3-75-onward",
 "ec-program-low-burden-to-teachers":"ec-program-low-burden-to-teachers",
-"ec-subscales-load-onto-latent-factor":"ec-subscales-load-onto-latent-factor",
 "ec-tutoring-improves-reading-comprehension":"ec-tutoring-improves-reading-comprehension",
 "ece-access-gaps-preschool-head-start-participation":"ece-access-gaps-preschool-head-start-participation",
 "ece-attendance-long-term-health-benefits":"ece-attendance-long-term-health-benefits",
@@ -266164,7 +265826,6 @@
 "ef-increases-with-age-kas-does-not":"ef-increases-with-age-kas-does-not",
 "ef-no-direct-effect-syntactic-complexity-story-content":"ef-no-direct-effect-syntactic-complexity-story-content",
 "ef-not-predictor-first-grade-reading":"ef-not-predictor-first-grade-reading",
-"ef-pca-three-factors-children":"ef-pca-three-factors-children",
 "ef-predictors-of-achievement-differ-across-grades":"ef-predictors-of-achievement-differ-across-grades",
 "ef-predicts-preschool-math-growth":"ef-predicts-preschool-math-growth",
 "ef-rt-visuospatial-wm-correlations":"ef-rt-visuospatial-wm-correlations",
@@ -267015,8 +266676,6 @@
 "facilitation-converts-physical-to-epistemological-access":"facilitation-converts-physical-to-epistemological-access",
 "facilitator-speech-definition-performance-ceiling":"facilitator-speech-definition-performance-ceiling",
 "facilities-ratings-rise-with-enrollment-size":"facilities-ratings-rise-with-enrollment-size",
-"factor-analysis-multiplication-second-component":"factor-analysis-multiplication-second-component",
-"factorial-invariance-not-sufficient-necessary-for-change":"factorial-invariance-not-sufficient-necessary-for-change",
 "factors-driving-alternative-certification-growth":"factors-driving-alternative-certification-growth",
 "factors-shaping-grammar-beliefs-outside-use-top":"factors-shaping-grammar-beliefs-outside-use-top",
 "factria-chatbot-increases-subfactors-considered":"factria-chatbot-increases-subfactors-considered",
@@ -267612,7 +267271,6 @@
 "four-day-week-stakeholder-satisfaction":"four-day-week-stakeholder-satisfaction",
 "four-day-week-teacher-recruitment-qualitative":"four-day-week-teacher-recruitment-qualitative",
 "four-difficulty-themes-textbook-listening":"four-difficulty-themes-textbook-listening",
-"four-distinct-cognitive-factors-stable-across-ages":"four-distinct-cognitive-factors-stable-across-ages",
 "four-dominant-bertopic-topics-aied-twitter":"four-dominant-bertopic-topics-aied-twitter",
 "four-equity-schools-rising-achievement-all-subgroups":"four-equity-schools-rising-achievement-all-subgroups",
 "four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging":"four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging",
@@ -268713,7 +268371,6 @@
 "high-and-low-achievers-benefit-authentic-assignments":"high-and-low-achievers-benefit-authentic-assignments",
 "high-and-low-achievers-benefit-from-quality-assignments":"high-and-low-achievers-benefit-from-quality-assignments",
 "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load":"high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load",
-"high-attrition-noncompleters-differ":"high-attrition-noncompleters-differ",
 "high-but-heterogeneous-voluntary-ai-discussion-uptake":"high-but-heterogeneous-voluntary-ai-discussion-uptake",
 "high-cf-higher-rule-acquisition-rate-probabilistic":"high-cf-higher-rule-acquisition-rate-probabilistic",
 "high-cf-post-learning-accuracy-advantage":"high-cf-post-learning-accuracy-advantage",
@@ -269613,7 +269270,6 @@
 "internet-literacy-lower-test-anxiety":"internet-literacy-lower-test-anxiety",
 "internet-skills-convergent-validity-use":"internet-skills-convergent-validity-use",
 "internet-skills-scale-reliability-omega":"internet-skills-scale-reliability-omega",
-"internet-skills-scale-three-factor-structure-latin-american":"internet-skills-scale-three-factor-structure-latin-american",
 "internet-use-frequency-longitudinal-gray-matter-verbal-iq":"internet-use-frequency-longitudinal-gray-matter-verbal-iq",
 "internet-use-reduced-depression-seniors-cited":"internet-use-reduced-depression-seniors-cited",
 "interpersonal-relationships-top-student-concern-30-61":"interpersonal-relationships-top-student-concern-30-61",
@@ -269677,7 +269333,6 @@
 "ips-with-adult-support-and-review-associated-outcomes":"ips-with-adult-support-and-review-associated-outcomes",
 "ipsd-competency-map-pilot-title-i-pd":"ipsd-competency-map-pilot-title-i-pd",
 "ipsd-title-i-computing-equity-goal":"ipsd-title-i-computing-equity-goal",
-"ipt-estimates-larger-than-regression-estimates":"ipt-estimates-larger-than-regression-estimates",
 "iq-and-study-habits-opposite-effects-on-achievement-change":"iq-and-study-habits-opposite-effects-on-achievement-change",
 "iq-and-study-habits-predict-elementary-achievement-56-59-percent":"iq-and-study-habits-predict-elementary-achievement-56-59-percent",
 "iq-and-wm-predict-early-academic-achievement":"iq-and-wm-predict-early-academic-achievement",
@@ -270044,7 +269699,6 @@
 "kolb-learning-style-stable-over-one-year":"kolb-learning-style-stable-over-one-year",
 "kra-overall-score-predicts-grade3-as-well-as-subscores":"kra-overall-score-predicts-grade3-as-well-as-subscores",
 "kra-subset-administration-greatly-reduces-growth-precision":"kra-subset-administration-greatly-reduces-growth-precision",
-"kreitler-five-curiosity-factors":"kreitler-five-curiosity-factors",
 "ksa-dimensions-weakly-negative-correlated-llms":"ksa-dimensions-weakly-negative-correlated-llms",
 "kt-algorithm-fixed-point-parameter-constraints":"kt-algorithm-fixed-point-parameter-constraints",
 "kt-algorithm-no-identifiability-problem":"kt-algorithm-no-identifiability-problem",
@@ -271865,7 +271519,6 @@
 "msr-mediation-ai-interaction-outcomes":"msr-mediation-ai-interaction-outcomes",
 "mtes-aick-tk-lowest-medium-level-basic-stage":"mtes-aick-tk-lowest-medium-level-basic-stage",
 "mtg-activation-benefits-limited-moderate-noise-older":"mtg-activation-benefits-limited-moderate-noise-older",
-"mto-conservative-estimates-sustained-exposure":"mto-conservative-estimates-sustained-exposure",
 "mto-reanalysis-exposure-duration-matters":"mto-reanalysis-exposure-duration-matters",
 "mtp-s-no-significant-effect-intervention-year":"mtp-s-no-significant-effect-intervention-year",
 "mtp-s-potentially-positive-general-achievement":"mtp-s-potentially-positive-general-achievement",
@@ -272405,7 +272058,6 @@
 "no-multiple-choice-difference-prompted-ai-learning":"no-multiple-choice-difference-prompted-ai-learning",
 "no-named-technologies-standards-scope":"no-named-technologies-standards-scope",
 "no-objectives-group-most-positive-attitudes":"no-objectives-group-most-positive-attitudes",
-"no-operational-definition-childrens-curiosity":"no-operational-definition-childrens-curiosity",
 "no-organization-effect-on-local-tasks":"no-organization-effect-on-local-tasks",
 "no-pattern-difference-infocom-temporal":"no-pattern-difference-infocom-temporal",
 "no-perceived-learning-difference-across-modes":"no-perceived-learning-difference-across-modes",
@@ -274131,7 +273783,6 @@
 "prior-review-larger-unsustained-effect":"prior-review-larger-unsustained-effect",
 "prior-reviews-reading-internalising-narrative":"prior-reviews-reading-internalising-narrative",
 "prior-studies-el-non-el-course-access-gaps":"prior-studies-el-non-el-course-access-gaps",
-"prior-studies-underpowered-thousands-required":"prior-studies-underpowered-thousands-required",
 "prior-technology-meta-analyses-inconsistent-effects":"prior-technology-meta-analyses-inconsistent-effects",
 "prior-threshold-studies-limited-scale":"prior-threshold-studies-limited-scale",
 "prior-training-higher-3e-scores":"prior-training-higher-3e-scores",
@@ -274167,7 +273818,6 @@
 "probation-support-implementation-constraints":"probation-support-implementation-constraints",
 "probation-support-relies-on-traditional-workshops":"probation-support-relies-on-traditional-workshops",
 "probe-data-path-separation-peer-tutoring":"probe-data-path-separation-peer-tutoring",
-"probe-error-rates-null-speed-accuracy":"probe-error-rates-null-speed-accuracy",
 "probing-feedback-revise-resubmit-evidence":"probing-feedback-revise-resubmit-evidence",
 "problem-based-larger-knowledge-gains":"problem-based-larger-knowledge-gains",
 "problem-based-principal-preparation-self-efficacy":"problem-based-principal-preparation-self-efficacy",
@@ -274571,7 +274221,6 @@
 "questioning-strategies-improve-learning":"questioning-strategies-improve-learning",
 "questionnaire-constructs-internal-consistency":"questionnaire-constructs-internal-consistency",
 "questionnaire-measures-poor-fit-young-children":"questionnaire-measures-poor-fit-young-children",
-"questionnaire-multiaspect-sleep-vs-actigraphy-duration-ef":"questionnaire-multiaspect-sleep-vs-actigraphy-duration-ef",
 "quiz-accuracy-declines-after-one-week-delay":"quiz-accuracy-declines-after-one-week-delay",
 "quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics":"quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics",
 "quiz-repetition-bug-simulation-blind-spot":"quiz-repetition-bug-simulation-blind-spot",
@@ -274628,7 +274277,6 @@
 "ran-deficit-independent-construct":"ran-deficit-independent-construct",
 "ran-weakly-related-adult-comprehension":"ran-weakly-related-adult-comprehension",
 "ranch-road-traffic-noise-enhanced-episodic-memory":"ranch-road-traffic-noise-enhanced-episodic-memory",
-"random-assignment-produced-comparable-feedback-groups":"random-assignment-produced-comparable-feedback-groups",
 "random-assignment-study-data-use-coaching-effects":"random-assignment-study-data-use-coaching-effects",
 "random-experts-collapse-lpr-performance":"random-experts-collapse-lpr-performance",
 "random-forest-best-auc-flagged-problems":"random-forest-best-auc-flagged-problems",
@@ -274956,7 +274604,6 @@
 "registered-apprenticeship-ninth-quarter-earnings-impacts":"registered-apprenticeship-ninth-quarter-earnings-impacts",
 "registered-apprenticeship-ninth-quarter-employment-impacts":"registered-apprenticeship-ninth-quarter-employment-impacts",
 "registered-apprenticeship-sector-impacts-it-healthcare-manufacturing":"registered-apprenticeship-sector-impacts-it-healthcare-manufacturing",
-"regression-fails-time-varying-confounders-affected-by-treatment":"regression-fails-time-varying-confounders-affected-by-treatment",
 "regression-gpa-predictor-controls":"regression-gpa-predictor-controls",
 "regression-native-signing-maternal-education-bilingual":"regression-native-signing-maternal-education-bilingual",
 "regression-predictors-of-ai-assessment-preferences":"regression-predictors-of-ai-assessment-preferences",
@@ -275539,7 +275186,6 @@
 "sble-unrelated-learning-outcomes":"sble-unrelated-learning-outcomes",
 "sbp-availability-increases-ecls-k-achievement":"sbp-availability-increases-ecls-k-achievement",
 "sbp-improves-nutrition-not-attendance":"sbp-improves-nutrition-not-attendance",
-"sbp-mandate-falsification-tests-null":"sbp-mandate-falsification-tests-null",
 "sbp-mandate-heterogeneity-low-income-males":"sbp-mandate-heterogeneity-low-income-males",
 "sbp-mandate-increases-naep-achievement-dd":"sbp-mandate-increases-naep-achievement-dd",
 "sbp-mandate-naep-rd-achievement":"sbp-mandate-naep-rd-achievement",
@@ -278319,7 +277965,6 @@
 "three-elementary-math-curricula-outperform-fourth-two-years":"three-math-curricula-outperform-fourth-after-two-years",
 "three-factor-model-invariance-across-preschool-ages":"three-factor-model-invariance-across-preschool-ages",
 "three-factor-structure-emergent-writing-preschoolers":"three-factor-structure-emergent-writing-preschoolers",
-"three-factor-structure-phonological-processing-variables":"three-factor-structure-phonological-processing-variables",
 "three-factors-sst-tool-adoption":"three-factors-sst-tool-adoption",
 "three-genai-learner-profiles":"three-genai-learner-profiles",
 "three-group-exploratory-analyses-consistent":"three-group-exploratory-analyses-consistent",
@@ -278762,10 +278407,8 @@
 "two-attitude-clusters-differ-preparedness-confidence":"two-attitude-clusters-differ-preparedness-confidence",
 "two-bouts-better-than-one-selective-attention":"two-bouts-better-than-one-selective-attention",
 "two-components-post-covid-school-recovery-patterns":"two-components-post-covid-school-recovery-patterns",
-"two-factor-ef-model-kindergarten":"two-factor-ef-model-kindergarten",
 "two-force-plate-impulse-asymmetry-student-project":"two-force-plate-impulse-asymmetry-student-project",
 "two-gendered-classroom-cultures":"two-gendered-classroom-cultures",
-"two-latent-factors-relationships-emotion-knowledge":"two-latent-factors-relationships-emotion-knowledge",
 "two-million-student-map-growth-gender-gaps-achievement-levels":"two-million-student-map-growth-gender-gaps-achievement-levels",
 "two-part-collaborative-assessment-learning-experience":"two-part-collaborative-assessment-learning-experience",
 "two-sleep-health-classes-prek-low-income":"two-sleep-health-classes-prek-low-income",
@@ -278878,9 +278521,7 @@
 "unintended-consequences-framing-generative":"unintended-consequences-framing-generative",
 "unique-graphs-source-of-innovation":"unique-graphs-source-of-innovation",
 "unit-test-negative-correlation-human-judgment":"unit-test-negative-correlation-human-judgment",
-"unitary-ec-factor-preferred-preschool":"unitary-ec-factor-preferred-preschool",
 "unitary-format-worked-examples-superior-conventional-problems":"unitary-format-worked-examples-superior-conventional-problems",
-"unitary-speed-model-poorer-fit-canadian-greek":"unitary-speed-model-poorer-fit-canadian-greek",
 "univariate-lcs-growth-negative-feedback":"univariate-lcs-growth-negative-feedback",
 "universal-classroom-management-reduces-problem-behavior":"universal-classroom-management-reduces-problem-behavior",
 "universal-cognition-statements-weight-volume-only":"universal-cognition-statements-weight-volume-only",
@@ -279459,7 +279100,6 @@
 "word-embedding-classifiers-predict-item-quality-vi":"word-embedding-classifiers-predict-item-quality-vi",
 "word-learning-correlates-nh-vocabulary":"word-learning-correlates-nh-vocabulary",
 "word-learning-predicts-vocabulary-ci":"word-learning-predicts-vocabulary-ci",
-"word-reading-comprehension-distinct-factors":"word-reading-comprehension-distinct-factors",
 "word-reading-comprehension-relation-age-invariant":"word-reading-comprehension-relation-age-invariant",
 "word-reading-ct-temporoparietal-occipitotemporal-chinese-children":"word-reading-ct-temporoparietal-occipitotemporal-chinese-children",
 "word-reading-regions-predict-distinct-subcomponents":"word-reading-regions-predict-distinct-subcomponents",

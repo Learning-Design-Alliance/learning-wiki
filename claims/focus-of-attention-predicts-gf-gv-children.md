@@ -62,7 +62,7 @@ Correlational analysis of the Cowan model factors with Gf and Gv factors in the 
 
 
 ## Related Claims
-- [Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children](central-executive-focus-attention-distinct-factors.md) — related
+- Central executive and focus of attention factors were highly correlated but statistically distinct, warranting separate factors in young children — related
 - [A common attentional component is needed for feature binding, running digit span, and visual short-term memory tasks, while phonological storage is separate](common-attentional-component-binding-running-span-visual-stm.md) — related
 - [Cowan's three-factor embedded processes model fit young children's working memory data slightly better than Baddeley and Hitch's three-factor model and decisively better than Baddeley's four-factor episodic buffer model](cowan-embedded-processes-model-best-fit-young-children.md) — related
 - [Digit span running loaded on the focus of attention factor rather than the phonological factor, supporting Cowan's claim that running span performance reflects attentional capacity](digit-span-running-loads-focus-of-attention.md) — related

@@ -43,7 +43,7 @@ Structural equation modeling compared three nested theory-driven models (distinc
 
 
 ## Related Claims
-- [The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups](unitary-speed-model-poorer-fit-canadian-greek.md) — related
+- The unitary ability processing speed model fits significantly worse than the bifactor model in the Canadian and Greek groups — related
 - [The distinct abilities structure of processing speed is invariant across Chinese, Canadian, and Greek cultural groups](processing-speed-structure-invariant-across-cultures.md) — related
 - [Successive processing measures show the fewest significant correlations with other speeded measures, particularly in Chinese and Greek groups](successive-processing-measures-least-correlated.md) — related
 - [The increased efficiency effect threatens the validity of response-time models that presume item response time is influenced only by item time intensity, ability, and working speed](increased-efficiency-threatens-response-time-model-validity.md) — related

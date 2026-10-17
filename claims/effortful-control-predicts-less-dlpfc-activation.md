@@ -46,6 +46,6 @@ SEM analysis of 123 preschoolers' fNIRS data during a Pet Store Stroop task foun
 - [Attentional focusing is the only effortful control subdomain associated with DLPFC activation when controlling for age and accuracy](attentional-focusing-only-subdomain-associated-with-dlpfc-activation.md) — related
 - [The effortful control–DLPFC activation model is specific to effortful control, not to negative affectivity or surgency](ec-activation-model-specific-to-effortful-control.md) — related
 - [Greater temperamental effortful control predicts better cognitive flexibility task accuracy in preschoolers](effortful-control-predicts-better-cognitive-flexibility-accuracy.md) — related
-- [The four effortful control subscales load onto a single latent factor in preschoolers](ec-subscales-load-onto-latent-factor.md) — related
+- The four effortful control subscales load onto a single latent factor in preschoolers — related
 - [Children are more accurate and faster on NonStroop than Stroop trials of the Pet Store Stroop task](nonstroop-more-accurate-faster-than-stroop.md) — related
 - [The Stroop condition elicits significantly more left DLPFC activation than the NonStroop condition in preschoolers](stroop-condition-elicits-more-left-dlpfc-activation.md) — related
