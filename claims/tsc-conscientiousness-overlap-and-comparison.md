@@ -29,7 +29,7 @@ sources:
 
 Schmidt FTC, Lindner C, Etzel JM and Retelsdorf J (2020) Self-Control Outdoes Fluid Reasoning in Explaining Vocational and Academic Performance—But Does It? Front. Psychol. 11:757. https://doi.org/10.3389/fpsyg.2020.00757
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Correlational and regression results for N = 3,146 trainees; Table 1 prints a TSC–conscientiousness correlation of 0.58 ("shared variance 34%"), and the discussion notes conscientiousness "showed overall slightly stronger associations with mGPA".
 

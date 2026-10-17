@@ -31,7 +31,7 @@ sources:
 
 Tiago Ferreira, Joana Cadima, Marisa Matias, Joana Marina Vieira, and Teresa Leal; Karine Verschueren; Paula Mena Matos. (2018). Trajectories of Parental Engagement in Early Childhood Among Dual-Earner Families: Effects on Child Self-Control. Developmental Psychology, 54(4), 731–743. https://doi.org/10.1037/dev0000458
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Conditional latent growth curve models with work-family conflict as a time-varying covariate, tested separately for mothers and fathers. The article reports "a significant negative effect of WFC on mothers’ engagement rates, stable across T1, T2, and T3" with identical unstandardized coefficients at each wave.
 

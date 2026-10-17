@@ -76,3 +76,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — a broader claim this one bears on
+- [After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms](after-school-richer-interaction-than-classroom.md) — related

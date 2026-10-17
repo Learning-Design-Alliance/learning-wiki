@@ -44,3 +44,4 @@ Experiment 2 hierarchical regression with 71 children aged 7.8-10.5 years using 
 
 ## Related Claims
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
+- [Mathematics achievement is more strongly related to inhibition measured in numerical than non-numerical contexts](numerical-inhibition-stronger-math-achievement-link.md) — related

@@ -44,3 +44,4 @@ Logistic regression analysis leveraging the Agency for Healthcare Research and Q
 
 ## Related Claims
 - [After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-credit shares were no longer significant](conditional-regression-need-factors-milestones.md) — related
+- [The WSCC model explicitly incorporates the five social determinants of health and aligns health and education sector goals](wscc-incorporates-social-determinants.md) — related

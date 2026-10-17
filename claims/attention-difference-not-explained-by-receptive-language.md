@@ -51,3 +51,4 @@ ANCOVA comparing attended–unattended difference scores across the two maternal
 - [The effect of selective auditory attention on early neural processing differs between children of higher and lower maternal education (significant group × attention interaction within 100–200 msec)](erp-group-attention-interaction-maternal-education.md) — related
 - [Children of higher and lower maternal education did not differ on on-task comprehension of attended stories during the ERP task](no-group-difference-attended-story-comprehension.md) — related
 - [Group differences in receptive language did not hold when controlling for SES, and receptive language was the covariate retained in the main analyses](receptive-language-group-differences-ses-mediated.md) — related
+- [ERPs reveal SES disparities in children's auditory attention filtering even when behavioral task performance shows no significant SES difference](erp-greater-sensitivity-than-behavior-for-ses-attention.md) — related

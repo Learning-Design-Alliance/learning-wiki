@@ -82,6 +82,9 @@ Social supports are the people available to help a learner if needed, and the le
 - [The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low](../claims/autonomy-teacher-support-compensatory-interaction-digital-skills.md) [~W] — an instructional effect differs with it
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](../claims/virtual-communities-counter-supervision-isolation.md) [+M] — instruction changes it
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](../claims/parent-to-parent-forums-community-support.md) [+M] — instruction changes it
+- [High family social support is associated with lower odds of depressive symptoms](../claims/high-family-support-lower-depression.md) [+W] — learners who differ on it differ in outcomes
+- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](../claims/moderate-family-support-buffers-achievement.md) [~W] — an instructional effect differs with it
+- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](../claims/social-support-no-buffer-depression.md) [-W] — an instructional effect differs with it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

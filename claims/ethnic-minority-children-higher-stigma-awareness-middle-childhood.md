@@ -68,3 +68,4 @@ Same ANOVA design applied to perceived group status. The article reports "Africa
 - [The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity](stigma-motivation-moderation-gender-ethnicity.md) — related
 - [Fourth graders report lower perceived group status than second graders, qualified by an ethnicity × grade interaction](grade-differences-perceived-group-status-interaction.md) — related
 - [Perceived group status mediates the ethnic differences in academic anxiety for African-American, Chinese, and Dominican children but not Russians](group-status-mediation-ethnic-academic-anxiety.md) — related
+- [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](ethnicity-moderates-social-academic-relations.md) — related

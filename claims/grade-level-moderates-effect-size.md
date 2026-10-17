@@ -45,3 +45,4 @@ Meta-regression moderator analyses across participant and study characteristics 
 ## Related Claims
 - [Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions](math-test-effects-larger-than-reading.md) — reports the opposite
 - [Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)](sm-effects-not-moderated-intervention-characteristics.md) — related
+- [Early reading interventions (Grades K–1) show larger effects than interventions provided in Grades 2–5](earlier-reading-intervention-larger-effects.md) — related

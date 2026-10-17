@@ -50,3 +50,4 @@ Randomized field trial by McMaster et al. (2005) with 41 first-grade nonresponde
 - Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86) — related
 - TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies — related
 - [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related
+- [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](alphabet-instruction-no-transfer-emergent-literacy.md) — related

@@ -53,6 +53,10 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Learning goals predict more positive subjective appraisals of memory performance after controlling for actual performance](../claims/learning-goals-predict-positive-subjective-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+M] — learners who differ on it differ in outcomes
 - [The indirect praise-to-achievement path is driven by trait beliefs, not learning goals](../claims/trait-beliefs-not-learning-goals-mediate-praise-achievement-link.md) [-M] — learners who differ on it differ in outcomes
+- [In Study 1, the revised intervention reduced fixed-trait attributions and performance-avoidance goals relative to the original, with small effects](../claims/revised-mindset-intervention-attributions-goals-study1.md) [+W] — instruction changes it
+- [Kindergarteners with a mastery goal orientation show better executive functions than children with a performance orientation](../claims/mastery-orientation-better-executive-functions-kindergarten.md) [+M] — learners who differ on it differ in outcomes
+- [Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)](../claims/trait-belief-goal-orientation-interaction-cbsr.md) [~M] — an instructional effect differs with it
+- [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](../claims/sem-differential-paths-mindsets-cbsr.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

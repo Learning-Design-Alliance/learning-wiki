@@ -56,8 +56,10 @@ The strategy rests on two findings: physical activity supports attention and rea
 4. Review and adjust the plan periodically using self-reports and, where available, device data; keep the emphasis on how the balance feels, not on numeric compliance.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — structures movement into the school day, complementing home-based screen balance
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small daily activity targets make the balance plan actionable
+- [Promote active play with family and peers to facilitate creativity skills and physical activity](promote-active-play-family-peers.md)
 
 ## Examples
 - **[Just Dance](https://www.ubisoft.com/en-us/game/just-dance)** and **[Ring Fit Adventure](https://www.nintendo.com/store/products/ring-fit-adventure-switch/)** — exergames used in classrooms and homes to convert screen time into moderate activity.

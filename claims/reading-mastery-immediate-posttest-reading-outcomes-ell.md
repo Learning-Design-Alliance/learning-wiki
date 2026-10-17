@@ -47,3 +47,4 @@ WWC calculations for the Gunn et al. (2000) randomized controlled trial ELL subs
 - [In the Vaughn, Cirino, et al. (2006) trial, no reading measure reached statistical significance, but five of seven effect sizes were substantively important](enhanced-proactive-reading-cirino-substantively-important-nonsignificant.md) — related
 - Students in the Readable English intervention group showed significant improvements in reading fluency and comprehension compared to the control group — related
 - TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies — related
+- [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](ell-early-reading-intervention-word-level-gains.md) — related

@@ -100,6 +100,10 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](../claims/postdiction-skills-related-to-math-accuracy-grades-1-6.md) [+M] — learners who differ on it differ in outcomes
 - [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](../claims/mixed-model-metacognitive-quality-unique-contribution.md) [+M] — learners who differ on it differ in outcomes
 - [The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15](../claims/intelligence-metacognition-predictor-turnaround.md) [~M] — learners who differ on it differ in outcomes
+- [Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it](../claims/higher-metacognition-children-felt-difficult-but-solvable.md) [+M] — learners who differ on it differ in outcomes
+- [Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning](../claims/fod-communication-associated-with-metacognition-except-planning.md) [~M] — learners who differ on it differ in outcomes
+- [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](../claims/numerical-metacognition-predicts-math-achievement.md) [~M] — learners who differ on it differ in outcomes
+- [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

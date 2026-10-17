@@ -47,3 +47,4 @@ Behavioral results section: linear regression of RT BRE on log age in the full s
 
 ## Related Claims
 - [Behavioral nonsymbolic numerosity acuity (RT and accuracy ratio effects) does not reliably predict formal math achievement in typical to high-achieving participants aged 6 to 34](behavioral-numerosity-acuity-does-not-predict-formal-math.md) — related
+- [Ratio-effect scores correlated with mathematics achievement in Experiment 1 but not in Experiment 2 with easier ratios](ratio-effect-math-correlation-mixed.md) — related

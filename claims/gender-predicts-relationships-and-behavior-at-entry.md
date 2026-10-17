@@ -46,3 +46,5 @@ In the best-fitting path model (Model 3), gender predicted child behaviors and r
 - [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](paternal-mindset-predicts-girls-not-boys.md) — related
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
+- [Bivariate correlations between social functioning and academic development are in the predicted direction but modest in strength](bivariate-social-academic-correlations-modest.md) — related
+- [Child gender predicts self-regulation trajectory membership, with girls more likely to be earlier developers](gender-predicts-self-regulation-trajectory.md) — related

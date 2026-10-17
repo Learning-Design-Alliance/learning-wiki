@@ -49,3 +49,4 @@ Profile description of the RAN Risk group (n=132, 10.86% of sample) from the LPA
 - [Kindergarten profile membership predicts differentiated 1st-grade reading patterns: the double-deficit group performed worse than all other profiles on nearly all measures](dd-profile-worst-grade1-outcomes.md) — related
 - [PA and RAN deficit profiles are over-represented in low-SES schools, while the double-deficit profile distribution is proportional to school SES group size](pa-ran-deficits-overrepresented-low-ses.md) — related
 - [Latent profile analysis of kindergarten pre-reading measures yields six distinct performance profiles, including PA risk, RAN risk, and double-deficit risk groups](six-latent-prereading-profiles-kindergarten.md) — a broader claim this one bears on
+- [RAN predicts reading deficits but not isolated writing deficits, whereas phonological awareness is worse in children with isolated writing deficits](ran-predicts-reading-not-isolated-writing.md) — related

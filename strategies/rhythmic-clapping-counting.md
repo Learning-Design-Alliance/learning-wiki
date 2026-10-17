@@ -59,8 +59,10 @@ Rhythmic clapping is a form of embodied, multimodal encoding: representing a pat
 5. Gradually increase complexity or invite students to compose and lead patterns ([Scaffolding](../elements/scaffolding.md))
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the broader embodied- enactment family; clapping is its rhythmic subset
 - [Choral Counting](choral-counting.md) — pairs naturally: counting aloud with rhythm reinforces number sequences
+- [Combine early phonological awareness training with training of the precise number-word sequence to prevent math difficulties](combine-pa-training-with-number-word-sequence-training.md)
 
 ## Examples
 - A kindergarten teacher claps "clap-clap-pause, clap-clap-clap" and students echo it, then count the claps to connect the pattern to the numbers 2 and 3.

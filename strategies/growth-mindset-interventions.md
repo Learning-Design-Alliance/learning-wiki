@@ -63,6 +63,7 @@ Mindset interventions work by changing how learners interpret difficulty: setbac
 - [Attribution retraining](../strategies/attribution-retraining.md) — the broader family of interventions changing causal explanations for success and failure
 - [Formative feedback strategies](../strategies/action-oriented-feedback.md) — supplies the "what to do next" content that makes mindset messages actionable
 - [Deliver growth mindset messages once, near the start of college or around first exams, in roughly 30-minute sessions](single-30-minute-growth-mindset-session-timing.md)
+- [Theory-guided content revisions for adolescent mindset interventions: strategies over hard work, prosocial motives, peer norms, reactance, and self-persuasion](theory-guided-mindset-content-revisions.md)
 
 ## Examples
 - **[PERTS / National Study of Learning Mindsets](https://www.perts.net)** — the scalable online two-session intervention used in Yeager et al. (2019), which raised grades for lower-achieving U.S. high school students across 65 schools.

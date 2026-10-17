@@ -77,3 +77,7 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [The study replicates Johnson and Newport (1989) and explains the apparent exceptions in that study](dekeyser-replicates-johnson-newport-1989-explains-exceptions.md) — related
 - [Early language skills predict later adolescent externalizing behavior problems](early-language-predicts-externalizing.md) — related
+- [Age and gender did not significantly predict marshmallow-task wait-times in this sample when controlling for condition](age-gender-not-significant-wait-time-predictors.md) — related
+- [About 20% of children (later developers) make few self-regulation gains in preschool and lag peers by six months to a year and a half](later-developers-few-preschool-gains.md) — related
+- [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](social-competence-positive-externalizing-negative-achievement.md) — related
+- [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related

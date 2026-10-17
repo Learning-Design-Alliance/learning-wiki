@@ -49,3 +49,4 @@ A correlational study reviewed by the article showed that "measures of working m
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — related
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — related
+- [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related

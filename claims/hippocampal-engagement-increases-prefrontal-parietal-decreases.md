@@ -47,3 +47,4 @@ Longitudinal block-design fMRI in 28 children; ROI analysis of anatomically defi
 - [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related
 - [In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity](adult-hippocampus-negative-nre-math-association.md) — related
 - [Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence](hippocampal-engagement-inverted-u-development.md) — related
+- [In the one longitudinal fMRI study, dorsolateral prefrontal engagement reached adult levels by adolescence while dorsal anterior cingulate engagement continued increasing and mediated behavioral improvement](dlpfc-adult-by-adolescence-dacc-mediation.md) — related

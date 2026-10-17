@@ -135,6 +135,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](../claims/high-performance-feedback-increases-self-efficacy-across-age-groups.md) [+M] — instruction changes it
 - [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+W] — learners who differ on it differ in outcomes
 - [Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items](../claims/older-adults-restudy-easy-items-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Community-based mathematical investigations gave students confidence to use mathematics for social change](../claims/community-based-math-social-change.md) [+M] — instruction changes it
+- [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
 
 ## The evidence by question
 

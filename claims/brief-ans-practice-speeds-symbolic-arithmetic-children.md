@@ -50,3 +50,6 @@ Experiment 1 assigned 96 first graders quasi-randomly to four training condition
 - [In Experiment 1, the numerical comparison group was more accurate on symbolic arithmetic than the line-length addition group, the only pairwise accuracy difference](numerical-comparison-beats-line-addition-symbolic-accuracy.md) — related
 - [Engaging symbolic number representations does not by itself prime subsequent symbolic arithmetic: second test-set performance declined in both training groups](symbolic-activation-insufficient-to-prime-arithmetic.md) — related
 - [The training-condition effect on symbolic arithmetic speed persists after controlling for training task reaction time and accuracy](training-effect-persists-after-task-performance-covariates.md) — related
+- [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
+- [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related
+- [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related

@@ -72,6 +72,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [~W] — instruction changes it
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](../claims/unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) [~W] — instruction changes it
 - [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](../claims/problem-solving-accuracy-age-declines-no-feedback-effect.md) [~M] — instruction changes it
+- [Portfolio analysis revealed children were critically and creatively engaged in the learning procedures](../claims/portfolio-analysis-critical-creative-engagement.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

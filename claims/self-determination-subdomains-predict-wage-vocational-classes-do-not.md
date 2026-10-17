@@ -45,3 +45,4 @@ Linear regression analysis of follow-up survey data; Table 1 reports, for exampl
 ## Related Claims
 - [High wage earners had higher total self-determination, autonomy, and psychological empowerment scores than low wage earners, controlling for intelligence](high-earners-higher-self-determination-scores.md) — a broader claim this one bears on
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
+- [The pattern of predictive relationships for self-determination differed significantly depending on which measure of self-determination was used](self-determination-predictor-patterns-vary-by-measure.md) — related

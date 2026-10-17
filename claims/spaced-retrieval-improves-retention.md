@@ -132,3 +132,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — related
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — a narrower finding that bears on this claim
+- [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](tier2-dosage-scheduling-mixed-findings.md) — related

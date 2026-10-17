@@ -146,6 +146,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](../claims/spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) [~M] — learners who differ on it differ in outcomes
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](../claims/low-guidance-longer-time-on-task.md) [+M] — instruction changes it
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](../claims/isi-teachers-stronger-classroom-management.md) [+M] — instruction changes it
+- [Preschoolers given a pedagogical demonstration of a toy function play for less time than children in interrupted, naive, or baseline conditions](../claims/pedagogical-demonstration-shortens-preschool-exploration-time.md) [+M] — instruction changes it
+- [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](../claims/tier2-dosage-scheduling-mixed-findings.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

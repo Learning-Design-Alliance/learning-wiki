@@ -47,3 +47,4 @@ A behavioural study of 100 participants aged 5-28 using an emotional go/no-go ta
 - [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — related
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
 - [Self-reported suppression use decreases between ages 9 and 15](suppression-use-decreases-ages-9-15.md) — related
+- [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related

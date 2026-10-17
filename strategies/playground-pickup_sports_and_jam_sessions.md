@@ -64,6 +64,7 @@ Informal play contexts support skill acquisition through high-volume, self-paced
 - [Free Play](free-play.md) — the broader unstructured play category this strategy operationalizes
 - [Cooperative Learning](cooperative-learning.md) — shares the small-group, interdependent structure but with assigned roles and accountability
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
+- [Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition](safe-mathematical-community-practices.md)
 
 ## Examples
 - **Music Will (formerly Little Kids Rock)** — US nonprofit whose "music as a second language" pedagogy centers classroom jam sessions on popular instruments rather than sequential formal instruction. [https://www.musicwill.org](https://www.musicwill.org)

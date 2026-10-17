@@ -25,6 +25,7 @@ A response-to-intervention framework that organizes general instruction, targete
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Three-tier RTI model for primary-grade reading: Tier 1 core instruction, Tier 2 supplemental intervention, Tier 3 intensive intervention**: The article describes RTI for early reading as a schoolwide, multitiered prevention framework in which "students are provided with evidence-based classroom reading instruction and supplemental intervention when it is needed, and decisions related to intervention are based on student assessment data." Tier 1 is evidence-based core classroom instruction with universal screening; Tier 2 is supplemental intervention for at-risk students; Tier 3 is more intensive intervention for inadequate responders. Progress is monitored with repeated curriculum-based measures, and teacher professional development supports fidelity. (Denton Carolyn A (2012))
 
 ### Claims
 
@@ -33,8 +34,8 @@ A response-to-intervention framework that organizes general instruction, targete
 
 ## Key Sources
 - Powell, S. R., & Seethaler, P. M. (2007). Grade One: Math Computation (Math Case Study #1). https://eric.ed.gov/?id=ED502453
-
 <!-- merged 2026-10-10 from theories/three-level-rti-prevention-model-case-study ("Three-level RTI prevention model for identifying learning disabilities"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Denton Carolyn A. (2012). Response to Intervention for Reading Difficulties in the Primary Grades: Some Answers and Lingering Questions. Journal of Learning Disabilities. https://doi.org/10.1177/0022219412442155
 
 # Three-level RTI prevention model for identifying learning disabilities
 

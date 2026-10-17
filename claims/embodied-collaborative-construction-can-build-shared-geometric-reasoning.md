@@ -63,3 +63,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — a narrower finding that bears on this claim
+- [Folding back to inner layers of understanding supported Grade 10 learners' geometric reasoning on proof tasks](folding-back-supported-grade10-geometric-reasoning.md) — related

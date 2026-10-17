@@ -31,7 +31,7 @@ sources:
 
 Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K. (2012). Predicting Word Reading and Comprehension with Executive Function and Speed Measures Across Development: A Latent Variable Analysis. Journal of Experimental Psychology: General. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multi-group CFA of word reading, reading comprehension, and listening comprehension factors in 483 participants split into ages 8 to 10 (n = 266) and 11 to 16 (n = 217). The article reports the partially constrained model was "not significantly different from the baseline model, Δχ2(21) = 31.53, p = .07."
 

@@ -31,7 +31,7 @@ sources:
 
 Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Correlational analysis in the N = 147 sample: verbal WM (Dwarf) and visuospatial WM (Mole) correlated with each other, but the RIAS intelligence score correlated "only with verbal WM (r = 0.16, p = .049)". The verbal WM–intelligence correlation was no longer significant after controlling for inhibition accuracy (ρ = 0.13, p = .136).
 

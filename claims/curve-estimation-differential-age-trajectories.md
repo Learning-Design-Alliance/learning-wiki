@@ -49,3 +49,4 @@ Curve estimation analysis of the cross-sectional data relating age to each cogni
 - [Letter fluency shows no age-group difference in ANOVA, but older adults outperform young adults once processing speed and IQ are controlled](letter-fluency-age-advantage-emerges-after-speed-control.md) — related
 - [Processing speed has a significant effect on both letter and category fluency in older adults, while IQ does not](processing-speed-significant-covariate-both-fluencies.md) — related
 - [Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder](letter-fluency-decline-clinical-red-flag.md) — related
+- [Cross-sectional age relations show monotonic decline in fluid cognition (age-reasoning correlation about −0.40) but stability followed by decline for acquired knowledge](age-fluid-decline-knowledge-stable.md) — related

@@ -143,6 +143,7 @@ Claims in the wiki that bear on the page's premise, not used in the model above.
 - [Trafficking Labels Shift Counselor Attitudes Toward Victimization](../claims/trafficking-labels-shift-counselor-attitudes-toward-victimization.md) [+M]
 - [Attitudes Demographics Predict Counselor Rape Myth Acceptance](../claims/attitudes-demographics-predict-counselor-rape-myth-acceptance.md) [+M]
 - [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](../claims/label-condition-moderates-empathy-predictors.md) [~W]
+- [Unschooled illiterate adults living in print-rich environments have good knowledge of the pragmatic functions and uses of written language but cannot read environmental print out of context](../claims/illiterate-adults-know-functions-not-environmental-print.md) [+W] — attached 2026-10-17 from Kurvers et al. (2009), which proposed "Build adult literacy teaching on the print knowledge learners bring into the classroom".
 
 ## Objective and learner-valued goal
 

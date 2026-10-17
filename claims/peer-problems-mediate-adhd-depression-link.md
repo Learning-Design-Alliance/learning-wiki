@@ -50,3 +50,4 @@ Potential-outcomes causal mediation analysis (medeff, 10,000 bootstrap replicati
 - [Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms](clinical-adhd-diagnosis-increased-odds-adolescent-depression.md) — related
 - [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) — related
 - [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](peer-mediation-not-solely-victimisation.md) — related
+- [High family social support is associated with lower odds of depressive symptoms](high-family-support-lower-depression.md) — related

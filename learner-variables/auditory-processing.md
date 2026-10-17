@@ -51,6 +51,7 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Older adults show reduced activation in auditory cortex and increased activation in prefrontal and precuneus regions during speech-in-noise processing](../claims/aging-reduced-auditory-increased-prefrontal-activation.md) [+M] — learners who differ on it differ in outcomes
 - [The effect of selective auditory attention on early neural processing differs between children of higher and lower maternal education (significant group × attention interaction within 100–200 msec)](../claims/erp-group-attention-interaction-maternal-education.md) [~M] — learners who differ on it differ in outcomes
 - [The maternal-education group difference in neural attentional modulation persists after controlling for receptive language scores](../claims/attention-difference-not-explained-by-receptive-language.md) [+M] — learners who differ on it differ in outcomes
+- [Longer target P3 latencies are associated with poorer sustained attention in toddlers](../claims/longer-p3-latency-poorer-toddler-sustained-attention.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

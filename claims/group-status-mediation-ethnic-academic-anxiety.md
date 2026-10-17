@@ -50,3 +50,4 @@ Baron and Kenny mediation analyses of ethnicity on academic anxiety through publ
 - [Ethnic-minority children report higher intrinsic motivation than European-American children despite higher stigma awareness](ethnic-minority-children-higher-intrinsic-motivation.md) — related
 - [The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity](stigma-motivation-moderation-gender-ethnicity.md) — related
 - [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](stigma-awareness-academic-anxiety-intrinsic-motivation-children.md) — related
+- [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](ethnicity-moderates-social-academic-relations.md) — related

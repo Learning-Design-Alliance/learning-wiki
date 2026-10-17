@@ -75,3 +75,6 @@ This claim links a specific bilingual cognitive advantage to the broader constru
 - Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support — related
 - [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](english-learners-read-same-rate-primary-grades.md) — related
 - [Design studies indicated metalinguistic information about how English spelling and pronunciation work helped adult learners remember and apply what they learned](metalinguistic-information-aids-adult-decoding-learning.md) — related
+- [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
+- [Students used two languages flexibly for different mathematical sub-tasks but lacked academic Spanish vocabulary](bilingualism-math-resource-untapped.md) — related
+- [DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop](dll-metalinguistic-advantage.md) — related

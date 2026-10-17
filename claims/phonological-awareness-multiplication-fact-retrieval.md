@@ -43,4 +43,4 @@ Partial correlations between phonological composites and retrieval frequency in 
 
 
 ## Related Claims
--
+- [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](phonological-memory-modest-multiplication-contribution.md) — reports the opposite

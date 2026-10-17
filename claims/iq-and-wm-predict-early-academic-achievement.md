@@ -51,3 +51,7 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade](iq-memory-study-habits-positive-correlations-achievement.md) — related
 - [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](iq-predicts-comprehension-more-than-word-reading.md) — related
 - [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related
+- [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
+- [Kindergarten logical thinking correlates with arithmetic but does not explain unique variance once other predictors are included](logical-thinking-no-unique-variance-arithmetic.md) — related
+- [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — a narrower finding that bears on this claim
+- [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — a narrower finding that bears on this claim

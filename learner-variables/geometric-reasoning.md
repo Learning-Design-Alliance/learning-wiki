@@ -46,6 +46,8 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](../claims/genai-geometry-ancova-group-effect.md) [+M] — instruction changes it
 - [Academic vocabulary is directly related to fifth-grade geometric skills over and above arithmetic skills](../claims/academic-vocabulary-directly-related-geometric-skills.md) [+M] — instruction changes it
 - [Basic linguistic skills and working memory are indirectly related to fifth-grade geometric skills via arithmetic skills](../claims/basic-linguistic-skills-indirect-geometry-via-arithmetic.md) [+M] — instruction changes it
+- [Folding back to inner layers of understanding supported Grade 10 learners' geometric reasoning on proof tasks](../claims/folding-back-supported-grade10-geometric-reasoning.md) [+M] — instruction changes it
+- [Students' ability to understand and explain geometric phenomena improved in all conditions, with no difference between MACE and regular geometry lessons](../claims/mace-no-gat-advantage.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

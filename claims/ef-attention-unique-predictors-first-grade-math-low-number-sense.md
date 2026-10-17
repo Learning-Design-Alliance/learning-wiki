@@ -74,3 +74,5 @@ MRA predicting first-grade WJ Applied Problems in the same 107-child low-number-
 - [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](mixed-model-metacognitive-quality-unique-contribution.md) — related
 - [Sustained attention predicts number sense task performance](sustained-attention-predicts-number-sense.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
+- [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related
+- [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — reports the opposite

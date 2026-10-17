@@ -31,7 +31,7 @@ sources:
 
 Kingir, S. (2013). Using Non-traditional Writing as a Tool in Learning Chemistry. Eurasia Journal of Mathematics, Science & Technology Education, 9(2), 101-114. https://doi.org/10.12973/eurasia.2013.922a
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 ANCOVA among the three non-traditional audience groups controlling pretest scores found "students writing to younger students performed significantly better on the posttest than those writing to the teacher"; peer-teacher difference was not significant (d = 0.29).
 

@@ -31,7 +31,7 @@ sources:
 
 Derek M. Houston, Jessica Stewart, Aaron Moberly, George Hollich, and Richard T. Miyamoto. (2012). Word learning in deaf children with cochlear implants: effects of early auditory experience. Dev Sci. 2012 May ; 15(3): 448–461. https://doi.org/10.1111/j.1467-7687.2012.01140.x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlations between looking time differences and outcome measures at two and four years post-CI in the CI children. Word-learning performance correlated significantly with PPVT vocabulary at two years post-CI; the four-year correlation approached significance.
 

@@ -51,3 +51,4 @@ Case study of Colorado based on interviews with 13 state and local leaders and a
 - Washington advances cross-sector coordination through a policy-driven, centralized model anchored in legislation such as Project Education Impact and standardized definitions — reports the opposite
 - [States used four approaches to generate political support for summer learning investment](four-approaches-garnering-summer-support.md) — related
 - State administrators report using external entities such as regional centers and nonprofits to extend school improvement capacity and reach local needs — related
+- [The coordinated school health approach saw scattered US adoption, hindered by pressures on administrators and lack of integration into School Improvement Plans](csh-scattered-adoption-barriers.md) — related

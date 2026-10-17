@@ -53,3 +53,4 @@ Hierarchical regression (Table 5) on CI-HS measures: step 1 explained 34% (sign 
 - [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](sign-enhancement-direction-reversal.md) — related
 - [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related
 - [Age at implantation accounts for significant variance in word-learning performance when pre-CI hearing is in the typical range for CI candidates](age-at-implantation-predicts-word-learning.md) — related
+- [Years of primary schooling and months of language lessons explain 70% of variance in adults' total literacy scores; age and years of residence do not predict](schooling-and-lessons-predict-adult-literacy-score.md) — related

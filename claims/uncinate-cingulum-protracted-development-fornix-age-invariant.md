@@ -31,7 +31,7 @@ sources:
 
 Ghetti Simona; Bunge Silvia A. (2012). Neural Changes Underlying the Development of Episodic Memory During Middle Childhood. Developmental cognitive neuroscience. https://doi.org/10.1016/j.dcn.2012.05.002
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Small cross-sectional DTI study (N=22) of 9- to 15-year-olds (Mabbott et al., 2009, as reviewed) reporting the uncinate FA–recall association; a large cross-sectional DTI study (N=202) found fornix integrity age-invariant while uncinate and cingulum develop into adulthood, replicated longitudinally.
 

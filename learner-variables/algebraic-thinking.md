@@ -63,6 +63,8 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](../claims/double-dose-policy-harmed-above-norm-grades.md) [+M] — an instructional effect differs with it
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [-W] — instruction changes it
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](../claims/its-reduces-executive-state-ma-improves-algebra.md) [+M] — instruction changes it
+- [Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back](../claims/discontinuity-during-folding-back-still-effective.md) [-W] — learners who differ on it differ in outcomes
+- [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](../claims/short-practice-improves-equation-rearrangement.md) [+M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

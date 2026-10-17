@@ -52,6 +52,11 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Only the self-concept-by-low-cost interaction adds predictive power for achievement beyond the self-concept-by-global-value interaction](../claims/self-concept-low-cost-interaction-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](../claims/synergistic-self-concept-global-value-interaction.md) [+M] — learners who differ on it differ in outcomes
 - [Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement](../claims/self-concept-and-value-equal-predictors-teacher-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescents in the Stable High motivation trajectory earned higher science grades, took more AP science courses, and reported higher STEM career aspirations than the other trajectory groups](../claims/stable-high-motivation-best-science-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Community-based mathematical investigations gave students confidence to use mathematics for social change](../claims/community-based-math-social-change.md) [+M] — instruction changes it
+- [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
+- [Ninth grade marked a turning point where transitory motivation trajectories reversed direction, and these inconsistent trajectories were associated with lower AP enrollment and science performance](../claims/ninth-grade-turning-point-transitory-motivation.md) [+M] — learners who differ on it differ in outcomes
+- [Students in steadily or sharply declining motivation trajectories showed lower STEM career aspirations and lower science grades than stable-trajectory peers](../claims/declining-motivation-lower-science-outcomes.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

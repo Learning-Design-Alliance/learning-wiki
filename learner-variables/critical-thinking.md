@@ -88,6 +88,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.](../claims/staff-concerns-genai-integrity-skill-erosion.md) [~W] — instruction changes it
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](../claims/wise-agent-truth-seeking-self-confidence-gains.md) [+M] — instruction changes it
 - [Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking](../claims/reflective-engagement-predicts-independent-outcomes.md) [~M] — learners who differ on it differ in outcomes
+- [Preschoolers in a multiliteracies folk-tale program showed increased critical-thinking behaviors in qualitative journal data](../claims/preschool-folktale-program-increased-critical-thinking-qualitative.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

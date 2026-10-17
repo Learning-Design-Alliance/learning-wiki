@@ -43,4 +43,5 @@ In the case-control study, accuracy equaled between groups on the spatial symmet
 
 
 ## Related Claims
--
+- [Distance estimation is preserved in adults with developmental dyscalculia](dd-adults-distance-estimation-preserved.md) — related
+- [Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly](dyscalculia-equal-accuracy-slower-reaction-time.md) — related

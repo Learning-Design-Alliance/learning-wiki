@@ -41,7 +41,8 @@ Based on the mediation findings, the authors recommend that interventions addres
 - [Sdt Framework Bullying Motivation Achievement](../theories/self-determination-theory.md)
 
 ## Related Strategies
-- 
+
+- [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](active-school-intervention-against-bullying.md)
 
 ## Examples
 -

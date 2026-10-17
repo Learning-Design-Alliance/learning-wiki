@@ -63,3 +63,4 @@ Descriptive/correlational analysis of the whole sample (Table 2), showing the tw
 
 ## Related Claims
 - [Reading comprehension significantly predicts verbal Math Reasoning but not non-verbal Numerical Operations](reading-comprehension-predicts-mr-not-no.md) — possibly the same claim (merge candidate)
+- [Math anxiety is not significantly correlated with reading achievement in young children](math-anxiety-not-correlated-reading-achievement.md) — related

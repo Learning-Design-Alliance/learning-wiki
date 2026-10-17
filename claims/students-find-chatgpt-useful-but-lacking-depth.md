@@ -52,3 +52,4 @@ Qualitative student comment (S1) on how students generally evaluated ChatGPT's a
 - [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](aida-preferred-24-7-context-specific-feedback.md) — related
 - [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md) — related
 - [Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors](chatgpt-quantum-limitations-graphs-errors.md) — related
+- [Students felt short-changed by classrooms over-emphasizing basic operations and withholding advanced mathematics](students-shortchanged-advanced-math.md) — related

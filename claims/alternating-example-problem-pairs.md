@@ -49,3 +49,4 @@ The review reports, citing Trafton and Reiser, an experiment using a LISP progra
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
 - [Categorization accuracy was significantly higher for infrequently alternated categories than for frequently alternated categories](infrequent-alternation-higher-accuracy.md) — reports the opposite
+- [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — related

@@ -31,7 +31,7 @@ sources:
 
 Collins, Jessica A., & Olson, Ingrid R. (2014). Knowledge is Power: How Conceptual Knowledge Transforms Visual Cognition. Psychonomic bulletin & review. https://doi.org/10.3758/s13423-013-0564-3
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports meta-analytic and empirical evidence (Von Der Heide, Skipper, & Olson) that the ventral ATL integrates complex perceptual face representations with socially important semantic knowledge, plus a training study showing social-concept associations with novel objects activate amygdala, temporal pole, and medial prefrontal cortex. No effect sizes printed.
 

@@ -38,7 +38,7 @@ sources:
 
 Kingir, S. (2013). Using Non-traditional Writing as a Tool in Learning Chemistry. Eurasia Journal of Mathematics, Science & Technology Education, 9(2), 101-114. https://doi.org/10.12973/eurasia.2013.922a
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANOVA on total writing scores (17-item scale) across the three audience groups; younger-student writers (M = 23.34) "significantly outperformed those writing to peers (M = 21.46, SD = 5.29) and the teacher (M = 18.73, SD = 5.16)".
 
@@ -48,7 +48,7 @@ ANOVA on total writing scores (17-item scale) across the three audience groups; 
 
 Kingir, S. (2013). Using Non-traditional Writing as a Tool in Learning Chemistry. Eurasia Journal of Mathematics, Science & Technology Education, 9(2), 101-114. https://doi.org/10.12973/eurasia.2013.922a
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANOVA on the six conceptual-understanding items of the writing scale showed "significant mean differences in students’ conceptual understanding scores on writing with respect to the audience"; younger (M = 8.45) and peer (M = 7.83) writers beat teacher-directed writers (M = 7.07).
 

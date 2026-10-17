@@ -21,13 +21,13 @@ Page counts are regenerated with every index rebuild.
 | [Patterns](patterns/) | 65 | Reusable instructional designs at the lesson or unit level. |
 | [Designs](designs/) | 819 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
 | [Products & Programmes](products/) | 1,691 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
-| [Strategies](strategies/) | 5,940 | Concrete teaching activity recipes — specific, implementable approaches. |
+| [Strategies](strategies/) | 5,986 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
 | [Research Methods](research-methods/) | 346 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,361 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 74 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 18,427 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 19,106 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

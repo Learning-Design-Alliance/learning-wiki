@@ -31,7 +31,7 @@ sources:
 
 Gray Shelley, Green Samuel, Alt Mary, Hogan Tiffany P., Kuo Trudy, Brinkley Shara, Cowan Nelson. (2016). The Structure of Working Memory in Young Children and Its Relation to Intelligence. Journal of Memory and Language. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5157932/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM with the Baddeley and Hitch working memory structure and the four KABC-II subtests in the same sample. "the visuospatial factor was most strongly related to the two intelligence factors," with only the visuospatial-Gv path significant.
 

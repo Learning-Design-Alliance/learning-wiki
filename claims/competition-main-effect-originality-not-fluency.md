@@ -47,3 +47,4 @@ Study 2 repeated-measures ANOVAs (competition vs. no competition, ADHD vs. contr
 - [Adults with ADHD select fewer useful problem reconstructions than controls, with equal originality](adhd-less-useful-problem-reconstruction.md) — related
 - [Adults with ADHD generate more original ideas under competition for a bonus, but not without competition](adhd-originality-increases-under-competition.md) — a narrower finding that bears on this claim
 - [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
+- [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](strategy-instruction-improves-divergent-thinking.md) — related

@@ -31,7 +31,7 @@ sources:
 
 Turnbull Khara L. P. PhD; Mateus Deiby Mayaris Cubides; LoCasale-Crouch Jennifer PhD; Lewin Daniel S. Ph.D., D.ABSM; CBSM; Williford Amanda P. PhD. (2022). Sleep Patterns and School Readiness of Pre-Kindergarteners from Racially/Ethnically Diverse, Low-Income Backgrounds: A Secondary Data Analysis. The Journal of Pediatrics. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10621568/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Latent class analysis of parent-reported sleep health from 351 children in publicly-funded PreK programs; the two-class solution was selected as most parsimonious. The article states "87% of children in the sample were classified in Class 1, henceforth, the earlier, longer, consistent sleep health class."
 

@@ -117,6 +117,7 @@ Claims the earlier page cited that the model above does not use as evidence for 
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](../claims/prek-attendance-kindergarten-readiness.md) [+W] — a regional lab summary of a consensus statement, no effect sizes; bears on readiness as built before entry, not on the entry decision. Hub of the second question above.
 - [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](../claims/wv-prek-print-awareness-gains.md) [+W] — a state case study reporting researchers' finding second-hand; bears on programmes that raise readiness, not on the entry decision.
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](../claims/kindergarten-transition-difficulty-academic-risk.md) [+W] — a fact sheet's assertion with no data; used in the situation table only as a reason to plan the transition.
+- [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](../claims/number-naming-comparison-better-predictors-than-number-line-estimation.md) [+W] — attached 2026-10-17 from Praet et al. (2013), which proposed "Assess kindergarten language and number naming to inform targeted instruction and interventions for children at risk of arithmetic difficulties".
 
 ## Objective and learner-valued goal
 

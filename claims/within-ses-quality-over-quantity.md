@@ -38,7 +38,7 @@ sources:
 
 Schwab Jessica F., Lew-Williams Casey. (2016). Language learning, socioeconomic status, and child-directed speech. Wiley interdisciplinary reviews. Cognitive science. https://doi.org/10.1002/wcs.1393
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Hirsh-Pasek and colleagues' longitudinal study of 60 low-income families, in which hierarchical regression showed quality measures at 24 months predicted expressive language at 36 months better than quantity. No effect sizes are printed.
 
@@ -48,7 +48,7 @@ The review reports Hirsh-Pasek and colleagues' longitudinal study of 60 low-inco
 
 Schwab Jessica F., Lew-Williams Casey. (2016). Language learning, socioeconomic status, and child-directed speech. Wiley interdisciplinary reviews. Cognitive science. https://doi.org/10.1002/wcs.1393
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports a longitudinal study of low-SES families between 14 and 36 months in which mothers varied significantly in amount and diversity of speech, and "diversity of maternal lexical input predicted vocabulary growth" while amount did not. No effect sizes are printed.
 
@@ -62,3 +62,5 @@ The review reports a longitudinal study of low-SES families between 14 and 36 mo
 - [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — related
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — a broader claim this one bears on
 - [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — possibly the same claim (merge candidate)
+- [Child-directed speech varies dramatically among low-SES families, up to an 18-fold difference, largely independent of maternal education and overall talkativeness](cds-variability-within-low-ses-families.md) — related
+- [Child-directed speech predicts real-time language-processing efficiency at 19 and 24 months and explains gains in efficiency](child-directed-speech-predicts-processing-efficiency.md) — related

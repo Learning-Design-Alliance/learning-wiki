@@ -79,3 +79,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education](female-mathematics-enrollment-fraction-constant-uk-netherlands.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
 - [Girls report higher school engagement at time 1 and higher cumulative GPA than boys](girls-higher-engagement-and-gpa-than-boys.md) — related
+- [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related

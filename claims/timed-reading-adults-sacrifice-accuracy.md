@@ -31,7 +31,7 @@ sources:
 
 Alamprese, J. A., MacArthur, C. A., Price, C., & Knight, D. (2011). Effects of a Structured Decoding Curriculum on Adult Literacy Learners' Reading Development. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2011.555294
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Qualitative conclusion from the curriculum design studies conducted in ABE classes; each lesson accordingly concludes with a brief smooth reading passage of 50-75 words that learners read repeatedly in pairs, untimed.
 

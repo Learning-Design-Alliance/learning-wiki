@@ -47,3 +47,4 @@ Hierarchical multiple linear regression (Table 4) predicting CI-HS language PC s
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
 - [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](sign-enhancement-direction-reversal.md) — related
 - [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related
+- [Years of primary schooling and months of language lessons explain 70% of variance in adults' total literacy scores; age and years of residence do not predict](schooling-and-lessons-predict-adult-literacy-score.md) — related

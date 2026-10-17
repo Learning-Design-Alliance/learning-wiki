@@ -108,3 +108,4 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](deliberate-practice-expands-memory-capacity.md) — related
 - [Normal adults typically can keep in mind only about 3 or 4 items, a limit replicated across many methods](adult-working-memory-limit-3-4-chunks.md) — related
+- [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — related

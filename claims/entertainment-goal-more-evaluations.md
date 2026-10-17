@@ -31,7 +31,7 @@ sources:
 
 P. van den Broek, R. F. Lorch, Jr., T. Linderholm, & M. Gustafson. (2001). The effects of readers' goals on inference generation and memory for texts. Memory & Cognition, 29(8), 1081-1087. https://link.springer.com/journal/13414
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Think-aloud ANOVAs for the evaluative and affective categories in the same experiment. Evaluations (opinions about the text) favored the entertainment condition, but "there were no differences between the two reading conditions with respect to affective responses (both Fs , 1)."
 

@@ -50,3 +50,4 @@ Multivariable regression analysis in the LitCog study (n = 882) showing the heal
 - [Stronger cognitive decline is associated with greater likelihood of low health literacy, but only memory decline remains significant after adjusting for educational level](cognitive-decline-associated-low-health-literacy-memory-only-robust.md) — related
 - [Health literacy measures are strongly correlated with fluid and crystallized cognitive abilities in older adults](health-literacy-measures-correlate-strongly-with-cognitive-abilities.md) — related
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
+- [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related

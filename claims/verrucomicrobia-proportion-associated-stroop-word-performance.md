@@ -31,7 +31,7 @@ sources:
 
 Anderson Jason R., Carroll Ian, Azcarate-Peril M. Andrea, Rochette Amber D., Heinberg Leslie J., Peat Christine, Steffen Kristine, Manderino Lisa M., Mitchell James, Gunstad John. (2017). A preliminary examination of gut microbiota, sleep, and cognitive flexibility in healthy older adults. Sleep Medicine, 38, 104-107. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Partial correlation analysis in 37 healthy older adults controlling for carbohydrate intake and hypertension. The article reports Verrucomicrobia "showed a positive association with Stroop Word performance (r=.36, p=.034)" and trended toward a positive association with Stroop Color.
 

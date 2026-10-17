@@ -1,0 +1,66 @@
+---
+type: claim
+title: Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13
+description: Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13
+id: active-play-creativity-correlation-adolescents
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: piya-amornphan-n-2020
+    resource: "https://doi.org/10.1186/s12887-020-2017-2"
+    title: "Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2"
+    author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
+    q: 2
+    i: 0
+  - id: piya-amornphan-n-2020-2
+    resource: "https://doi.org/10.1186/s12887-020-2017-2"
+    title: "Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2"
+    author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
+    q: 2
+    i: "?"
+---
+
+# Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+
+## Subclaims
+`q2 i0` Among adolescents aged 14–17, TCT-DP creativity scores were positively correlated with active play (r = 0.148, p = 0.001). [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)
+`q2 i?` In children aged 6–9 and 10–13, the TCT-DP score was not associated with any of the three physical activity indicators. [→ Piya-amornphan N 2020 (2)](#piya-amornphan-n-2020-2)
+
+## Evidence
+
+### Piya-amornphan N 2020
+
+Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2
+
+`q2 · i0` · `associational · r2`
+
+Cross-sectional Spearman correlation analysis in 439 adolescents aged 14–17 from Southern Thailand found a small positive correlation between active play and creativity: "r =0 . 1 4 8 ,p = 0.001". The correlation was absent in the two younger age groups.
+
+> "The correlation between the TCT-DP score representing creativity and active play was noticed in adolescents (r =0 . 1 4 8 ,p = 0.001), but not found in participants aged 6 – 13 years."
+
+### Piya-amornphan N 2020 (2)
+
+Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2
+
+`q2 · i?` · `associational · r2`
+
+Spearman correlation analysis in the two younger age groups (n = 521 aged 6–9; n = 487 aged 10–13) found the TCT-DP score "was not associated with all three indicators of physical activity"; no effect sizes were printed for these null results.
+
+> "In children aged 6 – 9 years and 10 – 13 years, the TCT- DP score was not associated with all three indicators of physical activity (Table 2)."
+
+## Discussion
+
+
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
+## Related Claims
+- [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related
+- [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — reports the opposite
+- [Active play is associated with time with family and peers in all age groups (r = 0.485)](active-play-family-peers-association.md) — related

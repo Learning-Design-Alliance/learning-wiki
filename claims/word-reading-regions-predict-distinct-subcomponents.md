@@ -31,7 +31,7 @@ sources:
 
 Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua. (2018). Neural Correlates of Oral Word Reading, Silent Reading Comprehension, and Cognitive Subcomponents. International Journal of Behavioral Development. https://doi.org/10.1177/0165025417727872
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 ROI regression analyses (n = 21) in the Results section, with cognitive measures adjusted for age, gender and performance IQ and stepwise selection; all correlations remained significant after FDR correction. No significant result was found for orthographic processing.
 

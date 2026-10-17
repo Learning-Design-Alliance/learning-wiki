@@ -135,9 +135,11 @@ Child talk during sessions, vocabulary on taught words, general expressive langu
 - [Phonics](phonics.md) — code-focused teaching that responsive talk and dialogic reading do not reach
 
 ## Examples
+
 - [Child-Directed Speech](../elements/child-directed-speech.md) — a concrete practice for the earliest stage of language development
 - [Dialogic Reading](../strategies/dialogic_reading.md) — a structured way to create responsive back-and-forth during shared reading
 - [Dialogic Reading (element)](../elements/dialogic-reading.md) — the prompt-and-expand routine as an instructional element
+- [Interventions aimed at increasing parents' verbal engagement with their infants to strengthen processing skills and vocabulary growth](../strategies/increase-parental-verbal-engagement-infants.md)
 
 ## Key Sources
 - Hart, B., & Risley, T. R. (1995). *Meaningful differences in the everyday experience of young American children*. Paul H. Brookes.

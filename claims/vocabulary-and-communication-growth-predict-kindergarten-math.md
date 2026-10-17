@@ -31,7 +31,7 @@ sources:
 
 Ramsook K. Ashana, Welsh Janet A., Bierman Karen L. (2020). What you say, and how you say it: Preschoolers' growth in vocabulary and communication skills differentially predict kindergarten academic achievement and self‐regulation. Social Development, 29(3), 783–800. https://doi.org/10.1111/sode.12425
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel models predicting Wave 3 Applied Problems scores for 164 Head Start children, controlling for Wave 1 math and covariates. The article reports "Growth in both vocabulary (β = .17, SE = .22, p < .05)" and social communication growth each contributed incrementally.
 

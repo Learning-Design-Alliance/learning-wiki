@@ -45,3 +45,4 @@ Longitudinal observational analysis from the Family Life Project. The article re
 ## Related Claims
 - [Prior studies support the experiential canalization framework: preschoolers in poverty are almost five times as likely to show disrupted diurnal cortisol patterns, and increased economic hardship is associated with significantly lower cognitive self-regulation](poverty-stress-physiology-self-regulation-evidence.md) — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
+- [Higher early-life cognitive ability is associated with decreased mortality risk, a relation reported in all nine reviewed studies and partly mediated by health behaviors](cognitive-ability-mortality-risk.md) — related

@@ -69,3 +69,4 @@ Model 3 cross-domain pathways from kindergarten spring to first grade showed the
 - [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
 - [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
+- [Observed motivation indicators predict student-teacher conflict but not closeness: less persistence, greater task competence, and more interest/arousal predict greater conflict](observed-motivation-predicts-teacher-conflict-not-closeness.md) — related

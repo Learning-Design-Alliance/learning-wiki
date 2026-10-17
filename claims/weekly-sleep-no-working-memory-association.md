@@ -31,7 +31,7 @@ sources:
 
 Stefansdottir, R., Gundersen, H., Rognvaldsdottir, V., Lundervold, A. S., Gestsdottir, S., Gudmundsdottir, S. L., Chen, K. Y., Brychta, R. J. & Johannsson, E. (2020). Association between free-living sleep and memory and attention in healthy adolescents. Scientific Reports 10:16877. https://doi.org/10.1038/s41598-020-73774-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null result from the same linear regression models in 160 adolescents; the authors suggest a floor effect, since "over 88% averaged less than the recommended 8 h time-in-bed over the week", and compensatory night-to-night variation may have obscured associations.
 

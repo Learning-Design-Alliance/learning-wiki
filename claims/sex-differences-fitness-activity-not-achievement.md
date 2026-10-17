@@ -45,3 +45,4 @@ Descriptive comparison of the study sample (n=106; 61 boys) using independent t-
 ## Related Claims
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Boys scored significantly higher than girls on IQ in the sample (p=.001)](sex-difference-iq-boys-higher-sample.md) — related
+- [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related

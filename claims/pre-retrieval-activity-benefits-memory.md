@@ -48,3 +48,4 @@ Sliding-window regressions time-locked to the second session identified two crit
 - [Spending more time sedentary 1 to 2 hours after encoding is associated with better long-term memory retention, implying physical activity in that window is detrimental](post-encoding-activity-detrimental-to-memory.md) — related
 - [Total percentage of time spent sedentary or in moderate-to-vigorous physical activity during the day is unrelated to long-term memory retention in young adults](total-daily-activity-unrelated-to-long-term-memory.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — a broader claim this one bears on
+- [Exercise performed four hours, but not immediately, after encoding enhances 48-hour retention of picture-location associations and hippocampal pattern similarity](delayed-post-learning-exercise-enhances-retention.md) — related

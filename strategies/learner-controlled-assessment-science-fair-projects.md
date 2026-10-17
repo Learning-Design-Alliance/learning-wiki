@@ -46,6 +46,7 @@ The article recommends offering learners multiple assessment choices — multipl
 - [Rethinking Accountability](rethinking_accountability.md)
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 - [Use a three-stage model to help learners identify and apply their learning-style characteristics](three-stage-learning-style-awareness-model.md)
+- [Use children's portfolios as alternative assessment of young learners' multiliteracies](portfolio-alternative-assessment-young-learners-multiliteracies.md)
 
 ## Examples
 -

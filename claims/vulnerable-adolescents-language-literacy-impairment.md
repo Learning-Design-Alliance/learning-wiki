@@ -38,7 +38,7 @@ sources:
 
 Pamela C. Snow. (2021). Psychosocial Adversity in Early Childhood and Language and Literacy Skills in Adolescence: The Role of Speech-Language Pathology in Prevention, Policy, and Practice. Perspectives of the ASHA Special Interest Groups. https://doi.org/10.1044/2020_PERSP-20-00120
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Observational study of adolescents (Mage = 16 years) in Australian flexible education settings (Snow et al., 2019): 72% with impaired oral language, nearly half with reading comprehension age-equivalents under 12 years; none referred for speech-language pathology assessment.
 
@@ -48,7 +48,7 @@ Observational study of adolescents (Mage = 16 years) in Australian flexible educ
 
 Pamela C. Snow. (2021). Psychosocial Adversity in Early Childhood and Language and Literacy Skills in Adolescence: The Role of Speech-Language Pathology in Prevention, Policy, and Practice. Perspectives of the ASHA Special Interest Groups. https://doi.org/10.1044/2020_PERSP-20-00120
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Observational study of adolescents in state care (Snow et al., 2020): 92% below average on standardized language measures, the same percentage in the very low range on reading comprehension, and 65% below average on single-word reading.
 

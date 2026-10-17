@@ -77,6 +77,15 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Text-based emotional expression in student responses showed no statistically significant differences between Emotion ON and OFF conditions](../claims/no-textual-emotion-difference-emotion-on.md) [-M] — instruction changes it
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](../claims/llm-assistant-boosts-debugging-confidence.md) [+M] — instruction changes it
 - [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](../claims/math-anxiety-negative-correlation-third-graders.md) [+M] — learners who differ on it differ in outcomes
+- [Children showing high levels of negative externalizing emotions during the challenge task are rated as less socially competent, more hyperactive, and with poorer interpersonal and self-regulatory skills](../claims/negative-externalizing-emotions-predict-poorer-readiness.md) [+M] — learners who differ on it differ in outcomes
+- [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](../claims/competition-enjoyment-task-focused-evaluation.md) [+M] — instruction changes it
+- [In the higher track, reading enjoyment and sex show main effects on non-leisure readers' school achievement, with enjoyers of both sexes scoring higher](../claims/higher-track-enjoyment-grades-both-sexes.md) [+W] — learners who differ on it differ in outcomes
+- [In the lower track, reading enjoyment relates to school achievement for girls but not for boys among non-leisure readers](../claims/lower-track-enjoyment-grades-girls-only.md) [~W] — learners who differ on it differ in outcomes
+- [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](../claims/observed-anxiety-predicts-lower-work-self-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst](../claims/observed-interest-arousal-predicts-poorer-readiness.md) [+W] — learners who differ on it differ in outcomes
+- [Observed motivation indicators predict student-teacher conflict but not closeness: less persistence, greater task competence, and more interest/arousal predict greater conflict](../claims/observed-motivation-predicts-teacher-conflict-not-closeness.md) [+W] — learners who differ on it differ in outcomes
+- [Observed shame expressions during challenging tasks predict greater teacher-rated social competence, work-related skills, and academic skills](../claims/observed-shame-predicts-school-readiness.md) [+M] — learners who differ on it differ in outcomes
+- [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

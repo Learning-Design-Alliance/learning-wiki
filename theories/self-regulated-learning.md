@@ -105,6 +105,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [University students who choose e-textbooks report greater self-regulation of learning than students who choose print textbooks](../claims/e-textbook-choice-higher-self-regulation.md) [+W] — attached 2026-10-16 from Amanda J. Rockinson-Szapkiw et al. (2013), which proposed "Self-regulated learning theory as a framework for textbook reading at the university level".
 - [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](../claims/isi-greater-gains-weak-initial-self-regulation.md) [~W] — attached 2026-10-17 from Connor Carol McDonald et al. (2010), which proposed "Working model of self-regulation supporting academic growth through teacher practices".
 - [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](../claims/fall-htks-predicts-literacy-gains.md) [~W] — attached 2026-10-17 from Connor Carol McDonald et al. (2010), which proposed "Working model of self-regulation supporting academic growth through teacher practices".
+- [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — attached 2026-10-17 from Mary C. English (2013), which proposed "A theoretical model of the relationship between PBL and self-regulated learning".
 
 ## The evidence by question
 

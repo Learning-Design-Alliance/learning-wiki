@@ -58,8 +58,10 @@ The strategy connects to belonging research: visible evidence that one's contrib
 5. Refresh displays each project cycle and retire old work respectfully (e.g., students take work home or archive it), so the space stays current and every cohort is represented.
 
 ## Related Strategies
+
 - **Exhibition of Learning** — the event-based counterpart: displays paired with live student presentation to families and community members
 - **Culturally Responsive Teaching** — shares the goal of making the learning environment reflect and affirm students' identities and communities
+- [Provide phase-specific teaching practices and environment features that foster student responsibility for learning in each phase of PBL](phase-specific-srl-fostering-practices-in-pbl.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education)** schools build "crew" culture around public exhibitions of expedition products — museum-style displays of student work open to families and community — as a core design feature ([https://eleducation.org](https://eleducation.org)).

@@ -50,3 +50,4 @@ Synthesis of three qualitative case study profiles drawing on "interviews, obser
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related
 - [State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes](state-investment-coordinators-pd-key-to-outcomes.md) — related
 - [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related
+- [Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior](health-factors-linked-academic-outcomes.md) — related

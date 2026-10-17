@@ -53,3 +53,4 @@ Structural equation modeling of data from 265 kindergarten students in 10 school
 - [Kindergarten writing fluency does not mediate the relations between kindergarten component skills and first-grade writing outcomes](kindergarten-writing-no-mediation.md) — related
 - [Spelling and attentiveness are uniquely related to writing conventions of first-grade written composition, but instructional quality is not](spelling-attentiveness-predict-writing-conventions.md) — related
 - [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](teacher-responsiveness-predicts-substantive-quality.md) — related
+- [Sustained attention positively predicts reading comprehension assessed in group-based school settings](sustained-attention-predicts-school-based-reading-comprehension.md) — related

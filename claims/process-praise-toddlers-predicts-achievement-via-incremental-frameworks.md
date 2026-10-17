@@ -49,3 +49,4 @@ Path analysis (FIML, bias-corrected bootstrap with 10,000 draws) of the longitud
 - [Process praise effects persist after controlling for overall parent talk and SES, suggesting they are not proxies for general engagement](praise-effects-robust-to-parent-talk-and-ses-controls.md) — related
 - [The indirect praise-to-achievement path is driven by trait beliefs, not learning goals](trait-beliefs-not-learning-goals-mediate-praise-achievement-link.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — a broader claim this one bears on
+- [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](process-praise-toddlerhood-predicts-incremental-frameworks.md) — a narrower finding that bears on this claim

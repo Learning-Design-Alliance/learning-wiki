@@ -70,3 +70,4 @@ The article's comparison under analytic phonics reports boys "performed as well 
 - [Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'](synthetic-phonics-boys-better-word-reading.md) — a narrower finding that bears on this claim
 - [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](synthetic-phonics-group-better-overall-outcomes.md) — related
 - [Early synthetic phonics teaching that emphasises blending letter sounds showed no evidence of impairing reading of irregular words](synthetic-phonics-no-irregular-word-impairment.md) — related
+- [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related

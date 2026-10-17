@@ -1,0 +1,47 @@
+---
+type: claim
+title: Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison
+description: Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison
+id: symbolic-training-transfers-verbal-comparison
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: honoré-n-2016
+    title: Honoré N 2016
+    q: 3
+    i: 3
+---
+
+# Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+
+## Subclaims
+`q3 i3` Only the symbolic training group significantly improved in verbal (spoken) number comparison, indicating transfer beyond the Arabic format. [→ Honoré N 2016](#honore-n-2016)
+
+## Evidence
+
+### Honoré N 2016
+
+Honoré N, Noël M-P (2016) Improving Preschoolers' Arithmetic through Number Magnitude Training: The Impact of Non-Symbolic and Symbolic Training. PLoS ONE 11(11): e0166685. https://doi.org/10.1371/journal.pone.0166685
+
+`q3 · i3` · `causal · r2`
+
+In the verbal number comparison task, the time × group interaction was marginal (p = .062), but contrasts showed "a highly significant enhancement of performance for the symbolic group,t(51) = 3.33;p = .006, η2 = 0.178"; non-symbolic and control groups did not improve.
+
+> "contrasts testing the difference in performance between T1 and T2 were computed for each group. They indicated a highly significant enhancement of performance for the symbolic group,t(51) = 3.33;p = .006, η2 = 0.178"
+
+## Discussion
+
+
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
+
+## Related Claims
+- [Neither numerical training significantly improves Arabic number comparison performance](no-training-effect-arabic-number-comparison.md) — related
+- [Training effects on the non-symbolic number line are size-specific: non-symbolic training improves large numerosities, symbolic training small numerosities](number-line-training-size-specific-effects.md) — related
+- [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related

@@ -40,6 +40,7 @@ The deck advises teachers on placement of algorithmic thinking lessons, listing 
 
 - [Social Emotional Learning Integration](social-emotional-learning-integration.md)
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](prek-8-ct-integration-over-stand-alone.md)
+- [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 
 ## Examples
 -

@@ -31,7 +31,7 @@ sources:
 
 Satterthwaite Theodore D. M.D., M.A.; Ruparel Kosha M.S.; Loughead James Ph.D; Elliott Mark A. Ph.D.; Gerraty Raphael T. B.A.; Calkins Monica E. Ph.D.; Hakonarson Hakon M.D. Ph.D.; Gur Ruben C. Ph.D.; Gur Raquel E. M.D., Ph.D.; Wolf Daniel H. M.D., Ph.D. (2012). Being Right Is Its Own Reward: Load and Performance Related Ventral Striatum Activation to Correct Responses During a Working Memory Task in Youth. Neuroimage. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358426/
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Structurally-defined bilateral VS ROI mixed-model ANOVA in the same 304-subject sample, testing load effects on COR>INCOR signal. Found "greater VS activation seen in association with greater load" [F(2,528)=4.80; p=0.0086].
 

@@ -29,7 +29,7 @@ sources:
 
 Christodoulou JA, Del Tufo SN, Lymberis J, Saxler PK, Ghosh SS, et al. (2014) Brain Bases of Reading Fluency in Typical Reading and Impaired Fluency in Dyslexia. PLoS ONE 9(7): e100552. https://doi.org/10.1371/journal.pone.0100552
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Whole-brain parametric modulation analysis (cluster-level FDR corrected, p<.01) compared groups on the Fast > Medium > Slow contrast. Typical readers showed greater activation in left middle frontal, left superior temporal, and brainstem/cerebellar clusters; "Readers with dyslexia did not show any activation greater than typical readers".
 

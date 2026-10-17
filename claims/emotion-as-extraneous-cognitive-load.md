@@ -48,3 +48,4 @@ Theoretical argument presented in the article's abstract as the first of four pe
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — related
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](emotion-as-intrinsic-load-emotion-regulation.md) — related
+- [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — related

@@ -91,6 +91,10 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory capacity is a robust indicator of success or failure in language learning](../claims/wm-capacity-predicts-language-learning-success.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory is the strongest predictor of adolescents' communicative perspective-taking](../claims/working-memory-predicts-adolescent-communicative-perspective-taking.md) [+M] — learners who differ on it differ in outcomes
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](../claims/wm-positively-correlated-all-production-conditions.md) [+M] — learners who differ on it differ in outcomes
+- [Children with MLD show pervasive working memory deficits while both LA groups score in the average range on all three working memory components](../claims/mld-pervasive-working-memory-deficits.md) [+M] — learners who differ on it differ in outcomes
+- [CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains](../claims/cogmed-working-memory-training-narrow-transfer.md) [~M] — instruction changes it
+- [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](../claims/phonological-memory-modest-multiplication-contribution.md) [+S] — learners who differ on it differ in outcomes
+- [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](../claims/narrow-transfer-computerized-ef-training.md) [~M] — instruction changes it
 
 ## The evidence by question
 

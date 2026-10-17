@@ -48,3 +48,4 @@ Cross-lag SEM over four waves of the longitudinal study of 979 6th graders showe
 - [School attachment predicts later school adjustment but not GPA; family climate shows only a marginal association with school adjustment and none with GPA](school-attachment-family-climate-school-adjustment-not-gpa.md) — related
 - [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
+- [Perceived neighborhood safety is positively associated with school attachment among 15-year-olds after controlling for individual, family, school, and external neighborhood factors](perceived-neighborhood-safety-school-attachment-association.md) — related

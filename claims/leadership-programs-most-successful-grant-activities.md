@@ -60,3 +60,4 @@ Respondent-perception findings from interviews and site visits across grantee si
 - [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Community schools funding availability and consistency strongly impacts continued implementation progress in Roswell](funding-availability-constrains-community-school-progress.md) — related
+- [The coordinated school health approach saw scattered US adoption, hindered by pressures on administrators and lack of integration into School Improvement Plans](csh-scattered-adoption-barriers.md) — related

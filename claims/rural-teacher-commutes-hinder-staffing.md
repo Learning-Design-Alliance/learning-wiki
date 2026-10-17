@@ -77,3 +77,4 @@ Site visit data on SIG-funded incentives across the rural schools. Administrator
 - [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related
 - [Rural Nebraska districts' middle school CTE offerings are limited by teacher availability, with one CTE teacher often covering both middle grade and high school courses](rural-districts-cte-limited-by-teacher-availability.md) — related
 - [Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts](strategic-staffing-insufficient-rural-districts.md) — related
+- [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — a broader claim this one bears on

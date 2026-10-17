@@ -29,7 +29,7 @@ sources:
 
 Wengaard E, Kristoffersen M, Harris A and Gundersen H (2017) Cardiorespiratory Fitness Is Associated with Selective Attention in Healthy Male High-School Students. Front. Hum. Neurosci. 11:330. https://doi.org/10.3389/fnhum.2017.00330
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Linear mixed model analysis of reaction times from 54 male high-school students performing a Posner cue paradigm task, adjusted for video-game playing, testing time-point and alertness. The analysis found "Higher ˙VO2max was associated with faster RT for stimuli following invalid cue (Estimate =−2.69, SE = 1.03, p = 0.011)".
 

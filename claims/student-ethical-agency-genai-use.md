@@ -82,3 +82,4 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 - [Students perceived eight GenAI roles but lacked engagement and a sense of achievement](eight-perceived-genai-roles-low-achievement.md) — related
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
 - [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — a narrower finding that bears on this claim
+- [Students resisted external definitions of mathematical success and asserted agency in defining their own strategies](student-resistance-own-strategies-math.md) — related

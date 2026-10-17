@@ -49,3 +49,4 @@ This is the article's theoretical argument, made in the abstract: minimally guid
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
 - [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — related
 - [Many popular school-based prevention approaches have not been well studied to date](popular-prevention-approaches-understudied.md) — related
+- [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — possibly the same claim (merge candidate)

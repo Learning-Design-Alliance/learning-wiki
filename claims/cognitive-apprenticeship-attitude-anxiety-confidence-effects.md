@@ -78,3 +78,4 @@ Same SIMS and interview data: the article reports apprenticeship students "gaine
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
 - Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport — related
 - [Early studies of the relationship between anxiety and achievement produced mixed and confusing results](early-anxiety-achievement-studies-mixed-results.md) — related
+- [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related

@@ -62,3 +62,4 @@ Repeated measures ANOVA of the standard deviation of go reaction time across rew
 
 ## Related Claims
 - [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
+- [Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task](no-reaction-time-difference-go-trials-groups.md) — related

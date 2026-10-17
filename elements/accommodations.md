@@ -63,10 +63,12 @@ Accommodations improve access and performance for learners whose needs conflict 
 - [Analogies](analogies.md) — an instructional alternative route when a default explanation doesn't land
 
 ## Examples
+
 - **Extended time on assessments** — typically 1.5× time for students with documented processing-speed or attention disabilities; the most frequently implemented accommodation in K–12 and higher education
 - **Speech-to-text and screen readers** (e.g., built-in tools in [Microsoft Immersive Reader](https://www.microsoft.com/en-us/education/immersive-reader), [Kurzweil 3000](https://www.kurzweil3000.com)) — response- and presentation-format accommodations for writing and reading barriers
 - **Captioned video** — required for accessibility, but research shows captions improve comprehension and recall for learners generally [+M]
 - **Preferential seating and reduced-distraction testing environments** — environmental accommodations for attention-related barriers
+- [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](../strategies/accommodations-extended-time-assistive-tech-slow-ps.md)
 
 ## Key Sources
 - Fuchs, L. S., & Fuchs, D. (2001). Principles for the prevention and intervention of mathematics difficulties. In *Psychological Perspectives* — see instead: Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention. *Reading Research Quarterly, 41*(1), 93–99. [doi:10.1111/0938-8982.00010](https://doi.org/10.1111/0938-8982.00010)

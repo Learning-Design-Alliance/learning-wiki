@@ -29,7 +29,7 @@ sources:
 
 Bedyńska S, Krejtz I and Sedek G (2018) Chronic Stereotype Threat Is Associated With Mathematical Achievement on Representative Sample of Secondary Schoolgirls: The Role of Gender Identification, Working Memory, and Intellectual Helplessness. Front. Psychol. 9:428. https://doi.org/10.3389/fpsyg.2018.00428
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Moderated multiple serial mediation models with 95% confidence intervals tested three mediation paths. The article reports "mediation by FAWMT [ β =−0.136, SE = 0.032, p < 0.001, CI (−0.198,−0.074)]" as significant.
 

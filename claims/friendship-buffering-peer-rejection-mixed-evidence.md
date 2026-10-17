@@ -43,4 +43,4 @@ The review reports conflicting findings: some studies of children with externali
 
 
 ## Related Claims
--
+- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](social-support-no-buffer-depression.md) — related

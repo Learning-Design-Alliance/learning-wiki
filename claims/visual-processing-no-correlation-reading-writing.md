@@ -31,7 +31,7 @@ sources:
 
 Mendes, G. G., & Barrera, S. D. (2017). Phonological Processing and Reading and Writing Skills in Literacy. Paidéia (Ribeirão Preto), 27(68), 298-305. https://doi.org/10.1590/1982-43272768201707
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the same 50-student correlational study, the article states "there was no correlation between visual processing and reading or writing"; no effect size or test statistic is printed in the available text.
 

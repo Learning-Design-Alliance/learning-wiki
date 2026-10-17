@@ -49,3 +49,4 @@ A 2016 report on gaps in secondary schools, cited by the paper, documents struct
 - [Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018](school-size-cs-offering-gap.md) — related
 - [Computer science offerings in U.S. secondary schools grew from 25 percent to 40 percent between 2015 and 2016](secondary-schools-offering-cs-grew-25-to-40-percent.md) — related
 - [Nine out of ten U.S. parents want their children to learn coding at school](parents-support-coding-google-gallup-2015.md)
+- [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — related

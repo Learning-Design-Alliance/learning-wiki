@@ -31,7 +31,7 @@ sources:
 
 Satterthwaite Theodore D. M.D., M.A.; Ruparel Kosha M.S.; Loughead James Ph.D; Elliott Mark A. Ph.D.; Gerraty Raphael T. B.A.; Calkins Monica E. Ph.D.; Hakonarson Hakon M.D. Ph.D.; Gur Ruben C. Ph.D.; Gur Raquel E. M.D., Ph.D.; Wolf Daniel H. M.D., Ph.D. (2012). Being Right Is Its Own Reward: Load and Performance Related Ventral Striatum Activation to Correct Responses During a Working Memory Task in Youth. Neuroimage. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358426/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 VS ROI analysis testing linear and quadratic age effects on COR>INCOR activation in 304 youths aged 8-22. Found no linear effect but "a quadratic relationship between age and COR>INCOR response was present" [F(1,306)=4.28; p=0.039; 6% variance explained].
 

@@ -60,9 +60,11 @@ The strategy is grounded in Latané and Darley's five-step decision model: inter
 6. **Follow up** — booster sessions, check-ins, and visible institutional support for those who intervene
 
 ## Related Strategies
+
 - [Role Play](acting-role-play.md) — the primary rehearsal mechanism for intervention scripts
 - [Case-Based Discussion](case-based-learning.md) — ambiguous scenarios build the interpretation step of the decision model
 - [Social Norms Campaign](social-norms-marketing-campaign.md) — complements training by shifting perceived peer norms
+- [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](active-school-intervention-against-bullying.md)
 
 ## Examples
 - **[Bringing in the Bystander](https://www.unh.edu/prevention-innovations-research-center/bringing-bystander)** (University of New Hampshire) — a widely evaluated multi-session campus program with scenario discussion and skill practice.

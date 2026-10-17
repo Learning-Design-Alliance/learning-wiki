@@ -39,7 +39,7 @@ sources:
 
 Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K. (2012). Predicting Word Reading and Comprehension with Executive Function and Speed Measures Across Development: A Latent Variable Analysis. Journal of Experimental Psychology: General. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Structural equation model with six latent factors (four cognitive, two reading) fit to 483 participants ages 8 to 16, constrained across age groups. The article reports "comprehension was significantly predicted by working memory (p < .01)" and word reading by both working memory and processing speed (p < .01 for both).
 
@@ -49,7 +49,7 @@ Structural equation model with six latent factors (four cognitive, two reading) 
 
 Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K. (2012). Predicting Word Reading and Comprehension with Executive Function and Speed Measures Across Development: A Latent Variable Analysis. Journal of Experimental Psychology: General. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same constrained SEM across age groups. The article reports null paths: "Inhibition and naming speed did not independently predict comprehension or word reading" with p values ranging from .12 to .72. No effect sizes were printed, so impact is null.
 

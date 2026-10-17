@@ -137,3 +137,4 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — related
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim
 - [The collective intelligence of groups is higher when members have greater social sensitivity](collective-intelligence-social-sensitivity.md) — related
+- [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related

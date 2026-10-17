@@ -83,3 +83,4 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 - Implementing specific SEL curricula can improve academic performance, including learning to read — related
 - [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — a narrower finding that bears on this claim
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — reports the opposite
+- [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — related

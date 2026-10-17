@@ -31,7 +31,7 @@ sources:
 
 Serrano-Villar, M., & Calzada, E. J. (2016). Ethnic identity: Evidence of protective effects for young, Latino children. Journal of Applied Developmental Psychology. https://doi.org/10.1016/j.appdev.2015.11.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive analysis of the Early Childhood Ethnic Identity Interview in a sample of 674 MA and DA children in NYC public schools. The study reports that "about 20% showed ethnic knowledge" and 75% self-identified; no effect sizes are printed for these descriptive rates.
 

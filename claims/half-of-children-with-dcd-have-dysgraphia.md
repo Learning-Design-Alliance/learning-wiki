@@ -68,3 +68,4 @@ The review gives two reasons dysgraphia diagnosis is essential: handwriting diff
 - [DCD prevalence estimates range from 1.8% to 6.9% with a male predominance of 2:1 to 3:1, and the disorder persists into adulthood for 30–70% of those diagnosed as children](dcd-prevalence-1-8-to-6-9-percent-male-predominance.md) — related
 - [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md) — a broader claim this one bears on
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
+- [Developmental writing disorders affect about 7–15% of school-aged children, with boys more affected than girls](writing-disorder-prevalence-7-15-percent.md) — related

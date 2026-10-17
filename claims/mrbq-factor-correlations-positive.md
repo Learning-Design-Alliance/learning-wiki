@@ -47,3 +47,4 @@ Correlational analysis of the four PCA factors from the survey of 365 Flemish ju
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
 - A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs — a broader claim this one bears on
 - Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor — related
+- [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related

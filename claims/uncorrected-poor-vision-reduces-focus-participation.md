@@ -31,7 +31,7 @@ sources:
 
 Dudovitz, R. N., Izadpanah, N., Chung, P. J., & Slusser, W. (2016). Parent, Teacher, and Student Perspectives on how Corrective Lenses Improve Child Wellbeing and School Function. Maternal and Child Health Journal. https://doi.org/10.1007/s10995-015-1882-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of nine focus groups with 20 parents, 25 teachers, and 21 students from three Los Angeles elementary schools; participants described disengagement "manifested by poor class participation, giving up on school-related tasks, and disrupting other students." No effect sizes reported (qualitative design).
 

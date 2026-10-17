@@ -153,6 +153,7 @@ Claims this page cited before it was rewritten as a conditional model. None test
 - [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](../claims/waivers-promoted-failing-students-1997.md) [~W]
 - [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](../claims/higher-passing-rates-did-not-lower-retention.md) [~W]
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](../claims/postpolicy-retention-effect-smaller-but-larger-impact.md) [~W]
+- [For children and adolescents with dyslexia, the silent reading deficit is as large as or larger than the oral reading deficit](../claims/dyslexia-silent-reading-deficit-as-large-or-larger.md) [+W] — attached 2026-10-17 from Madelon van den Boer et al. (2022), which proposed "Include silent reading in dyslexia diagnosis and treatment, especially for adolescents, alongside oral reading assessment".
 
 ## Objective and learner-valued goal
 

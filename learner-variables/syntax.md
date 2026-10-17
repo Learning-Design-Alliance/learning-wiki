@@ -62,6 +62,10 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](../claims/oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) [+M] — learners who differ on it differ in outcomes
 - [Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not](../claims/syntactic-complexity-develops-upper-elementary-not-length-content.md) [+W] — instruction changes it
 - [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](../claims/transcription-skills-decline-upper-grades.md) [-W] — instruction changes it
+- [Children with uneven bilingual development prefer the stronger language and mix sentence-internally mainly in weaker-language interactions](../claims/stronger-language-preference-and-mixing-asymmetry.md) [~M] — learners who differ on it differ in outcomes
+- [Code-mixing decreases and ceases as the weaker language syntactic structure develops to CP level](../claims/mixing-ceases-when-cp-acquired-in-weaker-language.md) [+M] — learners who differ on it differ in outcomes
+- [DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop](../claims/dll-metalinguistic-advantage.md) [~M] — instruction changes it
+- [The amount of input in each language is related to syntactic development and language dominance](../claims/input-amount-relates-to-syntactic-development.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

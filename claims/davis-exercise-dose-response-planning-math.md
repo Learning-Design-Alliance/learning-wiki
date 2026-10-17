@@ -64,3 +64,4 @@ fMRI pilot study within the Davis et al. trial with 20 children scanned at basel
 ## Related Claims
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — a broader claim this one bears on
 - [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related
+- [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md) — possibly the same claim (merge candidate)

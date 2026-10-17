@@ -31,7 +31,7 @@ sources:
 
 Henk G. Schmidt & Jerome I. Rotgans. (2021). Epistemic Curiosity and Situational Interest: Distant Cousins or Identical Twins?. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09539-9
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Repeated-measures ANOVAs in the treatment condition (n = 74) of the 148-student experiment. Both measures showed significant time effects ("η2 = .163" for curiosity; "η2 = .117" for interest), with measurement 3 significantly higher than all others.
 

@@ -48,7 +48,8 @@ In the discussion the authors propose intervention research examining whether tr
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](../claims/nmp-correlates-fact-retrieval-symbolic-stronger.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Training symbolic magnitude comparison skills is a speculative route to improving multiplication fact retrieval, especially for children with dyscalculia](train-symbolic-magnitude-comparison-for-fact-retrieval.md)
 
 ## Examples
 -

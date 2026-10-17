@@ -29,7 +29,7 @@ sources:
 
 Skagerlund K, Östergren R, Västfjäll D, Träff U (2019) How does mathematics anxiety impair mathematical abilities? Investigating the link between math anxiety, working memory, and number processing. PLoS ONE 14(1): e0211283. https://doi.org/10.1371/journal.pone.0211283
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Authors' summary of the fitted SEM results (N = 170 adults): WM and symbolic number processing (one- and two-digit comparison) both predicted arithmetic and numeracy. Descriptive correlations in Table 1 include arithmetic–2-DC r = -.48 and arithmetic–WM subtests r = .40–.45.
 

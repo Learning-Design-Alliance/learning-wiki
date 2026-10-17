@@ -47,3 +47,4 @@ Experiments (Bahrami et al., as reviewed here) degraded one partner's perceptual
 - [Students who were not surveyed for the study did not respond to the ability signal](non-surveyed-students-did-not-respond-to-signal.md) — related
 - [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](group-advantage-joint-perceptual-decision-discussion.md) — a broader claim this one bears on
 - [Pairs rapidly develop shared verbal confidence scales, and faster development predicts greater group advantage](linguistic-coordination-confidence-vocabularies.md) — related
+- [Individual acceptance of group constructions depends on reflection and reconciliation processes triggered by differing opinions, sometimes occurring after the group session](reflection-reconciliation-post-group-processes.md) — related

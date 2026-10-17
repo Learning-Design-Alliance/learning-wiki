@@ -82,6 +82,7 @@ Requiring learners to explain and justify their steps triggers self-explanation,
 - Works alongside formative assessment practices, since eliciting reasoning *is* formative evidence gathering
 - [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 - [Error-injection exercises: diagnosing subtly wrong simulations as graded practice](error-injection-diagnosis-exercises.md)
+- [Teacher follows learners' reasoning path and poses questions that alert learners to their geometric met-befores](teacher-questions-alert-geometric-met-befores.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the mechanism by which reasoning becomes visible and discussable

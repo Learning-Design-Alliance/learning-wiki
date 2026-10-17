@@ -29,7 +29,7 @@ sources:
 
 Schmidt FTC, Lindner C, Etzel JM and Retelsdorf J (2020) Self-Control Outdoes Fluid Reasoning in Explaining Vocational and Academic Performance—But Does It? Front. Psychol. 11:757. https://doi.org/10.3389/fpsyg.2020.00757
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Multivariate regression on N = 3,146 trainees; the printed R² values were 0.29 (math), 0.37 (physics), and 0.12 (mGPA), and "the constructs explained substantially more variance of the achievement tests" than of grades.
 

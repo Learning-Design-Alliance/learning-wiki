@@ -31,7 +31,7 @@ sources:
 
 Ebru Aydın, Çağlayan Dinçer. (2022). “I did it wrong, but i know it”: Young children’s metacognitive knowledge expressions during peer interactions in math activities. Thinking Skills and Creativity 45 (2022) 101104. https://doi.org/10.1016/j.tsc.2022.101104
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative finding from the full set of 16 activities: universal-property statements (e.g., judging whether something is cognitively hard or easy to understand) appeared exclusively in weight and volume tasks. Examples include Michael's "it is soft and light" in the Bags activity.
 

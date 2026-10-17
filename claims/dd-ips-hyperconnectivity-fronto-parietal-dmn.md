@@ -70,3 +70,4 @@ Follow-up visualization of connectivity t-scores in the same gPPI analysis estab
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
 - [Greater IPS connectivity correlates with worse reaction-time performance during addition but not subtraction in children](ips-connectivity-reaction-time-addition-correlation.md) — related
 - [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — related
+- [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related

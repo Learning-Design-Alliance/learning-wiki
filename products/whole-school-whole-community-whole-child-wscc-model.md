@@ -20,6 +20,7 @@ A Centers for Disease Control and Prevention framework that organizes coordinate
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **WSCC model's expanded and renamed school health components (10-component outer ring)**: The WSCC model's outer ring incorporates and revises the CSH components. The article reports that "the healthy and safe school environment component is now separated into “social and emotional climate” and “physical environment” giving greater attention to each," that family and community involvement is split into community involvement and family engagement, that health promotion for staff becomes employee wellness, and that nutrition services and physical education are expanded to include the nutrition environment and physical activity. Definitions for each component were developed by subject matter experts and vetted with experts in the field. (Lewallen TC et al. (2015))
 
 ### Claims
 
@@ -31,3 +32,4 @@ A Centers for Disease Control and Prevention framework that organizes coordinate
 
 ## Key Sources
 - Breaking Barriers, California Alliance of Child and Family Services, Santa Clara County Office of Education, & WestEd. (2022). Supporting California's children through a whole child approach: A field guide for creating integrated, school-based systems of care. https://WestEd.org/permissions
+- Lewallen TC, Hunt H, Potts-Datema W, Zaza S, Giles W. (2015). The Whole School, Whole Community, Whole Child Model: A New Approach for Improving Educational Attainment and Healthy Development for Students. Journal of School Health. https://doi.org/10.1111/josh.12310

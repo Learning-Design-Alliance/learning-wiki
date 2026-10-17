@@ -65,3 +65,4 @@ Lesson-level fidelity log analysis found site staff support was the weakest impl
 - [Most participating youth reported positive perceptions of Project With implementation, including 85 percent feeling respected all or most of the time](project-with-youth-perceptions-implementation-respect.md) — related
 - [NBA Math Hoops was implemented with high fidelity: teachers completed an average of 8.31 of 10 lessons and played 14.5 games per classroom over roughly 15 days](nba-math-hoops-high-implementation-fidelity.md) — related
 - [Justice-involved youth who remained at their sites completed an average of 11.0 of 12 Project With lessons, while those who left early completed 5.4](project-with-lesson-completion-retention-effect.md) — related
+- [Structured observations showed students were frequently engaged in on-task behaviors during circle meetings](structured-observations-engagement-on-task.md) — related

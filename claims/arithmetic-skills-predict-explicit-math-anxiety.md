@@ -50,3 +50,4 @@ Hierarchical regression in a correlational study of 27 sixth graders and their m
 - [Preliminary evidence of intergenerational transmission of math anxiety: mothers' math anxiety relates to children's lower intrinsic math motivation and stronger attentional bias toward math stimuli](intergenerational-transmission-math-anxiety.md) — related
 - [Higher levels of maternal help, press for intellectual development, and monitoring are associated with poorer children's arithmetic skills](maternal-practices-linked-poorer-arithmetic-skills.md) — related
 - [Math anxiety's direct effect on math performance emerges in grade 4 but not grade 3, suggesting a developmental trajectory](math-anxiety-direct-effect-emerges-grade-4.md) — related
+- [Math anxiety is not significantly correlated with trait anxiety in young children](math-anxiety-uncorrelated-trait-anxiety-children.md) — related

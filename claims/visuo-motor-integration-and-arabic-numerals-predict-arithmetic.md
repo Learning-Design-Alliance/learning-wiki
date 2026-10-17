@@ -31,7 +31,7 @@ sources:
 
 Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin. (2017). The predictive role of spatial skills for arithmetic and number line estimation in kindergarten children. https://doi.org/10.1016/j.cogdev.2017.09.002
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Same hierarchical regression analysis in the kindergarten longitudinal sample (N = 125). The article reports arithmetic was predicted by "their performance on the spatial orientation and visuo-motor integration task, as well as their knowledge of the Arabic numerals"; no coefficients are printed in the supplied text.
 

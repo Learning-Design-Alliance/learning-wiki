@@ -51,3 +51,4 @@ Path analysis (Model 1a, bootstrapping with 1000 samples) in 146 third graders f
 - [Children's self-rated general anxiety was not directly related to math achievement at either assessment time](self-rated-general-anxiety-not-related-to-math.md) — related
 - [Teacher-rated general anxiety is associated with lower verbal working memory performance](general-anxiety-undermines-wm.md) — related
 - [Working memory mediates the indirect effects of anxiety on math performance](wm-mediates-anxiety-effect-on-math.md) — related
+- [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](observed-anxiety-predicts-lower-work-self-regulation.md) — related

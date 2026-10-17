@@ -45,3 +45,4 @@ Poisson regression models in the combined sample tested ADHD and comorbid disord
 ## Related Claims
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
+- [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md) — related

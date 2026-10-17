@@ -53,3 +53,4 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth](trust-reliance-divergence-measures-not-calibrated.md) — related
 - [Better metacognitive awareness of trial-to-trial VSTM performance is associated with lower error, higher precision, and fewer misbinding errors, but not with item capacity, and this association is invariant across age](metacognitive-awareness-predicts-vstm-quality-not-capacity.md) — related
+- [Individual acceptance of group constructions depends on reflection and reconciliation processes triggered by differing opinions, sometimes occurring after the group session](reflection-reconciliation-post-group-processes.md) — related

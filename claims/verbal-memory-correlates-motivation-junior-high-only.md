@@ -31,7 +31,7 @@ sources:
 
 Mizuno K, Tanaka M, Fukuda S, Imai-Matsumura K, Watanabe Y. (2011). Relationship between cognitive function and prevalence of decrease in intrinsic academic motivation in adolescents. Behavioral and Brain Functions 7:4. https://doi.org/10.1186/1744-9081-7-4
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Pearson correlation analysis in junior high students (Table 2). Digit span forward r = .262, list learning r = .209, list recall r = .186, story comprehension r = .264 (all p < .05); the discussion reports the digit span-kana comprehension correlation as "r = .182, p = .038".
 

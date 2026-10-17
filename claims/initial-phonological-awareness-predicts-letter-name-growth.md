@@ -52,3 +52,4 @@ Predictive growth models of 358 preschoolers tested initial phonological awarene
 - [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](letter-sound-knowledge-no-unique-bidirectional-relation.md) — related
 - [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](bidirectional-relation-extends-to-supra-phonemic-tasks.md) — related
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
+- [Children use letter-name knowledge as a shortcut when inventing phonologically based spellings](letter-names-bootstrap-invented-spellings.md) — related

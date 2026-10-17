@@ -94,3 +94,4 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
 - [Adults who completed supplemental basic-skills tutoring showed significant pre-to-post gains across a battery of decoding, word recognition, fluency, and comprehension measures](adult-completers-significant-gains-basic-reading.md) — related
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related

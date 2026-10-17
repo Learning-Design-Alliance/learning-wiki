@@ -45,3 +45,4 @@ Regression analyses predicting Grade 2 mathematics in the LOGIC sample with age,
 ## Related Claims
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
 - [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related
+- [Kindergarten logical thinking correlates with arithmetic but does not explain unique variance once other predictors are included](logical-thinking-no-unique-variance-arithmetic.md) — related

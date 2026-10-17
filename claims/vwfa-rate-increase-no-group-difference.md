@@ -29,7 +29,7 @@ sources:
 
 Christodoulou JA, Del Tufo SN, Lymberis J, Saxler PK, Ghosh SS, et al. (2014) Brain Bases of Reading Fluency in Typical Reading and Impaired Fluency in Dyslexia. PLoS ONE 9(7): e100552. https://doi.org/10.1371/journal.pone.0100552
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 An a priori 10 mm sphere ROI at canonical VWFA coordinates was examined across rates and groups. The ROI showed greater activation as a function of rate (p<.0001) with no group effect and no group x rate interaction (p = .41).
 

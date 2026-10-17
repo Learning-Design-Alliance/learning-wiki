@@ -78,6 +78,10 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](../claims/bidirectional-relation-extends-to-supra-phonemic-tasks.md) [+M] — learners who differ on it differ in outcomes
 - [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](../claims/bidirectional-relation-independent-of-maturation.md) [+M] — learners who differ on it differ in outcomes
 - [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](../claims/first-letter-of-name-advantage-letter-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Children use letter-name knowledge as a shortcut when inventing phonologically based spellings](../claims/letter-names-bootstrap-invented-spellings.md) [+M] — learners who differ on it differ in outcomes
+- [Combined letter name and sound instruction produced greater letter name production gains than letter sound only instruction in preschoolers](../claims/combined-lnls-beats-ls-letter-name-production-gains.md) [+M] — instruction changes it
+- [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](../claims/combined-lnls-letter-sound-gains-over-control.md) [~M] — instruction changes it
+- [Letter sound only instruction may interfere with letter name learning relative to incidental exposure](../claims/ls-only-possible-letter-name-interference.md) [~M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

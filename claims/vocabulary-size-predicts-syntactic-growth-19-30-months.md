@@ -31,7 +31,7 @@ sources:
 
 Michelle S. Peter, Samantha Durrant, Andrew Jessop, Amy Bidgood, Julian M. Pine, Caroline F. Rowland. (2019). Does speed of processing or vocabulary size predict later language growth in toddlers? Cognitive Psychology 115 (2019) 101238. https://doi.org/10.1016/j.cogpsych.2019.101238
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Growth curve analysis of M3L between 19 and 30 months with Expressive Vocabulary at 19 months as a predictor, shown in Fig. 5 with low and high vocabulary lines superimposed via median split. The introduction notes "Vocabulary size has been shown to be a strong predictor of later syntactic achievements".
 

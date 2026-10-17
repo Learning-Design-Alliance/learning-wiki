@@ -31,7 +31,7 @@ sources:
 
 Derek M. Houston, Jessica Stewart, Aaron Moberly, George Hollich, and Richard T. Miyamoto. (2012). Word learning in deaf children with cochlear implants: effects of early auditory experience. Dev Sci. 2012 May ; 15(3): 448–461. https://doi.org/10.1111/j.1467-7687.2012.01140.x
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Partial correlations (controlling for age) between raw MCDI scores at time of testing and mean looking time differences in NH age-matched controls. Word production correlated at r = .77 and irregular word production at r = .46, both p < .05.
 

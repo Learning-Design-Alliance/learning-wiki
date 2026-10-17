@@ -117,3 +117,6 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process — related
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — a narrower finding that bears on this claim
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related
+- [Children learning orthographically consistent languages show fewer reading deficits and faster spelling development](orthographic-consistency-eases-reading-spelling.md) — related
+- [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related

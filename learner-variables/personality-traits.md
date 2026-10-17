@@ -49,6 +49,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](../claims/openness-mediates-personality-wellbeing-pathways.md) [+M] — learners who differ on it differ in outcomes
 - [Openness protects against well-being decline only when emotional stability is average or high](../claims/openness-protects-only-with-emotional-stability.md) [~M] — learners who differ on it differ in outcomes
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](../claims/openness-predicts-creativity-not-gf.md) [~M] — learners who differ on it differ in outcomes
+- [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](../claims/openness-predicts-creative-metaphor.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

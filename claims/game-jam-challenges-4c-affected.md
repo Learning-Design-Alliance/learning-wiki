@@ -43,4 +43,4 @@ Qualitative analysis across the three events; Table 3 lists challenges by determ
 
 
 ## Related Claims
--
+- [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related

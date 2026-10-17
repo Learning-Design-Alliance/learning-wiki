@@ -64,6 +64,7 @@ Relationship quality is one of the most consistent correlates of achievement and
 - [Check-Ins](../elements/check-in.md) — the recurring ritual that maintains relational connection over a course
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
+- [Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition](safe-mathematical-community-practices.md)
 
 ## Examples
 - **Restorative practice circles** (used across many US districts): structured community circles in which teachers and students share perspectives, building relational trust that underpins classroom management.

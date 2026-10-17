@@ -52,3 +52,5 @@ Longitudinal mixed-effects modeling of the PSID-CDS accelerated longitudinal sam
 - [Sex-specific subgroup models show the same functional forms for boys and girls, though cubic coefficients for boys were not significant after correction](sex-subgroup-functional-forms-similar.md) — a narrower finding that bears on this claim
 - [In a prospective longitudinal sample (ECLS-K:2011), numbers reversed performance follows a logarithmic growth pattern, decelerating over ages 6–11](wm-logarithmic-growth-ecls.md) — related
 - [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md) — related
+- [Antisaccade performance follows a curvilinear developmental trajectory best fit by an inverse function, with intra-subject latency variability decreasing with age](antisaccade-curvilinear-inverse-trajectory.md) — related
+- [Behavioral self-regulation development between ages three and seven is best described by an exponential (nonlinear) growth curve](exponential-growth-behavioral-self-regulation-early-childhood.md) — related

@@ -113,6 +113,8 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](../claims/no-treatment-moderators-eb-pretest-attendance.md) [-M] — an instructional effect differs with it
 - [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](../claims/undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) [+W] — an instructional effect differs with it
 - [VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses](../claims/vip-no-treatment-language-status-interaction.md) [-M] — an instructional effect differs with it
+- [DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies](../claims/dll-smaller-vocabulary-each-language.md) [~M] — learners who differ on it differ in outcomes
+- [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](../claims/simultaneous-sequential-vocabulary-differences.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

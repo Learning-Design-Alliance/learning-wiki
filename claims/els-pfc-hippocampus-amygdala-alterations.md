@@ -70,3 +70,6 @@ Narrative review synthesis of human functional neuroimaging studies. The review 
 - [Chronic HPA axis activation via CRH and glucocorticoids is proposed to partially mediate the neural effects of early life stress](hpa-crh-glucocorticoid-partial-mediation.md) — related
 - [Threat and deprivation show overlapping effects on PFC-amygdala connectivity and hippocampal volume](threat-deprivation-shared-neural-effects.md) — related
 - [Threat-related psychopathology associations appear more consistently mediated by stress response systems than deprivation-related ones](threat-mediated-stress-response-deprivation-less-so.md) — related
+- [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related
+- [Lower SES adolescents show greater stress-related increase in serotonin transporter gene methylation, associated with greater amygdala reactivity and depression symptoms](ses-linked-methylation-amygdala-reactivity-depression.md) — related
+- [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related

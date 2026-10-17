@@ -250,6 +250,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Accommodate age-related physical and sensory changes through high-contrast large-print materials, clear face-to-face speech, easy-grip manipulatives, and short morning sessions](../strategies/physical-sensory-accommodations-older-learners.md)
 - [Weekly dance-first-then-physics cycle with dual experimental and experiential records](../designs/dance-first-physics-weekly-cycle-dual-record.md)
 - [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](../strategies/funds-of-knowledge-mathematics-instruction.md)
+- [Design mathematics learning environments that build on students' home language, communities, and lived experiences](../strategies/build-math-on-home-language-and-community.md)
 
 ## Key Sources
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)

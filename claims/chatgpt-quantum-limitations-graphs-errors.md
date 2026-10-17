@@ -48,3 +48,4 @@ Theme 4 of the qualitative analysis: students found ChatGPT cannot read graphic 
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
+- [Students felt short-changed by classrooms over-emphasizing basic operations and withholding advanced mathematics](students-shortchanged-advanced-math.md) — related

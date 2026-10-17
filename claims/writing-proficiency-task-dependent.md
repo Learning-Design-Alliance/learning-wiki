@@ -48,3 +48,4 @@ Cross-sectional analysis of 372 preschoolers' performance across five writing ta
 - [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
 - [Writing features develop sequentially: universal features (linearity, segmentation, simple units) are acquired before language-specific features](universal-writing-features-before-language-specific.md) — related
 - [Children's name writing knowledge is more advanced than their other writing skills, with substantial letter knowledge of their own names by age 3-4](name-writing-most-advanced-emergent-skill.md) — related
+- [Prephonological spellers produce letter strings that statistically resemble the writing of their language rather than random strings](prephonological-spellers-match-language-letter-statistics.md) — related

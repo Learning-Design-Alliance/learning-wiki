@@ -45,3 +45,4 @@ The article reports, citing Hawlina et al. (2017), that "perspective taking incr
 ## Related Claims
 - [Group diversity problems stem from coordination failures rather than categorisation differences](diversity-coordination-failures-not-categorisation.md) — related
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
+- [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related

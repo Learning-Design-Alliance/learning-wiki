@@ -134,3 +134,4 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)](book-sharing-caregiver-competence-large-effect.md) — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
 - [Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins](ns-vocabulary-2500-entry-exponential-growth.md) — related
+- [Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment](hle-child-health-predict-reading-readiness.md) — related

@@ -40,6 +40,7 @@ This strategy recommends that early-warning identification of at-risk students s
 
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](school-level-data-systems-identify-student-support-needs.md)
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](early-warning-data-and-credit-recovery-strategy.md)
+- [Use person-centered trajectory identification to target motivational interventions at at-risk students](person-centered-motivation-trajectory-screening.md)
 
 ## Examples
 -

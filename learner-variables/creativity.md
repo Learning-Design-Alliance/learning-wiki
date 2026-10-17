@@ -82,6 +82,9 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](../claims/openness-predicts-creativity-not-gf.md) [+M] — instruction changes it
 - [The effect of crystallized intelligence on children's creativity is mediated by shifting](../claims/shifting-mediates-gc-creativity-children.md) [+M] — instruction changes it
 - [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](../claims/updating-explains-intelligence-creativity-shared-variance.md) [+M] — instruction changes it
+- [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+M] — instruction changes it
+- [Regression analysis showed creativity score was not dependent on active play](../claims/regression-null-active-play-creativity.md) [-M] — instruction changes it
+- [Students' geometrical creative thinking improved in all conditions, with no difference between MACE and regular geometry lessons](../claims/mace-no-gct-advantage.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

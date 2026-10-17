@@ -56,3 +56,4 @@ Analysis of performance on common health tasks in the LitCog study (n = 882 olde
 - [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](shifting-stronger-creativity-predictor-than-intelligence.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related
+- [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related

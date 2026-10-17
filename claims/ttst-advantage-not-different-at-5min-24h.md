@@ -49,3 +49,4 @@ Omnibus interaction test from the ANOVAs in Experiments 1 and 2, in which cued r
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
 - [The TTST advantage persists in a pure-list design, ruling out differential rehearsal (Experiment 4)](ttst-advantage-not-differential-rehearsal.md) — related
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](ttst-beats-pure-st-eskimo-pairs.md) — related
+- [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related

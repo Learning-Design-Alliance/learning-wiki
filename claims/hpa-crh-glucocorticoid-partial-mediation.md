@@ -67,3 +67,4 @@ Narrative review synthesis of human studies of glucocorticoid-related mechanisms
 - [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
 - [Threat-related psychopathology associations appear more consistently mediated by stress response systems than deprivation-related ones](threat-mediated-stress-response-deprivation-less-so.md) — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
+- [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related

@@ -48,6 +48,7 @@ The report recommends that initiatives adopt the same or similar key measures of
 - [Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing](implement-coherent-linked-student-database-foster-care.md)
 - [Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment](kea-system-strengthening-family-engagement-alignment.md)
 - [Improve visibility, alignment, and concrete strategies of the Transforming Schools Framework and resources](improve-framework-visibility-alignment-concrete-strategies.md)
+- [Use the WSCC model as a framework for school improvement plans, accountability measures, and cross-sector initiatives](wscc-implementation-across-sectors.md)
 
 ## Examples
 -

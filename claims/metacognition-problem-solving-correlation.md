@@ -76,3 +76,4 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 - Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
+- [Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it](higher-metacognition-children-felt-difficult-but-solvable.md) — related

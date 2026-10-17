@@ -31,7 +31,7 @@ sources:
 
 Pamela C. Snow. (2021). Psychosocial Adversity in Early Childhood and Language and Literacy Skills in Adolescence: The Role of Speech-Language Pathology in Prevention, Policy, and Practice. Perspectives of the ASHA Special Interest Groups. https://doi.org/10.1044/2020_PERSP-20-00120
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Narrative review synthesis of international research on youth offenders, citing Snow (2019): difficulties in receptive and expressive "structural language" domains plus discourse and pragmatic levels. No pooled effect size printed.
 

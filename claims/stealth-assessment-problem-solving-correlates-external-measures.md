@@ -46,3 +46,4 @@ Validation study in which 47 seventh-grade students played Use Your Brainz for a
 - [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related
 - [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](microdyn-stronger-predictor-than-ravens.md) — related
 - [Raven's and MicroDYN jointly explain 22% of variance in the stealth assessment estimate, with MicroDYN adding 5.7% unique variance beyond Raven's](regression-ravens-microdyn-unique-variance.md) — related
+- [Students with higher general cognitive ability are more efficient in equation rearrangement](cognitive-ability-correlates-equation-efficiency.md) — a narrower finding that bears on this claim

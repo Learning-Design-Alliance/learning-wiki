@@ -31,7 +31,7 @@ sources:
 
 Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V. (2020). Physical Exercise and Fitness Level Are Related to Cognitive and Psychosocial Functioning in Adolescents. Front. Psychol. 11:1777. https://doi.org/10.3389/fpsyg.2020.01777
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Pearson and Spearman correlation analyses (Table 4) among 208 adolescents related fitness measures to D2 and WISC-IV scores; the text states "Maximum oxygen consumption was the measure of physical ﬁtness that best correlated with the measures of cognitive functioning." Correlation coefficients are printed in Table 4 but not in this sentence.
 
@@ -48,3 +48,6 @@ Pearson and Spearman correlation analyses (Table 4) among 208 adolescents relate
 - [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — a broader claim this one bears on
 - [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
 - [Field-based cardiorespiratory fitness is positively associated with writing and written expression skills in children with overweight/obesity](crf-associated-writing-skills-overweight-obese-children.md) — related
+- [Omissions, commissions and variation index of the d2 test are not related to any physical fitness variable](d2-error-measures-unrelated-to-fitness.md) — related
+- [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — a narrower finding that bears on this claim
+- [VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys](vo2max-main-predictor-attention-concentration.md) — related

@@ -50,3 +50,5 @@ Cross-sectional ANOVA with age group as between-subjects factor across 372 presc
 - [Most variance in preschoolers' letter-writing skills is due to differences between students rather than between letters](student-level-dominates-letter-writing-variance.md) — related
 - [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](three-factor-structure-emergent-writing-preschoolers.md) — related
 - [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related
+- [Use of consonantal context in vowel spelling develops gradually, emerging around age 8 and peaking around age 11](context-use-in-vowel-spelling-develops-gradually.md) — related
+- [Prephonological spellers produce letter strings that statistically resemble the writing of their language rather than random strings](prephonological-spellers-match-language-letter-statistics.md) — related

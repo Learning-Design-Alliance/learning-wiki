@@ -137,11 +137,13 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Cognitive Load Reduction](cognitive-load-management.md)
 
 ## Examples
+
 - A novice algebra lesson uses a single integrated visual instead of separate text and diagram panels that learners must constantly coordinate.
 - A software onboarding flow replaces open-ended exploration with worked examples and progressively harder tasks until users can perform the workflow independently.
 - Example-problem sequences in math or programming.
 - Stepwise visual explanations paired with constrained early practice in technical training.
 - Instructional materials redesigned to remove split-attention and unnecessary visual clutter.
+- [Manage intrinsic load with a part-whole approach, task variability, and self-explanation to raise germane load](../strategies/part-whole-variability-self-explanation-raise-germane-load.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

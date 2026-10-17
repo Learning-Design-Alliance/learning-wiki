@@ -29,7 +29,7 @@ sources:
 
 Schmidt FTC, Lindner C, Etzel JM and Retelsdorf J (2020) Self-Control Outdoes Fluid Reasoning in Explaining Vocational and Academic Performance—But Does It? Front. Psychol. 11:757. https://doi.org/10.3389/fpsyg.2020.00757
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Observed correlations in Table 1 for N = 3,146 trainees; TSC correlated 0.16 with mGPA (p < 0.05) and 0.03/0.01 with the test scores, showing "no statistically significant relationships with either standardized achievement test".
 

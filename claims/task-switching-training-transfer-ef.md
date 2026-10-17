@@ -82,3 +82,4 @@ The review reports, citing Zinke et al. (2012), task-switching training in 10- t
 
 ## Related Claims
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
+- [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](narrow-transfer-computerized-ef-training.md) — related

@@ -46,3 +46,4 @@ The report cites Valencia et al. (2010) in its Background section: these "four d
 - [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](spanish-transparent-orthography-rate-predictor.md) — related
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](spanish-decoding-rate-better-predictor-than-accuracy.md) — related
 - [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](map-rf-theory-action-overarching-goal.md) — related
+- [End-of-Grade-1 oral reading fluency status predicts later reading comprehension better than growth slope, though slope added to first-grade screening accuracy in one study](orf-status-beats-slope-for-prediction.md) — related

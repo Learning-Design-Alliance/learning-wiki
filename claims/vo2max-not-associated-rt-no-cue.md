@@ -29,7 +29,7 @@ sources:
 
 Wengaard E, Kristoffersen M, Harris A and Gundersen H (2017) Cardiorespiratory Fitness Is Associated with Selective Attention in Healthy Male High-School Students. Front. Hum. Neurosci. 11:330. https://doi.org/10.3389/fnhum.2017.00330
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Linear mixed model analysis of reaction times in the Posner cue task for the no-cue stimuli category. The model found higher VO2max was "but not for stimuli following no cue (Estimate = −1.16, SE = 1.03, p = 0.266)".
 

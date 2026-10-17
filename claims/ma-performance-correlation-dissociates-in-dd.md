@@ -62,4 +62,4 @@ Within-group Spearman correlations in the DD (n = 99) and DD+RD (n = 140) subsam
 
 
 ## Related Claims
--
+- [Numerical difficulties in adults with DD are associated with negative emotions and psychosomatic symptoms traceable to primary school age](dd-adults-emotional-impact-numerical-difficulties.md) — related

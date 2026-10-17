@@ -31,7 +31,7 @@ sources:
 
 Dudovitz, R. N., Izadpanah, N., Chung, P. J., & Slusser, W. (2016). Parent, Teacher, and Student Perspectives on how Corrective Lenses Improve Child Wellbeing and School Function. Maternal and Child Health Journal. https://doi.org/10.1007/s10995-015-1882-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Focus-group thematic analysis; the article reports that "the etiology of that stress varied by participant group," with parents citing financial and emotional stress, teachers citing classroom management, and students citing headaches, eye strain, and trouble at school.
 

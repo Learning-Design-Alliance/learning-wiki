@@ -54,3 +54,7 @@ Longitudinal observational analysis of 27 mother–child dyads from primarily lo
 - [Parent explanations at 42 months are marginally related to child PPVT at 54 months with controls](explanations-42-months-marginally-predict-vocabulary-54-months.md) — related
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — a broader claim this one bears on
 - [Children's vocabulary and reaction time improved significantly from 18 to 24 months, and maternal talk measures were highly intercorrelated](vocabulary-and-processing-speed-gains-18-to-24-months.md) — related
+- [Child-directed speech predicts real-time language-processing efficiency at 19 and 24 months and explains gains in efficiency](child-directed-speech-predicts-processing-efficiency.md) — related
+- [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related
+- [LENA automated adult word counts are reliable for Spanish-language home environments](lena-adult-word-estimates-reliable-spanish.md) — related
+- [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related

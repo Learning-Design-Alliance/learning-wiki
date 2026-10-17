@@ -31,7 +31,7 @@ sources:
 
 Abraham, Anna; Windmann, Sabine; Siefen, Rainer; Daum, Irene; Güntürkün, Onur. (2006). Creative thinking in adolescents with attention deficit hyperactivity disorder (ADHD). Child Neuropsychology, 12(2), 111-123. https://doi.org/10.1080/09297040500320691
 
-`q1 · i?`
+`q1 · i?` · `associational · r?`
 
 The article states this as a prior postulate motivating the study, not as a result it tested directly; the article offers no effect size for it in the available text.
 

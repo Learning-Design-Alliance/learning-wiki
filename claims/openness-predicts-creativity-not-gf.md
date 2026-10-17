@@ -52,3 +52,5 @@ Extended SEM in Section 3.3 of the same study, adding personality (NEO-FFI openn
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related
 - [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](updating-explains-intelligence-creativity-shared-variance.md) — related
 - [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md) — related
+- [Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)](gf-predicts-creative-metaphor-quality.md) — related
+- [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](openness-predicts-creative-metaphor.md) — related

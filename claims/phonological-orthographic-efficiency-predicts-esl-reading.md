@@ -51,3 +51,4 @@ The article reports, citing Nassaji and Geva (1999), a correlational and hierarc
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related
+- [The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading](oral-silent-divergence-increases-with-reading-experience.md) — related

@@ -31,7 +31,7 @@ sources:
 
 Hurtado Nereyda, Marchman Virginia A., Fernald Anne. (2008). Does input influence uptake? Links between maternal talk, processing speed and vocabulary size in Spanish-learning children. Developmental Science. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2898277/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive longitudinal change analysis in the 27-dyad sample using parent-reported vocabulary and eye-tracked RT. The article reports "Children's vocabulary showed significant gains from 18 (M = 50 words, SD = 50) to 24 months (M = 203, SD = 142), t(26) = 6.5, p < .001" and mean RT decreased significantly from 1034 ms (SD = 163) to 892 ms (SD = 153), t(24) = 3.3, p < .003.
 

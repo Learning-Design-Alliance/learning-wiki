@@ -50,3 +50,4 @@ The comparison is between two non-randomised cohorts, medical students in the or
 - [Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-lower-stress-frustration.md) — related
 - [After the TBL module, students were better prepared to design and implement independent final research projects](tbl-module-prepares-independent-projects.md) — related
 - [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](tbl-team-dynamics-no-format-differences.md) — related
+- [In Study 1, students rated the revised intervention as more interesting and more informative than the original intervention](revised-intervention-rated-more-interesting-study1.md) — related

@@ -68,3 +68,4 @@ Narrative review synthesis of human studies of parental buffering. The review re
 - [Children's perception and interpretation of stressors, rather than event type alone, shapes neurobiological stress responses](perception-interpretation-shapes-stress-response.md) — related
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
 - [Threat-related psychopathology associations appear more consistently mediated by stress response systems than deprivation-related ones](threat-mediated-stress-response-deprivation-less-so.md) — related
+- [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related

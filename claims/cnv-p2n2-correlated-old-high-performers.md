@@ -45,3 +45,4 @@ Pearson correlation analyses between preparatory CNV and target-locked P2/N2 amp
 ## Related Claims
 - [Old high performers show larger target-locked P2/N2 amplitudes than old low performers, exceeding middle-aged or young adults in some conditions](old-high-performers-larger-p2n2-reactive-control.md) — related
 - [Old high performers show larger CNV amplitudes than old middle and low performers, comparable to middle-aged and young adults](old-high-performers-larger-cnv-proactive-control.md) — related
+- [The magnitude of ERP prediction markers correlates with the behavioral reaction-time benefit of predictability](erp-prediction-markers-correlate-rt-benefit.md) — related

@@ -49,3 +49,5 @@ Simultaneous multiple regression on the 24-child sample using averaged visuo-spa
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Children with larger first-to-fifth grade gains in visuospatial memory had higher fifth grade mathematics achievement, controlling for first grade visuospatial memory and other predictors](visuospatial-memory-gains-predict-fifth-grade-math.md) — related
 - [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related
+- [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
+- [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related

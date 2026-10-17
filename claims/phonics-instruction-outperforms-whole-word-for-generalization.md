@@ -153,3 +153,5 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
 - [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](synthetic-phonics-group-better-overall-outcomes.md) — a narrower finding that bears on this claim
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [Children learning orthographically consistent languages show fewer reading deficits and faster spelling development](orthographic-consistency-eases-reading-spelling.md) — related
+- [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — possibly the same claim (merge candidate)

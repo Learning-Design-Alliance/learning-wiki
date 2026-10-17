@@ -31,7 +31,7 @@ sources:
 
 Hahn Elizabeth A. Ph.D., Lachman Margie E. Ph.D. (2014). Everyday Experiences of Memory Problems and Control: The Adaptive Role of Selective Optimization with Compensation in the Context of Memory Decline. Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156931/
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Adjusted multilevel analysis of 103 MIDUS/BOLOS participants with ten-year working memory difference scores and 12-week diaries. The article reports the main effect of memory decline was "significantly predictive, as expected, of a greater number of memory problems" (Est. = -2.45, p = .047).
 

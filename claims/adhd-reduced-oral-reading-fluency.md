@@ -50,3 +50,4 @@ Group comparison of 41 ADHD and 21 control children, all screened to exclude wor
 - [Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD](coding-r-predicts-oral-reading-fluency.md) — related
 - [Children with ADHD perform worse than controls on WISC-IV Coding but not on Coding Copy, indicating deficits beyond graphomotor speed](adhd-coding-deficit-beyond-graphomotor-speed.md) — related
 - [Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems](fluency-only-difficulties-faster-than-combined.md) — related
+- [Children with ADHD exhibit significantly lower visual-motor integration and math and written language achievement than Non-ADHD peers, but intact visual perception and reading](adhd-lower-vmi-intact-visual-perception.md) — related

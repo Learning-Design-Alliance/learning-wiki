@@ -31,7 +31,7 @@ sources:
 
 Hahn Elizabeth A. Ph.D., Lachman Margie E. Ph.D. (2014). Everyday Experiences of Memory Problems and Control: The Adaptive Role of Selective Optimization with Compensation in the Context of Memory Decline. Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156931/
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Bivariate within-person correlation from Table 1 diary-level data (n = 103 participants, 12 weekly diaries). The article reports "lower weekly perceived control was correlated with more everyday memory problems (r = −0.21, p < .001)"; r = -0.21 is a small effect.
 

@@ -43,6 +43,7 @@ The article states that "BookNook Tutors complete a certification prior to tutor
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
 - [Operate high-dosage virtual tutoring with program-managed tutors and monthly literacy-specialist data meetings so school staff need no additional professional development](program-managed-tutoring-with-specialist-data-meetings.md)
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
+- [Transportable tutoring protocol with structured tutor training and supervision](fact-retrieval-tutoring-training-transportability.md)
 
 ## Examples
 -

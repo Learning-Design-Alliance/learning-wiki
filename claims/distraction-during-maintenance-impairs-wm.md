@@ -49,3 +49,4 @@ Review synthesis of ERP and fMRI studies of delay-period distraction. The review
 - [Age-related deficits in top-down modulation underlie much of older adults' working memory impairment](aging-top-down-modulation-deficit-wm.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Older adults show performance decrements in divided-attention visual localization tasks, exacerbated by distractors and greater eccentricity, despite intact central-task performance](older-adults-divided-attention-distractor-decrements.md) — related
+- [In a visual search task, children recognize search-irrelevant features better than adults while relevant-feature recognition is comparable](developmental-reversal-visual-search-irrelevant-features.md) — related

@@ -46,3 +46,5 @@ The review reports the Kang et al. (2009) curiosity induction study, in which su
 - [Curiosity enhances learning, including for incidental material encountered during high-curiosity states](curiosity-enhances-learning.md) — related
 - [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related
 - [Monkeys pay for non-strategic information: information about a reward is worth about 25% of the reward's value](monkeys-value-information-25-percent-of-reward.md) — related
+- [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
+- [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related

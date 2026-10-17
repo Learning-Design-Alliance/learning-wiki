@@ -31,7 +31,7 @@ sources:
 
 Collins, Jessica A., & Olson, Ingrid R. (2014). Knowledge is Power: How Conceptual Knowledge Transforms Visual Cognition. Psychonomic bulletin & review. https://doi.org/10.3758/s13423-013-0564-3
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Lupyan and Thompson-Schill's behavioral finding that "performance on an orientation discrimination task was facilitated when the image was preceded by the auditory presentation of a verbal label, but not by a sound that was equally associated with the object." No effect size is printed.
 

@@ -31,7 +31,7 @@ sources:
 
 Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua. (2018). Neural Correlates of Oral Word Reading, Silent Reading Comprehension, and Cognitive Subcomponents. International Journal of Behavioral Development. https://doi.org/10.1177/0165025417727872
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Whole-brain vertex-wise regression (n = 21) in the Results section, with Random Field Theory correction (p-cluster < 0.05). Clusters were in the "right superior temporal gyrus", left inferior temporal gyrus, left superior temporal gyrus and left supramarginal gyrus; no regions showed a significant negative correlation.
 

@@ -58,9 +58,11 @@ Processing speed shares substantial variance with working memory and fluid reaso
 6. **Give process-level feedback.** Feedback on strategy use rather than speed [feedback-most-effective-at-task-and-process-levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and fade supports as automaticity develops [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ## Related Strategies
+
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — the accommodation-focused sibling strategy; this page adds the strengths-routing dimension
 - [Achievable Micro-goals](achievable_micro-goals.md) — breaks long tasks into completions that slow processors can reach within a session
 - [Accessible Syntax](accessible_syntax.md) — reduces the decoding and parsing load that compounds slow intake
+- [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](accommodations-extended-time-assistive-tech-slow-ps.md)
 
 ## Examples
 - A student strong in visual processing uses a teacher-provided graphic organizer during lectures instead of taking free-form notes, then studies from the organizer rather than re-reading dense text.

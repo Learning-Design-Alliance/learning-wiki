@@ -31,7 +31,7 @@ sources:
 
 Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K. (2017). Enhanced Verbal Abilities in The Congenitally Blind. Experimental Brain Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Correlational analyses across the entire participant group. Verbal memory at T3 correlated with age at "r = -.44, p = .03"; spatial memory showed the same correlation magnitude at its single timepoint.
 

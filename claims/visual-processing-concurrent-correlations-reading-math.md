@@ -29,7 +29,7 @@ sources:
 
 Yang X and Meng X (2020) Visual Processing Matters in Chinese Reading Acquisition and Early Mathematics. Front. Psychol. 11:462. https://doi.org/10.3389/fpsyg.2020.00462
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analysis across all variables at both time points (Table 2). Kindergarten visual processing correlated with T1 character reading (r = −0.23*), T1 calculation (r = −0.24**), T2 calculation (r = −0.24*), and T2 character reading (r = −0.32**); thresholds are reverse-scored. No standardized effect size framing is offered beyond the printed correlations.
 

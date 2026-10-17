@@ -31,7 +31,7 @@ sources:
 
 Greenberg Daphne, Wise Justin, Morris Robin, Fredrick Laura, Nanda Alice O., Pae Hye-K. (2011). A randomized control study of instructional approaches for struggling adult readers. Journal of Research on Educational Effectiveness. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237050/
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A 2 (Native Language Status) × 5 (reading instruction group) MANCOVA with posttest data found one significant group effect for reading achievement, F (16, 708) = 2.49, p = .002, η2 = .05. The follow-up univariate ANCOVA on Word Attack yielded F (4, 177) = 4.93, p = .001, η2 = .10.
 

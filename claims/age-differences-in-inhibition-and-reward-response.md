@@ -64,3 +64,4 @@ Repeated measures ANOVA of percent inhibition by age group and reward condition.
 ## Related Claims
 - [Task-demand clusters differ in useful age ranges, with perceptual inhibition developing earliest and motivational inhibition latest](inhibitory-control-task-demands-developmental-ordering.md) — related
 - [Interventions were effective across all child and adolescent age groups, with no particular age group in which interventions were most effective.](sr-interventions-effective-across-all-age-groups.md) — related
+- [Congruency effects on both numerical and non-numerical inhibition tasks occur in all three age groups, with an age-by-congruency interaction only on the numerical task](congruency-effects-all-age-groups-numerical-interaction.md) — related
