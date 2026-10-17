@@ -55,6 +55,7 @@ The paper adopts Kolb's (1984) definition of experiential learning as "the proce
 
 - [Enhancing the Skills of Early Childhood Trainers training pack](../products/enhancing-the-skills-of-early-childhood-trainers-training-pack.md)
 - [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/experiential-learning.md)
+- [Use a triadic guiding-question checklist to design and reflect on adult learning activities across preparation, performance and reflection](../strategies/triadic-guiding-questions-design-adult-programs.md)
 
 ## Key Sources
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940

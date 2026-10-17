@@ -56,9 +56,11 @@ Arousal reappraisal works because it targets appraisal, not arousal itself: perf
 5. Afterward, have learners briefly reflect on how the reframe felt ([Individual Reflection](../elements/individual-reflection.md)) to build the habit for future use.
 
 ## Related Strategies
+
 - Expressive writing about test worries — a complementary pre-exam intervention that reduces anxious thought intrusion rather than relabeling arousal
 - Stress mindset training — the broader, multi-session version of the same appraisal logic
 - [Belonging interventions](../claims/belonging-interventions-improve-outcomes.md) — similarly brief, social-psychological interventions that change how learners interpret adversity
+- [Attentional training interventions may improve public speaking performance for speech-anxious individuals](attentional-training-public-speaking.md)
 
 ## Examples
 - **Brooks (2014) experiments** — Participants told to say "I am excited" before singing, speaking, and math tasks outperformed those told to say "I am calm," with the largest gains on the math task.

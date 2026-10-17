@@ -43,4 +43,4 @@ The review reports that balance performance and postural control in children wit
 
 
 ## Related Claims
--
+- [Balance training improves dynamic balance performance but not functional balance or postural sway](balance-training-improves-dynamic-balance-only.md) — related

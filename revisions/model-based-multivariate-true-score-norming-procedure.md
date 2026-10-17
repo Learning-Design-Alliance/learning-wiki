@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/model-based-multivariate-true-score-norming-procedure.md
 ---
 
-# Revision history: [research-methods/model-based-multivariate-true-score-norming-procedure](../research-methods/model-based-multivariate-true-score-norming-procedure.md)
+# Revision history: [research-methods/model-based-multivariate-true-score-norming-procedure](../research-methods/multivariate-true-score-model-for-achievement-and-growth-norming.md)
 
 Recorded as theories/multivariate-true-score-norming-procedure before it was renamed, re-filed or merged.
 

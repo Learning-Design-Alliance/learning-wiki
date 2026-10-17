@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (103 show a difference, 30 mixed, 15 no difference, 2 unmarked) · 128 studies (38 associational, 35 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 26 of 128 report an effect size · 141 claims rest on one study
+> **Evidence** · 164 claims (115 show a difference, 32 mixed, 15 no difference, 2 unmarked) · 134 studies (44 associational, 35 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 31 of 134 report an effect size · 153 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -199,6 +199,20 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](../claims/spatial-generative-reduce-error-interest-increases.md) [+M] — learners who differ on it differ in outcomes
 - [Students who only kept learning diaries showed a decrease in their motivation](../claims/diary-only-motivation-decrease.md) [+M] — instruction changes it
 - [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](../claims/well-designed-games-foster-practice-and-intrinsic-motivation.md) [+W] — instruction changes it
+- [Academic grit mediates a positive indirect effect of growth math mindset on math achievement](../claims/grit-mediation-growth-math-mindset-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](../claims/performance-goals-predict-lower-memory-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Ethnic-minority children report higher intrinsic motivation than European-American children despite higher stigma awareness](../claims/ethnic-minority-children-higher-intrinsic-motivation.md) [+M] — instruction changes it
+- [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](../claims/intrinsic-math-motivation-correlates-skills-anxiety.md) [+M] — learners who differ on it differ in outcomes
+- [Intrinsic motivation was related to mathematical accuracy but not to fluency in Grade 3](../claims/intrinsic-motivation-accuracy-not-fluency-grade-3.md) [+M] — learners who differ on it differ in outcomes
+- [Math mindsets and academic grit correlate substantially with primary math achievement](../claims/mindset-grit-math-achievement-correlations.md) [+W] — learners who differ on it differ in outcomes
+- [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+W] — learners who differ on it differ in outcomes
+- [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](../claims/poor-math-performers-overestimate-and-less-motivated.md) [+M] — learners who differ on it differ in outcomes
+- [Preliminary evidence of intergenerational transmission of math anxiety: mothers' math anxiety relates to children's lower intrinsic math motivation and stronger attentional bias toward math stimuli](../claims/intergenerational-transmission-math-anxiety.md) [+M] — instruction changes it
+- [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](../claims/school-belonging-centrality-compensation-no-buffering.md) [~M] — instruction changes it
+- [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](../claims/school-belonging-mediation-dominican-intrinsic-motivation.md) [+M] — instruction changes it
+- [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](../claims/stigma-awareness-academic-anxiety-intrinsic-motivation-children.md) [+M] — instruction changes it
+- [The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity](../claims/stigma-motivation-moderation-gender-ethnicity.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

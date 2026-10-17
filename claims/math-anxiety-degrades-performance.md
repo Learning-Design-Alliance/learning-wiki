@@ -96,3 +96,6 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related
 - [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — a narrower finding that bears on this claim
 - [Interest correlates moderately with academic achievement (mean correlation r = .31, meta-analytic)](interest-achievement-correlation-31.md) — related
+- [Early identification and treatment of math anxiety is important because early anxieties can snowball into avoidance of mathematics](early-identification-math-anxiety-importance.md) — related
+- [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](intrinsic-math-motivation-correlates-skills-anxiety.md) — a narrower finding that bears on this claim
+- [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — a narrower finding that bears on this claim

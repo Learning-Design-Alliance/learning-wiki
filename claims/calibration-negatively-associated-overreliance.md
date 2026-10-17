@@ -52,3 +52,4 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth](trust-reliance-divergence-measures-not-calibrated.md) — related
+- [Better metacognitive awareness of trial-to-trial VSTM performance is associated with lower error, higher precision, and fewer misbinding errors, but not with item capacity, and this association is invariant across age](metacognitive-awareness-predicts-vstm-quality-not-capacity.md) — related

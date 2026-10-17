@@ -49,3 +49,4 @@ This is an illustrative hypothetical example constructed by the report authors, 
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
 - Generative AI systems carry strong potential for introduced and inherited bias — related
 - People may absorb bias from AI and carry it beyond their interactions with the algorithm — related
+- [The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential](perspective-taking-indicator-academic-success.md) — related

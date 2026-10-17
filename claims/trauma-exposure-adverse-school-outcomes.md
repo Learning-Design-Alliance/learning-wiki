@@ -73,3 +73,4 @@ The review reports, citing Perfect et al. (2016), a systematic review of school-
 - Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
+- [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — related

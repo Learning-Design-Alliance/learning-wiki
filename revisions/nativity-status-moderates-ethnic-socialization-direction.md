@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/nativity-status-moderates-ethnic-socialization-direction.md
+---
+
+# Revision history: [claims/nativity-status-moderates-ethnic-socialization-direction](../claims/nativity-status-moderates-ethnic-socialization-direction.md)
+
+### 2026-10-17 · ingest · process:wiki-ingest
+Ingested from lvn-uma-a-taylor-2013-family-ethnic-socialization-and-ethnic-identity-a-fa (Family ethnic socialization and ethnic identity: A family-driven, youth-driven, or reciprocal process?) via eval_harness.py + ingest_extractions.py

@@ -48,3 +48,4 @@ Random-effects meta-analysis of 52 RCTs (4,885 participants) of at least 4 h of 
 - [Training more than three sessions per week neutralizes CCT efficacy, while one or 2–3 sessions per week are effective](cct-frequency-above-three-sessions-ineffective.md) — related
 - [Working-memory-only training shows no positive evidence of efficacy in healthy older adults](wm-only-training-ineffective-older-adults.md) — related
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
+- [Speed-of-processing training based on UFOV tasks reduces minimum duration thresholds in older adults, with benefits persisting up to two years](speed-of-processing-training-reduces-thresholds.md) — a narrower finding that bears on this claim

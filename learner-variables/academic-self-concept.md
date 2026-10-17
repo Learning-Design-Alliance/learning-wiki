@@ -12,7 +12,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 14 claims (11 show a difference, 1 mixed, 2 unmarked) · 13 studies (5 review, 3 causal, 2 associational, 2 design, 1 theoretical), `q1`–`q3` · 2 of 13 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (15 show a difference, 1 mixed, 2 unmarked) · 14 studies (5 review, 3 causal, 3 associational, 2 design, 1 theoretical), `q1`–`q3` · 3 of 14 report an effect size · 17 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -48,6 +48,10 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](../claims/reading-failure-fixed-ability-attribution.md) [+M] — instruction changes it
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](../claims/self-confidence-and-value-clustering-motivational-basis.md) [+M] — learners who differ on it differ in outcomes
 - [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](../claims/decreased-perceived-pronunciation-difficulty.md) [+W] — instruction changes it
+- [Math self-concept is a stronger predictor of math achievement, whereas value beliefs are stronger predictors of self-reported effort](../claims/self-concept-predicts-achievement-value-predicts-effort.md) [+M] — learners who differ on it differ in outcomes
+- [Only the self-concept-by-low-cost interaction adds predictive power for achievement beyond the self-concept-by-global-value interaction](../claims/self-concept-low-cost-interaction-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](../claims/synergistic-self-concept-global-value-interaction.md) [+M] — learners who differ on it differ in outcomes
+- [Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement](../claims/self-concept-and-value-equal-predictors-teacher-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

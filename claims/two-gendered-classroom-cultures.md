@@ -72,3 +72,4 @@ From the strong girls section: in the one group where boys did not dominate the 
 - Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction — related
 - [Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities](mathematics-education-gatekeeper-marginalized-students.md) — related
 - [EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change](equip-data-surfaces-unseen-participation-inequities.md) — related
+- [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related

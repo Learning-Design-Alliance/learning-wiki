@@ -44,3 +44,4 @@ Bootstrap indirect-effect tests (5,000 case-resampling draws, percentile interva
 - [Text-based reflective use from Copilot Critical Engagement responses does not predict productive engagement, with limited coder reliability and a TA ceiling effect (exploratory null)](copilot-text-reflective-use-null.md) — related
 - [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related
 - [Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)](ta-predicts-reflective-use-and-engagement-survey.md) — related
+- [The article hypothesizes that fostering self-determined, self-regulated and reflective adult educators and learners achieves the goal of creating people who know how to learn](fostering-three-factors-learning-how-to-learn.md) — related

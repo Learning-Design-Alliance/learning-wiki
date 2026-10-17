@@ -112,3 +112,4 @@ The one meta-analysis recorded above (Carbonneau et al., 2013) supports a small-
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — an alternative contextualized, activity-based format
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
+- [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — reports the opposite

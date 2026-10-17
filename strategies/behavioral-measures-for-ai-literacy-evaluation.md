@@ -40,6 +40,7 @@ The article recommends that AI literacy interventions be evaluated with behavior
 
 - [Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes](evaluate-ai-sp-with-endpoint-and-process-outcomes.md)
 - [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
+- [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 
 ## Examples
 -

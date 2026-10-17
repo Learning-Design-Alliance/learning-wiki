@@ -48,3 +48,4 @@ Phase I analysis of o4-mini outputs to three prompt variants (five submissions e
 - With images provided, reasoning models achieve higher majority-correct accuracy on image-Required middle-school math items than non-reasoning models — related
 - [Interpretable, well-specified AI mechanisms tend to produce clearer learning benefits than technically sophisticated but pedagogically underspecified ones](interpretable-ai-mechanisms-clearer-benefits.md) — related
 - [Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement](prompt-writing-new-feedback-literacy-capacity.md) — related
+- [The WM model is criticised as underspecified in its component interactions, limiting its predictive power](wm-model-underspecified-components-criticism.md) — related

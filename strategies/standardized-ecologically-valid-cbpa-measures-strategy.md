@@ -37,7 +37,8 @@ The review's future-directions section recommends that "future research should u
 - attentional functions and on-task behavior at school
 
 ## Related Strategies
-- 
+
+- [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 
 ## Examples
 -

@@ -44,3 +44,4 @@ Null result from experiment 2's cognitive battery: the randomized three-group tr
 
 ## Related Claims
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
+- [Speed-of-processing training based on UFOV tasks reduces minimum duration thresholds in older adults, with benefits persisting up to two years](speed-of-processing-training-reduces-thresholds.md) — related

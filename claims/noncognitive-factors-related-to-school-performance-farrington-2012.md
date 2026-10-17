@@ -55,3 +55,4 @@ This white paper reports, citing its predecessor critical review by Farrington e
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a narrower finding that bears on this claim
 - [The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes](social-skills-academic-effect-unclear.md) — related
+- [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — a narrower finding that bears on this claim

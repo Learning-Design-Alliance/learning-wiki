@@ -159,3 +159,7 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — a broader claim this one bears on
 - [Meaningful choice about learning tasks increases interest, but only under boundary conditions](meaningful-choice-increases-interest-limited.md) — related
 - [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related
+- [Early identification and treatment of math anxiety is important because early anxieties can snowball into avoidance of mathematics](early-identification-math-anxiety-importance.md) — related
+- [Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement](self-concept-and-value-equal-predictors-teacher-engagement.md) — a narrower finding that bears on this claim
+- [Math self-concept is a stronger predictor of math achievement, whereas value beliefs are stronger predictors of self-reported effort](self-concept-predicts-achievement-value-predicts-effort.md) — related
+- [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — related

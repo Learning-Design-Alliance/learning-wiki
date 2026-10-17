@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: ev-5
-    title: ev-5
+  - id: taboada-barber-2026
+    title: Taboada Barber 2026
     q: 3
     i: "?"
     kind: review
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · review `r1` · `q3`
 
 ## Subclaims
-`q3 i?` Students receiving two years of intervention showed more growth than both the one-year group and controls on WJ-III Letter/Word Identification and TOWRE Sight Word Efficiency, while the three groups did not differ on reading comprehension. [→ ev-5](#ev-5)
+`q3 i?` Students receiving two years of intervention showed more growth than both the one-year group and controls on WJ-III Letter/Word Identification and TOWRE Sight Word Efficiency, while the three groups did not differ on reading comprehension. [→ ev-5](#taboada-barber-2026)
 
 ## Evidence
 
-### ev-5
+### Taboada Barber 2026
 
 Taboada Barber, A., Urbano Aguilar, S., Lopez Rodriguez, A., and Pan, Y. (2026, September). Performing Is Not Teaching: What the Evidence Says About Reading Fluency Practices for Emergent Bilinguals. Digital Promise. https://doi.org/10.51388/20.500.12265/316
 

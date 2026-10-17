@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/item-response-time-analysis-for-detecting-test-disengagement.md
 ---
 
-# Revision history: [research-methods/item-response-time-analysis-for-detecting-test-disengagement](../research-methods/item-response-time-analysis-for-detecting-test-disengagement.md)
+# Revision history: [research-methods/item-response-time-analysis-for-detecting-test-disengagement](../research-methods/response-time-based-detection-of-test-taker-disengagement.md)
 
 Recorded as theories/response-time-metadata-disengagement-detection before it was renamed, re-filed or merged.
 

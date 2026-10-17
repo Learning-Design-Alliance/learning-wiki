@@ -12,7 +12,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (41 show a difference, 3 mixed, 7 no difference) · 39 studies (17 causal, 11 quant-synthesis, 4 review, 4 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 10 of 39 report an effect size · 48 claims rest on one study
+> **Evidence** · 55 claims (42 show a difference, 4 mixed, 9 no difference) · 43 studies (17 causal, 11 quant-synthesis, 8 associational, 4 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 10 of 43 report an effect size · 52 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -91,6 +91,10 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](../claims/world-of-words-expressive-vocabulary-significant.md) [+M] — instruction changes it
 - [World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)](../claims/world-of-words-inductive-reasoning-significant.md) [+M] — instruction changes it
 - [World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV](../claims/world-of-words-null-standardized-vocabulary-measures.md) [-W] — instruction changes it
+- [Academic vocabulary is directly related to fifth-grade geometric skills over and above arithmetic skills](../claims/academic-vocabulary-directly-related-geometric-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](../claims/vocabulary-not-uniquely-related-to-written-composition.md) [-M] — learners who differ on it differ in outcomes
+- [No significant total or direct effect of semantic knowledge on word or pseudoword decoding in children with dyslexia](../claims/no-direct-semantic-effect-decoding-dyslexia.md) [-M] — learners who differ on it differ in outcomes
+- [Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending](../claims/vocabulary-not-related-to-phonological-awareness-growth.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

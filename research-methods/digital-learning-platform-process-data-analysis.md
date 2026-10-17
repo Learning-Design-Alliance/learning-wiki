@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: digital-learning-platform-process-data-analysis
+aliases: [exploratory-digital-learning-platform-data-analysis-for-research-planning]
 title: Digital learning platform process-data analysis
 description: The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress.
 status: review
@@ -23,6 +24,8 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 - **Session-level behavioral measures as content-independent, practitioner-aligned detectors of self-regulated learning**: The article proposes that session-level measures like delayed start provide "a new opportunity for content-independent detectors, adding a behavioral component to the traditional usage and progress based on student engagement with content." Because the daily class period in K-12 is a bounded work space, its start and end times serve as behavioral anchors for defining self-regulation measures. The framework holds that detectors built from DLP log data already in use require no new diagnostics and frame results in minutes of delay, matching what educators observe. It bridges education research and classroom practice through interpretable measures. (Jordan Gutterman et al. (2026))
 - **Use complete AI-tutoring dialogue transcripts as fine-grained analytics linking help-seeking behavior to performance**: The article argues that Socratic AI systems can serve instruction and research simultaneously by logging full interaction transcripts. The authors state that AI-driven Socratic dialogue "generates fine-grained analytics for physics education research, establishing a scalable dual-purpose tool for instruction and learning analytics." Transcript-based coding of question specificity linked help-seeking behavior to expected grades, a methodological gap the authors say existing studies leave open because they focus on aggregate performance metrics. (Syed Furqan Abbas Hashmi (2025))
 - **Two-stage learning analytics framework for GenAI Tutor engagement: session-level engagement types plus student-level transition patterns**: The article proposes a learning analytics framework that first identifies engagement types at the conversation session level through clustering on behavioral, cognitive, and temporal features, then aggregates them into student-level engagement patterns via process mining. The authors state they "propose a learning analytics framework that identifies conversation session-level engagement types and integrates with student-level engagement patterns, which can be applied to other human-AI interaction data." It builds on prior process-mining work that segments logs into sessions and aggregates tactics into strategies. (Youjie Chen et al. (2026))
+- **Explore existing platform data before fully specifying a research plan to inform questions, design, and sample selection**: The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations. The stated consideration is "taking time to explore this available data before fully specifying a research plan," because existing data reveal available data structures and user behavior and help relate a planned experimental contrast to current platform activity. (Considerations for Conducting Research in Digital Learning Platforms)
+- **Researchers should take time to understand a digital learning platform's learning environment and capabilities before planning research within it**: The report's first consideration holds that researchers must conduct due diligence on a DLP before planning studies, because research must fit within learning environments that already exist. Researchers should inquire about the learning setting, theory of action, typical implementation, and available content, since "researchers will need to be prepared to explore, modify, and study their ideas within learning environments that already exist." This saves the expense of building a platform while requiring creativity in fitting research interests to it. (Considerations for Conducting Research in Digital Learning Platforms)
 
 ### Claims
 
@@ -34,13 +37,43 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 - [Shallow engagement with a GenAI Tutor persists over time, while deep engagers transition flexibly across engagement types](../claims/shallow-engagement-persists-deep-flexible.md) [+M]
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](../claims/behavioural-engagement-not-cognitive-engagement.md) [~W]
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](../claims/relative-delayed-start-stronger-fit.md) [~W]
+- [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](../claims/seernet-dlps-over-100000-regular-users.md) [+W]
 
 ## Related Research Methods
 
 - [Data integration planning for digital learning platform research](data-integration-planning-for-digital-learning-platform-research.md)
+- [Embedded experimental designs in digital learning platforms](embedded-experimental-designs-in-digital-learning-platforms.md)
 
 ## Key Sources
 - Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210
 - Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308
 - Syed Furqan Abbas Hashmi, N. Sanjay Rebello. (2025). Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot. https://arxiv.org/abs/2508.14778
 - Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447
+
+<!-- merged 2026-10-17 from research-methods/exploratory-digital-learning-platform-data-analysis-for-research-planning ("Exploratory digital learning platform data analysis for research planning"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# Exploratory digital learning platform data analysis for research planning
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations. The stated consideration is "taking time to explore this available data before fully specifying a research plan," because existing data reveal available data structures and user behavior and help relate a planned experimental contrast to current platform activity.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Explore existing platform data before fully specifying a research plan to inform questions, design, and sample selection**: The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations. The stated consideration is "taking time to explore this available data before fully specifying a research plan," because existing data reveal available data structures and user behavior and help relate a planned experimental contrast to current platform activity. (Considerations for Conducting Research in Digital Learning Platforms)
+- **Researchers should take time to understand a digital learning platform's learning environment and capabilities before planning research within it**: The report's first consideration holds that researchers must conduct due diligence on a DLP before planning studies, because research must fit within learning environments that already exist. Researchers should inquire about the learning setting, theory of action, typical implementation, and available content, since "researchers will need to be prepared to explore, modify, and study their ideas within learning environments that already exist." This saves the expense of building a platform while requiring creativity in fitting research interests to it. (Considerations for Conducting Research in Digital Learning Platforms)
+
+### Claims
+
+- [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](../claims/seernet-dlps-over-100000-regular-users.md) [+W]
+
+## Related Research Methods
+
+- [Data integration planning for digital learning platform research](data-integration-planning-for-digital-learning-platform-research.md)
+- [Embedded experimental designs in digital learning platforms](embedded-experimental-designs-in-digital-learning-platforms.md)
+
+## Key Sources
+- Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210
+-->

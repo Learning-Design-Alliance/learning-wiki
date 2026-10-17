@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/number-line-games-magnitude-intervention-strategy.md
+---
+
+# Revision history: [strategies/number-line-games-magnitude-intervention-strategy](../strategies/number-line-games-magnitude-intervention-strategy.md)
+
+### 2026-10-17 · ingest · process:wiki-ingest
+Ingested from lvn-linsen-2014-the-association-between-children-s-numerical-magnitude-pro (The association between children's numerical magnitude processing and mental multi-digit subtraction) via eval_harness.py + ingest_extractions.py

@@ -43,4 +43,4 @@ The authors' summary conclusion drawn from the quasi-experiment with 30 ADHD and
 
 
 ## Related Claims
--
+- [Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance](adhd-subtypes-equal-motivational-deficits.md) — a narrower finding that bears on this claim

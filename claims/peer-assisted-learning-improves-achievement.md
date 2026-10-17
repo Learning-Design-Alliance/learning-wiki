@@ -77,3 +77,4 @@ Earlier Related Claims:
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](high-and-low-achievers-benefit-from-quality-assignments.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related
+- [Younger children performed more redundant actions than older children](younger-children-more-redundant-actions.md) — related

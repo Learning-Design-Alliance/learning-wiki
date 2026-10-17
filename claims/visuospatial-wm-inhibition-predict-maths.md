@@ -43,4 +43,9 @@ Simultaneous multiple regression on the 24-child sample using averaged visuo-spa
 
 
 ## Related Claims
--
+- [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](executive-memory-predictors-of-math-9yo.md) — related
+- [First grade visuospatial memory did not predict fifth grade mathematics achievement, but first grade central executive, intelligence, and in-class attentive behavior did](first-grade-central-executive-intelligence-attention-predict-math.md) — related
+- [Simultaneous (Mazes) visuospatial memory showed a trend predicting fifth grade mathematics while sequential (Block Recall) did not](simultaneous-versus-sequential-visuospatial-math-prediction.md) — related
+- [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
+- [Children with larger first-to-fifth grade gains in visuospatial memory had higher fifth grade mathematics achievement, controlling for first grade visuospatial memory and other predictors](visuospatial-memory-gains-predict-fifth-grade-math.md) — related
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related

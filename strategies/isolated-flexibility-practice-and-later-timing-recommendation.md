@@ -39,6 +39,7 @@ Based on the null embedded-practice results, the authors recommend alternative d
 ## Related Strategies
 
 - [Replacing think-write pedagogy with conversation-based writing activities](alternatives-to-think-write-pedagogy.md)
+- [Design cognitive flexibility tasks controlling working memory and inhibition demands and matching accuracy across age cohorts](task-design-controls-wm-inhibition-demands.md)
 
 ## Examples
 -

@@ -73,10 +73,12 @@ Stage-matched activities prevent the twin failure modes of tasks that are too de
 5. **Respond descriptively and advance gently.** Describe what you see, and introduce the next-stage challenge (e.g., "can you make a circle that closes?") only when the current stage is comfortable.
 
 ## Related Strategies
+
 - [Dialogic Reading](../elements/dialogic-reading.md) — the same responsive, child-led conversational stance applied to books; both build expressive language that feeds early writing
 - [Play-Based Learning](../strategies/play-based-learning.md) — mark-making at this age is developmentally a form of play, not production
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connecting drawings to children's lived experience gives mark-making representational purpose
 - [Act It Out](../strategies/act_it_out.md) — dramatization and drawing both support children's symbolic representation
+- [Stage-matched early writing instruction: match teaching to the child's position on the writing-feature continuum](stage-matched-early-writing-instruction.md)
 
 ## Examples
 - **Head Start / Early Head Start classrooms** — teachers use developmental checklists (based on frameworks like [Teaching Strategies GOLD](https://teachingstrategies.com/product/gold/)) to place drawing and writing behaviors on a birth-to-kindergarten continuum and plan small-group activities accordingly.

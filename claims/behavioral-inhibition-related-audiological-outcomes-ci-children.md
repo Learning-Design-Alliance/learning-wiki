@@ -43,4 +43,4 @@ The authors' overall conclusion from the retrospective correlational analysis of
 
 
 ## Related Claims
--
+- [Demographic and audiologic factors (age, duration of hearing loss, age at onset, residual hearing) were not significantly correlated with speech recognition in CI users](demographic-factors-not-correlated-ci-speech-recognition.md) — related

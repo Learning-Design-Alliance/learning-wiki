@@ -48,3 +48,4 @@ The study of 120 low-income preschool and kindergarten children reports replicat
 ## Related Claims
 - [Theory of mind predicts concurrent literacy and numeracy outcomes at school entry among low-income children](tom-predicts-concurrent-academic-outcomes.md) — related
 - [A combination of sociocognitive variables predicts concurrent academic outcomes at school entry](sociocognitive-combination-predicts-school-entry-outcomes.md) — related
+- [Prenatal risk indices were not significantly associated with cognitive flexibility or theory of mind outcomes in this sample](prenatal-risk-not-associated-with-ef-tom-outcomes.md) — related

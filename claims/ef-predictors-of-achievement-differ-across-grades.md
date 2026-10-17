@@ -44,4 +44,4 @@ Cross-sectional regression results across three grade cohorts (243, 284, and 203
 
 
 ## Related Claims
--
+- [Attention problems are more important than executive functioning for predicting first-grade calculation, while executive functioning is more important for applied problems](differential-prediction-attention-calculation-ef-applied-problems.md) — related

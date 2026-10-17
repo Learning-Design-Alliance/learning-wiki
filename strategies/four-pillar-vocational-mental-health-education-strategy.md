@@ -46,6 +46,7 @@ The article recommends a four-part strategy for secondary vocational schools: ra
 ## Related Strategies
 
 - [Strengthen school-based mental health services, special educators and early-detection awareness programmes for depression and learning disorders](strengthen-school-mental-health-and-educator-services.md)
+- [Develop information and education programmes to improve integration of children with mental health problems, tailored to condition type](education-programmes-improve-integration-mental-health-peers.md)
 
 ## Examples
 -

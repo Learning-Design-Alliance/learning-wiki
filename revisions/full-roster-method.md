@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/full-roster-method.md
 ---
 
-# Revision history: [research-methods/full-roster-method](../research-methods/full-roster-method.md)
+# Revision history: [research-methods/full-roster-method](../research-methods/three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
 
 Recorded as elements/full-roster-method-co-teaching-value-added before it was renamed, re-filed or merged.
 

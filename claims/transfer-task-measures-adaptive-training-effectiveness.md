@@ -44,3 +44,4 @@ Methodological statement from the overview of the experimental design. The autho
 
 ## Related Claims
 - [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](manual-adaptation-slightly-superior-automatic-adaptive-training.md) — related
+- [The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential](perspective-taking-indicator-academic-success.md) — related

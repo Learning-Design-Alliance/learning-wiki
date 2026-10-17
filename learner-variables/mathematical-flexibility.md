@@ -12,7 +12,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 4 claims (3 show a difference, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 show a difference, 2 mixed) · 8 studies (4 causal, 2 associational, 1 quant-synthesis, 1 review), `q2`–`q4` · 2 of 8 report an effect size · 7 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -39,6 +39,10 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [~S] — instruction changes it
 - [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](../claims/pf-greater-representation-flexibility-graphical.md) [+M] — instruction changes it
 - [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](../claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) [+M] — learners who differ on it differ in outcomes
+- [Children who switched to the efficient method largely reverted to the inefficient method over subsequent trials](../claims/children-revert-to-first-learned-inefficient-method.md) [~M] — instruction changes it
+- [In Grade 3, both problem solving and arithmetical facts are predicted by the preschool WM–flexibility component](../claims/wm-flexibility-predicts-grade-3-problem-solving-and-facts.md) [+M] — learners who differ on it differ in outcomes
+- [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](../claims/preschool-wm-flexibility-predicts-math-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3](../claims/wm-flexibility-predicts-math-composite-both-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

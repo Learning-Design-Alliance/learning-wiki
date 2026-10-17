@@ -43,4 +43,4 @@ Regression analyses predicting Grade 2 mathematics in the LOGIC sample with age,
 
 
 ## Related Claims
--
+- [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related

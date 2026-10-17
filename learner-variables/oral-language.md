@@ -12,7 +12,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (29 show a difference, 12 mixed, 15 no difference) · 43 studies (12 causal, 12 quant-synthesis, 11 review, 5 associational, 2 theoretical, 1 design), `q1`–`q3` · 15 of 43 report an effect size · 53 claims rest on one study
+> **Evidence** · 66 claims (35 show a difference, 13 mixed, 18 no difference) · 51 studies (13 associational, 12 causal, 12 quant-synthesis, 11 review, 2 theoretical, 1 design), `q1`–`q3` · 16 of 51 report an effect size · 63 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -92,6 +92,16 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)](../claims/arthur-potentially-positive-narrative-skill-effects.md) [+M] — instruction changes it
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language](../claims/waterford-level-one-no-discernible-oral-language-effects.md) [-M] — instruction changes it
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](../claims/world-of-words-expressive-vocabulary-significant.md) [+M] — instruction changes it
+- [Adolescent CI users perform weakest on connected discourse comprehension and abstract verbal reasoning subtests](../claims/ci-weak-connected-discourse-abstract-reasoning.md) [+M] — instruction changes it
+- [Children of higher and lower maternal education did not differ on on-task comprehension of attended stories during the ERP task](../claims/no-group-difference-attended-story-comprehension.md) [-M] — instruction changes it
+- [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](../claims/vocabulary-not-uniquely-related-to-written-composition.md) [-M] — learners who differ on it differ in outcomes
+- [Kindergarten oral language does not uniquely predict third-grade expository writing quality](../claims/oral-language-not-predictive-expository-writing.md) [-M] — learners who differ on it differ in outcomes
+- [Kindergarten oral language independently predicts third-grade narrative writing quality](../claims/kindergarten-oral-language-predicts-narrative-writing-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](../claims/oral-language-first-grade-quality-only.md) [~M] — learners who differ on it differ in outcomes
+- [Language group predicts perspective-taking accuracy after controlling for receptive vocabulary and fluid intelligence](../claims/language-group-predicts-perspective-taking-accuracy-regression.md) [+M] — learners who differ on it differ in outcomes
+- [Maternal education beyond 12 years is associated with better language skills at 3 years after accounting for hearing loss severity](../claims/maternal-education-predicts-language-3yo-hearing-loss.md) [+M] — instruction changes it
+- [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](../claims/oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) [+M] — learners who differ on it differ in outcomes
+- [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](../claims/ci-adolescents-language-measures-normal-range.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

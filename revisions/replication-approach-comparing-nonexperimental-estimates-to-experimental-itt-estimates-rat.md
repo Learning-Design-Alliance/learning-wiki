@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat.md
 ---
 
-# Revision history: [research-methods/replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat](../research-methods/replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat.md)
+# Revision history: [research-methods/replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat](../research-methods/within-study-comparison-wsc-methodology.md)
 
 Recorded as theories/itt-based-replication-approach-noncompliance before it was renamed, re-filed or merged.
 

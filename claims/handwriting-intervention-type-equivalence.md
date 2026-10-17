@@ -91,3 +91,6 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md) — related
 - [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
 - [Letter writing automaticity is marginally related to spelling (b = .11, p = .06) but not uniquely related to word reading (b = -.07, p = .28) in kindergartners](letter-writing-automaticity-marginal-spelling-not-word-reading.md) — related
+- [Children with dyslexia show no global handwriting-quality deficit relative to chronological-age and spelling-age matched typically developing children](dyslexia-no-global-handwriting-quality-deficit.md) — related
+- [About half of all children with DCD experience difficulty learning to write, making dysgraphia assessment essential because handwriting difficulties do not resolve without intervention](half-of-children-with-dcd-have-dysgraphia.md) — related
+- [Process-oriented (bottom-up) therapies for DCD show weak or null effects, while task-oriented approaches are effective in improving motor performance](process-oriented-weak-task-oriented-effective-dcd.md) — related

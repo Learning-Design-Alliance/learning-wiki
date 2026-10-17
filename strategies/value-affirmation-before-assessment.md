@@ -58,8 +58,10 @@ Evaluative settings trigger threat responses that consume working memory and dep
 5. **Pair with a supportive climate.** Affirmation works inside courses that also use [Assessment for Learning](../principles/assessment-for-learning.md) and growth-oriented [Feedback](../elements/feedback.md); it cannot offset a threatening course culture alone.
 
 ## Related Strategies
+
 - **Belonging narrative intervention** — a sibling social-psychological intervention; both target threat, and both require universal framing to avoid stigmatizing recipients
 - **Growth mindset framing** — often combined with affirmation in multi-component "wise interventions," though effects are independent
+- [Frame reading assessment as a game to reduce stereotype threat for boys](frame-reading-test-as-game-reduce-threat.md)
 
 ## Examples
 - **Cohen et al. (2009)** — A 15-minute values-affirmation writing assignment administered in seventh-grade classrooms; Black students' grade point average improved and the racial achievement gap was reduced across the term ([Science](https://doi.org/10.1126/science.1171333)).

@@ -67,6 +67,7 @@ Routines convert recurring procedural decisions into automatic behaviors, freein
 - Scaffold Independent Work — routines provide the stable structure within which scaffolding fades
 - [Classroom Space and Procedural Design](../principles/classroom-space-and-procedural-design.md) — the broader principle distinguishing procedures (which routines implement) from rules
 - [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+- [Train teachers to organize, plan, and manage the classroom to support self-regulation in students with weak initial self-regulation](teacher-organizing-planning-supports-weak-self-regulation.md)
 
 ## Related Elements
 - <!-- TODO -->

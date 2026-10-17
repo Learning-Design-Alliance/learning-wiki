@@ -12,7 +12,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 2 claims (2 show a difference) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 show a difference, 2 mixed) · 4 studies (2 review, 1 causal, 1 associational), `q2`–`q3` · 1 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -37,6 +37,10 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 <!-- Claims reporting findings about this variable, with evidence tags -->
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](../claims/daylight-green-views-benefit-students.md) [+M] — instruction changes it
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](../claims/physical-wellbeing-impacts-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Path analysis shows sleep disturbance relates to cognitive flexibility indirectly via inhibitory control and working memory, with a non-significant direct path](../claims/path-analysis-indirect-sleep-flexibility-via-ic-wm.md) [~M] — learners who differ on it differ in outcomes
+- [School-based sleep education improves children's sleep duration and quality](../claims/sleep-education-improves-childrens-sleep.md) [+M] — instruction changes it
+- [Self-reported habitual sleep disturbance is significantly negatively correlated with all three executive function components in 7–9-year-old children](../claims/sleep-disturbance-correlated-all-three-ef-components.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep's association with inhibitory control and working memory remains significant after controlling for the other EF components, but cognitive flexibility's does not](../claims/sleep-ic-wm-direct-flexibility-nonsignificant-partial.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

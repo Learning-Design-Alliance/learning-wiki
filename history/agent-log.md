@@ -50,6 +50,14 @@ at the top, under this paragraph.
   impact design decisions"): `sort_claims.py --all` sorted every claim with two models; the 401 both filed as
   research practice (trial design, Bayesian analysis, sample-size formulas, bibliometric counts, reliability
   statistics) were removed with every link to them (2,700 links on about 1,000 pages). 2,100 disputed sorts stay.
+- **lvn-wave-2**: 149 of 250 fetched (102 in wave 1; the PMC manuscript route), 132 ingested. The ingest
+  citation parser now reads Harvard style ("Swords, L, ... 2011, 'Title'"); 14 claim pages whose headings had
+  fallen back to extraction anchors (`ev-background`) were repaired, some from earlier batches.
+- **Thin research-method pages** (maintainer: fold them): 244 of 492 cite one claim or none. Two models (a third
+  settling disagreements) proposed a parent for 103, but a strict check, two models reading both pages in full
+  and asking whether the thin page is the same method or a variant, passed only 16, which were folded
+  (`merge_pages.py research-methods`). Most thin pages are one paper's own coding scheme, taxonomy or evaluation
+  rubric with nothing general to fold into; 138 of them cite no claim, and their removal is the maintainer's call.
 
 ## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
 

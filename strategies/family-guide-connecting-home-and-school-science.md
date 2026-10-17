@@ -45,6 +45,7 @@ The program connects home and school learning by giving families a digital guide
 - [Family Science Fun Guide](../products/family-science-fun-guide.md)
 - [Non-intensive Home Numeracy Environment (HNE) Intervention Program](non-intensive-home-numeracy-environment-hne-intervention-program.md)
 - [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
+- [Transform neighborhood spaces into safe, playful learning landscapes to foster caregiver-child interaction and curiosity in under-resourced communities](playful-learning-landscapes-neighborhood-curiosity.md)
 
 ## Examples
 -

@@ -41,6 +41,7 @@ The article recommends structuring AI use as "a prepare-participate-reflect sequ
 ## Related Strategies
 
 - [Teach mediation literacy and redesign assessment and evaluation to measure interaction, not only satisfaction](mediation-literacy-assessment-interaction-evaluation.md)
+- [Use a triadic guiding-question checklist to design and reflect on adult learning activities across preparation, performance and reflection](triadic-guiding-questions-design-adult-programs.md)
 
 ## Examples
 -

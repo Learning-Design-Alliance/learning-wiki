@@ -12,7 +12,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 29 claims (11 show a difference, 8 mixed, 10 no difference) · 21 studies (14 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q3` · 14 of 21 report an effect size · 28 claims rest on one study
+> **Evidence** · 39 claims (20 show a difference, 8 mixed, 11 no difference) · 23 studies (14 causal, 4 quant-synthesis, 3 associational, 1 qualitative, 1 design), `q1`–`q3` · 15 of 23 report an effect size · 38 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -68,6 +68,16 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](../claims/werp-potentially-positive-alphabetics.md) [~W] — instruction changes it
 - [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](../claims/waterford-versus-letter-people-similar-outcomes.md) [-M] — instruction changes it
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](../claims/waterford-level-one-no-discernible-print-knowledge-effects.md) [-W] — instruction changes it
+- [Children with higher initial letter-name knowledge show faster growth in phonological awareness across the preschool year](../claims/initial-letter-name-knowledge-predicts-phonological-awareness-growth.md) [+M] — learners who differ on it differ in outcomes
+- [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](../claims/letter-sound-knowledge-no-unique-bidirectional-relation.md) [-M] — learners who differ on it differ in outcomes
+- [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](../claims/negative-intercept-slope-within-code-related-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Initial phonological awareness uniquely predicts growth in letter-name knowledge, most strongly via elision skill](../claims/initial-phonological-awareness-predicts-letter-name-growth.md) [+M] — learners who differ on it differ in outcomes
+- [Letter-name knowledge strongly predicts correct letter writing, especially for 4- and 5-year-olds](../claims/letter-name-knowledge-predicts-letter-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge](../claims/letter-sound-pa-smaller-contribution.md) [+W] — learners who differ on it differ in outcomes
+- [Letter-writing difficulty varies widely across letters, with O easiest and K hardest, and knowing the letter name raises per-letter probabilities substantially](../claims/per-letter-difficulty-and-name-knowledge-gains.md) [+M] — learners who differ on it differ in outcomes
+- [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](../claims/bidirectional-relation-extends-to-supra-phonemic-tasks.md) [+M] — learners who differ on it differ in outcomes
+- [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](../claims/bidirectional-relation-independent-of-maturation.md) [+M] — learners who differ on it differ in outcomes
+- [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](../claims/first-letter-of-name-advantage-letter-writing.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

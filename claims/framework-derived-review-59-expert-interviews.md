@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 sources:
-  - id: ev-derivation
-    title: ev-derivation
+  - id: pattenhouse-2025
+    title: Pattenhouse 2025
     q: 2
     i: "?"
     kind: review
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
-`q2 i?` The framework draws on a comprehensive review of research and recommended practices including 59 expert interviews. [→ ev-derivation](#ev-derivation)
+`q2 i?` The framework draws on a comprehensive review of research and recommended practices including 59 expert interviews. [→ ev-derivation](#pattenhouse-2025)
 
 ## Evidence
 
-### ev-derivation
+### Pattenhouse 2025
 
 Pattenhouse, M.*, Noakes, S.*, Mills, K., Shell, A., & Vollavanh, A. (2025, November). Framework for Powerful Learning with Emerging Technology. Digital Promise. https://doi.org/10.51388/20.500.12265/275
 

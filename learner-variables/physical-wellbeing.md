@@ -12,7 +12,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (15 show a difference, 7 mixed, 1 no difference) · 19 studies (12 causal, 3 review, 2 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 19 report an effect size · 20 claims rest on one study
+> **Evidence** · 33 claims (23 show a difference, 8 mixed, 2 no difference) · 22 studies (12 causal, 4 associational, 3 review, 2 quant-synthesis, 1 qualitative), `q2`–`q4` · 3 of 22 report an effect size · 30 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -59,6 +59,16 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors](../claims/health-behavior-change-short-term-promising.md) [~M] — instruction changes it
 - [The percentage of students in the targeted Harlem Fitness Zone was significantly greater after two and three years of participation than at baseline](../claims/healthy-harlem-hfz-percentage-greater-than-baseline.md) [+M] — instruction changes it
 - [The timing of acute exercise relative to learning modulates memory consolidation](../claims/acute-exercise-timing-memory.md) [~M] — an instructional effect differs with it
+- [Aerobic fitness group differences in cortical thickness are regionally specific, absent in middle frontal, middle temporal, and parietal areas](../claims/fitness-cortical-thickness-differences-regionally-specific.md) [+M] — learners who differ on it differ in outcomes
+- [Health status predicts perceived school belonging beyond demographic controls](../claims/health-status-predicts-belonging.md) [+M] — learners who differ on it differ in outcomes
+- [Higher fit children show superior mathematics achievement but no reading or spelling advantage over lower fit children](../claims/higher-fit-children-superior-arithmetic-no-reading-spelling-difference.md) [+M] — learners who differ on it differ in outcomes
+- [Higher fit preadolescent children show decreased cortical thickness in superior frontal, superior temporal, and lateral occipital cortex relative to lower fit children](../claims/higher-fit-children-decreased-cortical-thickness-frontal-temporal-occipital.md) [+M] — learners who differ on it differ in outcomes
+- [Obesity (BMI ≥30) is associated with lower performance in verbal abilities, processing speed, and cognitive flexibility in older adults](../claims/obesity-lower-cognitive-performance-old-age.md) [+M] — learners who differ on it differ in outcomes
+- [Obesity is not related to verbal abilities, processing speed, or cognitive flexibility when cognitive reserve in early and midlife is accounted for](../claims/obesity-non-significant-cognitive-reserve-adjusted.md) [-M] — learners who differ on it differ in outcomes
+- [Obesity relates to lower processing speed and cognitive flexibility only among older adults with low education or low engagement in activities](../claims/obesity-cognitive-reserve-moderation-old-age.md) [~M] — learners who differ on it differ in outcomes
+- [The authors argue physical activity opportunities during the school day are being reduced despite evidence fitness may benefit scholastic achievement](../claims/school-physical-activity-reduced-despite-achievement-evidence.md) [+W] — learners who differ on it differ in outcomes
+- [The authors propose aerobic fitness as a possible predictor of developmental cortical thinning and a pathway to enhanced cognition and scholastic performance](../claims/aerobic-fitness-possible-predictor-cortical-maturation-pathway.md) [+W] — learners who differ on it differ in outcomes
+- [The brain regions showing fitness-related thinning overlap with regions undergoing typical developmental cortical thinning between ages 5 and 11](../claims/fitness-thinning-regions-overlap-developmental-thinning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.
@@ -78,6 +88,8 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Academic and Critical Literacy](academic-and-critical-literacy.md): health goes with achievement and attendance, and health literacy with adults' health.
 
 ## Examples
+
+- [Deliver sleep education at school to improve sleep, cognition and academic performance](../strategies/school-based-sleep-education-strategy.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Physical Well-being (Adult Learner, Building Literacy 4-6, Building Literacy 7-12, Building Math 3-6, Building Math 7-10, Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/physical-well-being-adult-learner/summary). Licensed CC BY-NC 4.0.

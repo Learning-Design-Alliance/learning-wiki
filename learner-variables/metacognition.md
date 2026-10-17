@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (40 show a difference, 10 mixed, 5 no difference) · 43 studies (15 causal, 7 qualitative, 6 theoretical, 5 review, 5 associational, 3 quant-synthesis, 2 design), `q1`–`q4` · 12 of 43 report an effect size · 54 claims rest on one study
+> **Evidence** · 59 claims (42 show a difference, 12 mixed, 5 no difference) · 46 studies (16 causal, 7 associational, 7 qualitative, 6 theoretical, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 12 of 46 report an effect size · 58 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -96,6 +96,10 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [The professional learning community is an environment in which teacher metacognition can be nurtured](../claims/plc-nurtures-teacher-metacognition.md) [+M] — instruction changes it
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](../claims/peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) [+M] — instruction changes it
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](../claims/unsupported-journal-writing-low-strategy-use.md) [+M] — learners who differ on it differ in outcomes
+- [Better metacognitive awareness of trial-to-trial VSTM performance is associated with lower error, higher precision, and fewer misbinding errors, but not with item capacity, and this association is invariant across age](../claims/metacognitive-awareness-predicts-vstm-quality-not-capacity.md) [~M] — learners who differ on it differ in outcomes
+- [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](../claims/postdiction-skills-related-to-math-accuracy-grades-1-6.md) [+M] — learners who differ on it differ in outcomes
+- [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](../claims/mixed-model-metacognitive-quality-unique-contribution.md) [+M] — learners who differ on it differ in outcomes
+- [The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15](../claims/intelligence-metacognition-predictor-turnaround.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

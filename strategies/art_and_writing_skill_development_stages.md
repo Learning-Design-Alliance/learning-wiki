@@ -59,8 +59,10 @@ Stage frameworks help caregivers and educators match expectations and support to
 6. Display the child's work to signal its value and revisit it over time ([Scaffolding](../elements/scaffolding.md) through shared reflection).
 
 ## Related Strategies
+
 - [Play-Based Learning](play-based-learning.md) — mark-making emerges naturally within play contexts
 - [Modeling and Demonstration](modeling-and-demonstration.md) — adults writing in front of children makes the purpose of print visible
+- [Stage-matched early writing instruction: match teaching to the child's position on the writing-feature continuum](stage-matched-early-writing-instruction.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — adult writing and drawing makes the functions of print observable

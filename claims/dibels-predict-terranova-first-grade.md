@@ -62,4 +62,4 @@ Regression on first-grade TerraNova Reading found "Letter Naming Fluency and Pho
 
 
 ## Related Claims
--
+- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related

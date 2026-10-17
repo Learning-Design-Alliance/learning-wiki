@@ -158,3 +158,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — related
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — a narrower finding that bears on this claim
 - [Teachers with constructivist beliefs are more likely to integrate educational AI-based tools than teachers with transmissive orientations (reported from a South Korean teacher study)](constructivist-beliefs-predict-ai-integration.md) — related
+- [Math self-concept is a stronger predictor of math achievement, whereas value beliefs are stronger predictors of self-reported effort](self-concept-predicts-achievement-value-predicts-effort.md) — related

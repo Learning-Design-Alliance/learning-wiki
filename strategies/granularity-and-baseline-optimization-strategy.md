@@ -37,7 +37,7 @@ The article recommends developing "a theoretically grounded data structure for s
 - reproducing learning mechanisms and developmental trajectories, not merely end-point outcomes
 
 ### Affordances
-- [Student Development Agent Framework](../research-methods/student-development-agents.md)
+- [Student Development Agent Framework](../research-methods/agent-based-educational-science-aes.md)
 
 ## Related Strategies
 

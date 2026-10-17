@@ -12,7 +12,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 19 claims (13 show a difference, 3 mixed, 3 no difference) · 17 studies (5 causal, 4 quant-synthesis, 4 review, 2 associational, 1 design, 1 theoretical), `q2`–`q3` · 1 of 17 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (16 show a difference, 5 mixed, 5 no difference) · 20 studies (5 causal, 5 associational, 4 quant-synthesis, 4 review, 1 design, 1 theoretical), `q2`–`q3` · 1 of 20 report an effect size · 23 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -55,6 +55,13 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Processing instruction produces significant gains in both sentence-level comprehension and production](../claims/processing-instruction-gains-comprehension-and-production.md) [+M] — instruction changes it
 - [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](../claims/teacher-led-outperformed-student-centered-grammar.md) [+W] — instruction changes it
 - [Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](../claims/proactive-fof-beats-reactive-upper-intermediate-grammar.md) [+M] — instruction changes it
+- [Each narrative writing measure is longitudinally stable within itself across the upper elementary grades, with no significant cross-lagged relationships across measures](../claims/narrative-measures-stable-within-not-across.md) [~W] — instruction changes it
+- [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](../claims/ef-no-direct-effect-syntactic-complexity-story-content.md) [-W] — instruction changes it
+- [Grammatical knowledge, reading comprehension, letter writing automaticity, and attentiveness are uniquely and positively related to substantive quality of first-grade written composition](../claims/grammatical-knowledge-reading-comprehension-letter-writing-automaticity-attentiveness-predict-substantive-quality.md) [+W] — learners who differ on it differ in outcomes
+- [Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](../claims/handwriting-fluency-mediates-ef-narrative-writing.md) [~W] — instruction changes it
+- [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](../claims/oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) [+M] — learners who differ on it differ in outcomes
+- [Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not](../claims/syntactic-complexity-develops-upper-elementary-not-length-content.md) [+W] — instruction changes it
+- [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](../claims/transcription-skills-decline-upper-grades.md) [-W] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

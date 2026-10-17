@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (56 show a difference, 29 mixed, 10 no difference, 3 unmarked) · 86 studies (25 causal, 19 review, 13 theoretical, 10 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 13 of 86 report an effect size · 86 claims rest on one study
+> **Evidence** · 104 claims (57 show a difference, 33 mixed, 11 no difference, 3 unmarked) · 89 studies (25 causal, 21 review, 13 theoretical, 11 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 13 of 89 report an effect size · 89 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -145,6 +145,12 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](../claims/prior-knowledge-moderates-vf-process-vs-pf.md) [~M] — an instructional effect differs with it
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](../claims/expertise-reversal-changes-from-expertise-levels.md) [+W] — an instructional effect differs with it
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+M] — an instructional effect differs with it
+- [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](../claims/knowledge-impact-greater-expository-narrative.md) [~M] — learners who differ on it differ in outcomes
+- [Higher background knowledge enables better reading comprehension for both skilled and low-skilled primary readers](../claims/background-knowledge-improves-comprehension-primary.md) [+M] — learners who differ on it differ in outcomes
+- [Low-skilled readers with strong background knowledge partially compensate for poor reading skill at the textbase level but not for inferencing](../claims/knowledge-compensates-textbase-not-inference.md) [~M] — learners who differ on it differ in outcomes
+- [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](../claims/previous-knowledge-null-elearning-comprehension.md) [-M] — learners who differ on it differ in outcomes
+- [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](../claims/misconceptions-inhibit-reading-comprehension.md) [~M] — learners who differ on it differ in outcomes
+- [Text cohesion interacts with background knowledge: low-knowledge readers benefit from high cohesion, high-knowledge readers from low cohesion (reverse cohesion effect)](../claims/reverse-cohesion-effect-background-knowledge.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

@@ -12,7 +12,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (38 show a difference, 10 mixed, 6 no difference) · 41 studies (16 causal, 11 quant-synthesis, 10 review, 2 qualitative, 2 theoretical), `q1`–`q4` · 17 of 41 report an effect size · 47 claims rest on one study
+> **Evidence** · 61 claims (40 show a difference, 14 mixed, 7 no difference) · 45 studies (16 causal, 11 quant-synthesis, 10 review, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 18 of 45 report an effect size · 54 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -88,6 +88,13 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](../claims/veriforge-delayed-recall-retention-rate.md) [+M] — instruction changes it
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](../claims/vocabulary-gains-persist-two-weeks.md) [+W] — instruction changes it
 - [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](../claims/effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) [~M] — instruction changes it
+- [ANS acuity is not related to algebra achievement once covariates are controlled, whereas retrieval errors remain predictive](../claims/ans-not-related-to-algebra-achievement-after-covariates.md) [+M] — learners who differ on it differ in outcomes
+- [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](../claims/pooraf-slower-only-multiplication-task.md) [~M] — learners who differ on it differ in outcomes
+- [Frequency of addition fact-retrieval errors predicts poor algebra equation memory but not coordinate plane or expression evaluation performance](../claims/retrieval-errors-predict-equation-memory-only.md) [~M] — learners who differ on it differ in outcomes
+- [Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information](../claims/different-sources-inference-failure-groups.md) [~M] — learners who differ on it differ in outcomes
+- [PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls](../claims/pooraf-problem-size-effect-multiplication.md) [~M] — learners who differ on it differ in outcomes
+- [Semantic abilities indirectly predict word decoding efficiency in children with dyslexia via phonological awareness and rapid naming](../claims/semantics-indirect-word-decoding-dyslexia.md) [+W] — learners who differ on it differ in outcomes
+- [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](../claims/inference-difference-not-explained-by-memory.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

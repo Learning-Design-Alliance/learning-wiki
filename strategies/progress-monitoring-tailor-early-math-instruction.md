@@ -41,7 +41,8 @@ The guide's third recommendation is a concrete assessment routine: "Use introduc
 - [Developmental Progressions Early Math](../theories/developmental-progressions-early-math.md)
 
 ## Related Strategies
-- 
+
+- [Use syntactic complexity as a sensitive developmental marker to monitor children's writing progress in the upper elementary grades](syntactic-complexity-developmental-marker-strategy.md)
 
 ## Examples
 -

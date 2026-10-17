@@ -43,4 +43,4 @@ Exploratory correlational analysis of posttest scores against SSRS teacher ratin
 
 
 ## Related Claims
--
+- [HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior](htks-validity-first-graders.md) — related

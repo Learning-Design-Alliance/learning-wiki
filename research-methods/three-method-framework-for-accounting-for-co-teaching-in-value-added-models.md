@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: three-method-framework-for-accounting-for-co-teaching-in-value-added-models
+aliases: [full-roster-method, partial-credit-method]
 title: Three-method framework for accounting for co-teaching in value-added models
 description: "The article organizes the problem of modeling value added \"when the same student is taught the same subject by multiple teachers\" into three named methods: the Partial Credit Method, the Teacher Team Method, and the Full Roster Method."
 status: review
@@ -29,6 +30,8 @@ The article organizes the problem of modeling value added "when the same student
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Three-method framework for accounting for co-teaching in value-added models**: The article organizes the problem of modeling value added "when the same student is taught the same subject by multiple teachers" into three named methods: the Partial Credit Method, the Teacher Team Method, and the Full Roster Method. The Partial Credit Method apportions responsibility by fraction of year with each teacher; the other two "presume that co-teachers share joint responsibility for the achievement of their shared students." The framework was developed to help states and districts overcome a potential limitation in the use of value added in multiple-measures teacher evaluation systems. (Heinrich Hock (2017))
+- **Full Roster Method for co-taught value-added estimation**: The Full Roster Method is one of three methods the article proposes for estimating teacher value added under co-teaching. It presumes that "co-teachers share joint responsibility for the achievement of their shared students." The article reports it produces estimates similar to the Teacher Team Method but "can be more easily implemented in practice," making it the article's preferred practical option. (Heinrich Hock (2017))
+- **Partial Credit Method for co-taught value-added estimation**: The Partial Credit Method is one of three methods the article proposes for estimating teacher value added when students are co-taught. It "apportions responsibility between teachers according to the fraction of the year a student spent with each," attempting to identify how time with each separate co-teacher contributes to student learning. The article reports that "practical problems may limit its usefulness." (Heinrich Hock (2017))
 
 ### Claims
 - [Teacher-confirmed roster data show levels of co-teaching far beyond what appears in administrative data](../claims/confirmed-roster-data-reveal-more-co-teaching-than-administrative-data.md) [+M]
@@ -84,10 +87,10 @@ The article organizes the problem of modeling value added "when the same student
 
 ## Examples
 
-- [Full Roster Method for co-taught value-added estimation](../research-methods/full-roster-method.md)
+- [Full Roster Method for co-taught value-added estimation](three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
 - [Teacher Team Method for co-taught value-added estimation](../research-methods/teacher-team-method-for-co-taught-value-added-estimation.md)
 - [Policymakers and model developers should use the Full Roster-Plus Method to account for co-teaching in value-added models](../strategies/use-full-roster-plus-method-for-coteaching.md)
-- [Partial Credit Method for co-taught value-added estimation](../research-methods/partial-credit-method.md)
+- [Partial Credit Method for co-taught value-added estimation](three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
 
 ## Key Sources
 - Heinrich Hock, Eric Isenberg. (2017). Methods for Accounting for Co-Teaching in Value-Added Models. Statistics and Public Policy, vol. 4, issue 1. https://www.mathematica.org/publications/methods-for-accounting-for-co-teaching-in-value-added-models
@@ -129,10 +132,138 @@ The paper organizes the problem of isolating each teacher's contribution when "t
 
 ## Examples
 
-- [Partial Credit Method for co-taught value-added estimation](../research-methods/partial-credit-method.md)
+- [Partial Credit Method for co-taught value-added estimation](three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
 - [Teacher Team Method for co-taught value-added estimation](../research-methods/teacher-team-method-for-co-taught-value-added-estimation.md)
 
 ## Key Sources
 - Hock, H., & Isenberg, E. (2012). Methods for Accounting for Co-Teaching in Value-Added Models. Working Paper 6. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/methods-for-accounting-for-coteaching-in-valueadded-models
+- ->
+-->
+
+<!-- merged 2026-10-17 from research-methods/full-roster-method ("Full Roster Method"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# Full Roster Method
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The Full Roster Method is one of three methods the article proposes for estimating teacher value added under co-teaching. It presumes that "co-teachers share joint responsibility for the achievement of their shared students." The article reports it produces estimates similar to the Teacher Team Method but "can be more easily implemented in practice," making it the article's preferred practical option.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Full Roster Method for co-taught value-added estimation**: The Full Roster Method is one of three methods the article proposes for estimating teacher value added under co-teaching. It presumes that "co-teachers share joint responsibility for the achievement of their shared students." The article reports it produces estimates similar to the Teacher Team Method but "can be more easily implemented in practice," making it the article's preferred practical option. (Heinrich Hock (2017))
+
+### Claims
+- [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](../claims/teacher-team-and-full-roster-methods-produce-similar-estimates.md) [+W]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Heinrich Hock, Eric Isenberg. (2017). Methods for Accounting for Co-Teaching in Value-Added Models. Statistics and Public Policy, vol. 4, issue 1. https://www.mathematica.org/publications/methods-for-accounting-for-co-teaching-in-value-added-models
+
+<!- - merged 2026-10-10 from elements/full-roster-method-co-teaching-value-added ("Full Roster Method for co-taught value-added estimation"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Full Roster Method for co-taught value-added estimation
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The Full Roster Method is one of three methods the article proposes for estimating teacher value added under co-teaching. It presumes that "co-teachers share joint responsibility for the achievement of their shared students." The article reports it produces estimates similar to the Teacher Team Method but "can be more easily implemented in practice," making it the article's preferred practical option.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Requires roster data on teacher-student links identifying shared students.
+#### Constraints
+- Assumes co-teachers have joint responsibility for shared students rather than apportioning credit by instructional time.
+
+### Target Learners
+- K-12 students co-taught by multiple teachers
+
+### Target Learning Goals
+- Accurate estimation of individual teacher effectiveness in evaluated subjects
+
+## Claims
+
+- [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](../claims/teacher-team-and-full-roster-methods-produce-similar-estimates.md) [+W]
+
+## Related Elements
+
+- [Partial Credit Method for co-taught value-added estimation](three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
+- [Teacher Team Method for co-taught value-added estimation](teacher-team-method-for-co-taught-value-added-estimation.md)
+
+## Examples
+-
+
+## Key Sources
+- Heinrich Hock, Eric Isenberg. (2017). Methods for Accounting for Co-Teaching in Value-Added Models. Statistics and Public Policy, vol. 4, issue 1. https://www.mathematica.org/publications/methods-for-accounting-for-co-teaching-in-value-added-models
+- ->
+-->
+
+<!-- merged 2026-10-17 from research-methods/partial-credit-method ("Partial Credit Method"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# Partial Credit Method
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The Partial Credit Method is one of three methods the article proposes for estimating teacher value added when students are co-taught. It "apportions responsibility between teachers according to the fraction of the year a student spent with each," attempting to identify how time with each separate co-teacher contributes to student learning. The article reports that "practical problems may limit its usefulness."
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Partial Credit Method for co-taught value-added estimation**: The Partial Credit Method is one of three methods the article proposes for estimating teacher value added when students are co-taught. It "apportions responsibility between teachers according to the fraction of the year a student spent with each," attempting to identify how time with each separate co-teacher contributes to student learning. The article reports that "practical problems may limit its usefulness." (Heinrich Hock (2017))
+
+### Claims
+- [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](../claims/teacher-team-and-full-roster-methods-produce-similar-estimates.md) [+W]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Heinrich Hock, Eric Isenberg. (2017). Methods for Accounting for Co-Teaching in Value-Added Models. Statistics and Public Policy, vol. 4, issue 1. https://www.mathematica.org/publications/methods-for-accounting-for-co-teaching-in-value-added-models
+
+<!- - merged 2026-10-10 from elements/partial-credit-method-co-teaching-value-added ("Partial Credit Method for co-taught value-added estimation"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Partial Credit Method for co-taught value-added estimation
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The Partial Credit Method is one of three methods the article proposes for estimating teacher value added when students are co-taught. It "apportions responsibility between teachers according to the fraction of the year a student spent with each," attempting to identify how time with each separate co-teacher contributes to student learning. The article reports that "practical problems may limit its usefulness."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Requires information on the fraction of the year a student spent with each co-teacher.
+#### Constraints
+- The article states practical problems may limit the method's usefulness.
+
+### Target Learners
+- K-12 students co-taught by multiple teachers
+
+### Target Learning Goals
+- Accurate estimation of individual teacher effectiveness in evaluated subjects
+
+## Claims
+
+- [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](../claims/teacher-team-and-full-roster-methods-produce-similar-estimates.md) [+W]
+
+## Related Elements
+
+- [Full Roster Method for co-taught value-added estimation](three-method-framework-for-accounting-for-co-teaching-in-value-added-models.md)
+- [Teacher Team Method for co-taught value-added estimation](teacher-team-method-for-co-taught-value-added-estimation.md)
+
+## Examples
+-
+
+## Key Sources
+- Heinrich Hock, Eric Isenberg. (2017). Methods for Accounting for Co-Teaching in Value-Added Models. Statistics and Public Policy, vol. 4, issue 1. https://www.mathematica.org/publications/methods-for-accounting-for-co-teaching-in-value-added-models
 - ->
 -->

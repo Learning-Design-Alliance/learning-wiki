@@ -12,7 +12,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (25 show a difference, 10 mixed, 1 no difference, 2 unmarked) · 27 studies (10 causal, 6 associational, 5 review, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 7 of 27 report an effect size · 36 claims rest on one study
+> **Evidence** · 48 claims (33 show a difference, 12 mixed, 1 no difference, 2 unmarked) · 29 studies (10 causal, 8 associational, 5 review, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 8 of 29 report an effect size · 46 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -72,6 +72,16 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task](../claims/regulated-ai-sustains-originality-across-tasks.md) [~W] — instruction changes it
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [+W] — instruction changes it
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](../claims/creact-improves-creative-thinking-drawing-arts.md) [+M] — instruction changes it
+- [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](../claims/shifting-inhibition-unique-creativity-contribution-children.md) [~M] — instruction changes it
+- [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](../claims/updating-and-inhibition-predict-creativity.md) [~M] — instruction changes it
+- [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](../claims/cognitive-variables-creativity-correlations-children.md) [+M] — instruction changes it
+- [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](../claims/efs-intelligence-role-creative-thinking-children-gap.md) [+W] — instruction changes it
+- [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](../claims/executive-functions-reduce-gf-creativity-correlation.md) [+M] — instruction changes it
+- [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](../claims/shifting-stronger-creativity-predictor-than-intelligence.md) [+M] — instruction changes it
+- [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](../claims/sex-difference-creative-potential-sample.md) [+M] — instruction changes it
+- [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](../claims/openness-predicts-creativity-not-gf.md) [+M] — instruction changes it
+- [The effect of crystallized intelligence on children's creativity is mediated by shifting](../claims/shifting-mediates-gc-creativity-children.md) [+M] — instruction changes it
+- [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](../claims/updating-explains-intelligence-creativity-shared-variance.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

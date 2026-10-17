@@ -95,3 +95,5 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
 - [Indirect discrimination logic applies to facially neutral integrity rules with cohort-skewed burdens](indirect-discrimination-logic-applied-to-integrity-rules.md) — related
 - [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students are positioned through cultural or linguistic stereotypes while White students receive argument-structure feedback](race-prompts-cultural-stereotype-feedback.md) — related
+- [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related
+- [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](developmental-shift-meaning-of-blackness.md) — related

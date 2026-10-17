@@ -12,7 +12,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 5 claims (4 show a difference, 1 mixed) · 7 studies (3 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 17 claims (11 show a difference, 4 mixed, 2 no difference) · 10 studies (4 causal, 2 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 4 of 10 report an effect size · 16 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -41,6 +41,18 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Self-management interventions targeted math calculation skills most often, with mean effect sizes of 2.66 for social studies, 2.28 for reading, 1.97 for math, and 1.13 for writing](../claims/self-management-ebd-academic-area-es.md) [+W] — instruction changes it
 - [Step-by-step automated annotations accelerated correction of procedural misconceptions, with intervention students rectifying fundamental errors weeks before control peers](../claims/automated-annotations-accelerate-misconception-correction.md) [+M] — instruction changes it
 - [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](../claims/tft-student-long-term-outcome-goal.md) [+W] — instruction changes it
+- [Base-10 blocks training was followed by a significant drop in kindergarteners' numerals-condition scores](../claims/blocks-training-numerals-scores-dropped.md) [-M] — instruction changes it
+- [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](../claims/dd-hyperactivation-multiple-regions.md) [+M] — learners who differ on it differ in outcomes
+- [Children with DD show hyper-connectivity, not reduced connectivity, between the IPS and fronto-parietal and default mode networks during arithmetic](../claims/dd-ips-hyperconnectivity-fronto-parietal-dmn.md) [+M] — learners who differ on it differ in outcomes
+- [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](../claims/dd-slower-reaction-times-arithmetic.md) [+M] — learners who differ on it differ in outcomes
+- [Children with developmental dyscalculia are disproportionately impaired on subtraction accuracy relative to addition, showing a significant group × operation interaction](../claims/dd-subtraction-accuracy-deficit-interaction.md) [+M] — learners who differ on it differ in outcomes
+- [Correct and incorrect subtraction trials produce similar robust brain activity in DD children, indicating aberrant activation is not driven by error processing](../claims/dd-correct-incorrect-trials-similar-activation.md) [-M] — learners who differ on it differ in outcomes
+- [DD children fail to disengage the default mode network during demanding arithmetic, showing aberrant coupling with task-positive IPS regions](../claims/dd-failure-disengage-dmn-arithmetic.md) [+M] — learners who differ on it differ in outcomes
+- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition](../claims/dd-subtraction-specific-parietal-hyperactivation.md) [~M] — learners who differ on it differ in outcomes
+- [Greater IPS connectivity correlates with worse reaction-time performance during addition but not subtraction in children](../claims/ips-connectivity-reaction-time-addition-correlation.md) [~M] — learners who differ on it differ in outcomes
+- [Place value label use correlates with accuracy on fraction-decimal equivalency items](../claims/place-value-labels-fraction-decimal-items.md) [+M] — learners who differ on it differ in outcomes
+- [Place value labels correlate positively with decimal magnitude understanding; whole number labels negatively](../claims/place-value-labels-correlate-decimal-magnitude.md) [+M] — learners who differ on it differ in outcomes
+- [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](../claims/symbols-only-training-improves-difficult-items.md) [~M] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

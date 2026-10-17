@@ -53,3 +53,4 @@ Secondhand report of a Michigan study (Drake et al., 2019) of evaluation ratings
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
 - Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related
 - [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related
+- [Speakers rate their own speeches more harshly than independent judges do](self-assessments-harsher-than-judges.md) — related

@@ -41,4 +41,4 @@ ANCOVA on CGT delay aversion across six age groups with IQ covariate. The articl
 
 
 ## Related Claims
--
+- [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](protracted-cognitive-flexibility-development.md) — related

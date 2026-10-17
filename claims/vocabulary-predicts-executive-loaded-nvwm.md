@@ -41,4 +41,8 @@ Multiple regression across all participants (deaf and hearing combined) predicti
 
 
 ## Related Claims
--
+- [Age predicts decoding efficiency in children with dyslexia while working memory and perceptual organization covariate effects are non-significant](age-covariate-effects-decoding-dyslexia.md) — related
+- [Language group predicts perspective-taking accuracy after controlling for receptive vocabulary and fluid intelligence](language-group-predicts-perspective-taking-accuracy-regression.md) — related
+- [Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points](language-predicts-executive-residual-variance.md) — related
+- [Language comprehension and numerical working memory predict comparing decimals to the one-half benchmark](vocabulary-counting-recall-predict-compare-to-half.md) — related
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related

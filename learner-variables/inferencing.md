@@ -12,7 +12,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 4 claims (4 show a difference) · 3 studies (2 causal, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 16 claims (13 show a difference, 2 mixed, 1 no difference) · 8 studies (4 causal, 3 review, 1 associational), `q1`–`q2` · 0 of 8 report an effect size · 15 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -39,6 +39,18 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Contrary to the science comprehension thesis, political polarization of data interpretation did not abate among the most numerate subjects but increased](../claims/polarization-increases-with-numeracy.md) [+M] — learners who differ on it differ in outcomes
 - [Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families](../claims/vocabulary-coverage-thresholds-for-inference.md) [+W] — learners who differ on it differ in outcomes
 - [Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)](../claims/numerate-subjects-better-skin-rash-inference.md) [+M] — learners who differ on it differ in outcomes
+- [For readers with misconceptions, the number of correct inferences generated during think-aloud reading predicts text recall](../claims/correct-inferences-predict-recall-misconception-readers.md) [~W] — learners who differ on it differ in outcomes
+- [Incorrect inference generation is more common for elaborative than for coherence inference failures, indicating children are less aware which information is relevant for elaborative inferences](../claims/incorrect-inferences-more-common-elaborative.md) [+M] — instruction changes it
+- [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](../claims/poor-comprehenders-fewer-inferences-equal-knowledge.md) [+M] — instruction changes it
+- [Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information](../claims/different-sources-inference-failure-groups.md) [+M] — instruction changes it
+- [Low-SES students also generate stereotype-consistent inferences in the reverse direction, inferring SES indicators from memory performance information](../claims/low-ses-students-infer-ses-from-memory-performance.md) [+M] — instruction changes it
+- [Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information](../claims/low-ses-students-generate-stereotype-consistent-ability-inferences.md) [+M] — instruction changes it
+- [Low-skilled readers with strong background knowledge partially compensate for poor reading skill at the textbase level but not for inferencing](../claims/knowledge-compensates-textbase-not-inference.md) [~M] — instruction changes it
+- [Skilled comprehenders recall more literal story content than less skilled comprehenders, but the groups do not differ significantly in interpreting novel similes](../claims/literal-memory-difference-simile-null.md) [-M] — instruction changes it
+- [Students' SES and academic achievement level moderate their use of the SES stereotype](../claims/ses-and-achievement-moderate-stereotype-use.md) [+M] — instruction changes it
+- [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](../claims/inference-difference-not-explained-by-memory.md) [+M] — instruction changes it
+- [The frequency of associations produced during think-aloud reading predicts sentence reading times during silent reading](../claims/associations-predict-reading-times.md) [+W] — learners who differ on it differ in outcomes
+- [When explicitly required by direct questions, less skilled comprehenders' inference performance improves greatly while skilled comprehenders perform at ceiling](../claims/direct-questions-boost-poor-comprehenders-inferences.md) [+M] — instruction changes it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

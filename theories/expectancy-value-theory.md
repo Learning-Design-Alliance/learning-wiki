@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (3 qualitative, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (3 qualitative, 1 associational, 1 design), `q2`–`q3` · 1 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -61,6 +61,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Knowing AI could complete assignments made the cost of independent programming effort feel less worthwhile to strongly motivated students](../claims/ai-alternative-demoralizes-effort-cost.md) [+W] — attached 2026-10-10 from 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introdu, which proposed "Situated Expectancy-Value Theory (SEVT) as a framework for analyzing how AI availability reshapes motivational judgments".
 - [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](../claims/ai-availability-questions-programming-skill-utility.md) [+M]
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](../claims/usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) [~W]
+- [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](../claims/value-components-differential-prediction-outcomes.md) [+W] — attached 2026-10-17 from Guo et al. (2016), which proposed "Modern expectancy-value theory: multidimensional task value with four components"; tests this page's relationship.
 
 ## Related Theories
 

@@ -53,3 +53,4 @@ A series of simulation and empirical studies compared growth parameter recovery 
 - [Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates](growth-value-added-modeling-complexity-sources.md) — related
 - In a three-timepoint simulation, MIRT-based scores recover true linear growth slope parameters better than sum scores and unidimensional IRT approaches, which understate the slope — a narrower finding that bears on this claim
 - [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](sel-growth-construct-collinearity.md) — related
+- [Both cognitive domains showed significant growth, negative self-feedback, and substantial individual differences in change over the interval](univariate-lcs-growth-negative-feedback.md) — related

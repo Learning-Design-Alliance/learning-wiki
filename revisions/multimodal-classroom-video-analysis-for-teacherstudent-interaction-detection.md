@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection.md
 ---
 
-# Revision history: [research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection](../research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection.md)
+# Revision history: [research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection](../research-methods/multimodal-analysis.md)
 
 Recorded as elements/multimodal-teacher-group-interaction-pipeline before it was renamed, re-filed or merged.
 

@@ -49,3 +49,4 @@ The review announces its scope as documenting frequency effects across eleven na
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Processing instruction produces significant gains in both sentence-level comprehension and production](processing-instruction-gains-comprehension-and-production.md) — related
+- [The phonological loop plays a significant role in vocabulary acquisition and second language learning](phonological-loop-vocabulary-acquisition-l2.md) — related

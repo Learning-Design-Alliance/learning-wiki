@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (78 show a difference, 13 mixed, 8 no difference) · 85 studies (36 associational, 12 causal, 12 review, 12 qualitative, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 10 of 85 report an effect size · 96 claims rest on one study
+> **Evidence** · 105 claims (84 show a difference, 13 mixed, 8 no difference) · 88 studies (37 associational, 14 causal, 12 review, 12 qualitative, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 12 of 88 report an effect size · 102 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -129,6 +129,12 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](../claims/serial-mediation-literacy-trust-efficacy-use.md) [+M] — learners who differ on it differ in outcomes
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](../claims/self-efficacy-with-sustained-effort-better-achievement.md) [~W] — learners who differ on it differ in outcomes
 - [Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect](../claims/harassment-no-significant-effect-teacher-self-efficacy.md) [-W] — instruction changes it
+- [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](../claims/age-education-predict-memory-self-efficacy-and-performance.md) [+M] — instruction changes it
+- [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — instruction changes it
+- [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](../claims/performance-goals-predict-lower-memory-self-efficacy.md) [+M] — instruction changes it
+- [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](../claims/high-performance-feedback-increases-self-efficacy-across-age-groups.md) [+M] — instruction changes it
+- [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+W] — learners who differ on it differ in outcomes
+- [Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items](../claims/older-adults-restudy-easy-items-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

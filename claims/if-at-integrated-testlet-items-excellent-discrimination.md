@@ -49,3 +49,4 @@ Item analysis of one case-study course's IF-AT-scored midterm (20 items, 51 stud
 - [Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers](if-at-partial-credit-discriminating.md) — related
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
 - [Item discrimination screening removed eight items using a critical-ratio criterion above 3](critical-ratio-item-discrimination-screening.md) — related
+- [Cumulative correct answers on blended-workshop activities relate to final exam score, but number of attempts does not](activity-accuracy-not-attempts-predicts-final-exam.md) — related

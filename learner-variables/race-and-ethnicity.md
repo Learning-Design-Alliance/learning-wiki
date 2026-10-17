@@ -12,7 +12,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (147 show a difference, 23 mixed, 5 no difference) · 129 studies (78 associational, 21 review, 12 causal, 7 qualitative, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 129 report an effect size · 173 claims rest on one study
+> **Evidence** · 178 claims (148 show a difference, 25 mixed, 5 no difference) · 131 studies (79 associational, 21 review, 12 causal, 7 qualitative, 7 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 131 report an effect size · 176 claims rest on one study
 
 ## How to read this page
 
@@ -211,6 +211,9 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Within fight pairs, Black and poor students are punished more harshly than the opponents they fight](../claims/fight-pairs-black-poor-punished-more-harshly.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Within QR placement categories, White and Asian students earned significantly more first-year units than Black/African American and Hispanic/Latino students, with gaps most pronounced in Category IV](../claims/eo1110-units-earned-racial-gaps-within-placement.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [YOUmedia attracts between 350 and 500 teens weekly, with African American males the largest single demographic group](../claims/youmedia-attracts-350-500-teens-weekly.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Dominican children report higher school belonging than all other ethnic groups, and all ethnic-minority groups report higher centrality than European Americans](../claims/ethnic-differences-school-belonging-centrality.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Perceived group status mediates the ethnic differences in academic anxiety for African-American, Chinese, and Dominican children but not Russians](../claims/group-status-mediation-ethnic-academic-anxiety.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Positive ethnic-racial affect is usually promotive but was linked to declining academic adjustment for Latino early adolescents in one study](../claims/eri-affirmation-academic-adjustment-context-dependent.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 34 claims (27 show a difference, 6 mixed, 1 no difference) · 37 studies (10 review, 8 qualitative, 6 causal, 5 design, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 37 report an effect size · 30 claims rest on one study
+> **Evidence** · 39 claims (31 show a difference, 7 mixed, 1 no difference) · 38 studies (10 review, 9 qualitative, 6 causal, 5 design, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 38 report an effect size · 35 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -73,6 +73,11 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](../claims/individual-ai-condition-no-significant-relevance-effect.md) [-M] — instruction changes it
 - [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](../claims/implicit-strategies-inconclusive-domain-specific-only.md) [~M] — an instructional effect differs with it
 - [Games with no story or irrelevant story context show larger learning effects than games with relevant story context](../claims/irrelevant-story-larger-effects-than-relevant.md) [+M] — an instructional effect differs with it
+- [A common learning pattern: workers first consult documentary sources, then nearby peers, then distant peers or more senior roles, then supervisors](../claims/escalating-source-sequence-workplace-queries.md) [+M] — learners who differ on it differ in outcomes
+- [Informal learning in the studied workgroups clustered into three areas: mastery of organisational processes, negotiating the political, and dealing with the atypical](../claims/three-areas-informal-workplace-learning.md) [+M] — learners who differ on it differ in outcomes
+- [The range of communities of practice and opportunities for informal learning available to an employee increases with seniority in a large organisation](../claims/informal-learning-opportunities-increase-with-seniority.md) [+M] — learners who differ on it differ in outcomes
+- [Workers in the studied workgroups tended to manage their learning needs to minimise their supervisors' involvement, with supervisors not the contacts of first resort for learning](../claims/supervisors-not-first-resort-for-workplace-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Workgroups in the study could generally not be regarded as communities of practice, though subsets operated as communities of practice for specific issues](../claims/workgroups-not-generally-communities-of-practice.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

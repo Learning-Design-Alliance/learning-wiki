@@ -103,3 +103,5 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — related
 - [A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program](energizers-increased-in-school-steps.md) — related
 - [Exergaming fosters small but significant improvements in quality of life for people living with chronic diseases, and structured programs associate with executive functioning gains](exergaming-quality-of-life-executive-gains.md) — related
+- [Classroom energizers improved on-task behaviour, but PA during a classroom task showed no improvement](energizers-on-task-behaviour-effect.md) — a narrower finding that bears on this claim
+- [The authors argue physical activity opportunities during the school day are being reduced despite evidence fitness may benefit scholastic achievement](school-physical-activity-reduced-despite-achievement-evidence.md) — related

@@ -46,3 +46,4 @@ Post-survey agent ratings (competence, warmth, helpfulness, trustworthiness, 1�
 - [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](biased-teacher-evaluations.md) — related
 - [Degree of anthropomorphism attributed to the agent was shaped by both interaction modality and, within audio conditions, voice accent](anthropomorphism-shaped-by-modality-and-accent.md) — related
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
+- [Speakers rate their own speeches more harshly than independent judges do](self-assessments-harsher-than-judges.md) — related

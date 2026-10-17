@@ -12,7 +12,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (31 show a difference, 4 mixed, 7 no difference) · 38 studies (11 causal, 9 quant-synthesis, 7 associational, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 37 claims rest on one study
+> **Evidence** · 50 claims (37 show a difference, 5 mixed, 8 no difference) · 42 studies (11 causal, 10 quant-synthesis, 10 associational, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 13 of 42 report an effect size · 45 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -82,6 +82,14 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](../claims/two-year-fluency-intervention-greater-word-reading-growth.md) [+M] — instruction changes it
 - [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](../claims/analytic-phonics-boys-inferior-spelling-comprehension.md) [-M] — instruction changes it
 - [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](../claims/word-recognition-fluency-predicts-comprehension-grades-1-3.md) [+W] — learners who differ on it differ in outcomes
+- [Better mid-year decoding performance positively predicts end-of-year harm avoidance symptoms](../claims/decoding-predicts-higher-harm-avoidance.md) [+M] — learners who differ on it differ in outcomes
+- [Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems](../claims/fluency-only-difficulties-faster-than-combined.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](../claims/executive-memory-predictors-of-math-9yo.md) [+M] — learners who differ on it differ in outcomes
+- [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](../claims/moderate-metalinguistic-pseudoword-adult-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](../claims/real-word-vs-pseudoword-decoding-adults.md) [~M] — learners who differ on it differ in outcomes
+- [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](../claims/six-strong-component-skills-adult-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Speed of numeral processing showed a trend predicting fifth grade mathematics achievement, and letter processing speed predicted word reading](../claims/processing-speed-predicts-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](../claims/visuospatial-memory-not-predict-word-reading.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

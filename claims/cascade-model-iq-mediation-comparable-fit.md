@@ -43,4 +43,4 @@ Final analytic step of the LOGIC reanalysis: correlations between WM and IQ late
 
 
 ## Related Claims
--
+- [Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures](no-support-iq-discrepancy-model.md) — related

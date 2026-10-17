@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: ev-4
-    title: ev-4
+  - id: taboada-barber-2026
+    title: Taboada Barber 2026
     q: 3
     i: "?"
     kind: review
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Grade 1 ELs receiving Spanish oral instructions achieved significantly higher English reading comprehension scores than the English-only instruction group, with both groups growing in English word reading. [→ ev-4](#ev-4)
+`q3 i?` Grade 1 ELs receiving Spanish oral instructions achieved significantly higher English reading comprehension scores than the English-only instruction group, with both groups growing in English word reading. [→ ev-4](#taboada-barber-2026)
 
 ## Evidence
 
-### ev-4
+### Taboada Barber 2026
 
 Taboada Barber, A., Urbano Aguilar, S., Lopez Rodriguez, A., and Pan, Y. (2026, September). Performing Is Not Teaching: What the Evidence Says About Reading Fluency Practices for Emergent Bilinguals. Digital Promise. https://doi.org/10.51388/20.500.12265/316
 

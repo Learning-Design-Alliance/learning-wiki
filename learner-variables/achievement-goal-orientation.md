@@ -12,7 +12,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 14 claims (5 show a difference, 5 mixed, 2 no difference, 2 unmarked) · 12 studies (4 associational, 3 causal, 3 review, 2 theoretical), `q2`–`q3` · 2 of 12 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (9 show a difference, 5 mixed, 3 no difference, 2 unmarked) · 14 studies (6 associational, 3 causal, 3 review, 2 theoretical), `q2`–`q3` · 4 of 14 report an effect size · 17 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -48,6 +48,11 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [~M] — instruction changes it
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](../claims/teacher-support-correlations-avoidance-goals-null.md) [~M] — instruction changes it
 - [Teacher support positively predicts mastery-approach and performance-approach goals, but not mastery-avoidance or performance-avoidance goals, in AI-assisted English learning](../claims/teacher-support-predicts-approach-goals-ai-efl.md) [~M] — instruction changes it
+- [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](../claims/performance-goals-predict-lower-memory-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Learning goals predict more positive subjective appraisals of memory performance after controlling for actual performance](../claims/learning-goals-predict-positive-subjective-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [The indirect praise-to-achievement path is driven by trait beliefs, not learning goals](../claims/trait-beliefs-not-learning-goals-mediate-praise-achievement-link.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

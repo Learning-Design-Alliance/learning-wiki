@@ -12,7 +12,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 8 claims (6 show a difference, 2 unmarked) · 8 studies (4 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 8 report an effect size · 7 claims rest on one study
+> **Evidence** · 20 claims (14 show a difference, 1 mixed, 3 no difference, 2 unmarked) · 15 studies (7 associational, 4 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size · 19 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -43,6 +43,18 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Spatial Skills Improve Through Block Building](../claims/spatial-skills-improve-through-block-building.md) [+W] — instruction changes it
 - [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](../claims/spatial-generative-reduce-error-interest-increases.md) [+M] — learners who differ on it differ in outcomes
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](../claims/nico-nor-math-null-with-item-gains.md) [+M] — instruction changes it
+- [Children with larger first-to-fifth grade gains in visuospatial memory had higher fifth grade mathematics achievement, controlling for first grade visuospatial memory and other predictors](../claims/visuospatial-memory-gains-predict-fifth-grade-math.md) [+M] — learners who differ on it differ in outcomes
+- [Figure-matching ability correlates more strongly with numerosity processing and computational fluency than other cognitive factors](../claims/figure-matching-strongest-correlate-numerosity-fluency.md) [+M] — learners who differ on it differ in outcomes
+- [First grade visuospatial memory did not predict fifth grade mathematics achievement, but first grade central executive, intelligence, and in-class attentive behavior did](../claims/first-grade-central-executive-intelligence-attention-predict-math.md) [-M] — learners who differ on it differ in outcomes
+- [Nonsymbolic exact addition is predicted by the VSSP plus the CE and symbolic number line estimation, suggesting an alternate transcoding to the symbolic code](../claims/alternate-transcoding-nonsymbolic-exact-addition.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](../claims/executive-memory-predictors-of-math-9yo.md) [+M] — learners who differ on it differ in outcomes
+- [Simultaneous (Mazes) visuospatial memory showed a trend predicting fifth grade mathematics while sequential (Block Recall) did not](../claims/simultaneous-versus-sequential-visuospatial-math-prediction.md) [~M] — learners who differ on it differ in outcomes
+- [Spatial ability does not account for the predictive relation between early whole number magnitude knowledge and later fraction magnitude knowledge](../claims/spatial-ability-does-not-explain-magnitude-continuity.md) [-M] — learners who differ on it differ in outcomes
+- [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](../claims/transcoding-in-symbolic-approximate-addition.md) [+M] — learners who differ on it differ in outcomes
+- [The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential](../claims/perspective-taking-indicator-academic-success.md) [+M] — learners who differ on it differ in outcomes
+- [The visuospatial sketchpad is the best and only unique predictor of kindergarteners' nonsymbolic approximate addition](../claims/vssp-predicts-nonsymbolic-approximate-addition.md) [+M] — learners who differ on it differ in outcomes
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](../claims/working-memory-explains-coding-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](../claims/visuospatial-memory-not-predict-word-reading.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

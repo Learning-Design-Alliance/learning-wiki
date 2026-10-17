@@ -69,3 +69,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) — related
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
 - [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — related
+- [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](no-group-differences-other-metacognition.md) — related

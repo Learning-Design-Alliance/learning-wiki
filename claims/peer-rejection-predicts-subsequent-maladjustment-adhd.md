@@ -62,4 +62,4 @@ One cited study found independent longitudinal contributions of peer rejection a
 
 
 ## Related Claims
--
+- [Age, gender of participant, and perceived responsibility of the target character were the three most important predictors of peer acceptance across all models](age-gender-responsibility-predict-peer-acceptance-mental-health.md) — related

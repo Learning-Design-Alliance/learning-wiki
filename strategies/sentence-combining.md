@@ -79,6 +79,7 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 - [Use sentence construction activities to teach compound, complex, and compound-complex sentence types](sentence-construction-activities-three-sentence-types.md)
 - Sentence decombining (sentence splitting) — the inverse move, useful for students whose sentences run on
 - Kernel-sentence expansion — a precursor activity for writers not yet ready for combining
+- [Use syntactic complexity as a sensitive developmental marker to monitor children's writing progress in the upper elementary grades](syntactic-complexity-developmental-marker-strategy.md)
 
 ## Examples
 - **Saddler & Graham (2005)** — Second- and fourth-grade students, including those with learning disabilities, improved sentence construction and writing quality through combining lessons embedded in writing instruction.

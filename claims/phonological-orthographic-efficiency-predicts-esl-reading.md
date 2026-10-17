@@ -50,3 +50,4 @@ The article reports, citing Nassaji and Geva (1999), a correlational and hierarc
 - [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](phonological-automatization-improves-esp-reading-comprehension.md) — a narrower finding that bears on this claim
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
+- [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related

@@ -12,7 +12,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (19 show a difference, 10 mixed, 11 no difference) · 24 studies (16 causal, 4 associational, 2 review, 2 design), `q1`–`q3` · 11 of 24 report an effect size · 39 claims rest on one study
+> **Evidence** · 57 claims (32 show a difference, 11 mixed, 14 no difference) · 32 studies (16 causal, 11 associational, 2 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 14 of 32 report an effect size · 56 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -80,6 +80,23 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](../claims/wwc-positive-effects-rating-daisyquest.md) [+M] — instruction changes it
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](../claims/alignment-trained-skill-larger-effects-phonological-awareness.md) [~M] — instruction changes it
 - [Tyler et al. (2003) found no statistically significant differences between phonological awareness training and a morphosyntactic intervention (indeterminate effect)](../claims/tyler-2003-phonological-vs-morphosyntactic-indeterminate.md) [-M] — instruction changes it
+- [Children with higher initial letter-name knowledge show faster growth in phonological awareness across the preschool year](../claims/initial-letter-name-knowledge-predicts-phonological-awareness-growth.md) [+W] — instruction changes it
+- [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](../claims/letter-sound-knowledge-no-unique-bidirectional-relation.md) [-W] — learners who differ on it differ in outcomes
+- [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](../claims/negative-intercept-slope-within-code-related-skills.md) [+W] — learners who differ on it differ in outcomes
+- [Initial phonological awareness uniquely predicts growth in letter-name knowledge, most strongly via elision skill](../claims/initial-phonological-awareness-predicts-letter-name-growth.md) [+M] — learners who differ on it differ in outcomes
+- [Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge](../claims/letter-sound-pa-smaller-contribution.md) [+W] — learners who differ on it differ in outcomes
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](../claims/morphological-awareness-stronger-than-phonological-ran.md) [+W] — learners who differ on it differ in outcomes
+- [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](../claims/executive-memory-predictors-of-math-9yo.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](../claims/phonological-processing-predicts-ci-literacy-variance.md) [+W] — learners who differ on it differ in outcomes
+- [Phonological skills were not significantly correlated with fraction skills, and verbal reasoning was not significantly correlated with arithmetic skills](../claims/null-correlations-phonological-fractions-verbal-reasoning-arithmetic.md) [-W] — learners who differ on it differ in outcomes
+- [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](../claims/moderate-metalinguistic-pseudoword-adult-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Semantic abilities indirectly predict pseudoword decoding efficiency in children with dyslexia via phonological awareness and rapid naming](../claims/semantics-indirect-pseudoword-decoding-dyslexia.md) [+W] — learners who differ on it differ in outcomes
+- [Semantic abilities indirectly predict word decoding efficiency in children with dyslexia via phonological awareness and rapid naming](../claims/semantics-indirect-word-decoding-dyslexia.md) [+W] — learners who differ on it differ in outcomes
+- [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](../claims/semantics-correlates-pa-ran-decoding.md) [+W] — learners who differ on it differ in outcomes
+- [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](../claims/bidirectional-relation-extends-to-supra-phonemic-tasks.md) [+W] — learners who differ on it differ in outcomes
+- [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](../claims/bidirectional-relation-independent-of-maturation.md) [+W] — learners who differ on it differ in outcomes
+- [The RAN risk group showed intact phonological awareness and all members were readers, supporting the independence of RAN from PA](../claims/ran-deficit-independent-construct.md) [-W] — learners who differ on it differ in outcomes
+- [Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending](../claims/vocabulary-not-related-to-phonological-awareness-growth.md) [~W] — instruction changes it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

@@ -51,3 +51,4 @@ The article reports, citing Deacon and Kirby (2004), a four-year longitudinal st
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Phonological Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — related
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related

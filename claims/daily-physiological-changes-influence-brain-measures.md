@@ -48,3 +48,4 @@ The protocol asserts, citing prior studies, that "measures of brain structure an
 - [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — related
 - [Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume](time-of-day-and-scan-interval-predict-within-person-brain-volume-variance.md) — a narrower finding that bears on this claim
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — related
+- [Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility](menstrual-phase-no-moderation-flexibility.md) — related

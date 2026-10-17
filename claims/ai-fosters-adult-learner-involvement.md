@@ -56,3 +56,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
 - [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](ai-monitors-socially-shared-regulation-scenarios.md) — related
 - [AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning](ai-multimodal-monitoring-increases-engagement.md) — related
+- [The article hypothesizes that fostering self-determined, self-regulated and reflective adult educators and learners achieves the goal of creating people who know how to learn](fostering-three-factors-learning-how-to-learn.md) — related

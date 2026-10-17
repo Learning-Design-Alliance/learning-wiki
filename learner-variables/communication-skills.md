@@ -12,7 +12,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 36 claims (21 show a difference, 10 mixed, 5 no difference) · 33 studies (8 causal, 7 review, 5 quant-synthesis, 5 theoretical, 3 associational, 3 design, 2 qualitative), `q1`–`q3` · 5 of 33 report an effect size · 35 claims rest on one study
+> **Evidence** · 45 claims (26 show a difference, 10 mixed, 9 no difference) · 39 studies (9 associational, 8 causal, 7 review, 5 quant-synthesis, 5 theoretical, 3 design, 2 qualitative), `q1`–`q3` · 6 of 39 report an effect size · 44 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -76,6 +76,15 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](../claims/role-play-enhances-21st-century-skills.md) [+M] — instruction changes it
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](../claims/world-of-words-expressive-vocabulary-significant.md) [+M] — instruction changes it
 - [Written-communication skills significantly correlate with vibe-coding performance, but the association does not remain significant after controlling for domain-general cognitive ability](../claims/writing-skills-correlate-with-vibe-coding.md) [~S] — learners who differ on it differ in outcomes
+- [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](../claims/vocabulary-not-uniquely-related-to-written-composition.md) [-M] — learners who differ on it differ in outcomes
+- [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](../claims/ef-no-direct-effect-syntactic-complexity-story-content.md) [-M] — instruction changes it
+- [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](../claims/attention-longitudinal-first-grade-writing.md) [+W] — instruction changes it
+- [Kindergarten lexical literacy (word reading and spelling) predicts third-grade writing quality in both narrative and expository genres](../claims/kindergarten-lexical-literacy-predicts-writing-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Kindergarten oral language does not uniquely predict third-grade expository writing quality](../claims/oral-language-not-predictive-expository-writing.md) [-M] — learners who differ on it differ in outcomes
+- [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](../claims/oral-language-first-grade-quality-only.md) [+W] — learners who differ on it differ in outcomes
+- [Kindergarten writing fluency does not mediate the relations between kindergarten component skills and first-grade writing outcomes](../claims/kindergarten-writing-no-mediation.md) [-W] — learners who differ on it differ in outcomes
+- [Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points](../claims/language-predicts-executive-residual-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](../claims/oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

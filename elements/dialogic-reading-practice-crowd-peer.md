@@ -54,6 +54,7 @@ Dialogic reading is "an interactive shared picture-book reading practice designe
 
 - [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](../strategies/gradual-shift-to-higher-level-prompts.md)
 - [Dialogic Reading](../strategies/dialogic_reading.md)
+- [Shared book reading as a potential intervention for increasing lexical diversity in young children's learning environments](../strategies/shared-book-reading-lexical-diversity-intervention.md)
 
 ## Key Sources
 - Dialogic Reading. (2010). WWC Intervention Report, What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/136

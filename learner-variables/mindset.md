@@ -12,7 +12,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 19 claims (10 show a difference, 6 mixed, 3 no difference) · 12 studies (4 review, 4 associational, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 18 claims rest on one study
+> **Evidence** · 23 claims (13 show a difference, 7 mixed, 3 no difference) · 13 studies (5 associational, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 3 of 13 report an effect size · 22 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -49,6 +49,10 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](../claims/growth-mindset-reduces-fixed-mindset-beliefs.md) [+M] — instruction changes it
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](../claims/growth-mindset-achievement-correlation-weak.md) [+M] — learners who differ on it differ in outcomes
 - [The same student can hold different mindsets in different classrooms, and grades rise or fall across classrooms as mindsets change, with differences traceable to teachers' practices](../claims/mindsets-vary-across-classrooms-with-teacher-practices.md) [~W] — learners who differ on it differ in outcomes
+- [Academic grit mediates a positive indirect effect of growth math mindset on math achievement](../claims/grit-mediation-growth-math-mindset-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Fixed math mindset negatively predicts primary math achievement while growth math mindset shows no direct effect](../claims/fixed-math-mindset-negative-direct-effect-primary.md) [~W] — learners who differ on it differ in outcomes
+- [Growth math mindset positively predicts academic grit in primary students](../claims/growth-math-mindset-predicts-academic-grit.md) [+M] — learners who differ on it differ in outcomes
+- [Math mindsets and academic grit correlate substantially with primary math achievement](../claims/mindset-grit-math-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

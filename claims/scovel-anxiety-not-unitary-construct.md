@@ -44,3 +44,4 @@ The article reports, citing Scovel (1978), that anxiety is 'not a simple, unitar
 
 ## Related Claims
 - [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](learning-genai-anxiety-moderates-intention-procrastination.md) — related
+- [Early identification and treatment of math anxiety is important because early anxieties can snowball into avoidance of mathematics](early-identification-math-anxiety-importance.md) — related

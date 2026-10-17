@@ -44,7 +44,7 @@ The article presents a conditional approach to identifying disengaged survey res
 
 ## Related Theories
 
-- [Item response time metadata as a basis for identifying disengaged test responses](../research-methods/item-response-time-analysis-for-detecting-test-disengagement.md)
+- [Item response time metadata as a basis for identifying disengaged test responses](../research-methods/response-time-based-detection-of-test-taker-disengagement.md)
 - [Rapid-guessing detection framework using item response time thresholds](../research-methods/rapid-guessing-detection-using-item-response-time-thresholds.md)
 
 ## Examples

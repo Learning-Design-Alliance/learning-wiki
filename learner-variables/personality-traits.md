@@ -12,7 +12,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 14 claims (6 show a difference, 2 mixed, 4 no difference, 2 unmarked) · 7 studies (3 review, 2 causal, 2 associational), `q2`–`q3` · 3 of 7 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (6 show a difference, 3 mixed, 4 no difference, 2 unmarked) · 8 studies (3 review, 3 associational, 2 causal), `q2`–`q3` · 3 of 8 report an effect size · 15 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -48,6 +48,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements](../claims/cps-charter-similar-or-lower-behaviors-promotion.md) [-W] — instruction changes it
 - [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](../claims/openness-mediates-personality-wellbeing-pathways.md) [+M] — learners who differ on it differ in outcomes
 - [Openness protects against well-being decline only when emotional stability is average or high](../claims/openness-protects-only-with-emotional-stability.md) [~M] — learners who differ on it differ in outcomes
+- [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](../claims/openness-predicts-creativity-not-gf.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

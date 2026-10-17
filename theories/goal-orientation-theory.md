@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 4 studies (4 associational), `q2` · 1 of 4 report an effect size · 11 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -70,6 +70,8 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](../claims/teacher-support-correlations-avoidance-goals-null.md) [+W]
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](../claims/gender-performance-goal-orientation-females-higher.md) [+W]
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](../claims/turkish-student-teachers-entity-performance-higher.md) [~W]
+- [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Achievement goal framework applied to memory in adulthood"; tests this page's relationship.
+- [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](../claims/performance-goals-predict-lower-memory-self-efficacy.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Achievement goal framework applied to memory in adulthood"; tests this page's relationship.
 
 ## The evidence by question
 

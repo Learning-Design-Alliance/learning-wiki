@@ -65,7 +65,7 @@ The evidence base for this working paper is a set of four previously published e
 
 ## Related Elements
 
-- [Synthetic within-study comparison design for assessing RD performance](synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc.md)
+- [Synthetic within-study comparison design for assessing RD performance](within-study-comparison-wsc-methodology.md)
 
 ## Examples
 -

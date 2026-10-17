@@ -45,3 +45,4 @@ From the report's synthesis of its day-level observation data, even the best-man
 ## Related Claims
 - [Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation](management-reduces-daily-instruction-240-minutes.md) — related
 - [During remote learning, students at all grade levels spent about four hours per day in synchronous online instruction regardless of district requirements](four-hour-synchronous-remote-instruction-threshold.md) — related
+- [The authors argue physical activity opportunities during the school day are being reduced despite evidence fitness may benefit scholastic achievement](school-physical-activity-reduced-despite-achievement-evidence.md) — related

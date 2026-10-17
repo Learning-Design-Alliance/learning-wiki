@@ -48,3 +48,4 @@ A research summary box in the Guidebook's partnership section, citing literature
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
+- [PK-12 performance assessments are enhanced when performance assessments are also part of teacher preparation, and vice versa](pk20-performance-assessment-mutual-enhancement.md) — related

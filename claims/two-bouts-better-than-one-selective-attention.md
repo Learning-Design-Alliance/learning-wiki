@@ -43,4 +43,4 @@ Randomized controlled trial within the review (Altenburg et al., 2016; n = 56, a
 
 
 ## Related Claims
--
+- [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related

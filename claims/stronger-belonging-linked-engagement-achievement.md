@@ -62,3 +62,4 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 - [Teachers commonly attribute increased student engagement—active involvement, multiple solution approaches, perseverance, and confidence—to ILC-influenced instruction](ilc-attributed-increases-student-engagement.md) — related
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — related
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
+- [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](school-belonging-centrality-compensation-no-buffering.md) — related

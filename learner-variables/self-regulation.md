@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (75 show a difference, 23 mixed, 8 no difference, 2 unmarked) · 82 studies (19 causal, 19 review, 19 associational, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 16 of 82 report an effect size · 100 claims rest on one study
+> **Evidence** · 126 claims (85 show a difference, 26 mixed, 13 no difference, 2 unmarked) · 91 studies (26 associational, 21 causal, 19 review, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 91 report an effect size · 118 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -156,6 +156,24 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Students can only improve if they develop the capacity to monitor the quality of their own work during actual production](../claims/self-monitoring-during-production-premise.md) [+W] — instruction changes it
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](../claims/unsupported-journal-writing-low-strategy-use.md) [+M] — learners who differ on it differ in outcomes
 - [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](../claims/young-children-set-goals-sdlmi-achieve.md) [+M] — instruction changes it
+- [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](../claims/ef-attention-unique-predictors-first-grade-math-low-number-sense.md) [+M] — learners who differ on it differ in outcomes
+- [Both the quantity and the quality of metacognitive skills in math increase between the second and third year of secondary education (ages 13–15)](../claims/metacognitive-quantity-quality-increase-ages-13-15.md) [+M] — instruction changes it
+- [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](../claims/cognitive-variables-creativity-correlations-children.md) [+M] — learners who differ on it differ in outcomes
+- [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](../claims/efs-intelligence-role-creative-thinking-children-gap.md) [+W] — learners who differ on it differ in outcomes
+- [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](../claims/ef-no-direct-effect-syntactic-complexity-story-content.md) [-M] — learners who differ on it differ in outcomes
+- [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](../claims/executive-functions-reduce-gf-creativity-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](../claims/fall-htks-predicts-literacy-gains.md) [+M] — learners who differ on it differ in outcomes
+- [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](../claims/isi-greater-gains-weak-initial-self-regulation.md) [+W] — an instructional effect differs with it
+- [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](../claims/metacognition-mediates-ma-wps-children.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognitive awareness of VSTM performance becomes less accurate with age but remains well above chance across the adult life span](../claims/metacognitive-accuracy-declines-slightly-with-age.md) [~M] — instruction changes it
+- [Metacognitive components differ in developmental trajectory: planning and evaluation grow in quantity and quality, orientation quantity decreases, and elaboration grows in frequency but not quality](../claims/metacognitive-components-differential-development.md) [~M] — instruction changes it
+- [Metacognitive skillfulness develops alongside, but not fully dependent on, intellectual ability, in line with the monotonic development hypothesis](../claims/monotonic-development-metacognitive-skills.md) [+M] — instruction changes it
+- [Modeling mathematics anxiety as the mediator of metacognition's effect on word problem solving yields no mediating effect](../claims/ma-as-mediator-null.md) [-M] — learners who differ on it differ in outcomes
+- [Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms](../claims/no-fitness-executive-symptom-changes.md) [-M] — instruction changes it
+- [The ISI intervention shows no main effect on first graders' self-regulation gains from fall to spring](../claims/isi-no-main-effect-self-regulation-gains.md) [-M] — instruction changes it
+- [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](../claims/mediators-not-significantly-different.md) [-M] — learners who differ on it differ in outcomes
+- [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](../claims/mixed-model-metacognitive-quality-unique-contribution.md) [+M] — learners who differ on it differ in outcomes
+- [The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15](../claims/intelligence-metacognition-predictor-turnaround.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

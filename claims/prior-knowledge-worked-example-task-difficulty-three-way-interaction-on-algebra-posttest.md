@@ -55,3 +55,4 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — a broader claim this one bears on
 - [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
 - [Coping versus mastery model benefits depend on task difficulty and observers' prior success](coping-versus-mastery-models-task-difficulty.md) — related
+- [Equation memory shows a strong validity effect (valid > invalid recall) that interacts with equation length](equation-memory-validity-effect-length-interaction.md) — related

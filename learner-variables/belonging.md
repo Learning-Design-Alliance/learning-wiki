@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (48 show a difference, 7 mixed, 1 no difference) · 50 studies (14 review, 11 qualitative, 10 causal, 5 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 1 of 50 report an effect size · 51 claims rest on one study
+> **Evidence** · 59 claims (50 show a difference, 8 mixed, 1 no difference) · 52 studies (14 review, 11 qualitative, 10 causal, 7 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 52 report an effect size · 54 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -92,6 +92,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](../claims/belonging-intervention-smaller-decline.md) [+M] — instruction changes it
 - [Both sense of belonging and intentions to persist decline over the first academic year](../claims/belonging-and-persistence-intentions-decline-first-year.md) [+M] — instruction changes it
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](../claims/sense-of-belonging-predicts-persistence-intentions.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived school belonging predicts on-time high school completion more strongly for students with chronic medical conditions than for healthy peers](../claims/belonging-completion-moderated-by-health-status.md) [+M] — an instructional effect differs with it
+- [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](../claims/school-belonging-centrality-compensation-no-buffering.md) [~M] — learners who differ on it differ in outcomes
+- [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](../claims/school-belonging-mediation-dominican-intrinsic-motivation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

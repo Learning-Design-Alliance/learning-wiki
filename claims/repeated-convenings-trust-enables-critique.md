@@ -54,3 +54,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Eight of 10 districts planned to continue refining and using classroom observation tools after finding them a firm priority for understanding implementation](observation-tools-priority-eight-of-ten-districts.md) — related
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Core to College network interactions were primarily information sharing and making connections between K–12 and higher education](core-to-college-interactions-primarily-information-sharing.md) — related
+- [Building educator capacity to use performance assessments in practice is a repeated finding for implementing performance assessments in accountability systems](educator-capacity-needed-for-performance-assessment-use.md) — related

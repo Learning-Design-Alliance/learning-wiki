@@ -41,4 +41,4 @@ Logistic regression in the same longitudinal cohort, contrasting the Concurrent 
 
 
 ## Related Claims
--
+- [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related

@@ -12,7 +12,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (24 show a difference, 11 mixed, 3 no difference) · 34 studies (10 causal, 7 associational, 5 quant-synthesis, 5 review, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 10 of 34 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (25 show a difference, 12 mixed, 3 no difference) · 35 studies (10 causal, 8 associational, 5 quant-synthesis, 5 review, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 10 of 35 report an effect size · 37 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -75,6 +75,8 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [The Pathway to Academic Success Project has potentially positive effects on literacy achievement for English learners in grades 6-12](../claims/pathway-project-potentially-positive-literacy-achievement.md) [~W] — instruction changes it
 - [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](../claims/kansas-mtss-screening-gains-small-sample-inconclusive.md) [~M] — instruction changes it
 - [Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy](../claims/experimental-group-within-group-gains-all-subscales.md) [+M] — instruction changes it
+- [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](../claims/lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) [+M] — learners who differ on it differ in outcomes
+- [The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities](../claims/health-literacy-task-association-reduced-after-cognitive-adjustment.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

@@ -12,7 +12,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (65 show a difference, 17 mixed, 11 no difference) · 74 studies (30 associational, 12 review, 10 causal, 9 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 5 of 74 report an effect size · 93 claims rest on one study
+> **Evidence** · 112 claims (75 show a difference, 23 mixed, 14 no difference) · 91 studies (38 associational, 17 causal, 13 review, 9 quant-synthesis, 8 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 8 of 91 report an effect size · 112 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -124,6 +124,25 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Younger and older adults do not differ in treatment acceptability ratings for GAD with Parkinson's disease](../claims/no-age-cohort-difference-treatment-acceptability.md) [-M] — learners who differ on it differ in outcomes
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](../claims/covid-closures-younger-students-more-affected.md) [+W] — an instructional effect differs with it
 - [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](../claims/younger-struggling-readers-benefited-more.md) [+M] — an instructional effect differs with it
+- [Age differences on composing tasks (Picture Description, Sentence Retell) were not significant, unlike letter, name, and spelling tasks](../claims/composing-task-age-differences-not-significant.md) [-M] — learners who differ on it differ in outcomes
+- [Behavioral ratio sensitivity for reaction time increases with age, with adults showing greater RT ratio sensitivity than children](../claims/rt-ratio-sensitivity-increases-with-age.md) [+M] — learners who differ on it differ in outcomes
+- [Children use qualitatively different strategies from adults for flexible cognition, shifting control strategies around 8 to 9 years of age](../claims/children-qualitatively-different-flexibility-strategies.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive benefits of balance training do not differ by age in adults aged 19–65](../claims/balance-training-benefits-age-invariant.md) [-M] — an instructional effect differs with it
+- [Male and female WM growth trajectories do not differ: sex-by-age interactions are non-significant after multiple-comparison correction](../claims/no-sex-differences-wm-growth.md) [+M] — learners who differ on it differ in outcomes
+- [Math anxiety's direct effect on math performance emerges in grade 4 but not grade 3, suggesting a developmental trajectory](../claims/math-anxiety-direct-effect-emerges-grade-4.md) [~M] — an instructional effect differs with it
+- [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](../claims/developmental-shift-meaning-of-blackness.md) [+M] — learners who differ on it differ in outcomes
+- [Older adults show reduced accuracy in severe noise (SNR -5) but perform comparably to younger adults in quiet and moderate noise (SNR 20)](../claims/older-adults-reduced-accuracy-severe-noise-only.md) [~M] — an instructional effect differs with it
+- [Older children and adolescents with ADHD have lower self-concept scores](../claims/older-age-lower-self-concept-adhd.md) [+M] — learners who differ on it differ in outcomes
+- [Older preschoolers outperformed younger preschoolers on most writing measures but not on the generative composing tasks](../claims/age-differences-emergent-writing-tasks.md) [~M] — learners who differ on it differ in outcomes
+- [Omission (no response) errors vary with age but not with reading skill](../claims/no-response-errors-age-not-reading-skill.md) [+M] — learners who differ on it differ in outcomes
+- [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](../claims/problem-solving-accuracy-age-declines-no-feedback-effect.md) [~M] — an instructional effect differs with it
+- [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](../claims/reappraisal-ability-linear-quadratic-age-development.md) [~M] — learners who differ on it differ in outcomes
+- [Social-cognitive regions show quadratic activation patterns with age, with adolescents showing lower reactivity-related but higher reappraisal-related activation](../claims/social-cognitive-regions-quadratic-adolescent-pattern.md) [+M] — learners who differ on it differ in outcomes
+- [The benefit of physical guidance for spatial learning increases with age](../claims/guidance-benefit-increases-with-age.md) [+M] — an instructional effect differs with it
+- [The disgust film induction elevated disgust ratings comparably in young and older adults, with no age differences in reactivity or recovery after baseline](../claims/mood-induction-effective-no-age-reactivity-difference.md) [-M] — an instructional effect differs with it
+- [The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children](../claims/affect-preference-link-dissociates-with-age.md) [~M] — an instructional effect differs with it
+- [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](../claims/wm-nonlinear-growth-childhood-acceleration-adolescence.md) [+M] — learners who differ on it differ in outcomes
+- [Younger children performed more redundant actions than older children](../claims/younger-children-more-redundant-actions.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

@@ -27,7 +27,7 @@ This pattern describes embedding interventions directly within platform infrastr
 
 ## Related Research Methods
 
-- [Exploratory digital learning platform data analysis for research planning](exploratory-digital-learning-platform-data-analysis-for-research-planning.md)
+- [Exploratory digital learning platform data analysis for research planning](digital-learning-platform-process-data-analysis.md)
 
 ## Key Sources
 - Wei, X., Roschelle, J., Pautz Stephenson, S. & Wortman, A. (2025). Researching digital learning platforms: Foundations, methods, and policy recommendations. Digital Promise. https://doi.org/10.51388/20.500.12265/257

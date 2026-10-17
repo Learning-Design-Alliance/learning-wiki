@@ -43,4 +43,4 @@ Analysis of the correlation matrices (Table 1) from Study 1 (N = 155) and Study 
 
 
 ## Related Claims
--
+- [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — a broader claim this one bears on

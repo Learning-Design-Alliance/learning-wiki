@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (70 show a difference, 16 mixed, 28 no difference, 2 unmarked) · 96 studies (30 causal, 21 review, 18 quant-synthesis, 14 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 96 report an effect size · 107 claims rest on one study
+> **Evidence** · 129 claims (78 show a difference, 18 mixed, 31 no difference, 2 unmarked) · 102 studies (30 causal, 21 review, 19 quant-synthesis, 19 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 23 of 102 report an effect size · 120 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -166,6 +166,19 @@ What a learner can read without effort, and whether the language of instruction 
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](../claims/vocabulary-gains-persist-two-weeks.md) [+M] — instruction changes it
 - [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](../claims/little-decay-three-month-delayed-posttest-extensive-reading.md) [+M] — instruction changes it
 - [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](../claims/term2-gains-consistent-with-term1.md) [+M] — instruction changes it
+- [A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality](../claims/literacy-factor-predicts-early-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Better mid-year oral reading fluency predicts lower separation anxiety symptoms at end of first grade](../claims/fluency-predicts-lower-separation-anxiety.md) [+M] — learners who differ on it differ in outcomes
+- [Bilingual 8-year-olds are more accurate than monolingual 8-year-olds on a computerized spatial perspective-taking task](../claims/bilingual-advantage-spatial-perspective-taking.md) [+M] — learners who differ on it differ in outcomes
+- [Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems](../claims/fluency-only-difficulties-faster-than-combined.md) [+M] — learners who differ on it differ in outcomes
+- [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](../claims/vocabulary-not-uniquely-related-to-written-composition.md) [-M] — learners who differ on it differ in outcomes
+- [Monolingual and bilingual children show no differences in the types of errors committed on the perspective-taking task](../claims/no-language-group-differences-error-types-perspective-taking.md) [-M] — learners who differ on it differ in outcomes
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](../claims/morphological-awareness-stronger-than-phonological-ran.md) [+M] — learners who differ on it differ in outcomes
+- [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](../claims/moderate-metalinguistic-pseudoword-adult-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Rapid automatized naming is the only component skill weakly related to reading comprehension in struggling adult readers (r = .15)](../claims/ran-weakly-related-adult-comprehension.md) [+W] — learners who differ on it differ in outcomes
+- [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](../claims/real-word-vs-pseudoword-decoding-adults.md) [~M] — learners who differ on it differ in outcomes
+- [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](../claims/six-strong-component-skills-adult-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [The bilingual advantage in perspective taking appears at the 180° and 270° observer positions but not at the 90° position](../claims/bilingual-advantage-difficult-observer-positions.md) [~M] — learners who differ on it differ in outcomes
+- [Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending](../claims/vocabulary-not-related-to-phonological-awareness-growth.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

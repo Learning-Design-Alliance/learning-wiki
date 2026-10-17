@@ -43,4 +43,4 @@ Regression analyses from the LOGIC reanalysis predicting later achievement with 
 
 
 ## Related Claims
--
+- [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related

@@ -12,7 +12,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 34 claims (29 show a difference, 2 mixed, 3 no difference) · 33 studies (15 causal, 5 associational, 4 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 11 of 33 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (29 show a difference, 3 mixed, 3 no difference) · 34 studies (16 causal, 5 associational, 4 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 11 of 34 report an effect size · 33 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -71,6 +71,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness](../claims/inquiry-based-stem-activities-enhance-problem-solving-reported.md) [+M] — instruction changes it
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [~W] — instruction changes it
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](../claims/unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) [~W] — instruction changes it
+- [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](../claims/problem-solving-accuracy-age-declines-no-feedback-effect.md) [~M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

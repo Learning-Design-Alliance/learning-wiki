@@ -54,3 +54,4 @@ The paper's summary reports a dissociation between teacher effects on non-tested
 - Self-efficacy for learning is a meaningful index in academic settings where self-efficacy for performing is near zero — related
 - [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths](coach-wright-topics-track-asset-deficit-mindsets.md) — related
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
+- [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — related

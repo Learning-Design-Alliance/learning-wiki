@@ -12,7 +12,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (28 show a difference, 7 mixed, 5 no difference, 2 unmarked) · 37 studies (13 causal, 7 review, 6 qualitative, 4 associational, 4 design, 3 theoretical), `q1`–`q4` · 4 of 37 report an effect size · 39 claims rest on one study
+> **Evidence** · 43 claims (29 show a difference, 7 mixed, 5 no difference, 2 unmarked) · 38 studies (13 causal, 7 review, 6 qualitative, 5 associational, 4 design, 3 theoretical), `q1`–`q4` · 5 of 38 report an effect size · 40 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -76,6 +76,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools](../claims/self-efficacy-drives-perceived-enjoyment-genai.md) [+M] — instruction changes it
 - [Text-based emotional expression in student responses showed no statistically significant differences between Emotion ON and OFF conditions](../claims/no-textual-emotion-difference-emotion-on.md) [-M] — instruction changes it
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](../claims/llm-assistant-boosts-debugging-confidence.md) [+M] — instruction changes it
+- [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](../claims/math-anxiety-negative-correlation-third-graders.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

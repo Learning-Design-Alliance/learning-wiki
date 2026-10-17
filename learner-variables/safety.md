@@ -12,7 +12,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (40 show a difference, 9 mixed, 5 no difference) · 37 studies (11 associational, 9 review, 5 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 37 report an effect size · 54 claims rest on one study
+> **Evidence** · 63 claims (46 show a difference, 12 mixed, 5 no difference) · 40 studies (14 associational, 9 review, 5 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 40 report an effect size · 63 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -89,6 +89,15 @@ Safety here means both being and feeling physically and psychologically secure i
 - [The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools](../claims/bto-cu-climate-gap-twice-as-large.md) [+M] — learners who differ on it differ in outcomes
 - [There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings](../claims/arming-staff-no-evidence-of-safety-benefit.md) [~W] — instruction changes it
 - [Work with peers in anti-bullying programs is associated with an increase in victimization](../claims/peer-work-associated-with-increased-victimization.md) [+M] — instruction changes it
+- [Bullied children with NSSI or suicidality show greater behavioral problems and poorer grades than bullied children without these behaviors](../claims/bullying-nssi-suicidality-compounded-outcomes.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](../claims/bullied-girls-lower-episodic-memory-crystallized-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied preadolescent children have lower cognitive scores than non-bullied peers](../claims/bullying-associated-with-lower-cognitive-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied preadolescent children have poorer academic grades than non-bullied peers](../claims/bullying-associated-with-poorer-academic-grades.md) [+W] — learners who differ on it differ in outcomes
+- [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](../claims/bullying-associated-with-greater-behavioral-problems.md) [+W] — learners who differ on it differ in outcomes
+- [Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children](../claims/bullying-associated-with-nssi-and-suicidality-preadolescents.md) [+W] — learners who differ on it differ in outcomes
+- [Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children](../claims/very-safe-neighborhood-closes-curiosity-gap.md) [~W] — learners who differ on it differ in outcomes
+- [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](../claims/very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) [~W] — learners who differ on it differ in outcomes
+- [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](../claims/peer-mediation-not-solely-victimisation.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

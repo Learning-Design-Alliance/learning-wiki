@@ -37,7 +37,8 @@ The review recommends that future studies combine methods, because standardized 
 - valid measurement of children's oral communicative competence
 
 ## Related Strategies
-- 
+
+- [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 
 ## Examples
 -

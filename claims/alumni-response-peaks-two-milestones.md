@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 sources:
-  - id: ev-peaks
-    title: ev-peaks
+  - id: daal-2026
+    title: Daal 2026
     q: 1
     i: "?"
     kind: design
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
-`q1 i?` Response rates do not necessarily decline linearly over time; an experienced survey operator reports responsiveness peaks in the 1st year out and again in the 4th or 5th year out. [→ ev-peaks](#ev-peaks)
+`q1 i?` Response rates do not necessarily decline linearly over time; an experienced survey operator reports responsiveness peaks in the 1st year out and again in the 4th or 5th year out. [→ ev-peaks](#daal-2026)
 
 ## Evidence
 
-### ev-peaks
+### Daal 2026
 
 Daal, S., Leones, T., & Iwatani, E. (2026, August). Equity-focused high school alumni connections: A design guide for alumni surveys. Digital Promise. https://doi.org/10.51388/20.500.12265/313
 

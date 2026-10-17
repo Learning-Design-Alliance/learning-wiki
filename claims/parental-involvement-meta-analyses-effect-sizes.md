@@ -48,3 +48,4 @@ A series of statistical meta-analyses of parental involvement research; a 2017 m
 
 ## Related Claims
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
+- [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — a narrower finding that bears on this claim

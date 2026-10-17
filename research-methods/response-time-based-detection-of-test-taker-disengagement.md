@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: response-time-based-detection-of-test-taker-disengagement
+aliases: [item-response-time-analysis-for-detecting-test-disengagement]
 title: Response-time-based detection of test taker disengagement
 description: The chapter describes a capability for identifying test taker disengagement using response time, which underlies its analysis of what happens when test takers disengage and how disengagement should be managed during scoring.
 status: review
@@ -16,6 +17,10 @@ sources:
     resource: "https://www.nwea.org/research/publication/what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing/"
     title: "Steven Wise, Megan Kuhfeld. (2019). What happens when test takers disengage? Understanding and addressing rapid guessing. NWEA Research brief. https://www.nwea.org/research/publication/what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing/"
     author: Steven Wise, Megan Kuhfeld
+  - id: megan-kuhfeld-2019
+    resource: "https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/"
+    title: "Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/"
+    author: Megan Kuhfeld, James Soland
 ---
 
 # Response-time-based detection of test taker disengagement
@@ -30,6 +35,7 @@ The chapter describes a capability for identifying test taker disengagement usin
 <!-- How each source describes or uses the method -->
 - **Response-time-based method for identifying test taker disengagement**: The chapter describes a capability for identifying test taker disengagement using response time, which underlies its analysis of what happens when test takers disengage and how disengagement should be managed during scoring. The method detects disengaged item responses such as rapid guesses, and "research using this capability has revealed that test takers generally disengage during only a portion of their items." It functions as a measurement tool for flagging responses where response correctness no longer reflects achievement level. (Wise et al. (2020))
 - **Response-time-based identification of test taker disengagement (cessation of measurement)**: The page lists an associated NWEA research output, "A cessation of measurement: Identifying test taker disengagement using response time," presented as both a book and a presentation. This frames test disengagement as identifiable through response-time evidence, positioning disengagement detection as a measurement concern accompanying the rapid-guessing brief. The page prints no further detail about the framework's content. (Steven Wise (2019))
+- **Item response time metadata as a basis for identifying disengaged test responses**: The article rests on the idea that computer-based tests produce new forms of metadata, and that "researchers have developed and validated procedures for using item response times to identify responses to items that are likely disengaged". Rapid guessing detected through response times serves as the signal for disengagement, which the study then treats through sample removal or score adjustment. (Megan Kuhfeld (2019))
 
 ### Claims
 
@@ -39,6 +45,7 @@ The chapter describes a capability for identifying test taker disengagement usin
 - [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](../claims/rapid-guessing-distorts-test-scores-and-measurement.md) [+W]
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](../claims/test-taking-engagement-essential-for-valid-scores.md) [+W]
 - [Rapid guessing is a validated indicator of disengaged item responding](../claims/rapid-guessing-validated-disengagement-indicator.md) [+W]
+- [Test disengagement could undermine inferences drawn from observed achievement scores](../claims/disengagement-undermines-score-inferences.md) [+W]
 
 ## Related Research Methods
 -
@@ -46,6 +53,7 @@ The chapter describes a capability for identifying test taker disengagement usin
 ## Key Sources
 - Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/. [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)
 - Steven Wise, Megan Kuhfeld. (2019). What happens when test takers disengage? Understanding and addressing rapid guessing. NWEA Research brief. https://www.nwea.org/research/publication/what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing/
+- Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/
 
 <!-- merged 2026-10-10 from elements/response-time-disengagement-identification-method ("Response-time-based method for identifying test taker disengagement"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Steven Wise, Megan Kuhfeld. (2019). What happens when test takers disengage? Understanding and addressing rapid guessing. NWEA Research brief. https://www.nwea.org/research/publication/what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing/
@@ -133,4 +141,72 @@ The page lists an associated NWEA research output, "A cessation of measurement: 
 
 ## Key Sources
 - Steven Wise, Megan Kuhfeld. (2019). What happens when test takers disengage? Understanding and addressing rapid guessing. NWEA Research brief. https://www.nwea.org/research/publication/what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing/
+-->
+
+<!-- merged 2026-10-17 from research-methods/item-response-time-analysis-for-detecting-test-disengagement ("Item response-time analysis for detecting test disengagement"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# Item response-time analysis for detecting test disengagement
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article rests on the idea that computer-based tests produce new forms of metadata, and that "researchers have developed and validated procedures for using item response times to identify responses to items that are likely disengaged". Rapid guessing detected through response times serves as the signal for disengagement, which the study then treats through sample removal or score adjustment.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Item response time metadata as a basis for identifying disengaged test responses**: The article rests on the idea that computer-based tests produce new forms of metadata, and that "researchers have developed and validated procedures for using item response times to identify responses to items that are likely disengaged". Rapid guessing detected through response times serves as the signal for disengagement, which the study then treats through sample removal or score adjustment. (Megan Kuhfeld (2019))
+
+### Claims
+- [Test disengagement could undermine inferences drawn from observed achievement scores](../claims/disengagement-undermines-score-inferences.md) [+W]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/
+
+<!- - merged 2026-10-10 from theories/response-time-metadata-disengagement-detection ("Item response time metadata as a basis for identifying disengaged test responses"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Item response time metadata as a basis for identifying disengaged test responses
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article rests on the idea that computer-based tests produce new forms of metadata, and that "researchers have developed and validated procedures for using item response times to identify responses to items that are likely disengaged". Rapid guessing detected through response times serves as the signal for disengagement, which the study then treats through sample removal or score adjustment.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Computer-based testing that generates item-level response time metadata
+#### Constraints
+- 
+
+### Target Learners
+- K-12 students taking computer-based achievement tests
+
+### Target Learning Objectives
+- Valid interpretation of achievement test scores used in accountability and evaluation
+
+### Claims
+
+- [Test disengagement could undermine inferences drawn from observed achievement scores](../claims/disengagement-undermines-score-inferences.md) [+W]
+
+## Related Theories
+
+- [Rapid-guessing detection framework using item response time thresholds](../research-methods/rapid-guessing-detection-using-item-response-time-thresholds.md)
+- [Item response time as response-process metadata illuminating examinee response processes](../research-methods/item-response-time-analysis-as-response-process-metadata.md)
+- [A response-time-conditional approach to detecting disengaged survey responses](../theories/response-time-conditional-disengagement-detection.md)
+
+## Examples
+
+- [Evaluators should re-estimate IRT scores treating rapid guesses as missing and compare with unadjusted results](../strategies/effort-moderated-sensitivity-check-strategy.md)
+- [Provide guidance to policy makers and evaluators on accounting for disengagement in their own work](../strategies/guidance-accounting-disengagement-policy-evaluators.md)
+- [Use response time to identify test taker disengagement as rapid-guessing behavior](../strategies/response-time-identifies-rapid-guessing.md)
+
+## Key Sources
+- Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/
+- ->
 -->

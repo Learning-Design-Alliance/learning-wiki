@@ -37,7 +37,7 @@ In its future directions, the article recommends moving beyond prompting: integr
 - internalizing long-term strategies, consistent personality traits, and adaptive responses to interventions
 
 ### Affordances
-- [Student Development Agent Framework](../research-methods/student-development-agents.md)
+- [Student Development Agent Framework](../research-methods/agent-based-educational-science-aes.md)
 
 ## Related Strategies
 
