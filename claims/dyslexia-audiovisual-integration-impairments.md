@@ -15,18 +15,22 @@ sources:
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: wallace-2020-2
     resource: "https://doi.org/10.1146/annurev-psych-010419-051112"
     title: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112"
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Individuals with reading impairments show reduced McGurk perception, poorer audiovisual temporal acuity, less multisensory reaction-time gain, and reduced visual-cue benefit on speech-in-noise tasks. [→ Wallace 2020](#wallace-2020)
@@ -38,7 +42,7 @@ sources:
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing multiple studies, that individuals with reading impairments show reduced McGurk influence "at least under some listening conditions", poorer audiovisual temporal acuity, and less multisensory reaction-time gain relative to controls.
 
@@ -48,7 +52,7 @@ The review reports, citing multiple studies, that individuals with reading impai
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Francisco et al., that audiovisual synchrony sensitivity accounted for unique variance in reading accuracy in adults with dyslexia even after controlling for working memory, processing speed, associative learning, and cognitive flexibility.
 

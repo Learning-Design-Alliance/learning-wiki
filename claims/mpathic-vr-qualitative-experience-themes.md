@@ -15,12 +15,14 @@ sources:
     author: Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Qualitative reflections indicate MPathic-VR students valued immediate feedback, nonverbal skill teaching, and preparation for emotion-charged encounters, while CBL students reported lack of interactivity and information overload
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` MPathic-VR reflective comments showed deeper understanding of communication in practice, praise for interactivity, and value for practicing emotionally charged encounters; CBL comments cited facts-based presentation, lack of interactivity, and information overload. [→ Kron Frederick W. MD 2017](#kron-frederick-w-md-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD. (2017). Using a computer simulation for teaching communication skills: A blinded multisite mixed methods randomized controlled trial. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2016.10.024
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Qualitative thematic analysis of reflective essays from both trial arms, coded in MAXQDA with intercoder calibration and third-researcher validation. MPathic-VR themes covered useful verbal and nonverbal skills, immediate feedback via video review, and preparation for emotionally charged encounters; CBL themes were facts-based presentation, "a lack of interactivity," and information overload.
 

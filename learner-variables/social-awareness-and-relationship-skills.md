@@ -12,7 +12,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (47 show a difference, 13 mixed, 8 no difference) · 52 studies (13 review, 10 quant-synthesis, 10 associational, 9 causal, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 17 of 52 report an effect size · 64 claims rest on one study
+> **Evidence** · 69 claims (48 show a difference, 13 mixed, 8 no difference) · 53 studies (13 review, 11 associational, 10 quant-synthesis, 9 causal, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 18 of 53 report an effect size · 65 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.

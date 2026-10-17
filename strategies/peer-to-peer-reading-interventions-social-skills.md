@@ -17,7 +17,7 @@ sources:
 # Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 8 studies (7 quant-synthesis, 1 associational), `q3`–`q4` · 6 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on the finding that peer problems were the strongest behavioral correlate of reading comprehension, the authors urge education stakeholders to "focus on interventions to build social skills and peer -to-peer interactions". They point to prior success with cross-age peer tutoring and teacher-led whole-class activities for improving reading comprehension, and collectively recommend peer-to-peer reading interventions, whole school collaborations, and parent-teacher involvement.

@@ -15,12 +15,14 @@ sources:
     author: "Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In both samples students endorsed relatively traditional stereotypes (Study 1 M = 11.3; Study 2 M = 10.3 on a scale where 0 indicates no race differences) and reported high academic self-concept (M = 17.0 and 16.6 on a 25-point scale). [→ Okeke 2009](#okeke-2009)
@@ -31,7 +33,7 @@ sources:
 
 Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J. (2009). Academic race stereotypes, academic self-concept, and racial centrality in African American youth. Journal of Black Psychology, 35(3), 366–387. https://doi.org/10.1177/0095798409333615
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive statistics from Study 1 (N = 237); Study 2 showed similar means (self-concept M = 16.6, stereotypes M = 10.3). The article reports these as descriptive means with no effect size attached.
 

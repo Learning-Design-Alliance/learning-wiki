@@ -15,12 +15,14 @@ sources:
     author: Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Incidental word learning from context occurred equally from a narrative text and an expository text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The amount of word-meaning learning from context did not differ between the spy narrative and the river-systems exposition. [→ Nagy 1984](#nagy-1984)
@@ -31,7 +33,7 @@ sources:
 
 Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David. (1984). Learning Words from Context. Center for the Study of Reading, Technical Report No. 319, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED248470
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Discussion of the two-text between-subjects design with 57 eighth graders: learning from context "was not confined to the exposition" but occurred equally from the narrative. The authors caution that a sample of two texts cannot represent the genres, so this is a limited generalization.
 

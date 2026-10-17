@@ -15,18 +15,22 @@ sources:
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: currie-2015-2
     resource: "https://doi.org/10.1016/j.jecp.2015.03.005"
     title: "Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005"
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For local coherence inferences, the effect of working memory on inference was fully mediated by vocabulary for the 6-year-olds. [→ Currie 2015](#currie-2015)
@@ -38,7 +42,7 @@ sources:
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mediation analyses (causal steps plus Preacher and Hayes bootstrap with 1000 resamples) tested simple span's effect on local coherence inference for the 6-year-olds. "The mediation analyses demonstrated that vocabulary mediated its effect", and mediation was confirmed because zero was not included in the 95% confidence interval for the mediated effect.
 
@@ -48,7 +52,7 @@ Mediation analyses (causal steps plus Preacher and Hayes bootstrap with 1000 res
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Mediation analyses for global coherence inferences confirmed mediation at all three ages: the working-memory path was no longer significant when vocabulary was entered, and "vocabulary mediated the relationship between working memory and inference for all age groups" because zero was not in the 95% confidence interval.
 

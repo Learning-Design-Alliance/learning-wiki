@@ -15,18 +15,22 @@ sources:
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wolters-1998-2
     resource: "https://doi.org/10.1023/a:1003035929216"
     title: "Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216"
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Regulatory strategy use and classroom grades showed no subject-area differences, though females received higher grades than males
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Neither subject area, gender, nor their interaction significantly predicted regulatory strategy use, contrary to the authors' hypotheses. [→ Wolters 1998](#wolters-1998)
@@ -38,7 +42,7 @@ sources:
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Repeated measures ANOVA in the 545-student survey found that regulatory strategy use "all failed to reach signiﬁcance" for subject area, gender, and interaction; both genders reported similar regulatory strategy use across all three subjects.
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA in the 545-student survey found that regulatory strategy
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analyses of teacher-reported grades (standardized within teachers) found no subject area effect (F(2,542) = 0.08) and no interaction, but "females received higher grades than males" across all subject areas.
 

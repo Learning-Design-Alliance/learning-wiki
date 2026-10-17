@@ -17,7 +17,7 @@ sources:
 # Assess and use creativity as a compensatory strength in ADHD children
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors recommend that educators and clinicians evaluate creative potential in children with ADHD and build on it, rather than focusing only on deficits. They write that creativity "could be evaluated and used as compensatory features of its habitual difficulties", and that identifying greater creative ability could improve traditional evaluation systems that "usually only focus on the deficits presented", inform intervention plans, improve diagnosis, and guide treatment choices including pharmacological decisions.

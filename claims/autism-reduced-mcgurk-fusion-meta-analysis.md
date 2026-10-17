@@ -15,12 +15,14 @@ sources:
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Autistic individuals show reduced multisensory integration, most consistently for speech-related stimuli
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Findings with the low-level sound-induced flash illusion are inconsistent: half of four studies found reduced integration in autistic individuals and half found no between-group differences. [→ Wallace 2020](#wallace-2020)
@@ -31,7 +33,7 @@ sources:
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports mixed findings for the sound-induced flash illusion in autism: the two studies testing children found significant reductions while the two testing adults failed to find differences, suggesting possible developmental trajectory differences.
 

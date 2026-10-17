@@ -15,12 +15,14 @@ sources:
     author: Fandakova, Yana; Bunge, Silvia A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Neuroimaging findings indicate two distinct brain systems support learning and retrieval depending on whether information is consistent or inconsistent with existing knowledge, and protracted development of these systems may contribute to age differences in using prior knowledge. [→ Fandakova 2016](#fandakova-2016)
@@ -31,7 +33,7 @@ sources:
 
 Fandakova, Yana; Bunge, Silvia A. (2016). What Connections Can We Draw Between Research on Long-Term Memory and Student Learning? Mind, Brain and Education, 10(3). https://doi.org/10.1111/mbe.12123
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review article (Shing & Brod) on effects of prior knowledge on memory, as summarized in this introduction. The review reports neuroimaging evidence for "two distinct brain systems" and links protracted development to students' differing ability to assess and utilize existing knowledge.
 

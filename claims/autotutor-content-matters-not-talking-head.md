@@ -15,12 +15,14 @@ sources:
     author: Graesser, A. C.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` It is not the animated talking head that accounts for most of AutoTutor's learning improvement but the content of what the agent and student say; learning is also no different whether students contribute by speech or keyboard. [→ Graesser 2016](#graesser-2016)
@@ -31,7 +33,7 @@ sources:
 
 Graesser, A. C. (2016). Conversations with AutoTutor Help Students Learn. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0086-4
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The article reports findings from a series of experiments identifying features of AutoTutor responsible for learning improvements, concluding the talking head has "only a small advantage" over print or spoken delivery. A separate cited study found no learning difference between speech and keyboard input.
 

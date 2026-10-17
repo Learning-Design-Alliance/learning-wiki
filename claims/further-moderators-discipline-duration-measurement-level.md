@@ -15,18 +15,22 @@ sources:
     author: "Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
   - id: freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016-2
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
     title: "Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7"
     author: "Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Among the exploratory moderators, only subject discipline was a significant moderator of CSCL script effects on collaboration skills. [→ Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer 2016](#freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016)
@@ -38,7 +42,7 @@ sources:
 
 Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Exploratory moderator analyses of educational background, subject discipline, country, and time-space modes; only subject discipline significantly moderated effects on collaboration skills.
 
@@ -48,7 +52,7 @@ Exploratory moderator analyses of educational background, subject discipline, co
 
 Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Meta-regression of effect sizes on the natural logarithm of study duration; the negative tendency for domain-specific knowledge was not significant (p = .21), and collaboration skills showed no significant dependency either (p = .85).
 

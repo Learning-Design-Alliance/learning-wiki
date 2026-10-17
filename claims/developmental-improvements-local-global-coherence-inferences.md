@@ -15,18 +15,22 @@ sources:
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: currie-2015-2
     resource: "https://doi.org/10.1016/j.jecp.2015.03.005"
     title: "Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005"
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Inference performance improves significantly across the three age groups (6-, 8-, and 10-year-olds), with each older group outperforming the younger ones. [→ Currie 2015](#currie-2015)
@@ -38,7 +42,7 @@ sources:
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Mixed-factor ANOVA on first-response inference scores of 130 children listening to four short narratives, with age as a between-participants factor. The article reports a significant main effect of age with a large printed effect size, η² = .19 (printed as "gp 2 = .19"), with means of .58, .65, and .74 in order of increasing ages.
 
@@ -48,7 +52,7 @@ Mixed-factor ANOVA on first-response inference scores of 130 children listening 
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 The same mixed-factor ANOVA on first-response scores showed a significant main effect of inference type with a large printed effect size, η² = .46 (printed as "gp 2 = .46"), with children performing best on global inference questions (Mlocal = .58, Mglobal = .73). The age × type interaction was not significant.
 

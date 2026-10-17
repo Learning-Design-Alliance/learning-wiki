@@ -15,12 +15,14 @@ sources:
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No relationship was found between light or moderate physical activity and any creativity component or creativity in general, and sedentary behavior was not significantly related to any divergent-thinking component. [→ Romance 2023](#romance-2023)
@@ -31,7 +33,7 @@ sources:
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Null bivariate correlation results (Table 2) from the cross-sectional accelerometry study. The article also states that "sedentary behavior was not significantly related to any of them"; no effect sizes are printed for these null findings, so equivalence was not tested.
 

@@ -15,12 +15,14 @@ sources:
     author: Fandakova, Yana; Bunge, Silvia A.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Complexity of children's naturalistic memory reports predicts reading ability over and above IQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among 6–8-year-olds, children with superior reading ability and higher IQ scores reported memories with more different words and more diverse connections, and memory report complexity predicted future reading ability concurrently and 3–4 months later over and above IQ. [→ Fandakova 2016](#fandakova-2016)
@@ -31,7 +33,7 @@ sources:
 
 Fandakova, Yana; Bunge, Silvia A. (2016). What Connections Can We Draw Between Research on Long-Term Memory and Student Learning? Mind, Brain and Education, 10(3). https://doi.org/10.1111/mbe.12123
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Empirical study by Mota and colleagues using a novel application of graph theory to children's spontaneous memory recounts. The article reports that complexity of memory reports predicted reading ability measured concurrently and 3–4 months later, over and above the effects of IQ.
 

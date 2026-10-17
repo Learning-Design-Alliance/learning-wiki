@@ -17,7 +17,7 @@ sources:
 # Prompt children's underspecified inference responses to reveal their comprehension potential and model the standard of coherence required
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article draws an educational implication from its finding that performance improved after prompting for all age groups on both inference types. Prompting underspecified or vague answers, by repeating the question or asking the child to be more specific, is described as "a useful means to demonstrate a child's potential (or competence)" and as a tool to indicate the standard of coherence required of comprehension. Teachers and assessors can use this during narrative comprehension activities.

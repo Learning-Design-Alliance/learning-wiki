@@ -15,12 +15,14 @@ sources:
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Prenatal synchronous multisensory exposure enhances learning and memory for a mother's call in quail embryos
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Quail embryos exhibited enhanced learning and memory for a mother's call when prenatally exposed to synchronous multisensory but not asynchronous or unisensory information. [→ Wallace 2020](#wallace-2020)
@@ -31,7 +33,7 @@ sources:
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Animal-model work in bobwhite quail, a species sensitive to intersensory redundancy, compared prenatal exposure to synchronous multisensory stimulation against asynchronous and unisensory exposure, finding enhanced learning and memory only under "synchronous multisensory" conditions. Subsequent work showed brief synchronized exposure sufficed and prepared offspring to recognize the call in isolation.
 

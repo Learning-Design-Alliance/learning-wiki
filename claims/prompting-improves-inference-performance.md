@@ -15,12 +15,14 @@ sources:
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Prompted performance was significantly higher than unprompted performance for both local and global coherence inferences. [→ Currie 2015](#currie-2015)
@@ -31,7 +33,7 @@ sources:
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Paired comparisons of unprompted versus prompted scores across the 130-child sample listening to short narratives showed significant improvement after prompts for both inference types, "local, t(129) = 15.72; global, t(129) = 12.08; ps < .001". No effect size is printed, so impact is null.
 

@@ -54,4 +54,4 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
 - Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related
 - [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](publication-bias-in-simulation-games-research.md) — reports the opposite
-- [Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts](cscl-meta-analysis-no-publication-bias.md) — related
+- Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts — related

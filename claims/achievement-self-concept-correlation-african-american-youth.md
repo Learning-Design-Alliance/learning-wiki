@@ -15,12 +15,14 @@ sources:
     author: "Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Academic achievement is moderately correlated with academic self-concept in African American middle school youth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Study 1, academic achievement was moderately correlated with academic self-concept, r(237) = .40, p < .01. [→ Okeke 2009](#okeke-2009)
@@ -31,7 +33,7 @@ sources:
 
 Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J. (2009). Academic race stereotypes, academic self-concept, and racial centrality in African American youth. Journal of Black Psychology, 35(3), 366–387. https://doi.org/10.1177/0095798409333615
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Correlational analysis of Study 1 descriptive data (N = 237) before main analyses. The article prints the correlation r = .40 (p < .01) between EOG math and reading percentile scores and academic self-concept.
 

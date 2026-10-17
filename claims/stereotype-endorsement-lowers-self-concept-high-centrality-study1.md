@@ -15,12 +15,14 @@ sources:
     author: "Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among African American eighth graders high in racial centrality, stronger endorsement of the traditional academic race stereotype is associated with lower academic self-concept, controlling achievement and demographics (Study 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 1, the stereotype × racial centrality interaction predicted academic self-concept (β = –.19, p < .01), and the simple slope of stereotypes was significant only at high racial centrality (β = –.45, p < .01). [→ Okeke 2009](#okeke-2009)
@@ -31,7 +33,7 @@ sources:
 
 Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J. (2009). Academic race stereotypes, academic self-concept, and racial centrality in African American youth. Journal of Black Psychology, 35(3), 366–387. https://doi.org/10.1177/0095798409333615
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical multiple regression with 237 African American students, controlling gender, grade, school composition, parent income and education, and achievement. The interaction term was significant: "β = –.19, p < .01". Simple slopes were significant only at high centrality (β = –.45, p < .01); low and average slopes were not (β = .09 and –.03, ps > .05).
 

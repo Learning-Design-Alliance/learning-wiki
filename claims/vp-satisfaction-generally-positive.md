@@ -15,12 +15,14 @@ sources:
     author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In 4 of 17 satisfaction studies the majority of items indicated preference for the virtual patient intervention; in 7 studies most items were indifferent between groups. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
@@ -31,7 +33,7 @@ sources:
 
 Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative synthesis of 17 satisfaction studies, mostly item-by-item survey comparisons across five dimensions (general impression, comfort, integration, academic factors, technical features). One study rated mannequin-based training better on 5 of 6 items.
 

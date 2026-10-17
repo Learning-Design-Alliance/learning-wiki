@@ -15,12 +15,14 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Longer simulation duration is associated with higher effects, but evidence for simulations over one month is inconclusive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Very short simulations (under 1 hour) had lower effects (g = 0.65) than simulations lasting hours to a month (g = 0.80–0.81), and simulations over a month showed g = 1.31 but with inconclusive evidence. [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -31,7 +33,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r?`
 
 Metaregression moderator analysis of simulation duration, with printed effects "g = 0.65, SE = 0.20" for very short and "g = 0.81, SE = 0.09" for up-to-a-day simulations. A few simulations lasted more than a month (g = 1.31, SE = 0.31), but "the number of studies (N = 4) reporting simulations with an extended duration was not sufficient for conclusive results."
 

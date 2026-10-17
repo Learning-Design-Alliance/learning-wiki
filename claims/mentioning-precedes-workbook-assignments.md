@@ -15,12 +15,14 @@ sources:
     author: Dolores Durkin
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers acted as assignment givers rather than instructors, using brief mentioning followed by workbook assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers' brief mentions of topics (e.g., one minute on contractions) preceded workbook assignments and were often insufficiently thorough to let children complete them. [→ Dolores Durkin 1978](#dolores-durkin-1978)
@@ -31,7 +33,7 @@ sources:
 
 Dolores Durkin. (1978). What Classroom Observations Reveal About Reading Comprehension Instruction. Technical Report No. 106, Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://doi.org/10.1598/rrq.14.4.2
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative observation across Sub-Study Two classrooms. The article describes a fourth-grade teacher as "clearly an assignment giver, not an instructor" and a third-grade example where 22 minutes covered eight disparate topics before workbook work.
 

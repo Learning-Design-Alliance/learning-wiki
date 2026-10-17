@@ -15,12 +15,14 @@ sources:
     author: Kaprea F Johnson
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Hyperactivity and conduct problems were not statistically significant predictors of reading comprehension in this sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the regression model, only peer problems was significant; hyperactivity (beta=.070) and conduct problems (beta=-.015) did not reach significance. [→ Kaprea F Johnson 2013](#kaprea-f-johnson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kaprea F Johnson. (2013). The Cumulative Effect of Hyperactivity and Peer Relationships on Reading Comprehension. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v2i1.245
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multiple regression (N=91) found hyperactivity and conduct problems non-significant; "peer problems accounts for more variance than hyperactivity and conduct problems". No effect sizes are printed for the null predictors.
 

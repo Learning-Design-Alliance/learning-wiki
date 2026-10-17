@@ -15,12 +15,14 @@ sources:
     author: Catherine Doughty
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Formally instructed learners proceed further down the Accessibility Hierarchy in ultimate attainment of relativization than untutored learners (review-reported, citing Pavesi 1986)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learners with formal SL instruction attained more marked relativization than learners with only informal exposure. [→ Catherine Doughty 1991](#catherine-doughty-1991)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Doughty. (1991). Second Language Instruction Does Make a Difference: Evidence from an Empirical Study of SL Relativization. SSLA, 13, 431-469. https://doi.org/10.1017/S0272263100010287
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 The review reports Pavesi's (1986) comparison of formally versus informally experienced learners: classroom instruction was associated with more marked (further down the AHH) ultimate attainment of targetlike pronoun-copyless relative clauses.
 

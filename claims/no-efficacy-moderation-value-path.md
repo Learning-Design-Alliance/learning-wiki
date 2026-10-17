@@ -15,12 +15,14 @@ sources:
     author: Jamaal S. Matthews, Meeta Banerjee, Fani Lauermann
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The interaction between self-efficacy and value had no significant effects on SRL or mastery orientation, so no evidence supported moderation when identity was defined as value. [→ Jamaal S. Matthews 2014](#jamaal-s-matthews-2014)
@@ -31,7 +33,7 @@ sources:
 
 Jamaal S. Matthews, Meeta Banerjee, Fani Lauermann. (2014). Academic Identity Formation and Motivation Among Ethnic Minority Adolescents: The Role of the “Self” Between Internal and External Perceptions of Identity. Child Development. https://doi.org/10.1111/cdev.12318
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model A path analysis (value as independent variable, belonging controlled) with bootstrap CIs found no significant efficacy-by-value interactions; conditional indirect effects of value via SRL were significant at all three efficacy levels (.11, .09, .07 SD) but the authors state the absence of significant interactions means efficacy does not function as a significant moderator in this model.
 

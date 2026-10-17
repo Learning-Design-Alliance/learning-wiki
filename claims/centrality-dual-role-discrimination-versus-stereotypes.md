@@ -15,12 +15,14 @@ sources:
     author: "Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Racial centrality plays different roles across outcomes: protective against discrimination's effects on mental health but a vulnerability factor for stereotype effects on self-perceptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors interpret their findings as calling into question the common view of racial centrality as a universal buffer: feeling connected to one's group may foster resilience to discrimination yet vulnerability to negative stereotypes. [→ Okeke 2009](#okeke-2009)
@@ -31,7 +33,7 @@ sources:
 
 Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J. (2009). Academic race stereotypes, academic self-concept, and racial centrality in African American youth. Journal of Black Psychology, 35(3), 366–387. https://doi.org/10.1177/0095798409333615
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Authors' interpretive claim in the Discussion, contrasting cited evidence that group centrality reduces discrimination's negative mental-health effects with evidence that highly gender-identified women show greater stereotype-threat decrements. No effect size is printed for this interpretive synthesis.
 

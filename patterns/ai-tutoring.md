@@ -14,6 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 219 claims (113 for, 63 mixed, 43 against) · 160 studies (52 causal, 34 review, 20 design, 19 theoretical, 16 quant-synthesis, 10 qualitative, 9 associational), `q1`–`q4` · 30 of 160 report an effect size · 206 claims rest on one study
 
 ## Description and scope
 
@@ -266,7 +267,6 @@ Claims linked to this pattern that the model above does not yet use. Each is evi
 - [Avatars said to increase tutor engagement (vendor white paper)](../claims/avatar-social-presence-increases-tutor-engagement.md) [+W]
 
 **Collaboration and humans in the loop**
-- [CSCL scripts meta-analysis showed no publication bias](../claims/cscl-meta-analysis-no-publication-bias.md) [~M]
 - [Subject discipline moderated script effects on collaboration skills](../claims/further-moderators-discipline-duration-measurement-level.md) [~M]
 - [Groups verifying chatbot solutions supported problem solving](../claims/collaborative-chatbot-answer-verification-problem-solving.md) [+M]
 - [Human-AI tutoring: skill proficiency rose, gap widened](../claims/human-ai-tutoring-skill-proficiency-gap-widens.md) [~M]

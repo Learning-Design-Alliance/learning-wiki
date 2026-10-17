@@ -15,12 +15,14 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # High authenticity simulations show higher effects than low authenticity simulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Simulations resembling reality at a high level had larger effects (g = 0.86) than low authenticity simulations (g = 0.58). [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -31,7 +33,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r?`
 
 Metaregression moderator analysis of authenticity, with printed effects "g = 0.58, SE = 0.18, N = 26" for low and "g = 0.86, SE = 0.10, N = 76" for high authenticity. Selected authenticity simulations also had positive effects (g = 0.69, SE = 0.40), but these came from a small, highly heterogeneous sample of medical education studies (N = 6).
 

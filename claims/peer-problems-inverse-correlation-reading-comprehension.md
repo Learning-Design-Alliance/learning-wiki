@@ -15,12 +15,14 @@ sources:
     author: Kaprea F Johnson
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Peer problems show a significant inverse correlation with reading comprehension (r = -.304)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Pearson's correlation showed a significant inverse relationship between peer problems and GORT-4 reading comprehension (r = -.304, p<.01). [→ Kaprea F Johnson 2013](#kaprea-f-johnson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kaprea F Johnson. (2013). The Cumulative Effect of Hyperactivity and Peer Relationships on Reading Comprehension. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v2i1.245
 
-`q3 · i2`
+`q3 · i2` · `associational · r1`
 
 Correlational analysis in the same after-school sample relating SDQ peer problems to GORT-4 comprehension; the printed correlation is "r = -.304, p<.01", a small-to-moderate inverse association.
 

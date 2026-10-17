@@ -15,12 +15,14 @@ sources:
     author: Dolores Durkin
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Social studies periods gave little preparation for reading (1.73 percent) and focused assessment questions on facts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During social studies, only 1.73 percent of time (48 minutes) went to preparing children to read a chapter, and assessment questions focused mostly on facts, many trivial. [→ Dolores Durkin 1978](#dolores-durkin-1978)
@@ -31,7 +33,7 @@ sources:
 
 Dolores Durkin. (1978). What Classroom Observations Reveal About Reading Comprehension Instruction. Technical Report No. 106, Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://doi.org/10.1598/rrq.14.4.2
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Observational timing of 2775 minutes of social studies instruction in the fourth-grade sub-study. The article had assumed teachers would spend considerable time preparing children with terms, chapter sketches, and guiding questions; the data contradicted this.
 

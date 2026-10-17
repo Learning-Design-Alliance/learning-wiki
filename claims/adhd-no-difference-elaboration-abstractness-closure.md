@@ -15,12 +15,14 @@ sources:
     author: "Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` No significant differences were found between ADHD children and controls for Elaboration, Abstractness of Titles or Resistance to premature closure. [→ Gonzalez-Carpio 2017](#gonzalez-carpio-2017)
@@ -31,7 +33,7 @@ sources:
 
 Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M. (2017). Creativity in Children with Attention Déficit Hyperactivity Disorder (ADHD). Psychology, 8, 319-334. https://doi.org/10.4236/psych.2017.83019
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 One-factor ANOVA results for the three remaining TTCT dimensions in the 34-versus-34 comparison: the article reports "No significant differences were found" for these dimensions; table values show Elaboration p = 0.088, Abstractness of Titles p = 0.175, Resistance to Closure p = 0.313, with no equivalence testing.
 

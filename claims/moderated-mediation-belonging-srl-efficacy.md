@@ -15,18 +15,22 @@ sources:
     author: Jamaal S. Matthews, Meeta Banerjee, Fani Lauermann
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: jamaal-s-matthews-2014-2
     resource: "https://doi.org/10.1111/cdev.12318"
     title: "Jamaal S. Matthews, Meeta Banerjee, Fani Lauermann. (2014). Academic Identity Formation and Motivation Among Ethnic Minority Adolescents: The Role of the “Self” Between Internal and External Perceptions of Identity. Child Development. https://doi.org/10.1111/cdev.12318"
     author: Jamaal S. Matthews, Meeta Banerjee, Fani Lauermann
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the belonging model, self-efficacy significantly moderated the belonging-to-SRL path, and the conditional indirect effect of belonging on mastery via SRL was largest at low self-efficacy (.20 SD) and smallest at high self-efficacy (.07 SD). [→ Jamaal S. Matthews 2014](#jamaal-s-matthews-2014)
@@ -38,7 +42,7 @@ sources:
 
 Jamaal S. Matthews, Meeta Banerjee, Fani Lauermann. (2014). Academic Identity Formation and Motivation Among Ethnic Minority Adolescents: The Role of the “Self” Between Internal and External Perceptions of Identity. Child Development. https://doi.org/10.1111/cdev.12318
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Moderated mediation path analysis (Model B, belonging as independent variable) with bootstrap CIs; 1 SD increase in belonging corresponded to .20, .13, and .07 SD increases in mastery via SRL at low, average, and high self-efficacy respectively, suggesting "both the mediated and nonmediated effects of belonging on mastery are strongest for students with low self-efﬁcacy."
 
@@ -48,7 +52,7 @@ Moderated mediation path analysis (Model B, belonging as independent variable) w
 
 Jamaal S. Matthews, Meeta Banerjee, Fani Lauermann. (2014). Academic Identity Formation and Motivation Among Ethnic Minority Adolescents: The Role of the “Self” Between Internal and External Perceptions of Identity. Child Development. https://doi.org/10.1111/cdev.12318
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same Model B path analysis: the direct belonging-to-mastery effect was significant only at average self-efficacy (c01 = .10, p < .05), leading the authors to conclude belonging relates to mastery "indirectly through its positive association with SRL, especially for students with a low sense of academic self-efﬁcacy."
 

@@ -15,12 +15,14 @@ sources:
     author: Catherine Doughty
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Second language instruction increases the rate of acquisition of English relativization by ESL learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The study's headline finding is that SL instruction is effective. [→ Catherine Doughty 1991](#catherine-doughty-1991)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Doughty. (1991). Second Language Instruction Does Make a Difference: Evidence from an Empirical Study of SL Relativization. SSLA, 13, 431-469. https://doi.org/10.1017/S0272263100010287
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 The article's abstract announces the study's first headline finding, that the empirical results "show that SL instruction is effective" for acquisition of the instructed grammatical subsystem.
 

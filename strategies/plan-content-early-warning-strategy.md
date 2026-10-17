@@ -17,7 +17,7 @@ sources:
 # Use the content of learners' written plans as an early-warning signal to identify students least likely to succeed
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's forecasting result suggests a concrete implementation strategy: collect learners' open-ended plans at the start of a course and read their content for risk signals, since "the contents of students' plans could predict which students were least likely to succeed." Plans focused on specific times mark students who are unlikely to complete, so instructors or course teams can direct support toward these learners early. This strategy piggybacks on the same prompt intervention that raises completion.

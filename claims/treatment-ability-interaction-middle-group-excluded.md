@@ -15,12 +15,14 @@ sources:
     author: Marli E.D.A. Andre and Thomas H. Anderson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When the middle verbal ability group was eliminated, Experiment 2 showed a significant Treatment x Verbal ability interaction, mirroring Experiment 1's finding. [→ Marli E.D.A. Andre and Thomas H. Anderson 1978](#marli-eda-andre-and-thomas-h-anderson-1978)
@@ -31,7 +33,7 @@ sources:
 
 Marli E.D.A. Andre and Thomas H. Anderson. (1978). The Development and Evaluation of a Self-Questioning Study Technique. Center for the Study of Reading Technical Report No. 87. https://eric.ed.gov/?q=The+Development+and+Evaluation+of+a+Self-Questioning+Study+Technique
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Post hoc ANOVA in Experiment 2 with three treatment groups, two verbal ability groups (middle eliminated), and two item types. The Treatment x Verbal ability interaction was significant, F(2,40) = 3.81, p < .05, along with main effects for treatment and verbal ability.
 

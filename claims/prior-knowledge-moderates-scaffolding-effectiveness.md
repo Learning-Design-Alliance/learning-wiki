@@ -15,18 +15,22 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
   - id: olga-chernikova-2020-2
     resource: "https://doi.org/10.3102/0034654320933544"
     title: "Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544"
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i?` Learners showed a lower increase of complex skills in an unfamiliar context (g = 0.67) than in a familiar context (g = 0.83), but learners in both contexts benefited from simulation-based learning. [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -38,7 +42,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Subgroup moderator analysis of prior knowledge (familiarity of context) across the 145 studies, reported in the results section with printed effects "g = 0.67, SE = 0.10" unfamiliar versus "g = 0.83, SE = 0.13" familiar. No effect size for the difference itself is printed.
 
@@ -48,7 +52,7 @@ Subgroup moderator analysis of prior knowledge (familiarity of context) across t
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Subgroup analysis by level of education (Table 1): for high education levels, "Reflection phases 1.10 [0.52, 1.68]"; for low education levels, examples showed g = 0.88 [0.42, 1.35] and reflection phases g = 0.52 [0.23, 0.80], consistent with the abstract's statement that learners with high prior knowledge benefited more from reflection phases and low prior knowledge learners from examples.
 

@@ -15,12 +15,14 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Document-based simulations were the least effective simulation type (g = 0.31). [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -31,7 +33,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r?`
 
 Metaregression moderator analysis of simulation type. Document-based simulations, despite often highly resembling actual tasks, were the least effective type with "g = 0.31, SE = 0.15, N = 15".
 

@@ -13,12 +13,14 @@ sources:
     title: Yeomans 2017
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The planning-prompt effect on MOOC completion is largest for students enrolled in traditional schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The effect of planning prompts on course completion was largest for students enrolled in traditional schools, indicating the treatment's benefit varied across learner subgroups. [→ Yeomans 2017](#yeomans-2017)
@@ -29,7 +31,7 @@ sources:
 
 Yeomans, Michael and Reich, Justin. 2017. "Planning Prompts Increase and Forecast Course Completion in Massive Open Online Courses." Association for Computing Machinery (ACM). https://doi.org/10.1145/3027385.3027416
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Moderator analysis of the natural field experiment in three HarvardX courses: the article states the prompt effect "was largest for students enrolled in traditional schools". No subgroup effect size or test statistic is printed, so no magnitude is coded.
 

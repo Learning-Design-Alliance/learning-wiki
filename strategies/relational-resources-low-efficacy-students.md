@@ -17,7 +17,7 @@ sources:
 # Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on the moderated mediation findings, the authors recommend that schools support the relational resources through which belonging translates into regulated learning for struggling students. They write that "School personnel could support such relational resources, for instance, through strong teacher –student relationships, positive peer support, ideational and emotional encouragement, or extracurricular events," which may help low-efficacy students garner support for regulated learning behaviors and consequently mastery even when they lack self-efficacy.
@@ -37,7 +37,7 @@ Based on the moderated mediation findings, the authors recommend that schools su
 - Self-regulated learning behaviors and mastery orientation
 
 ### Affordances
-- [Value Belonging Academic Identity Framework](../theories/value-belonging-academic-identity-framework.md)
+- Value Belonging Academic Identity Framework
 
 ## Claims
 

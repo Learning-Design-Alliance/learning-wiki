@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1712 entries** · 0 stable · 1712 in review · 0 drafts
+**1716 entries** · 0 stable · 1716 in review · 0 drafts
 
 ---
 
@@ -120,6 +120,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Aurora Institute's Seven Critical Elements of Instructional Practice](aurora-institutes-seven-critical-elements-of-instructional-practice.md) - A framework developed by the Aurora Institute to guide competency-based instructional practice through learner agency, meaningful assessment, differentiated support, mastery-based progression, varied pathways and pacing, equity strategies, and transparent expectations.
 * [AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata](autogen-metagpt-crewai-langgraph-and-phidata.md) - A set of software platforms developed by their respective makers for building, orchestrating, and deploying agentic AI systems, including multi-agent workflows and role-based delegation.
 * [Automated Extended Essay Grading Software (AEEGS)](automated-extended-essay-grading-software-aeegs.md) - A web-based application developed by Olaoye DD et al.
+* [AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)](autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace.md) - The AutoTutor project’s ASAT authoring tool and ACE conversation engine let organizations create and deploy scripted conversational tutoring applications across domains.
 
 #### B {: #letter-b }
 
@@ -989,6 +990,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Motivated Strategies for Learning Questionnaire (MSLQ)](motivated-strategies-for-learning-questionnaire-mslq.md) - The MSLQ is Pintrich and colleagues' self-report assessment of students' motivation and learning-strategy use, comprising motivation and self-regulated-learning scales for college and high-school learners.
 * [Motivation for Incidental Vocabulary Learning Scale (MIVLS), Incidental Vocabulary Learning Anxiety Scale (IVLAS), and Mastery of Incidental Vocabulary Learning Strategies Scale (MIVLSS)](motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a.md) - A set of three Zhao et al.
 * [Motivational Framework for Culturally Responsive Teaching (MFCRT)](motivational-framework-for-culturally-responsive-teaching-mfcrt.md) - A framework developed by Wlodkowski and Ginsberg for designing culturally responsive instruction through the motivational conditions of inclusion, attitude, meaning, and competence.
+* [MPathic-VR virtual human conversation simulation](mpathic-vr-virtual-human-conversation-simulation.md) - MPathic-VR is a computer-based virtual-human conversation simulation for healthcare learners, developed for practicing and assessing advanced intercultural and interprofessional communication skills.
 * [MSCEIT-YV Emotion Regulation Ability subtest](msceit-yv-emotion-regulation-ability-subtest.md) - A standardized youth assessment subtest that measures adolescents’ ability to judge the effectiveness of alternative actions for achieving emotion-regulation goals, developed as part of the Mayer, Salovey, and Caruso Emotional Intelligence Test—Youth Version.
 * [Multi-Payer School-Linked Fee Schedule](multi-payer-school-linked-fee-schedule.md) - A California optional programme administered through Carelon that enables enrolled local educational agencies and designated school-linked providers to obtain reimbursement from commercial and Medi-Cal managed care plans for student mental health and substance use disorder services.
 * [Multi-scale portfolio of 14 adoption-ready computing PjBL project packages](multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages.md) - A portfolio developed by Suleiman et al.
@@ -1750,6 +1752,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Year Up](year-up.md) - Year Up is a workforce-development programme that combines occupational and technical training, advising and support, paid internships, and post-program job-placement assistance for low-income young adults, operated by Year Up.
 * [Years-as-EL student-level dataset from a California district (N = 41,343)](years-as-el-student-level-dataset-from-a-california-district-n-41343.md) - A student-level California district dataset used to analyze English learners' years classified as EL, course taking, English proficiency, credit recovery, and graduation outcomes.
+* [Yes I Can social–cognitive classroom curriculum](yes-i-can-socialcognitive-classroom-curriculum.md) - A 40-lesson, teacher-delivered elementary classroom curriculum developed and studied by the Metropolitan Area Child Study Research Group to address social cognition and aggression risk through self-efficacy, perspective taking, normative beliefs, social problem solving, and behavioral scripts.
 * [YMCA of Silicon Valley early math project](ymca-of-silicon-valley-early-math-project.md) - An early-mathematics family-engagement programme developed and implemented by the YMCA of Silicon Valley and scaled to additional sites with support from the Heising-Simons Foundation.
 * [YOUmedia](youmedia.md) - YOUmedia Chicago is a teen digital-media learning-space programme operated by the Chicago Public Library at the Harold Washington Library, supported by the MacArthur Foundation and the Institute of Museum and Library Services, that combines technology access, informal learning space, and staff mento
 * [Youth At-Risk of Homelessness (YARH)](youth-at-risk-of-homelessness-yarh.md) - A programme funded by the U.S.
@@ -1790,6 +1793,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [38-item engagement strategies survey instrument](38-item-engagement-strategies-survey-instrument.md) - A 38-item self-report survey developed and used by Martin et al.
 * [38-item GenAI motivation and engagement survey instrument (nine constructs)](38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs.md) - A 38-item, five-point Likert survey developed by Ahmed et al.
 * [398-item evaluation dataset of teacher-requested geometric diagrams from Coteach](398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach.md) - A dataset released by Vishal Kumar et al.
+* [3B (Breaking Bad Behaviors)](3b-breaking-bad-behaviors.md) - 3B is a collaborative immersive virtual-reality classroom-management training system developed by Lugrin and colleagues for trainee teachers and instructor-controlled practice scenarios.
 * [44-item ethical GenAI use questionnaire](44-item-ethical-genai-use-questionnaire.md) - A self-administered five-point Likert questionnaire developed by Tabares-Cruz et al.
 * [4C/ID-model](4cid-model.md) - The Four-Component Instructional Design model is a framework developed by van Merriënboer and colleagues for designing training programs that support complex skill acquisition and transfer.
 * [53-study PRISMA-screened evidence corpus on GenAI and educational outcomes](53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes.md) - A corpus of 53 screened studies on GenAI effects on academic achievement, higher-order thinking, and writing, assembled and quality-rated by Ying Dong through a PRISMA-based review.

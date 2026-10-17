@@ -15,18 +15,22 @@ sources:
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wolters-1998-2
     resource: "https://doi.org/10.1023/a:1003035929216"
     title: "Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216"
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Self-efficacy uniquely explained approximately 6% of the variance in classroom grades, with higher self-efficacy associated with higher grades in all three subjects. [→ Wolters 1998](#wolters-1998)
@@ -38,7 +42,7 @@ sources:
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the regression equations predicting teacher-assigned grades in the 545-student survey, "Self-efficacy, by itself, explained approximately 6% of the variance in classroom grade" in each subject; students with greater self-efficacy received higher grades.
 
@@ -48,7 +52,7 @@ In the regression equations predicting teacher-assigned grades in the 545-studen
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Across the regression analyses in the same survey, "students who reported higher levels of test anxiety were more likely to engage in cognitive strategies" while using fewer regulatory strategies and earning lower grades; test anxiety uniquely explained about 6% of grade variance.
 

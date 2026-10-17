@@ -37,7 +37,7 @@ The article proposes that the seven trialogue designs should be adaptively admin
 - matching conversational format to learner proficiency to support learning and motivation
 
 ### Affordances
-- [Seven Trialogue Designs Two Agents](../theories/seven-trialogue-designs-two-agents.md)
+- [Seven Trialogue Designs Two Agents](../designs/seven-trialogue-designs-two-agents.md)
 
 ## Related Strategies
 - 

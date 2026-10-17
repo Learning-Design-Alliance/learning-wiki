@@ -15,12 +15,14 @@ sources:
     author: Fandakova, Yana; Bunge, Silvia A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Aerobic fitness and diet affect hippocampal volume and predict individual differences in episodic memory, and these health-factor effects may be magnified during childhood when hippocampal structure and function are still developing. [→ Fandakova 2016](#fandakova-2016)
@@ -31,7 +33,7 @@ sources:
 
 Fandakova, Yana; Bunge, Silvia A. (2016). What Connections Can We Draw Between Research on Long-Term Memory and Student Learning? Mind, Brain and Education, 10(3). https://doi.org/10.1111/mbe.12123
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review article (Hassevoort, Khan, Hillman, & Cohen) on lifestyle factors, hippocampal health, memory, and academic performance, as summarized in this introduction. The review attributes memory and academic performance differences at least in part to effects on hippocampal structure and function.
 

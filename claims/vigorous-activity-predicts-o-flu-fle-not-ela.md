@@ -15,18 +15,22 @@ sources:
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: romance-2023-2
     resource: "https://doi.org/10.1016/j.tsc.2023.101295"
     title: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295"
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Vigorous physical activity significantly accounted for 6.1% of variance of originality (F (1, 136) = 8.888, p = 0.003) and 6.4% of variance of flexibility (F (1, 136) = 9.254, p = 0.003). [→ Romance 2023](#romance-2023)
@@ -38,7 +42,7 @@ sources:
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple regression analysis for vigorous physical activity predicting components of divergent thinking (Table 4). The same table reports FLE variance of 6.4% (F (1, 136) = 9.254, p = 0.003) and FLU variance of 4.4% (p = 0.013); R² figures are not standardised effect sizes.
 
@@ -48,7 +52,7 @@ Multiple regression analysis for vigorous physical activity predicting component
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Null regression result from Table 4 of the same analysis: elaboration showed R2 = 0.006 (adjusted R2 = -0.002, t = 0.887, p = 0.376) with vigorous physical activity. A non-significant test with a printed near-zero R² is coded as a negligible association.
 

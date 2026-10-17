@@ -15,12 +15,14 @@ sources:
     author: Marli E.D.A. Andre and Thomas H. Anderson
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Question quality, not study time, predicted comprehension test performance among questioners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` For trained questioners, the correlation between percentage of good comprehension questions and test scores was .62, and question percentage was a significant predictor of achievement, while study time was not. [→ Marli E.D.A. Andre and Thomas H. Anderson 1978](#marli-eda-andre-and-thomas-h-anderson-1978)
@@ -31,7 +33,7 @@ sources:
 
 Marli E.D.A. Andre and Thomas H. Anderson. (1978). The Development and Evaluation of a Self-Questioning Study Technique. Center for the Study of Reading Technical Report No. 87. https://eric.ed.gov/?q=The+Development+and+Evaluation+of+a+Self-Questioning+Study+Technique
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Multiple regression analyses in Experiment 2 using study time and percentage of good questions as predictors. For trained questioners r = .62 (p < .01) for question percentage and r = .11 (p > .05) for time; only question percentage was a significant predictor, t(21) = 3.58, p < .005. For untrained questioners the correlation was .37, p < .05.
 

@@ -15,12 +15,14 @@ sources:
     author: "Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In an independent seventh-grade sample, stereotype endorsement predicted lower academic self-concept at average and high racial centrality but not at low centrality (Study 2 replication)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Study 2 replicated the moderation: the stereotype × centrality interaction was significant (β = –.21, p < .001), with significant simple slopes at average (β = –.20) and high (β = –.51) centrality and a nonsignificant slope at low centrality. [→ Okeke 2009](#okeke-2009)
@@ -31,7 +33,7 @@ sources:
 
 Okeke, N. A., Howard, L. C., Kurtz-Costes, B., & Rowley, S. J. (2009). Academic race stereotypes, academic self-concept, and racial centrality in African American youth. Journal of Black Psychology, 35(3), 366–387. https://doi.org/10.1177/0095798409333615
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression with 290 seventh-grade African American students from 17 urban middle schools, controlling gender, school composition, parent income and education, and achievement. The interaction was significant: "β = –.21, p < .001". Simple slopes were β = –.20 and –.51 at average and high centrality (p < .01) and nonsignificant at low centrality.
 

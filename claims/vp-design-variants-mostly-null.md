@@ -15,18 +15,22 @@ sources:
     author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: kononowicz-aa-2019-2
     resource: "https://doi.org/10.2196/14676"
     title: "Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676"
     author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Most comparisons of virtual patient design variants (linear vs branched, scaffolded vs not, worked vs unworked, spaced vs nonspaced, solving vs constructing) showed no significant differences in knowledge or skills outcomes. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
@@ -38,7 +42,7 @@ sources:
 
 Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative synthesis of design-variant RCTs in the knowledge domain; only one study (pedagogic vs problem-solving vs high-fidelity design, P<.01) reached significance. The review states trials comparing design variants "were not numerous enough to give clear recommendations".
 
@@ -48,7 +52,7 @@ Narrative synthesis of design-variant RCTs in the knowledge domain; only one stu
 
 Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Skills-domain design comparisons: human empathic feedback and narrative structure each outperformed their contrast on communication skills; Braun et al found scaffolding improved diagnostic efficiency (P=.045); constructing versus solving showed no difference (P=.54).
 

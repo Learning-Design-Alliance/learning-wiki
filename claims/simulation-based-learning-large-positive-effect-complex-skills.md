@@ -15,12 +15,14 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Simulation-based learning had a large positive effect on fostering complex skills compared with waiting control, instructed control, and baseline conditions. [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -32,7 +34,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Meta-analysis of 145 empirical studies (10,532 participants) using a random effects model with robust variance estimation. The overall effect was estimated as "g = 0.85, SE = 0.08, N = 145" with no statistically significant differences between the three control conditions.
 

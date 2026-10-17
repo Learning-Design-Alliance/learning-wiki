@@ -15,18 +15,22 @@ sources:
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: currie-2015-2
     resource: "https://doi.org/10.1016/j.jecp.2015.03.005"
     title: "Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005"
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For 6- and 8-year-olds, only vocabulary was a significant unique predictor of local coherence inference making once memory measures were taken into account. [→ Currie 2015](#currie-2015)
@@ -38,7 +42,7 @@ sources:
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Fixed-order hierarchical multiple regressions with local coherence inference as the dependent variable, entering simple span, complex span, then vocabulary. For the 8-year-olds, "only vocabulary signiﬁcantly accounted for signiﬁcant variance"; for the 6-year-olds only vocabulary was significant when both variables were included in the model.
 
@@ -48,7 +52,7 @@ Fixed-order hierarchical multiple regressions with local coherence inference as 
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the same regression series for the oldest group, "none of the measures signiﬁcantly explained variance" in local coherence inference making. The article suggests older children may have had sufficient skills and that further gains could come from strategic processing.
 

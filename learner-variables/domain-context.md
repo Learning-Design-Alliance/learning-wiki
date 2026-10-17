@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (31 show a difference, 7 mixed, 1 no difference) · 38 studies (10 review, 9 qualitative, 6 causal, 5 design, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 38 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (32 show a difference, 7 mixed, 1 no difference) · 39 studies (10 review, 9 qualitative, 6 causal, 5 quant-synthesis, 5 design, 3 theoretical, 1 associational), `q1`–`q4` · 6 of 39 report an effect size · 36 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.

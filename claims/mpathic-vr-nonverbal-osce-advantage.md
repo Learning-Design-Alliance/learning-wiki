@@ -15,12 +15,14 @@ sources:
     author: Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD
     q: 3
     i: 1
+    kind: causal
+    rigour: 3
 ---
 
 # MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` The univariate analysis revealed a main effect for the nonverbal communication scale, F(1,414)=13.70, p=.0002, η2 = 0.0320, favoring MPathic-VR students. [→ Kron Frederick W. MD 2017](#kron-frederick-w-md-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD. (2017). Using a computer simulation for teaching communication skills: A blinded multisite mixed methods randomized controlled trial. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2016.10.024
 
-`q3 · i1`
+`q3 · i1` · `causal · r3`
 
 Post hoc univariate ANOVA (Bonferroni-adjusted α=.0125) on the four OSCE rating scales following a significant MANOVA main effect for module (Pillai's trace=0.04, F(4, 411)=4.08, p=.003). The nonverbal communication scale showed "a main effect for the nonverbal communication scale" favoring MPathic-VR.
 

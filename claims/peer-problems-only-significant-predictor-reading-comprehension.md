@@ -15,12 +15,14 @@ sources:
     author: Kaprea F Johnson
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In a multiple regression, peer problems significantly predicted reading comprehension (beta=-.309, p<.01), while the three-variable model explained 9.8% of variance. [→ Kaprea F Johnson 2013](#kaprea-f-johnson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kaprea F Johnson. (2013). The Cumulative Effect of Hyperactivity and Peer Relationships on Reading Comprehension. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v2i1.245
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Multiple regression analysis of 91 elementary students in an after-school program, using SDQ student-report subscales and the GORT-4 comprehension score. The model explained 9.8% of variance, F (3, 80) =2.88, p=.04, with "peer problems was the only statistically significant variable (beta= -.309, p<.01)". No standardized effect size is printed, so impact is null.
 

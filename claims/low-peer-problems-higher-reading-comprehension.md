@@ -15,12 +15,14 @@ sources:
     author: Kaprea F Johnson
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students with low peer problems score significantly higher in reading comprehension than students with high peer problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` An independent samples t-test found only the low peer problems group differed significantly in reading comprehension (M=21.98 vs M=16.64; t(82, 43.51) = 2.49, p<.01). [→ Kaprea F Johnson 2013](#kaprea-f-johnson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kaprea F Johnson. (2013). The Cumulative Effect of Hyperactivity and Peer Relationships on Reading Comprehension. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v2i1.245
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Independent samples t-test comparing reading comprehension (GORT-4) between groups dichotomized at the sample mean on the SDQ peer problems subscale. "only participants in the low peer problems group had a significantly different score"; no effect size is printed.
 

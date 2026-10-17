@@ -15,12 +15,14 @@ sources:
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` MVPA correlates positively with FLU (r = 202, p < 0.05), O (r = 168, p < 0.01), FLE (r = 242, p < 0.01) and creativity in general (r = 154, p < 0.01). [→ Romance 2023](#romance-2023)
@@ -31,7 +33,7 @@ sources:
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Bivariate correlation analysis (Table 2) of the same cross-sectional accelerometry and Torrance Test dataset. The article describes the MVPA pattern as following vigorous activity "although less significantly"; the design is correlational, so no causal claim is made.
 

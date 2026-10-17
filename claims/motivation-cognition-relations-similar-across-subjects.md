@@ -15,18 +15,22 @@ sources:
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wolters-1998-2
     resource: "https://doi.org/10.1023/a:1003035929216"
     title: "Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216"
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Zero-order correlations among the constructs showed similar patterns across the three subject areas, with strategy use variables correlating especially strongly across domains (r's between 0.85 and 0.90). [→ Wolters 1998](#wolters-1998)
@@ -38,7 +42,7 @@ sources:
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Zero-order correlation analysis within the 545-student survey found "The correlations among the cognitive strategy use and regulatory strategy use variables across subject areas were especially large", and the pattern of relations was similar across subjects.
 
@@ -48,7 +52,7 @@ Zero-order correlation analysis within the 545-student survey found "The correla
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Comparing the nine regression equations in the same survey, "the amount of variance explained by the motivational variables and gender" in each outcome "were very similar across all three subject areas", with no differences in which predictors were significant.
 

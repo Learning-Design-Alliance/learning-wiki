@@ -15,12 +15,14 @@ sources:
     author: Graesser, A. C.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` AutoTutor implemented nearly all conversational mechanisms of human tutors except handling most student questions; the relevance and correctness of answers to student questions is disappointing, so diversionary tactics were implemented and student question frequency extinguishes quickly. [→ Graesser 2016](#graesser-2016)
@@ -31,7 +33,7 @@ sources:
 
 Graesser, A. C. (2016). Conversations with AutoTutor Help Students Learn. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0086-4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article reports that when students ask questions, answer relevance and correctness is disappointing in AutoTutor as in other automated environments, prompting diversionary tactics such as "How would you answer that question?". The cited consequence is that student question frequency extinguishes quickly.
 

@@ -15,12 +15,14 @@ sources:
     author: Marli E.D.A. Andre and Thomas H. Anderson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, the question-generation strategy affected low verbal ability students' test performance more than high verbal ability students', with a significant Treatment x Verbal ability interaction. [→ Marli E.D.A. Andre and Thomas H. Anderson 1978](#marli-eda-andre-and-thomas-h-anderson-1978)
@@ -31,7 +33,7 @@ sources:
 
 Marli E.D.A. Andre and Thomas H. Anderson. (1978). The Development and Evaluation of a Self-Questioning Study Technique. Center for the Study of Reading Technical Report No. 87. https://eric.ed.gov/?q=The+Development+and+Evaluation+of+a+Self-Questioning+Study+Technique
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1: 29 rural high school seniors randomly assigned to questioning-with-training or read-reread, analyzed by 2 x 2 x 2 ANOVA. The "Treatment x Verbal ability" interaction was significant, F(1,23) = 4.38, p < .05. Low ability questioning students scored M = 13.66 versus M = 8.26 for low ability read-reread; high ability groups scored about the same.
 

@@ -15,12 +15,14 @@ sources:
     author: Catherine Doughty
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Instruction on the marked OBJECT OF A PREPOSITION relative clause type improved grammaticality judgment across most relative clause categories (review-reported, citing Gass 1981)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Subjects instructed on OBJECT OF A PREPOSITION relative clauses outperformed subjects instructed on SUBJECT relative clauses on most grammaticality judgment categories. [→ Catherine Doughty 1991](#catherine-doughty-1991)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Doughty. (1991). Second Language Instruction Does Make a Difference: Evidence from an Empirical Study of SL Relativization. SSLA, 13, 431-469. https://doi.org/10.1017/S0272263100010287
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The review reports Gass's (1981) pilot study: instruction on the marked OBJECT OF A PREPOSITION type produced greater improvement on grammaticality judgment posttests over pretests in most relative clause categories than instruction on the SUBJECT type.
 

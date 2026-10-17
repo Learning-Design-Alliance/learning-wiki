@@ -15,7 +15,7 @@ sources:
 # Use virtual humans to standardize communication training scenarios and allow safe repetition of emotionally charged conversations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends virtual human simulation as a means of providing "a safe environment in which to practice, reflect, and become adept" in communication skills. Virtual humans offer standardization — scenario context and virtual human behavior are precisely specified at any moment — and learners can repeat scenarios and explore different choices, confident the virtual human performance will remain consistent with pedagogical design requirements.

@@ -15,12 +15,14 @@ sources:
     author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Positive evidence of virtual patient effectiveness was collected in both high-income and low- and middle-income country settings, supporting global applicability. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
@@ -31,7 +33,7 @@ sources:
 
 Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Across the 51 included trials, 44 were conducted in high-income countries and 7 in low- and middle-income countries (China, Colombia, South Africa, Iran). The review presents this distribution as evidence of global applicability.
 

@@ -15,18 +15,22 @@ sources:
     author: "Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
   - id: freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016-2
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
     title: "Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7"
     author: "Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Differences among play-, scene-, and scriptlet-level script subgroups on domain-specific knowledge were not statistically significant. [→ Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer 2016](#freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016)
@@ -38,7 +42,7 @@ sources:
 
 Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Moderator analysis across play-level (d = −0.06), scene-level (d = 0.28), and scriptlet-level (d = 0.19) subgroups per Table 1; no significant differences, with low post hoc power (15.7%).
 
@@ -48,7 +52,7 @@ Moderator analysis across play-level (d = −0.06), scene-level (d = 0.28), and 
 
 Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Moderator analysis for collaboration skills across script levels (play d = 0.62, scene d = 0.63, scriptlet d = 1.47 per Table 2); not statistically significant, post hoc power 11.3%.
 

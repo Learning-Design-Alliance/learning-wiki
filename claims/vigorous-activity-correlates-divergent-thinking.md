@@ -15,18 +15,22 @@ sources:
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: romance-2023-2
     resource: "https://doi.org/10.1016/j.tsc.2023.101295"
     title: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295"
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Vigorous physical activity correlates positively and significantly with cognitive flexibility (r = 272, p < 0.01) and fluency (r = 216, p < 0.05), and positively and highly significantly with originality (r = 189, p < 0.01) and overall creativity (r = 163, p < 0.01). [→ Romance 2023](#romance-2023)
@@ -38,7 +42,7 @@ sources:
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlation analysis (Table 2) in a cross-sectional study of children aged 10–11 with 7-day accelerometry and the Torrance Test. The study reports vigorous activity "positively and highly significantly related to O (r = 189, p < 0.01)" and the other coefficients shown; correlations are observational, not causal.
 
@@ -48,7 +52,7 @@ Bivariate correlation analysis (Table 2) in a cross-sectional study of children 
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Authors' summary of the correlational results in the Results section, describing the hypothesis of a positive relationship between moderate-to-vigorous activity and creativity as "partially confirmed"; no effect size is printed for this summary statement.
 

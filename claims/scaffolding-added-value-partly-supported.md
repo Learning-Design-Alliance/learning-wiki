@@ -15,18 +15,22 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: olga-chernikova-2020-2
     resource: "https://doi.org/10.3102/0034654320933544"
     title: "Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544"
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i?` Comparing presence versus absence of examples, prompts, and reflections individually did not show statistically significant added value of scaffolding. [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -38,7 +42,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Metaregression comparison of scaffolding presence versus absence. Examples presence was descriptively higher but not statistically significant; reflection phases showed similar effects with or without (g = 0.78 vs. g = 0.80). The authors state the comparison "did not support our hypothesis about an added value of scaffolding."
 
@@ -48,7 +52,7 @@ Metaregression comparison of scaffolding presence versus absence. Examples prese
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r?`
 
 Post hoc analysis of scaffolding combinations, with printed effect "g = 1.60, SE = 0.37" for examples plus prompts in medical education. Examples plus reflections yielded g = 0.95 (N = 15); all scaffolding types combined (N = 2) produced heterogeneous, non-significant results (g = 1.34, SE = 0.86).
 

@@ -15,18 +15,22 @@ sources:
     author: Catherine Doughty
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: catherine-doughty-1991-2
     resource: "https://doi.org/10.1017/S0272263100010287"
     title: "Catherine Doughty. (1991). Second Language Instruction Does Make a Difference: Evidence from an Empirical Study of SL Relativization. SSLA, 13, 431-469. https://doi.org/10.1017/S0272263100010287"
     author: Catherine Doughty
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Markedness theory, as realized in the Noun Phrase Accessibility Hierarchy, plays an important role in instructed interlanguage development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The study's findings replicate earlier evidence for markedness theory in instructed IL development. [→ Catherine Doughty 1991](#catherine-doughty-1991)
@@ -38,7 +42,7 @@ sources:
 
 Catherine Doughty. (1991). Second Language Instruction Does Make a Difference: Evidence from an Empirical Study of SL Relativization. SSLA, 13, 431-469. https://doi.org/10.1017/S0272263100010287
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 The abstract lists as the study's third finding that it "replicate[s] earlier findings suggesting an important role for markedness theory in instructed IL development".
 
@@ -48,7 +52,7 @@ The abstract lists as the study's third finding that it "replicate[s] earlier fi
 
 Catherine Doughty. (1991). Second Language Instruction Does Make a Difference: Evidence from an Empirical Study of SL Relativization. SSLA, 13, 431-469. https://doi.org/10.1017/S0272263100010287
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Based on support for the AHH and potential advantages of markedness relations, the marked OBJECT OF A PREPOSITION type was chosen as instructional focus, on the assumption learners could generalize from marked to less marked relativization contexts.
 

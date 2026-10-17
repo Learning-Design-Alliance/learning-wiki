@@ -13,12 +13,14 @@ sources:
     title: Yeomans 2017
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Planning prompts increase payment for certificates in MOOCs by 40%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In the same natural field experiment, students who received open-ended planning prompts paid for certificates at a 40% higher rate than students who did not. [→ Yeomans 2017](#yeomans-2017)
@@ -29,7 +31,7 @@ sources:
 
 Yeomans, Michael and Reich, Justin. 2017. "Planning Prompts Increase and Forecast Course Completion in Massive Open Online Courses." Association for Computing Machinery (ACM). https://doi.org/10.1145/3027385.3027416
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Outcome measure from the natural field experiment in three HarvardX courses: the planning-prompt treatment raised "payment for certificates by 40%". The article prints a percentage change but no standardized effect size, so no magnitude is coded.
 

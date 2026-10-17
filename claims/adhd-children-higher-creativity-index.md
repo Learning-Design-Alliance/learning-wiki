@@ -15,12 +15,14 @@ sources:
     author: "Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` On the global Creativity Index combining the five dimensions and Creative Strengths, ADHD children scored significantly higher than control children, with a large partial η² effect size. [→ Gonzalez-Carpio 2017](#gonzalez-carpio-2017)
@@ -31,7 +33,7 @@ sources:
 
 Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M. (2017). Creativity in Children with Attention Déficit Hyperactivity Disorder (ADHD). Psychology, 8, 319-334. https://doi.org/10.4236/psych.2017.83019
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 One-factor ANOVA on the overall TTCT-Figurative Creativity Index in the 34-versus-34 comparison; the ADHD group's mean was "109.97 ± 13.54" versus 94.79 ± 13.29 for controls, F = 21,756 as printed, p = 0.000, partial η² = 0.248 (large).
 

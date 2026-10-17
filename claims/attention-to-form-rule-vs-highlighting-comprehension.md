@@ -15,12 +15,14 @@ sources:
     author: Catherine Doughty
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Both rule-oriented analysis of structure and highlighting of TL structures in context promoted acquisition of IL grammar. [→ Catherine Doughty 1991](#catherine-doughty-1991)
@@ -32,7 +34,7 @@ sources:
 
 Catherine Doughty. (1991). Second Language Instruction Does Make a Difference: Evidence from an Empirical Study of SL Relativization. SSLA, 13, 431-469. https://doi.org/10.1017/S0272263100010287
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 The study compared a rule-oriented group (Animated Grammar explicit rule statement and sentence manipulation) with a meaning-oriented group (rephrasings and highlighting) within the same comprehension-based reading lessons, against an exposure-only control. The abstract reports both promoted acquisition but "only the latter comes hand-in-hand with comprehension of input".
 

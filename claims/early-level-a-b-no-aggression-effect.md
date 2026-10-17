@@ -15,12 +15,14 @@ sources:
     author: Metropolitan Area Child Study Research Group
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Early-delivered Level A (classroom-only) and Level B (classroom plus small-group) interventions showed no significant effects on high-risk children's aggression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the early intervention period, there were no Condition × Community interactions or main effects of condition for Level A or Level B on aggression. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)
@@ -31,7 +33,7 @@ sources:
 
 Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 HLM analyses of the early intervention high-risk sample for the classroom-only and classroom-plus-small-group conditions. The article reports "no Condition /H11003Community interactions or main effects for condition" for either intervention; no effect size is printed, so equivalence was not tested.
 

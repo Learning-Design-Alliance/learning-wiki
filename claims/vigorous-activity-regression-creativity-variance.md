@@ -15,12 +15,14 @@ sources:
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The vigorous physical activity predictor significantly accounted for 4.5% of variance of creativity (F (1, 136) = 6.435, p = 0.000), while other intensity levels were excluded from the model. [→ Romance 2023](#romance-2023)
@@ -31,7 +33,7 @@ sources:
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple regression analysis (Table 3) with the different intensity thresholds of physical activity predicting creativity; all levels except vigorous were excluded from the model. R² is variance explained, not a standardised effect size, so impact is null.
 

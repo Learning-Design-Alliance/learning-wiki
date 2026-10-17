@@ -1,15 +1,15 @@
 {
 "counts":{
-"claim":19232,
-"design":832,
+"claim":19225,
+"design":837,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1712,
-"research-method":350,
+"product":1716,
+"research-method":351,
 "strategy":5997,
 "theory":1361
 },
@@ -38162,15 +38162,6 @@
 "path":"claims/csc-potentially-positive-behavior-effects.md",
 "status":"review",
 "title":"The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points",
-"type":"claim"
-},
-{
-"description":"Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts",
-"evidence_strength":"weak",
-"id":"cscl-meta-analysis-no-publication-bias",
-"path":"claims/cscl-meta-analysis-no-publication-bias.md",
-"status":"review",
-"title":"Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts",
 "type":"claim"
 },
 {
@@ -144283,15 +144274,6 @@
 "type":"claim"
 },
 {
-"description":"The study's findings are limited by a small, non-randomly chosen, geographically concentrated sample",
-"evidence_strength":"weak",
-"id":"small-nonrandom-sample-limits-generalizability",
-"path":"claims/small-nonrandom-sample-limits-generalizability.md",
-"status":"review",
-"title":"The study's findings are limited by a small, non-randomly chosen, geographically concentrated sample",
-"type":"claim"
-},
-{
 "description":"Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers",
 "evidence_strength":"weak",
 "id":"small-pdsa-cycles-narrow-first-problem",
@@ -169373,6 +169355,7 @@
 "type":"claim"
 },
 {
+"aliases":["vp-blended-knowledge-moderate-effect"],
 "description":"Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)",
 "evidence_strength":"weak",
 "id":"vp-blended-knowledge-advantage",
@@ -169382,30 +169365,13 @@
 "type":"claim"
 },
 {
-"description":"Virtual patients blended with traditional education show moderate positive knowledge effects over traditional education alone (SMD=0.73)",
-"evidence_strength":"weak",
-"id":"vp-blended-knowledge-moderate-effect",
-"path":"claims/vp-blended-knowledge-moderate-effect.md",
-"status":"review",
-"title":"Virtual patients blended with traditional education show moderate positive knowledge effects over traditional education alone (SMD=0.73)",
-"type":"claim"
-},
-{
+"aliases":["vp-blended-skills-pooled-nonsignificant"],
 "description":"Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero",
 "evidence_strength":"weak",
 "id":"vp-blended-skills-mixed",
 "path":"claims/vp-blended-skills-mixed.md",
 "status":"review",
 "title":"Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero",
-"type":"claim"
-},
-{
-"description":"Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)",
-"evidence_strength":"weak",
-"id":"vp-blended-skills-pooled-nonsignificant",
-"path":"claims/vp-blended-skills-pooled-nonsignificant.md",
-"status":"review",
-"title":"Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)",
 "type":"claim"
 },
 {
@@ -169427,21 +169393,13 @@
 "type":"claim"
 },
 {
+"aliases":["vp-passive-vs-active-comparison"],
 "description":"Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning",
 "evidence_strength":"weak",
 "id":"vp-passive-versus-active-comparison",
 "path":"claims/vp-passive-versus-active-comparison.md",
 "status":"review",
 "title":"Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning",
-"type":"claim"
-},
-{
-"description":"Virtual patients show larger effects when replacing passive traditional learning (lectures, reading) than active learning (group discussion, mannequin-based)",
-"evidence_strength":"weak",
-"id":"vp-passive-vs-active-comparison",
-"path":"claims/vp-passive-vs-active-comparison.md",
-"status":"review",
-"title":"Virtual patients show larger effects when replacing passive traditional learning (lectures, reading) than active learning (group discussion, mannequin-based)",
 "type":"claim"
 },
 {
@@ -169454,6 +169412,7 @@
 "type":"claim"
 },
 {
+"aliases":["vp-vs-traditional-knowledge-no-difference"],
 "description":"Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)",
 "evidence_strength":"moderate",
 "id":"vp-traditional-knowledge-no-difference",
@@ -169463,6 +169422,7 @@
 "type":"claim"
 },
 {
+"aliases":["vp-vs-traditional-skills-favored"],
 "description":"Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)",
 "evidence_strength":"moderate",
 "id":"vp-traditional-skills-advantage",
@@ -169478,24 +169438,6 @@
 "path":"claims/vp-vs-other-digital-no-difference.md",
 "status":"review",
 "title":"Virtual patients show no significant differences versus other types of digital education for knowledge or skills",
-"type":"claim"
-},
-{
-"description":"Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)",
-"evidence_strength":"moderate",
-"id":"vp-vs-traditional-knowledge-no-difference",
-"path":"claims/vp-vs-traditional-knowledge-no-difference.md",
-"status":"review",
-"title":"Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)",
-"type":"claim"
-},
-{
-"description":"Virtual patients are more effective than traditional education for skills outcomes (pooled SMD=0.90)",
-"evidence_strength":"moderate",
-"id":"vp-vs-traditional-skills-favored",
-"path":"claims/vp-vs-traditional-skills-favored.md",
-"status":"review",
-"title":"Virtual patients are more effective than traditional education for skills outcomes (pooled SMD=0.90)",
 "type":"claim"
 },
 {
@@ -174168,6 +174110,14 @@
 "type":"design"
 },
 {
+"description":"Ten daily computer-assisted reading lessons delivered the treatments to all three groups in a common format: \\\"a text that appeared on the screen in three sequential reading-skills formats—a skimming format, an in-dept...",
+"id":"call-reading-lessons-relativization-treatments",
+"path":"designs/call-reading-lessons-relativization-treatments.md",
+"status":"review",
+"title":"Computer-assisted reading lessons for relativization instruction (MOG, ROG, and COG treatments)",
+"type":"design"
+},
+{
 "description":"A game-playing agent for Camelot Jr.",
 "id":"camelot-jr-backtracking-solver-agent",
 "path":"designs/camelot-jr-backtracking-solver-agent.md",
@@ -174445,6 +174395,14 @@
 "path":"designs/cogevolution-agent-framework.md",
 "status":"review",
 "title":"CogEvolution framework: ICAP perception, IRT-based memory retrieval, and evolutionary cognitive state update",
+"type":"design"
+},
+{
+"description":"The cognitive–ecological model holds that aggression is learned and maintained across multiple social contexts, so prevention must modify both individual cognition and context.",
+"id":"cognitive-ecological-model-aggression",
+"path":"designs/cognitive-ecological-model-aggression.md",
+"status":"review",
+"title":"Cognitive–ecological model of aggression prevention",
 "type":"design"
 },
 {
@@ -177752,6 +177710,14 @@
 "type":"design"
 },
 {
+"description":"The NPAH is a typological markedness hierarchy ordering relative clause types by accessibility of the relative pronoun's function.",
+"id":"npah-accessibility-hierarchy-relativization",
+"path":"designs/npah-accessibility-hierarchy-relativization.md",
+"status":"review",
+"title":"Noun Phrase Accessibility Hierarchy (NPAH) as predictor of relative clause acquisition difficulty",
+"type":"design"
+},
+{
 "description":"Opened in 2017 in partnership with the Reach Institute, the Learning Lab builds educator capacity for newcomer education through \\\"school site visits, professional development workshops, and research projects.\\\" It also...",
 "id":"oakland-international-learning-lab-educator-pipeline",
 "path":"designs/oakland-international-learning-lab-educator-pipeline.md",
@@ -178737,6 +178703,14 @@
 "type":"design"
 },
 {
+"description":"Trialogues involve a human interacting with two agents, typically a tutor agent and a student peer agent.",
+"id":"seven-trialogue-designs-two-agents",
+"path":"designs/seven-trialogue-designs-two-agents.md",
+"status":"review",
+"title":"Seven trialogue designs for two-agent conversations with a human learner, adaptively administered by learner knowledge",
+"type":"design"
+},
+{
 "description":"For severely disturbed children the booklet prescribes the most structured arrangement: \\\"The schemes for teaching areas for severely disturbed children are fairly rigid in their design.",
 "id":"severe-disturbance-rigid-noisy-quiet-zoning",
 "path":"designs/severe-disturbance-rigid-noisy-quiet-zoning.md",
@@ -179367,6 +179341,14 @@
 "path":"designs/three-dimensional-scaffolding-design-paratutor.md",
 "status":"review",
 "title":"Three-dimensional scaffolding design coordinating user roles, tutoring phases, and guidance strategies",
+"type":"design"
+},
+{
+"description":"The article proposes that effective training depends on three major elements: exposure to realistic training scenarios and stimuli, fine control over training stimuli and scenarios (including adjusting difficulty to t...",
+"id":"three-elements-effective-training-realism-control-feedback",
+"path":"designs/three-elements-effective-training-realism-control-feedback.md",
+"status":"review",
+"title":"Three elements of effective training: realistic exposure, fine control of stimuli, and fine performance feedback",
 "type":"design"
 },
 {
@@ -189805,7 +189787,7 @@
 },
 {
 "canonical":true,
-"description":"A reusable policy for tutoring by software: an intelligent tutoring system or a conversational AI tutor that responds to each learner's work step by step, deciding how much it explains, hints or withholds, how it checks understanding, and when it hands the learner to a human.",
+"description":"A reusable policy for tutoring by software, from step-based intelligent tutoring systems to conversational AI tutors and pedagogical or teachable agents: decide how much the tutor gives away, keep the learner doing the reasoning, judge it on unaided performance rather than assisted practice, and decide when a human tutor or mentor takes over.",
 "grain_size":"course",
 "id":"ai-tutoring",
 "path":"patterns/ai-tutoring.md",
@@ -190186,7 +190168,7 @@
 },
 {
 "canonical":true,
-"description":"A reusable policy for supporting learners in asynchronous, self-paced online courses through mentors or instructors who are available on demand and who reach out proactively, deciding when contact is learner-initiated, when it is triggered by progress data, and what it consists of.",
+"description":"A reusable policy for supporting learners in asynchronous, self-paced online courses and programmes through mentors, coaches or instructors who are available on demand and who reach out proactively: what to set up at the start, which progress signals trigger contact, what a contact does, how automated outreach and AI help divide the work with people, and how to check who the support actually reaches.",
 "grain_size":"course",
 "id":"mentor-support-in-self-paced-online-learning",
 "path":"patterns/mentor-support-in-self-paced-online-learning.md",
@@ -190264,8 +190246,8 @@
 },
 {
 "canonical":true,
-"description":"A reusable policy for rehearsing interpersonal and professional performances with a simulated person (a standardized or virtual patient, a simulated client or customer, avatar students in a classroom simulation, or an AI role-play partner), followed by feedback and a debrief, before or alongside real practice.",
-"grain_size":"course",
+"description":"A reusable policy for rehearsing an interpersonal or professional performance with a simulated person (a standardized or virtual patient, a simulated client, customer or colleague, avatar or simulated students, a pedagogical agent, or an AI role-play partner): name the performance and how it will be judged, give novices an example first, run short repeated encounters with feedback and a debrief after each, vary and harden the scenarios across sessions, and judge the unit on a blinded performance with a different person rather than on in-simulation scores or satisfaction.",
+"grain_size":"unit",
 "id":"practice-with-simulated-people",
 "path":"patterns/practice-with-simulated-people.md",
 "status":"review",
@@ -192811,6 +192793,14 @@
 "type":"product"
 },
 {
+"description":"3B is a collaborative immersive virtual-reality classroom-management training system developed by Lugrin and colleagues for trainee teachers and instructor-controlled practice scenarios.",
+"id":"3b-breaking-bad-behaviors",
+"path":"products/3b-breaking-bad-behaviors.md",
+"status":"review",
+"title":"3B (Breaking Bad Behaviors)",
+"type":"product"
+},
+{
 "description":"A self-administered five-point Likert questionnaire developed by Tabares-Cruz et al.",
 "id":"44-item-ethical-genai-use-questionnaire",
 "path":"products/44-item-ethical-genai-use-questionnaire.md",
@@ -193762,6 +193752,14 @@
 "path":"products/automated-extended-essay-grading-software-aeegs.md",
 "status":"review",
 "title":"Automated Extended Essay Grading Software (AEEGS)",
+"type":"product"
+},
+{
+"description":"The AutoTutor project’s ASAT authoring tool and ACE conversation engine let organizations create and deploy scripted conversational tutoring applications across domains.",
+"id":"autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace",
+"path":"products/autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace.md",
+"status":"review",
+"title":"AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)",
 "type":"product"
 },
 {
@@ -200452,6 +200450,14 @@
 "type":"product"
 },
 {
+"description":"MPathic-VR is a computer-based virtual-human conversation simulation for healthcare learners, developed for practicing and assessing advanced intercultural and interprofessional communication skills.",
+"id":"mpathic-vr-virtual-human-conversation-simulation",
+"path":"products/mpathic-vr-virtual-human-conversation-simulation.md",
+"status":"review",
+"title":"MPathic-VR virtual human conversation simulation",
+"type":"product"
+},
+{
 "description":"A standardized youth assessment subtest that measures adolescents’ ability to judge the effectiveness of alternative actions for achieving emotion-regulation goals, developed as part of the Mayer, Salovey, and Caruso Emotional Intelligence Test—Youth Version.",
 "id":"msceit-yv-emotion-regulation-ability-subtest",
 "path":"products/msceit-yv-emotion-regulation-ability-subtest.md",
@@ -206257,6 +206263,14 @@
 "type":"product"
 },
 {
+"description":"A 40-lesson, teacher-delivered elementary classroom curriculum developed and studied by the Metropolitan Area Child Study Research Group to address social cognition and aggression risk through self-efficacy, perspective taking, normative beliefs, social problem solving, and behavioral scripts.",
+"id":"yes-i-can-socialcognitive-classroom-curriculum",
+"path":"products/yes-i-can-socialcognitive-classroom-curriculum.md",
+"status":"review",
+"title":"Yes I Can social–cognitive classroom curriculum",
+"type":"product"
+},
+{
 "description":"An early-mathematics family-engagement programme developed and implemented by the YMCA of Silicon Valley and scaled to additional sites with support from the Heising-Simons Foundation.",
 "id":"ymca-of-silicon-valley-early-math-project",
 "path":"products/ymca-of-silicon-valley-early-math-project.md",
@@ -206834,6 +206848,14 @@
 "path":"research-methods/dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o.md",
 "status":"review",
 "title":"Dual-assessment framework for evaluating LLM human simulations via joint self-report and observer-rated persona measurement",
+"type":"research-method"
+},
+{
+"description":"The article develops a coding scheme distinguishing comprehension instruction—\\\"Teacher does/says something to help children understand or work out the meaning of more than a single, isolated word\\\"—from seven related categories: application, assignment, help with assignment, review of instruction, pr",
+"id":"durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior",
+"path":"research-methods/durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior.md",
+"status":"review",
+"title":"Durkin's eight-category scheme for classifying teachers' comprehension-related behavior",
 "type":"research-method"
 },
 {
@@ -272789,7 +272811,6 @@
 "csc-no-discernible-academic-effects":"csc-no-discernible-academic-effects",
 "csc-no-discernible-kav-effects":"csc-no-discernible-kav-effects",
 "csc-potentially-positive-behavior-effects":"csc-potentially-positive-behavior-effects",
-"cscl-meta-analysis-no-publication-bias":"cscl-meta-analysis-no-publication-bias",
 "cscl-simulation-conceptual-change-cognitive-engagement":"cscl-simulation-conceptual-change-cognitive-engagement",
 "cse-mediates-anxiety-peu-lms":"cse-mediates-anxiety-peu-lms",
 "cse-partial-mediation-anx-peu-weakened":"cse-partial-mediation-anx-peu-weakened",
@@ -284825,7 +284846,6 @@
 "small-group-language-instruction-larger-effects":"small-group-language-instruction-larger-effects",
 "small-group-learning-improves-stem-achievement":"small-group-learning-improves-stem-achievement",
 "small-labeled-data-plateaus-evaluator":"small-labeled-data-plateaus-evaluator",
-"small-nonrandom-sample-limits-generalizability":"small-nonrandom-sample-limits-generalizability",
 "small-pdsa-cycles-narrow-first-problem":"small-pdsa-cycles-narrow-first-problem",
 "small-presentation-changes-large-participation-impact":"small-presentation-changes-large-participation-impact",
 "small-presentation-groups-make-learning-visible":"small-presentation-groups-make-learning-visible",
@@ -287678,19 +287698,19 @@
 "voyager-potentially-positive-alphabetics":"voyager-potentially-positive-alphabetics",
 "voyager-study-average-effect-sizes-differ":"voyager-study-average-effect-sizes-differ",
 "vp-blended-knowledge-advantage":"vp-blended-knowledge-advantage",
-"vp-blended-knowledge-moderate-effect":"vp-blended-knowledge-moderate-effect",
+"vp-blended-knowledge-moderate-effect":"vp-blended-knowledge-advantage",
 "vp-blended-skills-mixed":"vp-blended-skills-mixed",
-"vp-blended-skills-pooled-nonsignificant":"vp-blended-skills-pooled-nonsignificant",
+"vp-blended-skills-pooled-nonsignificant":"vp-blended-skills-mixed",
 "vp-design-variants-mostly-null":"vp-design-variants-mostly-null",
 "vp-effectiveness-global-applicability":"vp-effectiveness-global-applicability",
 "vp-passive-versus-active-comparison":"vp-passive-versus-active-comparison",
-"vp-passive-vs-active-comparison":"vp-passive-vs-active-comparison",
+"vp-passive-vs-active-comparison":"vp-passive-versus-active-comparison",
 "vp-satisfaction-generally-positive":"vp-satisfaction-generally-positive",
 "vp-traditional-knowledge-no-difference":"vp-traditional-knowledge-no-difference",
 "vp-traditional-skills-advantage":"vp-traditional-skills-advantage",
 "vp-vs-other-digital-no-difference":"vp-vs-other-digital-no-difference",
-"vp-vs-traditional-knowledge-no-difference":"vp-vs-traditional-knowledge-no-difference",
-"vp-vs-traditional-skills-favored":"vp-vs-traditional-skills-favored",
+"vp-vs-traditional-knowledge-no-difference":"vp-traditional-knowledge-no-difference",
+"vp-vs-traditional-skills-favored":"vp-traditional-skills-advantage",
 "vplc-assistments-low-performing-significant-gain":"vplc-assistments-low-performing-significant-gain",
 "vplc-assistments-no-significant-overall-effect":"vplc-assistments-no-significant-overall-effect",
 "vplc-assistments-rural-subgroup-effects":"vplc-assistments-rural-subgroup-effects",
@@ -288232,6 +288252,7 @@
 "calibrated-hybrid-feedback-model-eap":"calibrated-hybrid-feedback-model-eap",
 "california-systemic-alignment-2010s":"california-systemic-alignment-2010s",
 "california-upk-mixed-delivery-system-and-grant-survey":"california-upk-mixed-delivery-system-and-grant-survey",
+"call-reading-lessons-relativization-treatments":"call-reading-lessons-relativization-treatments",
 "camelot-jr-backtracking-solver-agent":"camelot-jr-backtracking-solver-agent",
 "card-based-design-time-genui-paradigm":"card-based-design-time-genui-paradigm",
 "career-academy-school-within-school-structure":"career-academy-school-within-school-structure",
@@ -288267,6 +288288,7 @@
 "coaching-level-1-initial-steps-beliefs-and-community-establishment":"coaching-level-1-initial-steps-beliefs-and-community-establishment",
 "coding-focused-genai-declaration-structure":"coding-focused-genai-declaration-structure",
 "cogevolution-agent-framework":"cogevolution-agent-framework",
+"cognitive-ecological-model-aggression":"cognitive-ecological-model-aggression",
 "cogtax-four-level-bash-taxonomy":"cogtax-four-level-bash-taxonomy",
 "cogtax-four-level-command-line-taxonomy":"cogtax-four-level-command-line-taxonomy",
 "collaboration-and-clri-role-play-enhancements":"collaboration-and-clri-role-play-enhancements",
@@ -288679,6 +288701,7 @@
 "north-coast-paraeducator-special-education-residency":"north-coast-paraeducator-special-education-residency",
 "noun-ending-ffi-subject-matter-treatment":"noun-ending-ffi-subject-matter-treatment",
 "np-session-event-logs":"np-session-event-logs",
+"npah-accessibility-hierarchy-relativization":"npah-accessibility-hierarchy-relativization",
 "oakland-international-learning-lab-educator-pipeline":"oakland-international-learning-lab-educator-pipeline",
 "oakland-international-wellness-center-cost-team":"oakland-international-wellness-center-cost-team",
 "objective-activity-matched-curriculum-guide-pattern":"objective-activity-matched-curriculum-guide-pattern",
@@ -288802,6 +288825,7 @@
 "seven-co-created-cgpt-chatbots-pharmaceutical-science":"seven-co-created-cgpt-chatbots-pharmaceutical-science",
 "seven-levers-course-design-framework":"seven-levers-course-design-framework",
 "seven-step-cloud-innovation-sequence":"seven-step-cloud-innovation-sequence",
+"seven-trialogue-designs-two-agents":"seven-trialogue-designs-two-agents",
 "severe-disturbance-rigid-noisy-quiet-zoning":"severe-disturbance-rigid-noisy-quiet-zoning",
 "sf-dec-early-learning-for-all-network":"sf-dec-early-learning-for-all-network",
 "shard-elevator-acceleration-ai-task":"shard-elevator-acceleration-ai-task",
@@ -288881,6 +288905,7 @@
 "three-condition-ai-learning-design-teacher-study":"three-condition-ai-learning-design-teacher-study",
 "three-design-tensions-robotics-curriculum":"three-design-tensions-robotics-curriculum",
 "three-dimensional-scaffolding-design-paratutor":"three-dimensional-scaffolding-design-paratutor",
+"three-elements-effective-training-realism-control-feedback":"three-elements-effective-training-realism-control-feedback",
 "three-facilitation-roles-stem-plcs":"three-facilitation-roles-stem-plcs",
 "three-layer-competency-map-ai-curriculum":"three-layer-competency-map-ai-curriculum",
 "three-moment-architecture-secondary-math":"three-moment-architecture-secondary-math",
@@ -290782,6 +290807,7 @@
 "38-item-engagement-strategies-survey-instrument":"38-item-engagement-strategies-survey-instrument",
 "38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs":"38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs",
 "398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach":"398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach",
+"3b-breaking-bad-behaviors":"3b-breaking-bad-behaviors",
 "44-item-ethical-genai-use-questionnaire":"44-item-ethical-genai-use-questionnaire",
 "4cid-model":"4cid-model",
 "53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes":"53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes",
@@ -290903,6 +290929,7 @@
 "aurora-institutes-seven-critical-elements-of-instructional-practice":"aurora-institutes-seven-critical-elements-of-instructional-practice",
 "autogen-metagpt-crewai-langgraph-and-phidata":"autogen-metagpt-crewai-langgraph-and-phidata",
 "automated-extended-essay-grading-software-aeegs":"automated-extended-essay-grading-software-aeegs",
+"autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace":"autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace",
 "bachelors-degree-attainment-index-bachelors-dai-and-direct-bachelors-dai":"bachelors-degree-attainment-index-bachelors-dai-and-direct-bachelors-dai",
 "balanced-192-text-evaluation-dataset-of-efl-professional-ai-generated-and-hybrid-texts":"balanced-192-text-evaluation-dataset-of-efl-professional-ai-generated-and-hybrid-texts",
 "balanced-leadership-professional-development":"balanced-leadership-professional-development",
@@ -291751,6 +291778,7 @@
 "motivated-strategies-for-learning-questionnaire-mslq":"motivated-strategies-for-learning-questionnaire-mslq",
 "motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a":"motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a",
 "motivational-framework-for-culturally-responsive-teaching-mfcrt":"motivational-framework-for-culturally-responsive-teaching-mfcrt",
+"mpathic-vr-virtual-human-conversation-simulation":"mpathic-vr-virtual-human-conversation-simulation",
 "msceit-yv-emotion-regulation-ability-subtest":"msceit-yv-emotion-regulation-ability-subtest",
 "multi-payer-school-linked-fee-schedule":"multi-payer-school-linked-fee-schedule",
 "multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages":"multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages",
@@ -292486,6 +292514,7 @@
 "xtreme-reading":"xtreme-reading",
 "year-up":"year-up",
 "years-as-el-student-level-dataset-from-a-california-district-n-41343":"years-as-el-student-level-dataset-from-a-california-district-n-41343",
+"yes-i-can-socialcognitive-classroom-curriculum":"yes-i-can-socialcognitive-classroom-curriculum",
 "ymca-of-silicon-valley-early-math-project":"ymca-of-silicon-valley-early-math-project",
 "youmedia":"youmedia",
 "youth-at-risk-of-homelessness-yarh":"youth-at-risk-of-homelessness-yarh",
@@ -292563,6 +292592,7 @@
 "dmo-gru-hybrid-student-performance-prediction-method":"dmo-gru-hybrid-student-performance-prediction-method",
 "domain-theory-informed-lens-prompting-for-trait-discovery":"principal-trait-analysis-pta",
 "dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o":"dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o",
+"durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior":"durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior",
 "dynamical-systems-analysis-of-intelligent-tutoring-system-process-data":"dynamical-systems-analysis-of-intelligent-tutoring-system-process-data",
 "early-warning-and-college-readiness-indicator-construction":"early-warning-indicator-construction",
 "early-warning-indicator-construction":"early-warning-indicator-construction",

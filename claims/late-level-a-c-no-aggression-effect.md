@@ -15,12 +15,14 @@ sources:
     author: Metropolitan Area Child Study Research Group
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Late-delivered Level A and Level C interventions showed no detectable effect on high-risk children's aggression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the late intervention period, there was no detectable effect of Level A or Level C on aggression as a main effect or by community. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)
@@ -31,7 +33,7 @@ sources:
 
 Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 HLM analysis of the late intervention (Grades 5–6) high-risk sample. The article reports "no detectable effect of Level A or Level C on aggression either as a function of community or as a main effect"; no effect size is printed, so equivalence was not tested.
 

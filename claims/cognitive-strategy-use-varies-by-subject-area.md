@@ -15,24 +15,30 @@ sources:
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wolters-1998-2
     resource: "https://doi.org/10.1023/a:1003035929216"
     title: "Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216"
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wolters-1998-3
     resource: "https://doi.org/10.1023/a:1003035929216"
     title: "Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216"
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cognitive strategy use showed main effects of subject area and gender, with no subject area by gender interaction. [→ Wolters 1998](#wolters-1998)
@@ -45,7 +51,7 @@ sources:
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Repeated measures ANOVA in the 545-student survey found main effects of subject area and gender on cognitive strategy use; the subject area-by-gender interaction did not reach significance (F(2,542) = 0.13, p /n3e 0.10).
 
@@ -55,7 +61,7 @@ Repeated measures ANOVA in the 545-student survey found main effects of subject 
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Scheffe post hoc tests pooled across genders in the same survey showed "students reported greater cognitive strategy use in social studies" than in mathematics or English, consistent with the authors' hypotheses.
 
@@ -65,7 +71,7 @@ Scheffe post hoc tests pooled across genders in the same survey showed "students
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the regression analyses predicting cognitive strategy use, the gender coefficient was significant but "uniquely explained less than 1% of the variance in strategy use" in each subject after accounting for motivational variables.
 

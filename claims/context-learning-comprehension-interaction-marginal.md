@@ -15,12 +15,14 @@ sources:
     author: Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The Learning from Context by Reading Comprehension Ability interaction fell short of significance in both analyses (.01 < p < .05 interview; .05 < p < .10 multiple choice), with the trend that more able subjects learned more from context. [→ Nagy 1984](#nagy-1984)
@@ -31,7 +33,7 @@ sources:
 
 Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David. (1984). Learning Words from Context. Center for the Study of Reading, Technical Report No. 319, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED248470
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary analysis within the same 57-student within-subject regression design: the comprehension interaction was "not quite significant" in either analysis, with only a printed p-range and no effect size. The authors suggest a wider ability range might have strengthened it.
 

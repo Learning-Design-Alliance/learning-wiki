@@ -15,12 +15,14 @@ sources:
     author: Dolores Durkin
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When grades 3-6 were observed in three schools, similarities rather than differences emerged: two schools gave no comprehension instruction and one spent 4 minutes on it. [→ Dolores Durkin 1978](#dolores-durkin-1978)
@@ -31,7 +33,7 @@ sources:
 
 Dolores Durkin. (1978). What Classroom Observations Reveal About Reading Comprehension Instruction. Technical Report No. 106, Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://doi.org/10.1598/rrq.14.4.2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Sub-Study Two observed 12 teachers in grades 3-6 across three schools (reading observed for 2174 minutes). The article reports the near-total absence of comprehension instruction despite selecting schools expected to offer varied, good programs.
 

@@ -15,18 +15,22 @@ sources:
     author: Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD
     q: 3
     i: 3
+    kind: causal
+    rigour: 3
   - id: kron-frederick-w-md-2017-2
     resource: "https://doi.org/10.1016/j.pec.2016.10.024"
     title: "Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD. (2017). Using a computer simulation for teaching communication skills: A blinded multisite mixed methods randomized controlled trial. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2016.10.024"
     author: Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD
     q: 3
     i: 3
+    kind: causal
+    rigour: 3
 ---
 
 # Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Scores decreased significantly from first to second run-through of the intercultural scenario (η2 = 0.45), reflecting improved communication performance. [→ Kron Frederick W. MD 2017](#kron-frederick-w-md-2017)
@@ -38,7 +42,7 @@ sources:
 
 Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD. (2017). Using a computer simulation for teaching communication skills: A blinded multisite mixed methods randomized controlled trial. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2016.10.024
 
-`q3 · i3`
+`q3 · i3` · `causal · r3`
 
 Repeated-measures ANOVA on MPathic-VR scenario scores in the multisite RCT (lower score = better performance). Scores fell from "the first run-through (M=11.67, SD=6.26) to the second run-through (M=5.89, SD=5.12)" with η2 = 0.45.
 
@@ -48,7 +52,7 @@ Repeated-measures ANOVA on MPathic-VR scenario scores in the multisite RCT (lowe
 
 Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD. (2017). Using a computer simulation for teaching communication skills: A blinded multisite mixed methods randomized controlled trial. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2016.10.024
 
-`q3 · i3`
+`q3 · i3` · `causal · r3`
 
 Repeated-measures ANOVA on the interprofessional scenario in the same trial. Scores decreased significantly from first to second run-through, with η2 = 0.36; the authors state students "successfully learned how to improve their communication skills" in both scenarios.
 

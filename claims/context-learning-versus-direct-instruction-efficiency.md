@@ -15,12 +15,14 @@ sources:
     author: Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Per minute of instructional time, incidental learning from context yielded roughly twelve times more words learned than an intensive direct-instruction program, though direct instruction wins for any small word set
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Using the Multiple Choice Level 3 criterion, about .25 words were learned per minute in this study versus an average of .02 words per minute in Beck and colleagues' intensive instruction program. [→ Nagy 1984](#nagy-1984)
@@ -31,7 +33,7 @@ sources:
 
 Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David. (1984). Learning Words from Context. Center for the Study of Reading, Technical Report No. 319, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED248470
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 A cross-study efficiency comparison computed by the authors: Beck and colleagues' intensive program yielded "an average of .02 words are learned per minute of instruction" versus about .25 words per minute here. The authors caution that comparisons of rate of learning are fraught with difficulties.
 

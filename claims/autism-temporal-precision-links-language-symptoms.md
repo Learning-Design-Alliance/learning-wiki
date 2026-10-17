@@ -15,18 +15,22 @@ sources:
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: wallace-2020-2
     resource: "https://doi.org/10.1146/annurev-psych-010419-051112"
     title: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112"
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` A meta-analysis quantified that multisensory impairments, particularly for social stimuli, are moderately to strongly correlated with clinical autism symptoms including impaired social communication. [→ Wallace 2020](#wallace-2020)
@@ -38,7 +42,7 @@ sources:
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The review reports, citing Feldman et al.'s meta-analysis, that multisensory impairments in autism are moderately to strongly correlated with clinical symptoms including impaired social communication. The association is correlational, not causal.
 
@@ -48,7 +52,7 @@ The review reports, citing Feldman et al.'s meta-analysis, that multisensory imp
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Patten et al., a preferential-looking study in which autistic children's preferential attention to synchronous audiovisual presentations was associated with higher receptive language; a second study linked synchrony attention to receptive and expressive language.
 

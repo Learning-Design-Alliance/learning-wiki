@@ -15,12 +15,14 @@ sources:
     author: Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` On the global composite of four OSCE rating scales, MPathic-VR students (M=.806) were rated significantly higher than CBL students (M=.752), η2 = 0.0145. [→ Kron Frederick W. MD 2017](#kron-frederick-w-md-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD. (2017). Using a computer simulation for teaching communication skills: A blinded multisite mixed methods randomized controlled trial. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2016.10.024
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 ANOVA on the global composite of four OSCE rating items (coefficient alpha = 0.82) in the multisite RCT, with blinded standardized patient instructors rating students several days after training. MPathic-VR students scored "significantly higher (M=.806, SD=.201), than CBL students (M=.752, SD=.198)".
 

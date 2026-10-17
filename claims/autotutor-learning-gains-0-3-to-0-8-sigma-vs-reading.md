@@ -15,12 +15,14 @@ sources:
     author: Graesser, A. C.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AutoTutor yields average learning gains of 0.3 to 0.8 sigma compared to reading text for an equivalent amount of time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across multiple studies, AutoTutor produced average learning gains between 0.3 sigma and 0.8 sigma relative to reading text for an equivalent amount of time, with substantially higher effect sizes against pre-test and no-study controls. [→ Graesser 2016](#graesser-2016)
@@ -31,7 +33,7 @@ sources:
 
 Graesser, A. C. (2016). Conversations with AutoTutor Help Students Learn. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0086-4
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The article summarizes multiple AutoTutor studies comparing learning to reading text for equivalent time, reporting gains "between 0.3 sigma (Nye et al. 2014) and 0.8 (Graesser et al. 2008)". Effect sizes are described as substantially higher against pre-test and no-study controls.
 

@@ -12,7 +12,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (124 show a difference, 34 mixed, 27 no difference) · 135 studies (92 associational, 23 causal, 5 qualitative, 4 review, 4 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 21 of 135 report an effect size · 177 claims rest on one study
+> **Evidence** · 189 claims (125 show a difference, 36 mixed, 28 no difference) · 137 studies (93 associational, 24 causal, 5 qualitative, 4 review, 4 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 22 of 137 report an effect size · 181 claims rest on one study
 
 ## How to read this page
 

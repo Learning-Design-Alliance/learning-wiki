@@ -15,12 +15,14 @@ sources:
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In schizophrenia, multisensory reaction-time benefits are substantially reduced relative to controls, and audiovisual temporal acuity differences predict hallucination severity. [→ Wallace 2020](#wallace-2020)
@@ -31,7 +33,7 @@ sources:
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Williams et al., that control participants showed significant reaction-time speeding under multisensory conditions while these benefits were substantially reduced in schizophrenia; citing Stevenson et al., temporal acuity differences predicted hallucination severity.
 

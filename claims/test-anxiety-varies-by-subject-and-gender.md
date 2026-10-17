@@ -15,18 +15,22 @@ sources:
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wolters-1998-2
     resource: "https://doi.org/10.1023/a:1003035929216"
     title: "Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216"
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Test anxiety showed main effects of subject area and gender plus a gender by subject area interaction. [→ Wolters 1998](#wolters-1998)
@@ -38,7 +42,7 @@ sources:
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Repeated measures ANOVA in the 545-student survey found "a main effect for subject area", a gender main effect, and "an interaction between gender and subject area" for test anxiety.
 
@@ -48,7 +52,7 @@ Repeated measures ANOVA in the 545-student survey found "a main effect for subje
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Follow-up tests in the same survey showed "anxiety was highest in social studies followed by mathematics and then English"; males were less anxious in English than social studies, females less anxious in English than mathematics or social studies.
 

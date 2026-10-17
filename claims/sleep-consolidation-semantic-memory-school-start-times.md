@@ -15,12 +15,14 @@ sources:
     author: Fandakova, Yana; Bunge, Silvia A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Sleep and consolidation processes play a significant role in semantic memory development, and given that most adolescents do not get sufficient sleep on school nights partly due to early school start times, delaying start times may benefit memory formation. [→ Fandakova 2016](#fandakova-2016)
@@ -31,7 +33,7 @@ sources:
 
 Fandakova, Yana; Bunge, Silvia A. (2016). What Connections Can We Draw Between Research on Long-Term Memory and Student Learning? Mind, Brain and Education, 10(3). https://doi.org/10.1111/mbe.12123
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review-based claim from the Shing and Brod article as summarized here. The introduction notes accumulating evidence that most adolescents do not get sufficient sleep on school nights, in part due to early school start times, and suggests delaying start times may benefit memory formation and new semantic knowledge acquisition.
 

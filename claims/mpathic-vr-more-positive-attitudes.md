@@ -15,12 +15,14 @@ sources:
     author: Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean ratings aggregated across the 12 attitudinal survey items were significantly higher for MPathic-VR students (M=4.97) than CBL students (M=4.08). [→ Kron Frederick W. MD 2017](#kron-frederick-w-md-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kron Frederick W. MD, Fetters Michael D. MD, MPH, MA, Scerbo Mark W. PhD, White Casey B. PhD, Lypson Monica L. MD, MHPE, FACP, Padilla Miguel A. PhD, Gliva-McConvey Gayle A., Belfore Lee A. II PhD, West Temple MPA, Wallace Amelia M. BM, Guetterman Timothy C. PhD, Schleicher Lauren S. MA, Kennedy Rebecca A. MS, Mangrulkar Rajesh S. MD, Cleary James F. MD, Marsella Stacy C. PhD, Becker Daniel M. MD. (2017). Using a computer simulation for teaching communication skills: A blinded multisite mixed methods randomized controlled trial. Patient Education and Counseling. https://doi.org/10.1016/j.pec.2016.10.024
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Independent t-test comparing aggregated 12-item attitudinal survey means (coefficient alpha = 0.95) between trial arms. MPathic-VR mean ratings were "significantly higher (e.g., more positive)"; Table 2 reports means of 4.97 versus 4.08.
 

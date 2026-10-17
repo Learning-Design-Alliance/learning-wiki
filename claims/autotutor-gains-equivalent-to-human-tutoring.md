@@ -15,12 +15,14 @@ sources:
     author: Graesser, A. C.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a direct comparison between AutoTutor and 1-to-1 human tutoring with experienced tutors in computer-mediated conversations, learning gains on Newtonian physics were virtually equivalent. [→ Graesser 2016](#graesser-2016)
@@ -31,7 +33,7 @@ sources:
 
 Graesser, A. C. (2016). Conversations with AutoTutor Help Students Learn. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0086-4
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The article reports a direct comparison experiment (cited to VanLehn et al. 2007) in which AutoTutor and experienced human tutors in typed or spoken computer-mediated conversation produced "virtually equivalent" gains on Newtonian physics. No effect size is printed.
 

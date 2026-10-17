@@ -15,12 +15,14 @@ sources:
     author: Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In within-subject hierarchical regression analyses of both interview and multiple-choice measures, the Learning from Context variable was highly significant, showing students knew target words from the passage they read better than words from the passage they did not read. [→ Nagy 1984](#nagy-1984)
@@ -31,7 +33,7 @@ sources:
 
 Nagy, William E.; Herman, Patricia A.; Anderson, Richard C.; Pearson, P. David. (1984). Learning Words from Context. Center for the Study of Reading, Technical Report No. 319, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED248470
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Within-subject hierarchical regression analyses of interview and multiple-choice data from 57 eighth graders randomly assigned to read a narrative or expository text of about 1000 words. The interaction of Text Read and Word Source, "Learning from Context was highly significant" at comparisonwise alpha .01; no effect size is printed.
 

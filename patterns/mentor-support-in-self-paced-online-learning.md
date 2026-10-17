@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 93 claims (49 for, 38 mixed, 6 against) · 75 studies (15 associational, 12 causal, 12 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 10 of 75 report an effect size · 83 claims rest on one study
+> **Evidence** · 93 claims (49 for, 38 mixed, 6 against) · 75 studies (15 associational, 13 causal, 12 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 10 of 75 report an effect size · 83 claims rest on one study
 
 ## Description and scope
 

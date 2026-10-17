@@ -15,12 +15,14 @@ sources:
     author: Metropolitan Area Child Study Research Group
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Boys increased significantly more in aggression than girls (printed effect size 0.27 SD), with no differential treatment effects for boys and girls. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)
@@ -31,7 +33,7 @@ sources:
 
 Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 HLM analysis of the early intervention high-risk sample with gender as a Level 1 variable. The article reports a printed effect size of 0.27 SD: "boys increased significantly more in aggression than girls (effect size /H110050.27 SD, p /H11021.01)," with no differential treatment effects by gender.
 

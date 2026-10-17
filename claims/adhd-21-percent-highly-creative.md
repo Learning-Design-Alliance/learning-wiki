@@ -15,12 +15,14 @@ sources:
     author: "Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # 21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In this sample, 21% of children with ADHD scored at or above 70% on the age-adjusted overall creativity index, suggesting more highly creative children than in a general population. [→ Gonzalez-Carpio 2017](#gonzalez-carpio-2017)
@@ -31,7 +33,7 @@ sources:
 
 Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M. (2017). Creativity in Children with Attention Déficit Hyperactivity Disorder (ADHD). Psychology, 8, 319-334. https://doi.org/10.4236/psych.2017.83019
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Descriptive analysis of the 34-child ADHD group's Creativity Index against age-adjusted general-population norms; the article reports "21% of children with ADHD scored at or above 70%". No inferential test is reported for this percentage.
 

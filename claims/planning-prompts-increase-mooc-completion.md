@@ -13,12 +13,14 @@ sources:
     title: Yeomans 2017
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Open-ended planning prompts at the start of a MOOC increase course completion by 29%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In a natural field experiment in three HarvardX courses, students who received open-ended planning prompts at the beginning of a course completed the course at a 29% higher rate than students who did not. [→ Yeomans 2017](#yeomans-2017)
@@ -29,7 +31,7 @@ sources:
 
 Yeomans, Michael and Reich, Justin. 2017. "Planning Prompts Increase and Forecast Course Completion in Massive Open Online Courses." Association for Computing Machinery (ACM). https://doi.org/10.1145/3027385.3027416
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Natural field experiment in three HarvardX courses in which some students received open-ended planning prompts at the beginning of a course. The article reports the prompts "increased course completion by 29%"; no standardized effect size is printed, so no magnitude is coded.
 

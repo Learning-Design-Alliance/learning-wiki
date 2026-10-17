@@ -15,12 +15,14 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Higher levels of technology support during simulation are associated with greater effects on learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Simulators (g = 1.07) and virtual reality (g = 0.85) were more effective than screen-based simulations (g = 0.68) and simulations without technology support (g = 0.74). [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -31,7 +33,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r?`
 
 Metaregression moderator analysis of technology use across domains, with printed effects "g = 1.07, SE = 0.18, N = 26" for simulators and g = 0.85 for virtual reality versus g = 0.68 screen-based and g = 0.74 no technology. The association is observational across study categories rather than a randomized within-study contrast.
 

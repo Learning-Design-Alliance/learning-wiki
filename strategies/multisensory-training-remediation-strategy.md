@@ -17,7 +17,7 @@ sources:
 # Use multisensory exposure and training as targets for remediation of sensory-based developmental and cognitive impairments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 The review proposes that impairments in multisensory integration and temporal processing "may point toward novel targets for remediation". Remediation approaches now used in conditions with multisensory dysfunction are predicated on the ideas that exposure to multisensory settings can train integrative networks to better process sensory information and that enhanced integration will translate to benefits in higher-order cognitive domains. Applications span autism, aging-related disorders, and low vision rehabilitation.
@@ -41,7 +41,7 @@ The review proposes that impairments in multisensory integration and temporal pr
 - protection against cognitive decline
 
 ### Affordances
-- [Multisensory Scaffolding Of Cognition Theory](../theories/multisensory-scaffolding-of-cognition-theory.md)
+- Multisensory Scaffolding Of Cognition Theory
 
 ## Claims
 

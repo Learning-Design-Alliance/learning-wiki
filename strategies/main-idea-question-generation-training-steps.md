@@ -17,7 +17,7 @@ sources:
 # Train students to generate main-idea questions via identify-then-transform steps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's training program teaches a three-step questioning procedure: "First, the students were instructed to identify the main idea of each paragraph, which would serve as the core of the questions. Second, students were given specific directions to form questions which asked for new instances of ideas and/or concepts. Last, when generating a new instance proved difficult or inappropriate, the question was to be about a concept in the text, but in a paraphrased format." Training materials included a model paragraph, practice paragraphs, experimenter-provided example questions, and a full practice passage with space to write questions.
@@ -40,7 +40,7 @@ The article's training program teaches a three-step questioning procedure: "Firs
 - improved comprehension and retention of prose material
 
 ### Affordances
-- [Metacognitive Levels Of Processing Account Self Questioning](../theories/metacognitive-levels-of-processing-account-self-questioning.md)
+- [Metacognitive Levels Of Processing Account Self Questioning](../theories/metacognition.md)
 
 ## Claims
 

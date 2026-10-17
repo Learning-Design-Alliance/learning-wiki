@@ -15,12 +15,14 @@ sources:
     author: "Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children with specific language impairment show reduced selective attention to and integration of audiovisual speech
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children with SLI/DLD show decreased selective attention to audiovisual speech, reduced sensitivity to temporal synchrony, and lesser perceptual gain from audiovisual versus auditory-only speech in noise. [→ Wallace 2020](#wallace-2020)
@@ -31,7 +33,7 @@ sources:
 
 Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integration as a Window into Orderly and Disrupted Cognition and Communication. Annual Review of Psychology. https://doi.org/10.1146/annurev-psych-010419-051112
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing studies using psychophysics, eye tracking, and EEG/ERP, that children with SLI show decreased selective attention to audiovisual speech and reduced temporal synchrony sensitivity, and citing Huyse et al. that they gain less perceptual accuracy from audiovisual versus auditory-only speech in noise.
 

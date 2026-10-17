@@ -13,12 +13,14 @@ sources:
     title: Lugrin J-L 2016
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The 3B VR classroom system achieves an average end-to-end latency of approximately 73 ms, below the 150 ms threshold required for real-time interactions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Video-based latency measurement of the 3B system found approximately 73 ms average end-to-end latency (SD 45), below the 150 ms real-time threshold, with an average frame rate of 75 fps. [→ Lugrin J-L 2016](#lugrin-j-l-2016)
@@ -29,7 +31,7 @@ sources:
 
 Lugrin J-L, Latoschik ME, Habel M, Roth D, Seufert C and Grafe S (2016) Breaking Bad Behaviors: A New Tool for Learning Classroom Management Using Virtual Reality. Front. ICT 3:26. https://doi.org/10.3389/fict.2016.00026
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Pre-user study technical measurement using a video-based frame-counting method with videos recorded at 480 Hz. The measurement found latency "approximately 73 ms (±SD 45)" and the system "delivered an average frame rate of 75 frames per second" for about 400 K triangles per frame.
 

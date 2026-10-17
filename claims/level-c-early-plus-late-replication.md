@@ -15,24 +15,30 @@ sources:
     author: Metropolitan Area Child Study Research Group
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: metropolitan-area-child-study-research-group-2002-2
     resource: "https://doi.org/10.1037/0022-006x.70.1.179"
     title: "Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179"
     author: Metropolitan Area Child Study Research Group
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: metropolitan-area-child-study-research-group-2002-3
     resource: "https://doi.org/10.1037/0022-006x.70.1.179"
     title: "Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179"
     author: Metropolitan Area Child Study Research Group
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # For children receiving both early and late intervention, the Level C Community × Treatment interaction replicated: Aurora treated children decreased in aggression while Chicago treated children increased
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i?` The Level C Condition × Community interaction found for the early intervention was replicated in the early-plus-late sample. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)
@@ -45,7 +51,7 @@ sources:
 
 Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Three-level HLM (time, person, school) on participants receiving both early and late intervention, with aggression measured at three time points. The article reports the interaction "was repli- cated, t(261) /H110054.47, p /H11021.001." No effect size is printed for the interaction.
 
@@ -55,7 +61,7 @@ Three-level HLM (time, person, school) on participants receiving both early and 
 
 Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Within-community HLM contrast in the early-plus-late sample. Aurora treated children decreased while "the control children in Aurora increased, t(261) /H110052.15, p /H11021.04, effect size /H110050.65 SD" — a printed effect size of 0.65 SD.
 
@@ -65,7 +71,7 @@ Within-community HLM contrast in the early-plus-late sample. Aurora treated chil
 
 Metropolitan Area Child Study Research Group. (2002). A Cognitive–Ecological Approach to Preventing Aggression in Urban Settings: Initial Outcomes for High-Risk Children. Journal of Consulting and Clinical Psychology. https://doi.org/10.1037/0022-006x.70.1.179
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Within-community HLM contrast in the early-plus-late sample, inner-city Chicago. Treated children increased while controls decreased, with a printed effect size of 1.07 SD ("effect size /H110051.07 SD"), an unintended effect the abstract flags for the most distressed communities.
 

@@ -15,12 +15,14 @@ sources:
     author: Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Technical performance showed the highest effect (g = 1.06) while communication skills showed the lowest (g = 0.44). [→ Olga Chernikova 2020](#olga-chernikova-2020)
@@ -31,7 +33,7 @@ sources:
 
 Olga Chernikova, Nicole Heitzmann, and Matthias Stadler, Doris Holzberger, Tina Seidel, Frank Fischer. (2020). Simulation-Based Learning in Higher Education: A Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654320933544
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r?`
 
 Metaregression moderator analysis of complex skills type across the 145 studies. The moderator was significant (p < .001, Q between = 167.61). Effects ranged from "g = 0.44" for communication skills to "g = 1.06" for technical performance.
 

@@ -15,12 +15,14 @@ sources:
     author: "Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` ADHD children produced a greater number of responses than controls on the Fluency subtest, with a large partial η² effect size. [→ Gonzalez-Carpio 2017](#gonzalez-carpio-2017)
@@ -31,7 +33,7 @@ sources:
 
 Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M. (2017). Creativity in Children with Attention Déficit Hyperactivity Disorder (ADHD). Psychology, 8, 319-334. https://doi.org/10.4236/psych.2017.83019
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 One-factor ANOVA comparing 34 ADHD children with 34 matched controls on TTCT-Figurative scores; the ADHD group's mean Fluency was "116.09 ± 9.11" versus 100.9 ± 12.05 for controls, F = 34.331, p = 0.000, partial η² = 0.343 (large).
 

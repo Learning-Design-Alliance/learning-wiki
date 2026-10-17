@@ -15,18 +15,22 @@ sources:
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wolters-1998-2
     resource: "https://doi.org/10.1023/a:1003035929216"
     title: "Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216"
     author: "Wolters, C.A. & Pintrich, P.R."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Male students reported greater task value in mathematics than in English or social studies, with no difference between English and social studies. [→ Wolters 1998](#wolters-1998)
@@ -38,7 +42,7 @@ sources:
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Post hoc Scheffe tests after a 3 (subject area) × 2 (gender) repeated measures ANOVA in a self-report survey of 545 seventh and eighth graders showed males "reported greater levels of task value in mathematics than in English" and social studies, with no English–social studies difference.
 
@@ -48,7 +52,7 @@ Post hoc Scheffe tests after a 3 (subject area) × 2 (gender) repeated measures 
 
 Wolters, C.A. & Pintrich, P.R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science 26: 27–47. https://doi.org/10.1023/a:1003035929216
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same repeated measures survey study: post hoc tests showed "Females reported a higher mean level of task value in mathematics" than in English or social studies, and females also valued English more than social studies.
 

@@ -13,12 +13,14 @@ sources:
     title: Yeomans 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The contents of students' plans predicted which students were least likely to succeed; in particular, students whose plans focused on specific times were unlikely to complete the course. [→ Yeomans 2017](#yeomans-2017)
@@ -29,7 +31,7 @@ sources:
 
 Yeomans, Michael and Reich, Justin. 2017. "Planning Prompts Increase and Forecast Course Completion in Massive Open Online Courses." Association for Computing Machinery (ACM). https://doi.org/10.1145/3027385.3027416
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Forecasting analysis from the same HarvardX field experiment: plan contents "could predict which students were least likely to succeed", and time-focused plans specifically marked students unlikely to complete. No effect size or test statistic is printed, so no magnitude is coded.
 

@@ -15,12 +15,14 @@ sources:
     author: Graesser, A. C.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The best semantic matching results for comparing student contributions with expectations and misconceptions came from combining latent semantic analysis, frequency-weighted word overlap, and regular expressions, while syntactic computations did not prove useful. [→ Graesser 2016](#graesser-2016)
@@ -31,7 +33,7 @@ sources:
 
 Graesser, A. C. (2016). Conversations with AutoTutor Help Students Learn. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0086-4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article reports the authors' multi-year evaluation of semantic matchers for AutoTutor, finding the LSA plus word overlap plus regular expressions combination best, with LSA plus regular expressions showing "high reliability scores" against human experts. Syntactic computations were not useful because student contributions are often telegraphic and ungrammatical.
 

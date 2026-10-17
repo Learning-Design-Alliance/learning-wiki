@@ -15,12 +15,14 @@ sources:
     author: Mohamed A. Ahmed, Khaled A. El-Beh, Talal A. Mohammed, Dina F. Mansour, Mohammed Y. Ezz-Eldine
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # ADHD children show significantly prolonged ABR wave III, IV, V and interpeak I-III, III-V, I-V latencies compared with controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Mean ABR absolute latencies of waves III (P = 0.025), IV (P = 0.018), V (P = 0.006) and interpeak intervals I-III and I-V (P = 0.001) and III-V (P = 0.035) were significantly delayed in ADHD patients versus controls. [→ Mohamed A. Ahmed 2014](#mohamed-a-ahmed-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mohamed A. Ahmed, Khaled A. El-Beh, Talal A. Mohammed, Dina F. Mansour, Mohammed Y. Ezz-Eldine. (2014). Learning Disabilities in Different Types of Attention Deficit Hyperactivity Disorders and its Relation to Cortical and Brainstem Function. J Neurol Res. 2014;4(1):22-30. https://doi.org/10.14740/jnr268w
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Click ABR at 90 dB recorded in both ears of 40 ADHD patients and 20 controls; right/left did not differ, so both-ear means were compared. Wave I and II latencies did not differ significantly (P = 0.116, P = 0.644).
 

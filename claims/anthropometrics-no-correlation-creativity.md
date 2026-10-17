@@ -15,12 +15,14 @@ sources:
     author: "Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` No correlations were found between age, anthropometric variables, body composition or hand grip strength and the cognitive (creativity) variables. [→ Romance 2023](#romance-2023)
@@ -31,7 +33,7 @@ sources:
 
 Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C., & Dias, G. (2023). The influence of physical activity on the creativity of 10 and 11-year-old school children. Thinking Skills and Creativity. https://doi.org/10.1016/j.tsc.2023.101295
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Null bivariate correlation results (Table 2) of the cross-sectional study. The article separately notes hand grip strength was significantly and negatively related to size, weight and % fat mass, but not to any component of creative thinking; no effect sizes are printed for the creativity nulls.
 

@@ -15,12 +15,14 @@ sources:
     author: "Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` For collaboration skills, the difference between the content-information-only and content-scaffolds subgroups was not statistically significant. [→ Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer 2016](#freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016)
@@ -31,7 +33,7 @@ sources:
 
 Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 For collaboration skills, no mean effect could be estimated for the no-support subgroup (k = 1); the information-only (d = 1.13) and content-scaffolds (d = 0.70) subgroups did not differ significantly.
 

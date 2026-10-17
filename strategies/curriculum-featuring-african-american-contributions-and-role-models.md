@@ -17,7 +17,7 @@ sources:
 # Feature African American contributions and successful role models prominently in the school curriculum to support motivation and buffer stereotype effects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In its closing recommendations the article proposes that "Schools in which the manifold contributions of African Americans are a prominent part of the curriculum and that feature successful African American role models are likely to lead both to enhanced academic motivation among Black students while simultaneously creating an environment that minimizes the potential negative effects of race stereotypes." The strategy pairs curricular representation of African American contributions with visible successful role models as a school-level approach to motivation and stereotype buffering.

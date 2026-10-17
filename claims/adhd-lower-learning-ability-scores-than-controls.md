@@ -15,12 +15,14 @@ sources:
     author: Mohamed A. Ahmed, Khaled A. El-Beh, Talal A. Mohammed, Dina F. Mansour, Mohammed Y. Ezz-Eldine
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with ADHD show significantly lower learning ability scores than control children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ADHD patients scored significantly lower on the modified Myklebust learning disability scale than controls (P < 0.000). [→ Mohamed A. Ahmed 2014](#mohamed-a-ahmed-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mohamed A. Ahmed, Khaled A. El-Beh, Talal A. Mohammed, Dina F. Mansour, Mohammed Y. Ezz-Eldine. (2014). Learning Disabilities in Different Types of Attention Deficit Hyperactivity Disorders and its Relation to Cortical and Brainstem Function. J Neurol Res. 2014;4(1):22-30. https://doi.org/10.14740/jnr268w
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Case-control comparison of 40 ADHD children (mean age 7.68 ± 1.64 years) versus 20 normal controls using the modified Myklebust learning disability scale (cut point 1.98). Patients scored "2.81" (SD 0.51) versus control "3.52" (SD 0.39), P < 0.000.
 

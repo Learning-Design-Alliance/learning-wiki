@@ -15,12 +15,14 @@ sources:
     author: "Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M."
     q: 3
     i: 3
+    kind: associational
+    rigour: "?"
 ---
 
 # Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r?` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` ADHD children scored higher on the Creative Strengths measures, including movement or action, emotional expressiveness, storytelling articulateness, unusual visualization, humor and fantasy, with a large partial η² effect size. [→ Gonzalez-Carpio 2017](#gonzalez-carpio-2017)
@@ -31,7 +33,7 @@ sources:
 
 Gonzalez-Carpio, G., Serrano, J. P., & Nieto, M. (2017). Creativity in Children with Attention Déficit Hyperactivity Disorder (ADHD). Psychology, 8, 319-334. https://doi.org/10.4236/psych.2017.83019
 
-`q3 · i3`
+`q3 · i3` · `associational · r?`
 
 One-factor ANOVA on the sum of the thirteen TTCT Creative Strengths in the 34-versus-34 comparison; the ADHD group's mean was "14.06 ± 4.58" versus 8.82 ± 4.34 for controls, F = 23.424, p = 0.000, partial η² = 0.282 (large).
 

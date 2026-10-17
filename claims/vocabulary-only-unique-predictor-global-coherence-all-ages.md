@@ -15,12 +15,14 @@ sources:
     author: "Currie, N. K., & Cain, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For each age group, only vocabulary significantly predicted unique variance in global coherence inference making when memory measures were also in the model. [→ Currie 2015](#currie-2015)
@@ -31,7 +33,7 @@ sources:
 
 Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of vocabulary and working memory. Journal of Experimental Child Psychology, 137, 57–75. https://doi.org/10.1016/j.jecp.2015.03.005
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regressions on global coherence inference scores showed that although simple span (6- and 10-year-olds) or complex span (8-year-olds) explained additional variance, "only vocabulary signiﬁcantly predicted unique variance" in each age group.
 

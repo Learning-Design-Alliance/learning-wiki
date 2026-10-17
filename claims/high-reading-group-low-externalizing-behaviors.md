@@ -15,12 +15,14 @@ sources:
     author: Kaprea F Johnson
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Most students in the high reading comprehension group fall in the low externalizing behavior groups, most strongly for peer problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Cross-tabulation showed 76.3% of the high reading comprehension group had low peer problems, 65.8% low conduct problems, and 57.9% low hyperactivity. [→ Kaprea F Johnson 2013](#kaprea-f-johnson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kaprea F Johnson. (2013). The Cumulative Effect of Hyperactivity and Peer Relationships on Reading Comprehension. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v2i1.245
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Cross-tabulation of students grouped low/high on each SDQ subscale against high/low reading comprehension. "More students were in the low peer problem group and high reading comprehension group than in any other externalizing behavior group."
 

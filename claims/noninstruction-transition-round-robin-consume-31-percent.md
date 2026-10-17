@@ -15,12 +15,14 @@ sources:
     author: Dolores Durkin
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Noninstruction, transition, and listening to oral reading consumed almost 31 percent of fourth-grade teachers' reading-period time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Three categories not concerned with instruction—Noninstruction, Transition, and Listens: to oral reading—combined consumed almost 31 percent of observed fourth-grade teachers' time. [→ Dolores Durkin 1978](#dolores-durkin-1978)
@@ -31,7 +33,7 @@ sources:
 
 Dolores Durkin. (1978). What Classroom Observations Reveal About Reading Comprehension Instruction. Technical Report No. 106, Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://doi.org/10.1598/rrq.14.4.2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Time-allocation analysis of the 24 fourth-grade classrooms. The article reports the three categories as "Noninstruction," "Transition," and "Listens: to oral reading," with Noninstruction at 10.72 percent (largely correcting papers at desk) and round-robin oral reading at 9.76 percent.
 
