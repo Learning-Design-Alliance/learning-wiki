@@ -1,0 +1,44 @@
+---
+type: claim
+title: Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder
+description: Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder
+id: letter-fluency-decline-clinical-red-flag
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: weak
+sources:
+  - id: safa-a-elgamal-2011
+    resource: "https://doi.org/10.5770/cgj.v14i3.17"
+    title: "Safa A. Elgamal, MBBCh, PhD, Eric A. Roy, PhD, Michael T. Sharratt, PhD. (2011). Age and Verbal Fluency: The Mediating Effect of Speed of Processing. Canadian Geriatrics Journal, Volume 14, Issue 3. https://doi.org/10.5770/cgj.v14i3.17"
+    author: Safa A. Elgamal, MBBCh, PhD, Eric A. Roy, PhD, Michael T. Sharratt, PhD
+    q: 1
+    i: "?"
+---
+
+# Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
+
+## Subclaims
+`q1 i?` The article states that performance on letter fluency should not be adversely affected by age, and that significant decline in this domain should prompt further evaluation to exclude neurological or mental disorder. [→ Safa A. Elgamal 2011](#safa-a-elgamal-2011)
+
+## Evidence
+
+### Safa A. Elgamal 2011
+
+Safa A. Elgamal, MBBCh, PhD, Eric A. Roy, PhD, Michael T. Sharratt, PhD. (2011). Age and Verbal Fluency: The Mediating Effect of Speed of Processing. Canadian Geriatrics Journal, Volume 14, Issue 3. https://doi.org/10.5770/cgj.v14i3.17
+
+`q1 · i?`
+
+Authors' clinical interpretation offered in the discussion, grounded in this study's finding that letter fluency showed no age-related decline and even improved after speed adjustment. This is an interpretive recommendation rather than a tested result; the article offers no data on patients with neurological or mental disorders.
+
+> "Performance on letter fluency should not be adversely affected by age. If this domain declines significantly, further evaluation to exclude neurological or mental disorder should be initiated."
+
+## Discussion
+
+
+## Related Claims
+-

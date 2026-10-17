@@ -21,13 +21,13 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## The state of the evidence
 
-The wiki holds **5,058 distinct studies** behind 17,591 claims. What they add up to (the [evidence report](evidence.md) has the detail):
+The wiki holds **5,205 distinct studies** behind 18,463 claims. What they add up to (the [evidence report](evidence.md) has the detail):
 
-- **Few studies can show a cause.** 26% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 61% are quasi-experiments, observational studies or narrative reviews, and 14% are case studies, opinion or theory.
-- **Few print an effect size.** 1,013 of 5,058 studies (20%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Few studies can show a cause.** 27% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 60% are quasi-experiments, observational studies or narrative reviews, and 13% are case studies, opinion or theory.
+- **Few print an effect size.** 1,073 of 5,205 studies (21%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 488 studies are rated `r3`, done well for their kind; 317 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 97% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
-- **Not all research reaches design.** 63% of studies, and 36% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
+- **Not all research reaches design.** 61% of studies, and 34% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 219 pages written in the conditional format, 103 have research testing their central relationship, at least in part, and 116 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 7% strong, 47% moderate and 46% weak, and 53% supporting, 43% conditional and 4% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
@@ -53,7 +53,7 @@ Designs for a particular setting, course, population or product: what a design u
 ### [Products & Programmes](products/index.md) (1665)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-### [Strategies](strategies/index.md) (5872)
+### [Strategies](strategies/index.md) (5940)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)
@@ -71,7 +71,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (74)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (17591)
+### [Claims](claims/index.md) (18463)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

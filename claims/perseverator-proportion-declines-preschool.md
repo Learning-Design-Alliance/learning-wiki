@@ -1,0 +1,44 @@
+---
+type: claim
+title: "The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3"
+description: "The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3"
+id: perseverator-proportion-declines-preschool
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: chevalier-n-2012
+    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/"
+    title: "Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A. (2012). Underpinnings of the Costs of Flexibility in Preschool Children: The Roles of Inhibition and Working Memory. Developmental Neuropsychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/"
+    author: Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A.
+    q: 3
+    i: "?"
+---
+
+# The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` Perseveration on a single task fell from 38% of children at age 3;9 to 18% at 4;6 and 8% at 5;3, with significant McNemar tests between adjacent ages. [→ Chevalier N. 2012](#chevalier-n-2012)
+
+## Evidence
+
+### Chevalier N. 2012
+
+Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A. (2012). Underpinnings of the Costs of Flexibility in Preschool Children: The Roles of Inhibition and Working Memory. Developmental Neuropsychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/
+
+`q3 · i?`
+
+Descriptive comparison of perseverator frequencies across the three time points showed declines from 38% to 18% to 8%, with McNemar’s χ2(1) = 49.84 and 115.56, both p < .001, confirming "the proportion of perseverators differed between age 3;9 (38%) and age 4;6 (18%)" and between 4;6 and 5;3.
+
+> "Consistent with previous studies (e.g., Zelazo et al., 2003), the proportion of perseverators differed between age 3;9 (38%) and age 4;6 (18%), McNemar’s χ2(1) = 49.84, p < .001, and between age 4;6 and age 5;3 (8%), McNemar’s χ2(1) = 115.56, p < .001."
+
+## Discussion
+
+
+## Related Claims
+-

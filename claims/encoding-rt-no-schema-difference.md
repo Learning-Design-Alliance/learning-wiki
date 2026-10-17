@@ -1,0 +1,44 @@
+---
+type: claim
+title: Encoding reaction times do not differ between schema-related and schema-unrelated trials
+description: Encoding reaction times do not differ between schema-related and schema-unrelated trials
+id: encoding-rt-no-schema-difference
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: weak
+sources:
+  - id: van-kesteren-2014
+    resource: "https://doi.org/10.1162/jocn_a_00630"
+    title: "van Kesteren, M. T. R., Rijpkema, M., Ruiter, D. J., Morris, R. G. M., & Fernández, G. (2014). Building on Prior Knowledge: Schema-dependent Encoding Processes Relate to Academic Performance. Journal of Cognitive Neuroscience, 26(10), 2250–2261. https://doi.org/10.1162/jocn_a_00630"
+    author: "van Kesteren, M. T. R., Rijpkema, M., Ruiter, D. J., Morris, R. G. M., & Fernández, G."
+    q: 3
+    i: "?"
+---
+
+# Encoding reaction times do not differ between schema-related and schema-unrelated trials
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` Reaction times during encoding were not significantly different for schema-related versus schema-unrelated trials, suggesting equal attentional processing. [→ van Kesteren 2014](#van-kesteren-2014)
+
+## Evidence
+
+### van Kesteren 2014
+
+van Kesteren, M. T. R., Rijpkema, M., Ruiter, D. J., Morris, R. G. M., & Fernández, G. (2014). Building on Prior Knowledge: Schema-dependent Encoding Processes Relate to Academic Performance. Journal of Cognitive Neuroscience, 26(10), 2250–2261. https://doi.org/10.1162/jocn_a_00630
+
+`q3 · i?`
+
+Reaction-time analysis during the encoding session in the same 31 scanned students. The article reports "not significantly different" RTs (t(30) = .42, ns; schema-related = 0.99 sec, schema-unrelated = 1.01 sec); no effect size is printed, so this null is reported as a non-significant test only.
+
+> "RTs during encoding were not significantly different for schema-related versus schema-unrelated trials (t(30) = .42, ns,s c h e m a - r e l a t e d= 0.99 sec, schema-unrelated = 1.01 sec)"
+
+## Discussion
+
+
+## Related Claims
+-

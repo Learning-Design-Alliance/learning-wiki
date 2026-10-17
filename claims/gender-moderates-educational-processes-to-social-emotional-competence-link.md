@@ -1,0 +1,57 @@
+---
+type: claim
+title: "Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys"
+description: "Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys"
+id: gender-moderates-educational-processes-to-social-emotional-competence-link
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: li-s-2023
+    title: Li S 2023
+    q: 3
+    i: "?"
+  - id: li-s-2023-2
+    title: Li S 2023 (2)
+    q: 3
+    i: "?"
+---
+
+# Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` Gender showed a positive and significant moderation effect on the path from educational processes to social–emotional competence in both moderated mediation models. [→ Li S 2023](#li-s-2023)
+`q3 i?` Simple slope tests showed the educational processes–competence relationship was stronger for girls (βsimple = 0.54) than for boys (βsimple = 0.18). [→ Li S 2023 (2)](#li-s-2023-2)
+
+## Evidence
+
+### Li S 2023
+
+Li S, Tang Y and Zheng Y (2023) How the home learning environment contributes to children's social–emotional competence: A moderated mediation model. Front. Psychol. 14:1065978. https://doi.org/10.3389/fpsyg.2023.1065978
+
+`q3 · i?`
+
+PROCESS Model 59 moderated mediation analysis on the same 443-child sample, controlling age and number of children. The article reports "a positive and significant moderation effect of gender between the educational process and children's social–emotional"; Model B showed a similar interaction (β = 0.51, p < 0.001).
+
+> "there was a positive and significant moderation effect of gender between the educational process and children's social–emotional ( β = 0.44, p < 0.001)"
+
+### Li S 2023 (2)
+
+Li S, Tang Y and Zheng Y (2023) How the home learning environment contributes to children's social–emotional competence: A moderated mediation model. Front. Psychol. 14:1065978. https://doi.org/10.3389/fpsyg.2023.1065978
+
+`q3 · i?`
+
+Simple slope tests probing the gender interaction. The association between educational processes and competence was "significant for girls" and "considerably weaker" for boys; the article prints the boys' CI as [0.14, 0.12], an apparent typographical inconsistency reported as printed.
+
+> "the relationship between the educational processes and social–emotional competence was significant for girls ( βsimple = 0.54, 95%CI = [0.35, 0.74], p < 0.001). However, for boys, this relationship was considerably weaker (βsimple = 0.18, 95%CI = [0.14, 0.12], p < 0.001)."
+
+## Discussion
+
+
+## Related Claims
+-

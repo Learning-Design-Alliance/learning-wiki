@@ -1,0 +1,44 @@
+---
+type: claim
+title: Bilingual children show faster trail-making B performance, while Indian bilinguals are faster on Trails A and monolinguals score higher on receptive vocabulary
+description: Bilingual children show faster trail-making B performance, while Indian bilinguals are faster on Trails A and monolinguals score higher on receptive vocabulary
+id: background-measures-vocabulary-and-trail-making-group-differences
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: bialystok-ellen-2009
+    resource: "https://doi.org/10.1016/j.cognition.2009.06.014"
+    title: "Bialystok Ellen, Viswanathan Mythili. (2009). Components of Executive Control with Advantages for Bilingual Children in Two Cultures. Cognition. https://doi.org/10.1016/j.cognition.2009.06.014"
+    author: Bialystok Ellen, Viswanathan Mythili
+    q: 3
+    i: "?"
+---
+
+# Bilingual children show faster trail-making B performance, while Indian bilinguals are faster on Trails A and monolinguals score higher on receptive vocabulary
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` Monolinguals scored higher on the PPVT; Indian bilinguals were faster on Trails A; both bilingual groups were faster than monolinguals on Trails B; memory measures showed no group differences. [→ Bialystok Ellen 2009](#bialystok-ellen-2009)
+
+## Evidence
+
+### Bialystok Ellen 2009
+
+Bialystok Ellen, Viswanathan Mythili. (2009). Components of Executive Control with Advantages for Bilingual Children in Two Cultures. Cognition. https://doi.org/10.1016/j.cognition.2009.06.014
+
+`q3 · i?`
+
+Background battery (PPVT, animal span, sequencing span, Corsi blocks, trail-making) in ninety 8-year-olds. For trails, "in Trails A, the Indian bilinguals were faster than the other groups, F (2, 87) = 13.25, p < .0001, but in Trails B, the two bilingual groups were faster than the monolinguals, F (2, 87) = 15.79, p < .0001."
+
+> "monolingual children obtained higher scores on the PPVT, F (2, 84) = 41.37, p < .0001, with no difference between the two bilingual groups."
+
+## Discussion
+
+
+## Related Claims
+-

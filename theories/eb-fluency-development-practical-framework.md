@@ -15,7 +15,7 @@ sources:
 # A practical framework for emergent bilinguals' reading fluency development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (5 review, 1 causal), `q2`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 causal, 1 review), `q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The paper distills the eleven reviewed studies and the classical Kuhn studies into a sequenced framework for EB fluency instruction: "Begin with accessible, meaningful texts; provide teacher or adult fluent modeling; provide scaffolded practice (e.g., modeling and feedback); have students reread the same text in supported formats; give immediate corrective and motivational feedback". It then connects fluency work to vocabulary, comprehension, and where appropriate bilingual or primary-language support, and closes with choosing appropriately challenging grade-level texts. The framework positions fluency as one strand of broader literacy instruction rather than a standalone skill.

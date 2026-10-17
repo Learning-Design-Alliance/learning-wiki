@@ -1,0 +1,44 @@
+---
+type: claim
+title: Masked word recognition uniquely predicts silent reading fluency via the Find the Picture task
+description: Masked word recognition uniquely predicts silent reading fluency via the Find the Picture task
+id: masked-word-recognition-predicts-silent-fluency
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: roembke-tanja-c-2019
+    resource: "https://doi.org/10.1037/edu0000279"
+    title: "Roembke Tanja C., Hazeltine Eliot, Reed Deborah K., McMurray Bob. (2019). Automaticity of Word Recognition is a Unique Predictor of Reading Fluency in Middle-School Students. Journal of Educational Psychology. https://doi.org/10.1037/edu0000279"
+    author: Roembke Tanja C., Hazeltine Eliot, Reed Deborah K., McMurray Bob
+    q: 3
+    i: "?"
+---
+
+# Masked word recognition uniquely predicts silent reading fluency via the Find the Picture task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` The masked version of Find the Picture significantly predicted silent fluency (TOSCRF) over and above unmasked accuracy. [→ Roembke Tanja C. 2019](#roembke-tanja-c-2019)
+
+## Evidence
+
+### Roembke Tanja C. 2019
+
+Roembke Tanja C., Hazeltine Eliot, Reed Deborah K., McMurray Bob. (2019). Automaticity of Word Recognition is a Unique Predictor of Reading Fluency in Middle-School Students. Journal of Educational Psychology. https://doi.org/10.1037/edu0000279
+
+`q3 · i?`
+
+Hierarchical regression on silent fluency (TOSCRF) in the same 56-student sample. The article states "silent fluency was significantly predicted by the masked version of Find the Picture (ΔR2 = 0.069)" after vocabulary and unmasked accuracy were entered first.
+
+> "Most importantly, over and above unmasked tasks, silent fluency was significantly predicted by the masked version of Find the Picture (ΔR2 = 0.069)."
+
+## Discussion
+
+
+## Related Claims
+-

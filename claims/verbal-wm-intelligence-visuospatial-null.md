@@ -1,0 +1,44 @@
+---
+type: claim
+title: Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children
+description: Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children
+id: verbal-wm-intelligence-visuospatial-null
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: ger-ebru-2023
+    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
+    title: "Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
+    author: Ger Ebru, Roebers Claudia M.
+    q: 3
+    i: 1
+---
+
+# Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+
+## Subclaims
+`q3 i1` Intelligence was positively correlated with verbal WM (r = 0.16, p = .049) but not with visuospatial WM, despite the intelligence measure being nonverbal and visuospatial in nature. [→ Ger Ebru 2023](#ger-ebru-2023)
+
+## Evidence
+
+### Ger Ebru 2023
+
+Ger Ebru, Roebers Claudia M. (2023). The Relationship between Executive Functions, Working Memory, and Intelligence in Kindergarten Children. Journal of Intelligence. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/
+
+`q3 · i1`
+
+Correlational analysis in the N = 147 sample: verbal WM (Dwarf) and visuospatial WM (Mole) correlated with each other, but the RIAS intelligence score correlated "only with verbal WM (r = 0.16, p = .049)". The verbal WM–intelligence correlation was no longer significant after controlling for inhibition accuracy (ρ = 0.13, p = .136).
+
+> "Finally, verbal WM and visuospatial WM were positively correlated (r = 0.20, p = .015), while intelligence was positively correlated only with verbal WM (r = 0.16, p = .049)"
+
+## Discussion
+
+
+## Related Claims
+-

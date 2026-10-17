@@ -1,0 +1,44 @@
+---
+type: claim
+title: Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence
+description: Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence
+id: hippocampal-representation-stability-increases-development
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: qin-shaozheng-2014
+    resource: "https://doi.org/10.1038/nn.3788"
+    title: "Qin Shaozheng, Cho Soohyun, Chen Tianwen, Rosenberg-Lee Miriam, Geary David C., Menon Vinod. (2014). Hippocampal-neocortical functional reorganization underlies children's cognitive development. Nature Neuroscience. https://doi.org/10.1038/nn.3788"
+    author: Qin Shaozheng, Cho Soohyun, Chen Tianwen, Rosenberg-Lee Miriam, Geary David C., Menon Vinod
+    q: 3
+    i: "?"
+---
+
+# Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` Hippocampal inter-problem multivoxel pattern stability was higher in adolescents and adults than in children, though children at Time-1 and Time-2 did not differ. [→ Qin Shaozheng 2014](#qin-shaozheng-2014)
+
+## Evidence
+
+### Qin Shaozheng 2014
+
+Qin Shaozheng, Cho Soohyun, Chen Tianwen, Rosenberg-Lee Miriam, Geary David C., Menon Vinod. (2014). Hippocampal-neocortical functional reorganization underlies children's cognitive development. Nature Neuroscience. https://doi.org/10.1038/nn.3788
+
+`q3 · i?`
+
+Event-related fMRI multivoxel pattern stability analysis in a subgroup of 20 children plus 20 adolescents and 20 adults; follow-ups showed "higher inter-problem stability in the left and right hippocampus in adolescents and adults compared to children (Scheffe's Ps<0.05)". No effect size is printed.
+
+> "Additional analyses using anatomically-defined hippocampal ROIs again revealed significant developmental changes in inter-problem representation stability in the left and right hippocampus in children (Time-1 or Time-2), adolescents, and adults (F(2,57)>3.35, Ps<0.04)"
+
+## Discussion
+
+
+## Related Claims
+-

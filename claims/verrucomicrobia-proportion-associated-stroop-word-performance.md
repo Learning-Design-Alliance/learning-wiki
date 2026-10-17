@@ -1,0 +1,44 @@
+---
+type: claim
+title: Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension
+description: Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension
+id: verrucomicrobia-proportion-associated-stroop-word-performance
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: weak
+sources:
+  - id: anderson-jason-r-2017
+    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/"
+    title: "Anderson Jason R., Carroll Ian, Azcarate-Peril M. Andrea, Rochette Amber D., Heinberg Leslie J., Peat Christine, Steffen Kristine, Manderino Lisa M., Mitchell James, Gunstad John. (2017). A preliminary examination of gut microbiota, sleep, and cognitive flexibility in healthy older adults. Sleep Medicine, 38, 104-107. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/"
+    author: Anderson Jason R., Carroll Ian, Azcarate-Peril M. Andrea, Rochette Amber D., Heinberg Leslie J., Peat Christine, Steffen Kristine, Manderino Lisa M., Mitchell James, Gunstad John
+    q: 2
+    i: "?"
+---
+
+# Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` After controlling for carbohydrate intake and hypertension, proportion of Verrucomicrobia showed a positive association with Stroop Word performance (r=.36, p=.034) and trended toward a positive association with Stroop Color performance (rs=.31, p=.071). [→ Anderson Jason R. 2017](#anderson-jason-r-2017)
+
+## Evidence
+
+### Anderson Jason R. 2017
+
+Anderson Jason R., Carroll Ian, Azcarate-Peril M. Andrea, Rochette Amber D., Heinberg Leslie J., Peat Christine, Steffen Kristine, Manderino Lisa M., Mitchell James, Gunstad John. (2017). A preliminary examination of gut microbiota, sleep, and cognitive flexibility in healthy older adults. Sleep Medicine, 38, 104-107. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/
+
+`q2 · i?`
+
+Partial correlation analysis in 37 healthy older adults controlling for carbohydrate intake and hypertension. The article reports Verrucomicrobia "showed a positive association with Stroop Word performance (r=.36, p=.034)" and trended toward a positive association with Stroop Color.
+
+> "After controlling for carbohydrate intake and hypertension, proportion of Verrucomicrobia showed a positive association with Stroop Word performance (r=.36, p=.034) and trended toward a positive association with Stroop Color performance (rs= .31, p=.071)."
+
+## Discussion
+
+
+## Related Claims
+-

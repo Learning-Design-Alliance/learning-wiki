@@ -1,0 +1,42 @@
+---
+type: claim
+title: Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research
+description: Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research
+id: wm-np-predict-adult-math
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: skagerlund-k-2019
+    title: Skagerlund K 2019
+    q: 3
+    i: "?"
+---
+
+# Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` The study replicated established links between WM, symbolic number processing, and both arithmetic and numeracy in adults. [→ Skagerlund K 2019](#skagerlund-k-2019)
+
+## Evidence
+
+### Skagerlund K 2019
+
+Skagerlund K, Östergren R, Västfjäll D, Träff U (2019) How does mathematics anxiety impair mathematical abilities? Investigating the link between math anxiety, working memory, and number processing. PLoS ONE 14(1): e0211283. https://doi.org/10.1371/journal.pone.0211283
+
+`q3 · i?`
+
+Authors' summary of the fitted SEM results (N = 170 adults): WM and symbolic number processing (one- and two-digit comparison) both predicted arithmetic and numeracy. Descriptive correlations in Table 1 include arithmetic–2-DC r = -.48 and arithmetic–WM subtests r = .40–.45.
+
+> "As expected, we replicated previous research establishing strong links between WM, numeracy and arithmetic ability (e.g., [20]). Similarly, we replicate findings that have established links between symbolic number processing and arithmetic and numeracy in adults [41]."
+
+## Discussion
+
+
+## Related Claims
+-

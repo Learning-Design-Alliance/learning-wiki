@@ -1,0 +1,43 @@
+---
+type: claim
+title: Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia
+description: Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia
+id: cues-eliminate-set-size-controls-not-awd
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: moores-2011
+    title: Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology.
+    author: Moores, E., Cassim, R. and Talcott, J.B.
+    q: 2
+    i: 3
+---
+
+# Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+
+## Subclaims
+`q2 i3` In post-cued conditions controls showed no set size effect while AwD showed a significant set size effect. [→ Moores 2011](#moores-2011)
+
+## Evidence
+
+### Moores 2011
+
+Moores, E., Cassim, R. and Talcott, J.B. (2011). Adults with dyslexia exhibit large effects of crowding, increased dependence on cues, and detrimental effects of distractors in visual search tasks. Frontiers in Psychology. [doi:10.1016/j.neuropsychologia.2011.10.005](https://doi.org/10.1016/j.neuropsychologia.2011.10.005)
+
+`q2 · i3`
+
+Two-factor ANOVAs in post-cued conditions. Controls showed no set size effect (F1,15=1.04) whereas AwD showed a significant set size effect (F1,14=24.43, p<.001, η2p=.64), with difficulty narrowly missing significance (p=0.055).
+
+> "In post-cued conditions, the controls showed an effect of difficulty (F 1,15 =5.60, p<.05, η2p =.27), but no effect of set size (F 1,15 =1.04) or interaction (F<1). In contrast, the AwD showed a significant effect of set size (F 1,14 =24.43, p<.001, η2p =.64)."
+
+## Discussion
+
+
+## Related Claims
+-

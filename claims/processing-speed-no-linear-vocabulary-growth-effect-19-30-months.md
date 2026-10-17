@@ -1,0 +1,44 @@
+---
+type: claim
+title: Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months
+description: Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months
+id: processing-speed-no-linear-vocabulary-growth-effect-19-30-months
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: michelle-s-peter-2019
+    resource: "https://doi.org/10.1016/j.cogpsych.2019.101238"
+    title: "Michelle S. Peter, Samantha Durrant, Andrew Jessop, Amy Bidgood, Julian M. Pine, Caroline F. Rowland. (2019). Does speed of processing or vocabulary size predict later language growth in toddlers? Cognitive Psychology 115 (2019) 101238. https://doi.org/10.1016/j.cogpsych.2019.101238"
+    author: Michelle S. Peter, Samantha Durrant, Andrew Jessop, Amy Bidgood, Julian M. Pine, Caroline F. Rowland
+    q: 3
+    i: "?"
+---
+
+# Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` In growth curve analysis of vocabulary from 19 to 30 months, Mean RT at 19 months improved model fit for the intercept and quadratic terms but not the linear term. [→ Michelle S. Peter 2019](#michelle-s-peter-2019)
+
+## Evidence
+
+### Michelle S. Peter 2019
+
+Michelle S. Peter, Samantha Durrant, Andrew Jessop, Amy Bidgood, Julian M. Pine, Caroline F. Rowland. (2019). Does speed of processing or vocabulary size predict later language growth in toddlers? Cognitive Psychology 115 (2019) 101238. https://doi.org/10.1016/j.cogpsych.2019.101238
+
+`q3 · i?`
+
+Growth curve analysis of expressive vocabulary between 19 and 30 months with Mean RT at 19 months as predictor, using second-order orthogonal polynomials. The authors conclude that "children's speed of processing at 19months did not significantly influence their growth in vocabulary between 19 and 30months".
+
+> "No interaction, however, was observed between Mean RT and the linear term (β=0.02 [−0.161 0.21], SE=0.09, χ2(1)=0.40, p=.583)."
+
+## Discussion
+
+
+## Related Claims
+-

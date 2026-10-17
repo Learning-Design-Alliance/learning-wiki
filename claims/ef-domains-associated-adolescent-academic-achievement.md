@@ -1,0 +1,44 @@
+---
+type: claim
+title: Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not
+description: Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not
+id: ef-domains-associated-adolescent-academic-achievement
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: cancela-j-2019
+    resource: "https://www.jstage.jst.go.jp/article/jpts/31/7/31_17-478/_article"
+    title: "Cancela J, Burgo H, Sande E. (2019). Physical fitness and executive functions in adolescents: cross-sectional associations with academic achievement. J. Phys. Ther. Sci. 31: 556–562. https://www.jstage.jst.go.jp/article/jpts/31/7/31_17-478/_article"
+    author: Cancela J, Burgo H, Sande E.
+    q: 3
+    i: 2
+---
+
+# Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+
+## Subclaims
+`q3 i2` Partial correlations adjusted for gender, age and school show inhibition/interference (r=0.25), working memory (r=0.10; r=0.19) and processing speed (r=−0.180) associated with academic achievement; cognitive flexibility (r=−0.17) and social skills (r=0.13) show no significant correlation. [→ Cancela J 2019](#cancela-j-2019)
+
+## Evidence
+
+### Cancela J 2019
+
+Cancela J, Burgo H, Sande E. (2019). Physical fitness and executive functions in adolescents: cross-sectional associations with academic achievement. J. Phys. Ther. Sci. 31: 556–562. https://www.jstage.jst.go.jp/article/jpts/31/7/31_17-478/_article
+
+`q3 · i2`
+
+Partial correlation analysis in the same 713-adolescent cross-sectional sample, relating five executive function measures (Stroop, Wechsler memory, Symbol Digit, Trail Making, MESSY) to academic achievement. The study reports "Inhibition/interference (r=0.25, p<0.001)" as the strongest cognitive correlate.
+
+> "The partial correlations between EFs and AA, adjusting by gender, age and level school show association with students’ academic achievement in Inhibition/interference (r=0.25, p<0.001), working memory (r=0.10, p<0.05, r=0.19, p<0.05), and processing speed (r= −0.180, p<0.05)."
+
+## Discussion
+
+
+## Related Claims
+-

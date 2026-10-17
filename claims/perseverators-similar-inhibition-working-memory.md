@@ -1,0 +1,44 @@
+---
+type: claim
+title: Perseverators do not differ from non-perseverators in inhibition or working-memory performance at any age
+description: Perseverators do not differ from non-perseverators in inhibition or working-memory performance at any age
+id: perseverators-similar-inhibition-working-memory
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: chevalier-n-2012
+    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/"
+    title: "Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A. (2012). Underpinnings of the Costs of Flexibility in Preschool Children: The Roles of Inhibition and Working Memory. Developmental Neuropsychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/"
+    author: Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A.
+    q: 3
+    i: "?"
+---
+
+# Perseverators do not differ from non-perseverators in inhibition or working-memory performance at any age
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` Perseverator group did not interact with Go/No-Go or Nebraska Barnyard performance in mixing or local-cost models at any time point. [→ Chevalier N. 2012](#chevalier-n-2012)
+
+## Evidence
+
+### Chevalier N. 2012
+
+Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K. A. (2012). Underpinnings of the Costs of Flexibility in Preschool Children: The Roles of Inhibition and Working Memory. Developmental Neuropsychology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/
+
+`q3 · i?`
+
+In mixing-cost models, perseverator group × GNG and × NB interactions were non-significant at all ages (all ps > .058); local-cost models likewise showed no significant interactions (all ps > .084), so "the perseverator group interacted with neither GNG nor working memory performance at any age."
+
+> "Interestingly, the perseverator group interacted with neither GNG nor working memory performance at any age (all ps > .058)."
+
+## Discussion
+
+
+## Related Claims
+-

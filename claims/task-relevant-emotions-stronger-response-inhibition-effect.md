@@ -1,0 +1,42 @@
+---
+type: claim
+title: Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children
+description: Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children
+id: task-relevant-emotions-stronger-response-inhibition-effect
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: weak
+sources:
+  - id: wetzel-n-2014
+    title: Wetzel N 2014
+    q: 2
+    i: "?"
+---
+
+# Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` In a go/nogo task across ages 6-25, task-relevant emotions affect performance more strongly than task-irrelevant emotions, particularly in young children, and relevant positive emotions enhance performance compared to negative emotions. [→ Wetzel N 2014](#wetzel-n-2014)
+
+## Evidence
+
+### Wetzel N 2014
+
+Wetzel N (2014) Development of control of attention from different perspectives. Front. Psychol. 5:1000. https://doi.org/10.3389/fpsyg.2014.01000
+
+`q2 · i?`
+
+The editorial reports, citing Schel and Crone (2013), a go/nogo study with a large age range (6-25 years) showing linearly increasing response inhibition performance with age and enhanced performance with relevant positive emotions, especially in young children.
+
+> "Task-relevant emotions affect performance stronger than task-irrelevant emotions, particularly in young children. The lower effect of irrelevant emotions on response inhibition is supported by a free choice condition."
+
+## Discussion
+
+
+## Related Claims
+-

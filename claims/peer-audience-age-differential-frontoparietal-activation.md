@@ -1,0 +1,44 @@
+---
+type: claim
+title: "A peer audience differentially modulates fronto-parietal activation by age: increased in adolescents, decreased in adults"
+description: "A peer audience differentially modulates fronto-parietal activation by age: increased in adolescents, decreased in adults"
+id: peer-audience-age-differential-frontoparietal-activation
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: dumontheil-iroise-2016
+    resource: "https://doi.org/10.1016/j.neuropsychologia.2016.05.001"
+    title: "Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne. (2016). Audience effects on the neural correlates of relational reasoning in adolescence. Neuropsychologia. https://doi.org/10.1016/j.neuropsychologia.2016.05.001"
+    author: Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne
+    q: 3
+    i: "?"
+---
+
+# A peer audience differentially modulates fronto-parietal activation by age: increased in adolescents, decreased in adults
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` An Audience × Age group interaction was found in bilateral frontal, parietal, occipito-temporal and preSMA clusters; adolescents activated these regions more when observed, adults showed the reverse pattern. [→ Dumontheil Iroise 2016](#dumontheil-iroise-2016)
+
+## Evidence
+
+### Dumontheil Iroise 2016
+
+Dumontheil Iroise, Wolf Laura K., Blakemore Sarah-Jayne. (2016). Audience effects on the neural correlates of relational reasoning in adolescence. Neuropsychologia. https://doi.org/10.1016/j.neuropsychologia.2016.05.001
+
+`q3 · i?`
+
+Voxel-wise ANOVA within the functionally defined relational-integration network in the fMRI study found significant Audience × Age group interaction clusters; follow-up paired t-tests showed "adolescents activated these regions more when being observed by the Peer", while most adolescent effects survived Bonferroni correction and adult effects did not.
+
+> "Paired t-tests ran on mean parameter estimates from the nine Audience x Age group clusters showed a consistent pattern in all clusters: adolescents activated these regions more when being observed by the Peer relative to when Alone, while adults showed the reverse effect"
+
+## Discussion
+
+
+## Related Claims
+-

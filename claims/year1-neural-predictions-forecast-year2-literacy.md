@@ -1,0 +1,57 @@
+---
+type: claim
+title: Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later
+description: Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later
+id: year1-neural-predictions-forecast-year2-literacy
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-17
+evidence_strength: moderate
+sources:
+  - id: white-schwoch-t-2015
+    title: White-Schwoch T 2015
+    q: 3
+    i: 3
+  - id: white-schwoch-t-2015-2
+    title: White-Schwoch T 2015 (2)
+    q: 3
+    i: 3
+---
+
+# Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+
+## Subclaims
+`q3 i3` Year 1 consonants-in-noise model predictions predicted Year 2 phonological processing (r[32] = 0.543), a second phonological test (r[32] = 0.575), rapid naming (r[32] = -0.663), and sentence memory (r[32] = 0.458). [→ White-Schwoch T 2015](#white-schwoch-t-2015)
+`q3 i3` Year 1 predictions also forecast Year 2 sight word reading (r[32] = 0.476), spelling (r[32] = 0.415), and composite reading (r[32] = 0.425). [→ White-Schwoch T 2015 (2)](#white-schwoch-t-2015-2)
+
+## Evidence
+
+### White-Schwoch T 2015
+
+White-Schwoch T, Woodruff Carr K, Thompson EC, Anderson S, Nicol T, Bradlow AR, et al. (2015) Auditory Processing in Noise: A Preschool Biomarker for Literacy. PLoS Biol 13(7): e1002196. https://doi.org/10.1371/journal.pbio.1002196
+
+`q3 · i3`
+
+Longitudinal follow-up of 34 children (18 female) one year after neurophysiological assessment. Printed effect sizes include r = 0.575 (reported as r[32] = 0.575, p < .001) for the second phonological test, r = 0.543 for phonological processing, r = -0.663 for rapid naming, and r = 0.458 for sentence memory — all large correlations.
+
+> "Year 1 neurophysiological testing predicted future performance on the same test of phonological processing — including in children too young to take this test in Year 1 ( r[32] = 0.543, p = .001). These predictions generalized to future performance on a second test of phonological processing ( r[32] = 0.575, p < .001)"
+
+### White-Schwoch T 2015 (2)
+
+White-Schwoch T, Woodruff Carr K, Thompson EC, Anderson S, Nicol T, Bradlow AR, et al. (2015) Auditory Processing in Noise: A Preschool Biomarker for Literacy. PLoS Biol 13(7): e1002196. https://doi.org/10.1371/journal.pbio.1002196
+
+`q3 · i3`
+
+In the same 34-child longitudinal cohort, Year 1 neural model predictions also predicted Year 2 early-literacy achievement: sight word reading with printed effect size r = 0.476 (reported as r[32] = 0.476, p = .004), spelling (r[32] = 0.415), and a composite reading score (r[32] = 0.425).
+
+> "Neurophysiological model predictions at Year 1 predicted future performance on sight word reading ( r[32] = 0.476, p = .004), spelling (r[32] = 0.415, p = .015), and a composite reading score ( r[32] = 0.425, p = .012"
+
+## Discussion
+
+
+## Related Claims
+-
