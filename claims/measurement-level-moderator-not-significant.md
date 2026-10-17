@@ -15,12 +15,14 @@ sources:
     author: Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Effects on domain-specific knowledge were descriptively higher in studies measuring outcomes at the individual level than at the group level, but not significantly so. [→ Freydis Vogel 2016](#freydis-vogel-2016)
@@ -31,7 +33,7 @@ sources:
 
 Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Exploratory moderator analysis of the level of outcome measurement for domain-specific learning outcomes: individual-level studies showed d = 0.31 versus d = −0.02 for group-level studies; Q(df = 1) = 2.52, p = .11.
 

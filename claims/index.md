@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**19242 entries** · 0 stable · 19242 in review · 0 drafts
+**19241 entries** · 0 stable · 19241 in review · 0 drafts
 
 ---
 
@@ -9138,7 +9138,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](task-variety-enables-transfer-same-task-type.md) - Learning varied tasks of the same type enables transfer to unencountered tasks of that type
 * [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) - Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project
 * [Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL](cscl-scripts-large-effect-collaboration-skills.md) - Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL
-* [Learning with CSCL scripts yields a small positive effect on domain-specific knowledge compared to unstructured CSCL](cscl-scripts-small-effect-domain-knowledge.md) - Learning with CSCL scripts yields a small positive effect on domain-specific knowledge compared to unstructured CSCL
 * [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) - Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction
 * [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) - Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)
 * [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](multi-representational-learning-integration-failure.md) - Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations

@@ -1,7 +1,7 @@
 {
 "counts":{
-"claim":19242,
-"design":837,
+"claim":19241,
+"design":838,
 "element":1066,
 "learner-variable":74,
 "method":38,
@@ -9,7 +9,7 @@
 "principle":213,
 "process":18,
 "product":1716,
-"research-method":351,
+"research-method":354,
 "strategy":5998,
 "theory":1361
 },
@@ -38264,15 +38264,7 @@
 "type":"claim"
 },
 {
-"description":"Learning with CSCL scripts yields a small positive effect on domain-specific knowledge compared to unstructured CSCL",
-"evidence_strength":"moderate",
-"id":"cscl-scripts-small-effect-domain-knowledge",
-"path":"claims/cscl-scripts-small-effect-domain-knowledge.md",
-"status":"review",
-"title":"Learning with CSCL scripts yields a small positive effect on domain-specific knowledge compared to unstructured CSCL",
-"type":"claim"
-},
-{
+"aliases":["cscl-scripts-small-effect-domain-knowledge"],
 "description":"CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning",
 "evidence_strength":"moderate",
 "id":"cscl-scripts-small-positive-domain-learning-effect",
@@ -177735,6 +177727,14 @@
 "type":"design"
 },
 {
+"description":"The article applies the pedagogy of multiliteracies, in which literacy is treated as active meaning-making across multiple modes rather than sentence-bound rules of spelling and grammar.",
+"id":"multiliteracies-four-knowledge-processes-framework",
+"path":"designs/multiliteracies-four-knowledge-processes-framework.md",
+"status":"review",
+"title":"Multiliteracies pedagogy organized around four knowledge processes: experiencing, conceptualizing, analyzing, applying",
+"type":"design"
+},
+{
 "description":"A sequential, equal status mixed-method study of Black borrowers' experiences with student loans, conducted by The Education Trust with Jalil B.",
 "id":"national-black-student-loan-debt-study",
 "path":"designs/national-black-student-loan-debt-study.md",
@@ -206585,6 +206585,14 @@
 "type":"research-method"
 },
 {
+"description":"The article organizes its meta-analytic tests around a set of agent characteristics that \\\"may moderate their instructional effectiveness, including appearance, gender, nonverbal communication, motion, and voice.\\\" This five-branch taxonomy structures which agent design features were hypothesized (by ",
+"id":"agent-characteristic-moderator-taxonomy-appearance-gender-nonverbal-communication-motion-a",
+"path":"research-methods/agent-characteristic-moderator-taxonomy-appearance-gender-nonverbal-communication-motion-a.md",
+"status":"review",
+"title":"Agent-characteristic moderator taxonomy: appearance, gender, nonverbal communication, motion, and voice",
+"type":"research-method"
+},
+{
 "description":"AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical methodology for testing the internal and external validity of uniquely designed psychometric instruments.",
 "id":"amova-accumulative-manifold-validation-analysis",
 "path":"research-methods/amova-accumulative-manifold-validation-analysis.md",
@@ -206766,6 +206774,14 @@
 "path":"research-methods/cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in.md",
 "status":"review",
 "title":"Cognitive episodes: an eight-way taxonomy of functional problem-solving states grounded in Schoenfeld's Episode Theory",
+"type":"research-method"
+},
+{
+"description":"Coherence analysis (CA) is the paper's approach to analyzing learners' problem-solving processes in OELEs by \\\"combining information gleaned from sequences of student actions to produce measures of action coherence.\\\" CA assumes that when students encounter information that could improve their solutio",
+"id":"coherence-analysis-framework-and-its-six-activity-trace-measures",
+"path":"research-methods/coherence-analysis-framework-and-its-six-activity-trace-measures.md",
+"status":"review",
+"title":"Coherence analysis framework and its six activity-trace measures",
 "type":"research-method"
 },
 {
@@ -208053,6 +208069,14 @@
 "path":"research-methods/one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue.md",
 "status":"review",
 "title":"One-shot GPT-4o-mini codebook-based annotation of LLM math-tutor dialogue",
+"type":"research-method"
+},
+{
+"description":"The article argues that effect-of-instruction studies fail when instruction is merely given a methods label.",
+"id":"operationalization-and-description-of-instructional-treatments-in-effect-of-instruction-re",
+"path":"research-methods/operationalization-and-description-of-instructional-treatments-in-effect-of-instruction-re.md",
+"status":"review",
+"title":"Operationalization and description of instructional treatments in effect-of-instruction research",
 "type":"research-method"
 },
 {
@@ -272983,7 +273007,7 @@
 "cscl-scripts-large-effect-collaboration-skills":"cscl-scripts-large-effect-collaboration-skills",
 "cscl-scripts-medium-positive-collaboration-skills-effect":"cscl-scripts-medium-positive-collaboration-skills-effect",
 "cscl-scripts-non-significant-positive-motivation-effect":"cscl-scripts-non-significant-positive-motivation-effect",
-"cscl-scripts-small-effect-domain-knowledge":"cscl-scripts-small-effect-domain-knowledge",
+"cscl-scripts-small-effect-domain-knowledge":"cscl-scripts-small-positive-domain-learning-effect",
 "cscl-scripts-small-positive-domain-learning-effect":"cscl-scripts-small-positive-domain-learning-effect",
 "cscl-simulation-conceptual-change-cognitive-engagement":"cscl-simulation-conceptual-change-cognitive-engagement",
 "cse-mediates-anxiety-peu-lms":"cse-mediates-anxiety-peu-lms",
@@ -288863,6 +288887,7 @@
 "multi-step-reading-lesson-pattern":"multi-step-reading-lesson-pattern",
 "multicomponent-esl-reading-intervention-2day-cycle":"multicomponent-esl-reading-intervention-2day-cycle",
 "multilevel-professional-development-school-partnership":"multilevel-professional-development-school-partnership",
+"multiliteracies-four-knowledge-processes-framework":"multiliteracies-four-knowledge-processes-framework",
 "national-black-student-loan-debt-study":"national-black-student-loan-debt-study",
 "ncs-partner-high-school-team-structures":"ncs-partner-high-school-team-structures",
 "needs-sensing-informs-collaborative-design":"needs-sensing-informs-collaborative-design",
@@ -292715,6 +292740,7 @@
 "adaptive-g-ukt":"adaptive-g-ukt",
 "agent-based-educational-science-aes":"agent-based-educational-science-aes",
 "agent-based-simulation-methodology-for-decomposing-teacher-quality-gap-sources":"agent-based-simulation-methodology-for-decomposing-teacher-quality-gap-sources",
+"agent-characteristic-moderator-taxonomy-appearance-gender-nonverbal-communication-motion-a":"agent-characteristic-moderator-taxonomy-appearance-gender-nonverbal-communication-motion-a",
 "amova-accumulative-manifold-validation-analysis":"amova-accumulative-manifold-validation-analysis",
 "approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education":"approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education",
 "architecturally-enforced-novice-like-student-simulation":"architecturally-enforced-novice-like-student-simulation",
@@ -292738,6 +292764,7 @@
 "coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction":"coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction",
 "cognitive-diagnostic-profiling-cdp":"cognitive-diagnostic-profiling-cdp",
 "cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in":"cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in",
+"coherence-analysis-framework-and-its-six-activity-trace-measures":"coherence-analysis-framework-and-its-six-activity-trace-measures",
 "cohort-based-graduation-and-dropout-rate-calculation":"cohort-based-graduation-and-dropout-rate-calculation",
 "college-readiness-predictor-selection-using-decision-trees-random-forests-lasso-and-factor":"college-readiness-predictor-selection-using-decision-trees-random-forests-lasso-and-factor",
 "combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var":"combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var",
@@ -292909,6 +292936,7 @@
 "offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors":"offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors",
 "on-line-versus-off-line-methods-for-assessing-strategy-use":"on-line-versus-off-line-methods-for-assessing-strategy-use",
 "one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue":"one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue",
+"operationalization-and-description-of-instructional-treatments-in-effect-of-instruction-re":"operationalization-and-description-of-instructional-treatments-in-effect-of-instruction-re",
 "ordered-network-analysis-ona":"ordered-network-analysis-ona",
 "outcome-oriented-equity-framework-distinguishing-access-equity-from-impact-equity":"outcome-oriented-equity-framework-distinguishing-access-equity-from-impact-equity",
 "overview-of-reviews-framework-for-professional-educational-and-quality-assurance-behavior":"overview-of-reviews-framework-for-professional-educational-and-quality-assurance-behavior",

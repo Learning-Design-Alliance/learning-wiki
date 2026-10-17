@@ -44,7 +44,7 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 
 ## Related Claims
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
-- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation](personal-messages-largest-satisfaction-effect.md) — related
+- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](personal-messages-largest-satisfaction-effect.md) — related
 - [The number of research-recommended online instructional practices used predicted student satisfaction, rising from 43 percent net satisfaction with 0–2 practices to 74 percent with 6–8](recommended-practices-count-predict-satisfaction.md) — related
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — a narrower finding that bears on this claim

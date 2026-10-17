@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (16 for, 18 mixed, 2 against) · 42 studies (8 causal, 7 quant-synthesis, 7 theoretical, 6 review, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 5 of 42 report an effect size · 30 claims rest on one study
+> **Evidence** · 37 claims (17 for, 18 mixed, 2 against) · 43 studies (8 causal, 8 quant-synthesis, 7 theoretical, 6 review, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 6 of 43 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](../claims/five-rationales-peer-element-er.md) [~W]
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](../claims/collaborative-problem-solving-improves-critical-thinking-overall.md) [+M] — attached 2026-10-16 from Xu et al. (2023), which proposed "Design collaborative problem-solving for critical thinking around real problems, mixed courses, small groups, and teacher-supported scaffolds"; tests this page's relationship.
 - [Mixed courses show the largest effect among teaching types (ES = 1.34), and effects decline as group size increases beyond 2–3 members](../claims/mixed-courses-and-small-groups-strongest-cps-effects.md) [+M] — attached 2026-10-16 from Xu et al. (2023), which proposed "Design collaborative problem-solving for critical thinking around real problems, mixed courses, small groups, and teacher-supported scaffolds".
+- [Scripts scaffolding coordination alone or negotiation with information sharing show the largest domain-learning effects, while three-way combinations show smaller significant effects](../claims/specific-activity-combinations-domain-learning-moderator.md) [+M] — attached 2026-10-17 from Radkowitsch et al. (2020), which proposed "Design CSCL scripts to scaffold specific collaborative activities (negotiation, information sharing, coordination) rather than treating transactivity as a single undifferentiated target".
 
 ## Objective and learner-valued goal
 

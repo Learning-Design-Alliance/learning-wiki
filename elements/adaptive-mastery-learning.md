@@ -62,7 +62,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning](../claims/adaptivity-bottleneck-llm-path-planning.md) [~W]
 - [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
 - [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](../claims/mastery-information-needed-for-adaptivity.md) [+W]
-- [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
+- [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
 - [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](../claims/adaptive-learning-dominance-limits-student-agency.md) [-W]
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](../claims/ai-implemented-as-intervention-adaptive-systems-personalization.md) [~W]
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](../claims/stem-more-amenable-difficulty-scaling.md) [~W]

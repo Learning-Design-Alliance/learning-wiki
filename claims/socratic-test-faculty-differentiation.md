@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed
-description: Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed
+title: One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed
+description: One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed
 id: socratic-test-faculty-differentiation
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed
+# One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`

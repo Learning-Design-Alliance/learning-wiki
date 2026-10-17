@@ -60,7 +60,7 @@ Decision-making tasks support learning because they require learners to actively
 
 ## The evidence by question
 - *Does instruction built around making and justifying decisions improve learners' decision-making, and which form of it does most?* [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+M]
-- *When learners make decisions with AI support, does the support erode their own judgement, and do reflection prompts protect it?* [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](../claims/ai-overreliance-impairs-decision-making.md) [~M]
+- *When learners make decisions with AI support, does the support erode their own judgement, and do reflection prompts protect it?* [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](../claims/ai-overreliance-impairs-decision-making.md) [~M]
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the group variant; negotiation of criteria is the added learning mechanism

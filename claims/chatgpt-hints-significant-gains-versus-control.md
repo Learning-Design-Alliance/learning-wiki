@@ -33,7 +33,7 @@ Pardos ZA, Bhandari S (2024) ChatGPT-generated help produces learning gains equi
 
 `q3 · i?` · `causal · r2`
 
-Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 design in the OATutor system; post-hoc Dunn's test on ranked learning gains. The article reports "statistically significantly greater learning gains (p = 0.011)" for ChatGPT hints over control; no effect size is printed.
+Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 design in the OATutor system; post-hoc Dunn's test on ranked learning gains. The article reports "statistically significantly greater learning gains (p = 0.011)" for ChatGPT hints over control; no observed effect size is printed for this comparison (the Cohen's d of 0.5 in the article is the effect size assumed for its power analyses).
 
 > "From this test, we found that compared to the 1.85% gain of the control condition (i.e., “no hints”), learners in the ChatGPT condition exhibited statistically significantly greater learning gains (p = 0.011)."
 

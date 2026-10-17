@@ -39,7 +39,7 @@ The survey measured whether each student's post-COVID course used "eight instruc
 ## Claims
 
 - [The number of research-recommended online instructional practices used predicted student satisfaction, rising from 43 percent net satisfaction with 0–2 practices to 74 percent with 6–8](../claims/recommended-practices-count-predict-satisfaction.md) [+W]
-- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation](../claims/personal-messages-largest-satisfaction-effect.md) [+W]
+- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](../claims/personal-messages-largest-satisfaction-effect.md) [+W]
 
 ## Related Elements
 - 

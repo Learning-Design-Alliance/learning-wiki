@@ -15,12 +15,14 @@ sources:
     author: Gautam Biswas, James R. Segedy, Kritya Bunchongchit
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In one video study of Betty's Brain, 77% of the feedback delivered by the agents was ignored by students.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Struggling students largely did not attend to or implement the strategy suggestions provided by Mr. Davis and Betty. [→ Gautam Biswas 2016](#gautam-biswas-2016)
@@ -31,7 +33,7 @@ sources:
 
 Gautam Biswas, James R. Segedy, Kritya Bunchongchit. (2016). From Design to Implementation to Practice: a Learning by Teaching System: Betty's Brain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0057-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Video data analysis of students using Betty's Brain found that "77 % of the feedback delivered by Betty and Mr. Davis were ignored by students"; the paper reports no effect size and attributes this to underdeveloped cognitive skills.
 

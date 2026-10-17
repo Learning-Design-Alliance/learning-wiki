@@ -15,12 +15,14 @@ sources:
     author: "Radkowitsch, A., Vogel, F., & Fischer, F."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Learning with CSCL scripts yields a significant medium-sized positive summary effect on collaboration skills (Hedges' g = 0.72; g = 0.59 excluding two outlier studies). [→ Radkowitsch 2020](#radkowitsch-2020)
@@ -31,7 +33,7 @@ sources:
 
 Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r?`
 
 Random-effects meta-analysis of 41 collaboration-skill effects (23 independent) from experimental CSCL-script comparisons, showing "a significant medium-sized positive summary effect of Hedges' g = 0.72". Excluding two outlier studies the effect remained medium at g = 0.59.
 

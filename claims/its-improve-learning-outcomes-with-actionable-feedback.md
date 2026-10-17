@@ -35,7 +35,7 @@ Dongming Mei, Katherine Moore, and Ben Sayler. (2026). Preparing Students for AI
 
 `q2 · i?` · `theoretical · r2`
 
-The review attributes this to meta-analyses by VanLehn and by Kulik and Fletcher, stating that 'ITS can improve learning outcomes, particularly when systems provide immediate, actionable feedback.' No pooled effect size is printed in the paper's account.
+The paper, a workshop-informed white paper and curriculum-oriented position article rather than a review, attributes this to meta-analyses by VanLehn and by Kulik and Fletcher, stating that 'ITS can improve learning outcomes, particularly when systems provide immediate, actionable feedback.' No pooled effect size is printed in the paper's account.
 
 > "Meta-analytic evidence indicates that ITS can improve learning outcomes, particularly when systems provide immediate, actionable feedback and when instruction is aligned with clear learning objectives"
 

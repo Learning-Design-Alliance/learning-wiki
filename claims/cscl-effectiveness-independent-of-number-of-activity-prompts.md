@@ -15,18 +15,22 @@ sources:
     author: "Radkowitsch, A., Vogel, F., & Fischer, F."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
   - id: radkowitsch-2020-2
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
     title: "Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4"
     author: "Radkowitsch, A., Vogel, F., & Fischer, F."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q2`
 
 ## Subclaims
 `q2 i?` For domain learning, effects of CSCL scripts prompting one, two, or three types of collaborative activities did not differ significantly (Q(5) = 3.19, p = .67). [→ Radkowitsch 2020](#radkowitsch-2020)
@@ -38,7 +42,7 @@ sources:
 
 Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 Meta-regression moderator analysis across 53 primary studies comparing scripts prompting one, two, or three collaborative activity types on domain learning; the moderator was non-significant and residual heterogeneity remained significant.
 
@@ -48,7 +52,7 @@ Meta-regression moderator analysis across 53 primary studies comparing scripts p
 
 Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 Meta-regression moderator analysis for collaboration skills in the same meta-analysis; the number-of-prompts moderator was non-significant, with significant residual heterogeneity (Q(24) = 108.54).
 

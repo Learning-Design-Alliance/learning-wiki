@@ -15,18 +15,22 @@ sources:
     author: Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: "?"
   - id: freydis-vogel-2016-2
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
     title: "Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev. https://doi.org/10.1007/s10648-016-9361-7"
     author: Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Collaborative learning with a CSCL script produces a statistically significant large positive average effect on collaboration skills relative to collaborative learning without a script. [→ Freydis Vogel 2016](#freydis-vogel-2016)
@@ -38,7 +42,7 @@ sources:
 
 Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r?`
 
 Random-effects synthesis of 12 effect sizes from eight articles on collaboration skills; post hoc power was 99 %. Table 2 reports d = 0.95 (z = 4.95, p = .001).
 
@@ -48,7 +52,7 @@ Random-effects synthesis of 12 effect sizes from eight articles on collaboration
 
 Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev. https://doi.org/10.1007/s10648-016-9361-7
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Sensitivity analysis of the collaboration-skills synthesis excluding two outlier studies; Table 2 reports d = 0.65 without outliers (z = 6.54, p = .001), with post hoc power of 97 %.
 

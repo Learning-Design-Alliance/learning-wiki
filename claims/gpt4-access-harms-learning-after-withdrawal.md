@@ -159,7 +159,7 @@ Zemin Guo, Wenhui Li, Laure Lu Chen, Qianru Liang, & Yuxuan Wu. (2026). Reconcep
 
 `q1 · i?` · `review · r2`
 
-The review attributes this finding to Bastani et al. (2025) in its micro-level ecology section, using it to illustrate the performance–mastery distinction: AI may inflate observable performance "without necessarily producing durable acquisition." The review names neither the model (GPT-4), the subject, the students' level nor an unrestricted-access condition; it says only "generative AI", and its reference list gives the study as Bastani et al. (2025), "Generative AI without guardrails can harm learning: Evidence from high school mathematics". The underlying study's design was not read for this extraction.
+The review attributes this finding to Bastani et al. (2025) in its micro-level ecology section, using it to illustrate the performance–mastery distinction: AI may inflate observable performance "without necessarily producing durable acquisition." In its text the review names neither the model (GPT-4) nor an unrestricted-access condition, and does not describe the trial's design; it says only "generative AI". The subject and level appear only in its reference list, which titles the study Bastani et al. (2025), "Generative AI without guardrails can harm learning: Evidence from high school mathematics". The underlying study was not read for this extraction, so GPT-4, unrestricted access and the randomised design are not established by this entry.
 
 > "Bastani et al. (2025) found that, relative to traditional instruction, generative AI could raise students' immediate performance but impair delayed exam scores when AI access is removed."
 

@@ -15,12 +15,14 @@ sources:
     author: Gautam Biswas, James R. Segedy, Kritya Bunchongchit
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cluster 3 confused guessers (n=5) had significantly lower skill scores on both pre-test and post-test compared to most other clusters. [→ Gautam Biswas 2016](#gautam-biswas-2016)
@@ -32,7 +34,7 @@ sources:
 
 Gautam Biswas, James R. Segedy, Kritya Bunchongchit. (2016). From Design to Implementation to Practice: a Learning by Teaching System: Betty's Brain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0057-9
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the cluster comparison from the coherence-analysis classroom study, confused guessers started with lower skill scores but "their learning gains were not significantly different from the learning gains achieved by students in Clusters 1, 2, and 4." No effect size is printed, and equivalence was not tested.
 

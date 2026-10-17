@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities"
-description: "Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities"
+title: "A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making"
+description: "A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making"
 id: ai-overreliance-impairs-decision-making
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities
+# A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a study of 16 college students, AI dialogue systems decreased research and information retrieval time, but over-reliance fostered complacency and undue dependency. [→ Chunpeng Zhai 2024](#chunpeng-zhai-2024)
-`q2 i?` In a study of 15 non-native English speaking EFL learners, oversimplified AI explanations increased reliance on AI and undermined learners' independent analysis, impairing decision-making skills. [→ Chunpeng Zhai 2024 (2)](#chunpeng-zhai-2024-2)
+`q2 i?` In a study of 15 non-native English speaking EFL learners, the review says oversimplified AI explanations may increase reliance on AI, which it says undermines learners' independent analysis and impairs decision-making skills. [→ Chunpeng Zhai 2024 (2)](#chunpeng-zhai-2024-2)
 
 ## Evidence
 

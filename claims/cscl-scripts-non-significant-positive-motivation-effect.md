@@ -15,12 +15,14 @@ sources:
     author: "Radkowitsch, A., Vogel, F., & Fischer, F."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Learning with CSCL scripts leads to a non-significant positive effect on motivation (Hedges' g = 0.13) relative to unguided collaborative learning. [→ Radkowitsch 2020](#radkowitsch-2020)
@@ -31,7 +33,7 @@ sources:
 
 Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Random-effects meta-analysis of 33 motivation effect sizes (9 independent) from 53 experimental studies comparing CSCL-scripted to unguided collaborative learning, yielding "a non-significant positive effect with a Hedges' g of 0.13". No effect size beyond g is printed for this finding.
 

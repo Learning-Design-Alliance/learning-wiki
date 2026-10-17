@@ -43,6 +43,6 @@ The review reports this finding, citing [48], about individual engagement in cri
 
 ## Related Claims
 
-- [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](ai-overreliance-impairs-decision-making.md) — the general claim this finding bears on, with the studies behind it
+- [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](ai-overreliance-impairs-decision-making.md) — the general claim this finding bears on, with the studies behind it
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — a broader claim this one bears on
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related

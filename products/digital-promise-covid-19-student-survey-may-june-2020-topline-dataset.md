@@ -29,7 +29,7 @@ A national survey dataset and topline report produced for Digital Promise by Lan
 ### Claims
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](../claims/satisfaction-drop-sudden-online-covid.md) [+W]
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](../claims/stem-satisfaction-dropped-after-remote-shift-covid.md) [+W]
-- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation](../claims/personal-messages-largest-satisfaction-effect.md) [+W]
+- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](../claims/personal-messages-largest-satisfaction-effect.md) [+W]
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](../claims/major-challenges-more-prevalent-women-minoritized-low-income.md) [+W]
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](../claims/challenge-count-associated-satisfaction.md) [+W]
 - [The number of research-recommended online instructional practices used predicted student satisfaction, rising from 43 percent net satisfaction with 0–2 practices to 74 percent with 6–8](../claims/recommended-practices-count-predict-satisfaction.md) [+W]
@@ -70,7 +70,7 @@ A topline survey report of college students whose in-person courses moved comple
 
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](../claims/satisfaction-drop-sudden-online-covid.md) [+W]
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](../claims/stem-satisfaction-dropped-after-remote-shift-covid.md) [+W]
-- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation](../claims/personal-messages-largest-satisfaction-effect.md) [+W]
+- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](../claims/personal-messages-largest-satisfaction-effect.md) [+W]
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](../claims/major-challenges-more-prevalent-women-minoritized-low-income.md) [+W]
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](../claims/challenge-count-associated-satisfaction.md) [+W]
 - [The number of research-recommended online instructional practices used predicted student satisfaction, rising from 43 percent net satisfaction with 0–2 practices to 74 percent with 6–8](../claims/recommended-practices-count-predict-satisfaction.md) [+W]

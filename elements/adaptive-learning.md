@@ -56,7 +56,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](../claims/adaptivity-emotional-tailoring-increases-engagement.md) [+W]
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](../claims/practical-measure-data-tailors-crse-instruction.md) [+W]
-- [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
+- [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
 - [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](../claims/milestones-adapt-exercise-pace-per-team.md) [+W]
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](../claims/ai-adaptive-pathways-support-engagement.md) [+W]
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](../claims/its-mature-implementation-personalized-learning.md) [+W]

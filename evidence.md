@@ -8,10 +8,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 19,242 |
+| Claims | 19,241 |
 | Evidence entries | 22,907 |
 | Distinct studies | 5,359 |
-| Claims resting on one study | 18,734 (97%) |
+| Claims resting on one study | 18,732 (97%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 1,139 of 5,359 (21%) |
 
@@ -20,13 +20,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
 | causal | 67 | 602 | 223 | 334 | 1,226 |
-| quant-synthesis | 63 | 115 | 38 | 119 | 335 |
-| review | 92 | 351 | 92 | 123 | 658 |
+| quant-synthesis | 64 | 117 | 38 | 118 | 337 |
+| review | 92 | 351 | 93 | 123 | 659 |
 | associational | 59 | 817 | 314 | 259 | 1,449 |
 | qualitative | 108 | 264 | 64 | 83 | 519 |
 | design | 50 | 507 | 131 | 30 | 718 |
 | theoretical | 87 | 262 | 49 | 53 | 451 |
-| not yet coded | | | | | 3 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -34,7 +33,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|
 | 688 (13%) | 3,168 (59%) | 1,381 (26%) | 122 (2%) |
 
-**Studies per claim:** 0: 0, 1: 18,734, 2: 426, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 18,732, 2: 427, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -142,9 +141,9 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 35 | 0 |
-| [designs](designs/index.md) | 837 | 492 | 1 | 0 |
+| [designs](designs/index.md) | 838 | 493 | 1 | 0 |
 | [products](products/index.md) | 1,716 | 1,147 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 351 | 344 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 354 | 348 | 1 | 0 |
 
 ## Toward pooled estimates
 

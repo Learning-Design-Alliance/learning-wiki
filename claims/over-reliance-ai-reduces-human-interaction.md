@@ -35,7 +35,7 @@ Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning
 
 `q2 · i?` · `review · r2`
 
-The review warns of over-reliance on AI technologies, arguing dialogue, collaboration, and emotional support are essential components of meaningful educational experiences that AI cannot fully replicate. It cites Biesta's caution that education should not be driven solely by efficiency and performance metrics.
+The paper, a conceptual discussion of adult education policy drawing on literature and international policy frameworks rather than a systematic or empirical review, warns of over-reliance on AI technologies, arguing dialogue, collaboration, and emotional support are essential components of meaningful educational experiences that AI cannot fully replicate. It cites Biesta's caution that education should not be driven solely by efficiency and performance metrics.
 
 > "While automation can enhance efficiency, excessive dependence on digital systems may lead to a reduction in human interaction, which remains a central element of adult learning."
 

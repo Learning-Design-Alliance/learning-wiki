@@ -37,7 +37,7 @@ The authors propose a potentially valuable application of coherence analysis in 
 - formative assessment of problem-solving behaviors and self-regulated learning
 
 ### Affordances
-- [Coherence Analysis Framework Ca Metrics](../theories/coherence-analysis-framework-ca-metrics.md)
+- [Coherence Analysis Framework Ca Metrics](../research-methods/coherence-analysis-framework-and-its-six-activity-trace-measures.md)
 
 ## Related Strategies
 - 

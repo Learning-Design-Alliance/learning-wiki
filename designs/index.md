@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**837 entries** · 0 stable · 837 in review · 0 drafts
+**838 entries** · 0 stable · 838 in review · 0 drafts
 
 ---
 
@@ -538,6 +538,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multi-stage prompting with rule-based quality filters for LLM item generation](cpig-multi-stage-prompting-quality-filters.md) - CPIG's item generation follows a multi-stage prompting pattern: a first LLM produces word lists (three names, a place, and an action) that item-generator LLMs must incorporate, which the authors say helps \"maximize di...
 * [Multicomponent middle school reading intervention: modified phonics program with ESL practices, vocabulary, fluency, and comprehension strategy instruction on a 2-day decoding/encoding cycle](multicomponent-esl-reading-intervention-2day-cycle.md) - A research intervention delivered in small groups of two to four students in daily 40-minute sessions over about 13 weeks.
 * [Multilevel Professional Development School Partnership](multilevel-professional-development-school-partnership.md) - A three-tier meeting structure — a strategic policy group, a middle-management "broad knowledge community," and within-school "small knowledge communities" — for building a durable research-practice partnership between a teacher-education institution and multiple schools.
+* [Multiliteracies pedagogy organized around four knowledge processes: experiencing, conceptualizing, analyzing, applying](multiliteracies-four-knowledge-processes-framework.md) - The article applies the pedagogy of multiliteracies, in which literacy is treated as active meaning-making across multiple modes rather than sentence-bound rules of spelling and grammar.
 * [Multipronged exploratory study: syllabi review of 11 marketing courses plus survey of 14 faculty and interviews](gai-marketing-syllabi-review-faculty-survey.md) - The article's empirical base is a multipronged exploratory analysis combining a review of marketing course syllabi, a survey of marketing educators, and follow-up qualitative interviews.
 
 #### N {: #letter-n }

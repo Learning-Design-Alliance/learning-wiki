@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The welfare floor fired far less often under the contingent tutor than under the question-only tutor, which released only on surrender. [→ Hou 2026](#hou-2026)
+`q3 i?` The welfare floor fired far less often under the contingent tutor than under the question-only tutor, which could give content only through that floor (on a learner's surrender, or after a set number of support rounds) and which the authors describe as releasing on surrender. [→ Hou 2026](#hou-2026)
 
 ## Evidence
 
