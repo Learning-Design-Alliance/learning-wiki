@@ -57,6 +57,11 @@ In the same regression series for the oldest group, "none of the measures signi�
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+- [Inferencing](../learner-variables/inferencing.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
 - [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](vocabulary-mediation-working-memory-inference.md) — related

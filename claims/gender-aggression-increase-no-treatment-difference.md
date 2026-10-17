@@ -40,6 +40,9 @@ HLM analysis of the early intervention high-risk sample with gender as a Level 1
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
+
 ## Related Claims
 - [Early comprehensive (Level C) intervention effects on high-risk children's aggression interacted with community type, decreasing aggression in Aurora but increasing it in Chicago](level-c-early-aggression-community-interaction.md) — related
 - [For children receiving both early and late intervention, the Level C Community × Treatment interaction replicated: Aurora treated children decreased in aggression while Chicago treated children increased](level-c-early-plus-late-replication.md) — related

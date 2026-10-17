@@ -40,5 +40,8 @@ Metaregression moderator analysis of complex skills type across the 145 studies.
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related

@@ -57,6 +57,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
 - [Ninth grade marked a turning point where transitory motivation trajectories reversed direction, and these inconsistent trajectories were associated with lower AP enrollment and science performance](../claims/ninth-grade-turning-point-transitory-motivation.md) [+M] — learners who differ on it differ in outcomes
 - [Students in steadily or sharply declining motivation trajectories showed lower STEM career aspirations and lower science grades than stable-trajectory peers](../claims/declining-motivation-lower-science-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Academic achievement is moderately correlated with academic self-concept in African American middle school youth](../claims/achievement-self-concept-correlation-african-american-youth.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

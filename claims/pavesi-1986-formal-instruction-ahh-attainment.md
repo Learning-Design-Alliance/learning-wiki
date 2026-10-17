@@ -40,6 +40,9 @@ The review reports Pavesi's (1986) comparison of formally versus informally expe
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Instruction on the marked OBJECT OF A PREPOSITION relative clause type improved grammaticality judgment across most relative clause categories (review-reported, citing Gass 1981)](gass-1981-marked-instruction-generalizes.md) — related
 - [Markedness theory, as realized in the Noun Phrase Accessibility Hierarchy, plays an important role in instructed interlanguage development](markedness-role-instructed-il-development.md) — a broader claim this one bears on

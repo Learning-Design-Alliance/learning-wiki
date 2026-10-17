@@ -137,6 +137,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Older adults restudy easy and medium items more than younger adults, and lower memory self-efficacy correlates with avoiding difficult items](../claims/older-adults-restudy-easy-items-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [Community-based mathematical investigations gave students confidence to use mathematics for social change](../claims/community-based-math-social-change.md) [+M] — instruction changes it
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](../claims/math-circle-positive-attitude-survey.md) [+M] — instruction changes it
+- [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~M] — an instructional effect differs with it
+- [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](../claims/task-value-predicts-strategy-use-not-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

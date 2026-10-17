@@ -40,6 +40,9 @@ Correlational analysis of Study 1 descriptive data (N = 237) before main analyse
 ## Discussion
 
 
+## Learner Variables
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Among African American eighth graders high in racial centrality, stronger endorsement of the traditional academic race stereotype is associated with lower academic self-concept, controlling achievement and demographics (Study 1)](stereotype-endorsement-lowers-self-concept-high-centrality-study1.md) — related
 - [African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept](students-endorse-traditional-stereotype-high-self-concept.md) — related

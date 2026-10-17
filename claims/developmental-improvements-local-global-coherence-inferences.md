@@ -57,6 +57,10 @@ The same mixed-factor ANOVA on first-response scores showed a significant main e
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+- [Inferencing](../learner-variables/inferencing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](vocabulary-mediation-working-memory-inference.md) — related
 - [Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years](vocabulary-only-unique-predictor-global-coherence-all-ages.md) — related

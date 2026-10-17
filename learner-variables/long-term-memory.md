@@ -102,6 +102,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](../claims/sequential-presentation-less-forgetting-than-simultaneous.md) [+M] — instruction changes it
 - [Short-duration anaerobic sprint exercise speeds vocabulary-type associative learning by 20% with increased serum BDNF that correlates with learning success](../claims/anaerobic-sprint-bdnf-associative-learning.md) [+M] — instruction changes it
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](../claims/time-based-forgetting-occurs-regardless-of-presentation-method.md) [+M] — instruction changes it
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](../claims/sleep-consolidation-semantic-memory-school-start-times.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

@@ -130,6 +130,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](../claims/observed-anxiety-predicts-lower-work-self-regulation.md) [+W] — learners who differ on it differ in outcomes
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](../claims/math-anxiety-performance-link-significant-grade-3.md) [+W] — learners who differ on it differ in outcomes
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+W] — learners who differ on it differ in outcomes
+- [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](../claims/self-efficacy-and-test-anxiety-predict-performance.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

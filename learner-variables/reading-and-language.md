@@ -195,6 +195,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](../claims/simultaneous-sequential-vocabulary-differences.md) [~M] — learners who differ on it differ in outcomes
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](../claims/grade3-comprehension-predicted-by-word-reading-and-listening.md) [+M] — learners who differ on it differ in outcomes
 - [Vocabulary adds significantly to predicting knower-level after age, but age does not add after vocabulary, suggesting age does not mediate the vocabulary–number-knowledge link.](../claims/vocabulary-predicts-knower-level-beyond-age-hierarchical-regression.md) [+M] — learners who differ on it differ in outcomes
+- [Second language instruction increases the rate of acquisition of English relativization by ESL learners](../claims/sl-instruction-effective-relativization-rate.md) [+M] — instruction changes it
+- [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](../claims/self-questioning-benefits-low-verbal-ability-more.md) [+M] — an instructional effect differs with it
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](../claims/context-learning-comprehension-interaction-marginal.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

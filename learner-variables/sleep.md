@@ -48,6 +48,7 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [P3 amplitudes and sleep duration show no significant associations with sleep deficits or sustained attention in toddlers](../claims/null-p3-amplitude-sleep-duration-associations-toddlers.md) [-M] — learners who differ on it differ in outcomes
 - [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](../claims/short-sleep-duration-academic-achievement-longitudinal.md) [~W] — learners who differ on it differ in outcomes
 - [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](../claims/nonlinear-sleep-duration-school-performance-association.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](../claims/sleep-consolidation-semantic-memory-school-start-times.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

@@ -112,6 +112,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](../claims/fluid-cognition-predicts-independent-living.md) [+M] — learners who differ on it differ in outcomes
 - [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](../claims/openness-predicts-creative-metaphor.md) [~M] — learners who differ on it differ in outcomes
 - [Students with higher general cognitive ability are more efficient in equation rearrangement](../claims/cognitive-ability-correlates-equation-efficiency.md) [+M] — learners who differ on it differ in outcomes
+- [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](../claims/self-questioning-benefits-low-verbal-ability-more.md) [+W] — an instructional effect differs with it
+- [Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)](../claims/treatment-ability-interaction-middle-group-excluded.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

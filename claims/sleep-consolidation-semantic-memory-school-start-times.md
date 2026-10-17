@@ -40,6 +40,10 @@ Review-based claim from the Shing and Brod article as summarized here. The intro
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+- [Sleep](../learner-variables/sleep.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In the intervention trial, short sleep prevalence fell sharply in delayed-start schools (intervention 2: 40.47% to 11.87%) while sufficient-sleep prevalence remained low overall](delayed-start-reduced-short-sleep-prevalence.md) — related
 - [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related

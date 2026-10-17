@@ -40,6 +40,10 @@ Multiple regression analysis (Table 3) with the different intensity thresholds o
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](vigorous-activity-correlates-divergent-thinking.md) — a broader claim this one bears on
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](vigorous-activity-predicts-o-flu-fle-not-ela.md) — related

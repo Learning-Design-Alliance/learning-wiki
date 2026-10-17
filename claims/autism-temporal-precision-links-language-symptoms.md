@@ -57,6 +57,10 @@ The review reports, citing Patten et al., a preferential-looking study in which 
 ## Discussion
 
 
+## Learner Variables
+- [Auditory Processing](../learner-variables/auditory-processing.md) — predictor: learners who differ on it differ in outcomes
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Autistic individuals show reduced multisensory integration, most consistently for speech-related stimuli](autism-reduced-mcgurk-fusion-meta-analysis.md) — related
 - [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](sli-reduced-audiovisual-speech-attention-integration.md) — related

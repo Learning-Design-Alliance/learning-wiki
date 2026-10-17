@@ -122,6 +122,13 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Sustained attention positively predicts reading comprehension assessed in group-based school settings](../claims/sustained-attention-predicts-school-based-reading-comprehension.md) [+W] — learners who differ on it differ in outcomes
 - [Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers](../claims/attention-not-predict-listening-comprehension-growth.md) [-W] — learners who differ on it differ in outcomes
 - [Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates](../claims/attention-predicts-word-reading-growth-at-risk-first-graders.md) [+M] — learners who differ on it differ in outcomes
+- [21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index](../claims/adhd-21-percent-highly-creative.md) [+W] — learners who differ on it differ in outcomes
+- [ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure](../claims/adhd-no-difference-elaboration-abstractness-closure.md) [-W] — learners who differ on it differ in outcomes
+- [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](../claims/inattentive-adhd-worst-learning-score.md) [+W] — learners who differ on it differ in outcomes
+- [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](../claims/adhd-children-higher-ttct-fluency.md) [+M] — learners who differ on it differ in outcomes
+- [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](../claims/adhd-children-higher-creativity-index.md) [+M] — learners who differ on it differ in outcomes
+- [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](../claims/adhd-children-higher-creative-strengths.md) [+M] — learners who differ on it differ in outcomes
+- [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](../claims/adhd-children-higher-ttct-originality.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

@@ -57,6 +57,10 @@ Mediation analyses for global coherence inferences confirmed mediation at all th
 ## Discussion
 
 
+## Learner Variables
+- [Inferencing](../learner-variables/inferencing.md) — outcome: instruction changes it
+- [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](vocabulary-unique-predictor-local-coherence-younger-children.md) — related

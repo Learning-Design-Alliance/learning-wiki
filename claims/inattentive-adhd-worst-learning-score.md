@@ -40,6 +40,9 @@ One-way comparison of learning disability scores across ADHD subtypes (28 combin
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Epileptiform EEG activity is more prevalent in the inattentive ADHD subtype](epileptiform-eeg-inattentive-adhd.md) — related
 - [The inattentive ADHD subtype shows the most delayed ABR latencies in waves III and V and intervals I-III and I-V](inattentive-adhd-most-delayed-abr.md) — related

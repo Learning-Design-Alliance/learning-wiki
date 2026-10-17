@@ -40,6 +40,10 @@ Secondary analysis within the same 57-student within-subject regression design: 
 ## Discussion
 
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — moderator: an instructional effect differs with it
+- [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
 - [Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)](comprehension-ability-by-rereading-interaction.md) — related

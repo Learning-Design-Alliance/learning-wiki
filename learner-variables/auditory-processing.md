@@ -52,6 +52,10 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [The effect of selective auditory attention on early neural processing differs between children of higher and lower maternal education (significant group × attention interaction within 100–200 msec)](../claims/erp-group-attention-interaction-maternal-education.md) [~M] — learners who differ on it differ in outcomes
 - [The maternal-education group difference in neural attentional modulation persists after controlling for receptive language scores](../claims/attention-difference-not-explained-by-receptive-language.md) [+M] — learners who differ on it differ in outcomes
 - [Longer target P3 latencies are associated with poorer sustained attention in toddlers](../claims/longer-p3-latency-poorer-toddler-sustained-attention.md) [+M] — learners who differ on it differ in outcomes
+- [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](../claims/sli-reduced-audiovisual-speech-attention-integration.md) [+M] — learners who differ on it differ in outcomes
+- [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](../claims/dyslexia-audiovisual-integration-impairments.md) [+M] — learners who differ on it differ in outcomes
+- [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](../claims/autism-temporal-precision-links-language-symptoms.md) [+W] — learners who differ on it differ in outcomes
+- [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](../claims/aging-multisensory-gains-simple-deficits-complex.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

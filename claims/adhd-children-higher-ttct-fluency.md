@@ -40,6 +40,9 @@ One-factor ANOVA comparing 34 ADHD children with 34 matched controls on TTCT-Fig
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index](adhd-21-percent-highly-creative.md) — related
 - [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](adhd-children-higher-creative-strengths.md) — related

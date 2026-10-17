@@ -40,6 +40,10 @@ One-factor ANOVA on the sum of the thirteen TTCT Creative Strengths in the 34-ve
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index](adhd-21-percent-highly-creative.md) — related
 - [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](adhd-children-higher-ttct-originality.md) — related

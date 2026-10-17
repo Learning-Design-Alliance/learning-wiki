@@ -40,6 +40,9 @@ The article's abstract announces the study's first headline finding, that the em
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Formally instructed learners proceed further down the Accessibility Hierarchy in ultimate attainment of relativization than untutored learners (review-reported, citing Pavesi 1986)](pavesi-1986-formal-instruction-ahh-attainment.md) — related
 - [Markedness theory, as realized in the Noun Phrase Accessibility Hierarchy, plays an important role in instructed interlanguage development](markedness-role-instructed-il-development.md) — a broader claim this one bears on

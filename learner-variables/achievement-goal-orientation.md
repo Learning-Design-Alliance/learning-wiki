@@ -57,6 +57,9 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Kindergarteners with a mastery goal orientation show better executive functions than children with a performance orientation](../claims/mastery-orientation-better-executive-functions-kindergarten.md) [+M] — learners who differ on it differ in outcomes
 - [Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)](../claims/trait-belief-goal-orientation-interaction-cbsr.md) [~M] — an instructional effect differs with it
 - [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](../claims/sem-differential-paths-mindsets-cbsr.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](../claims/no-efficacy-moderation-value-path.md) [-W] — instruction changes it
+- [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~W] — instruction changes it
+- [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](../claims/srl-partially-mediates-identity-mastery.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

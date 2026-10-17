@@ -40,6 +40,10 @@ Null bivariate correlation results (Table 2) from the cross-sectional accelerome
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone](mvpa-correlates-creativity-dimensions.md) — reports the opposite
 - [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](vigorous-activity-correlates-divergent-thinking.md) — reports the opposite

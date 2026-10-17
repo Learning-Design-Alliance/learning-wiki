@@ -66,6 +66,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Code-mixing decreases and ceases as the weaker language syntactic structure develops to CP level](../claims/mixing-ceases-when-cp-acquired-in-weaker-language.md) [+M] — learners who differ on it differ in outcomes
 - [DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop](../claims/dll-metalinguistic-advantage.md) [~M] — instruction changes it
 - [The amount of input in each language is related to syntactic development and language dominance](../claims/input-amount-relates-to-syntactic-development.md) [+M] — instruction changes it
+- [Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input](../claims/attention-to-form-rule-vs-highlighting-comprehension.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

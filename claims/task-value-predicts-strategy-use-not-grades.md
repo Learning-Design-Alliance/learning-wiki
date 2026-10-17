@@ -57,6 +57,9 @@ In the same regression set predicting teacher-assigned grades, "task value indic
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies](motivation-cognition-relations-similar-across-subjects.md) — related
 - [Regulatory strategy use and classroom grades showed no subject-area differences, though females received higher grades than males](regulatory-strategy-use-and-grades-stable-across-subjects.md) — related

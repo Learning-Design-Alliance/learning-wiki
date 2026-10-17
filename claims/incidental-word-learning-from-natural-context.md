@@ -40,6 +40,9 @@ Within-subject hierarchical regression analyses of interview and multiple-choice
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Incidental word learning from context occurred equally from a narrative text and an expository text](context-learning-equal-narrative-expository.md) — related
 - [Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data](context-learning-prior-knowledge-interaction-mixed.md) — related

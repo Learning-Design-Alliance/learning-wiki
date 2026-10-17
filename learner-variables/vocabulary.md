@@ -111,6 +111,10 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Parent number talk is not related to children's general vocabulary development once SES and overall talk are controlled, indicating domain specificity](../claims/number-talk-domain-specific-not-vocabulary.md) [-M] — instruction changes it
 - [Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory](../claims/surprise-enhances-childrens-word-learning-museum.md) [+M] — instruction changes it
 - [Vocabulary adds significantly to predicting knower-level after age, but age does not add after vocabulary, suggesting age does not mediate the vocabulary–number-knowledge link.](../claims/vocabulary-predicts-knower-level-beyond-age-hierarchical-regression.md) [+M] — learners who differ on it differ in outcomes
+- [Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect](../claims/incidental-word-learning-from-natural-context.md) [+W] — instruction changes it
+- [Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data](../claims/context-learning-prior-knowledge-interaction-mixed.md) [~W] — an instructional effect differs with it
+- [Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years](../claims/vocabulary-only-unique-predictor-global-coherence-all-ages.md) [+W] — learners who differ on it differ in outcomes
+- [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

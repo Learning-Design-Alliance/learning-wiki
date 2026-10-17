@@ -40,5 +40,8 @@ Post hoc ANOVA in Experiment 2 with three treatment groups, two verbal ability g
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — possibly the same claim (merge candidate)

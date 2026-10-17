@@ -40,6 +40,10 @@ Experiment 1: 29 rural high school seniors randomly assigned to questioning-with
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+- [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)](treatment-ability-interaction-middle-group-excluded.md) — possibly the same claim (merge candidate)
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related

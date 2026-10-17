@@ -40,5 +40,8 @@ Review article (Hassevoort, Khan, Hillman, & Cohen) on lifestyle factors, hippoc
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 -

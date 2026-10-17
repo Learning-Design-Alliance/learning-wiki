@@ -40,6 +40,9 @@ The review reports mixed findings for the sound-induced flash illusion in autism
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](aging-multisensory-gains-simple-deficits-complex.md) — related
 - [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](autism-temporal-precision-links-language-symptoms.md) — related

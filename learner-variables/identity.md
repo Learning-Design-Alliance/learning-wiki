@@ -86,6 +86,7 @@ Identity is a learner's sense of self and understanding of who they are, which s
 - [School ethnic composition moderates change in ERI affirmation during adolescence](../claims/school-ethnic-composition-moderates-eri-affirmation.md) [+M] — instruction changes it
 - [The EI-to-FES path is significant only for U.S.-born families](../claims/ei-fes-path-significant-only-usborn-families.md) [~M] — learners who differ on it differ in outcomes
 - [The FES-to-EI path is significant for Mexico-born and mixed-nativity families but not for U.S.-born families](../claims/fes-ei-path-significant-immigrant-not-usborn-families.md) [~M] — an instructional effect differs with it
+- [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](../claims/demographic-correlates-identity-motivation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Multigroup Ethnic Identity Measure, Revised (MEIM-R)** (Phinney & Ong, 2007): a brief survey of affiliation with one's ethnic group for older elementary students and adolescents.

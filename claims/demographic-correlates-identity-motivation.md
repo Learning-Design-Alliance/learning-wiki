@@ -40,5 +40,8 @@ Initial descriptive correlational analyses (Table 1) of the 600-adolescent sampl
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 -

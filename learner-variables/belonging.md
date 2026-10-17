@@ -95,6 +95,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Perceived school belonging predicts on-time high school completion more strongly for students with chronic medical conditions than for healthy peers](../claims/belonging-completion-moderated-by-health-status.md) [+M] — an instructional effect differs with it
 - [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](../claims/school-belonging-centrality-compensation-no-buffering.md) [~M] — learners who differ on it differ in outcomes
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](../claims/school-belonging-mediation-dominican-intrinsic-motivation.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

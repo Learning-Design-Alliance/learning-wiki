@@ -85,6 +85,16 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+M] — instruction changes it
 - [Regression analysis showed creativity score was not dependent on active play](../claims/regression-null-active-play-creativity.md) [-M] — instruction changes it
 - [Students' geometrical creative thinking improved in all conditions, with no difference between MACE and regular geometry lessons](../claims/mace-no-gct-advantage.md) [+M] — instruction changes it
+- [21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index](../claims/adhd-21-percent-highly-creative.md) [+M] — instruction changes it
+- [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](../claims/anthropometrics-no-correlation-creativity.md) [-M] — instruction changes it
+- [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](../claims/vigorous-activity-regression-creativity-variance.md) [+M] — instruction changes it
+- [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](../claims/light-moderate-sedentary-no-creativity-relationship.md) [-M] — instruction changes it
+- [Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone](../claims/mvpa-correlates-creativity-dimensions.md) [+M] — instruction changes it
+- [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](../claims/adhd-children-higher-creativity-index.md) [+M] — instruction changes it
+- [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](../claims/adhd-children-higher-creative-strengths.md) [+M] — instruction changes it
+- [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](../claims/adhd-children-higher-ttct-originality.md) [+M] — instruction changes it
+- [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](../claims/vigorous-activity-correlates-divergent-thinking.md) [+M] — instruction changes it
+- [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](../claims/vigorous-activity-predicts-o-flu-fle-not-ela.md) [~W] — instruction changes it
 
 ## Related Learner Variables
 

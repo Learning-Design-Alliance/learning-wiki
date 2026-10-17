@@ -152,6 +152,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](../claims/misconceptions-inhibit-reading-comprehension.md) [~M] — learners who differ on it differ in outcomes
 - [Text cohesion interacts with background knowledge: low-knowledge readers benefit from high cohesion, high-knowledge readers from low cohesion (reverse cohesion effect)](../claims/reverse-cohesion-effect-background-knowledge.md) [~M] — an instructional effect differs with it
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](../claims/guided-instruction-more-effective-than-unguided-for-novices.md) [+M] — an instructional effect differs with it
+- [Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data](../claims/context-learning-prior-knowledge-interaction-mixed.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

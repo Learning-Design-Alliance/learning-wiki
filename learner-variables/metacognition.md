@@ -104,6 +104,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning](../claims/fod-communication-associated-with-metacognition-except-planning.md) [~M] — learners who differ on it differ in outcomes
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](../claims/numerical-metacognition-predicts-math-achievement.md) [~M] — learners who differ on it differ in outcomes
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — learners who differ on it differ in outcomes
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](../claims/context-learning-comprehension-interaction-marginal.md) [-M] — an instructional effect differs with it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

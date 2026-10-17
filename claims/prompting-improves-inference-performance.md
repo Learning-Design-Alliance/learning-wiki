@@ -40,6 +40,9 @@ Paired comparisons of unprompted versus prompted scores across the 130-child sam
 ## Discussion
 
 
+## Learner Variables
+- [Inferencing](../learner-variables/inferencing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
 - [When explicitly required by direct questions, less skilled comprehenders' inference performance improves greatly while skilled comprehenders perform at ceiling](direct-questions-boost-poor-comprehenders-inferences.md) — related

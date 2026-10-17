@@ -40,6 +40,9 @@ Model A path analysis (value as independent variable, belonging controlled) with
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](moderated-mediation-belonging-srl-efficacy.md) — related
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](srl-partially-mediates-identity-mastery.md) — a broader claim this one bears on

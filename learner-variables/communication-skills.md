@@ -91,6 +91,10 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Kindergarten expressive language predicts grade 1 arithmetic, adding 4.6% of explained variance beyond kindergarten arithmetic](../claims/kindergarten-expressive-language-predicts-grade-1-arithmetic.md) [+M] — learners who differ on it differ in outcomes
 - [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](../claims/phonological-awareness-not-arithmetic-predictor.md) [~M] — learners who differ on it differ in outcomes
 - [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](../claims/ell-early-reading-intervention-word-level-gains.md) [~M] — instruction changes it
+- [Formally instructed learners proceed further down the Accessibility Hierarchy in ultimate attainment of relativization than untutored learners (review-reported, citing Pavesi 1986)](../claims/pavesi-1986-formal-instruction-ahh-attainment.md) [+W] — instruction changes it
+- [MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills](../claims/mpathic-vr-nonverbal-osce-advantage.md) [+W] — instruction changes it
+- [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](../claims/mpathic-vr-osce-composite-transfer.md) [+W] — instruction changes it
+- [Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills](../claims/simulation-effects-vary-by-complex-skill.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

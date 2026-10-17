@@ -108,6 +108,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](../claims/social-skills-independently-predict-emergent-academics.md) [+M] — learners who differ on it differ in outcomes
 - [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](../claims/social-competence-positive-externalizing-negative-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Peer problems show a significant inverse correlation with reading comprehension (r = -.304)](../claims/peer-problems-inverse-correlation-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

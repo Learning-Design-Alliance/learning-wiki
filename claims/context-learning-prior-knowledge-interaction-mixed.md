@@ -40,5 +40,9 @@ Secondary interaction analysis in the same within-subject regression study: the 
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+- [Vocabulary](../learner-variables/vocabulary.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect](incidental-word-learning-from-natural-context.md) — related

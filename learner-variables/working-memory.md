@@ -95,6 +95,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains](../claims/cogmed-working-memory-training-narrow-transfer.md) [~M] — instruction changes it
 - [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](../claims/phonological-memory-modest-multiplication-contribution.md) [+S] — learners who differ on it differ in outcomes
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](../claims/narrow-transfer-computerized-ef-training.md) [~M] — instruction changes it
+- [Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity](../claims/hippocampal-plasticity-mismatch-individual-capacity.md) [+M] — an instructional effect differs with it
+- [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](../claims/vocabulary-mediation-working-memory-inference.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

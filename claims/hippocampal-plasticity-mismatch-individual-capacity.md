@@ -40,5 +40,8 @@ Theoretical argument from the Wenger and Lövdén review article as summarized i
 ## Discussion
 
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 -

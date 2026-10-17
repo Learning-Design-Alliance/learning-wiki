@@ -160,6 +160,8 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Younger children (3–5-year-olds) answered story comprehension questions less accurately than all older age groups](../claims/preschoolers-lower-story-comprehension-accuracy.md) [+M] — learners who differ on it differ in outcomes
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](../claims/concrete-to-rule-based-strategy-transition-age-14-15.md) [+M] — learners who differ on it differ in outcomes
 - [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](../claims/number-letter-accuracy-gap-disappears-by-16-17.md) [~S] — an instructional effect differs with it
+- [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](../claims/developmental-improvements-local-global-coherence-inferences.md) [+M] — learners who differ on it differ in outcomes
+- [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]
