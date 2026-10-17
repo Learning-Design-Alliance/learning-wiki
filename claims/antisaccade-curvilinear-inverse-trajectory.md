@@ -15,12 +15,14 @@ sources:
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Antisaccade performance follows a curvilinear developmental trajectory best fit by an inverse function, with intra-subject latency variability decreasing with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Antisaccade error rates and latencies fall steeply through childhood with a lower but significant slope through adolescence, stabilizing in adulthood, and intra-subject variability decreases with age. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

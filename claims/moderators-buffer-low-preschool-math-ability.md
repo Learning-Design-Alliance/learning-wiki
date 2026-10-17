@@ -15,18 +15,22 @@ sources:
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: blair-2016-2
     resource: "https://doi.org/10.1016/j.learninstruc.2015.10.001"
     title: "Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators. (2016). Moderating effects of executive functions and the teacher–child relationship on the development of mathematics ability in kindergarten. Learning and Instruction, 41, 85–93. https://doi.org/10.1016/j.learninstruc.2015.10.001"
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 2
+    kind: associational
+    rigour: 3
 ---
 
 # For children with low preschool math ability, higher executive function and more positive teacher relationships are associated with higher-than-expected kindergarten math, with the preschool–kindergarten association stronger among children low in these moderators
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Simple slopes showed the preschool–kindergarten ECLS-K Math association was stronger among children with lower executive function (β = 0.37) than higher executive function (β = 0.24). [→ Blair 2016](#blair-2016)

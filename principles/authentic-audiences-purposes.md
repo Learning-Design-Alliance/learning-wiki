@@ -13,7 +13,7 @@ generated:
 # Authentic Audiences & Purposes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (16 for, 4 mixed) · 29 studies (8 causal, 6 quant-synthesis, 4 qualitative, 4 theoretical, 3 review, 3 design), `q1`–`q4` · 5 of 29 report an effect size · 13 claims rest on one study
+> **Evidence** · 20 claims (16 for, 4 mixed) · 29 studies (9 causal, 6 quant-synthesis, 4 qualitative, 4 theoretical, 3 review, 3 design), `q1`–`q4` · 5 of 29 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 

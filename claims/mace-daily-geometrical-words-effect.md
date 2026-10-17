@@ -15,12 +15,14 @@ sources:
     author: "Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # MACE participation increased students' use of daily (tier 1) geometrical words, but not academic (tier 2) geometrical words, which decreased in all conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Class differences in growth of daily geometrical words in the GAT were explained by MACE lesson series participation, but academic geometrical word use was not affected and declined over time. [→ Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen 2019](#eveline-m-schoevers-paul-p-m-leseman-evelyn-h-kroesbergen-2019)

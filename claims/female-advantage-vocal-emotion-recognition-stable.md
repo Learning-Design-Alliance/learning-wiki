@@ -15,12 +15,14 @@ sources:
     author: "Grosbras, M.-H., Ross, P. D. & Belin, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Females obtained significantly higher scores than males (83.2 ± 6.2% vs 80.3 ± 6.7%), and the sex effect did not interact with age. [→ Grosbras 2018](#grosbras-2018)

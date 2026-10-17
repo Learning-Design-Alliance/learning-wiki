@@ -17,7 +17,7 @@ sources:
 # Use children's portfolios as alternative assessment of young learners' multiliteracies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends portfolio-based assessment for multiliteracies, arguing that atomistic discrete-point testing cannot evaluate multiliterate skills and that a performative approach to assessment should be implemented. Portfolios are described as "a method of alternative assessment which encourages the learners and the teachers to monitor the student's performance" and as a continuous cumulative record offering a holistic view of student learning. In the program, children were invited to reflect on their progress and include their crafts, posters and drawings after each session of each thematic area.

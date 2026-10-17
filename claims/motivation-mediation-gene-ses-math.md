@@ -15,12 +15,14 @@ sources:
     author: "Tucker-Drob, Elliot M., & Harden, K. Paige"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Genetic variance in learning motivation fully mediates the gene-by-SES interaction on four-year-olds' math achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Once genetic variance in motivation was accounted for, the residual gene-by-SES interaction on math achievement was not statistically significant, indicating full mediation. [→ Tucker-Drob 2011](#tucker-drob-2011)

@@ -15,12 +15,14 @@ sources:
     author: Abraham, Anna; Windmann, Sabine; Siefen, Rainer; Daum, Irene; Güntürkün, Onur
     q: 1
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # A widened attentional focus of the kind associated with ADHD has been postulated to accompany enhanced creative ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r?` · `q1`
 
 ## Subclaims
 `q1 i?` It has been postulated that the widened attentional focus typically associated with ADHD is accompanied by enhanced creative ability. [→ Abraham 2006](#abraham-2006)

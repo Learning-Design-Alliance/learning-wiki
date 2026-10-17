@@ -15,18 +15,22 @@ sources:
     author: "Martin-Storey, A., & Crosnoe, R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: martin-storey-2014-2
     resource: "https://doi.org/10.1080/10888691.2014.876276"
     title: "Martin-Storey, A., & Crosnoe, R. (2014). Perceived Neighborhood Safety and Adolescent School Functioning. Applied Developmental Science, 18(2), 61-75. https://doi.org/10.1080/10888691.2014.876276"
     author: "Martin-Storey, A., & Crosnoe, R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Perceived neighborhood safety is not significantly associated with standardized test scores or GPA once confounding variables are controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The link between perceived neighborhood safety and standardized test scores was not significant when other confounding variables were controlled. [→ Martin-Storey 2014](#martin-storey-2014)

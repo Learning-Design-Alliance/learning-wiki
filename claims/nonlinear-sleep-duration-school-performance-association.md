@@ -15,12 +15,14 @@ sources:
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Penalized splines in generalized additive models showed a nonlinear association of sleep duration with school performance at follow-up (p = 0.04), shown in Figure 2. [→ Li Shenghui 2013](#li-shenghui-2013)

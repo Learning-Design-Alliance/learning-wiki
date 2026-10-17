@@ -15,12 +15,14 @@ sources:
     author: Salthouse, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Age-achievement functions take an inverted-U shape, but the quality of contributions remains roughly constant with age, with lower productivity reflecting reduced quantity of output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a study of economists' publications, submission rates showed an inverted-U age relation while journal acceptance probability was nearly constant at all ages. [→ Salthouse 2012](#salthouse-2012)

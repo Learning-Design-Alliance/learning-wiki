@@ -15,12 +15,14 @@ sources:
     author: "Plebanek, D. J., & Sloutsky, V. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Net change detection accuracy does not differ significantly between children and adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A-primes averaged across cued and uncued shapes did not differ significantly between adults and children, with children numerically higher. [→ Plebanek 2017](#plebanek-2017)

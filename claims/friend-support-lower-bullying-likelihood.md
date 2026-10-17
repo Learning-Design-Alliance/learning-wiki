@@ -15,12 +15,14 @@ sources:
     author: Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Adolescents with moderate or high friend support are about half as likely to report being bullied
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Compared with low friend support, moderate (OR 0.57) and high (OR 0.54) friend support were associated with roughly half the odds of being bullied in the term. [→ Rothon Catherine 2011](#rothon-catherine-2011)

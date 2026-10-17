@@ -15,12 +15,14 @@ sources:
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Trajectory patterns of teacher-student warmth and conflict differ between boys and girls, with a high-stable conflict class found only for boys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Multiple-group analyses showed trajectory patterns for warmth and conflict differed significantly for boys and girls, and the high-stable conflict trajectory emerged only among boys. [→ Spilt 2012](#spilt-2012)

@@ -15,12 +15,14 @@ sources:
     author: Dahl A., Brownell C. A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In the third year, children acquire moral judgments about whether one should help, judging helping obligatory in simple situations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A second major developmental transformation occurs in the third year, when children acquire moral judgments about whether one should help; most preschoolers judge that people should help someone hurt at little cost to oneself. [→ Dahl A. 2019](#dahl-a-2019)

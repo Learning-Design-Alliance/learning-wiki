@@ -17,6 +17,7 @@ sources:
 # Hidden-prize marking and transfer task paradigm for assessing children's spontaneous external reminder-setting strategies
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A preregistered experimental paradigm in which children watch an experimenter demonstrate how to mark the location of a hidden prize, helping them retrieve it later, and are then given opportunities across six test trials to spontaneously adopt an external marking strategy. Children who used the strategy at least once were introduced to a "conceptually similar but structurally distinct transfer task" to assess strategy flexibility. It measures self-initiated external metacognitive strategy use across ages 3–8.

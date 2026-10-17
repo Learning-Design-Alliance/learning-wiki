@@ -15,12 +15,14 @@ sources:
     author: "Pauker, K., Ambady, N., & Apfelbaum, E. P."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Children's essentialist reasoning about racial change increased with age, and essentialist reasoning about others (but not the self) predicted out-group stereotyping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Reasoning type changed across age groups for both judgments of the self (χ2(9, n = 68) = 21.68, p = .01, ϕ = .56) and others (χ2(9, n = 68) = 31.04, p < .001, ϕ = .68), with older children primarily using essentialist reasoning. [→ Pauker 2010](#pauker-2010)

@@ -15,12 +15,14 @@ sources:
     author: Armitage, KL; Suddendorf, T; Bulley, A; Bastos, APM; Taylor, AH; Redshaw, J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Children aged 3–8 could self-initiate an external metacognitive strategy after seeing it demonstrated, and older children transferred and adapted such strategies across contexts. [→ Armitage 2023](#armitage-2023)

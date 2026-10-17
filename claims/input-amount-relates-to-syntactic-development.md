@@ -15,12 +15,14 @@ sources:
     author: "Bernardini, P., & Schlyter, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The amount of input in each language is related to syntactic development and language dominance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Reduced input in one language is related to that language's weaker syntactic development. [→ Bernardini 2004](#bernardini-2004)

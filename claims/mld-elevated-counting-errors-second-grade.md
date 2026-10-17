@@ -15,12 +15,14 @@ sources:
     author: "Geary, D. C., Hoard, M. K., & Bailey, D. H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Second graders with MLD commit at least 2.5 times more counting errors than children in the other groups but narrow the gap by fourth grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` On the addition choice task, second graders with MLD made at least 2.5 times more counting errors than peers, and MLD children committed more errors than any other group. [→ Geary 2012](#geary-2012)

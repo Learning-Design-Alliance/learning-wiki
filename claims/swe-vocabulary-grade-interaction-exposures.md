@@ -15,12 +15,14 @@ sources:
     author: Steacy LM, Fuchs D, Gilbert JK, Kearns DM, Elleman AM, Edwards AA
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Initial word reading skill interacted with vocabulary grade: the poorest readers required more than twice as many exposures for later-introduced words
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For words with a higher vocabulary grade, students beginning with very low word reading skills required more than twice as many exposures as students beginning with relatively good word reading skills. [→ Steacy LM 2020](#steacy-lm-2020)

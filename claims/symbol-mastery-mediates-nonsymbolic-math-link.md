@@ -15,12 +15,14 @@ sources:
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Symbol mastery accounts for the association between non-symbolic arithmetic and school mathematics achievement in hierarchical regression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When number word and symbol mastery was entered before non-symbolic addition performance, non-symbolic numerical performance no longer contributed significantly to school mathematics achievement (R2 change = .007, p = .286). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

@@ -17,7 +17,7 @@ sources:
 # Monitor children's math anxiety from the earliest stages of schooling to support proficient math performance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that teachers and schools attend to math anxiety from the beginning of primary school, because anxiety at that age already predicts later math performance. As the authors state, these findings "highlight the importance of monitoring anxiety from the early stages of schooling in order to promote proficient academic performance". The strategy is grounded in the longitudinal finding that Grade 2 math anxiety indirectly affected Grade 3 performance.

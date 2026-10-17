@@ -15,12 +15,14 @@ sources:
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Early reading interventions (Grades K–1) show larger effects than interventions provided in Grades 2–5
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Reviews and meta-analyses reveal larger effects for reading interventions provided in the early stages of reading acquisition than for those provided in Grade 3 and higher. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

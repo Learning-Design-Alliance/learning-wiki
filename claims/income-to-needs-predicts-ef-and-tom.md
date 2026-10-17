@@ -15,12 +15,14 @@ sources:
     author: "Marcovitch S., O'Brien M., Calkins S. D., Leerkes E. M., Weaver J. M., Levine D. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Family income-to-needs at age 3 predicts both EF and ToM through age 5
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Income-to-needs at age 3 was significantly related to EF (β = .31, p < .001) and ToM (β = .23, p = .02), and continued to predict both at ages 4 and 5 via indirect effects. [→ Marcovitch S. 2014](#marcovitch-s-2014)

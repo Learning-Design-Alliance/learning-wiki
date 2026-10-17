@@ -13,16 +13,20 @@ sources:
     title: Reigal RE 2020
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
   - id: reigal-re-2020-2
     title: Reigal RE 2020 (2)
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Among boys, the higher-fitness cluster outperformed the lower-fitness cluster on d2 measures (e.g., TOT: p < 0.001, d' Cohen = 1.01). [→ Reigal RE 2020](#reigal-re-2020)

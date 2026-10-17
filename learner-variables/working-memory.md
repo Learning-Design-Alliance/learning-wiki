@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (30 show a difference, 11 mixed, 6 no difference, 2 unmarked) · 45 studies (13 causal, 11 associational, 10 review, 7 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 7 of 45 report an effect size · 45 claims rest on one study
+> **Evidence** · 53 claims (32 show a difference, 13 mixed, 6 no difference, 2 unmarked) · 50 studies (14 associational, 13 causal, 12 review, 7 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 8 of 50 report an effect size · 48 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].

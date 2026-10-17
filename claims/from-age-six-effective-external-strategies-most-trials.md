@@ -15,12 +15,14 @@ sources:
     author: Armitage, KL; Suddendorf, T; Bulley, A; Bastos, APM; Taylor, AH; Redshaw, J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # From age 6, children deploy effective external strategies on most trials, with strategy number, combination, and order varying widely within and across age groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Children from age 6 deployed effective external strategies on most trials. [→ Armitage 2023](#armitage-2023)

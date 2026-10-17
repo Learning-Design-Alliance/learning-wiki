@@ -15,12 +15,14 @@ sources:
     author: "Powell, S. R., Fuchs, L. S., Fuchs, D., Cirino, P. T., & Fletcher, J. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # MDRD third graders show no significant differences among tutoring conditions on fact retrieval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For MDRD students, neither fact retrieval tutoring condition improved fact retrieval significantly more than procedural/estimation tutoring or no tutoring. [→ Powell 2009](#powell-2009)

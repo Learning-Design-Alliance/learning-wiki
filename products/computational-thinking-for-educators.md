@@ -13,6 +13,7 @@ generated:
 # Computational Thinking for Educators
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Google's free online professional-learning programme helps K–12 teachers learn computational-thinking concepts and classroom applications through course materials and a community of practice for sharing ideas, challenges, solutions, and resources.

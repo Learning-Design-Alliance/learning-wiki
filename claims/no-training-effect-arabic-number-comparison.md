@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2016
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Neither numerical training significantly improves Arabic number comparison performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant training effect on the Arabic number comparison task. [→ Honoré N 2016](#honore-n-2016)

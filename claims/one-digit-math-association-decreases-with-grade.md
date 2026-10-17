@@ -15,12 +15,14 @@ sources:
     author: "Brankaer, C., Ghesquière, P., & De Smedt, B."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The Grade 1 one-digit correlation with mathematics achievement differed significantly from those in Grades 4, 5, and 6, whereas two-digit correlations did not differ between grades. [→ Brankaer 2017](#brankaer-2017)

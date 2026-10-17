@@ -15,12 +15,14 @@ sources:
     author: "Yadav, A., Hong, H., & Stephenson, C."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # School administrators underestimate parental demand for computer science education and face resource and prioritization barriers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Administrators significantly underestimate parental demand for computer science learning, and lack of qualified teachers and resources makes offering CS difficult, especially in rural and small districts. [→ Yadav 2016](#yadav-2016)

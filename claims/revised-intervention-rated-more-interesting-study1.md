@@ -15,12 +15,14 @@ sources:
     author: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # In Study 1, students rated the revised intervention as more interesting and more informative than the original intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The revised intervention was rated as more interesting (t(6454)=4.44, p<.001) and as producing more perceived learning (t(6454)=6.25, p<.001) than the original intervention. [→ Yeager 2016](#yeager-2016)

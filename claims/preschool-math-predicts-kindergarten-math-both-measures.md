@@ -15,12 +15,14 @@ sources:
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 3
+    kind: associational
+    rigour: 3
 ---
 
 # Preschool math ability significantly predicts kindergarten math ability on both the ECLS-K Math battery and the Applied Problems subtest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Preschool math scores significantly predicted kindergarten math scores for both measures, with effect sizes β = 0.37 (ECLS-K Math) and β = 0.52 (Applied Problems). [→ Blair 2016](#blair-2016)

@@ -15,12 +15,14 @@ sources:
     author: Diamond Adele
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Whether EF gains are produced depends on how an activity is done: traditional tae kwon do reduced aggression while modern competitive martial arts worsened outcomes in juvenile delinquents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Adolescent juvenile delinquents trained in traditional tae kwon do showed less aggression and anxiety and improved social ability and self-esteem, whereas those trained in modern martial arts showed more delinquency and aggressiveness and decreased self-esteem and social ability. [→ Diamond Adele 2012](#diamond-adele-2012)

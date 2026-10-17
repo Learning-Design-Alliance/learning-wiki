@@ -15,18 +15,22 @@ sources:
     author: Maike Schindler, Stephan Hußmann, Per Nilsson, Arthur Bakker
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: maike-schindler-2017-2
     resource: "https://doi.org/10.1007/s13394-017-0202-x"
     title: "Maike Schindler, Stephan Hußmann, Per Nilsson, Arthur Bakker. (2017). Sixth-grade students' reasoning on the order relation of integers as influenced by prior experience: an inferentialist analysis. Math Ed Res J 29:471–492. https://doi.org/10.1007/s13394-017-0202-x"
     author: Maike Schindler, Stephan Hußmann, Per Nilsson, Arthur Bakker
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the post interviews, both students inferred their reasoning from the number line and could switch perspectives, drawing flexibly on different prior experiences when comparing negative integers. [→ Maike Schindler 2017](#maike-schindler-2017)

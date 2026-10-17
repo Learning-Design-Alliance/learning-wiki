@@ -15,12 +15,14 @@ sources:
     author: "Brankaer, C., Ghesquière, P., & De Smedt, B."
     q: 3
     i: 3
+    kind: design
+    rigour: 3
 ---
 
 # Children's symbolic magnitude comparison performance improves significantly across all primary school grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · design `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` One-digit subtest scores differed significantly between grades with a large effect (ηp² = .63), with all grades differing from each other. [→ Brankaer 2017](#brankaer-2017)

@@ -15,12 +15,14 @@ sources:
     author: "Bernardini, P., & Schlyter, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The Ivy Hypothesis differs from the Dominant Language Hypothesis and Bilingual Bootstrapping Hypothesis in developmental scope and hierarchical prediction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The Ivy Hypothesis differs from the Dominant Language Hypothesis in that it is conditioned by developmental stage and predicts hierarchically governed mixing applying to all phrase types, not only bound morphemes. [→ Bernardini 2004](#bernardini-2004)

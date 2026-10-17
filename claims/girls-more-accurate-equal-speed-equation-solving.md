@@ -13,16 +13,20 @@ sources:
     title: Susac A 2014
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
   - id: susac-a-2014-2
     title: Susac A 2014 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Girls were more accurate than boys (Gender main effect on accuracy, effect size η2 p = 0.019). [→ Susac A 2014](#susac-a-2014)

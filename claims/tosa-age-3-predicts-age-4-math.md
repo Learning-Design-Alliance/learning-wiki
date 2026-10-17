@@ -15,18 +15,22 @@ sources:
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: verdine-2014-2
     resource: "https://doi.org/10.1016/j.jecp.2014.02.012"
     title: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K. (2014). Contributions of Executive Function and Spatial Skills to Preschool Mathematics Achievement. Journal of Experimental Child Psychology, 126, 37-51. https://doi.org/10.1016/j.jecp.2014.02.012"
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` TOSA scores at age 3 correlated r = .71 (p < .001) with WIAT math scores at age 4, and TOSA remained a significant predictor in the final regression (std. = .346, t = 2.94, p = .005). [→ Verdine 2014](#verdine-2014)

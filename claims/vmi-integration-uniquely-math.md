@@ -15,12 +15,14 @@ sources:
     author: "Carames, C. N., Irwin, L. N., & Kofler, M. J."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # The integration of visual perception and motor coordination is uniquely associated with math skills but not with reading or written language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Visual-motor integration — the integration of visual perception and motor coordination — was uniquely associated only with math skills (β=.28; p=.007). [→ Carames 2022](#carames-2022)

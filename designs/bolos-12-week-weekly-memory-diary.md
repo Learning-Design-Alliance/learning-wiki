@@ -17,7 +17,7 @@ sources:
 # 12-week weekly paper-and-pencil diary protocol for everyday memory problems and perceived control
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The BOLOS Time 2 battery included a 12-week diary study in which participants completed a weekly report of everyday experiences at the end of each week. The diaries included questions related to "everyday memory problems, perceived control, and a range of health and well-being measures." Everyday memory problems were assessed with 11 items reporting how many days (0-7) each problem occurred, summed to a weekly composite ranging from 0 to 77. Weekly perceived control was a single item asking how much participants felt "in control of my life" that week (1-5). Participants completed the paper-and-pencil diary at home and mailed it back within 24 hours.

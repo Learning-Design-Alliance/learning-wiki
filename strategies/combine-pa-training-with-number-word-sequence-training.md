@@ -17,7 +17,7 @@ sources:
 # Combine early phonological awareness training with training of the precise number-word sequence to prevent math difficulties
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A discussion-section recommendation for children whose phonological awareness deficits are diagnosed in kindergarten: because such deficits appear to underlie Geary's semantic memory subtype of mathematical disability via QNC Level I, the authors argue that training phonological awareness "should be combined with training basic numerical skill s to facilitate the differentiation and manipulation of single words in the number-word sequence". This means pairing phonological awareness exercises with practice reciting the number-word sequence forwards and backwards, identifying subsequent and preceding number words, and matching number words with their Arabic notations.

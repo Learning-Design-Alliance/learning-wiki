@@ -15,12 +15,14 @@ sources:
     author: "Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students who received the MACE lesson series improved more than comparison students in describing the geometrical aspects space, space suggestion, and composition in a visual artwork
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students in MACE classes improved more than comparison classes in describing space, space suggestion, and composition in a visual artwork. [→ Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen 2019](#eveline-m-schoevers-paul-p-m-leseman-evelyn-h-kroesbergen-2019)

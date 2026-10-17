@@ -15,12 +15,14 @@ sources:
     author: Maike Schindler, Stephan Hußmann, Per Nilsson, Arthur Bakker
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Before instruction, a strong sixth grader infers integer order reasoning from out-of-school thermometer experiences, with zero as a significant concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the preliminary interview, Tom's reasons for judging sizes of a negative and a positive integer were based on the role of zero, drawing on thermometer experiences from the out-of-school context of temperatures. [→ Maike Schindler 2017](#maike-schindler-2017)

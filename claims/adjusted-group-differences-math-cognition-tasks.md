@@ -15,12 +15,14 @@ sources:
     author: "Geary, D. C., Hoard, M. K., & Bailey, D. H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # After controlling for domain-general abilities and reading, MLD children show deficits on all mathematical cognition tasks while LA-Severe children show a specific counting-string intrusion deficit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A repeated measures ANCOVA with IQ, working memory, processing speed, and reading covariates yielded significant group and group-by-task effects, indicating more than one underlying mechanism. [→ Geary 2012](#geary-2012)

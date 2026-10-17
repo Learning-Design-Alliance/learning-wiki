@@ -15,12 +15,14 @@ sources:
     author: Gray Shelley, Green Samuel, Alt Mary, Hogan Tiffany P., Kuo Trudy, Brinkley Shara, Cowan Nelson
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In the Baddeley and Hitch model, the visuospatial factor was most strongly related to intelligence, but the only significant path was between visuospatial and Gv
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Under the Baddeley and Hitch specification, the visuospatial factor showed the strongest relation to the intelligence factors, though only the visuospatial-to-Gv path reached significance. [→ Gray Shelley 2016](#gray-shelley-2016)

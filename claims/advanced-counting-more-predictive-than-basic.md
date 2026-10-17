@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Watts, T. W., Duncan, G. J., Clements, D. H., Sarama, J. S., Wolfe, C., & Spitler, M. E."
     q: 2
     i: 2
+    kind: associational
+    rigour: 3
 ---
 
 # Advanced counting competencies predict fifth grade mathematics achievement whereas basic counting does not when both are included together
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` In a model including both basic and advanced counting, advanced counting was predictive (β = 0.33, p < 0.001) while basic counting was not significant (β = 0.08, n.s.), and the two coefficients differed significantly (F = 7.28, p < 0.01). [→ Nguyen 2016](#nguyen-2016)

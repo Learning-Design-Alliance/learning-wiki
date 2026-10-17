@@ -15,12 +15,14 @@ sources:
     author: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In Study 1, the revised intervention reduced self-reported fixed mindset more than the original intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The revised intervention produced a larger pre-to-post reduction in self-reported fixed mindset (Δ=−0.48) than the original intervention (Δ=−0.22), both significant. [→ Yeager 2016](#yeager-2016)

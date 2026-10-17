@@ -15,12 +15,14 @@ sources:
     author: "Negen, J., & Sarnecka, B. W."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Both receptive and expressive vocabulary correlate with number-word knowledge independent of age, replicating Experiment 1.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 2, number-word knowledge related to expressive vocabulary independent of age, r(30) = .582, and to receptive vocabulary, r(30) = .546, both p < .01. [→ Negen 2012](#negen-2012)

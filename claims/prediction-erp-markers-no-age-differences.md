@@ -13,16 +13,20 @@ sources:
     title: Thillay A 2015
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: thillay-a-2015-2
     title: Thillay A 2015 (2)
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Predictability enhances P3 amplitude, CNV amplitude, and shortens target-P3 latency equally at all ages, indexing mature prediction encoding, preparation, and implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` P3 amplitude to predictive sequence stimuli S2 and S3 increased with predictability, with no effect of age group and no predictability × age interaction. [→ Thillay A 2015](#thillay-a-2015)

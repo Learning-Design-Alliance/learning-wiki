@@ -15,12 +15,14 @@ sources:
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No cumulative benefit from participating in spatial activities in both childhood and adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The childhood × adolescent activity interaction was non-significant for both spatial skills and habits of mind, so a multiplicative effect was not supported. [→ Emily Grossnickle Peterson 2020](#emily-grossnickle-peterson-2020)

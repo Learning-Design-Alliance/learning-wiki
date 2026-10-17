@@ -15,18 +15,22 @@ sources:
     author: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: vo-2014-2
     resource: "https://doi.org/10.1177/0956797614538458"
     title: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F. (2014). Young Children Bet On Their Numerical Skills: Metacognition in the Numerical Domain. Psychological Science. https://doi.org/10.1177/0956797614538458"
     author: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Baseline risk preferences were not correlated with phi, gamma, or A'ROC in either condition. [→ Vo 2014](#vo-2014)

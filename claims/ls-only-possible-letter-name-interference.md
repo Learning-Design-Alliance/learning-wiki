@@ -15,12 +15,14 @@ sources:
     author: "Piasta, S. B., Purpura, D. J., & Wagner, R. K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Letter sound only instruction may interfere with letter name learning relative to incidental exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children receiving letter sound only instruction performed worse on letter name measures than children in the treated control, which the authors interpret as possible confusion or interference from sound-only labels. [→ Piasta 2010](#piasta-2010)

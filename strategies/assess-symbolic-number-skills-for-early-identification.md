@@ -17,7 +17,7 @@ sources:
 # Assess Arabic numeral identification and symbolic magnitude estimation to identify children likely to struggle with math
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 4 studies (3 associational, 1 review), `q3` · 1 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends early identification of math risk through assessment of symbolic number skills, given their robust longitudinal prediction across the ability range. It states that "assessment of Arabic numerals and number estimations would be useful in helping to identify children who are likely to struggle with math skills." This applies to kindergarten screening in early elementary settings.

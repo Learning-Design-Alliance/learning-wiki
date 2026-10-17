@@ -15,12 +15,14 @@ sources:
     author: "Brankaer, C., Ghesquière, P., & De Smedt, B."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The SYMP Test shows convergent validity with a computerized version of the task and discriminant validity against spelling achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Paper-and-pencil scores correlated negatively with computerized reaction times, and associations with mathematics were significantly stronger than associations with spelling. [→ Brankaer 2017](#brankaer-2017)

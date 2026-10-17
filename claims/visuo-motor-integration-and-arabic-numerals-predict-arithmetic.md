@@ -15,12 +15,14 @@ sources:
     author: Véronique Cornu, Caroline Hornung, Christine Schiltz, Romain Martin
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Arithmetic performance was additionally predicted by visuo-motor integration performance and knowledge of Arabic numerals. [→ Véronique Cornu 2017](#veronique-cornu-2017)

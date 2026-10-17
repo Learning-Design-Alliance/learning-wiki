@@ -13,12 +13,14 @@ sources:
     title: Schmidt FTC 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Trait self-control correlates with grades but not with standardized test scores at the bivariate level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Trait self-control showed significant positive correlations with mGPA (r = 0.16) but non-significant correlations with mathematics (r = 0.03) and physics (r = 0.01) scores. [→ Schmidt FTC 2020](#schmidt-ftc-2020)

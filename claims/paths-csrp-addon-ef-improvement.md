@@ -15,18 +15,22 @@ sources:
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: diamond-adele-2011-2
     resource: "https://doi.org/10.1126/science.1204529"
     title: "Diamond Adele, Lee Kathleen. (2011). Interventions shown to Aid Executive Function Development in Children 4–12 Years Old. Science. https://doi.org/10.1126/science.1204529"
     author: Diamond Adele, Lee Kathleen
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
 
 ## Subclaims
 `q2 i?` After a year of PATHS, 7–9 year-olds showed better inhibitory control and cognitive flexibility than control children, and greater post-test inhibitory control predicted fewer behavior problems one year later. [→ Diamond Adele 2011](#diamond-adele-2011)

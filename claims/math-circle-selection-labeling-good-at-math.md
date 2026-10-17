@@ -15,12 +15,14 @@ sources:
     author: "Eugene Kennedy & Lawrence Smolinsky"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Selecting students for the math circle initiated a labeling process designating them as good at math among peers, teachers, and parents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Selection into the circle initiated a labeling process by which students were designated as "good at math," accompanied by expectations for positive outcomes and affirmation of intellectual potential. [→ Eugene Kennedy & Lawrence Smolinsky 2016](#eugene-kennedy-lawrence-smolinsky-2016)

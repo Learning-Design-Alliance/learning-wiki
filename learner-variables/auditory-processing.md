@@ -12,7 +12,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 16 claims (7 show a difference, 7 mixed, 2 no difference) · 9 studies (3 causal, 2 quant-synthesis, 2 review, 2 associational), `q2`–`q3` · 3 of 9 report an effect size · 14 claims rest on one study
+> **Evidence** · 17 claims (8 show a difference, 7 mixed, 2 no difference) · 10 studies (3 causal, 3 associational, 2 quant-synthesis, 2 review), `q2`–`q3` · 4 of 10 report an effect size · 15 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.

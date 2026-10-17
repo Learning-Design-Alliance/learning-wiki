@@ -13,6 +13,7 @@ generated:
 # Panamath
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Panamath, the Psychophysical Assessment of Numerical Approximation, is a free software tool developed by the Halberda Lab for administering non-symbolic numerical comparison tasks and recording accuracy and response time in children and other learners.

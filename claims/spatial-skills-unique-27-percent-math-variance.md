@@ -15,12 +15,14 @@ sources:
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Entering TOSA and VMI after the EF measures significantly added 27.1% of variance (adj. R2 = .271) to prediction of WIAT math scores, leading the authors to reject the null that spatial skills add nothing beyond EF. [→ Verdine 2014](#verdine-2014)

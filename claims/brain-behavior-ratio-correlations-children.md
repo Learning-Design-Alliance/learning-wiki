@@ -15,12 +15,14 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # In children, the BOLD numerical ratio effect correlates with individual differences in the behavioral ratio effect in right OTC, left superior parietal cortex, and bilateral IFG; no such correlation reaches significance in adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Children showed significant brain-behavior correlations in right OTC (r = .53), left superior parietal cortex (r = .49), and IFG bilaterally (right r = .73; left r = .47). [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

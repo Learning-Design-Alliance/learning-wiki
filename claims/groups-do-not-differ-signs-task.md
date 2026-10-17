@@ -15,12 +15,14 @@ sources:
     author: "Kurvers, J., Van Hout, R., & Vallen, T."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The three groups did not differ in distinguishing conventional written signs from other visual signs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Children, illiterate adults and literate adults did not differ significantly in identifying writing signs as 'for reading', and the difference on non-writing signs was also not significant. [→ Kurvers 2009](#kurvers-2009)

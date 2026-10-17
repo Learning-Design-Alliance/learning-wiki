@@ -15,18 +15,22 @@ sources:
     author: Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: berhenke-2011-2
     resource: "https://doi.org/10.1016/j.ecresq.2011.04.001"
     title: "Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan. (2011). Observed Emotional and Behavioral Indicators of Motivation Predict School Readiness in Head Start Graduates. Early childhood research quarterly. https://doi.org/10.1016/j.ecresq.2011.04.001"
     author: Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Expressions of interest/arousal predicted less social competence and more hyperactivity. [→ Berhenke 2011](#berhenke-2011)

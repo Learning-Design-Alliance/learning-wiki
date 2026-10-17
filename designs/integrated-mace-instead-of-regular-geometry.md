@@ -17,6 +17,7 @@ sources:
 # Use integrated visual arts and geometry lessons instead of regular geometry lessons to teach the geometry curriculum and visual arts perception
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that teachers replace regular textbook geometry lessons with the integrated MACE lesson series, because students reached the same level of geometrical understanding through open, creative lessons while additionally improving in perceiving geometrical aspects of visual artworks. As the authors state, "teachers could use the integrated MACE lesson series instead of regular geometry lessons, in order to teach the geometry curriculum and visual arts perception", which may save time for teachers under curriculum time pressure.

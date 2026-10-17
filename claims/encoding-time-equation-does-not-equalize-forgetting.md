@@ -15,12 +15,14 @@ sources:
     author: Ricker Timothy J., Cowan Nelson
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Equating encoding time across presentation methods does not eliminate the forgetting-rate difference (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Even when encoding time per character was equated across methods, the Presentation Method x Retention-Interval Duration interaction remained significant, with greater forgetting under simultaneous presentation. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

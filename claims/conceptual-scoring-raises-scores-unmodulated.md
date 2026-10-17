@@ -15,18 +15,22 @@ sources:
     author: Gross Megan, Buac Milijana, Kaushanskaya Margarita
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: gross-megan-2014-2
     resource: "https://doi.org/10.1044/2014_AJSLP-13-0026"
     title: "Gross Megan, Buac Milijana, Kaushanskaya Margarita. (2014). Conceptual scoring of receptive and expressive vocabulary measures in simultaneous and sequential bilingual children. American Journal of Speech-Language Pathology. https://doi.org/10.1044/2014_AJSLP-13-0026"
     author: Gross Megan, Buac Milijana, Kaushanskaya Margarita
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Conceptual scoring significantly raises bilingual children's standardized vocabulary scores, an effect not modulated by test language, modality, or acquisition history once SES is controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Across both bilingual groups, conceptual scoring yielded higher adjusted scores than language-specific scoring. [→ Gross Megan 2014](#gross-megan-2014)

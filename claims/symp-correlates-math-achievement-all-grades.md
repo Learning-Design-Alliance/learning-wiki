@@ -15,12 +15,14 @@ sources:
     author: "Brankaer, C., Ghesquière, P., & De Smedt, B."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # SYMP Test performance correlates moderately and significantly with mathematics achievement in every grade of primary school, for both one-digit and two-digit comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a subsample with both standardized tests, SYMP Test correlations with mathematics achievement were moderate and significant across all grades (one-digit r = .28; two-digit r = .30). [→ Brankaer 2017](#brankaer-2017)

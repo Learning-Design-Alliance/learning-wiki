@@ -15,12 +15,14 @@ sources:
     author: "Tucker-Drob, Elliot M., & Harden, K. Paige"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The reverse math-to-motivation genetic pathway is not moderated by SES, supporting a directional motivation-to-achievement relation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In the refit Cholesky model with math as predictor and motivation as outcome, SES moderated genetic influences on math but did not moderate the math-to-motivation relation, consistent with motivation driving achievement rather than the reverse. [→ Tucker-Drob 2011](#tucker-drob-2011)

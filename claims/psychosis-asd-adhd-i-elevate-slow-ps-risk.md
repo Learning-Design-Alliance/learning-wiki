@@ -15,18 +15,22 @@ sources:
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: braaten-eb-2020-2
     resource: "https://doi.org/10.1007/s00787-019-01455-w"
     title: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE. (2020). Characteristics of child psychiatric outpatients with slow processing speed and potential mechanisms of academic impact. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01455-w"
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Psychosis, ASD, and ADHD-Inattentive Type independently elevate risk for slow processing speed relative to referred youth without diagnoses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` In logistic regression controlling for comorbid disorders, age, sex, and medication, psychosis (OR = 3.02) and ASD (OR = 1.85) significantly increased odds of slow PS versus clinic controls; ADHD overall was only a trend (OR = 1.42, p = .07). [→ Braaten EB 2020](#braaten-eb-2020)

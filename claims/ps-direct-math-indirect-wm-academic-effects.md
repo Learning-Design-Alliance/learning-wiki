@@ -15,18 +15,22 @@ sources:
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: braaten-eb-2020-2
     resource: "https://doi.org/10.1007/s00787-019-01455-w"
     title: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE. (2020). Characteristics of child psychiatric outpatients with slow processing speed and potential mechanisms of academic impact. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01455-w"
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Processing speed affects math achievement directly and both reading and math indirectly through working memory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` SEM showed a significant indirect effect of PS on Word Reading mediated by WM (ß = .13, p < .001) accounting for 86.7% of the total effect, with no significant direct effect on reading. [→ Braaten EB 2020](#braaten-eb-2020)

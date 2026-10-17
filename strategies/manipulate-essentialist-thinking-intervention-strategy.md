@@ -17,7 +17,7 @@ sources:
 # Interventions against racial stereotype acquisition should directly manipulate children's essentialist thinking about racial groups
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Because stereotypes, once formed, are highly resistant to change and can affect children's academic performance, the authors recommend intervening before stereotypes consolidate. They argue that "interventions aimed altering racial stereotypes may best be accomplished by directly manipulating children's pattern of thinking about racial groups," teaching children that race is not necessarily an immutable category and that skin color does not convey stable information about psychological attributes. This targets the essentialist thinking the study identified as a unique predictor of out-group stereotyping.

@@ -15,12 +15,14 @@ sources:
     author: Bonawitz Elizabeth, Shafto Patrick, Gweon Hyowon, Goodman Noah D., Spelke Elizabeth, Schulz Laura
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Preschoolers given a pedagogical demonstration of a toy function play for less time than children in interrupted, naive, or baseline conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children in the Pedagogical condition played with the toy significantly less time than children in the Interrupted, Naive, or Baseline conditions. [→ Bonawitz Elizabeth 2011](#bonawitz-elizabeth-2011)

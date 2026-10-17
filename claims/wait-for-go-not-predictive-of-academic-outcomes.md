@@ -15,12 +15,14 @@ sources:
     author: Day, Stephanie L.; Connor, Carol M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's ability to wait for 'go' on the RRRP was not a significant predictor of any academic outcome and was removed from the models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The 'wait for go' score was not a significant predictor in any of the academic models, though it was correlated with SWAN hyperactivity ratings. [→ Day 2017](#day-2017)

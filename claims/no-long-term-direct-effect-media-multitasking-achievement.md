@@ -15,12 +15,14 @@ sources:
     author: W.A. van der Schuur, S.E. Baumgartner, S.R. Sumter, P.M. Valkenburg
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Academic-media multitasking shows no direct long-term relationship with subsequent academic achievement in adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a three-wave longitudinal study, academic-media multitasking did not predict subsequent academic achievement scores. [→ W.A. van der Schuur 2020](#wa-van-der-schuur-2020)

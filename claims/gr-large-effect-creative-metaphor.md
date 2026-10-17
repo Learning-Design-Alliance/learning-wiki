@@ -15,12 +15,14 @@ sources:
     author: "Roger E. Beaty & Paul J. Silvia"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Broad retrieval ability has a large effect on creative metaphor quality (β = .52)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Broad retrieval ability (Gr) had a large effect on creative metaphor quality (β = .52, p < .001). [→ Roger E. Beaty & Paul J. Silvia 2013](#roger-e-beaty-paul-j-silvia-2013)

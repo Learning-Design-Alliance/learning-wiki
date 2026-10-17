@@ -15,12 +15,14 @@ sources:
     author: Kim E, Park Y-K, Byun Y-H, Park M-S, Kim H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # K-DTVP-2 visual perception scores decline significantly with age in Korean adults, dropping significantly from the 50s compared to the 20s
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mean K-DTVP-2 scores differed statistically across 10-yr age groups and were significantly lower from the 50s than in the 20s. [→ Kim E 2014](#kim-e-2014)

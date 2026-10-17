@@ -15,12 +15,14 @@ sources:
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Acute exercise has an overall small positive effect on cognitive functioning, especially prefrontal cortex-dependent executive functions, with effects lasting up to two hours after exercise cessation. [→ Basso Julia C. 2017](#basso-julia-c-2017)

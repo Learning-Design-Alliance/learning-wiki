@@ -17,7 +17,7 @@ sources:
 # Use the distinct maturational timelines to guide monitoring of adolescents with neurodevelopmental disorders
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 3 studies (1 causal, 1 review, 1 associational), `q2`–`q3` · 2 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article draws clinical implications from its two distinct maturational trajectories. Because sustained attention processes mature protractedly through adolescence, the authors stress "the importance of continued monitoring of teenagers with Attention Deficit Hyperactivity Disorder". Conversely, because prediction abilities appear mature by age 12, the finding "highlights the importance of early diagnosis and intervention in Autism Spectrum Disorder", which is associated with difficulties in predictive processing.

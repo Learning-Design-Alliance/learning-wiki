@@ -13,12 +13,14 @@ sources:
     title: Dry MJ 2012
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # TSP (complex spatial problem solving) and SART-OM (vigilance for frequent events) showed no significant alcohol effects, an outcome the authors report as unexpected
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` TSP and SART-OM failed to show significant effects of alcohol intoxication at any dose level. [→ Dry MJ 2012](#dry-mj-2012)

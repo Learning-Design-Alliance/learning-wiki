@@ -15,12 +15,14 @@ sources:
     author: "Grosbras, M.-H., Ross, P. D. & Belin, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Confusion patterns between vocal emotions are broadly stable across development: children miscategorize anger as fear, adolescents as sadness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Patterns of miscategorization are relatively similar across age groups, with anger most often mistaken for fear by children aged 5–8 and for sadness by adolescents. [→ Grosbras 2018](#grosbras-2018)

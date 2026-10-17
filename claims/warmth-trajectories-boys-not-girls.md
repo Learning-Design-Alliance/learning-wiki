@@ -15,12 +15,14 @@ sources:
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Low warmth trajectories predict lower achievement gains for boys but not for girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Boys in the low-increasing warmth trajectory obtained substantially lower achievement scores than boys in the high-declining warmth trajectory; warmth trajectory classes did not predict girls' achievement gains. [→ Spilt 2012](#spilt-2012)

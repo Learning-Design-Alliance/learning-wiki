@@ -15,12 +15,14 @@ sources:
     author: Derek M. Houston, Jessica Stewart, Aaron Moberly, George Hollich, and Richard T. Miyamoto
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Word-learning performance correlates with vocabulary production in normal-hearing children but not with sentence length
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Partial correlations controlling for age showed word-learning performance correlated significantly with word production (r = .77) and irregular word production (r = .46), but not with sentence length (r = .07). [→ Derek M. Houston 2012](#derek-m-houston-2012)

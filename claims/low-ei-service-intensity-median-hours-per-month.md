@@ -15,12 +15,14 @@ sources:
     author: McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # EI service intensity was low in the safety-net cohort, with a median of 2.7 hours per month across all services
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among the 525 children who initiated EI services, median total EI service intensity was 2.7 hours per month, ranging from 1.0 hour per month for developmental intervention to 4.2 hours per month for speech therapy. [→ McManus BM 2019](#mcmanus-bm-2019)

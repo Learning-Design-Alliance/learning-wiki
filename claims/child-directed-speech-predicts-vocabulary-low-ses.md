@@ -15,12 +15,14 @@ sources:
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Children who heard more child-directed speech at 19 months had larger expressive vocabularies at 24 months (r = 0.57), even controlling for infant vocalizations (r = 0.51). [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

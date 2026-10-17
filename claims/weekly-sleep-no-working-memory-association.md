@@ -15,12 +15,14 @@ sources:
     author: "Stefansdottir, R., Gundersen, H., Rognvaldsdottir, V., Lundervold, A. S., Gestsdottir, S., Gudmundsdottir, S. L., Chen, K. Y., Brychta, R. J. & Johannsson, E."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Weekly average sleep measures show no association with working memory performance in older adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No weekly sleep parameter (rest time, sleep time, efficiency, WASO, or variability) was associated with n-back response times or accuracies at p < 0.05. [→ Stefansdottir 2020](#stefansdottir-2020)

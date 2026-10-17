@@ -15,12 +15,14 @@ sources:
     author: "Marcovitch S., O'Brien M., Calkins S. D., Leerkes E. M., Weaver J. M., Levine D. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # EF and ToM each show substantial longitudinal stability from 3 to 5 years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controls, each construct was substantially stable across consecutive ages in the latent variable model. [→ Marcovitch S. 2014](#marcovitch-s-2014)

@@ -15,12 +15,14 @@ sources:
     author: "Arnold, D. H., Kupersmidt, J. B., Voegler-Lee, M. E., & Marshall, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Gender did not significantly moderate relationships between social functioning and academic development in preschoolers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` None of nine gender-by-social-functioning interactions significantly predicted academic outcomes, though seven of nine correlations were stronger for boys. [→ Arnold 2012](#arnold-2012)

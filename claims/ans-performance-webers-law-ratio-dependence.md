@@ -15,18 +15,22 @@ sources:
     author: Libertus Melissa E., Feigenson Lisa, Halberda Justin
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: libertus-melissa-e-2013-2
     resource: "https://doi.org/10.1016/j.lindif.2013.02.001"
     title: "Libertus Melissa E., Feigenson Lisa, Halberda Justin. (2013). Is Approximate Number Precision a Stable Predictor of Math Ability? Learning and Individual Differences. https://doi.org/10.1016/j.lindif.2013.02.001"
     author: Libertus Melissa E., Feigenson Lisa, Halberda Justin
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Preschoolers' ANS task performance follows Weber's Law: accuracy decreases as numerical ratio approaches equality, and improves with age over six months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children's accuracy on the ANS comparison task decreased as the ratio of blue to yellow dots approached equality, as predicted by Weber's Law. [→ Libertus Melissa E. 2013](#libertus-melissa-e-2013)

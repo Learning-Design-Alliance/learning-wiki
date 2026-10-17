@@ -15,12 +15,14 @@ sources:
     author: "Fitamen, C., Blaye, A. & Camos, V."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Four-year-olds showed no benefit of transparent goal cues in either visual or finger tracking conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In 4-year-olds the cue effect was never significant in either tracking condition, and the Cue × Tracking interaction was not significant. [→ Fitamen 2019](#fitamen-2019)

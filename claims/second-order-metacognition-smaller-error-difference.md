@@ -15,12 +15,14 @@ sources:
     author: "Metcalfe, J., Vuorre, M., Towner, E., & Eich, T. S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When asked how surprised they would be to be wrong, participants showed slightly greater expected uncertainty for high-confidence errors than high-confidence correct answers, but the effect was small. [→ Metcalfe 2023](#metcalfe-2023)

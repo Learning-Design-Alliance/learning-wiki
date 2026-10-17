@@ -15,12 +15,14 @@ sources:
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten children's non-symbolic addition performance correlates with end-of-year mathematics achievement, independent of literacy (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, non-symbolic addition accuracy correlated with mathematics test performance (r = .587) but not significantly with literacy (r = .297), and the mathematics correlation survived correction for literacy (r = .530). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

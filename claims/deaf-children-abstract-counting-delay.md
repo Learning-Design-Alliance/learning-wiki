@@ -15,12 +15,14 @@ sources:
     author: Jacqueline Leybaert and Marie-Noëlle Van Cutsem
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Deaf children produce shorter conventional number strings in abstract counting than hearing children of the same school level, with a roughly 2-year delay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Hearing children's mean abstract counting (strict and lenient scores) was higher than deaf children's, and the deaf group's highest number did not increase linearly with age. [→ Jacqueline Leybaert and Marie-Noëlle Van Cutsem 2002](#jacqueline-leybaert-and-marie-noelle-van-cutsem-2002)

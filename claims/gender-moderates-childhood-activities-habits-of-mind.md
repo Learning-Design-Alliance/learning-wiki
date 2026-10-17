@@ -15,12 +15,14 @@ sources:
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Gender moderates the relation between childhood spatial activities and spatial habits of mind, which is stronger for males than females
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The childhood activities × gender interaction significantly predicted spatial habits of mind (β = .66), with a stronger relation for males than females. [→ Emily Grossnickle Peterson 2020](#emily-grossnickle-peterson-2020)

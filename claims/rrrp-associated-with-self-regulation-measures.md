@@ -15,18 +15,22 @@ sources:
     author: Day, Stephanie L.; Connor, Carol M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: day-2017-2
     resource: "https://doi.org/10.1177/1534508416670367"
     title: "Day, Stephanie L.; Connor, Carol M. (2017). Examining the relations between self-regulation and achievement in third grade students. Assessment for Effective Intervention, 42(2), 97-109. https://doi.org/10.1177/1534508416670367"
     author: Day, Stephanie L.; Connor, Carol M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` On Part 1 of the fall RRRP, Memory for Digits Reversed and the SWAN Attention subscale were significantly related to performance, with SWAN hyperactivity showing only a trend (p = .071). [→ Day 2017](#day-2017)

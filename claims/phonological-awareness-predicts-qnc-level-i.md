@@ -15,12 +15,14 @@ sources:
     author: "Krajewski, K., & Schneider, W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Phonological awareness assessed at age five significantly predicted QNC Level I competencies (number words isolated from quantities) measured at T2. [→ Krajewski 2009](#krajewski-2009)

@@ -15,12 +15,14 @@ sources:
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Higher-SES preschoolers outperform lower-SES peers on math, spatial, EF, and vocabulary measures, except the Tap Test where the difference is a non-significant trend
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Independent-samples t-tests showed higher-SES children scored significantly better on all measures except the Tap Test (p = .056); the SES gap on WIAT math had Hedges g = 1.79 and on TOSA g = 1.63. [→ Verdine 2014](#verdine-2014)

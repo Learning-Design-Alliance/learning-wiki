@@ -15,12 +15,14 @@ sources:
     author: Cargnelutti, E., Tomasetto, C., Passolunghi, M.C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In Grade 3 children, math anxiety is significantly associated with math performance once general anxiety is accounted for. [→ Cargnelutti 2017](#cargnelutti-2017)

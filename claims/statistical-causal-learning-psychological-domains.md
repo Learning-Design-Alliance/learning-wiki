@@ -15,18 +15,22 @@ sources:
     author: "Gopnik, A., & Wellman, H. M."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: gopnik-2012-2
     resource: "https://doi.org/10.1037/a0028044"
     title: "Gopnik, A., & Wellman, H. M. (2012). Reconstructing constructivism: Causal models, Bayesian learning mechanisms and the theory theory. Psychological Bulletin, 138(6), 1085-1108. https://doi.org/10.1037/a0028044"
     author: "Gopnik, A., & Wellman, H. M."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Children as young as 20 months use statistical Bayesian reasoning to infer another person's desires. [→ Gopnik 2012](#gopnik-2012)

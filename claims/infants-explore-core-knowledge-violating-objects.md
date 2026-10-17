@@ -15,12 +15,14 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After seeing either a solidity or support violation, infants reversed the standard novelty preference and spent most exploration time on the object that had violated expectations. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

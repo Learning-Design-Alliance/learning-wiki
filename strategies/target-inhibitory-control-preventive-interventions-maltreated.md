@@ -17,7 +17,7 @@ sources:
 # Target inhibitory control in preventive interventions for maltreated children and adolescents
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on their findings, the authors recommend that "it may be beneficial for preventive interventions to specifically target inhibitory control (e.g., teaching skills that improve inhibitory control and/or compensate for deficits in inhibitory control)" to prevent or ameliorate negative outcomes among maltreated children and adolescents. They note two existing approaches: laboratory-based training such as repeated practice on a computerized inhibitory control task, and ecologically-based intervention focusing on self-regulation broadly. The authors state this line of research is still in its infancy but warrants additional attention.

@@ -15,12 +15,14 @@ sources:
     author: "Maura Varley Gutiérrez, Craig Willey, & Lena L. Khisty"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students used two languages flexibly for different mathematical sub-tasks but lacked academic Spanish vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students accessed and utilized two languages for various sub-tasks within mathematical work, and/or regretted their lack of proficiency in academic Spanish, deeming it a lost learning resource. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

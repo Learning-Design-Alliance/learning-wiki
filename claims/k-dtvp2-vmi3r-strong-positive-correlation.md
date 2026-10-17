@@ -15,12 +15,14 @@ sources:
     author: Kim E, Park Y-K, Byun Y-H, Park M-S, Kim H.
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # K-DTVP-2 and VMI-3R scores are strongly positively correlated (r = 0.855)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The two measurements showed a significant positive correlation with r = 0.855. [→ Kim E 2014](#kim-e-2014)

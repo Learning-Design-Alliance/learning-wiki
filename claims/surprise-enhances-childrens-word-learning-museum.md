@@ -15,18 +15,22 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: stahl-aimee-e-2019-2
     resource: "https://doi.org/10.1111/tops.12389"
     title: "Stahl Aimee E., Feigenson Lisa. (2019). Violations of Core Knowledge Shape Early Learning. Topics in Cognitive Science. https://doi.org/10.1111/tops.12389"
     author: Stahl Aimee E., Feigenson Lisa
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children who saw an expected spatiotemporal continuity outcome performed at chance on a novel verb test, while children who saw the surprising outcome robustly learned the verb from one exposure. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

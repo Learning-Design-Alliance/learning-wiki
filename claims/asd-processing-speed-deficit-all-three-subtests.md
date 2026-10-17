@@ -15,24 +15,30 @@ sources:
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: haigh-sarah-m-2018-2
     resource: "https://doi.org/10.1007/s10803-018-3515-z"
     title: "Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M. (2018). Processing Speed is Impaired in Adults with Autism Spectrum Disorder, and Relates to Social Communication Abilities. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-018-3515-z"
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: haigh-sarah-m-2018-3
     resource: "https://doi.org/10.1007/s10803-018-3515-z"
     title: "Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M. (2018). Processing Speed is Impaired in Adults with Autism Spectrum Disorder, and Relates to Social Communication Abilities. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-018-3515-z"
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # The processing speed deficit in adults with ASD appears on each of the three standardized subtests: Trail Making A, Symbol Coding, and Category Fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` ASD participants were significantly slower on Trail Making Test Part A than controls (d = .84). [→ Haigh Sarah M. 2018](#haigh-sarah-m-2018)

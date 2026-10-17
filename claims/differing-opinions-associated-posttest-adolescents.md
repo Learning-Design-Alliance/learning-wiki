@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: howe-2017
-    title: "Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction."
+    resource: "https://doi.org/10.1016/j.learninstruc.2017.10.007"
+    title: "Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction. [doi:10.1016/j.learninstruc.2017.10.007](https://doi.org/10.1016/j.learninstruc.2017.10.007)"
     author: Howe, Christine; Zachariou, Antonia
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Exchanging differing opinions during small-group collaboration is associated with individual post-test performance among students aged 10 to 22
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Associations between group dialogue and post-test performance confirmed a key role for differing opinions in individual knowledge acquisition during adolescence and early adulthood. [→ Howe 2017](#howe-2017)
@@ -28,7 +31,7 @@ sources:
 
 ### Howe 2017
 
-Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction.
+Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction. [doi:10.1016/j.learninstruc.2017.10.007](https://doi.org/10.1016/j.learninstruc.2017.10.007)
 
 `q2 · i?` · `associational · r?`
 

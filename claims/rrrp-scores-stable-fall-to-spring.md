@@ -15,12 +15,14 @@ sources:
     author: Day, Stephanie L.; Connor, Carol M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # RRRP scores were fairly stable across fall to spring in third grade, with a slight decrease in Part 1 and no change in Part 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Part 1 scores decreased slightly from fall to spring (b = −.418, p < .001), while Part 2 color-switch scores did not change (b = −.024, p = .811). [→ Day 2017](#day-2017)

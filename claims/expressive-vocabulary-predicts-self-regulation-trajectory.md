@@ -15,12 +15,14 @@ sources:
     author: Montroy Janelle J., Bowles Ryan P., Skibbe Lori E., McClelland Megan M., Morrison Frederick J.
     q: 2
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Higher expressive vocabulary predicts membership in faster self-regulation trajectories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r3` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Each 1 SD increase in expressive vocabulary raised odds of preschool-developer versus later-developer classification (OR = 1.40 MLSELD; OR = 1.23 Oregon) and of early versus intermediate classification (OR = 1.68 MLSELD; OR = 1.63 Oregon). [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

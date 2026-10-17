@@ -15,12 +15,14 @@ sources:
     author: "Maura Varley Gutiérrez, Craig Willey, & Lena L. Khisty"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students compared the after-schools favorably to their regular mathematics classrooms, noting limited activity diversity in class and freedom to move around and consult peers in the after-school. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

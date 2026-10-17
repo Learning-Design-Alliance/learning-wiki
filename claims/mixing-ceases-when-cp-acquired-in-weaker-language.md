@@ -15,12 +15,14 @@ sources:
     author: "Bernardini, P., & Schlyter, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Code-mixing decreases and ceases as the weaker language syntactic structure develops to CP level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` When the child has acquired CP in the weaker language, intra-sentential mixing of the Ivy Hypothesis type decreases radically and eventually stops. [→ Bernardini 2004](#bernardini-2004)

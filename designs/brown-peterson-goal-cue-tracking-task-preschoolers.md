@@ -17,6 +17,7 @@ sources:
 # Brown-Peterson working memory task with animated goal cue tracking for preschoolers
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A computerized Brown-Peterson task in which 4- and 5-year-olds memorized series of one to three colored drawings of animals and objects presented visually with their auditory name, then recalled them after a retention interval during which an animated shape moved across the screen. Children tracked the moving shape — an abstract form, an abstract black rectangle cue, or a transparent school-bag cue — either visually or with a finger. Performance was measured by the number of words correctly recalled, with a control condition as baseline for the between-subjects comparison.

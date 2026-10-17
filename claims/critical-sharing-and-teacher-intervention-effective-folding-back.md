@@ -15,12 +15,14 @@ sources:
     author: "Mabotja, S., Chuene, K., Maoto, S., & Kibirige, I."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Learners' critical sharing of ideas and the teacher's intentional intervention were the two critical factors for effective folding back
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Analysis of learner conversations identified learners' critical sharing of ideas and the teacher's intentional intervention as critical elements of effective folding back. [→ Mabotja 2018](#mabotja-2018)

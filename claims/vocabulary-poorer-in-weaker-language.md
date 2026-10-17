@@ -15,12 +15,14 @@ sources:
     author: "Bernardini, P., & Schlyter, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Vocabulary is poorer in the weaker language, with roughly one-third the word types of the stronger language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` At comparable sample points, each child produced about one-third the number of word types in the Romance language compared to Swedish. [→ Bernardini 2004](#bernardini-2004)

@@ -17,7 +17,7 @@ sources:
 # Choose the knower-level point estimate according to the purpose of the analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Because the Excel sheet outputs a full posterior distribution over knower levels, researchers who need a point estimate should choose it based on their research question. For most cases the mode is sensible, but when an argument would be undermined by misclassifying a CP-knower as a lower level, the article recommends using the highest knower level whose posterior probability exceeds the prior probability, which tends to sort ambiguous cases into higher levels.

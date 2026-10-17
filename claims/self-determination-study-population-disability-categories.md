@@ -13,12 +13,14 @@ sources:
     title: Shogren 2007
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The study targeted students with learning disabilities, mild and moderate mental retardation, and other health impairments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The article examines individual and ecological predictors of self-determination for students with learning disabilities, mild and moderate mental retardation, and other health impairments. [→ Shogren 2007](#shogren-2007)

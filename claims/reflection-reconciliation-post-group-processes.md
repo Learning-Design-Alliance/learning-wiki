@@ -10,16 +10,19 @@ generated:
 evidence_strength: weak
 sources:
   - id: howe-2017
-    title: "Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction."
+    resource: "https://doi.org/10.1016/j.learninstruc.2017.10.007"
+    title: "Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction. [doi:10.1016/j.learninstruc.2017.10.007](https://doi.org/10.1016/j.learninstruc.2017.10.007)"
     author: Howe, Christine; Zachariou, Antonia
     q: 1
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Individual acceptance of group constructions depends on reflection and reconciliation processes triggered by differing opinions, sometimes occurring after the group session
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Individuals may or may not accept the constructions groups build, depending on reflection and reconciliation processes triggered through difference that sometimes occur post-group. [→ Howe 2017](#howe-2017)
@@ -28,7 +31,7 @@ sources:
 
 ### Howe 2017
 
-Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction.
+Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction. [doi:10.1016/j.learninstruc.2017.10.007](https://doi.org/10.1016/j.learninstruc.2017.10.007)
 
 `q1 · i?` · `associational · r?`
 

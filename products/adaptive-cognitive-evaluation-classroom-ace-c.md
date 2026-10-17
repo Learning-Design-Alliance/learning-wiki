@@ -13,6 +13,7 @@ generated:
 # Adaptive Cognitive Evaluation Classroom (ACE-C)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A group-administered iPad battery developed by Gallen et al. for measuring executive functions such as sustained attention, working memory, and multitasking in grades 4–8 classrooms.

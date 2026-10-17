@@ -15,12 +15,14 @@ sources:
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In healthy controls, the processing speed–SAS-II association is not significant once IQ is accounted for
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q3 i?` Among controls, processing speed correlated with SAS-II scores (r = -.43), but this was no longer significant after accounting for IQ (r = -.41, p = .061). [→ Haigh Sarah M. 2018](#haigh-sarah-m-2018)

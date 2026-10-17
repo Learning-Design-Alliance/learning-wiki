@@ -15,12 +15,14 @@ sources:
     author: "Hauser, T. U., Iannaccone, R., Walitza, S., Brandeis, D., & Brem, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents show increased anterior insula responses specifically to negative reward prediction errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the right anterior insula, adolescents showed a significantly increased response to negative RPEs compared to adults, with no significant differences for neutral or positive RPEs. [→ Hauser 2015](#hauser-2015)

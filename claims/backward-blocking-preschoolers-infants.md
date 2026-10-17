@@ -15,18 +15,22 @@ sources:
     author: "Gopnik, A., & Wellman, H. M."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: gopnik-2012-2
     resource: "https://doi.org/10.1037/a0028044"
     title: "Gopnik, A., & Wellman, H. M. (2012). Reconstructing constructivism: Causal models, Bayesian learning mechanisms and the theory theory. Psychological Bulletin, 138(6), 1085-1108. https://doi.org/10.1037/a0028044"
     author: "Gopnik, A., & Wellman, H. M."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Preschoolers make probabilistic backward-blocking causal inferences, with capacities appearing by 18 months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Preschool children make correct backward-blocking inferences, judging an object less likely to be causal when another object alone sufficed to activate the machine. [→ Gopnik 2012](#gopnik-2012)

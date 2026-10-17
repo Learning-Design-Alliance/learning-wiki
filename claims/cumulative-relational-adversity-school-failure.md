@@ -15,12 +15,14 @@ sources:
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Consistent with chronic stress models, the probability of school failure increased with the timing and duration of exposure to relational stress, with chronic conflict most strongly associated with underachievement. [→ Spilt 2012](#spilt-2012)

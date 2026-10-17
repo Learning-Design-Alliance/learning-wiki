@@ -15,12 +15,14 @@ sources:
     author: Gunderson Elizabeth A., Gripshover Sarah J., Romero Carissa, Dweck Carol S., Goldin-Meadow Susan, Levine Susan C.
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Parents' own incremental theories did not predict their process praise use or their children's motivational frameworks, and counter-intuitively correlated with more person praise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Parents' incremental theory scores correlated with more frequent person praise, r(44) = .29, p < .05, but not with process praise (r = −.12) or children's frameworks (r = −.06). [→ Gunderson Elizabeth A. 2013](#gunderson-elizabeth-a-2013)

@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Camilla K. Gilmore
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with LA show a less severe impairment pattern than children with MLD, differing only on symbolic approximate addition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with LA showed group differences only on the symbolic approximate addition task, whereas children with MLD showed consistent differences across symbolic tasks. [→ Bert De Smedt 2011](#bert-de-smedt-2011)

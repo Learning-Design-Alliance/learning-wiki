@@ -15,12 +15,14 @@ sources:
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Different responsiveness-determination approaches (status vs. slope, criteria, domains, cut points) identify different students as adequate and inadequate responders, with little or no overlap
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Methods of determining instructional response differ on four dimensions, and approaches differing on these dimensions are likely to identify different students as adequate and inadequate responders. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

@@ -15,12 +15,14 @@ sources:
     author: "Arnold, D. H., Kupersmidt, J. B., Voegler-Lee, M. E., & Marshall, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Social skills were significantly related to each of the three academic outcomes controlling for inattention and aggression. [→ Arnold 2012](#arnold-2012)

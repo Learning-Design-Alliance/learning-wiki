@@ -15,12 +15,14 @@ sources:
     author: Montroy Janelle J., Bowles Ryan P., Skibbe Lori E., McClelland Megan M., Morrison Frederick J.
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Child gender predicts self-regulation trajectory membership, with girls more likely to be earlier developers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` In the Michigan longitudinal sample girls were 1.79 times more likely to be preschool developers versus later developers (OR = 1.79); in the Oregon sample girls were 2.34 times more likely to be early versus intermediate developers (OR = 2.34). [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

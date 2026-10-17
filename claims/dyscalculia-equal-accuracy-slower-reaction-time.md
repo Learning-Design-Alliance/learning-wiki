@@ -15,18 +15,22 @@ sources:
     author: Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: bulthé-jessica-2019-2
     resource: "https://doi.org/10.1016/j.neuroimage.2018.06.012"
     title: "Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert. (2019). Multi-method brain imaging reveals impaired representations of number as well as altered connectivity in adults with dyscalculia. Neuroimage, 190, 289-302. https://doi.org/10.1016/j.neuroimage.2018.06.012"
     author: Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Accuracy did not differ significantly between groups, but reaction times were significantly slower in dyscalculia (dCohen = 1.89). [→ Bulthé Jessica 2019](#bulthe-jessica-2019)

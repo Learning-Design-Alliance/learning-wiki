@@ -15,18 +15,22 @@ sources:
     author: Bonawitz Elizabeth, Shafto Patrick, Gweon Hyowon, Goodman Noah D., Spelke Elizabeth, Schulz Laura
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bonawitz-elizabeth-2011-2
     resource: "https://doi.org/10.1016/j.cognition.2010.10.001"
     title: "Bonawitz Elizabeth, Shafto Patrick, Gweon Hyowon, Goodman Noah D., Spelke Elizabeth, Schulz Laura. (2011). The Double-edged Sword of Pedagogy: Instruction limits spontaneous exploration and discovery. Cognition. https://doi.org/10.1016/j.cognition.2010.10.001"
     author: Bonawitz Elizabeth, Shafto Patrick, Gweon Hyowon, Goodman Noah D., Spelke Elizabeth, Schulz Laura
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Preschoolers constrain exploration after direct instruction and after overhearing instruction to another child, but not after overhearing instruction to an adult or a non-pedagogical intentional action
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children in the Direct and Indirect Child conditions performed fewer different kinds of actions than children in the Indirect Adult and Intentional conditions. [→ Bonawitz Elizabeth 2011](#bonawitz-elizabeth-2011)

@@ -15,12 +15,14 @@ sources:
     author: "Kidd, C., Palmeri, H., & Aslin, R. N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children in the reliable condition waited significantly longer on the marshmallow task than children in the unreliable condition (p < 0.0005)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children who first observed a reliable experimenter waited a mean of 722.43 s versus 181.57 s for children who observed an unreliable experimenter, a highly significant difference. [→ Kidd 2013](#kidd-2013)

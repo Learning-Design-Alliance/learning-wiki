@@ -12,7 +12,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 19 claims (9 show a difference, 5 mixed, 3 no difference, 2 unmarked) · 14 studies (6 associational, 3 causal, 3 review, 2 theoretical), `q2`–`q3` · 4 of 14 report an effect size · 17 claims rest on one study
+> **Evidence** · 23 claims (12 show a difference, 6 mixed, 3 no difference, 2 unmarked) · 16 studies (7 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 6 of 16 report an effect size · 21 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).

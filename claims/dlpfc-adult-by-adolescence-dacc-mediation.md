@@ -15,18 +15,22 @@ sources:
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: constantinidis-christos-2019-2
     resource: "https://doi.org/10.1016/j.tins.2019.07.004"
     title: "Constantinidis Christos, Luna Beatriz. (2019). Neural Substrates of Inhibitory Control Maturation in Adolescence. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2019.07.004"
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # In the one longitudinal fMRI study, dorsolateral prefrontal engagement reached adult levels by adolescence while dorsal anterior cingulate engagement continued increasing and mediated behavioral improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` dlPFC engagement during correct antisaccades was greatest in childhood but at adult levels by adolescence. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

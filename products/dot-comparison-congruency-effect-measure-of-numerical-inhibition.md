@@ -13,6 +13,7 @@ generated:
 # Dot comparison congruency-effect measure of numerical inhibition
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A non-symbolic numerical comparison assessment developed by Gilmore et al. in which learners compare dot arrays while ignoring irrelevant visual features to measure interference control in numerical contexts.

@@ -15,12 +15,14 @@ sources:
     author: "Fosco, W. D., Hawk, L. W. Jr., Colder, C. R., Meisel, S. N., & Lengua, L. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Rate of growth in task-based inhibitory control is unrelated to later delinquent behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Individual differences in the slope of task-based inhibitory control did not predict delinquent behavior in middle adolescence or emerging adulthood, contrary to hypotheses. [→ Fosco 2019](#fosco-2019)

@@ -15,12 +15,14 @@ sources:
     author: Valiente Carlos, Eisenberg Nancy, Haugen Rg, Spinrad Tracy L., Hofer Claire, Liew Jeffrey, Kupfer Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` EC was positively related to social functioning, and social functioning was positively related to achievement, even with SES, age, and sex as covariates. [→ Valiente Carlos 2011](#valiente-carlos-2011)

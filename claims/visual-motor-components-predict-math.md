@@ -15,12 +15,14 @@ sources:
     author: "Carames, C. N., Irwin, L. N., & Kofler, M. J."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Visual-motor integration, visual perception, and motor coordination each independently predict math achievement in school-aged children with and without ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Visual-motor integration (β=.28), visual perception (β=.21), and motor coordination (β=.21) each uniquely predict math composite scores. [→ Carames 2022](#carames-2022)

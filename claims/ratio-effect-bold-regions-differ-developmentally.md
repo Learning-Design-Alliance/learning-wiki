@@ -15,12 +15,14 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The numerical ratio effect in BOLD activity appears in superior parietal cortex in adults but in inferior frontal gyrus, precentral gyrus, and thalamus in children, with no group-level parietal ratio effect in children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Adults showed significant numerical ratio effects in precentral gyrus and superior parietal cortex; children showed ratio-dependent activity in IFG, precentral gyrus, and thalamus but not superior parietal cortex. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

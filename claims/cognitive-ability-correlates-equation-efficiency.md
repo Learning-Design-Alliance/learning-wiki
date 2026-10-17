@@ -13,12 +13,14 @@ sources:
     title: Susac A 2014
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Students with higher general cognitive ability are more efficient in equation rearrangement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Inverse efficiency correlated with Raven's Progressive Matrices scores, r(307) = −0.22, controlling for age. [→ Susac A 2014](#susac-a-2014)

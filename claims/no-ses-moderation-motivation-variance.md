@@ -15,12 +15,14 @@ sources:
     author: "Tucker-Drob, Elliot M., & Harden, K. Paige"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # SES does not moderate genetic, shared, or nonshared environmental variance in four-year-olds' learning motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A univariate twin model of motivation found no statistically significant SES moderation of genetic, shared environmental, or nonshared environmental variance in motivation. [→ Tucker-Drob 2011](#tucker-drob-2011)

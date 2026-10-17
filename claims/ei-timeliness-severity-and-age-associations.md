@@ -15,18 +15,22 @@ sources:
     author: McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: mcmanus-bm-2019-2
     resource: "https://doi.org/10.1001/jamanetworkopen.2018.7529"
     title: "McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH. (2019). Timing and Intensity of Early Intervention Service Use and Outcomes Among a Safety-Net Population of Children. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2018.7529"
     author: McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Greater clinical severity and older child age were associated with more timely EI care plan receipt in a safety-net cohort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children with greatest condition severity received an EI care plan 54 days sooner than children without a special health care need (b, ŌłÆ53.5; 95% CI, ŌłÆ77.4 to ŌłÆ29.6). [→ McManus BM 2019](#mcmanus-bm-2019)

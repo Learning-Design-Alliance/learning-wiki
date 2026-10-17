@@ -15,18 +15,22 @@ sources:
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: hammer-2014-2
     resource: "https://doi.org/10.1016/j.ecresq.2014.05.008"
     title: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E. (2014). The Language and Literacy Development of Young Dual Language Learners: A Critical Review. Early childhood research quarterly. https://doi.org/10.1016/j.ecresq.2014.05.008"
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # DLL children can catch up to monolingual norms in English vocabulary, but need substantial time and exposure to do so
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Five-year-old DLLs in Canada caught up to monolingual PPVT-III norms after an average of 34 months of English exposure. [→ Hammer 2014](#hammer-2014)

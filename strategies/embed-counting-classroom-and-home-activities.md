@@ -17,7 +17,7 @@ sources:
 # Embed counting practice in varied classroom activities and inform parents about advanced counting activities at home
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends concrete, cost-effective classroom practices: "challenging them to think of different ways to count objects in an array, having them use counting strategies to compare the number of blocks in two of their block buildings, count the number of chairs of the students who are absent, count groups of items around the classroom, and use counting to solve simple addition and subtraction problems." It also recommends informing parents about fostering math-related activities involving advanced counting, embedded within each family's home and cultural context.

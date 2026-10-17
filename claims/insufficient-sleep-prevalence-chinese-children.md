@@ -15,12 +15,14 @@ sources:
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the national cross-sectional survey, mean sleep duration was 9.35±0.77 hours, with only 22.34% of children obtaining sufficient sleep (≥10 hours/day) and 37.96% short sleep (<9 hours/day). [→ Li Shenghui 2013](#li-shenghui-2013)

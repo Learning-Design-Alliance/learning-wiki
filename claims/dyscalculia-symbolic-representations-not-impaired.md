@@ -15,12 +15,14 @@ sources:
     author: Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No group difference in the quality of symbolic number representations between adults with dyscalculia and controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ROI decoding and searchlight analyses found no significant group differences for symbolic number representations, though decoding was near chance levels. [→ Bulthé Jessica 2019](#bulthe-jessica-2019)

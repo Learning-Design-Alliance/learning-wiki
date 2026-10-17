@@ -15,12 +15,14 @@ sources:
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: 2
+    kind: review
+    rigour: 3
 ---
 
 # Acute exercise increases cortical delta, theta, alpha, and beta EEG power, with a moderately large effect size of 0.38 to 0.75 standard deviations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · review `r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A review of 18 acute exercise EEG studies found significant increases in alpha, delta, theta, and beta activity with effect sizes of 0.38 to 0.75 standard deviations across cortical regions. [→ Basso Julia C. 2017](#basso-julia-c-2017)

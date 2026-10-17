@@ -15,18 +15,22 @@ sources:
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: diamond-adele-2011-2
     resource: "https://doi.org/10.1126/science.1204529"
     title: "Diamond Adele, Lee Kathleen. (2011). Interventions shown to Aid Executive Function Development in Children 4–12 Years Old. Science. https://doi.org/10.1126/science.1204529"
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Children trained on CogMed improve on games they practice and transfer to other working-memory tasks, but benefits usually do not generalize to unpracticed EF skills. [→ Diamond Adele 2011](#diamond-adele-2011)

@@ -15,18 +15,22 @@ sources:
     author: "Compagnoni, M., Karlen, Y., & Maag Merki, K."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: compagnoni-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09190-y"
     title: "Compagnoni, M., Karlen, Y., & Maag Merki, K. (2019). Play it safe or play to learn: mindsets and behavioral self-regulation in kindergarten. Metacognition and Learning, 14, 291–314. https://doi.org/10.1007/s11409-019-09190-y"
     author: "Compagnoni, M., Karlen, Y., & Maag Merki, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarteners with a mastery goal orientation show better executive functions than children with a performance orientation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Analysis of variance showed a significant main effect of goal orientation on EF with a medium effect size, independent of trait beliefs. [→ Compagnoni 2019 (2)](#compagnoni-2019-2)

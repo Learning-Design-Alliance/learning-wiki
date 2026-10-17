@@ -15,12 +15,14 @@ sources:
     author: Montroy Janelle J., Bowles Ryan P., Skibbe Lori E., McClelland Megan M., Morrison Frederick J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Behavioral self-regulation development between ages three and seven is best described by an exponential (nonlinear) growth curve
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across three samples, latent growth curve model fit indices favored an exponential trajectory of behavioral self-regulation over linear, quadratic, and logistic alternatives. [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

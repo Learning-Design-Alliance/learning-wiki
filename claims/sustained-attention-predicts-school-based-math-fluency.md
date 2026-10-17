@@ -15,12 +15,14 @@ sources:
     author: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sustained attention positively predicts math fluency assessed in group-based school settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Sustained attention showed a significant positive main effect on targeted math fluency scores after accounting for basic response time and demographic factors. [→ Gallen 2023](#gallen-2023)

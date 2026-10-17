@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2016
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Non-symbolic training improves collection comparison at ratios 1:2, 2:3 and 3:4, while symbolic training improves only ratio 1:2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The non-symbolic group improved collection comparison performance for ratios 1:2, 2:3 and 3:4; the symbolic group improved only for ratio 1:2. [→ Honoré N 2016](#honore-n-2016)

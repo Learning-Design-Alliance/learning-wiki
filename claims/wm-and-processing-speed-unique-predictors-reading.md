@@ -15,18 +15,22 @@ sources:
     author: "Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: christopher-2012-2
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/"
     title: "Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K. (2012). Predicting Word Reading and Comprehension with Executive Function and Speed Measures Across Development: A Latent Variable Analysis. Journal of Experimental Psychology: General. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/"
     author: "Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Working memory significantly predicted both comprehension and word reading after controlling for the other cognitive factors. [→ Christopher 2012](#christopher-2012)

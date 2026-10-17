@@ -13,16 +13,20 @@ sources:
     title: Mol SE and Jolles J 2014
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: mol-se-and-jolles-j-2014-2
     title: Mol SE and Jolles J 2014 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Leisure readers are far more likely than non-leisure readers to enjoy reading and to engage in mental imagery, in both educational tracks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the lower track, leisure readers reported significantly more reading enjoyment and mental imagery than non-leisure readers. [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

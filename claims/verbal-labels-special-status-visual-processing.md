@@ -15,12 +15,14 @@ sources:
     author: "Collins, Jessica A., & Olson, Ingrid R."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Verbal labels have a special status in influencing visual processing beyond mere association
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Auditory verbal labels facilitate orientation discrimination for associated objects whereas equally associated non-verbal sounds do not, and the label priming effect is greater for typical category members. [→ Collins 2014](#collins-2014)

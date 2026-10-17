@@ -15,12 +15,14 @@ sources:
     author: James, K. H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Behavioural letter recognition improves more after printing than visual-only training, but not significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Letter recognition showed only a trend toward a training-group by pre/post interaction (F(1,5) = 5.0, p < .07, partial eta squared = .50); the sensori-motor group improved (M = 7.5 to 8.0) while the control group stayed the same. [→ James 2010](#james-2010)

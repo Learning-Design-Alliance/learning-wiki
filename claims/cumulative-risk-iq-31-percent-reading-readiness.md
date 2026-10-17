@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A cumulative risk index and nonverbal IQ together account for 31% of variance in reading readiness at school entry
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Nonverbal IQ (R² = .18) and cumulative risk (R² = .03) each uniquely predicted reading readiness, jointly explaining 31% of its variance; IQ did not predict attention and behaviour. [→ Dilnot 2017](#dilnot-2017)

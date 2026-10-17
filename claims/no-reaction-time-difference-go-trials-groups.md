@@ -15,12 +15,14 @@ sources:
     author: "Bruce, J., & Kim, H. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` A one-way ANOVA found no significant group difference in average reaction time on go trials. [→ Bruce 2022](#bruce-2022)

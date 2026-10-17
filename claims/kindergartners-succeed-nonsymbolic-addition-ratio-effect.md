@@ -15,12 +15,14 @@ sources:
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1 children performed non-symbolic addition at 62.0% (chance 50%, t(40) = 7.20, p < .001) with a ratio effect (F(1, 40) = 15.37, p < .001); in Experiment 2 at 66.6% (t(61) = 12.12, p < .001) with a ratio effect (F(1, 61) = 45.80, p < .001). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

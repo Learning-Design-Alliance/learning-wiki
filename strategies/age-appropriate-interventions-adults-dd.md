@@ -17,7 +17,7 @@ sources:
 # Design innovative, age-appropriate interventions for adults with DD targeting cognitive, numerical, social, and emotional dimensions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors conclude that because numerical difficulties in adults with DD extend beyond formal arithmetic into everyday tasks and emotional well-being, there is a need "to design innovative interventions that may target deficiencies in the cognitive, numerical, social, and emotional dimensions of adults with DD". They note that efforts to support students with mathematical learning difficulties have been made for decades, but attempts to propose age-appropriate trainings for adults with numerical difficulties are rare. The study's findings on money usage, time and measure estimation, and awareness are offered as new information for formulating such interventions.

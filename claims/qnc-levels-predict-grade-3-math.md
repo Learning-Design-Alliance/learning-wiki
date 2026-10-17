@@ -15,12 +15,14 @@ sources:
     author: "Krajewski, K., & Schneider, W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # QNC Level I predicts QNC Level II/III, which in turn predicts Grade 3 mathematics achievement; QNC Level I also retains a direct path to Grade 3 math
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` QNC Level I accounted for about 18% of variance in subsequent QNC Level II/III, which predicted about 32% of differences in Grade 3 math achievement. [→ Krajewski 2009](#krajewski-2009)

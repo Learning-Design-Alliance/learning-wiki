@@ -15,12 +15,14 @@ sources:
     author: Valiente Carlos, Eisenberg Nancy, Haugen Rg, Spinrad Tracy L., Hofer Claire, Liew Jeffrey, Kupfer Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's adult-reported and observed effortful control in early elementary school prospectively predicts academic achievement 6 years later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children high in effortful control at T1 (ages 4-8) achieved at relatively high levels 6 years later, using both reported and observed EC measures. [→ Valiente Carlos 2011](#valiente-carlos-2011)

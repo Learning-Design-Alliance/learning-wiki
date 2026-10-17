@@ -17,7 +17,7 @@ sources:
 # In developmental attention research, analyze age groups separately and use multiple probe types
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The authors recommend that developmental attention studies avoid pooling across ages and include diverse sound types. They state "researchers conducting future attention studies of children and adolescents should be wary of combining analyses across diverse ages", and that "it is important to use various types of sounds in developmental studies since evoked-potentials showed different maturational profiles for different probe types". They also advise accounting for maturational latency shifts, since fixed time windows across ages may obscure earlier-latency attention effects in younger children.

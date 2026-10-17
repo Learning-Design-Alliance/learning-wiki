@@ -15,12 +15,14 @@ sources:
     author: Valiente Carlos, Eisenberg Nancy, Haugen Rg, Spinrad Tracy L., Hofer Claire, Liew Jeffrey, Kupfer Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Social functioning fully mediates the relation between early effortful control and later academic achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` T2 social functioning (social competence and externalizing problems as one latent variable) fully mediated the T1 EC to T3 achievement relation in a structural equation model. [→ Valiente Carlos 2011](#valiente-carlos-2011)

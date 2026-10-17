@@ -13,12 +13,14 @@ sources:
     title: Thillay A 2015
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Reaction-time benefit from predictive context is similar across ages 12–24, suggesting mature prediction abilities by age 12
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Reaction times to predicted targets were significantly shorter than to random targets, with no effect of age group and no predictability × age interaction. [→ Thillay A 2015](#thillay-a-2015)

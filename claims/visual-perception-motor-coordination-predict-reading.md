@@ -15,12 +15,14 @@ sources:
     author: "Carames, C. N., Irwin, L. N., & Kofler, M. J."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Better visual perception and motor coordination uniquely predict better reading skills in school-aged children with and without ADHD, controlling for IQ and ADHD symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Children with better visual perception (β=.38) and motor coordination (β=.25) exhibit better reading composite scores. [→ Carames 2022](#carames-2022)

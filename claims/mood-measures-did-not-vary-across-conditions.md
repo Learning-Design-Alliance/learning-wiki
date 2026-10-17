@@ -15,12 +15,14 @@ sources:
     author: "Kidd, C., Palmeri, H., & Aslin, R. N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Mood-related measures (contentedness, smiling, fidgetiness) did not vary systematically across the reliable and unreliable conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Analyses of apparent contentedness, smiling time, and fidgetiness found no systematic differences between conditions, arguing against a mood-based explanation of the wait-time effect. [→ Kidd 2013](#kidd-2013)

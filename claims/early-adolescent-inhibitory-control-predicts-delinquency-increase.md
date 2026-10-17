@@ -15,18 +15,22 @@ sources:
     author: "Fosco, W. D., Hawk, L. W. Jr., Colder, C. R., Meisel, S. N., & Lengua, L. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: fosco-2019-2
     resource: "https://doi.org/10.1016/j.adolescence.2019.08.008"
     title: "Fosco, W. D., Hawk, L. W. Jr., Colder, C. R., Meisel, S. N., & Lengua, L. J. (2019). The development of inhibitory control in adolescence and prospective relations with delinquency. Journal of Adolescence. https://doi.org/10.1016/j.adolescence.2019.08.008"
     author: "Fosco, W. D., Hawk, L. W. Jr., Colder, C. R., Meisel, S. N., & Lengua, L. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Worse task-based inhibitory control (higher SSRT) at age 11 predicted increases in delinquency from middle adolescence to emerging adulthood. [→ Fosco 2019](#fosco-2019)

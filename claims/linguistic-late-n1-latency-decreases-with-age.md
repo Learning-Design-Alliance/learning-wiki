@@ -15,12 +15,14 @@ sources:
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Linguistic-probe late-N1 latency decreases with age, unlike the stable early-N1 latency for nonlinguistic probes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Late-N1 peak latency for linguistic probes decreased with age, with 10-, 13-, and 16-year-olds showing longer latencies than adults. [→ Karns Christina M. 2015](#karns-christina-m-2015)

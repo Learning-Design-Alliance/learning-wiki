@@ -15,12 +15,14 @@ sources:
     author: Martha J. Farah
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # ERPs reveal SES disparities in children's auditory attention filtering even when behavioral task performance shows no significant SES difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In dichotic listening studies, ERPs revealed SES disparities in filtering irrelevant sounds although none of the studies found a significant SES-related difference in behavioral performance. [→ Martha J. Farah 2017](#martha-j-farah-2017)

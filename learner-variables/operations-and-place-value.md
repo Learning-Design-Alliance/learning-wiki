@@ -12,7 +12,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 17 claims (11 show a difference, 4 mixed, 2 no difference) · 10 studies (4 causal, 2 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 4 of 10 report an effect size · 16 claims rest on one study
+> **Evidence** · 32 claims (23 show a difference, 5 mixed, 4 no difference) · 17 studies (6 causal, 6 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 31 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.

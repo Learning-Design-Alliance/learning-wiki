@@ -15,12 +15,14 @@ sources:
     author: "Negen, J., Sarnecka, B. W., & Lee, M. D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Fully Bayesian inference on the calibration data set assigned 423 sessions across six knower levels and estimated an evidence value v of 16.94
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bayesian inference on the calibration data (423 sessions) inferred 9 0-knowers, 48 1-knowers, 50 2-knowers, 53 3-knowers, 67 4-knowers, and 196 CP-knowers, with an evidence value v of 16.94 (SD = 0.69). [→ Negen 2011](#negen-2011)

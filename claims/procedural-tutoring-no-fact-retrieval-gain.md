@@ -15,12 +15,14 @@ sources:
     author: "Powell, S. R., Fuchs, L. S., Fuchs, D., Cirino, P. T., & Fletcher, J. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Procedural computation/estimation tutoring does not improve automatic fact retrieval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Tutoring focused on two-digit procedural computation and estimation, though it embedded single-digit facts, did not promote automatic fact retrieval for either MD subtype. [→ Powell 2009](#powell-2009)

@@ -13,12 +13,14 @@ sources:
     title: Perez-Felkner L 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A one standard deviation increase in 10th grade perceived mathematics ability under challenge corresponds to a 1.62 times higher risk of staying in the natural sciences rather than never entering these fields in college
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Perceived mathematics ability under challenge predicted retention in the natural sciences (PEMC/biology), with a one standard deviation increase in the 10th grade measure corresponding to 1.62 times higher risk of staying in versus never entering these fields. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

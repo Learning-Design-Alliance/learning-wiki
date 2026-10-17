@@ -15,12 +15,14 @@ sources:
     author: "Gandolfi, E., Traverso, L., Zanobini, M., Usai, M. C., & Viterbori, P."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # In toddlerhood, interference suppression correlates with expressive vocabulary after controlling for age, whereas response inhibition does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The Fish task correlated with expressive vocabulary with age partialled out (r = 0.454, p < 0.003), while the Circle Drawing task's correlation did not remain significant after controlling for age (r = 0.246, p < 0.122). [→ Gandolfi 2021](#gandolfi-2021)

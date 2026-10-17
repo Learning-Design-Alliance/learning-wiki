@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Family-risk (FR) and language-impaired (LI) status were each significantly associated with elevated risk indices, with no FR × LI interaction. [→ Dilnot 2017](#dilnot-2017)

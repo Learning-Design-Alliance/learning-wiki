@@ -13,6 +13,7 @@ generated:
 # NADL (Numerical Activities of Daily Living) standardized battery
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A standardized battery developed by Vigna Giulia et al. for assessing formal, everyday, and self-perceived numerical abilities, including skills relevant to daily living.

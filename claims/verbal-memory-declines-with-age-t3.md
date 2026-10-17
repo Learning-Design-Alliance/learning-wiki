@@ -15,12 +15,14 @@ sources:
     author: Occelli Valeria, Lacey Simon, Stephens Careese, Merabet Lotfi B., Sathian K.
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal memory performance declines with age in the full sample, significantly at the one-week delay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Across all participants, verbal memory tended to decline with age, significantly so at the T3 timepoint. [→ Occelli Valeria 2017](#occelli-valeria-2017)

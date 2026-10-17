@@ -15,12 +15,14 @@ sources:
     author: "Carames, C. N., Irwin, L. N., & Kofler, M. J."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Motor coordination uniquely predicts written language achievement, and ADHD symptom severity negatively predicts written language, in children with and without ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Better motor coordination (β=.50) and lower teacher-rated ADHD symptoms (β=−.44) predict better written language composite scores. [→ Carames 2022](#carames-2022)

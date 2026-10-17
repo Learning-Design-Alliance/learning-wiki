@@ -13,12 +13,14 @@ sources:
     title: Mol SE and Jolles J 2014
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Boys read for leisure and enjoy reading less than girls, but no sex differences appear in mental imagery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the higher track, 19% of boys versus 46% of girls were leisure readers, with significant sex differences in leisure reading and enjoyment but not mental imagery. [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

@@ -17,7 +17,7 @@ sources:
 # Use the SYMP Test as a quick screening measure to identify children at risk for mathematical difficulties or dyscalculia
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends administering the SYMP Test as an early screening tool: because symbolic magnitude comparison is robustly associated with mathematics achievement and children with MLD score lower on the test, "the test has the potential to be used as a screening measure to identify children who are at risk to develop mathematical difficulties at an early age." Its group administration takes about 10–15 minutes and requires little teacher training, making it usable by practitioners and in large-scale intervention research.

@@ -15,12 +15,14 @@ sources:
     author: "Tucker-Drob, Elliot M., & Harden, K. Paige"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # SES accounts for a modest 9% of variance in learning motivation but a larger 28% of variance in math achievement among four-year-olds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the final univariate models, SES accounted for .04 units (9%) of variance in motivation and .18 units (28%) of variance in math scores. [→ Tucker-Drob 2011](#tucker-drob-2011)

@@ -12,7 +12,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (14 show a difference, 7 mixed, 2 no difference) · 16 studies (6 associational, 5 review, 3 causal, 1 quant-synthesis, 1 design), `q2`–`q4` · 3 of 16 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (19 show a difference, 10 mixed, 3 no difference) · 20 studies (9 associational, 5 review, 4 causal, 1 quant-synthesis, 1 design), `q2`–`q4` · 5 of 20 report an effect size · 32 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.

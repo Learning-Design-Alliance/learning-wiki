@@ -15,12 +15,14 @@ sources:
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Conflict trajectory classes predict grade 6 achievement: chronic high-stable conflict shows the worst underachievement, rising conflict coincides with underachievement, but declining conflict does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Boys with high-stable conflict trajectories had much lower grade 6 achievement than the other conflict subgroups, after controlling for grade 1 achievement, IQ, and externalizing behavior. [→ Spilt 2012](#spilt-2012)

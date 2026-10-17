@@ -15,12 +15,14 @@ sources:
     author: "Plebanek, D. J., & Sloutsky, V. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Adults show greater visual search accuracy than young children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Both age groups performed the search task above chance, but adults were more accurate at finding the target feature than children. [→ Plebanek 2017](#plebanek-2017)

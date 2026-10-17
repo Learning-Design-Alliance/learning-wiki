@@ -15,12 +15,14 @@ sources:
     author: Tiago Ferreira, Joana Cadima, Marisa Matias, Joana Marina Vieira, and Teresa Leal; Karine Verschueren; Paula Mena Matos
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parents' work-family conflict is stably negatively associated with their own engagement over time, with no crossover partner effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Each parent's work-family conflict negatively predicted their own engagement at every wave, with effects stable across time, but partner effects of one parent's conflict on the other's engagement were nonsignificant. [→ Tiago Ferreira 2018](#tiago-ferreira-2018)

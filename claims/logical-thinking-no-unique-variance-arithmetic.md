@@ -15,12 +15,14 @@ sources:
     author: "Praet, M., Titeca, D., Ceulemans, A., & Desoete, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten logical thinking correlates with arithmetic but does not explain unique variance once other predictors are included
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Logical thinking assessed in kindergarten correlated significantly with kindergarten and grade 1 arithmetic, but was not significant (p = .362) in the combined regression. [→ Praet 2013](#praet-2013)

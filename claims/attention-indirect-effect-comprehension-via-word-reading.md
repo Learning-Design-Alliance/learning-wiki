@@ -15,12 +15,14 @@ sources:
     author: Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin, Zhang Wenjuan, Yen Loulee, Patton Samuel, Kirchner Danielle
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # First-grade attention has no direct effect on third-grade reading comprehension but an indirect effect through word reading, not listening comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant direct effect of pre-treatment attention on grade 3 reading comprehension; the only significant indirect path ran through grade 1 sight word reading growth and grade 3 sight word reading. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)

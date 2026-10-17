@@ -15,12 +15,14 @@ sources:
     author: Valiente Carlos, Eisenberg Nancy, Haugen Rg, Spinrad Tracy L., Hofer Claire, Liew Jeffrey, Kupfer Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Social competence is positively and externalizing problems negatively prospectively related to academic achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Zero-order correlations showed social competence positively and externalizing problems negatively prospectively related to later achievement. [→ Valiente Carlos 2011](#valiente-carlos-2011)

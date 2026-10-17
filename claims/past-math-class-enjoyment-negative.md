@@ -15,12 +15,14 @@ sources:
     author: "Eugene Kennedy & Lawrence Smolinsky"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Most surveyed participants reported they had not enjoyed mathematics classes in the past
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 6 of 9 survey respondents indicated they had not enjoyed mathematics classes in the past. [→ Eugene Kennedy & Lawrence Smolinsky 2016](#eugene-kennedy-lawrence-smolinsky-2016)

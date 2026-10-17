@@ -13,12 +13,14 @@ sources:
     title: Mol SE and Jolles J 2014
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # In the lower track, reading enjoyment relates to school achievement for girls but not for boys among non-leisure readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` The sex × reading enjoyment interaction on school achievement was significant among lower-track non-leisure readers (η2 = 0.02), with girl enjoyers scoring 0.40 grade points higher. [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

@@ -13,12 +13,14 @@ sources:
     title: Reigal RE 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Boys showed stronger correlations and higher regression-explained variance between fitness and attention measures than girls. [→ Reigal RE 2020](#reigal-re-2020)

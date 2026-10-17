@@ -15,12 +15,14 @@ sources:
     author: Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Expressions of anxiety predicted lower work-related and self-regulation skills. [→ Berhenke 2011](#berhenke-2011)

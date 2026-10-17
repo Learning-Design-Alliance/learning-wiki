@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (57 show a difference, 33 mixed, 11 no difference, 3 unmarked) · 89 studies (25 causal, 21 review, 13 theoretical, 11 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 13 of 89 report an effect size · 89 claims rest on one study
+> **Evidence** · 105 claims (58 show a difference, 33 mixed, 11 no difference, 3 unmarked) · 90 studies (25 causal, 22 review, 13 theoretical, 11 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 13 of 90 report an effect size · 90 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.

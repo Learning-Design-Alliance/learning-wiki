@@ -13,16 +13,20 @@ sources:
     title: Susac A 2014
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: susac-a-2014-2
     title: Susac A 2014 (2)
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Students become faster and more accurate in equation rearrangement over a short practice session even without feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i3`
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i1`–`i3`
 
 ## Subclaims
 `q3 i1` Accuracy increased from the first to the second block (Block main effect, effect size η2 p = 0.015). [→ Susac A 2014](#susac-a-2014)

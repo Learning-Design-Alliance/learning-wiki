@@ -15,12 +15,14 @@ sources:
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In multiple regression models including all neuropsychological composites simultaneously, verbal comprehension, working memory, and processing speed significantly predicted both reading and math scores. [→ Willcutt 2013](#willcutt-2013)

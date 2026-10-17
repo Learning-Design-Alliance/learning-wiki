@@ -13,12 +13,14 @@ sources:
     title: Noël M-P and Rousselle L 2011
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Cross-cultural evidence: adults without a counting system fail to develop exact representations of numbers beyond 3 or 4 despite a normal ANS
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Adults in cultures with limited number lexicons and no counting system, and deaf adults with number signs not embedded in a counting system, do not develop exact representations of large numerosities. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

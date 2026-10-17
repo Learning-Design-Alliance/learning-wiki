@@ -13,12 +13,14 @@ sources:
     title: Schmidt FTC 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The full regression model explained 29% of mathematics and 37% of physics test variance but only 12% of mGPA variance. [→ Schmidt FTC 2020](#schmidt-ftc-2020)

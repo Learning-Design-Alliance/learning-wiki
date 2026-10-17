@@ -15,12 +15,14 @@ sources:
     author: "Capellini, S. A., Giaconi, C., & Germano, G. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Likelihood Ratio Tests on the standardized classification categories (very low to very high) showed no significant between-group difference for VMI (p = 0.468), VP (p = 0.246) or MC (p = 0.733), and no group reached the very high classification. [→ Capellini 2017](#capellini-2017)

@@ -15,12 +15,14 @@ sources:
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Exposure to overheard speech directed to other adults and children was not related to vocabulary size at 24 months (r = .25, p = .2). [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

@@ -15,12 +15,14 @@ sources:
     author: "Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., Wadsworth, S. J., Willcutt, E., & Olson, R. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The relation between word reading and reading comprehension is largely invariant across age groups 8 to 10 and 11 to 16
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A partially constrained multi-group model fit as well as the unconstrained baseline, indicating partial measurement invariance of the reading factors across ages. [→ Christopher 2012](#christopher-2012)

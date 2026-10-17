@@ -17,7 +17,7 @@ sources:
 # Revise the RRRP to increase item difficulty and lengthen the wait interval before 'go'
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on observed ceiling effects and the null predictive value of waiting for 'go', the authors recommend specific revisions. They write: "We plan to add more difficult items by increasing the number of rules to remember, and the length of the directions," and suggest it "might be informative to lengthen the wait time between the instruction and saying 'go.'" They also recommend adding a third object per prompt and establishing a vocabulary baseline for dual language learners.

@@ -15,12 +15,14 @@ sources:
     author: Seo S-M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In stepwise multiple regression, fine motor precision accounts for about sixty percent and Functional Dexterity Test time about four percent of handwriting legibility in preschool children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Stepwise multiple regression identified fine motor precision (adjusted R² = 0.60) and Functional Dexterity Test time (adjusted R² = 0.04) as factors affecting handwriting legibility. [→ Seo S-M 2018](#seo-s-m-2018)

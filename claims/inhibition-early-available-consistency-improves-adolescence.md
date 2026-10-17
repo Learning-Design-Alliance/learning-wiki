@@ -15,12 +15,14 @@ sources:
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The ability to generate a single correct inhibitory response is evident early in development, while what improves through adolescence is the proportion of trials with correct inhibitory responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Inhibitory control is evident in infancy, and adolescent improvement lies in consistently recruiting inhibitory processes across trials rather than in the mere ability to inhibit. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

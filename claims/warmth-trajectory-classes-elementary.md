@@ -15,12 +15,14 @@ sources:
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Teacher-reported warmth follows two trajectory classes per gender: a normative high-declining class and a low-increasing class starting from lower warmth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` For both boys and girls, a two-class warmth solution fit best: a large majority followed a slightly-decreasing (high-declining) trajectory and a smaller class started low but increased in warmth. [→ Spilt 2012](#spilt-2012)

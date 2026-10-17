@@ -15,18 +15,22 @@ sources:
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: 3
+    kind: associational
+    rigour: 3
   - id: pas-p-2021-2
     resource: "https://doi.org/10.1016/j.dcn.2021.101012"
     title: "Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M. (2021). Self-regulation in the pre-adolescent brain. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2021.101012"
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Stop-signal reaction time decreased with age (r = −0.38) and inhibition accuracy improved with age, with no sex differences. [→ Pas P. 2021](#pas-p-2021)

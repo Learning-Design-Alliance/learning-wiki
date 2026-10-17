@@ -15,12 +15,14 @@ sources:
     author: Camilla Gilmore, Sarah Keeble, Sophie Richardson, Lucy Cragg
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No significant independent relationship was found between inhibition and factual knowledge of arithmetic in either children or adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Factual knowledge was not a significant predictor of inhibition skill in the combined sample or in either age group. [→ Camilla Gilmore 2015](#camilla-gilmore-2015)

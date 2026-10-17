@@ -15,12 +15,14 @@ sources:
     author: Ricker Timothy J., Cowan Nelson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Equating total consolidation time across presentation methods equalizes forgetting rates (Experiment 3)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When free time between sequential items was removed so consolidation time was equated, the Presentation Method x Retention-Interval Duration interaction was not significant. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

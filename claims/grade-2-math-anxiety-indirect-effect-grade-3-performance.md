@@ -15,12 +15,14 @@ sources:
     author: Cargnelutti, E., Tomasetto, C., Passolunghi, M.C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Longitudinal analyses show an indirect effect of Grade 2 math anxiety on Grade 3 math performance. [→ Cargnelutti 2017](#cargnelutti-2017)

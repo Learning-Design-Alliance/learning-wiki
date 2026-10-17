@@ -15,18 +15,22 @@ sources:
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: weisleder-adriana-2013-2
     resource: "https://doi.org/10.1177/0956797613488145"
     title: "Weisleder Adriana, Fernald Anne. (2013). Talking to children matters: Early language experience strengthens processing and builds vocabulary. Psychological Science. https://doi.org/10.1177/0956797613488145"
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # The mediation of child-directed speech effects through processing efficiency holds after controlling for knowledge of the target words and excluding at-chance performers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` After removing trials with words parents reported the child did not understand, the mediation pattern remained (CDS-efficiency r = 0.40; efficiency-vocabulary r = 0.53; path reduced from 12.61 to 8.75). [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, I., & Bisiri, E."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Folk-tales were used in every session, with photos (78%), videos (74%), songs (67%), classical tales (70%) and crafts (55%) as multimodal materials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Journal-based frequency analysis showed folk-tales were used in 100% of sessions as the basic educational tool, alongside classical literature tales (70%), photos (78%), videos (74%), songs (67%) and crafts (55%). [→ Papadopoulos 2020](#papadopoulos-2020)

@@ -15,18 +15,22 @@ sources:
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: einziger-tzlil-2021-2
     resource: "https://doi.org/10.3390/brainsci11010100"
     title: "Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea. (2021). \"My Brain Can Stop\": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence. Brain Sciences, 11(1), 100. https://doi.org/10.3390/brainsci11010100"
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Total ADHD symptoms throughout childhood significantly predicted SSRT at 17 years (β = 0.28), but neither inattention nor hyperactivity-impulsivity uniquely predicted it. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

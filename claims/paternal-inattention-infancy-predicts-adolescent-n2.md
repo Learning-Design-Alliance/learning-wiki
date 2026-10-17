@@ -15,12 +15,14 @@ sources:
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Paternal inattention symptoms measured in early infancy predict adolescent N2 amplitude almost 17 years later, suggesting a parent-of-origin effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fathers' inattention symptoms at child age 2-6 months were significantly associated with adolescent N2 amplitude at 17 years, while fathers' hyperactivity-impulsivity symptoms were not. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

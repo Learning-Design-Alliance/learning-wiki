@@ -13,6 +13,7 @@ generated:
 # Remembering Rules and Regulation Picture Task (RRRP)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A brief, direct assessment developed by Day et al. for measuring children's working memory, attentional flexibility, and inhibitory control through ordered and rule-switching block-placement tasks.

@@ -15,12 +15,14 @@ sources:
     author: "Kurvers, J., Van Hout, R., & Vallen, T."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Non-readers recognize logos with additional visual features better than logos distinguished only by color and typeface
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Logos with additional visual features such as the yellow arches of McDonald's were significantly better recognized by the two groups of non-readers than logos with only color and typeface as distinctive features (t(39) = 6.83, p < 0.00). [→ Kurvers 2009](#kurvers-2009)

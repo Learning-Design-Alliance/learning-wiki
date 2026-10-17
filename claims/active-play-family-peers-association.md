@@ -15,12 +15,14 @@ sources:
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Active play is associated with time with family and peers in all age groups (r = 0.485)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Across all 1447 participants aged 6–17, active play was associated with time with family and peers (r = 0.485, p < 0.001), the highest association among the physical activity indicators. [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

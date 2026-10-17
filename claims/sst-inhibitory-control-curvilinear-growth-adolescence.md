@@ -15,12 +15,14 @@ sources:
     author: "Fosco, W. D., Hawk, L. W. Jr., Colder, C. R., Meisel, S. N., & Lengua, L. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Task-based inhibitory control (Stop Signal Task) improves curvilinearly from ages 11 to 15, with growth slowing around middle adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Latent growth curve models showed SSRT declined linearly and quadratically across ages 11–15, indicating curvilinear improvement in task-based inhibitory control with growth slowing around middle adolescence. [→ Fosco 2019](#fosco-2019)

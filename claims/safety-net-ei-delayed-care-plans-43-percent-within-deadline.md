@@ -15,12 +15,14 @@ sources:
     author: McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Most children in a safety-net EI cohort received delayed care plans, with only 43% receiving an EI care plan within the 45-day federal deadline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 722 children who received an EI care plan, the median time from referral to care plan was 56.0 days and only 43% received the care plan within the mandated 45-day deadline. [→ McManus BM 2019](#mcmanus-bm-2019)

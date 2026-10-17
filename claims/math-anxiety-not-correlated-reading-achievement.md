@@ -13,12 +13,14 @@ sources:
     title: Wu SS 2012
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Math anxiety is not significantly correlated with reading achievement in young children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling for trait anxiety and FSIQ, math anxiety was not significantly correlated with the WIAT-II Reading Composite, Reading Comprehension, or Word Reading scores. [→ Wu SS 2012](#wu-ss-2012)

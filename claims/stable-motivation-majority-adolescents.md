@@ -15,12 +15,14 @@ sources:
     author: Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # A majority of adolescents (about 63%) followed stable trajectories of physics and chemistry motivation across middle and high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Stable High (26.6%) and Stable Moderate (36.2%) groups showed rather stable ability self-concept and task values from seventh to twelfth grade. [→ Wang 2016](#wang-2016)

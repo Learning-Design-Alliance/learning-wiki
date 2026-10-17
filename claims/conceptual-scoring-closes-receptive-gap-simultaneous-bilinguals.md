@@ -15,18 +15,22 @@ sources:
     author: Gross Megan, Buac Milijana, Kaushanskaya Margarita
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: gross-megan-2014-2
     resource: "https://doi.org/10.1044/2014_AJSLP-13-0026"
     title: "Gross Megan, Buac Milijana, Kaushanskaya Margarita. (2014). Conceptual scoring of receptive and expressive vocabulary measures in simultaneous and sequential bilingual children. American Journal of Speech-Language Pathology. https://doi.org/10.1044/2014_AJSLP-13-0026"
     author: Gross Megan, Buac Milijana, Kaushanskaya Margarita
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Conceptual scoring removes the monolingual-simultaneous-bilingual gap in English receptive vocabulary but not in English expressive vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` With conceptual scoring, simultaneous bilinguals' English receptive scores did not differ from monolinguals', while sequential bilinguals remained significantly lower. [→ Gross Megan 2014](#gross-megan-2014)

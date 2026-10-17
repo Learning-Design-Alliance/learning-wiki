@@ -13,12 +13,14 @@ sources:
     title: Schleepen TMJ 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fourth graders' multiplication fact solving speed correlates significantly with both symbolic and nonsymbolic magnitude comparison speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children faster at comparing symbolic and nonsymbolic magnitudes are also faster at solving multiplication fact problems, with correlations remaining significant after controlling for general reaction time. [→ Schleepen TMJ 2016](#schleepen-tmj-2016)

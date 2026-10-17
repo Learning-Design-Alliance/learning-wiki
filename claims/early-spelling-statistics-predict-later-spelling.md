@@ -15,18 +15,22 @@ sources:
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: treiman-rebecca-2013-2
     resource: "https://doi.org/10.1080/15475441.2013.812016"
     title: "Treiman Rebecca, Kessler Brett. (2013). Learning to Use an Alphabetic Writing System. Language Learning and Development. https://doi.org/10.1080/15475441.2013.812016"
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Children's early prephonological spelling statistics predict later conventional spelling success
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The closer children's early digram frequencies matched Portuguese word frequencies, the better they scored on a later standardized spelling test. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

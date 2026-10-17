@@ -13,12 +13,14 @@ sources:
     title: Mol SE and Jolles J 2014
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Mental imagery shows no direct relation to school achievement among non-leisure readers, though a ceiling effect limits this null finding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Mental imagery was not a significant predictor of school achievement in either track (η2 = 0.00 in both ANCOVAs). [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

@@ -15,12 +15,14 @@ sources:
     author: "Geary, D. C., Hoard, M. K., & Bailey, D. H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # LA-Severe Fact Retrieval children commit retrieval errors on forced retrieval at rates equal to children with MLD, with no across-grade improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` On the forced addition fact retrieval task, LA-Severe Fact Retrieval children and children with MLD erred on about 4 of 5 retrieved answers and did not differ from each other. [→ Geary 2012](#geary-2012)

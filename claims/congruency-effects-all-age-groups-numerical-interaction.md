@@ -15,18 +15,22 @@ sources:
     author: Camilla Gilmore, Sarah Keeble, Sophie Richardson, Lucy Cragg
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: camilla-gilmore-2015-2
     resource: "https://doi.org/10.1007/s11858-014-0659-y"
     title: "Camilla Gilmore, Sarah Keeble, Sophie Richardson, Lucy Cragg. (2015). The role of cognitive inhibition in different components of arithmetic. ZDM Mathematics Education. https://doi.org/10.1007/s11858-014-0659-y"
     author: Camilla Gilmore, Sarah Keeble, Sophie Richardson, Lucy Cragg
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Congruency effects on both numerical and non-numerical inhibition tasks occur in all three age groups, with an age-by-congruency interaction only on the numerical task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` On the numerical inhibition task there was a significant interaction between age group and congruency (F(2,206) = 4.8, p = .009, ηp2 = .05), with significant congruency effects for all three age groups. [→ Camilla Gilmore 2015](#camilla-gilmore-2015)

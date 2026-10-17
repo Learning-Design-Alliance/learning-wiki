@@ -15,18 +15,22 @@ sources:
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
   - id: blair-2016-2
     resource: "https://doi.org/10.1016/j.learninstruc.2015.10.001"
     title: "Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators. (2016). Moderating effects of executive functions and the teacher–child relationship on the development of mathematics ability in kindergarten. Learning and Instruction, 41, 85–93. https://doi.org/10.1016/j.learninstruc.2015.10.001"
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
 ---
 
 # Executive function at 48 months moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Executive function at 48 months significantly moderated the association between preschool and kindergarten math on the ECLS-K Math assessment (β = −0.14, p = .019), but not on Applied Problems. [→ Blair 2016 (2)](#blair-2016-2)

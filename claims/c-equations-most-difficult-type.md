@@ -13,16 +13,20 @@ sources:
     title: Susac A 2014
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: susac-a-2014-2
     title: Susac A 2014 (2)
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Equations of the form a/x = b are the most difficult equation type, reflecting procedural complexity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 associational `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Equation type affected accuracy, effect size η2 p = 0.169, with all participants less accurate on C equations (a/x = b) than A and B equations. [→ Susac A 2014](#susac-a-2014)

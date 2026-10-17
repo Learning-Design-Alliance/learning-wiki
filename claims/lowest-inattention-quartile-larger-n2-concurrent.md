@@ -15,12 +15,14 @@ sources:
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents in the lowest quartile of concurrent inattention symptoms show larger negative N2 amplitudes than the other three quartiles, with no linear concurrent correlation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` A quartile-based ANCOVA on concurrent inattention symptoms showed a main effect for group on N2 amplitude (η2p = 0.14), with the lowest quartile showing larger negative amplitudes than the other three quartiles combined (η2p = 0.13). [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

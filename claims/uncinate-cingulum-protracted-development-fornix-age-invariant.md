@@ -15,12 +15,14 @@ sources:
     author: Ghetti Simona; Bunge Silvia A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Uncinate fasciculus and cingulum bundle continue developing into adulthood while fornix integrity is age-invariant from age 5, and uncinate integrity relates to recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` DTI evidence shows protracted development of the uncinate fasciculus and cingulum bundle into adulthood, age-invariant fornix integrity between age 5 and young adulthood, and an association between uncinate fractional anisotropy and better recall in 9- to 15-year-olds. [→ Ghetti Simona; Bunge Silvia A 2012](#ghetti-simona-bunge-silvia-a-2012)

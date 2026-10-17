@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Camilla K. Gilmore
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Accuracy decreased when ratio approached 1 (ηp² = .53), and the ratio × task interaction showed the symbolic advantage only at ratios 4:6 and 4:7. [→ Bert De Smedt 2011](#bert-de-smedt-2011)

@@ -15,12 +15,14 @@ sources:
     author: Ritter, S.M.; van Baaren, R.B.; Dijksterhuis, A.J.
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Immediate responders generate fewer ideas than conscious and unconscious thinkers (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` In Experiment 1, participants in the immediate condition generated fewer ideas than participants in the conscious thought and unconscious thought conditions. [→ Ritter 2012](#ritter-2012)

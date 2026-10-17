@@ -15,12 +15,14 @@ sources:
     author: "Hauser, T. U., Iannaccone, R., Walitza, S., Brandeis, D., & Brem, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adolescents showed a marginally decreased number of punishments before switching in reversal learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Adolescents switched after marginally fewer punishments than adults, a marginally significant difference pointing to their increased negative-RPE learning rate. [→ Hauser 2015](#hauser-2015)

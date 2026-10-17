@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Watts, T. W., Duncan, G. J., Clements, D. H., Sarama, J. S., Wolfe, C., & Spitler, M. E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The association between preschool competencies and fifth grade achievement does not differ across the achievement distribution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Spline regressions fitting separate segments for the bottom, middle, and top thirds of the distribution found no consistent evidence of significant slope differences, suggesting preschool gains matter for both low- and high-achieving children. [→ Nguyen 2016](#nguyen-2016)

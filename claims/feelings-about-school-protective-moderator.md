@@ -15,12 +15,14 @@ sources:
     author: "Arnold, D. H., Kupersmidt, J. B., Voegler-Lee, M. E., & Marshall, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Children's positive feelings about school attenuate the relationship between aggression and academic development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Feelings about school moderated aggression's relations with language and mathematics, with weaker relations for children with more positive feelings. [→ Arnold 2012](#arnold-2012)

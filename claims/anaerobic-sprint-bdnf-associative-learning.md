@@ -15,12 +15,14 @@ sources:
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Short-duration anaerobic sprint exercise speeds vocabulary-type associative learning by 20% with increased serum BDNF that correlates with learning success
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a cross-over study, the anaerobic sprint condition produced 20% faster associative learning and significant serum BDNF increases, with sustained BDNF positively correlated with learning success. [→ Basso Julia C. 2017](#basso-julia-c-2017)

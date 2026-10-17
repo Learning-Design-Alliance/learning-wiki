@@ -17,7 +17,7 @@ sources:
 # Enhance access to advanced science coursework in secondary and postsecondary school to raise students' chances of entering PEMC fields
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's findings suggest enhancing access to advanced science coursework in secondary and postsecondary school has positive effects on students' — notably girls' — chances of entering PEMC fields in college. It observes that while considerable efforts have increased mathematics rigor in U.S. secondary schools, "less attention has been paid to science." University-level efforts cited include bias-reducing and social belonging interventions and reducing barriers to enrolling in gateway courses to engineering and computing majors.

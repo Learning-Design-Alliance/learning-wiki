@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Camilla K. Gilmore
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Group differences on symbolic tasks persist after controlling for number identification skill
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The group × task interaction on approximate addition remained significant after controlling for number identification accuracy (F(2,59) = 4.46, ηp² = .13). [→ Bert De Smedt 2011](#bert-de-smedt-2011)

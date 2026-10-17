@@ -15,12 +15,14 @@ sources:
     author: "Roger E. Beaty & Paul J. Silvia"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Crystallized intelligence predicts conventional metaphor quality, while Gf and Gr effects are small and nonsignificant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Gc had a significant effect on conventional metaphor ratings (β = .30, p = .005), whereas Gf (β = .10) and Gr (β = .08) effects were small and nonsignificant. [→ Roger E. Beaty & Paul J. Silvia 2013](#roger-e-beaty-paul-j-silvia-2013)

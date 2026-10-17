@@ -15,12 +15,14 @@ sources:
     author: "Kidd, C., Palmeri, H., & Aslin, R. N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Age and gender did not significantly predict marshmallow-task wait-times in this sample when controlling for condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a linear regression with age and gender as predictors controlling for condition, neither factor was significant. [→ Kidd 2013](#kidd-2013)

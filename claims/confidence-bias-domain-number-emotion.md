@@ -15,12 +15,14 @@ sources:
     author: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Children show marginal overconfidence in numerical judgments and underconfidence in emotion judgments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Confidence bias differed significantly between domains, with overconfidence for number and underconfidence for emotion judgments. [→ Vo 2014](#vo-2014)

@@ -15,12 +15,14 @@ sources:
     author: "Hauser, T. U., Iannaccone, R., Walitza, S., Brandeis, D., & Brem, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across all subjects, increasing RPEs elicited more activity in putamen, vmPFC, amygdala and posterior cingulate, while aIns, dmPFC and dlPFC were significantly anticorrelated with RPEs. [→ Hauser 2015](#hauser-2015)

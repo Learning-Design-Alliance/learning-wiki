@@ -15,18 +15,22 @@ sources:
     author: "Martin-Storey, A., & Crosnoe, R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: martin-storey-2014-2
     resource: "https://doi.org/10.1080/10888691.2014.876276"
     title: "Martin-Storey, A., & Crosnoe, R. (2014). Perceived Neighborhood Safety and Adolescent School Functioning. Applied Developmental Science, 18(2), 61-75. https://doi.org/10.1080/10888691.2014.876276"
     author: "Martin-Storey, A., & Crosnoe, R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived neighborhood safety is protective for school attachment among low-income youth in high-disorder neighborhoods, and mediates the affluence-school attachment link only among non-low-income youth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For low-income youth, perceived neighborhood safety interacted with physical disorder to predict school attachment (beta = .24, p < .05), with high perceived safety associated with higher attachment in high-disorder neighborhoods. [→ Martin-Storey 2014](#martin-storey-2014)

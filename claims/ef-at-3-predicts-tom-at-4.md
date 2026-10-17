@@ -15,12 +15,14 @@ sources:
     author: "Marcovitch S., O'Brien M., Calkins S. D., Leerkes E. M., Weaver J. M., Levine D. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Executive function at age 3 predicts theory of mind at age 4, controlling for gender, income-to-needs, and receptive language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a latent variable model, EF at 3 years significantly predicted ToM at 4 years (β = .52, p = .001). [→ Marcovitch S. 2014](#marcovitch-s-2014)

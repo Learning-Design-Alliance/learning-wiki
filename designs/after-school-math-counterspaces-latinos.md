@@ -17,6 +17,7 @@ sources:
 # After-school mathematics clubs as counter spaces using home language, community, and knowledge as learning resources
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The after-school mathematics clubs were designed as alternative learning environments that 'explicitly defined and utilized students' home language, communities, and knowledge as learning resources.' They offered collaborative, project-based activities with cross-generational participants (students, preservice teachers, researchers), and became counter spaces that naturally provoked students to compare, analyze, question, and comment on their mathematics experiences in both settings.

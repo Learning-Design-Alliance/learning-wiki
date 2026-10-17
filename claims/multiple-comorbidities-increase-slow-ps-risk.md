@@ -15,12 +15,14 @@ sources:
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Among diagnosed youth, two or more comorbid disorders elevated risk for slow PS (OR = 2.20, p < .001) while one comorbid disorder did not (OR = 1.19, p = .42). [→ Braaten EB 2020](#braaten-eb-2020)

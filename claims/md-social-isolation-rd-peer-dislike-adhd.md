@@ -15,18 +15,22 @@ sources:
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: willcutt-2013-2
     resource: "https://doi.org/10.1177/0022219413477476"
     title: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F. (2013). Comorbidity between reading disability and math disability: Concurrent psychopathology, functional impairment, and neuropsychological functioning. Journal of Learning Disabilities, 46(6), 500-516. https://doi.org/10.1177/0022219413477476"
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Math difficulties are more strongly associated with social isolation than reading difficulties, and peer dislike of readers with RD is explained by ADHD symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Math difficulties showed stronger associations than reading weaknesses with social isolation and less frequent positive peer interactions, with effects most pronounced when both weaknesses were present. [→ Willcutt 2013](#willcutt-2013)

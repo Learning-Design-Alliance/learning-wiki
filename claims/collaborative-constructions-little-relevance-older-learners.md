@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: howe-2017
-    title: "Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction."
+    resource: "https://doi.org/10.1016/j.learninstruc.2017.10.007"
+    title: "Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction. [doi:10.1016/j.learninstruc.2017.10.007](https://doi.org/10.1016/j.learninstruc.2017.10.007)"
     author: Howe, Christine; Zachariou, Antonia
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Collaborative constructions (joint analyses built while collaborating) had little relevance to individual post-test performance in adolescence and early adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The joint analyses that groups constructed while collaborating turned out to have little relevance for individual knowledge acquisition among older students. [→ Howe 2017](#howe-2017)
@@ -28,7 +31,7 @@ sources:
 
 ### Howe 2017
 
-Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction.
+Howe, Christine; Zachariou, Antonia. (2017). Small-group collaboration and individual knowledge acquisition: The processes of growth during adolescence and early adulthood. Learning and Instruction. [doi:10.1016/j.learninstruc.2017.10.007](https://doi.org/10.1016/j.learninstruc.2017.10.007)
 
 `q2 · i?` · `associational · r?`
 

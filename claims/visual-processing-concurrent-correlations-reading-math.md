@@ -13,12 +13,14 @@ sources:
     title: Yang X and Meng X 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Visual processing correlates concurrently with character reading and mathematics at both kindergarten and grade one
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Visual processing was significantly related with mathematics and character reading at both measurement occasions. [→ Yang X and Meng X 2020](#yang-x-and-meng-x-2020)

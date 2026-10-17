@@ -15,12 +15,14 @@ sources:
     author: Moll K., Snowling M. J., Göbel S. M., Hulme C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A multi-group longitudinal path model with all parameters constrained equal across family-risk and typically developing groups fit the data as well as an unconstrained model, indicating shared predictive pathways. [→ Moll K. 2015](#moll-k-2015)

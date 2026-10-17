@@ -15,12 +15,14 @@ sources:
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Consistently high childhood ADHD symptoms correlate with both reduced N2 amplitude and longer SSRT in adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adolescents with consistently high ADHD symptoms throughout childhood showed reduced N2 amplitude and longer SSRT at 17 years, while neither marker correlated with concurrent symptoms. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

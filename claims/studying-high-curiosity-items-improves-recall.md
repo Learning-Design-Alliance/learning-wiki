@@ -15,12 +15,14 @@ sources:
     author: "Metcalfe, J., Vuorre, M., Towner, E., & Eich, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants who studied items they had rated as most curious recalled more on a posttest than participants who studied their lowest-curiosity items. [→ Metcalfe 2023](#metcalfe-2023)

@@ -15,18 +15,22 @@ sources:
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: ineke-imbo-andré-vandierendonck-2008-2
     resource: "https://doi.org/10.1007/s00426-007-0112-8"
     title: "Ineke Imbo · André Vandierendonck. (2008). Effects of problem size, operation, and working-memory span on simple-arithmetic strategies: differences between children and adults? Psychological Research (2008) 72:331–346. https://doi.org/10.1007/s00426-007-0112-8"
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Percentage of retrieval use increased linearly across second, fourth, and sixth grade, and problem size interacted with grade, with the small-large retrieval difference shrinking between fourth and sixth grade. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

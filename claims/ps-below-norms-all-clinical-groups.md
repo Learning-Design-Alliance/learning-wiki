@@ -15,12 +15,14 @@ sources:
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # All diagnostic groups of referred youth, including those without full diagnoses, show processing speed below the population norm
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Mean PS scores of youth in every diagnostic subgroup and referred youth with no psychiatric diagnoses were significantly below the Wechsler normative mean of 100. [→ Braaten EB 2020](#braaten-eb-2020)

@@ -15,12 +15,14 @@ sources:
     author: Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In stepwise linear regression, VO2max was the single predictor for most criteria; anxiety and insomnia was predicted by horizontal jump and life satisfaction by fat mass percentage. [→ Reigal 2020](#reigal-2020)

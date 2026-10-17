@@ -15,12 +15,14 @@ sources:
     author: Salthouse, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # When relevant knowledge can be drawn upon, age trends in performance can reverse, with older adults outperforming younger adults on crossword puzzles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the same individuals, analytical reasoning showed monotonic age decline while crossword puzzle performance among frequent solvers was better at older ages. [→ Salthouse 2012](#salthouse-2012)

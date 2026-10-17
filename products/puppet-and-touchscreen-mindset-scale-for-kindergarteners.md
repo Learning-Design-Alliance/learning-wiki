@@ -13,6 +13,7 @@ generated:
 # Puppet-and-touchscreen mindset scale for kindergarteners
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A touchscreen- and puppet-administered self-report assessment developed by Compagnoni et al. to measure kindergarteners' trait beliefs and mastery-versus-performance goal orientations.

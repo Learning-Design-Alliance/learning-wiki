@@ -15,18 +15,22 @@ sources:
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: braaten-eb-2020-2
     resource: "https://doi.org/10.1007/s00787-019-01455-w"
     title: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE. (2020). Characteristics of child psychiatric outpatients with slow processing speed and potential mechanisms of academic impact. European Child & Adolescent Psychiatry. https://doi.org/10.1007/s00787-019-01455-w"
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Inattention is the only psychopathology symptom dimension associated with slow processing speed, and it does not explain the associations with ASD or psychosis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a logistic regression of eight symptom dimensions, only inattention significantly predicted slow PS (OR = 1.44, p = .007). [→ Braaten EB 2020](#braaten-eb-2020)

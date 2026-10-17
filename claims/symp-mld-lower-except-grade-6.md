@@ -15,12 +15,14 @@ sources:
     author: "Brankaer, C., Ghesquière, P., & De Smedt, B."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` TA children performed significantly better than MLD children on the one-digit subtest in all grades except Grade 6, where no group difference was observed. [→ Brankaer 2017](#brankaer-2017)

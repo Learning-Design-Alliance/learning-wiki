@@ -15,18 +15,22 @@ sources:
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: diamond-adele-2011-2
     resource: "https://doi.org/10.1126/science.1204529"
     title: "Diamond Adele, Lee Kathleen. (2011). Interventions shown to Aid Executive Function Development in Children 4–12 Years Old. Science. https://doi.org/10.1126/science.1204529"
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After mindfulness training, 7–9 year-olds with initially poorer EFs improved overall and in shifting and monitoring, bringing scores up to average, with improvements reported by both teachers and parents. [→ Diamond Adele 2011](#diamond-adele-2011)

@@ -15,12 +15,14 @@ sources:
     author: Moll K., Snowling M. J., Göbel S. M., Hulme C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children at family-risk of dyslexia perform more poorly than typically developing controls on the cognitive foundations of arithmetic and on arithmetic itself
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The FR group scored lower than the TD group on domain-general cognitive measures and on timed addition and subtraction at t3. [→ Moll K. 2015](#moll-k-2015)

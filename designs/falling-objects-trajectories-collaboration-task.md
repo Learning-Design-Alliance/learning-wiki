@@ -17,6 +17,7 @@ sources:
 # Computer-presented trajectories task on objects falling from stationary or moving carriers
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study used a computer-presented science task in which pairs discussed and predicted the trajectories objects follow when falling from stationary or moving carriers. The abstract describes a "computer-presented task that required them to discuss and predict the trajectories objects follow when they fall from stationary or moving carriers". It served as the collaborative activity linking group dialogue to post-test measures of individual understanding.

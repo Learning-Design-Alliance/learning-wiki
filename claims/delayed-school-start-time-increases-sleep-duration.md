@@ -15,18 +15,22 @@ sources:
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: li-shenghui-2013-2
     resource: "https://doi.org/10.1371/journal.pone.0067928"
     title: "Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming. (2013). Sleep, School Performance, and a School-Based Intervention among School-Aged Children: A Sleep Series Study in China. PLoS ONE. https://doi.org/10.1371/journal.pone.0067928"
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After delaying school start time 30 and 60 minutes, sleep duration increased by 15.6 and 22.8 minutes respectively, and the intervention significantly improved sleep duration and daytime sleepiness. [→ Li Shenghui 2013](#li-shenghui-2013)

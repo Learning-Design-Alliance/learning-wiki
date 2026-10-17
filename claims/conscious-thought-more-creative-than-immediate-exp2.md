@@ -15,12 +15,14 @@ sources:
     author: Ritter, S.M.; van Baaren, R.B.; Dijksterhuis, A.J.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Conscious thinkers produce more creative ideas than immediate responders (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Experiment 2, conscious thinkers were more creative than participants who immediately listed their ideas, while unconscious and conscious thinkers did not differ. [→ Ritter 2012](#ritter-2012)

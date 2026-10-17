@@ -13,6 +13,7 @@ generated:
 # Knower-LevelEstimater.xls
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A Microsoft Excel spreadsheet tool by Negen et al. that approximates Bayesian knower-level inference from young children's give-N question-and-response data.

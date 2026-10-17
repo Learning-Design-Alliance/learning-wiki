@@ -15,18 +15,22 @@ sources:
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: basso-julia-c-2017-2
     resource: "https://doi.org/10.3233/BPL-160040"
     title: "Basso Julia C., Suzuki Wendy A. (2017). The Effects of Acute Exercise on Mood, Cognition, Neurophysiology, and Neurochemical Pathways: A Review. Brain Plasticity. https://doi.org/10.3233/BPL-160040"
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Acute exercise alleviates negative affect, enhances positive affect, and reduces stress responses, with mood effects lasting up to 24 hours
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Acute exercise decreases negative affect and enhances positive mood states, with effects occurring immediately after and lasting up to one day post-exercise cessation. [→ Basso Julia C. 2017](#basso-julia-c-2017)

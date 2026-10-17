@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Watts, T. W., Duncan, G. J., Clements, D. H., Sarama, J. S., Wolfe, C., & Spitler, M. E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The counting and cardinality coefficient is significantly larger than the coefficients for patterning, geometry, and measurement and data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` F-tests comparing coefficient equality found counting and cardinality significantly larger than patterning (F = 25.92), geometry (F = 24.93), and measurement and data (F = 32.25), while patterning, geometry, and measurement and data did not differ from one another. [→ Nguyen 2016](#nguyen-2016)

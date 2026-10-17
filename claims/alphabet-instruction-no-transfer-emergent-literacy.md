@@ -15,18 +15,22 @@ sources:
     author: "Piasta, S. B., Purpura, D. J., & Wagner, R. K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: piasta-2010-2
     resource: "https://doi.org/10.1007/s11145-009-9174-x"
     title: "Piasta, S. B., Purpura, D. J., & Wagner, R. K. (2010). Fostering Alphabet Knowledge Development: A Comparison of Two Instructional Approaches. Reading and Writing, 23(6), 607-626. https://doi.org/10.1007/s11145-009-9174-x"
     author: "Piasta, S. B., Purpura, D. J., & Wagner, R. K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Gains in letter-word identification and phonological awareness did not differ among the three instructional conditions. [→ Piasta 2010](#piasta-2010)

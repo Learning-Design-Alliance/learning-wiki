@@ -15,12 +15,14 @@ sources:
     author: "de Greeff, J. W.; Hartman, E.; Mullender-Wijnsma, M. J.; Bosker, R. J.; Doolaard, S.; & Visscher, C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Muscular fitness shows no association with academic performance in primary school children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No associations were found between muscular fitness and academic performance (mathematics, spelling, reading). [→ de Greeff 2014](#de-greeff-2014)

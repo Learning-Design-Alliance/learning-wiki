@@ -15,12 +15,14 @@ sources:
     author: "Dudovitz, R. N., Izadpanah, N., Chung, P. J., & Slusser, W."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Participants described significant psychosocial stress related to uncorrected poor vision, with different etiologies for parents, teachers, and students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` All participant groups described stress from uncorrected poor vision: parents reported financial and emotional stress, teachers reported classroom-management stress, and students reported physical hardship and emotional stress. [→ Dudovitz 2016](#dudovitz-2016)

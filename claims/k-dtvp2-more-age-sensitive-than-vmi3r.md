@@ -15,12 +15,14 @@ sources:
     author: Kim E, Park Y-K, Byun Y-H, Park M-S, Kim H.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # K-DTVP-2 appears more strongly affected by age than VMI-3R, but is also more sensitive to gender and disease
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Comparing standardized coefficients, the K-DTVP-2 seems more strongly affected by age than the VMI-3R, though it is also more sensitive to other factors. [→ Kim E 2014](#kim-e-2014)

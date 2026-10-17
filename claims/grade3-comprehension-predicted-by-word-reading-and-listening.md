@@ -15,12 +15,14 @@ sources:
     author: Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin, Zhang Wenjuan, Yen Loulee, Patton Samuel, Kirchner Danielle
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Grade 3 reading comprehension was significantly predicted by grade 3 sight word reading and grade 3 listening comprehension, with no significant direct effect of pre-treatment attention. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)

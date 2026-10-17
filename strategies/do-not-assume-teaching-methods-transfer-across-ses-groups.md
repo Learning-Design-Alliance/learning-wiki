@@ -17,7 +17,7 @@ sources:
 # Do not assume teaching methods validated with one SES group will transfer to a different SES group
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article proposes that accumulating findings of qualitative SES differences in psychological processing carry a direct implication for education policy: "we should not assume that teaching methods that have been validated with one SES group will necessarily be effective for a different group." Where academic domains show SES-related neural differences in how material is processed, instructional validation should be checked per population rather than generalized. The recommendation rests on the arithmetic-processing moderation finding and is framed as a future implication of such findings accumulating.

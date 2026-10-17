@@ -15,12 +15,14 @@ sources:
     author: Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` For bullied students with moderate family support, bullying was not associated with lower achievement odds (OR 1.00), whereas high (OR 0.20) and low (OR 0.40) family support showed lower odds. [→ Rothon Catherine 2011](#rothon-catherine-2011)

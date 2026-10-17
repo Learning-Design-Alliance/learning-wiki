@@ -15,12 +15,14 @@ sources:
     author: "Pauker, K., Ambady, N., & Apfelbaum, E. P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Racial justification (merely noticing and describing racial differences) did not uniquely predict out-group stereotyping, unlike functional sorting by race
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Racial justification was not a significant predictor in the final regression model (β = .08, per Table 4), contrasting with sorting by race (β = .34, p = .003). [→ Pauker 2010](#pauker-2010)

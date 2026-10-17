@@ -13,12 +13,14 @@ sources:
     title: Shogren 2007
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Capacity, opportunity, and transition empowerment predicted students' self-reported self-determination, but degree of inclusion in general education did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students' capacity, opportunity, and transition empowerment each predicted their self-reported level of self-determination, whereas the degree to which students were included in general education did not. [→ Shogren 2007](#shogren-2007)

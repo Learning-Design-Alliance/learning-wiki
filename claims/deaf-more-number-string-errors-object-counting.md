@@ -15,12 +15,14 @@ sources:
     author: Jacqueline Leybaert and Marie-Noëlle Van Cutsem
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In object counting, deaf and hearing children make similar attention and principle errors, but deaf children make more number-string errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across age groups, attention and principle error rates did not differ by hearing status, while deaf children produced more sequence number counting errors. [→ Jacqueline Leybaert and Marie-Noëlle Van Cutsem 2002](#jacqueline-leybaert-and-marie-noelle-van-cutsem-2002)

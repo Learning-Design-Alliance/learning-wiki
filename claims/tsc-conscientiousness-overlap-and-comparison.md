@@ -13,12 +13,14 @@ sources:
     title: Schmidt FTC 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Trait self-control and conscientiousness overlap substantially, and conscientiousness slightly outperforms self-control for grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Trait self-control and conscientiousness share 34% of variance, and conscientiousness showed slightly stronger associations with mGPA than trait self-control in the final model. [→ Schmidt FTC 2020](#schmidt-ftc-2020)

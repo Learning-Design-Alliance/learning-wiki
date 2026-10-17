@@ -12,7 +12,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (50 show a difference, 15 mixed, 6 no difference) · 43 studies (23 associational, 7 review, 6 causal, 3 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q3` · 3 of 43 report an effect size · 69 claims rest on one study
+> **Evidence** · 92 claims (67 show a difference, 15 mixed, 10 no difference) · 52 studies (31 associational, 8 review, 6 causal, 3 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q3` · 7 of 52 report an effect size · 90 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).

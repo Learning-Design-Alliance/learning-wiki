@@ -13,12 +13,14 @@ sources:
     title: Schleepen TMJ 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a hierarchical regression, entering symbolic and nonsymbolic magnitude comparison in step 4 explained an additional 24.4% of variance in multiplication fact performance, a significant change in R2. [→ Schleepen TMJ 2016](#schleepen-tmj-2016)

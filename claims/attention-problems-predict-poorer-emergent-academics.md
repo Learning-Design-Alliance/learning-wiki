@@ -15,12 +15,14 @@ sources:
     author: "Arnold, D. H., Kupersmidt, J. B., Voegler-Lee, M. E., & Marshall, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Teacher-rated attention problems were associated with both lower preliteracy and lower language scores controlling for aggression and social skills. [→ Arnold 2012](#arnold-2012)

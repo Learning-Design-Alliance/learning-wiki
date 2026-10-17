@@ -15,12 +15,14 @@ sources:
     author: "Gandolfi, E., Traverso, L., Zanobini, M., Usai, M. C., & Viterbori, P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Interference suppression assessed at 28–36 months is the only significant predictor of early orthographic knowledge at 4–6 years in the full regression model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the hierarchical regression for early orthographic knowledge, the Fish task was the only significant predictor of the full model (Beta = .373, p = .033), while age group and maternal education were not significant. [→ Gandolfi 2021](#gandolfi-2021)

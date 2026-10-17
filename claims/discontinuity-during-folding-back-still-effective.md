@@ -15,12 +15,14 @@ sources:
     author: "Mabotja, S., Chuene, K., Maoto, S., & Kibirige, I."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Extract 2, algebraic errors committed while working outside the topic of geometry caused a discontinuity, yet learners ultimately evaluated a and b, resulting in effective folding back. [→ Mabotja 2018](#mabotja-2018)

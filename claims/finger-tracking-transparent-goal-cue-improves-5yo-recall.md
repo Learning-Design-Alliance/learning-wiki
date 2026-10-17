@@ -15,12 +15,14 @@ sources:
     author: "Fitamen, C., Blaye, A. & Camos, V."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Five-year-olds recall more words in a Brown-Peterson task when they finger-track a transparent goal cue during the retention interval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In 5-year-olds, presenting a transparent goal cue significantly improved recall performance when children tracked the cue with their fingers (ηp² = 0.15). [→ Fitamen 2019](#fitamen-2019)

@@ -15,12 +15,14 @@ sources:
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Children with dyslexia read texts significantly more slowly than typical readers in both oral and silent reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Study 1, children with dyslexia showed a large fluency deficit relative to typical readers across reading modes. [→ Madelon van den Boer 2022](#madelon-van-den-boer-2022)

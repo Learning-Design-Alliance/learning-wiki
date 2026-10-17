@@ -15,12 +15,14 @@ sources:
     author: Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Observed help-seeking during the challenge task is unrelated to teacher-rated learning-related behaviors and academic skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Help-seeking was unrelated to teacher-rated learning-related outcomes and not significantly related to academic skills. [→ Berhenke 2011](#berhenke-2011)

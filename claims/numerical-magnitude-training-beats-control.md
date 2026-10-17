@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2016
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Both numerical training conditions improve magnitude processing more than a story-understanding control condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Both numerical training groups improved in trained magnitude tasks while the control group showed no performance increase. [→ Honoré N 2016](#honore-n-2016)

@@ -13,16 +13,20 @@ sources:
     title: Susac A 2014
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: susac-a-2014-2
     title: Susac A 2014 (2)
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Accuracy and speed of simple equation rearrangement increase with students' age across grades 7–12
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Accuracy increased with age (main effect of Age on accuracy, effect size η2 p = 0.081). [→ Susac A 2014](#susac-a-2014)

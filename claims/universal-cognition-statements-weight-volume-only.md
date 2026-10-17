@@ -15,12 +15,14 @@ sources:
     author: Ebru Aydın, Çağlayan Dinçer
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Children's statements about universal properties of cognition emerged only in weight and volume measurement activities, not in length or area activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across the 16 activities, children made statements judging cognitive difficulty or ease only in weight and volume activities; no such statements occurred in length or area activities. [→ Ebru Aydın 2022](#ebru-aydn-2022)

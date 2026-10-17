@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Home literacy environment and child health together accounted for 11% of variance in reading readiness; SES was no longer significant once proximal factors were entered. [→ Dilnot 2017](#dilnot-2017)

@@ -13,16 +13,20 @@ sources:
     title: Thillay A 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
   - id: thillay-a-2015-2
     title: Thillay A 2015 (2)
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # CNV and P3 scalp topographies show a frontal shift with increasing age during adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Normalized CNV amplitude at Fz preceding standards and random targets was larger in 18–24 year-olds than in younger groups, indicating an age-related increase in frontal contribution. [→ Thillay A 2015](#thillay-a-2015)

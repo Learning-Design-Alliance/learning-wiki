@@ -15,12 +15,14 @@ sources:
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling for shared weaknesses, phoneme awareness and naming speed independently predicted reading but not math, and set shifting independently predicted math but not reading. [→ Willcutt 2013](#willcutt-2013)

@@ -15,18 +15,22 @@ sources:
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: li-shenghui-2013-2
     resource: "https://doi.org/10.1371/journal.pone.0067928"
     title: "Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming. (2013). Sleep, School Performance, and a School-Based Intervention among School-Aged Children: A Sleep Series Study in China. PLoS ONE. https://doi.org/10.1371/journal.pone.0067928"
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` At follow-up, children with frequent daytime sleepiness had greater odds of impaired attention (OR = 1.14, p = 0.030), learning motivation (OR = 1.11, p = 0.015), and academic achievement (OR = 1.18, p = 0.005). [→ Li Shenghui 2013](#li-shenghui-2013)

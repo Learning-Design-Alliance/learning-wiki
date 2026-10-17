@@ -13,12 +13,14 @@ sources:
     title: Thillay A 2015
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The magnitude of ERP prediction markers correlates with the behavioral reaction-time benefit of predictability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The predictability effect on CNV amplitude preceding targets and on target-P3 latency each correlated with the predictability benefit in reaction time. [→ Thillay A 2015](#thillay-a-2015)

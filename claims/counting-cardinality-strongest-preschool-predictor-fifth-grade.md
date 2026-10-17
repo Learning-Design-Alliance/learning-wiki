@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Watts, T. W., Duncan, G. J., Clements, D. H., Sarama, J. S., Wolfe, C., & Spitler, M. E."
     q: 2
     i: 3
+    kind: associational
+    rigour: 3
 ---
 
 # Preschool counting and cardinality competencies are the strongest predictors of fifth grade mathematics achievement among the measured preschool domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` In fully controlled OLS regression with preschool teacher fixed effects, counting and cardinality competencies in spring of preschool predicted fifth grade mathematics achievement more strongly than geometry, patterning, or measurement and data (β = 0.42). [→ Nguyen 2016](#nguyen-2016)

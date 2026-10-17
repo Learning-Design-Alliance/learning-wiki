@@ -15,12 +15,14 @@ sources:
     author: Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No white-matter structural connectivity differences between adults with dyscalculia and controls in the examined tracts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` DTI metrics (FA, MD, AD, RD) showed no significant group differences in any delineated tract, even uncorrected. [→ Bulthé Jessica 2019](#bulthe-jessica-2019)

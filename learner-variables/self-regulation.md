@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (85 show a difference, 26 mixed, 13 no difference, 2 unmarked) · 91 studies (26 associational, 21 causal, 19 review, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 91 report an effect size · 118 claims rest on one study
+> **Evidence** · 133 claims (91 show a difference, 27 mixed, 13 no difference, 2 unmarked) · 96 studies (29 associational, 21 causal, 20 review, 10 quant-synthesis, 8 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 19 of 96 report an effect size · 125 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.

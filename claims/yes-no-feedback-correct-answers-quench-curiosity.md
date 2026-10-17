@@ -15,12 +15,14 @@ sources:
     author: "Metcalfe, J., Vuorre, M., Towner, E., & Eich, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When participants were told they were correct, curiosity fell to close to zero, while in the no-feedback condition curiosity peaked at moderate certainty and declined as certainty increased. [→ Metcalfe 2023](#metcalfe-2023)

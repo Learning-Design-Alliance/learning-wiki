@@ -15,12 +15,14 @@ sources:
     author: "Kurvers, J., Van Hout, R., & Vallen, T."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Years of primary schooling and months of language lessons explain 70% of variance in adults' total literacy scores; age and years of residence do not predict
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a stepwise regression on the total literacy score, years of schooling in the home country was the main explanatory variable and months of L2/literacy lessons the second; age and residence were excluded. [→ Kurvers 2009](#kurvers-2009)

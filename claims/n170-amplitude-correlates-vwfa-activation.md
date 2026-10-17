@@ -13,12 +13,14 @@ sources:
     title: Blackburne LK 2014
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across participants with both ERP and fMRI data (N = 17), the N170 amplitude difference at electrode P7 correlated significantly with the reversed > typical difference in the functionally defined VWFA; within each group separately there was no correlation. [→ Blackburne LK 2014](#blackburne-lk-2014)

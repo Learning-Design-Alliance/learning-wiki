@@ -15,12 +15,14 @@ sources:
     author: "Hoyniak, C. P., Petersen, I. T., McQuillan, M. E., Staples, A. D., & Bates, J. E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # P3 amplitudes and sleep duration show no significant associations with sleep deficits or sustained attention in toddlers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` There was no significant association between P3 latencies and sleep duration, nor between P3 amplitudes and sleep deficits or sustained attention. [→ Hoyniak 2015](#hoyniak-2015)

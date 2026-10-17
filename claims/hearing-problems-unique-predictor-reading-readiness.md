@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among child health risks, only hearing problems uniquely predicted reading readiness, accounting for 5.5% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When individual child health risks replaced the overall index, only hearing problems at T1 accounted for unique variance in reading readiness. [→ Dilnot 2017](#dilnot-2017)

@@ -13,6 +13,7 @@ generated:
 # Boston Naming Test (BNT)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A 60-item confrontation-naming assessment developed by Kaplan, Goodglass, and Weintraub that measures expressive vocabulary by asking examinees to name increasingly difficult line drawings, with stimulus and phonemic cues after errors.

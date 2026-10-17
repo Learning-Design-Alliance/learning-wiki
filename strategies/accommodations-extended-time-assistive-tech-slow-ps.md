@@ -17,7 +17,7 @@ sources:
 # Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that youth whose evaluations confirm slow processing speed receive school-based supports centered on acceptance, advocacy, and accommodations. It names concrete tools: "Accommodations for extended time, teaching time-management skills, and the use of assistive technology are all good examples of such strategies." It also notes that programs directly increasing processing speed have been piloted in adults with neurological illness and need development for children.

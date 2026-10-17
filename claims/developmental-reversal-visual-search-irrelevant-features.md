@@ -15,18 +15,22 @@ sources:
     author: "Plebanek, D. J., & Sloutsky, V. M."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
   - id: plebanek-2017-2
     resource: "https://doi.org/10.1177/0956797617693005"
     title: "Plebanek, D. J., & Sloutsky, V. M. (2017). Costs of Selective Attention: When Children Notice what Adults Miss. Psychological Science, 28(6), 723-732. https://doi.org/10.1177/0956797617693005"
     author: "Plebanek, D. J., & Sloutsky, V. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # In a visual search task, children recognize search-irrelevant features better than adults while relevant-feature recognition is comparable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i3`
 
 ## Subclaims
 `q3 i0` Adults and children show comparable recognition accuracy for search-relevant features, but adults have lower accuracy for irrelevant features than children. [→ Plebanek 2017](#plebanek-2017)

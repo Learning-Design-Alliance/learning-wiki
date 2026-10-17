@@ -17,7 +17,7 @@ sources:
 # For children with cerebral palsy who cannot write legibly, apply physical therapy interventions improving trunk stability and control to support upper-limb coordination and fine motor skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 In the rehabilitation field, the article proposes that children with cerebral palsy who cannot produce legible handwriting be given appropriate sitting postures through physical therapy that improves trunk stability and control. Such interventions are expected to stabilize coordinated upper-limb movements and hand fine motor skills, potentially enabling more legible handwriting and increasing self-esteem, classroom participation, and academic achievement.

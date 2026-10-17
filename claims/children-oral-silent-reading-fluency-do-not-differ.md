@@ -15,12 +15,14 @@ sources:
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # For children in Grades 3–5, with and without dyslexia, oral and silent text reading fluency do not differ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with dyslexia and typical readers read equally fluently orally and silently, with no main effect of reading mode and no mode × group interaction. [→ Madelon van den Boer 2022](#madelon-van-den-boer-2022)

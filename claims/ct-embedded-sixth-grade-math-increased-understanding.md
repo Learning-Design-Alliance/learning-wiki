@@ -15,12 +15,14 @@ sources:
     author: "Yadav, A., Hong, H., & Stephenson, C."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Embedding computational thinking in a sixth-grade mathematics classroom significantly increased students' understanding of mathematical processes versus control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When computational thinking ideas were embedded in sixth-grade mathematics, students' understanding of mathematical processes increased significantly compared to a control group. [→ Yadav 2016](#yadav-2016)

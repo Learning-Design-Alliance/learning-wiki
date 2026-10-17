@@ -12,7 +12,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (24 show a difference, 6 mixed, 8 no difference) · 31 studies (10 causal, 7 review, 5 quant-synthesis, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 8 of 31 report an effect size · 37 claims rest on one study
+> **Evidence** · 45 claims (28 show a difference, 8 mixed, 9 no difference) · 34 studies (10 causal, 8 review, 7 associational, 5 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 9 of 34 report an effect size · 44 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.

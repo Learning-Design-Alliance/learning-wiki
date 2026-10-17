@@ -15,12 +15,14 @@ sources:
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Adolescents show adult-level dlPFC beta-band power but lower FEF alpha-band power and weaker dlPFC/FEF beta-alpha cross-frequency coupling during antisaccade preparation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adolescents have adult-level beta power in dlPFC but reduced FEF alpha power and reduced dlPFC/FEF cross-frequency coupling during the antisaccade preparatory period. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

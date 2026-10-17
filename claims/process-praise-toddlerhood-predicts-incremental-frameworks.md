@@ -15,18 +15,22 @@ sources:
     author: Gunderson Elizabeth A., Gripshover Sarah J., Romero Carissa, Dweck Carol S., Goldin-Meadow Susan, Levine Susan C.
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
   - id: gunderson-elizabeth-a-2013-2
     resource: "https://doi.org/10.1111/cdev.12064"
     title: "Gunderson Elizabeth A., Gripshover Sarah J., Romero Carissa, Dweck Carol S., Goldin-Meadow Susan, Levine Susan C. (2013). Parent Praise to 1-3 Year-Olds Predicts Children's Motivational Frameworks 5 Years Later. Child development. https://doi.org/10.1111/cdev.12064"
     author: Gunderson Elizabeth A., Gripshover Sarah J., Romero Carissa, Dweck Carol S., Goldin-Meadow Susan, Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Process praise (as a percent of total praise) at 14-38 months correlated with children's motivational framework scores at 7-8 years, r(51) = .35, p = .01. [→ Gunderson Elizabeth A. 2013](#gunderson-elizabeth-a-2013)

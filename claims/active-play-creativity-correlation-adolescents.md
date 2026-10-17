@@ -15,18 +15,22 @@ sources:
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
   - id: piya-amornphan-n-2020-2
     resource: "https://doi.org/10.1186/s12887-020-2017-2"
     title: "Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2"
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Among adolescents aged 14–17, TCT-DP creativity scores were positively correlated with active play (r = 0.148, p = 0.001). [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

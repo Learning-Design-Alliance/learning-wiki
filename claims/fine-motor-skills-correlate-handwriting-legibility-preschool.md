@@ -15,24 +15,30 @@ sources:
     author: Seo S-M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
   - id: seo-s-m-2018-2
     resource: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     title: "Seo S-M. (2018). The effect of fine motor skills on handwriting legibility in preschool age children. J. Phys. Ther. Sci. 30: 324–327. https://creativecommons.org/licenses/by-nc-nd/4.0/"
     author: Seo S-M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: seo-s-m-2018-3
     resource: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     title: "Seo S-M. (2018). The effect of fine motor skills on handwriting legibility in preschool age children. J. Phys. Ther. Sci. 30: 324–327. https://creativecommons.org/licenses/by-nc-nd/4.0/"
     author: Seo S-M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Fine motor precision and manual dexterity are positively correlated with handwriting legibility in preschool children, and Functional Dexterity Test time is inversely correlated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Handwriting legibility correlates significantly with fine motor precision (r=0.78). [→ Seo S-M 2018](#seo-s-m-2018)

@@ -15,12 +15,14 @@ sources:
     author: "Powell, S. R., Fuchs, L. S., Fuchs, D., Cirino, P. T., & Fletcher, J. M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # MD-only students outperform MDRD students in fact retrieval skill overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Across tutoring conditions, MD-only students achieved higher posttest fact retrieval than MDRD students (ES = 0.47). [→ Powell 2009](#powell-2009)

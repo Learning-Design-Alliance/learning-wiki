@@ -15,12 +15,14 @@ sources:
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children aged 8–11 show significant activation in frontal-striatal-parietal regions during proactive inhibition and striatal activation during reactive inhibition, similar to regions reported in adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` One-sample t-tests showed significant activation in the mid frontal cortex, right parietal cortex and right putamen during proactive inhibition, and bilateral striatum activation during reactive inhibition. [→ Pas P. 2021](#pas-p-2021)

@@ -15,18 +15,22 @@ sources:
     author: Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: vigna-giulia-2022-2
     resource: "https://doi.org/10.3390/brainsci12030373"
     title: "Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo. (2022). Dyscalculia in Early Adulthood: Implications for Numerical Activities of Daily Living. Brain Sciences. https://doi.org/10.3390/brainsci12030373"
     author: Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Arithmetic deficits in adults with DD concentrate in mental calculation, arithmetical rules, and written calculation, with number comprehension and transcoding preserved
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0`–`i3`
 
 ## Subclaims
 `q3 i3` Adults with DD scored significantly lower than controls in total mental calculation (r = -0.614, p < 0.001) and total written calculation (r = -0.500, p < 0.001). [→ Vigna Giulia 2022](#vigna-giulia-2022)

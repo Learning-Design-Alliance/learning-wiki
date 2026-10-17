@@ -13,12 +13,14 @@ sources:
     title: Mol SE and Jolles J 2014
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Only a minority of Dutch seventh graders read for leisure, with lower prevalence in the pre-vocational track (19.5%) than the pre-academic track (32.5%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 19.5% of lower-track and 32.5% of higher-track seventh graders reported reading during leisure time. [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

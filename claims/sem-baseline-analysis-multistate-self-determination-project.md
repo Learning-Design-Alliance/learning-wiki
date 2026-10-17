@@ -13,12 +13,14 @@ sources:
     title: Shogren 2007
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The study examined baseline data from a multistate, longitudinal research project evaluating interventions to promote self-determination using structural equation modeling. [→ Shogren 2007](#shogren-2007)

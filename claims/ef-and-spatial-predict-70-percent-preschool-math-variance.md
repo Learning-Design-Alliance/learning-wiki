@@ -15,12 +15,14 @@ sources:
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Executive function and spatial skills jointly predict 70% of the variance in age-4 mathematics performance without an explicit number-knowledge measure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the final hierarchical regression, EF (FIST, Tap Test) entered at step 1 and spatial skills (TOSA, VMI) at step 2 accounted for 70% of variance in WIAT Math Problem Solving scores. [→ Verdine 2014](#verdine-2014)

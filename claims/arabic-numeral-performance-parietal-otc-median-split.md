@@ -15,12 +15,14 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among children, differences in Arabic numeral performance are associated with ratio-dependent BOLD differences in left superior parietal cortex and right OTC, but dot array performance differences show no such brain differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with small versus large behavioral ratio effects for Arabic numerals differed in BOLD ratio effects in left superior parietal cortex and right OTC; no differences emerged for dot arrays. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

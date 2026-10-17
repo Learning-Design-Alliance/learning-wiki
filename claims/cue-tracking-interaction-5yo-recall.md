@@ -15,12 +15,14 @@ sources:
     author: "Fitamen, C., Blaye, A. & Camos, V."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # In 5-year-olds the transparent-cue benefit appears only with finger tracking, producing a significant Cue × Tracking interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The beneficial cue effect vanished in the visual-tracking condition, yielding a significant Cue × Tracking interaction in 5-year-olds (ηp² = 0.06). [→ Fitamen 2019](#fitamen-2019)

@@ -15,18 +15,22 @@ sources:
     author: Diamond Adele, Lee Kathleen
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: diamond-adele-2011-2
     resource: "https://doi.org/10.1126/science.1204529"
     title: "Diamond Adele, Lee Kathleen. (2011). Interventions shown to Aid Executive Function Development in Children 4–12 Years Old. Science. https://doi.org/10.1126/science.1204529"
     author: Diamond Adele, Lee Kathleen
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Tools 5-year-olds outperformed control children on both EF measures taxing all 3 core EFs, especially on the more EF-demanding conditions. [→ Diamond Adele 2011](#diamond-adele-2011)

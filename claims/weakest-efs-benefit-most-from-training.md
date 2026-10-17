@@ -15,12 +15,14 @@ sources:
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children with the weakest executive functions benefit the most from EF interventions, so early training may reduce social disparities in EFs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children with the weakest EFs benefit the most from any EF intervention or program, suggesting early EF training can level the playing field. [→ Diamond Adele 2012](#diamond-adele-2012)

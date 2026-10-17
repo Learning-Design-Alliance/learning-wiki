@@ -15,12 +15,14 @@ sources:
     author: Gunderson Elizabeth A., Gripshover Sarah J., Romero Carissa, Dweck Carol S., Goldin-Meadow Susan, Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Boys received significantly more process praise than girls, despite equal overall praise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cumulatively, 24.4% of praise boys received was process praise versus 10.3% for girls, a difference significant across all three ages and all measures. [→ Gunderson Elizabeth A. 2013](#gunderson-elizabeth-a-2013)

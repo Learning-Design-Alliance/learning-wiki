@@ -15,12 +15,14 @@ sources:
     author: Libertus Melissa E., Feigenson Lisa, Halberda Justin
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # ANS acuity is a unique concurrent predictor of preschool math ability beyond expressive vocabulary, non-numerical attention RT, and memory span
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Accuracy on the ANS task uniquely predicted concurrent TEMA-3 scores controlling for vocabulary, K-CPT RT, and memory span (partial r2 = 0.18, p < 0.001). [→ Libertus Melissa E. 2013](#libertus-melissa-e-2013)

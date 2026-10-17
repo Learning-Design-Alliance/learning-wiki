@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (34 show a difference, 11 mixed, 4 no difference) · 40 studies (13 causal, 8 review, 8 associational, 5 qualitative, 3 theoretical, 2 design, 1 quant-synthesis), `q1`–`q3` · 8 of 40 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (35 show a difference, 11 mixed, 4 no difference) · 41 studies (13 causal, 8 review, 8 associational, 5 qualitative, 3 design, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 8 of 41 report an effect size · 48 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.

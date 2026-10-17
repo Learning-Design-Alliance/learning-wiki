@@ -15,18 +15,22 @@ sources:
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: karns-christina-m-2015-2
     resource: "https://doi.org/10.1016/j.dcn.2015.03.001"
     title: "Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J. (2015). Auditory attention in childhood and adolescence: An event-related potential study of spatial selective attention to one of two simultaneous stories. Developmental cognitive neuroscience. https://doi.org/10.1016/j.dcn.2015.03.001"
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Attention increases nonlinguistic-probe P1 amplitude in adults and 13-year-olds, but modulation is weak or absent in 16-year-olds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In adults, attention reliably increased the amplitude of the P1 elicited by nonlinguistic probes, particularly over frontal and left hemisphere electrodes. [→ Karns Christina M. 2015](#karns-christina-m-2015)

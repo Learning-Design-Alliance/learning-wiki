@@ -15,12 +15,14 @@ sources:
     author: "Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teacher participation in the MACE professional development program added no measurable effect on any student outcome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across GAT, vocabulary, GCT, and VAA outcomes, class growth differences were not explained by PD program participation. [→ Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen 2019](#eveline-m-schoevers-paul-p-m-leseman-evelyn-h-kroesbergen-2019)

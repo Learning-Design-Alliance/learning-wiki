@@ -17,7 +17,7 @@ sources:
 # Promote active play with family and peers to facilitate creativity skills and physical activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends a combined strategy of increasing active play and time spent with family and peers while lessening sedentary behavior, grounded in its finding that active play was associated with family/peers time in all age groups and with creativity in adolescents. It states that "Increased physical activity, especially in active play may be a strategy for facilitating creativity." The recommendation is framed for children and youths in school and family settings.

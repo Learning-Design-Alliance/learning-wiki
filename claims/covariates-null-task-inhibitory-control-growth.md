@@ -15,12 +15,14 @@ sources:
     author: "Fosco, W. D., Hawk, L. W. Jr., Colder, C. R., Meisel, S. N., & Lengua, L. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Child IQ, sex, and parental income do not predict initial levels or growth of task-based inhibitory control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In exploratory analyses, child IQ, child sex, and parental income did not predict the intercept or linear slope of task-based inhibitory control. [→ Fosco 2019](#fosco-2019)

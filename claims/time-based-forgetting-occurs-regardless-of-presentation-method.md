@@ -15,18 +15,22 @@ sources:
     author: Ricker Timothy J., Cowan Nelson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ricker-timothy-j-2014-2
     resource: "https://doi.org/10.1037/a0034301"
     title: "Ricker Timothy J., Cowan Nelson. (2014). Differences between Presentation Methods in Working Memory Procedures: A Matter of Working Memory Consolidation. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://doi.org/10.1037/a0034301"
     author: Ricker Timothy J., Cowan Nelson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Time-based forgetting occurs across presentation methods, with rate determined by consolidation time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Significant forgetting over the retention interval was observed in all experiments regardless of presentation method, and longer consolidation times always produced slower forgetting. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

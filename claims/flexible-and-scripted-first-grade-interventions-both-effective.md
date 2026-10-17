@@ -15,12 +15,14 @@ sources:
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Both a scripted direct-instruction program and a more flexible small-group first-grade intervention outperformed typical practice on multiple reading indicators
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Mathes et al. (2005) experimentally compared two first-grade small-group intervention programs and a typical practice comparison group and found both interventions produced significantly higher performance on multiple reading indicators than the comparison group. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

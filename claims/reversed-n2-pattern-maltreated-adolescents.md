@@ -15,18 +15,22 @@ sources:
     author: "Bruce, J., & Kim, H. K."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: bruce-2022-2
     resource: "https://doi.org/10.1017/S0954579420001819"
     title: "Bruce, J., & Kim, H. K. (2022). Behavioral and Electrophysiological Indices of Inhibitory Control in Maltreated Adolescents and Nonmaltreated Adolescents. Development and Psychopathology. https://doi.org/10.1017/S0954579420001819"
     author: "Bruce, J., & Kim, H. K."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Maltreated adolescents show a reversed N2 pattern during go/no go: more pronounced N2 on go trials than no go trials, unlike nonmaltreated adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` The trial type x group interaction on N2 amplitude was significant; maltreated adolescents showed a more negative N2 on go than no go trials, while nonmaltreated adolescents showed the typical pattern. [→ Bruce 2022](#bruce-2022)

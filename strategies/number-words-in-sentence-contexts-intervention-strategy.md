@@ -17,7 +17,7 @@ sources:
 # Early-number interventions may emphasize number words in full sentence contexts alongside counting contexts, and vocabulary-building may aid number-concept development.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors propose that future number-learning interventions could "emphasize the use of number words in full sentence contexts" (e.g., "I can see three bears on the carpet, and two of the bears are brown") together with counting contexts ("How many bears? One, two, three."), to exploit linguistic cues. They also suggest dual-language learners may acquire number concepts more easily in the language where their vocabulary is greater, and that vocabulary-building interventions might be considered a potential aid to number-concept development.

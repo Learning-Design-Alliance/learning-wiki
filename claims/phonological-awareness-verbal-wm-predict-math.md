@@ -15,12 +15,14 @@ sources:
     author: Martin Rebecca B., Cirino Paul T., Sharp Carla, Barnes Marcia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Phonological awareness was uniquely predictive of computation, applied problems, and story problems; verbal working memory was uniquely predictive of fluency and applied problems; spatial working memory was uniquely predictive only of story problems. [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

@@ -15,12 +15,14 @@ sources:
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a cross-sectional cohort of 640 children, higher EATQ-R self-regulation scores were significantly associated with more proactive response slowing, regardless of sex. [→ Pas P. 2021](#pas-p-2021)

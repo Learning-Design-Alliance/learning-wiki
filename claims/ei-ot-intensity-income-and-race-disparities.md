@@ -15,12 +15,14 @@ sources:
     author: McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Family income and race/ethnicity were associated with occupational therapy intensity, with higher-income children receiving more intensive OT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children whose family income was above the federal poverty threshold received more intensive occupational therapy (b, 1.9; 95% CI, 0.9-3.0), whereas children categorized as other, non-Hispanic received less intensive OT (b, ŌłÆ1.6; 95% CI, ŌłÆ2.6 to ŌłÆ0.7). [→ McManus BM 2019](#mcmanus-bm-2019)

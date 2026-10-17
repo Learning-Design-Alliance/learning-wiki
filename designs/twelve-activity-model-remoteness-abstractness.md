@@ -17,6 +17,7 @@ sources:
 # A model of twelve divergent thinking activities organised along two dimensions of remoteness and abstractness
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a matrix of twelve divergent thinking activities organised along two dimensions: remoteness (the metaphorical distance from a stimulus, running from free association to bisociation) and abstractness (running from association through combination to abstraction). The authors state they "built a model of twelve divergent thinking activities, along two dimensions—remoteness and abstractness" to serve as a framework for teaching students how to generate more original ideas deliberately in visual arts education. Activities range from A1 (associate freely) to C4 (transform), with remoteness and abstractness treated as vectors along which learners can deliberately move to generate more original ideas.

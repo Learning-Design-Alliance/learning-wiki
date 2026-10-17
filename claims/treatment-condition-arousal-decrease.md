@@ -15,12 +15,14 @@ sources:
     author: "Henk G. Schmidt & Jerome I. Rotgans"
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # In the treatment condition, both epistemic curiosity and situational interest increased after problem presentation and decreased after the explanatory text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` For treatment-group students lacking prior knowledge, both epistemic curiosity (η2 = .163) and situational interest (η2 = .117) rose significantly after the Mpemba problem and fell after the explanatory text was studied. [→ Henk G. Schmidt & Jerome I. Rotgans 2021](#henk-g-schmidt-jerome-i-rotgans-2021)

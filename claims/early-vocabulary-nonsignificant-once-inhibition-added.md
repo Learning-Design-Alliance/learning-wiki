@@ -15,12 +15,14 @@ sources:
     author: "Gandolfi, E., Traverso, L., Zanobini, M., Usai, M. C., & Viterbori, P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Early expressive vocabulary predicts emergent literacy outcomes only until inhibitory control measures are added, after which it is no longer significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Time 1 expressive vocabulary was a significant predictor of both phonological awareness and early orthographic knowledge in block 3, but lost significance when the two inhibitory control measures entered in block 4. [→ Gandolfi 2021](#gandolfi-2021)

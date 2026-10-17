@@ -15,12 +15,14 @@ sources:
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Comorbidity with ODD and CD in RD and MD is restricted to individuals who also meet criteria for ADHD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In all three disorder groups, elevated rates of oppositional defiant disorder and conduct disorder occurred only among cases with comorbid ADHD. [→ Willcutt 2013](#willcutt-2013)

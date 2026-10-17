@@ -15,12 +15,14 @@ sources:
     author: Döhla D and Heim S
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reading and writing are similar but not symmetric processes, with writing more demanding than reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Writing is more demanding than reading for five reasons, including more complex phoneme-to-grapheme correspondence and the need for full retrieval rather than recognition. [→ Döhla D and Heim S 2016](#dohla-d-and-heim-s-2016)

@@ -15,12 +15,14 @@ sources:
     author: McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Each additional hour per month of EI service was associated with a 3-point functional gain on Child Outcomes Summary scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An additional hour per month of all EI services was associated with a 3-point gain in functional outcomes scores (b, 3.0; 95% CI, 1.5-5.9) among children with complete outcomes information (n = 448), consistent across all 3 subscales and described as a clinically meaningful 0.6 SD gain. [→ McManus BM 2019](#mcmanus-bm-2019)

@@ -15,12 +15,14 @@ sources:
     author: "Bernardini, P., & Schlyter, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Mixed utterances reflect the same amount of syntactic structure as monolingual utterances in the weaker language at the same recording
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The weaker-language parts of code-mixed utterances show the same syntactic structure as pure utterances in that language in the same recording session. [→ Bernardini 2004](#bernardini-2004)

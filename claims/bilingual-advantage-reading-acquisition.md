@@ -15,12 +15,14 @@ sources:
     author: Döhla D and Heim S
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bilingual children learning two alphabetic languages performed better in PA tasks than monolingual and bilingual children speaking English and Chinese. [→ Döhla D and Heim S 2016](#dohla-d-and-heim-s-2016)

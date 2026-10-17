@@ -15,12 +15,14 @@ sources:
     author: Gross Megan, Buac Milijana, Kaushanskaya Margarita
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sequential bilinguals score significantly below monolinguals on English vocabulary even with conceptual scoring and SES controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Conceptual scoring did not ameliorate the difference between sequential bilinguals and monolinguals in either modality, even with SES statistically controlled. [→ Gross Megan 2014](#gross-megan-2014)

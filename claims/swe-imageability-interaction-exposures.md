@@ -15,12 +15,14 @@ sources:
     author: Steacy LM, Fuchs D, Gilbert JK, Kearns DM, Elleman AM, Edwards AA
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Initial word reading skill interacted with imageability: the poorest readers needed nearly 4 more exposures for low-imageability words than stronger readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For low imageability words, students beginning 2 SD below the mean in word reading required nearly 4 more exposures than students beginning 2 SD above the mean. [→ Steacy LM 2020](#steacy-lm-2020)

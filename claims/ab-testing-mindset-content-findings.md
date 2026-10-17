@@ -15,24 +15,30 @@ sources:
     author: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: yeager-2016-2
     resource: "https://doi.org/10.1037/edu0000098"
     title: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S. (2016). Using Design Thinking to Improve Psychological Interventions: The Case of the Growth Mindset During the Transition to High School. Journal of Educational Psychology. https://doi.org/10.1037/edu0000098"
     author: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 3
   - id: yeager-2016-3
     resource: "https://doi.org/10.1037/edu0000098"
     title: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S. (2016). Using Design Thinking to Improve Psychological Interventions: The Case of the Growth Mindset During the Transition to High School. Journal of Educational Psychology. https://doi.org/10.1037/edu0000098"
     author: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In the pilot A/B experiments, indirect framing outperformed direct framing, refuting the fixed mindset backfired for strong fixed-mindset holders, and celebrity endorsements increased adoption
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · causal `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Direct framing led to smaller changes in mindsets than indirect framing in both A/B studies. [→ Yeager 2016](#yeager-2016)

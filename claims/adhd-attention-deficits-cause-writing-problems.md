@@ -15,12 +15,14 @@ sources:
     author: Döhla D and Heim S
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Clinically relevant attention problems in ADHD cause writing problems without impairing reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Children with ADHD made more spelling errors in morphological categories and showed poor time utilization in writing, while their reading abilities were similar to the comparison group. [→ Döhla D and Heim S 2016](#dohla-d-and-heim-s-2016)

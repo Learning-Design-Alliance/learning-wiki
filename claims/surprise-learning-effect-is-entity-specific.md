@@ -15,12 +15,14 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Infants and children taught about an entirely new object immediately after a violation were no better at learning than those taught after an expected event, arguing against a diffuse arousal account. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

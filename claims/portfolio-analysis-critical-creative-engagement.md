@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, I., & Bisiri, E."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Portfolio analysis revealed children were critically and creatively engaged in the learning procedures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Analysis of children's portfolios (crafts, posters, drawings collected after each session) revealed critical and creative engagement, including comparing Greek and Albanian traditional costumes for similarities and differences. [→ Papadopoulos 2020](#papadopoulos-2020)

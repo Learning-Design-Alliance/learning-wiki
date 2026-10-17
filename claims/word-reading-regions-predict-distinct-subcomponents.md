@@ -15,12 +15,14 @@ sources:
     author: Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Reading-defined regions uniquely predict distinct cognitive subcomponents: LSTG for phonetic representation, LSMG for phonological awareness, and LITG for orthography-phonology mapping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In stepwise regression models, LITG thickness predicted orthography-phonology mapping (t = 3.153, p = 0.005), LSMG thickness predicted phonological awareness (t = 2.438, p = 0.025), and LSTG thickness predicted categorical perception of lexical tones (t = 3.17, p = 0.005), all surviving FDR correction. [→ Xia Zhichao 2018](#xia-zhichao-2018)

@@ -17,7 +17,7 @@ sources:
 # Use nonverbal wagering paradigms for metacognitive interventions with preschool children, targeting domain-specific strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (1 associational, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that because children can report uncertainty nonverbally by at least age 5, "nonverbal paradigms, such as wagering, could be used in metacognitive interventions with preschool children." Because metacognitive skill and bias are domain-specific in early childhood, the authors further suggest that "generic interventions to improve children's metacognitive accuracy might be less effective than training specific metacognitive strategies that depend on the content of the learning materials."

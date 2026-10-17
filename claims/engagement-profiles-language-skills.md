@@ -15,12 +15,14 @@ sources:
     author: "McWayne, C. M., Melzi, G., Limlingan, M. C., & Schick, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children in higher family engagement profiles had higher total language skills in both language subsamples, most pronounced among English-speaking families
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Higher engagement profile membership was related to higher children's total language scores regardless of home language, with the distinction most pronounced in the English subsample. [→ McWayne 2016](#mcwayne-2016)

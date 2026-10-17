@@ -15,12 +15,14 @@ sources:
     author: Gunderson Elizabeth A., Gripshover Sarah J., Romero Carissa, Dweck Carol S., Goldin-Meadow Susan, Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parents' praise styles were stable across child ages 14-38 months, with person praise declining and other praise increasing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Process praise use was significantly correlated across the three ages, while person praise declined from 14 to 38 months, t(52) = −5.56, p < .001. [→ Gunderson Elizabeth A. 2013](#gunderson-elizabeth-a-2013)

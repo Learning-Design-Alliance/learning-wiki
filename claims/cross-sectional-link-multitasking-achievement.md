@@ -15,12 +15,14 @@ sources:
     author: W.A. van der Schuur, S.E. Baumgartner, S.R. Sumter, P.M. Valkenburg
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Academic-media multitasking and academic achievement are cross-sectionally related in adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` At each measurement wave, academic-media multitasking and academic achievement were related concurrently. [→ W.A. van der Schuur 2020](#wa-van-der-schuur-2020)

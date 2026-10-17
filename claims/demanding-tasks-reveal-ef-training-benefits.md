@@ -15,12 +15,14 @@ sources:
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Largest EF-training benefits emerge on the most demanding EF tasks and task conditions, so outcome measures must test the limits of children's EF abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The largest differences between intervention groups and controls are consistently found on the most demanding EF tasks and task conditions. [→ Diamond Adele 2012](#diamond-adele-2012)

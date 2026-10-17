@@ -13,12 +13,14 @@ sources:
     title: Schleepen TMJ 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fourth graders show the typical problem-size effect in multiplication, with slower and less accurate responses to large than small problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Paired t-tests comparing small vs. large multiplication problems showed increased reaction times and decreased accuracy for large problems. [→ Schleepen TMJ 2016](#schleepen-tmj-2016)

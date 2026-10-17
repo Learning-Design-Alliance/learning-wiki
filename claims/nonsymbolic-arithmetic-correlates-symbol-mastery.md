@@ -15,12 +15,14 @@ sources:
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Non-symbolic arithmetic performance correlates with children's mastery of number words and Arabic symbols (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Non-symbolic arithmetic performance correlated with verbal number knowledge and Arabic number knowledge (r = .370 and .351; combined r = .391), and the combined correlation survived correction for verbal intelligence and literacy (r = .313). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

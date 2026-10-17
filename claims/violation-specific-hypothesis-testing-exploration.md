@@ -15,12 +15,14 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Infants' exploratory behavior after a core knowledge violation is tailored to the type of violation seen
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Infants who saw a solidity violation tended to bang the object, while infants who saw a support violation repeatedly dropped it, indicating hypothesis-testing specific to the violation. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

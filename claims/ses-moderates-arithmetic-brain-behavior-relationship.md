@@ -15,12 +15,14 @@ sources:
     author: Martha J. Farah
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # SES moderates the brain-behavior relationship in children's arithmetic, with higher and lower SES children engaging different neurocognitive systems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In children's arithmetic processing, SES moderated the relationship between behavior and brain activation: higher SES children's verbal-associated regions tracked mathematical ability, while lower SES children's ability related more to spatial-processing regions. [→ Martha J. Farah 2017](#martha-j-farah-2017)

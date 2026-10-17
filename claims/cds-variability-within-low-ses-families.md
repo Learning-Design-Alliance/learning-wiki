@@ -15,18 +15,22 @@ sources:
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: weisleder-adriana-2013-2
     resource: "https://doi.org/10.1177/0956797613488145"
     title: "Weisleder Adriana, Fernald Anne. (2013). Talking to children matters: Early language experience strengthens processing and builds vocabulary. Psychological Science. https://doi.org/10.1177/0956797613488145"
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Child-directed speech varies dramatically among low-SES families, up to an 18-fold difference, largely independent of maternal education and overall talkativeness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Total adult speech ranged from almost 29,000 to fewer than 2,000 words per 10-hour day, and child-directed speech differed up to 18-fold between families. [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

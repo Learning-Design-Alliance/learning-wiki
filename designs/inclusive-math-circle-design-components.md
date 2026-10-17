@@ -17,6 +17,7 @@ sources:
 # Six major design components of an inclusive math circle for low-income minority middle school students
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors concluded the circle's effectiveness rested on a set of design components conceptualized as part of an enculturation process into the culture of mathematics: control of the physical environment (meeting in the mathematics department lounge), the circle leader being a professional mathematician, labels and normative expectations from selection, creation of a safe mathematical community, natural peer groupings, games and competition, and conveying the value of mathematics. They state: "We concluded that there were 6 major components of the design that were most effective." The components were identified interpretively from the case, not experimentally manipulated.

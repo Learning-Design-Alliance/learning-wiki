@@ -15,12 +15,14 @@ sources:
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher inattention symptoms throughout childhood uniquely predict reduced adolescent N2 amplitude during successful inhibition, beyond hyperactivity-impulsivity symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Inattention symptoms measured at 54 months and 7 years uniquely predicted N2 amplitude at 17 years, above and beyond hyperactivity-impulsivity symptoms and mothers' education. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

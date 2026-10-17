@@ -15,12 +15,14 @@ sources:
     author: Martin Rebecca B., Cirino Paul T., Sharp Carla, Barnes Marcia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Zero-order correlations between kindergarten predictors and grade 1 outcomes ranged from .23 to .60 (median .47), with symbolic number predictors showing the highest median (r = .56) and relations weakest for computation. [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

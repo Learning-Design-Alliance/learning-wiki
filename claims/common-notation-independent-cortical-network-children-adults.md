@@ -15,12 +15,14 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Children and adults engage a common network of occipito-temporal, precentral, and superior parietal cortices during numerical judgments of both Arabic numerals and dot arrays
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A conjunction analysis revealed regions significantly active during both notations of numerical comparison in children and adults: occipito-temporal, precentral, and superior parietal cortices. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

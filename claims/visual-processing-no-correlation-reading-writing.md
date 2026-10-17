@@ -15,12 +15,14 @@ sources:
     author: "Mendes, G. G., & Barrera, S. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Visual processing showed no correlation with reading or writing in third-grade students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` There was no correlation between visual processing and reading or writing. [→ Mendes 2017](#mendes-2017)

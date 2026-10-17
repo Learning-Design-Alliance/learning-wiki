@@ -15,12 +15,14 @@ sources:
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Two sources of the problem-size effect — more frequent and more efficient retrieval on small than large problems — are present in children of all grades, while the procedural-efficiency source is present only in second grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` More frequent retrieval use on small than on large problems and more efficient retrieval use on small than on large problems occur in second, fourth, and sixth graders, but more efficient procedural use on small problems occurs only in second grade. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

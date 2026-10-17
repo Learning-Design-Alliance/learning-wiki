@@ -15,12 +15,14 @@ sources:
     author: Dahl A., Brownell C. A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Infant helping is transformed from participatory acts without prosocial intent around the first birthday to acts motivated by prosocial intent around the second birthday
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The first major developmental transformation in helping is from participatory acts without prosocial intent, evident by the first birthday, to acts motivated by prosocial intent, evident by the second birthday. [→ Dahl A. 2019](#dahl-a-2019)

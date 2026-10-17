@@ -13,12 +13,14 @@ sources:
     title: Wengaard E 2017
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Higher VO2max was not associated with faster reaction time for stimuli following no cue (Estimate = -1.16, SE = 1.03, p = 0.266). [→ Wengaard E 2017](#wengaard-e-2017)

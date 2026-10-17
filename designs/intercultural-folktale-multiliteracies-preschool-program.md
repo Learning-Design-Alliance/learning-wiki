@@ -17,6 +17,7 @@ sources:
 # Intercultural folk-tale multiliteracies program for preschool critical thinking
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A seven-month pedagogical program implemented in a preschool in Larissa, Central Greece, during the school year 2018-2019 with 25 five-year-old children (48% boys, 52% girls). A mini syllabus was "centered around intercultural folk-tales, incorporating multiple creative activities that fostered a more critical stance and behavior of the children." Seven folk-tales from Greece, Albania, Cyprus, Serbia, Bulgaria, Romania, North Macedonia and Croatia each formed a thematic unit lasting 2 to 3 weeks, with expected outcomes in critical thinking, social skills and multicultural sensitivity.

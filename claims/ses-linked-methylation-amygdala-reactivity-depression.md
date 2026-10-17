@@ -15,12 +15,14 @@ sources:
     author: Martha J. Farah
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Lower SES adolescents show greater stress-related increase in serotonin transporter gene methylation, associated with greater amygdala reactivity and depression symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across two time-points, lower SES teenagers showed greater increases in methylation of the serotonin transporter gene than higher SES peers, associated with greater amygdala reactivity and more depression symptoms. [→ Martha J. Farah 2017](#martha-j-farah-2017)

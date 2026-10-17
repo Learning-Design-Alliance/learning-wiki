@@ -17,7 +17,7 @@ sources:
 # Use teacher-rated school performance screening alongside sleep surveillance to identify sleepy learners
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 8 claims (8 for) · 2 studies (2 associational), `q3` · 1 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 The article recommends monitoring sleep and its school-performance correlates in the school setting: "The finding emphasized the importance of sleep surveillance and intervention in the school setting." It proposes daytime sleepiness as a practical screening signal because it showed the most consistent relationship with performance, and it supplies a teacher-rated instrument (the TSAF, with subscales for attention, motivation, achievement, and relationships) for that purpose. Schools would survey sleep habits and teacher ratings together to flag children whose sleepiness coincides with impaired performance.

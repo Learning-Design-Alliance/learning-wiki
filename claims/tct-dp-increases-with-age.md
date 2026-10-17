@@ -15,18 +15,22 @@ sources:
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: piya-amornphan-n-2020-2
     resource: "https://doi.org/10.1186/s12887-020-2017-2"
     title: "Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P. (2020). Physical activity and creativity of children and youths. BMC Pediatrics. https://doi.org/10.1186/s12887-020-2017-2"
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # TCT-DP creativity scores increase with age group, and adolescents are the most sedentary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Total TCT-DP scores increased in accordance with age group (medians 20, 21, 24; p < 0.001). [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

@@ -15,18 +15,22 @@ sources:
     author: "Piasta, S. B., Purpura, D. J., & Wagner, R. K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: piasta-2010-2
     resource: "https://doi.org/10.1007/s11145-009-9174-x"
     title: "Piasta, S. B., Purpura, D. J., & Wagner, R. K. (2010). Fostering Alphabet Knowledge Development: A Comparison of Two Instructional Approaches. Reading and Writing, 23(6), 607-626. https://doi.org/10.1007/s11145-009-9174-x"
     author: "Piasta, S. B., Purpura, D. J., & Wagner, R. K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Children in the LNLS condition learned more letter sounds (production) than children in the Number condition (d = 0.47), and more letter sounds by recognition (d = 0.29). [→ Piasta 2010](#piasta-2010)

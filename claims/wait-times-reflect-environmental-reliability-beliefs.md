@@ -15,18 +15,22 @@ sources:
     author: "Kidd, C., Palmeri, H., & Aslin, R. N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: kidd-2013-2
     resource: "https://doi.org/10.1016/j.cognition.2012.08.004"
     title: "Kidd, C., Palmeri, H., & Aslin, R. N. (2013). Rational snacking: Young children's decision-making on the marshmallow task is moderated by beliefs about environmental reliability. Cognition, 126(1), 109-114. https://doi.org/10.1016/j.cognition.2012.08.004"
     author: "Kidd, C., Palmeri, H., & Aslin, R. N."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Because manipulating experimenter reliability changed wait-times, wait-times cannot be attributed solely to self-control capacity differences. [→ Kidd 2013](#kidd-2013)

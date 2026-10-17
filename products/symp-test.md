@@ -13,6 +13,7 @@ generated:
 # SYMP Test
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The SYMP Test is a group-administered, timed paper-and-pencil assessment created by Brankaer et al. for measuring one- and two-digit symbolic numerical magnitude comparison fluency in primary-school children.

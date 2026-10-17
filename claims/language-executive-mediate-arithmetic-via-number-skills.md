@@ -15,18 +15,22 @@ sources:
     author: Moll K., Snowling M. J., Göbel S. M., Hulme C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: moll-k-2015-2
     resource: "https://doi.org/10.1016/j.learninstruc.2015.03.004"
     title: "Moll K., Snowling M. J., Göbel S. M., Hulme C. (2015). Early language and executive skills predict variations in number and arithmetic skills in children at family-risk of dyslexia and typically developing controls. Learning and Instruction. https://doi.org/10.1016/j.learninstruc.2015.03.004"
     author: Moll K., Snowling M. J., Göbel S. M., Hulme C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Early language and executive skills at age 3–4 predict preschool counting and number knowledge, which mediate their influence on later arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Three indirect pathways from early language and executive skills through counting and number knowledge to arithmetic were statistically reliable in both groups. [→ Moll K. 2015](#moll-k-2015)

@@ -15,12 +15,14 @@ sources:
     author: Rowe Meredith L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Parent word types at 30 months significantly predict PPVT scores at 42 months after controlling for parent education, prior PPVT, and word tokens. [→ Rowe Meredith L 2012](#rowe-meredith-l-2012)

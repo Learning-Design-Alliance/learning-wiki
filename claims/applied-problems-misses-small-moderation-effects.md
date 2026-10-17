@@ -15,12 +15,14 @@ sources:
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Studies relying exclusively on the Applied Problems subtest are likely to miss small but meaningful influences on early math achievement because the measure is less sensitive to variation among young children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The authors argue the ECLS-K Math battery's routing to ability levels, wider domain coverage, and lower stability made it more sensitive, so Applied Problems-only studies may miss small moderation effects. [→ Blair 2016](#blair-2016)

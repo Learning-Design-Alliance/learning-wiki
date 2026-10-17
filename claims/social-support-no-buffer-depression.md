@@ -15,12 +15,14 @@ sources:
     author: Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Social support from friends and family does not buffer the effect of bullying on depressive symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Adjusting for friend or family social support did not attenuate the association between bullying and depressive symptoms for boys (OR 2.17 with friend support; OR 2.29 with family support). [→ Rothon Catherine 2011](#rothon-catherine-2011)

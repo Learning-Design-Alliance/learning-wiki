@@ -15,12 +15,14 @@ sources:
     author: S. Dovis, S. van der Oord, H.M. Huizenga, R.W. Wiers, P.J.M. Prins
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` WM and STM impairments were most prevalent in the ADHD-C subtype compared with ADHD-I and typically developing controls. [→ S. Dovis 2015](#s-dovis-2015)

@@ -13,12 +13,14 @@ sources:
     title: Wengaard E 2017
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following invalid cues in healthy male high-school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a cross-sectional study of 54 male high-school students, higher VO2max was associated with faster reaction time for stimuli following invalid cue (Estimate = -2.69, SE = 1.03, p = 0.011). [→ Wengaard E 2017](#wengaard-e-2017)

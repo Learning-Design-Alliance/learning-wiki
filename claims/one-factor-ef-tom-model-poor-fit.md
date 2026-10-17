@@ -15,12 +15,14 @@ sources:
     author: "Marcovitch S., O'Brien M., Calkins S. D., Leerkes E. M., Weaver J. M., Levine D. W."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` A model combining EF and ToM into one factor fit substantially worse than the two-construct model. [→ Marcovitch S. 2014](#marcovitch-s-2014)

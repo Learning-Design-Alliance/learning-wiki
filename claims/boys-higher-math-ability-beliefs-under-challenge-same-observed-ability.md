@@ -13,12 +13,14 @@ sources:
     title: Perez-Felkner L 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across the observed ability distribution, boys consistently rate their perceived mathematics ability under challenge more highly than girls, with gaps of 0.29, 0.34, and 0.24 standard deviations at the 50th, 70th, and 90th percentiles of 10th grade ability. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

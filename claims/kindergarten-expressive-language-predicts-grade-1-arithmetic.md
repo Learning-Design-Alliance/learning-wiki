@@ -15,12 +15,14 @@ sources:
     author: "Praet, M., Titeca, D., Ceulemans, A., & Desoete, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten expressive language predicts grade 1 arithmetic, adding 4.6% of explained variance beyond kindergarten arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the longitudinal regression, only expressive language remained a significant predictor of grade 1 arithmetic (p = .035), and productive language added 4.6% of variance controlling for kindergarten arithmetic. [→ Praet 2013](#praet-2013)

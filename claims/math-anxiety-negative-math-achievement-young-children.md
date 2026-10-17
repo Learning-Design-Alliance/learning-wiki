@@ -13,12 +13,14 @@ sources:
     title: Wu SS 2012
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling for trait anxiety and FSIQ, SEMA scores significantly and negatively predicted WIAT-II Math Composite scores in 7- to 9-year-olds. [→ Wu SS 2012](#wu-ss-2012)

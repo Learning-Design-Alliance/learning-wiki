@@ -15,18 +15,22 @@ sources:
     author: Jacqueline Leybaert and Marie-Noëlle Van Cutsem
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: jacqueline-leybaert-and-marie-noëlle-van-cutsem-2002-2
     resource: "https://doi.org/10.1006/jecp.2002.2660"
     title: "Jacqueline Leybaert and Marie-Noëlle Van Cutsem. (2002). Counting in Sign Language. Journal of Experimental Child Psychology. https://doi.org/10.1006/jecp.2002.2660"
     author: Jacqueline Leybaert and Marie-Noëlle Van Cutsem
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Deaf children's abstract-counting errors reflect the rule-bound base-5 structure of Belgian French Sign Language: they stop at production-rule boundaries and make fewer omission errors than hearing children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Deaf children stopped counting disproportionately at points where a new BFSL production rule begins (after 5 and after 15), and made fewer omission errors than hearing children. [→ Jacqueline Leybaert and Marie-Noëlle Van Cutsem 2002](#jacqueline-leybaert-and-marie-noelle-van-cutsem-2002)

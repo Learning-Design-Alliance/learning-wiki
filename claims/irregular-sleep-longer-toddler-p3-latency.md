@@ -15,12 +15,14 @@ sources:
     author: "Hoyniak, C. P., Petersen, I. T., McQuillan, M. E., Staples, A. D., & Bates, J. E."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Irregular sleep is associated with longer target P3 latencies in toddlers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Toddlers whose sleep varied night to night in timing and duration had longer target P3 latencies (r[18]=.61). [→ Hoyniak 2015](#hoyniak-2015)

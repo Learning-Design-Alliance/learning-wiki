@@ -15,12 +15,14 @@ sources:
     author: "Maura Varley Gutiérrez, Craig Willey, & Lena L. Khisty"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students felt short-changed by classrooms over-emphasizing basic operations and withholding advanced mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Some students conveyed a sense of being misjudged and abandoned mathematically, wanting more advanced content such as graphs, polygons, and pi that their classrooms did not provide. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

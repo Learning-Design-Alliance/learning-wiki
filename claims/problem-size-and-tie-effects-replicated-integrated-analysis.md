@@ -15,12 +15,14 @@ sources:
     author: S.H.G. van der Ven, M. Straatemeier, B.R.J. Jansen, S. Klinkenberg, H.L.J. van der Maas
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Previously identified effects in single digit multiplication, including the problem size effect and the tie effect, replicate in an integrated item-difficulty analysis.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The problem size effect and the tie effect, previously identified in single digit multiplication, were replicated in one integrated analysis of item difficulty. [→ S.H.G. van der Ven 2015](#shg-van-der-ven-2015)

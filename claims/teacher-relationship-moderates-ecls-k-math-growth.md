@@ -15,12 +15,14 @@ sources:
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
 ---
 
 # Quality of the kindergarten teacher–child relationship moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Teacher–child relationship quality significantly moderated the association between preschool and kindergarten math on the ECLS-K Math measure (β = −0.08, p < .001), but not on the Applied Problems subtest. [→ Blair 2016](#blair-2016)

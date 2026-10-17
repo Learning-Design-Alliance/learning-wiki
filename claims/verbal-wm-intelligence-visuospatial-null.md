@@ -15,12 +15,14 @@ sources:
     author: Ger Ebru, Roebers Claudia M.
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Intelligence was positively correlated with verbal WM (r = 0.16, p = .049) but not with visuospatial WM, despite the intelligence measure being nonverbal and visuospatial in nature. [→ Ger Ebru 2023](#ger-ebru-2023)

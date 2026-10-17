@@ -17,7 +17,7 @@ sources:
 # Schools should intervene actively against bullying rather than relying on adolescents' social support networks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (3 for, 4 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 The article recommends that schools take a more active role in tackling bullying because peer and family support, while protective for academic outcomes, cannot mitigate the mental-health consequences of victimisation. The conclusion states that "support from friends and family alone cannot mitigate against the strong negative effect that bullying has on mental health" and that early, wide-ranging intervention may prevent serious consequences and avoid specialist psychiatric referral.

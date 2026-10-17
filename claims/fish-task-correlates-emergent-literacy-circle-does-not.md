@@ -15,12 +15,14 @@ sources:
     author: "Gandolfi, E., Traverso, L., Zanobini, M., Usai, M. C., & Viterbori, P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Zero-order correlations showed the Fish task significantly associated with most emergent literacy outcomes in both age groups, while no association between the Circle Drawing task and the emergent literacy measures was found. [→ Gandolfi 2021](#gandolfi-2021)

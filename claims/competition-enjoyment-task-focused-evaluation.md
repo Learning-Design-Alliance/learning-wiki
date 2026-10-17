@@ -15,12 +15,14 @@ sources:
     author: "Eugene Kennedy & Lawrence Smolinsky"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Competition during lectures, collective challenges, and the game Atari Go was a constant source of enjoyment, and evaluative assessments focused on the task, not the individual. [→ Eugene Kennedy & Lawrence Smolinsky 2016](#eugene-kennedy-lawrence-smolinsky-2016)

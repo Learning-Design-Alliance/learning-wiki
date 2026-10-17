@@ -12,6 +12,7 @@ generated:
 # Hierarchical causal models representing both specific theories and framework theories
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that recently developed hierarchical causal models can capture the theory theory's claim that specific causal theories are embedded in more abstract framework theories. As it states, 'These hierarchical models can characterize broader framework theories along with more specific causal relationships as well as characterize the relations between theories at different levels of abstraction', allowing learning at both local and abstract levels within one Bayesian formalism.

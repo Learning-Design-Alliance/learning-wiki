@@ -15,12 +15,14 @@ sources:
     author: Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Bullying predicts depressive symptoms two years later for boys but not for girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` With a gender × bullying interaction, bullied boys had higher odds of depressive symptoms (OR 2.34) while bullied girls did not (OR 1.11). [→ Rothon Catherine 2011](#rothon-catherine-2011)

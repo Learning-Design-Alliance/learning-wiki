@@ -15,12 +15,14 @@ sources:
     author: "P. van den Broek, R. F. Lorch, Jr., T. Linderholm, & M. Gustafson"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Readers with an entertainment goal make more evaluative comments than readers with a study goal, with no difference in affective responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Evaluative responses were more common in the entertainment condition, while affective responses did not differ between reading conditions. [→ P. van den Broek 2001](#p-van-den-broek-2001)

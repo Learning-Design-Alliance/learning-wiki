@@ -17,7 +17,7 @@ sources:
 # Provide phase-specific teaching practices and environment features that foster student responsibility for learning in each phase of PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article offers research-driven guidelines in which specific learning environment features and teaching practices are matched to each phase of PBL to foster student responsibility for learning. Rather than a single generic intervention, support is differentiated by project phase, addressing the goal-setting, monitoring, reflection, and motivation demands that arise "from the beginning of the project until the end."

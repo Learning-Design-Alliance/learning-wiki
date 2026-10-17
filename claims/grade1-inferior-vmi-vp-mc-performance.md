@@ -15,12 +15,14 @@ sources:
     author: "Capellini, S. A., Giaconi, C., & Germano, G. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Kruskal-Wallis tests found statistical differences between all grade groups in VMI, VP and MC tests, with GI (1st grade) presenting inferior performance relative to the other groups. [→ Capellini 2017](#capellini-2017)

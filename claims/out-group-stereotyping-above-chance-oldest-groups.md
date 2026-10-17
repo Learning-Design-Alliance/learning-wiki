@@ -15,12 +15,14 @@ sources:
     author: "Pauker, K., Ambady, N., & Apfelbaum, E. P."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Children in the two oldest age groups used out-group stereotypes above chance (50%), with the largest effect among 7–10-year-olds (r = .80)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Children in the 7–10-year-old group utilized out-group stereotypes above chance, t(15) = 5.17, p < .0001, r = .80. [→ Pauker 2010](#pauker-2010)

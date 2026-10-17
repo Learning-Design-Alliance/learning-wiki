@@ -15,18 +15,22 @@ sources:
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: diamond-adele-2012-2
     resource: "https://doi.org/10.1177/0963721412453722"
     title: "Diamond Adele. (2012). Activities and Programs That Improve Children's Executive Functions. Current Directions in Psychological Science. https://doi.org/10.1177/0963721412453722"
     author: Diamond Adele
     q: 2
     i: 0
+    kind: review
+    rigour: 2
 ---
 
 # Computer-based training reliably improves children's working memory and reasoning, but computerized training has not succeeded in improving 4- to 6-year-olds' inhibitory control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Cogmed computerized working-memory training improves working memory even on untrained tasks, with gains persisting 6 months and delayed math gains appearing 6 months after training. [→ Diamond Adele 2012](#diamond-adele-2012)

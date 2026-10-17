@@ -15,12 +15,14 @@ sources:
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Daytime sleepiness is highly prevalent among Chinese school-aged children, affecting 64.44% (sometimes 37.50%, frequently 26.94%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a national cross-sectional survey of 20,778 Chinese school-aged children, 64.44% showed daytime sleepiness (37.50% sometimes, 26.94% frequently). [→ Li Shenghui 2013](#li-shenghui-2013)

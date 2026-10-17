@@ -12,7 +12,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 6 claims (4 show a difference, 2 mixed) · 4 studies (2 review, 1 causal, 1 associational), `q2`–`q3` · 1 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (9 show a difference, 3 mixed, 1 no difference) · 6 studies (3 associational, 2 review, 1 causal), `q2`–`q3` · 3 of 6 report an effect size · 13 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.

@@ -13,12 +13,14 @@ sources:
     title: Yang X and Meng X 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten visual processing uniquely predicts grade-one Chinese character reading after controlling for prior reading and general cognitive abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Visual processing at senior kindergarten significantly explained 4% of additional variance in grade-one character reading beyond initial reading, nonverbal IQ, sustained attention, inhibitory control, age, and gender. [→ Yang X and Meng X 2020](#yang-x-and-meng-x-2020)

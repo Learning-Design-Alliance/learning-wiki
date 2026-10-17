@@ -15,12 +15,14 @@ sources:
     author: Ritter, S.M.; van Baaren, R.B.; Dijksterhuis, A.J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Unconscious thinkers better select both their most and least creative idea (Experiment 2 replication)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 2, unconscious thinkers significantly outperformed conscious thinkers and immediate responders in choosing both their most creative and their least creative idea. [→ Ritter 2012](#ritter-2012)

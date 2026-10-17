@@ -15,12 +15,14 @@ sources:
     author: "Negen, J., & Sarnecka, B. W."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Analyzing Give-N data by knower-level yields greater statistical power than analyzing by percent correct, plausibly explaining the discrepancy with Ansari et al. (2003).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a 10,000-iteration simulation, knower-level analysis detected a significant correlation about 12% more often than percent-correct analysis of the same data. [→ Negen 2012](#negen-2012)

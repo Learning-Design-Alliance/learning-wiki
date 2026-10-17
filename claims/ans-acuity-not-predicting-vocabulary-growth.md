@@ -15,12 +15,14 @@ sources:
     author: Libertus Melissa E., Feigenson Lisa, Halberda Justin
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Early ANS acuity does not predict later expressive vocabulary; only initial vocabulary size predicts vocabulary six months later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In model 2, initial expressive vocabulary was the only significant predictor of later vocabulary; ANS accuracy and RT were not significant predictors. [→ Libertus Melissa E. 2013](#libertus-melissa-e-2013)

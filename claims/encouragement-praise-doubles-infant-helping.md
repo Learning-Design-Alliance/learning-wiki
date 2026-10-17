@@ -15,12 +15,14 @@ sources:
     author: Dahl A., Brownell C. A.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Repeated encouragement and praise causally increased 13- and 14-month-olds' helping of an adult who dropped an object
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among 13- and 14-month-olds, prior encouragement and praise made infants twice as likely to hand back a dropped object to an experimenter, demonstrating a causal influence of adult support on infant helping. [→ Dahl A. 2019](#dahl-a-2019)

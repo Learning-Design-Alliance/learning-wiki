@@ -15,12 +15,14 @@ sources:
     author: Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin, Zhang Wenjuan, Yen Loulee, Patton Samuel, Kirchner Danielle
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Pre-treatment teacher ratings of attention were a significant predictor of first-grade sight word reading growth alongside sound matching and vocabulary, while hyperactivity, phonological decoding, backward digit recall, and matrix reasoning were not. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)

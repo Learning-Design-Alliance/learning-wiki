@@ -23,7 +23,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (14 for, 10 mixed) · 24 studies (10 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (15 for, 10 mixed) · 25 studies (10 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 25 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

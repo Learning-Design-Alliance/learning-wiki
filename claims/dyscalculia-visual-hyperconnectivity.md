@@ -15,12 +15,14 @@ sources:
     author: Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Functional connectivity between PVC and IOC and between PVC and FG is higher in adults with dyscalculia than controls. [→ Bulthé Jessica 2019](#bulthe-jessica-2019)

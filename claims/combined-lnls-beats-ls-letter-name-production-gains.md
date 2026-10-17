@@ -15,12 +15,14 @@ sources:
     author: "Piasta, S. B., Purpura, D. J., & Wagner, R. K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Combined letter name and sound instruction produced greater letter name production gains than letter sound only instruction in preschoolers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Preschool children taught letter names and sounds together made larger letter name production gains than children taught letter sounds only (d = 0.53). [→ Piasta 2010](#piasta-2010)

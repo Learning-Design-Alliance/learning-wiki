@@ -15,12 +15,14 @@ sources:
     author: "Geary, D. C., Hoard, M. K., & Bailey, D. H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fact retrieval deficits in LA-Severe children occur alongside intact addition procedural competencies and modest, improving number-task performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` LA-Severe Fact Retrieval children show retrieval deficits with intact procedural competence, and their number sets and number line deficits are modest and improve from second to fourth grade. [→ Geary 2012](#geary-2012)

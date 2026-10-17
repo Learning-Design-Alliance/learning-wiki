@@ -13,12 +13,14 @@ sources:
     title: Christodoulou JA 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The putative visual word form area increases activation with presentation rate similarly in both groups, with no group difference or group-by-rate interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The VWFA region of interest exhibited greater activation as a function of rate, but there was neither an effect of group nor a group x rate interaction. [→ Christodoulou JA 2014](#christodoulou-ja-2014)

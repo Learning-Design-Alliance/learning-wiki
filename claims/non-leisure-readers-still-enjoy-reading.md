@@ -13,12 +13,14 @@ sources:
     title: Mol SE and Jolles J 2014
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A majority of non-leisure readers report enjoying reading in general (59% lower track, 69% higher track)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Most non-leisure readers claimed to enjoy reading books and comics in general, despite not selecting reading as a leisure activity. [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

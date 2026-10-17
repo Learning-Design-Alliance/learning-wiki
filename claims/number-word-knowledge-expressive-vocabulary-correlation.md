@@ -15,12 +15,14 @@ sources:
     author: "Negen, J., & Sarnecka, B. W."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Number-word knowledge is strongly correlated with expressive vocabulary, independent of age, in children aged 30–60 months.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 1, number-word knowledge related to expressive vocabulary when partialled for age, r(23) = .65, p < .01. [→ Negen 2012](#negen-2012)

@@ -15,12 +15,14 @@ sources:
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # P1 latency for nonlinguistic auditory probes decreases with age from childhood through adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Nonlinguistic-probe P1 latency was shorter in older age groups, with adults significantly shorter than 13- and 10-year-olds but not 16-year-olds. [→ Karns Christina M. 2015](#karns-christina-m-2015)

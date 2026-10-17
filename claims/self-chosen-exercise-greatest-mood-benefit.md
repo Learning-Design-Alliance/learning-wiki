@@ -15,12 +15,14 @@ sources:
     author: Basso Julia C., Suzuki Wendy A.
     q: 1
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Self-chosen exercise intensity produced the greatest mood benefits in a small study, suggesting enjoyable workouts may best improve mood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r3` · `q1`
 
 ## Subclaims
 `q1 i?` In a study comparing fixed low, moderate, and high intensities to self-chosen intensity, the self-chosen condition produced the greatest mood benefits via high enjoyment scores. [→ Basso Julia C. 2017](#basso-julia-c-2017)

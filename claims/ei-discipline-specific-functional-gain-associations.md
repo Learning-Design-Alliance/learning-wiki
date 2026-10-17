@@ -15,12 +15,14 @@ sources:
     author: McManus BM, Richardson Z, Schenkman M, Murphy N, Morrato EH
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Discipline-specific intensity associations: developmental intervention with social-emotional gains and speech therapy with adaptive function gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An additional hour per month of developmental intervention was associated with a 1.6-point gain in social-emotional function scores (difference, 1.6; 95% CI, 1.2-2.1), and an additional hour per month of speech therapy was associated with a nearly 1-point gain (difference, 0.9; 95% CI, 0.74-1.0) in taking appropriate action to meet needs. [→ McManus BM 2019](#mcmanus-bm-2019)

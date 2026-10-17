@@ -15,12 +15,14 @@ sources:
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # EF training demands must keep increasing as children improve, or few gains will be seen
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` EF demands need to keep increasing as children's EFs improve, or few gains will be seen. [→ Diamond Adele 2012](#diamond-adele-2012)

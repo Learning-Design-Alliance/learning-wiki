@@ -12,6 +12,7 @@ generated:
 # Design-thinking methodology for improving and scaling psychological interventions
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article formalizes a methodology for preparing psychological interventions to be scaled, combining two design traditions. User-centered design privileges the user's subjective perspective via qualitative methods and prototypes, because "users may be excellent reporters on what they dislike or are confused by." A/B testing supplies "low-cost, short-term, large-sample, random-assignment experiments to test revisions to intervention content." The methodology was applied to redesign a growth mindset intervention for students transitioning to high school, then evaluated in two experimental studies.

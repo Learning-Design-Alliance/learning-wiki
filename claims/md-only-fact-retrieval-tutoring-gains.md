@@ -15,12 +15,14 @@ sources:
     author: "Powell, S. R., Fuchs, L. S., Fuchs, D., Cirino, P. T., & Fletcher, J. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # MD-only third graders in fact retrieval tutoring outperform PROC/E and control students on fact retrieval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` For MD-only students, both fact retrieval tutoring conditions outperformed procedural computation/estimation instruction and control on fact retrieval, with large effect sizes. [→ Powell 2009](#powell-2009)

@@ -15,12 +15,14 @@ sources:
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Regression analysis showed creativity score was not dependent on active play
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Regression analysis of the impact of active play on creativity showed TCT-DP was not dependent on active play. [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

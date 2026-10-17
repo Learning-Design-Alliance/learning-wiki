@@ -13,12 +13,14 @@ sources:
     title: Wu SS 2012
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Math anxiety is not significantly correlated with trait anxiety in young children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` SEMA scores were not significantly correlated with trait anxiety as measured by the CBCL Anxiety Problems subscale. [→ Wu SS 2012](#wu-ss-2012)

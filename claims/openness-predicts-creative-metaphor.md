@@ -15,12 +15,14 @@ sources:
     author: "Roger E. Beaty & Paul J. Silvia"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Openness to experience had a substantial effect on creative metaphor quality (β = .61, p < .001), remaining significant (β = .35) when intelligence factors were included. [→ Roger E. Beaty & Paul J. Silvia 2013](#roger-e-beaty-paul-j-silvia-2013)

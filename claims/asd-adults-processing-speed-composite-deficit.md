@@ -15,12 +15,14 @@ sources:
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The ASD group scored significantly lower on the processing speed composite than controls after controlling for age, race, and education (d = 1.02). [→ Haigh Sarah M. 2018](#haigh-sarah-m-2018)

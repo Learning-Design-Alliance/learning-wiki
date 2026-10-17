@@ -15,12 +15,14 @@ sources:
     author: Moll K., Snowling M. J., Göbel S. M., Hulme C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Both counting skills and number knowledge at age 4–5 predict written arithmetic efficiency at age 6–7, but phonological awareness does not. [→ Moll K. 2015](#moll-k-2015)

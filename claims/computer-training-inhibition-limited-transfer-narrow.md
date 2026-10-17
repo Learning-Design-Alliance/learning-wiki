@@ -15,18 +15,22 @@ sources:
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: diamond-adele-2011-2
     resource: "https://doi.org/10.1126/science.1204529"
     title: "Diamond Adele, Lee Kathleen. (2011). Interventions shown to Aid Executive Function Development in Children 4–12 Years Old. Science. https://doi.org/10.1126/science.1204529"
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Computerized training of inhibition in young children shows limited success, and a randomized trial found narrow, skill-specific transfer of working-memory and reasoning training in 4-year-olds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Using CogMed-like dosage, improvements in 4- and 6-year-olds were found on only 2 of 3 practiced inhibition games, with no transfer to unpracticed tasks. [→ Diamond Adele 2011](#diamond-adele-2011)

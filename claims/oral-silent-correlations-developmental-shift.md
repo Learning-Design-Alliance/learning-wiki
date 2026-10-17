@@ -15,18 +15,22 @@ sources:
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: madelon-van-den-boer-2022-2
     resource: "https://doi.org/10.1007/s10936-022-09856-w"
     title: "Madelon van den Boer, Loes Bazen, Elise de Bree. (2022). The Same yet Different: Oral and Silent Reading in Children and Adolescents with Dyslexia. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-022-09856-w"
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Oral and silent text reading fluency correlate strongly in children but only moderately in adolescents, and a standardized oral word reading test relates to silent reading differently by group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In children, oral and silent text reading fluency were very strongly correlated (r = 0.922 overall). [→ Madelon van den Boer 2022](#madelon-van-den-boer-2022)

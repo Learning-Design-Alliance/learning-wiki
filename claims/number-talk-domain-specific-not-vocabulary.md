@@ -15,12 +15,14 @@ sources:
     author: Gunderson Elizabeth A., Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parent number talk is not related to children's general vocabulary development once SES and overall talk are controlled, indicating domain specificity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In partial correlations controlling for parents' SES and overall non-number talk, none of the 4 types of parent number talk correlated with children's PPVT vocabulary scores at 54 months (all p's>.35). [→ Gunderson Elizabeth A. 2011](#gunderson-elizabeth-a-2011)

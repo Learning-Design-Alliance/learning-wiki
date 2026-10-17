@@ -15,18 +15,22 @@ sources:
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: denton-carolyn-a-2012-2
     resource: "https://doi.org/10.1177/0022219412442155"
     title: "Denton Carolyn A. (2012). Response to Intervention for Reading Difficulties in the Primary Grades: Some Answers and Lingering Questions. Journal of Learning Disabilities. https://doi.org/10.1177/0022219412442155"
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Al Otaiba et al. (2005) found kindergartners receiving small-group intervention four times per week significantly outperformed controls in word reading and comprehension with large effect sizes, while the twice-per-week condition outperformed controls on only one phonemic awareness measure. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

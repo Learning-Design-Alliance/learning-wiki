@@ -15,12 +15,14 @@ sources:
     author: James, K. H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Pre-literate children already show a left-hemisphere bias for letter processing before any training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Even before training, left fusiform (especially anterior) responded more to letters than to shapes and pseudo-letters, while right fusiform responded similarly to all three stimulus types. [→ James 2010](#james-2010)

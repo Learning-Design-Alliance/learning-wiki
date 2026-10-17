@@ -15,12 +15,14 @@ sources:
     author: Ineke Imbo · André Vandierendonck
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # As predicted by the adaptive strategy choice model, children's retrieval frequency correlates with retrieval efficiency but not with procedural efficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Percentage retrieval use significantly predicted retrieval latency in all grades but did not predict procedural efficiency in any grade, supporting Siegler's prediction. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

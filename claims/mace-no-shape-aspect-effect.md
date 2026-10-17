@@ -15,12 +15,14 @@ sources:
     author: "Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The MACE visual arts aspect of shape showed no improvement and no condition effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students did not describe the aspect shape more frequently at posttest, and this relation was the same for all classes. [→ Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen 2019](#eveline-m-schoevers-paul-p-m-leseman-evelyn-h-kroesbergen-2019)

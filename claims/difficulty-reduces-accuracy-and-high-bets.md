@@ -15,12 +15,14 @@ sources:
     author: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across both conditions, accuracy and the proportion of high-risk bets decreased as trial difficulty increased. [→ Vo 2014](#vo-2014)

@@ -15,24 +15,30 @@ sources:
     author: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: gallen-2023-2
     resource: "https://doi.org/10.1038/s41598-023-29427-w"
     title: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A. (2023). Contribution of sustained attention abilities to real-world academic skills in children. Scientific Reports 13, 2673. https://doi.org/10.1038/s41598-023-29427-w"
     author: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gallen-2023-3
     resource: "https://doi.org/10.1038/s41598-023-29427-w"
     title: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A. (2023). Contribution of sustained attention abilities to real-world academic skills in children. Scientific Reports 13, 2673. https://doi.org/10.1038/s41598-023-29427-w"
     author: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Attention is more predictive of targeted than broad math, but equally predictive of both reading measure types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (3 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` An assessment type by subject interaction was significant, and attention was more predictive of targeted than broad math scores. [→ Gallen 2023](#gallen-2023)

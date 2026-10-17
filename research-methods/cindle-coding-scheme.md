@@ -12,6 +12,7 @@ generated:
 # C.Ind.Le Coding Scheme
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study's measurement approach applies the C.Ind.Le Coding Scheme to individual interviews of six-year-olds during an ecological and challenging graphic task. It codes "indicators of metacognitive knowledge (i.e., knowledge of persons, tasks and strategies), metacognitive regulation (i.e., planning, monitoring, control and evaluation) and emotional and motivational regulation (i.e., emotional and motivational monitoring and control)", plus children's spontaneous comments of feelings of difficulty.

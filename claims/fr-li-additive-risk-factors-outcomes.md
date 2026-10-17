@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Family-risk of dyslexia and preschool language impairment are additive risk factors for reading readiness and attention and behaviour
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` FR and LI status each affected outcomes independently, with non-significant interactions for both outcome measures. [→ Dilnot 2017](#dilnot-2017)

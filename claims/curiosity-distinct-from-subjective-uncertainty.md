@@ -15,12 +15,14 @@ sources:
     author: "Metcalfe, J., Vuorre, M., Towner, E., & Eich, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Subjective uncertainty and curiosity showed different functional relations with confidence, and only curiosity discriminated high-confidence errors from correct answers. [→ Metcalfe 2023](#metcalfe-2023)

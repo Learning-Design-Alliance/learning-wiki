@@ -15,12 +15,14 @@ sources:
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Attention robustly increases linguistic-probe late-N1 amplitude from age 10 through adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` By age 10, attention robustly increased late-N1 amplitude for linguistic probes, and the modulation persisted at 13, 16, and adulthood. [→ Karns Christina M. 2015](#karns-christina-m-2015)

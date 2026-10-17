@@ -15,12 +15,14 @@ sources:
     author: "Mabotja, S., Chuene, K., Maoto, S., & Kibirige, I."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teacher interventions that are not explicit encourage learners' self-awareness of the limitations of their current understanding without prescribing a solution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The authors claim non-explicit teacher interventions encourage learners' self-awareness of the limitations of their current understanding, without prescribing a solution. [→ Mabotja 2018](#mabotja-2018)

@@ -15,18 +15,22 @@ sources:
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
   - id: emily-grossnickle-peterson-2020-2
     resource: "https://doi.org/10.1186/s41235-020-00239-0"
     title: "Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green. (2020). Spatial activity participation in childhood and adolescence: consistency and relations to spatial thinking in adolescence. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-020-00239-0"
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Childhood spatial activity participation predicts adolescent spatial activity participation, and this consistency is stronger for females than males
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Childhood spatial activities predict adolescent spatial activities after controlling for gender, PSAT, race/ethnicity, and maternal education (β = .47). [→ Emily Grossnickle Peterson 2020](#emily-grossnickle-peterson-2020)

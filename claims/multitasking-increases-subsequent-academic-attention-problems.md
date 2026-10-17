@@ -15,12 +15,14 @@ sources:
     author: W.A. van der Schuur, S.E. Baumgartner, S.R. Sumter, P.M. Valkenburg
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Academic-media multitasking predicts an increase in subsequent academic attention problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across waves, academic-media multitasking was associated with growth in academic attention problems over time. [→ W.A. van der Schuur 2020](#wa-van-der-schuur-2020)

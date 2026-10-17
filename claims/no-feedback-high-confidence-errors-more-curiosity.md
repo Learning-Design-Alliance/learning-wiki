@@ -15,18 +15,22 @@ sources:
     author: "Metcalfe, J., Vuorre, M., Towner, E., & Eich, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: metcalfe-2023-2
     resource: "https://doi.org/10.1037/xge0001284"
     title: "Metcalfe, J., Vuorre, M., Towner, E., & Eich, T. S. (2023). Curiosity: The effects of feedback and confidence on the desire to know. Journal of Experimental Psychology: General, vol. 152, no. 2, pp. 464-482. https://doi.org/10.1037/xge0001284"
     author: "Metcalfe, J., Vuorre, M., Towner, E., & Eich, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the absence of feedback, curiosity at high confidence was greater for errors than for correct answers. [→ Metcalfe 2023](#metcalfe-2023)

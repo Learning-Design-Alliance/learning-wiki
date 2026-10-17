@@ -15,18 +15,22 @@ sources:
     author: Gunderson Elizabeth A., Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gunderson-elizabeth-a-2011-2
     resource: "https://doi.org/10.1111/j.1467-7687.2011.01050.x"
     title: "Gunderson Elizabeth A., Levine Susan C. (2011). Some types of parent number talk count more than others: Relations between parents' input and children's cardinal-number knowledge. Developmental Science. https://doi.org/10.1111/j.1467-7687.2011.01050.x"
     author: Gunderson Elizabeth A., Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Small-number parent talk predicts children's performance only on low-number items, whereas large-number talk predicts both low- and high-number Point-to-X items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Controlling for SES, small-number present-object talk predicted the 12 low-number items (β=.36, p<.05) but not the 4 high-number items (β=.11, p=.50). [→ Gunderson Elizabeth A. 2011](#gunderson-elizabeth-a-2011)

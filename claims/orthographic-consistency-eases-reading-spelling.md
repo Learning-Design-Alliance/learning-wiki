@@ -15,18 +15,22 @@ sources:
     author: Döhla D and Heim S
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: döhla-d-and-heim-s-2016-2
     resource: "https://doi.org/10.3389/fpsyg.2015.02045"
     title: "Döhla D and Heim S (2016). Developmental Dyslexia and Dysgraphia: What can We Learn from the One About the Other? Front. Psychol. 6:2045. https://doi.org/10.3389/fpsyg.2015.02045"
     author: Döhla D and Heim S
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children learning orthographically consistent languages show fewer reading deficits and faster spelling development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children learning languages with high letter-sound consistency have fewer reading deficits, while reading fluency skill is independent of language. [→ Döhla D and Heim S 2016](#dohla-d-and-heim-s-2016)

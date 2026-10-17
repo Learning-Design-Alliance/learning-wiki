@@ -15,12 +15,14 @@ sources:
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Right mid frontal cortex activation during proactive inhibition was positively associated with self-regulation scores (r = 0.11), with no sex interaction. [→ Pas P. 2021](#pas-p-2021)

@@ -15,12 +15,14 @@ sources:
     author: Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin, Zhang Wenjuan, Yen Loulee, Patton Samuel, Kirchner Danielle
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Pre-treatment attention, hyperactivity, and backward digit recall were not significant predictors of first-grade listening comprehension growth; listening comprehension, matrix reasoning, and vocabulary were. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)

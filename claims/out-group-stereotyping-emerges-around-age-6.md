@@ -15,12 +15,14 @@ sources:
     author: "Pauker, K., Ambady, N., & Apfelbaum, E. P."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Children begin applying racial stereotypes to out-groups around age 6, with out-group stereotyping increasing across age groups while in-group stereotyping shows no reliable age differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Out-group stereotyping increased with age (main effect of Age group, F(3, 85) = 6.95, p < .001, η2 = .20), with 6–7-year-olds (M = .60) and 7–10-year-olds (M = .67) exhibiting more out-group stereotyping than younger groups. [→ Pauker 2010](#pauker-2010)

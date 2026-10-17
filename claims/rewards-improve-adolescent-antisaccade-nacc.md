@@ -15,18 +15,22 @@ sources:
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: constantinidis-christos-2019-2
     resource: "https://doi.org/10.1016/j.tins.2019.07.004"
     title: "Constantinidis Christos, Luna Beatriz. (2019). Neural Substrates of Inhibitory Control Maturation in Adolescence. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2019.07.004"
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Impending rewards improve adolescent antisaccade performance toward adult levels, accompanied by greater nucleus accumbens activation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the presence of impending rewards, adolescent antisaccade performance improves, approximating adult levels. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

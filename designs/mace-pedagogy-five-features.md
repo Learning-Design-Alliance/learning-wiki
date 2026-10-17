@@ -17,6 +17,7 @@ sources:
 # The MACE pedagogy: five key features for integrating geometry and visual arts
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The MACE pedagogy is an explanatory framework for integrated geometry and visual arts instruction built on five features the article names: "visual arts perception, open activities, reflection, communication with peers, and a specific role of the teacher". Artworks are discussed whole-class with visual thinking strategies; open activities invite artwork production at the boundary of the two disciplines without predetermined solutions; lessons end with reflection making implicit knowledge explicit; peer communication supports creative thinking and geometrical language; and teachers act as facilitators asking open, activating questions. The framework underpins the MACE lesson series and PD program evaluated in the study.

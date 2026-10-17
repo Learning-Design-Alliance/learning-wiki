@@ -15,18 +15,22 @@ sources:
     author: Bonawitz Elizabeth, Shafto Patrick, Gweon Hyowon, Goodman Noah D., Spelke Elizabeth, Schulz Laura
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bonawitz-elizabeth-2011-2
     resource: "https://doi.org/10.1016/j.cognition.2010.10.001"
     title: "Bonawitz Elizabeth, Shafto Patrick, Gweon Hyowon, Goodman Noah D., Spelke Elizabeth, Schulz Laura. (2011). The Double-edged Sword of Pedagogy: Instruction limits spontaneous exploration and discovery. Cognition. https://doi.org/10.1016/j.cognition.2010.10.001"
     author: Bonawitz Elizabeth, Shafto Patrick, Gweon Hyowon, Goodman Noah D., Spelke Elizabeth, Schulz Laura
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Pedagogically instructed preschoolers perform fewer kinds of actions and discover fewer non-demonstrated functions of a novel toy than children in non-pedagogical conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children in the Pedagogical condition performed fewer different kinds of actions on the toy than children in the Interrupted, Naive, or Baseline conditions. [→ Bonawitz Elizabeth 2011](#bonawitz-elizabeth-2011)

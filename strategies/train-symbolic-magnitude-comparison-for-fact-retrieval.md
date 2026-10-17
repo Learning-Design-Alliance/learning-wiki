@@ -17,7 +17,7 @@ sources:
 # Training symbolic magnitude comparison skills is a speculative route to improving multiplication fact retrieval, especially for children with dyscalculia
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on the finding that symbolic magnitude comparison was the strongest unique predictor of multiplication fact performance, the authors speculate that poor numerical magnitude comparison skills may underlie dyscalculics' difficulties retrieving multiplication facts, and that "training (symbolic) magnitude comparison skills might lead to better multiplication fact retrieval abilities in dyscalculics". They explicitly state this is speculative and that training studies are needed to test the claim.

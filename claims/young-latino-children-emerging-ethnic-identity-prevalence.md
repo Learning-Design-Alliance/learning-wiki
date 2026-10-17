@@ -15,12 +15,14 @@ sources:
     author: "Serrano-Villar, M., & Calzada, E. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Most young Latino children show emerging ethnic identity, with self-identification most prevalent (75%) and knowledge least prevalent (about 20%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among 674 pre-k and kindergarten MA and DA children, 75% self-identified ethnically, about half showed ethnic constancy, about 20% showed ethnic knowledge, and 27% expressed ethnic preference. [→ Serrano-Villar 2016](#serrano-villar-2016)

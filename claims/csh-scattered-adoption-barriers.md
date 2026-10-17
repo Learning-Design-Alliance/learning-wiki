@@ -15,12 +15,14 @@ sources:
     author: Lewallen TC, Hunt H, Potts-Datema W, Zaza S, Giles W.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The coordinated school health approach saw scattered US adoption, hindered by pressures on administrators and lack of integration into School Improvement Plans
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` CSH adoption across the United States was scattered, with school health coordinating councils' work often not included in School Improvement Plans and budget declines and punitive accountability measures negatively affecting administrator adoption. [→ Lewallen TC 2015](#lewallen-tc-2015)

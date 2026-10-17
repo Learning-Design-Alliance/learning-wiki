@@ -15,12 +15,14 @@ sources:
     author: Ventura, Ana Clara
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Children who displayed higher evidence of metacognition and self-regulation felt that the task would be difficult but that they would be able to solve it. [→ Ventura 2022](#ventura-2022)

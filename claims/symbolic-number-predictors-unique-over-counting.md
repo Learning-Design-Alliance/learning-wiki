@@ -15,12 +15,14 @@ sources:
     author: Martin Rebecca B., Cirino Paul T., Sharp Carla, Barnes Marcia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarten symbolic number variables uniquely predict grade 1 math outcomes over and above counting and domain general predictors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Symbolic number identification and comparison were consistently uniquely predictive of all four grade 1 math outcomes, and adding them eliminated the unique contribution of counting variables, while the reverse was not true. [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

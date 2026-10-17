@@ -15,12 +15,14 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 1
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Preliminary evidence that infants do not generalize surprise-induced exploration to same-category exemplars
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Infants who saw a ball violate solidity showed no significant preference for a new ball over a car, and did not differ from infants who saw an expected outcome. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

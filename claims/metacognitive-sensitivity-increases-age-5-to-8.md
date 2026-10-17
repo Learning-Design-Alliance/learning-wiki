@@ -15,12 +15,14 @@ sources:
     author: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Metacognitive sensitivity increases with age between 5 and 8 years, similarly across number and emotion domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A two-way ANOVA showed a main effect of age group on phi, with no effect of condition and no interaction. [→ Vo 2014](#vo-2014)

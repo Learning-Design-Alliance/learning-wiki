@@ -15,12 +15,14 @@ sources:
     author: "Maura Varley Gutiérrez, Craig Willey, & Lena L. Khisty"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students resisted external definitions of mathematical success and asserted agency in defining their own strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students expressed resistance to being defined as good at mathematics through teacher evaluation or test scores, articulating confidence in their own problem-solving approaches. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

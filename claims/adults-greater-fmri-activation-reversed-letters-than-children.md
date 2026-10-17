@@ -13,12 +13,14 @@ sources:
     title: Blackburne LK 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Adults show significantly greater whole-brain fMRI activation than children for reversed versus typical letters, including left ventral visual stream and bilateral parietal cortices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In a direct whole-brain comparison, adults exhibited significantly greater activation than children for the reversed > typical letters contrast in multiple regions including the left ventral visual stream and bilateral parietal cortices. [→ Blackburne LK 2014](#blackburne-lk-2014)

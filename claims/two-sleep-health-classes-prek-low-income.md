@@ -15,12 +15,14 @@ sources:
     author: Turnbull Khara L. P. PhD; Mateus Deiby Mayaris Cubides; LoCasale-Crouch Jennifer PhD; Lewin Daniel S. Ph.D., D.ABSM; CBSM; Williford Amanda P. PhD
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Two parent-reported sleep health patterns characterize low-income pre-kindergarteners: an earlier, longer, consistent class (87%) and a later, shorter, inconsistent class (13%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Latent class analysis of parent-reported sleep timing, duration, and behaviors identified two classes, with 87% of children in the earlier, longer, consistent class and 13% in the later, shorter, inconsistent class. [→ Turnbull Khara L. P. PhD; Mateus Deiby Mayaris Cubides; LoCasale-Crouch Jennifer PhD; Lewin Daniel S. Ph.D. 2022](#turnbull-khara-l-p-phd-mateus-deiby-mayaris-cubides-locasale-crouch-jennifer-phd-lewin-daniel-s-phd-2022)

@@ -15,12 +15,14 @@ sources:
     author: "Arnold, D. H., Kupersmidt, J. B., Voegler-Lee, M. E., & Marshall, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Aggression was not significantly related to any academic measure when controlling for inattention and social skills. [→ Arnold 2012](#arnold-2012)

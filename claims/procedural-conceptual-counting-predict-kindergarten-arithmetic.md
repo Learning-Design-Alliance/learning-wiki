@@ -15,12 +15,14 @@ sources:
     author: "Praet, M., Titeca, D., Ceulemans, A., & Desoete, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Procedural and conceptual counting knowledge each predict kindergarten arithmetic, together explaining about 25% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` With the two counting constructs entered simultaneously, the regression was significant (R² = .249) for procedural counting knowledge (p = .005) and conceptual counting knowledge (p = .037). [→ Praet 2013](#praet-2013)

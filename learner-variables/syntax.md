@@ -12,7 +12,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 26 claims (16 show a difference, 5 mixed, 5 no difference) · 20 studies (5 causal, 5 associational, 4 quant-synthesis, 4 review, 1 design, 1 theoretical), `q2`–`q3` · 1 of 20 report an effect size · 23 claims rest on one study
+> **Evidence** · 30 claims (18 show a difference, 7 mixed, 5 no difference) · 22 studies (6 associational, 5 causal, 5 review, 4 quant-synthesis, 1 design, 1 theoretical), `q2`–`q3` · 1 of 22 report an effect size · 27 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.

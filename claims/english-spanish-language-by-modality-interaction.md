@@ -15,12 +15,14 @@ sources:
     author: Gross Megan, Buac Milijana, Kaushanskaya Margarita
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Bilingual children score higher in English than Spanish, with the language effect larger in the expressive modality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A significant language-by-modality interaction reflected a greater effect of language (English > Spanish) in the expressive than the receptive modality. [→ Gross Megan 2014](#gross-megan-2014)

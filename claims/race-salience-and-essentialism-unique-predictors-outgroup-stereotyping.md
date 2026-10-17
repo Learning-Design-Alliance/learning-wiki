@@ -15,12 +15,14 @@ sources:
     author: "Pauker, K., Ambady, N., & Apfelbaum, E. P."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Sorting by race, racial constancy for self, and racial constancy for others uniquely predicted out-group stereotyping in a hierarchical regression controlling for age, sex, ethnicity, and classification skill
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Sorting by race remained a significant unique predictor of out-group stereotyping in the final regression model (β = .34, p = .003). [→ Pauker 2010](#pauker-2010)

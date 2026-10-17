@@ -15,12 +15,14 @@ sources:
     author: Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents' ability self-concept and task values in physics and chemistry changed in tandem over time, regardless of trajectory group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Within every trajectory group, ability self-concept and task values followed similar longitudinal patterns, with stability, increases, or decreases occurring together. [→ Wang 2016](#wang-2016)

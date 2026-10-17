@@ -15,12 +15,14 @@ sources:
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with early behavioral, academic, and demographic risks are over-represented in adverse teacher-student relationship trajectories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Warmth trajectory classes differed on externalizing behavior, IQ, and ethnicity, with African American students less likely to be in the high-declining warmth group. [→ Spilt 2012](#spilt-2012)

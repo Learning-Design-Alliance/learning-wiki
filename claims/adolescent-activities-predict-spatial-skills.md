@@ -15,12 +15,14 @@ sources:
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescent, but not childhood, spatial activity participation predicts adolescent spatial skills (paper folding)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` In multivariate regression, adolescent spatial activities significantly predicted Paper Folding scores (β = .15) while childhood activities did not. [→ Emily Grossnickle Peterson 2020](#emily-grossnickle-peterson-2020)

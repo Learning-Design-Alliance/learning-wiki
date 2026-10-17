@@ -17,7 +17,7 @@ sources:
 # Interventions aimed at increasing parents' verbal engagement with their infants to strengthen processing skills and vocabulary growth
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article proposes that because more child-directed speech both provides word-learning models and sharpens infants' lexical processing, interventions targeting caregivers' verbal engagement could alter developmental trajectories. It states that "interventions aimed at increasing parents' verbal engagement with their infants have the potential to change the course of vocabulary growth and, in turn, to improve later outcomes for disadvantaged children." This follows from its findings that child-directed speech predicted processing efficiency and vocabulary, with processing efficiency mediating the vocabulary link.

@@ -15,12 +15,14 @@ sources:
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Younger children (3–5-year-olds) answered story comprehension questions less accurately than all older age groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Comprehension-question accuracy was lower in 3–5-year-olds (80%) than in the four older age groups, which did not differ. [→ Karns Christina M. 2015](#karns-christina-m-2015)

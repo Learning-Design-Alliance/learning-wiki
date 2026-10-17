@@ -13,12 +13,14 @@ sources:
     title: Bedyńska S 2018
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Working memory effectiveness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mediation by working memory was significant only for participants with high gender identity. [→ Bedyńska S 2018](#bedynska-s-2018)

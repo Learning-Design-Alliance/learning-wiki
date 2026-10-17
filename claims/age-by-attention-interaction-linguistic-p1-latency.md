@@ -15,12 +15,14 @@ sources:
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The effect of attention on linguistic-probe P1 latency interacts with age group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Attention affected linguistic P1 latency differently by age group: 10-year-olds showed marginally shorter unattended than attended latency, while older groups showed the reverse pattern. [→ Karns Christina M. 2015](#karns-christina-m-2015)

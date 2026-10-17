@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Risk indices are positively inter-correlated, and cumulative risk correlates more strongly with outcomes than any single risk factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Cumulative risk showed higher correlations with each outcome than any individual risk index, though the differences in correlation were not statistically significant. [→ Dilnot 2017](#dilnot-2017)

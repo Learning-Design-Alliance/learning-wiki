@@ -15,12 +15,14 @@ sources:
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Childhood, but not adolescent, spatial activity participation predicts adolescents' spatial habits of mind
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` In multivariate regression without gender interactions, childhood spatial activities significantly predicted SHOMI scores (β = .33) while adolescent activities did not. [→ Emily Grossnickle Peterson 2020](#emily-grossnickle-peterson-2020)

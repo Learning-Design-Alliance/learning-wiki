@@ -15,18 +15,22 @@ sources:
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: madelon-van-den-boer-2022-2
     resource: "https://doi.org/10.1007/s10936-022-09856-w"
     title: "Madelon van den Boer, Loes Bazen, Elise de Bree. (2022). The Same yet Different: Oral and Silent Reading in Children and Adolescents with Dyslexia. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-022-09856-w"
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents read silently faster than orally, and this oral–silent difference is smaller for adolescents with dyslexia than for typical readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Study 2, silent text reading was faster than oral text reading, with a large main effect of reading mode. [→ Madelon van den Boer 2022](#madelon-van-den-boer-2022)

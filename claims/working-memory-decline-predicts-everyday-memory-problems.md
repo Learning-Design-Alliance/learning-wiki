@@ -15,12 +15,14 @@ sources:
     author: Hahn Elizabeth A. Ph.D., Lachman Margie E. Ph.D.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Greater ten-year working memory decline predicts more everyday memory problems in adjusted multilevel analyses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In adjusted multilevel models, greater working memory decline over ten years was significantly predictive of a greater number of everyday memory problems. [→ Hahn Elizabeth A. Ph.D. 2014](#hahn-elizabeth-a-phd-2014)

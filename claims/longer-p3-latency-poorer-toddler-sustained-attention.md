@@ -15,12 +15,14 @@ sources:
     author: "Hoyniak, C. P., Petersen, I. T., McQuillan, M. E., Staples, A. D., & Bates, J. E."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Longer target P3 latencies are associated with poorer sustained attention in toddlers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Toddlers with longer target P3 latencies during an auditory Oddball task demonstrate less sustained attention during free play (r[16]=−.51). [→ Hoyniak 2015](#hoyniak-2015)

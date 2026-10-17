@@ -15,12 +15,14 @@ sources:
     author: "Martin-Storey, A., & Crosnoe, R."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Observer-rated physical neighborhood disorder is negatively associated with GPA, with each standard deviation of disorder linked to a 20.7% of a standard deviation decrease
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Each standard deviation increase of physical neighborhood disorder was associated with 20.7% of a standard deviation decrease in GPA. [→ Martin-Storey 2014](#martin-storey-2014)

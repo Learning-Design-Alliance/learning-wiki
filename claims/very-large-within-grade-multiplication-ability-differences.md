@@ -15,12 +15,14 @@ sources:
     author: S.H.G. van der Ven, M. Straatemeier, B.R.J. Jansen, S. Klinkenberg, H.L.J. van der Maas
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Within-grade differences in primary school children's multiplication ability are very large.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Within-grade ability differences in multiplication among primary school children were very large. [→ S.H.G. van der Ven 2015](#shg-van-der-ven-2015)

@@ -15,18 +15,22 @@ sources:
     author: Salthouse, T.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: salthouse-2012-2
     resource: "https://doi.org/10.1146/annurev-psych-120710-100328"
     title: "Salthouse, T. (2012). Consequences of Age-Related Cognitive Declines. Annual Review of Psychology, 63, 201-226. https://doi.org/10.1146/annurev-psych-120710-100328"
     author: Salthouse, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Cross-sectional age relations show monotonic decline in fluid cognition (age-reasoning correlation about −0.40) but stability followed by decline for acquired knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` A meta-analysis of 38 correlations estimated the age-reasoning correlation at −0.40, close to −0.39 in the Salthouse dataset and −0.43 in WAIS-IV normative data. [→ Salthouse 2012](#salthouse-2012)

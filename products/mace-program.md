@@ -13,6 +13,7 @@ generated:
 # MACE program
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Developed by Eveline M. Schoevers and colleagues, the MACE program is a nine-lesson Dutch elementary curriculum integrating geometry and visual arts with optional expert-guided teacher professional development.

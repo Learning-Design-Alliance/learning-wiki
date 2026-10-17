@@ -15,18 +15,22 @@ sources:
     author: Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: berhenke-2011-2
     resource: "https://doi.org/10.1016/j.ecresq.2011.04.001"
     title: "Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan. (2011). Observed Emotional and Behavioral Indicators of Motivation Predict School Readiness in Head Start Graduates. Early childhood research quarterly. https://doi.org/10.1016/j.ecresq.2011.04.001"
     author: Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Higher observed persistence in the challenge task predicted higher teacher-rated math and reading skills. [→ Berhenke 2011](#berhenke-2011)

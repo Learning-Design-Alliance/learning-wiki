@@ -15,18 +15,22 @@ sources:
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
   - id: blair-2016-2
     resource: "https://doi.org/10.1016/j.learninstruc.2015.10.001"
     title: "Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators. (2016). Moderating effects of executive functions and the teacher–child relationship on the development of mathematics ability in kindergarten. Learning and Instruction, 41, 85–93. https://doi.org/10.1016/j.learninstruc.2015.10.001"
     author: Blair, Clancy; McKinnon, Rachel D.; the Family Life Project Investigators
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
 ---
 
 # Preschool executive function positively predicts kindergarten math on both measures, while teacher–child relationship quality shows only a trend-level main effect on ECLS-K Math and none on Applied Problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Executive function in preschool was positively related to both kindergarten math measures with similar effect sizes (β = 0.14 and β = 0.15). [→ Blair 2016 (2)](#blair-2016-2)

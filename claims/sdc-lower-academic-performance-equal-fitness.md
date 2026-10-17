@@ -15,12 +15,14 @@ sources:
     author: "de Greeff, J. W.; Hartman, E.; Mullender-Wijnsma, M. J.; Bosker, R. J.; Doolaard, S.; & Visscher, C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with a social disadvantage did not differ from non-disadvantaged children on physical fitness but scored significantly lower on academic performance. [→ de Greeff 2014](#de-greeff-2014)

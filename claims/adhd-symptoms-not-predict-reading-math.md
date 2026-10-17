@@ -15,12 +15,14 @@ sources:
     author: "Carames, C. N., Irwin, L. N., & Kofler, M. J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teacher-rated ADHD symptoms do not uniquely predict reading or math achievement once visual-motor subcomponents are accounted for
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teacher-reported ADHD symptoms did not significantly predict reading (p=.36) or math (p=.12) when added to the regression models. [→ Carames 2022](#carames-2022)

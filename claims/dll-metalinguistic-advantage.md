@@ -15,12 +15,14 @@ sources:
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` French-English DLLs aged two to six had better syntactic awareness than monolingual peers, and Urdu-English five- and six-year-old DLLs were better at identifying grammatically incorrect utterances than Urdu- and English-speaking monolinguals. [→ Hammer 2014](#hammer-2014)

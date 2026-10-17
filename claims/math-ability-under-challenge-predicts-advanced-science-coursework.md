@@ -13,12 +13,14 @@ sources:
     title: Perez-Felkner L 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Tenth grade perceived mathematics ability under challenge is the most influential predictor of advanced high school science course completion, and girls have 24.0% lower odds than boys of completing the most advanced science courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In ordered logistic regressions of the highest high school science course taken, 10th grade perceived mathematics ability under challenge was the most influential predictor, and girls' odds of completing the most advanced science courses were 24.0% lower than boys', all else equal. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

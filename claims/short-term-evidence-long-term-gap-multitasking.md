@@ -15,12 +15,14 @@ sources:
     author: W.A. van der Schuur, S.E. Baumgartner, S.R. Sumter, P.M. Valkenburg
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Short-term effects of academic-media multitasking on achievement are documented, but long-term support was lacking before this study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prior evidence supported short-term effects of academic-media multitasking on achievement, while long-term evidence was absent. [→ W.A. van der Schuur 2020](#wa-van-der-schuur-2020)

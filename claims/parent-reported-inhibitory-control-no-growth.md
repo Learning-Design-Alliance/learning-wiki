@@ -15,12 +15,14 @@ sources:
     author: "Fosco, W. D., Hawk, L. W. Jr., Colder, C. R., Meisel, S. N., & Lengua, L. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parent-reported inhibitory control (EATQ-R) shows no detectable growth from early to middle adolescence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adding a linear slope did not improve model fit for parent-reported inhibitory control, and the slope was non-significant, suggesting no detectable change over time. [→ Fosco 2019](#fosco-2019)

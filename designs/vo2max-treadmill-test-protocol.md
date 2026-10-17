@@ -17,7 +17,7 @@ sources:
 # Directly measured maximal oxygen uptake test protocol for assessing cardiorespiratory fitness in adolescents
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study assessed cardiorespiratory fitness with an incremental treadmill test to volitional exhaustion, using a metabolic system with a 4.2-L mixing chamber. Oxygen uptake was recorded at 30-s intervals, and VO2max was defined when two of three criteria were satisfied: attaining a VO2-plateau, attaining a HR >90% of age-predicted maximum, and attaining a respiratory exchange ratio >1.1. The average of the two highest consecutive 30-s VO2 values was recorded as individual VO2max.

@@ -17,6 +17,7 @@ sources:
 # 'Out of the Debts' learning environment combining the debts-and-assets context with the number line
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A learning environment developed by Hußmann and Schindler (2014a, b) in the KOSIMA project, which aims at teaching mathematics through real contexts. Students play a board game in groups of four in which each is an indebted person aiming to redeem debts; the board is a number line ('account bar') with positive and negative numbers, and players draw changing account balances with their pieces. Later problems invite reflection on positions on the account bar and the role of the minus sign, with temperatures and altitudes as further contexts.

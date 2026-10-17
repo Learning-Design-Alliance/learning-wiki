@@ -15,18 +15,22 @@ sources:
     author: Schwab Jessica F., Lew-Williams Casey
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: schwab-jessica-f-2016-2
     resource: "https://doi.org/10.1002/wcs.1393"
     title: "Schwab Jessica F., Lew-Williams Casey. (2016). Language learning, socioeconomic status, and child-directed speech. Wiley interdisciplinary reviews. Cognitive science. https://doi.org/10.1002/wcs.1393"
     author: Schwab Jessica F., Lew-Williams Casey
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Within low-SES samples, quality of mother–child communication predicts children's later expressive language more strongly than input quantity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In 60 low-income families, measures of communication quality (joint engagement, routines, fluency) accounted for more variance in expressive language at 36 months than maternal words per minute. [→ Schwab Jessica F. 2016](#schwab-jessica-f-2016)

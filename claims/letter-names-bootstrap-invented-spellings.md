@@ -15,18 +15,22 @@ sources:
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: treiman-rebecca-2013-2
     resource: "https://doi.org/10.1080/15475441.2013.812016"
     title: "Treiman Rebecca, Kessler Brett. (2013). Learning to Use an Alphabetic Writing System. Language Learning and Development. https://doi.org/10.1080/15475441.2013.812016"
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children use letter-name knowledge as a shortcut when inventing phonologically based spellings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` U.S. children produce spellings like ‹R› and ‹KR› for car, based on letter names, before they can isolate the phonemes within the /αɹ/ unit. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

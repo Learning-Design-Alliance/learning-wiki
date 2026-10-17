@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Camilla K. Gilmore
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Children with MLD and LA are less accurate than TA children on symbolic but not non-symbolic approximate addition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` TA children solved symbolic approximate addition more accurately than children with LA (d = 1.19) and MLD (d = 1.14), while no group differences appeared on the non-symbolic task. [→ Bert De Smedt 2011](#bert-de-smedt-2011)

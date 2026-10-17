@@ -15,18 +15,22 @@ sources:
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: ineke-imbo-andré-vandierendonck-2008-2
     resource: "https://doi.org/10.1007/s00426-007-0112-8"
     title: "Ineke Imbo · André Vandierendonck. (2008). Effects of problem size, operation, and working-memory span on simple-arithmetic strategies: differences between children and adults? Psychological Research (2008) 72:331–346. https://doi.org/10.1007/s00426-007-0112-8"
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The advantage of a large working-memory span on children's arithmetic strategy use decreases across grades: span predicts retrieval frequency in second grade only and retrieval efficiency in second and fourth grade only
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Working-memory span significantly predicted retrieval frequency for second graders but not for fourth and sixth graders, and predicted retrieval efficiency for second and fourth graders but not sixth graders. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

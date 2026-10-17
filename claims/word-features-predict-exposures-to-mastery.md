@@ -15,12 +15,14 @@ sources:
     author: Steacy LM, Fuchs D, Gilbert JK, Kearns DM, Elleman AM, Edwards AA
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Word length, vocabulary grade, and imageability significantly predicted the number of exposures required for sight word mastery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Longer words and words introduced at higher vocabulary grades required more exposures, while more imageable words required fewer exposures. [→ Steacy LM 2020](#steacy-lm-2020)

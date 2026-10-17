@@ -15,12 +15,14 @@ sources:
     author: Martha J. Farah
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Mother-reported life stress and quality of parenting behavior together fully mediated the relationship between SES and hippocampal volume in children. [→ Martha J. Farah 2017](#martha-j-farah-2017)

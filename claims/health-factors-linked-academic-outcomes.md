@@ -15,12 +15,14 @@ sources:
     author: Lewallen TC, Hunt H, Potts-Datema W, Zaza S, Giles W.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The article asserts, citing prior studies, that when children's basic nutritional and fitness needs are met they attain higher achievement levels, and that school-based health centers improve attendance, behavior, and achievement. [→ Lewallen TC 2015](#lewallen-tc-2015)

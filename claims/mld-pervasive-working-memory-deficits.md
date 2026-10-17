@@ -15,12 +15,14 @@ sources:
     author: "Geary, D. C., Hoard, M. K., & Bailey, D. H."
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Children with MLD show pervasive working memory deficits while both LA groups score in the average range on all three working memory components
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Group differences on the WMTB-C were significant for phonological loop (d = 2.17), visuospatial sketch pad (d = 1.25), and central executive (d = 2.67), with MLD children lowest on all measures. [→ Geary 2012](#geary-2012)

@@ -13,12 +13,14 @@ sources:
     title: Christodoulou JA 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Typical readers show significantly greater rate-related activation gains than dyslexic readers in left prefrontal and left superior temporal regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` On the parametric Fast > Medium > Slow contrast, typical readers showed greater activation than dyslexic readers in left middle frontal gyrus, left superior temporal gyrus, and brainstem/cerebellar clusters, while dyslexic readers showed no greater activation than typical readers. [→ Christodoulou JA 2014](#christodoulou-ja-2014)

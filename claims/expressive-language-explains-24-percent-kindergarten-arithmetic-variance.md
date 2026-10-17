@@ -15,12 +15,14 @@ sources:
     author: "Praet, M., Titeca, D., Ceulemans, A., & Desoete, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Expressive language in kindergarten explains 24% of the variance in kindergarten arithmetic controlling for number naming and procedural counting knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a cross-sectional regression with 63 kindergarteners, expressive language explained 24% of variance in arithmetic skills controlling for number naming and procedural counting knowledge. [→ Praet 2013](#praet-2013)

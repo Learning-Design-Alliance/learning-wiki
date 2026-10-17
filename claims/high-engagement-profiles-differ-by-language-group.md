@@ -15,12 +15,14 @@ sources:
     author: "McWayne, C. M., Melzi, G., Limlingan, M. C., & Schick, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Different engagement dimensions defined the high engagement profiles across language groups: school participation for Spanish-speaking parents, foundational education for English-speaking parents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` High school participation plus supplemental education distinguished the high profile among Spanish-speaking parents, while foundational education plus supplemental education distinguished it among English-speaking parents. [→ McWayne 2016](#mcwayne-2016)

@@ -15,12 +15,14 @@ sources:
     author: Moll K., Snowling M. J., Göbel S. M., Hulme C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Executive functioning at t1 predicted counting and number knowledge at t2, while nonverbal IQ had no direct or indirect effect on arithmetic and was dropped from the model. [→ Moll K. 2015](#moll-k-2015)

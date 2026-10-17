@@ -15,18 +15,22 @@ sources:
     author: James, K. H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: james-2010-2
     resource: "https://doi.org/10.1111/j.1467-7687.2009.00883.x"
     title: "James, K. H. (2010). Sensori-motor experience leads to changes in visual processing in the developing brain. Developmental Science, 13(2), 279-288. https://doi.org/10.1111/j.1467-7687.2009.00883.x"
     author: James, K. H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Printing training increases letter response in right anterior fusiform but produces no change in right posterior fusiform
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Right anterior fusiform showed a significant three-way interaction, with greater sensori-motor-group response to letters only after training (t(10) = 5.48, p < .005). [→ James 2010](#james-2010)

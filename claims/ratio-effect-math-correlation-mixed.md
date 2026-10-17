@@ -15,12 +15,14 @@ sources:
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Ratio-effect scores correlated with mathematics achievement in Experiment 1 but not in Experiment 2 with easier ratios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, ratio effect scores correlated with mathematics test performance (r = .544), but in Experiment 2 there was no relationship between ratio effect scores and mathematics achievement (r = .007, n.s.). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

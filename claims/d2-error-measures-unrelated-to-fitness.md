@@ -13,12 +13,14 @@ sources:
     title: Reigal RE 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Omissions, commissions and variation index of the d2 test are not related to any physical fitness variable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The d2 omissions, commissions and variation index measures showed no significant relationship with horizontal jump, speed or VO2max. [→ Reigal RE 2020](#reigal-re-2020)

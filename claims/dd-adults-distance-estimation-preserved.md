@@ -15,12 +15,14 @@ sources:
     author: Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Distance estimation is preserved in adults with developmental dyscalculia
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` No significant difference between DD and controls was found in distance estimation (r = -0.069, p = 0.315), with Bayesian evidence favoring the null. [→ Vigna Giulia 2022](#vigna-giulia-2022)

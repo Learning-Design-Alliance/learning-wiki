@@ -15,12 +15,14 @@ sources:
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Monkey neurophysiology shows adolescent-to-adult antisaccade improvement reflects enhanced representation of the goal and vector inversion, not stronger filtering of the stimulus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Neuronal activity representing the correct eye-movement target is greater in adult monkey PFC, with the change localized in prefrontal rather than posterior parietal cortex. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

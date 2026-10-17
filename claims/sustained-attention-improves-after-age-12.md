@@ -13,12 +13,14 @@ sources:
     title: Thillay A 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Sustained attention performance (hits, false alarms, and sensitivity d′) continues to improve after age 12 through early adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Older age was associated with increased % of hits, reduced % of false alarms, and increased sensitivity d′ in a visual target detection task, with the most dramatic d′ increase from early to late adolescence. [→ Thillay A 2015](#thillay-a-2015)

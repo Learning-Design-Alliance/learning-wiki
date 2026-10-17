@@ -15,12 +15,14 @@ sources:
     author: "Plebanek, D. J., & Sloutsky, V. M."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q1 i?` The article argues that selectivity reduces the ability to encode unattended information and induces learned inattention, making future learning more difficult. [→ Plebanek 2017](#plebanek-2017)

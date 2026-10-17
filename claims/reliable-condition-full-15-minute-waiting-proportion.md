@@ -15,12 +15,14 @@ sources:
     author: "Kidd, C., Palmeri, H., & Aslin, R. N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Children in the reliable condition were significantly more likely to wait the full 15 min than children in the unreliable condition (64.3% vs 7.1%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 9 of 14 children in the reliable condition waited the full 15 min versus 1 of 14 in the unreliable condition, a significant difference in proportions. [→ Kidd 2013](#kidd-2013)

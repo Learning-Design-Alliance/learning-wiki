@@ -15,12 +15,14 @@ sources:
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children with MD only receive extra math assistance far less often than children with comorbid RD+MD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only 37% of the MD-only group had received extra assistance in math, compared with 61% of the RD+MD group. [→ Willcutt 2013](#willcutt-2013)

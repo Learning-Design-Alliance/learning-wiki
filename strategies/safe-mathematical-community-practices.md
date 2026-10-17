@@ -17,7 +17,7 @@ sources:
 # Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 3 studies (2 qualitative, 1 theoretical), `q1`–`q2` · 1 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 To create a positive environment for students whose prior mathematics experiences may have been negative, the circle leaders used practices the article found useful: considering students' prior experiences such as stereotype threat and poor prior achievement, an open and engaging leader posture, absence of negative feedback, leaders expressing love and enjoyment of the subject, and an environment of fun without negative competition. Leaders also had a teacher accompany students so they were removed from the role of disciplinarian and responded to all students with encouragement.

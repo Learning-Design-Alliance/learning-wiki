@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, I., & Bisiri, E."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Conversation/discussion (62%) and brainstorming (61%) were the most frequent teaching techniques in the program
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Frequency analysis of journal notes showed conversation/discussion occurred in 62% and brainstorming in 61% of coded teaching and learning points, ahead of group learning (57%), role-plays (51%), cognitive conflict (47%) and concept maps (34%). [→ Papadopoulos 2020](#papadopoulos-2020)

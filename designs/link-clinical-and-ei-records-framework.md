@@ -17,6 +17,7 @@ sources:
 # Link pediatric primary care and early intervention records to track EI-eligible children and improve timeliness, intensity, and outcomes
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes integrating clinical and EI program data systems as a quality-improvement framework. By linking pediatric primary care electronic health records with EI program records, systems can follow children through EI care planning and service provision and measure care quality metrics such as timeliness, service intensity, and functional outcomes together. The authors state that clinical and EI record linkages could help integrate data to track EI-eligible children and that this data system integration could serve as a framework for other institutions.

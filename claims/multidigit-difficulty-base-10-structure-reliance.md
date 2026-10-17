@@ -15,12 +15,14 @@ sources:
     author: S.H.G. van der Ven, M. Straatemeier, B.R.J. Jansen, S. Klinkenberg, H.L.J. van der Maas
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Exploratory analyses of multidigit multiplication difficulty suggest children rely on the base 10 structure of the number system.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Exploratory analyses on the difficulty of multidigit multiplication problems suggest that children rely on the base 10 structure of the number system. [→ S.H.G. van der Ven 2015](#shg-van-der-ven-2015)

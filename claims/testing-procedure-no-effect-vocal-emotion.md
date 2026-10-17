@@ -15,12 +15,14 @@ sources:
     author: "Grosbras, M.-H., Ross, P. D. & Belin, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Testing procedure (individual computer with headphones vs small-group loudspeaker with paper response) does not affect vocal emotion recognition performance or the developmental trajectory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` There was no effect of testing procedure and no interaction with age or sex, and model fits did not differ when the factor was removed. [→ Grosbras 2018](#grosbras-2018)

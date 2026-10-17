@@ -15,12 +15,14 @@ sources:
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The review cites meta-analytic evidence that systematic phonics instruction produces better spelling and reading outcomes than instruction without it. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

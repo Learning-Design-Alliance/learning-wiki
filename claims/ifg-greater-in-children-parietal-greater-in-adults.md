@@ -15,12 +15,14 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Children show greater inferior frontal gyrus activity than adults during numerical comparisons, while adults show greater left superior parietal activity than children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A between-groups contrast revealed significantly greater activity for children in the IFG relative to adults, and greater activity for adults in left superior parietal cortex. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

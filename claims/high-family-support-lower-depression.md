@@ -15,12 +15,14 @@ sources:
     author: Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # High family social support is associated with lower odds of depressive symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Pupils with high family support had less than half the odds of depressive symptoms (OR 0.44) and moderate family support also conferred lower odds (OR 0.60). [→ Rothon Catherine 2011](#rothon-catherine-2011)

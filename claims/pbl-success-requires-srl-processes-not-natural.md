@@ -15,12 +15,14 @@ sources:
     author: Mary C. English, Anastasia Kitsantas
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students must take responsibility for the learning process by setting goals, monitoring, reflecting, and sustaining motivation from the beginning to the end of a PBL project, but for many students these processes do not occur naturally or easily. [→ Mary C. English 2013](#mary-c-english-2013)

@@ -15,12 +15,14 @@ sources:
     author: Salthouse, T.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Meta-analyses reveal little or no systematic relation between age and job performance, with a meta-analytic correlation of 0.06
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` McEvoy & Cascio's meta-analysis found age-performance correlations ranging from −0.44 to +0.66 with a meta-analytic estimate of 0.06. [→ Salthouse 2012](#salthouse-2012)

@@ -15,18 +15,22 @@ sources:
     author: Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: bulthé-jessica-2019-2
     resource: "https://doi.org/10.1016/j.neuroimage.2018.06.012"
     title: "Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert. (2019). Multi-method brain imaging reveals impaired representations of number as well as altered connectivity in adults with dyscalculia. Neuroimage, 190, 289-302. https://doi.org/10.1016/j.neuroimage.2018.06.012"
     author: Bulthé Jessica, Prinsen Jellina, Vanderauwera Jolijn, Duyck Stefanie, Daniels Nicky, Gillebert Céline R., Mantini Dante, Op de Beeck Hans P., De Smedt Bert
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Whole-brain and ROI-based univariate analyses found no significant group differences in activation for either format. [→ Bulthé Jessica 2019](#bulthe-jessica-2019)

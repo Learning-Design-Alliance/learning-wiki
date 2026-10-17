@@ -15,12 +15,14 @@ sources:
     author: "Bernardini, P., & Schlyter, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # MLU differs by about one word between the stronger and weaker language throughout development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` All three children's MLUs differed greatly between the two languages, by about one entire word throughout their development. [→ Bernardini 2004](#bernardini-2004)

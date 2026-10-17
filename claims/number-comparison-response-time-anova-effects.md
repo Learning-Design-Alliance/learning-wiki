@@ -15,12 +15,14 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Response times in number comparison show group, notation, and ratio main effects, with a larger ratio effect for dot arrays than Arabic numerals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Adults responded faster than children, Arabic numerals faster than dot arrays, and 0.5 ratio trials faster than 0.8 ratio trials. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

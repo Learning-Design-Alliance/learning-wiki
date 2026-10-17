@@ -15,18 +15,22 @@ sources:
     author: Ricker Timothy J., Cowan Nelson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ricker-timothy-j-2014-2
     resource: "https://doi.org/10.1037/a0034301"
     title: "Ricker Timothy J., Cowan Nelson. (2014). Differences between Presentation Methods in Working Memory Procedures: A Matter of Working Memory Consolidation. Journal of Experimental Psychology: Learning, Memory, and Cognition. https://doi.org/10.1037/a0034301"
     author: Ricker Timothy J., Cowan Nelson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Lengthening consolidation time in the simultaneous condition reduces forgetting to a rate comparable to sequential presentation (Experiment 4)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When the full array was presented three times with unmasked gaps, only the Retention-Interval Duration main effect was significant; no presentation-method effects approached significance. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

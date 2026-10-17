@@ -15,12 +15,14 @@ sources:
     author: "Compagnoni, M., Karlen, Y., & Maag Merki, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The trait beliefs × goal orientation interaction on CBSR showed a small effect size but did not reach conventional significance (p = .11). [→ Compagnoni 2019](#compagnoni-2019)

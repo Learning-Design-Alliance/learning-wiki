@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the full multivariate model, family-risk status was not a significant predictor of either readiness outcome. [→ Dilnot 2017](#dilnot-2017)

@@ -17,7 +17,7 @@ sources:
 # Design mathematics learning environments that build on students' home language, communities, and lived experiences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Drawing on the counterstories, the authors recommend mathematics learning arrangements that explicitly utilize students' home language, communities, and knowledge as learning resources. The after-schools did this by letting 'adults often spoke in Spanish and tasks were written in two languages' and by grounding investigations in students' interests and community concerns, which students contrasted favorably with their regular classrooms.

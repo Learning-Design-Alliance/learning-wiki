@@ -15,18 +15,22 @@ sources:
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gilmore-camilla-k-2010-2
     resource: "https://doi.org/10.1016/j.cognition.2010.02.002"
     title: "Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S. (2010). Non-symbolic arithmetic abilities and achievement in the first year of formal schooling in mathematics. Cognition. https://doi.org/10.1016/j.cognition.2010.02.002"
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Non-symbolic addition performance does not differ by socioeconomic status, though wealthier children score higher on mathematics achievement tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1 there was no effect of socioeconomic status on non-symbolic addition performance between subgroups (t(39) < 1) or versus a more privileged community (F(1, 55) = 2.00, p = .164), but the wealthier community group performed better on the mathematics achievement test (F(1,58) = 5.45, p = .023). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

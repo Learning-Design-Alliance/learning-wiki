@@ -15,12 +15,14 @@ sources:
     author: Bert De Smedt, Camilla K. Gilmore
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # First graders with MLD are slower than typically achieving peers on symbolic but not non-symbolic numerical magnitude comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Children with MLD were significantly slower than TA children on symbolic magnitude comparison (d = 0.88), with no group differences on the non-symbolic task. [→ Bert De Smedt 2011](#bert-de-smedt-2011)

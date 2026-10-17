@@ -17,7 +17,7 @@ sources:
 # Use the WSCC model as a framework for school improvement plans, accountability measures, and cross-sector initiatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's implications section recommends concrete uses of the WSCC model by multiple audiences. School districts and schools can use it "as a framework for school improvement plans and initiatives," structuring school improvement teams with representation from each component. State education and health departments can use it for accountability measures and funding announcements; higher education programs can design preservice and in-service professional development toward effective implementation; philanthropic organizations can emphasize community engagement aspects.

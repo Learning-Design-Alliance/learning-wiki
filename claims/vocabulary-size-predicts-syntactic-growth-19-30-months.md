@@ -15,12 +15,14 @@ sources:
     author: Michelle S. Peter, Samantha Durrant, Andrew Jessop, Amy Bidgood, Julian M. Pine, Caroline F. Rowland
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary size at 19 months is a strong predictor of later syntactic growth between 19 and 30 months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Expressive Vocabulary at 19 months predicted growth in M3L between 19 and 30 months in growth curve analysis. [→ Michelle S. Peter 2019](#michelle-s-peter-2019)

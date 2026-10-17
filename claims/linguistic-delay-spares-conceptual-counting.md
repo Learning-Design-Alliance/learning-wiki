@@ -15,12 +15,14 @@ sources:
     author: Jacqueline Leybaert and Marie-Noëlle Van Cutsem
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Linguistic delay may affect verbal mathematical abilities without impairing conceptual counting development, as deaf children's one-to-one correspondence understanding was age-appropriate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors interpret their data as showing deaf children's conceptual understanding of counting was close to that expected for their age and better than predicted by their knowledge of linguistic number symbols. [→ Jacqueline Leybaert and Marie-Noëlle Van Cutsem 2002](#jacqueline-leybaert-and-marie-noelle-van-cutsem-2002)

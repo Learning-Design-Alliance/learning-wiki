@@ -15,18 +15,22 @@ sources:
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: hammer-2014-2
     resource: "https://doi.org/10.1016/j.ecresq.2014.05.008"
     title: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E. (2014). The Language and Literacy Development of Young Dual Language Learners: A Critical Review. Early childhood research quarterly. https://doi.org/10.1016/j.ecresq.2014.05.008"
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` DLL infants/toddlers have smaller vocabularies and slower growth rates in each individual language compared to monolinguals. [→ Hammer 2014](#hammer-2014)

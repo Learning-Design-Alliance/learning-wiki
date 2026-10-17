@@ -15,12 +15,14 @@ sources:
     author: Cargnelutti, E., Tomasetto, C., Passolunghi, M.C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Math anxiety is present and linked to math performance in children as young as Grade 2-3, a period when its onset was previously unclear. [→ Cargnelutti 2017](#cargnelutti-2017)

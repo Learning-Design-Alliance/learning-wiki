@@ -13,16 +13,20 @@ sources:
     title: Perez-Felkner L 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: perez-felkner-l-2017-2
     title: Perez-Felkner L 2017 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Growth mindset interacts with gender for health major choice — men's chances decline 3.9 percentage points per unit increase — but no gender difference appears in how ability beliefs influence PEMC major choice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` One significant interaction emerged, between gender and growth mindset in choice of health majors: men's chances of majoring in health fields decline by 3.9 percentage points for every one-unit increase in growth mindset, while growth mindset has no significant effect on women's health major chances. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

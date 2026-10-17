@@ -15,18 +15,22 @@ sources:
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: hammer-2014-2
     resource: "https://doi.org/10.1016/j.ecresq.2014.05.008"
     title: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E. (2014). The Language and Literacy Development of Young Dual Language Learners: A Critical Review. Early childhood research quarterly. https://doi.org/10.1016/j.ecresq.2014.05.008"
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # The review identifies pervasive methodological problems in DLL research, including inconsistent DLL definitions and SES-bilingualism confounding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Studies used inconsistent terminology and rarely specified children's dual language exposure; only 51% specified simultaneous versus sequential learner status and 29% reported exposure amounts. [→ Hammer 2014](#hammer-2014)

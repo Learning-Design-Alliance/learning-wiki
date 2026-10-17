@@ -15,12 +15,14 @@ sources:
     author: "Capellini, S. A., Giaconi, C., & Germano, G. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Dysgraphia classification differs significantly across grade groups, with 80% of 1st graders, 10% of 3rd graders and 60% of 5th graders classified with dysgraphia
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The Likelihood Ratio Test showed significant difference between dysgraphia and non-dysgraphia classification across groups (p <0.001), with dysgraphia most frequent in GI (80%) and GV (60%) and least in GIII (10%). [→ Capellini 2017](#capellini-2017)

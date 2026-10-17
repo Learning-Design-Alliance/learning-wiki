@@ -15,12 +15,14 @@ sources:
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Early precursors predict adolescent N2 directly, not indirectly through childhood inattention symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Path analysis found no indirect paths from effortful control or paternal inattention through childhood inattention symptoms to N2 amplitude (β = −0.06 and β = 0.03, both non-significant), while the model explained 29% of N2 variance with good fit. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

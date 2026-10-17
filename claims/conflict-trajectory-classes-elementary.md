@@ -15,18 +15,22 @@ sources:
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: spilt-2012-2
     resource: "https://doi.org/10.1111/j.1467-8624.2012.01761.x"
     title: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M. (2012). Dynamics of Teacher-Student Relationships: Stability and Change across Elementary School and the Influence on Children's Academic Success. Child Development, 83(4), 1180-1195. https://doi.org/10.1111/j.1467-8624.2012.01761.x"
     author: "Spilt, J. L., Hughes, J. N., Wu, J.-Y., & Kwok, O.-M."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Teacher-student conflict follows distinct longitudinal trajectory classes across elementary school, including low-stable, low-increasing, high-declining, and (for boys only) high-stable patterns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Growth mixture modeling identified four conflict trajectory classes for boys (low-stable majority, low-increasing, high-declining, high-stable minority) and three for girls (low-stable, high-declining, low-increasing). [→ Spilt 2012 (2)](#spilt-2012-2)

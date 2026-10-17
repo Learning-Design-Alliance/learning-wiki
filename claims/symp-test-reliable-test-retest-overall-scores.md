@@ -15,12 +15,14 @@ sources:
     author: "Brankaer, C., Ghesquière, P., & De Smedt, B."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The SYMP Test shows satisfactory test-retest reliability, with overall-score correlations between .72 and .86 across Grades 1–6
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Test-retest correlations for the SYMP Test overall score ranged between .72 and .86 across all grades, indicating satisfactory reliability. [→ Brankaer 2017](#brankaer-2017)

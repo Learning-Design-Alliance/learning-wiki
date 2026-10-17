@@ -13,16 +13,20 @@ sources:
     title: White-Schwoch T 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: white-schwoch-t-2015-2
     title: White-Schwoch T 2015 (2)
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Year 1 consonants-in-noise model predictions predicted Year 2 phonological processing (r[32] = 0.543), a second phonological test (r[32] = 0.575), rapid naming (r[32] = -0.663), and sentence memory (r[32] = 0.458). [→ White-Schwoch T 2015](#white-schwoch-t-2015)

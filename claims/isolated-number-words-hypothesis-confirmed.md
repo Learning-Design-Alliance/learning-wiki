@@ -15,12 +15,14 @@ sources:
     author: "Krajewski, K., & Schneider, W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological awareness has no direct effect on higher-order QNC (Level II and above) or Grade 3 math achievement once QNC skills are modeled, confirming the isolated number-words hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling for its impact on basic numerical skills, phonological awareness did not directly predict higher-level QNC or Grade 3 mathematics achievement. [→ Krajewski 2009](#krajewski-2009)

@@ -17,7 +17,7 @@ sources:
 # Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article argues that directly assessing executive functions in group-based school settings improves ecological validity over individualized assessments in labs or quiet school rooms, and over adult reports that lack conceptual precision and objectivity. In this study, "all measures were assessed in more naturalistic, group environments in school", allowing evaluation of skills "in contexts with significant real-world interference and distraction, much like students' typical learning environments." The authors recommend future work integrating direct assessments, adult reports, and observational tools.

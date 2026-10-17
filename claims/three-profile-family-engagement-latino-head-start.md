@@ -15,12 +15,14 @@ sources:
     author: "McWayne, C. M., Melzi, G., Limlingan, M. C., & Schick, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Latent profile analysis identified three family engagement profiles in both Spanish- and English-speaking low-income Latino samples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Three-profile solutions were selected as best fitting for both the Spanish and English language subsamples. [→ McWayne 2016](#mcwayne-2016)

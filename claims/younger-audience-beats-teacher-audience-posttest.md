@@ -15,12 +15,14 @@ sources:
     author: Kingir, S.
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Students writing to younger students performed significantly better on the posttest than students writing to the teacher (d = 0.33), but younger-student vs peer and peer vs teacher contrasts were not significant at the Bonferroni-adjusted threshold. [→ Kingir 2013](#kingir-2013)

@@ -15,12 +15,14 @@ sources:
     author: Gilmore Camilla K., McCarthy Shannon E., Spelke Elizabeth S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Non-symbolic addition performance correlates with mathematics achievement in a new sample, surviving controls for verbal intelligence and literacy (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 2, non-symbolic addition performance correlated with mathematics achievement (r = .376), and the correlation remained after controlling for verbal intelligence and literacy achievement (r = .276). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

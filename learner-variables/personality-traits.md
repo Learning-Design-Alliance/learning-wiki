@@ -12,7 +12,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 15 claims (6 show a difference, 3 mixed, 4 no difference, 2 unmarked) · 8 studies (3 review, 3 associational, 2 causal), `q2`–`q3` · 3 of 8 report an effect size · 15 claims rest on one study
+> **Evidence** · 16 claims (7 show a difference, 3 mixed, 4 no difference, 2 unmarked) · 9 studies (4 associational, 3 review, 2 causal), `q2`–`q3` · 3 of 9 report an effect size · 16 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).

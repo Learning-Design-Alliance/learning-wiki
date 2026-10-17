@@ -15,12 +15,14 @@ sources:
     author: Valiente Carlos, Eisenberg Nancy, Haugen Rg, Spinrad Tracy L., Hofer Claire, Liew Jeffrey, Kupfer Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The mediated EC-achievement model is not moderated by children's sex, age, or SES
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Multiple-group model comparisons found no evidence that parameter estimates varied for children low versus high in SES, and Box's M tests were nonsignificant for sex and age. [→ Valiente Carlos 2011](#valiente-carlos-2011)

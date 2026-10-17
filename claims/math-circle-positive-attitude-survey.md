@@ -15,12 +15,14 @@ sources:
     author: "Eugene Kennedy & Lawrence Smolinsky"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In an end-of-semester survey, most respondents indicated mathematics was important (9 of 10), liked math (9 of 10), and felt confident in their ability to solve mathematics problems (6 of 9). [→ Eugene Kennedy & Lawrence Smolinsky 2016](#eugene-kennedy-lawrence-smolinsky-2016)

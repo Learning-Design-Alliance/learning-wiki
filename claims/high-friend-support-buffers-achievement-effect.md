@@ -15,12 +15,14 @@ sources:
     author: Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` After adjustment for a bullying × friends support interaction, bullying was not associated with achievement for students with high friend support (OR 0.89, ns), while bullied students with moderate (OR 0.27) or low (OR 0.38) support had about a third of the odds of reaching the benchmark. [→ Rothon Catherine 2011](#rothon-catherine-2011)

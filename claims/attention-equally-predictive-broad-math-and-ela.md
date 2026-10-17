@@ -15,12 +15,14 @@ sources:
     author: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Attention does not differentially predict broad math versus broad ELA scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` For broad measures, the attention by academic subject interaction was not significant, indicating attention did not differentially predict broad math and ELA test scores. [→ Gallen 2023](#gallen-2023)

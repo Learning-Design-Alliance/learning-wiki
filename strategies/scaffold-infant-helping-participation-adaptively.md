@@ -17,7 +17,7 @@ sources:
 # Scaffold infant participation in everyday activities with positive affect, encouragement, and guidance adapted to the child's developmental level
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Caregivers support early helping by complementing, encouraging, guiding, and praising infants' participation in everyday caregiving activities and chores. "Positive affect and encouragement co-occur with infants' participation in early helping routines, supporting and maintaining helpful activities." As children become more skilled, adults shift toward pointing, verbal messages, and references to needs, and praise and thanking become less common during the second year.

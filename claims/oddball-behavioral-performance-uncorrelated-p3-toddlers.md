@@ -15,12 +15,14 @@ sources:
     author: "Hoyniak, C. P., Petersen, I. T., McQuillan, M. E., Staples, A. D., & Bates, J. E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Behavioral performance on the toddler Oddball task is uncorrelated with target P3 amplitudes and latencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Behavioral accuracy and response time on the Oddball task were uncorrelated with target P3 amplitudes and latencies, suggesting behavioral performance may capture different individual differences than ERPs. [→ Hoyniak 2015](#hoyniak-2015)

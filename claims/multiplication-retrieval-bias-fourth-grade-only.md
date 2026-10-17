@@ -15,12 +15,14 @@ sources:
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The adult-like retrieval bias for multiplication over addition on strategy selection is significant only in fourth grade, with retrieval used as frequently for both operations in second and sixth grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Percentages of retrieval use were larger on multiplication than on addition problems in fourth grade, F(1, 57) = 11.1, but did not differ across operations in second or sixth grade. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

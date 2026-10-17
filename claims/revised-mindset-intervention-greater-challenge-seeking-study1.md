@@ -15,12 +15,14 @@ sources:
     author: "Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Schneider, Barbara, Hinojosa, Cintia, Lee, Hae Yeon, O'Brien, Joseph, Flint, Kate, Roberts, Alice, Trott, Jill, Greene, Daniel, Walton, Gregory M., & Dweck, Carol S."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # In Study 1, the revised growth mindset intervention reduced choosing easy over hard math problems more than the original intervention (d=.19)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Compared to the original intervention, the revised intervention led 9th graders to choose fewer easy relative to hard math problems on the Make-a-Math-Worksheet task (d=.19). [→ Yeager 2016](#yeager-2016)

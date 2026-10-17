@@ -15,12 +15,14 @@ sources:
     author: Libertus Melissa E., Feigenson Lisa, Halberda Justin
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Early ANS acuity (accuracy and RT) uniquely predicts preschoolers' math ability six months later, controlling for initial math ability, age, and expressive vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Accuracy and RT on the ANS acuity task at Time 1 were significant unique predictors of TEMA-3 math scores at Time 2 (partial r2 = 0.07 and 0.06). [→ Libertus Melissa E. 2013](#libertus-melissa-e-2013)

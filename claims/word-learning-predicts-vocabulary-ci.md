@@ -15,12 +15,14 @@ sources:
     author: Derek M. Houston, Jessica Stewart, Aaron Moberly, George Hollich, and Richard T. Miyamoto
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Word-learning performance correlates with later vocabulary size in children with cochlear implants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Word-learning performance correlated significantly with PPVT vocabulary size at two years post-CI, and the correlation at four years approached significance. [→ Derek M. Houston 2012](#derek-m-houston-2012)

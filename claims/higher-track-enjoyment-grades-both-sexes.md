@@ -13,12 +13,14 @@ sources:
     title: Mol SE and Jolles J 2014
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # In the higher track, reading enjoyment and sex show main effects on non-leisure readers' school achievement, with enjoyers of both sexes scoring higher
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Among higher-track non-leisure readers, main effects emerged for sex (η2 = 0.03) and reading enjoyment (η2 = 0.01); girl enjoyers scored 0.22 and boy enjoyers 0.34 grade points higher. [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

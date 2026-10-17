@@ -17,7 +17,7 @@ sources:
 # Include verbal number skill interventions in early programs for children at family-risk of dyslexia
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends that early intervention programs for children at family-risk of dyslexia, which typically focus on phonological awareness for literacy, should also address verbal number skills. Because "counting and number knowledge mediate the association between language and arithmetic skills, intervention programs targeting these skills ... are likely to be helpful for improving number skills in preschool children at risk for dyslexia."

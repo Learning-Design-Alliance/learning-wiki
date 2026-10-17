@@ -15,12 +15,14 @@ sources:
     author: "Kurvers, J., Van Hout, R., & Vallen, T."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Unschooled illiterate adults living in print-rich environments have good knowledge of the pragmatic functions and uses of written language but cannot read environmental print out of context
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Interviews showed all illiterate adults had a fairly good idea of the functions and uses of literacy, yet they recognized hardly any inscription and only a few logos presented out of context. [→ Kurvers 2009](#kurvers-2009)

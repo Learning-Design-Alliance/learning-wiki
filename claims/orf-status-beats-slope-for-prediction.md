@@ -15,18 +15,22 @@ sources:
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: denton-carolyn-a-2012-2
     resource: "https://doi.org/10.1177/0022219412442155"
     title: "Denton Carolyn A. (2012). Response to Intervention for Reading Difficulties in the Primary Grades: Some Answers and Lingering Questions. Journal of Learning Disabilities. https://doi.org/10.1177/0022219412442155"
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # End-of-Grade-1 oral reading fluency status predicts later reading comprehension better than growth slope, though slope added to first-grade screening accuracy in one study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Schatschneider et al. (2008) found ORF status at the end of Grade 1 contributed largely to concurrent and future prediction of reading comprehension, while slope made little independent contribution beyond status. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

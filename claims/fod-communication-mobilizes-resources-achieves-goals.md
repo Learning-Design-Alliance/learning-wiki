@@ -15,12 +15,14 @@ sources:
     author: Ventura, Ana Clara
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Communicating feelings of difficulty during the task allowed young children to mobilize resources and achieve their goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` During the task, communication of FOD allowed children to mobilize resources and to achieve their goals. [→ Ventura 2022](#ventura-2022)

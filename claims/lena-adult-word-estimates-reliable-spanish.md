@@ -15,12 +15,14 @@ sources:
     author: Weisleder Adriana, Fernald Anne
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # LENA automated adult word counts are reliable for Spanish-language home environments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Automated LENA estimates of adult words correlated highly (r = .80) with native Spanish-speaker transcriber counts in 60-min samples from 10 home recordings. [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

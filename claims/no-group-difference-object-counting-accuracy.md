@@ -15,12 +15,14 @@ sources:
     author: Jacqueline Leybaert and Marie-Noëlle Van Cutsem
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Deaf and hearing children do not differ in accuracy of object counting or creating sets of a given cardinality up to 14 items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Mixed ANOVAs with hearing status as between-subjects factor found no significant effect of hearing status on object counting or creation task accuracy. [→ Jacqueline Leybaert and Marie-Noëlle Van Cutsem 2002](#jacqueline-leybaert-and-marie-noelle-van-cutsem-2002)

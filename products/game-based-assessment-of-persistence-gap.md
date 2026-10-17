@@ -13,7 +13,7 @@ generated:
 # Game-based assessment of persistence (GAP)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Ventura et al.'s game-based assessment measures learner persistence from log-derived time spent on unsolved problems during gameplay.

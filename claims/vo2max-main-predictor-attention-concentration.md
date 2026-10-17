@@ -13,12 +13,14 @@ sources:
     title: Reigal RE 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In stepwise linear regressions, maximum oxygen consumption was the main predictor of d2 attention and concentration measures; in boys, horizontal jump (strength) was also a significant predictor. [→ Reigal RE 2020](#reigal-re-2020)

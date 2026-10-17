@@ -15,18 +15,22 @@ sources:
     author: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F."
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
   - id: vo-2014-2
     resource: "https://doi.org/10.1177/0956797614538458"
     title: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F. (2014). Young Children Bet On Their Numerical Skills: Metacognition in the Numerical Domain. Psychological Science. https://doi.org/10.1177/0956797614538458"
     author: "Vo, V. Y., Li, R., Kornell, N., Pouget, A., & Cantlon, J. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Children's numerical metacognitive sensitivity correlated with TEMA-3 mathematics test scores, with a printed correlation of r(30) = .54. [→ Vo 2014](#vo-2014)

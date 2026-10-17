@@ -13,12 +13,14 @@ sources:
     title: Blackburne LK 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adults, but not children, show a P1 ERP amplitude difference between reversed and typical letters during early visual processing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` On the P1 component (100–150 ms), the group x condition interaction was significant; adults showed a significantly more positive-going amplitude for reversed than typical letters, whereas children showed no reliable difference. [→ Blackburne LK 2014](#blackburne-lk-2014)

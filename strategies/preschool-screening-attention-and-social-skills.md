@@ -17,7 +17,7 @@ sources:
 # Include attention difficulties and social skills in preschool academic screening, and consider prosocial components and feelings about school in early interventions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Drawing on their findings, the authors recommend that assessment screenings include attention difficulties and social skills alongside academic measures, since both were independently related to emergent academic development. They further suggest that "broader interventions including prosocial components may help address the risk of academic failure," and that positive feelings about school may offer "an additional possible leverage point in disrupting the serious risks associated with co-occurring social and academic difficulties."

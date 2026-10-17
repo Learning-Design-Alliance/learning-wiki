@@ -15,12 +15,14 @@ sources:
     author: "Hauser, T. U., Iannaccone, R., Walitza, S., Brandeis, D., & Brem, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Group-by-RPE interaction in the anterior insula without a general group effect in overall activation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A repeated measures ANOVA on binned aIns responses revealed a significant RPE effect and a significant group-by-RPE interaction, but no significant group main effect. [→ Hauser 2015](#hauser-2015)

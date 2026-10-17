@@ -15,24 +15,30 @@ sources:
     author: Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wang-2016-2
     resource: "https://doi.org/10.1007/s10964-016-0620-1"
     title: "Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue. (2016). Does Everyone's Motivational Beliefs about Physical Science Decline in Secondary School?: Heterogeneity of Adolescents' Achievement Motivation Trajectories in Physics and Chemistry. Journal of Youth and Adolescence. https://doi.org/10.1007/s10964-016-0620-1"
     author: Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: wang-2016-3
     resource: "https://doi.org/10.1007/s10964-016-0620-1"
     title: "Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue. (2016). Does Everyone's Motivational Beliefs about Physical Science Decline in Secondary School?: Heterogeneity of Adolescents' Achievement Motivation Trajectories in Physics and Chemistry. Journal of Youth and Adolescence. https://doi.org/10.1007/s10964-016-0620-1"
     author: Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Adolescents in the Stable High motivation trajectory earned higher science grades, took more AP science courses, and reported higher STEM career aspirations than the other trajectory groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (3 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Stable High students had higher high school science grades than all six other trajectory groups. [→ Wang 2016](#wang-2016)

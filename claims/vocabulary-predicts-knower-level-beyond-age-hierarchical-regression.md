@@ -15,18 +15,22 @@ sources:
     author: "Negen, J., & Sarnecka, B. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: negen-2012-2
     resource: "https://doi.org/10.1111/j.1467-8624.2012.01815.x"
     title: "Negen, J., & Sarnecka, B. W. (2012). Number-Concept Acquisition and General Vocabulary Development. Child Development. https://doi.org/10.1111/j.1467-8624.2012.01815.x"
     author: "Negen, J., & Sarnecka, B. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary adds significantly to predicting knower-level after age, but age does not add after vocabulary, suggesting age does not mediate the vocabulary–number-knowledge link.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In hierarchical regression, both vocabulary scores added significantly to fit when entered after age, while age did not contribute significantly when entered after vocabulary. [→ Negen 2012](#negen-2012)

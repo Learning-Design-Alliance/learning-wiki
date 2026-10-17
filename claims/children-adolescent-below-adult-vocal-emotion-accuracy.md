@@ -15,12 +15,14 @@ sources:
     author: "Grosbras, M.-H., Ross, P. D. & Belin, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's average vocal emotion recognition performance is significantly below the adult group's average
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The children-adolescents sample averaged 81.7% correct versus 86.7% for adults, a statistically significant difference. [→ Grosbras 2018](#grosbras-2018)

@@ -17,7 +17,7 @@ sources:
 # Leverage culturally-specific engagement strengths: support school participation for Spanish-speaking families and oral storytelling for English-speaking families
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that programs tailor engagement outreach to the dimensions that distinguish each language group's high engagement profiles. For Spanish-speaking parents, it suggests "considering parents' work schedules, inviting the involvement of extended family members, and connecting with parents beyond the translation of letters and materials," and adjusting traditionally school-based activities so they can be incorporated at home. For English-speaking Latino parents, it recommends encouraging integration of heritage culture into learning activities, for example "encouraging the use of oral storytelling, a familiar practice for many immigrant parents, might be a way to bridge early literacy goals with a culturally-valued style of communication."

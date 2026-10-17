@@ -13,6 +13,7 @@ generated:
 # K-DTVP-2 and VMI-3R assessment instruments for visual perception and visual-motor integration
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The K-DTVP-2 and VMI-3R are standardized instruments used to measure visual perception and visual-motor integration across developmental and adult populations.

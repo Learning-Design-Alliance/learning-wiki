@@ -15,12 +15,14 @@ sources:
     author: Martin Rebecca B., Cirino Paul T., Sharp Carla, Barnes Marcia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Symbolic number predictors account for substantial additional variance in grade 1 math outcomes beyond counting and domain general predictors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adding symbolic number variables to models already containing demographics, domain general, and counting predictors significantly increased R2 for fluency (R2 change = .101), computation (R2 change = .099), applied problems (R2 change = .034), and story problems (R2 change = .042). [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

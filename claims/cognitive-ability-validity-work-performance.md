@@ -15,12 +15,14 @@ sources:
     author: Salthouse, T.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # General cognitive ability has moderate positive relations with work performance, with meta-analytic validity coefficients in the 0.4 to 0.6 range across many job types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Meta-analyses beginning in the 1980s estimated validity coefficients for general cognitive ability in the 0.4 to 0.6 range across many types of jobs. [→ Salthouse 2012](#salthouse-2012)

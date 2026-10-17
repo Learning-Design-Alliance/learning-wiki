@@ -15,24 +15,30 @@ sources:
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: diamond-adele-2012-2
     resource: "https://doi.org/10.1177/0963721412453722"
     title: "Diamond Adele. (2012). Activities and Programs That Improve Children's Executive Functions. Current Directions in Psychological Science. https://doi.org/10.1177/0963721412453722"
     author: Diamond Adele
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: diamond-adele-2012-3
     resource: "https://doi.org/10.1177/0963721412453722"
     title: "Diamond Adele. (2012). Activities and Programs That Improve Children's Executive Functions. Current Directions in Psychological Science. https://doi.org/10.1177/0963721412453722"
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Physical activities combining exercise with character development or mindfulness improved children's EFs more than exercise alone: tae kwon do outperformed standard PE, and a yoga pilot improved planning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q1`–`q2`
+> **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Kindergarten-through-fifth-grade children randomly assigned by homeroom class to traditional tae kwon do improved more than students in standard physical education in working memory and on all dimensions of inhibitory control studied, with effects generalizing to multiple contexts and measures. [→ Diamond Adele 2012](#diamond-adele-2012)

@@ -15,12 +15,14 @@ sources:
     author: Libertus Melissa E., Feigenson Lisa, Halberda Justin
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Initial math ability is the largest single predictor of later math ability, accounting for 45% of variance in later TEMA-3 scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the longitudinal regression, initial TEMA-3 scores accounted for 45% of variance in later math ability (partial r2 = 0.45, p < 0.001). [→ Libertus Melissa E. 2013](#libertus-melissa-e-2013)

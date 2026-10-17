@@ -15,12 +15,14 @@ sources:
     author: Armitage, KL; Suddendorf, T; Bulley, A; Bastos, APM; Taylor, AH; Redshaw, J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # From age 4, children spontaneously devise multiple previously unseen reminder-setting strategies across transfer trials, with this tendency increasing with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Many children aged 4 years and older spontaneously devised more than one previously unseen reminder-setting strategy across six transfer trials. [→ Armitage 2023](#armitage-2023)

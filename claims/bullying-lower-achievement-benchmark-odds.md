@@ -15,12 +15,14 @@ sources:
     author: Rothon Catherine, Head Jenny, Klineberg Emily, Stansfeld Stephen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Bullied adolescents are about half as likely to reach the national academic achievement benchmark for their age group two years later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Adolescents bullied in the survey term had approximately half the odds of reaching the achievement benchmark (adjusted OR 0.46) compared with those not bullied. [→ Rothon Catherine 2011](#rothon-catherine-2011)

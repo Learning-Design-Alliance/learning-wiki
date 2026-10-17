@@ -15,12 +15,14 @@ sources:
     author: "Gallen, C. L., Schaerlaeken, S., Younger, J. W., Project iLEAD Consortium, Anguera, J. A., & Gazzaley, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Sustained attention positively predicts broad statewide standardized test scores in math and ELA
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Sustained attention showed significant positive main effects on broad academic measures (SBAC math and SBAC ELA scores). [→ Gallen 2023](#gallen-2023)

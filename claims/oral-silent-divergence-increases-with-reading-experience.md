@@ -15,12 +15,14 @@ sources:
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Combining this study with Gagliano et al. (2015), oral and silent reading diverge more with increasing reading experience, and the authors propose an orthographic-lexicon explanation for the smaller divergence in dyslexia. [→ Madelon van den Boer 2022](#madelon-van-den-boer-2022)

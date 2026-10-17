@@ -15,12 +15,14 @@ sources:
     author: Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Numerical difficulties in adults with DD are associated with negative emotions and psychosomatic symptoms traceable to primary school age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Qualitative clinical interviews revealed states of discomfort associated with mathematical failures, including tension, worry, frustration, anger, and psychosomatic symptoms, which patients said intensified negative academic outcomes. [→ Vigna Giulia 2022](#vigna-giulia-2022)

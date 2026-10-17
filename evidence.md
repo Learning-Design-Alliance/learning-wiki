@@ -19,14 +19,13 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 582 | 218 | 333 | 1,200 |
+| causal | 67 | 597 | 223 | 333 | 1,220 |
 | quant-synthesis | 61 | 115 | 38 | 118 | 332 |
-| review | 86 | 342 | 91 | 123 | 642 |
-| associational | 52 | 746 | 303 | 256 | 1,357 |
-| qualitative | 106 | 262 | 64 | 83 | 515 |
-| design | 49 | 504 | 130 | 30 | 713 |
-| theoretical | 84 | 260 | 49 | 53 | 446 |
-| not yet coded | | | | | 129 |
+| review | 91 | 349 | 92 | 123 | 655 |
+| associational | 59 | 812 | 310 | 259 | 1,440 |
+| qualitative | 108 | 264 | 64 | 83 | 519 |
+| design | 50 | 506 | 131 | 30 | 717 |
+| theoretical | 87 | 262 | 49 | 53 | 451 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -93,7 +92,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 89 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
-| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 84 pages | 6 | q2–q3 | 1 of 6 |
+| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 85 pages | 6 | q2–q3 | 1 of 6 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
 | [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
 
@@ -103,17 +102,17 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-271 claims are cited both ways.
+283 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 125 | 81 | 140 | 2 |
-| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 20 | 15 | 49 | 6 |
+| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 21 | 15 | 49 | 6 |
 | [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 318 | 42 | 19 | 3 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 25 | 25 | 18 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 491 | 64 | 17 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 2 | 1 | 12 | 3 |
-| [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 21 | 5 | 11 | 4 |
+| [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 22 | 5 | 11 | 4 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 7 | 206 | 10 | 3 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 283 | 21 | 8 | 2 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
@@ -137,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,986 | 2,621 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,986 | 2,663 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 74 | 74 | 33 | 0 |
-| [designs](designs/index.md) | 819 | 481 | 1 | 0 |
-| [products](products/index.md) | 1,691 | 1,131 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 346 | 343 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 74 | 74 | 35 | 0 |
+| [designs](designs/index.md) | 832 | 489 | 1 | 0 |
+| [products](products/index.md) | 1,712 | 1,145 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 350 | 344 | 1 | 0 |
 
 ## Toward pooled estimates
 

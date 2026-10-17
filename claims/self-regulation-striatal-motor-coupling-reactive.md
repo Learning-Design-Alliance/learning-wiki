@@ -15,12 +15,14 @@ sources:
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During reactive inhibition, self-regulation scores showed a moderate relationship with coupling between the left motor cortex and right striatum (p = 0.04); during proactive inhibition there was no effect (p = 0.37). [→ Pas P. 2021](#pas-p-2021)

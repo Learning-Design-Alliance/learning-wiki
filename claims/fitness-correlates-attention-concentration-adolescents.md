@@ -13,12 +13,14 @@ sources:
     title: Reigal RE 2020
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In the general sample, maximum oxygen consumption correlates moderately with d2 total effectiveness (TOT) and concentration (CON), while horizontal jump and speed test correlations are weak. [→ Reigal RE 2020](#reigal-re-2020)

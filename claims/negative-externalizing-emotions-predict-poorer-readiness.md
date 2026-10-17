@@ -15,12 +15,14 @@ sources:
     author: Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, Susan
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children showing high levels of negative externalizing emotions during the challenge task are rated as less socially competent, more hyperactive, and with poorer interpersonal and self-regulatory skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children high in anger, frustration, or showing hostility were rated less socially competent, more hyperactive, and with poorer interpersonal and self-regulatory skills than peers. [→ Berhenke 2011](#berhenke-2011)

@@ -15,18 +15,22 @@ sources:
     author: "McWayne, C. M., Melzi, G., Limlingan, M. C., & Schick, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: mcwayne-2016-2
     resource: "https://doi.org/10.1037/a0040343"
     title: "McWayne, C. M., Melzi, G., Limlingan, M. C., & Schick, A. (2016). Ecocultural Patterns of Family Engagement among Low-income Latino Families of Preschool Children. Developmental Psychology. https://doi.org/10.1037/a0040343"
     author: "McWayne, C. M., Melzi, G., Limlingan, M. C., & Schick, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher engagement profiles related to better play interaction for Spanish-speaking children but showed no significant social outcome differences among English-speaking profiles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Spanish-speaking children in higher engagement profiles scored significantly better on play interaction and total language than children in lower profiles. [→ McWayne 2016](#mcwayne-2016)

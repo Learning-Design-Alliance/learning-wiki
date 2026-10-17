@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, I., & Bisiri, E."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Children exhibited creative and communicative ways of thinking and working in collaborative tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Journal analysis indicated children thought and worked creatively on collaborative tasks that supported their communicative behaviour, and developed attitudes of respect and valuing others' perspectives. [→ Papadopoulos 2020](#papadopoulos-2020)

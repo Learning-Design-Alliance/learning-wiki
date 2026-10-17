@@ -13,12 +13,14 @@ sources:
     title: Thillay A 2015
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Age correlates with detection performance: hits and d′ increase and false alarms decrease with age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Percentage of hits and d′ were positively correlated with age, and percentage of false alarms was negatively correlated with age. [→ Thillay A 2015](#thillay-a-2015)

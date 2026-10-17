@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2016
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Only the symbolic training group significantly improved in verbal (spoken) number comparison, indicating transfer beyond the Arabic format. [→ Honoré N 2016](#honore-n-2016)

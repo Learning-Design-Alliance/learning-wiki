@@ -17,7 +17,7 @@ sources:
 # Use two-stage gated screening: an early reading screen followed by several weeks of progress monitoring before confirming at-risk status
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends a screening approach in which an initial reading screen is followed by a period of progress monitoring to reduce false-positive identification of kindergartners and first graders. "Compton et al. (2010) found that the accuracy of identification of at-risk readers was improved when a reading screen administered at the beginning of first grade was followed by 5 weeks of progress monitoring using a word identification fluency task." This improves accuracy but delays intervention onset for all students.

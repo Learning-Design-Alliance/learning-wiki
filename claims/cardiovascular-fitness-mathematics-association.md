@@ -15,12 +15,14 @@ sources:
     author: "de Greeff, J. W.; Hartman, E.; Mullender-Wijnsma, M. J.; Bosker, R. J.; Doolaard, S.; & Visscher, C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cardiovascular fitness is positively associated with mathematics performance in primary school children regardless of socioeconomic status
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Multilevel analysis showed a positive association between cardiovascular fitness and mathematics (beta = 0.23) in the total group. [→ de Greeff 2014](#de-greeff-2014)

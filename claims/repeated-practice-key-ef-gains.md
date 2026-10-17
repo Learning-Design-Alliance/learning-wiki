@@ -15,12 +15,14 @@ sources:
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` EF gains depend on time spent doggedly working on the skills, pushing to improve, consistent with deliberate-practice accounts. [→ Diamond Adele 2012](#diamond-adele-2012)

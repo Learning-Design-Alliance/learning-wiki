@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2016
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Training effects on the non-symbolic number line are size-specific: non-symbolic training improves large numerosities, symbolic training small numerosities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The time × size × group interaction was significant, with the non-symbolic group improving on large numerosities and the symbolic group on small numerosities. [→ Honoré N 2016](#honore-n-2016)

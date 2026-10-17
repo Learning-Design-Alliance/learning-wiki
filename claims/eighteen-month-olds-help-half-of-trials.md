@@ -15,12 +15,14 @@ sources:
     author: Dahl A., Brownell C. A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Eighteen-month-olds help on about half of laboratory trials, often opting to play or observe instead of helping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Eighteen-month-olds' helping is unreliable: they help on about half of laboratory trials and often choose play or observation instead, whereas 30-month-olds are less likely to engage in unhelpful behaviors. [→ Dahl A. 2019](#dahl-a-2019)

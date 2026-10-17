@@ -15,12 +15,14 @@ sources:
     author: Martin Rebecca B., Cirino Paul T., Sharp Carla, Barnes Marcia
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Conceptual counting uniquely predicts fluency, computation, and applied problems but not story problems; procedural counting uniquely predicts only applied problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In models with demographics, domain general, and counting predictors, conceptual counting was a unique predictor for fluency, computation, and applied problems, whereas procedural counting was unique only for applied problems; neither was unique for story problems. [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

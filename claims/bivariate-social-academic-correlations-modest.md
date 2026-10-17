@@ -15,12 +15,14 @@ sources:
     author: "Arnold, D. H., Kupersmidt, J. B., Voegler-Lee, M. E., & Marshall, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bivariate correlations between social functioning and academic development are in the predicted direction but modest in strength
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Six of nine bivariate social-academic correlations were significant, and all were in the predicted direction but modest. [→ Arnold 2012](#arnold-2012)

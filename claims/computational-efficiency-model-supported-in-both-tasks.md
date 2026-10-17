@@ -15,12 +15,14 @@ sources:
     author: S.H.G. van der Ven, M. Straatemeier, B.R.J. Jansen, S. Klinkenberg, H.L.J. van der Maas
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Both a predominantly computational-strategy task and a retrieval-expected task show most support for the computational efficiency model of multiplication difficulty.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In both a task where children used predominantly computational strategies and a task where they were expected to rely mostly on retrieval, the data showed most support for the computational efficiency model. [→ S.H.G. van der Ven 2015](#shg-van-der-ven-2015)

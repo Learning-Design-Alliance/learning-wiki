@@ -15,12 +15,14 @@ sources:
     author: "Hammer, C. S., Hoff, E., Uchikoshi, Y., Gillanders, C., Castro, D., & Sandilos, L. E."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Simultaneous learners entered and exited Head Start with higher English vocabulary scores than sequential learners, while sequential learners had higher Spanish vocabularies. [→ Hammer 2014](#hammer-2014)

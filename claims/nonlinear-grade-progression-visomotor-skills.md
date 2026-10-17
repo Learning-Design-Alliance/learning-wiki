@@ -15,12 +15,14 @@ sources:
     author: "Capellini, S. A., Giaconi, C., & Germano, G. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Acquisition of visual perception, motor coordination and visual-motor integration does not progress linearly across grades 1 to 5
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Group mean ordering was non-linear for all three subtests, e.g. visoperception GI < GII < GIII < GV < GIV and visomotor integration GI < GII < GV < GIII < GIV. [→ Capellini 2017](#capellini-2017)

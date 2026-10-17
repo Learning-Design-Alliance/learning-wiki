@@ -15,12 +15,14 @@ sources:
     author: Döhla D and Heim S
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Developmental writing disorders affect about 7–15% of school-aged children, with boys more affected than girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prevalence of developmental writing disorders is about 7–15% among school-aged children, with boys more affected than girls. [→ Döhla D and Heim S 2016](#dohla-d-and-heim-s-2016)

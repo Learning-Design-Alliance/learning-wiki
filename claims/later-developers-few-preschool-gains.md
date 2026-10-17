@@ -15,12 +15,14 @@ sources:
     author: Montroy Janelle J., Bowles Ryan P., Skibbe Lori E., McClelland Megan M., Morrison Frederick J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # About 20% of children (later developers) make few self-regulation gains in preschool and lag peers by six months to a year and a half
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Roughly 20% of children showed few early gains, staying below 35% accuracy on the HTKS throughout preschool, with lags persisting into kindergarten. [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

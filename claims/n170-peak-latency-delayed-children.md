@@ -13,12 +13,14 @@ sources:
     title: Blackburne LK 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # N170 peak latency is later in children than adults, and only adults show a latency difference between reversed and typical letters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The N170 peak occurred later in children than adults, and this group difference interacted with letter condition; adults showed a later peak latency for reversed than normal letters, children did not. [→ Blackburne LK 2014](#blackburne-lk-2014)

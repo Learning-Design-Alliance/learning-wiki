@@ -15,12 +15,14 @@ sources:
     author: "Geary, D. C., Hoard, M. K., & Bailey, D. H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Counting-string intrusion errors are as common in LA-Severe Fact Retrieval children as in children with MLD, but decline across grades only for the MLD group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Counting-string intrusions were common and did not differ between LA-Severe Fact Retrieval and MLD groups; MLD children showed a large across-grade decrease while LA-Severe children did not. [→ Geary 2012](#geary-2012)

@@ -15,12 +15,14 @@ sources:
     author: "McWayne, C. M., Melzi, G., Limlingan, M. C., & Schick, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For English-speaking parents, only employment predicted profile membership; Spanish-speaking profiles differed by education, family structure, and child gender. [→ McWayne 2016](#mcwayne-2016)

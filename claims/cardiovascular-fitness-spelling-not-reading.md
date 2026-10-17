@@ -15,12 +15,14 @@ sources:
     author: "de Greeff, J. W.; Hartman, E.; Mullender-Wijnsma, M. J.; Bosker, R. J.; Doolaard, S.; & Visscher, C."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Cardiovascular fitness is positively associated with spelling but not with reading in primary school children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Multilevel analysis showed a positive association between cardiovascular fitness and spelling (beta = 0.16), but no association with reading. [→ de Greeff 2014](#de-greeff-2014)

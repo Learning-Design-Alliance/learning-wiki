@@ -13,12 +13,14 @@ sources:
     title: Schleepen TMJ 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Symbolic magnitude comparison explained an additional 11.2% of variance over nonsymbolic comparison (significant), while nonsymbolic comparison explained only 3.7% over symbolic (significant), indicating symbolic comparison contributed more. [→ Schleepen TMJ 2016](#schleepen-tmj-2016)

@@ -15,12 +15,14 @@ sources:
     author: "Kurvers, J., Van Hout, R., & Vallen, T."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Non-reading children and unschooled illiterate adults both differ significantly from low-educated literate adults on most print-awareness tasks, but do not differ from each other
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Both groups of non-readers differed significantly from literate adults in all tasks except the signs task, while the two non-reader groups did not differ significantly from each other in most tasks. [→ Kurvers 2009](#kurvers-2009)

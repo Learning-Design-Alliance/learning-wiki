@@ -17,7 +17,7 @@ sources:
 # Embed computational thinking across existing K-12 subject areas using everyday and data-based activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends embedding CT ideas in the subjects students already learn, since standalone computing courses may be infeasible for all schools. Suggested activities include having elementary students decompose daily tasks like brushing teeth into steps, second-language classes using cooking recipes to learn about algorithms, social studies students analyzing word frequencies in presidential inaugural speeches, and science students exploring greenhouse emission datasets. The stated aim is moving students "from being users of technology to producers of information technology."

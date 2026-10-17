@@ -15,18 +15,22 @@ sources:
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: treiman-rebecca-2013-2
     resource: "https://doi.org/10.1080/15475441.2013.812016"
     title: "Treiman Rebecca, Kessler Brett. (2013). Learning to Use an Alphabetic Writing System. Language Learning and Development. https://doi.org/10.1080/15475441.2013.812016"
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Prephonological spellers produce letter strings that statistically resemble the writing of their language rather than random strings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Brazilian prephonological spellers (mean age about 4;3) tended to use letters and digrams common in Portuguese words. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

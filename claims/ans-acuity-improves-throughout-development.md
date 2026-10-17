@@ -13,12 +13,14 @@ sources:
     title: Noël M-P and Rousselle L 2011
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # ANS acuity improves throughout development, from w = 0.525 at age 3 to w = 0.179 at age 6 and w = 0.108 in adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Number acuity (indexed by w) improves with age, and the article proposes this refinement may be stimulated by manipulation of exact numbers rather than only brain maturation. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

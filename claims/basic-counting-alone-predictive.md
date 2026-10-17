@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Watts, T. W., Duncan, G. J., Clements, D. H., Sarama, J. S., Wolfe, C., & Spitler, M. E."
     q: 2
     i: 2
+    kind: associational
+    rigour: 3
 ---
 
 # Basic counting competencies alone are considerably predictive of fifth grade mathematics achievement when modeled without advanced counting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` In Model 3, basic counting competencies alone predicted later mathematics achievement (β = 0.25, SE = 0.04, p < 0.001), with patterning, geometry, and measurement and data coefficients similar to earlier models. [→ Nguyen 2016](#nguyen-2016)

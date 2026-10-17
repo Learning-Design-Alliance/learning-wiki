@@ -15,12 +15,14 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Eleven-month-old infants learn a new object-sound mapping after a surprising core knowledge violation but not after an expected outcome
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Infants who saw the expected outcome of solidity or spatiotemporal continuity events failed to learn a hidden auditory property, whereas infants who saw the surprising outcome successfully learned it. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

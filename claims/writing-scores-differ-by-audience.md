@@ -15,18 +15,22 @@ sources:
     author: Kingir, S.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: kingir-2013-2
     resource: "https://doi.org/10.12973/eurasia.2013.922a"
     title: "Kingir, S. (2013). Using Non-traditional Writing as a Tool in Learning Chemistry. Eurasia Journal of Mathematics, Science & Technology Education, 9(2), 101-114. https://doi.org/10.12973/eurasia.2013.922a"
     author: Kingir, S.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Total writing scores differed significantly across audiences (d = 0.76), with all three audience groups differing significantly from each other; younger students > peers > teacher. [→ Kingir 2013](#kingir-2013)

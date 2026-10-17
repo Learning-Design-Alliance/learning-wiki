@@ -15,12 +15,14 @@ sources:
     author: "Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students' ability to understand and explain geometric phenomena improved in all conditions, with no difference between MACE and regular geometry lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` GAT scores increased over time in all conditions, but class differences in growth were not explained by the MACE lesson series or the PD program. [→ Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen 2019](#eveline-m-schoevers-paul-p-m-leseman-evelyn-h-kroesbergen-2019)

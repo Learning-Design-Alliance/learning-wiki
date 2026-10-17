@@ -15,12 +15,14 @@ sources:
     author: "Carames, C. N., Irwin, L. N., & Kofler, M. J."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Children with ADHD exhibit significantly lower visual-motor integration and math and written language achievement than Non-ADHD peers, but intact visual perception and reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Children with ADHD scored significantly lower than Non-ADHD children on visual-motor integration (d=1.16), math (d=0.80), and written language (d=1.21), with potentially lower motor coordination (d=0.51) and no visual perception difference (d=0.03). [→ Carames 2022](#carames-2022)

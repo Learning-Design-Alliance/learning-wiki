@@ -15,12 +15,14 @@ sources:
     author: "Tucker-Drob, Elliot M., & Harden, K. Paige"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Genes account for negligible variance in four-year-olds' math scores at very low SES but over 40% at very high SES
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the univariate model, the a′ parameter was significant, showing that genetic variance in math scores increases with SES, from negligible at very low SES to exceeding .30 units (45% of SES-independent variation) at very high SES. [→ Tucker-Drob 2011](#tucker-drob-2011)

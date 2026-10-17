@@ -13,6 +13,7 @@ generated:
 # Korean alphabet writing assessment for handwriting legibility
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A short-range copying assessment that measures preschool children's handwriting legibility by having them reproduce Korean alphabet letters in designated boxes; it was used by Seo S-M (2018).

@@ -15,12 +15,14 @@ sources:
     author: "van de Kamp, M.-T., Admiraal, W., & Rijlaarsdam, G."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In two cohorts of Grade-11 students, a 50-minute strategy instruction on divergent thinking produced positive effects on fluency, flexibility and originality compared with a regular brainstorm lesson. [→ van de Kamp 2016](#van-de-kamp-2016)

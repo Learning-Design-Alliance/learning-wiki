@@ -15,18 +15,22 @@ sources:
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: denton-carolyn-a-2012-2
     resource: "https://doi.org/10.1177/0022219412442155"
     title: "Denton Carolyn A. (2012). Response to Intervention for Reading Difficulties in the Primary Grades: Some Answers and Lingering Questions. Journal of Learning Disabilities. https://doi.org/10.1177/0022219412442155"
     author: Denton Carolyn A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Vaughn et al. (2006) reported significant differences favoring treatment groups in phonological and word-level skills but not in reading comprehension for first-grade ELLs. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

@@ -13,12 +13,14 @@ sources:
     title: Shogren 2007
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The pattern of predictive relationships for self-determination differed significantly depending on which measure of self-determination was used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Significant differences emerged in the pattern of predictive relationships depending on the measure of self-determination utilized. [→ Shogren 2007](#shogren-2007)

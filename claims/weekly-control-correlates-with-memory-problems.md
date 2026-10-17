@@ -15,12 +15,14 @@ sources:
     author: Hahn Elizabeth A. Ph.D., Lachman Margie E. Ph.D.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Lower weekly perceived control correlates with more everyday memory problems at the within-person level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` At the zero-order within-person level, lower weekly perceived control was correlated with more everyday memory problems (r = -0.21). [→ Hahn Elizabeth A. Ph.D. 2014](#hahn-elizabeth-a-phd-2014)

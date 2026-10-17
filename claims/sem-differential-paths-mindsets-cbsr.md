@@ -15,18 +15,22 @@ sources:
     author: "Compagnoni, M., Karlen, Y., & Maag Merki, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: compagnoni-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09190-y"
     title: "Compagnoni, M., Karlen, Y., & Maag Merki, K. (2019). Play it safe or play to learn: mindsets and behavioral self-regulation in kindergarten. Metacognition and Learning, 14, 291–314. https://doi.org/10.1007/s11409-019-09190-y"
     author: "Compagnoni, M., Karlen, Y., & Maag Merki, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` SEM showed a significant indirect relation of goal orientation with CBSR via EF (β = .13, p = .017) and no direct relation. [→ Compagnoni 2019](#compagnoni-2019)

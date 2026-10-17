@@ -15,12 +15,14 @@ sources:
     author: Döhla D and Heim S
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # RAN predicts reading deficits but not isolated writing deficits, whereas phonological awareness is worse in children with isolated writing deficits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` German sixth-graders with isolated writing deficits showed good RAN results but significantly worse PA results, unlike children with isolated reading deficits. [→ Döhla D and Heim S 2016](#dohla-d-and-heim-s-2016)

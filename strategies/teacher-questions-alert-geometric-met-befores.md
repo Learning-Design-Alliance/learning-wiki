@@ -17,7 +17,7 @@ sources:
 # Teacher follows learners' reasoning path and poses questions that alert learners to their geometric met-befores
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's concluding recommendation is that the teacher ask questions that make learners explicit about their geometric met-befores in order to arrive at the solution, and follow learners' reasoning path to observe their current layers of understanding. The authors state that 'the teacher did not ignore problematic met-befores and thus encouraged effective folding back and at the same time allowed thickening to occur'. This strategy positions teacher questioning as the lever for prompting folding back without prescribing solutions.

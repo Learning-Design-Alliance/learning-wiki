@@ -15,12 +15,14 @@ sources:
     author: Steacy LM, Fuchs D, Gilbert JK, Kearns DM, Elleman AM, Edwards AA
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Initial word reading skill was the only significant child-level predictor of exposures required for mastery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students 1SD above average in Sight Word Efficiency required 4.98 exposures versus 6.32 for students 1SD below average (γ000 = −.155, p < .001); phonemic decoding, working memory, phonological awareness, and rapid letter naming were not significant. [→ Steacy LM 2020](#steacy-lm-2020)

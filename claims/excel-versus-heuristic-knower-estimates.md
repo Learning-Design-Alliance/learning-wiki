@@ -15,12 +15,14 @@ sources:
     author: "Negen, J., Sarnecka, B. W., & Lee, M. D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The Excel sheet's knower-level estimates agree with a 2:1 heuristic on 38 of 56 children and are more lenient for larger set sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Using the modal posterior as a point estimate, the Excel sheet matched the heuristic's knower level for 38 of 56 children; of the remaining 18, in only 1 case was the Excel estimate a lower knower level than the heuristic's. [→ Negen 2011](#negen-2011)

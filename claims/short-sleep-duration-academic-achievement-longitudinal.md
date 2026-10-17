@@ -15,18 +15,22 @@ sources:
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: li-shenghui-2013-2
     resource: "https://doi.org/10.1371/journal.pone.0067928"
     title: "Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming. (2013). Sleep, School Performance, and a School-Based Intervention among School-Aged Children: A Sleep Series Study in China. PLoS ONE. https://doi.org/10.1371/journal.pone.0067928"
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Children with sleep duration <9 hours at follow-up had increased risk for poor academic achievement (OR = 1.20, p = 0.049). [→ Li Shenghui 2013](#li-shenghui-2013)

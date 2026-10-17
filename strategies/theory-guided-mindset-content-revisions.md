@@ -17,7 +17,7 @@ sources:
 # Theory-guided content revisions for adolescent mindset interventions: strategies over hard work, prosocial motives, peer norms, reactance, and self-persuasion
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Beyond A/B-tested changes, the redesign applied psychological theory in five ways: emphasizing "strategies," not just "hard work"; adding prosocial, beyond-the-self motives to address a culture of independence; aligning norms by showing that peers everywhere endorse growth; harnessing adolescent reactance by framing the message as resistance to adult labeling; and increasing writing opportunities for self-persuasion via saying-is-believing. These changes were not individually A/B tested but were built into the revised materials evaluated in Study 1.

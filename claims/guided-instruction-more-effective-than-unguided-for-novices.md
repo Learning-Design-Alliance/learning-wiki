@@ -15,12 +15,14 @@ sources:
     author: Fred Paas, Tamara van Gog, John Sweller
     q: 3
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A body of controlled-experiment research shows that relatively guided instructional procedures supported by cognitive load theorists are more effective, at least for novice students, than relatively unguided procedures used by advocates of discovery or inquiry learning. [→ Fred Paas 2010](#fred-paas-2010)

@@ -13,12 +13,14 @@ sources:
     title: Noël M-P and Rousselle L 2011
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # At all ages, children with developmental dyscalculia perform significantly lower than controls in magnitude comparison tasks using symbolic numbers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across studies of children aged 6 to 14, DD children show impaired symbolic number magnitude comparison relative to controls. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

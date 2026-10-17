@@ -15,18 +15,22 @@ sources:
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ineke-imbo-andré-vandierendonck-2008-2
     resource: "https://doi.org/10.1007/s00426-007-0112-8"
     title: "Ineke Imbo · André Vandierendonck. (2008). Effects of problem size, operation, and working-memory span on simple-arithmetic strategies: differences between children and adults? Psychological Research (2008) 72:331–346. https://doi.org/10.1007/s00426-007-0112-8"
     author: Ineke Imbo · André Vandierendonck
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval is faster and procedural execution more efficient on addition than on multiplication problems, and these operation effects persist across the primary school years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Retrieval latencies were faster on addition than multiplication problems, F(1, 57) = 6.2, with no grade × operation interaction, and procedural efficiencies were higher on addition, F(1, 57) = 52.5. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

@@ -15,12 +15,14 @@ sources:
     author: Day, Stephanie L.; Connor, Carol M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fall RRRP Part 1 predicted spring Applied Problems mathematics scores and gains, but did not predict spring Math Fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fall RRRP scores on neither Part 1 nor Part 2 predicted spring Math Fluency outcomes. [→ Day 2017](#day-2017)

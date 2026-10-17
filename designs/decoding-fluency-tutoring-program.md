@@ -17,6 +17,7 @@ sources:
 # Decoding/Fluency tutoring program: 20-week adaptive one-on-one intervention with six scripted lesson components
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A one-on-one decoding and fluency treatment delivered over 20 weeks using 10 books ordered by reading difficulty, with placement and lesson repetition/skipping adaptive to student performance. "Each Decoding/Fluency lesson consisted of six scripted components: (1) Sight Words, (2) Sounds, (3) Decodable Words, (4) Spelling, (5) Text Reading and Fluency, and (6) Sight Word Challenge." A Decoding/Fluency Placement Test of 125 items in five bands determined students' starting book. Year 2 added a seventh component, Sentence Read.

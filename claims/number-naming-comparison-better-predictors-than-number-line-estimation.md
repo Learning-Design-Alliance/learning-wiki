@@ -15,12 +15,14 @@ sources:
     author: "Praet, M., Titeca, D., Ceulemans, A., & Desoete, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the estimation-tasks regression, number comparison (p = .009) and number naming (p = .011) were significant predictors of kindergarten arithmetic but number line estimation was not (p = .199). [→ Praet 2013](#praet-2013)

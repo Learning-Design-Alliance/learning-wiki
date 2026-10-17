@@ -13,16 +13,20 @@ sources:
     title: Wu SS 2012
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wu-ss-2012-2
     title: Wu SS 2012 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Both SEMA subscales — numerical and situational anxiety — are equally negatively related to math achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After controlling for FSIQ, Numerical Processing Anxiety (ρ = −0.21) and Situational and Performance Anxiety (ρ = −0.19) were each significantly negatively correlated with the WIAT-II Math Composite. [→ Wu SS 2012](#wu-ss-2012)

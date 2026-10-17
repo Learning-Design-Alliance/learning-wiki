@@ -15,12 +15,14 @@ sources:
     author: Ritter, S.M.; van Baaren, R.B.; Dijksterhuis, A.J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Unconscious and conscious thought produce similar idea generation in number and average creativity (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Conscious and unconscious thinkers did not differ in the number of ideas listed or in the average creativity of their ideas in Experiment 1. [→ Ritter 2012](#ritter-2012)

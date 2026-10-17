@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hall-2012
-    title: "Hall, R., Greenberg, D., Laures-Gore, J., & Pae, H. K. (2012). The Relationship Between Expressive Vocabulary Knowledge and Reading Skills for Adult Struggling Readers. Journal of Research in Reading."
+    resource: "https://doi.org/10.1111/j.1467-9817.2012.01537.x"
+    title: "Hall, R., Greenberg, D., Laures-Gore, J., & Pae, H. K. (2012). The Relationship Between Expressive Vocabulary Knowledge and Reading Skills for Adult Struggling Readers. Journal of Research in Reading. [doi:10.1111/j.1467-9817.2012.01537.x](https://doi.org/10.1111/j.1467-9817.2012.01537.x)"
     author: "Hall, R., Greenberg, D., Laures-Gore, J., & Pae, H. K."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # BNT scores differ by word-reading level, with fifth-grade-level readers outperforming third-grade-level readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` A one-way ANOVA on BNT raw scores across third-, fourth-, and fifth-grade word-reading levels showed significant group differences, with the fifth-grade group outperforming the third-grade group. [→ Hall 2012](#hall-2012)
@@ -28,7 +31,7 @@ sources:
 
 ### Hall 2012
 
-Hall, R., Greenberg, D., Laures-Gore, J., & Pae, H. K. (2012). The Relationship Between Expressive Vocabulary Knowledge and Reading Skills for Adult Struggling Readers. Journal of Research in Reading.
+Hall, R., Greenberg, D., Laures-Gore, J., & Pae, H. K. (2012). The Relationship Between Expressive Vocabulary Knowledge and Reading Skills for Adult Struggling Readers. Journal of Research in Reading. [doi:10.1111/j.1467-9817.2012.01537.x](https://doi.org/10.1111/j.1467-9817.2012.01537.x)
 
 `q3 · i1` · `associational · r2`
 

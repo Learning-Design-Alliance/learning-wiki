@@ -15,12 +15,14 @@ sources:
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Exercise performed four hours, but not immediately, after encoding enhances 48-hour retention of picture-location associations and hippocampal pattern similarity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Compared to no-exercise controls, exercising four hours after encoding — but not immediately — enhanced retention of picture-location associations and hippocampal pattern similarity at 48-hour cued recall. [→ Basso Julia C. 2017](#basso-julia-c-2017)

@@ -15,18 +15,22 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: stahl-aimee-e-2019-2
     resource: "https://doi.org/10.1111/tops.12389"
     title: "Stahl Aimee E., Feigenson Lisa. (2019). Violations of Core Knowledge Shape Early Learning. Topics in Cognitive Science. https://doi.org/10.1111/tops.12389"
     author: Stahl Aimee E., Feigenson Lisa
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Impossible but not improbable events boost children's word learning, with step-like rather than graded performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Children who saw a 50% probable outcome failed to learn a novel word while children who saw a 0% impossible outcome succeeded. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

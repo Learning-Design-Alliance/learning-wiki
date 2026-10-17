@@ -15,12 +15,14 @@ sources:
     author: Montroy Janelle J., Bowles Ryan P., Skibbe Lori E., McClelland Megan M., Morrison Frederick J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children follow three distinct behavioral self-regulation trajectories (early, intermediate, and later developers) replicated across three samples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Growth mixture modeling identified a three-trajectory solution as best fitting in all three samples, distinguished mainly by timing of rapid gains. [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

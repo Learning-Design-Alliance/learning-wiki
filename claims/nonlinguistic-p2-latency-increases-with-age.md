@@ -15,12 +15,14 @@ sources:
     author: Karns Christina M., Isbell Elif, Giuliano Ryan J., Neville Helen J.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Nonlinguistic-probe P2 latency increases with age from 10 years into adulthood
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` P2 latency for nonlinguistic probes grew longer with age, from 193 ms in 10-year-olds to 209 ms in adults. [→ Karns Christina M. 2015](#karns-christina-m-2015)

@@ -15,18 +15,22 @@ sources:
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: haigh-sarah-m-2018-2
     resource: "https://doi.org/10.1007/s10803-018-3515-z"
     title: "Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M. (2018). Processing Speed is Impaired in Adults with Autism Spectrum Disorder, and Relates to Social Communication Abilities. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-018-3515-z"
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Processing speed in adults with ASD shows no significant association with SAS-II social adjustment, and only a near-significant positive association with GAF functioning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` The correlation between processing speed and SAS-II scores in the ASD group was not significant. [→ Haigh Sarah M. 2018](#haigh-sarah-m-2018)

@@ -15,12 +15,14 @@ sources:
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Childhood spatial activities are more predictive of spatial habits of mind than of spatial skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Multivariate regression coefficient comparison showed childhood activities predicted habits of mind more strongly than paper folding, while adolescent activity coefficients did not differ across outcomes. [→ Emily Grossnickle Peterson 2020](#emily-grossnickle-peterson-2020)

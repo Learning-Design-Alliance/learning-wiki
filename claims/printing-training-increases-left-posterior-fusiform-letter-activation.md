@@ -15,12 +15,14 @@ sources:
     author: James, K. H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Printing (sensori-motor) training, but not visual-only training, increases left posterior fusiform activation during letter perception in pre-school children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only after sensori-motor training did letters activate the left posterior fusiform more than similar stimuli, with a significant three-way interaction of Training Group, Imaging Day and Stimulus. [→ James 2010](#james-2010)

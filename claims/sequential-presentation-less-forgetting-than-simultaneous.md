@@ -15,12 +15,14 @@ sources:
     author: Ricker Timothy J., Cowan Nelson
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The rate of time-based forgetting was greater with simultaneous than sequential presentation, shown by a significant Presentation Method x Retention-Interval Duration interaction. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

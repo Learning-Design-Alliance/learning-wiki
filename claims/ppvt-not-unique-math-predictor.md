@@ -15,12 +15,14 @@ sources:
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vocabulary (PPVT) is not a significant unique predictor of preschool mathematics once EF and spatial skills are in the model, despite alone accounting for 41% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Model 2, the PPVT was not a significant predictor in the overall model (std. = 0.193, t = 1.69, p = .100), although entered alone at step 1 it accounted for 41% of variability in mathematics skills. [→ Verdine 2014](#verdine-2014)

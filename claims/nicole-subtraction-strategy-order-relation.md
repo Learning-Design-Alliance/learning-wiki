@@ -15,18 +15,22 @@ sources:
     author: Maike Schindler, Stephan Hußmann, Per Nilsson, Arthur Bakker
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: maike-schindler-2017-2
     resource: "https://doi.org/10.1007/s13394-017-0202-x"
     title: "Maike Schindler, Stephan Hußmann, Per Nilsson, Arthur Bakker. (2017). Sixth-grade students' reasoning on the order relation of integers as influenced by prior experience: an inferentialist analysis. Math Ed Res J 29:471–492. https://doi.org/10.1007/s13394-017-0202-x"
     author: Maike Schindler, Stephan Hußmann, Per Nilsson, Arthur Bakker
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' initial correct answers can mask reasoning based on a subtraction strategy not previously reported for integer order comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Nicole gave correct initial answers on all four comparison situations, yet her reasoning drew on subtraction and the minus sign as an operative sign rather than a predicative sign. [→ Maike Schindler 2017](#maike-schindler-2017)

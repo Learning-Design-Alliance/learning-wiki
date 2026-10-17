@@ -15,12 +15,14 @@ sources:
     author: Madelon van den Boer, Loes Bazen, Elise de Bree
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # For children and adolescents with dyslexia, the silent reading deficit is as large as or larger than the oral reading deficit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across both studies, individuals with dyslexia were impaired in silent reading at least as much as in oral reading, so generalizing oral scores to silent reading is not justified from adolescence onwards. [→ Madelon van den Boer 2022](#madelon-van-den-boer-2022)

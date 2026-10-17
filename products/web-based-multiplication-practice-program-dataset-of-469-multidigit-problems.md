@@ -13,6 +13,7 @@ generated:
 # Web-based multiplication practice program dataset of 469 multidigit problems
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A large-scale corpus of primary-school children's logged solutions to 469 multidigit multiplication problems collected through a web-based practice program and used for item-difficulty analysis.

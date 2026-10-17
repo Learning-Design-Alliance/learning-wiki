@@ -15,18 +15,22 @@ sources:
     author: Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wang-2016-2
     resource: "https://doi.org/10.1007/s10964-016-0620-1"
     title: "Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue. (2016). Does Everyone's Motivational Beliefs about Physical Science Decline in Secondary School?: Heterogeneity of Adolescents' Achievement Motivation Trajectories in Physics and Chemistry. Journal of Youth and Adolescence. https://doi.org/10.1007/s10964-016-0620-1"
     author: Wang, Ming-Te; Chow, Angela; Degol, Jessica Lauren; Eccles, Jacquelynne Sue
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Ninth grade marked a turning point where transitory motivation trajectories reversed direction, and these inconsistent trajectories were associated with lower AP enrollment and science performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Transitory Decreasing and Transitory Increasing groups showed self-concept and task value trajectories that reversed direction around ninth grade. [→ Wang 2016](#wang-2016)

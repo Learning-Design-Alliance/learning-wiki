@@ -15,12 +15,14 @@ sources:
     author: Piya-amornphan N, Santiworakul A, Cetthakrikul S, Srirug P.
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # The three physical activity indicators (active play, family/peers time, sedentary behavior) are all intercorrelated, with weak sedentary-behavior links
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` All three physical activity indicators were associated with each other in 1447 participants; sedentary behavior correlated weakly with active play (r = 0.081) and family/peers time (r = 0.088). [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

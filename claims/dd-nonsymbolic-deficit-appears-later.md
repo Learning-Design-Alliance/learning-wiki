@@ -13,12 +13,14 @@ sources:
     title: Noël M-P and Rousselle L 2011
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # DD children's deficit in non-symbolic number magnitude processing appears only in studies of older children (10 years and above), not younger ones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Only studies testing children aged 10 and above found significant DD-control differences in non-symbolic magnitude comparison; studies of 6- to 9-year-olds did not. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

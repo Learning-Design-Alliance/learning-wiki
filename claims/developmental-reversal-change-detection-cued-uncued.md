@@ -15,18 +15,22 @@ sources:
     author: "Plebanek, D. J., & Sloutsky, V. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: plebanek-2017-2
     resource: "https://doi.org/10.1177/0956797617693005"
     title: "Plebanek, D. J., & Sloutsky, V. M. (2017). Costs of Selective Attention: When Children Notice what Adults Miss. Psychological Science, 28(6), 723-732. https://doi.org/10.1177/0956797617693005"
     author: "Plebanek, D. J., & Sloutsky, V. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Adults detect changes in cued (task-relevant) shapes better than children, but children detect changes in uncued (task-irrelevant) shapes better than adults. [→ Plebanek 2017](#plebanek-2017)

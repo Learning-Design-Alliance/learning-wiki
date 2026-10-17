@@ -15,12 +15,14 @@ sources:
     author: "Hauser, T. U., Iannaccone, R., Walitza, S., Brandeis, D., & Brem, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Adolescents showed a significantly increased learning rate for negative RPEs in chosen objects compared to adults, while other model parameters did not differ significantly. [→ Hauser 2015](#hauser-2015)

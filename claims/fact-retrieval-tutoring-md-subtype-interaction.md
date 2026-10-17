@@ -15,12 +15,14 @@ sources:
     author: "Powell, S. R., Fuchs, L. S., Fuchs, D., Cirino, P. T., & Fletcher, J. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Tutoring condition interacts with MD subtype status in effects on third graders' fact retrieval skill
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The effect of fact retrieval tutoring on fact retrieval skill depends on whether students have MD alone or concurrent math and reading difficulties. [→ Powell 2009](#powell-2009)

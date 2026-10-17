@@ -15,12 +15,14 @@ sources:
     author: "Eugene Kennedy & Lawrence Smolinsky"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Structured observations showed students were frequently engaged in on-task behaviors during circle meetings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` During structured observations across 4 club meetings, the majority of observations were positive, including majority of students listening to or interacting with the mathematician (11/16) and involved in on-task behaviors with each other (12/16). [→ Eugene Kennedy & Lawrence Smolinsky 2016](#eugene-kennedy-lawrence-smolinsky-2016)

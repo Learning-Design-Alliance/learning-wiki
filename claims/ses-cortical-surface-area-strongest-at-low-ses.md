@@ -15,12 +15,14 @@ sources:
     author: Martha J. Farah
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Family income and parental education show regionally specific positive relationships with children's cortical surface area, strongest at the lowest SES levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Structural MRI studies of children and youth identify regionally specific differences in cortical surface area as a function of family income and parental education, with the SES-surface area relationship strongest at the lowest SES levels. [→ Martha J. Farah 2017](#martha-j-farah-2017)

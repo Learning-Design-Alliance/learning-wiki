@@ -15,12 +15,14 @@ sources:
     author: "Kurvers, J., Van Hout, R., & Vallen, T."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adult illiterates significantly outperform pre-reading children on grapheme knowledge and on writing-speech correspondence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Post hoc analyses revealed statistically significant differences between children and illiterate adults for graphemes and for writing-speech correspondence (p < 0.01). [→ Kurvers 2009](#kurvers-2009)

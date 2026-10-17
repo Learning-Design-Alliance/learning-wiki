@@ -15,18 +15,22 @@ sources:
     author: Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: vigna-giulia-2022-2
     resource: "https://doi.org/10.3390/brainsci12030373"
     title: "Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo. (2022). Dyscalculia in Early Adulthood: Implications for Numerical Activities of Daily Living. Brain Sciences. https://doi.org/10.3390/brainsci12030373"
     author: Vigna Giulia, Ghidoni Enrico, Burgio Francesca, Danesin Laura, Angelini Damiano, Benavides-Varela Silvia, Semenza Carlo
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Adults with developmental dyscalculia are impaired in everyday numerical tasks, particularly time estimation, measure, and money usage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Adults with DD scored significantly lower than controls on the NADL Informal Test total (r = -0.458, p = 0.001). [→ Vigna Giulia 2022](#vigna-giulia-2022)

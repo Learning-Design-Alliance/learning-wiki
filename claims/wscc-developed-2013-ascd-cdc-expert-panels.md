@@ -15,12 +15,14 @@ sources:
     author: Lewallen TC, Hunt H, Potts-Datema W, Zaza S, Giles W.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The WSCC model was developed in 2013 by ASCD and CDC expert panels to unify the Whole Child and coordinated school health approaches
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Through expert panel deliberations in spring 2013, ASCD and CDC developed the WSCC approach as a unified model building on CSH and the Whole Child approach. [→ Lewallen TC 2015](#lewallen-tc-2015)

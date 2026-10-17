@@ -15,12 +15,14 @@ sources:
     author: Pamela C. Snow
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Youth offenders show greatly elevated rates of undiagnosed language disorder
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Young people in contact with child protection and youth justice systems display greatly elevated risk for language disorder, overwhelmingly undiagnosed before legal contact. [→ Pamela C. Snow 2021](#pamela-c-snow-2021)

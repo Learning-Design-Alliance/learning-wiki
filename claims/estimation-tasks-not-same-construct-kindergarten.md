@@ -15,12 +15,14 @@ sources:
     author: "Praet, M., Titeca, D., Ceulemans, A., & Desoete, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The three estimation tasks do not represent the same construct in young children and should not be combined into composites
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Number naming and number comparison correlated significantly, but correlations between number line estimation (PAE) and the other two tasks were no longer significant after Bonferroni correction. [→ Praet 2013](#praet-2013)

@@ -15,12 +15,14 @@ sources:
     author: "Hoyniak, C. P., Petersen, I. T., McQuillan, M. E., Staples, A. D., & Bates, J. E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # A P3-like ERP component can be elicited from toddlers as young as 30 months using an active auditory Oddball task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Toddlers recognized the deviant target stimuli, responding to a greater percentage of target than frequent trials, and a P3-like component was elicited. [→ Hoyniak 2015](#hoyniak-2015)

@@ -13,12 +13,14 @@ sources:
     title: Honoré N 2016
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` After ten training sessions, only the symbolic training group showed a significant improvement in exact addition performance, with the time × group interaction significant. [→ Honoré N 2016](#honore-n-2016)

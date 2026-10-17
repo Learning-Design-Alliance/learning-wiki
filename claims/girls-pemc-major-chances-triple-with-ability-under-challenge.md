@@ -13,12 +13,14 @@ sources:
     title: Perez-Felkner L 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Girls' likelihood of majoring in PEMC is 3.1 times greater at the highest versus lowest value of 12th grade perceived mathematics ability under challenge (5.6% vs. 1.8%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among 12th grade girls, predicted probabilities of declaring a PEMC major rose from 1.8% at the most negative to 5.6% at the most positive perceptions of mathematics ability under challenge, all else equal — a 3.1-fold difference. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

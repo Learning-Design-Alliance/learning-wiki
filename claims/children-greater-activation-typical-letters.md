@@ -13,12 +13,14 @@ sources:
     title: Blackburne LK 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Children show greater activation for typical than reversed letters in left inferior parietal lobule, left superior temporal gyrus, and early visual regions — the opposite of the adult pattern
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In the whole-brain fMRI analysis, children showed greater activation for typical than reversed letters in left inferior parietal lobule, left superior temporal gyrus, and early visual regions, while adults had no activation for this contrast; children showed greater activation for reversed letters only in the middle frontal gyrus. [→ Blackburne LK 2014](#blackburne-lk-2014)

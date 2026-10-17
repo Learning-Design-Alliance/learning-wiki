@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Watts, T. W., Duncan, G. J., Clements, D. H., Sarama, J. S., Wolfe, C., & Spitler, M. E."
     q: 2
     i: 3
+    kind: associational
+    rigour: 3
 ---
 
 # Gains in counting and cardinality during the preschool year are associated with roughly half a standard deviation higher fifth grade mathematics achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Controlling for fall preschool mathematics achievement quartile, a one standard deviation increase in growth in counting and cardinality during preschool was associated with almost half a standard deviation increase in fifth grade mathematics achievement (β = 0.41). [→ Nguyen 2016](#nguyen-2016)

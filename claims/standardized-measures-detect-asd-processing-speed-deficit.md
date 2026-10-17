@@ -15,12 +15,14 @@ sources:
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The article attributes the discrepancy with inspection-time studies to methodology, arguing standardized measures are sensitive enough to detect processing speed deficits in ASD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors interpret the conflicting literature as methodological: inspection-time tasks may produce ceiling effects, and standardized measures better detect clinically-related deficits. [→ Haigh Sarah M. 2018](#haigh-sarah-m-2018)

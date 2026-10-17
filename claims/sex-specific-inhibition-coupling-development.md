@@ -15,18 +15,22 @@ sources:
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
   - id: pas-p-2021-2
     resource: "https://doi.org/10.1016/j.dcn.2021.101012"
     title: "Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M. (2021). Self-regulation in the pre-adolescent brain. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2021.101012"
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1`–`i2`
 
 ## Subclaims
 `q2 i1` During reactive inhibition, coupling between the right striatum and left motor cortex increased with age specifically for girls (r = 0.17), not boys (r = 0.01). [→ Pas P. 2021](#pas-p-2021)

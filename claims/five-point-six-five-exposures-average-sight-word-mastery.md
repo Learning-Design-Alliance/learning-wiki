@@ -15,12 +15,14 @@ sources:
     author: Steacy LM, Fuchs D, Gilbert JK, Kearns DM, Elleman AM, Edwards AA
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # At-risk first graders required an average of 5.65 exposures to master a high-frequency sight word in a daily timed reading activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` On average, students required 5.65 exposures for mastery of the average word, with variance at both the person and word level. [→ Steacy LM 2020](#steacy-lm-2020)

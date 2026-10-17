@@ -15,12 +15,14 @@ sources:
     author: "Roger E. Beaty & Paul J. Silvia"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Creative and conventional metaphors are anchored in different patterns of cognitive abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Creative metaphors rely more on executive processes (Gf, Gr), whereas conventional metaphors primarily draw on acquired vocabulary knowledge (Gc). [→ Roger E. Beaty & Paul J. Silvia 2013](#roger-e-beaty-paul-j-silvia-2013)

@@ -15,12 +15,14 @@ sources:
     author: Valiente Carlos, Eisenberg Nancy, Haugen Rg, Spinrad Tracy L., Hofer Claire, Liew Jeffrey, Kupfer Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` At T1 girls were higher on parent- and teacher-rated EC and observed EC than boys; at T3 children and teachers reported higher achievement for girls. [→ Valiente Carlos 2011](#valiente-carlos-2011)

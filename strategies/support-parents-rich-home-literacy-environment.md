@@ -17,7 +17,7 @@ sources:
 # Support parents in providing a rich home literacy environment during the early years to foster emergent reading skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 4 studies (4 quant-synthesis), `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 The article concludes that its findings "suggest potential for interventions which support parents in providing a rich home literacy environment to help their children with emergent reading skills". Because home literacy environment predicted reading readiness and, with family stresses, attention and behaviour, the authors point to the early years and public health as the locus for such support. The home literacy environment index comprised storybook exposure, frequency of story reading, number of children's books in the home and adult author checklist.

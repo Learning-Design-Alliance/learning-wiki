@@ -15,12 +15,14 @@ sources:
     author: James, K. H.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Printing training increases letter-evoked activation in left anterior fusiform gyrus of pre-school children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In left anterior fusiform, the sensori-motor group showed greater percentage signal change for letters post- versus pre-training (three-way interaction F(2,20) = 10.5, p < .001). [→ James 2010](#james-2010)

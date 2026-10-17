@@ -15,12 +15,14 @@ sources:
     author: "Fitamen, C., Blaye, A. & Camos, V."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Cue type, tracking mode, and age produced a significant three-way interaction on preschoolers' recall performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The ANCOVA with Age, Cue and Tracking as between-subjects factors revealed a significant three-way interaction (ηp² = 0.04), prompting separate analyses per age group. [→ Fitamen 2019](#fitamen-2019)

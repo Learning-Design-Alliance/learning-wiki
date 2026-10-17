@@ -15,12 +15,14 @@ sources:
     author: "Bruce, J., & Kim, H. K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Maltreated and nonmaltreated adolescents do not differ in P3 amplitude during the go/no go task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The main effect of group on P3 peak amplitude was not significant, although both groups showed a more positive P3 on no go than go trials. [→ Bruce 2022](#bruce-2022)

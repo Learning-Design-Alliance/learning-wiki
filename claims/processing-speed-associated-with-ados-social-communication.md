@@ -15,12 +15,14 @@ sources:
     author: Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Shaun M.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Slower processing speed in adults with ASD is associated with greater impairment on ADOS Communication and Reciprocal Social Interaction scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Processing speed composite scores correlated negatively with ADOS Communication and Reciprocal Social Interaction scores (r = -.34), and this association remained significant after controlling for IQ, age, and sex (r = -.23). [→ Haigh Sarah M. 2018](#haigh-sarah-m-2018)

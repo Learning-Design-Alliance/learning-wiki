@@ -13,12 +13,14 @@ sources:
     title: Blackburne LK 2014
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Adults, but not children, show a differential N170 response to typical versus reversed letters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The N170 group x condition interaction was significant; adults showed a more negative-going wave for reversed than typical letters, whereas children's conditions did not differ significantly. [→ Blackburne LK 2014](#blackburne-lk-2014)

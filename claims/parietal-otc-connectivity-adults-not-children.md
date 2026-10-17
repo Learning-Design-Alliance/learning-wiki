@@ -15,12 +15,14 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Functional connectivity between parietal cortex and occipito-temporal cortex during numerical processing is present in adults but absent in children, whose IFG instead correlates with both regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` BOLD ratio effects in left superior parietal cortex correlated with OTC in adults but not in children, with the group difference marginally significant. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

@@ -15,12 +15,14 @@ sources:
     author: "Marcovitch S., O'Brien M., Calkins S. D., Leerkes E. M., Weaver J. M., Levine D. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Earlier theory of mind does not uniquely predict later executive function at either transition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` ToM at 3 did not predict EF at 4 (β = −.10, p = .60), and ToM at 4 did not predict EF at 5 (β = −.12, p = .58). [→ Marcovitch S. 2014](#marcovitch-s-2014)

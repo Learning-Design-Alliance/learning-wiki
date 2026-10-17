@@ -15,12 +15,14 @@ sources:
     author: Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Home literacy environment and family stresses predict attention and behaviour at school entry
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Home literacy environment and family stresses accounted for 11% of variance in attention and behaviour, with family-risk adding no further variance. [→ Dilnot 2017](#dilnot-2017)

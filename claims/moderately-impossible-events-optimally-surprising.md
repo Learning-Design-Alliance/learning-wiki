@@ -15,12 +15,14 @@ sources:
     author: Stahl Aimee E., Feigenson Lisa
     q: 1
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The authors tentatively suggest their impossible events were minimally distinct from expected outcomes and highly interpretable, possibly making them optimally surprising in the sense of the Goldilocks effect. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

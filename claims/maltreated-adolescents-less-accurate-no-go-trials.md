@@ -15,18 +15,22 @@ sources:
     author: "Bruce, J., & Kim, H. K."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: bruce-2022-2
     resource: "https://doi.org/10.1017/S0954579420001819"
     title: "Bruce, J., & Kim, H. K. (2022). Behavioral and Electrophysiological Indices of Inhibitory Control in Maltreated Adolescents and Nonmaltreated Adolescents. Development and Psychopathology. https://doi.org/10.1017/S0954579420001819"
     author: "Bruce, J., & Kim, H. K."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Nonmaltreated adolescents are more accurate than maltreated adolescents on a go/no go task, with the group difference more pronounced on no go trials requiring inhibitory control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Nonmaltreated adolescents displayed a higher percentage of correct responses than maltreated adolescents on both go and no go trials, with the difference more pronounced on no go trials. [→ Bruce 2022](#bruce-2022)

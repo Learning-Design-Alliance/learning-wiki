@@ -13,6 +13,7 @@ generated:
 # Scale for Early Mathematics Anxiety (SEMA)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 SEMA is a 20-item, face-supported self-report questionnaire developed by Wu et al. to assess mathematics anxiety among second- and third-grade children.

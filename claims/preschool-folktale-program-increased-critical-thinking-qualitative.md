@@ -15,12 +15,14 @@ sources:
     author: "Papadopoulos, I., & Bisiri, E."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Preschoolers in a multiliteracies folk-tale program showed increased critical-thinking behaviors in qualitative journal data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Through qualitative analysis of researcher journals, children in the program appeared to acquire ways of dealing with familiar issues and to identify gaps in problematic situations, generating critical thinking skills. [→ Papadopoulos 2020](#papadopoulos-2020)

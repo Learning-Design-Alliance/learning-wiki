@@ -13,16 +13,20 @@ sources:
     title: Schleepen TMJ 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: schleepen-tmj-2016-2
     title: Schleepen TMJ 2016 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The association between nonsymbolic magnitude comparison and multiplication facts does not depend on trial type (OTS/ANS range or congruency) or numerical distance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` All four nonsymbolic trial types (congruent/incongruent, within/beyond subitizing range) correlated significantly and similarly with multiplication fact performance. [→ Schleepen TMJ 2016](#schleepen-tmj-2016)

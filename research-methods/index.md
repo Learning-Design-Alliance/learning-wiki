@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**346 entries** · 0 stable · 346 in review · 0 drafts
+**350 entries** · 0 stable · 350 in review · 0 drafts
 
 ---
 
@@ -46,6 +46,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### C {: #letter-c }
 
+* [C.Ind.Le Coding Scheme](cindle-coding-scheme.md) - The study's measurement approach applies the C.Ind.Le Coding Scheme to individual interviews of six-year-olds during an ecological and challenging graphic task.
 * [Causal mediation analysis of teacher practice in education randomized trials](causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials.md) - The report defines a mediator as \"an intermediate outcome that is measured after random assignment and that can be affected by the treatment.\" Its Figure 2.1 path model posits that intervention services improve teacher knowledge, which improves teacher practices, which improve student test scores, w
 * [Causal-chain analysis of built-environment effects](causal-chain-analysis-of-built-environment-effects.md) - The brief describes \"causal chains\" as a method environmental health researchers developed to evidence how building features affect people where direct causal proof is impractical.
 * [Chain of assumptions/inferences perspective within an argument-based approach to validity](chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity.md) - The article works within an argument-based approach to validity, in which the chain of assumptions and inferences connecting test scores to interpretations and uses is made explicit.
@@ -79,6 +80,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Design-Based Implementation Research (DBIR)](design-based-implementation-research-dbir.md) - DBIR is an emerging research-and-development approach the article positions as the process for co-developing its differentiated instruction practice framework.
 * [Design-based RCT analysis with grouped administrative data](design-based-rct-analysis-with-grouped-administrative-data.md) - The article recommends analyzing RCTs with grouped administrative data \"to help improve data access,\" using design-based estimators formed as group-level averages.
+* [Design-thinking methodology for improving and scaling psychological interventions](design-thinking-methodology-for-improving-and-scaling-psychological-interventions.md) - The article formalizes a methodology for preparing psychological interventions to be scaled, combining two design traditions.
 * [Digital learning platform process-data analysis](digital-learning-platform-process-data-analysis.md) - The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress.
 * [Digital shadowing as a framework for recording LLM behaviour under controlled conditions](digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions.md) - Digital shadowing is the article's organising methodological framework: unlike digital twins, shadows record system behaviour without feedback loops.
 * [DINA and DINO cognitive diagnostic models](dina-and-dino-cognitive-diagnostic-models.md) - The article identifies the DINA model and the DINO model as \"two typical theoretical diagnostic classification models\".
@@ -171,6 +173,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [HARMOGEN-R: a two-stage hybrid framework for AI rubric generation with reasoning-enhanced generation and low-temperature synthesis](harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g.md) - HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning) is a two-stage rubric generation pipeline.
 * [Hattie and Timperley's feedback model](hattie-and-timperleys-feedback-model.md) - The article adopts this theoretical framework to analyse the effectiveness of textual feedback.
+* [Hierarchical causal models representing both specific theories and framework theories](hierarchical-causal-models-representing-both-specific-theories-and-framework-theories.md) - The article argues that recently developed hierarchical causal models can capture the theory theory's claim that specific causal theories are embedded in more abstract framework theories.
 * [History-conditioned student simulation: two-component profile-generator-plus-simulator framework](history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram.md) - The article establishes the task of history-conditioned student simulation, where a model predicts a student's next tutoring-dialogue turn conditioned on their prior question-answering and dialogue history.
 * [Human-validated LLM reconstruction of syllabus assessment weights](human-validated-llm-reconstruction-of-syllabus-assessment-weights.md) - The pipeline converts syllabus PDFs to Markdown and uses an LLM through a university-managed API gateway to reconstruct final-grade weights for each assessment category, which feed the continuous GenAI-susceptibility treatment variable.
 * [Hybrid confidence framework integrating model-based confidence with dataset-derived aleatoric uncertainty via semantic heterogeneity](hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato.md) - The framework treats LLM grading unreliability as arising from two sources: epistemic uncertainty, estimated from model-based signals (verbalized, latent, and consistency-based confidence), and aleatoric uncertainty, estimated from the dataset.
@@ -180,6 +183,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Implementation research within impact studies of education interventions](implementation-research-within-impact-studies-of-education-interventions.md) - The guide is a practical resource for researchers who conduct implementation analyses as part of impact studies of education interventions.
 * [Improvement Rate Difference meta-analysis](improvement-rate-difference-meta-analysis.md) - This element is the meta-analysis itself: the authors synthesized \"Twenty-four single-case studies\" on aided AAC with individuals with ASD \"via an effect size measure, the Improvement Rate Difference (IRD).\" The IRD is used to quantify improvement across single-case designs, a literature base the au
+* [Inferentialist epistemology for analyzing students' mathematical reasoning](inferentialist-epistemology-for-analyzing-students-mathematical-reasoning.md) - The article develops an epistemological framework based on Brandom's inferentialism for studying students' reasoning on the order relation of integers.
 * [Information-based rapid-guessing threshold methods](information-based-rapid-guessing-threshold-methods.md) - The article introduces \"A pair of information-based methods\" for setting rapid-guessing thresholds.
 * [Ingredients method for educational cost analysis](ingredients-method-for-educational-cost-analysis.md) - The report applies the ingredients method (Belfield et al., 2018), a methodology that involves \"systematically identifying all the resources necessary for implementing\" a program, pricing each component, and calculating total and per-participant costs.
 * [Integrated analytical framework combining the technology-based learning framework with Pedaste et al.'s five-phase inquiry cycle](integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped.md) - The review adapts the technology-based learning framework (originated by Hsu et al., 2012, with six analytical dimensions: learning devices, learning domains, learning strategies, research methods, participants, and research issues) and integrates Pedaste et al.'s (2015) five-phase inquiry framework

@@ -15,12 +15,14 @@ sources:
     author: Emily Grossnickle Peterson, Adam B. Weinberger, David H. Uttal, Bob Kolvoord and Adam E. Green
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Spatial skills show null bivariate correlations with childhood and adolescent spatial activity participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Bivariate correlations between Paper Folding and activity participation were near zero for both childhood (r = 0.07) and adolescence (r = 0.10). [→ Emily Grossnickle Peterson 2020](#emily-grossnickle-peterson-2020)

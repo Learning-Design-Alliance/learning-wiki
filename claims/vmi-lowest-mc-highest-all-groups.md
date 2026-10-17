@@ -15,12 +15,14 @@ sources:
     author: "Capellini, S. A., Giaconi, C., & Germano, G. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Within every group, Friedman tests found significant differences among the three subtests, and all groups shared the performance standard MC > VP > VMI. [→ Capellini 2017](#capellini-2017)

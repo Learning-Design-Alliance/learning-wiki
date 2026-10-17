@@ -15,12 +15,14 @@ sources:
     author: Mizuno K, Tanaka M, Fukuda S, Imai-Matsumura K, Watanabe Y.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Verbal memory test scores correlate positively with intrinsic academic motivation scores in junior high but not elementary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Digit span forward score correlated positively with intrinsic academic motivation score in junior high students (r = .262), and digit span forward and kana comprehension scores intercorrelated (r = .182). [→ Mizuno K 2011](#mizuno-k-2011)

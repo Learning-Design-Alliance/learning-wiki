@@ -15,12 +15,14 @@ sources:
     author: Reigal, R. E., Hernández-Mendo, A., Juárez-Ruiz de Mier, R., and Morales-Sánchez, V.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Maximum oxygen consumption correlated significantly with all cognitive measures and was the fitness measure that best correlated with cognitive functioning. [→ Reigal 2020](#reigal-2020)

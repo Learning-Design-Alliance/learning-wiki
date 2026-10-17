@@ -15,12 +15,14 @@ sources:
     author: Armitage, KL; Suddendorf, T; Bulley, A; Bastos, APM; Taylor, AH; Redshaw, J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Most 3-year-olds deployed a demonstrated external marking strategy, but none modified it to solve a conceptually similar transfer task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Three-year-olds adopted the demonstrated reminder-setting strategy in the initial test phase but failed to adapt it for the structurally distinct transfer task. [→ Armitage 2023](#armitage-2023)

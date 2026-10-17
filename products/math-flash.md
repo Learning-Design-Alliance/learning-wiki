@@ -13,6 +13,7 @@ generated:
 # Math Flash
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A computer-assisted mathematics practice program that presents addition and subtraction facts for timed retrieval practice with visual representations, adaptive pacing, corrective repetition, feedback, and rewards.

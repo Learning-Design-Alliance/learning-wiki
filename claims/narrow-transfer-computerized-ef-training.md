@@ -15,12 +15,14 @@ sources:
     author: Diamond Adele
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Training on working memory improves untrained working-memory tasks but not inhibition, and probably not reasoning; reasoning training does not improve working memory or processing speed. [→ Diamond Adele 2012](#diamond-adele-2012)

@@ -15,18 +15,22 @@ sources:
     author: Kim E, Park Y-K, Byun Y-H, Park M-S, Kim H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: kim-e-2014-2
     resource: "https://doi.org/10.12965/jer.140147"
     title: "Kim E, Park Y-K, Byun Y-H, Park M-S, Kim H. (2014). Influence of aging on visual perception and visual motor integration in Korean adults. Journal of Exercise Rehabilitation 10(4):245-250. https://doi.org/10.12965/jer.140147"
     author: Kim E, Park Y-K, Byun Y-H, Park M-S, Kim H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Age, gender, and presence of diseases significantly affect K-DTVP-2 score, while only age significantly affects VMI-3R score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Multiple regression identified age, gender, and presence of diseases as significant predictors of K-DTVP-2 score. [→ Kim E 2014](#kim-e-2014)

@@ -13,6 +13,7 @@ generated:
 # Parental Engagement of Families from Latino Backgrounds / Participación Educativa de Familias Latinas (PEFL)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A 65-item Spanish- or English-language parent-report assessment developed by McWayne et al. to measure culturally contextualized home- and school-based engagement among low-income Latino families of Head Start preschool children.

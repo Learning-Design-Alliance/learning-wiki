@@ -15,12 +15,14 @@ sources:
     author: "Powell, S. R., Fuchs, L. S., Fuchs, D., Cirino, P. T., & Fletcher, J. M."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Adding conceptual instruction to fact retrieval practice yields no additional fact retrieval benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Across MD subtypes, fact retrieval practice with or without conceptual instruction produced comparable fact retrieval outcomes (ES = 0.08). [→ Powell 2009](#powell-2009)

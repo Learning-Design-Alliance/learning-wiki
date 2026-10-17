@@ -15,12 +15,14 @@ sources:
     author: Mary C. English, Anastasia Kitsantas
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Research-driven guidelines exist for promoting student responsibility for learning in PBL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article presents research-driven guidelines on how to promote student responsibility for learning in PBL, alongside its theoretical model. [→ Mary C. English 2013](#mary-c-english-2013)

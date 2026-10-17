@@ -15,12 +15,14 @@ sources:
     author: "Capellini, S. A., Giaconi, C., & Germano, G. D."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` In group GV, VMI correlated with MC (r = 0.748, p = 0.013) and VP correlated with dysgraphia classification (r = 0.643, p = 0.045) under Bonferroni correction (p < 0.0008). [→ Capellini 2017](#capellini-2017)

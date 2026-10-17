@@ -15,12 +15,14 @@ sources:
     author: Salthouse, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across assessment approaches for older adults' independent living, the strongest relations were found with novel problem-solving rather than knowledge measures. [→ Salthouse 2012](#salthouse-2012)

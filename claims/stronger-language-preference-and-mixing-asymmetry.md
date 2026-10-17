@@ -15,12 +15,14 @@ sources:
     author: "Bernardini, P., & Schlyter, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Children with uneven bilingual development prefer the stronger language and mix sentence-internally mainly in weaker-language interactions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` With the Swedish interlocutor, children spoke Swedish almost 100% of the time and mixed almost not at all; in Romance-language interactions, over 50% of utterances were in Swedish and mixing was relatively frequent. [→ Bernardini 2004](#bernardini-2004)

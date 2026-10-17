@@ -15,18 +15,22 @@ sources:
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: cantlon-jessica-f-2009-2
     resource: "https://doi.org/10.1162/jocn.2008.21159"
     title: "Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A. (2009). The Neural Development of an Abstract Concept of Number. Journal of Cognitive Neuroscience. https://doi.org/10.1162/jocn.2008.21159"
     author: Cantlon Jessica F., Libertus Melissa E., Pinel Philippe, Dehaene Stanislas, Brannon Elizabeth M., Pelphrey Kevin A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In a number comparison task, adults outperform 6- to 7-year-old children in accuracy, Arabic numerals are easier than dot arrays, and easy 0.5 ratios are easier than difficult 0.8 ratios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Adults were more accurate than children, Arabic numerals more accurate than dot arrays, and 0.5 ratio trials more accurate than 0.8 ratio trials. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

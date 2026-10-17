@@ -15,12 +15,14 @@ sources:
     author: Lewallen TC, Hunt H, Potts-Datema W, Zaza S, Giles W.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The WSCC model explicitly incorporates the five social determinants of health and aligns health and education sector goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The WSCC approach incorporates all five place-based determinants of health identified by CDC and WHO—economic stability, education, social and community context, health and health care, and neighborhood and built environment—and acknowledges their impact on children's cognitive, physical, and emotional development. [→ Lewallen TC 2015](#lewallen-tc-2015)

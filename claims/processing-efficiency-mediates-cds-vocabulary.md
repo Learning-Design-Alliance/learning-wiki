@@ -15,12 +15,14 @@ sources:
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Processing efficiency at 19 months mediates the relation between child-directed speech and 24-month vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Including 19-month processing efficiency in the model reduced the path coefficient from child-directed speech to vocabulary from 12.61 to 7.41, with a significant bootstrap indirect effect (95% CI 0.44 to 13.61); the final model explained 47% of vocabulary variance. [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

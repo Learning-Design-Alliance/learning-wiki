@@ -15,12 +15,14 @@ sources:
     author: "Grosbras, M.-H., Ross, P. D. & Belin, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The ability to identify basic emotions from non-linguistic vocal bursts improves significantly with age from 5 to 17 years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mixed-model logistic regression on forced-choice labeling of affective vocal bursts shows a highly significant effect of age on recognition accuracy in children and adolescents aged 5–17. [→ Grosbras 2018](#grosbras-2018)

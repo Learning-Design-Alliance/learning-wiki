@@ -15,12 +15,14 @@ sources:
     author: Ritter, S.M.; van Baaren, R.B.; Dijksterhuis, A.J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Unconscious thinkers outperform conscious thinkers and immediate responders in selecting their most creative idea (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, participants in the unconscious thought condition selected their most creative idea in accordance with trained raters more often than conscious thinkers and immediate responders. [→ Ritter 2012](#ritter-2012)

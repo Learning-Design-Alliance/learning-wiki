@@ -15,18 +15,22 @@ sources:
     author: Treiman Rebecca, Kessler Brett
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: treiman-rebecca-2013-2
     resource: "https://doi.org/10.1080/15475441.2013.812016"
     title: "Treiman Rebecca, Kessler Brett. (2013). Learning to Use an Alphabetic Writing System. Language Learning and Development. https://doi.org/10.1080/15475441.2013.812016"
     author: Treiman Rebecca, Kessler Brett
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Use of consonantal context in vowel spelling develops gradually, emerging around age 8 and peaking around age 11
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` In a nonword spelling study of U.S. children aged about 6 to 13, influences of the following consonant on vowel spelling appeared from around age 8 and reached a maximum around age 11. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

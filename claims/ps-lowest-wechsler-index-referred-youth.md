@@ -15,12 +15,14 @@ sources:
     author: "Braaten EB, Ward AK, Forchelli G, Vuijk PJ, Cook NE, McGuinness P, Lee BA, Samkavitz A, Lind H, O'Keefe SM, Doyle AE"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Processing speed is the most impaired Wechsler cognitive domain among youth referred for neuropsychiatric evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Among referred youth, the Processing Speed Index was significantly more impaired than Working Memory and General Ability indices after controlling for age, sex, and medication. [→ Braaten EB 2020](#braaten-eb-2020)

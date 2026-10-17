@@ -15,12 +15,14 @@ sources:
     author: "Maura Varley Gutiérrez, Craig Willey, & Lena L. Khisty"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Community-based mathematical investigations gave students confidence to use mathematics for social change
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students expressed confidence in their ability to collect, organize, and represent data to inform and convince others of community problems, linking mathematics to transformative resistance. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

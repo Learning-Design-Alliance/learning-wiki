@@ -15,12 +15,14 @@ sources:
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Children with comorbid RD+MD show greater neuropsychological impairment than children with either disorder alone on seven of the ten constructs measured. [→ Willcutt 2013](#willcutt-2013)

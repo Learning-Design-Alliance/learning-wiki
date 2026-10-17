@@ -13,6 +13,7 @@ generated:
 # CSTA/ISTE operational definition of computational thinking
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A framework developed by the Computer Science Teachers Association and International Society for Technology in Education that defines nine computational-thinking concepts and capabilities for integrating computational thinking across K–12 subjects.

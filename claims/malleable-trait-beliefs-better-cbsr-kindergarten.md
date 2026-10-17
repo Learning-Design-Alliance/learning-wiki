@@ -15,12 +15,14 @@ sources:
     author: "Compagnoni, M., Karlen, Y., & Maag Merki, K."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Kindergarteners who believe traits are malleable show better classroom behavioral self-regulation than children with a stable trait belief
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Analysis of variance showed a significant main effect of trait beliefs on CBSR with a small-to-medium effect size (partial η² = .034), with no main effect of goal orientation. [→ Compagnoni 2019](#compagnoni-2019)

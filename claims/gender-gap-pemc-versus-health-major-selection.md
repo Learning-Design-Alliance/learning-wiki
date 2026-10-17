@@ -13,12 +13,14 @@ sources:
     title: Perez-Felkner L 2017
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Men have a 3.60 times higher risk than women of majoring in PEMC sciences and a 0.74 times lower risk of majoring in health fields, with predicted PEMC probabilities of 14.9% for men versus 4.7% for women
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Gender strongly influences choice of PEMC and health science majors in opposite directions: men's risk of majoring in PEMC is 3.60 times women's, and their risk of majoring in health fields is 0.74 times women's; predicted PEMC probabilities are 14.9% (men) versus 4.7% (women). [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

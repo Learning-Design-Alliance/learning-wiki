@@ -15,18 +15,22 @@ sources:
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: einziger-tzlil-2021-2
     resource: "https://doi.org/10.3390/brainsci11010100"
     title: "Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea. (2021). \"My Brain Can Stop\": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence. Brain Sciences, 11(1), 100. https://doi.org/10.3390/brainsci11010100"
     author: Einziger Tzlil, Ben-Shachar Mattan S., Devor Tali, Shmueli Michael, Auerbach Judith G., Berger Andrea
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Lower temperamental effortful control at 36 months directly predicts reduced N2 amplitude in adolescence, above and beyond ADHD symptoms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` Child effortful control at 36 months was significantly associated with N2 amplitude at 17 years, with lower effortful control related to reduced (less negative) amplitude. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

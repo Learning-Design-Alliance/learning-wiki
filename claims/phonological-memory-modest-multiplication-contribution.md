@@ -13,16 +13,20 @@ sources:
     title: Schleepen TMJ 2016
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: schleepen-tmj-2016-2
     title: Schleepen TMJ 2016 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Only the nonword repetition task accounted for unique variance in multiplication facts among phonological measures, but this contribution was small (0.7%) and its correlation was not significant after FDR correction. [→ Schleepen TMJ 2016](#schleepen-tmj-2016)

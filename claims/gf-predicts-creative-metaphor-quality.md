@@ -15,12 +15,14 @@ sources:
     author: "Roger E. Beaty & Paul J. Silvia"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fluid intelligence strongly predicted creative metaphor quality in a structural equation model (β = .45, p = .017). [→ Roger E. Beaty & Paul J. Silvia 2013](#roger-e-beaty-paul-j-silvia-2013)

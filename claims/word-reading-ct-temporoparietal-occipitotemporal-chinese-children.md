@@ -15,12 +15,14 @@ sources:
     author: Xia Zhichao, Zhang Linjun, Hoeft Fumiko, Gu Bin, Gong Gaolang, Shu Hua
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In Chinese children aged 10-12, oral word reading efficiency is positively correlated with cortical thickness in the LSTG, LITG, LSMG and RSTG
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children who performed better in word reading had thicker cortex in the right superior temporal gyrus, left inferior temporal gyrus, left superior temporal gyrus and left supramarginal gyrus, controlling for age, gender and performance IQ. [→ Xia Zhichao 2018](#xia-zhichao-2018)

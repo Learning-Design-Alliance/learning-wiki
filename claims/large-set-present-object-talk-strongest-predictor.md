@@ -15,18 +15,22 @@ sources:
     author: Gunderson Elizabeth A., Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gunderson-elizabeth-a-2011-2
     resource: "https://doi.org/10.1111/j.1467-7687.2011.01050.x"
     title: "Gunderson Elizabeth A., Levine Susan C. (2011). Some types of parent number talk count more than others: Relations between parents' input and children's cardinal-number knowledge. Developmental Science. https://doi.org/10.1111/j.1467-7687.2011.01050.x"
     author: Gunderson Elizabeth A., Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parent number talk about large sets (4–10) of present objects predicts children's cardinal-number knowledge more robustly than talk about small sets (1–3)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a model with SES, small-set and large-set present-object talk as predictors, large-set talk remained significant (β=.37, p<.05) while small-set talk did not (β=.07, n.s.). [→ Gunderson Elizabeth A. 2011](#gunderson-elizabeth-a-2011)

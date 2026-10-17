@@ -17,6 +17,7 @@ sources:
 # A five-phase lesson structure for metacognitive strategy instruction on divergent thinking
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The intervention lesson followed a structured sequence of five phases: (1) orientation on metacognitive knowledge activating prior conceptions of creativity, (2) metacognitive strategy instruction exemplifying divergent thinking with visual examples, (3) divergent thinking strategy instruction explaining and exercising the twelve strategies, (4) application through independent use of strategies, and (5) evaluation through reflection and prediction. The authors state that "the specific order of lesson phases was based on studies about the structuring of instructional-learning episodes," grounding the sequence in instructional design theory.

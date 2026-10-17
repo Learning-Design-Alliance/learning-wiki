@@ -15,12 +15,14 @@ sources:
     author: S.H.G. van der Ven, M. Straatemeier, B.R.J. Jansen, S. Klinkenberg, H.L.J. van der Maas
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Primary school children's multiplication ability falls into three groups: single digit problem solvers, multidigit problem solvers, and high performers.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Child analyses of multiplication ability indicated three groups: single digit problem solvers, multidigit problem solvers, and high performers. [→ S.H.G. van der Ven 2015](#shg-van-der-ven-2015)

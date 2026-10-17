@@ -13,12 +13,14 @@ sources:
     title: Reigal RE 2020
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Commissions scores do not differ significantly between fitness clusters in either gender
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The d2 commissions (error) measure showed no significant difference between low- and high-fitness clusters for boys or girls. [→ Reigal RE 2020](#reigal-re-2020)

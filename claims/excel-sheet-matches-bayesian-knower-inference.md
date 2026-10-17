@@ -15,12 +15,14 @@ sources:
     author: "Negen, J., Sarnecka, B. W., & Lee, M. D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The Excel sheet's knower-level inference closely matches fully Bayesian inference, with no discrepancies in posterior maxima
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On an independent data set of 56 children, the Excel approximation's posterior over knower levels differs from the full Bayesian posterior by a mean absolute difference of 0.2%, with no discrepancies in maxima. [→ Negen 2011](#negen-2011)

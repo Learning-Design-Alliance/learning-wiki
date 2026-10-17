@@ -15,12 +15,14 @@ sources:
     author: "Hauser, T. U., Iannaccone, R., Walitza, S., Brandeis, D., & Brem, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A risk-sensitive reinforcement learning model with anticorrelated valuation fit reversal learning behavior better than standard models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The RSAV model clearly outperformed the Rescorla-Wagner and risk-sensitive models across all subjects and in both groups separately, with exceedance probability 1. [→ Hauser 2015](#hauser-2015)

@@ -13,12 +13,14 @@ sources:
     title: Shogren 2007
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Teachers rated students' capacity for self-determination differently by level of cognitive impairment, but rated opportunities for self-determination similarly across impairment levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers viewed students' capacity for self-determination differently based on level of cognitive impairment, but did not view students' opportunities for self-determination differently. [→ Shogren 2007](#shogren-2007)

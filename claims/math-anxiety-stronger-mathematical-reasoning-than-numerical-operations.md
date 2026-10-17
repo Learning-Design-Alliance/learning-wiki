@@ -13,16 +13,20 @@ sources:
     title: Wu SS 2012
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: wu-ss-2012-2
     title: Wu SS 2012 (2)
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Math anxiety significantly and negatively correlated with Mathematical Reasoning (β = −0.34, p < 0.001) but not Numerical Operations (β = −0.18, p = 0.17) after controlling for trait anxiety and FSIQ. [→ Wu SS 2012](#wu-ss-2012)

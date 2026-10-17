@@ -15,18 +15,22 @@ sources:
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: li-shenghui-2013-2
     resource: "https://doi.org/10.1371/journal.pone.0067928"
     title: "Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming. (2013). Sleep, School Performance, and a School-Based Intervention among School-Aged Children: A Sleep Series Study in China. PLoS ONE. https://doi.org/10.1371/journal.pone.0067928"
     author: Li Shenghui, Arguelles Lester, Jiang Fan, Chen Wenjuan, Jin Xingming, Yan Chonghuai, Tian Ying, Hong Xiumei, Qian Ceng, Zhang Jun, Wang Xiaobin, Shen Xiaoming
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In the intervention trial, short sleep prevalence fell sharply in delayed-start schools (intervention 2: 40.47% to 11.87%) while sufficient-sleep prevalence remained low overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Post-intervention, short sleep duration prevalence was 44.27% in control, 22.88% in intervention 1, and 11.87% in intervention 2 schools. [→ Li Shenghui 2013](#li-shenghui-2013)

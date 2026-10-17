@@ -15,18 +15,22 @@ sources:
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: diamond-adele-2011-2
     resource: "https://doi.org/10.1126/science.1204529"
     title: "Diamond Adele, Lee Kathleen. (2011). Interventions shown to Aid Executive Function Development in Children 4–12 Years Old. Science. https://doi.org/10.1126/science.1204529"
     author: Diamond Adele, Lee Kathleen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Traditional Tae-Kwon-Do training produces greater gains than standard physical education on all studied dimensions of EFs, with gains greatest for older children and boys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Children receiving traditional Tae-Kwon-Do showed greater EF gains than children in standard physical education on all dimensions studied, generalizing across contexts and measures. [→ Diamond Adele 2011](#diamond-adele-2011)

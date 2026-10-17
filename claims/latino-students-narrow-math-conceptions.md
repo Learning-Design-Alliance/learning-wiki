@@ -15,12 +15,14 @@ sources:
     author: "Maura Varley Gutiérrez, Craig Willey, & Lena L. Khisty"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Urban Latina/o students largely defined mathematics narrowly as numbers and success via external measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students' perceptions of mathematics reflected constricting institutional arrangements, gravitating toward a numbers-focused view and external measures like grades and test scores. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

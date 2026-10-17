@@ -15,12 +15,14 @@ sources:
     author: Ventura, Ana Clara
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Children's communication of feelings of difficulty during task engagement was significantly associated with deployment of metacognition and self-regulation, except planning. [→ Ventura 2022](#ventura-2022)

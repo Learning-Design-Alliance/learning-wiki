@@ -15,18 +15,22 @@ sources:
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: verdine-2014-2
     resource: "https://doi.org/10.1016/j.jecp.2014.02.012"
     title: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K. (2014). Contributions of Executive Function and Spatial Skills to Preschool Mathematics Achievement. Journal of Experimental Child Psychology, 126, 37-51. https://doi.org/10.1016/j.jecp.2014.02.012"
     author: "Verdine, B. N., Irwin, C. M., Golinkoff, R. M., & Hirsh-Pasek, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the final model, the FIST and Tap Test together accounted for 43% of variance in WIAT scores (adj. R2 = .433), with the Tap Test a significant predictor (std. = .270, p = .010) and the FIST not (std. = .189, p = .093). [→ Verdine 2014](#verdine-2014)

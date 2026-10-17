@@ -15,12 +15,14 @@ sources:
     author: Weisleder Adriana, Fernald Anne
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Child-directed speech predicts real-time language-processing efficiency at 19 and 24 months and explains gains in efficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Amount of child-directed speech was correlated with processing efficiency at 19 months (r = 0.44) and 24 months (r = 0.51), and predicted gains in efficiency from 19 to 24 months (r = 0.47 controlling for 19-month processing). [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

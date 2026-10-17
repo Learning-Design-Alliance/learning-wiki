@@ -17,7 +17,7 @@ sources:
 # Explore curricula and interventions that build on or enhance children's non-symbolic numerical knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 10 claims (7 for, 3 mixed) · 3 studies (2 associational, 1 causal), `q3` · 0 of 3 report an effect size · 10 claims rest on one study
 
 ## Description
 The authors recommend that, because non-symbolic arithmetic performance predicts kindergarten mathematics success and children find such problems engaging and motivating, training studies should explore the educational benefits of curricula that build explicitly on non-symbolic numerical knowledge and the effectiveness of interventions that enhance children's non-symbolic numerical abilities. They also note that "socio-economic differences in numerical symbol learning can be erased by targeted preschool interventions", suggesting achievement gaps in school mathematics may be eliminable.

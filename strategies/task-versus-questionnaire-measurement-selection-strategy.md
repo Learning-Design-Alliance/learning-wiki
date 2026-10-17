@@ -17,7 +17,7 @@ sources:
 # Match assessment tool to research question: task-based measures for within-person change, questionnaires for stable between-person differences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Because the same adolescents showed curvilinear growth on the Stop Signal Task but no detectable growth on the parent-reported EATQ-R, the authors recommend that "questionnaire-based assessments may be most useful when the goal is to capture stable between-person individual differences," while task-based assessments are preferable for examining within-person changes from acute manipulations or developmental change over time. Tasks offer a larger score range, making them more sensitive to detecting change and individual differences in change.

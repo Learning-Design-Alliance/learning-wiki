@@ -15,12 +15,14 @@ sources:
     author: Pas P., Hulshoff Pol H.E., Raemaekers M., Vink M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants slowed responses more with increasing stop-signal probability (F(2, 638) = 248.71, p < 0.001), regardless of sex. [→ Pas P. 2021](#pas-p-2021)

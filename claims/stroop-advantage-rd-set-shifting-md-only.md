@@ -15,12 +15,14 @@ sources:
     author: "Willcutt, E. G., Petrill, S. A., Wu, S., Boada, R., DeFries, J. C., Olson, R. K., & Pennington, B. F."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Groups with reading difficulties perform significantly better than controls on the Stroop interference measure, and only math groups show set-shifting weakness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Only groups with math difficulties showed significant weakness on set shifting, and groups with reading difficulties outperformed controls on Stroop interference. [→ Willcutt 2013](#willcutt-2013)

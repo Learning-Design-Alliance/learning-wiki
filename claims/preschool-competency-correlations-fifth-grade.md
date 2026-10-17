@@ -15,12 +15,14 @@ sources:
     author: "Nguyen, T., Watts, T. W., Duncan, G. J., Clements, D. H., Sarama, J. S., Wolfe, C., & Spitler, M. E."
     q: 2
     i: 3
+    kind: associational
+    rigour: 3
 ---
 
 # Counting and cardinality shows the highest correlation with fifth grade mathematics achievement, followed by patterning, geometry, and measurement and data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Counting and cardinality correlated r = 0.62 and patterning r = 0.51 with overall fifth grade achievement; geometry (r = 0.43) and measurement and data (r = 0.34) correlations were lower but positive and significant. [→ Nguyen 2016](#nguyen-2016)

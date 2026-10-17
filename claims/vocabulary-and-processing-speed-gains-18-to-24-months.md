@@ -15,12 +15,14 @@ sources:
     author: Hurtado Nereyda, Marchman Virginia A., Fernald Anne
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Children's vocabulary and reaction time improved significantly from 18 to 24 months, and maternal talk measures were highly intercorrelated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children's vocabulary increased from M = 50 words (SD = 50) at 18 months to M = 203 (SD = 142) at 24 months, t(26) = 6.5, p < .001, and mean RT decreased from 1034 ms to 892 ms, t(24) = 3.3, p < .003. [→ Hurtado Nereyda 2008](#hurtado-nereyda-2008)

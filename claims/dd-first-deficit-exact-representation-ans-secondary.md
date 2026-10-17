@@ -13,16 +13,20 @@ sources:
     title: Noël M-P and Rousselle L 2011
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: noël-m-p-and-rousselle-l-2011-2
     title: Noël M-P and Rousselle L 2011 (2)
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` The first deficit in DD is a basic dysfunction in building the exact representation of symbolic numbers; reduced ANS acuity appears later as its consequence. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

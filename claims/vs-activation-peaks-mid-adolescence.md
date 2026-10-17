@@ -15,12 +15,14 @@ sources:
     author: Satterthwaite Theodore D. M.D., M.A.; Ruparel Kosha M.S.; Loughead James Ph.D; Elliott Mark A. Ph.D.; Gerraty Raphael T. B.A.; Calkins Monica E. Ph.D.; Hakonarson Hakon M.D. Ph.D.; Gur Ruben C. Ph.D.; Gur Raquel E. M.D., Ph.D.; Wolf Daniel H. M.D., Ph.D.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A quadratic (inverted-U) relationship exists between age and VS COR>INCOR response, peaking in mid-adolescence. [→ Satterthwaite Theodore D. M.D. 2012](#satterthwaite-theodore-d-md-2012)

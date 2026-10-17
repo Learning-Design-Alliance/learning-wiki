@@ -15,12 +15,14 @@ sources:
     author: Pandey A, Hale D, Das S, Goddings A-L, Blakemore S-J, Viner RM
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Universal self-regulation interventions improve self-regulation in children and adolescents, with a pooled effect size of d = 0.42 (95% CI, 0.32-0.53) on task performance scores.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Meta-analysis of 19 studies measuring SR via task performance scores found a statistically significant pooled effect favoring intervention (d = 0.42; 95% CI, 0.32-0.53). [→ Pandey A 2018](#pandey-a-2018)

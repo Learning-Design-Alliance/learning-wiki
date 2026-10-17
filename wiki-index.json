@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":19106,
-"design":819,
+"design":832,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":65,
 "principle":213,
 "process":18,
-"product":1691,
-"research-method":346,
+"product":1712,
+"research-method":350,
 "strategy":5986,
 "theory":1361
 },
@@ -172320,6 +172320,14 @@
 "type":"design"
 },
 {
+"description":"The after-school mathematics clubs were designed as alternative learning environments that 'explicitly defined and utilized students' home language, communities, and knowledge as learning resources.' They offered coll...",
+"id":"after-school-math-counterspaces-latinos",
+"path":"designs/after-school-math-counterspaces-latinos.md",
+"status":"review",
+"title":"After-school mathematics clubs as counter spaces using home language, community, and knowledge as learning resources",
+"type":"design"
+},
+{
 "description":"The study distills adult learners' interview perspectives into three design-principle themes with six sub-themes: human-in-the-loop (building shared mental models between humans and AI; enabling human-AI co-creation),...",
 "id":"ai-andragogy-design-principles-hitl-emotional-adaptability",
 "path":"designs/ai-andragogy-design-principles-hitl-emotional-adaptability.md",
@@ -172951,6 +172959,14 @@
 "path":"designs/bronxdale-whole-school-design-pattern.md",
 "status":"review",
 "title":"Whole-school design pattern combining community vision, inquiry instruction with social-emotional supports, restorative discipline, and a professional community of practice",
+"type":"design"
+},
+{
+"description":"A computerized Brown-Peterson task in which 4- and 5-year-olds memorized series of one to three colored drawings of animals and objects presented visually with their auditory name, then recalled them after a retention...",
+"id":"brown-peterson-goal-cue-tracking-task-preschoolers",
+"path":"designs/brown-peterson-goal-cue-tracking-task-preschoolers.md",
+"status":"review",
+"title":"Brown-Peterson working memory task with animated goal cue tracking for preschoolers",
 "type":"design"
 },
 {
@@ -173722,6 +173738,14 @@
 "type":"design"
 },
 {
+"description":"A one-on-one decoding and fluency treatment delivered over 20 weeks using 10 books ordered by reading difficulty, with placement and lesson repetition/skipping adaptive to student performance.",
+"id":"decoding-fluency-tutoring-program",
+"path":"designs/decoding-fluency-tutoring-program.md",
+"status":"review",
+"title":"Decoding/Fluency tutoring program: 20-week adaptive one-on-one intervention with six scripted lesson components",
+"type":"design"
+},
+{
 "description":"The learning task used a custom-built platform integrated with the DeepSeek Large Language Model in which students wrote an academic abstract for a research paper.",
 "id":"deepseek-abstract-writing-platform-constrained-prompts",
 "path":"designs/deepseek-abstract-writing-platform-constrained-prompts.md",
@@ -174444,6 +174468,14 @@
 "type":"design"
 },
 {
+"description":"The study used a computer-presented science task in which pairs discussed and predicted the trajectories objects follow when falling from stationary or moving carriers.",
+"id":"falling-objects-trajectories-collaboration-task",
+"path":"designs/falling-objects-trajectories-collaboration-task.md",
+"status":"review",
+"title":"Computer-presented trajectories task on objects falling from stationary or moving carriers",
+"type":"design"
+},
+{
 "description":"The article identifies a timing misalignment: districts must make contract renewal decisions before reliable outcome data arrive, since state test results typically arrive in mid- to late summer after procurement cycl...",
 "id":"faster-metrics-ai-edtech-evaluation-timing",
 "path":"designs/faster-metrics-ai-edtech-evaluation-timing.md",
@@ -174570,6 +174602,14 @@
 "path":"designs/five-phase-retrieval-practice-session-format-by-level-of-thinking.md",
 "status":"review",
 "title":"Five-phase retrieval practice session crossing question format and level of thinking",
+"type":"design"
+},
+{
+"description":"The intervention lesson followed a structured sequence of five phases: (1) orientation on metacognitive knowledge activating prior conceptions of creativity, (2) metacognitive strategy instruction exemplifying diverge...",
+"id":"five-phase-strategy-instruction-lesson-structure",
+"path":"designs/five-phase-strategy-instruction-lesson-structure.md",
+"status":"review",
+"title":"A five-phase lesson structure for metacognitive strategy instruction on divergent thinking",
 "type":"design"
 },
 {
@@ -175253,6 +175293,14 @@
 "type":"design"
 },
 {
+"description":"A preregistered experimental paradigm in which children watch an experimenter demonstrate how to mark the location of a hidden prize, helping them retrieve it later, and are then given opportunities across six test tr...",
+"id":"hidden-prize-marking-transfer-paradigm",
+"path":"designs/hidden-prize-marking-transfer-paradigm.md",
+"status":"review",
+"title":"Hidden-prize marking and transfer task paradigm for assessing children's spontaneous external reminder-setting strategies",
+"type":"design"
+},
+{
 "description":"The brief organizes effective high dosage tutoring around a set of implementation factors that \\\"must be considered and included to implement high dosage tutoring effectively.\\\" These are \\\"frequency and scheduling, grou...",
 "id":"high-dosage-tutoring-implementation-factors",
 "path":"designs/high-dosage-tutoring-implementation-factors.md",
@@ -175422,6 +175470,14 @@
 "type":"design"
 },
 {
+"description":"The authors concluded the circle's effectiveness rested on a set of design components conceptualized as part of an enculturation process into the culture of mathematics: control of the physical environment (meeting in...",
+"id":"inclusive-math-circle-design-components",
+"path":"designs/inclusive-math-circle-design-components.md",
+"status":"review",
+"title":"Six major design components of an inclusive math circle for low-income minority middle school students",
+"type":"design"
+},
+{
 "description":"The IB-BiLSTM architecture \\\"combines IndoBERT as a contextual encoder with a two -layer Bidirectional LSTM (BiLSTM) as a sequential classifier.\\\" IndoBERT produces token-level embeddings of shape (batch × 128 × 768) fe...",
 "id":"indobert-bilstm-hybrid-aes-architecture",
 "path":"designs/indobert-bilstm-hybrid-aes-architecture.md",
@@ -175502,6 +175558,14 @@
 "type":"design"
 },
 {
+"description":"The article recommends that teachers replace regular textbook geometry lessons with the integrated MACE lesson series, because students reached the same level of geometrical understanding through open, creative lesson...",
+"id":"integrated-mace-instead-of-regular-geometry",
+"path":"designs/integrated-mace-instead-of-regular-geometry.md",
+"status":"review",
+"title":"Use integrated visual arts and geometry lessons instead of regular geometry lessons to teach the geometry curriculum and visual arts perception",
+"type":"design"
+},
+{
 "description":"The dissertation's proposed framework (Objective 3) unifies the preventive layer (TigerGPT plus AURA) with the intervention layer (PsychoGPT and SMMR).",
 "id":"integrated-prevention-intervention-ai-framework",
 "path":"designs/integrated-prevention-intervention-ai-framework.md",
@@ -175556,6 +175620,14 @@
 "path":"designs/interactive-oral-grammar-exercise-five-qualities.md",
 "status":"review",
 "title":"Interactive oral grammar exercises with five defining qualities (Comeau)",
+"type":"design"
+},
+{
+"description":"A seven-month pedagogical program implemented in a preschool in Larissa, Central Greece, during the school year 2018-2019 with 25 five-year-old children (48% boys, 52% girls).",
+"id":"intercultural-folktale-multiliteracies-preschool-program",
+"path":"designs/intercultural-folktale-multiliteracies-preschool-program.md",
+"status":"review",
+"title":"Intercultural folk-tale multiliteracies program for preschool critical thinking",
 "type":"design"
 },
 {
@@ -175880,6 +175952,14 @@
 "type":"design"
 },
 {
+"description":"The article proposes integrating clinical and EI program data systems as a quality-improvement framework.",
+"id":"link-clinical-and-ei-records-framework",
+"path":"designs/link-clinical-and-ei-records-framework.md",
+"status":"review",
+"title":"Link pediatric primary care and early intervention records to track EI-eligible children and improve timeliness, intensity, and outcomes",
+"type":"design"
+},
+{
 "description":"This instructional pattern pairs weekly teacher-led small-group classroom math activities with caregiver-child home activities linked to the classroom content.",
 "id":"linked-classroom-home-caregiver-math-activities",
 "path":"designs/linked-classroom-home-caregiver-math-activities.md",
@@ -176062,6 +176142,14 @@
 "path":"designs/maastricht-seven-step-pbl-tutorial-cycle.md",
 "status":"review",
 "title":"Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation",
+"type":"design"
+},
+{
+"description":"The MACE pedagogy is an explanatory framework for integrated geometry and visual arts instruction built on five features the article names: \\\"visual arts perception, open activities, reflection, communication with peer...",
+"id":"mace-pedagogy-five-features",
+"path":"designs/mace-pedagogy-five-features.md",
+"status":"review",
+"title":"The MACE pedagogy: five key features for integrating geometry and visual arts",
 "type":"design"
 },
 {
@@ -176664,6 +176752,14 @@
 "path":"designs/ousd-point-person-support-model.md",
 "status":"review",
 "title":"OUSD open-access dual enrollment support model with the Point Person role",
+"type":"design"
+},
+{
+"description":"A learning environment developed by Hußmann and Schindler (2014a, b) in the KOSIMA project, which aims at teaching mathematics through real contexts.",
+"id":"out-of-the-debts-learning-environment",
+"path":"designs/out-of-the-debts-learning-environment.md",
+"status":"review",
+"title":"'Out of the Debts' learning environment combining the debts-and-assets context with the number line",
 "type":"design"
 },
 {
@@ -178387,6 +178483,14 @@
 "path":"designs/tutoring-plus-family-engagement-partnership-pattern.md",
 "status":"review",
 "title":"School-community-family partnership pattern pairing tutoring dosage with regular family contact",
+"type":"design"
+},
+{
+"description":"The article presents a matrix of twelve divergent thinking activities organised along two dimensions: remoteness (the metaphorical distance from a stimulus, running from free association to bisociation) and abstractne...",
+"id":"twelve-activity-model-remoteness-abstractness",
+"path":"designs/twelve-activity-model-remoteness-abstractness.md",
+"status":"review",
+"title":"A model of twelve divergent thinking activities organised along two dimensions of remoteness and abstractness",
 "type":"design"
 },
 {
@@ -191423,6 +191527,14 @@
 "type":"product"
 },
 {
+"description":"A 24-item orally administered questionnaire developed by Gunderson et al.",
+"id":"24-item-motivational-frameworks-questionnaire-intelligence-and-sociomoral-domains",
+"path":"products/24-item-motivational-frameworks-questionnaire-intelligence-and-sociomoral-domains.md",
+"status":"review",
+"title":"24-item motivational frameworks questionnaire (intelligence and sociomoral domains)",
+"type":"product"
+},
+{
 "description":"A 25-item multiple-choice test developed by Alneyadi et al.",
 "id":"25-item-electronic-magnetism-cognitive-achievement-test",
 "path":"products/25-item-electronic-magnetism-cognitive-achievement-test.md",
@@ -191821,6 +191933,14 @@
 "path":"products/adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction.md",
 "status":"review",
 "title":"Adapted TPACK-21 questionnaire for GenAI-infused higher education instruction",
+"type":"product"
+},
+{
+"description":"A group-administered iPad battery developed by Gallen et al.",
+"id":"adaptive-cognitive-evaluation-classroom-ace-c",
+"path":"products/adaptive-cognitive-evaluation-classroom-ace-c.md",
+"status":"review",
+"title":"Adaptive Cognitive Evaluation Classroom (ACE-C)",
 "type":"product"
 },
 {
@@ -192694,6 +192814,14 @@
 "path":"products/booknook.md",
 "status":"review",
 "title":"BookNook",
+"type":"product"
+},
+{
+"description":"A 60-item confrontation-naming assessment developed by Kaplan, Goodglass, and Weintraub that measures expressive vocabulary by asking examinees to name increasingly difficult line drawings, with stimulus and phonemic cues after errors.",
+"id":"boston-naming-test-bnt",
+"path":"products/boston-naming-test-bnt.md",
+"status":"review",
+"title":"Boston Naming Test (BNT)",
 "type":"product"
 },
 {
@@ -193740,6 +193868,14 @@
 "type":"product"
 },
 {
+"description":"Google's free online professional-learning programme helps K–12 teachers learn computational-thinking concepts and classroom applications through course materials and a community of practice for sharing ideas, challenges, solutions, and resources.",
+"id":"computational-thinking-for-educators",
+"path":"products/computational-thinking-for-educators.md",
+"status":"review",
+"title":"Computational Thinking for Educators",
+"type":"product"
+},
+{
 "description":"A Digital Promise framework of system-wide K–12 computational-thinking learning progressions designed to support equitable participation through consistent, cumulative, and competency-based learning across classrooms and years.",
 "id":"computational-thinking-pathways",
 "path":"products/computational-thinking-pathways.md",
@@ -194121,6 +194257,14 @@
 "path":"products/csebench.md",
 "status":"review",
 "title":"CSEBench",
+"type":"product"
+},
+{
+"description":"A framework developed by the Computer Science Teachers Association and International Society for Technology in Education that defines nine computational-thinking concepts and capabilities for integrating computational thinking across K–12 subjects.",
+"id":"cstaiste-operational-definition-of-computational-thinking",
+"path":"products/cstaiste-operational-definition-of-computational-thinking.md",
+"status":"review",
+"title":"CSTA/ISTE operational definition of computational thinking",
 "type":"product"
 },
 {
@@ -194683,6 +194827,14 @@
 "path":"products/doors-to-discovery.md",
 "status":"review",
 "title":"Doors to Discovery™",
+"type":"product"
+},
+{
+"description":"A non-symbolic numerical comparison assessment developed by Gilmore et al.",
+"id":"dot-comparison-congruency-effect-measure-of-numerical-inhibition",
+"path":"products/dot-comparison-congruency-effect-measure-of-numerical-inhibition.md",
+"status":"review",
+"title":"Dot comparison congruency-effect measure of numerical inhibition",
 "type":"product"
 },
 {
@@ -196645,6 +196797,14 @@
 "type":"product"
 },
 {
+"description":"A brief, game-like direct assessment developed for young children that measures behavioral self-regulation through rule reversal, attention, working-memory, and inhibitory-control tasks.",
+"id":"head-toes-knees-shoulders-htks-task",
+"path":"products/head-toes-knees-shoulders-htks-task.md",
+"status":"review",
+"title":"Head-Toes-Knees-Shoulders (HTKS) task",
+"type":"product"
+},
+{
 "description":"Headsprout Early Reading is an Internet-based supplemental early-literacy curriculum developed by Headsprout, using adaptive animated lessons, stories, flashcards, and readers to teach foundational reading skills.",
 "id":"headsprout-early-reading",
 "path":"products/headsprout-early-reading.md",
@@ -197341,6 +197501,14 @@
 "type":"product"
 },
 {
+"description":"The K-DTVP-2 and VMI-3R are standardized instruments used to measure visual perception and visual-motor integration across developmental and adult populations.",
+"id":"k-dtvp-2-and-vmi-3r-assessment-instruments-for-visual-perception-and-visual-motor-integrat",
+"path":"products/k-dtvp-2-and-vmi-3r-assessment-instruments-for-visual-perception-and-visual-motor-integrat.md",
+"status":"review",
+"title":"K-DTVP-2 and VMI-3R assessment instruments for visual perception and visual-motor integration",
+"type":"product"
+},
+{
 "description":"K12-Bench is a 23,640-item multi-select benchmark dataset created by Hao Liang et al.",
 "id":"k12-bench",
 "path":"products/k12-bench.md",
@@ -197509,6 +197677,14 @@
 "type":"product"
 },
 {
+"description":"A Microsoft Excel spreadsheet tool by Negen et al.",
+"id":"knower-levelestimaterxls",
+"path":"products/knower-levelestimaterxls.md",
+"status":"review",
+"title":"Knower-LevelEstimater.xls",
+"type":"product"
+},
+{
 "description":"Knowlify is an AI video-generation platform that creates editable explainer videos from natural-language prompts and source documents.",
 "id":"knowlify-ai-video-generation-platform",
 "path":"products/knowlify-ai-video-generation-platform.md",
@@ -197530,6 +197706,14 @@
 "path":"products/kolibri.md",
 "status":"review",
 "title":"Kolibri",
+"type":"product"
+},
+{
+"description":"A short-range copying assessment that measures preschool children's handwriting legibility by having them reproduce Korean alphabet letters in designated boxes; it was used by Seo S-M (2018).",
+"id":"korean-alphabet-writing-assessment-for-handwriting-legibility",
+"path":"products/korean-alphabet-writing-assessment-for-handwriting-legibility.md",
+"status":"review",
+"title":"Korean alphabet writing assessment for handwriting legibility",
 "type":"product"
 },
 {
@@ -198238,6 +198422,14 @@
 "type":"product"
 },
 {
+"description":"Developed by Eveline M.",
+"id":"mace-program",
+"path":"products/mace-program.md",
+"status":"review",
+"title":"MACE program",
+"type":"product"
+},
+{
 "description":"Mad City Mystery is a place-based augmented-reality environmental-science curriculum/game developed by Squire and colleagues for students to investigate environmental mysteries and construct scientific arguments.",
 "id":"mad-city-mystery",
 "path":"products/mad-city-mystery.md",
@@ -198541,6 +198733,14 @@
 "path":"products/math-corps.md",
 "status":"review",
 "title":"Math Corps",
+"type":"product"
+},
+{
+"description":"A computer-assisted mathematics practice program that presents addition and subtraction facts for timed retrieval practice with visual representations, adaptive pacing, corrective repetition, feedback, and rewards.",
+"id":"math-flash",
+"path":"products/math-flash.md",
+"status":"review",
+"title":"Math Flash",
 "type":"product"
 },
 {
@@ -199229,6 +199429,14 @@
 "path":"products/myteachingpartner-secondary-mtp-s.md",
 "status":"review",
 "title":"MyTeachingPartner-Secondary (MTP-S)",
+"type":"product"
+},
+{
+"description":"A standardized battery developed by Vigna Giulia et al.",
+"id":"nadl-numerical-activities-of-daily-living-standardized-battery",
+"path":"products/nadl-numerical-activities-of-daily-living-standardized-battery.md",
+"status":"review",
+"title":"NADL (Numerical Activities of Daily Living) standardized battery",
 "type":"product"
 },
 {
@@ -200128,6 +200336,14 @@
 "type":"product"
 },
 {
+"description":"Panamath, the Psychophysical Assessment of Numerical Approximation, is a free software tool developed by the Halberda Lab for administering non-symbolic numerical comparison tasks and recording accuracy and response time in children and other learners.",
+"id":"panamath",
+"path":"products/panamath.md",
+"status":"review",
+"title":"Panamath",
+"type":"product"
+},
+{
 "description":"ParaTutor is a multi-agent LLM-based home math word-problem tutoring system developed by LUO Lan and colleagues that supports parent–child tutoring with phase-specific scaffolding and interactive visual grounding.",
 "id":"paratutor",
 "path":"products/paratutor.md",
@@ -200149,6 +200365,14 @@
 "path":"products/parent-teacher-home-visits-pthv.md",
 "status":"review",
 "title":"Parent Teacher Home Visits (PTHV)",
+"type":"product"
+},
+{
+"description":"A 65-item Spanish- or English-language parent-report assessment developed by McWayne et al.",
+"id":"parental-engagement-of-families-from-latino-backgrounds-participacion-educativa-de-familia",
+"path":"products/parental-engagement-of-families-from-latino-backgrounds-participacion-educativa-de-familia.md",
+"status":"review",
+"title":"Parental Engagement of Families from Latino Backgrounds / Participación Educativa de Familias Latinas (PEFL)",
 "type":"product"
 },
 {
@@ -200993,6 +201217,14 @@
 "type":"product"
 },
 {
+"description":"A touchscreen- and puppet-administered self-report assessment developed by Compagnoni et al.",
+"id":"puppet-and-touchscreen-mindset-scale-for-kindergarteners",
+"path":"products/puppet-and-touchscreen-mindset-scale-for-kindergarteners.md",
+"status":"review",
+"title":"Puppet-and-touchscreen mindset scale for kindergarteners",
+"type":"product"
+},
+{
 "description":"Pychometrik is a Python-based item-analysis and Rasch item-calibration tool developed by NWEA for psychometricians calibrating assessment items.",
 "id":"pychometrik",
 "path":"products/pychometrik.md",
@@ -201441,6 +201673,14 @@
 "type":"product"
 },
 {
+"description":"A brief, direct assessment developed by Day et al.",
+"id":"remembering-rules-and-regulation-picture-task-rrrp",
+"path":"products/remembering-rules-and-regulation-picture-task-rrrp.md",
+"status":"review",
+"title":"Remembering Rules and Regulation Picture Task (RRRP)",
+"type":"product"
+},
+{
 "description":"REMind is a semi-autonomous robot-mediated applied-drama prototype that uses embodied robot characters and human-facilitated Forum Theatre-style rehearsal to support children's social-emotional and anti-bullying learning.",
 "id":"remind",
 "path":"products/remind.md",
@@ -201759,6 +201999,14 @@
 "path":"products/savvy-interactive-visual-analytics-system.md",
 "status":"review",
 "title":"SAVVY interactive visual analytics system",
+"type":"product"
+},
+{
+"description":"SEMA is a 20-item, face-supported self-report questionnaire developed by Wu et al.",
+"id":"scale-for-early-mathematics-anxiety-sema",
+"path":"products/scale-for-early-mathematics-anxiety-sema.md",
+"status":"review",
+"title":"Scale for Early Mathematics Anxiety (SEMA)",
 "type":"product"
 },
 {
@@ -203067,6 +203315,14 @@
 "type":"product"
 },
 {
+"description":"The SYMP Test is a group-administered, timed paper-and-pencil assessment created by Brankaer et al.",
+"id":"symp-test",
+"path":"products/symp-test.md",
+"status":"review",
+"title":"SYMP Test",
+"type":"product"
+},
+{
 "description":"Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.",
 "id":"symphony-math",
 "path":"products/symphony-math.md",
@@ -203536,6 +203792,14 @@
 "path":"products/terraflops.md",
 "status":"review",
 "title":"TerraFlops",
+"type":"product"
+},
+{
+"description":"The TOSA is an individually administered 2-D and 3-D spatial assembly assessment developed by Verdine et al.",
+"id":"test-of-spatial-assembly-tosa",
+"path":"products/test-of-spatial-assembly-tosa.md",
+"status":"review",
+"title":"Test of Spatial Assembly (TOSA)",
 "type":"product"
 },
 {
@@ -204549,6 +204813,14 @@
 "type":"product"
 },
 {
+"description":"A large-scale corpus of primary-school children's logged solutions to 469 multidigit multiplication problems collected through a web-based practice program and used for item-difficulty analysis.",
+"id":"web-based-multiplication-practice-program-dataset-of-469-multidigit-problems",
+"path":"products/web-based-multiplication-practice-program-dataset-of-469-multidigit-problems.md",
+"status":"review",
+"title":"Web-based multiplication practice program dataset of 469 multidigit problems",
+"type":"product"
+},
+{
 "description":"A simulation tool developed by REL Southwest with the Texas Higher Education Coordinating Board to model community-college funding scenarios and project adequate spending levels based on student-need and institutional factors.",
 "id":"weights-simulation-tool-for-texas-community-college-funding-scenarios",
 "path":"products/weights-simulation-tool-for-texas-community-college-funding-scenarios.md",
@@ -205118,6 +205390,14 @@
 "type":"research-method"
 },
 {
+"description":"The study's measurement approach applies the C.Ind.Le Coding Scheme to individual interviews of six-year-olds during an ecological and challenging graphic task.",
+"id":"cindle-coding-scheme",
+"path":"research-methods/cindle-coding-scheme.md",
+"status":"review",
+"title":"C.Ind.Le Coding Scheme",
+"type":"research-method"
+},
+{
 "description":"CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores.",
 "id":"classical-test-theory",
 "path":"research-methods/classical-test-theory.md",
@@ -205333,6 +205613,14 @@
 "path":"research-methods/design-based-rct-analysis-with-grouped-administrative-data.md",
 "status":"review",
 "title":"Design-based RCT analysis with grouped administrative data",
+"type":"research-method"
+},
+{
+"description":"The article formalizes a methodology for preparing psychological interventions to be scaled, combining two design traditions.",
+"id":"design-thinking-methodology-for-improving-and-scaling-psychological-interventions",
+"path":"research-methods/design-thinking-methodology-for-improving-and-scaling-psychological-interventions.md",
+"status":"review",
+"title":"Design-thinking methodology for improving and scaling psychological interventions",
 "type":"research-method"
 },
 {
@@ -205979,6 +206267,14 @@
 "type":"research-method"
 },
 {
+"description":"The article argues that recently developed hierarchical causal models can capture the theory theory's claim that specific causal theories are embedded in more abstract framework theories.",
+"id":"hierarchical-causal-models-representing-both-specific-theories-and-framework-theories",
+"path":"research-methods/hierarchical-causal-models-representing-both-specific-theories-and-framework-theories.md",
+"status":"review",
+"title":"Hierarchical causal models representing both specific theories and framework theories",
+"type":"research-method"
+},
+{
 "description":"The article establishes the task of history-conditioned student simulation, where a model predicts a student's next tutoring-dialogue turn conditioned on their prior question-answering and dialogue history.",
 "id":"history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram",
 "path":"research-methods/history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram.md",
@@ -206024,6 +206320,14 @@
 "path":"research-methods/improvement-rate-difference-meta-analysis.md",
 "status":"review",
 "title":"Improvement Rate Difference meta-analysis",
+"type":"research-method"
+},
+{
+"description":"The article develops an epistemological framework based on Brandom's inferentialism for studying students' reasoning on the order relation of integers.",
+"id":"inferentialist-epistemology-for-analyzing-students-mathematical-reasoning",
+"path":"research-methods/inferentialist-epistemology-for-analyzing-students-mathematical-reasoning.md",
+"status":"review",
+"title":"Inferentialist epistemology for analyzing students' mathematical reasoning",
 "type":"research-method"
 },
 {
@@ -286461,6 +286765,7 @@
 "adlab-structural-features-community-formation":"adlab-structural-features-community-formation",
 "admission-as-rite-of-passage-pattern":"admission-as-rite-of-passage-pattern",
 "aew-module-feedbackfruits-peer-feedback":"aew-module-feedbackfruits-peer-feedback",
+"after-school-math-counterspaces-latinos":"after-school-math-counterspaces-latinos",
 "ai-andragogy-design-principles-hitl-emotional-adaptability":"ai-andragogy-design-principles-hitl-emotional-adaptability",
 "ai-assisted-inquiry-condition-climate":"ai-assisted-inquiry-condition-climate",
 "ai-assisted-lab-manual-design-project":"ai-assisted-lab-manual-design-project",
@@ -286540,6 +286845,7 @@
 "bolos-12-week-weekly-memory-diary":"bolos-12-week-weekly-memory-diary",
 "bps-early-learning-uniform-curricula-coaches-naeyc":"bps-early-learning-uniform-curricula-coaches-naeyc",
 "bronxdale-whole-school-design-pattern":"bronxdale-whole-school-design-pattern",
+"brown-peterson-goal-cue-tracking-task-preschoolers":"brown-peterson-goal-cue-tracking-task-preschoolers",
 "brt-interdisciplinary-studio-schedule-2d-to-3d":"brt-interdisciplinary-studio-schedule-2d-to-3d",
 "brt-six-phase-assignment-process":"brt-six-phase-assignment-process",
 "bullying-circle-participant-roles":"bullying-circle-participant-roles",
@@ -286636,6 +286942,7 @@
 "dance-first-physics-weekly-cycle-dual-record":"dance-first-physics-weekly-cycle-dual-record",
 "datacanvas-edu-framework":"datacanvas-edu-framework",
 "dative-alternation-training-task-simple-structural-change":"dative-alternation-training-task-simple-structural-change",
+"decoding-fluency-tutoring-program":"decoding-fluency-tutoring-program",
 "deepseek-abstract-writing-platform-constrained-prompts":"deepseek-abstract-writing-platform-constrained-prompts",
 "deliberative-poll-quasi-experiment-model":"deliberative-poll-quasi-experiment-model",
 "demo-inquiry-model-discussion-sequence":"demo-inquiry-model-discussion-sequence",
@@ -286726,6 +287033,7 @@
 "expression-transformation-target-matching-pattern":"expression-transformation-target-matching-pattern",
 "fabric-prototype-four-educational-smart-contracts":"fabric-prototype-four-educational-smart-contracts",
 "facilitated-complex-problem-solving-condition":"facilitated-complex-problem-solving-condition",
+"falling-objects-trajectories-collaboration-task":"falling-objects-trajectories-collaboration-task",
 "faster-metrics-ai-edtech-evaluation-timing":"faster-metrics-ai-edtech-evaluation-timing",
 "fea-module-six-part-section-structure":"fea-module-six-part-section-structure",
 "feedback-history-llm-contribution-tracking":"feedback-history-llm-contribution-tracking",
@@ -286742,6 +287050,7 @@
 "five-key-characteristics-group-processing-ebl":"five-key-characteristics-group-processing-ebl",
 "five-organizational-capacity-levers-skyline":"five-organizational-capacity-levers-skyline",
 "five-phase-retrieval-practice-session-format-by-level-of-thinking":"five-phase-retrieval-practice-session-format-by-level-of-thinking",
+"five-phase-strategy-instruction-lesson-structure":"five-phase-strategy-instruction-lesson-structure",
 "five-principles-robotics-course-framework":"five-principles-robotics-course-framework",
 "five-sites-ai-policy-framework":"five-sites-ai-policy-framework",
 "five-stage-mle-lesson-pattern":"five-stage-mle-lesson-pattern",
@@ -286827,6 +287136,7 @@
 "hero-qa-audit-pipeline":"hero-qa-audit-pipeline",
 "heuristicedu-sft-grpo-pipeline":"heuristicedu-sft-grpo-pipeline",
 "hi-ai-collaborative-flipped-framework":"hi-ai-collaborative-flipped-framework",
+"hidden-prize-marking-transfer-paradigm":"hidden-prize-marking-transfer-paradigm",
 "high-dosage-tutoring-implementation-factors":"high-dosage-tutoring-implementation-factors",
 "highly-structured-course-design-bio180":"highly-structured-course-design-bio180",
 "hitl-ai-assisted-writing-assessment-framework":"hitl-ai-assisted-writing-assessment-framework",
@@ -286848,6 +287158,7 @@
 "identity-centered-e-textile-making":"identity-centered-e-textile-making",
 "identity-reflection-before-empathy-interviews":"identity-reflection-before-empathy-interviews",
 "in-school-data-guided-tutoring-supplements-classroom":"in-school-data-guided-tutoring-supplements-classroom",
+"inclusive-math-circle-design-components":"inclusive-math-circle-design-components",
 "indobert-bilstm-hybrid-aes-architecture":"indobert-bilstm-hybrid-aes-architecture",
 "inquiry-model-adhd-coaching":"inquiry-model-adhd-coaching",
 "insight-teacher-pd-training-session":"insight-teacher-pd-training-session",
@@ -286858,6 +287169,7 @@
 "integrate-ell-with-digital-literacy-curriculum":"integrate-ell-with-digital-literacy-curriculum",
 "integrated-ai-triad-iat-model":"integrated-ai-triad-iat-model",
 "integrated-learning-pathways-four-principles":"integrated-learning-pathways-four-principles",
+"integrated-mace-instead-of-regular-geometry":"integrated-mace-instead-of-regular-geometry",
 "integrated-prevention-intervention-ai-framework":"integrated-prevention-intervention-ai-framework",
 "integrated-robotics-course-framework-shared-artifact":"integrated-robotics-course-framework-shared-artifact",
 "integrated-simulation-assessment-design-characteristics":"integrated-simulation-assessment-design-characteristics",
@@ -286865,6 +287177,7 @@
 "intelligent-mixed-reality-exhibit":"intelligent-mixed-reality-exhibit",
 "intent-didactic-approach-mapping":"intent-didactic-approach-mapping",
 "interactive-oral-grammar-exercise-five-qualities":"interactive-oral-grammar-exercise-five-qualities",
+"intercultural-folktale-multiliteracies-preschool-program":"intercultural-folktale-multiliteracies-preschool-program",
 "interdisciplinary-societal-dilemma-units":"interdisciplinary-societal-dilemma-units",
 "interdisciplinary-teaming-block-schedule":"interdisciplinary-teaming-block-schedule",
 "interleaved-individual-team-assignment-design":"interleaved-individual-team-assignment-design",
@@ -286905,6 +287218,7 @@
 "liara-mapc-competition-team":"liara-mapc-competition-team",
 "life-science-contextualized-physics-course-pattern":"life-science-contextualized-physics-course-pattern",
 "light-touch-ai-literacy-warning":"light-touch-ai-literacy-warning",
+"link-clinical-and-ei-records-framework":"link-clinical-and-ei-records-framework",
 "linked-classroom-home-caregiver-math-activities":"linked-classroom-home-caregiver-math-activities",
 "llm-admissions-featurization-pipeline":"llm-admissions-featurization-pipeline",
 "llm-assisted-hardware-debugging-protocol":"llm-assisted-hardware-debugging-protocol",
@@ -286928,6 +287242,7 @@
 "luminous-science-transdisciplinary-curriculum":"luminous-science-transdisciplinary-curriculum",
 "m-plans-design-implement-revise-cycle":"m-plans-design-implement-revise-cycle",
 "maastricht-seven-step-pbl-tutorial-cycle":"maastricht-seven-step-pbl-tutorial-cycle",
+"mace-pedagogy-five-features":"mace-pedagogy-five-features",
 "maic-multi-agent-course-framework":"maic-multi-agent-course-framework",
 "maieutic-partner-generative-refusal-framework":"maieutic-partner-generative-refusal-framework",
 "making-a-difference-aiana-webinar-series":"making-a-difference-aiana-webinar-series",
@@ -287003,6 +287318,7 @@
 "osp-pairs-what-if-inquiry-pattern":"osp-pairs-what-if-inquiry-pattern",
 "oulad-snapshot-recourse-evaluation-protocol":"oulad-snapshot-recourse-evaluation-protocol",
 "ousd-point-person-support-model":"ousd-point-person-support-model",
+"out-of-the-debts-learning-environment":"out-of-the-debts-learning-environment",
 "outreach-through-trusted-community-channels":"outreach-through-trusted-community-channels",
 "p3-taxonomy-robotics-ai-curriculum":"p3-taxonomy-robotics-ai-curriculum",
 "padlet-chatgpt-eportfolio-workspace":"padlet-chatgpt-eportfolio-workspace",
@@ -287219,6 +287535,7 @@
 "tuna-24-task-set-simple-ai-use":"tuna-24-task-set-simple-ai-use",
 "tutor-led-strategies-adult-language-lessons":"tutor-led-strategies-adult-language-lessons",
 "tutoring-plus-family-engagement-partnership-pattern":"tutoring-plus-family-engagement-partnership-pattern",
+"twelve-activity-model-remoteness-abstractness":"twelve-activity-model-remoteness-abstractness",
 "twig-science-5e-lesson-structure":"twig-science-5e-lesson-structure",
 "two-day-ai-training-stage-transition-agenda":"two-day-ai-training-stage-transition-agenda",
 "two-experiment-tv-viewing-vocabulary-measures":"two-experiment-tv-viewing-vocabulary-measures",
@@ -289069,6 +289386,7 @@
 "21st-century-community-learning-centers-21st-cclc-program":"21st-century-community-learning-centers-21st-cclc-program",
 "22-item-self-report-instrument-measuring-contextual-support-trust-calibration-collaborativ":"22-item-self-report-instrument-measuring-contextual-support-trust-calibration-collaborativ",
 "23-item-meta-utaut-survey-instrument-for-mall-usage-in-efl":"23-item-meta-utaut-survey-instrument-for-mall-usage-in-efl",
+"24-item-motivational-frameworks-questionnaire-intelligence-and-sociomoral-domains":"24-item-motivational-frameworks-questionnaire-intelligence-and-sociomoral-domains",
 "25-item-electronic-magnetism-cognitive-achievement-test":"25-item-electronic-magnetism-cognitive-achievement-test",
 "25-item-six-theme-reflective-training-questionnaire-cronbachs-alpha-0868":"25-item-six-theme-reflective-training-questionnaire-cronbachs-alpha-0868",
 "26-district-teacher-effectiveness-dataset-covering-grades-4-8-over-five-school-years-2008":"26-district-teacher-effectiveness-dataset-covering-grades-4-8-over-five-school-years-2008",
@@ -289120,6 +289438,7 @@
 "adapted-15-item-internet-skills-scale":"adapted-15-item-internet-skills-scale",
 "adapted-stories":"adapted-stories",
 "adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction":"adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction",
+"adaptive-cognitive-evaluation-classroom-ace-c":"adaptive-cognitive-evaluation-classroom-ace-c",
 "adaptive-through-year-assessment-atya":"adaptive-through-year-assessment-atya",
 "admiral-squad":"admiral-squad",
 "adult-adhd-self-report-scale-asrs-v11":"adult-adhd-self-report-scale-asrs-v11",
@@ -289230,6 +289549,7 @@
 "bnl-bayesian-networks-with-logistic-regression-nodes":"bnl-bayesian-networks-with-logistic-regression-nodes",
 "book-cover-recognition-test":"book-cover-recognition-test",
 "booknook":"booknook",
+"boston-naming-test-bnt":"boston-naming-test-bnt",
 "boston-university-prison-education-program":"boston-university-prison-education-program",
 "bottom-line":"bottom-line",
 "bottom-line-college-advising-program":"bottom-line-college-advising-program",
@@ -289363,6 +289683,7 @@
 "comprehensive-assessment-battery-for-children-working-memory-cabc-wm":"comprehensive-assessment-battery-for-children-working-memory-cabc-wm",
 "comprehensive-cross-unit-ccu-assessments-joy-ruth-and-jackie-tests":"comprehensive-cross-unit-ccu-assessments-joy-ruth-and-jackie-tests",
 "comprehensive-literacy-making-the-connections":"comprehensive-literacy-making-the-connections",
+"computational-thinking-for-educators":"computational-thinking-for-educators",
 "computational-thinking-pathways":"computational-thinking-pathways",
 "computing-career-intentions-survey-instrument-32-item-full-version-and-12-item-short-form":"computing-career-intentions-survey-instrument-32-item-full-version-and-12-item-short-form",
 "concept-catalyst":"concept-catalyst",
@@ -289413,6 +289734,7 @@
 "cs50-duck":"cs50-duck",
 "cs50-forum-external-validation-set-of-150-public-course-oriented-programming-questions":"cs50-forum-external-validation-set-of-150-public-course-oriented-programming-questions",
 "csebench":"csebench",
+"cstaiste-operational-definition-of-computational-thinking":"cstaiste-operational-definition-of-computational-thinking",
 "ct-booster":"ct-booster",
 "ctat-computational-thinking-in-ai-training-test":"ctat-computational-thinking-in-ai-training-test",
 "ctc-teacher-preparation-program-completer-survey-system":"ctc-teacher-preparation-program-completer-survey-system",
@@ -289483,6 +289805,7 @@
 "dlm-early-childhood-express-math-software":"dlm-early-childhood-express-math-software",
 "domain-specific-genai-declaration-framework-translating-an-activity-taxonomy-into-task-spe":"domain-specific-genai-declaration-framework-translating-an-activity-taxonomy-into-task-spe",
 "doors-to-discovery":"doors-to-discovery",
+"dot-comparison-congruency-effect-measure-of-numerical-inhibition":"dot-comparison-congruency-effect-measure-of-numerical-inhibition",
 "drafttrace-multi-view-writing-analytics-environment":"drafttrace-multi-view-writing-analytics-environment",
 "drawedumath":"drawedumath",
 "dreambox-learning":"dreambox-learning",
@@ -289733,6 +290056,7 @@
 "hazel-prover":"hazel-prover",
 "hdr-vc-brachytherapy-immersive-vr-training-platform":"hdr-vc-brachytherapy-immersive-vr-training-platform",
 "head-start":"head-start",
+"head-toes-knees-shoulders-htks-task":"head-toes-knees-shoulders-htks-task",
 "headsprout-early-reading":"headsprout-early-reading",
 "healthy-harlem":"healthy-harlem",
 "hearts":"hearts",
@@ -289821,6 +290145,7 @@
 "k-12-computer-science-framework":"k-12-computer-science-framework",
 "k-12-digital-equity-framework":"k-12-digital-equity-framework",
 "k-12-digital-equity-framework-self-assessment":"k-12-digital-equity-framework-self-assessment",
+"k-dtvp-2-and-vmi-3r-assessment-instruments-for-visual-perception-and-visual-motor-integrat":"k-dtvp-2-and-vmi-3r-assessment-instruments-for-visual-perception-and-visual-motor-integrat",
 "k12-bench":"k12-bench",
 "k12-kgraph":"k12-kgraph",
 "k12-train":"k12-train",
@@ -289842,9 +290167,11 @@
 "kite-knowledge-informed-tutoring-engine":"kite-knowledge-informed-tutoring-engine",
 "kiva-olweus-bullying-prevention-program-obpp-notrap-and-visc":"kiva-olweus-bullying-prevention-program-obpp-notrap-and-visc",
 "kldf":"kldf",
+"knower-levelestimaterxls":"knower-levelestimaterxls",
 "knowlify-ai-video-generation-platform":"knowlify-ai-video-generation-platform",
 "koku":"koku",
 "kolibri":"kolibri",
+"korean-alphabet-writing-assessment-for-handwriting-legibility":"korean-alphabet-writing-assessment-for-handwriting-legibility",
 "kp-lab":"kp-lab",
 "kpe":"kpe",
 "ksave-framework":"ksave-framework",
@@ -289934,6 +290261,7 @@
 "luminote":"luminote",
 "m-plans-motivation-planning-lessons-to-activate-engagement-in-science":"m-plans-motivation-planning-lessons-to-activate-engagement-in-science",
 "m-plans-reference-toolkit-and-classroom-based-quick-tools":"m-plans-reference-toolkit-and-classroom-based-quick-tools",
+"mace-program":"mace-program",
 "mad-city-mystery":"mad-city-mystery",
 "maestro-v300-pretraining-corpus-and-custom-4320-recording-student-dataset":"maestro-v300-pretraining-corpus-and-custom-4320-recording-student-dataset",
 "magma-math":"magma-math",
@@ -289973,6 +290301,7 @@
 "massachusetts-k3-early-literacy-screening-longitudinal-dataset-202021202324":"massachusetts-k3-early-literacy-screening-longitudinal-dataset-202021202324",
 "math-180":"math-180",
 "math-corps":"math-corps",
+"math-flash":"math-flash",
 "math-garden-single-digit-multiplication-error-dataset-and-14-category-error-classification":"math-garden-single-digit-multiplication-error-dataset-and-14-category-error-classification",
 "math-mysteries":"math-mysteries",
 "math-with-matt":"math-with-matt",
@@ -290059,6 +290388,7 @@
 "myheggerty":"myheggerty",
 "myplace-online":"myplace-online",
 "myteachingpartner-secondary-mtp-s":"myteachingpartner-secondary-mtp-s",
+"nadl-numerical-activities-of-daily-living-standardized-battery":"nadl-numerical-activities-of-daily-living-standardized-battery",
 "nao-humanoid-robot-with-choregraphe-programming-environment":"nao-humanoid-robot-with-choregraphe-programming-environment",
 "nasa-cognition-battery":"nasa-cognition-battery",
 "national-assessment-of-educational-progress-naep":"national-assessment-of-educational-progress-naep",
@@ -290172,9 +290502,11 @@
 "osf-repository":"osf-repository",
 "paired-self-report-and-objective-based-ai-literacy-assessment-instruments-for-k12-teachers":"paired-self-report-and-objective-based-ai-literacy-assessment-instruments-for-k12-teachers",
 "paired-synthetic-evaluation-datasets-a-2482-case-edge-case-benchmark-and-a-570-case-human":"paired-synthetic-evaluation-datasets-a-2482-case-edge-case-benchmark-and-a-570-case-human",
+"panamath":"panamath",
 "paratutor":"paratutor",
 "pare-m-persistent-agentic-research-environment-measurement-v01":"pare-m-persistent-agentic-research-environment-measurement-v01",
 "parent-teacher-home-visits-pthv":"parent-teacher-home-visits-pthv",
+"parental-engagement-of-families-from-latino-backgrounds-participacion-educativa-de-familia":"parental-engagement-of-families-from-latino-backgrounds-participacion-educativa-de-familia",
 "parentcorps":"parentcorps",
 "parenting-relationship-questionnairepreschool-form-prq-involvement-subscale":"parenting-relationship-questionnairepreschool-form-prq-involvement-subscale",
 "parentpowered-ready4k":"parentpowered-ready4k",
@@ -290282,6 +290614,7 @@
 "publicly-released-fine-tuned-bert-model-and-code-for-coding-self-affirmation-essays":"publicly-released-fine-tuned-bert-model-and-code-for-coding-self-affirmation-essays",
 "publicly-released-uk-key-stage-readability-dataset-of-20000-balanced-text-chunks":"publicly-released-uk-key-stage-readability-dataset-of-20000-balanced-text-chunks",
 "pulla":"pulla",
+"puppet-and-touchscreen-mindset-scale-for-kindergarteners":"puppet-and-touchscreen-mindset-scale-for-kindergarteners",
 "pychometrik":"pychometrik",
 "pyneuralogic-framework-for-lifted-relational-neural-symbolic-learning":"pyneuralogic-framework-for-lifted-relational-neural-symbolic-learning",
 "python-mcq-dataset-for-unlearning-and-relearning-experiments":"python-mcq-dataset-for-unlearning-and-relearning-experiments",
@@ -290338,6 +290671,7 @@
 "reimagining-excellence-blueprint":"reimagining-excellence-blueprint",
 "relab-restricted-elaborated-code":"relab-restricted-elaborated-code",
 "relationship-centered-schools-rcs-campaign":"relationship-centered-schools-rcs-campaign",
+"remembering-rules-and-regulation-picture-task-rrrp":"remembering-rules-and-regulation-picture-task-rrrp",
 "remind":"remind",
 "renzulli-learning":"renzulli-learning",
 "repoai":"repoai",
@@ -290379,6 +290713,7 @@
 "sample-size-guide":"sample-size-guide",
 "save-the-tree-of-life":"save-the-tree-of-life",
 "savvy-interactive-visual-analytics-system":"savvy-interactive-visual-analytics-system",
+"scale-for-early-mathematics-anxiety-sema":"scale-for-early-mathematics-anxiety-sema",
 "scale-for-measuring-graduate-students-perceived-generative-ai-literacy-five-dimensions-15":"scale-for-measuring-graduate-students-perceived-generative-ai-literacy-five-dimensions-15",
 "scale-for-students-attitudes-toward-aigc-feedback-in-english-pronunciation-learning":"scale-for-students-attitudes-toward-aigc-feedback-in-english-pronunciation-learning",
 "scaling-apprenticeship-and-closing-the-skills-gap":"scaling-apprenticeship-and-closing-the-skills-gap",
@@ -290542,6 +290877,7 @@
 "survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining":"survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining",
 "survey-of-learning-behaviors":"survey-of-learning-behaviors",
 "svlat-scientific-visualization-literacy-assessment-test":"svlat-scientific-visualization-literacy-assessment-test",
+"symp-test":"symp-test",
 "symphony-math":"symphony-math",
 "syntea":"syntea",
 "systems-review":"systems-review",
@@ -290602,6 +290938,7 @@
 "tensquares-data-driven-school-improvement-process":"tensquares-data-driven-school-improvement-process",
 "terracotta":"terracotta",
 "terraflops":"terraflops",
+"test-of-spatial-assembly-tosa":"test-of-spatial-assembly-tosa",
 "tft-partnership":"tft-partnership",
 "the-10-elements-of-black-excellence":"the-10-elements-of-black-excellence",
 "the-3e-framework":"the-3e-framework",
@@ -290733,6 +291070,7 @@
 "waterproof":"waterproof",
 "way2work-maryland":"way2work-maryland",
 "web-based-gai-chatbot-with-instructor-facing-learning-analytics-dashboard":"web-based-gai-chatbot-with-instructor-facing-learning-analytics-dashboard",
+"web-based-multiplication-practice-program-dataset-of-469-multidigit-problems":"web-based-multiplication-practice-program-dataset-of-469-multidigit-problems",
 "weights-simulation-tool-for-texas-community-college-funding-scenarios":"weights-simulation-tool-for-texas-community-college-funding-scenarios",
 "wested-center-on-school-turnaround-journeys-project":"wested-center-on-school-turnaround-journeys-project",
 "wested-mtss-coaching-model":"wested-mtss-coaching-model",
@@ -290806,6 +291144,7 @@
 "causal-chain-analysis-of-built-environment-effects":"causal-chain-analysis-of-built-environment-effects",
 "causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials":"causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials",
 "chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity":"chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity",
+"cindle-coding-scheme":"cindle-coding-scheme",
 "classical-test-theory":"classical-test-theory",
 "classical-test-theory-decision-consistency-estimation-methods":"classical-test-theory-decision-consistency-estimation-methods",
 "coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction":"coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction",
@@ -290835,6 +291174,7 @@
 "curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet":"curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet",
 "design-based-implementation-research-dbir":"design-based-implementation-research-dbir",
 "design-based-rct-analysis-with-grouped-administrative-data":"design-based-rct-analysis-with-grouped-administrative-data",
+"design-thinking-methodology-for-improving-and-scaling-psychological-interventions":"design-thinking-methodology-for-improving-and-scaling-psychological-interventions",
 "digital-learning-platform-process-data-analysis":"digital-learning-platform-process-data-analysis",
 "digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions":"digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions",
 "dina-and-dino-cognitive-diagnostic-models":"dina-and-dino-cognitive-diagnostic-models",
@@ -290921,12 +291261,14 @@
 "group-plus-individual-person-oriented-analysis-of-intervention-outcomes":"group-plus-individual-person-oriented-analysis-of-intervention-outcomes",
 "harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g":"harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g",
 "hattie-and-timperleys-feedback-model":"hattie-and-timperleys-feedback-model",
+"hierarchical-causal-models-representing-both-specific-theories-and-framework-theories":"hierarchical-causal-models-representing-both-specific-theories-and-framework-theories",
 "history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram":"history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram",
 "human-validated-llm-reconstruction-of-syllabus-assessment-weights":"human-validated-llm-reconstruction-of-syllabus-assessment-weights",
 "hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato":"hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato",
 "hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem":"hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem",
 "implementation-research-within-impact-studies-of-education-interventions":"implementation-research-within-impact-studies-of-education-interventions",
 "improvement-rate-difference-meta-analysis":"improvement-rate-difference-meta-analysis",
+"inferentialist-epistemology-for-analyzing-students-mathematical-reasoning":"inferentialist-epistemology-for-analyzing-students-mathematical-reasoning",
 "information-based-rapid-guessing-threshold-methods":"information-based-rapid-guessing-threshold-methods",
 "ingredients-method-for-educational-cost-analysis":"ingredients-method-for-educational-cost-analysis",
 "integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped":"integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped",

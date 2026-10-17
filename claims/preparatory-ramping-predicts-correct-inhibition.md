@@ -15,12 +15,14 @@ sources:
     author: Constantinidis Christos, Luna Beatriz
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Preparatory-period baseline activity before the antisaccade stimulus is higher and ramps faster in adult monkeys and predicts correct trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adult monkeys show higher, faster-ramping pre-stimulus baseline activity, and correct trials are characterized by higher pre-stimulus firing rates. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

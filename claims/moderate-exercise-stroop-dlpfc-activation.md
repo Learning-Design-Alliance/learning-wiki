@@ -15,18 +15,22 @@ sources:
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: basso-julia-c-2017-2
     resource: "https://doi.org/10.3233/BPL-160040"
     title: "Basso Julia C., Suzuki Wendy A. (2017). The Effects of Acute Exercise on Mood, Cognition, Neurophysiology, and Neurochemical Pathways: A Review. Brain Plasticity. https://doi.org/10.3233/BPL-160040"
     author: Basso Julia C., Suzuki Wendy A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Compared to resting control, acute moderate exercise significantly increased inhibitory control on the Stroop Task, accompanied by increased left dorsolateral prefrontal cortex activation. [→ Basso Julia C. 2017](#basso-julia-c-2017)

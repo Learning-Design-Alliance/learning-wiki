@@ -15,12 +15,14 @@ sources:
     author: "Grosbras, M.-H., Ross, P. D. & Belin, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adult-level vocal emotion recognition performance is reached between 14 and 15 years of age, with a non-linear trajectory of faster childhood improvement followed by a late-adolescent plateau
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Model-predicted performance reaches the adults' mean level between age 14 and 15, and the developmental trajectory is non-linear with faster improvement in childhood and a plateau in late adolescence. [→ Grosbras 2018](#grosbras-2018)

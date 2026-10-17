@@ -17,7 +17,7 @@ sources:
 # Reduce extraneous task-irrelevant information in early-childhood teaching materials when teaching rule-based concepts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 10 studies (7 causal, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 5 claims rest on one study
 
 ## Description
 Because young children process both task-relevant and task-irrelevant information, extraneous perceptual information in materials and classrooms may impede learning of rule-based target concepts such as in mathematics and science. The article recommends that "reducing extraneous, task-irrelevant information in teaching materials and in the classrooms (cf. Fisher, Godwin, & Seltman, 2014), may have a positive effect on early classroom learning." This strategy applies the article's distributed-attention finding to instructional design for formal academic settings.

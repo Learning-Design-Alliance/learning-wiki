@@ -15,12 +15,14 @@ sources:
     author: "Grosbras, M.-H., Ross, P. D. & Belin, P."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Happiness is the easiest vocal emotion to recognize and anger the hardest, with anger and fear showing the greatest age-related improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across the whole age range, happiness was recognized with the highest accuracy, anger was least well recognized, and improvement within the age span was greatest for anger and fear. [→ Grosbras 2018](#grosbras-2018)

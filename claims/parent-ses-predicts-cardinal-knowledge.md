@@ -15,12 +15,14 @@ sources:
     author: Gunderson Elizabeth A., Levine Susan C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Parent SES significantly predicts children's cardinal-number knowledge at 46 months, accounting for 24 percent of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Parents' SES was a significant predictor of children's Point-to-X performance (β=.49, p<.001), accounting for 24 percent of the variance (Model 1). [→ Gunderson Elizabeth A. 2011](#gunderson-elizabeth-a-2011)

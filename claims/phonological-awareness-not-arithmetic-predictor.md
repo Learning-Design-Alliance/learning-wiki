@@ -15,12 +15,14 @@ sources:
     author: Moll K., Snowling M. J., Göbel S. M., Hulme C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Phonological awareness was not a predictor of arithmetic in the path model, though oral language at t1 predicted phonological awareness at t2. [→ Moll K. 2015](#moll-k-2015)

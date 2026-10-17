@@ -15,12 +15,14 @@ sources:
     author: "Krajewski, K., & Schneider, W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The visual-spatial sketch pad did not significantly predict QNC Level I, but its path to QNC Level II/III became significant in the final restricted model. [→ Krajewski 2009](#krajewski-2009)

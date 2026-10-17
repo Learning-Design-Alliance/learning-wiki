@@ -15,12 +15,14 @@ sources:
     author: Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin, Zhang Wenjuan, Yen Loulee, Patton Samuel, Kirchner Danielle
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Attention and hyperactivity were highly correlated (r = .69, p < .001), but attention correlated more highly with each cognitive, literacy, and language measure than hyperactivity did. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)

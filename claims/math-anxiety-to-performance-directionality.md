@@ -15,12 +15,14 @@ sources:
     author: Cargnelutti, E., Tomasetto, C., Passolunghi, M.C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Directionality analyses of the Grade 3 anxiety-performance link favour a path from math anxiety to math performance over the reverse path. [→ Cargnelutti 2017](#cargnelutti-2017)
