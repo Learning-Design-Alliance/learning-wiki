@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-301 claims are cited both ways.
+302 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 |---|---|---|---|---|
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
-| [patterns](patterns/index.md) | 68 | 64 | 24 | 0 |
+| [patterns](patterns/index.md) | 68 | 64 | 25 | 0 |
 | [strategies](strategies/index.md) | 5,998 | 2,673 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |

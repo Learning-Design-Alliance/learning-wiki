@@ -5,6 +5,21 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-17 (later) — existing pages enriched for competency-based online programmes
+
+- `patterns/competency-based-learning`: 18 to 63 claims; 11 situation rows (self-paced online with mentors, health
+  professions, teacher education, IT certification, business, AI tutors toward a competency check, AI role-play, AI
+  scoring, attempt limits, mixed preparation, prior experience). Gaps stated: no whole-programme comparison with
+  time-based study, nothing on credit for prior learning, no AI tested inside a competency-based programme, business
+  barely covered.
+- `principles/simulations-immersive-virtual-environments`: a virtual, remote and online laboratories subsection
+  (stand in, supplement or keep hands-on, by outcome; who guides an online lab; AI lab assistants; safety and access;
+  a labelled default) and 8 situation rows. The wiki has no claim on remote labs, home kits or sandboxes.
+- `patterns/case-based-learning`: Kononowicz 2019 virtual-patient claims, Chernikova 2020 case-relevant moderators,
+  online and AI-run case work, 8 situation rows. Online case evidence is correlational; business and technology
+  cases are untested in the wiki.
+- `elements/simulation.md` looked duplicated; its second copy is already inside a `<!-- merged -->` comment.
+
 ## 2026-10-17 — three patterns for competency-based online programmes; newpat-1
 
 - **New patterns** (for a competency-based online university using cases, simulations and labs with mentors,
