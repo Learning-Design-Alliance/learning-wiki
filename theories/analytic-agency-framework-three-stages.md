@@ -40,7 +40,6 @@ The framework treats data analysis as proceeding through three stages: explorati
 
 ## Related Theories
 
-- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](../research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md)
 - [Multimodal analysis: studying learning with multiple integrated data streams](../research-methods/multimodal-analysis.md)
 
 ## Examples

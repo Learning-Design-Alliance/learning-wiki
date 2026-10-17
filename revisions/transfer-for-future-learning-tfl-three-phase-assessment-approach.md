@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/transfer-for-future-learning-tfl-three-phase-assessment-approach.md
 ---
 
-# Revision history: [research-methods/transfer-for-future-learning-tfl-three-phase-assessment-approach](../research-methods/transfer-for-future-learning-tfl-three-phase-assessment-approach.md)
+# Revision history: research-methods/transfer-for-future-learning-tfl-three-phase-assessment-approach
 
 Recorded as theories/transfer-for-future-learning-approach before it was renamed, re-filed or merged.
 

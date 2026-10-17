@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md
 ---
 
-# Revision history: [research-methods/design-based-research-learning-analytics-and-multimodal-analytics](../research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md)
+# Revision history: research-methods/design-based-research-learning-analytics-and-multimodal-analytics
 
 Recorded as theories/cyberlearning-research-methods-three-approaches before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol.md
 ---
 
-# Revision history: [research-methods/logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol](../research-methods/logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol.md)
+# Revision history: research-methods/logistic-discriminant-function-analysis-for-differential-item-functioning-detection-in-pol
 
 Recorded as theories/ldf-dif-polytomous-items-framework before it was renamed, re-filed or merged.
 

@@ -78,7 +78,6 @@ Multimodal analysis is one of three methodological advances the report highlight
 
 ## Related Theories
 
-- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](../research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md)
 - [Definitional framework of five modalities in MMCA research](../theories/mmca-definitional-framework-five-modalities.md)
 - [Analytic agency framework: three stages of data analysis (exploration, interpretation, confirmation), each classified as primarily human-led or computer-led](../theories/analytic-agency-framework-three-stages.md)
 

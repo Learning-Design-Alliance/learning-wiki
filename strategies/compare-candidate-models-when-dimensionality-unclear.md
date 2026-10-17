@@ -37,7 +37,6 @@ This strategy addresses practical testing situations where no clear a priori the
 - Accurate and valid composite proficiency scores for reporting and decision making
 
 ### Affordances
-- [Compensatory Mirt Composite Scoring Framework](../research-methods/compensatory-multidimensional-item-response-theory.md)
 
 ## Related Strategies
 - 

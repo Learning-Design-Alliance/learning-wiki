@@ -40,7 +40,6 @@ The paper develops a conceptual framework defining interdependence as encompassi
 
 ## Related Theories
 
-- [Measurement team roles and responsibilities framework for education studies](../research-methods/measurement-team-roles-and-responsibilities-framework-for-education-studies.md)
 
 ## Examples
 -

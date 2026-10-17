@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/name-based-imputation-of-student-immigration-background.md
 ---
 
-# Revision history: [research-methods/name-based-imputation-of-student-immigration-background](../research-methods/name-based-imputation-of-student-immigration-background.md)
+# Revision history: research-methods/name-based-imputation-of-student-immigration-background
 
 Recorded as elements/name-based-immigration-background-imputation before it was renamed, re-filed or merged.
 

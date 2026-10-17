@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/statistical-analysis-of-partially-nested-randomized-controlled-trials.md
 ---
 
-# Revision history: [research-methods/statistical-analysis-of-partially-nested-randomized-controlled-trials](../research-methods/statistical-analysis-of-partially-nested-randomized-controlled-trials.md)
+# Revision history: research-methods/statistical-analysis-of-partially-nested-randomized-controlled-trials
 
 Recorded as theories/pn-rct-design-taxonomy before it was renamed, re-filed or merged.
 

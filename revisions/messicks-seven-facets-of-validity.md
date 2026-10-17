@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/messicks-seven-facets-of-validity.md
 ---
 
-# Revision history: [research-methods/messicks-seven-facets-of-validity](../research-methods/messicks-seven-facets-of-validity.md)
+# Revision history: research-methods/messicks-seven-facets-of-validity
 
 Recorded as theories/messick-seven-facets-validity-epistemic-games before it was renamed, re-filed or merged.
 

@@ -41,8 +41,6 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 
 ## Related Research Methods
 
-- [Data integration planning for digital learning platform research](data-integration-planning-for-digital-learning-platform-research.md)
-- [Embedded experimental designs in digital learning platforms](embedded-experimental-designs-in-digital-learning-platforms.md)
 
 ## Key Sources
 - Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210
@@ -71,8 +69,6 @@ The report advises that DLPs offer access to data on large numbers of users or f
 
 ## Related Research Methods
 
-- [Data integration planning for digital learning platform research](data-integration-planning-for-digital-learning-platform-research.md)
-- [Embedded experimental designs in digital learning platforms](embedded-experimental-designs-in-digital-learning-platforms.md)
 
 ## Key Sources
 - Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210

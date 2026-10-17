@@ -26,7 +26,6 @@ The paper extends Strobel et al.'s (2024) taxonomy of GenAI applications — ori
 
 ## Related Research Methods
 
-- [Three-role taxonomy of GenAI operationalization in grading workflows](three-role-taxonomy-of-genai-operationalization-in-grading-workflows.md)
 
 ## Key Sources
 - Sun, Z., Dohn, N. B., & Rehm, M. (2026). Literacy Demands Placed on Students in Student–GenAI Entanglements in Higher Education. Postdigital Science and Education. https://doi.org/10.1007/s42438-026-00697-7

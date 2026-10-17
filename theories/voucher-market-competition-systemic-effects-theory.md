@@ -42,7 +42,6 @@ The article describes the theory behind voucher programs: parental choice should
 
 ## Related Theories
 
-- [Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration](../research-methods/metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat.md)
 - [Homeschooling research compared with research on charter schools, voucher programs, and private schools](homeschooling-compared-to-other-school-choice-research.md)
 
 ## Examples

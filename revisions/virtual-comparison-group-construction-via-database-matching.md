@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/virtual-comparison-group-construction-via-database-matching.md
 ---
 
-# Revision history: [research-methods/virtual-comparison-group-construction-via-database-matching](../research-methods/virtual-comparison-group-construction-via-database-matching.md)
+# Revision history: research-methods/virtual-comparison-group-construction-via-database-matching
 
 Recorded as elements/credo-virtual-control-record-method before it was renamed, re-filed or merged.
 

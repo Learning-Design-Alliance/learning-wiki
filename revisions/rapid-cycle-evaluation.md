@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/rapid-cycle-evaluation.md
 ---
 
-# Revision history: [research-methods/rapid-cycle-evaluation](../research-methods/rapid-cycle-evaluation.md)
+# Revision history: research-methods/rapid-cycle-evaluation
 
 Recorded as elements/rapid-cycle-evaluation-decision-support-tool before it was renamed, re-filed or merged.
 

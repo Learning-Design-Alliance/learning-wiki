@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat.md
 ---
 
-# Revision history: [research-methods/metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat](../research-methods/metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat.md)
+# Revision history: research-methods/metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat
 
 Recorded as theories/metro-resemblance-integration-measurement-approach before it was renamed, re-filed or merged.
 

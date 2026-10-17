@@ -33,7 +33,6 @@ MFRM, developed by Linacre in 1989 as an extension of the partial credit model, 
 
 ## Related Research Methods
 
-- [FACETS framework](facets-framework.md)
 
 ## Key Sources
 - Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)

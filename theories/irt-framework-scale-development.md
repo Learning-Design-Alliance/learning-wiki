@@ -45,7 +45,6 @@ Item response theory (IRT) is presented as one of two fundamental approaches to 
 
 - [Classical Test Theory (CTT) and its stated limitations](../research-methods/classical-test-theory.md)
 - [Many-Facet Rasch Model (MFRM)](../research-methods/many-facet-rasch-model.md)
-- [Compensatory multidimensional item response theory as a framework for composite score creation](../research-methods/compensatory-multidimensional-item-response-theory.md)
 - [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](../research-methods/graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models.md)
 - [RIT vertical equal-interval scale grounded in item response theory](../products/map-growth.md)
 

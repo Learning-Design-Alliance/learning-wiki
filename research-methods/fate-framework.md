@@ -73,7 +73,6 @@ The article organizes the evaluation of multimodal learning analytics around fou
 ## Related Theories
 
 - [Accuracy-fairness trade-off framework for educational predictive models using group fairness metrics](../theories/accuracy-fairness-tradeoff-group-fairness-framework.md)
-- [Worsley et al.'s twelve commitments as an organizing framework for MMLA research quality](worsley-et-als-twelve-commitments-for-high-quality-mmla-research.md)
 
 ## Examples
 

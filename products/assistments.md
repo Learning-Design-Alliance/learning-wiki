@@ -162,7 +162,6 @@ A dataset assembled for testing remnant-based estimators, drawn from the ASSISTm
 
 ## Related Elements
 
-- [Four remnant-trained deep-learning imputation models (prior student statistics, prior assignments, prior daily actions, and a combined ensemble)](../research-methods/remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction.md)
 - [ASSISTments/E-TRIALS: free A/B testing platform integrated with a K-12 math practice platform](../products/assistments.md)
 
 ## Examples

@@ -39,7 +39,6 @@ The strategy runs think-aloud sessions in which students verbalize thoughts and 
 - student voice in tool refinement
 
 ### Affordances
-- [Thinking Through Ai Framework](../research-methods/thinking-through-ai-framework.md)
 
 ## Related Strategies
 

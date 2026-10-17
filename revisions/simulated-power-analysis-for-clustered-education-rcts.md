@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/simulated-power-analysis-for-clustered-education-rcts.md
 ---
 
-# Revision history: [research-methods/simulated-power-analysis-for-clustered-education-rcts](../research-methods/simulated-power-analysis-for-clustered-education-rcts.md)
+# Revision history: research-methods/simulated-power-analysis-for-clustered-education-rcts
 
 Recorded as elements/simulated-power-analysis-education-rcts before it was renamed, re-filed or merged.
 

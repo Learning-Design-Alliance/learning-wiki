@@ -41,7 +41,6 @@ Resource D helps decision makers score whether a tool is sufficiently inclusive,
 
 ## Related Elements
 
-- [Evidence Evaluation Rubric for edtech efficacy (Resource C)](../research-methods/evidence-evaluation-rubric.md)
 - [EdTech Index with third-party validations](../products/edtech-index.md)
 - [EdTech Pilot Navigator with four pilot models (Resource E)](../products/ai-enabled-edtech-adoption-cycle.md)
 - [Maker Learning Self-assessment Rubric](maker-learning-self-assessment-rubric.md)

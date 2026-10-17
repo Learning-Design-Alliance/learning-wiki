@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/bkt-rnn.md
 ---
 
-# Revision history: [research-methods/bkt-rnn](../research-methods/bkt-rnn.md)
+# Revision history: research-methods/bkt-rnn
 
 Recorded as elements/bkt-rnn-pytorch-implementation before it was renamed, re-filed or merged.
 

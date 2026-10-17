@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/black-box-analysis-of-educational-processes.md
 ---
 
-# Revision history: [research-methods/black-box-analysis-of-educational-processes](../research-methods/black-box-analysis-of-educational-processes.md)
+# Revision history: research-methods/black-box-analysis-of-educational-processes
 
 Recorded as theories/black-box-analysis-instruction-learning-interface before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/composite-transformation-framework-for-mirt-equating.md
 ---
 
-# Revision history: [research-methods/composite-transformation-framework-for-mirt-equating](../research-methods/composite-transformation-framework-for-mirt-equating.md)
+# Revision history: research-methods/composite-transformation-framework-for-mirt-equating
 
 Recorded as theories/mirt-composite-transformation-framework before it was renamed, re-filed or merged.
 

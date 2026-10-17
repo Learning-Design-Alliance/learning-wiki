@@ -84,7 +84,6 @@ The report uses a model-based approach in which observed scores are decomposed i
 
 ## Related Theories
 
-- [Joint student-level and school-level achievement and growth norms](../research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md)
 - [Model-based multivariate true score norming procedure](multivariate-true-score-model-for-achievement-and-growth-norming.md)
 - [Multivariate true score model for achievement and growth norms](../theories/multivariate-true-score-model-norms.md)
 - [Multivariate true score model for deriving achievement and growth norms](multivariate-true-score-model-for-achievement-and-growth-norming.md)
@@ -132,7 +131,6 @@ The norming procedure is a model-based approach from the course-specific MAP Gro
 
 ## Related Theories
 
-- [Joint student-level and school-level achievement and growth norms](../research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md)
 - [Multivariate true score model for building achievement and growth norms](../research-methods/multivariate-true-score-model-for-achievement-and-growth-norming.md)
 - [Multivariate true score model for achievement and growth norms](../theories/multivariate-true-score-model-norms.md)
 - [Model-based multivariate true score norming procedure](multivariate-true-score-model-for-achievement-and-growth-norming.md)
@@ -199,7 +197,6 @@ The norming approach, employed previously in the course-specific MAP Growth Math
 ## Related Theories
 
 - [MAP Growth norms taxonomy: ten norms per subject, level, and grade, spanning achievement, within-year growth, and between-year growth](../theories/map-growth-norms-taxonomy-ten-norms.md)
-- [Joint student-level and school-level achievement and growth norms](../research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md)
 - [Multivariate true score model for building achievement and growth norms](../research-methods/multivariate-true-score-model-for-achievement-and-growth-norming.md)
 - [Multivariate true score model for achievement and growth norms](../theories/multivariate-true-score-model-norms.md)
 

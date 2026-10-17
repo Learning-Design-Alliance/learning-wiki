@@ -27,7 +27,6 @@ Building on Wang et al. (2024) and Dai et al. (2025), the review organizes AI ap
 
 ## Related Research Methods
 
-- [Taxonomy of AI integration types in online higher education](taxonomy-of-ai-integration-types-in-online-higher-education.md)
 - [Working classification of chatbot and language-model technologies for AI coaching](working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching.md)
 
 ## Key Sources

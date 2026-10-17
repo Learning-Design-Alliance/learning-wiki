@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/latent-class-forest.md
 ---
 
-# Revision history: [research-methods/latent-class-forest](../research-methods/latent-class-forest.md)
+# Revision history: research-methods/latent-class-forest
 
 Recorded as theories/latent-class-forest-method before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/evidence-evaluation-rubric.md
 ---
 
-# Revision history: [research-methods/evidence-evaluation-rubric](../research-methods/evidence-evaluation-rubric.md)
+# Revision history: research-methods/evidence-evaluation-rubric
 
 Recorded as elements/edtech-evidence-evaluation-rubric before it was renamed, re-filed or merged.
 

@@ -28,7 +28,6 @@ The review constructs eight recurring themes via reflexive thematic analysis of 
 
 ## Related Research Methods
 
-- [Human-AI collaborative thematic analysis process guided by the IAVES framework](human-ai-collaborative-thematic-analysis-process-guided-by-the-iaves-framework.md)
 
 ## Key Sources
 - Wei, Y., and Perkins, M. (2026). Generative AI and student collaboration: a scoping review of group work processes, outcomes, and risks. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00217-x

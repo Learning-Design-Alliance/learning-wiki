@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/schochets-guidelines-for-handling-multiple-testing-in-education-research.md
 ---
 
-# Revision history: [research-methods/schochets-guidelines-for-handling-multiple-testing-in-education-research](../research-methods/schochets-guidelines-for-handling-multiple-testing-in-education-research.md)
+# Revision history: research-methods/schochets-guidelines-for-handling-multiple-testing-in-education-research
 
 Recorded as elements/schochet-multiple-testing-guidelines-education before it was renamed, re-filed or merged.
 

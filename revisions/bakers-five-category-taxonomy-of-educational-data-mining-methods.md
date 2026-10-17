@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/bakers-five-category-taxonomy-of-educational-data-mining-methods.md
 ---
 
-# Revision history: [research-methods/bakers-five-category-taxonomy-of-educational-data-mining-methods](../research-methods/bakers-five-category-taxonomy-of-educational-data-mining-methods.md)
+# Revision history: research-methods/bakers-five-category-taxonomy-of-educational-data-mining-methods
 
 Recorded as theories/baker-edm-methods-taxonomy before it was renamed, re-filed or merged.
 

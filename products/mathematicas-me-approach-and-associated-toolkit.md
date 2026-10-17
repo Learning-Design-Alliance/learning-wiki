@@ -66,7 +66,6 @@ Mathematica's measurement and evaluation (M&E) approach is a road map for genera
 
 ## Related Theories
 
-- [Four-phase evidence-building process for designing and validating solutions](../research-methods/four-phase-evidence-building-process-for-designing-and-validating-solutions.md)
 
 ## Examples
 

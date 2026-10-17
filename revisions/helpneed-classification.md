@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/helpneed-classification.md
 ---
 
-# Revision history: [research-methods/helpneed-classification](../research-methods/helpneed-classification.md)
+# Revision history: research-methods/helpneed-classification
 
 Recorded as theories/helpneed-step-classification-taxonomy before it was renamed, re-filed or merged.
 

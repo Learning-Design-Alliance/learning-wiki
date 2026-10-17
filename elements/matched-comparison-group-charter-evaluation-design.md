@@ -44,7 +44,6 @@ The evaluation method used for this report: a quasi-experimental, matched compar
 
 ## Related Elements
 
-- [Matched-comparison evaluation design for the Kauffman School impact study](../research-methods/virtual-comparison-group-construction-via-database-matching.md)
 
 ## Examples
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/evidence-reviews-for-evidence-based-program-decisions.md
 ---
 
-# Revision history: [research-methods/evidence-reviews-for-evidence-based-program-decisions](../research-methods/evidence-reviews-for-evidence-based-program-decisions.md)
+# Revision history: research-methods/evidence-reviews-for-evidence-based-program-decisions
 
 Recorded as theories/evidence-review-function-framework before it was renamed, re-filed or merged.
 

@@ -27,7 +27,6 @@ The review defines reliance calibration as "an item-level, output-contingent cla
 
 ## Related Research Methods
 
-- [Seven analytically ordered measurement targets for critical engagement with GenAI outputs](seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs.md)
 
 ## Key Sources
 - Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371

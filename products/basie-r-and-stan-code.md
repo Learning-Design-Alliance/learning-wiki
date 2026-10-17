@@ -61,7 +61,6 @@ A released code artifact accompanying the guide: the page offers a link to "Down
 - applying BASIE to interpret impact estimates
 
 ### Affordances
-- [Basie Bayesian Interpretation Of Estimates Framework](../research-methods/basie.md)
 
 ## Related Elements
 

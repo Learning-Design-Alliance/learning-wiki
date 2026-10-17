@@ -30,7 +30,6 @@ The article introduces a shared coding rubric applied identically to interaction
 
 ## Related Research Methods
 
-- [Six-dimensional agentic capability framework rated on a 1–5 ordinal scale](six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale.md)
 
 ## Key Sources
 - Li Shijin & Liu Junjian. (2026). Mapping the Distribution and Depth of Metacognitive Processes in Generative AI-Assisted Learning: Evidence from Interaction Logs and Concurrent Think-Aloud Protocols. Behavioral Sciences. https://doi.org/10.3390/bs16081365

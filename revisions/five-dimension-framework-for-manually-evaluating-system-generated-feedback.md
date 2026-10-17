@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/five-dimension-framework-for-manually-evaluating-system-generated-feedback.md
 ---
 
-# Revision history: [research-methods/five-dimension-framework-for-manually-evaluating-system-generated-feedback](../research-methods/five-dimension-framework-for-manually-evaluating-system-generated-feedback.md)
+# Revision history: research-methods/five-dimension-framework-for-manually-evaluating-system-generated-feedback
 
 Recorded as theories/five-dimension-human-evaluation-framework-feedback before it was renamed, re-filed or merged.
 

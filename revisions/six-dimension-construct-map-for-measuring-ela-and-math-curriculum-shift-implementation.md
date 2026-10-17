@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md
 ---
 
-# Revision history: [research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation](../research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md)
+# Revision history: research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation
 
 Recorded as theories/shared-measures-construct-map-curriculum-shifts before it was renamed, re-filed or merged.
 

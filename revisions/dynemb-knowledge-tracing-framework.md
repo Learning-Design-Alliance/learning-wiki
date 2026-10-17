@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/dynemb-knowledge-tracing-framework.md
 ---
 
-# Revision history: [research-methods/dynemb-knowledge-tracing-framework](../research-methods/dynemb-knowledge-tracing-framework.md)
+# Revision history: research-methods/dynemb-knowledge-tracing-framework
 
 Recorded as theories/dynemb-framework before it was renamed, re-filed or merged.
 

@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/narrative-inquiry.md
 ---
 
-# Revision history: [research-methods/narrative-inquiry](../research-methods/narrative-inquiry.md)
+# Revision history: research-methods/narrative-inquiry
 
 Recorded as theories/narrative-inquiry-experience-based-research-method before it was renamed, re-filed or merged.
 

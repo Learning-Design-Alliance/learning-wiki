@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/quantized-learning-gain-qlg.md
 ---
 
-# Revision history: [research-methods/quantized-learning-gain-qlg](../research-methods/quantized-learning-gain-qlg.md)
+# Revision history: research-methods/quantized-learning-gain-qlg
 
 Recorded as elements/quantized-learning-gain-qlg-measure before it was renamed, re-filed or merged.
 

@@ -48,8 +48,6 @@ The article names competency bias as "the inherent tendency of preference-tuned 
 
 ## Related Research Methods
 
-- [Epistemic State Specification (ESS)](epistemic-state-specification-ess.md)
-- [Goal-by-Environment framework for classifying simulated student systems](goal-by-environment-framework-for-classifying-simulated-student-systems.md)
 - [Three validation targets for educational simulation: behavioral believability, educational mechanism fidelity, and institutional counterfactual usefulness](three-validation-targets-for-educational-simulation-behavioral-believability-educational-m.md)
 
 ## Key Sources

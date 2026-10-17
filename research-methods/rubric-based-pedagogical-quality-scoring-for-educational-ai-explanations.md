@@ -48,7 +48,6 @@ The article defines a composite pedagogical quality score on [0,1] as the mean o
 
 ## Related Research Methods
 
-- [Six-dimensional agentic capability framework rated on a 1–5 ordinal scale](six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale.md)
 
 ## Key Sources
 - Sushan Adhikari. (2026). AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education — A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory. arXiv preprint. https://arxiv.org/abs/2609.14572

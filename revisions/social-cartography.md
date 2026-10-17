@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/social-cartography.md
 ---
 
-# Revision history: [research-methods/social-cartography](../research-methods/social-cartography.md)
+# Revision history: research-methods/social-cartography
 
 Recorded as theories/social-cartography-postmodern-methodology before it was renamed, re-filed or merged.
 
