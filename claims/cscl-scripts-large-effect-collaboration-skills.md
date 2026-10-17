@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
     title: "Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev. https://doi.org/10.1007/s10648-016-9361-7"
     author: Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer
+    q: 3
+    i: 3
   - id: freydis-vogel-2016-2
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
     title: "Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev. https://doi.org/10.1007/s10648-016-9361-7"
     author: Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer
+    q: 3
+    i: 2
 ---
 
 # Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Collaborative learning with a CSCL script produces a statistically significant large positive average effect on collaboration skills relative to collaborative learning without a script. [→ Freydis Vogel 2016](#freydis-vogel-2016)

@@ -16,6 +16,9 @@ sources:
 
 # Present coherence-analysis-derived metrics to classroom teachers for formative assessment of open-ended problem solving
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors propose a potentially valuable application of coherence analysis in OELEs: presenting CA-derived metrics to classroom teachers for evaluation and formative assessment. They suggest that "teachers could use these reports to quickly and easily: (i) understand learners' problem-solving approaches; (ii) infer potential reasons for the levels of success achieved by students; and (iii) make predictions about students' learning and task understanding," and assign effort grades or targeted activities addressing students' struggles.
 

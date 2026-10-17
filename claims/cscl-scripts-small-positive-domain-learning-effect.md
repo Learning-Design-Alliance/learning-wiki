@@ -12,14 +12,21 @@ sources:
   - id: radkowitsch-2020
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
     title: "Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4"
-    author: "Radkowitsch, A., Vogel, F., & Fischer, F"
+    author: "Radkowitsch, A., Vogel, F., & Fischer, F."
+    q: 3
+    i: 1
   - id: radkowitsch-2020-2
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
     title: "Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4"
-    author: "Radkowitsch, A., Vogel, F., & Fischer, F"
+    author: "Radkowitsch, A., Vogel, F., & Fischer, F."
+    q: 3
+    i: 1
 ---
 
 # CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Learning with CSCL scripts yields a small significant positive summary effect on domain learning (Hedges' g = 0.24). [→ Radkowitsch 2020](#radkowitsch-2020)

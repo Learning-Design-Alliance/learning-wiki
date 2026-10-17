@@ -8,12 +8,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 19,225 |
-| Evidence entries | 22,887 |
-| Distinct studies | 5,356 |
-| Claims resting on one study | 18,717 (97%) |
+| Claims | 19,242 |
+| Evidence entries | 22,907 |
+| Distinct studies | 5,359 |
+| Claims resting on one study | 18,734 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,136 of 5,356 (21%) |
+| Studies reporting an effect size | 1,139 of 5,359 (21%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -26,14 +26,15 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | qualitative | 108 | 264 | 64 | 83 | 519 |
 | design | 50 | 507 | 131 | 30 | 718 |
 | theoretical | 87 | 262 | 49 | 53 | 451 |
+| not yet coded | | | | | 3 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 688 (13%) | 3,167 (59%) | 1,380 (26%) | 121 (2%) |
+| 688 (13%) | 3,168 (59%) | 1,381 (26%) | 122 (2%) |
 
-**Studies per claim:** 0: 0, 1: 18,717, 2: 426, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 18,734, 2: 426, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -136,7 +137,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 68 | 64 | 24 | 0 |
-| [strategies](strategies/index.md) | 5,997 | 2,673 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,998 | 2,673 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |

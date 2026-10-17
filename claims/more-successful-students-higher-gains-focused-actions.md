@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s40593-015-0057-9"
     title: "Gautam Biswas, James R. Segedy, Kritya Bunchongchit. (2016). From Design to Implementation to Practice: a Learning by Teaching System: Betty's Brain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0057-9"
     author: Gautam Biswas, James R. Segedy, Kritya Bunchongchit
+    q: 2
+    i: "?"
 ---
 
 # More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` More successful students exhibited significantly higher science learning gains and were more accurate in their causal map edits. [→ Gautam Biswas 2016](#gautam-biswas-2016)

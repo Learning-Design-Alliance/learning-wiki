@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s40593-015-0057-9"
     title: "Gautam Biswas, James R. Segedy, Kritya Bunchongchit. (2016). From Design to Implementation to Practice: a Learning by Teaching System: Betty's Brain. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0057-9"
     author: Gautam Biswas, James R. Segedy, Kritya Bunchongchit
+    q: 2
+    i: "?"
 ---
 
 # Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Cluster 3 confused guessers (n=5) had significantly lower skill scores on both pre-test and post-test compared to most other clusters. [→ Gautam Biswas 2016](#gautam-biswas-2016)

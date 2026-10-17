@@ -12,10 +12,15 @@ sources:
   - id: radkowitsch-2020
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
     title: "Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4"
-    author: "Radkowitsch, A., Vogel, F., & Fischer, F"
+    author: "Radkowitsch, A., Vogel, F., & Fischer, F."
+    q: 3
+    i: "?"
 ---
 
 # CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Learning with CSCL scripts leads to a non-significant positive effect on motivation (Hedges' g = 0.13) relative to unguided collaborative learning. [→ Radkowitsch 2020](#radkowitsch-2020)

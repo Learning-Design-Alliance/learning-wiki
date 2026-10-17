@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
     title: "Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev. https://doi.org/10.1007/s10648-016-9361-7"
     author: Freydis Vogel, Christof Wecker, Ingo Kollar, Frank Fischer
+    q: 3
+    i: "?"
 ---
 
 # Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Effects on domain-specific knowledge were descriptively higher in studies measuring outcomes at the individual level than at the group level, but not significantly so. [→ Freydis Vogel 2016](#freydis-vogel-2016)

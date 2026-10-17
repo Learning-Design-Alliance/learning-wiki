@@ -12,14 +12,21 @@ sources:
   - id: radkowitsch-2020
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
     title: "Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4"
-    author: "Radkowitsch, A., Vogel, F., & Fischer, F"
+    author: "Radkowitsch, A., Vogel, F., & Fischer, F."
+    q: 2
+    i: "?"
   - id: radkowitsch-2020-2
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
     title: "Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. International Journal of Computer-Supported Collaborative Learning, 15, 5–47. https://doi.org/10.1007/s11412-020-09316-4"
-    author: "Radkowitsch, A., Vogel, F., & Fischer, F"
+    author: "Radkowitsch, A., Vogel, F., & Fischer, F."
+    q: 2
+    i: "?"
 ---
 
 # The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For domain learning, effects of CSCL scripts prompting one, two, or three types of collaborative activities did not differ significantly (Q(5) = 3.19, p = .67). [→ Radkowitsch 2020](#radkowitsch-2020)

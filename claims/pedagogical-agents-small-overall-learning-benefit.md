@@ -12,10 +12,15 @@ sources:
   - id: castro-alonso-2021
     resource: "https://doi.org/10.1007/s10648-020-09587-1"
     title: "Castro-Alonso, J. C., Wong, R. M., Adesope, O. O., & Paas, F. (2021). Effectiveness of Multimedia Pedagogical Agents Predicted by Diverse Theories: a Meta-Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09587-1"
-    author: "Castro-Alonso, J. C., Wong, R. M., Adesope, O. O., & Paas, F"
+    author: "Castro-Alonso, J. C., Wong, R. M., Adesope, O. O., & Paas, F."
+    q: 4
+    i: 1
 ---
 
 # Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small
 
 ## Subclaims
 `q4 i1` Across 32 effect sizes (N = 2104), learning with multimedia pedagogical agents was more effective than learning without these agents, with a small pooled effect of g+ = 0.20. [→ Castro-Alonso 2021](#castro-alonso-2021)
