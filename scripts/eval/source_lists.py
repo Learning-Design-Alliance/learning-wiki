@@ -127,6 +127,24 @@ NOT_RESEARCH_TITLE = re.compile(r"^(editorial|erratum|correction|corrigendum|boo
                                 r"remembering|obituary)|tribute to", re.I)
 
 
+# Publishers whose servers refuse the fetcher even for open-access articles (403 on every
+# Taylor & Francis PDF in the first JLS batch, 2026-10-18): a repository copy is used instead.
+BLOCKING_HOSTS = ("tandfonline.com",)
+
+
+def open_copy(w: dict) -> "str | None":
+    """The best open copy of a work the fetcher can read: OpenAlex's best location unless
+    its host refuses fetchers, then any other open location, repository copies first."""
+    locs = [w.get("best_oa_location") or {}] + sorted(
+        (l for l in w.get("locations") or [] if l.get("is_oa")),
+        key=lambda l: 0 if ((l.get("source") or {}).get("type") == "repository") else 1)
+    for l in locs:
+        url = l.get("pdf_url") or l.get("landing_page_url")
+        if url and not re.search(r"ezproxy|/login", url) and not any(h in url for h in BLOCKING_HOSTS):
+            return url
+    return None
+
+
 def load_journal(issns: list) -> list:
     """Open-access articles and reviews from journals given by ISSN, newest first."""
     import requests
@@ -139,7 +157,7 @@ def load_journal(issns: list) -> list:
                 r = requests.get(OPENALEX, timeout=60, params={
                     "filter": f"primary_location.source.issn:{issn},is_oa:true,type:article|review",
                     "per-page": 200, "cursor": cursor, "mailto": "contact@learningdesignalliance.org",
-                    "select": "id,doi,title,publication_year,authorships,best_oa_location,primary_location,type"})
+                    "select": "id,doi,title,publication_year,authorships,best_oa_location,locations,primary_location,type"})
                 if r.status_code != 429:
                     break
             r.raise_for_status()
@@ -148,17 +166,14 @@ def load_journal(issns: list) -> list:
                 title = w.get("title") or ""
                 if not title or NOT_RESEARCH_TITLE.search(title):
                     continue
-                oa = w.get("best_oa_location") or {}
-                url = oa.get("pdf_url") or oa.get("landing_page_url")
-                if url and re.search(r"ezproxy|/login", url):         # a library proxy, not an open copy
-                    url = None
+                url = open_copy(w)
                 doi = clean_doi((w.get("doi") or "").replace("https://doi.org/", ""))
                 names = [a["author"]["display_name"].split()[-1] for a in w.get("authorships", [])[:3]
                          if a.get("author", {}).get("display_name")]
                 src = ((w.get("primary_location") or {}).get("source") or {}).get("display_name") or issn
                 out.append({"list": "journal", "key": "jrnl-" + w["id"].rsplit("/", 1)[-1].lower(),
                             "title": title, "url": f"https://doi.org/{doi}" if doi else url,
-                            "fetch_url": url or (f"https://doi.org/{doi}" if doi else None),
+                            "fetch_url": url,
                             "doi": doi or None, "arxiv": None, "type": w.get("type"), "group": src,
                             "domain": "research", "year": str(w.get("publication_year") or ""),
                             "authors": ", ".join(names) or None})
@@ -213,7 +228,8 @@ def classify(entries: list) -> list:
         elif (e.get("type") or "") in SKIP_TYPES or e.get("domain") == "datasets":
             e["state"], e["why"] = "skip", f"type {e.get('type')}"
         elif not e["fetch_url"]:
-            e["state"], e["why"] = "skip", "no URL, DOI or arXiv id"
+            e["state"], e["why"] = "skip", ("no copy the fetcher can read" if e["list"] == "journal"
+                                            else "no URL, DOI or arXiv id")
         elif not e["arxiv"] and not robots_allows(e["fetch_url"]):
             e["state"], e["why"] = "skip", "robots.txt disallows"
         else:
