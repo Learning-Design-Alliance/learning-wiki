@@ -140,3 +140,4 @@ Meta-analysis of school-based writing-to-learn task assignments including inform
 - [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — related
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — related
 - [Prompting metacognitive strategies before cognitive strategies improves strategy quality and conceptual knowledge](metacognitive-first-prompt-sequence.md) — related
+- [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — a narrower finding that bears on this claim

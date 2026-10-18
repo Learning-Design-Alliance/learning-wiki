@@ -47,3 +47,4 @@ In the March 1993 lead story, the authors state this instructional challenge as 
 - [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](pph-workshop-increases-dietitians-pro-environmental-confidence.md) — related
 - [Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors](three-themes-barriers-enablers-pro-environmental-dietitians.md) — related
 - [Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change](pph-workshop-no-significant-belief-change.md) — related
+- [Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action](differing-values-no-agreed-environmental-decision.md) — related

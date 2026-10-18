@@ -43,4 +43,4 @@ A theoretically derived hypothesis that the article reports was experimentally c
 
 
 ## Related Claims
--
+- [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](zambrano-2019-efficiency-advantage-only-high-density.md) — related

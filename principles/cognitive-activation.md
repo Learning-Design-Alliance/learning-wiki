@@ -165,6 +165,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - **Prompted Self-Explanation in Math**: Asking a student, "Why can we divide both sides of this equation by 3?" after they perform the step.
 - [Induce self-explanation by prompting learners during study and problem solving](../strategies/prompt-learners-to-self-explain-during-study.md)
 - [Design self-explanation prompts aligned to target outcomes, favoring explanations of correct content](../strategies/align-self-explanation-prompts-with-target-outcomes.md)
+- [Teach learners to initiate and perform learning activities aimed at conceptual change themselves](../strategies/teach-self-initiated-conceptual-change-activities.md)
 
 ### Illustrative
 

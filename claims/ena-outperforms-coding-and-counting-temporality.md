@@ -49,3 +49,4 @@ The editorial reports that Csanadi et al. analyzed one dataset with both epistem
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
 - [Preservice teachers' interpreting and shaping dimensions show the strongest co-occurrence across all three weeks of AI-based simulation interactions](interpreting-shaping-strongest-co-occurrence-ai-simulations.md) — related
 - [PIA and TFA types differ structurally in deliberative networks, with PIA centred on establishing strategy, educating, agreeing and monitoring](ena-structural-differences-pia-tfa.md) — related
+- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related

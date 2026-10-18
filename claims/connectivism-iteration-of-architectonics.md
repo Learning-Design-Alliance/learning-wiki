@@ -47,3 +47,4 @@ Theoretical argument in the article's conclusion: tracing connectivism's genealo
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
 - [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
+- [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related

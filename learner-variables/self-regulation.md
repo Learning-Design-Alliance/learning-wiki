@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (91 show a difference, 28 mixed, 13 no difference, 2 unmarked) · 97 studies (29 associational, 21 causal, 20 review, 10 quant-synthesis, 9 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 19 of 97 report an effect size · 126 claims rest on one study
+> **Evidence** · 138 claims (93 show a difference, 29 mixed, 14 no difference, 2 unmarked) · 98 studies (29 associational, 22 causal, 20 review, 10 quant-synthesis, 9 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 20 of 98 report an effect size · 130 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -182,6 +182,10 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](../claims/self-regulation-striatal-motor-coupling-reactive.md) [+W] — learners who differ on it differ in outcomes
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — learners who differ on it differ in outcomes
 - [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](../claims/learner-agency-adaptive-guidance-only-advanced-regulators.md) [~M] — an instructional effect differs with it
+- [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [-W] — learners who differ on it differ in outcomes
+- [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](../claims/short-term-journal-prompts-increase-cognitive-strategy-use.md) [+M] — instruction changes it
+- [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](../claims/short-term-journal-prompts-increase-metacognitive-strategy-use.md) [+M] — instruction changes it
+- [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

@@ -68,3 +68,4 @@ Baseline imbalance study note: the treatment group scored higher on ScienceQuest
 - The study enrolled 34 second-grade teachers with 810 students across 20 California schools, with 318 students completing both assessments in the impact sample. — related
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](educators-rarely-facilitated-connections-between-playlists.md) — related
+- [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related

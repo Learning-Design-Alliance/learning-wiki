@@ -26,7 +26,7 @@ sources:
 # Developing Your Cultural Awareness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 7 mixed) · 22 studies (7 causal, 6 review, 3 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 1 of 22 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (10 for, 8 mixed) · 23 studies (7 causal, 6 review, 3 quant-synthesis, 3 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 1 of 23 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,7 @@ Claims the earlier page cited for mechanisms the cycle relies on. They are about
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — about tutoring learners (children on long division, eighth graders); the earlier page used it for "awareness becomes meaningful when it changes how support is calibrated". It does not bear on how an educator develops cultural awareness, only on why a changed reading of a learner should change the support given.
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — about learners explaining material; the earlier page used it for "articulating assumptions makes them visible". Carried by analogy to an educator naming an assumption; untested for that.
+- [Teachers persisted in treating academic English as the endpoint of science learning during the first Language Storybook iteration](../claims/first-storybook-iteration-reified-academic-language-goals.md) [~W] — attached 2026-10-18 from Ashlyn Pierson et al. (2024), which proposed "Provide teachers explicit opportunities to connect new equity perspectives with day-to-day classroom teaching experiences".
 
 ## Objective and learner-valued goal
 

@@ -50,6 +50,7 @@ Because the study finds positive beliefs and concerns form along separate tracks
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 - [Prioritize evidence-based technology programs and implement them with professional learning and integrated practice](prioritize-evidence-based-edtech-with-professional-learning.md)
+- [Engage student teachers in reflection on their educational beliefs before immersing them in IBL](reflect-on-beliefs-before-ibl-immersion.md)
 
 ## Examples
 -

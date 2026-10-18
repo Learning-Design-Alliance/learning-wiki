@@ -37,7 +37,8 @@ The article recommends that explanations of curriculum effects on student learni
 - Mathematics achievement and opportunities to learn
 
 ## Related Strategies
-- 
+
+- [Evaluate constructivist learning environments with a multi-directional approach covering non-cognitive variables alongside achievement](multi-directional-effects-approach.md)
 
 ## Examples
 -

@@ -64,3 +64,4 @@ A training experiment with 50 college students across five conditions found "a l
 ## Related Claims
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Experts verbalized fewer SRL phases overall than novices during clinical reasoning, with feelings of uncertainty almost absent among experts](experts-fewer-srl-verbalizations-less-uncertainty.md) — a narrower finding that bears on this claim

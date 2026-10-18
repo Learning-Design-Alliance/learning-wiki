@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 64 claims (38 for, 23 mixed, 3 against) · 65 studies (20 associational, 19 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 21 of 65 report an effect size · 49 claims rest on one study
+> **Evidence** · 67 claims (39 for, 25 mixed, 3 against) · 67 studies (21 associational, 20 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 22 of 67 report an effect size · 52 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -111,6 +111,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Shared and co-constructed intra-group interaction were significantly correlated with deep-level metacognitive activities during pre-task regulation](../claims/shared-coconstructed-interaction-correlated-deep-level.md) [+W] — attached 2026-10-18 from Kielstra et al. (2022), which proposed "Four types of intra-group social metacognitive interaction (ignored, accepted, shared, co-constructed) as a measure of sharedness in socially shared regulated learning".
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](../claims/pre-course-srl-predicts-collaborative-participation.md) [+W] — attached 2026-10-18 from Psathas et al. (2023), which proposed "SRL profiling as a basis for grouping, intervention targeting, and participation prediction in MOOCs".
 - [Adaptive AI support directs regulatory activity toward monitoring while static AI support produces strategy-focused, procedural regulation](../claims/adaptive-ai-monitoring-static-strategy-networks.md) [+W] — attached 2026-10-18 from Ridwan Whitehead · Andy Nguyen · Sanna Järvelä (2026), which proposed "Trigger regulation framework for identifying multimodal SSRL processes".
+- [SRL phase transitions during clinical reasoning with a multimedia system are frequent, cyclical, and dominated by Forethought→Performance and Performance→Forethought transitions](../claims/srl-phase-transitions-cyclical-clinical-reasoning.md) [+W] — attached 2026-10-18 from Cloude et al. (2025), which proposed "Extending Zimmerman and Moylan's socio-cognitive model of SRL to include metacognitive feelings (uncertainty) as a phase in the clinical-reasoning cycle"; tests this page's relationship.
+- [Experts verbalized fewer SRL phases overall than novices during clinical reasoning, with feelings of uncertainty almost absent among experts](../claims/experts-fewer-srl-verbalizations-less-uncertainty.md) [~W] — attached 2026-10-18 from Cloude et al. (2025), which proposed "Extending Zimmerman and Moylan's socio-cognitive model of SRL to include metacognitive feelings (uncertainty) as a phase in the clinical-reasoning cycle".
+- [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](../claims/long-term-prompting-no-added-benefit-declines-regardless.md) [~M] — attached 2026-10-18 from Nadja M. Gentner et al. (2024), which proposed "Zimmerman's cyclical three-phase model of self-regulated learning (forethinking, performance, self-reflection)".
 
 ## The evidence by question
 

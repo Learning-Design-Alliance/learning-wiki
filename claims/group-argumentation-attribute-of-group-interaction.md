@@ -43,4 +43,4 @@ The editors' interpretive analysis of the WoW argumentation data contrasts class
 
 
 ## Related Claims
--
+- [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](qualitative-cases-interaction-quality-variation.md) — related

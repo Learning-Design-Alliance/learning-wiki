@@ -70,3 +70,4 @@ Robustness check applying a Bonferroni-adjusted significance level (α=0.0083) a
 - [No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers](no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — a narrower finding that bears on this claim
 - [Most introductory physics students preferred a combination chatbot (guidance first, answers when stuck), while few preferred pure guided Q&A](students-prefer-combination-chatbot-over-guided-qa.md) — related
+- [The focus-on-students effect was not robust: significant in the ANOVA but not in non-parametric tests](focus-on-students-effect-not-robust.md) — related

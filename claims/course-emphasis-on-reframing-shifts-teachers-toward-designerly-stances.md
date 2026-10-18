@@ -52,3 +52,4 @@ This is a quasi-experimental, within-course comparison (not a randomized trial) 
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI](2026-classroom-poll-shift-toward-human-intelligence.md) — related
 - Linguistic analysis of abstracts shows shifts from knowledge to learning and toward more stakeholders — related
+- [Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest](dinsmore-project-based-declarative-only.md) — related

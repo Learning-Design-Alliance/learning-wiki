@@ -12,7 +12,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (36 show a difference, 13 mixed, 9 no difference) · 49 studies (12 associational, 10 causal, 9 review, 6 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 9 of 49 report an effect size · 57 claims rest on one study
+> **Evidence** · 61 claims (38 show a difference, 13 mixed, 10 no difference) · 51 studies (12 causal, 12 associational, 9 review, 6 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 9 of 51 report an effect size · 60 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -98,6 +98,9 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](../claims/super-talk-multifaceted-understanding-cross-community.md) [+M] — instruction changes it
 - [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](../claims/fifth-graders-high-quality-super-notes-cross-classroom.md) [+M] — instruction changes it
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](../claims/young-children-collaborative-gestures-mr-science.md) [+M] — instruction changes it
+- [In the case discourse, failure to integrate individuals' ideas with sound verification was linked to low-level inquiry outcomes, while successful high-level grounding enabled groups to integrate ideas and negotiate shared knowledge](../claims/idea-integration-linked-to-grounding-quality-in-case-discourse.md) [+W] — learners who differ on it differ in outcomes
+- [In the PISG case study, occurrences of high-level grounding and high-level testing co-occurred with more occurrences of high-level inquiry processes](../claims/pisg-case-high-level-grounding-testing-linked-high-inquiry.md) [+M] — learners who differ on it differ in outcomes
+- [Self-explanations from faded double-content examples did not predict change in professional vision, with two isolated exceptions](../claims/self-explanations-no-predictive-effect-pvcm.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

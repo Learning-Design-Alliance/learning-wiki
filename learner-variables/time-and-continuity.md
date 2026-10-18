@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (64 show a difference, 24 mixed, 6 no difference) · 86 studies (32 causal, 17 associational, 16 review, 9 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 16 of 86 report an effect size · 90 claims rest on one study
+> **Evidence** · 96 claims (65 show a difference, 24 mixed, 7 no difference) · 88 studies (34 causal, 17 associational, 16 review, 9 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 18 of 88 report an effect size · 92 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -150,6 +150,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](../claims/tier2-dosage-scheduling-mixed-findings.md) [~M] — learners who differ on it differ in outcomes
 - [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](../claims/claim-3d-modeling-task-halted-engineering-practices.md) [+W] — instruction changes it
 - [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](../claims/claim-teacher-visit-pattern-brief-with-phase-exceptions.md) [~W] — instruction changes it
+- [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](../claims/long-term-prompting-no-added-benefit-declines-regardless.md) [-M] — an instructional effect differs with it
+- [Guided LiquidText users redistribute task time toward document processing and away from writing](../claims/guidance-time-reallocation-multiple-document-task.md) [+M] — instruction changes it
 
 ## The evidence by question
 

@@ -43,4 +43,4 @@ The fully unconditional HLM model on 3,803 observations from 137 students showed
 
 
 ## Related Claims
--
+- [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related

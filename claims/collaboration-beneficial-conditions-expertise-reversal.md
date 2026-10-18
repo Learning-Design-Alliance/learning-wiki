@@ -62,4 +62,4 @@ The article reports, citing Zhang et al. (2016), a team-composition study whose 
 
 
 ## Related Claims
--
+- [Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks](zambrano-2019-experienced-groups-outperform-inexperienced.md) — a narrower finding that bears on this claim

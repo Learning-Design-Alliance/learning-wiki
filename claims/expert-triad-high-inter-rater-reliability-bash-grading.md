@@ -61,3 +61,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](human-inter-rater-benchmark-icc-above-089-essays.md) — related
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
+- [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](professional-vision-coding-interrater-agreement-icc.md) — related

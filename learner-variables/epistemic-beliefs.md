@@ -12,7 +12,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 12 claims (10 show a difference, 1 mixed, 1 no difference) · 9 studies (4 design, 2 qualitative, 1 causal, 1 review, 1 associational), `q1`–`q3` · 1 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (11 show a difference, 3 mixed, 2 no difference) · 10 studies (4 design, 2 causal, 2 qualitative, 1 review, 1 associational), `q1`–`q3` · 1 of 10 report an effect size · 16 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -43,6 +43,10 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](../claims/reflective-thinking-correlates-epistemological-beliefs.md) [+W] — learners who differ on it differ in outcomes
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](../claims/formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) [+M] — instruction changes it
 - [Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies](../claims/underuse-stems-from-false-beliefs-and-counterintuition.md) [+W] — learners who differ on it differ in outcomes
+- [Added interpretive support did not significantly affect the evolution of student teachers' educational beliefs](../claims/additional-support-no-significant-belief-impact.md) [-M] — instruction changes it
+- [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](../claims/ibl-immersion-improves-understanding-historical-inquiry.md) [+M] — instruction changes it
+- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](../claims/immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) [~M] — instruction changes it
+- [The impact of immersion in IBL on beliefs varies significantly across individual students, with about 8% holding content-oriented beliefs largely unaffected](../claims/ibl-immersion-impact-varies-content-oriented-subgroup.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

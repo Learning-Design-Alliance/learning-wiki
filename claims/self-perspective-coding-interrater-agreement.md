@@ -43,4 +43,4 @@ Reliability check on the self-perspective coding scheme: a second researcher ind
 
 
 ## Related Claims
--
+- [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](professional-vision-coding-interrater-agreement-icc.md) — related

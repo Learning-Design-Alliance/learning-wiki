@@ -12,7 +12,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (48 show a difference, 16 mixed, 13 no difference, 2 unmarked) · 53 studies (21 associational, 15 causal, 8 review, 6 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 53 report an effect size · 76 claims rest on one study
+> **Evidence** · 80 claims (49 show a difference, 16 mixed, 13 no difference, 2 unmarked) · 54 studies (22 associational, 15 causal, 8 review, 6 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 54 report an effect size · 77 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -114,6 +114,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Students with higher general cognitive ability are more efficient in equation rearrangement](../claims/cognitive-ability-correlates-equation-efficiency.md) [+M] — learners who differ on it differ in outcomes
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](../claims/self-questioning-benefits-low-verbal-ability-more.md) [+W] — an instructional effect differs with it
 - [Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)](../claims/treatment-ability-interaction-middle-group-excluded.md) [~W] — an instructional effect differs with it
+- [Content knowledge does not significantly predict the number of experiments conducted; general cognitive ability shows a quadratic association and self-concept a negative linear association](../claims/null-ck-number-of-experiments-gca-quadratic.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

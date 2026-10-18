@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (97 show a difference, 25 mixed, 12 no difference) · 91 studies (35 associational, 18 causal, 14 review, 8 qualitative, 7 quant-synthesis, 5 theoretical, 4 design), `q1`–`q4` · 25 of 91 report an effect size · 128 claims rest on one study
+> **Evidence** · 140 claims (99 show a difference, 29 mixed, 12 no difference) · 93 studies (35 associational, 19 causal, 14 review, 9 qualitative, 7 quant-synthesis, 5 theoretical, 4 design), `q1`–`q4` · 25 of 93 report an effect size · 134 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -173,6 +173,12 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](../claims/low-achievers-joy-predominance-knowledge-building.md) [+M] — learners who differ on it differ in outcomes
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](../claims/emotion-transition-similar-emotions-lsa.md) [+M] — learners who differ on it differ in outcomes
 - [NGI functioned as a mechanism for emotional coordination, restoring individual members' affective states through shared laughter](../claims/ngi-emotional-coordination-shared-affect.md) [+M] — instruction changes it
+- [Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems](../claims/stress-peaks-cooccur-conflict-presenting.md) [~M] — instruction changes it
+- [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](../claims/time-trends-epistemic-emotions-decline-course.md) [~M] — instruction changes it
+- [Peer discussion leading to individual resolving of an incorrect solution was interpreted as cognitive engagement favouring learning, co-occurring with peaking situational stress](../claims/peer-discussion-individual-resolution-engagement.md) [~M] — instruction changes it
+- [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Students' situational stress (ASV) values were elevated during periods when students were engaged in tasks at the whiteboard](../claims/asv-elevated-whiteboard-presentations.md) [~M] — instruction changes it
+- [Teacher's direct support of a stuck presenter corresponded with a clear decrease in situational stress (ASV)](../claims/teacher-support-asv-release.md) [+M] — instruction changes it
 
 ## The evidence by question
 

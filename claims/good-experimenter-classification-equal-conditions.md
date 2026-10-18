@@ -48,3 +48,4 @@ Individual-level analysis defined a good experimenter as designing at least seve
 - [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](explicit-cvs-knowledge-equal-conditions.md) — related
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
 - [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](robust-cvs-use-interview-gains.md) — related
+- [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related

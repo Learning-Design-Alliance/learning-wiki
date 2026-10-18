@@ -12,7 +12,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 26 claims (13 show a difference, 7 mixed, 4 no difference, 2 unmarked) · 17 studies (8 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 6 of 17 report an effect size · 24 claims rest on one study
+> **Evidence** · 27 claims (13 show a difference, 7 mixed, 5 no difference, 2 unmarked) · 18 studies (9 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 7 of 18 report an effect size · 25 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -60,6 +60,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](../claims/no-efficacy-moderation-value-path.md) [-W] — instruction changes it
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~W] — instruction changes it
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](../claims/srl-partially-mediates-identity-mastery.md) [+W] — instruction changes it
+- [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](../claims/no-competitiveness-differences-motivation-measures.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

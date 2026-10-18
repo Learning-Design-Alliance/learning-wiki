@@ -88,3 +88,4 @@ Class C also showed a curiosity–frustration–surprise–anxiety path and conf
 - [Academically low-achieving students in Knowledge Building demonstrated high joy and low frustration and boredom, with emotions transitioning to similar states](low-achievers-emotions-knowledge-building.md) — possibly the same claim (merge candidate)
 - [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](low-achievers-joy-predominance-knowledge-building.md) — related
 - [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md) — related
+- [Epistemic emotions showed no significant carry-over (autoregressive) stability from one course session to the next, except boredom after session type was included.](no-carry-over-effect-epistemic-emotions-sessions.md) — related

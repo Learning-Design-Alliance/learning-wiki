@@ -56,3 +56,4 @@ The article reports, citing Abedi and Lord (2001), that "linguistic simplificati
 
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — the general claim this finding bears on, with the studies behind it
 - Wraparound SES math gains are notable for Hispanic, female, and Title I students — related
+- [Prior meta-analytic and experimental evidence reports positive effects of linguistic simplification on learning outcomes, attributed by the review literature cited in this article](linguistic-simplification-positive-learning-outcomes-prior-evidence.md) — a broader claim this one bears on

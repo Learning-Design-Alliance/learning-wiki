@@ -47,3 +47,5 @@ The preface summarizes Grandy's chapter 'Constructivism and Objectivity: Disenta
 - Phillips criticises social constructivism for advancing strong but untenable claims that are then qualified to the level of triteness — related
 - Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised — related
 - Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms — related
+- [Empirical studies of constructivist learning environments do not always show the expected learning outcomes](constructivist-effects-not-always-expected.md) — reports the opposite
+- [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related

@@ -151,10 +151,12 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 - [Self-Regulated Learning](self-regulated-learning.md) — the plan–monitor–act cycle; a diary helped self-regulation measures only alongside taught self-regulation.
 
 ## Examples
+
 - **Reflection journals**: Learners respond regularly to prompts about what they learned, where they struggled, and what they will try next.
 - **[Dialogue journals](../strategies/dialogue-journals.md)**: Instructor and learner exchange short written responses over time.
 - **Fieldwork journals**: Learners document observations, questions, and pattern recognition during practice-based experiences.
 - **Concept journals**: Learners explain an idea in their own words and connect it to examples or prior knowledge.
+- [Use prompts in learning journals for a limited initial period; if continuing long-term, add support such as feedback, adaptive prompts, or additional help](../strategies/limit-journal-prompting-to-initial-weeks-unless-supported.md)
 
 ## Key Sources
 - Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. *TechTrends, 50*(6), 20-26. [https://doi.org/10.1007/s11528-006-7614-x](https://doi.org/10.1007/s11528-006-7614-x)

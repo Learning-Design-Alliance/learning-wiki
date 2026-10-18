@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (13 for, 6 mixed) · 33 studies (14 causal, 10 review, 7 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 11 claims rest on one study
+> **Evidence** · 22 claims (13 for, 9 mixed) · 34 studies (14 causal, 10 review, 7 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,9 @@ Claims this page cited before it was rewritten as a conditional model, and a few
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](../claims/moderate-motivation-imi-mangomon.md) [~W] — the same 21 students' questionnaire; motivation after four weeks of a gamified app was moderate, not high. Added 2026-10-05.
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](../claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) [+W] — 48 Ukrainian children aged 6–7, Kahoot! and outdoor games against traditional teaching over four weeks; confounds format, novelty, competition and being outdoors. Belongs mainly to [Game-based Learning](game-based-learning.md). Added 2026-10-05.
 - [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](../claims/contingency-reinforcement-raises-achievement.md) [+W] — a 1970 narrative survey of reinforcement studies, no effect sizes; the behaviourist side of the reward question, not gamification as such. Added 2026-10-05.
+- [Kahoot performance over a semester did not differ between high- and low-competitive undergraduates, though scores varied across time points](../claims/no-competitiveness-difference-kahoot-performance.md) [~W] — attached 2026-10-18 from Daniell DiFrancesca (2025), which proposed "Low-stakes constructive competitive review activities did not disadvantage low-competitive students relative to high-competitive students".
+- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](../claims/kahoot-enjoyment-stable-across-groups-and-time.md) [~W] — attached 2026-10-18 from Daniell DiFrancesca (2025), which proposed "Low-stakes constructive competitive review activities did not disadvantage low-competitive students relative to high-competitive students".
+- [The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester](../claims/quiz1-kahoot-moderation-competitiveness.md) [~W] — attached 2026-10-18 from Daniell DiFrancesca (2025), which proposed "Low-stakes constructive competitive review activities did not disadvantage low-competitive students relative to high-competitive students".
 
 ## Objective and learner-valued goal
 

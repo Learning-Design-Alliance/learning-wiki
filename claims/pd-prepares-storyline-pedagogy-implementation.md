@@ -49,3 +49,4 @@ The review reports, citing Watkins and Penuel (2023), self-report surveys from m
 - Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science — related
 - One teacher shifted testing and preparation practices after the student conversations, reportedly resulting in improvements on tests — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — related
+- [The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction](instructional-supports-needed-for-complex-systems-implementation.md) — related

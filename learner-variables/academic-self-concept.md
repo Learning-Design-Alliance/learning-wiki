@@ -12,7 +12,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 24 claims (21 show a difference, 1 mixed, 2 unmarked) · 18 studies (5 review, 5 associational, 3 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 4 of 18 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (26 show a difference, 2 mixed, 1 no difference, 2 unmarked) · 20 studies (6 associational, 5 review, 4 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 5 of 20 report an effect size · 30 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -58,6 +58,13 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Ninth grade marked a turning point where transitory motivation trajectories reversed direction, and these inconsistent trajectories were associated with lower AP enrollment and science performance](../claims/ninth-grade-turning-point-transitory-motivation.md) [+M] — learners who differ on it differ in outcomes
 - [Students in steadily or sharply declining motivation trajectories showed lower STEM career aspirations and lower science grades than stable-trajectory peers](../claims/declining-motivation-lower-science-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Academic achievement is moderately correlated with academic self-concept in African American middle school youth](../claims/achievement-self-concept-correlation-african-american-youth.md) [+M] — learners who differ on it differ in outcomes
+- [A 15-minute exposure to higher-performing virtual classmates did not significantly affect sixth-graders' dispositional domain-specific self-concept](../claims/no-dispositional-self-concept-effect-ivr.md) [-M] — instruction changes it
+- [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](../claims/bflpe-experimental-situational-self-concept.md) [+M] — instruction changes it
+- [Content knowledge does not significantly predict the number of experiments conducted; general cognitive ability shows a quadratic association and self-concept a negative linear association](../claims/null-ck-number-of-experiments-gca-quadratic.md) [+M] — learners who differ on it differ in outcomes
+- [Dispositional factors add little to predicting inquiry performance except physics self-concept, and extraneous load has a significant negative effect](../claims/dispositions-load-little-inquiry-prediction.md) [+M] — learners who differ on it differ in outcomes
+- [Latent profile analysis identifies three learner profiles differing in cognitive factors, self-concept, and extraneous load, with significant performance differences](../claims/three-inquiry-learner-profiles-lpa.md) [~M] — learners who differ on it differ in outcomes
+- [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](../claims/higher-perceived-performance-lowers-situational-self-concept.md) [+M] — instruction changes it
+- [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](../claims/perceived-performance-mediates-bflpe.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

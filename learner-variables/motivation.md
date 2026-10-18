@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (121 show a difference, 34 mixed, 15 no difference, 2 unmarked) · 139 studies (48 associational, 36 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 32 of 139 report an effect size · 160 claims rest on one study
+> **Evidence** · 176 claims (123 show a difference, 34 mixed, 17 no difference, 2 unmarked) · 141 studies (48 associational, 38 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 33 of 141 report an effect size · 164 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -221,6 +221,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst](../claims/observed-interest-arousal-predicts-poorer-readiness.md) [+M] — learners who differ on it differ in outcomes
 - [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](../claims/observed-persistence-predicts-school-readiness-head-start.md) [+M] — learners who differ on it differ in outcomes
 - [The reverse math-to-motivation genetic pathway is not moderated by SES, supporting a directional motivation-to-achievement relation](../claims/reverse-pathway-not-ses-moderated.md) [+M] — learners who differ on it differ in outcomes
+- [Expectancies of success and intrinsic task value positively predict achievement test scores, but language-related variables show no indirect effects on achievement via these beliefs](../claims/expectancy-value-beliefs-predict-achievement-no-indirect-language-effects.md) [+M] — learners who differ on it differ in outcomes
+- [Linguistically varying an instructional video into easy, moderate, and difficult versions does not significantly affect students’ expectancies of success or intrinsic task value compared with the moderate version](../claims/linguistic-condition-no-effect-expectancy-value-beliefs.md) [-M] — instruction changes it
+- [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [+M] — learners who differ on it differ in outcomes
+- [Short-term prompting in learning journals does not change university students' self-efficacy](../claims/short-term-prompts-do-not-change-self-efficacy.md) [-W] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

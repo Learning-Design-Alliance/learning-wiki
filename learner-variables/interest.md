@@ -12,7 +12,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (77 show a difference, 11 mixed, 6 no difference, 2 unmarked) · 80 studies (28 causal, 18 associational, 12 design, 11 review, 5 qualitative, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 15 of 80 report an effect size · 91 claims rest on one study
+> **Evidence** · 100 claims (79 show a difference, 12 mixed, 7 no difference, 2 unmarked) · 83 studies (30 causal, 19 associational, 12 design, 11 review, 5 qualitative, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 16 of 83 report an effect size · 95 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -130,6 +130,10 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items](../claims/studying-high-curiosity-items-improves-recall.md) [+M] — learners who differ on it differ in outcomes
 - [Yes/no feedback that one was wrong increased curiosity selectively for high-confidence errors, leaving curiosity about low-confidence errors largely unchanged](../claims/yes-no-feedback-high-confidence-errors-increase-curiosity.md) [+M] — instruction changes it
 - [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](../claims/yes-no-feedback-correct-answers-quench-curiosity.md) [+M] — instruction changes it
+- [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](../claims/time-trends-epistemic-emotions-decline-course.md) [+M] — instruction changes it
+- [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](../claims/perceived-support-correlates-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](../claims/kahoot-enjoyment-stable-across-groups-and-time.md) [-M] — instruction changes it
+- [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

@@ -43,4 +43,4 @@ Fragment 3: an observing student notes reported feelings 'did not show' in the c
 
 
 ## Related Claims
--
+- [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](vad-outside-view-observational-learning.md) — related

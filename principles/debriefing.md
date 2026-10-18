@@ -26,7 +26,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 35 studies (11 causal, 11 quant-synthesis, 6 review, 2 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 9 of 35 report an effect size · 8 claims rest on one study
+> **Evidence** · 20 claims (14 for, 5 mixed, 1 against) · 36 studies (11 causal, 11 quant-synthesis, 6 review, 3 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 36 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey](../claims/group-processing-perceived-value-increases-over-time.md) [+W]: retrospective ratings by 46 former seminar students of a recurring group-reflection routine (5.4 → 8.6 → 8.9 on a 10-point scale). Bears on repeating debriefs across a course as a routine learners come to value; associational, self-report.
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [~S]: the general feedback claim behind step 8; the warning that over a third of feedback interventions made performance worse is the reason a debrief's feedback must carry usable information.
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+M]: prompts to plan, monitor and evaluate in computer-based environments (g = 0.40), stronger when task-specific, adaptive and paired with feedback; used above only for the self-paced row.
+- [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](../claims/video-evidence-increases-feedback-acceptance.md) [+W] — attached 2026-10-18 from Stefan A. Schreder et al. (2025), which proposed "Implement video-assisted debriefing with careful facilitation that balances positive and negative feedback to protect psychological safety".
 
 ## Objective and learner-valued goal
 

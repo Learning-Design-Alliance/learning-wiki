@@ -12,7 +12,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (63 show a difference, 22 mixed, 9 no difference, 2 unmarked) · 62 studies (27 associational, 12 review, 10 causal, 5 qualitative, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 18 of 62 report an effect size · 90 claims rest on one study
+> **Evidence** · 97 claims (64 show a difference, 22 mixed, 9 no difference, 2 unmarked) · 63 studies (27 associational, 12 review, 11 causal, 5 qualitative, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 18 of 63 report an effect size · 91 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -131,6 +131,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](../claims/math-anxiety-performance-link-significant-grade-3.md) [+W] — learners who differ on it differ in outcomes
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+W] — learners who differ on it differ in outcomes
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](../claims/self-efficacy-and-test-anxiety-predict-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

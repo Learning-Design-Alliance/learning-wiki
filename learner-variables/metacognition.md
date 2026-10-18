@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (46 show a difference, 15 mixed, 6 no difference) · 52 studies (18 causal, 9 associational, 8 theoretical, 7 qualitative, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 13 of 52 report an effect size · 66 claims rest on one study
+> **Evidence** · 69 claims (47 show a difference, 15 mixed, 7 no difference) · 53 studies (19 causal, 9 associational, 8 theoretical, 7 qualitative, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 14 of 53 report an effect size · 68 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -108,6 +108,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [A collaborative script embedding solitary reading between planning and review episodes shaped a group's regulative activity, but only low-level regulation](../claims/script-planning-review-shaped-low-level-regulation.md) [+M] — instruction changes it
 - [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](../claims/accepted-interaction-dominant-co-construction-rare.md) [~M] — instruction changes it
 - [The 'Y-read?' collaboration script elicited mainly low-level metacognitive regulation during pre- and post-task discussions, with deep-level activities rare](../claims/collab-script-elicited-mostly-low-level-metacognitive-regulation.md) [+M] — instruction changes it
+- [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](../claims/short-term-journal-prompts-increase-metacognitive-strategy-use.md) [+M] — instruction changes it
+- [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [-M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

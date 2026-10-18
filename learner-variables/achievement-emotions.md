@@ -12,7 +12,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (42 show a difference, 8 mixed, 5 no difference, 2 unmarked) · 45 studies (13 causal, 10 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 6 of 45 report an effect size · 54 claims rest on one study
+> **Evidence** · 62 claims (43 show a difference, 12 mixed, 5 no difference, 2 unmarked) · 47 studies (14 causal, 11 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 7 of 47 report an effect size · 59 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -91,6 +91,11 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](../claims/sequential-patterns-curiosity-confusion-joy.md) [+M] — instruction changes it
 - [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](../claims/low-achievers-joy-predominance-knowledge-building.md) [+M] — instruction changes it
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](../claims/emotion-transition-similar-emotions-lsa.md) [+M] — instruction changes it
+- [Attending a game session rather than a lecture increased all epistemic emotions except boredom among university students in a Diplomacy-based international relations course.](../claims/game-sessions-increase-epistemic-emotions-except-boredom.md) [~M] — instruction changes it
+- [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](../claims/time-trends-epistemic-emotions-decline-course.md) [~M] — instruction changes it
+- [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](../claims/perceived-support-correlates-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [The session-type-by-time interaction showed anxiety increasing in game sessions while decreasing in lectures, and confusion declining more steeply in game sessions.](../claims/session-type-time-interaction-anxiety-confusion.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

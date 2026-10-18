@@ -44,3 +44,4 @@ Theoretical argument in the article's review of additive TPACK–belief integrat
 - Capability and PBC must be separated by a priori discriminant-validity criteria including HTMT below .85 — a broader claim this one bears on
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — a narrower finding that bears on this claim
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
+- [The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction](instructional-supports-needed-for-complex-systems-implementation.md) — related

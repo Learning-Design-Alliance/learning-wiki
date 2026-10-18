@@ -51,3 +51,4 @@ The study's headline comparison, stated in the article's report of results, cont
 - [Among 166 sixth graders, social CPS skill levels were mostly high while cognitive CPS skill levels were mostly low across four ATC21S CPS tasks](sixth-graders-high-social-low-cognitive-cps-skill-distribution.md) — related
 - [Essential Olive Oil task actions T3 and A47 were conducted by few dyads, marking key difficulties in the solution path](infrequent-essential-actions-t3-a47-key-difficulties.md) — related
 - [No significant difference found across pair compositions in alternating sequences of two or three actions during CPS](no-pair-difference-alternating-action-sequences.md) — related
+- [Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs](content-analysis-little-variation-problem-reanalysis-most-frequent.md) — related
