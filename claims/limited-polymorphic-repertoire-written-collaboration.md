@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-006-9001-1"
     title: "Nathan Dwyer & Daniel D. Suthers. (2006). Consistent practices in artifact-mediated collaboration. Computer-Supported Collaborative Learning 1: 481–511. https://doi.org/10.1007/s11412-006-9001-1"
     author: "Nathan Dwyer & Daniel D. Suthers"
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: nathan-dwyer-daniel-d-suthers-2006-2
     resource: "https://doi.org/10.1007/s11412-006-9001-1"
     title: "Nathan Dwyer & Daniel D. Suthers. (2006). Consistent practices in artifact-mediated collaboration. Computer-Supported Collaborative Learning 1: 481–511. https://doi.org/10.1007/s11412-006-9001-1"
     author: "Nathan Dwyer & Daniel D. Suthers"
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite wide material variety, every pair constrained itself to one or two material types used almost exclusively. [→ Nathan Dwyer & Daniel D. Suthers 2006](#nathan-dwyer-daniel-d-suthers-2006)
@@ -31,7 +42,7 @@ sources:
 
 Nathan Dwyer & Daniel D. Suthers. (2006). Consistent practices in artifact-mediated collaboration. Computer-Supported Collaborative Learning 1: 481–511. https://doi.org/10.1007/s11412-006-9001-1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Across the unrestricted-supply sessions, "every pair constrained themselves to a very limited subset of the materials," typically one or two types, with new types introduced mainly to distinguish information types.
 
@@ -41,7 +52,7 @@ Across the unrestricted-supply sessions, "every pair constrained themselves to a
 
 Nathan Dwyer & Daniel D. Suthers. (2006). Consistent practices in artifact-mediated collaboration. Computer-Supported Collaborative Learning 1: 481–511. https://doi.org/10.1007/s11412-006-9001-1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The analysis found pointing, underlining and question marks each served several functions depending on context; the authors note participants "seemed to have almost no problem correctly interpreting each others ’ actions."
 

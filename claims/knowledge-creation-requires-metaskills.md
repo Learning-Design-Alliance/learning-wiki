@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-009-9065-9"
     title: "Gerry Stahl & Friedrich Hesse. (2009). Practice perspectives in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9065-9"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Becoming knowledge-creating learners requires developing specific metaskills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students tend to stick with accustomed genres of practice, sharing opinions more than building on shared knowledge objects; becoming knowledge-creating learners requires development of specific metaskills. [→ Gerry Stahl & Friedrich Hesse 2009](#gerry-stahl-friedrich-hesse-2009)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich Hesse. (2009). Practice perspectives in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9065-9
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The editorial reports, from the Muukkonen and Lakkala article using a coding scheme for knowledge-creation practices, the kinds of problems students have when enacting their own knowledge-creation practices.
 

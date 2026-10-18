@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-012-9148-x"
     title: "Gerry Stahl. (2012). Cognizing mediating: Unpacking the entanglement of artifacts with collective minds. Computer-Supported Collaborative Learning 7:187–191. https://doi.org/10.1007/s11412-012-9148-x"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Combining algebra tutoring technology with scripting for small-group learning: different team enactments can obscure averaged statistical measures of learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a study combining algebra tutoring technology with scripting for small-group learning, different enactments by different teams can obscure statistical measures of learning that average across cases, so narrative analysis of specific cases provides incisive insight. [→ Gerry Stahl 2012](#gerry-stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2012). Cognizing mediating: Unpacking the entanglement of artifacts with collective minds. Computer-Supported Collaborative Learning 7:187–191. https://doi.org/10.1007/s11412-012-9148-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Editorial discussion of the empirical study by Rummel, Mullins & Spada combining algebra tutoring technology with scripting for small-group learning. Consistent with instrumental genesis, use of new technologies by student groups must be enacted by the students, so conditions with and without computer support involve significantly different tasks.
 

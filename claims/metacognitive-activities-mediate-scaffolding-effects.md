@@ -12,10 +12,17 @@ sources:
   - id: molenaar-2011
     resource: "https://doi.org/10.1007/s11412-011-9130-z"
     title: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of small groups' metacognitive activities with an avatar. Computer-Supported Collaborative Learning, 6, 601-624. https://doi.org/10.1007/s11412-011-9130-z"
-    author: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C"
+    author: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Metacognitive activities mediate the effects of metacognitive scaffolds on both domain and metacognitive knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Controlling for individual metacognitive activities reduced scaffold regression coefficients substantially, confirming mediation. [→ Molenaar 2011](#molenaar-2011)
@@ -26,7 +33,7 @@ sources:
 
 Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of small groups' metacognitive activities with an avatar. Computer-Supported Collaborative Learning, 6, 601-624. https://doi.org/10.1007/s11412-011-9130-z
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Multilevel mediation tests (Krull and MacKinnon) on metacognitive knowledge: coefficients reduced by 86% and 77%, with printed mediation correlations r=.39 and r=.50 (r=.50 exceeds .37, hence impact 3). A separate test showed a 35% reduction for problematizing scaffolds on domain knowledge.
 

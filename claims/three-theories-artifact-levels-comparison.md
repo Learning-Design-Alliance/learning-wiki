@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-012-9148-x"
     title: "Gerry Stahl. (2012). Cognizing mediating: Unpacking the entanglement of artifacts with collective minds. Computer-Supported Collaborative Learning 7:187–191. https://doi.org/10.1007/s11412-012-9148-x"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Affordances theory focuses on the individual, structuration on the societal or cultural level, and instrumental genesis applies naturally to the small-group collective level central to CSCL. [→ Gerry Stahl 2012](#gerry-stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2012). Cognizing mediating: Unpacking the entanglement of artifacts with collective minds. Computer-Supported Collaborative Learning 7:187–191. https://doi.org/10.1007/s11412-012-9148-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Theoretical comparison in the editorial's discussion of the issue's first article, which compared the three theories using a concrete case study of a typical CSCL setting. The editorial states the contrast in levels: "The theory of affordances tends to focus on the individual" while structuration "focuses on the societal or cultural level."
 

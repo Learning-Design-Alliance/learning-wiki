@@ -16,6 +16,9 @@ sources:
 
 # Train students in new communication practices rather than merely providing digital media
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because students carry accustomed genres into new media, changing computer-mediated interaction toward scientific conjecture and refutation requires deliberate training in new practices. The editorial states that moving toward 'genres of logical deduction and scientific conjectures or refutations, requires training the students in new practices, not merely providing digital media.'
 

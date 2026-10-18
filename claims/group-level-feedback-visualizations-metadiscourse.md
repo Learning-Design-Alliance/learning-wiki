@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-015-9220-4"
     title: "Gerry Stahl. (2015). Conceptualizing the intersubjective group. Intern. J. Comput.-Support. Collab. Learn 10:209–217. https://doi.org/10.1007/s11412-015-9220-4"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
   - id: gerry-stahl-2015-2
     resource: "https://doi.org/10.1007/s11412-015-9220-4"
     title: "Gerry Stahl. (2015). Conceptualizing the intersubjective group. Intern. J. Comput.-Support. Collab. Learn 10:209–217. https://doi.org/10.1007/s11412-015-9220-4"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Group-level feedback visualizations increased shared vocabulary connections, but student metadiscourse remained teacher-dependent
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the Resendes et al. study, social-network analysis of Knowledge Forum notes showed control-condition students mostly weakly connected while experimental-condition students were strongly connected through shared vocabulary terms, indicating higher intersubjective shared understanding. [→ Gerry Stahl 2015](#gerry-stahl-2015)
@@ -31,7 +42,7 @@ sources:
 
 Gerry Stahl. (2015). Conceptualizing the intersubjective group. Intern. J. Comput.-Support. Collab. Learn 10:209–217. https://doi.org/10.1007/s11412-015-9220-4
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The editorial describes Resendes et al.'s mixed-methods study using a Knowledge Forum database, with social-network analysis of shared notes capturing outcomes at the group level. Connections represent sharing of vocabulary terms, indicating higher shared understanding in experimental groups. No effect sizes are printed.
 
@@ -41,7 +52,7 @@ The editorial describes Resendes et al.'s mixed-methods study using a Knowledge 
 
 Gerry Stahl. (2015). Conceptualizing the intersubjective group. Intern. J. Comput.-Support. Collab. Learn 10:209–217. https://doi.org/10.1007/s11412-015-9220-4
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The editorial reports that although interaction excerpts showed the experimental group comprehended the visualizations of their group discourse, the primary metadiscourse moves came from the teacher. The study thus "merely indicates a potential" for group-level formative assessment visualizations. No effect sizes are printed.
 

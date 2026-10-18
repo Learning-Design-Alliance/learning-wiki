@@ -16,6 +16,9 @@ sources:
 
 # Promote knowledge creation by coordinating group practices, technology affordances, interaction genres, community metaskills, and trialogical learning through design-based research
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Drawing on Hakkarainen's reflection, facilitating sharing and building on ideas is not enough; a classroom must develop a culture of knowledge-creation practices, with technology iteratively developed in response to enacted student practices. All factors 'must move in a coordinated and coherent unity of design-based research driving change in group practices, technology affordances, interaction genres, community metaskills, and trialogical learning.'
 

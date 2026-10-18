@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-013-9171-6"
     title: "Gerry Stahl. (2013). Transactive discourse in CSCL. Computer-Supported Collaborative Learning 8:145–147. https://doi.org/10.1007/s11412-013-9171-6"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Student blogging supports transactive building and emergent common knowledge in a persistent community blogosphere
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Alterman and Larusson analyze loosely coordinated blogging, where predominantly individual writing and reading nonetheless provides transactive building on other students' reasoning and, over time, emergence of common knowledge in a persistent, growing community blogosphere. [→ Gerry Stahl 2013](#gerry-stahl-2013)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2013). Transactive discourse in CSCL. Computer-Supported Collaborative Learning 8:145–147. https://doi.org/10.1007/s11412-013-9171-6
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Editorial summary of Alterman and Larusson's extended theoretical and empirical analysis of knowledge creation in loosely coordinated learning activities, contrasted with meaning making in tightly coupled joint problem spaces more common in CSCL research.
 

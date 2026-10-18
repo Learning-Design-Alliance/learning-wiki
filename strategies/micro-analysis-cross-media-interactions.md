@@ -16,6 +16,9 @@ sources:
 
 # Use micro-analysis of cross-media interactions to study technology appropriation in networked classrooms
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's methodological strategy is to deploy "micro-analysis of cross-media interactions" to unravel how different groups of students evolve alternative approaches to appropriating a technology. This means examining interactions as they spread across face-to-face and online media in the networked classroom, in the context of collaborative second-language writing, rather than analyzing each medium separately.
 

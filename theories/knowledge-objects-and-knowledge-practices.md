@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 qualitative, 1 review), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -37,7 +37,11 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - Developing the collective capacity to attend to interdisciplinary problems, take responsibility, frame one's own and others' expertise, cross disciplinary boundaries, concretize and explore new knowledge, and reflect on and expand the group's own practices
 
 ## Claims
+
 - [Organization simulation knowledge practices support interdisciplinary learning](../claims/organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) [+M]
+- [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](../claims/knowledge-creation-coding-scheme-distinguishes-groups.md) [+W] — attached 2026-10-18 from Gerry Stahl et al. (2009), which proposed "Distinction of knowledge creation (community improvement of ideas) from knowledge sharing (transmission) and knowledge construction (individual constructionist)".
+- [Productive interactions in long-term small-group collaboration take different forms, with discourse-based and object-oriented patterns the most relevant](../claims/productive-interactions-discourse-and-object-oriented-forms.md) [+W] — attached 2026-10-18 from Damşa (2014), which proposed "Multi-layer analytic framework linking productive interaction, knowledge objects, and shared epistemic agency over time".
+- [Groups performing generative epistemic actions more frequently produced higher-quality knowledge objects than a division-of-labor group](../claims/generative-epistemic-actions-higher-object-quality.md) [+W] — attached 2026-10-18 from Damşa (2014), which proposed "Shared epistemic agency as an emerging, group-level capacity for deliberate joint object-oriented interaction"; tests this page's relationship.
 
 ## Related Theories
 

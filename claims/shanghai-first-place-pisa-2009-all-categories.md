@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9112-1"
     title: "Gerry Stahl & Friedrich Hesse. (2011). CSCL in Asia. Computer-Supported Collaborative Learning 6:1–7. https://doi.org/10.1007/s11412-011-9112-1"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Shanghai students took first place in all three major PISA 2009 categories, with Asian countries dominating the top rankings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the PISA 2009 results, Shanghai ranked first in reading, science, and mathematics, and five of the six top-placing countries were Asian. [→ Gerry Stahl & Friedrich Hesse 2011](#gerry-stahl-friedrich-hesse-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich Hesse. (2011). CSCL in Asia. Computer-Supported Collaborative Learning 6:1–7. https://doi.org/10.1007/s11412-011-9112-1
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The editorial reports the released PISA 2009 results, in which "Shanghai took first place in all three major categories" among over sixty countries tested; the rankings are also shown in Table 1.
 

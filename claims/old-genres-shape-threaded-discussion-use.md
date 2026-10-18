@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-009-9065-9"
     title: "Gerry Stahl & Friedrich Hesse. (2009). Practice perspectives in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9065-9"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Students enact new CSCL technologies according to communication genres of the past, producing informal rather than scholarly discourse
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students use threaded discussion forums designed for knowledge building in ways reflecting the genre of personal letters and informal social conversation, engaging in socializing, joking, and posting statements of little intellectual depth. [→ Gerry Stahl & Friedrich Hesse 2009](#gerry-stahl-friedrich-hesse-2009)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich Hesse. (2009). Practice perspectives in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9065-9
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The editorial reports, from Friesen's article in the issue, that student discourse in threaded forums shows characteristics of the epistle rather than scholarly argumentation, echoing earlier disappointing findings of Hakkarainen.
 

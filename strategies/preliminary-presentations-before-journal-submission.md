@@ -16,6 +16,9 @@ sources:
 
 # Develop papers through successive preliminary presentations to gather peer feedback before journal submission
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editors recommend that authors mature a paper through a sequence of lower-stakes venues before submitting to a journal. They advise that "authors should develop their papers through a series of preliminary presentations — such as local research talks, posters, workshop contributions, conference papers, book chapters— in order to receive peer feedback and successively expand and refine their arguments." This accompanies a rising competition for publication (a 21% acceptance rate in 2011).
 

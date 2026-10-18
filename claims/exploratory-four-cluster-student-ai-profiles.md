@@ -64,3 +64,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity](four-artifact-revision-profiles-ai-supported-inquiry.md) — related
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
+- [A cluster of highly active learners driving the learning communities included equally many low-hierarchy as high-hierarchy members](active-driver-cluster-includes-low-hierarchy-leaders.md) — related

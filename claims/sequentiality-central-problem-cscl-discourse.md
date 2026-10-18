@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-009-9077-5"
     title: "Gerry Stahl & Friedrich Hesse. (2010). The CSCL field matures. Computer-Supported Collaborative Learning 5:1–3. https://doi.org/10.1007/s11412-009-9077-5"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The temporal structure by which one action takes up the contribution of a previous action underlies collaborative learning, yet theories and methods have not sufficiently focused on it. [→ Gerry Stahl & Friedrich Hesse 2010](#gerry-stahl-friedrich-hesse-2010)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich Hesse. (2010). The CSCL field matures. Computer-Supported Collaborative Learning 5:1–3. https://doi.org/10.1007/s11412-009-9077-5
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 Editors' framing (type e) of the Suthers, Dwyer, Medina and Vatrapu opening article, presenting their Hawaii lab's thinking on sequentiality. The editors state this temporal structure "underlies the possibility of collaborative learning."
 

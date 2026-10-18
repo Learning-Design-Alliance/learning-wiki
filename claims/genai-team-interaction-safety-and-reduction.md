@@ -71,3 +71,4 @@ The review reports concerns from He et al. (2024) and Kiesler et al. (2025) that
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum](hybrid-work-human-ai-duality.md) — related
+- [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related

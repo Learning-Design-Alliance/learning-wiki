@@ -12,10 +12,17 @@ sources:
   - id: kolloffel-2011
     resource: "https://doi.org/10.1007/s11412-011-9110-3"
     title: "Kolloffel, B., Eysink, T. H. S., & de Jong, T. (2011). Comparing the effects of representational tools in collaborative and individual inquiry learning. Computer-Supported Collaborative Learning, 6, 223–251. https://doi.org/10.1007/s11412-011-9110-3"
-    author: "Kolloffel, B., Eysink, T. H. S., & de Jong, T"
+    author: "Kolloffel, B., Eysink, T. H. S., & de Jong, T."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Significant main effects of setting, format, and tool-use on situational knowledge favoring collaboration, the arithmetical format, and tool-use. [→ Kolloffel 2011](#kolloffel-2011)
@@ -27,7 +34,7 @@ sources:
 
 Kolloffel, B., Eysink, T. H. S., & de Jong, T. (2011). Comparing the effects of representational tools in collaborative and individual inquiry learning. Computer-Supported Collaborative Learning, 6, 223–251. https://doi.org/10.1007/s11412-011-9110-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANOVA on situational knowledge (max 4, no covariates) in the 61-dyad/95-individual experiment showed main effects of setting, format, and tool-use, plus a setting × tool-use interaction, F(1,205)=10.12, p<.01.
 

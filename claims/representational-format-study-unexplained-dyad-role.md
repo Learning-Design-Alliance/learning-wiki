@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9118-8"
     title: "Gerry Stahl & Friedrich Hesse. (2011). Let a hundred flowers bloom; let a hundred schools of thought contend. Computer-Supported Collaborative Learning, 6, 139-145. https://doi.org/10.1007/s11412-011-9118-8"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Quantitative experimental results on representational formats left the role of representations in dyad discussion unexplained
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a classroom experiment comparing concept maps, textual summaries, and mathematical equations across individual and dyad settings, some hypotheses were confirmed and others were not, and the explanation was left for speculation. [→ Gerry Stahl & Friedrich Hesse 2011](#gerry-stahl-friedrich-hesse-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich Hesse. (2011). Let a hundred flowers bloom; let a hundred schools of thought contend. Computer-Supported Collaborative Learning, 6, 139-145. https://doi.org/10.1007/s11412-011-9118-8
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The editorial's account of the Kolloffel, Eysink and de Jong quantitative classroom experiment, in which students in individual and dyad settings were randomly divided across three representational formats with pre- and post-tests. The editorial reports that "some hypotheses were confirmed and others were not" without printed statistics.
 

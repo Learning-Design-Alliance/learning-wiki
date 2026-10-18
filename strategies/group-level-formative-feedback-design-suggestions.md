@@ -16,6 +16,9 @@ sources:
 
 # Design suggestions for group-level formative feedback visualizations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 From the Resendes et al. study, the article distills design suggestions: "group-level formative feedback can represent group vocabulary; support the group to evaluate its own progress; give feedback on secondary processes" such as vocabulary building rather than directly on learning or task accomplishment; "suggest positive steps (rather than just identify deficiencies)"; facilitate group self-assessment; and guide individual students to become more effective group members.
 

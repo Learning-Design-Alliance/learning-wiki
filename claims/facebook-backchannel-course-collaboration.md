@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9128-6"
     title: "Gerry Stahl & Friedrich W. Hesse & Nancy Law. (2011). Tweets from #cscl2011. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9128-6"
     author: "Gerry Stahl & Friedrich W. Hesse & Nancy Law"
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Students re-purpose social networking tools like Facebook as course back-channels, and user characteristics correlate with reported propensity to collaborate
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Surveyed students report course-related Facebook use, with nuanced correlations between user characteristics and propensity to engage in various forms of course collaboration. [→ Gerry Stahl & Friedrich W. Hesse & Nancy Law 2011](#gerry-stahl-friedrich-w-hesse-nancy-law-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich W. Hesse & Nancy Law. (2011). Tweets from #cscl2011. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9128-6
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 The editorial reports, citing Lampe, Wohn, Vitak, Ellison and Wash, a sequence of two survey-based investigations of students' course-related Facebook use. The editorial notes the correlations are between user characteristics and reported propensity to collaborate; actual course behavior was not examined.
 

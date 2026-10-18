@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9128-6"
     title: "Gerry Stahl & Friedrich W. Hesse & Nancy Law. (2011). Tweets from #cscl2011. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9128-6"
     author: "Gerry Stahl & Friedrich W. Hesse & Nancy Law"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Long-term learning gains may be optimized in collaborative situations that display discouraging short-term process costs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Long-term learning gains may be optimized in situations that display discouraging short-term process costs, as in recent studies of productive failure. [→ Gerry Stahl & Friedrich W. Hesse & Nancy Law 2011](#gerry-stahl-friedrich-w-hesse-nancy-law-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich W. Hesse & Nancy Law. (2011). Tweets from #cscl2011. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9128-6
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial discusses Wang, Rosé and Chang's study of brainstorming and group-process losses, distinguishing connection-based and multi-perspective learning. It presents the tradeoff as an appearance requiring careful analysis, not a tested conclusion of this editorial.
 

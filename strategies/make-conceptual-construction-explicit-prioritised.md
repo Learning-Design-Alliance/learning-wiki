@@ -16,6 +16,9 @@ sources:
 
 # Make conceptual knowledge construction explicit in the CSCL environment and give it prioritised value among teachers and schools
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that procedural problem solving dominated, the authors argue that redesign must work on two fronts: "making conceptual knowledge constructions in science education explicit in the CSCL environment, and to encouraging the teachers and the school as a curriculum deliverer to give this kind of knowledge construction a prioritised value". This targets the institutional root cause they identify, not only the tool design.
 
@@ -35,7 +38,7 @@ Based on the finding that procedural problem solving dominated, the authors argu
 - constructing scientific concepts as part of a larger conceptual system
 
 ### Affordances
-- [Sociocultural Mediation Three Tools](../theories/sociocultural-mediation-three-tools.md)
+- [Sociocultural Mediation Three Tools](../theories/cultural-historical-activity-theory.md)
 
 ## Related Strategies
 - 

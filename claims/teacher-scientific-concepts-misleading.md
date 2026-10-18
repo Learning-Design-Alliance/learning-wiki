@@ -12,14 +12,25 @@ sources:
   - id: krange-2008
     resource: "https://doi.org/10.1007/s11412-007-9030-4"
     title: "Krange, I., & Ludvigsen, S. (2008). What does it mean? Students' procedural and conceptual problem solving in a CSCL environment designed within the field of science education. Computer-Supported Collaborative Learning, 3, 25-51. https://doi.org/10.1007/s11412-007-9030-4"
-    author: "Krange, I., & Ludvigsen, S"
+    author: "Krange, I., & Ludvigsen, S."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
   - id: krange-2008-2
     resource: "https://doi.org/10.1007/s11412-007-9030-4"
     title: "Krange, I., & Ludvigsen, S. (2008). What does it mean? Students' procedural and conceptual problem solving in a CSCL environment designed within the field of science education. Computer-Supported Collaborative Learning, 3, 25-51. https://doi.org/10.1007/s11412-007-9030-4"
-    author: "Krange, I., & Ludvigsen, S"
+    author: "Krange, I., & Ludvigsen, S."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Teacher and peer explanations of the scientific concepts during problem solving were at times scientifically misleading or wrong
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The teacher's explanation that proteins 'chain together' was wrong, since it is amino acids that chain together and constitute the protein. [→ Krange 2008](#krange-2008)
@@ -31,7 +42,7 @@ sources:
 
 Krange, I., & Ludvigsen, S. (2008). What does it mean? Students' procedural and conceptual problem solving in a CSCL environment designed within the field of science education. Computer-Supported Collaborative Learning, 3, 25-51. https://doi.org/10.1007/s11412-007-9030-4
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the analysis of Extract 1, the teacher's website-based explanation starts correctly but becomes misleading: "his use of the scientific concepts become misleading". The authors note neither Pat nor the teacher opened any follow-up confirming a shared approach to the concepts.
 
@@ -41,7 +52,7 @@ In the analysis of Extract 1, the teacher's website-based explanation starts cor
 
 Krange, I., & Ludvigsen, S. (2008). What does it mean? Students' procedural and conceptual problem solving in a CSCL environment designed within the field of science education. Computer-Supported Collaborative Learning, 3, 25-51. https://doi.org/10.1007/s11412-007-9030-4
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the analysis of Extract 2, Pat calls the 3D model's floating balls proteins, which "is actually wrong, as these represent amino acids in the 3D model"; the teacher first correctly calls protein a collection of amino acids, then says it is acids or proteins, increasing confusion.
 

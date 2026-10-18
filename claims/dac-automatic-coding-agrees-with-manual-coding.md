@@ -12,10 +12,17 @@ sources:
   - id: erkens-2008
     resource: "https://doi.org/10.1007/s11412-008-9052-6"
     title: "Erkens, G., & Janssen, J. (2008). Automatic coding of dialogue acts in collaboration protocols. Computer-Supported Collaborative Learning, 3, 447-470. https://doi.org/10.1007/s11412-008-9052-6"
-    author: "Erkens, G., & Janssen, J"
+    author: "Erkens, G., & Janssen, J."
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Comparing automatically coded dialogue acts to a human coder's coding of the same 1,000 chat messages yields 79.0% overall agreement and Cohen's kappa of 0.75 (85.6% and 0.84 when InfStm? codes are excluded). [→ Erkens 2008](#erkens-2008)
@@ -26,7 +33,7 @@ sources:
 
 Erkens, G., & Janssen, J. (2008). Automatic coding of dialogue acts in collaboration protocols. Computer-Supported Collaborative Learning, 3, 447-470. https://doi.org/10.1007/s11412-008-9052-6
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Reliability analysis comparing DAC-filter coding to a human coder familiar with the 29 dialogue acts on two random segments of 500 chat messages each from Study 2. The article reports "79.0%" agreement and kappa "0.75", which it calls "evidence for the reliability of the automatic coding procedure".
 

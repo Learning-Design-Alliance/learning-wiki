@@ -12,10 +12,17 @@ sources:
   - id: stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9159-7"
     title: "Stahl, G. (2012). Traversing planes of learning. Computer-Supported Collaborative Learning, 7, 467–473. https://doi.org/10.1007/s11412-012-9159-7"
-    author: Stahl, G
+    author: Stahl, G.
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Journal papers function as resources traversing planes of community knowledge building
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The published paper, with its references to other published papers, is a key resource connecting individual researchers' ideas to group contexts and the research community. [→ Stahl 2012](#stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Stahl, G. (2012). Traversing planes of learning. Computer-Supported Collaborative Learning, 7, 467–473. https://doi.org/10.1007/s11412-012-9159-7
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument about the ijCSCL journal's evolution, citing Latour and Woolgar's finding that research is mediated by concrete inscriptions. Individual ideas are inseparable from group contexts such as research labs and shared paradigms. No new data are reported.
 

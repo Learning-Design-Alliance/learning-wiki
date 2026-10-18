@@ -16,6 +16,9 @@ sources:
 
 # Renew analytic attention to the teacher's work in studies of collaborative learning
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The paper recommends that CSCL research renew its interest in teachers, since detailed accounts of collaborative learning focus almost entirely on pupil interaction and leave the teacher absent. It concludes "it may be time to renew our interest in the work of teachers in the analysis of collaborative learning activities", building on exceptions such as Mercer and Fisher's study of teacher interventions and Roth's study of teacher-pupil interaction.
 

@@ -16,6 +16,9 @@ sources:
 
 # Use hedges, hypotheticals and questions to open space for safe exploration of new ideas
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial describes how learners working on new ideas can use tentative phrasing to invite negotiation rather than assert certitude: "By using hedges, hypotheticals and questions, people can open up a space for safe exploration and provisional statements." Writing ideas online for others treats expressions of learning as dialogical acts conducive to learning through negotiation over time. This strategy arises from the Jordan et al. study of uncertainty in collaborative learning.
 

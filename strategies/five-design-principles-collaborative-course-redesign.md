@@ -16,6 +16,9 @@ sources:
 
 # Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article reports five design principles used to redesign the course: collaborative projects involving social interaction replaced individual assignments; open-ended and complex problems requiring inquiry were introduced; shared knowledge objects were requested as part of envisioned solutions; technology mediation via an online collaboration application replaced a course management system; and interactive mentoring and supervision sessions on an as-needed basis replaced lectures. The participating teacher was involved in the re-design, and students were encouraged to organize and manage their own projects using skills from prior research courses.
 

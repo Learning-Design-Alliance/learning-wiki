@@ -12,10 +12,17 @@ sources:
   - id: erkens-2008
     resource: "https://doi.org/10.1007/s11412-008-9052-6"
     title: "Erkens, G., & Janssen, J. (2008). Automatic coding of dialogue acts in collaboration protocols. Computer-Supported Collaborative Learning, 3, 447-470. https://doi.org/10.1007/s11412-008-9052-6"
-    author: "Erkens, G., & Janssen, J"
+    author: "Erkens, G., & Janssen, J."
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Automatically coded dialogue acts distinguish male and female students' online communication
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a two-level multilevel model of Study 1, female students used relatively more argumentatives (more reasons and conclusions) and more confirmations, while male students used more informative statements, nonsense statements, negative evaluations, and imperatives. [→ Erkens 2008](#erkens-2008)
@@ -26,7 +33,7 @@ sources:
 
 Erkens, G., & Janssen, J. (2008). Automatic coding of dialogue acts in collaboration protocols. Computer-Supported Collaborative Learning, 3, 447-470. https://doi.org/10.1007/s11412-008-9052-6
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Multilevel analysis (students within groups) of 19,889 automatically coded chat messages from 40 female and 25 male students in 21 groups. The article reports "female students used relatively more argumentatives than male students did" and male students "more imperative dialogue acts". No standardized effect sizes are printed (betas are unstandardized), so impact is null.
 

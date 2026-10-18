@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-015-9210-6"
     title: "Andrea Forte. (2015). The new information literate: Open collaboration and information production in schools. Intern. J. Comput.-Support. Collab. Learn. 10:35–51. https://doi.org/10.1007/s11412-015-9210-6"
     author: Andrea Forte
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # High school students used Google page rank as a first-order heuristic for relevance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When choosing among many possible sources, students frequently applied Google page rank as a proxy for relevance, a first-order strategy adopted uncritically. [→ Andrea Forte 2015](#andrea-forte-2015)
@@ -26,7 +33,7 @@ sources:
 
 Andrea Forte. (2015). The new information literate: Open collaboration and information production in schools. Intern. J. Comput.-Support. Collab. Learn. 10:35–51. https://doi.org/10.1007/s11412-015-9210-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative field study of students' search and assessment practices in two high school wiki projects; interview accounts showed students treating top-ranked Google results as "obviously relevant" though none could explain the ranking algorithm.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-007-9035-z"
     title: "Ulrike Cress & Joachim Kimmerle. (2008). A systemic and cognitive view on collaborative knowledge building with wikis. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-007-9035-z"
     author: "Ulrike Cress & Joachim Kimmerle"
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Following Hunt (1965), the article proposes an inverted u-shaped relation between incongruity and cognitive conflict: very small or very large incongruity produces no equilibration, while medium incongruity motivates assimilation or accommodation. [→ Ulrike Cress & Joachim Kimmerle 2008](#ulrike-cress-joachim-kimmerle-2008)
@@ -26,7 +33,7 @@ sources:
 
 Ulrike Cress & Joachim Kimmerle. (2008). A systemic and cognitive view on collaborative knowledge building with wikis. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-007-9035-z
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical proposal in the Motivational processes section, displayed in Fig. 3 as an inverted u-shaped relation for four levels of topic valence. If incongruity is very small there is no need for equilibration; if very large, wiki information and knowledge are hardly perceived as one topic. No empirical test is reported.
 

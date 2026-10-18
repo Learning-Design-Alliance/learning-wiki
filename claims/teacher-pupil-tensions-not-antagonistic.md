@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9134-8"
     title: "Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8"
     author: Christian Greiffenhagen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Although tensions exist between teacher and pupil perspectives, the analyzed episodes show these do not take the form of antagonistic struggles. [→ Christian Greiffenhagen 2011](#christian-greiffenhagen-2011)
@@ -26,7 +33,7 @@ sources:
 
 Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The paper's second stated argument, from close analysis of teacher-pupil episodes in the storyboarding lessons: "there may be tensions between the perspectives of teachers and pupils" yet not antagonistic struggles.
 

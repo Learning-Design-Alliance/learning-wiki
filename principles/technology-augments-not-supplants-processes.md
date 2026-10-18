@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 137 claims (87 for, 41 mixed, 9 against) · 110 studies (26 qualitative, 25 theoretical, 22 review, 17 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 110 report an effect size · 133 claims rest on one study
+> **Evidence** · 138 claims (88 for, 41 mixed, 9 against) · 111 studies (27 qualitative, 25 theoretical, 22 review, 17 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 111 report an effect size · 134 claims rest on one study
 
 ## Conditional relationship
 
@@ -249,6 +249,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](../claims/magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) [~W]
 - [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](../claims/stair-step-solar-wind-inputs-improve-lab-results.md) [+W]
 - [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](../claims/llm-over-reliance-deskilling-risk.md) [+W] — attached 2026-10-15 from Huber et al. (2024), which proposed "Treat LLMs as tools for meaningful playful activity rather than as means to outsource task accomplishment".
+- [A representational tool offers beneficial affordances that supplement face-to-face communication for second-language learning](../claims/representational-tool-affordances-supplement-face-to-face-l2.md) [+W] — attached 2026-10-18 from Wen et al. (2015), which proposed "Design collaborative L2 learning in networked classrooms so that representational tools supplement face-to-face communication"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

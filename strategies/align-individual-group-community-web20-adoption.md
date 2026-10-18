@@ -14,6 +14,9 @@ sources:
 
 # Aligning learning at individual, small-group, and community levels when adopting Web 2.0 in education
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial identifies a recurring design challenge for educational Web 2.0 adoption: conventional educational structures (individual-outcome focus, grading systems, instruction traditions) conflict with Web 2.0's collective orientation. It frames "the fundamental tension in collaborative learning: how to align and integrate learning at the individual, small-group, and community levels." Adopters must design for all three levels simultaneously.
 

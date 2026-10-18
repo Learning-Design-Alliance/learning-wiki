@@ -12,10 +12,17 @@ sources:
   - id: stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9155-y"
     title: "Stahl, G., Law, N., & Hesse, F. (2012). An international research community. Computer-Supported Collaborative Learning, 7, 341–345. https://doi.org/10.1007/s11412-012-9155-y"
-    author: "Stahl, G., Law, N., & Hesse, F"
+    author: "Stahl, G., Law, N., & Hesse, F."
+    q: 1
+    i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Effective collaborative learning in discussion forums requires relatively small group sizes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r?` · `q1`
 
 ## Subclaims
 `q1 i?` As the editors summarize the Qiu, Hewitt, and Brett study, students cannot relate deeply to discussions involving too many participants, so effective forum-based collaborative learning requires relatively small groups. [→ Stahl 2012](#stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Stahl, G., Law, N., & Hesse, F. (2012). An international research community. Computer-Supported Collaborative Learning, 7, 341–345. https://doi.org/10.1007/s11412-012-9155-y
 
-`q1 · i?`
+`q1 · i?` · `review · r?`
 
 Editorial summary of the study by Mingzhu Qiu, Jim Hewitt, and Clare Brett in the same issue; the editors describe it as a careful study refining understanding of parameters affecting established discussion-forum technologies. Findings are attributed, not independently reported here.
 

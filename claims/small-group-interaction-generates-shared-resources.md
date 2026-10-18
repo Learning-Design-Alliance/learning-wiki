@@ -12,10 +12,17 @@ sources:
   - id: stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9159-7"
     title: "Stahl, G. (2012). Traversing planes of learning. Computer-Supported Collaborative Learning, 7, 467–473. https://doi.org/10.1007/s11412-012-9159-7"
-    author: Stahl, G
+    author: Stahl, G.
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Small-group interaction generates and retains resources across all three planes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Sequential small-group interaction brings in resources from the individual, small-group and community planes, shares them through co-attention, and may generate new or modified resources retained at the various planes. [→ Stahl 2012](#stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Stahl, G. (2012). Traversing planes of learning. Computer-Supported Collaborative Learning, 7, 467–473. https://doi.org/10.1007/s11412-012-9159-7
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the article's account of how planes connect: interaction requires co-attention to resources, thereby sharing them among participants, and generated resources "often take the form of designed physical artifacts and sedimented elements of language". No data are reported.
 

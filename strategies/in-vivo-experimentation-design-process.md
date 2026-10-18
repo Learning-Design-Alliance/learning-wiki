@@ -16,6 +16,9 @@ sources:
 
 # In vivo experimentation: combine design research with controlled experimentation to balance control and ecological validity
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial describes the Walker, Rummel and Koedinger approach of adapting automated individual support (from the Cognitive Tutor tradition) to improve collaborative peer-tutoring interactions in algebra. The authors "have elaborated what they call an “in vivo” experimentation design process that combines design research with controlled experimentation to balance the tradeoffs between control and ecological validity," treating the reported attempt as the start of several iterations.
 

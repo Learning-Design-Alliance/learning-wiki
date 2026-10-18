@@ -16,6 +16,9 @@ sources:
 
 # Track interactional resources across levels as a research approach for CSCL
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that CSCL research generate, compile and analyze data shedding light on relationships across levels of analysis, with tracking interactional resources as one suggestive approach. It states 'The idea of tracking interactional resources as they mediate across levels offers one suggestive approach,' and offers resources as a candidate boundary object for discussion across competing theoretical approaches rather than defending one tack.
 

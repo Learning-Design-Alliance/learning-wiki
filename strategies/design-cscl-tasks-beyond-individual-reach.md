@@ -16,6 +16,9 @@ sources:
 
 # Design CSCL tasks aiming for cognitive achievements beyond the reach of individual team members without computer supports
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial recommends that CSCL research move past repeatedly demonstrating that individuals learn better in online groups, and instead design and investigate tasks that go beyond traditional instruction. It cites recent findings on "productive failure" illustrating how groups with challenging tasks may learn in ways that defy standard testing indicators while contributing to increased problem-solving skills of groups and members.
 

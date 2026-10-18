@@ -51,3 +51,4 @@ ANOVA by level of governance participation (Table 5) in the 455-respondent surve
 - Teacher satisfaction is influenced more by school culture than by student demographics — related
 - [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
 - [Organizational error management culture relates positively to company performance](error-management-culture-company-performance.md) — related
+- [Participants in higher hierarchy positions were more active and showed better learning performance than those at lower levels](higher-hierarchy-position-more-active-better-performance.md) — related

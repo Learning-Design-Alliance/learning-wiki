@@ -16,6 +16,9 @@ sources:
 
 # Deploy a graphical argumentation tool across activity phases to build dialogical skills
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 This strategy implements the article's design move: introduce a graphical tool such as Digalo inside a deliberately phased activity so that learners practice dialogical skills, especially argumentation. The title specifies the recipe — "Using graphical tools in a phased activity for enhancing dialogical skills" — and the keyword "Argumentation" identifies the core skill targeted. Teachers or designers sequence phases of tool-mediated collaborative work so that graphical representation and discussion recur across the activity.
 
@@ -36,10 +39,10 @@ This strategy implements the article's design move: introduce a graphical tool s
 - argumentation
 
 ### Affordances
-- [Sociocultural Psychology Argumentation Education](../theories/sociocultural-psychology-argumentation-education.md)
+- [Sociocultural Psychology Argumentation Education](../theories/sociocultural-theory.md)
 
 ## Related Strategies
-- [Phased Activity Graphical Tool Pattern](phased-activity-graphical-tool-pattern.md)
+- Phased Activity Graphical Tool Pattern
 
 ## Examples
 -

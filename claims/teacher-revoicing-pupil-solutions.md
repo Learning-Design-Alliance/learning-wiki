@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9134-8"
     title: "Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8"
     author: Christian Greiffenhagen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: christian-greiffenhagen-2011-2
     resource: "https://doi.org/10.1007/s11412-011-9134-8"
     title: "Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8"
     author: Christian Greiffenhagen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # When correcting pupil work, the teacher revoices rather than dismisses pupils' solutions, challenging them toward more sophisticated ones
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The teacher transforms pupils' partially inappropriate text (e.g. 'poor past' to 'her life before she married Macbeth') rather than dismissing it. [→ Christian Greiffenhagen 2011](#christian-greiffenhagen-2011)
@@ -31,7 +42,7 @@ sources:
 
 Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Analysis of Fragment 9, where pupils subsequently wrote almost word-by-word the teacher's suggested caption-box and thought-bubble text; the teacher marked their writing as "funny" and "amusing" but outside the assignment, then offered alternatives preserving aspects of it.
 
@@ -41,7 +52,7 @@ Analysis of Fragment 9, where pupils subsequently wrote almost word-by-word the 
 
 Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Analysis of Fragment 8, where the teacher suggested pupils "break it down into smaller pieces" and have characters "moving around" across scenes; the suggestion required pupils to do more than their current single-frame solution.
 

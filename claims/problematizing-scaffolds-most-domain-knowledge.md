@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9135-7"
     title: "Gerry Stahl. (2011). Collaborating around the tabletop. International Journal of Computer-Supported Collaborative Learning, 6:485–490. https://doi.org/10.1007/s11412-011-9135-7"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a controlled experiment in the Netherlands, triads shown problematizing scaffolds learned the most domain knowledge compared with avatar-only and suggestive scaffold conditions. [→ Gerry Stahl 2011](#gerry-stahl-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2011). Collaborating around the tabletop. International Journal of Computer-Supported Collaborative Learning, 6:485–490. https://doi.org/10.1007/s11412-011-9135-7
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The editorial summarizes the Molenaar, Chiu, Sleegers, and van Boxtel controlled experiment in which triads were periodically interrupted by questions under three conditions: avatar only, suggestive scaffold, or problematizing scaffold with a text box. No effect size is printed.
 

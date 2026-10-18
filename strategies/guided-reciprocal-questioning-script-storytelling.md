@@ -16,6 +16,9 @@ sources:
 
 # Use a guided-reciprocal-questioning script to drive storytelling skill development
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial reports that Gemmini-Hornsby, Ainsworth, and O'Malley investigated how asking questions can drive storytelling skill development in an experiment with scripted collaboration and computer support. They found the 'guided-reciprocal-questioning script' effective; it is flexible, letting students select and formulate their own questions, and its scaffolding influence persisted after the script was withdrawn.
 

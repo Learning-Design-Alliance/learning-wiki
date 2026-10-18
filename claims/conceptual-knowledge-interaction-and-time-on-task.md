@@ -12,10 +12,17 @@ sources:
   - id: kolloffel-2011
     resource: "https://doi.org/10.1007/s11412-011-9110-3"
     title: "Kolloffel, B., Eysink, T. H. S., & de Jong, T. (2011). Comparing the effects of representational tools in collaborative and individual inquiry learning. Computer-Supported Collaborative Learning, 6, 223–251. https://doi.org/10.1007/s11412-011-9110-3"
-    author: "Kolloffel, B., Eysink, T. H. S., & de Jong, T"
+    author: "Kolloffel, B., Eysink, T. H. S., & de Jong, T."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Average time-on-task was lower in the collaborative learning setting than in the individual setting. [→ Kolloffel 2011](#kolloffel-2011)
@@ -26,7 +33,7 @@ sources:
 
 Kolloffel, B., Eysink, T. H. S., & de Jong, T. (2011). Comparing the effects of representational tools in collaborative and individual inquiry learning. Computer-Supported Collaborative Learning, 6, 223–251. https://doi.org/10.1007/s11412-011-9110-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Three-way ANOVA on log-file time-on-task (dyad-level for collaborative pairs) showed a setting main effect, F(1,143)=5.09, p<.05; no format or tool-use effects and no interactions.
 

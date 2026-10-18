@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
     title: "Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8"
     author: Judith Schoonenboom
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 1
   - id: judith-schoonenboom-2008-2
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
     title: "Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8"
     author: Judith Schoonenboom
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Scores on out-of-order 'bad messages' were much higher in the unscripted than scripted condition (d=0.8) and higher in script-only than script+interface (d=0.9). [→ Judith Schoonenboom 2008](#judith-schoonenboom-2008)
@@ -31,7 +42,7 @@ sources:
 
 Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Message-level coding (unit of analysis: message, N=263) of order adherence, scoring good messages 0, overlapping messages 1, and reversed-order 'bad messages' 2. The article reports the printed contrasts (d=0.8 and d=0.9), indicating students adhered better to grounding-first ordering when scripted.
 
@@ -41,7 +52,7 @@ Message-level coding (unit of analysis: message, N=263) of order adherence, scor
 
 Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive phase-pattern analysis per group displayed in Table 1 (I, G, C patterns). The article reports the printed start-of-discussion counts; these are descriptive counts, not effect sizes, so impact is null.
 

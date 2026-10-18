@@ -12,18 +12,29 @@ sources:
   - id: damşa-2014
     resource: "https://doi.org/10.1007/s11412-014-9193-8"
     title: "Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8"
-    author: Damşa, C. I
+    author: Damşa, C. I.
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: damşa-2014-2
     resource: "https://doi.org/10.1007/s11412-014-9193-8"
     title: "Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8"
-    author: Damşa, C. I
+    author: Damşa, C. I.
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Groups performing generative epistemic actions more frequently produced higher-quality knowledge objects than a division-of-labor group
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+
 ## Subclaims
-`q2 i?` Groups D and E, which interacted most frequently through actions generating ideas and knowledge, produced objects of higher quality than Group B, which relied on division of labor and individual contributions. [→ Damşa 2014](#damşa-2014)
-`q2 i?` Groups A and C, whose interactions mainly created awareness and shared understanding, obtained grades in the middle range, lower than Groups D and E. [→ Damşa 2014 (2)](#damşa-2014-2)
+`q2 i?` Groups D and E, which interacted most frequently through actions generating ideas and knowledge, produced objects of higher quality than Group B, which relied on division of labor and individual contributions. [→ Damşa 2014](#damsa-2014)
+`q2 i?` Groups A and C, whose interactions mainly created awareness and shared understanding, obtained grades in the middle range, lower than Groups D and E. [→ Damşa 2014 (2)](#damsa-2014-2)
 
 ## Evidence
 
@@ -31,7 +42,7 @@ sources:
 
 Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Teacher assessment of final research reports using a standardized evaluation form graded one to ten on content and writing quality, with two independent evaluators (kappa=.90). The article reports Groups D and E "produced objects of higher quality" than Group B.
 
@@ -41,7 +52,7 @@ Teacher assessment of final research reports using a standardized evaluation for
 
 Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Same graded evaluation of final reports: Groups A and C, whose interaction was predominantly discursive preparation for knowledge construction, "obtained grades in the middle range" below the generative groups. No numeric grades are printed in the supplied text.
 

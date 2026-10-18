@@ -12,14 +12,25 @@ sources:
   - id: cuendet-2015
     resource: "https://doi.org/10.1007/s11412-015-9213-3"
     title: "Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P. (2015). An integrated way of using a tangible user interface in a classroom. International Journal of Computer-Supported Collaborative Learning, 10(2), 183–208. https://doi.org/10.1007/s11412-015-9213-3"
-    author: "Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P"
+    author: "Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
   - id: cuendet-2015-2
     resource: "https://doi.org/10.1007/s11412-015-9213-3"
     title: "Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P. (2015). An integrated way of using a tangible user interface in a classroom. International Journal of Computer-Supported Collaborative Learning, 10(2), 183–208. https://doi.org/10.1007/s11412-015-9213-3"
-    author: "Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P"
+    author: "Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The multi-step activity proved usable, fostered workplace connections, and engaged teacher and students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite its many steps, the activity proved usable and fostered many connections to the workplace. [→ Cuendet 2015](#cuendet-2015)
@@ -31,7 +42,7 @@ sources:
 
 Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P. (2015). An integrated way of using a tangible user interface in a classroom. International Journal of Computer-Supported Collaborative Learning, 10(2), 183–208. https://doi.org/10.1007/s11412-015-9213-3
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Classroom study of the new activity with 3 classes of carpenter apprentices. The article reports the activity "proved usable and fostered many connections to the workplace"; no effect sizes are printed.
 
@@ -41,7 +52,7 @@ Classroom study of the new activity with 3 classes of carpenter apprentices. The
 
 Cuendet, S., Dehler Zufferey, J., Ortoleva, G., & Dillenbourg, P. (2015). An integrated way of using a tangible user interface in a classroom. International Journal of Computer-Supported Collaborative Learning, 10(2), 183–208. https://doi.org/10.1007/s11412-015-9213-3
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Reported teacher and student reactions in the same classroom study: participants "were positive and showed high engagement in the activity." No quantitative engagement measure or statistic is printed.
 

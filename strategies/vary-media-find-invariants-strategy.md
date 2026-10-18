@@ -16,6 +16,9 @@ sources:
 
 # Vary representational tools and look for invariants to discover collaboration methods before building CMC interfaces
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's methodological recommendation for designers is to study how people appropriate flexible, familiar representations before fixing interface assumptions: "Our methodological strategy is to vary the representational tools provided and look for invariants across the different configurations." Rather than mapping a theoretical communication model directly onto an interface, designers should first identify which affordances users take up and for what communicative functions, then build tools that support those flexibilities.
 

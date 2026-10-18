@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-012-9148-x"
     title: "Gerry Stahl. (2012). Cognizing mediating: Unpacking the entanglement of artifacts with collective minds. Computer-Supported Collaborative Learning 7:187–191. https://doi.org/10.1007/s11412-012-9148-x"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The complexity of successful instrumental genesis translates into severe barriers to adopting CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school institutions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The complexity involved in successful instrumental genesis creates severe barriers when promoting adoption of CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school communities and institutions. [→ Gerry Stahl 2012](#gerry-stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2012). Cognizing mediating: Unpacking the entanglement of artifacts with collective minds. Computer-Supported Collaborative Learning 7:187–191. https://doi.org/10.1007/s11412-012-9148-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Authors' interpretation (type e) in the editorial's discussion of Ritella & Hakkarainen's situating of Rabardel's theory within knowledge-building practices at the Knowledge Practices Laboratory. The editorial states the complexity of successful instrumental genesis "translates into severe barriers" to adoption.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-009-9077-5"
     title: "Gerry Stahl & Friedrich Hesse. (2010). The CSCL field matures. Computer-Supported Collaborative Learning 5:1–3. https://doi.org/10.1007/s11412-009-9077-5"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Bures, Abrami and Schmid's empirical analysis argues that multiple forms of scaffolding may interfere with each other and that labeling should be designed flexibly to match existing structure
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In an empirical analysis of labeling under different conditions, the authors argue multiple scaffolding forms may interfere and labeling should be tunable to the existing level of structure. [→ Gerry Stahl & Friedrich Hesse 2010](#gerry-stahl-friedrich-hesse-2010)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich Hesse. (2010). The CSCL field matures. Computer-Supported Collaborative Learning 5:1–3. https://doi.org/10.1007/s11412-009-9077-5
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Editorial preview (type e) of the Bures, Abrami and Schmid paper in this issue: the editors report, attributing the argument to the authors, that their empirical analysis of labeling under different conditions supports flexible scaffolding design. The underlying study was not read for this extraction.
 

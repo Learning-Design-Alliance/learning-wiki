@@ -12,18 +12,29 @@ sources:
   - id: damşa-2014
     resource: "https://doi.org/10.1007/s11412-014-9193-8"
     title: "Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8"
-    author: Damşa, C. I
+    author: Damşa, C. I.
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
   - id: damşa-2014-2
     resource: "https://doi.org/10.1007/s11412-014-9193-8"
     title: "Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8"
-    author: Damşa, C. I
+    author: Damşa, C. I.
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+
 ## Subclaims
-`q2 i?` Coding of group discussions showed Groups D and E interacted most frequently through idea- and knowledge-generating actions, with low frequencies of regulative actions. [→ Damşa 2014](#damşa-2014)
-`q2 i?` Group B's conversational interaction was concerned predominantly with regulative aspects such as division of labor, organization, coordination, and monitoring of individual members' work. [→ Damşa 2014 (2)](#damşa-2014-2)
+`q2 i?` Coding of group discussions showed Groups D and E interacted most frequently through idea- and knowledge-generating actions, with low frequencies of regulative actions. [→ Damşa 2014](#damsa-2014)
+`q2 i?` Group B's conversational interaction was concerned predominantly with regulative aspects such as division of labor, organization, coordination, and monitoring of individual members' work. [→ Damşa 2014 (2)](#damsa-2014-2)
 
 ## Evidence
 
@@ -31,7 +42,7 @@ sources:
 
 Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Descriptive statistics from a coding scheme of six interaction categories (epistemic, regulative, other) applied to the five groups' discussion protocols, with inter-rater agreement kappa=.80. Table 2 reports frequencies per category per group; the article states these two groups were "more focused on the epistemic aspects of the interaction."
 
@@ -41,7 +52,7 @@ Descriptive statistics from a coding scheme of six interaction categories (epist
 
 Damşa, C. I. (2014). The multi-layered nature of small-group learning: Productive interactions in object-oriented collaboration. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:247–281. https://doi.org/10.1007/s11412-014-9193-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Same coded corpus: Group B often discussed division of labor, organization, and coordination, and monitored individual members' work; its 'other' category frequency was as high as knowledge-sharing actions. Epistemic actions occurred but were not the focus.
 

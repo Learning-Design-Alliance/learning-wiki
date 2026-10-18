@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-010-9091-7"
     title: "Gerry Stahl. (2010). Guiding group cognition in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9091-7"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Different factors interact with each other, complicating modeling of collaboration dimensions as independent factors, and moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation. [→ Gerry Stahl 2010](#gerry-stahl-2010)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2010). Guiding group cognition in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9091-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The editorial reports on the Asterhan and Schwarz study of four classes using an online argumentation environment with a teacher moderating each small group, combining student self-reports and analysis of knowledge-building artifacts. It states "the authors stress how different the moderation of synchronous computer-mediated interaction is from that of face-to-face or asynchronous interaction."
 

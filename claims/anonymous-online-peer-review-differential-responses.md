@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9112-1"
     title: "Gerry Stahl & Friedrich Hesse. (2011). CSCL in Asia. Computer-Supported Collaborative Learning 6:1–7. https://doi.org/10.1007/s11412-011-9112-1"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
   - id: gerry-stahl-friedrich-hesse-2011-2
     resource: "https://doi.org/10.1007/s11412-011-9112-1"
     title: "Gerry Stahl & Friedrich Hesse. (2011). CSCL in Asia. Computer-Supported Collaborative Learning 6:1–7. https://doi.org/10.1007/s11412-011-9112-1"
     author: "Gerry Stahl & Friedrich Hesse"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` In an experiment with engineering students in Beijing, students with lower English writing skills sensed they were being reviewed by stronger students and often felt inferior, which sometimes increased their determination to improve. [→ Gerry Stahl & Friedrich Hesse 2011](#gerry-stahl-friedrich-hesse-2011)
@@ -31,7 +42,7 @@ sources:
 
 Gerry Stahl & Friedrich Hesse. (2011). CSCL in Asia. Computer-Supported Collaborative Learning 6:1–7. https://doi.org/10.1007/s11412-011-9112-1
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Zi-Gang Ge's experiment with engineering students at a university in Beijing classified students by English writing ability; asynchronous anonymous online exchanges were hypothesized to lessen the Chinese cultural aversion to criticizing face-to-face.
 
@@ -41,7 +52,7 @@ Zi-Gang Ge's experiment with engineering students at a university in Beijing cla
 
 Gerry Stahl & Friedrich Hesse. (2011). CSCL in Asia. Computer-Supported Collaborative Learning 6:1–7. https://doi.org/10.1007/s11412-011-9112-1
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The same Beijing peer-review experiment found generally positive student responses, but stronger writers reported receiving lower-quality advice than they provided; the editorial compares this to Western engineering students resisting collaboration.
 

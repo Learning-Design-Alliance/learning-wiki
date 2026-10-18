@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-013-9171-6"
     title: "Gerry Stahl. (2013). Transactive discourse in CSCL. Computer-Supported Collaborative Learning 8:145–147. https://doi.org/10.1007/s11412-013-9171-6"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Speech-style accommodation correlates with prevalence of other-oriented transactions, enabling acoustic prediction of transactivity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Gweon, Jain, McDonough, Raj and Rosé argue that a measure of speech-style accommodation should positively correlate with prevalence of other-oriented transactions, so acoustic analysis can predict a level of transactive reasoning. [→ Gerry Stahl 2013](#gerry-stahl-2013)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2013). Transactive discourse in CSCL. Computer-Supported Collaborative Learning 8:145–147. https://doi.org/10.1007/s11412-013-9171-6
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Editorial description of the Gweon et al. approach to automatically assessing transactivity in a spoken-discourse corpus via data-mining of thin descriptions such as acoustical features. The claim is presented as an argued implication from social psychology and sociolinguistics of speech style.
 

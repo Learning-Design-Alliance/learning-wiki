@@ -16,6 +16,9 @@ sources:
 
 # Include producing information for others in information literacy instruction, with guidance and a phase of critiquing the resource
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that educators treat production as a core aspect of information literacy: "information literacy standards should explicitly include producing information for others." Producing for a real audience gives students a starting point for reflecting on where information comes from and supports second-order skills. Because opportunities for such reflection "come too seldom" without mentors, guidance is necessary, and an additional phase asking students to identify weaknesses in the resource and find collaborators may help approach collective cognitive responsibility.
 

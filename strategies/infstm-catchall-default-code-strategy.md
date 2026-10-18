@@ -16,6 +16,9 @@ sources:
 
 # Use a default catch-all code (InfStm?) to flag uncodable messages for manual checking
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 When the DAC filter finds no discourse marker in a message, it assigns the InfStm? code as a default catch-all, marking the message for manual checking rather than risking a wrong automatic code. The article states "If the system does not find a discourse marker in a message, the message is coded by the label InfStm? as a default catch-all." This means "the researcher still has to check and code some parts of the protocol (about 10%)", but the job is simplified because large parts are already coded and uncoded parts are easy to find.
 

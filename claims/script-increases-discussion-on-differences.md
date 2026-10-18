@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
     title: "Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8"
     author: Judith Schoonenboom
+    q: 2
+    i: 2
+    kind: causal
+    rigour: 1
   - id: judith-schoonenboom-2008-2
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
     title: "Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8"
     author: Judith Schoonenboom
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` More scripted groups performed a discussion on differences among group members (printed as p=0.40, Cohen's d=0.7); none of the unscripted groups did so. [→ Judith Schoonenboom 2008](#judith-schoonenboom-2008)
@@ -31,7 +42,7 @@ sources:
 
 Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Group-level count (unit of analysis: group, N=10) of whether any message referred to differences. The article reports only three groups performed four such discussions: none unscripted, one of four script-only, two of three script+interface, and prints "The difference between the unscripted group and the two scripted groups was significant ( p=0.40, Cohen 's d=0.7)".
 
@@ -41,7 +52,7 @@ Group-level count (unit of analysis: group, N=10) of whether any message referre
 
 Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Quality analysis of the four discussions that occurred, measuring number of utterances, number of words, specificity, and proportion of group members mentioned; the article reports these "did not yield significant results". No effect sizes are printed, so impact is null.
 

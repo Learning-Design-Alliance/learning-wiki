@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
     title: "Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8"
     author: Judith Schoonenboom
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` More students in scripted conditions filled in either all or none of the inputs belonging to one discussion (d=1.5), with a similar difference between the two scripted groups (d=0.9). [→ Judith Schoonenboom 2008](#judith-schoonenboom-2008)
@@ -26,7 +33,7 @@ sources:
 
 Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 ANOVA on student-level scores (N=42), coding 1 for answering all or none of a discussion's questions and 0 for answering some. The article reports "more students in the scripted conditions filled in either all or none of the inputs" with the printed statistics.
 

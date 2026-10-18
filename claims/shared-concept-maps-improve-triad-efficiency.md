@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-010-9091-7"
     title: "Gerry Stahl. (2010). Guiding group cognition in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9091-7"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Triads with access to each other's concept maps were more efficient in collaborative problem solving
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Triads in the experimental condition, in which each participant displayed a concept map representing their own knowledge to collaborators, proved more efficient in collaborative problem solving than triads without such access. [→ Gerry Stahl 2010](#gerry-stahl-2010)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2010). Guiding group cognition in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9091-7
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The editorial describes the Engelmann and Hesse experiment investigating how information about what group participants each know can be introduced into shared group understanding through CSCL technology, using concept maps displayed by each participant in the experimental condition. It reports that "Triads with access to each other's concept maps proved to be more efficient in their collaborative problem solving."
 

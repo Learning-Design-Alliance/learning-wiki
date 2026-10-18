@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9134-8"
     title: "Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8"
     author: Christian Greiffenhagen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Pupils often neglected the caption box although they were aware of it, displaying a divergent orientation to the teacher's aims
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pupils' omission of the caption box reflected a difference in orientation to what was important, not unawareness of the requirement. [→ Christian Greiffenhagen 2011](#christian-greiffenhagen-2011)
@@ -26,7 +33,7 @@ sources:
 
 Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Video-fragment analysis across lessons shows pupils repeatedly leaving the caption box empty; in one fragment a pupil pre-empts criticism by admitting "they still have to write" their reasons. The paper concludes "sometimes what pupils deemed interesting diverged from the teacher's educational aims".
 

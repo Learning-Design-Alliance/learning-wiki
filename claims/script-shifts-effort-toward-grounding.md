@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
     title: "Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8"
     author: Judith Schoonenboom
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Scripting shifted student effort toward grounding discussions and away from group-issue discussions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Both the total and proportional number of messages spent on group issues was larger in the nonscripted group (d=2.7 and d=4.0), while the proportion spent on grounding discussions was larger in scripted groups (d=1.6). [→ Judith Schoonenboom 2008](#judith-schoonenboom-2008)
@@ -26,7 +33,7 @@ sources:
 
 Judith Schoonenboom. (2008). The effect of a script and a structured interface in grounding discussions. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9042-8
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Group-level analysis (unit of analysis: group, N=10) of absolute effort (average messages per student) and relative effort (proportion of messages) across three activity categories. The article also reports group-issue messages larger in the nonscripted group (p=0.048, d=2.7; p=0.008, d=4.0).
 

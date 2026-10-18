@@ -12,10 +12,17 @@ sources:
   - id: molenaar-2011
     resource: "https://doi.org/10.1007/s11412-011-9130-z"
     title: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of small groups' metacognitive activities with an avatar. Computer-Supported Collaborative Learning, 6, 601-624. https://doi.org/10.1007/s11412-011-9130-z"
-    author: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C"
+    author: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students receiving either scaffold displayed proportionately more metacognitive activities than other students; the two scaffolds did not differ significantly. [→ Molenaar 2011](#molenaar-2011)
@@ -26,7 +33,7 @@ sources:
 
 Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of small groups' metacognitive activities with an avatar. Computer-Supported Collaborative Learning, 6, 601-624. https://doi.org/10.1007/s11412-011-9130-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multilevel model predicting % metacognition (N=54, Table 4): structuring 0.017 (0.006)** and problematizing 0.020 (0.006)**, both significant; scaffold difference not significant. No standardized effect size printed.
 

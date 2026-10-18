@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9134-8"
     title: "Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8"
     author: Christian Greiffenhagen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: christian-greiffenhagen-2011-2
     resource: "https://doi.org/10.1007/s11412-011-9134-8"
     title: "Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8"
     author: Christian Greiffenhagen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` By making rounds the teacher can minimize off-task behaviour, relying on shared classroom norms rather than explicit reproach. [→ Christian Greiffenhagen 2011](#christian-greiffenhagen-2011)
@@ -31,7 +42,7 @@ sources:
 
 Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Analysis of Fragment 10, in which the teacher quietly appeared behind an off-task pupil and uttered 'BOO', a reproach "hearable as a reproach without the teacher having to say" anything explicit; other pupils' laughter displayed they heard it as such.
 
@@ -41,7 +52,7 @@ Analysis of Fragment 10, in which the teacher quietly appeared behind an off-tas
 
 Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://doi.org/10.1007/s11412-011-9134-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The paper observes that pupils "often quickly check whether the teacher is looking at them before engaging in 'off-task' activities", and that this potentiality of being observed helps keep behaviour acceptable.
 

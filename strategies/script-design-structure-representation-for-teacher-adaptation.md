@@ -16,6 +16,9 @@ sources:
 
 # Represent CSCL scripts' design structure and envisioned effects so teachers can adapt them
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Drawing on Sobreira and Tchounikine's work in the same issue, the article recommends supporting teachers' efforts to adapt CSCL scripts to their classrooms. "Scripts are resources for teachers, which operationalize catalogs of techniques for forming and using small groups"; abstract technical discussions can distance these resources from the embedded teacher. The approach "provides a clear representation of the design structure and envisioned effects of the script resource", letting teachers flexibly plan activity sequences that traverse planes.
 

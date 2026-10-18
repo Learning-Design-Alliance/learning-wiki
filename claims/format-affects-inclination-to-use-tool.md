@@ -12,10 +12,17 @@ sources:
   - id: kolloffel-2011
     resource: "https://doi.org/10.1007/s11412-011-9110-3"
     title: "Kolloffel, B., Eysink, T. H. S., & de Jong, T. (2011). Comparing the effects of representational tools in collaborative and individual inquiry learning. Computer-Supported Collaborative Learning, 6, 223–251. https://doi.org/10.1007/s11412-011-9110-3"
-    author: "Kolloffel, B., Eysink, T. H. S., & de Jong, T"
+    author: "Kolloffel, B., Eysink, T. H. S., & de Jong, T."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students are far more inclined to use conceptual and textual representational tools than arithmetical ones, and collaboration does not stimulate arithmetical tool use
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` About 50% of students provided with a conceptual or textual tool used it, versus about 20% of those provided with the arithmetical tool; the difference between conditions is significant. [→ Kolloffel 2011](#kolloffel-2011)
@@ -27,7 +34,7 @@ sources:
 
 Kolloffel, B., Eysink, T. H. S., & de Jong, T. (2011). Comparing the effects of representational tools in collaborative and individual inquiry learning. Computer-Supported Collaborative Learning, 6, 223–251. https://doi.org/10.1007/s11412-011-9110-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Chi-square analyses of tool-use percentages across the 61 dyads and 95 individuals showed format affected inclination to construct a representation; conceptual vs textual use did not differ (X2(1, N=107)=0.09, n.s.).
 

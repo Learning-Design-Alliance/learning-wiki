@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9135-7"
     title: "Gerry Stahl. (2011). Collaborating around the tabletop. International Journal of Computer-Supported Collaborative Learning, 6:485–490. https://doi.org/10.1007/s11412-011-9135-7"
     author: Gerry Stahl
+    q: 1
+    i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # A free-flowing online and face-to-face community of teachers, researchers, and students made the expert–novice dialectic visible
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In the Cesareni, Martini, and Mancini report on a European CSCL project in Italy, the maturing community made visible the dialectic between expert and novice. [→ Gerry Stahl 2011](#gerry-stahl-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2011). Collaborating around the tabletop. International Journal of Computer-Supported Collaborative Learning, 6:485–490. https://doi.org/10.1007/s11412-011-9135-7
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 The editorial describes the Italian community-building activities in the second year of a European CSCL project, involving teachers, researchers, and university students interacting online and face-to-face, synchronously and asynchronously, in text and speech.
 

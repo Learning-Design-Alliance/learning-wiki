@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-011-9128-6"
     title: "Gerry Stahl & Friedrich W. Hesse & Nancy Law. (2011). Tweets from #cscl2011. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9128-6"
     author: "Gerry Stahl & Friedrich W. Hesse & Nancy Law"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Wise and Chiu's combined analytic approaches identify sequential patterns of posting types, pivotal points, and the conversational roles contributing them. [→ Gerry Stahl & Friedrich W. Hesse & Nancy Law 2011](#gerry-stahl-friedrich-w-hesse-nancy-law-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl & Friedrich W. Hesse & Nancy Law. (2011). Tweets from #cscl2011. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9128-6
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The editorial reports, citing Wise and Chiu, a methodological contribution modeling group processes of knowledge construction in discussion forums by combining analytic approaches from the CSCL literature, including identifying sequential patterns and pivotal points.
 
