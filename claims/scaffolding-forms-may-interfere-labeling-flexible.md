@@ -1,0 +1,39 @@
+---
+type: claim
+title: "Bures, Abrami and Schmid's empirical analysis argues that multiple forms of scaffolding may interfere with each other and that labeling should be designed flexibly to match existing structure"
+description: "Bures, Abrami and Schmid's empirical analysis argues that multiple forms of scaffolding may interfere with each other and that labeling should be designed flexibly to match existing structure"
+id: scaffolding-forms-may-interfere-labeling-flexible
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: gerry-stahl-friedrich-hesse-2010
+    resource: "https://doi.org/10.1007/s11412-009-9077-5"
+    title: "Gerry Stahl & Friedrich Hesse. (2010). The CSCL field matures. Computer-Supported Collaborative Learning 5:1–3. https://doi.org/10.1007/s11412-009-9077-5"
+    author: "Gerry Stahl & Friedrich Hesse"
+---
+
+# Bures, Abrami and Schmid's empirical analysis argues that multiple forms of scaffolding may interfere with each other and that labeling should be designed flexibly to match existing structure
+
+## Subclaims
+`q1 i?` In an empirical analysis of labeling under different conditions, the authors argue multiple scaffolding forms may interfere and labeling should be tunable to the existing level of structure. [→ Gerry Stahl & Friedrich Hesse 2010](#gerry-stahl-friedrich-hesse-2010)
+
+## Evidence
+
+### Gerry Stahl & Friedrich Hesse 2010
+
+Gerry Stahl & Friedrich Hesse. (2010). The CSCL field matures. Computer-Supported Collaborative Learning 5:1–3. https://doi.org/10.1007/s11412-009-9077-5
+
+`q1 · i?`
+
+Editorial preview (type e) of the Bures, Abrami and Schmid paper in this issue: the editors report, attributing the argument to the authors, that their empirical analysis of labeling under different conditions supports flexible scaffolding design. The underlying study was not read for this extraction.
+
+> "In their empirical analysis of the use of labeling under different conditions, Eva Mary Bures , Philip C. Abrami , and Richard F . Schmid of Canada argue that multiple forms of scaffolding may interfere with each other and that labeling should be designed flexibly so it can be tuned to the level of structure already existing in the educational activity."
+
+## Discussion
+
+
+## Related Claims
+-

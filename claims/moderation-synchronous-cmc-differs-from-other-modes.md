@@ -1,0 +1,39 @@
+---
+type: claim
+title: Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation
+description: Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation
+id: moderation-synchronous-cmc-differs-from-other-modes
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: gerry-stahl-2010
+    resource: "https://doi.org/10.1007/s11412-010-9091-7"
+    title: "Gerry Stahl. (2010). Guiding group cognition in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9091-7"
+    author: Gerry Stahl
+---
+
+# Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation
+
+## Subclaims
+`q2 i?` Different factors interact with each other, complicating modeling of collaboration dimensions as independent factors, and moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation. [→ Gerry Stahl 2010](#gerry-stahl-2010)
+
+## Evidence
+
+### Gerry Stahl 2010
+
+Gerry Stahl. (2010). Guiding group cognition in CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9091-7
+
+`q2 · i?`
+
+The editorial reports on the Asterhan and Schwarz study of four classes using an online argumentation environment with a teacher moderating each small group, combining student self-reports and analysis of knowledge-building artifacts. It states "the authors stress how different the moderation of synchronous computer-mediated interaction is from that of face-to-face or asynchronous interaction."
+
+> "the authors stress how different the moderation of synchronous computer-mediated interaction is from that of face-to-face or asynchronous interaction."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,39 @@
+---
+type: claim
+title: A free-flowing online and face-to-face community of teachers, researchers, and students made the expert–novice dialectic visible
+description: A free-flowing online and face-to-face community of teachers, researchers, and students made the expert–novice dialectic visible
+id: cscl-community-expert-novice-dialectic
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: gerry-stahl-2011
+    resource: "https://doi.org/10.1007/s11412-011-9135-7"
+    title: "Gerry Stahl. (2011). Collaborating around the tabletop. International Journal of Computer-Supported Collaborative Learning, 6:485–490. https://doi.org/10.1007/s11412-011-9135-7"
+    author: Gerry Stahl
+---
+
+# A free-flowing online and face-to-face community of teachers, researchers, and students made the expert–novice dialectic visible
+
+## Subclaims
+`q1 i?` In the Cesareni, Martini, and Mancini report on a European CSCL project in Italy, the maturing community made visible the dialectic between expert and novice. [→ Gerry Stahl 2011](#gerry-stahl-2011)
+
+## Evidence
+
+### Gerry Stahl 2011
+
+Gerry Stahl. (2011). Collaborating around the tabletop. International Journal of Computer-Supported Collaborative Learning, 6:485–490. https://doi.org/10.1007/s11412-011-9135-7
+
+`q1 · i?`
+
+The editorial describes the Italian community-building activities in the second year of a European CSCL project, involving teachers, researchers, and university students interacting online and face-to-face, synchronously and asynchronously, in text and speech.
+
+> "This helped to make visible the dialectic between expert and novice as the community matured."
+
+## Discussion
+
+
+## Related Claims
+-

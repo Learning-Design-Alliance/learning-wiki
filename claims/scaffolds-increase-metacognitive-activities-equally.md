@@ -1,0 +1,39 @@
+---
+type: claim
+title: "Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types"
+description: "Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types"
+id: scaffolds-increase-metacognitive-activities-equally
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: molenaar-2011
+    resource: "https://doi.org/10.1007/s11412-011-9130-z"
+    title: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of small groups' metacognitive activities with an avatar. Computer-Supported Collaborative Learning, 6, 601-624. https://doi.org/10.1007/s11412-011-9130-z"
+    author: "Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C"
+---
+
+# Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types
+
+## Subclaims
+`q3 i?` Students receiving either scaffold displayed proportionately more metacognitive activities than other students; the two scaffolds did not differ significantly. [→ Molenaar 2011](#molenaar-2011)
+
+## Evidence
+
+### Molenaar 2011
+
+Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of small groups' metacognitive activities with an avatar. Computer-Supported Collaborative Learning, 6, 601-624. https://doi.org/10.1007/s11412-011-9130-z
+
+`q3 · i?`
+
+Multilevel model predicting % metacognition (N=54, Table 4): structuring 0.017 (0.006)** and problematizing 0.020 (0.006)**, both significant; scaffold difference not significant. No standardized effect size printed.
+
+> "the students receiving metacognitive scaffolding displayed proportionately more metacognitive activities than other students. Students receiving problematizing scaffolds showed slightly more metacognitive activities than students receiving structuring scaffolds, but this difference was not significant."
+
+## Discussion
+
+
+## Related Claims
+-
