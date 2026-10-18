@@ -65,3 +65,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](teachingcoach-outperforms-gpt4o-expert-ratings.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
+- [Categorizing claims on a website required students to read and interpret content beyond what the visualization tool provides, including evaluating trustworthiness](categorization-requires-reading-claims.md) — related

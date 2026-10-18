@@ -52,3 +52,4 @@ The tournament evaluation found that despite the benefits of automated metrics, 
 - [Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis](behavioral-metrics-flag-automated-anomalies.md) — related
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — a narrower finding that bears on this claim
 - [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related
+- [Categorizing claims on a website required students to read and interpret content beyond what the visualization tool provides, including evaluating trustworthiness](categorization-requires-reading-claims.md) — related

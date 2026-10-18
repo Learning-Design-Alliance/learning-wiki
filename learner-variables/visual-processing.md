@@ -12,7 +12,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (19 show a difference, 10 mixed, 3 no difference) · 20 studies (9 associational, 5 review, 4 causal, 1 quant-synthesis, 1 design), `q2`–`q4` · 5 of 20 report an effect size · 32 claims rest on one study
+> **Evidence** · 34 claims (20 show a difference, 11 mixed, 3 no difference) · 22 studies (9 associational, 6 review, 4 causal, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 5 of 22 report an effect size · 34 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -67,6 +67,8 @@ Visual processing is what the brain does with the input that comes through visio
 - [The integration of visual perception and motor coordination is uniquely associated with math skills but not with reading or written language](../claims/vmi-integration-uniquely-math.md) [~M] — learners who differ on it differ in outcomes
 - [Visual-motor integration, visual perception, and motor coordination each independently predict math achievement in school-aged children with and without ADHD](../claims/visual-motor-components-predict-math.md) [+M] — learners who differ on it differ in outcomes
 - [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly](../claims/visuospatial-sketchpad-predicts-higher-qnc.md) [+M] — learners who differ on it differ in outcomes
+- [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](../claims/joint-visual-attention-correlates-collaboration-quality.md) [~M] — learners who differ on it differ in outcomes
+- [Students orient to visually prominent nodes (large, central) when beginning to categorize actors on a controversy map](../claims/students-orient-to-visually-prominent-nodes.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

@@ -154,7 +154,7 @@ def load_journal(issns: list) -> list:
         try:
             out += _journal_openalex(issn)
         except requests.HTTPError as e:
-            if e.response is None or e.response.status_code != 429:
+            if e.response is None or e.response.status_code not in (401, 403, 429):
                 raise
             print(f"OpenAlex budget spent; listing {issn} from Crossref and Unpaywall", file=sys.stderr)
             out += _journal_crossref(issn)

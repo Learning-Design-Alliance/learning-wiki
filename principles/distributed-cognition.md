@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (14 for, 17 mixed) · 29 studies (8 theoretical, 7 review, 6 causal, 3 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 29 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (15 for, 17 mixed) · 30 studies (8 theoretical, 7 review, 6 causal, 4 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 30 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,7 @@ Claims the earlier page cited that are not used above, each with how far it bear
 - [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](../claims/offloading-content-constrains-volume.md) [~W] — an exploratory clustering of 97 students' prompts; bears only indirectly (what is offloaded matters, not only how much).
 
 Also bearing on this page, read for it but not used in the model: [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~M] (one trial, reported second-hand; owned by the tool page), [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](../claims/user-goals-contradict-educational-objectives.md) [~M] (used below on goals), and [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](../claims/external-resources-support-pedagogical-judgment-alignment.md) [+M] (two debrief episodes in a teachers' partnership; external representations supporting a group's reasoning, qualitatively).
+- [The IW-supported group needed less teacher scaffolding in the late problem-solving stage, where nurse and instructor discourse decreased, while scaffolding increased from early to late stage in the TW condition](../claims/iw-group-less-late-stage-scaffolding.md) [+W] — attached 2026-10-18 from Lu et al. (2010), which proposed "Design CSCL visualization and argumentation tools so externalized group work frees the teacher from task structuring to scaffold by increasing challenge".
 
 ## Objective and learner-valued goal
 

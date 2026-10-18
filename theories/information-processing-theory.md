@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 35 claims (25 for, 10 mixed) · 26 studies (12 causal, 7 associational, 3 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 6 of 26 report an effect size · 33 claims rest on one study
+> **Evidence** · 36 claims (26 for, 10 mixed) · 27 studies (12 causal, 7 associational, 3 quant-synthesis, 3 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 34 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -98,6 +98,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Equating total consolidation time across presentation methods equalizes forgetting rates (Experiment 3)](../claims/consolidation-time-equation-equalizes-forgetting.md) [+W] — attached 2026-10-17 from Ricker Timothy J. (2014), which proposed "Working memory consolidation account of time-based forgetting".
 - [Lengthening consolidation time in the simultaneous condition reduces forgetting to a rate comparable to sequential presentation (Experiment 4)](../claims/lengthened-consolidation-reduces-forgetting-exp4.md) [+W] — attached 2026-10-17 from Ricker Timothy J. (2014), which proposed "Working memory consolidation account of time-based forgetting".
 - [Equating encoding time across presentation methods does not eliminate the forgetting-rate difference (Experiment 2)](../claims/encoding-time-equation-does-not-equalize-forgetting.md) [+W] — attached 2026-10-17 from Ricker Timothy J. (2014), which proposed "Working memory consolidation account of time-based forgetting".
+- [Forming and maintaining group awareness strains working memory during collaborative learning](../claims/ga-formation-strains-working-memory.md) [+W] — attached 2026-10-18 from Lenka Schnaubert (2022), which proposed "Group awareness as a working-memory state distinct from group-related knowledge"; tests this page's relationship.
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

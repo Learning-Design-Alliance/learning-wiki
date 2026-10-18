@@ -1,0 +1,46 @@
+---
+type: claim
+title: Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class
+description: Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class
+id: kf-portfolio-principles-higher-atk-inquiry
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: eddy-yc-lee-2006
+    resource: "https://doi.org/10.1007/s11412-006-8997-6"
+    title: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6"
+    author: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst"
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
+---
+
+# Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+
+## Subclaims
+`q3 i2` The Knowledge Forum class with portfolio and principles, and the class with portfolio, had higher ATK Inquiry scores than the Knowledge Forum-only class. [→ Eddy Y.C. Lee 2006](#eddy-yc-lee-2006)
+
+## Evidence
+
+### Eddy Y.C. Lee 2006
+
+Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6
+
+`q3 · i2` · `causal · r2`
+
+MANCOVA on Analytic Toolkit database participation indices across three Knowledge Forum classes, controlling for Hong Kong Attainment Test scores, with alpha set at .01. Univariate analysis showed "significant differences for ATK Inquiry across classes, F(2, 107) = 7.96" with η² = .13; paired comparisons favored the portfolio and portfolio-principles classes.
+
+> "Univariate analyses on database usage in Knowledge Forum showed significant differences for ATK Inquiry across classes, F(2, 107) = 7.96, p < .001,)2 = .13."
+
+## Discussion
+
+
+## Related Claims
+-

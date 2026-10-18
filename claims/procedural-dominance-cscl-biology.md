@@ -43,4 +43,4 @@ Interaction analysis of video recordings of one group of four ninth-grade studen
 
 
 ## Related Claims
--
+- [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related

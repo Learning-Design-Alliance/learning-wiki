@@ -44,3 +44,4 @@ Qualitative analysis across the three events; Table 3 lists challenges by determ
 
 ## Related Claims
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related
+- [Awareness visualizations of shared task perception improved reported strategy success and equalized expected effectiveness of planning and teamwork strategies](awareness-visualization-shared-task-perception.md) — related

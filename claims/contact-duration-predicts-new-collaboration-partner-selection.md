@@ -1,0 +1,46 @@
+---
+type: claim
+title: Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner
+description: Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner
+id: contact-duration-predicts-new-collaboration-partner-selection
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: eberle-2021
+    resource: "https://doi.org/10.1007/s11412-021-09345-7"
+    title: "Eberle, J., Stegmann, K., Barrat, A., Fischer, F., & Lund, K. (2021). Initiating scientific collaborations across career levels and disciplines – a network analysis on behavioral data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09345-7"
+    author: "Eberle, J., Stegmann, K., Barrat, A., Fischer, F., & Lund, K."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+
+## Subclaims
+`q2 i?` The duration of face-to-face contact had a positive significant effect on the initiation of new potential collaborations, with larger durations of contact yielding higher likelihoods (2.054 times for an hour of contact). [→ Eberle 2021](#eberle-2021)
+
+## Evidence
+
+### Eberle 2021
+
+Eberle, J., Stegmann, K., Barrat, A., Fischer, F., & Lund, K. (2021). Initiating scientific collaborations across career levels and disciplines – a network analysis on behavioral data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09345-7
+
+`q2 · i?` · `associational · r2`
+
+Meta-analysis across 12 workshops of RSiena stochastic actor-oriented models on RFID-measured contact and questionnaire-reported potential collaborations; the article reports a positive significant effect of contact duration on identifying new potential collaboration partners, noting "2.054 times for an hour of face-to-face contact".
+
+> "the duration of face-to-face contact during the workshop has a positive significant effect of 0.0002 (SE = 0.0001; p <.001, k = 12) on the initiation of new potential collaborations"
+
+## Discussion
+
+
+## Related Claims
+-

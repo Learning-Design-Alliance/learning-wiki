@@ -44,3 +44,4 @@ A visual-perspective study (Samson et al., as reviewed here) in which participan
 
 ## Related Claims
 - [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — related
+- [Digital mapping tools slow down students' judging and categorizing of online material, prompting collaborative negotiation of how to make sense of a controversy](mapping-tools-slow-categorization-negotiation.md) — related

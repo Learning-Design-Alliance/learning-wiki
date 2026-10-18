@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (17 for, 16 mixed, 1 against) · 24 studies (6 associational, 5 quant-synthesis, 4 causal, 3 qualitative, 3 design, 2 review, 1 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (18 for, 16 mixed, 1 against) · 24 studies (6 associational, 5 quant-synthesis, 4 causal, 3 qualitative, 3 design, 2 review, 1 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,7 @@ Claims the earlier page cited, and neighbouring claims, that are not core eviden
 - [Formative feedback makes student behaviour "seen" in asynchronous online learning](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+W] — the authors' argument from the same audit (`q1`).
 - [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) [+S] — face-to-face undergraduate STEM courses; carried to live online sessions only by extrapolation.
 - [A meta-analysis quantitatively verified the importance of three types of interaction in distance and online learning: among students, between instructor and students, and between students and content](../claims/three-interaction-types-verified-meta-analysis-distance-learning.md) [+W] — attached 2026-10-15 from Abrami et al. (2012), which proposed "Use interaction evidence and theory to improve distance and online learning practice"; tests this page's relationship.
+- [Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.](../claims/information-exchange-prompts-higher-transactivity.md) [+W] — attached 2026-10-18 from Yoon et al. (2020), which proposed "Online asynchronous teacher PD designed around social capital mechanisms combined with essential teacher learning and PD characteristics"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

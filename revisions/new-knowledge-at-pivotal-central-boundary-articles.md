@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/new-knowledge-at-pivotal-central-boundary-articles.md
+---
+
+# Revision history: [claims/new-knowledge-at-pivotal-central-boundary-articles](../claims/new-knowledge-at-pivotal-central-boundary-articles.md)
+
+### 2026-10-18 · ingest · process:wiki-ingest
+Ingested from jrnl-w2897493061 (Using big data techniques for measuring productive friction in mass collaboration online environments) via eval_harness.py + ingest_extractions.py

@@ -1,0 +1,46 @@
+---
+type: claim
+title: Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.
+description: Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.
+id: post-size-unreliable-tie-weight
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: mohammed-saqr-2020
+    resource: "https://doi.org/10.1007/s11412-020-09322-6"
+    title: "Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6"
+    author: Mohammed Saqr, et al
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+
+## Subclaims
+`q3 i?` Weighting network ties by post size produced less robust correlations, and the article interprets that incoming interactions (indegree) reflect a post's value better than its sheer size. [→ Mohammed Saqr 2020](#mohammed-saqr-2020)
+
+## Evidence
+
+### Mohammed Saqr 2020
+
+Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6
+
+`q3 · i?` · `associational · r2`
+
+Observational analysis comparing weighted (post-character) networks with multigraph and simplified ones across the 12 courses. The article reports "post size was not a reliable weight" and interprets that students posting long text may copy-paste or neglect quality, drawing fewer replies. It also notes an initial analysis using duplicate-link counts gave identical indegree/outdegree results.
+
+> "The findings have also demonstrated that post size was not a reliable weight. A possible explanation may be the possibility that students who posted large chunks of text tended to care less about text quality and/or they copy-pasted content from the Internet. Nonetheless, such posts received fewer interactions."
+
+## Discussion
+
+
+## Related Claims
+-

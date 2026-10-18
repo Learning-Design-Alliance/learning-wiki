@@ -63,3 +63,4 @@ Thematic analysis of semi-structured interviews conducted in spring 2023 with 21
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements](cobi-broad-buy-in-students-teachers.md) — related
+- [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
