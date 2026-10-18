@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":21264,
+"claim":21273,
 "design":960,
 "element":1066,
 "learner-variable":74,
@@ -9,8 +9,8 @@
 "principle":213,
 "process":18,
 "product":1791,
-"research-method":455,
-"strategy":6207,
+"research-method":456,
+"strategy":6208,
 "theory":1361
 },
 "kinds":[
@@ -68435,6 +68435,15 @@
 "type":"claim"
 },
 {
+"description":"Latent profile analysis of situation-specific motivation for studying video modeling examples yields four profiles: good-quality, moderately positive, moderately negative, and poor-quality",
+"evidence_strength":"moderate",
+"id":"four-situation-specific-motivational-profiles-video-modeling",
+"path":"claims/four-situation-specific-motivational-profiles-video-modeling.md",
+"status":"review",
+"title":"Latent profile analysis of situation-specific motivation for studying video modeling examples yields four profiles: good-quality, moderately positive, moderately negative, and poor-quality",
+"type":"claim"
+},
+{
 "description":"The taxonomy organises LLM-supported journalistic tasks into four stages: newsgathering, sensemaking, editing, and publication/distribution",
 "evidence_strength":"weak",
 "id":"four-stage-news-workflow-organisation",
@@ -97199,6 +97208,15 @@
 "type":"claim"
 },
 {
+"description":"During the intervention, linear algebra exam performance rose distinctly above overall first-year performance, a pattern the authors interpret as intervention impact beyond cohort differences",
+"evidence_strength":"weak",
+"id":"linear-algebra-performance-above-overall-first-year-trend",
+"path":"claims/linear-algebra-performance-above-overall-first-year-trend.md",
+"status":"review",
+"title":"During the intervention, linear algebra exam performance rose distinctly above overall first-year performance, a pattern the authors interpret as intervention impact beyond cohort differences",
+"type":"claim"
+},
+{
 "description":"Feedback provision proceeded linearly through the text, while feedback processing was less linear and used two interchangeable strategies",
 "evidence_strength":"moderate",
 "id":"linear-provision-less-linear-processing-procedure",
@@ -111063,6 +111081,33 @@
 "type":"claim"
 },
 {
+"description":"Motivational profiles were associated with mental effort while studying the video modeling examples, but not with posttest mental effort",
+"evidence_strength":"moderate",
+"id":"motivational-profile-mental-effort",
+"path":"claims/motivational-profile-mental-effort.md",
+"status":"review",
+"title":"Motivational profiles were associated with mental effort while studying the video modeling examples, but not with posttest mental effort",
+"type":"claim"
+},
+{
+"description":"Students with good-quality or moderately positive motivational profiles scored higher on the problem-solving posttest than students with poor-quality or moderately negative profiles",
+"evidence_strength":"moderate",
+"id":"motivational-profile-problem-solving-posttest",
+"path":"claims/motivational-profile-problem-solving-posttest.md",
+"status":"review",
+"title":"Students with good-quality or moderately positive motivational profiles scored higher on the problem-solving posttest than students with poor-quality or moderately negative profiles",
+"type":"claim"
+},
+{
+"description":"Students with good-quality or moderately positive profiles self-assessed more accurately after studying video modeling examples than students with poor-quality or moderately negative profiles",
+"evidence_strength":"moderate",
+"id":"motivational-profile-self-assessment-accuracy",
+"path":"claims/motivational-profile-self-assessment-accuracy.md",
+"status":"review",
+"title":"Students with good-quality or moderately positive profiles self-assessed more accurately after studying video modeling examples than students with poor-quality or moderately negative profiles",
+"type":"claim"
+},
+{
 "description":"Motivational relevance conferred by conceptual knowledge prioritizes visual processing, as shown by moderators of the other-race effect",
 "evidence_strength":"moderate",
 "id":"motivational-relevance-prioritizes-visual-processing-ore",
@@ -124779,6 +124824,24 @@
 "path":"claims/participation-level-tied-to-real-world-impact.md",
 "status":"review",
 "title":"The article asserts that potential impact and social change rise with increasing stakeholder participation",
+"type":"claim"
+},
+{
+"description":"Participation in preparatory exercises predicted conceptual-understanding test performance in the first two iterations only, with no evidence in Years 3 and 4",
+"evidence_strength":"mixed",
+"id":"participation-predicts-conceptual-understanding-first-two-years-only",
+"path":"claims/participation-predicts-conceptual-understanding-first-two-years-only.md",
+"status":"review",
+"title":"Participation in preparatory exercises predicted conceptual-understanding test performance in the first two iterations only, with no evidence in Years 3 and 4",
+"type":"claim"
+},
+{
+"description":"Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)",
+"evidence_strength":"moderate",
+"id":"participation-preparatory-exercises-predicts-exam-grade",
+"path":"claims/participation-preparatory-exercises-predicts-exam-grade.md",
+"status":"review",
+"title":"Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)",
 "type":"claim"
 },
 {
@@ -138554,6 +138617,15 @@
 "path":"claims/ps-i-null-results-new-domains.md",
 "status":"review",
 "title":"PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing",
+"type":"claim"
+},
+{
+"description":"The PS-I intervention significantly increased the percentage of students passing the linear algebra final exam in all four cohorts (Cohen's d = 0.21–0.42)",
+"evidence_strength":"moderate",
+"id":"ps-i-preparatory-exercises-increase-pass-rates-linear-algebra",
+"path":"claims/ps-i-preparatory-exercises-increase-pass-rates-linear-algebra.md",
+"status":"review",
+"title":"The PS-I intervention significantly increased the percentage of students passing the linear algebra final exam in all four cohorts (Cohen's d = 0.21–0.42)",
 "type":"claim"
 },
 {
@@ -185664,6 +185736,15 @@
 "type":"claim"
 },
 {
+"description":"Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest",
+"evidence_strength":"moderate",
+"id":"video-modeling-pretest-posttest-gains",
+"path":"claims/video-modeling-pretest-posttest-gains.md",
+"status":"review",
+"title":"Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest",
+"type":"claim"
+},
+{
 "description":"Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase",
 "evidence_strength":"moderate",
 "id":"video-modeling-srl-training-improves-posttest-performance",
@@ -227829,6 +227910,14 @@
 "type":"research-method"
 },
 {
+"description":"When using subjective rating scales to measure cognitive load, researchers should not assume that the average of ratings given after each task equals a single rating given after the whole learning phase.",
+"id":"immediate-versus-delayed-subjective-cognitive-load-measurement",
+"path":"research-methods/immediate-versus-delayed-subjective-cognitive-load-measurement.md",
+"status":"review",
+"title":"Immediate-versus-delayed subjective cognitive load measurement",
+"type":"research-method"
+},
+{
 "description":"The guide is a practical resource for researchers who conduct implementation analyses as part of impact studies of education interventions.",
 "id":"implementation-research-within-impact-studies-of-education-interventions",
 "path":"research-methods/implementation-research-within-impact-studies-of-education-interventions.md",
@@ -254924,6 +255013,14 @@
 "path":"strategies/lecture-kg-evaluation-roadmap.md",
 "status":"review",
 "title":"Rigorous evaluation roadmap for lecture-KG systems: gold-standard annotation, controlled ablations, and faithfulness metrics",
+"type":"strategy"
+},
+{
+"description":"Because discussing student-generated solutions with hundreds of students is not feasible, the article adapted PF principles 2A and 2B: the lecturer \\\"discussed the preparatory exercises at the beginning of the subseque...",
+"id":"lecturer-discusses-preparatory-exercises-large-lectures",
+"path":"strategies/lecturer-discusses-preparatory-exercises-large-lectures.md",
+"status":"review",
+"title":"Adapt productive failure principles to large university lectures by having the lecturer discuss preparatory exercises and common misconceptions at the start of the lecture",
 "type":"strategy"
 },
 {
@@ -298680,6 +298777,7 @@
 "four-scores-predict-passage-comprehension":"four-scores-predict-passage-comprehension",
 "four-sea-lea-role-categories-essa-plans":"four-sea-lea-role-categories-essa-plans",
 "four-session-engagement-types-genai-tutor":"four-session-engagement-types-genai-tutor",
+"four-situation-specific-motivational-profiles-video-modeling":"four-situation-specific-motivational-profiles-video-modeling",
 "four-stage-news-workflow-organisation":"four-stage-news-workflow-organisation",
 "four-themes-engagement-adaptive-platforms":"four-themes-engagement-adaptive-platforms",
 "four-themes-faculty-ai-transformation":"four-themes-faculty-ai-transformation",
@@ -301934,6 +302032,7 @@
 "lincs-surpassed-completion-targets":"lincs-surpassed-completion-targets",
 "linda-consultation-shifted-surface-to-deep-acting":"linda-consultation-shifted-surface-to-deep-acting",
 "lindsay-usd-digital-equity-outcomes":"lindsay-usd-digital-equity-outcomes",
+"linear-algebra-performance-above-overall-first-year-trend":"linear-algebra-performance-above-overall-first-year-trend",
 "linear-provision-less-linear-processing-procedure":"linear-provision-less-linear-processing-procedure",
 "linear-regression-selected-linking-model":"linear-regression-selected-linking-model",
 "linear-strategy-lower-cognitive-load":"linear-strategy-lower-cognitive-load",
@@ -303503,6 +303602,9 @@
 "motivational-disengagement-ai-reliance":"motivational-disengagement-ai-reliance",
 "motivational-factors-correlate-not-predict-efl-proficiency":"motivational-factors-correlate-not-predict-efl-proficiency",
 "motivational-impairments-uncommon-22-percent-equal-subtypes":"motivational-impairments-uncommon-22-percent-equal-subtypes",
+"motivational-profile-mental-effort":"motivational-profile-mental-effort",
+"motivational-profile-problem-solving-posttest":"motivational-profile-problem-solving-posttest",
+"motivational-profile-self-assessment-accuracy":"motivational-profile-self-assessment-accuracy",
 "motivational-relevance-prioritizes-visual-processing-ore":"motivational-relevance-prioritizes-visual-processing-ore",
 "motor-coordination-adhd-symptoms-predict-written-language":"motor-coordination-adhd-symptoms-predict-written-language",
 "motor-imagery-training-benefits-dcd":"motor-imagery-training-benefits-dcd",
@@ -305046,6 +305148,8 @@
 "participants-prefer-tool-over-humanlike-agent":"participants-prefer-tool-over-humanlike-agent",
 "participation-level-not-related-scientific-engagement":"participation-level-not-related-scientific-engagement",
 "participation-level-tied-to-real-world-impact":"participation-level-tied-to-real-world-impact",
+"participation-predicts-conceptual-understanding-first-two-years-only":"participation-predicts-conceptual-understanding-first-two-years-only",
+"participation-preparatory-exercises-predicts-exam-grade":"participation-preparatory-exercises-predicts-exam-grade",
 "participation-structures-access-challenging-math":"participation-structures-access-challenging-math",
 "participatory-design-ownership-tradeoffs":"participatory-design-ownership-tradeoffs",
 "partner-capacities-skills-knowledge-dispositions":"partner-capacities-skills-knowledge-dispositions",
@@ -306600,6 +306704,7 @@
 "ps-i-no-effect-conceptual-bayesian-replication":"ps-i-no-effect-conceptual-bayesian-replication",
 "ps-i-no-effect-procedural-bayesian":"ps-i-no-effect-procedural-bayesian",
 "ps-i-null-results-new-domains":"ps-i-null-results-new-domains",
+"ps-i-preparatory-exercises-increase-pass-rates-linear-algebra":"ps-i-preparatory-exercises-increase-pass-rates-linear-algebra",
 "ps-i-simulation-better-mvc-transfer":"ps-i-simulation-better-mvc-transfer",
 "ps-i-superior-only-with-student-solutions":"ps-i-superior-only-with-student-solutions",
 "ps-lowest-wechsler-index-referred-youth":"ps-lowest-wechsler-index-referred-youth",
@@ -311957,6 +312062,7 @@
 "video-model-no-knowledge-gain":"video-model-no-knowledge-gain",
 "video-model-no-self-efficacy-gain":"video-model-no-self-efficacy-gain",
 "video-modeling-examples-large-gains-probability-novices":"video-modeling-examples-large-gains-probability-novices",
+"video-modeling-pretest-posttest-gains":"video-modeling-pretest-posttest-gains",
 "video-modeling-srl-training-improves-posttest-performance":"video-modeling-srl-training-improves-posttest-performance",
 "video-modeling-suits-active-deep-learning":"video-modeling-suits-active-deep-learning",
 "video-more-effective-for-skills-than-knowledge":"video-more-effective-for-skills-than-knowledge",
@@ -317413,6 +317519,7 @@
 "human-validated-llm-reconstruction-of-syllabus-assessment-weights":"human-validated-llm-reconstruction-of-syllabus-assessment-weights",
 "hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato":"hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato",
 "hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem":"hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem",
+"immediate-versus-delayed-subjective-cognitive-load-measurement":"immediate-versus-delayed-subjective-cognitive-load-measurement",
 "implementation-research-within-impact-studies-of-education-interventions":"implementation-research-within-impact-studies-of-education-interventions",
 "improvement-rate-difference-meta-analysis":"improvement-rate-difference-meta-analysis",
 "inferentialist-epistemology-for-analyzing-students-mathematical-reasoning":"inferentialist-epistemology-for-analyzing-students-mathematical-reasoning",
@@ -320952,6 +321059,7 @@
 "lectura-proactiva-daily-small-group-delivery":"lectura-proactiva-daily-small-group-delivery",
 "lecture-kg-evaluation-roadmap":"lecture-kg-evaluation-roadmap",
 "lecture_support_with_graphic_organizers":"graphic_organizers_for_lecture_support",
+"lecturer-discusses-preparatory-exercises-large-lectures":"lecturer-discusses-preparatory-exercises-large-lectures",
 "legislate-consumer-protections-and-regulatory-agency-for-ai-edtech":"legislate-consumer-protections-and-regulatory-agency-for-ai-edtech",
 "lenses-professional-learning-support-strategy":"lenses-professional-learning-support-strategy",
 "lesson-study":"lesson-study",

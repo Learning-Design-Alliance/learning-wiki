@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (15 for, 17 mixed) · 30 studies (8 theoretical, 7 review, 6 causal, 4 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 30 report an effect size · 27 claims rest on one study
+> **Evidence** · 34 claims (17 for, 17 mixed) · 31 studies (8 theoretical, 7 causal, 7 review, 4 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 31 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,8 @@ Claims the earlier page cited that are not used above, each with how far it bear
 
 Also bearing on this page, read for it but not used in the model: [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~M] (one trial, reported second-hand; owned by the tool page), [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](../claims/user-goals-contradict-educational-objectives.md) [~M] (used below on goals), and [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](../claims/external-resources-support-pedagogical-judgment-alignment.md) [+M] (two debrief episodes in a teachers' partnership; external representations supporting a group's reasoning, qualitatively).
 - [The IW-supported group needed less teacher scaffolding in the late problem-solving stage, where nurse and instructor discourse decreased, while scaffolding increased from early to late stage in the TW condition](../claims/iw-group-less-late-stage-scaffolding.md) [+W] — attached 2026-10-18 from Lu et al. (2010), which proposed "Design CSCL visualization and argumentation tools so externalized group work frees the teacher from task structuring to scaffold by increasing challenge".
+- [Groups using the Graphical Debate-tool constructed representations of significantly higher quality than groups using the Textual Debate-tool, for both debate positions.](../claims/gd-tool-higher-quality-representations.md) [+W] — attached 2026-10-18 from Jeroen Janssen et al. (2008), which proposed "Take representational guidance into account during instructional design because it affects group and individual performance"; tests this page's relationship.
+- [GD groups wrote essays significantly better in total grounds quality, total conceptual quality, and average conceptual quality, but did not cover more topics and were not better in average grounds quality.](../claims/gd-essays-total-grounds-conceptual-quality.md) [+W] — attached 2026-10-18 from Jeroen Janssen et al. (2008), which proposed "Take representational guidance into account during instructional design because it affects group and individual performance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

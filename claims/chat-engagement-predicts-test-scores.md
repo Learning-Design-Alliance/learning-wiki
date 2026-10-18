@@ -48,3 +48,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — related
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
+- [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related

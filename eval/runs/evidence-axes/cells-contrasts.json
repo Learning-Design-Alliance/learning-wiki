@@ -35338,5 +35338,37 @@
  "simulation\ttraining with VR or live simulation\tpre-training baseline": {
   "label": "training with VR or live simulation vs pre-training baseline",
   "treatment_is_a": true
+ },
+ "other\t1999 accountability reporting\t1992 accountability reporting": {
+  "label": "1999 vs 1992 accountability reporting",
+  "treatment_is_a": true
+ },
+ "problem-first\tYear 2 intervention cohort with preparatory exercises\tbaseline cohort": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tYear 3 intervention cohort with preparatory exercises\tbaseline cohort": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tpreparatory problem-solving before lectures\tbaseline course before intervention": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tpreparatory problem-solving exercises before lectures\tpre-intervention baseline cohorts": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving before instruction with preparatory exercises\tbaseline course without preparatory exercises": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "worked-examples\tafter studying video modeling examples\tbefore studying video modeling examples": {
+  "label": "after vs before studying video modeling examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tvideo modeling examples\tpretest before studying the videos": {
+  "label": "worked examples vs pretesting",
+  "treatment_is_a": true
  }
 }

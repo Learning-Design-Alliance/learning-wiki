@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**455 entries** · 0 stable · 455 in review · 0 drafts
+**456 entries** · 0 stable · 456 in review · 0 drafts
 
 ---
 
@@ -232,6 +232,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### I {: #letter-i }
 
+* [Immediate-versus-delayed subjective cognitive load measurement](immediate-versus-delayed-subjective-cognitive-load-measurement.md) - When using subjective rating scales to measure cognitive load, researchers should not assume that the average of ratings given after each task equals a single rating given after the whole learning phase.
 * [Implementation research within impact studies of education interventions](implementation-research-within-impact-studies-of-education-interventions.md) - The guide is a practical resource for researchers who conduct implementation analyses as part of impact studies of education interventions.
 * [Improvement Rate Difference meta-analysis](improvement-rate-difference-meta-analysis.md) - This element is the meta-analysis itself: the authors synthesized \"Twenty-four single-case studies\" on aided AAC with individuals with ASD \"via an effect size measure, the Improvement Rate Difference (IRD).\" The IRD is used to quantify improvement across single-case designs, a literature base the au
 * [Inferentialist epistemology for analyzing students' mathematical reasoning](inferentialist-epistemology-for-analyzing-students-mathematical-reasoning.md) - The article develops an epistemological framework based on Brandom's inferentialism for studying students' reasoning on the order relation of integers.

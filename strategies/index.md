@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6207 entries** · 0 stable · 6207 in review · 0 drafts
+**6208 entries** · 0 stable · 6208 in review · 0 drafts
 
 ---
 
@@ -70,6 +70,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Adapt instruction dynamically to individual learners using measures of expertise and cognitive load](adapt-instruction-via-expertise-load-measures.md) - This strategy implements the review's call for flexible adaptation: instruction should be adjusted to individual learners' needs based on ongoing measurement of their expertise and cognitive load.
 * [Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility](adapt-non-invigilated-assessments-marking-criteria-for-genai.md) - The article recommends that assessment design respond to demonstrated AI vulnerability rather than relying on detection alone.
 * [Adapt practice activities to learners' age, cultural background, and aptitudes](adapt-practice-age-culture-aptitude.md) - The article recommends that teachers adapt practice to their learners, since \"Not all forms of practice will work equally well under all circumstances\".
+* [Adapt productive failure principles to large university lectures by having the lecturer discuss preparatory exercises and common misconceptions at the start of the lecture](lecturer-discusses-preparatory-exercises-large-lectures.md) - Because discussing student-generated solutions with hundreds of students is not feasible, the article adapted PF principles 2A and 2B: the lecturer \"discussed the preparatory exercises at the beginning of the subseque...
 * [Adapt science-inquiry rubric categories from claim-evidence-reasoning to solution-support-reasoning for engineering activities](solution-support-reasoning-rubric-categories.md) - The authors recommend modifying the evaluation rubric when moving from science inquiry to engineering inquiry.
 * [Adapt student assessment using technology-enhanced items developed based on students' learning styles](tei-based-on-learning-styles-assessment.md) - The authors propose adapting student assessment by developing technology-enhanced items (TEIs) based on students' learning styles.
 * [Adapt the guided inquiry policy co-design activity across disciplines, framing AI as a sociotechnical system](adapt-genai-codesign-across-disciplines-sociotechnical-framing.md) - The authors offer a forward-looking design recommendation for instructors adapting the activity beyond technical fields.
