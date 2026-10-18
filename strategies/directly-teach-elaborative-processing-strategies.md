@@ -42,6 +42,7 @@ The report recommends teaching students when, why, and how to elaborate on new i
 
 - [Making Connections](making_connections.md)
 - [Question Generation](question-generation.md)
+- [Promote interaction between provider and receiver of peer feedback to stimulate elaboration on judgments](promote-provider-receiver-interaction-feedback.md)
 
 ## Examples
 -

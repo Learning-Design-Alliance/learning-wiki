@@ -70,3 +70,4 @@ Same mixed-model confirmatory test applied to Paas difficulty ratings. The inter
 - [Prior genAI access and incentives interact on perceived difficulty of the memory test](genai-incentive-interaction-memory-difficulty.md) — related
 - [GenAI access reduces perceived difficulty of the assisted reasoning task](genai-reduces-perceived-task-difficulty.md) — related
 - [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related
+- [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related

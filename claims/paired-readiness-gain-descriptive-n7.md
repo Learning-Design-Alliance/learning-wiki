@@ -47,3 +47,4 @@ Descriptive pre/post comparison in the Customized Co-Creation Layer using six sc
 - [Entering faculty were characterized by uncertainty rather than opposition: mean AI perception was 3.22 on a five-point scale and mean self-rated fluency was 1.89 on a six-point scale](faculty-starting-points-uncertainty-low-fluency.md) — related
 - [Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute](ubridge-perception-shift-positive.md) — related
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
+- [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](visigarp-diagram-prepost-null.md) — related

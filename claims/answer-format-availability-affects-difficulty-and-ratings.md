@@ -81,4 +81,4 @@ Regressions predicting perceived task difficulty by relative item difficulty sep
 
 
 ## Related Claims
--
+- [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related

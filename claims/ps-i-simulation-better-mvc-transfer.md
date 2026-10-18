@@ -43,4 +43,6 @@ The editorial reports, citing Saba et al. (2025), a comparison of PS-I and I-PS 
 
 
 ## Related Claims
--
+- [Exploration-first students show more advanced MVC reasoning on the transfer task than Instruction-first students](exploration-first-transfer-mvc-reasoning.md) — related
+- [Exploration-first students transfer MVC-strategy Efficiency better, with condition-by-Task-2 interactions for Efficiency and Quality](exploration-first-transfers-mvc-efficiency.md) — a narrower finding that bears on this claim
+- [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — a broader claim this one bears on

@@ -51,3 +51,5 @@ Paired-samples t-test on an eight-item 5-point prompt self-efficacy scale admini
 - [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](ai-knowledge-significant-gain-integrated-biology-lessons.md) — related
 - [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](argumentative-writing-gains-scaffolded-llm-assignments.md) — related
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
+- [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
+- [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related

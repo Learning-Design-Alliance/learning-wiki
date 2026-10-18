@@ -107,3 +107,4 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
 - [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related
 - [Generating peer feedback prior to internal feedback does not improve the quality of assessors' subsequent internal feedback](peer-feedback-first-no-effect-internal-feedback.md) — a narrower finding that bears on this claim
+- [Students assessed their own peers less critically than an unknown video presenter, consistent with possible friendship bias in authentic peer feedback](peers-assessed-less-critically-than-video-presenter.md) — a narrower finding that bears on this claim

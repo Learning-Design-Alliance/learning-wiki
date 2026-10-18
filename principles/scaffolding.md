@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (18 for, 19 mixed, 3 against) · 30 studies (14 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 30 report an effect size · 34 claims rest on one study
+> **Evidence** · 41 claims (18 for, 20 mixed, 3 against) · 31 studies (15 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](../claims/scaffolds-shift-cps-turn-proportions-p3-p4.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
 - [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](../claims/scaffolds-lower-gini-cps-process-distribution.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
 - [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](../claims/scaffolds-higher-final-solution-scores.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
+- [Neither the external collaboration script nor the reflection scaffold increased the quality of interaction in the subsequent (testing-phase) collaboration](../claims/no-script-or-reflection-effect-on-interaction-quality.md) [~W] — attached 2026-10-18 from Sebastian Strauß et al. (2025), which proposed "Determine how to support collaboration by comparing supports along the CSCL support dimensions goal, timing, target, and directivity"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

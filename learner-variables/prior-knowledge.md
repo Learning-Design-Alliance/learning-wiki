@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (76 show a difference, 39 mixed, 16 no difference, 3 unmarked) · 103 studies (30 causal, 22 review, 15 associational, 13 theoretical, 8 quant-synthesis, 8 qualitative, 7 design), `q1`–`q4` · 17 of 103 report an effect size · 119 claims rest on one study
+> **Evidence** · 137 claims (79 show a difference, 39 mixed, 16 no difference, 3 unmarked) · 106 studies (32 causal, 22 review, 15 associational, 13 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 106 report an effect size · 122 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -181,6 +181,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](../claims/novices-more-negative-noticing-valence.md) [+M] — learners who differ on it differ in outcomes
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](../claims/novices-more-critical-alternatives-valence.md) [+M] — learners who differ on it differ in outcomes
 - [The association between expertise and the valence of noticing and of alternatives holds after controlling for subject, grade level, minority status, and gender](../claims/expertise-valence-association-robust-to-controls.md) [+M] — learners who differ on it differ in outcomes
+- [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](../claims/pretest-accuracy-moderates-typical-argument-training.md) [+M] — an instructional effect differs with it
+- [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](../claims/prior-knowledge-predicts-interactive-behavior.md) [+M] — learners who differ on it differ in outcomes
+- [University students without qualitative-reasoning experience improved their Cerrado ecology domain knowledge after interacting with VISIGARP](../claims/visigarp-domain-knowledge-gains.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

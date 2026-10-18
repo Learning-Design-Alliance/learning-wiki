@@ -59,7 +59,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (30 for, 40 mixed, 4 against) · 51 studies (14 review, 11 causal, 11 quant-synthesis, 6 qualitative, 5 theoretical, 3 design, 1 associational), `q1`–`q4` · 11 of 51 report an effect size · 69 claims rest on one study
+> **Evidence** · 76 claims (30 for, 42 mixed, 4 against) · 52 studies (14 review, 12 causal, 11 quant-synthesis, 6 qualitative, 5 theoretical, 3 design, 1 associational), `q1`–`q4` · 11 of 52 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -222,6 +222,8 @@ Read against this model on 2026-10-15; the claims below do not bear on the relat
 - [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [~W] — added 2026-10-17: one sixth-grader's think-aloud with a PhET simulation designed with implicit scaffolding; it shows a well-designed interface can invite exploration, not that the exploration teaches without guidance, so it does not change the guidance rule in the virtual-labs subsection.
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](../claims/cscl-simulation-conceptual-change-cognitive-engagement.md) [~W] — added 2026-10-17: seven Grade 10 dyads at a physics microworld; collaboration helped conceptual change only with reflection, which bears on pairing learners at one virtual lab; qualitative, one class.
 - [Functional correspondence predicts simulation learning outcomes better than physical resemblance or appeals to authenticity](../claims/functional-correspondence-predicts-outcomes.md) [+W] — attached 2026-10-18 from Charlott Sellberg et al. (2025), which proposed "Design simulations for functional correspondence with the task elements most consequential for professional performance, matched to learner stage"; tests this page's relationship.
+- [VR simulation better promoted lab-teaching knowledge development than live classroom simulation, while live simulation better fostered class-teaching knowledge development among university teaching assistants](../claims/vr-vs-live-simulation-domain-specific-teaching-knowledge.md) [~W] — attached 2026-10-18 from Ke et al. (2021), which proposed "Use VR-based teaching simulation to supplement or substitute for live classroom simulation in hosting participatory teaching development"; tests this page's relationship.
+- [VR participants lacked mutual engagement in collaborative role-playing during the teaching simulation](../claims/vr-participants-lacked-mutual-engagement-role-playing.md) [~W] — attached 2026-10-18 from Ke et al. (2021), which proposed "Use VR-based teaching simulation to supplement or substitute for live classroom simulation in hosting participatory teaching development".
 
 ## Objective and learner-valued goal
 

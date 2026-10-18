@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (92 show a difference, 14 mixed, 11 no difference) · 98 studies (40 associational, 19 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 14 of 98 report an effect size · 114 claims rest on one study
+> **Evidence** · 118 claims (93 show a difference, 14 mixed, 11 no difference) · 99 studies (40 associational, 20 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 14 of 99 report an effect size · 115 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -147,6 +147,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](../claims/no-metacognitive-awareness-of-errorful-learning-benefits.md) [-W] — instruction changes it
 - [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](../claims/example-problem-pairs-raise-perceived-competence.md) [+M] — instruction changes it
 - [Perceived competence predicts isomorphic test performance and perceived autonomy predicts transfer performance](../claims/perceived-competence-autonomy-predict-test-performance.md) [+M] — learners who differ on it differ in outcomes
+- [All participants reported higher teaching self-efficacy after the teaching-simulation training](../claims/teaching-simulation-training-raises-self-efficacy.md) [+M] — instruction changes it
 
 ## The evidence by question
 

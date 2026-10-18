@@ -122,3 +122,7 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — related
 - [Video benefits learning only when its interactivity matches or exceeds the comparison condition](video-benefit-depends-on-relative-interactivity.md) — related
+- [Intensity of learner control use relates to retention gains but not to transfer performance](interactive-behavior-relates-to-retention-not-transfer.md) — related
+- [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
+- [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
+- [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](prior-knowledge-predicts-interactive-behavior.md) — related

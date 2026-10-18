@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies (3 review, 2 causal, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 7 studies (3 causal, 3 review, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -54,6 +54,8 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Directly after training, students who observed a modeling example generated significantly more overall feedback than students who practiced giving feedback](../claims/modeling-example-more-overall-feedback-direct-measure.md) [+W] — attached 2026-10-18 from Floris M. van Blankenstein et al. (2019), which proposed "Modeling example intervention: teacher demonstrates giving feed-back and feed-forward on good and bad presentation videos"; tests this page's relationship.
+- [Directly after training, students who observed a modeling example referred to assessment criteria in their feedback significantly more often than students who practiced](../claims/modeling-example-more-assessment-criteria-direct-measure.md) [+W] — attached 2026-10-18 from Floris M. van Blankenstein et al. (2019), which proposed "Modeling example intervention: teacher demonstrates giving feed-back and feed-forward on good and bad presentation videos"; tests this page's relationship.
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]

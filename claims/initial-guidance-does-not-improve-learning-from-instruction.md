@@ -74,3 +74,4 @@ An independent replication with three conditions (unguided problem solving, guid
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related
 - [A validity problem in Kapur's standard deviation transfer item brackets its transfer findings as working hypotheses](kapur-sd-transfer-item-validity-problem.md) — related
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related
+- [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related

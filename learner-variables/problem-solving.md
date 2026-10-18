@@ -12,7 +12,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (41 show a difference, 4 mixed, 4 no difference) · 41 studies (21 causal, 5 associational, 4 review, 3 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 41 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (42 show a difference, 4 mixed, 4 no difference) · 42 studies (22 causal, 5 associational, 4 review, 3 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 42 report an effect size · 48 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -86,6 +86,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](../claims/scaffolds-shift-cps-turn-proportions-p3-p4.md) [+M] — instruction changes it
 - [Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase](../claims/video-modeling-srl-training-improves-posttest-performance.md) [+M] — instruction changes it
 - [Video-graph analysis shows scaffolded tasks produced more diverse process episodes, more fluent transitions between processes, and more P3–P4 oscillation than non-scaffolded tasks](../claims/scaffolds-video-graph-episode-diversity-transitions.md) [+M] — instruction changes it
+- [Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest](../claims/video-modeling-pretest-posttest-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

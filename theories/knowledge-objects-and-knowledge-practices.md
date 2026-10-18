@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (11 for) · 9 studies (4 design, 3 qualitative, 1 causal, 1 review), `q1`–`q2` · 0 of 9 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 10 studies (4 design, 3 qualitative, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 10 report an effect size · 12 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -49,6 +49,7 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Individual synthesis artifacts facilitated collaborative discourse by guiding the flow of group work and by supporting knowledge sharing, building shared understanding, and generating and advancing ideas](../claims/synthesis-artifacts-facilitated-discourse-progression-and-epistemic-actions.md) [+W] — attached 2026-10-18 from Xinran Zhu · Bodong Chen · David DeLiema (2026), which proposed "Knowledge synthesis in CSCL: connecting, analyzing, and integrating ideas from discourse to foster conceptual innovation".
 - [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](../claims/kbm-three-mediating-processes.md) [+W] — attached 2026-10-18 from Dina Soliman et al. (2026), which proposed "Knowledge Building–Modeling (KBM): a recursive framework integrating discourse, analytics-driven reflection, and model construction".
 - [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](../claims/concept-mapping-higher-transactivity-integration.md) [+W] — attached 2026-10-18 from Lucero et al. (2024), which proposed "MUPEMURE model: negotiation and knowledge building are shaped by the type of external knowledge representation tool"; tests this page's relationship.
+- [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](../claims/co-construction-alone-hinders-shared-mental-models.md) [~W] — attached 2026-10-18 from Van den Bossche et al. (2011), which proposed "Team learning behavior framework: construction, co-construction, and constructive conflict building shared mental models".
 
 ## Related Theories
 

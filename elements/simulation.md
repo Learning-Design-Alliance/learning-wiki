@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (25 for, 9 mixed, 2 against) · 38 studies (12 review, 10 quant-synthesis, 7 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 38 report an effect size · 26 claims rest on one study
+> **Evidence** · 37 claims (26 for, 9 mixed, 2 against) · 39 studies (12 review, 10 quant-synthesis, 8 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 39 report an effect size · 27 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -91,6 +91,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](../claims/ai-simulation-short-term-gains-nursing.md) [~W]
 - [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](../claims/ai-simulation-authenticity-gap.md) [~W]
 - [Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice](../claims/convergence-corroborated-by-surveys-and-human-raters.md) [~W]
+- [Domain-specific challenges and authentic environmental prompting in the VR simulation fostered both experiential and vicarious learning of teaching](../claims/vr-authentic-prompting-fosters-experiential-vicarious-learning.md) [+W] — attached 2026-10-18 from Ke et al. (2021), which proposed "Multiuser VR-supported teaching simulation for participatory training of student instructors".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -43,4 +43,4 @@ Robust two-way mixed ANOVA with relevance of rereading as within-subjects variab
 
 
 ## Related Claims
--
+- [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](no-reading-time-difference-targeted-sentences.md) — related

@@ -43,4 +43,4 @@ One-way ANOVA (Welch's F) over 30 four-item tasks comparing the easiest, rather 
 
 
 ## Related Claims
--
+- [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related

@@ -48,3 +48,4 @@ Logged click data from the experiment showed the AV group used far fewer navigat
 - [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — related
 - [No media effect for process knowledge: animation did not improve learning of dynamic content](no-media-effect-process-knowledge.md) — related
+- [Learner control does not improve retention of the main steps in an animated multimedia instruction](learner-control-no-retention-benefit.md) — related

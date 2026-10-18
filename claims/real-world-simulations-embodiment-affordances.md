@@ -52,3 +52,4 @@ The review reports, citing Dunleavy et al. (2009) and Klopfer and Squire (2008),
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
+- [Domain-specific challenges and authentic environmental prompting in the VR simulation fostered both experiential and vicarious learning of teaching](vr-authentic-prompting-fosters-experiential-vicarious-learning.md) — related

@@ -66,3 +66,4 @@ A paired t test over all three phases, excluding eleven children who created all
 - [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](explicit-cvs-knowledge-equal-conditions.md) — related
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](good-experimenter-classification-equal-conditions.md) — related
 - [Children structure their play to reduce uncertainty and deconfound causal variables](children-play-deconfound-causal-variables.md) — related
+- [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related

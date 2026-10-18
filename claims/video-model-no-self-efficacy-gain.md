@@ -48,3 +48,4 @@ Pre-registered regression (Model 1) on an adapted Teacher Self-Efficacy Question
 - [Video models with integrated theory do not improve trainee teachers’ knowledge of questioning for retrieval relative to restudy](video-model-no-knowledge-gain.md) — related
 - [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related
 - [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](theory-annotation-no-extra-skill-benefit.md) — related
+- [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related

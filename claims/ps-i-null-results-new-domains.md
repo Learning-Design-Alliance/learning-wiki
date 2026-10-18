@@ -81,4 +81,10 @@ The editorial reports, citing Ganaiem and Roll (2025), middle-school students as
 
 
 ## Related Claims
--
+- [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related
+- [No significant interaction between order of phases and type of instruction on conceptual knowledge in the Bayesian-reasoning replication](ps-i-instruction-interaction-null-bayesian.md) — a narrower finding that bears on this claim
+- [In a Bayesian-reasoning replication, problem-solving prior to instruction (PS-I) showed no significant advantage over instruction-first (I-PS) on conceptual knowledge](ps-i-no-effect-conceptual-bayesian-replication.md) — a narrower finding that bears on this claim
+- [No significant effect of order of phases on procedural knowledge in the Bayesian-reasoning replication](ps-i-no-effect-procedural-bayesian.md) — a narrower finding that bears on this claim
+- [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](ps-i-superior-only-with-student-solutions.md) — reports the opposite
+- [Solution rates in the initial problem-solving phase moderate whether studies find beneficial PS-I effects](solution-rate-moderates-ps-i-benefits.md) — related
+- [Including typical student solutions in explicit instruction showed no significant effect on conceptual knowledge in the Bayesian-reasoning replication](typical-solutions-instruction-no-effect-bayesian.md) — a narrower finding that bears on this claim

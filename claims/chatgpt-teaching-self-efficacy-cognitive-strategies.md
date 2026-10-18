@@ -59,3 +59,4 @@ ANCOVA on an adapted MSLQ-based SRL questionnaire administered pre and post; the
 - [GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning](gcla-improves-engagement-and-self-efficacy.md) — related
 - [AI-mediated language instruction fosters self-regulated learning among EFL learners more than traditional instruction](ai-instruction-fosters-self-regulated-learning.md) — related
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — related
+- [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
