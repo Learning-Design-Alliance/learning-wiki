@@ -59,9 +59,11 @@ Hinting is a form of [Scaffolding](../principles/scaffolding.md) delivered in th
 6. Fade hints over successive encounters with the same difficulty, consistent with [Fading](../elements/fading.md).
 
 ## Related Strategies
+
 - [Wait Time](wait-time.md) — the pause that makes hinting diagnostic rather than reactive
 - [Cold Calling](cold-call.md) — the questioning context in which hints are most often needed
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — hints frequently work by pointing learners to relevant prior knowledge
+- [Instructors can encourage student idea-offering by incrementally adding epistemic distancing to their questions](instructor-epistemic-distancing-questioning.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — math exercises offer a sequence of hints, each revealing one step; the final hint is a fully worked step, and hint use is tracked as a signal of struggle.

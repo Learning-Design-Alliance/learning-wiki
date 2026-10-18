@@ -46,3 +46,4 @@ Qualitative analysis of Kendra's anomalous statements in group A's episodes. The
 - [Shifts from the blue to the green behavioral cluster correspond to shifts from completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — related
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — related
 - [A teaching assistant's arrival shifts group behavior to the red cluster, corresponding to framing the activity as listening to the TA](ta-arrival-shifts-framing-to-listening.md) — related
+- [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — a narrower finding that bears on this claim

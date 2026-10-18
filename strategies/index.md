@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6012 entries** · 0 stable · 6012 in review · 0 drafts
+**6013 entries** · 0 stable · 6013 in review · 0 drafts
 
 ---
 
@@ -2641,6 +2641,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Instructor Presence In Discussions](instructor-presence-in-discussions.md) - The instructor actively participates in learner discussions — facilitating, probing, and modeling discourse — rather than merely observing them.
 * [Instructor recommendations for running a module-development course project](module-development-course-recommendations.md) - The authors distill their AY201b experience into implementable steps: \"we recommend beginning the module development project by providing students with brief in-class tutorials of the software technologies\"; hold regu...
 * [Instructors apply chatbots to support goal setting and social presence in fully online activities](instructor-strategy-chatbots-goal-setting-social-presence.md) - The authors offer instructors practical suggestions for applying chatbots in teaching and learning, derived from the two studies: “We also provided suggestions for instructors to apply chatbots in teaching and learnin...
+* [Instructors can encourage student idea-offering by incrementally adding epistemic distancing to their questions](instructor-epistemic-distancing-questioning.md) - When students dismiss a productive question, an instructor can rephrase it with hedges (\"What do you think happened there, any idea?\"), rising intonation, and lowered body position to reduce the stakes of contributing...
 * [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md) - Drawing on Tate et al.'s study of an AI-facilitated writing tool in writing-intensive STEM courses, the review recommends enabling critical student use of AI.
 * [Integrate AI assistants with existing curricula and teaching practices rather than replacing instruction](ai-assistant-integrate-existing-instruction.md) - Coursemojo's design approach positions the AI assistant as a complement to the teacher: it is \"designed to 'supercharge the work that is already happening in classrooms' through seamless integration with existing curr...
 * [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](ai-feedback-process-writing-integration-strategy.md) - The article's procedure: students receive explicit genre instruction, draft independently, submit to GROK for AI feedback, critically evaluate suggestions, and revise into a second draft, with the instructor providing...

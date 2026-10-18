@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":19355,
+"claim":19360,
 "design":848,
 "element":1066,
 "learner-variable":74,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1720,
 "research-method":359,
-"strategy":6012,
+"strategy":6013,
 "theory":1361
 },
 "kinds":[
@@ -53644,6 +53644,15 @@
 "type":"claim"
 },
 {
+"description":"Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials",
+"evidence_strength":"moderate",
+"id":"epistemic-distancing-builds-safe-space-sensemaking",
+"path":"claims/epistemic-distancing-builds-safe-space-sensemaking.md",
+"status":"review",
+"title":"Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials",
+"type":"claim"
+},
+{
 "description":"NIG-head predictive uncertainty is dominated by epistemic uncertainty and shows negligible correlation with the absolute engagement score (Pearson r 0.016 aleatoric, 0.025 epistemic)",
 "evidence_strength":"weak",
 "id":"epistemic-dominant-uncertainty-uncorrelated-with-engagement",
@@ -71471,6 +71480,15 @@
 "path":"claims/groups-stable-deliberation-patterns-fail-adapt.md",
 "status":"review",
 "title":"Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs",
+"type":"claim"
+},
+{
+"description":"Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time",
+"evidence_strength":"moderate",
+"id":"groups-vary-first-sensemaking-timing",
+"path":"claims/groups-vary-first-sensemaking-timing.md",
+"status":"review",
+"title":"Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time",
 "type":"claim"
 },
 {
@@ -105166,6 +105184,15 @@
 "path":"claims/new-math-failure-expert-designed-foundations.md",
 "status":"review",
 "title":"The New Math movement failed because its foundational concepts were designed to highlight the domain's organization with little regard to how it was to be learned or taught",
+"type":"claim"
+},
+{
+"description":"A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas",
+"evidence_strength":"weak",
+"id":"new-member-distanced-bid-shifted-bronze-norms",
+"path":"claims/new-member-distanced-bid-shifted-bronze-norms.md",
+"status":"review",
+"title":"A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas",
 "type":"claim"
 },
 {
@@ -156389,6 +156416,15 @@
 "type":"claim"
 },
 {
+"description":"A TA's intervention that incrementally added epistemic distancing to his questions shifted a dismissive group into sensemaking with a lasting effect",
+"evidence_strength":"moderate",
+"id":"ta-epistemic-distancing-intervention-silver-group",
+"path":"claims/ta-epistemic-distancing-intervention-silver-group.md",
+"status":"review",
+"title":"A TA's intervention that incrementally added epistemic distancing to his questions shifted a dismissive group into sensemaking with a lasting effect",
+"type":"claim"
+},
+{
 "description":"The TA ground truth was produced under a one-rater-per-item design with co-grading, an exceptions log, instructor audit, and student review, with an estimated grading-error rate of about 0.1% in the student-inspected...",
 "evidence_strength":"moderate",
 "id":"ta-ground-truth-one-rater-per-item-error-rate",
@@ -163549,6 +163585,15 @@
 "path":"claims/too-good-for-drugs-prosocial-behavior-end-of-program-es-052.md",
 "status":"review",
 "title":"At end of program, the largest Too Good for Drugs effect was on teacher-rated prosocial behaviors (effect size 0.52), not statistically significant after WWC correction",
+"type":"claim"
+},
+{
+"description":"Both too much and too little epistemic distancing can shut down group discussion",
+"evidence_strength":"moderate",
+"id":"too-much-or-little-distancing-shuts-discussion",
+"path":"claims/too-much-or-little-distancing-shuts-discussion.md",
+"status":"review",
+"title":"Both too much and too little epistemic distancing can shut down group discussion",
 "type":"claim"
 },
 {
@@ -232410,6 +232455,14 @@
 "type":"strategy"
 },
 {
+"description":"When students dismiss a productive question, an instructor can rephrase it with hedges (\\\"What do you think happened there, any idea?\\\"), rising intonation, and lowered body position to reduce the stakes of contributing...",
+"id":"instructor-epistemic-distancing-questioning",
+"path":"strategies/instructor-epistemic-distancing-questioning.md",
+"status":"review",
+"title":"Instructors can encourage student idea-offering by incrementally adding epistemic distancing to their questions",
+"type":"strategy"
+},
+{
 "description":"Instructor-provided information about a learner's performance that closes the gap between current and desired performance.",
 "id":"instructor-feedback",
 "path":"strategies/instructor-feedback.md",
@@ -276034,6 +276087,7 @@
 "epistemic-agency-changes-across-phases":"epistemic-agency-changes-across-phases",
 "epistemic-behavior-fails-to-mediate-academic-performance":"epistemic-behavior-fails-to-mediate-academic-performance",
 "epistemic-behavior-relates-curiosity-not-cognitive-ability":"epistemic-behavior-relates-curiosity-not-cognitive-ability",
+"epistemic-distancing-builds-safe-space-sensemaking":"epistemic-distancing-builds-safe-space-sensemaking",
 "epistemic-dominant-uncertainty-uncorrelated-with-engagement":"epistemic-dominant-uncertainty-uncorrelated-with-engagement",
 "epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams":"epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams",
 "epistemic-gatekeeping-coup-gap":"epistemic-gatekeeping-coup-gap",
@@ -278057,6 +278111,7 @@
 "groups-do-not-differ-signs-task":"groups-do-not-differ-signs-task",
 "groups-outperform-individuals-complex-problem-creativity":"groups-outperform-individuals-complex-problem-creativity",
 "groups-stable-deliberation-patterns-fail-adapt":"groups-stable-deliberation-patterns-fail-adapt",
+"groups-vary-first-sensemaking-timing":"groups-vary-first-sensemaking-timing",
 "grow-your-own-graduates-retain-in-high-need-schools":"grow-your-own-graduates-retain-in-high-need-schools",
 "growing-achievers-out-use-declining-performers":"growing-achievers-out-use-declining-performers",
 "growth-2023-24-fell-short-of-pre-pandemic-trends":"growth-2023-24-fell-short-pre-pandemic-trends",
@@ -281881,6 +281936,7 @@
 "new-leaders-oakland-positive-significant-achievement-effects":"new-leaders-oakland-positive-significant-achievement-effects",
 "new-leaders-uic-program-outcome-evidence":"new-leaders-uic-program-outcome-evidence",
 "new-math-failure-expert-designed-foundations":"new-math-failure-expert-designed-foundations",
+"new-member-distanced-bid-shifted-bronze-norms":"new-member-distanced-bid-shifted-bronze-norms",
 "new-mexico-cte-enrollment-breadth-and-equity-gaps":"new-mexico-cte-enrollment-breadth-and-equity-gaps",
 "new-nodes-developed-through-field-based-activities":"new-nodes-developed-through-field-based-activities",
 "new-old-fit-statistics-moderately-correlated":"new-old-fit-statistics-moderately-correlated",
@@ -287692,6 +287748,7 @@
 "ta-arrival-shifts-framing-to-listening":"ta-arrival-shifts-framing-to-listening",
 "ta-engagement-measurement-methods":"ta-engagement-measurement-methods",
 "ta-engagement-six-elements-interviews":"ta-engagement-six-elements-interviews",
+"ta-epistemic-distancing-intervention-silver-group":"ta-epistemic-distancing-intervention-silver-group",
 "ta-ground-truth-one-rater-per-item-error-rate":"ta-ground-truth-one-rater-per-item-error-rate",
 "ta-improves-basic-and-added-value-gains-fourth-grade":"ta-improves-basic-and-added-value-gains-fourth-grade",
 "ta-predicts-reflective-use-and-engagement-survey":"ta-predicts-reflective-use-and-engagement-survey",
@@ -288513,6 +288570,7 @@
 "too-good-for-drugs-no-discernible-kav-effects":"too-good-for-drugs-no-discernible-kav-effects",
 "too-good-for-drugs-potentially-positive-behavior-effects":"too-good-for-drugs-potentially-positive-behavior-effects",
 "too-good-for-drugs-prosocial-behavior-end-of-program-es-052":"too-good-for-drugs-prosocial-behavior-end-of-program-es-052",
+"too-much-or-little-distancing-shuts-discussion":"too-much-or-little-distancing-shuts-discussion",
 "tool-change-most-disruption-online-teaching":"tool-change-most-disruption-online-teaching",
 "tool-effectiveness-depends-on-context-configuration":"tool-effectiveness-depends-on-context-configuration",
 "tool-free-serviceability-disassembly-ease":"tool-free-serviceability-disassembly-ease",
@@ -297393,6 +297451,7 @@
 "instructor-broker-legitimizes-intergroup-consultation":"instructor-broker-legitimizes-intergroup-consultation",
 "instructor-dashboard-topic-question-volume":"instructor-dashboard-topic-question-volume",
 "instructor-data-use-training-alignment":"instructor-data-use-training-alignment",
+"instructor-epistemic-distancing-questioning":"instructor-epistemic-distancing-questioning",
 "instructor-feedback":"instructor-feedback",
 "instructor-feedback-loops":"instructor-feedback-loops",
 "instructor-in-loop-ai-difficulty-reports":"instructor-in-loop-ai-difficulty-reports",
