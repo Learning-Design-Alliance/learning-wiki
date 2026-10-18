@@ -1,0 +1,39 @@
+---
+type: claim
+title: In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology
+description: In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology
+id: tactics-delineated-from-related-competence-debriefing
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: sjöblom-2025
+    resource: "https://doi.org/10.1007/s11251-025-09717-8"
+    title: "Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8"
+    author: "Sjöblom, B., & Lymer, G"
+---
+
+# In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology
+
+## Subclaims
+`q2 i?` Teachers recurrently draw distinctions between tactics and other phenomena such as communication, teamwork, and technology when steering debriefing discussions, and students adopt these distinctions. [→ Sjöblom 2025](#sjöblom-2025)
+
+## Evidence
+
+### Sjöblom 2025
+
+Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8
+
+`q2 · i?`
+
+Microethnographic analysis of video-recorded debriefing sessions from wargaming-based tactics courses at the Swedish Defence University. The analysis finds participants, especially teachers, invoke tactics while drawing boundaries, with the teamwork/communication distinction the most common: "the most common distinction that is explicitly drawn in our data".
+
+> "Teamwork and communication are very salient features of the exercises, which might explain why it is also the most common distinction that is explicitly drawn in our data."
+
+## Discussion
+
+
+## Related Claims
+-

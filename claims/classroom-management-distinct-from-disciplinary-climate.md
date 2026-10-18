@@ -1,0 +1,39 @@
+---
+type: claim
+title: Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data
+description: Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data
+id: classroom-management-distinct-from-disciplinary-climate
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: xin-liu-2023
+    resource: "https://doi.org/10.1007/s11251-023-09652-6"
+    title: "Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6"
+    author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
+---
+
+# Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data
+
+## Subclaims
+`q2 i?` CFA identified classroom management and classroom disciplinary climate as two different dimensions, distinct in conceptualization, item wording, and statistical model. [→ Xin Liu 2023](#xin-liu-2023)
+
+## Evidence
+
+### Xin Liu 2023
+
+Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6
+
+`q2 · i?`
+
+CFA of the PISA student data, where classroom management items describe specific teacher actions (e.g., getting students to listen, keeping the class orderly) while disciplinary climate items mirror the entire learning environment. The article states these are "substantially different aspects of mathematical instructional quality".
+
+> "When using the CFA to test the construct instructional quality, two different dimensions (classroom management & classroom disciplinary climate) were identified in the model."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,39 @@
+---
+type: claim
+title: Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads
+description: Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads
+id: concept-mapping-more-historical-metahistorical-concepts
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: lucero-2024
+    resource: "https://doi.org/10.1007/s11251-024-09659-7"
+    title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
+    author: "Lucero, M., Montanero, M., & van Boxtel, C"
+---
+
+# Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads
+
+## Subclaims
+`q2 i?` Utterances in the semiempty concept mapping condition contained significantly more substantive historical concepts and metahistorical concepts than utterances in the summary writing condition. [→ Lucero 2024](#lucero-2024)
+
+## Evidence
+
+### Lucero 2024
+
+Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7
+
+`q2 · i?`
+
+Chi-square comparison of coded concept use in the same 10-dyad discourse corpus; metaconcepts were 45% of coded concept use in concept mapping versus 30.8% in summary writing. The article prints no effect size for this difference.
+
+> "In addition, we found significant differences for the use of substantive concepts and metahistorical concepts (χ2 = 10.97, p < .01). In the semiempty concept mapping condition, students actively used substantive historical concepts and more metahistorical concepts more often."
+
+## Discussion
+
+
+## Related Claims
+-
