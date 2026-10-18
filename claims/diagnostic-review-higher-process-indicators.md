@@ -63,3 +63,4 @@ Cycle-level comparisons of feedback actionability and comprehension. Actionabili
 - [Diagnostic Review reflection records contained fewer misunderstanding codes and higher reflection quality than Control follow-up records](reflective-uptake-fewer-misunderstandings.md) — related
 - [Teacher review workload was higher in the Diagnostic Review class in review minutes, added instruction, and review intensity](teacher-review-workload-higher-diagnostic-review.md) — related
 - [High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores](high-acceptance-groups-effective-ai-feedback-use-higher-accuracy.md) — related
+- [Evidence elicitation relates positively to diagnostic accuracy and diagnostic efficiency](evidence-elicitation-relates-accuracy-efficiency.md) — related

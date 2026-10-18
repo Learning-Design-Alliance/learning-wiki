@@ -49,3 +49,4 @@ Cross-case qualitative finding (RQ1-2) from faculty and advisor interviews and c
 - [CA data visualization positioned LO attainment data as the central axis of curriculum decision-making in both institutions](ca-visualization-central-axis-curriculum-decision-making.md) — related
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related
 - [AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation](ai-adoption-associated-teaching-engagement-curriculum-improvements.md) — a broader claim this one bears on
+- [KBDeX visualization and knowledge building rubrics engaged PSTs in continuous monitoring, analysis, negotiation, synthesis, and identification of promising inquiry routes](kbdex-rubric-reflection-enabled-continuous-monitoring-synthesis-inquiry.md) — related

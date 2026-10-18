@@ -43,4 +43,4 @@ The editorial reports, attributing this to Jeong et al.'s framework paper in the
 
 
 ## Related Claims
--
+- [Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions](a3c-joint-interaction-levels-in-scaled-mooc-tools.md) — a narrower finding that bears on this claim

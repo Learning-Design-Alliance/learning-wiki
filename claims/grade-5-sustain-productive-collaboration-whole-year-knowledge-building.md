@@ -43,4 +43,4 @@ Whole-school-year case study of about 20 Grade 5 students working on the human b
 
 
 ## Related Claims
--
+- [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](fifth-graders-high-quality-super-notes-cross-classroom.md) — related

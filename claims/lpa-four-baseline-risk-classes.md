@@ -46,3 +46,4 @@ Latent profile analysis of baseline Teacher Observation of Classroom Adaptation-
 - [Demographic covariates were significantly associated with latent class membership](covariates-associated-latent-class-membership.md) — related
 - [First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)](first-step-success-positive-external-behavior.md) — related
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related
+- [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related

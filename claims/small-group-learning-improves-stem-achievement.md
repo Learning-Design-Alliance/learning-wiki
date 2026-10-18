@@ -86,3 +86,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
 - [Students' self-efficacy for quantitative biology tasks significantly increased after completing collaborative group work assignments, with large effect sizes](group-work-increased-quantitative-self-efficacy.md) — related
+- [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — a narrower finding that bears on this claim

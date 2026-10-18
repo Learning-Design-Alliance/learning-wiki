@@ -60,3 +60,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on
 - [After the TBL module, students were better prepared to design and implement independent final research projects](tbl-module-prepares-independent-projects.md) — related
 - Open answers in the pilot cluster into three themes: feeling the wave through one's own body, the learning curve of hand tracking, and the experience leaving a mental trace students expect to use at the exam — related
+- [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](online-behaviour-transforms-discourse-knowledge.md) — related

@@ -50,3 +50,4 @@ Case observation reported at the March 2025 ribbon cutting: a student on only hi
 - [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](genai-cbl-faculty-guided-conditional-benefits.md) — related
 - [Multi-step AI operations, not AI use alone, are positively associated with creativity of final design work](multi-step-ai-operations-creativity-association.md) — related
 - [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
+- [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](claim-3d-modeling-task-halted-engineering-practices.md) — related

@@ -71,6 +71,7 @@ Role assignment converts unstructured "discussion" — which often devolves into
 - [Debate Format](../patterns/debate.md) — roles defined by assigned positions rather than functions
 - [Structure online small group work to maximize meaningful exchanges, assign conversational roles, ensure question-and-answer opportunity, and provide instructor feedback](structure-online-group-interactions-roles-feedback.md)
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
+- [Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration](rotated-role-interdependency-scripting-strategy.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — students rotate through summarizer, questioner, clarifier, and predictor roles when reading expository text; one of the best-validated comprehension interventions.

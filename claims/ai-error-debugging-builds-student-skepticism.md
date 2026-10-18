@@ -52,3 +52,4 @@ Authors' observational reflection from a single cohort of two high-school studen
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — a broader claim this one bears on
 - [K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions](students-teachers-see-ai-imperfect-prefer-human-control.md)
+- [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related

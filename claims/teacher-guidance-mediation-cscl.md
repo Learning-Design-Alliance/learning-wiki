@@ -43,4 +43,4 @@ In his editorial summary, Stahl reports Song and Looi's microanalytic study of t
 
 
 ## Related Claims
--
+- [Simple, targeted mere exposure prompt (MEP) scripts show promise for promoting desirable learning behaviors in a fully online multiplayer role-play classroom](mep-scripts-socially-shared-regulation-role-play.md) — a narrower finding that bears on this claim

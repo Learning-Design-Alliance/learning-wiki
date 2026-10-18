@@ -51,3 +51,4 @@ Qualitative analysis (RQ2) of clustering outputs from the EXF exercise's 13 team
 - [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related
 - [Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.](ttx-ixp-25-exercises-743-participants-engagement.md) — related
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
+- [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — a narrower finding that bears on this claim

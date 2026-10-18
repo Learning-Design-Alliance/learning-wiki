@@ -61,10 +61,12 @@ Peer teaching benefits both parties, but the larger and more reliable gains ofte
 6. Debrief: instructor samples explanations publicly and corrects errors, closing the quality-control loop ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [Learning by Teaching](../strategies/learning-by-teaching.md) — the broader generative-learning family; peer teaching is its social instantiation
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — structured role rotation applied to reading comprehension
 - [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — peer teaching organized around interdependent content segments
 - [Cross-Age Tutoring](../strategies/cross-age-tutoring.md) — pairs learners across grade levels
+- [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students alternate leading small-group discussions of a text using predicting, questioning, clarifying, and summarizing roles; a well-validated peer-teaching structure for reading.

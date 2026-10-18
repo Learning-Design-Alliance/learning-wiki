@@ -45,3 +45,4 @@ The primer reports a study conducted in high school physics classrooms finding "
 ## Related Claims
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
+- [Only students receiving SSRL and co-regulation support achieved superior performance in collaborative programming activities](ssrl-support-collaborative-activity-performance.md) — related

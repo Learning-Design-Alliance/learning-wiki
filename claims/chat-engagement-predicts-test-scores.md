@@ -47,3 +47,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60) — related
 - [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — related
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related
+- [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related

@@ -84,6 +84,7 @@ Role assignment converts loose cooperation into structured collaboration, which 
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
 - Think-Pair-Share — a lightweight two-role structure for quick discussion formats
 - [Have measurement team members collaborate to complete measurement tasks successfully](measurement-team-collaboration-strategy.md)
+- [Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration](rotated-role-interdependency-scripting-strategy.md)
 
 ## Examples
 - **[Complex Instruction](complex_instruction.md) (Cohen & Lotan, Stanford)** — role structures (facilitator, recorder/reporter, materials manager, understanding checker) combined with status treatments to equalize participation in heterogeneous classrooms. See https://cgi.stanford.edu/group/pci/cgi-bin/site.cgi

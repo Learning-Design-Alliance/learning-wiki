@@ -43,4 +43,4 @@ The editorial reports Ollasch et al.'s "experimental study with 158 participants
 
 
 ## Related Claims
--
+- [Group awareness support in CSCL shows a moderate significant effect on students' learning performance, per the meta-analysis summarized in this issue (Chen et al.)](group-awareness-support-moderate-significant-effect.md) — related

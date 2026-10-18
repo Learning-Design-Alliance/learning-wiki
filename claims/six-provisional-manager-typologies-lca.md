@@ -68,3 +68,4 @@ Bootstrap stability analysis with 100 resamples of the six-class LCA solution, e
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use — related
+- [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related

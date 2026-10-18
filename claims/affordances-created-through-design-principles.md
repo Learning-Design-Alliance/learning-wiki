@@ -43,4 +43,4 @@ The editors' organizing argument for the issue, stated at the outset as a take-h
 
 
 ## Related Claims
--
+- [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related

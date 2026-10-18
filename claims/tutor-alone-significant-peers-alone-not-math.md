@@ -44,3 +44,4 @@ Exploratory pairwise chi-square tests on unassisted test accuracy in the pre-reg
 
 ## Related Claims
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — related
+- [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — related

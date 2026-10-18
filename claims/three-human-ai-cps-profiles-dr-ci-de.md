@@ -51,3 +51,4 @@ Cluster analysis of proportion vectors of SEDA-adapted dialogue codes from 173 s
 - Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use — related
 - [Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels](clustering-recovers-expert-bundles.md) — related
 - [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related
+- [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related

@@ -51,3 +51,4 @@ ONA of retrospective cued-recall affect reports from 9 groups completing a situa
 - [Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration](faster-slower-groups-affective-transition-differences.md) — related
 - [Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states](reporting-method-shapes-affective-network-structure.md) — related
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
+- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md) — related

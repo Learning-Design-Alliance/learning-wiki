@@ -44,4 +44,4 @@ Mixed ANOVA in the between-subjects experiment (n = 53; 18 mirroring, 17 alertin
 
 
 ## Related Claims
--
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related

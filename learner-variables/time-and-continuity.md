@@ -148,6 +148,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](../claims/isi-teachers-stronger-classroom-management.md) [+M] — instruction changes it
 - [Preschoolers given a pedagogical demonstration of a toy function play for less time than children in interrupted, naive, or baseline conditions](../claims/pedagogical-demonstration-shortens-preschool-exploration-time.md) [+M] — instruction changes it
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](../claims/tier2-dosage-scheduling-mixed-findings.md) [~M] — learners who differ on it differ in outcomes
+- [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](../claims/claim-3d-modeling-task-halted-engineering-practices.md) [+W] — instruction changes it
+- [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](../claims/claim-teacher-visit-pattern-brief-with-phase-exceptions.md) [~W] — instruction changes it
 
 ## The evidence by question
 

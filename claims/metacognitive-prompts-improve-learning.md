@@ -114,3 +114,4 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — related
 - [Strategy prompts strongly increase learners' use of the prompted strategies, and the effect on comprehension is mediated by strategy use](strategy-prompts-increase-strategy-use-mediated-outcomes.md) — a narrower finding that bears on this claim
 - [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](explicit-metacognition-limited-access-inaccurate-reports.md) — related
+- [Prior CBLEs for programming education have mostly supported SRL individually while disregarding the social context's influence on regulation](programming-cbles-focus-srl-disregarding-social-context.md) — related

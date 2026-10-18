@@ -43,4 +43,4 @@ Video-based frequency counts of teacher visits across 19 groups in four classroo
 
 
 ## Related Claims
--
+- [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](claim-teacher-visit-pattern-brief-with-phase-exceptions.md) — related

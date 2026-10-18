@@ -64,3 +64,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — related
+- [Pilot testing of RESPE revealed privacy concerns, difficulty reflecting on the learning process, and complaints about repetitiveness or usefulness of scaffolds](respe-pilot-privacy-reflection-repetitiveness-issues.md) — related

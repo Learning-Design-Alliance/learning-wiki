@@ -55,6 +55,7 @@ Perspective-taking deepens learning when learners must actively construct the ot
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles](../claims/stylistic-cognitive-rigidity-reduces-adoption-of-opposites.md) [-W]
+- [Qualitative analysis of viewpoint-switching scenes indicated the 3D perspective-taking manipulatives bolstered perspective-taking via the nonverbal LED-status representations of students' states](../claims/3d-viewpoint-switching-bolsters-nonverbal-perspective-taking.md) [+M] — attached 2026-10-18 from Mochizuki et al. (2022), which proposed "3D manipulable animation as a perspective-taking manipulative for reflective discussion"; tests this page's relationship.
 
 ## Related Elements
 - [Debate](debate.md) — the formalized contest format that operationalizes perspective-taking under time and role constraints

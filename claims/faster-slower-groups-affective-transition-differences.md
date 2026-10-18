@@ -49,3 +49,4 @@ ONA difference network comparing groups split by median task duration shows "fas
 
 ## Related Claims
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
+- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md) — related

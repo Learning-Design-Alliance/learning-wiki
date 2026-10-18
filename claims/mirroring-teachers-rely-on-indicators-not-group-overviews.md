@@ -43,4 +43,4 @@ Exploratory analysis of dashboard interaction in the between-subjects experiment
 
 
 ## Related Claims
--
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related

@@ -50,3 +50,4 @@ This is a single-classroom qualitative study without a comparison condition, so 
 - [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) — related
 - Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects — related
 - The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up — related
+- [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related

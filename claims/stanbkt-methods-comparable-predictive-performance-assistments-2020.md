@@ -47,3 +47,4 @@ Scalability evaluation on the ASSISTments 2020 dataset (794,158 training and 189
 - BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima — related
 - OptimNN achieves lower test RMSE than EM, CGD, and SGD for fitting BKT and its variants across four tutoring datasets — related
 - The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin — related
+- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](benefits-of-formal-modelling-theory.md) — related

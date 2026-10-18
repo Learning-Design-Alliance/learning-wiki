@@ -73,6 +73,11 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](../claims/unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) [~W] — instruction changes it
 - [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](../claims/problem-solving-accuracy-age-declines-no-feedback-effect.md) [~M] — instruction changes it
 - [Portfolio analysis revealed children were critically and creatively engaged in the learning procedures](../claims/portfolio-analysis-critical-creative-engagement.md) [+M] — instruction changes it
+- [Collaborative group failure on ill-structured physics problems confers later individual problem-solving advantages over success on well-structured problems (productive failure)](../claims/productive-failure-group-failure-beats-structured-success.md) [+M] — instruction changes it
+- [Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest](../claims/cps-outperformed-ips-on-epst-posttest.md) [+M] — instruction changes it
+- [Eighth graders in a CPS group outperformed those in an IPS group on physics problem solving, with CPS narrowing high–low achievement gaps](../claims/cps-outperformed-ips-problem-solving-gap.md) [+M] — instruction changes it
+- [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](../claims/students-attribute-problems-to-technology-not-own-work.md) [~W] — instruction changes it
+- [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](../claims/online-ps-solutions-predict-posttests.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

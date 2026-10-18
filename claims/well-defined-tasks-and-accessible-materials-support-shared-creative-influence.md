@@ -55,3 +55,4 @@ This is a single-group case study (one focal group deeply analyzed out of four o
 - [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related
 - [Verfügungswissen and Orientierungswissen are inversely proportional in open environments](verfugungswissen-orientierungswissen-inverse.md) — related
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — related
+- [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](merged-technical-understanding-minecraft-nomenclature.md) — related

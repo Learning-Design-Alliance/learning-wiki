@@ -43,4 +43,4 @@ All database questions were coded on a 4-point depth-of-inquiry scale (inter-rat
 
 
 ## Related Claims
--
+- [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) — related

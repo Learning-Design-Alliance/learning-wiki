@@ -65,6 +65,7 @@ Cross-age tutoring is one of the most consistently supported peer-learning forma
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role rotation among peers; a within-class analogue of alternating tutor/tutee roles
 - [Cooperative Learning](cooperative-learning.md) — group-based peer structures with shared goals and individual accountability
 - [Peer tutoring reading strategy instruction with tutor selection, tutor training, and reading scenarios](peer-tutoring-reading-strategy-instruction-steps.md)
+- [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
 
 ## Examples
 - **[Reading Partners](../products/reading-partners.md)** (https://readingpartners.org) — a structured cross-age and volunteer tutoring program in which trained tutors deliver scripted, evidence-based reading sessions to elementary students; rigorous evaluations show significant gains in reading proficiency.

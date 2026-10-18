@@ -43,4 +43,4 @@ The editorial describes Riikonen, Seitamaa-Hakkarainen and Hakkarainen's qualita
 
 
 ## Related Claims
--
+- [The editors report that knowledge brokering via collaborative entanglement is more successful than linear knowledge transfer for mobilising education research](collaborative-entanglement-outperforms-linear-transfer.md) — a broader claim this one bears on

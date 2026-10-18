@@ -67,3 +67,4 @@ Same interview study, educator-access theme. Ten supported teacher access and 13
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](mmla-transparency-misconceptions-guesswork.md) — related
 - [Students believe private companies neither have nor should have access to their educational data](students-oppose-private-company-data-access.md) — related
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related
+- [Pilot testing of RESPE revealed privacy concerns, difficulty reflecting on the learning process, and complaints about repetitiveness or usefulness of scaffolds](respe-pilot-privacy-reflection-repetitiveness-issues.md) — related

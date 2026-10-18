@@ -59,9 +59,11 @@ Simulation works because it lets learners practice whole tasks with realistic de
 5. Increase scenario complexity or fade support across repetitions as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Case-based learning](../patterns/case-based-learning.md) — simulations are interactive, consequential cases; cases are reflective, pre-resolved ones
 - [Role-play](../strategies/role-play.md) — human-performed simulation without software mediation
 - [Scenario-based e-learning](../strategies/scenario-based_e-learning.md) — lighter-weight branching simulations
+- [Structured activity design and moderate realism benefit shared VR learning environments](structured-activity-moderate-realism-vr.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the core activity the simulation hosts

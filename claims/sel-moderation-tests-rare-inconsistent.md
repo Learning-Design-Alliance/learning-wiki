@@ -48,3 +48,4 @@ The review reports that "Most studies did not test for moderating effects" of st
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses — related
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
+- [Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies](social-skills-relate-evidence-elicitation-only.md) — related

@@ -78,3 +78,4 @@ Earlier Related Claims:
 - [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](high-and-low-achievers-benefit-from-quality-assignments.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related
 - [Younger children performed more redundant actions than older children](younger-children-more-redundant-actions.md) — related
+- [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — a narrower finding that bears on this claim

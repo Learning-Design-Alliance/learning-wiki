@@ -53,3 +53,4 @@ The review attributes this finding to Barron (2003) as the rationale for assessi
 - Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies — related
 - Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related
 - [Group diversity problems stem from coordination failures rather than categorisation differences](diversity-coordination-failures-not-categorisation.md) — related
+- [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — related

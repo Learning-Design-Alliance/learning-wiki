@@ -40,7 +40,9 @@ Building on the finding that scripting and awareness prompts were kept as separa
 - shared diagram construction
 
 ## Related Strategies
-- 
+
+- [Target the development of collaborative diagnostic activities with adaptive collaboration scripts and group awareness tools](develop-cdas-adaptive-scripts-awareness-tools.md)
+- [Sequence CSCL research on human-AI knowledge construction from exploratory observation to experimental variable manipulation](human-ai-research-program-sequence.md)
 
 ## Examples
 -

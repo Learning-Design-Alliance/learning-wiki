@@ -56,3 +56,4 @@ Narrative synthesis of the agency-supportive theme family (118 of 123 included s
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [When connection between student and educator is minimised, as in anonymous grading, students report weaker relationships and perceive feedback as less beneficial](anonymous-grading-weakens-connection-and-feedback-benefit.md) — related
 - [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
+- [Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately](human-ai-argumentative-dialog-knowledge-transformation.md) — related

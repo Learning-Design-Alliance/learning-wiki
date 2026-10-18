@@ -43,4 +43,4 @@ Partial correlations controlling for Hong Kong Attainment Test scores among the 
 
 
 ## Related Claims
--
+- [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) — related

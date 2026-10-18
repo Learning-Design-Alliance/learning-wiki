@@ -95,6 +95,9 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills](../claims/mpathic-vr-nonverbal-osce-advantage.md) [+W] — instruction changes it
 - [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](../claims/mpathic-vr-osce-composite-transfer.md) [+W] — instruction changes it
 - [Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills](../claims/simulation-effects-vary-by-complex-skill.md) [~M] — an instructional effect differs with it
+- [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](../claims/super-talk-multifaceted-understanding-cross-community.md) [+M] — instruction changes it
+- [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](../claims/fifth-graders-high-quality-super-notes-cross-classroom.md) [+M] — instruction changes it
+- [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](../claims/young-children-collaborative-gestures-mr-science.md) [+M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

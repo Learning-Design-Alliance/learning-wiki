@@ -87,6 +87,7 @@ Making is a form of [active learning](../principles/active-learning.md) grounded
 - Project-based learning — maker spaces are a common venue; the same driving-question structure applies
 - Design thinking challenges — supply the framing that keeps making conceptually productive
 - Tinkering-based science — interest-driven exploration with conceptual debriefs
+- [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — making is application made physical

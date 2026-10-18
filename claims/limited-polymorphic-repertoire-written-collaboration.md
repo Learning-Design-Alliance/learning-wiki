@@ -62,4 +62,4 @@ The analysis found pointing, underlining and question marks each served several 
 
 
 ## Related Claims
--
+- [Gesture mediated collaborative learning in an AR-headset astronomy task, including exploration, orientation, sharing and synthesizing AR perspectives, and sharing symbolic conception](gesture-mediated-collaboration-ar-headsets-astronomy.md) — related

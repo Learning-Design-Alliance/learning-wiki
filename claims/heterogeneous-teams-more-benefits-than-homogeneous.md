@@ -51,3 +51,4 @@ In the Team Formation element discussion, the chapter states that "heterogeneous
 - [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — related
 - [Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design](language-clique-segregation-peer-choice.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — reports the opposite

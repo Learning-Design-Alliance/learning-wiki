@@ -43,4 +43,4 @@ Authors' discussion-section interpretation of their own study design, naming fou
 
 
 ## Related Claims
--
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related

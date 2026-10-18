@@ -44,4 +44,7 @@ The editorial reports a four-session study of shared regulation in small groups 
 
 
 ## Related Claims
--
+- [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — possibly the same claim (merge candidate)
+- [The 'Y-read?' collaboration script elicited mainly low-level metacognitive regulation during pre- and post-task discussions, with deep-level activities rare](collab-script-elicited-mostly-low-level-metacognitive-regulation.md) — possibly the same claim (merge candidate)
+- [A collaborative script embedding solitary reading between planning and review episodes shaped a group's regulative activity, but only low-level regulation](script-planning-review-shaped-low-level-regulation.md) — possibly the same claim (merge candidate)
+- [Shared and co-constructed intra-group interaction were significantly correlated with deep-level metacognitive activities during pre-task regulation](shared-coconstructed-interaction-correlated-deep-level.md) — related

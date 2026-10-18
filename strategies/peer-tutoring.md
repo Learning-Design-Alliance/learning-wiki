@@ -87,6 +87,7 @@ Peer tutoring works largely because explaining material to another person forces
 - [Direct Instruction](../patterns/direct-instruction.md) — tutoring typically follows initial teacher-led instruction; peers consolidate rather than introduce content
 - [Flipped Classroom](../principles/flipped-learning.md) — freed class time is a common venue for peer tutoring cycles
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
+- [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
 
 ## Examples
 - **[Classwide Peer Tutoring](../products/classwide-peer-tutoring.md)** (Juniper Gardens Children's Project, University of Kansas) — weekly role switching, point systems, and teacher monitoring; extensively validated in elementary reading and math, including with students with disabilities.

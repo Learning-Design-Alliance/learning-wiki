@@ -62,4 +62,4 @@ Second editorial sentence on the same paper: the three dimensions are named as t
 
 
 ## Related Claims
--
+- [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — possibly the same claim (merge candidate)

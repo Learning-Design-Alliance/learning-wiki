@@ -127,6 +127,7 @@ Cooperative learning reliably improves achievement when both interdependence and
 - [Class Discussion](../elements/class-discussion.md) — whole-class format that pairs can feed into via think-pair-share
 - [Think-Pair-Share](../patterns/think-pair-share.md) — minimal-overhead pairing variant
 - [Gallery Walk](gallery-walk.md) — movement-based critique and idea-sharing variant
+- [Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration](rotated-role-interdependency-scripting-strategy.md)
 
 ## Examples
 - **[Jigsaw Classroom](jigsaw-classroom.md)** (Aronson, 1978) — students in desegregated Texas classrooms each mastered one segment of material and taught it to teammates, reducing intergroup hostility while raising achievement for minority students. See https://www.jigsaw.org

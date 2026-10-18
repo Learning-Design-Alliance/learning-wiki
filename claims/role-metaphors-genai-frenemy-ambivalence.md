@@ -54,3 +54,4 @@ Qualitative thematic analysis of workshop metaphors. Three themes emerged: GenAI
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Students spontaneously use language and metaphors of addiction to describe their AI use, framed as loss of control rather than enjoyment](addiction-metaphors-ai-use.md) — related
+- [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related

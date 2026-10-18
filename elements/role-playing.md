@@ -37,6 +37,8 @@ Role-playing is the element in which learners adopt roles and act through a scen
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](../claims/ai-supports-transformative-experiential-learning.md) [+W]
+- [Combining tangible puppets as mediating manipulatives with 3D manipulable animations fostered immediate transfer of imaginary students' perspectives in microteaching role-plays](../claims/puppets-3d-manipulatives-perspective-taking-transfer.md) [+W] — attached 2026-10-18 from Sanna Järvelä · Carolyn P. Rosé (2022), which proposed "Combined tangible puppets and 3D manipulable animations as perspective-taking manipulatives for CSCL role-play".
+- [Tangible puppetry role-play shifted microteaching discourse from formal planned utterances toward informal student voices, and the shift persisted into a subsequent self-performed role-play](../claims/puppetry-shifts-role-play-toward-informal-student-voices.md) [+W] — attached 2026-10-18 from Mochizuki et al. (2022), which proposed "Tangible puppetry tabletop role-play system with LED mood indicators and recorded bird's-eye animation".
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

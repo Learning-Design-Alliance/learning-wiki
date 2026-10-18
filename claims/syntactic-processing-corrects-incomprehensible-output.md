@@ -69,3 +69,4 @@ Diary self-study enumerating four situations for eliminating incomprehensible ou
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) — related
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](untaught-syntax-acquired-taught-agreement-not.md) — related
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related
+- [Generative AI tools do not possess conceptual knowledge or conscious understanding, relying only on word patterns and probabilities](generative-ai-lacks-conceptual-knowledge.md) — related

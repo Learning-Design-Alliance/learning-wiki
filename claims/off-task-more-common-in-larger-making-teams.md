@@ -43,4 +43,4 @@ Visual analysis of the teams' Making-Process-Rugs in Fig. 1, a hedges-level obse
 
 
 ## Related Claims
--
+- [Student teams differed markedly in their application of computer engineering and product design practices and in their share of off-task activity](claim-team-variation-off-task.md) — related

@@ -43,4 +43,5 @@ The editorial reports, on the study by Zhang, Yuan and Bogouslavsky of two grade
 
 
 ## Related Claims
--
+- [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](fifth-graders-high-quality-super-notes-cross-classroom.md) — related
+- [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](super-talk-multifaceted-understanding-cross-community.md) — related

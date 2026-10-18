@@ -93,3 +93,4 @@ Both entries are one qualitative case analysis (Janis et al. 2025) of individual
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
 - [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related
 - [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](agent-identifies-confusing-content-actionable-feedback.md) — related
+- [Feedback probing for deeper conceptual understanding is reported to be particularly effective in classwide peer feedback, though cognitively more demanding](deep-probing-feedback-especially-effective.md) — related

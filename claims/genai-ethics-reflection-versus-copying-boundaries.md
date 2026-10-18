@@ -97,3 +97,5 @@ Student account in the ethics theme describing discussing new concepts with AI. 
 - [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](metacognition-gates-genai-use-quality.md) — related
 - [Reflection with AI as a cognitive partner demands time and cognitive effort, countering concerns that students use AI merely to outsource cognitive tasks](ai-reflection-demands-effort-counters-outsourcing.md) — related
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related
+- [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related
+- [Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately](human-ai-argumentative-dialog-knowledge-transformation.md) — related

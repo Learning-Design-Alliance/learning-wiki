@@ -43,4 +43,4 @@ Bonferroni post-hoc contrasts following the MANOVA compared instruction-with-too
 
 
 ## Related Claims
--
+- [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — possibly the same claim (merge candidate)

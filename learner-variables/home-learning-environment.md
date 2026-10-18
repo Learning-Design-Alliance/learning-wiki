@@ -67,6 +67,8 @@ The home learning environment is what families, caregivers and communities provi
 - [Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment](../claims/hle-child-health-predict-reading-readiness.md) [+M] — learners who differ on it differ in outcomes
 - [Home literacy environment and family stresses predict attention and behaviour at school entry](../claims/hle-family-stresses-predict-attention-behaviour.md) [+M] — learners who differ on it differ in outcomes
 - [Unschooled illiterate adults living in print-rich environments have good knowledge of the pragmatic functions and uses of written language but cannot read environmental print out of context](../claims/illiterate-adults-know-functions-not-environmental-print.md) [~M] — learners who differ on it differ in outcomes
+- [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](../claims/multiple-immersive-processes-at-microsites.md) [+M] — instruction changes it
+- [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](../claims/sensory-immersion-prompted-geoscientific-observation.md) [+M] — instruction changes it
 
 ## Measures
 - **Reading Pattern Survey** (Rodrigo et al., 2014): self-report of reading attitude, habits and print exposure, including books read and library visits.

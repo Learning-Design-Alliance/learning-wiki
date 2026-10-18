@@ -52,3 +52,4 @@ Interview-based finding from six MBA students in the stimulated recall study. Le
 - [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](course-template-supports-learner-presence.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
 - [International online MBA students perceived cultural differences in collaboration but reported they did not negatively affect their learning](cultural-differences-visible-not-negative-collaboration.md) — related
+- [Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model](editorial-mcc-vivid-image-collaboration-sensitive-topics.md) — related

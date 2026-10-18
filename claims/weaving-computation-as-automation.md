@@ -46,3 +46,5 @@ Video assemblage analysis of student-loom intra-actions across the weaving unit.
 - [Middle school students experienced their craft performance as computational, connecting weaving and sewing to loops and coding](students-experience-craft-performance-as-computational.md) — related
 - [Computation in fabric manipulation is characterized as speculative physical 3D modeling](fabric-manipulation-speculative-3d-modeling.md) — related
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related
+- [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related
+- [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related

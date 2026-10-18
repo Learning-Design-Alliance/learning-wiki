@@ -44,3 +44,4 @@ Conceptual analysis of the Hong Kong macro-context. The article argues that alth
 
 ## Related Claims
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
+- [Four changes in CSCL over thirty years include mainstream collaborative pedagogies, collaboration technology becoming infrastructure, changed definitions of learning, and collaboration changing scale](four-changes-cscl-evolution.md) — related

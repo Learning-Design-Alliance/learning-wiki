@@ -43,4 +43,4 @@ Mixed-methods study by Zhao and Chan of university students in Shanghai using Kn
 
 
 ## Related Claims
--
+- [This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time](meta-discourse-impact-widened-over-time.md) — related

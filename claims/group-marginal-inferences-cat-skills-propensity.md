@@ -48,3 +48,4 @@ Group-level marginal inference over the causal EM-derived FSCMs compatible with 
 - [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — related
 - [Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging](luck-marginals-question-calibration-diagnostic.md) — related
 - [The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low](autonomy-teacher-support-compensatory-interaction-digital-skills.md) — related
+- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](benefits-of-formal-modelling-theory.md) — related

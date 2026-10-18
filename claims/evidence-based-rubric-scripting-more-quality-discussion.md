@@ -43,4 +43,4 @@ A 16-week study with 37 university students in an introductory information scien
 
 
 ## Related Claims
--
+- [Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn](modeling-outlasts-scripting-after-withdrawal.md) — related

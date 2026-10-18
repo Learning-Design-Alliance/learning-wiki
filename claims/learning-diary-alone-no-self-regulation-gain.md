@@ -66,3 +66,4 @@ Quasi-experimental comparison across four university courses with pre–post mea
 - [Students who only kept learning diaries showed a decrease in their motivation](diary-only-motivation-decrease.md) — related
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) — related
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related

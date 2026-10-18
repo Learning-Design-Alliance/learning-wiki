@@ -67,3 +67,4 @@ Correlational analysis under RQ3 in the survey of 47 graduate students in the on
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](self-co-regulation-highly-correlated-online-cbi.md) — related
 - In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables. — related
+- [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
