@@ -1,0 +1,39 @@
+---
+type: claim
+title: Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions
+description: Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions
+id: knowledge-gains-comparable-across-prompt-conditions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: lehmann-2024
+    resource: "https://doi.org/10.1007/s11251-023-09655-3"
+    title: "Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3"
+    author: Lehmann, T
+---
+
+# Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions
+
+## Subclaims
+`q3 i3` Domain-specific knowledge increased significantly from pre- to post-test with a strong effect (ηp2 = 0.969), with no effect of experimental condition. [→ Lehmann 2024](#lehmann-2024)
+
+## Evidence
+
+### Lehmann 2024
+
+Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3
+
+`q3 · i3`
+
+Repeated-measures MANOVA on CK, PK, and PCK pre–post knowledge tests in the three-group experiment: a strong overall gain (ηp2 = 0.969) with no condition effect (p = .557); per-domain gains were significant in all three domains with no interactions.
+
+> "The results indicated a significant increase in domain-specific knowledge (see Table 6 for descriptive statistics), Wilks' λ = 0.031, F(3,78) = 815.2, p < .001, ηp2 = 0.969 (strong effect), but no effect of experimental condition, Wilks' λ = 0.940, F(6,156) = 0.818, p = .557, η p2 = 0.031"
+
+## Discussion
+
+
+## Related Claims
+-

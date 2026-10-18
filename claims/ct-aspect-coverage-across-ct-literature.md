@@ -1,0 +1,39 @@
+---
+type: claim
+title: Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17
+description: Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17
+id: ct-aspect-coverage-across-ct-literature
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: namsoo-shin-2022
+    resource: "https://doi.org/10.1007/s11251-022-09590-9"
+    title: "Namsoo Shin, Jonathan Bowers, Steve Roderick, Cynthia McIntyre, A. Lynn Stephens, Emil Eidin, Joseph Krajcik, Daniel Damelin. (2022). A framework for supporting systems thinking and computational thinking through constructing models. Instructional Science. https://doi.org/10.1007/s11251-022-09590-9"
+    author: Namsoo Shin, Jonathan Bowers, Steve Roderick, Cynthia McIntyre, A. Lynn Stephens, Emil Eidin, Joseph Krajcik, Daniel Damelin
+---
+
+# Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17
+
+## Subclaims
+`q2 i?` CT1 decomposing problems, CT2 creating artifacts, CT3 generating/organizing/interpreting data, and CT4 testing and debugging were each specified in all 28 reviewed manuscripts; CT5 making iterative refinements was referenced by 17 authors. [→ Namsoo Shin 2022](#namsoo-shin-2022)
+
+## Evidence
+
+### Namsoo Shin 2022
+
+Namsoo Shin, Jonathan Bowers, Steve Roderick, Cynthia McIntyre, A. Lynn Stephens, Emil Eidin, Joseph Krajcik, Daniel Damelin. (2022). A framework for supporting systems thinking and computational thinking through constructing models. Instructional Science. https://doi.org/10.1007/s11251-022-09590-9
+
+`q2 · i?`
+
+The integrative review of 28 CT-defining manuscripts, coded by two authors independently and reconciled. The review reports problem decomposition was specified by 'All 28 manuscripts we reviewed'; for iterative refinement, 'Seventeen authors refer to this aspect'. Counts are as printed; no effect size applies.
+
+> "Problem decomposition deconstructs a problem into its constituent parts to make it computationally solvable and more manageable (Grover & Pea, 2018). All 28 manuscripts we reviewed specify this aspect (Fig. 3) in various ways as an essential characteristic of CT"
+
+## Discussion
+
+
+## Related Claims
+-

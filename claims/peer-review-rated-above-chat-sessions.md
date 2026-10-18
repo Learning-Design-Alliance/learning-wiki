@@ -1,0 +1,54 @@
+---
+type: claim
+title: Subjects appreciated the peer review intervention (average 4.0) while rating the chat session less positively (average 3.1)
+description: Subjects appreciated the peer review intervention (average 4.0) while rating the chat session less positively (average 3.1)
+id: peer-review-rated-above-chat-sessions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: verstegen-2006
+    resource: "https://doi.org/10.1007/s11251-005-3346-0"
+    title: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0"
+    author: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A"
+  - id: verstegen-2006-2
+    resource: "https://doi.org/10.1007/s11251-005-3346-0"
+    title: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0"
+    author: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A"
+---
+
+# Subjects appreciated the peer review intervention (average 4.0) while rating the chat session less positively (average 3.1)
+
+## Subclaims
+`q2 i?` Subjects liked the peer review intervention, rating it 4.0 on a five-point scale (SD 0.6). [→ Verstegen 2006](#verstegen-2006)
+`q2 i?` Subjects were less positive about the chat session, rating it 3.1 on a five-point scale (SD 1.2). [→ Verstegen 2006 (2)](#verstegen-2006-2)
+
+## Evidence
+
+### Verstegen 2006
+
+Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0
+
+`q2 · i?`
+
+Five-point-scale questionnaire ratings of the interventions by eight subjects. The peer review received an 'average score 4.0 on a ﬁve-point scale; standard deviation: 0.6', with one subject commenting it took place too early in the week.
+
+> "The subjects liked the peer review (average score 4.0 on a ﬁve-point scale; standard deviation: 0.6), although one subject commented that this activity took place too early in the week."
+
+### Verstegen 2006 (2)
+
+Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0
+
+`q2 · i?`
+
+Same questionnaire ratings: subjects 'were less positive about the chat session (average score 3.1; standard deviation: 1.2)'. The authors observed the discussions were rather confused and difficult to follow, with no moderator or visual structure.
+
+> "The subjects were less positive about the chat session (average score 3.1; standard deviation: 1.2). Indeed the discussions were rather confused and diﬃcult to follow"
+
+## Discussion
+
+
+## Related Claims
+-
