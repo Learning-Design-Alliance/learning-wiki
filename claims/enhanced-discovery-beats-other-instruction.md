@@ -64,3 +64,4 @@ Random effects meta-analysis of 360 comparisons from 56 studies comparing enhanc
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](domain-moderates-unassisted-discovery-deficit.md) — related
 - [Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations](no-clear-simulation-advantage-over-expository.md) — related
+- [Effects of discovery-related approaches are differential, not uniform across students or learning goals](discovery-effects-differential-across-students-and-goals.md) — related

@@ -46,3 +46,4 @@ Narrative review reporting Trulson's (1986) study of adolescent juvenile delinqu
 - [Physical activities combining exercise with character development or mindfulness improved children's EFs more than exercise alone: tae kwon do outperformed standard PE, and a yoga pilot improved planning](exercise-plus-character-or-mindfulness-improves-efs.md) — related
 - [Traditional Tae-Kwon-Do training produces greater gains than standard physical education on all studied dimensions of EFs, with gains greatest for older children and boys](taekwondo-greater-ef-gains-than-pe.md) — related
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
+- [Strong guidance and repetition may be needed to discover what cannot be told (Trninic's martial arts case)](repetition-guided-discovery-martial-arts-case.md) — related

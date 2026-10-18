@@ -43,4 +43,4 @@ The editorial's summary of the Pifarre and Kleine Staarman study, positioned in 
 
 
 ## Related Claims
--
+- [Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk](self-constructed-cm-deep-exploratory-talk.md) — related

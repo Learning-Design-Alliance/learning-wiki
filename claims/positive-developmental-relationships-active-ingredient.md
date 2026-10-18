@@ -48,3 +48,4 @@ Narrative synthesis section of the playbook ("Why Positive Developmental Relatio
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related
 - The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — a narrower finding that bears on this claim
+- [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — a narrower finding that bears on this claim

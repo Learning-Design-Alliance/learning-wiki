@@ -112,3 +112,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations](no-clear-simulation-advantage-over-expository.md) — related
 - [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — related
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — a broader claim this one bears on
+- [Effects of discovery-related approaches are differential, not uniform across students or learning goals](discovery-effects-differential-across-students-and-goals.md) — related

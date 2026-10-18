@@ -46,3 +46,4 @@ Findings from the RPIP feedback sessions with 10 educators, reported as educator
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — related
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
 - [Educators used FH2T's teacher console insights to modify instruction, and recommended the console share students' mathematical capabilities and content-area difficulties](fh2t-teacher-console-instructional-modification.md) — related
+- [The case-based intervention was perceived as connecting theory to practice more strongly than the model-based comparison intervention](case-intervention-higher-theory-practice-connection.md) — related

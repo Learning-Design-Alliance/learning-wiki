@@ -119,3 +119,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors](tutor-copilot-shifts-tutors-toward-understanding-fostering-strategies.md) — a narrower finding that bears on this claim
 - [The effectiveness of some types of peer tutoring is already well established but under-disseminated to practitioners](peer-tutoring-effectiveness-known-but-undisseminated.md) — a broader claim this one bears on
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
+- [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related

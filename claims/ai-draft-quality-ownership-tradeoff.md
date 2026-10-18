@@ -55,3 +55,4 @@ RQ3 results (Figure 6) for the n=253 experiment: quality_overall, a 0–9 compos
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related
 - [In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them](llm-writing-quality-single-and-duo-outperform-control.md) — related
 - [LLM-group participants reported low ownership of their essays and fell behind in their ability to quote from essays written minutes earlier](llm-group-low-ownership-poor-quoting-own-essays.md) — related
+- [Participatory design yields teacher ownership but carries tradeoffs and omits the learner](participatory-design-ownership-tradeoffs.md) — related

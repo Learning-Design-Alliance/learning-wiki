@@ -43,4 +43,4 @@ The article's central thesis, argued from examples of everyday speech, classroom
 
 
 ## Related Claims
--
+- [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related

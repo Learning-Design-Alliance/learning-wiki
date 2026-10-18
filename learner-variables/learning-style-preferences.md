@@ -12,7 +12,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 21 claims (13 show a difference, 3 mixed, 5 no difference) · 12 studies (4 causal, 3 review, 3 associational, 2 theoretical), `q1`–`q3` · 5 of 12 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (15 show a difference, 3 mixed, 5 no difference) · 13 studies (4 causal, 4 associational, 3 review, 2 theoretical), `q1`–`q3` · 6 of 13 report an effect size · 22 claims rest on one study
 
 ## Bottom line
 
@@ -58,6 +58,8 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](../claims/epistemological-beliefs-differ-by-learning-style.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](../claims/reflective-thinking-differs-by-learning-style.md) [+W] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)](../claims/combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [In hierarchical regression, gender and LD status contributed 6.4% to science achievements, and auditory learning preference contributed a further significant 3.1% beyond them](../claims/auditory-preference-predicts-achievement-beyond-gender-ld.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Science achievements correlated significantly and positively with preferences for visual, auditory, and agency-support means, but not sensorimotor means, with low coefficients](../claims/achievement-correlates-visual-auditory-agency-preferences.md) [+W] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

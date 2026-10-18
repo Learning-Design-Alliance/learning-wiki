@@ -60,6 +60,7 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — the pattern this framework was developed to analyze, tracing how student teams built a client offer across six weeks
 - [Evolving-artifact course organization: each module's output becomes the next module's input](../designs/evolving-artifact-module-chain.md)
+- [Train ITD competencies through cross-training, guided boundary-object creation, coaching, and early reflexivity learning objectives](../strategies/itd-competency-training-strategies.md)
 
 ## Key Sources
 - Muukkonen, H., & Kajamaa, A. (2024). Knowledge objects and knowledge practices in interdisciplinary learning: Example of an organization simulation in higher education. *Journal of the Learning Sciences, 33*(2), 365-404. [https://doi.org/10.1080/10508406.2024.2344794](https://doi.org/10.1080/10508406.2024.2344794)

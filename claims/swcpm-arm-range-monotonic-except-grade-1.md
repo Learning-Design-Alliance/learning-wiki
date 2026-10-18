@@ -49,3 +49,4 @@ Authors' interpretation of the concordance results in Table 3.8, which lists ARM
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
 - [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](swcpm-classification-accuracy-arm-proficiency.md) — related
 - Students who placed on or above grade level in Grade 1 showed accelerated second-half growth in Grade 3, while growth rates declined in all placement groups — related
+- [Reading proficiency improved across all performance groups, with low performers reaching Grade 3b reading standards and top performers reaching Grade 6a–7a levels by Cycle 3](tprs-mtss-reading-proficiency-gains.md) — related

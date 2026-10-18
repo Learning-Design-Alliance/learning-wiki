@@ -98,3 +98,4 @@ This is the source paper that introduces conditional knowledge as one of three c
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
+- [McKenney et al.'s ecological framework emphasizes knowing but not applying design knowledge](mckenney-framework-knowing-insufficient.md) — related

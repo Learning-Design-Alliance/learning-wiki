@@ -13,19 +13,23 @@ generated:
 # Go-Lab online teacher community and Inquiry Learning Spaces
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Go-Lab is an online ecosystem and teacher community that supports the creation, sharing, reuse, and refinement of inquiry-based learning spaces and resources, developed and maintained by the Go-Lab Initiative.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Go-Lab/Graasp Inquiry Learning Spaces with online scaffolding tools**: The experimental condition used virtual learning environments from the Go-Lab project, built on the Graasp platform. "The platform involves Inquiry Learning Spaces (ILSs) as learning resources that foster inquiry learning" by following "the inquiry cycle phases of orientation, hypothesis generation, experimentation, conclusion, and discussion". ILSs can include virtual/remote labs, scaffolding apps, and multimedia. In this study teachers developed nine ILSs for force and energy, each covered in about two hours over five weeks, using a hypothesis scratchpad and an experiment design tool as scaffolds. (Hasan Ozgur Kapici (2025))
 
 ### Claims
 - [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](../claims/reused-ils-four-times-more-likely-implemented-scaffolding-increases.md) [+M]
+- [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](../claims/computer-based-ibl-greater-conceptual-understanding-gains.md) [+M]
+- [Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest](../claims/computer-based-ibl-inquiry-skills-gains.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Ulrike Cress. (2020). The richness of CSCL environments. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09335-1
+- Hasan Ozgur Kapici. (2025). Does inquiry-based learning work better in regular classrooms or computer-based settings? Instructional Science (2025) 53:705–728. https://doi.org/10.1007/s11251-025-09711-0

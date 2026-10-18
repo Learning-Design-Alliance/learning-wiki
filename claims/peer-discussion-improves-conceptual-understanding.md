@@ -115,3 +115,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - Most instructors using Peer Instruction at other institutions report success, with student conceptual understanding at the level of interactive-engagement courses — related
 - [High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective](high-prior-knowledge-arguments-best-conceptual-understanding.md) — related
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — related
+- [Students in an open science citizen science platform gained understanding of experimental design and research ethics but struggled with peer review and aligning methods to questions](open-science-platform-students-gain-design-ethics-struggle-peer-review.md) — related

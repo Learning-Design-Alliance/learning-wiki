@@ -67,3 +67,4 @@ Tom's post-interview episode comparing −8 and −12: he gave the mathematicall
 ## Related Claims
 - [Students' initial correct answers can mask reasoning based on a subtraction strategy not previously reported for integer order comparisons](nicole-subtraction-strategy-order-relation.md) — related
 - [Before instruction, a strong sixth grader infers integer order reasoning from out-of-school thermometer experiences, with zero as a significant concept](tom-thermometer-zero-inference.md) — related
+- [Walking the body-scale number line disrupted students' prior misconceptions and erroneous rules, which resurfaced when they returned to the desk-scale number line](walking-disrupts-misconceptions-which-resurface.md) — reports the opposite

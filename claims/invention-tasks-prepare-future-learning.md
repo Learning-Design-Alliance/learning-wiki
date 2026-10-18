@@ -61,3 +61,7 @@ Open questions include how much scaffolding invention tasks should provide, how 
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
 - [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — related
+- [Worked-example preparation leads to more application of canonical criteria during future learning, which mediates higher transfer](canonical-criteria-application-mediates-transfer-advantage.md) — a narrower finding that bears on this claim
+- [The increase in students inventing their own ways of solving tasks was minor, but there was a marked increase in students agreeing the CCS tasks required inventing their own ideas](ccs-marked-increase-inventing-own-ideas.md) — related
+- [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — related
+- [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — related

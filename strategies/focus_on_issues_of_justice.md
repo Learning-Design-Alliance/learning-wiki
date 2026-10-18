@@ -108,6 +108,7 @@ Justice-focused projects draw their motivational power from authenticity and per
 - Community-based learning — situates projects in ongoing partnerships with community organizations
 - Service learning — a close cousin with a stronger emphasis on structured reflection on service experiences
 - Youth participatory action research — the research-intensive variant in which students are co-researchers
+- [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 
 ## Examples
 - **Mikva Challenge** (https://www.mikvachallenge.org) — Chicago-area students investigate community problems and run "action civics" campaigns addressing real policy issues with elected officials.

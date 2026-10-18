@@ -57,3 +57,4 @@ This is a qualitative, design-based study conducted in informal community settin
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — a broader claim this one bears on
 - [Current evidence does not establish that embodied representations are necessary for semantic understanding](embodiment-necessity-not-established.md) — related
+- [Primary school students aged 9–12 perceive a sense of agency—choice over content, personalization, self-directed performance, and task completion—as a core element of fun in learning](agency-student-perceived-fun-element-primary.md) — related

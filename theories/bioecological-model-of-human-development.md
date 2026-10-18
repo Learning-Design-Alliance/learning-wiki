@@ -66,6 +66,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 
 ## Examples
 <!-- Candidate future claim page: authoritative vs. authoritarian parenting effects are moderated by neighborhood risk context (Florsheim, Tolan, & Gorman-Smith, 1996), tagged [~M]. -->
+- [Reciprocal peer teaching with parent-facing explanation to sustain collaborative learning in exam-oriented contexts](../strategies/reciprocal-teaching-parent-persuasion-strategy.md)
 
 ## Key Sources
 - Bronfenbrenner, U. (1979). *The ecology of human development: Experiments by nature and design*. Harvard University Press.

@@ -40,6 +40,7 @@ The report recommends a hybrid approach in which teachers have examples of well-
 
 - [Understanding By Design Unit Template](understanding-by-design-unit-template.md)
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
+- [Have teachers design at the lesson or course level rather than whole curricula](teacher-design-at-lesson-or-course-level.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Model 2 of the regression analysis added fall-of-preschool achievement controls 
 - [Advanced counting competencies predict fifth grade mathematics achievement whereas basic counting does not when both are included together](advanced-counting-more-predictive-than-basic.md) — related
 - [The association between preschool competencies and fifth grade achievement does not differ across the achievement distribution](no-slope-differences-across-achievement-distribution.md) — related
 - [The counting and cardinality coefficient is significantly larger than the coefficients for patterning, geometry, and measurement and data](counting-coefficient-larger-than-other-domains.md) — related
+- [Mathematics achievement is strongly positively associated with mathematics confidence at the student level (0.43)](math-achievement-confidence-association.md) — related

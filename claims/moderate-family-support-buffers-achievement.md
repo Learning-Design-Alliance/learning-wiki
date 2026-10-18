@@ -49,3 +49,4 @@ Multivariate model with a bullying × family social support interaction (homogen
 - [Bullied adolescents are about half as likely to reach the national academic achievement benchmark for their age group two years later](bullying-lower-achievement-benchmark-odds.md) — related
 - [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](high-friend-support-buffers-achievement-effect.md) — related
 - [Bullying involvement is associated with lower academic achievement (pooled OR = 0.61)](bullying-involvement-lower-academic-achievement.md) — related
+- [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related

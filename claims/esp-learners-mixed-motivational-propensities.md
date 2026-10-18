@@ -107,3 +107,4 @@ Descriptive item analysis of intrinsic subtypes: "all Intrinsic Motivati on-Know
 - [Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use](problems-hindering-metacognitive-strategy-use.md) — related
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
 - [Language barriers were the biggest concern for Chinese international students, who reported tripling their reading time in English](language-barriers-biggest-concern-chinese-students.md) — related
+- [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related

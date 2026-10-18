@@ -51,3 +51,4 @@ Simple-effects decomposition of the 3 × 2 mixed ANOVA on originality. On the un
 - [The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task](regulated-ai-sustains-originality-across-tasks.md) — related
 - [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](prompt-type-differences-general-vs-regulated.md) — related
 - [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — related
+- [The increase in students inventing their own ways of solving tasks was minor, but there was a marked increase in students agreeing the CCS tasks required inventing their own ideas](ccs-marked-increase-inventing-own-ideas.md) — related

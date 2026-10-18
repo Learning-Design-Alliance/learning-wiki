@@ -169,3 +169,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
 - [An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning](early-fluency-intervention-improved-attitudes.md) — related
+- [Generating examples produces overconfident judgments of learning, especially for principles and procedures](example-generation-overconfidence-judgment-bias.md) — related

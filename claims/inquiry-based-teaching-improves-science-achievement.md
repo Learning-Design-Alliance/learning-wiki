@@ -142,3 +142,5 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — related
 - [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — related
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — related
+- [Effects of discovery-related approaches are differential, not uniform across students or learning goals](discovery-effects-differential-across-students-and-goals.md) — related
+- [Students in an open science citizen science platform gained understanding of experimental design and research ethics but struggled with peer review and aligning methods to questions](open-science-platform-students-gain-design-ethics-struggle-peer-review.md) — related

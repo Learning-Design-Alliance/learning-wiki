@@ -58,9 +58,11 @@ Errors carry diagnostic information that correct answers do not: they expose the
 5. Close with [Individual Reflection](../elements/individual-reflection.md): learners record what the error taught them and how they will avoid the trap.
 
 ## Related Strategies
+
 - [Productive Failure](productive-failure.md) — a structured variant in which learners explore problems before instruction so their errors become the raw material for the subsequent lesson
 - [Growth Mindset Framing](growth-mindset-framing.md) — the belief-level intervention that makes error-embracing norms credible to learners
 - [Formative Feedback](formative-feedback.md) — the feedback practices that convert surfaced errors into next steps
+- [Expert-recommended practices for fostering fun in learning: suggestion boxes, embracing failure, differentiated challenge, and open-ended questions](expert-practices-fostering-fun-learning.md)
 
 ## Examples
 - **Erroneous worked examples in algebra**: learners are shown an incorrect solution to an equation, asked to find and explain the error, then produce a corrected version — a routine shown to improve conceptual knowledge of algebra [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]

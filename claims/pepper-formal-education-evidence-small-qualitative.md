@@ -53,3 +53,4 @@ Scoping review synthesis of 13 peer-reviewed empirical studies on Pepper in form
 - STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%) — reports the opposite
 - Empirical studies predominate in the corpus but mostly employ small or moderate samples (median 43.0 participants) — related
 - Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction — related
+- [Special issue findings are soft: small-scale case studies limit generalizability](tad-tel-case-studies-limited-generalizability.md) — related

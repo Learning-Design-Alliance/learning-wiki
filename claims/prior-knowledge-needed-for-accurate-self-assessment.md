@@ -118,3 +118,4 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — related
 - [Common health literacy measures largely detect individual differences in cognitive abilities](health-literacy-measures-detect-cognitive-ability-differences.md) — related
 - [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](postdiction-skills-related-to-math-accuracy-grades-1-6.md) — a narrower finding that bears on this claim
+- [Generating examples produces overconfident judgments of learning, especially for principles and procedures](example-generation-overconfidence-judgment-bias.md) — a narrower finding that bears on this claim

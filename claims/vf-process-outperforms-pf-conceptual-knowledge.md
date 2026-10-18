@@ -48,3 +48,4 @@ Randomized experiment with N = 173 secondary students assigned to PF, VF-process
 - [Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge](pf-vf-process-not-superior-to-vf-outcome.md) — reports the opposite
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — related
+- [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related

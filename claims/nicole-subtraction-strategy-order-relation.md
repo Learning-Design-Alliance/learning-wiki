@@ -66,3 +66,4 @@ The authors' discussion of Nicole's case states the subtraction strategy is nove
 
 ## Related Claims
 - [After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning](post-lesson-flexible-perspective-switching.md) — related
+- [Students' errors on the desk-scale number line cluster on subtracting a negative number, with fewer errors on subtracting a positive from a negative or adding a negative to a positive](snl-errors-subtracting-negative.md) — related

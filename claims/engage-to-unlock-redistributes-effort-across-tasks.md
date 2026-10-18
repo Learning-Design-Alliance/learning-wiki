@@ -51,3 +51,4 @@ In the controlled four-condition Prolific experiment (N=398), planned interactio
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](guidance-time-reallocation-multiple-document-task.md) — related
+- [Eye movements shift from easy, low-support tasks during early selections to faster orientation toward more difficult tasks during final selections](eye-tracking-shift-toward-difficult-tasks.md) — related

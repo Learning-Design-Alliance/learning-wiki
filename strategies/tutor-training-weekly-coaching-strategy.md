@@ -45,6 +45,7 @@ OnYourMark prepares its tutors with "20 hours of training prior to tutoring star
 - [Select tutoring providers that tailor professional development to tutor experience levels and invest in student-tutor relationship building](select-providers-tailoring-pd-and-relationship-building.md)
 - [Build local capacity by recruiting and training staff from the schools' rural zones](recruit-train-local-rural-zone-staff.md)
 - [Tiered training and ongoing supervision for volunteer tutors and AmeriCorps members](reading-partners-tiered-tutor-training-strategy.md)
+- [Select tutors with adequate content expertise and prepare all tutors in cognitive and social congruence, on the job](tutor-selection-expertise-preparation-congruence.md)
 
 ## Examples
 -

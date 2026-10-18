@@ -47,7 +47,8 @@ The article's forward-looking recommendation for CCS education is to design proj
 - [Elementary CCS students articulated multiple, varied project purposes, with all students acting toward helping the birds](../claims/youth-varied-project-purposes-ccs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 
 ## Examples
 -

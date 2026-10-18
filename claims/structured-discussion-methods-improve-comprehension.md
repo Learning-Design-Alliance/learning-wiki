@@ -165,3 +165,5 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — related
 - [High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective](high-prior-knowledge-arguments-best-conceptual-understanding.md) — related
 - [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related
+- [Individual-level critical thinking instruction has an unimpressive track record, motivating communal-level intervention](critical-thinking-individual-intervention-unimpressive-track-record.md) — related
+- [Students in an open science citizen science platform gained understanding of experimental design and research ethics but struggled with peer review and aligning methods to questions](open-science-platform-students-gain-design-ethics-struggle-peer-review.md) — related

@@ -12,7 +12,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (53 show a difference, 14 mixed, 8 no difference) · 59 studies (15 review, 14 associational, 10 causal, 10 quant-synthesis, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 18 of 59 report an effect size · 71 claims rest on one study
+> **Evidence** · 79 claims (56 show a difference, 15 mixed, 8 no difference) · 60 studies (15 review, 15 associational, 10 causal, 10 quant-synthesis, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 18 of 60 report an effect size · 75 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -115,6 +115,10 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Pairs with at least one member high in both social and cognitive CPS skills conducted more actions with more frequent and more dispersed action transitions than other pairs](../claims/high-social-cognitive-pairs-more-actions-and-transitions.md) [+M] — learners who differ on it differ in outcomes
 - [Qualitative analysis of viewpoint-switching scenes indicated the 3D perspective-taking manipulatives bolstered perspective-taking via the nonverbal LED-status representations of students' states](../claims/3d-viewpoint-switching-bolsters-nonverbal-perspective-taking.md) [+M] — instruction changes it
 - [Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies](../claims/social-skills-relate-evidence-elicitation-only.md) [~M] — learners who differ on it differ in outcomes
+- [Analogical reasoning and perspective taking are the strongest predictors of knowledge integration, followed by tolerance of ambiguity and uncertainty and reflexivity](../claims/analogical-reasoning-perspective-taking-strongest-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [Expertise positively predicts knowledge integration, and the four competencies remain positively related to knowledge integration at different levels of expertise](../claims/competencies-relevant-across-expertise-levels.md) [+M] — learners who differ on it differ in outcomes
+- [Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work](../claims/four-competencies-predict-knowledge-integration.md) [+M] — learners who differ on it differ in outcomes
+- [The competency–knowledge integration relationships differ between scientific and economic samples: reflexivity is significant only in the scientific sample, while tolerance of ambiguity and uncertainty and perspective taking are significant only in the economic sample](../claims/competency-knowledge-integration-links-differ-by-context.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

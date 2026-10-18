@@ -23,7 +23,7 @@ sources:
 # Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (8 for, 8 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 3 of 10 report an effect size · 15 claims rest on one study
+> **Evidence** · 17 claims (9 for, 8 mixed) · 11 studies (3 causal, 3 review, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 11 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Learners, tools and outcomes differ across these claims (undergraduate physics c
 
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+W]: a survey of 64 students after one simulation lesson, with self-reported knowledge before and after and no test of learning. It bears on learners' valuation of the tool, not on learning.
 - [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~M]: a moderator analysis from the discovery meta-analysis. It bears on the age row (adolescents most harmed by unassisted discovery), but it is about discovery generally, not tool-based exploration; not yet worked into the rows.
+- [Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest](../claims/computer-based-ibl-inquiry-skills-gains.md) [+W] — attached 2026-10-18 from Hasan Ozgur Kapici (2025), which proposed "Pair inquiry-based learning with technology-enabled scaffolding tools, since teacher guidance alone reaches students less individually".
 
 ## Objective and learner-valued goal
 

@@ -48,3 +48,4 @@ The article reports this solution-variety contrast from Kapur's (2014) experimen
 
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — the general claim this finding bears on, with the studies behind it
 -
+- [A validity problem in Kapur's standard deviation transfer item brackets its transfer findings as working hypotheses](kapur-sd-transfer-item-validity-problem.md) — related

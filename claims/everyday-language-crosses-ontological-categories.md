@@ -43,4 +43,4 @@ The authors' linguistic analysis of everyday expressions, drawing on Lakoff and 
 
 
 ## Related Claims
--
+- [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related

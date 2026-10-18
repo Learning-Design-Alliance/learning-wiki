@@ -45,3 +45,4 @@ The presentation asserts, as a framing statement in its CSCL grand challenge sli
 ## Related Claims
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
 - Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies — related
+- [Students taught by teachers using variation theory showed extremely better mastery of the supply-and-demand price concept than students taught without the theory](variation-theory-teaching-extreme-learning-gain-economics.md) — related

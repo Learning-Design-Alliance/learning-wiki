@@ -129,3 +129,4 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — related
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](dialogue-feedback-induces-conceptual-change.md) — a narrower finding that bears on this claim
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related
+- [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — a broader claim this one bears on

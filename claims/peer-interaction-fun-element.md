@@ -1,0 +1,57 @@
+---
+type: claim
+title: Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning
+description: Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning
+id: peer-interaction-fun-element
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: kokarida-2026
+    resource: "https://doi.org/10.1007/s11251-026-09780-9"
+    title: "Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9"
+    author: "Kokarida, P., Markopoulos, P., & Tisza, G."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
+---
+
+# Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
+
+## Subclaims
+`q2 i?` Students report that being with friends buffers stress in potentially embarrassing activities, and that collaborative group activities are more fun than individual tasks. [→ Kokarida 2026](#kokarida-2026)
+
+## Evidence
+
+### Kokarida 2026
+
+Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9
+
+`q2 · i?` · `qualitative · r2`
+
+Focus group thematic analysis (N = 12 students): a shy student described friends as making singing less stressful, and a student contrasted fun group activities in gymnastics with individual work like tests.
+
+> "students also recognized peer cooperation as a vital contributor to fun capturing their desire for collaborative learning experiences."
+
+## Discussion
+
+
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
+## Related Claims
+- [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related
+- [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](low-stress-climate-fun-element.md) — related
+- [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
+- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](social-support-no-buffer-depression.md) — related
+- [Findings are mixed on whether friendship buffers the negative effects of peer rejection for children with ADHD](friendship-buffering-peer-rejection-mixed-evidence.md) — related
+- [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](high-friend-support-buffers-achievement-effect.md) — related
+- [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
+- [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — a broader claim this one bears on
+- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](moderate-family-support-buffers-achievement.md) — related

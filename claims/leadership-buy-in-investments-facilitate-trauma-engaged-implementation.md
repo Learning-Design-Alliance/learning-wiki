@@ -65,3 +65,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams — related
 - National average school support-staff ratios fall far below recommended levels for psychologists, counselors, and social workers — related
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
+- [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related

@@ -44,3 +44,4 @@ Subtraction instruction with practice over seven sessions in which children purs
 
 ## Related Claims
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — possibly the same claim (merge candidate)
+- [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](no-motivational-differences-worked-versus-inventing.md) — related

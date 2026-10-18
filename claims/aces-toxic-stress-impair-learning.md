@@ -77,3 +77,4 @@ The report presents the Center on the Developing Child at Harvard University's i
 - [The authors hypothesize a possible vicious cycle in which stress-induced self-control losses generate further stressful life events](stress-self-control-vicious-cycle-hypothesis.md) — related
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — reports the opposite
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
+- [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related

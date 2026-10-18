@@ -63,3 +63,4 @@ Chat-coding comparison of the instruction-only condition against control found n
 
 ## Related Claims
 - [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — possibly the same claim (merge candidate)
+- [RIDE-instructed dyads more often use elicitative, responsive, confirmation/acceptance, and asking-for-action communicative activities](ride-instruction-increases-specific-communicative-activities.md) — related

@@ -182,3 +182,4 @@ Finally, van de Pol et al. treat contingency as definitionally necessary for sca
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — a narrower finding that bears on this claim
 - [Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving](adaptive-fading-worked-examples-benefits.md) — related
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — a broader claim this one bears on
+- [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related

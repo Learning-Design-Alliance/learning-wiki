@@ -72,3 +72,4 @@ This page records two separate results from one experiment (Reisslein, Atkinson 
 - Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training — related
 - Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level — related
 - [Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing](easy-task-floor-effect-excluded.md) — related
+- [Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content](learning-time-focus-quality-criteria-unit.md) — related

@@ -41,7 +41,8 @@ In vivo experimentation is PSLC's primary methodology: running experimental cont
 - Kli Framework Knowledge Learning Instruction
 
 ## Related Strategies
-- 
+
+- [Use design research to study the interplay of guidance and discovery, trading methodological control for ecological validity](design-research-for-guidance-discovery-interplay.md)
 
 ## Examples
 -

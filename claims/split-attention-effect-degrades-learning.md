@@ -160,3 +160,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs](annotations-not-proximity-drive-illustration-benefit.md) — a narrower finding that bears on this claim
 - [Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts](expertise-reversal-shakespearean-explanatory-notes.md) — related
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — reports the opposite
+- [Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure](ldi-integrated-better-recognition-linkages.md) — a narrower finding that bears on this claim

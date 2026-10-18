@@ -44,6 +44,7 @@ The report's fourth commitment grounds CT work in research-practice partnerships
 - [Plan-Build-Implement co-design process for developing Integrated Learning Pathways](plan-build-implement-pathways-design-process.md)
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](prek-8-ct-integration-over-stand-alone.md)
 - [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
+- [Bridge scientist-educator divides by clarifying visions of participation and identifying scalable practices](clarify-visions-and-scalable-practices-stsp-design.md)
 
 ## Examples
 -

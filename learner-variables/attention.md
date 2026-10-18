@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (64 show a difference, 19 mixed, 10 no difference) · 72 studies (19 associational, 17 causal, 15 review, 10 quant-synthesis, 5 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 12 of 72 report an effect size · 88 claims rest on one study
+> **Evidence** · 94 claims (65 show a difference, 19 mixed, 10 no difference) · 73 studies (19 associational, 17 causal, 15 review, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 12 of 73 report an effect size · 89 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -130,6 +130,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](../claims/adhd-children-higher-creative-strengths.md) [+M] — learners who differ on it differ in outcomes
 - [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](../claims/adhd-children-higher-ttct-originality.md) [+M] — learners who differ on it differ in outcomes
 - [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](../claims/ngi-not-distracting-attention-returns.md) [-M] — instruction changes it
+- [Student engagement increased across all performance levels over three DBR cycles, with low-performing students moving from 7–10 teacher prompts per lesson to 95–100% sustained attention by Cycle 3](../claims/tprs-mtss-engagement-gains-all-performance-levels.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

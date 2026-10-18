@@ -12,7 +12,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 16 claims (11 show a difference, 3 mixed, 2 no difference) · 10 studies (4 design, 2 causal, 2 qualitative, 1 review, 1 associational), `q1`–`q3` · 1 of 10 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (11 show a difference, 6 mixed, 3 no difference) · 11 studies (4 design, 2 causal, 2 associational, 2 qualitative, 1 review), `q1`–`q3` · 1 of 11 report an effect size · 20 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -47,6 +47,10 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](../claims/ibl-immersion-improves-understanding-historical-inquiry.md) [+M] — instruction changes it
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](../claims/immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) [~M] — instruction changes it
 - [The impact of immersion in IBL on beliefs varies significantly across individual students, with about 8% holding content-oriented beliefs largely unaffected](../claims/ibl-immersion-impact-varies-content-oriented-subgroup.md) [~M] — an instructional effect differs with it
+- [Among students choosing multiplist and evaluatist assumptions, 11th-grade students were more likely than eighth-grade students to justify their views with pragmatic and evidential criteria of knowing](../claims/older-students-pragmatic-evidential-criteria-justification.md) [~M] — learners who differ on it differ in outcomes
+- [Eighth- and 11th-grade students do not differ statistically significantly in their choice of epistemic assumptions about model evaluation, although a higher percentage of 11th graders chose the evaluatist assumption](../claims/grade-levels-no-significant-difference-model-evaluation-assumptions.md) [-M] — instruction changes it
+- [The context of model-evaluation questions significantly influenced students' epistemic views, with fewer than half of students giving consistent answers across the SARS and dinosaur-extinction contexts](../claims/question-context-shifts-epistemic-views-model-evaluation.md) [~M] — instruction changes it
+- [The dinosaur-extinction context evoked concerns about the value of knowledge and the limits of scientific methods, shaping students' model-evaluation justifications in context-specific ways](../claims/dinosaur-context-evokes-value-and-method-limit-concerns.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

@@ -43,6 +43,7 @@ This strategy makes schools or instructors full partners in research, linking th
 - [Focus equity-relevant research at the classroom and systems levels, treating teachers—not just technology—as drivers of change](classroom-system-level-equity-focus.md)
 - [Partner with academic researchers by approaching early, aligning motivations, and maintaining trust and transparency](partnering-with-academic-researchers.md)
 - [Build personal connections and find common ground in research-practice partnerships](personal-connections-rpp-common-ground.md)
+- [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 
 ## Examples
 -

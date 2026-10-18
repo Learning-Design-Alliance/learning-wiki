@@ -43,4 +43,4 @@ Study of middle and high school basketball players (Nasir, 1996, 2000) who solve
 
 
 ## Related Claims
--
+- [The increase in students inventing their own ways of solving tasks was minor, but there was a marked increase in students agreeing the CCS tasks required inventing their own ideas](ccs-marked-increase-inventing-own-ideas.md) — related

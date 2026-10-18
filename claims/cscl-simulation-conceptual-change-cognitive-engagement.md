@@ -60,3 +60,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
 - [Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)](simulation-based-learning-large-positive-effect-complex-skills.md) — related
 - [After working with the script, students improved their individual task representation of high-level tasks and their strategy reflection](post-script-improvement-task-representation-strategy-reflection.md) — related
+- [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related

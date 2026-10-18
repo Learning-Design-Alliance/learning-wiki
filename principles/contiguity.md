@@ -50,7 +50,7 @@ sources:
 # Contiguity Principle (Spatial and Temporal)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (11 for, 13 mixed) · 19 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (13 for, 13 mixed) · 20 studies (6 causal, 6 review, 5 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 20 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,8 @@ Taken together: for learners new to complex material, words placed with and time
 - [Automated CTML metrics show improvement in temporal contiguity and coherence for CTML-informed videos](../claims/automated-metrics-temporal-contiguity-coherence.md) [~W]: an algorithmic score of 14 generated videos, with no learners.
 - [Contiguity, modality and the other design principles produce a moderate average improvement (g = 0.38)](../claims/multimedia-design-principles-improve-learning-overall.md) [+M]: the umbrella estimate; contiguity is among the larger principles there.
 - [Letting learners pace instruction helped on complex material in one experiment](../claims/learner-paced-beats-system-paced-complex-material.md) [~M]: pacing control as a partial substitute when separation cannot be removed.
+- [Audio explanations with an LDI integrated structure lead to longer fixation times on referred-to picture elements during interpretation phases than LDI separated structures](../claims/ldi-integrated-longer-fixations-interpretation.md) [+M] — attached 2026-10-18 from Manuela Glaser et al. (2022), which proposed "Design audio explanations of complex pictures with an integrated LDI structure, presenting each element's localization, description, and interpretation in immediate succession".
+- [Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure](../claims/ldi-integrated-better-recognition-linkages.md) [+M] — attached 2026-10-18 from Manuela Glaser et al. (2022), which proposed "Design audio explanations of complex pictures with an integrated LDI structure, presenting each element's localization, description, and interpretation in immediate succession"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

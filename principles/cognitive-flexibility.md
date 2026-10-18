@@ -39,7 +39,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 21 studies (7 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 3 of 21 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 22 studies (7 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 3 of 22 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](../claims/participant-feedback-diverse-perspectives.md) [+W]
 - [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](../claims/unstructured-llm-use-epistemic-narrowing.md) [+W]
 - [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](../claims/critical-technical-gap-k12-ml-activities.md) [-W]
+- [Students who got stuck on the desk-scale number line proactively returned to the body-scale number line to validate their answers, achieving perspectival mutuality](../claims/returning-to-bnl-perspectival-mutuality.md) [+W] — attached 2026-10-18 from Jacqueline Anton (2025), which proposed "Scaffold perspective coordination explicitly: give students multiple body-scale sessions and bidirectional switching supports before expecting desk-scale transfer".
 
 ## Objective and learner-valued goal
 

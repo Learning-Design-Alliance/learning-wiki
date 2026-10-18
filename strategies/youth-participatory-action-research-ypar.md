@@ -73,6 +73,7 @@ YPAR is a form of [Community-Based Learning](../principles/community-based-learn
 - [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](participatory-iterative-co-design-ct.md)
 - [Engage teachers in participatory design with low-fidelity paper prototypes to surface LLM chatbot design considerations](teacher-participatory-paper-prototyping-llm-chatbots.md)
 - [Use example figures and published case exemplars to select participatory tools for each research step](pr-method-exemplar-matching-strategy.md)
+- [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 
 ## Examples
 - **[YPAR Hub](https://yparhub.berkeley.edu)** — University of California, Berkeley resource offering a step-by-step YPAR curriculum, facilitator guides, and example youth projects.

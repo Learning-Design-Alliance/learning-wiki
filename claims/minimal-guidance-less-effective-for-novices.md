@@ -301,3 +301,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — a narrower finding that bears on this claim
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — a broader claim this one bears on
 - [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — a narrower finding that bears on this claim
+- [Effects of discovery-related approaches are differential, not uniform across students or learning goals](discovery-effects-differential-across-students-and-goals.md) — related

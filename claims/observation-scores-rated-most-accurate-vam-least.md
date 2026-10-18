@@ -55,3 +55,4 @@ Survey of approximately 12,000 CPS teachers comparing perceived accuracy of REAC
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](reach-teachers-question-student-growth-weight-fairness.md) — related
 - [A majority of teachers believed REACH relied too heavily on standardized tests, with special education teachers especially critical](teachers-hesitant-student-growth-evaluation.md) — related
 - [Most teachers judged their REACH evaluators fair and able to assess instruction accurately](teachers-view-evaluator-ratings-fair-accurate.md) — related
+- [Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes](observed-classroom-differences-correlated-with-outcomes.md) — related

@@ -43,4 +43,4 @@ The review attributes to Dörner and Wearing (1995) an analysis of process data 
 
 
 ## Related Claims
--
+- [Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers](bioworld-successful-solvers-faster-fewer-actions.md) — related

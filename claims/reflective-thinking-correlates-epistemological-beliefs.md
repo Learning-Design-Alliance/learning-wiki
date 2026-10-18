@@ -81,3 +81,4 @@ Correlation analysis (Table 6, n=410) for the looking professional dimension; al
 - [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
 - [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — related
 - [Negative knowledge supports three functions in professional work: certainty, efficiency, and reflection](negative-knowledge-three-functions.md) — related
+- [After training, better professional vision and reasoning are correlated with more learning-centered conception changes and fewer misconceptions](posttest-correlations-vision-conceptions.md) — related

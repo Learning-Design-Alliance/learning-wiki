@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (47 show a difference, 15 mixed, 7 no difference) · 53 studies (19 causal, 9 associational, 8 theoretical, 7 qualitative, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 14 of 53 report an effect size · 68 claims rest on one study
+> **Evidence** · 71 claims (49 show a difference, 15 mixed, 7 no difference) · 55 studies (21 causal, 9 associational, 8 theoretical, 7 qualitative, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 16 of 55 report an effect size · 70 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -110,6 +110,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [The 'Y-read?' collaboration script elicited mainly low-level metacognitive regulation during pre- and post-task discussions, with deep-level activities rare](../claims/collab-script-elicited-mostly-low-level-metacognitive-regulation.md) [+M] — instruction changes it
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](../claims/short-term-journal-prompts-increase-metacognitive-strategy-use.md) [+M] — instruction changes it
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [-M] — instruction changes it
+- [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](../claims/drawing-after-learning-improves-absolute-monitoring-accuracy.md) [+W] — instruction changes it
+- [The inventing group showed more metacognitive regulation during future learning, contrary to hypothesis, without benefiting transfer](../claims/inventing-group-more-metacognitive-regulation.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

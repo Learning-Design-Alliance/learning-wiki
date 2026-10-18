@@ -82,3 +82,4 @@ Pre-registered Study 2 (prediction sample N=600, completion sample N=1001 on Pro
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](offloading-illusion-ai-effort-savings.md) — related
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite
+- [Students' actual task selections deviate about half a difficulty level and half a support level from SRLTS model-based selections](selections-deviate-half-level-from-srlts.md) — related
