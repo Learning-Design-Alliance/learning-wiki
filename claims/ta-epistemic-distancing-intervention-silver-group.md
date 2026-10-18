@@ -15,18 +15,22 @@ sources:
     author: "Conlin, L. D., & Scherr, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: conlin-2012-2
     resource: "https://eric.ed.gov/?q=Making+Space+to+Sensemake"
     title: "Conlin, L. D., & Scherr, R. E. (2012). Making Space to Sensemake: Epistemic Distancing in Small Group Physics Discussions. Preprint under review. https://eric.ed.gov/?q=Making+Space+to+Sensemake"
     author: "Conlin, L. D., & Scherr, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A TA's intervention that incrementally added epistemic distancing to his questions shifted a dismissive group into sensemaking with a lasting effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TA Joey rephrased "What happened there" as "What do you think happened there, any idea?", adding hedges, rising intonation, and kneeling, after which students offered ideas and continued sensemaking after he left. [→ Conlin 2012](#conlin-2012)
@@ -38,7 +42,7 @@ sources:
 
 Conlin, L. D., & Scherr, R. E. (2012). Making Space to Sensemake: Epistemic Distancing in Small Group Physics Discussions. Preprint under review. https://eric.ed.gov/?q=Making+Space+to+Sensemake
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Discourse analysis of TA Joey's intervention with the Silver group during Tutorial 1, in which he introduced epistemic distance linguistically and paralinguistically; no effect size is printed.
 
@@ -48,7 +52,7 @@ Discourse analysis of TA Joey's intervention with the Silver group during Tutori
 
 Conlin, L. D., & Scherr, R. E. (2012). Making Space to Sensemake: Epistemic Distancing in Small Group Physics Discussions. Preprint under review. https://eric.ed.gov/?q=Making+Space+to+Sensemake
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Post-intervention discussion transcript shows the group ran a second trial and kept resolving the trial discrepancy. The article limits the lasting effect to "at least on a short timescale"; no effect size is printed.
 

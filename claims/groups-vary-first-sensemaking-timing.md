@@ -15,12 +15,14 @@ sources:
     author: "Conlin, L. D., & Scherr, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Gold and Silver groups showed evidence of sensemaking in their third discussion (13:15 and 12:30 elapsed), while the Bronze group needed four discussions and 52:46 elapsed time. [→ Conlin 2012](#conlin-2012)
@@ -31,7 +33,7 @@ sources:
 
 Conlin, L. D., & Scherr, R. E. (2012). Making Space to Sensemake: Epistemic Distancing in Small Group Physics Discussions. Preprint under review. https://eric.ed.gov/?q=Making+Space+to+Sensemake
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Table 1 of the discourse analysis reports variability in how soon each group entered a collaborative scientific sensemaking discussion, measured in number of discussions, elapsed time, and tutorial question; no effect size is printed.
 

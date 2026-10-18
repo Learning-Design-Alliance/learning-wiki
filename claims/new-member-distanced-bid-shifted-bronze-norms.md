@@ -15,12 +15,14 @@ sources:
     author: "Conlin, L. D., & Scherr, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Britte, unfamiliar with the group's dismissive approach, asked "Are we, um, allowed to discuss now?" with hedging, rising pitch, and physical distancing, opening space for the group's first collaborative sensemaking discussion. [→ Conlin 2012](#conlin-2012)
@@ -31,7 +33,7 @@ sources:
 
 Conlin, L. D., & Scherr, R. E. (2012). Making Space to Sensemake: Epistemic Distancing in Small Group Physics Discussions. Preprint under review. https://eric.ed.gov/?q=Making+Space+to+Sensemake
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Discourse analysis of the Bronze group's first sensemaking discussion in Tutorial 2, in which Britte's distanced bid prompted discussion of predicted velocity graphs; no effect size is printed.
 

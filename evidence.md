@@ -23,10 +23,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | quant-synthesis | 64 | 117 | 38 | 118 | 337 |
 | review | 92 | 351 | 93 | 123 | 659 |
 | associational | 60 | 818 | 315 | 259 | 1,452 |
-| qualitative | 109 | 271 | 64 | 83 | 527 |
+| qualitative | 109 | 272 | 64 | 83 | 528 |
 | design | 50 | 507 | 131 | 30 | 718 |
 | theoretical | 89 | 263 | 49 | 56 | 457 |
-| not yet coded | | | | | 1 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -137,7 +136,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 68 | 64 | 25 | 0 |
-| [strategies](strategies/index.md) | 6,013 | 2,676 | 5 | 0 |
+| [strategies](strategies/index.md) | 6,013 | 2,677 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 889 | 1 | 0 |

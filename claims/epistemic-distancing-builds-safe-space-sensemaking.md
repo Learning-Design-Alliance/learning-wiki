@@ -15,12 +15,14 @@ sources:
     author: "Conlin, L. D., & Scherr, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students use hedging, joking, quoting, and questioning to soften their stances, protecting themselves from affective risk and enabling generation and evaluation of ideas. [→ Conlin 2012](#conlin-2012)
@@ -31,7 +33,7 @@ sources:
 
 Conlin, L. D., & Scherr, R. E. (2012). Making Space to Sensemake: Epistemic Distancing in Small Group Physics Discussions. Preprint under review. https://eric.ed.gov/?q=Making+Space+to+Sensemake
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Close qualitative discourse analysis of videotaped first discussions of three tutorial groups from a ~2,000-hour corpus at the University of Maryland. The article reports that "epistemic distancing played a key role" in each group's safe space; no effect size is printed.
 

@@ -33922,5 +33922,85 @@
  "learner-difference\t2012 compared with 2003 among youth with disabilities\t2003": {
   "label": "later assessment period vs earlier assessment period",
   "treatment_is_a": true
+ },
+ "learner-difference\t2013–14 through 2022–23 later period\t2013–14 baseline": {
+  "label": "later period vs baseline period",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2014 CPS graduates\t2006 CPS graduates": {
+  "label": "2014 cohort vs 2006 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2014 graduating class\t2006 graduating class": {
+  "label": "2014 graduating class vs 2006 graduating class",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2014 schools\t2012 schools": {
+  "label": "2014 schools vs 2012 schools",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2014 schools\t2013 schools": {
+  "label": "2014 schools vs 2013 schools",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2014 teacher education enrollments\t2009 teacher education enrollments": {
+  "label": "2014 teacher-education enrollments vs 2009 teacher-education enrollments",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2014–15 ninth-grade cohort\t2007–08 ninth-grade cohort": {
+  "label": "2014–15 ninth-grade cohort vs 2007–08 ninth-grade cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 CPS graduates\t2006 CPS graduates": {
+  "label": "2015 cohort vs 2006 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 CPS graduates\tU.S. graduates from low-income high schools": {
+  "label": "2015 CPS graduates vs national graduates from low-income high schools",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 CPS graduates\tU.S. students from low-income schools": {
+  "label": "2015 CPS graduates vs national students from low-income schools",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 CPS graduates\trecent U.S. high school completers nationally": {
+  "label": "2015 CPS graduates vs recent national high-school completers",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 kindergarten EL cohort\t2006 kindergarten EL cohort": {
+  "label": "2015 kindergarten EL cohort vs 2006 kindergarten EL cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 kindergarten EL cohort\t2009 kindergarten EL cohort": {
+  "label": "2015 kindergarten EL cohort vs 2009 kindergarten EL cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 kindergarten cohort\t2006 kindergarten cohort": {
+  "label": "2015 kindergarten cohort vs 2006 kindergarten cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2016 TPE implementation perceptions\t2013 TPE implementation perceptions": {
+  "label": "2016 TPE implementation perceptions vs 2013 TPE implementation perceptions",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 Black-White adjusted math gap\t2010 Black-White adjusted math gap": {
+  "label": "2017 Black–White adjusted math gap vs 2010 Black–White adjusted math gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 Black-White adjusted reading gap\t2010 Black-White adjusted reading gap": {
+  "label": "2017 Black–White adjusted reading gap vs 2010 Black–White adjusted reading gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 CPS graduate cohort\t2010 CPS graduate cohort": {
+  "label": "2017 CPS graduate cohort vs 2010 CPS graduate cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 CPS graduates who immediately enrolled in four-year college\t2010 CPS graduates who immediately enrolled in four-year college": {
+  "label": "2017 vs 2010 CPS graduates immediately enrolling in four-year college",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 Hispanic-White adjusted math gap\t2010 Hispanic-White adjusted math gap": {
+  "label": "2017 Hispanic–White adjusted math gap vs 2010 Hispanic–White adjusted math gap",
+  "treatment_is_a": true
  }
 }

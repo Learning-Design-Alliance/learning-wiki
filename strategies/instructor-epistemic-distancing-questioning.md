@@ -17,7 +17,7 @@ sources:
 # Instructors can encourage student idea-offering by incrementally adding epistemic distancing to their questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 When students dismiss a productive question, an instructor can rephrase it with hedges ("What do you think happened there, any idea?"), rising intonation, and lowered body position to reduce the stakes of contributing uncertain ideas. TA Joey used this pattern, then used the resulting discussion "to make repairs to the Silver group's understanding of what it is they are supposed to be doing in tutorial." The group then continued sensemaking without him.
@@ -38,7 +38,7 @@ When students dismiss a productive question, an instructor can rephrase it with 
 - offering and evaluating ideas about physical mechanisms
 
 ### Affordances
-- [Epistemic Distancing Resource](../theories/epistemic-distancing-resource.md)
+- Epistemic Distancing Resource
 
 ## Claims
 

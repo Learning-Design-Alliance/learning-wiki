@@ -15,12 +15,14 @@ sources:
     author: "Conlin, L. D., & Scherr, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Both too much and too little epistemic distancing can shut down group discussion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Silver group's discussion was preempted by too much distancing (Alan's dismissive "Whatever...next!"), while the Bronze group's was cut short by a statement with very little distancing ("It's been proven that you learn from your mistakes"). [→ Conlin 2012](#conlin-2012)
@@ -31,7 +33,7 @@ sources:
 
 Conlin, L. D., & Scherr, R. E. (2012). Making Space to Sensemake: Epistemic Distancing in Small Group Physics Discussions. Preprint under review. https://eric.ed.gov/?q=Making+Space+to+Sensemake
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Summary of Part I of the discourse analysis of the three groups' first discussions. The article reports these contrasting cases show distancing is "not unilaterally beneficial"; no effect size is printed.
 
