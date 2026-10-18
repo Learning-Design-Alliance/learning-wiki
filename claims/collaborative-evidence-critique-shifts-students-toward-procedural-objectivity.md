@@ -59,3 +59,4 @@ The absence of a control group is a real limitation the authors acknowledge (for
 - (none yet linked)
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
 - [After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study](kindergarten-early-algebra-intervention-shifts-equal-sign-understanding.md) — related
+- [Students' experiment-evaluation strategies shifted toward correct CVS after instruction, though 23% still used incorrect strategies](evaluation-strategies-shift-to-cvs.md) — related

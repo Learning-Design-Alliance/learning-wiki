@@ -44,3 +44,4 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 
 ## Related Claims
 - [College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week](no-comprehension-difference-digital-paper-textbooks.md) — related
+- [Evaluation accuracy differed by problem type, with a significant time-by-problem-type interaction: confounded designs remained hardest after instruction](problem-type-interaction-evaluation.md) — related

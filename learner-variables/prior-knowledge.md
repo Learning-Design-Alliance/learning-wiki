@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (58 show a difference, 34 mixed, 11 no difference, 3 unmarked) · 91 studies (26 causal, 22 review, 13 theoretical, 11 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 13 of 91 report an effect size · 91 claims rest on one study
+> **Evidence** · 114 claims (65 show a difference, 35 mixed, 11 no difference, 3 unmarked) · 94 studies (27 causal, 22 review, 13 theoretical, 11 associational, 8 quant-synthesis, 8 qualitative, 5 design), `q1`–`q4` · 13 of 94 report an effect size · 99 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -153,6 +153,14 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Text cohesion interacts with background knowledge: low-knowledge readers benefit from high cohesion, high-knowledge readers from low cohesion (reverse cohesion effect)](../claims/reverse-cohesion-effect-background-knowledge.md) [~M] — an instructional effect differs with it
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](../claims/guided-instruction-more-effective-than-unguided-for-novices.md) [+M] — an instructional effect differs with it
 - [Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data](../claims/context-learning-prior-knowledge-interaction-mixed.md) [~W] — an instructional effect differs with it
+- [Attending to a poem's title as a structural cue was evident in novice but not expert protocols, and the title jolted a novice into revising a misinterpretation.](../claims/title-as-cue-novice-poetry-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Children gained domain knowledge of variable effects indirectly from running experiments, with mixed condition differences on individual variables](../claims/domain-knowledge-gains-mixed-condition-effects.md) [~M] — instruction changes it
+- [Domain knowledge about the ramps variables increased although instruction targeted only the domain-general CVS strategy](../claims/domain-knowledge-gain-without-direct-instruction.md) [+M] — instruction changes it
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](../claims/expert-poetry-interpretive-strategies.md) [+M] — learners who differ on it differ in outcomes
+- [Experts expressed greater appreciation of the poems and their specific images, while novices very frequently expressed interpretive frustration and dissatisfaction.](../claims/poetry-comprehension-supports-appreciation.md) [+M] — learners who differ on it differ in outcomes
+- [Experts spent much longer on each poem and produced longer protocols than novices, because for experts finding a meaningful pattern was only the starting point for higher-level analysis.](../claims/poetry-experts-longer-protocols-than-novices.md) [+M] — learners who differ on it differ in outcomes
+- [In reading textually constrained period poetry, experts' organized domain knowledge (schemata) is the major factor differentiating them from novices, enabling allusion, contextualization and anticipation.](../claims/poetry-experts-schemata-allusion-contextualization-anticipation.md) [+M] — learners who differ on it differ in outcomes
+- [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](../claims/novices-internalized-poetry-discourse-conventions.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

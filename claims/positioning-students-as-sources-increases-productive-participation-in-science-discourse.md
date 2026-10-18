@@ -55,3 +55,4 @@ The authors are explicit that the co-variation between student-resource invocati
 - [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - Outdoor learning activities with Elders increased participation among children who rarely spoke or answered questions in class — related
+- [Translanguaging practices briefly afforded multilingual participation, but this positioning did not endure across the unit](translanguaging-afforded-participation-not-enduring.md) — related

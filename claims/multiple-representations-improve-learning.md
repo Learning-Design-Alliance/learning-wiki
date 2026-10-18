@@ -110,3 +110,5 @@ This review addresses the "representation dilemma": students often must learn un
 - [Substantial existing research addresses the effectiveness of many types and formats of peer tutoring in colleges and universities](peer-tutoring-effectiveness-research-base.md) — related
 - [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](pf-greater-representation-flexibility-graphical.md) — related
 - [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — related
+- [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](coordination-of-two-representations-correctless.md) — related
+- [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related

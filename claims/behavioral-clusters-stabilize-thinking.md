@@ -48,3 +48,4 @@ Participation-based video analysis in Section 4.B.1 of three behavioral clusters
 - [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — related
 - Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
+- [Shifts from the blue to the green behavioral cluster correspond to shifts from completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — a narrower finding that bears on this claim

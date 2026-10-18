@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (13 for, 2 mixed) · 20 studies (10 causal, 5 quant-synthesis, 4 review, 1 qualitative), `q2`–`q4` · 9 of 20 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (14 for, 2 mixed) · 21 studies (10 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 21 report an effect size · 12 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -51,6 +51,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
 - [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](../claims/animations-pacify-learners-navigation-imbalance.md) [~W]
+- [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](../claims/eye-transitions-between-representations.md) [+W] — attached 2026-10-18 from Mike Stieff et al. (2011), which proposed "Multi-representational molecular mechanics Flash animation with model, general equation, numerical equation, and graph"; tests this page's relationship.
 
 ## The evidence by question
 

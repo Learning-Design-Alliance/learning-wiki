@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1716 entries** · 0 stable · 1716 in review · 0 drafts
+**1720 entries** · 0 stable · 1720 in review · 0 drafts
 
 ---
 
@@ -709,6 +709,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Imagine Language & Literacy](imagine-language-literacy.md) - Imagine Language & Literacy is Imagine Learning’s web-based adaptive supplemental literacy program for students from pre-kindergarten through sixth grade.
 * [Imagine Math](imagine-math.md) - Imagine Math is Imagine Learning's adaptive digital supplemental mathematics learning platform for Pre-Kindergarten through Geometry, offering scaffolded instruction and on-demand support from certified teachers.
 * [Imagine Math Facts](imagine-math-facts.md) - Imagine Learning's Imagine Math Facts is a digital 3D game-based program for practicing addition, subtraction, multiplication, and division to build arithmetic fluency and automaticity.
+* [IMPROV framework](improv-framework.md) - Chen's framework guides learning-science researchers, designers, educators, and practitioners through six interconnected action areas for infrastructuring and sustaining educational innovations while building practitioner-led design capacity.
 * [Improving Chicago Schools: The Students Speak, 1997 and Improving Chicago Schools: The Teachers' Turn, 1997](improving-chicago-schools-the-students-speak-1997-and-improving-chicago-schools-the-teache.md) - A pair of student and teacher surveys administered by the Consortium on Chicago School Research to measure views of school environment, classroom learning, parent involvement, school governance, and teachers' professional work life.
 * [Improving Chicago's Schools biannual survey](improving-chicagos-schools-biannual-survey.md) - A biannual Consortium on Chicago School Research survey that collects students' reports on school experiences and educators' reports on instruction and working conditions across Chicago Public Schools.
 * [Indiana College Core](indiana-college-core.md) - The Indiana Commission for Higher Education's Indiana College Core programme enables high school students to earn transferable college credits, supported by the My College Core interactive planning tool and counselor guidance.
@@ -1576,6 +1577,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Terracotta](terracotta.md) - Terracotta is a software tool developed by the article's researchers that integrates with Canvas to automate consent, random assignment, data collection, and de-identified exports for embedded learning experiments.
 * [TerraFlops](terraflops.md) - TerraFlops is an open-source wrapper described by Eimler et al.
 * [Test of Spatial Assembly (TOSA)](test-of-spatial-assembly-tosa.md) - The TOSA is an individually administered 2-D and 3-D spatial assembly assessment developed by Verdine et al.
+* [Test of the rational-number central conceptual structure with capacity-graded item subsets](test-of-the-rational-number-central-conceptual-structure-with-capacity-graded-item-subsets.md) - A study-developed assessment by Morra et al.
 * [TFT partnership](tft-partnership.md) - A REL Midwest partnership framework that organizes professional-learning activities and expected administrator, teacher, and student outcomes across short-, medium-, and long-term horizons.
 * [The 10 Elements of Black Excellence](the-10-elements-of-black-excellence.md) - A community-informed framework developed by LBUSD's Center to organize its foundation, aims, and practical approaches for advancing Black excellence.
 * [The 3E framework](the-3e-framework.md) - The 3E framework is a rubric-based assessment developed by Masum Hasan et al.
@@ -1675,6 +1677,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Validated 192-respondent GenAI chatbot adoption dataset with 13 clustering variables](validated-192-respondent-genai-chatbot-adoption-dataset-with-13-clustering-variables.md) - A Qualtrics-based dataset of 192 higher-education students' and educators' GenAI chatbot perceptions and experiences, standardized across 13 variables for clustering into adoption personas.
 * [Validated AI-TPACK scale for mathematics teacher education students](validated-ai-tpack-scale-for-mathematics-teacher-education-students.md) - A 24-item, six-variable, seven-point Likert self-report scale developed by Meijuan Xie and colleagues to assess mathematics teacher education students' AI-TPACK competence, self-efficacy, and teaching beliefs.
+* [Validated measure of the whole-number central conceptual structure](validated-measure-of-the-whole-number-central-conceptual-structure.md) - A validated instrument developed by Morra et al.
 * [Valor Collegiate Academy Compass Model](valor-collegiate-academy-compass-model.md) - Valor Collegiate Academy's whole-school SEL and mental-health programme uses five interdependent domains, developmental badges, and weekly mentor-facilitated Compass Circles for students in Grades 5–12.
 * [Value-Added Assessment System for DC Schools and Teachers](value-added-assessment-system-for-dc-schools-and-teachers.md) - A district accountability assessment system prepared for and run by District of Columbia Public Schools to estimate school and teacher value added.
 * [Vantage](vantage.md) - Vantage is a virtual assessment platform developed by Globerson et al.
@@ -1724,6 +1727,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Wilson Reading System](wilson-reading-system.md) - The Wilson Reading System is a structured literacy curriculum developed by Wilson Language Training for teaching decoding, spelling, fluency, vocabulary, and related reading skills to learners with word-level reading difficulties.
 * [WindowDash](windowdash.md) - WindowDash is a synthetic food-delivery teaching-case dataset and accompanying instructional materials developed by Bang An et al.
 * [Wisconsin Information and Technology Literacy Standards](wisconsin-information-and-technology-literacy-standards.md) - A Wisconsin Department of Public Instruction framework defining information and technology literacy content standards, grade-banded performance standards, and proficiency indicators for local curriculum guidance.
+* [WISE (Web-based Inquiry Science Environment)](wise-web-based-inquiry-science-environment.md) - WISE is a web-based science-inquiry authoring and learning platform developed by the University of California, Berkeley, providing teacher tools for creating, managing, and assessing inquiry projects and student tools for structured collaborative investigation.
 * [WISE Agent](wise-agent.md) - WISE Agent (Writing Improvement and Smart Evaluation Agent) is an LLM-based writing-feedback tool developed by Qi Zhu et al.
 * [Wolfram Computable Document Format (CDF)](wolfram-computable-document-format-cdf.md) - Wolfram Research's software document format renders interactive Mathematica code as graphical, customizable documents in a standalone player or browser environment.
 * [Woodcock-Johnson Tests of Achievement—Applied Problems subtest](woodcock-johnson-tests-of-achievementapplied-problems-subtest.md) - A standardized achievement subtest measuring applied mathematical problem-solving and early numeracy, developed and published as part of the Woodcock-Johnson assessment system by Riverside Insights.

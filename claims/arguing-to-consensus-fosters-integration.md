@@ -42,3 +42,4 @@ The primer reports, citing Felton et al. (2015), that "arguing to reach consensu
 
 ## Related Claims
 - Students high in Need for Cognition are more persuaded by unintelligible messages than students low in Need for Cognition — related
+- [Students positioned as leaders thickened an “agents of change” identity by using surveys, data, and graphs to convince others, including teachers](agents-of-change-identity-thickened-through-data-mobilization.md) — related

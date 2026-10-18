@@ -49,3 +49,4 @@ Experimental study in which third-grade children (N = 57; 52 completing all phas
 - [Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs](phase4-truncation-mastered-variables.md) — related
 - [Preceding high guidance with low guidance conferred no advantage for children's CVS learning](no-advantage-low-before-high-guidance.md) — related
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
+- [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related
