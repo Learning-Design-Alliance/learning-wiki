@@ -70,3 +70,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
 - [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — related
 - [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](no-group-differences-other-metacognition.md) — related
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related

@@ -57,3 +57,4 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [AI connectedness is psychologically real but ethically asymmetric, carrying conditional rather than inherent risks](ai-connectedness-psychologically-real-ethically-asymmetric.md) — related
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](metacognition-gates-genai-use-quality.md) — related
+- [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related

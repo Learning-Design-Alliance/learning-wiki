@@ -12,7 +12,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (49 show a difference, 13 mixed, 8 no difference) · 54 studies (14 review, 11 associational, 10 quant-synthesis, 9 causal, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 18 of 54 report an effect size · 66 claims rest on one study
+> **Evidence** · 75 claims (53 show a difference, 14 mixed, 8 no difference) · 59 studies (15 review, 14 associational, 10 causal, 10 quant-synthesis, 5 design, 4 qualitative, 1 theoretical), `q1`–`q4` · 18 of 59 report an effect size · 71 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -110,6 +110,11 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Peer problems show a significant inverse correlation with reading comprehension (r = -.304)](../claims/peer-problems-inverse-correlation-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Social awareness had much greater effects on interaction and individual performance than knowledge awareness](../claims/social-awareness-stronger-effect-than-knowledge-awareness.md) [+M] — learners who differ on it differ in outcomes
+- [Combining tangible puppets as mediating manipulatives with 3D manipulable animations fostered immediate transfer of imaginary students' perspectives in microteaching role-plays](../claims/puppets-3d-manipulatives-perspective-taking-transfer.md) [+M] — instruction changes it
+- [Dyad pairs with one member high in both social and cognitive CPS skills show more actions and higher frequency of action transitions than other pairs](../claims/high-social-cognitive-cps-pairs-more-action-transitions.md) [+M] — learners who differ on it differ in outcomes
+- [Pairs with at least one member high in both social and cognitive CPS skills conducted more actions with more frequent and more dispersed action transitions than other pairs](../claims/high-social-cognitive-pairs-more-actions-and-transitions.md) [+M] — learners who differ on it differ in outcomes
+- [Qualitative analysis of viewpoint-switching scenes indicated the 3D perspective-taking manipulatives bolstered perspective-taking via the nonverbal LED-status representations of students' states](../claims/3d-viewpoint-switching-bolsters-nonverbal-perspective-taking.md) [+M] — instruction changes it
+- [Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies](../claims/social-skills-relate-evidence-elicitation-only.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

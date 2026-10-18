@@ -43,4 +43,4 @@ The article's own assessment of the state of GA accuracy research, stated in the
 
 
 ## Related Claims
--
+- [Schnaubert and Bodemer propose a six-part framework of defining aspects of group awareness for regulating joint activity](six-defining-aspects-group-awareness-framework.md) — related

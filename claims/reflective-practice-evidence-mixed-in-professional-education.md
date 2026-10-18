@@ -105,3 +105,4 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
 - [More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation](recipient-moderators-teachers-trainees-autonomy-orientation.md) — related
 - [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related
+- [After working with the script, students improved their individual task representation of high-level tasks and their strategy reflection](post-script-improvement-task-representation-strategy-reflection.md) — a narrower finding that bears on this claim

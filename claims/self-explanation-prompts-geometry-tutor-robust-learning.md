@@ -43,4 +43,4 @@ In vivo classroom experiment comparing an Explanation Condition of the Geometry 
 
 
 ## Related Claims
--
+- [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](worked-examples-improve-cdr-declarative-knowledge.md) — a narrower finding that bears on this claim

@@ -45,3 +45,4 @@ Quantitative observational analysis of three lab groups, coding inter-group inte
 ## Related Claims
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
+- [Review reports statistically significant growth effects over time in a semester-long graduate humanistic knowledge building community](editorial-kashi-hod-growth-effects-over-time.md) — related

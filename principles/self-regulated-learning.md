@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (36 for, 29 mixed, 3 against) · 54 studies (19 causal, 10 review, 9 quant-synthesis, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 15 of 54 report an effect size · 57 claims rest on one study
+> **Evidence** · 70 claims (38 for, 29 mixed, 3 against) · 55 studies (20 causal, 10 review, 9 quant-synthesis, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 16 of 55 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,8 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — attached 2026-10-17 from Mary C. English (2013), which proposed "Design PBL learning environments and teaching practices with intention to support students' self-regulated learning".
 - [Self-regulation skills are particularly needed when learning with minimally structured or adaptable collaboration scripts in CSCL](../claims/self-regulation-needed-minimally-structured-adaptable-scripts.md) [+W] — attached 2026-10-18 from Lenka Schnaubert · Freydis Vogel (2022), which proposed "Balance script-imposed self-regulation demands by integrating regulation activities into collaboration script scaffolds".
 - [With a scripted collaboration designed to elicit metacognition, deep-level metacognitive regulation stays rare and students mostly accept rather than co-construct or share regulation](../claims/deep-level-shared-regulation-rare-despite-script.md) [~W] — attached 2026-10-18 from Lenka Schnaubert · Freydis Vogel (2022), which proposed "Balance script-imposed self-regulation demands by integrating regulation activities into collaboration script scaffolds".
+- [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](../claims/srl-interventions-increased-chat-activity-participation.md) [+W] — attached 2026-10-18 from Psathas et al. (2023), which proposed "Deliver even low-effort, general weekly SRL interventions in MOOCs to scaffold participation, retention, and learning".
+- [Both SRL intervention modes produced higher course exit quiz scores than control in a programming MOOC](../claims/srl-interventions-raised-exit-quiz-scores-mooc.md) [+M] — attached 2026-10-18 from Psathas et al. (2023), which proposed "Deliver even low-effort, general weekly SRL interventions in MOOCs to scaffold participation, retention, and learning"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -63,3 +63,4 @@ From the analysis of Extract 2: the authors claim "the 3D model comes with certa
 
 ## Related Claims
 - [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
+- [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](students-attribute-problems-to-technology-not-own-work.md) — related

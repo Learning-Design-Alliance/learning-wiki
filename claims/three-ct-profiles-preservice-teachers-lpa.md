@@ -61,3 +61,4 @@ Latent profile analysis of survey data from 128 pre-service teachers identified 
 - [High school novices show large CT learning gains after using RoboBlockly Studio, improving Bebras performance from 1.28 to 2.88 of 4 tasks](roboblockly-studio-bebras-ct-gains.md) — related
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
 - [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](wow-thread-length-linear-with-contributors.md) — related
+- [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related

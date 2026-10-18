@@ -44,4 +44,4 @@ The article's literature review (summarized in its Fig. 3) of SNA studies of cen
 
 
 ## Related Claims
--
+- [Prior CBLEs for programming education have mostly supported SRL individually while disregarding the social context's influence on regulation](programming-cbles-focus-srl-disregarding-social-context.md) — related

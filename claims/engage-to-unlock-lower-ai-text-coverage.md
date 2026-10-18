@@ -45,3 +45,4 @@ Paste telemetry and sequence matching (n≥8 words) across the three AI-assisted
 ## Related Claims
 - [Essays written under Standard Chatbot sat closest to AI-only essays in semantic embedding space, and Engage-to-Unlock differed significantly from Standard Chatbot along PC1](standard-chatbot-essays-closest-to-ai-only-semantics.md) — related
 - [In this experiment, drafts—human-written or AI-generated—anchored the final essay, with AI-generated drafts revised somewhat more but underlying phrases largely retained across conditions.](drafts-anchor-final-essay-text.md) — related
+- [Text reproducers copied nearly all of their final text from ChatGPT with long verbatim sequences, while text integrators showed fragment-level micro-uptake](text-reproducers-near-verbatim-copying.md) — related

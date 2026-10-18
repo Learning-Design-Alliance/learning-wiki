@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (65 show a difference, 35 mixed, 11 no difference, 3 unmarked) · 94 studies (27 causal, 22 review, 13 theoretical, 11 associational, 8 quant-synthesis, 8 qualitative, 5 design), `q1`–`q4` · 13 of 94 report an effect size · 99 claims rest on one study
+> **Evidence** · 116 claims (67 show a difference, 35 mixed, 11 no difference, 3 unmarked) · 95 studies (27 causal, 22 review, 13 theoretical, 11 associational, 8 quant-synthesis, 8 qualitative, 6 design), `q1`–`q4` · 14 of 95 report an effect size · 101 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -161,6 +161,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Experts spent much longer on each poem and produced longer protocols than novices, because for experts finding a meaningful pattern was only the starting point for higher-level analysis.](../claims/poetry-experts-longer-protocols-than-novices.md) [+M] — learners who differ on it differ in outcomes
 - [In reading textually constrained period poetry, experts' organized domain knowledge (schemata) is the major factor differentiating them from novices, enabling allusion, contextualization and anticipation.](../claims/poetry-experts-schemata-allusion-contextualization-anticipation.md) [+M] — learners who differ on it differ in outcomes
 - [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](../claims/novices-internalized-poetry-discourse-conventions.md) [+M] — instruction changes it
+- [Grade 5 students in a KBM environment significantly increased their Earth Science domain knowledge from pretest to post-test](../claims/kbm-domain-knowledge-gains-earth-science.md) [+W] — instruction changes it
+- [Post-intervention domain knowledge correlated with final model scores and with higher-level systems thinking discourse (ST-3)](../claims/model-and-discourse-correlate-with-domain-knowledge.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

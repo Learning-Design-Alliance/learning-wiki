@@ -65,3 +65,4 @@ Same chi-squared mosaic-plot analysis, low-proficiency group pattern: significan
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
 - [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](strategy-specific-factor-effects.md) — related
+- [In CPS dialogues, low-achievers requested more support while high-achievers provided more support and reminders, though group differences were not statistically significant](cps-dialogue-support-patterns.md) — related

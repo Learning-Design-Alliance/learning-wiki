@@ -58,9 +58,11 @@ The strategy sequences individual retrieval before collaboration, which prevents
 5. Close with individual write-to-learn: each learner records what changed in their thinking and why, converting the social experience into personal encoding.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the closest structural relative; sticky-note synthesis extends the "pair" phase to a group artifact
 - [Jigsaw](jigsaw.md) — an alternative way to structure interdependence when the problem decomposes into parts
 - [Gallery Walk](gallery-walk.md) — a natural follow-on for critiquing groups' synthesized answers
+- [Use heterogeneous-pair CPS in which students first generate individual solutions then revise them after collaboration](heterogeneous-pair-cps-individual-then-revise.md)
 
 ## Examples
 - **Physics modeling instruction:** students predict the outcome of a demonstration on sticky notes before lab groups reconcile predictions against data — a productive-failure structure where initial wrong predictions sharpen the subsequent lesson [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]

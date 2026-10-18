@@ -13,7 +13,7 @@ generated:
 # Group Processing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Group processing is the fifth element of cooperative learning: after (or during) a collaborative task, the group explicitly reflects on its functioning — which member actions helped or hindered the work, and what to do differently next time. It converts collaboration from an assumed condition into an object of learning, giving teams feedback on both task performance and interpersonal effectiveness.
@@ -55,6 +55,7 @@ Processing improves both achievement and the durability of cooperative groups by
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Vocational students who received collaboration instruction plus an online joint-reflection tool showed significantly higher domain-knowledge learning gains than control students, while instruction alone did not differ from control](../claims/instruction-with-reflection-tool-improves-vocational-knowledge-gains.md) [+W] — attached 2026-10-18 from Elise H. Eshuis et al. (2019), which proposed "Collaboration reflection tool (feed up, feed back, feed forward)".
 - [Instruction plus the reflection tool improved vocational students' actual collaborative chat behavior compared with control, but instruction alone did not demonstrate any desired collaborative behaviors more often than control](../claims/instruction-with-tool-improved-actual-collaborative-behavior.md) [+W] — attached 2026-10-18 from Elise H. Eshuis et al. (2019), which proposed "Collaboration reflection tool (feed up, feed back, feed forward)"; tests this page's relationship.
+- [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](../claims/instruction-alone-limited-joint-reflection-tool-values.md) [+W] — attached 2026-10-18 from Carolyn P. Rosé et al. (2019), which proposed "Collaboration reflection tool with phase-differentiated Feed Up, Feed Back, and Feed Forward prompts"; tests this page's relationship.
 
 ## Related Elements
 - [Positive Interdependence](positive-interdependence.md) — processing evaluates whether the group is actually relying on one another

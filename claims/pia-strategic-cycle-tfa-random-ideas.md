@@ -71,3 +71,4 @@ Process maps revealed TFA groups engaged in repeated metacognitive self-loops (f
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
 - [Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes](fading-fewer-unproductive-learning-events.md) — related
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related
+- [Regulation in collaborative learning is layered: the portfolio of regulation layers needs itself to be regulated](layered-self-regulation-meta-metacognition.md) — a broader claim this one bears on

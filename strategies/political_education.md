@@ -68,6 +68,7 @@ Political education front-loads contextual and conceptual knowledge so that late
 - [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
 - [Use empathy interviews with students to identify and address systemic inequities in computing participation](empathy-interviews-inclusive-computing-pathways.md)
 - [Use an \"equity pause\" to infuse equity consciousness into continuous improvement team processes](equity-pause-strategy.md)
+- [Pursue two future research directions in XR learning: studying learning designers' situated practice and critically investigating power, politics, and ideology in XR platforms](future-directions-xr-design-practice-and-critical-xr.md)
 
 ## Examples
 - **YPAR disproportionality projects**: youth investigate racial disproportionality in school discipline by first studying its historical roots, policy context, and competing explanations before collecting their own data — ensuring findings are interpreted through a structural lens.

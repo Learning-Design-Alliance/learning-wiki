@@ -50,3 +50,4 @@ Student interviews and focus groups in the course case studies. "Online lab exer
 - Native versus non-native instructor status was a minor factor in students' perceived quality interaction — related
 - [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related
 - [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
+- [Feedback probing for deeper conceptual understanding is reported to be particularly effective in classwide peer feedback, though cognitively more demanding](deep-probing-feedback-especially-effective.md) — related

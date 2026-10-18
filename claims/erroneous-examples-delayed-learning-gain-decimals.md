@@ -51,3 +51,4 @@ Randomized experiment with 390 sixth-grade students (188 ErrEx, 202 PS) using we
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — a broader claim this one bears on
 - [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — reports the opposite
+- [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](worked-examples-no-improvement-knowledge-application.md) — related

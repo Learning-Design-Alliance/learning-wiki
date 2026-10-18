@@ -43,6 +43,7 @@ The authors recommend starting from known feedback challenges and asking what ro
 - [Use automated collaboration assessments as scaffolds for reflection rather than ground truth](collaboration-assessments-as-reflection-scaffolds.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
+- [Use longitudinal role dynamics to inform group formation, role assignment, and targeted support in collaborative learning](role-dynamics-inform-collaborative-design.md)
 
 ## Examples
 -

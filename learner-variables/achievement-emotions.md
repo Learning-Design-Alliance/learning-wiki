@@ -12,7 +12,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (37 show a difference, 8 mixed, 5 no difference, 2 unmarked) · 42 studies (13 causal, 8 associational, 7 review, 7 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 6 of 42 report an effect size · 49 claims rest on one study
+> **Evidence** · 57 claims (42 show a difference, 8 mixed, 5 no difference, 2 unmarked) · 45 studies (13 causal, 10 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 6 of 45 report an effect size · 54 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -86,6 +86,11 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Observed motivation indicators predict student-teacher conflict but not closeness: less persistence, greater task competence, and more interest/arousal predict greater conflict](../claims/observed-motivation-predicts-teacher-conflict-not-closeness.md) [+W] — learners who differ on it differ in outcomes
 - [Observed shame expressions during challenging tasks predict greater teacher-rated social competence, work-related skills, and academic skills](../claims/observed-shame-predicts-school-readiness.md) [+M] — learners who differ on it differ in outcomes
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+M] — learners who differ on it differ in outcomes
+- [Academically low-achieving students in Knowledge Building demonstrated high joy and low frustration and boredom, with emotions transitioning to similar states](../claims/low-achievers-emotions-knowledge-building.md) [+M] — instruction changes it
+- [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](../claims/co-answering-co-confusion-versus-lonely-confusion.md) [+M] — instruction changes it
+- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](../claims/sequential-patterns-curiosity-confusion-joy.md) [+M] — instruction changes it
+- [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](../claims/low-achievers-joy-predominance-knowledge-building.md) [+M] — instruction changes it
+- [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](../claims/emotion-transition-similar-emotions-lsa.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

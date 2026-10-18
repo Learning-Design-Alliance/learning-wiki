@@ -70,3 +70,4 @@ Contrast analyses on the same log-file time measure: "differences between adjace
 - [Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or reflection](web-based-srl-training-subscale-interactions-planning-metacognition-volition.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related

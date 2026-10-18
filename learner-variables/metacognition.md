@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (44 show a difference, 14 mixed, 6 no difference) · 50 studies (17 causal, 9 associational, 7 qualitative, 7 theoretical, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 13 of 50 report an effect size · 63 claims rest on one study
+> **Evidence** · 67 claims (46 show a difference, 15 mixed, 6 no difference) · 52 studies (18 causal, 9 associational, 8 theoretical, 7 qualitative, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 13 of 52 report an effect size · 66 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -105,6 +105,9 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](../claims/numerical-metacognition-predicts-math-achievement.md) [~M] — learners who differ on it differ in outcomes
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — learners who differ on it differ in outcomes
 - [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](../claims/context-learning-comprehension-interaction-marginal.md) [-M] — an instructional effect differs with it
+- [A collaborative script embedding solitary reading between planning and review episodes shaped a group's regulative activity, but only low-level regulation](../claims/script-planning-review-shaped-low-level-regulation.md) [+M] — instruction changes it
+- [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](../claims/accepted-interaction-dominant-co-construction-rare.md) [~M] — instruction changes it
+- [The 'Y-read?' collaboration script elicited mainly low-level metacognitive regulation during pre- and post-task discussions, with deep-level activities rare](../claims/collab-script-elicited-mostly-low-level-metacognitive-regulation.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

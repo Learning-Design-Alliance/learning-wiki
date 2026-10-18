@@ -46,3 +46,4 @@ Thematic analysis of postintervention open-ended responses (T1) and immediate na
 - [STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings](story-mine-feasible-acceptable-pilot.md) — related
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
 - [Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness](emotional-discomfort-medical-images-main-drawback.md) — related
+- [In CSCL written civic discussions, gaps exist between a composer's emotion labeling and others' emotion recognition](emotion-labeling-recognition-gap-digital-discussions.md) — related

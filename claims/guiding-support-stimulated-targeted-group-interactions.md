@@ -43,4 +43,5 @@ Log data from guiding-condition sessions showed 14 predefined messages posted to
 
 
 ## Related Claims
--
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — reports the opposite
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related

@@ -62,4 +62,4 @@ Editorial report of the study's qualitative component, which contrasted a low pe
 
 
 ## Related Claims
--
+- [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — related

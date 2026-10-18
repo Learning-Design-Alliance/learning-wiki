@@ -68,3 +68,4 @@ The review reports the Gruber et al. (2014) fMRI study in which subjects answere
 - [Dopamine neurons treat informational reward like primary reward, and OFC encodes information value separately from reward size](dopamine-and-ofc-encode-information-value.md) — related
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items](studying-high-curiosity-items-improves-recall.md) — a narrower finding that bears on this claim
+- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md) — related

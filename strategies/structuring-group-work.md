@@ -64,6 +64,7 @@ Group work improves outcomes when it creates genuine interdependence and individ
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role rotation applied to reading comprehension dialogue
 - [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — the canonical interdependence structure
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
+- [Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration](rotated-role-interdependency-scripting-strategy.md)
 
 ## Examples
 - **Jigsaw classroom (Aronson)** — students become experts on one segment in "expert groups," then teach it in mixed "jigsaw groups"; the structure makes each member's contribution indispensable. [https://www.jigsaw.org](https://www.jigsaw.org)

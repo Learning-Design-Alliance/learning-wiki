@@ -52,3 +52,4 @@ Longitudinal mediation analysis in the study of 467 preschoolers found that grow
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
 - [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related
+- [Gesture mediated collaborative learning in an AR-headset astronomy task, including exploration, orientation, sharing and synthesizing AR perspectives, and sharing symbolic conception](gesture-mediated-collaboration-ar-headsets-astronomy.md) — related

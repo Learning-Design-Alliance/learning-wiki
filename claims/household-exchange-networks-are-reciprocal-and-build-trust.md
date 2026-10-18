@@ -70,3 +70,4 @@ The digest, citing Moll and Greenberg (1990), reports this trust grew as partici
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
+- [Learning in virtual communities ranges across many settings, requiring connective ethnography and analysis at multiple units of analysis](virtual-community-learning-multiple-units-of-analysis.md) — related

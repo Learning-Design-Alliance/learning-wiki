@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 130 claims (93 show a difference, 25 mixed, 12 no difference) · 88 studies (33 associational, 18 causal, 14 review, 7 quant-synthesis, 7 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 25 of 88 report an effect size · 124 claims rest on one study
+> **Evidence** · 134 claims (97 show a difference, 25 mixed, 12 no difference) · 91 studies (35 associational, 18 causal, 14 review, 8 qualitative, 7 quant-synthesis, 5 theoretical, 4 design), `q1`–`q4` · 25 of 91 report an effect size · 128 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -169,6 +169,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](../claims/math-anxiety-performance-link-significant-grade-3.md) [+M] — learners who differ on it differ in outcomes
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](../claims/self-efficacy-and-test-anxiety-predict-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Academically low-achieving students in Knowledge Building demonstrated high joy and low frustration and boredom, with emotions transitioning to similar states](../claims/low-achievers-emotions-knowledge-building.md) [+M] — learners who differ on it differ in outcomes
+- [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](../claims/low-achievers-joy-predominance-knowledge-building.md) [+M] — learners who differ on it differ in outcomes
+- [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](../claims/emotion-transition-similar-emotions-lsa.md) [+M] — learners who differ on it differ in outcomes
+- [NGI functioned as a mechanism for emotional coordination, restoring individual members' affective states through shared laughter](../claims/ngi-emotional-coordination-shared-affect.md) [+M] — instruction changes it
 
 ## The evidence by question
 

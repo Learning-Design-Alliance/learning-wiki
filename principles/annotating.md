@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 5 mixed, 3 against) · 27 studies (12 causal, 6 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 27 report an effect size · 6 claims rest on one study
+> **Evidence** · 16 claims (7 for, 6 mixed, 3 against) · 28 studies (12 causal, 6 quant-synthesis, 6 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 28 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -86,6 +86,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](../claims/underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) [-W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Exercise caution when adding underlining and adjunct postquestions to text for young readers, since they may depress rather than support recall"; tests this page's relationship.
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](../claims/underlining-plus-postquestions-most-depress-detail-recall.md) [-W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Exercise caution when adding underlining and adjunct postquestions to text for young readers, since they may depress rather than support recall"; tests this page's relationship.
+- [Group-level annotation activity shows no significant association with verbal knowledge-construction frequency](../claims/annotation-frequency-uncoupled-verbal-discourse.md) [~W] — attached 2026-10-18 from Yiqiu Zhou et al. (2026), which proposed "Design CSCL environments that explicitly support timely re-annotation so annotations become dynamic resources rather than static artifacts".
 
 ## Objective and learner-valued goal
 

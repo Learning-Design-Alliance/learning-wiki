@@ -86,3 +86,4 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 - Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns — related
 - [The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding](assisting-self-explanation-prompt-effect.md) — related
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
+- [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](worked-examples-improve-cdr-declarative-knowledge.md) — related

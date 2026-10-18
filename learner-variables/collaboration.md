@@ -12,7 +12,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (25 show a difference, 5 mixed, 2 no difference) · 28 studies (8 qualitative, 6 review, 5 causal, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 2 of 28 report an effect size · 32 claims rest on one study
+> **Evidence** · 41 claims (33 show a difference, 5 mixed, 3 no difference) · 35 studies (9 causal, 9 qualitative, 7 review, 5 associational, 3 theoretical, 2 design), `q1`–`q3` · 3 of 35 report an effect size · 41 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -73,6 +73,15 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](../claims/teacher-level-collaboration-remained-low-activities-targeted-leaders.md) [-M] — instruction changes it
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](../claims/dr-outperforms-ci-task-performance.md) [+W] — instruction changes it
 - [Across the special issue, all four levels of coupling minds correlate with task performance](../claims/all-four-levels-coupling-correlate-task-performance.md) [+W] — learners who differ on it differ in outcomes
+- [A game-based collaboration script with assigned in-game roles shifted elementary students' attitudes towards collaboration](../claims/game-script-shifted-collaboration-attitudes.md) [+M] — instruction changes it
+- [Collaborative analytics-supported reflective assessment helped pre-service teachers develop collaborative inquiry competencies](../claims/collaborative-analytics-reflective-assessment-pst-competencies.md) [+M] — instruction changes it
+- [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](../claims/collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) [+M] — instruction changes it
+- [Dyad pairs with one member high in both social and cognitive CPS skills show more actions and higher frequency of action transitions than other pairs](../claims/high-social-cognitive-cps-pairs-more-action-transitions.md) [+M] — learners who differ on it differ in outcomes
+- [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](../claims/instruction-alone-limited-joint-reflection-tool-values.md) [+M] — instruction changes it
+- [Learners who reflected collaboratively on their prior collaboration gained more knowledge about effective collaboration than learners guided by an external collaboration script or unsupported learners](../claims/reflection-scaffold-beats-script-collaboration-knowledge.md) [+M] — instruction changes it
+- [Neither the external collaboration script nor the reflection scaffold increased the quality of interaction in the subsequent (testing-phase) collaboration](../claims/no-script-or-reflection-effect-on-interaction-quality.md) [-M] — instruction changes it
+- [Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn](../claims/modeling-outlasts-scripting-after-withdrawal.md) [+M] — instruction changes it
+- [In groups with pre-established positive collaborative relationships, NGI clusters aligned with high positive emotions and frequent group synchronisation during collaborative DGBL](../claims/ngi-clusters-align-with-flow-collaborative-dgbl.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

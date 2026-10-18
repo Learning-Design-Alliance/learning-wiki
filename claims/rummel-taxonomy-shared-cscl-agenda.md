@@ -43,4 +43,4 @@ The editorial reports associate editor Nikol Rummel's squib stance, in which she
 
 
 ## Related Claims
--
+- [Panel members framed the variety of CSCL definitions and theories as a strength representing the field's richness of perspectives](theory-diversity-as-strength-cross-fertilization.md) — related

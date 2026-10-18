@@ -55,3 +55,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Core to College network interactions were primarily information sharing and making connections between K–12 and higher education](core-to-college-interactions-primarily-information-sharing.md) — related
 - [Building educator capacity to use performance assessments in practice is a repeated finding for implementing performance assessments in accountability systems](educator-capacity-needed-for-performance-assessment-use.md) — related
+- [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](challenges-hinder-mutual-trust-shared-mental-models.md) — related

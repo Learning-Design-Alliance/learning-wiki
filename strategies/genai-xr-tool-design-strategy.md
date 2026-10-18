@@ -38,7 +38,8 @@ Based on student interviews, the authors recommend future tool designs that pres
 - learner agency and authorship in AI-assisted design
 
 ## Related Strategies
-- 
+
+- [Pursue two future research directions in XR learning: studying learning designers' situated practice and critically investigating power, politics, and ideology in XR platforms](future-directions-xr-design-practice-and-critical-xr.md)
 
 ## Examples
 -

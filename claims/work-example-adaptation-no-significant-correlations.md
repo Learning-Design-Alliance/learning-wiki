@@ -62,4 +62,4 @@ Experiment 2 correlation analyses between adaptation frequency and MAS measures 
 
 
 ## Related Claims
--
+- [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](learner-agency-adaptive-guidance-only-advanced-regulators.md) — related

@@ -47,3 +47,4 @@ Epistemic Network Analysis of reflection journals visualized on the ENA platform
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](high-ct-stronger-srl-cognitive-behaviors.md) — related
 - Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479) — related
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — related
+- [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](ena-high-learning-dense-reannotation-discourse-networks.md) — related

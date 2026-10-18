@@ -43,4 +43,4 @@ Kruskal-Wallis test on post-collaboration CPSE of 13 participants in three group
 
 
 ## Related Claims
--
+- [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — related

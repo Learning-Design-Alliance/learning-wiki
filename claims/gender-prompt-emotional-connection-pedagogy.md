@@ -51,3 +51,4 @@ Lexical comparison of female- versus male-prompted feedback for the same essays 
 - [Instructors use more first-person and second-person pronouns and more questions than LLMs in feedback comments](instructors-more-pronouns-and-questions.md) — related
 - [Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions](biased-llm-assistance-increases-agentic-gap-student-essays.md) — related
 - [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related
+- [The editorial reports epistemic stance as an integrated unit of analysis for online discussion, with learning manifested in evolving shifts of stance objects (Park et al.)](stance-unit-of-analysis-learning-stance-objects.md) — related

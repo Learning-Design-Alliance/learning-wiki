@@ -52,3 +52,4 @@ Interview findings: editing students finished early and had lighter loads, progr
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
+- [Hackathon teams face 16 general challenges across seven types that hamper teamwork](hackathon-teamwork-challenges-sixteen-general-seven-types.md) — related

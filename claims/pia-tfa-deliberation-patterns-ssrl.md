@@ -50,3 +50,5 @@ Agglomerative hierarchical clustering of 42 three-minute deliberation sequences 
 - [PIA and TFA clusters differ significantly in both deliberative and regulatory interaction proportions](pia-tfa-significant-differences-chi-square.md) — a narrower finding that bears on this claim
 - K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [Regulation in collaborative learning is layered: the portfolio of regulation layers needs itself to be regulated](layered-self-regulation-meta-metacognition.md) — related
+- [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related

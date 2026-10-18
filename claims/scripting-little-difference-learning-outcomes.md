@@ -43,4 +43,4 @@ The editorial reports, citing Haake and Pfister, a semester-long computer-scienc
 
 
 ## Related Claims
--
+- [Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn](modeling-outlasts-scripting-after-withdrawal.md) — related

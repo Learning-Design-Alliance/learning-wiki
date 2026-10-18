@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 11 mixed) · 18 studies (5 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 4 of 18 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (14 for, 11 mixed) · 19 studies (5 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](../claims/mead-education-as-mechanism-of-social-change.md) [+W] — Monroe's summary of Mead's 1943 article; background to the lateral-learning step, not a test of it.
 - [The combined condition had higher learning gains than individual-only and collaborative-only conditions, but only among 4th grade students](../claims/combined-condition-higher-gains-grade-four-restricted.md) [~W] — attached 2026-10-18 from Olsen et al. (2019), which proposed "Combine collaborative and individual learning within ITS-supported activities rather than choosing one or the other"; tests this page's relationship.
 - [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](../claims/combined-condition-fewer-errors-and-hints.md) [~W] — attached 2026-10-18 from Olsen et al. (2019), which proposed "Combine collaborative and individual learning within ITS-supported activities rather than choosing one or the other"; tests this page's relationship.
+- [Student learning activity combined domain-specific academic practices and generic skill practices, supported partly by teachers' scaffolding and partly by self-organized group work](../claims/combined-scaffolding-and-self-organized-group-work.md) [+W] — attached 2026-10-18 from Mørch et al. (2024), which proposed "Coordinate top-down instructional scaffolding with bottom-up creative, self-determined learning goals to balance creative and instructional learning goals".
 
 ## Objective and learner-valued goal
 

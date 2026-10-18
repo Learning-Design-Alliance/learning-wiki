@@ -43,4 +43,4 @@ Within the same six-teacher within-subjects quasi-experiment, ENA analysis of te
 
 
 ## Related Claims
--
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — related

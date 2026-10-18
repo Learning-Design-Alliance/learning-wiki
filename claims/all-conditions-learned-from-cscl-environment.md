@@ -43,4 +43,4 @@ Paired-samples t-tests comparing pre- and posttest domain knowledge (12 open-end
 
 
 ## Related Claims
--
+- [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — related

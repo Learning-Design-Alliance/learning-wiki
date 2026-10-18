@@ -47,3 +47,4 @@ Same randomized two-group SafeCracker experiment with 72 students. The worked ex
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Worked Examples Improve Problem Solving Strategy Transfer In A Puzzle Game](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md)
 - [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related
+- [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](worked-examples-no-improvement-knowledge-application.md) — related

@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (20 for, 13 mixed, 3 against) · 42 studies (12 causal, 8 review, 7 theoretical, 5 quant-synthesis, 4 qualitative, 3 associational, 3 design), `q1`–`q4` · 4 of 42 report an effect size · 30 claims rest on one study
+> **Evidence** · 37 claims (21 for, 13 mixed, 3 against) · 43 studies (12 causal, 8 review, 7 theoretical, 5 quant-synthesis, 5 qualitative, 3 associational, 3 design), `q1`–`q4` · 4 of 43 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,7 @@ Claims this page cited before it was rewritten as a conditional model. None test
 - [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](../claims/higher-passing-rates-did-not-lower-retention.md) [~W]
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](../claims/postpolicy-retention-effect-smaller-but-larger-impact.md) [~W]
 - [For children and adolescents with dyslexia, the silent reading deficit is as large as or larger than the oral reading deficit](../claims/dyslexia-silent-reading-deficit-as-large-or-larger.md) [+W] — attached 2026-10-17 from Madelon van den Boer et al. (2022), which proposed "Include silent reading in dyslexia diagnosis and treatment, especially for adolescents, alongside oral reading assessment".
+- [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](../claims/step-interview-surfaces-micro-micro-understanding.md) [+W] — attached 2026-10-18 from Xintian Tu et al. (2023), which proposed "Assess embodied learning with immersive, embodied assessments that mirror the interactions learners engage in while learning."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

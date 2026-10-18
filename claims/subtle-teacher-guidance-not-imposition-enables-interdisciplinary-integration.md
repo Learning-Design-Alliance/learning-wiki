@@ -62,3 +62,4 @@ The mechanism is illustrated through two carefully transcribed, representative e
 - A teacher can only describe what the teacher and pupils do when teaching occurs; what happens between them remains unknown — related
 - [Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12](teachers-key-role-secondary-writing-outcomes.md) — related
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
+- [After a dialogic-focused professional development intervention, mathematics teachers noticed student dialogue significantly more, in both attending (83 to 170 cases) and responding (24 to 71 cases)](pd-intervention-increases-teacher-dialogue-noticing.md) — related

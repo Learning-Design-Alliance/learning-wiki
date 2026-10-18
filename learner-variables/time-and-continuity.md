@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (63 show a difference, 23 mixed, 6 no difference) · 85 studies (32 causal, 17 associational, 16 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 85 report an effect size · 88 claims rest on one study
+> **Evidence** · 94 claims (64 show a difference, 24 mixed, 6 no difference) · 86 studies (32 causal, 17 associational, 16 review, 9 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 16 of 86 report an effect size · 90 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -148,6 +148,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](../claims/isi-teachers-stronger-classroom-management.md) [+M] — instruction changes it
 - [Preschoolers given a pedagogical demonstration of a toy function play for less time than children in interrupted, naive, or baseline conditions](../claims/pedagogical-demonstration-shortens-preschool-exploration-time.md) [+M] — instruction changes it
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](../claims/tier2-dosage-scheduling-mixed-findings.md) [~M] — learners who differ on it differ in outcomes
+- [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](../claims/claim-3d-modeling-task-halted-engineering-practices.md) [+W] — instruction changes it
+- [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](../claims/claim-teacher-visit-pattern-brief-with-phase-exceptions.md) [~W] — instruction changes it
 
 ## The evidence by question
 

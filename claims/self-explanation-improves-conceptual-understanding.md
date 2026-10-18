@@ -224,3 +224,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Low prior knowledge students learned most conceptual understanding from worked-out examples, and least from questions plus arguments](low-prior-knowledge-worked-examples-best-conceptual-understanding.md) — related
 - [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](question-asking-interventions-mixed-success.md) — a narrower finding that bears on this claim
 - [Students who collected more peers' ideas wrote poorer explanations, while generating own redundant ideas related to better explanations](idea-collection-direction-matuk-linn.md) — related
+- [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](worked-examples-improve-cdr-declarative-knowledge.md) — a narrower finding that bears on this claim

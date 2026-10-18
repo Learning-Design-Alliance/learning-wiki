@@ -12,7 +12,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (33 show a difference, 13 mixed, 9 no difference) · 47 studies (12 associational, 10 causal, 8 review, 6 quant-synthesis, 5 theoretical, 4 design, 2 qualitative), `q1`–`q3` · 9 of 47 report an effect size · 54 claims rest on one study
+> **Evidence** · 58 claims (36 show a difference, 13 mixed, 9 no difference) · 49 studies (12 associational, 10 causal, 9 review, 6 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 9 of 49 report an effect size · 57 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -95,6 +95,9 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills](../claims/mpathic-vr-nonverbal-osce-advantage.md) [+W] — instruction changes it
 - [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](../claims/mpathic-vr-osce-composite-transfer.md) [+W] — instruction changes it
 - [Simulation effects vary by complex skill: highest for technical performance, lowest for communication skills](../claims/simulation-effects-vary-by-complex-skill.md) [~M] — an instructional effect differs with it
+- [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](../claims/super-talk-multifaceted-understanding-cross-community.md) [+M] — instruction changes it
+- [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](../claims/fifth-graders-high-quality-super-notes-cross-classroom.md) [+M] — instruction changes it
+- [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](../claims/young-children-collaborative-gestures-mr-science.md) [+M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

@@ -43,4 +43,4 @@ Epistemic network analysis of coded teacher actions across six teachers' classro
 
 
 ## Related Claims
--
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — reports the opposite

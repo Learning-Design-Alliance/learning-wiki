@@ -43,4 +43,4 @@ The editorial reports Craig et al.'s in-depth process analysis, using Activity T
 
 
 ## Related Claims
--
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related

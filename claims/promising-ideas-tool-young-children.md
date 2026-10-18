@@ -43,4 +43,4 @@ Editorial summary of Chen, Scardamalia and Bereiter's article in this issue, des
 
 
 ## Related Claims
--
+- [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](kbm-three-mediating-processes.md) — related

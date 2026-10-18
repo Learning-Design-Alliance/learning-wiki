@@ -43,4 +43,4 @@ Authors' interpretation (type e) in the editorial's discussion of Ritella & Hakk
 
 
 ## Related Claims
--
+- [Four changes in CSCL over thirty years include mainstream collaborative pedagogies, collaboration technology becoming infrastructure, changed definitions of learning, and collaboration changing scale](four-changes-cscl-evolution.md) — related

@@ -43,4 +43,4 @@ In-depth qualitative analysis and descriptive statistics of interaction data and
 
 
 ## Related Claims
--
+- [Emergent group understanding is an empirical phenomenon arising from the interplay of a social object and a technology object, revealed by two subprocesses: spontaneous information provision and setting localized goals](emergent-group-understanding-phenomenon.md) — related

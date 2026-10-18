@@ -43,4 +43,4 @@ The editorial reports on the Asterhan and Schwarz study of four classes using an
 
 
 ## Related Claims
--
+- [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](students-attribute-problems-to-technology-not-own-work.md) — related

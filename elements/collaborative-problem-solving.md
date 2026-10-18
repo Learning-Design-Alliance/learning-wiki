@@ -81,9 +81,11 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Case-Based Learning](../patterns/case-based-learning.md) — group analysis of cases is a canonical CPS format
 
 ## Examples
+
 - **[PISA Collaborative Problem-Solving Assessment](https://www.oecd.org/pisa/)** — OECD's 2015 assessment measured CPS as a distinct competency through chat-based simulated group tasks; its framework is the standard reference for defining the skill
 - **Problem-based learning in medical education (e.g., [Maastricht University's PBL curriculum](https://www.maastrichtuniversity.nl/education/problem-based-learning))** — small tutorial groups analyze patient cases, with a tutor facilitating rather than lecturing
 - **[PBL Works (Buck Institute)](https://www.pblworks.org)** — published project-based learning curricula in which teams solve extended real-world problems with defined roles and public products
+- [Use heterogeneous-pair CPS in which students first generate individual solutions then revise them after collaboration](../strategies/heterogeneous-pair-cps-individual-then-revise.md)
 
 ## Key Sources
 - Okada, T., & Simon, H. A. (1997). Collaborative discovery in a scientific domain. *Cognitive Science, 21*(2), 109–146. [doi:10.1207/s15516709cog2102_1](https://doi.org/10.1207/s15516709cog2102_1)
