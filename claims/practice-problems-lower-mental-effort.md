@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-021-09559-0"
     title: "Lara M. van Peppen, Peter P. J. L. Verkoeijen, Anita E. G. Heijltjes, Eva M. Janssen, Tamara van Gog. (2021). Enhancing students' critical thinking skills: is comparing correct and erroneous examples beneficial? Instructional Science. https://doi.org/10.1007/s11251-021-09559-0"
     author: Lara M. van Peppen, Peter P. J. L. Verkoeijen, Anita E. G. Heijltjes, Eva M. Janssen, Tamara van Gog
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Practice-problem participants invested significantly less effort (M = 4.28) than contrasting-examples (M = 5.08) or erroneous-examples (M = 5.17) participants. [→ Lara M. van Peppen 2021](#lara-m-van-peppen-2021)
@@ -26,7 +33,7 @@ sources:
 
 Lara M. van Peppen, Peter P. J. L. Verkoeijen, Anita E. G. Heijltjes, Eva M. Janssen, Tamara van Gog. (2021). Enhancing students' critical thinking skills: is comparing correct and erroneous examples beneficial? Instructional Science. https://doi.org/10.1007/s11251-021-09559-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 One-way ANOVA on 9-point mental-effort ratings during practice printed a main effect of Practice Type, F(3,168) = 4.37, p = .005, ηp² = .07, with Tukey post hoc contrasts as quoted; no other condition differences were significant.
 

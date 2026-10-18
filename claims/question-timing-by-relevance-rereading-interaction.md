@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09592-7"
     title: "Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7"
     author: Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Question timing interacts with relevance of rereading: inserted-question students reread more relevant and less non-relevant information than post-reading students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The condition × relevance-of-rereading interaction shows inserted-condition students allocated search time toward question-relevant information while post-reading students spent more time on non-relevant information. [→ Alba Rubio 2022](#alba-rubio-2022)
@@ -26,7 +33,7 @@ sources:
 
 Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Robust two-way mixed ANOVA with relevance of rereading as within-subjects variable and condition as between-subjects variable in the randomized experiment. The interaction was significant, "F(1, 32.57) = 15.49, p < .001", with opposite rereading patterns in the two conditions; no effect size was printed.
 

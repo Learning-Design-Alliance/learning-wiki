@@ -14,6 +14,9 @@ sources:
 
 # Structure varied exercises so that repetitive practice supports sense-making
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The paper points to structuring varied exercises as a way to embed discovery opportunities in practice, citing work on variation in mathematics education: “For one comparison, see Watson and Mason (2006), on the pedagogical benefit of structuring varied exercises in mathematics education.” The strategy is to design exercise sequences whose variation invites learners to see exercises as instances of a single object.
 
@@ -32,7 +35,7 @@ The paper points to structuring varied exercises as a way to embed discovery opp
 - Procedural fluency combined with sense-making during practice
 
 ### Affordances
-- [Bernstein Repetition Without Repetition](../theories/bernstein-repetition-without-repetition.md)
+- Bernstein Repetition Without Repetition
 
 ## Related Strategies
 - 

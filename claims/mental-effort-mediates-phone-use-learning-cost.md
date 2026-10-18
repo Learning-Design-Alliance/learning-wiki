@@ -12,14 +12,25 @@ sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
     title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
-    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
   - id: liao-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
     title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
-    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Phone-use frequency and duration increase phone-use mental effort, which negatively affects learning performance, mediating the behavior–performance link
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Both PUF (β = 0.528) and APUD (β = 0.521) positively predicted PUME, and PUME negatively predicted learning performance (β = −0.337, p = .009). [→ Liao 2026](#liao-2026)
@@ -31,7 +42,7 @@ sources:
 
 Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Base PLS-SEM structural paths (N = 84); the quote shows both phone-use behaviors raised mental effort and mental effort lowered quiz performance. f² values for the behavior→effort paths were large (0.572 and 0.557).
 
@@ -41,7 +52,7 @@ Base PLS-SEM structural paths (N = 84); the quote shows both phone-use behaviors
 
 Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Bootstrapped mediation tests (5,000 resamples) in the base model; direct behavior→performance paths were not significant, which the authors classify as indirect-only mediation.
 

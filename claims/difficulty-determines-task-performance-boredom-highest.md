@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09502-9"
     title: "Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9"
     author: Melina Klepsch, Tina Seufert
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Task difficulty strongly determined task performance: boredom conditions scored highest and overload conditions lowest in both ICL studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` In the Tetris study, the boredom condition scored significantly higher on task performance than the flow and overload conditions. [→ Melina Klepsch 2020](#melina-klepsch-2020)
@@ -26,7 +33,7 @@ sources:
 
 Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Task performance in the Tetris study (N = 62), calculated from log files as finished lines relative to received blocks. The boredom condition outperformed both other conditions, with a main effect of F(2,59) = 86.04, p < 0.001, η2 = 0.75.
 

@@ -12,14 +12,25 @@ sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
     title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
-    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: liao-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
     title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
-    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Notification-hidden students showed longer average phone-use duration and no performance difference versus notification-revealed students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The NH group showed longer APUD than the NR group, but the difference was not significant (d = −0.290, p = .095). [→ Liao 2026](#liao-2026)
@@ -31,7 +42,7 @@ sources:
 
 Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Welch-corrected t-test on average phone-use duration in the same two-group classroom experiment; the "difference was not significant" despite the NH group's longer mean duration (40.574 vs 25.764 s in Table 1).
 
@@ -41,7 +52,7 @@ Welch-corrected t-test on average phone-use duration in the same two-group class
 
 Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Welch-corrected t-test on the 16-item quiz in the same experiment found "a significant difference" was absent between groups; equivalence was not tested. Means were 8.071 (NR) and 8.667 (NH).
 

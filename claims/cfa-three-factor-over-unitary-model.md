@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09502-9"
     title: "Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9"
     author: Melina Klepsch, Tina Seufert
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # A confirmatory factor analysis across all six studies favored the three-factor model over a unitary-factor model of cognitive load
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The three-factor model representing three inter-related types of cognitive load fit better than a one-unitary-factor model, though its fit was not perfect. [→ Melina Klepsch 2020](#melina-klepsch-2020)
@@ -26,7 +33,7 @@ sources:
 
 Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Confirmatory factor analysis over all participants of all six studies, comparing a unitary-factor model with a three-factor model using χ2, TLI, CFI, RMSEA, and AIC. The article reports Model 2's fit was not perfect (TLI below 0.95, RMSEA above 0.05) but AIC strongly favored it (95.84 vs 306.10).
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Declarative knowledge of movement features was not significantly related to actual improvements in physical execution of those features
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Logistic regression showed no significant relationship between declarative knowledge of a feature and positive pre-to-post change in its execution, for any of the five features. [→ Christian Leukel 2025](#christian-leukel-2025)
@@ -26,7 +33,7 @@ sources:
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Logistic regressions tested whether declarative knowledge of each feature predicted positive pre-to-post change in its execution; none improved significantly over the null model (e.g., javelin orientation p =.09; arm positioning p =.18; impulse step p =.64; bracing step p =.15; elbow positioning p =.33).
 

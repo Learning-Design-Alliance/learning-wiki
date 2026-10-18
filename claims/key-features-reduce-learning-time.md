@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09627-7"
     title: "Julia Kienzler, Thamar Voss, Jörg Wittwer. (2023). Student teachers' conceptual knowledge of operant conditioning: How can case comparison support knowledge acquisition? Instructional Science. https://doi.org/10.1007/s11251-023-09627-7"
     author: Julia Kienzler, Thamar Voss, Jörg Wittwer
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Providing key features during case comparison reduces learning time
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Groups with key features needed less learning time (M = 12.16 min) than groups without (M = 16.88 min), η² = 0.30. [→ Julia Kienzler 2023](#julia-kienzler-2023)
@@ -26,7 +33,7 @@ sources:
 
 Julia Kienzler, Thamar Voss, Jörg Wittwer. (2023). Student teachers' conceptual knowledge of operant conditioning: How can case comparison support knowledge acquisition? Instructional Science. https://doi.org/10.1007/s11251-023-09627-7
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 ANCOVA on self-noted learning time in the randomized experiment with 181 student teachers. The printed effect size was η² = 0.30, showing more-guided comparison was more efficient.
 

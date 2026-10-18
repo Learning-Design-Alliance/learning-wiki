@@ -13,9 +13,16 @@ sources:
     resource: "http://hdl.handle.net/10459.1/48328"
     title: "Angel Blanch. (2015). Evaluating fluid and crystallized abilities in the performance of an educational process. Springer Verlag. http://hdl.handle.net/10459.1/48328"
     author: Angel Blanch
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The CFA of the Gf–Gc model fit acceptably, with significant loadings for all observed measures and a significant factor correlation of .33. [→ Angel Blanch 2015](#angel-blanch-2015)
@@ -26,7 +33,7 @@ sources:
 
 Angel Blanch. (2015). Evaluating fluid and crystallized abilities in the performance of an educational process. Springer Verlag. http://hdl.handle.net/10459.1/48328
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 First-stage confirmatory factor analysis on the BURN11 correlation matrix, with Gf defined by Series, Matrices, Card Rotations, and Map Planning, and Gc by five CTBS tests, Vocabulary II, and Division. The article reports a significant .33 (p < .01) Gf–Gc correlation.
 

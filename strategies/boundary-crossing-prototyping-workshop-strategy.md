@@ -16,6 +16,9 @@ sources:
 
 # Boundary crossing workshop with prototyping exercise and broker facilitation for introducing design principles to design teams
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 A workshop intervention in which a researcher-broker introduces a set of design principles to a design team, followed by a prototyping exercise: participants build a physical prototype of their current or future HLC from handicraft materials, mark strong points with 'diamonds' and challenges with 'band-aids', then interview each other and cluster sticky notes around the design principles. The article reports the workshop "provided an opportunity to engage in conversation about the HLC" and generated ideas for practical development.
 
@@ -36,7 +39,7 @@ A workshop intervention in which a researcher-broker introduces a set of design 
 - generating ideas for context-appropriate features and building a shared image of the HLC
 
 ### Affordances
-- [Design Principles As Boundary Objects](../theories/design-principles-as-boundary-objects.md)
+- [Design Principles As Boundary Objects](../theories/boundary-crossing-learning.md)
 
 ## Related Strategies
 - 

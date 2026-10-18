@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09502-9"
     title: "Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9"
     author: Melina Klepsch, Tina Seufert
+    q: 2
+    i: 3
+    kind: causal
+    rigour: "?"
   - id: melina-klepsch-2020-2
     resource: "https://doi.org/10.1007/s11251-020-09502-9"
     title: "Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9"
     author: Melina Klepsch, Tina Seufert
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Variations in material design are reflected in the extraneous cognitive load scale: worked examples and integrated formats lower ECL
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` In the mathematics study, the worked examples group reported lower ECL than the problem-solving group. [→ Melina Klepsch 2020](#melina-klepsch-2020)
@@ -31,7 +42,7 @@ sources:
 
 Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9
 
-`q2 · i3`
+`q2 · i3` · `causal · r?`
 
 Between-subject experiment (N = 40) comparing problem solving versus worked examples in mathematics learning material. The article reports the worked examples group "reported to be lower" ECL, with η2 = 0.19.
 
@@ -41,7 +52,7 @@ Between-subject experiment (N = 40) comparing problem solving versus worked exam
 
 Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Between-subject experiment (N = 51) comparing split-source versus integrated text-picture formats for biology material about the kidney, with age as covariate. The integrated group reported significantly lower ECL, η2 = 0.17.
 

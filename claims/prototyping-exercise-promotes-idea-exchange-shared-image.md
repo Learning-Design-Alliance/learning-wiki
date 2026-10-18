@@ -12,10 +12,17 @@ sources:
   - id: cremers-2016
     resource: "https://doi.org/10.1007/s11251-016-9398-5"
     title: "Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M. (2016). Utilization of design principles for hybrid learning configurations by interprofessional design teams. Instructional Science. https://doi.org/10.1007/s11251-016-9398-5"
-    author: "Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M"
+    author: "Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported that the prototyping exercise promoted exchange of ideas about further HLC development, and the workshop enhanced a shared image of the HLC. [→ Cremers 2016](#cremers-2016)
@@ -26,7 +33,7 @@ sources:
 
 Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M. (2016). Utilization of design principles for hybrid learning configurations by interprofessional design teams. Instructional Science. https://doi.org/10.1007/s11251-016-9398-5
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Evaluation of the workshop form across all four cases. Building physical prototypes with handicraft materials, marked with 'diamonds' and 'band-aids', led to lively metaphor-rich conversations; every participant eventually joined prototype building despite initial reluctance.
 

@@ -16,6 +16,9 @@ sources:
 
 # Give learners explicit guidance in when and how to pause and scroll back while watching instructional videos
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 This strategy embeds explicit strategy guidance into video-based learning: before or during viewing, learners are taught when and how to use the pause button and the timeline scrollbar to manage transient spoken and visual information. The article implemented it by "providing learners with explicit guidance in when and how to use pausing and timeline scrollbars while watching instructional videos," and the guided group paused and scrolled back more and scored higher than both unguided control groups.
 
@@ -35,7 +38,7 @@ This strategy embeds explicit strategy guidance into video-based learning: befor
 - processing and integrating transient information in instructional videos
 
 ### Affordances
-- [Clt Transient Information Strategies Video](../theories/clt-transient-information-strategies-video.md)
+- [Clt Transient Information Strategies Video](../theories/cognitive-load-theory.md)
 
 ## Related Strategies
 - 

@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (28 for, 21 mixed, 3 against, 5 unmarked) · 62 studies (21 review, 16 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 62 report an effect size · 52 claims rest on one study
+> **Evidence** · 58 claims (28 for, 22 mixed, 3 against, 5 unmarked) · 63 studies (21 review, 17 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 63 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims this page cited that were re-read against the model on 2026-10-15 and lef
 - [Faculty across departments describe the same ideal learning style for students](../claims/faculty-uniform-ideal-learning-style.md) [+W]
 - [Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization](../claims/student-learning-style-department-differences.md) [+W]
 - [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](../claims/cultural-background-influences-learning-style-measurement.md) [~W]
+- [Model gender and observer gender do not affect learning outcomes or near transfer from video modeling examples](../claims/no-gender-effects-learning-transfer-video-modeling.md) [~W] — attached 2026-10-18 from Vincent Hoogerheide et al. (2016), which proposed "When designing video modeling examples for tasks stereotypically associated with males, create both a male and a female model version with identical content and let learners choose or allocate adaptively"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

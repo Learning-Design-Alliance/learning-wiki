@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
   - id: christian-leukel-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Working memory test results did not predict changes in movement features and did not moderate performance gains between groups. [→ Christian Leukel 2025](#christian-leukel-2025)
@@ -31,7 +42,7 @@ sources:
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Multiple linear regression on PS-I and I-PS data addressing hypothesis 2 found working memory scores did not predict feature gains, nor moderate group differences (remembered digits: β = 0.07, p =.86; equation judgments: β = −0.58, p =.16).
 
@@ -41,7 +52,7 @@ Multiple linear regression on PS-I and I-PS data addressing hypothesis 2 found w
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Linear regression found digit recall predicted declarative knowledge of features three days after instruction (p <.01), while equation-correctness judgments did not (p =.37); the article concludes digit recall served as a measure of retained knowledge.
 

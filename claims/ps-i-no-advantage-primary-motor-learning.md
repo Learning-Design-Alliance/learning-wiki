@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
   - id: christian-leukel-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` PS-I did not result in greater improvement of throwing distance compared to I-PS in primary school children. [→ Christian Leukel 2025](#christian-leukel-2025)
@@ -31,7 +42,7 @@ sources:
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Repeated measures ANCOVA (ball shooting distance as covariate) comparing PS-I and I-PS fourth-graders found no significant TIME x GROUP interaction for throwing distance (F(1,32) = 0.25, p =.62); Bayesian analysis gave "moderate evidence for the null-effect" (BF01 = 3).
 
@@ -41,7 +52,7 @@ Repeated measures ANCOVA (ball shooting distance as covariate) comparing PS-I an
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Repeated measures ANOVA on movement features in PS-I vs I-PS showed a significant TIME effect (ηp2 = 0.15) but no TIME x GROUP interaction (p =.94); "Contrary to hypothesis 1b, PS-I did not result in greater performance gains compared to I-PS."
 

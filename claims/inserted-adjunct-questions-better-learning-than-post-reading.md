@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09592-7"
     title: "Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7"
     author: Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` First-year college students who answered questions inserted after question-relevant segments scored higher on a transfer test five days later than students who answered the same questions after reading the whole text. [→ Alba Rubio 2022](#alba-rubio-2022)
@@ -26,7 +33,7 @@ sources:
 
 Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Randomized between-subjects experiment with 76 freshmen (39 inserted, 37 post-reading) studying two science texts with ten adjunct questions, tested five days later on a 10-item near-transfer test. The inserted condition outperformed the post-reading condition with a medium effect size, d = − 0.59 ("t(74) = − 2.59, p = .011, d = − 0.59").
 

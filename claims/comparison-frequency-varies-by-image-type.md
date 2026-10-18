@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09599-0"
     title: "Benjamin D. Jee, Bryan J. Matlen, Monica Greenlaw, Nina Simms, Dedre Gentner. (2022). Spatial supports for comparison in educational science images. Instructional Science. https://doi.org/10.1007/s11251-022-09599-0"
     author: Benjamin D. Jee, Bryan J. Matlen, Monica Greenlaw, Nina Simms, Dedre Gentner
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Comparison prompts are strongly concentrated in process diagrams (93%) and rare in photos (20%)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The relationship between image type and comparison frequency was strong: 93% of process diagrams prompted comparison versus only 20% of photos. [→ Benjamin D. Jee 2022](#benjamin-d-jee-2022)
@@ -26,7 +33,7 @@ sources:
 
 Benjamin D. Jee, Bryan J. Matlen, Monica Greenlaw, Nina Simms, Dedre Gentner. (2022). Spatial supports for comparison in educational science images. Instructional Science. https://doi.org/10.1007/s11251-022-09599-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Chi-square analysis of the same 313-image textbook corpus relating image type (photo, structure diagram, process diagram, chart, graph) to whether comparison was prompted. The article reports "Comparison was invoked for 93% of the process diagrams" while "only 20% of photos" involved comparison, χ2(4, N = 313) = 79.03, p < .001.
 

@@ -12,14 +12,25 @@ sources:
   - id: mulders-2025
     resource: "https://doi.org/10.1007/s11251-024-09697-1"
     title: "Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1"
-    author: "Mulders, M., Träg, K. H., & Kirner, L"
+    author: "Mulders, M., Träg, K. H., & Kirner, L."
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 1
   - id: mulders-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09697-1"
     title: "Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1"
-    author: "Mulders, M., Träg, K. H., & Kirner, L"
+    author: "Mulders, M., Träg, K. H., & Kirner, L."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` The VR application did not influence interest (d = 0.03), nor did the traditional-lesson control group (d = 0.25, not significant). [→ Mulders 2025](#mulders-2025)
@@ -31,7 +42,7 @@ sources:
 
 Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1
 
-`q3 · i0`
+`q3 · i0` · `causal · r1`
 
 Directional dependent-samples t-tests on the two-item interest scale in both conditions found no significant change; the VR effect was "t(107) = − 0.36; p = 1; d = 0.03". Hypothesis 2a was rejected.
 
@@ -41,7 +52,7 @@ Directional dependent-samples t-tests on the two-item interest scale in both con
 
 Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Exploratory subgroup breakdown (Benjamini–Hochberg corrected) over six school-type-by-condition groups; the only significant interest gain was the academic-track control group, described as "a medium effect". No effect size is printed in this sentence, so no magnitude is asserted.
 

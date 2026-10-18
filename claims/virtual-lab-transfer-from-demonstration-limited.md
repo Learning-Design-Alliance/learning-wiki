@@ -12,10 +12,17 @@ sources:
   - id: liu-2022
     resource: "https://doi.org/10.1007/s11251-021-09571-4"
     title: "Liu, C.-C., Wen, C.-T., Chang, H.-Y., Chang, M.-H., Lai, P.-H., Fan Chiang, S.-H., Yang, C.-W., & Hwang, F.-K. (2022). Augmenting the effect of virtual labs with \"teacher demonstration\" and \"student critique\" instructional designs to scaffold the development of scientific literacy. Instructional Science, 50, 303-333. https://doi.org/10.1007/s11251-021-09571-4"
-    author: "Liu, C.-C., Wen, C.-T., Chang, H.-Y., Chang, M.-H., Lai, P.-H., Fan Chiang, S.-H., Yang, C.-W., & Hwang, F.-K"
+    author: "Liu, C.-C., Wen, C.-T., Chang, H.-Y., Chang, M.-H., Lai, P.-H., Fan Chiang, S.-H., Yang, C.-W., & Hwang, F.-K."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The study found a limitation of virtual labs in helping students transfer learning from the teacher's demonstration to new inquiry contexts. [→ Liu 2022](#liu-2022)
@@ -26,7 +33,7 @@ sources:
 
 Liu, C.-C., Wen, C.-T., Chang, H.-Y., Chang, M.-H., Lai, P.-H., Fan Chiang, S.-H., Yang, C.-W., & Hwang, F.-K. (2022). Augmenting the effect of virtual labs with "teacher demonstration" and "student critique" instructional designs to scaffold the development of scientific literacy. Instructional Science, 50, 303-333. https://doi.org/10.1007/s11251-021-09571-4
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Reported finding from the study of 50 middle school students: the authors state they found "a limitation of the use of virtual labs" for transfer from teacher demonstration to new inquiry contexts. No effect size or statistic for this transfer finding is printed in the supplied text.
 

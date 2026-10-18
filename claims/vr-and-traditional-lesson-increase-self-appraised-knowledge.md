@@ -12,14 +12,25 @@ sources:
   - id: mulders-2025
     resource: "https://doi.org/10.1007/s11251-024-09697-1"
     title: "Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1"
-    author: "Mulders, M., Träg, K. H., & Kirner, L"
+    author: "Mulders, M., Träg, K. H., & Kirner, L."
+    q: 3
+    i: 1
+    kind: causal
+    rigour: 1
   - id: mulders-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09697-1"
     title: "Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1"
-    author: "Mulders, M., Träg, K. H., & Kirner, L"
+    author: "Mulders, M., Träg, K. H., & Kirner, L."
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Both a VR application and a traditional lesson increased students' self-appraised knowledge about the Amazon rainforest and biodiversity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i1` Self-assessed knowledge of students in the VR condition increased from pretest to posttest with a small effect (d = 0.34). [→ Mulders 2025](#mulders-2025)
@@ -31,7 +42,7 @@ sources:
 
 Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1
 
-`q3 · i1`
+`q3 · i1` · `causal · r1`
 
 Directional t-test for dependent samples on pre/post questionnaires of 108 students in the VR condition. The article reports a small significant increase in self-appraised knowledge, "t(105) = 3.47; p = 0.004; d = 0.34".
 
@@ -41,7 +52,7 @@ Directional t-test for dependent samples on pre/post questionnaires of 108 stude
 
 Mulders, M., Träg, K. H., & Kirner, L. (2025). Go green: evaluating an XR application on biodiversity in German secondary school classrooms. Instructional Science. https://doi.org/10.1007/s11251-024-09697-1
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Same within-subject t-test design applied to the 64-student traditional-lesson control group, showing a significant increase in self-appraised knowledge with a printed effect size of d = 0.42, from "t(62) = 3.31; p = 0.007; d = 0.42".
 

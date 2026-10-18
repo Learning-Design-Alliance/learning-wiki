@@ -12,10 +12,17 @@ sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
     title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
-    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Students with visible notifications check their phones more frequently in class than students with hidden notifications
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The NR group exhibited significantly higher phone-use frequency than the NH group (Cohen's d = 1.824). [→ Liao 2026](#liao-2026)
@@ -26,7 +33,7 @@ sources:
 
 Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Independent-samples t-test (Welch's correction) comparing phone-use frequency between the notification-revealed (N = 42) and notification-hidden (N = 42) groups in a classroom video-lesson experiment. The quote shows the "significantly higher PUF" with d = 1.824.
 

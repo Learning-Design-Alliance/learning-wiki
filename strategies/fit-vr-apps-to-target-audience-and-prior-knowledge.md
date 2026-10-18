@@ -16,6 +16,9 @@ sources:
 
 # Fit VR learning applications to a specific target audience and support learners with little prior knowledge
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because school type, rather than test condition, determined how effective the VR application was at fostering knowledge, interest, and attitude, the authors recommend that developers design for a specific audience and lower the entry barrier. They write that "Future applications should be fitted to a more specific target audience. Another possibility would be making applications more accessible to groups with little to no prior knowledge." They also suggest testing VR applications in shorter time frames than the 90-minute lessons used here, and providing teachers with more supporting materials to aid students while they learn with the application.
 

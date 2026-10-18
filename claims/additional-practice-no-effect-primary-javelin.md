@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
   - id: christian-leukel-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` PS-I + P did not result in greater improvement of throwing distance compared to PS-I. [→ Christian Leukel 2025](#christian-leukel-2025)
@@ -31,7 +42,7 @@ sources:
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Repeated measures ANCOVA comparing PS-I + P and PS-I found no significant TIME x GROUP interaction for throwing distance (F(1,31) = 0.96, p =.33); Bayesian analysis gave at least anecdotal evidence for the null (BF01 = 2).
 
@@ -41,7 +52,7 @@ Repeated measures ANCOVA comparing PS-I + P and PS-I found no significant TIME x
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 ANOVA on movement features in PS-I + P vs PS-I showed significant TIME (ηp2 = 0.15) and GROUP (ηp2 = 0.21) effects — the PS-I + P group performed worse overall — but no interaction; "Contrary to hypothesis 3b, PS-I + P did not result in greater performance gains compared to PS-I."
 

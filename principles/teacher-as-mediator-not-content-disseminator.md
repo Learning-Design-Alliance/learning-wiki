@@ -67,7 +67,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (29 for, 14 mixed, 2 against) · 41 studies (9 quant-synthesis, 9 review, 9 theoretical, 8 qualitative, 3 causal, 3 associational), `q1`–`q4` · 4 of 41 report an effect size · 40 claims rest on one study
+> **Evidence** · 46 claims (30 for, 14 mixed, 2 against) · 42 studies (9 quant-synthesis, 9 review, 9 qualitative, 9 theoretical, 3 causal, 3 associational), `q1`–`q4` · 4 of 42 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -194,6 +194,7 @@ Claims and theory pages the earlier page and its folded pages cited that are not
 - [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](../claims/findings-differ-from-gahagans-no-difference.md) [+W]
 - [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](../claims/curvilinear-variance-pattern-across-taxonomy-levels.md) [+W]
 - [Teacher guidance distribution tracked perceived willingness to collaborate, not group outcome level or prior science competence](../claims/guidance-follows-willingness-not-outcome.md) [~W] — attached 2026-10-18 from Tarja Pietarinen · Tuire Palonen · Marja Vauras (2021), which proposed "Provide stronger socio-emotional support to low-confident collaborative inquiry groups".
+- [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](../claims/peripheral-teacher-tutoring-contributions.md) [+W] — attached 2026-10-18 from de Laat et al. (2007), which proposed "Experienced online tutor's facilitation pattern: emergent group learning with subtle peripheral scaffolding".
 
 ## Objective and learner-valued goal
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09627-7"
     title: "Julia Kienzler, Thamar Voss, Jörg Wittwer. (2023). Student teachers' conceptual knowledge of operant conditioning: How can case comparison support knowledge acquisition? Instructional Science. https://doi.org/10.1007/s11251-023-09627-7"
     author: Julia Kienzler, Thamar Voss, Jörg Wittwer
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Timing of instructional input (before vs. after case comparison) did not significantly affect conceptual knowledge acquisition
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Defining principles before versus after case comparison produced no significant difference in knowledge (ηp² = 0.003); the authors conclude that merely delaying information is not beneficial. [→ Julia Kienzler 2023](#julia-kienzler-2023)
@@ -26,7 +33,7 @@ sources:
 
 Julia Kienzler, Thamar Voss, Jörg Wittwer. (2023). Student teachers' conceptual knowledge of operant conditioning: How can case comparison support knowledge acquisition? Instructional Science. https://doi.org/10.1007/s11251-023-09627-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Null result from the same MANCOVA in the randomized 2×2 experiment (N = 181). The printed ηp² values (0.003, 0.01) are negligible; equivalence was not tested.
 

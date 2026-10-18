@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09592-7"
     title: "Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7"
     author: Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Readers who will answer inserted questions read the text more slowly and carefully on first pass than readers expecting post-reading questions. [→ Alba Rubio 2022](#alba-rubio-2022)
@@ -26,7 +33,7 @@ sources:
 
 Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 T-test on first-pass reading time in the same 76-participant randomized experiment, recorded via the masked Read&Learn system. The inserted condition read longer initially, with a medium effect size d = − 0.62 ("t(74) = -2.71, p = .008, d = − 0.62").
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Male students were significantly more confident in their own abilities than female students (main effect of observer gender, gp 2 = .060). [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)
@@ -26,7 +33,7 @@ sources:
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Mixed ANOVA on self-efficacy in the 2x2 experiment: significant observer-gender main effect with printed effect size "gp 2 = .060", male students (M = 5.14) more confident than female students (M = 4.47).
 

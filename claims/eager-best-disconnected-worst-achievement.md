@@ -12,10 +12,17 @@ sources:
   - id: sedova-2023
     resource: "https://doi.org/10.1007/s11251-022-09609-1"
     title: "Sedova, K., & Sedlacek, M. (2023). How vocal and silent forms of participation in combination relate to student achievement. Instructional Science, 51, 343–361. https://doi.org/10.1007/s11251-022-09609-1"
-    author: "Sedova, K., & Sedlacek, M"
+    author: "Sedova, K., & Sedlacek, M."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Eager students (high talk, high engagement) achieved the best reading literacy scores and disconnected students (low talk, low engagement) the worst, with only the eager–disconnected difference statistically significant
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among the five profiles, only eager and disconnected students differed significantly in reading literacy (eager > disconnected); other pairwise differences were not significant. [→ Sedova 2023](#sedova-2023)
@@ -26,7 +33,7 @@ sources:
 
 Sedova, K., & Sedlacek, M. (2023). How vocal and silent forms of participation in combination relate to student achievement. Instructional Science, 51, 343–361. https://doi.org/10.1007/s11251-022-09609-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ANOVA on reading literacy success rates across the five profiles (Table 6: eager M = 53.08%, disconnected M = 41.16%, overall F = 2.47, p < 0.05) with Bonferroni post hoc comparisons; only the eager > disconnected contrast was significant. Equivalence between other profiles was not tested.
 

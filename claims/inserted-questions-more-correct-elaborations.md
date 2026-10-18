@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09592-7"
     title: "Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7"
     author: Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: alba-rubio-2022-2
     resource: "https://doi.org/10.1007/s11251-022-09592-7"
     title: "Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7"
     author: Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Inserted questions elicit more correct and fewer incorrect elaborations than post-reading questions, with no condition differences in paraphrases
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The condition × correct/incorrect elaborations interaction shows inserted-condition students produced more correct elaborations and fewer incorrect ones than post-reading students. [→ Alba Rubio 2022](#alba-rubio-2022)
@@ -31,7 +42,7 @@ sources:
 
 Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Robust two-way mixed ANOVA on coded processing strategies in students' answers in the randomized experiment. The elaboration interaction was significant, "F(1,43.10) = 24.35, p < .001", favouring the inserted condition on both correct and incorrect elaborations; no effect size was printed.
 
@@ -41,7 +52,7 @@ Robust two-way mixed ANOVA on coded processing strategies in students' answers i
 
 Alba Rubio, Eduardo Vidal-Abarca, Marian Serrano-Mendizábal. (2022). How to assist the students while learning from text? Effects of inserting adjunct questions on text processing. Instructional Science. https://doi.org/10.1007/s11251-022-09592-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same ANOVA analysis of paraphrase strategies found no condition effect and no interaction; equivalence was not tested. The authors note paraphrasing the available text was not difficult regardless of timing.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09513-6"
     title: "Steffen P. Schmidgall, Katharina Scheiter, Alexander Eitel. (2020). Can we further improve tablet-based drawing to enhance learning? An empirical test of two types of support. Instructional Science. https://doi.org/10.1007/s11251-020-09513-6"
     author: Steffen P. Schmidgall, Katharina Scheiter, Alexander Eitel
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Drawing conditions that were compared to control outperformed the read-only control condition on transfer performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Both the no support and the local support drawing conditions outperformed the control condition on the transfer test, with a significant overall condition effect (partial η2 = 0.05). [→ Steffen P. Schmidgall 2020](#steffen-p-schmidgall-2020)
@@ -26,7 +33,7 @@ sources:
 
 Steffen P. Schmidgall, Katharina Scheiter, Alexander Eitel. (2020). Can we further improve tablet-based drawing to enhance learning? An empirical test of two types of support. Instructional Science. https://doi.org/10.1007/s11251-020-09513-6
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANCOVA on transfer performance with prior knowledge as covariate in a randomized four-condition experiment (N = 156). The article reports an overall effect with partial η2 = 0.05 and that "both the no support (SE = 4.37, p = 0.02) and the local support conditions (SE = 4.37, p = 0.02) outperformed the control condition"; global support did not differ from the other conditions (all ps > 0.19).
 

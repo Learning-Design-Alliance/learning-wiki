@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":21042,
-"design":941,
+"design":950,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1782,
-"research-method":441,
+"product":1786,
+"research-method":447,
 "strategy":6189,
 "theory":1361
 },
@@ -190158,6 +190158,14 @@
 "type":"design"
 },
 {
+"description":"The article implements and tests an analytical approach to strategy training that \\\"combined a detailed, step-by-step presentation of each strategy with the integration of various strategies across modules and practice...",
+"id":"analytical-approach-strategy-training",
+"path":"designs/analytical-approach-strategy-training.md",
+"status":"review",
+"title":"Analytical approach to strategy training: detailed step-by-step strategy presentation combined with integration of strategies across modules and practice tasks",
+"type":"design"
+},
+{
 "description":"To make AI-generated educational decisions auditable and attributable, the framework records not only the AI output but the full inference configuration on the consortium ledger: \\\"the model release and inference confi...",
 "id":"anchor-llm-inference-provenance-onchain-instructor-cosign",
 "path":"designs/anchor-llm-inference-provenance-onchain-instructor-cosign.md",
@@ -190485,6 +190493,14 @@
 "path":"designs/bullying-circle-participant-roles.md",
 "status":"review",
 "title":"The Bullying Circle of participant player roles",
+"type":"design"
+},
+{
+"description":"A physics virtual lab demonstrating buoyancy in a liquid tank, in which students \\\"can change values of variables in the virtual lab to observe the process and conduct experiments about Buoyancy.\\\" It exposes variables...",
+"id":"buoyancy-physics-virtual-lab-datasheet",
+"path":"designs/buoyancy-physics-virtual-lab-datasheet.md",
+"status":"review",
+"title":"Buoyancy physics virtual lab with variable datasheet",
 "type":"design"
 },
 {
@@ -191120,6 +191136,14 @@
 "type":"design"
 },
 {
+"description":"The article frames contrasting examples—comparing fictitious students' correct and erroneous solutions side by side—as a method expected to induce generative processing, structural alignment, and focus on underlying p...",
+"id":"contrasting-examples-generative-processing-account",
+"path":"designs/contrasting-examples-generative-processing-account.md",
+"status":"review",
+"title":"Contrasting examples as a generative-processing instructional method whose preconditions for critical-thinking transfer are questioned",
+"type":"design"
+},
+{
 "description":"The article introduces \\\"control timing\\\" as a key design dimension in AI-assisted visual authoring, operationalized through three interaction paradigms that differ in when teachers intervene relative to AI output.",
 "id":"control-timing-design-space-ai-visual-authoring",
 "path":"designs/control-timing-design-space-ai-visual-authoring.md",
@@ -191245,6 +191269,14 @@
 "path":"designs/critics-three-component-ecosystem.md",
 "status":"review",
 "title":"CRITICS three-component ecosystem for cross-lingual scientific knowledge transfer",
+"type":"design"
+},
+{
+"description":"A lesson-level sequence in which students first critique problematic inquiry cases and then conduct science inquiries with a virtual lab.",
+"id":"critique-then-inquire-virtual-lab-sequence",
+"path":"designs/critique-then-inquire-virtual-lab-sequence.md",
+"status":"review",
+"title":"Critique-then-inquire sequence for virtual lab activities",
 "type":"design"
 },
 {
@@ -191557,6 +191589,14 @@
 "path":"designs/distributed-expertise-teacher-mentor-ai-collaboration.md",
 "status":"review",
 "title":"Teacher-mentor-AI collaboration as a distributed expertise system in AI technology creation",
+"type":"design"
+},
+{
+"description":"Distributed scaffolding is the framework in which support for complex project-based learning is spread across multiple tools, routines, activities, and the teacher, forming a system that simultaneously supports all st...",
+"id":"distributed-scaffolding-complementarity-theory",
+"path":"designs/distributed-scaffolding-complementarity-theory.md",
+"status":"review",
+"title":"Distributed scaffolding and complementarity between material and teacher scaffolds",
 "type":"design"
 },
 {
@@ -193000,6 +193040,14 @@
 "path":"designs/gsu-academic-chatbot-mainstay.md",
 "status":"review",
 "title":"Non-generative AI academic chatbot with TA-supported knowledge base and #quizme practice function",
+"type":"design"
+},
+{
+"description":"The article proposes that two instructional variables play complementary roles in computer-based problem solving for concept development.",
+"id":"guidance-manipulation-dual-variable-account",
+"path":"designs/guidance-manipulation-dual-variable-account.md",
+"status":"review",
+"title":"Guidance and manipulation as complementary instructional variables in computer-based problem solving",
 "type":"design"
 },
 {
@@ -194809,6 +194857,14 @@
 "type":"design"
 },
 {
+"description":"A professional development program designed with 4C/ID and the Ten Steps to teach primary school teachers differentiated instruction in mathematics.",
+"id":"pd-program-differentiation-blueprint",
+"path":"designs/pd-program-differentiation-blueprint.md",
+"status":"review",
+"title":"Five-month workplace-based PD program blueprint for teacher differentiation skills",
+"type":"design"
+},
+{
 "description":"The article introduces pedagogical friction as a first-class architectural primitive: revision suggestions are gated behind an intelligent reflection gate that assesses the student's written defense for substance and,...",
 "id":"pedagogical-friction-reflection-gating",
 "path":"designs/pedagogical-friction-reflection-gating.md",
@@ -196265,6 +196321,14 @@
 "type":"design"
 },
 {
+"description":"A training program implemented and tested as part of a digital literacy course, in which instructors delivered strategy training after \\\"instructors received background information and instructional materials prior to...",
+"id":"teacher-led-online-reading-strategy-training-program",
+"path":"designs/teacher-led-online-reading-strategy-training-program.md",
+"status":"review",
+"title":"Teacher-led online reading strategy training program embedded in a digital literacy course",
+"type":"design"
+},
+{
 "description":"The report argues that school-improvement initiatives should be led by teachers rather than imposed top-down by administrations.",
 "id":"teacher-led-school-improvement-brockton",
 "path":"designs/teacher-led-school-improvement-brockton.md",
@@ -197113,6 +197177,14 @@
 "path":"designs/wwc-compress-mainstream-developmental-education.md",
 "status":"review",
 "title":"Compress or mainstream developmental education with course redesign",
+"type":"design"
+},
+{
+"description":"The instructional intervention comprised \\\"a two-phase description of an imaginary science designated as Xenograde Systems: a lecture/discussion phase, and an individual working phase.\\\" Curricular materials spanned fou...",
+"id":"xenograde-systems-instructional-project",
+"path":"designs/xenograde-systems-instructional-project.md",
+"status":"review",
+"title":"Xenograde Systems instructional project (BURN11 dataset): a four-unit, one-week hierarchical learning sequence on an imaginary science",
 "type":"design"
 },
 {
@@ -212015,6 +212087,14 @@
 "type":"product"
 },
 {
+"description":"An eight-item self-report assessment developed by Klepsch and colleagues for measuring learners’ perceived intrinsic, extraneous, and germane cognitive load after a learning task.",
+"id":"cognitive-load-questionnaire-clq-by-klepsch-et-al-2017",
+"path":"products/cognitive-load-questionnaire-clq-by-klepsch-et-al-2017.md",
+"status":"review",
+"title":"Cognitive Load Questionnaire (CLQ) by Klepsch et al. (2017)",
+"type":"product"
+},
+{
 "description":"A dynamic assessment and intervention instrument developed by Tzuriel for evaluating and supporting cognitive modifiability in young children, including children with complex learning difficulties.",
 "id":"cognitive-modifiability-battery-cmb",
 "path":"products/cognitive-modifiability-battery-cmb.md",
@@ -218764,6 +218844,14 @@
 "type":"product"
 },
 {
+"description":"On Biodiversity's Tracks is a Greenpeace-developed virtual-reality learning application that lets secondary students explore biodiversity and environmental topics in immersive virtual environments.",
+"id":"on-biodiversitys-tracks",
+"path":"products/on-biodiversitys-tracks.md",
+"status":"review",
+"title":"On Biodiversity's Tracks",
+"type":"product"
+},
+{
 "description":"A Detroit Public Schools Community District alternative teacher-certification and recruitment programme that prepares local community members and school support staff through coaching, observations, and supported school placements.",
 "id":"on-the-rise-academy",
 "path":"products/on-the-rise-academy.md",
@@ -220266,6 +220354,14 @@
 "path":"products/reading-recovery.md",
 "status":"review",
 "title":"Reading Recovery",
+"type":"product"
+},
+{
+"description":"A web-based system developed by Vidal-Abarca et al.",
+"id":"readlearn",
+"path":"products/readlearn.md",
+"status":"review",
+"title":"Read&Learn",
 "type":"product"
 },
 {
@@ -222268,6 +222364,14 @@
 "path":"products/targeted-reading-instruction.md",
 "status":"review",
 "title":"Targeted Reading Instruction",
+"type":"product"
+},
+{
+"description":"Tarski's World is a computer-based learning environment developed by Barwise and Etchemendy for teaching and practicing first-order logic through visual, manipulable worlds.",
+"id":"tarskis-world",
+"path":"products/tarskis-world.md",
+"status":"review",
+"title":"Tarski's World",
 "type":"product"
 },
 {
@@ -225334,6 +225438,14 @@
 "type":"research-method"
 },
 {
+"description":"The article distinguishes four qualitatively different, socially observable emotion regulation strategies used by groups during collaborative tasks.",
+"id":"four-observable-group-level-emotion-regulation-strategies-coding-scheme",
+"path":"research-methods/four-observable-group-level-emotion-regulation-strategies-coding-scheme.md",
+"status":"review",
+"title":"Four observable group-level emotion regulation strategies coding scheme",
+"type":"research-method"
+},
+{
 "description":"The paper organizes the policy problem of co-teaching in value-added models around four named methods: \\\"the partial credit method, the teacher team method, the full roster method, and the full roster-plus method.\\\" Each option represents a different way of assigning credit for jointly taught students",
 "id":"four-options-for-accounting-for-co-teaching-in-value-added-models",
 "path":"research-methods/four-options-for-accounting-for-co-teaching-in-value-added-models.md",
@@ -225500,6 +225612,14 @@
 "path":"research-methods/graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models.md",
 "status":"review",
 "title":"Graphical model framework for MML estimation of multidimensional IRT models",
+"type":"research-method"
+},
+{
+"description":"The GDE framework conceptualizes engagement at the group rather than individual level, extending productive disciplinary engagement (Engle & Conant) with a situative perspective.",
+"id":"group-disciplinary-engagement-gde-framework",
+"path":"research-methods/group-disciplinary-engagement-gde-framework.md",
+"status":"review",
+"title":"Group disciplinary engagement (GDE) framework",
 "type":"research-method"
 },
 {
@@ -225735,6 +225855,14 @@
 "type":"research-method"
 },
 {
+"description":"The article develops a coding scheme assessing self-explanation quality as the degree to which written problem solutions include correctly applied and justified conceptual information.",
+"id":"justified-claims-coding-scheme-for-self-explanation-quality-in-ill-defined-statistics-prob",
+"path":"research-methods/justified-claims-coding-scheme-for-self-explanation-quality-in-ill-defined-statistics-prob.md",
+"status":"review",
+"title":"Justified-claims coding scheme for self-explanation quality in ill-defined statistics problems",
+"type":"research-method"
+},
+{
 "description":"The framework operationalizes educational LLM capability using the KSA (Knowledge-Skills-Attitude) model from educational assessment.",
 "id":"ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios",
 "path":"research-methods/ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios.md",
@@ -225788,6 +225916,14 @@
 "path":"research-methods/latent-structural-readiness-space-for-digital-and-ai-transformation.md",
 "status":"review",
 "title":"Latent structural readiness space for digital and AI transformation",
+"type":"research-method"
+},
+{
+"description":"The Learning Study is \\\"a fusion between lesson study and design experiment\\\" in which teachers and a researcher jointly plan a lesson around a chosen learning object, implement it with one pupil group, and analyze pre-test, post-test and delayed post-test results together with video-recorded lessons.",
+"id":"learning-study-model",
+"path":"research-methods/learning-study-model.md",
+"status":"review",
+"title":"Learning Study model",
 "type":"research-method"
 },
 {
@@ -225948,6 +226084,14 @@
 "path":"research-methods/multi-dimensional-fidelity-framework-for-llm-student-simulation.md",
 "status":"review",
 "title":"Multi-dimensional fidelity framework for LLM student simulation",
+"type":"research-method"
+},
+{
+"description":"The article develops a framework in which three methods answer complementary questions about networked learning: social network analysis to find out \\\"who is talking to whom\\\", content analysis of coded learning and tutoring activities to find out \\\"what they are talking about\\\", and contextual analysis",
+"id":"multi-method-research-framework-combining-sna-content-analysis-and-contextual-analysis-for",
+"path":"research-methods/multi-method-research-framework-combining-sna-content-analysis-and-contextual-analysis-for.md",
+"status":"review",
+"title":"Multi-method research framework combining SNA, content analysis and contextual analysis for networked learning",
 "type":"research-method"
 },
 {
@@ -226753,6 +226897,14 @@
 "path":"research-methods/stereotype-congruence-rate-scr.md",
 "status":"review",
 "title":"Stereotype Congruence Rate (SCR)",
+"type":"research-method"
+},
+{
+"description":"The study used a stimulated recall procedure in which students' thinking processes during the tutorial group discussion were tapped, producing recall protocols analysed alongside verbatim transcripts of the group's verbal interaction.",
+"id":"stimulated-recall-procedure-for-eliciting-learner-thinking",
+"path":"research-methods/stimulated-recall-procedure-for-eliciting-learner-thinking.md",
+"status":"review",
+"title":"Stimulated recall procedure for eliciting learner thinking",
 "type":"research-method"
 },
 {
@@ -310002,6 +310154,7 @@
 "aligned-generative-ai-course-policy-framework":"aligned-generative-ai-course-policy-framework",
 "alternating-treatments-self-determination-intervention":"alternating-treatments-self-determination-intervention",
 "ambiente-solidos-geometricos-andamiaje-autoeficacia":"ambiente-solidos-geometricos-andamiaje-autoeficacia",
+"analytical-approach-strategy-training":"analytical-approach-strategy-training",
 "anchor-llm-inference-provenance-onchain-instructor-cosign":"anchor-llm-inference-provenance-onchain-instructor-cosign",
 "anchored-discussion-design-theory":"anchored-discussion-design-theory",
 "antagonistic-design-agent-steerable-pushback":"antagonistic-design-agent-steerable-pushback",
@@ -310043,6 +310196,7 @@
 "brt-six-phase-assignment-process":"brt-six-phase-assignment-process",
 "bsd-cycle-design-scaffold":"bsd-cycle-design-scaffold",
 "bullying-circle-participant-roles":"bullying-circle-participant-roles",
+"buoyancy-physics-virtual-lab-datasheet":"buoyancy-physics-virtual-lab-datasheet",
 "cal-well-referral-pathways-community-of-practice":"cal-well-referral-pathways-community-of-practice",
 "cal-well-universal-mental-health-screening":"cal-well-universal-mental-health-screening",
 "calibrated-hybrid-feedback-model-eap":"calibrated-hybrid-feedback-model-eap",
@@ -310122,6 +310276,7 @@
 "context-prompts-gen-ai-physics":"context-prompts-gen-ai-physics",
 "context-pruning-and-segmented-generation-mitigate-hallucinations":"context-pruning-and-segmented-generation-mitigate-hallucinations",
 "contingency-dimension-load-versus-demand":"contingency-dimension-load-versus-demand",
+"contrasting-examples-generative-processing-account":"contrasting-examples-generative-processing-account",
 "control-timing-design-space-ai-visual-authoring":"control-timing-design-space-ai-visual-authoring",
 "controversy-mapping-project-sequence":"controversy-mapping-project-sequence",
 "conv-ped-tutor-audit-testbed":"conv-ped-tutor-audit-testbed",
@@ -310138,6 +310293,7 @@
 "crewscaler-16-protocol-ai-tutor-library":"crewscaler-16-protocol-ai-tutor-library",
 "crewscaler-five-stage-ai-upskilling-pipeline":"crewscaler-five-stage-ai-upskilling-pipeline",
 "critics-three-component-ecosystem":"critics-three-component-ecosystem",
+"critique-then-inquire-virtual-lab-sequence":"critique-then-inquire-virtual-lab-sequence",
 "critique-to-evidence-workflow-pattern":"critique-to-evidence-workflow-pattern",
 "cross-department-state-team-designs-rar":"cross-department-state-team-designs-rar",
 "cross-device-flipped-genai-design-platform":"cross-device-flipped-genai-design-platform",
@@ -310177,6 +310333,7 @@
 "discovery-synthesis-split-mixed-initiative":"discovery-synthesis-split-mixed-initiative",
 "distribute-special-education-funds-to-leas":"distribute-special-education-funds-to-leas",
 "distributed-expertise-teacher-mentor-ai-collaboration":"distributed-expertise-teacher-mentor-ai-collaboration",
+"distributed-scaffolding-complementarity-theory":"distributed-scaffolding-complementarity-theory",
 "district-dashboards-pog-data":"district-dashboards-pog-data",
 "district-discipline-reform-pattern-oakland-chicago":"district-discipline-reform-pattern-oakland-chicago",
 "district-homeless-program-support-web":"district-homeless-program-support-web",
@@ -310357,6 +310514,7 @@
 "grow-your-own-classified-staff-credential-pathway":"grow-your-own-classified-staff-credential-pathway",
 "growth-orientations-knowledge-builder-identities":"growth-orientations-knowledge-builder-identities",
 "gsu-academic-chatbot-mainstay":"gsu-academic-chatbot-mainstay",
+"guidance-manipulation-dual-variable-account":"guidance-manipulation-dual-variable-account",
 "guided-human-ai-collaboration-workflow":"guided-human-ai-collaboration-workflow",
 "guided-inquiry-perspectival-student-voice-genai-model":"guided-inquiry-perspectival-student-voice-genai-model",
 "guided-llm-six-rule-family-protocol":"guided-llm-six-rule-family-protocol",
@@ -310582,6 +310740,7 @@
 "paper-based-group-awareness-brochure":"paper-based-group-awareness-brochure",
 "participatory-design-three-phases":"participatory-design-three-phases",
 "pbl-ai-guardrails-policy-set":"pbl-ai-guardrails-policy-set",
+"pd-program-differentiation-blueprint":"pd-program-differentiation-blueprint",
 "pedagogical-friction-reflection-gating":"pedagogical-friction-reflection-gating",
 "pepper-52-lis-signs-element":"pepper-52-lis-signs-element",
 "persona-progression-model-ai-instruction":"persona-progression-model-ai-instruction",
@@ -310764,6 +310923,7 @@
 "tdhs-double-dose-reading-block":"tdhs-double-dose-reading-block",
 "teachable-agent-three-design-principles":"teachable-agent-three-design-principles",
 "teachable-chatgpt-agent-prompt-design":"teachable-chatgpt-agent-prompt-design",
+"teacher-led-online-reading-strategy-training-program":"teacher-led-online-reading-strategy-training-program",
 "teacher-led-school-improvement-brockton":"teacher-led-school-improvement-brockton",
 "teachers-deliver-phoneme-awareness-instruction":"teachers-deliver-phoneme-awareness-instruction",
 "teachy-mini-gsr-tutoring-prototype":"teachy-mini-gsr-tutoring-prototype",
@@ -310871,6 +311031,7 @@
 "writing-in-reading-four-aspects-pattern":"writing-in-reading-four-aspects-pattern",
 "writing-lab-alternating-divergent-convergent-lesson-pattern":"writing-lab-alternating-divergent-convergent-lesson-pattern",
 "wwc-compress-mainstream-developmental-education":"wwc-compress-mainstream-developmental-education",
+"xenograde-systems-instructional-project":"xenograde-systems-instructional-project",
 "y-read-collaboration-script-environment":"y-read-collaboration-script-environment",
 "ymhc-member-training-support-framework":"ymhc-member-training-support-framework",
 "youth-led-pd-racial-justice-trainings":"youth-led-pd-racial-justice-trainings",
@@ -312957,6 +313118,7 @@
 "cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness":"cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness",
 "cogmath-948":"cogmath-948",
 "cognitive-flexibility-scale":"cognitive-flexibility-scale",
+"cognitive-load-questionnaire-clq-by-klepsch-et-al-2017":"cognitive-load-questionnaire-clq-by-klepsch-et-al-2017",
 "cognitive-modifiability-battery-cmb":"cognitive-modifiability-battery-cmb",
 "cognitive-tutor":"cognitive-tutor",
 "colale":"colale",
@@ -313812,6 +313974,7 @@
 "oklahoma-teacher-and-leader-effectiveness-evaluation-system":"oklahoma-teacher-and-leader-effectiveness-evaluation-system",
 "ollie":"ollie",
 "omniedu-capability-oriented-instruction-tuning-corpus":"omniedu-capability-oriented-instruction-tuning-corpus",
+"on-biodiversitys-tracks":"on-biodiversitys-tracks",
 "on-the-rise-academy":"on-the-rise-academy",
 "once-early-reading-program":"once-early-reading-program",
 "online-experimental-psychological-system-opes-computerized-cognitive-test-battery":"online-experimental-psychological-system-opes-computerized-cognitive-test-battery",
@@ -314002,6 +314165,7 @@
 "reading-partners":"reading-partners",
 "reading-plus":"reading-plus",
 "reading-recovery":"reading-recovery",
+"readlearn":"readlearn",
 "readworks":"readworks",
 "ready-set-leap":"ready-set-leap",
 "real-world-middle-school-family-engagement-strategies":"real-world-middle-school-family-engagement-strategies",
@@ -314253,6 +314417,7 @@
 "tapacarp":"tapacarp",
 "taracarp-tangible-tabletop-environment-for-carpenter-vocational-training":"taracarp-tangible-tabletop-environment-for-carpenter-vocational-training",
 "targeted-reading-instruction":"targeted-reading-instruction",
+"tarskis-world":"tarskis-world",
 "taxonomy-betty-bettys-brain-variant":"taxonomy-betty-bettys-brain-variant",
 "tclas-high-quality-sustainable-residency-program-grant":"tclas-high-quality-sustainable-residency-program-grant",
 "teach-for-america":"teach-for-america",
@@ -314649,6 +314814,7 @@
 "four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level":"four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level",
 "four-measurable-properties-for-evaluating-adaptive-virtual-patients":"four-measurable-properties-for-evaluating-adaptive-virtual-patients",
 "four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat":"four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat",
+"four-observable-group-level-emotion-regulation-strategies-coding-scheme":"four-observable-group-level-emotion-regulation-strategies-coding-scheme",
 "four-options-for-accounting-for-co-teaching-in-value-added-models":"four-options-for-accounting-for-co-teaching-in-value-added-models",
 "four-paradigms-of-shared-knowledge-span-individual-representations-shared-objects-shared-s":"four-paradigms-of-shared-knowledge-span-individual-representations-shared-objects-shared-s",
 "four-requirement-framework-for-education-facing-llms":"four-requirement-framework-for-education-facing-llms",
@@ -314672,6 +314838,7 @@
 "graph-theory-based-passage-equating-for-wcpm-scores":"graph-theory-based-passage-equating-for-wcpm-scores",
 "graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
 "graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models":"graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models",
+"group-disciplinary-engagement-gde-framework":"group-disciplinary-engagement-gde-framework",
 "group-plus-individual-person-oriented-analysis-of-intervention-outcomes":"group-plus-individual-person-oriented-analysis-of-intervention-outcomes",
 "gunawardena-et-als-interaction-analysis-model-iam-for-collaborative-knowledge-construction":"gunawardena-et-als-interaction-analysis-model-iam-for-collaborative-knowledge-construction",
 "harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g":"harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g",
@@ -314702,6 +314869,7 @@
 "joint-glmm-model-for-irt-estimation-with-collateral-information":"joint-glmm-model-for-irt-estimation-with-collateral-information",
 "joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem":"joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem",
 "jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph":"jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph",
+"justified-claims-coding-scheme-for-self-explanation-quality-in-ill-defined-statistics-prob":"justified-claims-coding-scheme-for-self-explanation-quality-in-ill-defined-statistics-prob",
 "ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios":"ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios",
 "kt-grounded-simulated-learner":"kt-grounded-simulated-learner",
 "l-statistic":"l-statistic",
@@ -314709,6 +314877,7 @@
 "latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories":"latent-change-score-lcs-modeling-framework-for-comparing-developmental-theories",
 "latent-score-linking-method":"latent-score-linking-method",
 "latent-structural-readiness-space-for-digital-and-ai-transformation":"latent-structural-readiness-space-for-digital-and-ai-transformation",
+"learning-study-model":"learning-study-model",
 "llm-scoring-generated-feedback-and-essay-feature-analysis-framework":"llm-scoring-generated-feedback-and-essay-feature-analysis-framework",
 "lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac":"lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac",
 "longitudinal-achievement-growth-analysis":"longitudinal-achievement-growth-analysis",
@@ -314730,6 +314899,7 @@
 "multi-angle-video-capture-for-humanmaterial-analysis":"multi-angle-video-capture-for-humanmaterial-analysis",
 "multi-armed-randomized-trial-analysis":"multi-armed-randomized-trial-analysis",
 "multi-dimensional-fidelity-framework-for-llm-student-simulation":"multi-dimensional-fidelity-framework-for-llm-student-simulation",
+"multi-method-research-framework-combining-sna-content-analysis-and-contextual-analysis-for":"multi-method-research-framework-combining-sna-content-analysis-and-contextual-analysis-for",
 "multi-rater-latent-growth-curve-model":"multi-rater-latent-growth-curve-model",
 "multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors":"multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors",
 "multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-ou":"multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-ou",
@@ -314836,6 +315006,7 @@
 "standardized-taxonomy-descriptors-for-cscl-phenomena-and-analytic-approaches":"standardized-taxonomy-descriptors-for-cscl-phenomena-and-analytic-approaches",
 "stealth-assessment":"stealth-assessment",
 "stereotype-congruence-rate-scr":"stereotype-congruence-rate-scr",
+"stimulated-recall-procedure-for-eliciting-learner-thinking":"stimulated-recall-procedure-for-eliciting-learner-thinking",
 "strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod":"strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod",
 "student-development-agents":"agent-based-educational-science-aes",
 "student-digital-twin":"student-digital-twin",

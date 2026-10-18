@@ -12,10 +12,17 @@ sources:
   - id: trninic-2018
     resource: "https://doi.org/10.1007/s11251-017-9443-z"
     title: "Trninic, D. (2018). Instruction, repetition, discovery: restoring the historical educational role of practice. Instructional Science. https://doi.org/10.1007/s11251-017-9443-z"
-    author: Trninic, D
+    author: Trninic, D.
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Parallels between explorative practice and canonical mathematics practice are recognized among mathematicians
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The observation that mathematicians' own practice involves repetitive yet explorative engagement is described as commonplace among mathematicians. [→ Trninic 2018](#trninic-2018)
@@ -26,7 +33,7 @@ sources:
 
 Trninic, D. (2018). Instruction, repetition, discovery: restoring the historical educational role of practice. Instructional Science. https://doi.org/10.1007/s11251-017-9443-z
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper attends to parallels in canonical mathematics practice, reporting that Roi Wagner described the observation as “a commonplace” among mathematicians present and past, via personal communication in 2017.
 

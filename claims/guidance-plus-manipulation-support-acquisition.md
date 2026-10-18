@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1023/A:1016018210897"
     title: "Tessa Eysink, Sanne Dijkstra, Jan Kuper. (2002). The role of guidance in computer-based problem solving for the development of concepts of logic. Instructional Science. https://doi.org/10.1023/A:1016018210897"
     author: Tessa Eysink, Sanne Dijkstra, Jan Kuper
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The results support the authors' view that guidance in combination with the possibility to manipulate objects in a domain supports the acquisition of knowledge and skills in that domain. [→ Tessa Eysink 2002](#tessa-eysink-2002)
@@ -26,7 +33,7 @@ sources:
 
 Tessa Eysink, Sanne Dijkstra, Jan Kuper. (2002). The role of guidance in computer-based problem solving for the development of concepts of logic. Instructional Science. https://doi.org/10.1023/A:1016018210897
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Authors' overall interpretation of the 72-student Tarski's World experiment, stated in the abstract as the conclusion the two experimental results jointly support. This is an author interpretation rather than a separately tested combined condition.
 

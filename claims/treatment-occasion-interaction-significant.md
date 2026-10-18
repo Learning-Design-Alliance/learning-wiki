@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-010-9138-1"
     title: "Mona Holmqvist. (2011). Teachers' learning in a learning study. Instr Sci 39:497–511. https://doi.org/10.1007/s11251-010-9138-1"
     author: Mona Holmqvist
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 3
   - id: mona-holmqvist-2011-2
     resource: "https://doi.org/10.1007/s11251-010-9138-1"
     title: "Mona Holmqvist. (2011). Teachers' learning in a learning study. Instr Sci 39:497–511. https://doi.org/10.1007/s11251-010-9138-1"
     author: Mona Holmqvist
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Across all three experiments jointly, the interaction between treatment (contrasts versus control) and measurement occasion was significant, with a reliable quadratic trend
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The interaction between experimental group and measurement occasion in a 3×2×3 repeated measures ANOVA was significant, F(2, 318) = 5.78, p = 0.003. [→ Mona Holmqvist 2011](#mona-holmqvist-2011)
@@ -31,7 +42,7 @@ sources:
 
 Mona Holmqvist. (2011). Teachers' learning in a learning study. Instr Sci 39:497–511. https://doi.org/10.1007/s11251-010-9138-1
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 A 3×2×3 repeated measures ANOVA over all three experiments jointly, with experiment and treatment as between-subjects factors and three measurement occasions; test scores were arcsine-transformed proportions. The effect of critical interest was the treatment × occasion interaction.
 
@@ -41,7 +52,7 @@ A 3×2×3 repeated measures ANOVA over all three experiments jointly, with exper
 
 Mona Holmqvist. (2011). Teachers' learning in a learning study. Instr Sci 39:497–511. https://doi.org/10.1007/s11251-010-9138-1
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Trend contrasts over the three measurement occasions: the quadratic trend (an early rise followed by decline, expected for the control group) was reliable; the linear contrast from pre-test to delayed post-test was not. The author calls this modest support for the hypothesis.
 

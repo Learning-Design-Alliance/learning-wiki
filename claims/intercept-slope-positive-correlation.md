@@ -13,9 +13,16 @@ sources:
     resource: "http://hdl.handle.net/10459.1/48328"
     title: "Angel Blanch. (2015). Evaluating fluid and crystallized abilities in the performance of an educational process. Springer Verlag. http://hdl.handle.net/10459.1/48328"
     author: Angel Blanch
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The intercept–slope factor correlation was significant and positive (.55), indicating individuals with higher final achievement had lower decrements over the program. [→ Angel Blanch 2015](#angel-blanch-2015)
@@ -26,7 +33,7 @@ sources:
 
 Angel Blanch. (2015). Evaluating fluid and crystallized abilities in the performance of an educational process. Springer Verlag. http://hdl.handle.net/10459.1/48328
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Unconditional non-linear LGC model on the BURN11 dataset (101 students). The article reports a significant intercept–slope correlation of .55 (p < .05) along with significant intercept (7.01) and slope (.82) variances, indicating individual differences in both final levels and rates of change.
 

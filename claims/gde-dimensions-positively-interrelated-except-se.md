@@ -12,10 +12,17 @@ sources:
   - id: rogat-2026
     resource: "https://doi.org/10.1007/s11251-025-09772-1"
     title: "Rogat, T. K., Traynor, A., Hmelo-Silver, C. E., & Cheng, B. H. (2026). Situating collaborative disciplinary activity: creating a space for high-quality group engagement. Instructional Science. https://doi.org/10.1007/s11251-025-09772-1"
-    author: "Rogat, T. K., Traynor, A., Hmelo-Silver, C. E., & Cheng, B. H"
+    author: "Rogat, T. K., Traynor, A., Hmelo-Silver, C. E., & Cheng, B. H."
+    q: 2
+    i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Group engagement dimensions are positively interrelated concurrently, except socioemotional engagement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Concurrent correlations among behavioral, collaborative, metacognitive, and disciplinary engagement ratings were positive and primarily moderate to large (e.g., CE-DE r = 0.63), while socioemotional engagement correlated near zero with the other dimensions. [→ Rogat 2026](#rogat-2026)
@@ -26,7 +33,7 @@ sources:
 
 Rogat, T. K., Traynor, A., Hmelo-Silver, C. E., & Cheng, B. H. (2026). Situating collaborative disciplinary activity: creating a space for high-quality group engagement. Instructional Science. https://doi.org/10.1007/s11251-025-09772-1
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Correlational analysis of rubric ratings from 2.5-minute video intervals of middle school groupwork (Research Question 1). Table 3 prints CE-DE r = 0.63, BE-CE r = 0.59, CE-ME r = 0.59, showing "all the correlations between engagement dimension ratings that were significantly different from zero were positive."
 

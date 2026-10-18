@@ -16,6 +16,9 @@ sources:
 
 # Support collaborative groups by raising awareness of the nature of their challenges and allowing sufficient time for negotiated interaction
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that regulation strategies often did not match the challenges groups faced, the authors recommend that collaborative learning support go beyond keeping students on task. They state that "groups may benefit from increased awareness of the nature of their challenges and sufficient time to address them through negotiated interaction". This means designing group work so members discuss what kind of challenge (task, energy, social) they are facing and negotiate emotional experiences rather than only redirecting attention to the task.
 

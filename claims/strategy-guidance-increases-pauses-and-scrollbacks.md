@@ -12,10 +12,17 @@ sources:
   - id: lin-2022
     resource: "https://doi.org/10.1007/s11251-022-09600-w"
     title: "Lin, YC., Liu, TC. & Kalyuga, S. (2022). Strategies for facilitating processing of transient information in instructional videos by using learner control mechanisms. Instructional Science, 50, 863–877. https://doi.org/10.1007/s11251-022-09600-w"
-    author: "Lin, YC., Liu, TC. & Kalyuga, S"
+    author: "Lin, YC., Liu, TC. & Kalyuga, S."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Providing strategy guidance leads learners to pause and scroll back on the video timeline more often than unguided learner control
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The strategy guidance group had a greater number of pauses and scrollbacks on the timeline than the learner control group. [→ Lin 2022](#lin-2022)
@@ -26,7 +33,7 @@ sources:
 
 Lin, YC., Liu, TC. & Kalyuga, S. (2022). Strategies for facilitating processing of transient information in instructional videos by using learner control mechanisms. Instructional Science, 50, 863–877. https://doi.org/10.1007/s11251-022-09600-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Behavioural process measure from the between-subjects experiment: log counts of pauses and timeline scrollbacks during video watching. Learners given explicit strategy guidance used the control mechanisms more often than learners given control without guidance. No counts or effect sizes are printed in the available text.
 

@@ -12,10 +12,17 @@ sources:
   - id: cremers-2016
     resource: "https://doi.org/10.1007/s11251-016-9398-5"
     title: "Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M. (2016). Utilization of design principles for hybrid learning configurations by interprofessional design teams. Instructional Science. https://doi.org/10.1007/s11251-016-9398-5"
-    author: "Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M"
+    author: "Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A boundary crossing intervention led most interprofessional design team members to perceive a set of HLC design principles as useful for structuring knowledge and gaining an overview of HLC design
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 28 of 32 questionnaire respondents across three cases said the design principles helped them structure their knowledge of HLCs and get an overview of what designing an HLC involves. [→ Cremers 2016](#cremers-2016)
@@ -26,7 +33,7 @@ sources:
 
 Cremers, P. H. M., Wals, A. E. J., Wesselink, R., & Mulder, M. (2016). Utilization of design principles for hybrid learning configurations by interprofessional design teams. Instructional Science. https://doi.org/10.1007/s11251-016-9398-5
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Evaluation of the intervention with four HLC design teams via a digital questionnaire (yes/no plus elaboration) sent the day after each workshop; 32 of 44 participants responded. Respondents reported the principles provided "a kind of checklist" and structured thinking about design.
 

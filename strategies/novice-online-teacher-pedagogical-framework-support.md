@@ -16,6 +16,9 @@ sources:
 
 # Support novice online teachers by introducing them to a larger pedagogical framework within which design decisions can be located
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Drawing on Goodyear et al. (2001), the authors recommend that novice online teachers be supported and introduced to the larger pedagogical scheme of things, so that individual design decisions and pedagogical commitments can be understood and located within it. They write that "the novice teacher needs to be supported and introduced in the larger pedagogical scheme of things". Effective online teachers also think longitudinally through the levels of a pedagogical framework and group dynamics, connecting high-level values with moment-by-moment teaching.
 

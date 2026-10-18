@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 1
   - id: christian-leukel-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Across all three groups, movement-feature execution improved significantly from pre- to post-test (ηp2 = 0.18). [→ Christian Leukel 2025](#christian-leukel-2025)
@@ -31,7 +42,7 @@ sources:
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Omnibus repeated measures ANOVA across I-PS, PS-I, and PS-I + P groups (N = 50 fourth-graders) showed significant TIME (ηp2 = 0.18) and GROUP (ηp2 = 0.14) effects on summed movement features, with no TIME x GROUP interaction. Figure 4 points to javelin-shoulder parallelism and arm positioning as features that improved in all groups.
 
@@ -41,7 +52,7 @@ Omnibus repeated measures ANOVA across I-PS, PS-I, and PS-I + P groups (N = 50 f
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Omnibus repeated measures ANCOVA across all three conditions found no significant TIME effect on javelin throwing distance; a Bayesian ANCOVA gave moderate evidence for the null (BF01 = 5).
 

@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-018-9474-0"
     title: "Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0"
     author: Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
   - id: martin-2019-2
     resource: "https://doi.org/10.1007/s11251-018-9474-0"
     title: "Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0"
     author: Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mrs. Lewis's students improved from High to Medium support, then returned to initial performance at Low support, with no High–Low difference. [→ Martin 2019](#martin-2019)
@@ -31,7 +42,7 @@ sources:
 
 Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Repeated-measures t-tests with Holm–Bonferroni correction across scaffolding levels for Mrs. Lewis's class (n = 28). Performance significantly improved High to Medium (t(27) = − 4.77, p < .001), then returned to initial levels Medium to Low (t(27) = 4.41, p < .001), so High and Low did not differ.
 
@@ -41,7 +52,7 @@ Repeated-measures t-tests with Holm–Bonferroni correction across scaffolding l
 
 Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Repeated-measures t-tests across scaffolding levels for Mr. Green's class (n = 44). His students improved High to Medium (t(43) = − 3.80, p < .001) but then declined significantly as support faded, producing a significant net decline across the unit.
 

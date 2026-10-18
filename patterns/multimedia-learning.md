@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 42 claims (25 for, 17 mixed) · 35 studies (18 causal, 8 quant-synthesis, 6 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 35 report an effect size · 33 claims rest on one study
+> **Evidence** · 43 claims (26 for, 17 mixed) · 36 studies (19 causal, 8 quant-synthesis, 6 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 36 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -103,6 +103,7 @@ None at present. Claims linked to this page later go here until they are read ag
 - [The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students](../claims/illustration-integration-effect-stronger-for-low-experience-learners.md) [~W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotate illustrations with captions and labels that repeat the text's cause-and-effect information to foster meaningful learning from science text".
 - [For transfer, only learners studying collaboratively benefited from animated over static graphics](../claims/collaboration-enables-transfer-benefit-of-animation.md) [+W] — attached 2026-10-18 from Rebetez et al. (2010), which proposed "Collaborative learning as a design condition enabling transfer benefits from animated graphics"; tests this page's relationship.
 - [Snapshots of critical steps were marginally beneficial for individual learners but significantly detrimental for dyads](../claims/snapshots-detrimental-in-dyads-beneficial-individually.md) [~W] — attached 2026-10-18 from Rebetez et al. (2010), which proposed "Collaborative learning as a design condition enabling transfer benefits from animated graphics"; tests this page's relationship.
+- [Videos were especially beneficial for slower readers, with the largest studying-rate advantages at the lowest percentiles](../claims/videos-especially-beneficial-slower-readers.md) [+W] — attached 2026-10-18 from Mikko Haavisto (2026), which proposed "Use videos with hybrid learner control for primary school multimedia learning, particularly for slower readers".
 
 ## Illustrative design instance and observation record
 

@@ -16,6 +16,9 @@ sources:
 
 # Integrate structured opportunities for critical engagement with AI into teacher education programs
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that teacher education programs deliberately build in structured opportunities for critical engagement with generative AI, so that pre-service teachers develop digital pedagogical literacy and reflective instructional decision-making. The study found that unstructured, self-directed use tended toward single-turn prompting and surface-level evaluation of outputs, so critical engagement cannot be assumed to emerge on its own. As the authors state, the findings highlight "the importance of integrating structured opportunities for critical engagement with AI into teacher education programs".
 

@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-026-09817-z"
     title: "Mikko Haavisto, Tomi Jaakkola. (2026). Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications. Instructional Science. https://doi.org/10.1007/s11251-026-09817-z"
     author: Mikko Haavisto, Tomi Jaakkola
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: mikko-haavisto-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09817-z"
     title: "Mikko Haavisto, Tomi Jaakkola. (2026). Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications. Instructional Science. https://doi.org/10.1007/s11251-026-09817-z"
     author: Mikko Haavisto, Tomi Jaakkola
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Faster initial-pass studying rate predicted better retention, delayed retention, and transfer and lower cognitive load, but the effect was mostly due to modality
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Without controlling modality, a shorter initial pass duration predicted better retention, delayed retention, and transfer and lower cognitive load with a small to medium effect. [→ Mikko Haavisto 2026](#mikko-haavisto-2026)
@@ -31,7 +42,7 @@ sources:
 
 Mikko Haavisto, Tomi Jaakkola. (2026). Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications. Instructional Science. https://doi.org/10.1007/s11251-026-09817-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mixed-effects models predicting standardized outcome measures from initial pass duration in the screen-recording study. The article reports the small to medium effect as "R2mar = 0.032–0.081"; R2 values are variance explained, not standardized effect sizes.
 
@@ -41,7 +52,7 @@ Mixed-effects models predicting standardized outcome measures from initial pass 
 
 Mikko Haavisto, Tomi Jaakkola. (2026). Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications. Instructional Science. https://doi.org/10.1007/s11251-026-09817-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same mixed-effects models with modality as a fixed effect, the studying-rate effect remained significant only for transfer. The article states the effect on retention, delayed retention, and cognitive load was reduced or masked, and the modality × initial pass duration interaction was not significant for any outcome (p-values > 0.16).
 

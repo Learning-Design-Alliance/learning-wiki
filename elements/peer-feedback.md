@@ -13,7 +13,7 @@ generated:
 # Peer Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 2 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Peer feedback is the element in which learners respond to one another's work with comments intended to improve revision or performance.
@@ -25,6 +25,7 @@ Peer feedback is the element in which learners respond to one another's work wit
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](../claims/feedback-provision-scaffold-improves-feedback-quality.md) [+W] — attached 2026-10-18 from Julia Hornstein et al. (2025), which proposed "Feedback provision scaffold: three feed-up/feed-back/feed-forward prompts with a sample solution".
 
 ## Related Elements
 - [Peer Feedback/Peer Review](peer-review.md)

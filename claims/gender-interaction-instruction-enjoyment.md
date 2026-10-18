@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
   - id: vincent-hoogerheide-2016-2
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Learning from a male model is more enjoyable and leads to greater willingness to receive similar instruction for male students than for female students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The Gender Model x Gender Observer interaction on learning enjoyment was significant; male students enjoyed the male model more than female students did (d = 0.428). [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)
@@ -31,7 +42,7 @@ sources:
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 2x2 ANOVA on learning enjoyment showed a significant interaction (F(1, 159) = 4.27, p = .040); the follow-up comparison within the male-model condition gave "d = 0.428" (medium effect).
 
@@ -41,7 +52,7 @@ Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from v
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 2x2 ANOVA on willingness to receive similar instruction showed a significant interaction (F(1, 159) = 4.02, p = .047); within the male-model condition, male students were more positive, "d = 0.528" (medium effect).
 

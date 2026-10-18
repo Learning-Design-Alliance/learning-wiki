@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
     title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
     author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The five movement features significantly predicted javelin throwing distance, explaining 26% of the variance. [→ Christian Leukel 2025](#christian-leukel-2025)
@@ -26,7 +33,7 @@ sources:
 
 Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Multiple linear regression across all tested subjects (mirroring the secondary-school analysis) showed the feature model significantly predicted distance; the bracing step contributed most, and arm positioning, impulse step, and elbow positioning did not significantly contribute.
 

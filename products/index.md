@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1782 entries** · 0 stable · 1782 in review · 0 drafts
+**1786 entries** · 0 stable · 1786 in review · 0 drafts
 
 ---
 
@@ -260,6 +260,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CogEvol-4B open-weight model release with GGUF build and MAIC-UI editing harness](cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness.md) - CogEvol-4B is an Apache 2.0-licensed open-weight model and deployment package from the CogEvol Team for generating presentation slides and interactive HTML courseware, including an on-device GGUF build and MAIC-UI editing harness.
 * [CogMath-948](cogmath-948.md) - CogMath-948 is a dataset constructed by Wei Zhang et al.
 * [Cognitive Flexibility Scale](cognitive-flexibility-scale.md) - A 19-item adjective-pair self-report assessment developed by Bilgin to measure individuals' cognitive flexibility.
+* [Cognitive Load Questionnaire (CLQ) by Klepsch et al. (2017)](cognitive-load-questionnaire-clq-by-klepsch-et-al-2017.md) - An eight-item self-report assessment developed by Klepsch and colleagues for measuring learners’ perceived intrinsic, extraneous, and germane cognitive load after a learning task.
 * [Cognitive Modifiability Battery (CMB)](cognitive-modifiability-battery-cmb.md) - A dynamic assessment and intervention instrument developed by Tzuriel for evaluating and supporting cognitive modifiability in young children, including children with complex learning difficulties.
 * [Cognitive Tutor®](cognitive-tutor.md) - A Carnegie Learning curriculum for secondary mathematics that combines textbooks, adaptive software, teacher guides, assessments, and professional development across Algebra, Geometry, and Integrated Math courses.
 * [CoLaLe](colale.md) - A prototype mobile app developed to support German and Thai vocabulary learning through context-linked flashcards and geo-fence-triggered learning sessions.
@@ -1137,6 +1138,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Oklahoma Teacher and Leader Effectiveness Evaluation System](oklahoma-teacher-and-leader-effectiveness-evaluation-system.md) - Oklahoma's statewide system for evaluating teachers and school leaders, including value-added measures estimated from student test scores and related teacher and student information.
 * [Ollie](ollie.md) - Ollie is a gaze-informed GPT-4o storytelling assistant developed by Wu et al.
 * [OmniEdu capability-oriented instruction-tuning corpus](omniedu-capability-oriented-instruction-tuning-corpus.md) - The OmniEdu corpus is a curated, audited, diverse instruction-tuning dataset for education-focused language models, created by Hao Liang et al.
+* [On Biodiversity's Tracks](on-biodiversitys-tracks.md) - On Biodiversity's Tracks is a Greenpeace-developed virtual-reality learning application that lets secondary students explore biodiversity and environmental topics in immersive virtual environments.
 * [On the Rise Academy](on-the-rise-academy.md) - A Detroit Public Schools Community District alternative teacher-certification and recruitment programme that prepares local community members and school support staff through coaching, observations, and supported school placements.
 * [Once Early-Reading Program](once-early-reading-program.md) - Once Early-Reading Program is a school-embedded early-literacy tutoring programme that provides scripted, laptop-delivered one-to-one structured-literacy sessions by trained paraprofessionals for PreK through first-grade students.
 * [Online Experimental Psychological System (OPES) computerized cognitive test battery](online-experimental-psychological-system-opes-computerized-cognitive-test-battery.md) - A Web-based assessment system and battery of computerized cognitive and mathematical tasks developed for administering psychological and achievement measures to learners.
@@ -1319,6 +1321,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [READ 180](read-180.md) - READ 180® is a branded blended-learning reading intervention for struggling adolescent readers, combining digital instruction, teacher-led small groups, independent reading, assessment, and professional development.
 * [Read Naturally](read-naturally.md) - Read Naturally® is a branded supplemental reading-fluency programme developed and provided by Read Naturally, Inc.
 * [Read Well](read-well.md) - Read Well® is a kindergarten and first-grade reading curriculum developed by Sopris West Educational Services and distributed by Cambium Learning, combining whole-class and small-group literacy instruction.
+* [Read&Learn](readlearn.md) - A web-based system developed by Vidal-Abarca et al.
 * [Read, Write & Type!™ Learning System](read-write-type-learning-system.md) - Read, Write & Type!™ Learning System is a game-like early-reading software program with supporting materials designed for beginning and struggling readers ages six to nine.
 * [Readable English](readable-english.md) - Readable English is a branded reading intervention programme developed and delivered by Readable English, combining an adaptive conversion tool with sequenced scripted phonics-to-comprehension lessons for struggling readers.
 * [ReaderBench](readerbench.md) - ReaderBench is a software environment developed by Mihai Dascalu and colleagues that uses cohesion and dialogical analysis to support tutors in evaluating collaboration in CSCL conversations.
@@ -1590,6 +1593,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TapaCarp](tapacarp.md) - TapaCarp is a tangible user-interface-based CSCL environment developed for classroom training of carpenter apprentices by Cuendet, Dehler-Zufferey, Ortoleva, and Dillenbourg.
 * [TaraCarp tangible tabletop environment for carpenter vocational training](taracarp-tangible-tabletop-environment-for-carpenter-vocational-training.md) - TaraCarp is a tangible user-interface tabletop environment developed for vocational carpenter training, combining projected virtual artifacts with physical materials and orchestration tools.
 * [Targeted Reading Instruction](targeted-reading-instruction.md) - Targeted Reading Instruction (TRI) is a one-to-one tutoring programme for struggling kindergarten and first-grade readers that provides brief daily instruction in foundational literacy skills with webcam-supported teacher coaching.
+* [Tarski's World](tarskis-world.md) - Tarski's World is a computer-based learning environment developed by Barwise and Etchemendy for teaching and practicing first-order logic through visual, manipulable worlds.
 * [Taxonomy Betty (Betty's Brain variant)](taxonomy-betty-bettys-brain-variant.md) - A Betty's Brain teachable-agent software variant developed by Doris B.
 * [TCLAS High-Quality, Sustainable Residency Program grant](tclas-high-quality-sustainable-residency-program-grant.md) - A Texas Education Agency grant initiative that funded paid teacher-residency placements and technical assistance for districts and state-approved educator-preparation providers.
 * [Teach For America](teach-for-america.md) - Teach For America runs a nationwide alternate-route teacher-preparation and teacher-placement programme that recruits and prepares corps members to teach in low-income K–12 schools.

@@ -12,10 +12,17 @@ sources:
   - id: sedova-2023
     resource: "https://doi.org/10.1007/s11251-022-09609-1"
     title: "Sedova, K., & Sedlacek, M. (2023). How vocal and silent forms of participation in combination relate to student achievement. Instructional Science, 51, 343–361. https://doi.org/10.1007/s11251-022-09609-1"
-    author: "Sedova, K., & Sedlacek, M"
+    author: "Sedova, K., & Sedlacek, M."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Profile membership differed by gender (χ²(4) = 12.14, p = 0.02), with more boys than expected among disconnected students and more girls than expected among diligent students. [→ Sedova 2023](#sedova-2023)
@@ -26,7 +33,7 @@ sources:
 
 Sedova, K., & Sedlacek, M. (2023). How vocal and silent forms of participation in combination relate to student achievement. Instructional Science, 51, 343–361. https://doi.org/10.1007/s11251-022-09609-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Chi-square test of profile membership by gender in the clustered sample, with adjusted standardized residuals identifying the deviating groups. Socioeconomic status (HISEI), by contrast, showed no significant difference between profiles (F = 2.21, p = 0.07).
 

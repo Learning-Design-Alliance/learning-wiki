@@ -12,14 +12,25 @@ sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
     title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
-    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
   - id: liao-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
     title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
-    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The positive effect of SV on PUF was stronger in the NR group than in the NH group (moderation β = −0.468, p = .001, f² = 0.106; group paths β = 0.477 vs 0.389). [→ Liao 2026](#liao-2026)
@@ -31,7 +42,7 @@ sources:
 
 Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 PLS-SEM moderation test on all 84 participants; the Group×SV interaction on phone-use frequency was significant, with the SV→PUF path stronger in NR (β = 0.477) than NH (β = 0.389).
 
@@ -41,7 +52,7 @@ PLS-SEM moderation test on all 84 participants; the Group×SV interaction on pho
 
 Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 PLS-SEM moderation test on all 84 participants; the Group×SV interaction on average phone-use duration was significant, with SV→APUD significant only in the NH group (β = 0.504, p < .001; NR β = 0.136, p = .593).
 

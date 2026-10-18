@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-026-09814-2"
     title: "Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2"
     author: Yu-Jr Lan, Emmanuel Manalo
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: yu-jr-lan-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09814-2"
     title: "Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2"
     author: Yu-Jr Lan, Emmanuel Manalo
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` SCL change from baseline showed no significant condition difference in either learning or task phase. [→ Yu-Jr Lan 2026](#yu-jr-lan-2026)
@@ -31,7 +42,7 @@ sources:
 
 Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 EDA analysis with 47 participants after excluding three non-responders. No significant SCL difference in either phase; the printed d values (−0.196, −0.072) are below 0.2 but the article frames these as non-significant, so no effect-size magnitude is asserted.
 
@@ -41,7 +52,7 @@ EDA analysis with 47 participants after excluding three non-responders. No signi
 
 Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Descriptive pattern from Fig. 6 across the two stimulus videos; the authors state the partially crossed design meant "potential interactions between instructor presence and tone difficulty could not be fully modeled statistically" and should be interpreted with caution.
 

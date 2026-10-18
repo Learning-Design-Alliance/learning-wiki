@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-018-9474-0"
     title: "Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0"
     author: Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
   - id: martin-2019-2
     resource: "https://doi.org/10.1007/s11251-018-9474-0"
     title: "Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0"
     author: Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The two teachers' scaffolding moves differed significantly: Mrs. Lewis monitored more, prompted peer idea-sharing, extended materials, and handed over independence more, while Mr. Green provided more static support
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mrs. Lewis engaged in significantly more whole-class monitoring, peer idea-sharing, extending materials, and handover to independence than Mr. Green. [→ Martin 2019](#martin-2019)
@@ -31,7 +42,7 @@ sources:
 
 Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Factorial ANOVAs on coded scaffolding moves in 50 videos of whole-class discussions (26 Mrs. Lewis, 24 Mr. Green; Cohen's kappa = .78), coded in two-minute segments. Significant teacher main effects: whole-class monitoring (F(1,46) = 7.24, p < .001), peer idea-sharing (F(1,46) = 10.15, p = .003; 9.0% vs 1.4%), extending materials (F(1,46) = 17.67, p < .001; 44.7% vs 9.6%), and handover to independence (F(1,46) = 4.58, p = .038; 12.6% vs 3.0%).
 
@@ -41,7 +52,7 @@ Factorial ANOVAs on coded scaffolding moves in 50 videos of whole-class discussi
 
 Martin, Nicole D., Tissenbaum, Catherine Dornfeld, Gnesdilow, Dana, Puntambekar, Sadhana. (2019). Fading distributed scaffolds: the importance of complementarity between teacher and material scaffolds. Instructional Science. https://doi.org/10.1007/s11251-018-9474-0
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Factorial ANOVA on the static support code (F(1,46) = 4.58, p = .038): Mr. Green provided support redundant to the journal's embedded support more often than Mrs. Lewis. No interaction models were significant, meaning teachers' scaffolding did not significantly differ over time.
 

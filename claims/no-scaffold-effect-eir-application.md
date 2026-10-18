@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09745-4"
     title: "Julia Hornstein, Martin Greisel, Ingo Kollar. (2025). Promoting Pre-Service Teachers' Evidence-Informed Reasoning Through Peer-Feedback: Effects of a Feedback Provision Scaffold and a Feedback Integration Scaffold. Instructional Science. https://doi.org/10.1007/s11251-025-09745-4"
     author: Julia Hornstein, Martin Greisel, Ingo Kollar
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Neither scaffold significantly improves pre-service teachers' EIR application skills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Neither the feedback provision scaffold nor the feedback integration scaffold had a significant effect on EIR application skills, and the interaction was also non-significant. [→ Julia Hornstein 2025](#julia-hornstein-2025)
@@ -26,7 +33,7 @@ sources:
 
 Julia Hornstein, Martin Greisel, Ingo Kollar. (2025). Promoting Pre-Service Teachers' Evidence-Informed Reasoning Through Peer-Feedback: Effects of a Feedback Provision Scaffold and a Feedback Integration Scaffold. Instructional Science. https://doi.org/10.1007/s11251-025-09745-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Linear mixed model predicting EIR application skills (coded analysis of a second case vignette) in the 2×2 experiment; both main effects and the interaction were non-significant (p = .826, p = .352, p = .832). Descriptively the both-scaffolds condition scored highest (M = 1.31).
 

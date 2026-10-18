@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Model gender and observer gender do not affect learning outcomes or near transfer from video modeling examples
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Neither model gender nor observer gender produced significant main effects or interactions on learning or near transfer scores. [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)
@@ -26,7 +33,7 @@ sources:
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mixed ANOVA on learning scores in the 2 (Model: Female/Male) x 2 (Observer: Female/Male) experiment found no significant gender effects; the same null pattern held for near transfer (Fs < 1). Equivalence was not tested.
 

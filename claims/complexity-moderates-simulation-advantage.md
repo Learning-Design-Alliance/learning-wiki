@@ -12,13 +12,20 @@ sources:
   - id: krüger-2022
     resource: "https://doi.org/10.1007/s11251-021-09566-1"
     title: "Krüger, J. T., Höffler, T. N., Wahl, M., Knickmeier, K., & Parchmann, I. (2022). Two comparative studies of computer simulations and experiments as learning tools in school and out-of-school education. Instructional Science. https://doi.org/10.1007/s11251-021-09566-1"
-    author: "Krüger, J. T., Höffler, T. N., Wahl, M., Knickmeier, K., & Parchmann, I"
+    author: "Krüger, J. T., Höffler, T. N., Wahl, M., Knickmeier, K., & Parchmann, I."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Topic complexity moderates the simulation advantage: the multidimensional Baltic Sea topic showed a much larger simulation benefit than the one-dimensional ocean acidification topic
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+
 ## Subclaims
-`q2 i?` The authors interpret the larger knowledge advantage of simulations in Study II as related to that study's higher topic complexity, where all environmental processes were considered together. [→ Krüger 2022](#krüger-2022)
+`q2 i?` The authors interpret the larger knowledge advantage of simulations in Study II as related to that study's higher topic complexity, where all environmental processes were considered together. [→ Krüger 2022](#kruger-2022)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Krüger, J. T., Höffler, T. N., Wahl, M., Knickmeier, K., & Parchmann, I. (2022). Two comparative studies of computer simulations and experiments as learning tools in school and out-of-school education. Instructional Science. https://doi.org/10.1007/s11251-021-09566-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Authors' interpretation (type e) comparing the two studies: Study II treated warming, eutrophication, acidification and salinity simultaneously with organism interactions, whereas Study I treated one process; the d = 1.05 advantage is linked to this complexity.
 

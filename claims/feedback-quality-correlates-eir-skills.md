@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09745-4"
     title: "Julia Hornstein, Martin Greisel, Ingo Kollar. (2025). Promoting Pre-Service Teachers' Evidence-Informed Reasoning Through Peer-Feedback: Effects of a Feedback Provision Scaffold and a Feedback Integration Scaffold. Instructional Science. https://doi.org/10.1007/s11251-025-09745-4"
     author: Julia Hornstein, Martin Greisel, Ingo Kollar
+    q: 2
+    i: 1
+    kind: causal
+    rigour: 3
 ---
 
 # Feedback quality provided correlates positively with both EIR recognition and EIR application skills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r3` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Participants who provided higher-quality feedback showed higher EIR recognition and application skills. [→ Julia Hornstein 2025](#julia-hornstein-2025)
@@ -26,7 +33,7 @@ sources:
 
 Julia Hornstein, Martin Greisel, Ingo Kollar. (2025). Promoting Pre-Service Teachers' Evidence-Informed Reasoning Through Peer-Feedback: Effects of a Feedback Provision Scaffold and a Feedback Integration Scaffold. Instructional Science. https://doi.org/10.1007/s11251-025-09745-4
 
-`q2 · i1`
+`q2 · i1` · `causal · r3`
 
 Correlational preliminary analysis (Table 3) in the same experiment: feedback quality provided correlated with EIR recognition skills (r = .17, p < .01) and EIR application skills (r = .24, p < .01). These are small correlations and do not establish causality.
 

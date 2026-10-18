@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-021-09559-0"
     title: "Lara M. van Peppen, Peter P. J. L. Verkoeijen, Anita E. G. Heijltjes, Eva M. Janssen, Tamara van Gog. (2021). Enhancing students' critical thinking skills: is comparing correct and erroneous examples beneficial? Instructional Science. https://doi.org/10.1007/s11251-021-09559-0"
     author: Lara M. van Peppen, Peter P. J. L. Verkoeijen, Anita E. G. Heijltjes, Eva M. Janssen, Tamara van Gog
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Explicit CT instruction combined with practice improves students' unbiased reasoning on instructed and practiced heuristics-and-biases items from pretest to immediate posttest
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants' performance on learning items improved from pretest (M = 27.26) to immediate posttest (M = 49.98), with a large main effect of Test Moment. [→ Lara M. van Peppen 2021](#lara-m-van-peppen-2021)
@@ -26,7 +33,7 @@ sources:
 
 Lara M. van Peppen, Peter P. J. L. Verkoeijen, Anita E. G. Heijltjes, Eva M. Janssen, Tamara van Gog. (2021). Enhancing students' critical thinking skills: is comparing correct and erroneous examples beneficial? Instructional Science. https://doi.org/10.1007/s11251-021-09559-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Classroom pretest-intervention-posttest experiment with 170 first-year students; the 2x4 mixed ANOVA on learning items printed Test Moment F(1,166) = 126.48, p < .001, ηp² = .43. The article reports "considerable pretest to immediate posttest gains on practiced items".
 

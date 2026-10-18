@@ -16,6 +16,9 @@ sources:
 
 # Complement lesson study with a theoretical perspective on learning so teachers can plan individually with the theory
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article argues the need "to complement a lesson study with a theoretical perspective on learning" because teachers are then given the opportunity to make use of the theory when planning instruction individually, not only within a learning study group. In this study the theoretical perspective was variation theory, and the Learning Study model served as the vehicle through which teachers' understanding of it gradually developed in line with analyses of pupils' learning. The author reports that one teacher, asked in 2008, still planned instruction on the basis of the theory after the project ended.
 
@@ -34,7 +37,7 @@ The article argues the need "to complement a lesson study with a theoretical per
 - developing teachers' theoretical knowledge of variation theory and their ability to analyze the object of learning
 
 ### Affordances
-- [Variation Theory Discernment Simultaneity Variation](../theories/variation-theory-discernment-simultaneity-variation.md)
+- Variation Theory Discernment Simultaneity Variation
 
 ## Related Strategies
 - 

@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-026-09814-2"
     title: "Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2"
     author: Yu-Jr Lan, Emmanuel Manalo
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: yu-jr-lan-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09814-2"
     title: "Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2"
     author: Yu-Jr Lan, Emmanuel Manalo
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Instructor video presence produced no significant difference in tone production correctness, acceptability, or confidence, though with-condition means were descriptively higher on correctness and acceptability
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Tone production correctness did not differ significantly between conditions, despite descriptively higher with-condition means. [→ Yu-Jr Lan 2026](#yu-jr-lan-2026)
@@ -31,7 +42,7 @@ sources:
 
 Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Repeated-measures ANOVA on production correctness scored blindly by two native-speaker raters (inter-rater k = 0.8). The article reports no significant difference (η² = 0.017) but notes Fig. 3 shows "the trend of the with instructor condition performing better than the without instructor condition in both videos on correctness and acceptability."
 
@@ -41,7 +52,7 @@ Repeated-measures ANOVA on production correctness scored blindly by two native-s
 
 Yu-Jr Lan, Emmanuel Manalo. (2026). Incorporating instructor presence in a multimedia language learning context. Instructional Science. https://doi.org/10.1007/s11251-026-09814-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Acceptability (η² = 0.02) and confidence (F(1, 49) = 0.23, p =.631, η² = 0.001) showed no significant condition differences. The article notes confidence scores varied with content difficulty across the two videos.
 

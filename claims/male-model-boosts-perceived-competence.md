@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` The Test Moment x Gender Model interaction on perceived competence was significant (gp 2 = .029), with larger gains under a male model irrespective of observer gender. [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)
@@ -26,7 +33,7 @@ sources:
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Mixed ANOVA on perceived competence in the 2x2 experiment: significant Test Moment x Gender Model interaction with printed effect size "gp 2 = .029"; male-model gains (3.32 to 4.98) exceeded female-model gains (3.46 to 4.67) for both observer genders.
 

@@ -12,10 +12,17 @@ sources:
   - id: begolli-2021
     resource: "https://doi.org/10.1007/s11251-021-09550-9"
     title: "Begolli, K. N., Dai, T., McGinn, K. M., & Booth, J. L. (2021). Could probability be out of proportion? Self-explanation and example-based practice help students with lower proportional reasoning skills learn probability. Instructional Science. https://doi.org/10.1007/s11251-021-09550-9"
-    author: "Begolli, K. N., Dai, T., McGinn, K. M., & Booth, J. L"
+    author: "Begolli, K. N., Dai, T., McGinn, K. M., & Booth, J. L."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Prior proportional reasoning knowledge predicts later probabilistic knowledge even after controlling for prior probability knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Pretest proportional reasoning was a significant predictor of posttest probabilistic reasoning, controlling for pretest probabilistic reasoning and URM status, supporting H2b. [→ Begolli 2021](#begolli-2021)
@@ -26,7 +33,7 @@ sources:
 
 Begolli, K. N., Dai, T., McGinn, K. M., & Booth, J. L. (2021). Could probability be out of proportion? Self-explanation and example-based practice help students with lower proportional reasoning skills learn probability. Instructional Science. https://doi.org/10.1007/s11251-021-09550-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Final regression model (Model 4) on posttest probabilistic reasoning weighted sum scores, N = 220, with cluster-adjusted standard errors. Pretest proportional reasoning was among the significant predictors; the model explained 29.4% of variance (F [5, 9] = 60.58, p < 0.001).
 

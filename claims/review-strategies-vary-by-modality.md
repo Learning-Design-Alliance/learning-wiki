@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-026-09817-z"
     title: "Mikko Haavisto, Tomi Jaakkola. (2026). Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications. Instructional Science. https://doi.org/10.1007/s11251-026-09817-z"
     author: Mikko Haavisto, Tomi Jaakkola
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Modality had a medium to large effect on the prevalence of review strategies except the isolated strategy, with forward linear reviewing dominant in videos. [→ Mikko Haavisto 2026](#mikko-haavisto-2026)
@@ -26,7 +33,7 @@ sources:
 
 Mikko Haavisto, Tomi Jaakkola. (2026). Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications. Instructional Science. https://doi.org/10.1007/s11251-026-09817-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mixed-effects analysis of review-phase strategies coded from the screen recordings (n = 95, 52 groups per Table 2). Table 2 reports forward linear reviewing at 79.4% in videos versus 41.3% in illustrated texts; scanning and slowing were more prominent in illustrated texts.
 

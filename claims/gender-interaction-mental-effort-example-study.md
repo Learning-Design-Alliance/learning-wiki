@@ -13,17 +13,32 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: 1
+    kind: causal
+    rigour: 2
   - id: vincent-hoogerheide-2016-2
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
   - id: vincent-hoogerheide-2016-3
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
     title: "Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y"
     author: Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i1` The Gender Model x Gender Observer interaction on invested mental effort during example study was significant (gp 2 = .031). [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)
@@ -36,7 +51,7 @@ sources:
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 2x2 ANOVA on mental effort during example study (Paas 9-point scale): significant interaction with printed effect size "gp 2 = .031"; no significant main effects of model or observer gender.
 
@@ -46,7 +61,7 @@ Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from v
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Follow-up comparison within male observers: studying the male model (M = 2.24) was less effortful than the female model (M = 2.97), "d = 0.486" (medium effect).
 
@@ -56,7 +71,7 @@ Follow-up comparison within male observers: studying the male model (M = 2.24) w
 
 Vincent Hoogerheide, Sofie M. M. Loyens, Tamara van Gog. (2016). Learning from video modeling examples: does gender matter? Instructional Science, 44, 69-86. https://doi.org/10.1007/s11251-015-9360-y
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Follow-up comparison within the male-model condition: female students (M = 3.11) invested more effort than male students (M = 2.24), "d = 0.585" (medium effect).
 

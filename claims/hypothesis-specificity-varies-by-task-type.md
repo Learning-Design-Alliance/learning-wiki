@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-008-9055-8"
     title: "Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg. (2009). Unraveling the influence of domain knowledge during simulation-based inquiry learning. Instr Sci, 37, 437-451. https://doi.org/10.1007/s11251-008-9055-8"
     author: Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
   - id: ard-w-lazonder-2009-2
     resource: "https://doi.org/10.1007/s11251-008-9055-8"
     title: "Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg. (2009). Unraveling the influence of domain knowledge during simulation-based inquiry learning. Instr Sci, 37, 437-451. https://doi.org/10.1007/s11251-008-9055-8"
     author: Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Hypothesis specificity differed by task type: intermediate participants stated fewer partially-specified hypotheses than abstract participants, but more fully-specified hypotheses than concrete participants
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Intermediate participants had a lower percentage of partially-specified hypotheses than abstract participants (r = .32), while concrete and intermediate did not differ significantly (p = .07). [→ Ard W. Lazonder 2009](#ard-w-lazonder-2009)
@@ -31,7 +42,7 @@ sources:
 
 Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg. (2009). Unraveling the influence of domain knowledge during simulation-based inquiry learning. Instr Sci, 37, 437-451. https://doi.org/10.1007/s11251-008-9055-8
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 In the randomized experiment, a MANOVA on hypotheses was significant (F(4,104) = 4.40, p < .01). For partially-specified hypotheses, intermediate participants (M = 60.36%) scored above abstract participants (M = 34.52%), "t(52) = 2.45, p\ .05, r = .32".
 
@@ -41,7 +52,7 @@ In the randomized experiment, a MANOVA on hypotheses was significant (F(4,104) =
 
 Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg. (2009). Unraveling the influence of domain knowledge during simulation-based inquiry learning. Instr Sci, 37, 437-451. https://doi.org/10.1007/s11251-008-9055-8
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Same experiment: fully-specified hypothesis percentages were 14.25% (concrete), 35.50% (intermediate), 54.64% (abstract); concrete was significantly lower than intermediate, "t(52) = 2.08, p\ .05, r = .28".
 

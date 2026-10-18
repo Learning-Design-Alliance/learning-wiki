@@ -16,6 +16,9 @@ sources:
 
 # Provide NLCs with repeated feedback on SNA, content and contextual analysis during their activity so they can reflect strategically on performance
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that networked learning communities be given feedback from the multi-method analyses repeatedly during their activity, not only at the end, so participants can reflect more strategically on their performance and decide how to move forward. They write that "NLCs should be provided (and create this themselves) with feedback on SNA, CA and C /C2A repeatedly during their activity". This extends the multi-method framework from a research instrument into a support tool for the community itself.
 
@@ -34,7 +37,7 @@ The authors recommend that networked learning communities be given feedback from
 - strategic self- and group-regulation of collaborative learning
 
 ### Affordances
-- [Multi Method Sna Ca Cer Framework](../theories/multi-method-sna-ca-cer-framework.md)
+- [Multi Method Sna Ca Cer Framework](../research-methods/multi-method-research-framework-combining-sna-content-analysis-and-contextual-analysis-for.md)
 
 ## Related Strategies
 - 

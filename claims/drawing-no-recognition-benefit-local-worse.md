@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09513-6"
     title: "Steffen P. Schmidgall, Katharina Scheiter, Alexander Eitel. (2020). Can we further improve tablet-based drawing to enhance learning? An empirical test of two types of support. Instructional Science. https://doi.org/10.1007/s11251-020-09513-6"
     author: Steffen P. Schmidgall, Katharina Scheiter, Alexander Eitel
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 3
 ---
 
 # Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` No drawing condition benefited recognition; the control condition scored statistically significantly higher than the local support condition (partial η2 = 0.07). [→ Steffen P. Schmidgall 2020](#steffen-p-schmidgall-2020)
@@ -26,7 +33,7 @@ sources:
 
 Steffen P. Schmidgall, Katharina Scheiter, Alexander Eitel. (2020). Can we further improve tablet-based drawing to enhance learning? An empirical test of two types of support. Instructional Science. https://doi.org/10.1007/s11251-020-09513-6
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 ANCOVA on recognition performance with prior knowledge as covariate in the four-condition randomized experiment. The overall effect had partial η2 = 0.07, and "the control condition scored statistically significantly higher than the local support condition (SE = 2.99, p = 0.01)".
 

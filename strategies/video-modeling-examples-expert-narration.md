@@ -16,6 +16,9 @@ sources:
 
 # Video modeling examples with expert narration revealing covert cognitive processing
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The program created video modeling examples by recording expert teachers demonstrating differentiation in their own classrooms, with picture-in-picture narrations in which the expert explains the reasoning behind her visible actions. The authors state "The modeling examples are particularly effective because they do not only show overt teacher behavior, but also reveal covert cognitive processing with an integrated narration by the respective teacher." Presenting a series of such examples lets teachers compare strategies across contexts and identify ones fitting their own context.
 
