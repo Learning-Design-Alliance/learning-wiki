@@ -1,0 +1,39 @@
+---
+type: claim
+title: Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome
+description: Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome
+id: process-mining-heterogeneous-yellow-group-more-efficient
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: liang-2025
+    resource: "https://doi.org/10.1007/s11412-025-09452-9"
+    title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+---
+
+# Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome
+
+## Subclaims
+`q1 i?` Among two video-recorded groups with distinct fitness values, the group with more heterogeneous yellow markers and shared red markers completed content-based reading earlier and showed more meta-cognitive activity, yet both groups earned identical summary scores. [→ Liang 2025](#liang-2025)
+
+## Evidence
+
+### Liang 2025
+
+Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
+
+`q1 · i?`
+
+Video-based process mining (MAXQDA 24 coding of cognitive and social behaviors) of two experimental-condition groups with the highest and lowest fitness values. The authors conclude the higher-fitness group (G1) was more efficient; summary scores were identical across rubrics.
+
+> "the group with more heterogeneous yellow markers and shared red markers was more efﬁcient. They completed content-based reading earlier, allowing more time for meta-cognitive processing and output."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,39 @@
+---
+type: claim
+title: LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion
+description: LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion
+id: llamalo-bias-contested-assertions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: yifat-ben-david-kolikant-2025
+    resource: "https://doi.org/10.1007/s11412-025-09461-8"
+    title: "Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman. (2025). Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09461-8"
+    author: Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman
+---
+
+# LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion
+
+## Subclaims
+`q2 i?` In the "Israeli-Palestinian conflict" discussion, LlamaLo stated that Israel is an apartheid country as fact rather than claim, and gave a distorted history overview ignoring the Israelites period. [→ Yifat Ben-David Kolikant 2025](#yifat-ben-david-kolikant-2025)
+
+## Evidence
+
+### Yifat Ben-David Kolikant 2025
+
+Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman. (2025). Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09461-8
+
+`q2 · i?`
+
+Qualitative content analysis of the Israeli-Palestinian conflict discussion (Findings §4.2). The article reports that LlamaLo "presented contested assertions as facts", identified the topic as political, and urged negotiation between the two sides.
+
+> "LlamaLo identified the topic as political and urged the two sides, Israeli and Palestinian, to negotiate a resolution. However, it stated that Israel is an apartheid country as a fact, rather than a claim (Ellis, 2019; Zreik & Dakwar, 2020)."
+
+## Discussion
+
+
+## Related Claims
+-
