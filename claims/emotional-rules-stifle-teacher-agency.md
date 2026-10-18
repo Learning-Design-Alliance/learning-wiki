@@ -1,0 +1,39 @@
+---
+type: claim
+title: "Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn"
+description: "Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn"
+id: emotional-rules-stifle-teacher-agency
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: chen-2026
+    resource: "https://doi.org/10.1007/s11251-026-09777-4"
+    title: "Chen, G. A., Vedder-Weiss, D., & Marshall, S. A. (2026). Introduction: the role of affect in STEM teacher learning. Instructional Science. https://doi.org/10.1007/s11251-026-09777-4"
+    author: "Chen, G. A., Vedder-Weiss, D., & Marshall, S. A"
+---
+
+# Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn
+
+## Subclaims
+`q2 i?` Emotional rules encountered by veteran mathematics teachers in their workplaces not only create emotional labor but can also stifle their epistemic and relational agency, and thus their ability to learn. [→ Chen 2026](#chen-2026)
+
+## Evidence
+
+### Chen 2026
+
+Chen, G. A., Vedder-Weiss, D., & Marshall, S. A. (2026). Introduction: the role of affect in STEM teacher learning. Instructional Science. https://doi.org/10.1007/s11251-026-09777-4
+
+`q2 · i?`
+
+The editorial describes Horn et al.'s (2025) study of the emotional rules veteran mathematics teachers encounter in their workplaces, reporting that these rules "can also stifle their epistemic and relational agency." The special issue paper itself was not read.
+
+> "illustrating how emotional rules not only create emotional labor for teachers but can also stifle their epistemic and relational agency and thus, their ability to learn"
+
+## Discussion
+
+
+## Related Claims
+-
