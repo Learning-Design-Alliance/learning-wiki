@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (50 show a difference, 16 mixed, 8 no difference) · 58 studies (23 causal, 9 associational, 8 theoretical, 7 qualitative, 6 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 17 of 58 report an effect size · 73 claims rest on one study
+> **Evidence** · 76 claims (52 show a difference, 16 mixed, 8 no difference) · 59 studies (24 causal, 9 associational, 8 theoretical, 7 qualitative, 6 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 18 of 59 report an effect size · 75 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -115,6 +115,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention](../claims/metacognitive-scaffolding-guided-invention-gains.md) [+M] — instruction changes it
 - [Rereading raises judgements of learning after each reading while multiple text reading raises them only after the second reading (significant interaction, ηp2 = 0.07)](../claims/rereading-inflates-jols-across-readings.md) [~M] — instruction changes it
 - [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](../claims/no-metacognitive-awareness-of-errorful-learning-benefits.md) [-M] — instruction changes it
+- [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](../claims/high-complexity-lowers-icl-and-metacognitive-strategy-use.md) [+M] — instruction changes it
+- [Intrinsic cognitive load is a strong predictor of metacognitive strategy use](../claims/icl-predicts-metacognitive-strategy-use.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 70 claims (43 for, 24 mixed, 3 against) · 53 studies (25 causal, 8 review, 7 theoretical, 6 qualitative, 4 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 10 of 53 report an effect size · 66 claims rest on one study
+> **Evidence** · 71 claims (44 for, 24 mixed, 3 against) · 54 studies (25 causal, 8 review, 7 qualitative, 7 theoretical, 4 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 10 of 54 report an effect size · 67 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -112,6 +112,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](../claims/drawing-after-learning-improves-absolute-monitoring-accuracy.md) [+W] — attached 2026-10-18 from Julia Kollmer et al. (2020), which proposed "Generative tasks foster metacognitive monitoring by prompting situation-model reasoning that yields more diagnostic JOL cues".
 - [Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use](../claims/drawing-quality-predicts-jols-similarly-both-conditions.md) [~W] — attached 2026-10-18 from Julia Kollmer et al. (2020), which proposed "Generative tasks foster metacognitive monitoring by prompting situation-model reasoning that yields more diagnostic JOL cues".
 - [In BioWorld, confidence was tied to final diagnostic accuracy but not to the first hypothesis](../claims/bioworld-confidence-tied-to-final-accuracy.md) [+W] — attached 2026-10-18 from Lajoie et al. (2001), which proposed "Belief meter and evidence palette as memory and metacognitive scaffolds".
+- [Peer discussion and poster activities prompted students to articulate and revise their ideas, with metaconceptual awareness and evaluation observed](../claims/peer-discussion-revision-metaconceptual-awareness.md) [+W] — attached 2026-10-18 from Osman Sabancı (2026), which proposed "Metaconceptual processes framework: awareness, monitoring, and evaluation".
 
 ## The evidence by question
 

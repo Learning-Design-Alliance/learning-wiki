@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (15 for, 19 mixed, 3 against) · 29 studies (13 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 29 report an effect size · 31 claims rest on one study
+> **Evidence** · 40 claims (18 for, 19 mixed, 3 against) · 30 studies (14 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 30 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -111,6 +111,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](../claims/scaffolds-mitigate-prior-knowledge-limit.md) [+W] — attached 2026-10-18 from Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller (2023), which proposed "In whole-class inquiry, combine a static structuring scaffold with teacher modeling and adaptive problematizing verbal scaffolds to serve heterogeneous student preconditions"; tests this page's relationship.
 - [Teacher-judged logical reasoning combined with prior knowledge to predict learning only under the control condition; scaffolding almost fully diminished the disadvantage of lower logical reasoning](../claims/scaffolds-diminish-logical-reasoning-disadvantage.md) [+W] — attached 2026-10-18 from Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller (2023), which proposed "In whole-class inquiry, combine a static structuring scaffold with teacher modeling and adaptive problematizing verbal scaffolds to serve heterogeneous student preconditions"; tests this page's relationship.
 - [Scaffolding enabled students' inhibition ability to contribute to learning reasoning from irrelevant events: inhibition predicted posttest scores only under the experimental condition](../claims/scaffolds-enable-inhibition-contribution.md) [+W] — attached 2026-10-18 from Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller (2023), which proposed "In whole-class inquiry, combine a static structuring scaffold with teacher modeling and adaptive problematizing verbal scaffolds to serve heterogeneous student preconditions"; tests this page's relationship.
+- [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](../claims/scaffolds-shift-cps-turn-proportions-p3-p4.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
+- [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](../claims/scaffolds-lower-gini-cps-process-distribution.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
+- [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](../claims/scaffolds-higher-final-solution-scores.md) [+W] — attached 2026-10-18 from Parks et al. (2026), which proposed "Include hard scaffolds in the design of ill-structured tasks for collaborative problem solving in higher education STEM classrooms"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

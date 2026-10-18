@@ -52,3 +52,4 @@ T tests in the longitudinal sample (N=214 at T1) showed girls higher on all thre
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
 - [Gender moderates the direct effect of parental beliefs and interests on children's social–emotional competence but not the direct effect of structural family characteristics](gender-moderates-direct-effect-of-parental-beliefs-not-structural-characteristics.md) — related
+- [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related

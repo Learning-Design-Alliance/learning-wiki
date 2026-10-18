@@ -99,3 +99,4 @@ This is the source paper that introduces conditional knowledge as one of three c
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - [McKenney et al.'s ecological framework emphasizes knowing but not applying design knowledge](mckenney-framework-knowing-insufficient.md) — related
+- [High-gain teacher's high-change students received full explicit domain instruction on how and why readers set purposes, unlike the typical teacher's students](full-domain-instruction-how-why-purposes-high-gain-teacher.md) — a narrower finding that bears on this claim

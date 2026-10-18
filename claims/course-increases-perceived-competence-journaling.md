@@ -72,3 +72,4 @@ ANOVAs on the IMI perceived-choice and pressure sub-scales among active particip
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect](course-users-earlier-journal-entry-timing.md) — related
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](journaling-assistant-no-intrinsic-motivation-effect.md) — related
+- [Perceived competence predicts isomorphic test performance and perceived autonomy predicts transfer performance](perceived-competence-autonomy-predict-test-performance.md) — related

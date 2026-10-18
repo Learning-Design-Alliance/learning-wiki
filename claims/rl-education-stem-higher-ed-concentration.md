@@ -47,3 +47,4 @@ Descriptive analysis of educational contexts across the 89 included papers (Tabl
 - RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24) — related
 - Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications — related
 - GBA is predominantly applied in physics education (4 studies), with about 19% of studies not specifying a subject field — related
+- [Data practice emphasis varies across science disciplines, with environmental science and biology dominating the literature](data-practices-vary-by-discipline.md) — related

@@ -119,3 +119,4 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
+- [The association between musical training and school performance appears general and non-specific across subjects, with no evidence for special links to single domains](music-school-association-non-specific-no-special-links.md) — related

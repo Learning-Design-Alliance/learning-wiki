@@ -47,3 +47,4 @@ The article reports, as prior work rather than its own analysis, that previous r
 - [School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools](school-means-stable-despite-differential-engagement.md) — related
 - [Twenty years of research on disengaged test taking in international assessment programs yields six insights with implications for assessment programs](six-insights-test-taking-disengagement-international-programs.md) — a broader claim this one bears on
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — a broader claim this one bears on
+- [Country differences in reported levels of use of instructional practices were highly consistent across TIMSS waves (ClassListen r = .70; ClassDaily r = .91)](country-practice-levels-consistent-across-waves.md) — related

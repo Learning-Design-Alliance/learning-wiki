@@ -48,3 +48,4 @@ Authors' descriptive comparison of interleaved-condition test means across the t
 - [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](interleaving-benefit-persists-thirty-days.md) — related
 - [The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant](interleaving-benefit-by-problem-type-and-delay.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — a broader claim this one bears on
+- [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related

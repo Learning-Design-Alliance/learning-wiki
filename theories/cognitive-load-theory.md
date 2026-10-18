@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 49 claims (37 for, 9 mixed, 3 against) · 47 studies (22 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 11 of 47 report an effect size · 39 claims rest on one study
+> **Evidence** · 50 claims (38 for, 9 mixed, 3 against) · 48 studies (23 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 11 of 48 report an effect size · 40 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -117,6 +117,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts](../claims/retrospective-prompts-higher-germane-load-low-prior-knowledge.md) [+W] — attached 2026-10-18 from Meier et al. (2024), which proposed "Cognitive load theory (1998 conception) as the explanatory framework for prompt-direction and expertise effects in example-based learning"; tests this page's relationship.
 - [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](../claims/vr-reverse-modality-effect-recall.md) [+W] — attached 2026-10-18 from Patrick Albus (2023), which proposed "Boundary-condition account of the reverse modality effect in immersive VR".
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](../claims/vr-visual-only-higher-germane-load.md) [+W] — attached 2026-10-18 from Patrick Albus (2023), which proposed "Boundary-condition account of the reverse modality effect in immersive VR".
+- [A forward linear review strategy predicted lower cognitive load regardless of modality, while scanning and slowing predicted higher cognitive load](../claims/linear-strategy-lower-cognitive-load.md) [+W] — attached 2026-10-18 from Mikko Haavisto (2026), which proposed "The modality effect grounded in cognitive load theory, with hybrid learner control as a dual-advantage design".
 
 ## The evidence by question
 

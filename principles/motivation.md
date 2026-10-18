@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (35 for, 18 mixed, 4 against) · 62 studies (19 review, 14 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 5 associational, 3 design), `q1`–`q4` · 7 of 62 report an effect size · 43 claims rest on one study
+> **Evidence** · 59 claims (36 for, 19 mixed, 4 against) · 63 studies (19 review, 14 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 6 associational, 3 design), `q1`–`q4` · 7 of 63 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,8 @@ None at present. Claims attached to this page after 2026-10-15 are listed here u
 - [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Foster learning goals and avoid performance-goal emphasis when supporting adult memory learners"; tests this page's relationship.
 - [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Foster learning goals and avoid performance-goal emphasis when supporting adult memory learners".
 - [Under task-involving feedback, pre-task person praise reduces motivation and indirectly lowers task performance; under ego-involving feedback it indirectly raises performance](../claims/person-praise-indirect-performance-via-motivation.md) [~M] — attached 2026-10-18 from Cheng-Hong Liu (2026), which proposed "Avoid pre-task person praise for tasks with anticipated task-involving feedback; it is a strategic option only when ego-involving feedback (public comparison) is expected"; tests this page's relationship.
+- [Students' perception of science instruction as interesting is positively associated with their emotional engagement in science](../claims/interesting-science-instruction-associated-emotional-engagement.md) [+W] — attached 2026-10-18 from Xin Xia (2026), which proposed "Design science instruction that students perceive as interesting and understandable to foster positive emotional experiences, especially in transition grades"; tests this page's relationship.
+- [The association between perceiving science as interesting and emotional engagement is stronger in grades 4, 6, 7, 8, and 12 than in grade 3, with the steepest increase in the grade-6 transition year](../claims/grade-moderates-interesting-instruction-engagement-link.md) [~W] — attached 2026-10-18 from Xin Xia (2026), which proposed "Design science instruction that students perceive as interesting and understandable to foster positive emotional experiences, especially in transition grades"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

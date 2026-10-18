@@ -105,3 +105,4 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [The Trainer is expected to develop feedback literacy capacities](trainer-expected-develop-feedback-literacy.md) — a narrower finding that bears on this claim
 - [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — a narrower finding that bears on this claim
+- [Peer discussion and poster activities prompted students to articulate and revise their ideas, with metaconceptual awareness and evaluation observed](peer-discussion-revision-metaconceptual-awareness.md) — related

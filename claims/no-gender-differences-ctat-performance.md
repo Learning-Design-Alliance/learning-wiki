@@ -50,3 +50,4 @@ t-test comparisons of CTAT scores by gender within each pathway in the main stud
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
 - [College students scored significantly higher on CTAT than vocational school students](college-students-outscore-vocational-on-ctat.md) — related
 - [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related
+- [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related

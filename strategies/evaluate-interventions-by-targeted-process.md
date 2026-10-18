@@ -47,6 +47,7 @@ The review recommends that educational interventions be evaluated for the specif
 ## Related Strategies
 
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
+- [Assess fidelity separately for instructional components and include student application when evaluating strategy instruction](component-level-fidelity-scores-with-student-application.md)
 
 ## Examples
 -

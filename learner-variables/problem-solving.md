@@ -12,7 +12,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (35 show a difference, 4 mixed, 3 no difference) · 39 studies (19 causal, 5 associational, 4 review, 3 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 12 of 39 report an effect size · 40 claims rest on one study
+> **Evidence** · 49 claims (41 show a difference, 4 mixed, 4 no difference) · 41 studies (21 causal, 5 associational, 4 review, 3 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 41 report an effect size · 47 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -79,6 +79,13 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](../claims/students-attribute-problems-to-technology-not-own-work.md) [~W] — instruction changes it
 - [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](../claims/online-ps-solutions-predict-posttests.md) [+M] — learners who differ on it differ in outcomes
 - [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](../claims/micro-productive-failure-improves-isomorphic-procedural-problems.md) [+M] — instruction changes it
+- [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](../claims/scaffolds-prompt-p1-p2-engagement-at-start.md) [+M] — instruction changes it
+- [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](../claims/scaffolds-lower-gini-cps-process-distribution.md) [+M] — instruction changes it
+- [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](../claims/scaffolds-higher-final-solution-scores.md) [+M] — instruction changes it
+- [Heuristic and algorithmic training conditions do not differ in posttest problem-solving performance](../claims/no-posttest-difference-between-training-conditions.md) [-M] — instruction changes it
+- [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](../claims/scaffolds-shift-cps-turn-proportions-p3-p4.md) [+M] — instruction changes it
+- [Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase](../claims/video-modeling-srl-training-improves-posttest-performance.md) [+M] — instruction changes it
+- [Video-graph analysis shows scaffolded tasks produced more diverse process episodes, more fluent transitions between processes, and more P3–P4 oscillation than non-scaffolded tasks](../claims/scaffolds-video-graph-episode-diversity-transitions.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

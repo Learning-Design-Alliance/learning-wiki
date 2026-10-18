@@ -1,0 +1,46 @@
+---
+type: claim
+title: Positive attitudes toward ChatGPT increased from before to during the practicum
+description: Positive attitudes toward ChatGPT increased from before to during the practicum
+id: chatgpt-attitudes-increased-during-practicum
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: saadet-korucu-kış-2026
+    resource: "https://doi.org/10.1007/s11251-026-09783-6"
+    title: "Saadet Korucu-Kış, Arif Bakla. (2026). Exploring pre-service EFL teachers’ perceptions, use cases and questioning practices of ChatGPT during practicum: a critical digital pedagogy perspective. Instructional Science. https://doi.org/10.1007/s11251-026-09783-6"
+    author: Saadet Korucu-Kış, Arif Bakla
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
+---
+
+# Positive attitudes toward ChatGPT increased from before to during the practicum
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r3` · `q2`
+
+## Subclaims
+`q2 i?` While-practicum focus group interviews yielded 17 new positive reflections from 10 of 11 participants (91%), compared with only six positive comments from 6 of 11 participants (54.4%) before the practicum, with no negative views recorded pre-practicum. [→ Saadet Korucu-Kış 2026](#saadet-korucu-ks-2026)
+
+## Evidence
+
+### Saadet Korucu-Kış 2026
+
+Saadet Korucu-Kış, Arif Bakla. (2026). Exploring pre-service EFL teachers’ perceptions, use cases and questioning practices of ChatGPT during practicum: a critical digital pedagogy perspective. Instructional Science. https://doi.org/10.1007/s11251-026-09783-6
+
+`q2 · i?` · `qualitative · r3`
+
+Comparison of pre-practicum and while-practicum focus group interviews in the same case study. Pre-practicum interviews produced only six positive comments (54.4% of participants) and no negative views; mid-practicum interviews showed "a marked increase in perceived value" with 91% of participants giving positive reflections.
+
+> "while-practicum focus group interviews yielded 17 new positive reflections (10 out of 11 participants, 91%), indicating a marked increase in perceived value."
+
+## Discussion
+
+
+## Related Claims
+-

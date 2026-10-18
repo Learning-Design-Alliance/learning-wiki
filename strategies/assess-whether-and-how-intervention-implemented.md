@@ -41,6 +41,7 @@ A core strategy the guide recommends is measuring fidelity and enactment: resear
 - [Document the implementation context and measure the intervention-control contrast](document-context-and-measure-contrast.md)
 - [Link implementation and impact findings when analyzing and reporting impact studies](link-implementation-and-impact-findings.md)
 - [Specify implementation research questions as a distinct step in impact study design](specify-implementation-research-questions-step.md)
+- [Assess fidelity separately for instructional components and include student application when evaluating strategy instruction](component-level-fidelity-scores-with-student-application.md)
 
 ## Examples
 -

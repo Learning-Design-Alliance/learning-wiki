@@ -83,6 +83,7 @@ Empathy interviews work because they position families as experts on their own e
 - [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
 - [Discovery-phase data collection: surveys, listening sessions, and project inventories to map the current system](discovery-phase-data-collection-tools.md)
 - [Run a strengths-based student focus group using open-ended, neutrally framed questions about learning from home](strengths-based-student-focus-group-questions.md)
+- [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the opening move that establishes psychological safety

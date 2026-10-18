@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (65 show a difference, 26 mixed, 7 no difference) · 89 studies (35 causal, 17 associational, 16 review, 9 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 18 of 89 report an effect size · 94 claims rest on one study
+> **Evidence** · 100 claims (67 show a difference, 26 mixed, 7 no difference) · 90 studies (35 causal, 18 associational, 16 review, 9 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 18 of 90 report an effect size · 96 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -154,6 +154,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](../claims/guidance-time-reallocation-multiple-document-task.md) [+M] — instruction changes it
 - [Low contingent support increased task effort when independent working time was short; with long independent working time task effort decreased under both contingencies but less so with high contingency](../claims/contingency-working-time-task-effort-interaction.md) [~M] — an instructional effect differs with it
 - [When controlling for task effort, low contingent support improved multiple-choice achievement with short independent working time whereas high contingent support improved it with long independent working time](../claims/contingency-by-working-time-interaction-achievement.md) [~M] — an instructional effect differs with it
+- [Fidelity of implementation and percentage of instructional time on engaged reader processes added only 2% explained variance to comprehension post-test scores beyond controls](../claims/fidelity-time-added-2-percent-variance-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Homogeneous comprehension-needs groups spent less time on engaged reader processes but received better-aligned instruction than heterogeneous groups](../claims/homogeneous-groups-less-time-better-fidelity-alignment.md) [+M] — instruction changes it
 
 ## The evidence by question
 

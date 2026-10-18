@@ -12,7 +12,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (86 show a difference, 31 mixed, 15 no difference) · 106 studies (46 associational, 20 causal, 15 review, 9 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 13 of 106 report an effect size · 130 claims rest on one study
+> **Evidence** · 133 claims (86 show a difference, 31 mixed, 16 no difference) · 107 studies (47 associational, 20 causal, 15 review, 9 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 13 of 107 report an effect size · 131 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -163,6 +163,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](../claims/developmental-improvements-local-global-coherence-inferences.md) [+M] — learners who differ on it differ in outcomes
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~M] — an instructional effect differs with it
 - [Older students more often represent the historical subject as heterogeneous](../claims/historical-subject-heterogeneous-increases-grade-11.md) [+M] — learners who differ on it differ in outcomes
+- [No statistically significant differences between grade levels in the association between perceiving science as understandable and emotional engagement](../claims/understandable-instruction-engagement-link-does-not-vary-by-grade.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

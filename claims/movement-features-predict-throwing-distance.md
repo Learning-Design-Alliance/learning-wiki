@@ -1,0 +1,46 @@
+---
+type: claim
+title: Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most
+description: Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most
+id: movement-features-predict-throwing-distance
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: christian-leukel-2025
+    resource: "https://doi.org/10.1007/s11251-024-09700-9"
+    title: "Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9"
+    author: Christian Leukel, Katharina Loibl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
+
+## Subclaims
+`q3 i?` The five movement features significantly predicted javelin throwing distance, explaining 26% of the variance. [→ Christian Leukel 2025](#christian-leukel-2025)
+
+## Evidence
+
+### Christian Leukel 2025
+
+Christian Leukel, Katharina Loibl. (2025). Problem-solving prior to instructional explanations when learning javelin throwing in primary school. Instructional Science. https://doi.org/10.1007/s11251-024-09700-9
+
+`q3 · i?` · `causal · r1`
+
+Multiple linear regression across all tested subjects (mirroring the secondary-school analysis) showed the feature model significantly predicted distance; the bracing step contributed most, and arm positioning, impulse step, and elbow positioning did not significantly contribute.
+
+> "the model explained 26% of the variance and significantly predicted javelin throwing distance (F (5,94) = 6.7, p <.001). Variation of distance was significantly explained by the orientation of the javelin (β = 0.26, t = 2.67, p <.01) and the bracing step (β = 0.42, t = 4.04, p <.001)."
+
+## Discussion
+
+
+## Related Claims
+-

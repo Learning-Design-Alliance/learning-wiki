@@ -34966,5 +34966,185 @@
  "media-design\tvisual-only instructional text\taudio-visual instructional text": {
   "label": "audio-visual instructional text vs visual-only instructional text",
   "treatment_is_a": false
+ },
+ "active-learning\tcollaborative productive-failure problem solving\tindividual productive-failure problem solving": {
+  "label": "collaborative productive-failure problem solving vs individual productive-failure problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\thigher co-construction behavior\tlower co-construction behavior": {
+  "label": "higher co-construction behavior vs lower co-construction behavior",
+  "treatment_is_a": true
+ },
+ "active-learning\thigher constructive-conflict behavior\tlower constructive-conflict behavior": {
+  "label": "higher constructive-conflict behavior vs lower constructive-conflict behavior",
+  "treatment_is_a": true
+ },
+ "debriefing\tCHAT-guided group discussions extending PEARLS beyond the individual\tindividualised simulation debriefing and training approach": {
+  "label": "Group vs individual debriefing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample first (WE→PS)\tproblem first (PS→WE) and simultaneous presentation (WE || PS)": {
+  "label": "example-first vs problem-first or simultaneous",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample-first, problem-first, or simultaneous sequence\tthe other sequence conditions": {
+  "label": "example-first, problem-first, or simultaneous vs alternative sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample-first, problem-first, or simultaneous sequencing\talternative sequencing conditions": {
+  "label": "example-first, problem-first, or simultaneous vs alternative sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample-problem sequence condition\tother sequence conditions": {
+  "label": "example-first vs other sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample–problem pairs\tproblem–example pairs": {
+  "label": "example-first vs problem-first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample–problem pairs (EPEP)\tproblem–example pairs (PEPE)": {
+  "label": "example-first vs problem-first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample–problem pairs (EPEP), gifted students\tproblem–example pairs (PEPE), gifted students": {
+  "label": "example-first vs problem-first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample–problem pairs (EPEP), nongifted students\tproblem–example pairs (PEPE), nongifted students": {
+  "label": "example-first vs problem-first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample–problem–example–problem pairs\tproblem–example–problem–example pairs": {
+  "label": "example-first vs problem-first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tgraphing post-test after the learning phase across all three sequence conditions\tgraphing pre-test before the learning phase": {
+  "label": "post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tthe three sequence conditions: WE→PS, PS→WE, and WE || PS\tamong sequence conditions": {
+  "label": "example-first, problem-first, or simultaneous vs alternative sequencing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in how and why engaged reader processes should be used\tless explicit instruction": {
+  "label": "explicit instruction vs less explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in how and why engaged reader processes should be used\tpartial or inappropriate instruction": {
+  "label": "explicit instruction vs less explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thigh-gain teacher’s instruction\ttypical-gain teacher’s instruction": {
+  "label": "high-gain teacher instruction vs typical-gain teacher instruction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback on domain information\tless effective scaffolding without effective domain-information feedback": {
+  "label": "domain-information feedback vs less-effective scaffolding",
+  "treatment_is_a": true
+ },
+ "media-design\tdemonstration videos with reviews\tdemonstration-only videos": {
+  "label": "demonstration videos with reviews vs demonstration-only videos",
+  "treatment_is_a": true
+ },
+ "media-design\twriting-out video modeling examples similar to Kostons et al.\tscreen-recording examples in the Qualtrics environment": {
+  "label": "writing-out video modeling examples vs screen-recording examples",
+  "treatment_is_a": true
+ },
+ "praise\tspecific praise at Lag-2\tno specific praise at Lag-2": {
+  "label": "specific praise vs no specific praise",
+  "treatment_is_a": true
+ },
+ "prompts\tscaffolding prompts directing groups to explore and represent the problem\tnon-scaffolded task without these prompts": {
+  "label": "scaffolding prompts vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "prompts\tscaffolding prompts directing groups to plan how to solve\tnon-scaffolded task without these prompts": {
+  "label": "scaffolding prompts vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "prompts\tscaffolding prompts embedded in the ill-structured engineering task\tnon-scaffolded ill-structured engineering task": {
+  "label": "scaffolding prompts vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\thard scaffolding prompts in ill-structured engineering tasks\tnon-scaffolded ill-structured engineering tasks": {
+  "label": "scaffolded ill-structured task vs non-scaffolded ill-structured task",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh-gain teacher instruction\ttypical-gain teacher instruction": {
+  "label": "high-gain teacher instruction vs typical-gain teacher instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh-level prompting at Lag-2\tno high-level prompting at Lag-2": {
+  "label": "high-level prompting vs no high-level prompting",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinformation provision\tabsence of information provision": {
+  "label": "information provision vs absence of information provision",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinteractional domain-information scaffolding with partial or full feedback\tless effective or inappropriate domain-information feedback": {
+  "label": "effective interactional domain-information scaffolding/feedback vs less effective or inappropriate domain-information feedback",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlow-level prompting\tabsence of low-level prompting": {
+  "label": "low-level prompting vs absence of low-level prompting",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmodeling\tabsence of modeling": {
+  "label": "modeling vs absence of modeling",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded ill-structured engineering task with scaffolding prompts\tnon-scaffolded ill-structured engineering task": {
+  "label": "scaffolded ill-structured task vs non-scaffolded ill-structured task",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded ill-structured task\tnon-scaffolded ill-structured task": {
+  "label": "scaffolded ill-structured task vs non-scaffolded ill-structured task",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded ill-structured task with prompts\tnon-scaffolded ill-structured task": {
+  "label": "scaffolded ill-structured task vs non-scaffolded ill-structured task",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompted heuristic worked examples\tunprompted heuristic worked examples": {
+  "label": "prompted vs unprompted self-explanation",
+  "treatment_is_a": true
+ },
+ "simulation\tfour-session SimLab programme with interprofessional in-situ simulation\tpre-SimLab practice": {
+  "label": "simulation vs non-simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tfour-session SimLab programme with interprofessional in-situ simulation and facilitated group discussions\tpre-SimLab team functioning": {
+  "label": "simulation vs non-simulation",
+  "treatment_is_a": true
+ },
+ "worked-examples\theuristic video modeling training\talgorithmic video modeling training": {
+  "label": "heuristic video modeling vs algorithmic video modeling",
+  "treatment_is_a": true
+ },
+ "worked-examples\theuristic worked examples\tcontrol condition working on reality-based tasks": {
+  "label": "worked examples vs reality-based tasks without instructional support",
+  "treatment_is_a": true
+ },
+ "worked-examples\theuristic worked examples\treality-based tasks without instructional support": {
+  "label": "worked examples vs reality-based tasks without instructional support",
+  "treatment_is_a": true
+ },
+ "worked-examples\theuristic worked examples, with or without self-explanation prompts\treality-based tasks without instructional support": {
+  "label": "worked examples vs reality-based tasks without instructional support",
+  "treatment_is_a": true
+ },
+ "worked-examples\tprompted worked examples\tcontrol tasks": {
+  "label": "worked examples vs control tasks",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples\tcontrol tasks": {
+  "label": "worked examples vs control tasks",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example conditions\tcontrol condition": {
+  "label": "worked examples vs control tasks",
+  "treatment_is_a": true
  }
 }

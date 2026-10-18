@@ -12,7 +12,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (26 show a difference, 2 mixed, 1 no difference, 2 unmarked) · 20 studies (6 associational, 5 review, 4 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 5 of 20 report an effect size · 30 claims rest on one study
+> **Evidence** · 34 claims (27 show a difference, 2 mixed, 3 no difference, 2 unmarked) · 21 studies (6 associational, 5 causal, 5 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 5 of 21 report an effect size · 33 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -65,6 +65,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Latent profile analysis identifies three learner profiles differing in cognitive factors, self-concept, and extraneous load, with significant performance differences](../claims/three-inquiry-learner-profiles-lpa.md) [~M] — learners who differ on it differ in outcomes
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](../claims/higher-perceived-performance-lowers-situational-self-concept.md) [+M] — instruction changes it
 - [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](../claims/perceived-performance-mediates-bflpe.md) [+M] — instruction changes it
+- [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](../claims/motivation-changes-independent-of-achievement.md) [-W] — learners who differ on it differ in outcomes
+- [Co-teaching does not differ from solo teaching in the development of students' mathematics self-concept and interest](../claims/co-teaching-no-motivation-development-benefit.md) [-W] — instruction changes it
+- [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](../claims/math-self-concept-interest-decline-one-school-year.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

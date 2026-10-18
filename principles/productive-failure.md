@@ -31,7 +31,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (8 for, 7 mixed, 4 against, 1 unmarked) · 18 studies (9 causal, 5 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 7 of 18 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (8 for, 8 mixed, 4 against, 1 unmarked) · 19 studies (10 causal, 5 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 7 of 19 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ Taken together: for conceptual understanding and transfer in learners past the e
 - [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](../claims/micro-productive-failure-improves-isomorphic-procedural-problems.md) [+M] — attached 2026-10-18 from Esther Ziegler et al. (2021), which proposed "Sequence brief problem-solving attempts before instruction when teaching multi-step algebraic procedures"; tests this page's relationship.
 - [Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study](../claims/giftedness-instruction-interaction-significant.md) [~M] — attached 2026-10-18 from Lim et al. (2023), which proposed "Invention-first instruction is a candidate strategy for gifted secondary students, pending confirmation"; tests this page's relationship.
 - [Learning the CVS with self-generated, vicarious, combined, or no errors during PS-I does not differentially affect CVS posttest performance when controlling for prior knowledge](../claims/cvs-error-type-no-posttest-differences.md) [~W] — attached 2026-10-18 from Hämmerle et al. (2026), which proposed "Integrate learning from errors within a PS-I framework to retain cognitively engaging experimentation while structuring it in a resource-efficient, guided manner".
+- [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](../claims/pf-collaborative-individual-no-conceptual-knowledge-difference.md) [~M] — attached 2026-10-18 from Charleen Brand et al. (2023), which proposed "Collaboration is not a necessary design component of the PF problem-solving phase for conceptual learning".
 
 ## Objective and learner-valued goal
 

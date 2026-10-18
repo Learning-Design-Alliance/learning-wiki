@@ -39,7 +39,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 7 mixed) · 31 studies (12 causal, 5 review, 4 quant-synthesis, 4 qualitative, 4 theoretical, 1 associational, 1 design), `q1`–`q4` · 3 of 31 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (11 for, 7 mixed) · 32 studies (13 causal, 5 review, 4 quant-synthesis, 4 qualitative, 4 theoretical, 1 associational, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](../claims/modernist-discourses-contradictory-environmental-effects.md) [+W]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Critiquing problematic inquiry cases before virtual-lab inquiry augments the effect of virtual labs on middle school students' scientific literacy more than teacher demonstration](../claims/critique-before-virtual-lab-inquiry-augments-scientific-literacy.md) [+W] — attached 2026-10-18 from Liu et al. (2022), which proposed "Engage students in critiquing problematic inquiry cases before they conduct inquiry in a virtual lab"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

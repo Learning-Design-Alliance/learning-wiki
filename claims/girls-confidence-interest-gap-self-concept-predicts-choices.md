@@ -92,3 +92,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Math anxiety levels do not differ significantly by gender among third graders](math-anxiety-no-gender-difference-third-graders.md) — related
 - [Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison](task-value-higher-mathematics-both-genders.md) — related
+- [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — a narrower finding that bears on this claim

@@ -31,7 +31,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (17 for, 6 mixed) · 22 studies (6 review, 4 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (18 for, 6 mixed) · 23 studies (6 review, 4 causal, 4 associational, 3 quant-synthesis, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 4 of 23 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Claims this page cited, or that bear on it, which the model above does not rest 
 - [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](../claims/lack-of-practice-teacher-centered-anxiety.md) [~W] — the same survey as the fear-of-mistakes claim; the authors' reading that teacher-centered classes give too little speaking practice, which bears on step 2 but is an interpretation, not a finding.
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+W] — a systematic review's thematic synthesis of AI practice in EFL; bears on private practice as a way into speaking (the AI-tutor row), not on classroom talk.
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](../claims/flca-influences-outcomes-four-factors.md) [+W]
+- [High internal behavioral engagement without classroom talk does not guarantee achievement: the diligent profile ranked fourth](../claims/engagement-without-talk-no-guarantee.md) [+W] — attached 2026-10-18 from Sedova et al. (2023), which proposed "Teachers should invite all students to participate in classroom conversation rather than assuming silent, engaged students benefit equally"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

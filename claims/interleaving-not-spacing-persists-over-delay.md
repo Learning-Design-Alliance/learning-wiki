@@ -51,3 +51,4 @@ Narrative synthesis of seven studies with longer retention intervals (24 hours t
 - [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](interleaved-benefit-one-day-delay-d042.md) — a narrower finding that bears on this claim
 - [Inserting trivia questions between interleaved exemplars impairs inductive learning when it disrupts juxtaposition of categories, with total spacing held constant](interrupting-juxtaposition-impairs-inductive-learning.md) — related
 - [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related
+- [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — a narrower finding that bears on this claim
