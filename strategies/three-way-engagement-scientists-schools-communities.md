@@ -17,7 +17,7 @@ sources:
 # Braid local community goals, needs, and expertise into school-based citizen science as a third constituency
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The commentary argues that richer learning opportunities lie in three-way engagement amongst scientists, schools, and local communities, beyond the two-way engagement between scientists and schools that dominates the research. Local communities, whose needs and interests could provide students with culturally-relevant, compelling scientific questions, are a largely unacknowledged third constituency. The commentary recommends integrating and adapting approaches and strategies from community-based participatory research, including structure, roles and responsibilities, and ethical knowledge exchange practices.

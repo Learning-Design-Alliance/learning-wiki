@@ -15,18 +15,22 @@ sources:
     author: Kirschner, P. A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: kirschner-2015-2
     resource: "https://doi.org/10.1007/s11251-015-9346-9"
     title: "Kirschner, P. A. (2015). Do we need teachers as designers of technology enhanced learning? Instructional Science, 43, 309–322. https://doi.org/10.1007/s11251-015-9346-9"
     author: Kirschner, P. A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Participatory design yields teacher ownership but carries tradeoffs and omits the learner
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` Participatory design may yield increased ownership, but at the cost of time and energy that could be invested elsewhere, and may cause blindness for problems users encounter. [→ Kirschner 2015](#kirschner-2015)
@@ -38,7 +42,7 @@ sources:
 
 Kirschner, P. A. (2015). Do we need teachers as designers of technology enhanced learning? Instructional Science, 43, 309–322. https://doi.org/10.1007/s11251-015-9346-9
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Critical reflection on Cober et al.'s (2015) two case-studies of teachers as participatory designers. The author doubts generalizability from two case-studies and questions whether participation is a worthwhile goal in itself or primarily a vehicle for developing ownership and understanding.
 
@@ -48,7 +52,7 @@ Critical reflection on Cober et al.'s (2015) two case-studies of teachers as par
 
 Kirschner, P. A. (2015). Do we need teachers as designers of technology enhanced learning? Instructional Science, 43, 309–322. https://doi.org/10.1007/s11251-015-9346-9
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Commentary noting that students in Cober et al.'s studies were considered passively, e.g. through teachers reflecting on students' possible responses, rather than contributing directly to design.
 

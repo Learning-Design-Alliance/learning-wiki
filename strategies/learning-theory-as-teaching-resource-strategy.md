@@ -17,7 +17,7 @@ sources:
 # Teachers use a learning theory as a resource for planning and carrying out their teaching of a difficult concept
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The strategy has a group of experienced teachers take a learning theory as a resource when planning and carrying out their teaching of a specific difficult concept. In the study, "A group of experienced secondary school teachers used a novel learning theory as a resource for planning and carrying out their teaching of a difficult economic concept." The theory-guided planning shaped what varied and what remained invariant across a series of three lessons, and was contrasted with teaching planned without the theory.
@@ -37,7 +37,7 @@ The strategy has a group of experienced teachers take a learning theory as a res
 - mastery of a difficult economic concept
 
 ### Affordances
-- [Variation Theory Necessary Pattern Variation Invariance](../theories/variation-theory-necessary-pattern-variation-invariance.md)
+- Variation Theory Necessary Pattern Variation Invariance
 
 ## Claims
 

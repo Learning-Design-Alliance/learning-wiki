@@ -15,12 +15,14 @@ sources:
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative analysis showed both human coaches modeled and faded assistance, with the teacher more directive and the graduate student adapting scaffolding to each group. [→ Lajoie 2001](#lajoie-2001)
@@ -31,7 +33,7 @@ sources:
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative analysis of audio/video-taped verbal dialogue from the two coached conditions: both coaches started directive, modeling what to look for, and later faded directives. The teacher constantly guided and served as a metacognitive aid; the graduate student varied directiveness by group.
 

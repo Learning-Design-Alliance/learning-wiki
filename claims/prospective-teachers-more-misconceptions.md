@@ -15,18 +15,22 @@ sources:
     author: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: heinonen-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09603-7"
     title: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7"
     author: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Prospective teachers had more misconceptions than current faculty at pre-test (Z = −2.048, p = 0.041) and at post-test (Z = −3.108, p = 0.002). [→ Heinonen 2023](#heinonen-2023)
@@ -38,7 +42,7 @@ sources:
 
 Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Seven true/false misconception items administered pre and post to both groups. The study reports "prospective teachers still had more misconceptions compared to current faculty" after the course; the same group difference held at pre-test (Z = −2.048, p = 0.041).
 
@@ -48,7 +52,7 @@ Seven true/false misconception items administered pre and post to both groups. T
 
 Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Within-group change in misconception counts (max 7). Current faculty misconceptions decreased (post M = 1.70, SD = 1.44); prospective teachers' remained relatively high (post M = 3.28, SD = 1.84).
 

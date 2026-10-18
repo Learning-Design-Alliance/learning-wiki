@@ -15,12 +15,14 @@ sources:
     author: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Prospective teachers notice fewer pedagogically significant incidents than current faculty teachers before training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Prospective teachers received lower noticing scores than current faculty at pre-test, noticing about half of the 15 predefined incidents. [→ Heinonen 2023](#heinonen-2023)
@@ -31,7 +33,7 @@ sources:
 
 Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Pre-test video annotation task with 70 participants; prospective teachers noticed on average 7.32 incidents (SD = 3.05) versus 9.65 (SD = 2.21) for current faculty. The study reports "they received lower noticing scores" (Z = −3.255, p = 0.001).
 

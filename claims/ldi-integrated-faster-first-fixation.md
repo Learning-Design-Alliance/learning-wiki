@@ -15,12 +15,14 @@ sources:
     author: Manuela Glaser, Manuel Knoos, Stephan Schwan
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Time to first fixation of referred-to picture elements during interpretation phases is shorter with an LDI integrated than an LDI separated audio structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Time to first fixation was significantly shorter in the LDI integrated condition than in the LDI separated condition. [→ Manuela Glaser 2022](#manuela-glaser-2022)
@@ -31,7 +33,7 @@ sources:
 
 Manuela Glaser, Manuel Knoos, Stephan Schwan. (2022). Localizing, describing, interpreting: effects of different audio text structures on attributing meaning to digital pictures. Instructional Science. https://doi.org/10.1007/s11251-022-09593-6
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Exploratory ANCOVA on time to first fixation during interpretation phases, controlling interest in history: F(1, 52) = 41.56, p < .001, ηp² = 0.444. The integrated condition showed "significantly shorter" times to first fixation.
 

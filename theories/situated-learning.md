@@ -17,7 +17,7 @@ sources:
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 11 studies (3 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 0 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 12 studies (4 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 1 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -36,6 +36,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — situated whole-task participation may still need staged simplification for absolute novices
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — authentic participation is more productive when support is calibrated to learner capability
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](../claims/ail-theory-practice-gap-he-programs.md) [-W]
+- [The case-based intervention was perceived as connecting theory to practice more strongly than the model-based comparison intervention](../claims/case-intervention-higher-theory-practice-connection.md) [+W] — attached 2026-10-18 from Baier et al. (2021), which proposed "Inert knowledge and situated cognition account of the theory-practice gap in teacher education".
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

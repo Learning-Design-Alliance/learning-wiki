@@ -15,12 +15,14 @@ sources:
     author: Kirschner, P. A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Teachers designing TEL face serious constraints of time, expertise and endorsement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Teachers typically have little time, limited expertise and rarely any formal endorsement for their design efforts, and lack workspace or down time to maintain professionalism. [→ Kirschner 2015](#kirschner-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kirschner, P. A. (2015). Do we need teachers as designers of technology enhanced learning? Instructional Science, 43, 309–322. https://doi.org/10.1007/s11251-015-9346-9
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Descriptive statement in the ecology-of-education section, set against research suggesting teacher involvement in curriculum design can yield effective professional development and sustainable innovations, and against policy, research and practice demands for teacher design.
 

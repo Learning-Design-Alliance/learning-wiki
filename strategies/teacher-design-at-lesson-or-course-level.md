@@ -17,7 +17,7 @@ sources:
 # Have teachers design at the lesson or course level rather than whole curricula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Kirschner recommends that teacher participation in research and design be served by having teachers design at the lesson or course level rather than at the curriculum level. Curriculum-level design requires deep understanding of the content's role and function relative to everything taught over years, which is often beyond the competence of a teacher who teaches one subject within a curriculum. He also urges going beyond adaptation toward shared design and construction using open educational resources, as in Wiley's open textbook projects, to broaden and deepen teachers' domain-specific knowledge.

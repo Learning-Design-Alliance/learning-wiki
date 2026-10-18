@@ -15,12 +15,14 @@ sources:
     author: "Moust, J. C. & Schmidt, H. G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Staff tutors display more authoritarian behavior than student tutors in problem-based tutorial groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In both units, staff tutors exhibited more authoritarian behavior than student tutors, though the authors note the differences are smaller than some would expect. [→ Moust 1995](#moust-1995)
@@ -31,7 +33,7 @@ sources:
 
 Moust, J. C. & Schmidt, H. G. (1995). Facilitating small-group learning: a comparison of student and staff tutors' behavior. Instructional Science 22: 287-301. https://link.springer.com/journal/11251
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Ratings on the authority subscale showed staff tutors higher in both courses (course 1: F = 4.05, p = 0.05; course 2: F = 30.62, p = 0.001); interview excerpts describe students finding it easier to speak freely with a student tutor.
 

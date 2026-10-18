@@ -15,12 +15,14 @@ sources:
     author: Hasan Ozgur Kapici
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` After a five-week inquiry unit, the experimental (virtual platform) group's posttest conceptual understanding exceeded the control (regular classroom) group's, d = 0.989. [→ Hasan Ozgur Kapici 2025](#hasan-ozgur-kapici-2025)
@@ -31,7 +33,7 @@ sources:
 
 Hasan Ozgur Kapici. (2025). Does inquiry-based learning work better in regular classrooms or computer-based settings? Instructional Science (2025) 53:705–728. https://doi.org/10.1007/s11251-025-09711-0
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Quasi-experimental pretest-posttest study of 306 seventh-graders in 12 classes across five Turkish public schools; independent samples t-test on posttest two-tier conceptual understanding scores favored the virtual-platform group, "t(304) = 8.64, p =.000, d = 0.989". Both groups improved significantly from pretest.
 

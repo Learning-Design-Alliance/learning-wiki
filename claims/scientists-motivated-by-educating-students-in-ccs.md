@@ -15,12 +15,14 @@ sources:
     author: Ballard, H. L.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Teacher-scientist pairs in school citizen science are both motivated largely by educating students, with scientists showing only lesser utilitarian data-collection motives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a study of nine teacher-scientist pairs, scientists were motivated by educating students and only to a lesser degree by utilitarian data collection, while teachers were motivated by student-centered objectives. [→ Ballard 2023](#ballard-2023)
@@ -31,7 +33,7 @@ sources:
 
 Ballard, H. L. (2023). Community and citizen science in schools: nested inquiries, productive tensions, and the role of communities. Instructional Science. https://doi.org/10.1007/s11251-023-09643-7
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The commentary reports, citing Atias et al. (this issue), a study of nine teacher-scientist pairs in citizen science projects on topics including bees, butterflies, jellyfish, air quality, dolphins, radon, mapping for visually impaired, and sleep. The commentary attributes the motivation finding to that study; its design is not described here.
 

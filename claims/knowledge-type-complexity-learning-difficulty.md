@@ -15,12 +15,14 @@ sources:
     author: Tim M. Steininger, Jörg Wittwer, Thamar Voss
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Learning relational categories becomes more difficult as the complexity of the knowledge type increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Learning outcomes decreased linearly with increasing complexity of the knowledge type (facts, concepts, principles, procedures) across all four test tasks. [→ Tim M. Steininger 2022](#tim-m-steininger-2022)
@@ -31,7 +33,7 @@ sources:
 
 Tim M. Steininger, Jörg Wittwer, Thamar Voss. (2022). Classifying Examples is More Effective for Learning Relational Categories Than Reading or Generating Examples. Instructional Science. https://doi.org/10.1007/s11251-022-09584-7
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A linear planned contrast (facts +3 to procedures −3) tested the type-of-knowledge hypothesis in the N = 83 experiment: "V = 0.392 (Pillai’s trace), F(4, 77) = 12.44, p < .001, ηp2 = 0.39", significant on all four tasks.
 

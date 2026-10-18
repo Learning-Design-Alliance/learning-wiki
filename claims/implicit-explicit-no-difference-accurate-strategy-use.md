@@ -15,12 +15,14 @@ sources:
     author: Aiso Heinze, Julia Arend, Meike Gruessing, Frank Lipowsky
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Implicit and explicit learning environments do not differ in third graders' accurate use of strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Neither the time*group interaction nor the main effect of environment was significant for accuracy of strategy application, confirming Hypothesis 2. [→ Aiso Heinze 2018](#aiso-heinze-2018)
@@ -31,7 +33,7 @@ sources:
 
 Aiso Heinze, Julia Arend, Meike Gruessing, Frank Lipowsky. (2018). Instructional approaches to foster third graders' adaptive use of strategies: an experimental study on the effects of two learning environments on multi-digit addition and subtraction. Instr Sci 46:869–891. https://doi.org/10.1007/s11251-018-9457-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed model for accurate use of strategies across T1–T4 in the same randomized two-condition experiment (explicit n = 38, implicit n = 35). Effect sizes for group differences were small at T1 and T2 and not noteworthy at T3 and T4 (dT4 = 0.01).
 

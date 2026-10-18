@@ -15,12 +15,14 @@ sources:
     author: de Jong, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The extraneous/germane distinction is tautological (good load is good, bad load is bad) and depends on learner expertise and learning goal, so the same process can be germane for a novice and extraneous for an expert. [→ de Jong 2010](#de-jong-2010)
@@ -31,7 +33,7 @@ sources:
 
 de Jong, T. (2010). Cognitive load theory, educational research, and instructional design: some food for thought. Instructional Science. https://doi.org/10.1007/s11251-009-9110-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review quotes Paas et al. (2004) to show the extraneous/germane distinction depends on expertise level, relating it to the expertise-reversal effect. It also calls the Paas definition "quite tautological character". Conceptual analysis, no effect size.
 

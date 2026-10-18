@@ -34474,5 +34474,85 @@
  "worked-examples\tfaded double-content examples\tno comparison reported": {
   "label": "faded double-content examples vs no comparison reported",
   "treatment_is_a": true
+ },
+ "technology-tool\t35% of virtual classmates raised their hands\t20% of virtual classmates raised their hands": {
+  "label": "higher virtual-classmate hand-raising vs lower virtual-classmate hand-raising",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D manipulable first-person viewpoints during reflection\tthird-person video during reflection": {
+  "label": "3D manipulable first-person reflection vs third-person video reflection",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D perspective-taking animation during reflection\tthird-person video without perspective-taking controls": {
+  "label": "3D perspective-taking reflection vs third-person video without perspective-taking controls",
+  "treatment_is_a": true
+ },
+ "technology-tool\t65% of virtual classmates raised their hands\t20% of virtual classmates raised their hands": {
+  "label": "higher virtual-classmate hand-raising vs lower virtual-classmate hand-raising",
+  "treatment_is_a": true
+ },
+ "technology-tool\t80% of virtual classmates raised their hands\t20% of virtual classmates raised their hands": {
+  "label": "higher virtual-classmate hand-raising vs lower virtual-classmate hand-raising",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAAC interventions targeting communication skills\tAAC interventions targeting other skill categories": {
+  "label": "AAC communication-skill intervention vs AAC intervention targeting other skills",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI and computational-science interventions\tcontrol or alternative instructional conditions": {
+  "label": "AI/computational-science intervention vs control or alternative instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI and computational-science interventions\tcontrol or traditional instruction": {
+  "label": "AI/computational-science intervention vs control or traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI and computational-science interventions\tnon-AI or traditional instruction": {
+  "label": "AI/computational-science intervention vs non-AI or traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI augments teachers\tAI replaces teachers": {
+  "label": "AI augmentation of teachers vs AI replacement of teachers",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot administrative support\tnot stated": {
+  "label": "AI chatbot administrative support vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot feedback on assignments\tnot stated": {
+  "label": "AI chatbot assignment feedback vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot homework and study assistance\tnot stated": {
+  "label": "AI chatbot homework/study assistance vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot integration\tnot stated": {
+  "label": "AI chatbot integration vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot responses\taccurate or reliable information": {
+  "label": "AI chatbot responses vs accurate or reliable information",
+  "treatment_is_a": false
+ },
+ "technology-tool\tAI chatbot support for educators\tnot stated": {
+  "label": "AI chatbot educator support vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbots and generative AI in secondary education\tAI chatbots and generative AI in higher education": {
+  "label": "AI chatbots and generative AI in secondary education vs higher education",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbots facilitating group discussions and debates\tnot stated": {
+  "label": "AI chatbot group-discussion facilitation vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbots providing step-by-step solutions\tnot stated": {
+  "label": "AI chatbot step-by-step solutions vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbots providing writing suggestions\tnot stated": {
+  "label": "AI chatbot writing suggestions vs no stated comparison",
+  "treatment_is_a": true
  }
 }

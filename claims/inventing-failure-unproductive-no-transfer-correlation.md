@@ -15,24 +15,30 @@ sources:
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: inga-glogger-frey-2022-2
     resource: "https://doi.org/10.1007/s11251-022-09577-6"
     title: "Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6"
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: inga-glogger-frey-2022-3
     resource: "https://doi.org/10.1007/s11251-022-09577-6"
     title: "Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6"
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` None of the inventing variables (appropriateness, number of canonical, suboptimal, or total solutions) correlated substantially with transfer (rs between -0.16 and 0.03, all ps > 0.49). [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)
@@ -45,7 +51,7 @@ sources:
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Exploratory correlational analysis (Appendix A) of inventing-quality ratings and solution counts among the 22 inventing-group participants; no substantial correlation with transfer emerged, so the article concludes it "does not reveal findings that suggest productive failure".
 
@@ -55,7 +61,7 @@ Exploratory correlational analysis (Appendix A) of inventing-quality ratings and
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Exploratory correlations in Appendix A among inventing-group participants; suboptimal inventions were negatively related to pre-learning interest and total learning time, consistent with the authors' view that failure in the inventing phase had unproductive effects.
 
@@ -65,7 +71,7 @@ Exploratory correlations in Appendix A among inventing-group participants; subop
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Exploratory correlation in Appendix A among inventing-group participants; inventing canonical solutions showed a marginally significant positive correlation with pre-learning self-efficacy (r = 0.38, p = 0.090), suggesting canonical invention had motivational advantages.
 

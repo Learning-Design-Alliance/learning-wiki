@@ -15,12 +15,14 @@ sources:
     author: Orna Heaysman, Bracha Kramarski
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers in the SRL-AIDE program showed greater pre-to-post gains than a comparison group in both the explicitness and duration of their in-class SRL practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The SRL-AIDE group had higher gains than the comparison group in both explicitness levels and duration of MCS and KC practices (group × time interaction, ηp2 = .57 omnibus). [→ Orna Heaysman 2026](#orna-heaysman-2026)
@@ -32,7 +34,7 @@ sources:
 
 Orna Heaysman, Bracha Kramarski. (2026). Authentic evidence from the 'SRL-AIDE' simulative environment on explicitness and duration of in-class SRL teaching practices. Instructional Science. https://doi.org/10.1007/s11251-026-09787-2
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Three-way mixed MANOVA (group × time × practice) on video-coded lessons of 70 elementary teachers in a quasi-experimental pre/post design. The omnibus group × time interaction was significant, "ηp2 = .57", with separate effects for explicitness and duration.
 

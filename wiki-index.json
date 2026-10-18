@@ -1,14 +1,14 @@
 {
 "counts":{
 "claim":20406,
-"design":903,
+"design":914,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1765,
+"product":1768,
 "research-method":429,
 "strategy":6130,
 "theory":1361
@@ -184836,6 +184836,14 @@
 "type":"design"
 },
 {
+"description":"The article proposes a preliminary conceptual model of how community and citizen science projects connect schools with communities outside school.",
+"id":"ccs-bridges-model-three-bridges",
+"path":"designs/ccs-bridges-model-three-bridges.md",
+"status":"review",
+"title":"Bridges model: professional, citizen, and student bridges connecting schools with communities outside school, linked by a learning circle",
+"type":"design"
+},
+{
 "description":"The review's moderator analyses ground a design principle: efficacy in healthy older adults \\\"is to a large extent determined by design choices.\\\" Group-based delivery (g = 0.29) and 1–3 weekly sessions were effective,...",
 "id":"cct-design-group-based-moderate-frequency",
 "path":"designs/cct-design-group-based-moderate-frequency.md",
@@ -186020,6 +186028,14 @@
 "type":"design"
 },
 {
+"description":"The article proposes that embodied designs stage a coordination between an egocentric perspective, in which actions are experienced with respect to one's own body, and an allocentric perspective, in which objects are...",
+"id":"egocentric-allocentric-perspectival-coordination",
+"path":"designs/egocentric-allocentric-perspectival-coordination.md",
+"status":"review",
+"title":"Perspectival coordination framework: egocentric-to-allocentric coordination as the cognitive process of symbol grounding in embodied mathematics designs",
+"type":"design"
+},
+{
 "description":"The review proposes a matched set of eight strategies mirroring its eight identified challenges: a pronunciation-oriented curriculum within CLT, inclusion of pronunciation assessment, teacher preparedness through CPD,...",
 "id":"eight-strategies-esl-pronunciation-bangladesh",
 "path":"designs/eight-strategies-esl-pronunciation-bangladesh.md",
@@ -186302,6 +186318,14 @@
 "type":"design"
 },
 {
+"description":"The article contrasts two idealized learning environments for fostering adaptive use of strategies.",
+"id":"explicit-versus-implicit-strategy-instruction-approaches",
+"path":"designs/explicit-versus-implicit-strategy-instruction-approaches.md",
+"status":"review",
+"title":"Two idealized instructional approaches to fostering adaptive strategy use: explicit demonstration versus implicit generation",
+"type":"design"
+},
+{
 "description":"The article frames adult literacy instruction as divided between two approaches.",
 "id":"explicit-vs-implicit-adult-reading-instruction",
 "path":"designs/explicit-vs-implicit-adult-reading-instruction.md",
@@ -186423,6 +186447,14 @@
 "type":"design"
 },
 {
+"description":"The study's organizing framework is Fink's (2013) Integrated Course Design, which \\\"revolves around three primary components: Learning Goals, Teaching and Learning Activities, and Feedback and Assessment\\\".",
+"id":"fink-integrated-course-design-framework",
+"path":"designs/fink-integrated-course-design-framework.md",
+"status":"review",
+"title":"Fink's Integrated Course Design framework for aligning learning goals, teaching activities, and feedback and assessment",
+"type":"design"
+},
+{
 "description":"The instructional element evaluated in this case study is a set of newly implemented AI-focused learning activities introduced into the first-year undergraduate curriculum of a UK business school.",
 "id":"first-year-genai-learning-activities-business-curriculum",
 "path":"designs/first-year-genai-learning-activities-business-curriculum.md",
@@ -186484,6 +186516,14 @@
 "path":"designs/five-organizational-capacity-levers-skyline.md",
 "status":"review",
 "title":"Five organizational capacity levers leaders used to support Skyline ELA implementation",
+"type":"design"
+},
+{
+"description":"The educational design used a design-thinking process comprising five phases: \\\"discovery, definition, ideation, experimentation and model construction, and testing and presentation.\\\" In discovery, professionals presen...",
+"id":"five-phase-design-thinking-ccs-urban-development",
+"path":"designs/five-phase-design-thinking-ccs-urban-development.md",
+"status":"review",
+"title":"Five-phase design-thinking process bridging students as residents and as students in CCS urban development projects",
 "type":"design"
 },
 {
@@ -188548,6 +188588,14 @@
 "type":"design"
 },
 {
+"description":"Nested inquiries are cases where educators and scientists strike a balance between students' own questions and those of partnering professional scientists, offering a solution to the tension among the multiple goals o...",
+"id":"nested-inquiries-ccs-schools",
+"path":"designs/nested-inquiries-ccs-schools.md",
+"status":"review",
+"title":"Nested inquiries: students pursue their own investigations intertwined with partnering scientists' projects in school-based citizen science",
+"type":"design"
+},
+{
 "description":"Table 2 lays out an eight-step adoption process: issuing a Nevada-specific Request for Quote, publisher submission of digital materials, internal technical review, CARP evaluation and rating, forwarding recommendation...",
 "id":"nevada-eight-step-adoption-step-matrix",
 "path":"designs/nevada-eight-step-adoption-step-matrix.md",
@@ -189378,6 +189426,22 @@
 "path":"designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md",
 "status":"review",
 "title":"Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects",
+"type":"design"
+},
+{
+"description":"A computerized instructional program that teaches the RIDE collaboration rules before learners work in a shared discovery learning environment, plus pop-up prompts reminding learners of the rules during tasks.",
+"id":"ride-instructional-program-prompts-collisions",
+"path":"designs/ride-instructional-program-prompts-collisions.md",
+"status":"review",
+"title":"RIDE instructional program with prompts in a shared simulation discovery environment",
+"type":"design"
+},
+{
+"description":"The RIDE framework groups literature-derived characteristics of effective collaboration under four principles: Respect, Intelligent collaboration, Deciding together, and Encouraging.",
+"id":"ride-rules-collaborative-communication",
+"path":"designs/ride-rules-collaborative-communication.md",
+"status":"review",
+"title":"RIDE rules: four principles for effective collaborative communication",
 "type":"design"
 },
 {
@@ -190438,6 +190502,14 @@
 "type":"design"
 },
 {
+"description":"The instructional element is a series of three lessons through which students were to come to understand \\\"how the simultaneous change in the supply of and the demand for a certain good affects its market price.\\\" The a...",
+"id":"three-lesson-supply-demand-price-sequence",
+"path":"designs/three-lesson-supply-demand-price-sequence.md",
+"status":"review",
+"title":"Three-lesson sequence on how simultaneous changes in supply and demand affect market price",
+"type":"design"
+},
+{
 "description":"Three Moment Architecture is a bounded instructional sequence in which a lesson, possibly spanning several class periods, moves through three distinct moments with different pedagogical purposes: Preparing the Learner...",
 "id":"three-moment-architecture-secondary-math",
 "path":"designs/three-moment-architecture-secondary-math.md",
@@ -190968,6 +191040,14 @@
 "type":"design"
 },
 {
+"description":"The design consists of a body-scale number line (a 20' × 4' paper roll displaying a number line from −5 to +5, with step-spaced marks and addition/subtraction signs at the ends) and a small number line (an 8.5″ × 11″...",
+"id":"walking-number-line-bnl-snl-design",
+"path":"designs/walking-number-line-bnl-snl-design.md",
+"status":"review",
+"title":"Walking number line design: body-scale number line plus desk-scale number line with figurine, using a four-step orientation-and-movement procedure",
+"type":"design"
+},
+{
 "description":"A second Require-GenAI task in which GenAI has a dual role: \\\"it is simultaneously the source of the artifact being analyzed and the tool students use to correct it.\\\" Students receive a GenAI-generated image of a child...",
 "id":"water-balloon-physics-image-task",
 "path":"designs/water-balloon-physics-image-task.md",
@@ -191005,6 +191085,14 @@
 "path":"designs/weekly-fluency-cycle-ability-differentiated-practice.md",
 "status":"review",
 "title":"Weekly instructional cycle combining whole-class fluency instruction with ability-differentiated small-group practice",
+"type":"design"
+},
+{
+"description":"The What Is a Place?",
+"id":"what-is-a-place-module-urban-developer-perspective",
+"path":"designs/what-is-a-place-module-urban-developer-perspective.md",
+"status":"review",
+"title":"What Is a Place? introductory module teaching the urban-developer perspective on city spaces",
 "type":"design"
 },
 {
@@ -206188,6 +206276,14 @@
 "type":"product"
 },
 {
+"description":"A 23-item Likert-scale questionnaire developed by Olga Vogel to assess reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty as competencies supporting knowledge integration in interdisciplinary and transdisciplinary work.",
+"id":"competencies-of-knowledge-integration-questionnaire",
+"path":"products/competencies-of-knowledge-integration-questionnaire.md",
+"status":"review",
+"title":"Competencies of Knowledge Integration questionnaire",
+"type":"product"
+},
+{
 "description":"A community-college redesign framework and initiative that coordinates institutional policies, practices, and programmes into completion pathways to improve student progress and credential attainment.",
 "id":"completion-by-design",
 "path":"products/completion-by-design.md",
@@ -215474,6 +215570,14 @@
 "type":"product"
 },
 {
+"description":"A teacher professional-development framework that combines explicit self-regulated-learning instruction with live-actor classroom simulations, feedback, video modelling, and guided reflection for in-service elementary teachers.",
+"id":"srl-aide",
+"path":"products/srl-aide.md",
+"status":"review",
+"title":"SRL-AIDE",
+"type":"product"
+},
+{
 "description":"SSL is a structured early-literacy intervention programme whose developers provide lessons using modelling, guided practice, progress monitoring, and reteaching.",
 "id":"ssl",
 "path":"products/ssl.md",
@@ -216304,6 +216408,14 @@
 "path":"products/teaching-monster-challenge-benchmark.md",
 "status":"review",
 "title":"Teaching Monster Challenge benchmark",
+"type":"product"
+},
+{
+"description":"TPRS is a language-teaching method developed by Ray and Seely that uses comprehensible target-language input, physical-response vocabulary introduction, collaborative story creation, and reading or retelling activities for second- and foreign-language learners.",
+"id":"teaching-proficiency-through-reading-and-storytelling-tprs",
+"path":"products/teaching-proficiency-through-reading-and-storytelling-tprs.md",
+"status":"review",
+"title":"Teaching Proficiency through Reading and Storytelling (TPRS)",
 "type":"product"
 },
 {
@@ -302684,6 +302796,7 @@
 "cbi-individual-analysis-then-collaborative-discussion-pattern":"cbi-individual-analysis-then-collaborative-discussion-pattern",
 "cbl-cel-coil-cuc-integrated-course-pattern":"cbl-cel-coil-cuc-integrated-course-pattern",
 "cc-self-train-adaptive-learning-system":"cc-self-train-adaptive-learning-system",
+"ccs-bridges-model-three-bridges":"ccs-bridges-model-three-bridges",
 "cct-design-group-based-moderate-frequency":"cct-design-group-based-moderate-frequency",
 "cctdi-writing-rubric-mapping-framework":"cctdi-writing-rubric-mapping-framework",
 "cea-chatgpt-eportfolio-alignment-model":"cea-chatgpt-eportfolio-alignment-model",
@@ -302832,6 +302945,7 @@
 "educator-guided-diagnosis-workflow-separation":"educator-guided-diagnosis-workflow-separation",
 "edusim-llm-four-module-architecture":"edusim-llm-four-module-architecture",
 "effective-lre-program-characteristics":"effective-lre-program-characteristics",
+"egocentric-allocentric-perspectival-coordination":"egocentric-allocentric-perspectival-coordination",
 "eight-strategies-esl-pronunciation-bangladesh":"eight-strategies-esl-pronunciation-bangladesh",
 "eight-week-mi-module-sequence-rubric":"eight-week-mi-module-sequence-rubric",
 "ekt-program-evaluation-study-element":"ekt-program-evaluation-study-element",
@@ -302867,6 +302981,7 @@
 "experanto-computer-controlled-self-study-course":"experanto-computer-controlled-self-study-course",
 "expert-panel-ai-mcq-review-workflow":"expert-panel-ai-mcq-review-workflow",
 "explicit-instruction-in-historical-contextualization":"explicit-instruction-in-historical-contextualization",
+"explicit-versus-implicit-strategy-instruction-approaches":"explicit-versus-implicit-strategy-instruction-approaches",
 "explicit-vs-implicit-adult-reading-instruction":"explicit-vs-implicit-adult-reading-instruction",
 "exploratory-hands-on-career-exploration-pattern":"exploratory-hands-on-career-exploration-pattern",
 "expression-transformation-target-matching-pattern":"expression-transformation-target-matching-pattern",
@@ -302882,6 +302997,7 @@
 "fiber-crafts-course-design-studio":"fiber-crafts-course-design-studio",
 "field-day-embedded-assessment-unit":"field-day-embedded-assessment-unit",
 "fifteen-week-game-based-program-thai-university":"fifteen-week-game-based-program-thai-university",
+"fink-integrated-course-design-framework":"fink-integrated-course-design-framework",
 "first-year-genai-learning-activities-business-curriculum":"first-year-genai-learning-activities-business-curriculum",
 "five-activity-shadow-to-sundial-sequence":"five-activity-shadow-to-sundial-sequence",
 "five-category-ai-image-artifact-taxonomy":"five-category-ai-image-artifact-taxonomy",
@@ -302890,6 +303006,7 @@
 "five-ct-competencies-organizing-k12-content":"five-ct-competencies-organizing-k12-content",
 "five-key-characteristics-group-processing-ebl":"five-key-characteristics-group-processing-ebl",
 "five-organizational-capacity-levers-skyline":"five-organizational-capacity-levers-skyline",
+"five-phase-design-thinking-ccs-urban-development":"five-phase-design-thinking-ccs-urban-development",
 "five-phase-retrieval-practice-session-format-by-level-of-thinking":"five-phase-retrieval-practice-session-format-by-level-of-thinking",
 "five-phase-strategy-instruction-lesson-structure":"five-phase-strategy-instruction-lesson-structure",
 "five-principles-robotics-course-framework":"five-principles-robotics-course-framework",
@@ -303147,6 +303264,7 @@
 "ncs-partner-high-school-team-structures":"ncs-partner-high-school-team-structures",
 "needs-sensing-informs-collaborative-design":"needs-sensing-informs-collaborative-design",
 "nest-instruction-in-360-400-minute-day":"nest-instruction-in-360-400-minute-day",
+"nested-inquiries-ccs-schools":"nested-inquiries-ccs-schools",
 "nevada-eight-step-adoption-step-matrix":"nevada-eight-step-adoption-step-matrix",
 "newcomer-school-element":"newcomer-school-element",
 "newcomer-school-leadership-practices":"newcomer-school-leadership-practices",
@@ -303251,6 +303369,8 @@
 "reusable-prompt-template-for-llm-code-generation":"reusable-prompt-template-for-llm-code-generation",
 "reusable-simulation-architecture-dynamic-relational-learning":"reusable-simulation-architecture-dynamic-relational-learning",
 "reversi-training-conditions-varying-intrinsic-and-extraneous-load":"reversi-training-conditions-varying-intrinsic-and-extraneous-load",
+"ride-instructional-program-prompts-collisions":"ride-instructional-program-prompts-collisions",
+"ride-rules-collaborative-communication":"ride-rules-collaborative-communication",
 "ride-rules-effective-collaboration":"ride-rules-effective-collaboration",
 "risk-mitigation-prompt-tables-per-stage":"risk-mitigation-prompt-tables-per-stage",
 "rl-sft-rl-multi-stage-pipeline":"rl-sft-rl-multi-stage-pipeline",
@@ -303383,6 +303503,7 @@
 "three-elements-effective-training-realism-control-feedback":"three-elements-effective-training-realism-control-feedback",
 "three-facilitation-roles-stem-plcs":"three-facilitation-roles-stem-plcs",
 "three-layer-competency-map-ai-curriculum":"three-layer-competency-map-ai-curriculum",
+"three-lesson-supply-demand-price-sequence":"three-lesson-supply-demand-price-sequence",
 "three-moment-architecture-secondary-math":"three-moment-architecture-secondary-math",
 "three-pedagogical-expression-strategies-vr-lighting":"three-pedagogical-expression-strategies-vr-lighting",
 "three-pedagogical-simulation-design-considerations":"three-pedagogical-simulation-design-considerations",
@@ -303450,11 +303571,13 @@
 "vo2max-treadmill-test-protocol":"vo2max-treadmill-test-protocol",
 "voluntary-intrinsic-motivation-programming-game":"voluntary-intrinsic-motivation-programming-game",
 "vplc-augmented-assistments-intervention":"vplc-augmented-assistments-intervention",
+"walking-number-line-bnl-snl-design":"walking-number-line-bnl-snl-design",
 "water-balloon-physics-image-task":"water-balloon-physics-image-task",
 "waves-module-simulations-integrated-chatbot":"waves-module-simulations-integrated-chatbot",
 "web-based-ai-programming-environment-cs2":"web-based-ai-programming-environment-cs2",
 "weekly-efl-speaking-game-sequence":"weekly-efl-speaking-game-sequence",
 "weekly-fluency-cycle-ability-differentiated-practice":"weekly-fluency-cycle-ability-differentiated-practice",
+"what-is-a-place-module-urban-developer-perspective":"what-is-a-place-module-urban-developer-perspective",
 "whiteboard-moo-multimodal-setup":"whiteboard-moo-multimodal-setup",
 "wholetheme-k12-action-research-cycle":"wholetheme-k12-action-research-cycle",
 "why-what-how-pathway-design":"why-what-how-pathway-design",
@@ -305577,6 +305700,7 @@
 "community-schools-framework-four-pillars-for-a-whole-child-whole-school-whole-community-ap":"community-schools-framework-four-pillars-for-a-whole-child-whole-school-whole-community-ap",
 "companion-mathematica-publications":"companion-mathematica-publications",
 "compass-care":"compass-care",
+"competencies-of-knowledge-integration-questionnaire":"competencies-of-knowledge-integration-questionnaire",
 "completion-by-design":"completion-by-design",
 "component-measures-battery-linguistic-knowledge-fluency-and-metacognitive-knowledge-tests":"component-measures-battery-linguistic-knowledge-fluency-and-metacognitive-knowledge-tests",
 "comprehensive-assessment-battery-for-children-working-memory-cabc-wm":"comprehensive-assessment-battery-for-children-working-memory-cabc-wm",
@@ -306751,6 +306875,7 @@
 "sqeiaigrasq-questionnaire-and-quadratic-equation-achievement-test-qeat":"sqeiaigrasq-questionnaire-and-quadratic-equation-achievement-test-qeat",
 "sra-2inform":"sra-2inform",
 "sra-real-math-building-blocks-prek":"sra-real-math-building-blocks-prek",
+"srl-aide":"srl-aide",
 "ssl":"ssl",
 "st-math":"st-math",
 "stages-of-concern-questionnaire-socq":"stages-of-concern-questionnaire-socq",
@@ -306856,6 +306981,7 @@
 "teaching-fractions-toolkit":"teaching-fractions-toolkit",
 "teaching-is-my-favorite-color":"teaching-is-my-favorite-color",
 "teaching-monster-challenge-benchmark":"teaching-monster-challenge-benchmark",
+"teaching-proficiency-through-reading-and-storytelling-tprs":"teaching-proficiency-through-reading-and-storytelling-tprs",
 "teachingcoach":"teachingcoach",
 "teachingcoach-synthetic-dialogue-dataset-406183-training-examples":"teachingcoach-synthetic-dialogue-dataset-406183-training-examples",
 "team-pennsylvania-foundation-teacher-and-principal-evaluation-pilot-project":"team-pennsylvania-foundation-teacher-and-principal-evaluation-pilot-project",

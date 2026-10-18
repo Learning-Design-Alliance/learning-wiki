@@ -15,12 +15,14 @@ sources:
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The worked example condition outperformed the inventing condition on transfer, with very strong Bayesian evidence and d = 1.24. [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)
@@ -31,7 +33,7 @@ sources:
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Lab experiment with 45 pre-service teachers randomly assigned to inventing (n = 22) or worked example (n = 23), followed by a five-task transfer posttest on assessing elaboration strategies in new learning-journal extracts; Table 2 reports d = 1.24 and BF+0 = 313.490 for the "worked example condition outperformed the inventing condition in transfer".
 

@@ -17,7 +17,7 @@ sources:
 # Reciprocal peer teaching with parent-facing explanation to sustain collaborative learning in exam-oriented contexts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 When parents of top performers objected that peer assistance wasted their children's time, the teacher presented research that "reciprocal teaching benefits both tutors and tutees equally", provided step-by-step training in peer-teaching strategies, had struggling students such as Baobei tutor peers after mastering corrections, and invited sceptical parents to try reciprocal teaching at home. Even the strongest doubters changed their minds after trying it with their children.

@@ -15,12 +15,14 @@ sources:
     author: Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No significant differences among PF, VF-high, VF-low, and DI conditions on procedural knowledge acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The ANOVA for procedural knowledge showed no significant effect of condition (F(3, 148) = 1.987, p =.118, η2p = 0.039). [→ Thomas C. Braas 2025](#thomas-c-braas-2025)
@@ -31,7 +33,7 @@ sources:
 
 Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog. (2025). When is observing failure productive? Investigating the role of solution diversity in vicarious failure. Instructional Science. https://doi.org/10.1007/s11251-025-09706-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANOVA on procedural knowledge scores in the randomized four-condition experiment found "no significant effect of condition"; the expectation that DI would better prepare students for applying the correct procedure was not confirmed. Equivalence was not tested.
 

@@ -15,12 +15,14 @@ sources:
     author: "Baier, F., Maurer, C., Dignath, C., & Kunter, M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The treatment group reported significantly higher situational interest at post-test than the comparison group, with a medium effect size (d = 0.61). [→ Baier 2021](#baier-2021)
@@ -31,7 +33,7 @@ sources:
 
 Baier, F., Maurer, C., Dignath, C., & Kunter, M. (2021). Fostering pre-service teachers' theoretical knowledge application: studying with and without text-based cases. Instructional Science. https://doi.org/10.1007/s11251-021-09560-7
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Independent samples t-test at post-test in the quasi-experimental study (n = 101) comparing the case group with the theoretical-models group on a situational interest scale (Omega = 0.88). The printed effect size was d = 0.61, described as a medium effect size.
 

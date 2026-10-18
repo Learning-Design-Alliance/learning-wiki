@@ -15,18 +15,22 @@ sources:
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: krause-wichmann-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09694-4"
     title: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4"
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Instruction followed by either self-generated or provided illustrative examples outperformed instruction only on knowledge retention and transfer in student teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Students who learned with self-generated examples achieved higher knowledge retention than instruction-only students (d = 1.24). [→ Krause-Wichmann 2025](#krause-wichmann-2025)
@@ -39,7 +43,7 @@ sources:
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Planned contrasts in the randomized experiment (N = 105, three conditions of n = 35) on knowledge retention post-test; Table 3 prints d = 1.24 for I-GE/I and d = 0.67 for I-PE/I, with "the lowest test performance" in the instruction-only condition.
 
@@ -49,7 +53,7 @@ Planned contrasts in the randomized experiment (N = 105, three conditions of n =
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Planned contrasts on knowledge transfer post-test in the same randomized experiment; Table 3 prints d = 0.54 for I-PE/I (and d = 1.17 for I-GE/I), and instruction-only "showed the lowest outcomes, again".
 

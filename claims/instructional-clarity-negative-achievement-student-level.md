@@ -15,12 +15,14 @@ sources:
     author: "Lena Asp, Alli Klapp, & Victoria Rolfe"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # In the joint final model, instructional clarity shows an unexpected negative and significant relation with mathematics achievement at the student level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` At the student level in Model E, there was a negative and significant relation between instructional clarity and mathematics achievement (-.14w). [→ Lena Asp 2026](#lena-asp-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Final MSEM Model E jointly modelling classroom management, instructional clarity, achievement, confidence, BOOKS and LANG. The study reports this "negative and significant relation between instructional clarity and mathematics achievement (-.14w)" at the student level; only a standardised path coefficient is printed, no effect size.
 

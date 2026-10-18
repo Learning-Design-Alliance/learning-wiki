@@ -15,12 +15,14 @@ sources:
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # In BioWorld, confidence was tied to final diagnostic accuracy but not to the first hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Confidence correlated with final diagnostic accuracy (r = 0.51) but not with the first hypothesis (r = 0.232). [→ Lajoie 2001](#lajoie-2001)
@@ -31,7 +33,7 @@ sources:
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Correlational analysis of BioWorld computer-trace data from the 20 groups: final confidence related to diagnostic accuracy (r = 0.51, p = 0.022) while initial confidence did not (r = 0.232, p = 0.325). The authors state that as accuracy increased, confidence increased.
 

@@ -15,18 +15,22 @@ sources:
     author: Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: thomas-c-braas-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09706-x"
     title: "Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog. (2025). When is observing failure productive? Investigating the role of solution diversity in vicarious failure. Instructional Science. https://doi.org/10.1007/s11251-025-09706-x"
     author: Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Overall quality measured as canonical components present in PF solutions showed a strong positive correlation with conceptual knowledge scores (r =.418, p =.009). [→ Thomas C. Braas 2025](#thomas-c-braas-2025)
@@ -38,7 +42,7 @@ sources:
 
 Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog. (2025). When is observing failure productive? Investigating the role of solution diversity in vicarious failure. Instructional Science. https://doi.org/10.1007/s11251-025-09706-x
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Correlational analysis within the PF condition (n = 37 scored) of solutions generated in the problem-solving phase; the article reports "a strong positive correlation with conceptual knowledge scores (r =.418, p =.009)".
 
@@ -48,7 +52,7 @@ Correlational analysis within the PF condition (n = 37 scored) of solutions gene
 
 Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog. (2025). When is observing failure productive? Investigating the role of solution diversity in vicarious failure. Instructional Science. https://doi.org/10.1007/s11251-025-09706-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary correlational analysis in the PF condition using the range of distinct canonical components (maximum four points); the correlation with conceptual knowledge was not significant (r =.211, p =.204).
 

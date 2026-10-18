@@ -17,7 +17,7 @@ sources:
 # Develop measurable criteria and structured approaches for integrating and assessing dispositions in course design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends that researchers and instructional designers "focus on developing measurable criteria that educators can use to effectively assess dispositions", and that designers adopt structured course design approaches using frameworks such as Fink's to keep all course components intentionally and coherently aligned. It also calls for clearer institutional guidance and professional development to help instructional designers navigate differing expectations about whether dispositions should be taught in higher education.
@@ -37,7 +37,7 @@ The article recommends that researchers and instructional designers "focus on de
 - dispositions such as perseverance, adaptability, collaboration, and conscientiousness
 
 ### Affordances
-- [Fink Integrated Course Design Framework](../theories/fink-integrated-course-design-framework.md)
+- [Fink Integrated Course Design Framework](../designs/fink-integrated-course-design-framework.md)
 
 ## Claims
 

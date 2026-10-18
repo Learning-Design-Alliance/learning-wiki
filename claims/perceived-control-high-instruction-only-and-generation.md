@@ -15,12 +15,14 @@ sources:
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Instruction-only students perceived learning control comparably high to example generators, while provided-example students perceived lower control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Self-generation yielded higher perceived learning control than provided examples (d = 0.57). [→ Krause-Wichmann 2025](#krause-wichmann-2025)
@@ -33,7 +35,7 @@ sources:
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Planned contrasts on retrospectively assessed perceived learning control (Cronbach's α = 0.76) in the randomized experiment; Table 3 prints d = 0.57 for I-GE/I-PE and d = 0.70 for I-PE/I, both significant; I-GE/I was not (d = 0.15).
 

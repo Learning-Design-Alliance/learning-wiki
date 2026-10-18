@@ -15,12 +15,14 @@ sources:
     author: Ming-fai Pang, Ference Marton
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Bringing out the necessary pattern of variation and invariance in the learning situation enhances the likelihood that the object of learning is appropriated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The study's results seem to give support to the theoretical claim that by bringing out the necessary pattern of variation and invariance in the learning situation, the likelihood of the object of learning being appropriated is enhanced. [→ Ming-fai Pang 2005](#ming-fai-pang-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ming-fai Pang, Ference Marton. (2005). Learning Theory as Teaching Resource: Enhancing Students' Understanding of Economic Concepts. Instructional Science. https://doi.org/10.1007/s11251-005-2811-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Design experiment comparing two teacher groups teaching the same economic concept: the authors state the results "seem to give support to" the theoretical claim about the necessary pattern of variation and invariance. No effect size is printed.
 

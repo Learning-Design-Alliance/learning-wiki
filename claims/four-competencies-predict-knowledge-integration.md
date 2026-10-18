@@ -15,12 +15,14 @@ sources:
     author: Olga Vogel, Marcel Hunecke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a multiple regression with all four competencies as simultaneous predictors, each showed a significant positive relationship with knowledge integration, together explaining 36% of its variance. [→ Olga Vogel 2024](#olga-vogel-2024)
@@ -31,7 +33,7 @@ sources:
 
 Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through individual competencies: the impacts of perspective taking, reflexivity, analogical reasoning and tolerance of ambiguity and uncertainty. Instructional Science. https://doi.org/10.1007/s11251-023-09653-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Cross-sectional online survey of 421 participants with ITD experience; multiple regression with the four competency scales predicting self-reported knowledge integration. The article reports "R 2 = 0.36, F(4,416) = 61.12, p < 0.001"; all beta confidence intervals excluded zero. No standardized effect size is printed, so impact is null.
 

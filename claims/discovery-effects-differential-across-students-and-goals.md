@@ -15,12 +15,14 @@ sources:
     author: Arthur Bakker
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Effects of discovery-related approaches are differential, not uniform across students or learning goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Levy et al.'s design-based research on the TrafficJams simulation, discovery learning effects were not uniform across students or across learning goals, so little can be claimed about discovery-related approaches in general. [→ Arthur Bakker 2018](#arthur-bakker-2018)
@@ -31,7 +33,7 @@ sources:
 
 Arthur Bakker. (2018). Discovery learning: zombie, phoenix, or elephant? Instructional Science, 46, 169–183. https://doi.org/10.1007/s11251-018-9450-8
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The commentary's assessment of Levy et al.'s (2018) design-based research with curricular materials and the TrafficJams simulation. The author reports the studies' findings as differential: "effects were not uniform—neither across students nor across learning goals." No effect sizes are printed in the commentary.
 

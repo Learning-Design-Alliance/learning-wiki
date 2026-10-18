@@ -15,12 +15,14 @@ sources:
     author: Manuela Glaser, Manuel Knoos, Stephan Schwan
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Participants correctly identified more picture element–interpretation matches (hits) in the LDI integrated condition than in the LDI separated condition. [→ Manuela Glaser 2022](#manuela-glaser-2022)
@@ -31,7 +33,7 @@ sources:
 
 Manuela Glaser, Manuel Knoos, Stephan Schwan. (2022). Localizing, describing, interpreting: effects of different audio text structures on attributing meaning to digital pictures. Instructional Science. https://doi.org/10.1007/s11251-022-09593-6
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Recognition task with 24 matched and 16 mismatched pairs per painting; ANCOVA controlling interest in history: F(1,52) = 5.62, p = .022, ηp² = 0.098, with "significantly more correct identifications" in the integrated condition.
 

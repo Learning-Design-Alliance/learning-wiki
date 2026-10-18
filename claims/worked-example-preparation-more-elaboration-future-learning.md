@@ -15,12 +15,14 @@ sources:
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Worked-example preparation deepens subsequent learning via more elaboration during the future-learning phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` During future learning, the worked example group showed more elaboration processes than the inventing group (BF+0 = 3.608, d = .68). [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)
@@ -31,7 +33,7 @@ sources:
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Think-aloud protocols coded by two independent raters (κ = 0.89) during learning of the quality-criteria unit in the CBLE; Table 2 reports elaboration means of 11.25 (worked example) versus 7.50 (inventing), d = .68, supporting that the "worked example group showed more cognitive processes of elaboration".
 

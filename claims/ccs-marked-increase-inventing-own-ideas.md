@@ -15,12 +15,14 @@ sources:
     author: Rikke Magnussen, Yotam Hod
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The increase in students inventing their own ways of solving tasks was minor, but there was a marked increase in students agreeing the CCS tasks required inventing their own ideas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across the CCS iterations, students showed only a minor increase in reporting they invented their own ways of solving tasks, but a marked increase in agreeing the tasks required inventing their own ideas. [→ Rikke Magnussen 2023](#rikke-magnussen-2023)
@@ -31,7 +33,7 @@ sources:
 
 Rikke Magnussen, Yotam Hod. (2023). Bridging communities and schools in Urban development: community and citizen science. Instructional Science. https://doi.org/10.1007/s11251-023-09641-9
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Pre/post survey items across the CCS iterations on student independence in problem solving, reported with Fig. 3. The article describes the contrast qualitatively as "only minor" versus "a marked increase"; no percentages or effect sizes are printed for this contrast.
 

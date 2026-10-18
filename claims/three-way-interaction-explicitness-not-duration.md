@@ -15,12 +15,14 @@ sources:
     author: Orna Heaysman, Bracha Kramarski
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # The three-way group × time × practice interaction was significant for explicitness but not duration: MCS explicitness rose more in the SRL-AIDE group while KC explicitness rose more in the comparison group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` The three-way interaction was significant for explicitness (F(1,68) = 7.07, p = .010, ηp2 = .09) but not for duration (p = .115). [→ Orna Heaysman 2026](#orna-heaysman-2026)
@@ -32,7 +34,7 @@ sources:
 
 Orna Heaysman, Bracha Kramarski. (2026). Authentic evidence from the 'SRL-AIDE' simulative environment on explicitness and duration of in-class SRL teaching practices. Instructional Science. https://doi.org/10.1007/s11251-026-09787-2
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Three-way mixed MANOVA on video-coded lessons; the explicitness three-way interaction reached significance ("ηp2 = .09") while duration did not (p = .115). Bonferroni follow-ups showed SRL-AIDE gains significant for both practices (p < .001), comparison gains significant only for KC (p = .042).
 

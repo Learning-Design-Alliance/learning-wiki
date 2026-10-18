@@ -15,12 +15,14 @@ sources:
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # An individual-then-collaborative activity structure (I+C) yields better delayed recall than collaborative-then-individual (C+I) and fully individual (I) structures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` I+C students scored higher globally on comprehension and recall post-tests than C+I and I students, with significant differences in recall (η² = 0.12) and comprehension versus the individual condition only (η² = 0.03). [→ Amante 2026](#amante-2026)
@@ -31,7 +33,7 @@ sources:
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Two-way ANOVA on 226 undergraduates randomly assigned to 12 conditions compared three activity structures. The I+C condition outperformed the individual condition in comprehension ("F (2, 223) = 3.84, p =.023, η2 = 0.03") and both other structures in recall (η2 = 0.12).
 

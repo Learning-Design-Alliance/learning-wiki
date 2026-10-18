@@ -15,12 +15,14 @@ sources:
     author: Marije van Amelsvoort, Alfons Maes
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Readers judge a diagram's argumentative position above chance in all conditions except when both text and color are absent, and deleting graphics is more detrimental than deleting text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For-against judgments were above chance in all conditions except when text and color were absent (-T?G-C). [→ Marije van Amelsvoort 2016](#marije-van-amelsvoort-2016)
@@ -31,7 +33,7 @@ sources:
 
 Marije van Amelsvoort, Alfons Maes. (2016). Show me your opinion. Perceptual cues in creating and reading argument diagrams. Instructional Science 44:335–357. https://doi.org/10.1007/s11251-016-9378-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Perception study with 94 participants randomly assigned to six conditions judging 17 diagrams under 4-s and unlimited time. Judgments were above chance except in the -T?G-C condition (p = .21 limited, p = .10 unlimited); equivalence was not tested.
 

@@ -15,12 +15,14 @@ sources:
     author: de Jong, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Dual-task (secondary-task) measures offer concurrent cognitive load assessment but are rarely used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The dual-task approach provides a concurrent measure of cognitive load as it occurs, with slower or less accurate secondary-task performance indicating more resource consumption, yet it is used relatively rarely. [→ de Jong 2010](#de-jong-2010)
@@ -31,7 +33,7 @@ sources:
 
 de Jong, T. (2010). Cognitive load theory, educational research, and instructional design: some food for thought. Instructional Science. https://doi.org/10.1007/s11251-009-9110-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review describes the secondary-task approach (e.g., reaction to color changes or letter encoding) borrowed from car-driving research, noting Brünken et al. (2003) "have empirically shown the suitability of the dual task approach" while usage remains rare. No effect size printed.
 

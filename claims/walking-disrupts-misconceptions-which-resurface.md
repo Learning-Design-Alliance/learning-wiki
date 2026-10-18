@@ -15,18 +15,22 @@ sources:
     author: Jacqueline Anton, Dor Abrahamson
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: jacqueline-anton-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09707-w"
     title: "Jacqueline Anton, Dor Abrahamson. (2025). Walking the number line: towards an enactive understanding of integer arithmetic. Instructional Science. https://doi.org/10.1007/s11251-025-09707-w"
     author: Jacqueline Anton, Dor Abrahamson
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Walking the body-scale number line disrupted students' prior misconceptions and erroneous rules, which resurfaced when they returned to the desk-scale number line
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students who held erroneous sign rules or treated zero as nothing solved problems correctly on the body-scale number line, then reverted to prior strategies on the desk-scale number line. [→ Jacqueline Anton 2025](#jacqueline-anton-2025)
@@ -38,7 +42,7 @@ sources:
 
 Jacqueline Anton, Dor Abrahamson. (2025). Walking the number line: towards an enactive understanding of integer arithmetic. Instructional Science. https://doi.org/10.1007/s11251-025-09707-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Episode 2 case analysis from the pilot: a student who applied a 'negative and negative makes positive' rule on the desk-scale line abandoned it after correctly solving on the walking line, then reverted to old habits on the SNL.
 
@@ -48,7 +52,7 @@ Episode 2 case analysis from the pilot: a student who applied a 'negative and ne
 
 Jacqueline Anton, Dor Abrahamson. (2025). Walking the number line: towards an enactive understanding of integer arithmetic. Instructional Science. https://doi.org/10.1007/s11251-025-09707-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Episode 1 case analysis: three students who treated zero as a placeholder on the desk-scale line had correctly solved zero problems on the walking line; the authors interpret walking as disrupting the zero-is-nothing notion.
 

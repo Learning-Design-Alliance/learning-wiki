@@ -15,12 +15,14 @@ sources:
     author: "Kokarida, P., Markopoulos, P., & Tisza, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students report that learning activities aligned with their skills—neither too easy nor too difficult—and the accomplishment of succeeding at demanding tasks make learning fun, without requiring gamified rewards. [→ Kokarida 2026](#kokarida-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Focus group thematic analysis (N = 12 students): students described preferring manageable difficulty ("She gives us a lot [of homework], but it's not difficult") and mastery of demanding tasks such as mathematics as generating fun and competence.
 

@@ -15,18 +15,22 @@ sources:
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: betzabe-ruiz-morales-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09791-6"
     title: "Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6"
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Sadler's 1989 work on formative assessment is the journal's most cited paper with 1,686 citations. [→ Betzabe Ruiz-Morales 2026](#betzabe-ruiz-morales-2026)
@@ -38,7 +42,7 @@ sources:
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Ranking of the top 50 most cited documents published in Instructional Science (Table 6). The authors report Sadler's formative assessment work "has received 1,686 citations", the highest in the journal.
 
@@ -48,7 +52,7 @@ Ranking of the top 50 most cited documents published in Instructional Science (T
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same Table 6 ranking of most cited in-journal documents. The authors report Marton's 1981 phenomenography paper "receiving 1,547 citations", second only to Sadler's.
 

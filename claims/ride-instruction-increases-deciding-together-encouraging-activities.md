@@ -15,12 +15,14 @@ sources:
     author: "Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # RIDE instruction leads to more frequent use of the communicative activities associated with the Deciding together and Encouraging rules
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Dyads receiving RIDE instruction used the communicative activities elicited by the Deciding together and Encouraging rules significantly more often than control dyads. [→ Saab 2007](#saab-2007)
@@ -31,7 +33,7 @@ sources:
 
 Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M. (2007). Supporting Communication in a Collaborative Discovery Learning Environment: the Effect of Instruction. Instructional Science 35:73–98. https://doi.org/10.1007/s11251-006-9003-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mann–Whitney U-tests (one-tailed) on logged chat frequencies compared 17 instructed dyads with 12 control dyads; Deciding together reached p = 0.009 and Encouraging p = 0.008. The study reports the activities were "used signiﬁcantly more often in the experimental group".
 

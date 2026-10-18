@@ -15,12 +15,14 @@ sources:
     author: de Jong, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The claim that high-variability practice imposes germane load rests on post-hoc explanation and does not always replicate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The interpretation that higher reported load under high-variability practice schedules is germane is post-hoc, and a troubleshooting study found better transfer under high variability without higher measured cognitive load. [→ de Jong 2010](#de-jong-2010)
@@ -31,7 +33,7 @@ sources:
 
 de Jong, T. (2010). Cognitive load theory, educational research, and instructional design: some food for thought. Instructional Science. https://doi.org/10.1007/s11251-009-9110-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports the de Croock et al. troubleshooting study in a distillery system: the high-variability group showed better transfer performance than the low variability group but no higher subjective cognitive load, contradicting the Sweller et al. variability explanation. No effect size printed.
 

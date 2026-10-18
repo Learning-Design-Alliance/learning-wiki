@@ -15,18 +15,22 @@ sources:
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: krause-wichmann-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09694-4"
     title: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4"
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Generating own examples after instruction produced better retention and transfer than studying provided examples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Self-generated examples yielded higher knowledge retention than provided examples (d = 0.51). [→ Krause-Wichmann 2025](#krause-wichmann-2025)
@@ -38,7 +42,7 @@ sources:
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Planned contrast I-GE vs. I-PE on knowledge retention in the randomized three-condition experiment (N = 105); Table 3 prints d = 0.51 for this contrast, a medium effect favoring example generation.
 
@@ -48,7 +52,7 @@ Planned contrast I-GE vs. I-PE on knowledge retention in the randomized three-co
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Planned contrasts on knowledge transfer in the same experiment; Table 3 prints d = 0.66 for I-GE/I-PE (and d = 1.17 for I-GE/I), and "Students who generated examples achieved the best results".
 

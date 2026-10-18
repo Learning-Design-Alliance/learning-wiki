@@ -17,7 +17,7 @@ sources:
 # Select tutors with adequate content expertise and prepare all tutors in cognitive and social congruence, on the job
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors draw practical implications for staffing problem-based curricula from their finding that student and staff tutors behave differently. For selection, they recommend employing tutors only in units where they have adequate content expertise; for preparation, they recommend training that develops cognitive and social congruence, conducted on the job with preparatory meetings using the actual course problems, plus regular peer communication among tutors about how they help students overcome cognitive obstacles. As they write, "With respect to selection, the school only should employ tutors in units in which they have an adequate level of content expertise. With respect to the preparation of tutors, more attention should be given to cognitive and social congruence."
@@ -38,7 +38,7 @@ The authors draw practical implications for staffing problem-based curricula fro
 - effective facilitation of student learning processes in small-group problem-based learning
 
 ### Affordances
-- [Six Component Tutor Behavior Framework](../theories/six-component-tutor-behavior-framework.md)
+- Six Component Tutor Behavior Framework
 
 ## Claims
 

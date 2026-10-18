@@ -15,12 +15,14 @@ sources:
     author: Jacqueline Anton, Dor Abrahamson
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students' errors on the desk-scale number line cluster on subtracting a negative number, with fewer errors on subtracting a positive from a negative or adding a negative to a positive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among pilot participants, breakdowns on the desk-scale number line occurred particularly on problems involving subtracting a negative number, with other errors on subtracting a positive from a negative (n = 4) and adding a negative to a positive (n = 1). [→ Jacqueline Anton 2025](#jacqueline-anton-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jacqueline Anton, Dor Abrahamson. (2025). Walking the number line: towards an enactive understanding of integer arithmetic. Instructional Science. https://doi.org/10.1007/s11251-025-09707-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observational error tally from the same 15-student pilot, reported in the Results section: nine students showed perspectival-coordination breakdown, chiefly on subtracting a negative; the article prints the counts for the two other error types.
 

@@ -15,12 +15,14 @@ sources:
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Completing and organizing maps showed a significantly higher proportion of superficial exploratory talk than the other tasks. [→ Amante 2026](#amante-2026)
@@ -31,7 +33,7 @@ sources:
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same transcript analysis: the simpler closed tasks produced mostly superficial exploratory episodes with justifications based on the literal text and hardly any argument or negotiation.
 

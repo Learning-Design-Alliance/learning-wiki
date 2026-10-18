@@ -15,12 +15,14 @@ sources:
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Science achievements correlated significantly and positively with preferences for visual, auditory, and agency-support means, but not sensorimotor means, with low coefficients
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Scientific knowledge and skills scores correlated positively with visual (r(303) = 0.13), auditory (r(303) = 0.18), and agency-support (r(303) = 0.14) preferences; the sensorimotor correlation was not significant. [→ Oshra Aloni 2024](#oshra-aloni-2024)
@@ -31,7 +33,7 @@ sources:
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Pearson correlation analyses between Scientific Knowledge and Skills Test scores and preference levels in the 305-student sample found significant positive correlations for visual (r(303) = 0.13), auditory (r(303) = 0.18), and agency support (r(303) = 0.14) but not sensorimotor; the authors note "the correlations were significant but with low coefficients". The printed correlation coefficients (r = 0.13–0.18) are small, coding impact as 1.
 

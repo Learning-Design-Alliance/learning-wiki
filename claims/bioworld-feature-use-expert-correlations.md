@@ -15,18 +15,22 @@ sources:
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
   - id: lajoie-2001-2
     resource: "http://www.jstor.org/stable/41953546"
     title: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546"
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 3
     i: 3
+    kind: design
+    rigour: 2
 ---
 
 # In BioWorld, expert-like initial problem representation and library use correlate with expert-like evidence collection and diagnostic-test ordering
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Proportion of expert symptoms collected during problem representation correlated with overall expert-like evidence collected (r = 0.59). [→ Lajoie 2001](#lajoie-2001)
@@ -38,7 +42,7 @@ sources:
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Pearson correlational analysis of computer-trace data from 20 groups, comparing student actions to expert benchmarks. The correlation between "proportion of expert symptoms collected during problem representation" and overall expert-like evidence was r = 0.59, p = 0.002.
 
@@ -48,7 +52,7 @@ Pearson correlational analysis of computer-trace data from 20 groups, comparing 
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q3 · i3`
+`q3 · i3` · `design · r2`
 
 Same correlational analysis of BioWorld trace data: library entries (declarative knowledge) positively correlated with expert-like diagnostic tests ordered, r = 0.42, p = 0.04. The authors also report high evidence collectors scored highly on expert-like tests (r = 49, p = 0.02).
 

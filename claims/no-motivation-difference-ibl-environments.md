@@ -15,12 +15,14 @@ sources:
     author: Hasan Ozgur Kapici
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No significant difference in motivation for learning science between computer-based and regular-classroom inquiry groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Posttest motivation scores did not differ significantly between groups (t(304) = 0.851, p =.395), and neither group showed a significant increase; no effect size was printed. [→ Hasan Ozgur Kapici 2025](#hasan-ozgur-kapici-2025)
@@ -31,7 +33,7 @@ sources:
 
 Hasan Ozgur Kapici. (2025). Does inquiry-based learning work better in regular classrooms or computer-based settings? Instructional Science (2025) 53:705–728. https://doi.org/10.1007/s11251-025-09711-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Science Motivation Questionnaire-II (22 items, five sub-dimensions) administered in the same quasi-experimental study. Neither group's motivation increased significantly, and the posttest comparison showed "no significant difference between the groups’ motivation scores"; sub-dimension comparisons were also non-significant. Equivalence was not tested.
 

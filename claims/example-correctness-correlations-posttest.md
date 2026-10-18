@@ -15,12 +15,14 @@ sources:
     author: Tim M. Steininger, Jörg Wittwer, Thamar Voss
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Correctness of generated and classified examples during learning correlates selectively with posttest task performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Correctly generating examples correlated with classification-task and generation-task performance but not inference or definition recall; correctly classifying examples correlated only with inference-task performance. [→ Tim M. Steininger 2022](#tim-m-steininger-2022)
@@ -31,7 +33,7 @@ sources:
 
 Tim M. Steininger, Jörg Wittwer, Thamar Voss. (2022). Classifying Examples is More Effective for Learning Relational Categories Than Reading or Generating Examples. Instructional Science. https://doi.org/10.1007/s11251-022-09584-7
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Exploratory bivariate correlations (Table 2) computed separately for the generating and classifying conditions. The printed correlations ranged from r = .22 to r = .46 among the significant ones; the article reports the pattern without effect sizes for each contrast.
 

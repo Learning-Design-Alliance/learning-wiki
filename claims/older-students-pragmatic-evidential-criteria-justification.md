@@ -15,18 +15,22 @@ sources:
     author: "Lee, S. W.-Y., Wu, H., & Chang, H."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: lee-2021-2
     resource: "https://doi.org/10.1007/s11251-021-09534-9"
     title: "Lee, S. W.-Y., Wu, H., & Chang, H. (2021). Examining secondary school students' views of model evaluation through an integrated framework of personal epistemology. Instructional Science, 49, 223–248. https://doi.org/10.1007/s11251-021-09534-9"
     author: "Lee, S. W.-Y., Wu, H., & Chang, H."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Among students choosing multiplist and evaluatist assumptions, 11th-grade students were more likely than eighth-grade students to justify their views with pragmatic and evidential criteria of knowing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Eleventh-grade students more often used pragmatic and evidential criteria of knowing when justifying multiplist and evaluatist assumption choices. [→ Lee 2021](#lee-2021)
@@ -38,7 +42,7 @@ sources:
 
 Lee, S. W.-Y., Wu, H., & Chang, H. (2021). Examining secondary school students' views of model evaluation through an integrated framework of personal epistemology. Instructional Science, 49, 223–248. https://doi.org/10.1007/s11251-021-09534-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 From the qualitative coding of written justifications in the survey of 188 students: "the 11th-grade students were more likely than the eighth-grade students to think in terms of pragmatic and evidential criteria as the criteria of knowing."
 
@@ -48,7 +52,7 @@ From the qualitative coding of written justifications in the survey of 188 stude
 
 Lee, S. W.-Y., Wu, H., & Chang, H. (2021). Examining secondary school students' views of model evaluation through an integrated framework of personal epistemology. Instructional Science, 49, 223–248. https://doi.org/10.1007/s11251-021-09534-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the qualitative analysis of written responses, "about 75% to 80% of the 11th-grade students" provided meaningful written responses versus about 55–60% of eighth graders; the article states more 11th-grade students were able to provide meaningful justification.
 

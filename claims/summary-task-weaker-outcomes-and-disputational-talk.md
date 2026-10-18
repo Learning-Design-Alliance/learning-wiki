@@ -15,18 +15,22 @@ sources:
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: amante-2026-2
     resource: "https://doi.org/10.1007/s11251-025-09764-1"
     title: "Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1"
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Summaries did not improve significantly from pre- to post-test in any modality, and disputational talk was clearly more frequent in collaborative summaries than in other conditions. [→ Amante 2026](#amante-2026)
@@ -38,7 +42,7 @@ sources:
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Pre-post t-tests in the 12-condition study: summary conditions showed no significant comprehension gains in any modality; disputational episodes were concentrated in collaborative summaries, especially C+I.
 
@@ -48,7 +52,7 @@ Pre-post t-tests in the 12-condition study: summary conditions showed no signifi
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Hypothesis H2.3 was not confirmed: the summary-versus-fill-in-the-blanks contrast was descriptively worse for summaries but non-significant, so the authors draw no clear conclusion about learning outcomes.
 

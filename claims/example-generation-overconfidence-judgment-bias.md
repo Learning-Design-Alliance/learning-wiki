@@ -15,12 +15,14 @@ sources:
     author: Tim M. Steininger, Jörg Wittwer, Thamar Voss
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Generating examples produces overconfident judgments of learning, especially for principles and procedures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Student teachers who generated examples were more overconfident in identifying knowledge types than those who read or classified examples, particularly for principles and procedures. [→ Tim M. Steininger 2022](#tim-m-steininger-2022)
@@ -31,7 +33,7 @@ sources:
 
 Tim M. Steininger, Jörg Wittwer, Thamar Voss. (2022). Classifying Examples is More Effective for Learning Relational Categories Than Reading or Generating Examples. Instructional Science. https://doi.org/10.1007/s11251-022-09584-7
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Judgment bias was computed as the signed difference between z-transformed certainty ratings and knowledge-test performance. The contrast (generating +2 vs. reading/classifying −1) was "significant, V = 0.174 (Pillai’s trace), F(4, 77) = 4.05, p = .003, η2 = 0.17"; univariate effects were significant for principles (η2 = 0.08) and procedures (η2 = 0.13).
 

@@ -12,7 +12,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 21 claims (13 show a difference, 3 mixed, 5 no difference) · 12 studies (4 causal, 3 review, 3 associational, 2 theoretical), `q1`–`q3` · 5 of 12 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (15 show a difference, 3 mixed, 5 no difference) · 13 studies (4 causal, 4 associational, 3 review, 2 theoretical), `q1`–`q3` · 6 of 13 report an effect size · 22 claims rest on one study
 
 ## Bottom line
 

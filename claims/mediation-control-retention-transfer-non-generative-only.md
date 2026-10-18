@@ -15,30 +15,38 @@ sources:
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: krause-wichmann-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09694-4"
     title: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4"
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: krause-wichmann-2025-3
     resource: "https://doi.org/10.1007/s11251-024-09694-4"
     title: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4"
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: krause-wichmann-2025-4
     resource: "https://doi.org/10.1007/s11251-024-09694-4"
     title: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4"
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Perceived learning control enhanced transfer via knowledge retention only for students in the non-generative conditions (provided examples, instruction only), not for example generators
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (4 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the provided-examples condition, all direct paths (PC→KR, PC→KT, KR→KT), the indirect effect and the total effect were significant and positive. [→ Krause-Wichmann 2025](#krause-wichmann-2025)
@@ -52,7 +60,7 @@ sources:
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multi-group mediation analysis (lavaan, one model per condition) in the randomized experiment; Table 4 prints significant positive standardized paths PC→KR = .60, PC→KT = .27, KR→KT = .45, indirect Std = .27, total Std = .54 in I-PE, indicating "all direct paths were significant and positive".
 
@@ -62,7 +70,7 @@ Multi-group mediation analysis (lavaan, one model per condition) in the randomiz
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mediation analysis for the instruction-only condition; higher perceived control related to transfer only indirectly through knowledge retention, with no significant total effect.
 
@@ -72,7 +80,7 @@ Mediation analysis for the instruction-only condition; higher perceived control 
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mediation analysis for the self-generation condition; neither perceived control nor retention related to transfer, contrary to the hypothesized model.
 
@@ -82,7 +90,7 @@ Mediation analysis for the self-generation condition; neither perceived control 
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Wald-test planned contrast of indirect effects across conditions (research question 4); the mediating role of retention was more emphasized with provided than generated examples.
 

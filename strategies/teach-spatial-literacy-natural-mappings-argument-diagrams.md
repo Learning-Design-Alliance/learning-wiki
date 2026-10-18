@@ -37,7 +37,7 @@ The authors recommend that education on spatial literacy address "not only on te
 - using argument diagrams to order arguments, give overview, and make decisions on complex societal problems
 
 ### Affordances
-- [Natural Resources Perceptual Cues Argument Diagrams](../theories/natural-resources-perceptual-cues-argument-diagrams.md)
+- Natural Resources Perceptual Cues Argument Diagrams
 
 ## Related Strategies
 - 

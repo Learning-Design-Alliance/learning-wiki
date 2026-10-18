@@ -15,12 +15,14 @@ sources:
     author: "Moust, J. C. & Schmidt, H. G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In both courses, students rated student tutors as better able to understand the problems students face in mastering the subject-matter, with significant and relatively large differences. [→ Moust 1995](#moust-1995)
@@ -31,7 +33,7 @@ sources:
 
 Moust, J. C. & Schmidt, H. G. (1995). Facilitating small-group learning: a comparison of student and staff tutors' behavior. Instructional Science 22: 287-301. https://link.springer.com/journal/11251
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Questionnaire study in two eight-week first-year law courses (202 and 150 students) rated tutors on a 39-item scale; on cognitive congruence student tutors scored higher in both courses (course 1: F = 17.00, p = 0.001; course 2: F = 16.03, p = 0.001), described as "significant and relatively large".
 

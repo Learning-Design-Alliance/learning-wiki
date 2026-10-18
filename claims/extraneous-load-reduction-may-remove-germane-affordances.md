@@ -15,12 +15,14 @@ sources:
     author: de Jong, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reducing extraneous load can also remove affordances for germane processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Designs that seem to elicit extraneous processes may simultaneously stimulate germane processes, so reducing extraneous load may remove affordances for germane processes such as relating multiple representations. [→ de Jong 2010](#de-jong-2010)
@@ -31,7 +33,7 @@ sources:
 
 de Jong, T. (2010). Cognitive load theory, educational research, and instructional design: some food for thought. Instructional Science. https://doi.org/10.1007/s11251-009-9110-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review quotes Paas et al. (2004) on nonlinear hypertext environments, where reducing extraneous load via linear formats "may at the same time reduce germane cognitive load by disrupting the example comparison and elaboration processes". Attributed argument, no effect size.
 

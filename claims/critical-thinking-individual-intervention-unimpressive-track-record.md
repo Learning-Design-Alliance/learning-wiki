@@ -15,12 +15,14 @@ sources:
     author: "Trninic, D., Swanson, H., & Kapur, M."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Individual-level critical thinking instruction has an unimpressive track record, motivating communal-level intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Teaching critical thinking as an individual cognitive correction has an unimpressive track record, so the authors conjecture a communal-level intervention may be optimal. [→ Trninic 2018](#trninic-2018)
@@ -31,7 +33,7 @@ sources:
 
 Trninic, D., Swanson, H., & Kapur, M. (2018). Productive dissent in learning communities. Instructional Science, 46(4). https://doi.org/10.1007/s11251-018-9466-0
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the introduction: the article reports, citing Lilienfeld et al. 2009, that the individual-level approach of correcting cognitive errors has an "unimpressive track record," and offers the communal-level conjecture as an alternative. No empirical test is reported here.
 

@@ -15,12 +15,14 @@ sources:
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Middle school science students preferred all four learning modalities, with significantly higher preference for visual and sensorimotor means than for auditory means and agency support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All four learning-preference levels scored above the mid-point, but differed significantly across modalities, F(2.784, 846.364) = 17.82, p < 0.001, ηp2 = 0.06. [→ Oshra Aloni 2024](#oshra-aloni-2024)
@@ -31,7 +33,7 @@ sources:
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 One-way repeated measures ANOVA on the Learning Preferences Questionnaire responses of 305 ninth-grade students, with the four modalities as within-subject variables. All preference means scored above the mid-point on the 1–4 scale, and the omnibus difference was significant, "F(2.784, 846.364) = 17.82, p < 0.001, ηp2 = 0.06".
 

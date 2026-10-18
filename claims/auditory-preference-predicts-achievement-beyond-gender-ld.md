@@ -15,18 +15,22 @@ sources:
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: oshra-aloni-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09666-8"
     title: "Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8"
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In hierarchical regression, gender and LD status contributed 6.4% to science achievements, and auditory learning preference contributed a further significant 3.1% beyond them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Gender contributed 4.8% (positive β) and with/without LD contributed 1.6% (negative β) to explained variance in science achievements in step one. [→ Oshra Aloni 2024](#oshra-aloni-2024)
@@ -38,7 +42,7 @@ sources:
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Stepwise hierarchical regression on the 305-student sample entered gender and LD status first; together they explained "6.4%" of achievement variance, with gender contributing 4.8% (positive β) and LD status 1.6% (negative β). No standardized effect size beyond variance percentages is printed, so impact is null.
 
@@ -48,7 +52,7 @@ Stepwise hierarchical regression on the 305-student sample entered gender and LD
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the second step of the same hierarchical regression, auditory preference was entered beyond gender and LD status and "contributed significantly (3.1%)" to achievement variance, with positive β coefficients; no standardized effect size is printed, so impact is null.
 

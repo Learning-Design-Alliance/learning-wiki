@@ -15,18 +15,22 @@ sources:
     author: "Lena Asp, Alli Klapp, & Victoria Rolfe"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: lena-asp-2026-2
     resource: "https://doi.org/10.1007/s11251-025-09767-y"
     title: "Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y"
     author: "Lena Asp, Alli Klapp, & Victoria Rolfe"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # SES and language spoken at home are strongly related to mathematics achievement especially at the classroom level, and teaching-quality estimates reduce these background estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Relations between SES (BOOKS) and mathematics achievement are significant and substantial at both levels (Model C5 = 0.30***w; 0.66***b), with the aggregated BOOKS estimate lower than the reference model (0.81***b). [→ Lena Asp 2026](#lena-asp-2026)
@@ -38,7 +42,7 @@ sources:
 
 Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Comparison of Model C5 against reference models in the Swedish grade 4 TIMSS 2019 MSEM analyses. The study reports BOOKS at "0.30***w; 0.66*** b" in C5 versus 0.81***b in the reference model, suggesting "teaching quality could reduce some of the influence of SES"; only standardised path coefficients are printed, no effect size.
 
@@ -48,7 +52,7 @@ Comparison of Model C5 against reference models in the Swedish grade 4 TIMSS 201
 
 Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Same Model C5 versus reference-model comparison. The study reports LANG estimates of "0.07***w; 0.30*** b" in C5 versus 0.65***b in the reference model, suggesting student-perceived teaching quality reduces the language-background estimate; no effect size is printed.
 

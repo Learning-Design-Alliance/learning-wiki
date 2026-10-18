@@ -15,12 +15,14 @@ sources:
     author: "Baier, F., Maurer, C., Dignath, C., & Kunter, M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Both groups reported drawing more strongly on theoretical knowledge when analysing classroom situations after the intervention, with a large effect size (η²p = 0.45). [→ Baier 2021](#baier-2021)
@@ -31,7 +33,7 @@ sources:
 
 Baier, F., Maurer, C., Dignath, C., & Kunter, M. (2021). Fostering pre-service teachers' theoretical knowledge application: studying with and without text-based cases. Instructional Science. https://doi.org/10.1007/s11251-021-09560-7
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Repeated-measures ANOVA on self-reported theory-based knowledge usage (Omega 0.81 pre, 0.91 post) in the quasi-experimental study. Both groups increased from pre to post with a printed effect size of η²p = 0.45, a large effect; descriptive means rose from about 3.2-3.5 to about 4.4-4.7.
 

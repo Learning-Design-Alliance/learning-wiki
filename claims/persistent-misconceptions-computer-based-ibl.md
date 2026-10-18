@@ -15,12 +15,14 @@ sources:
     author: Hasan Ozgur Kapici
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students in computer-based inquiry environments still held misconceptions about force and energy after instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Post-unit interviews with 30 experimental-group students revealed misconceptions about force, mass and weight, potential energy, and kinetic energy. [→ Hasan Ozgur Kapici 2025](#hasan-ozgur-kapici-2025)
@@ -31,7 +33,7 @@ sources:
 
 Hasan Ozgur Kapici. (2025). Does inquiry-based learning work better in regular classrooms or computer-based settings? Instructional Science (2025) 53:705–728. https://doi.org/10.1007/s11251-025-09711-0
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Qualitative content analysis of one-on-one interviews with 30 students (five per experimental class, selected across achievement levels) re-asking conceptual test questions. Misconceptions concerned "mass and weight, potential and kinetic energy, and force", e.g. a student claiming "there is no gravity on the moon".
 

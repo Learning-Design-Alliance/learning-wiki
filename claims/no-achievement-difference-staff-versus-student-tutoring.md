@@ -15,12 +15,14 @@ sources:
     author: "Moust, J. C. & Schmidt, H. G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Prior field experiments found no achievement differences between staff- and student-tutored groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In two randomized field experiments, students tutored by staff and students tutored by peers showed no differences in end-of-course achievement. [→ Moust 1995](#moust-1995)
@@ -31,7 +33,7 @@ sources:
 
 Moust, J. C. & Schmidt, H. G. (1995). Facilitating small-group learning: a comparison of student and staff tutors' behavior. Instructional Science 22: 287-301. https://link.springer.com/journal/11251
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 First field experiment: 230 first-year law students randomly assigned to staff- or student-tutored groups meeting twice weekly for eight weeks; "no differences in achievement" were found, and the finding was replicated in a second experiment with 160 students.
 

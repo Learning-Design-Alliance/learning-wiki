@@ -15,12 +15,14 @@ sources:
     author: Orna Heaysman, Bracha Kramarski
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # KC lesson duration increased significantly only in the SRL-AIDE group (d = 1.14), not in the comparison group (d = 0.12)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Paired t-tests showed a significant time effect for KC duration in the SRL-AIDE group (t(34) = 6.71, p < .001, d = 1.14) but not in the comparison group (t(34) = .73, p = .472, d = 0.12). [→ Orna Heaysman 2026](#orna-heaysman-2026)
@@ -31,7 +33,7 @@ sources:
 
 Orna Heaysman, Bracha Kramarski. (2026). Authentic evidence from the 'SRL-AIDE' simulative environment on explicitness and duration of in-class SRL teaching practices. Instructional Science. https://doi.org/10.1007/s11251-026-09787-2
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Follow-up paired t-tests on video-coded KC duration (% of lesson time) after a non-significant three-way interaction for duration. The SRL-AIDE group showed "Cohen's d = 1.14"; the comparison group's change was non-significant (p = .472).
 

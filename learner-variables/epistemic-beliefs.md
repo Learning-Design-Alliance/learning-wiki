@@ -12,7 +12,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 16 claims (11 show a difference, 3 mixed, 2 no difference) · 10 studies (4 design, 2 causal, 2 qualitative, 1 review, 1 associational), `q1`–`q3` · 1 of 10 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (11 show a difference, 6 mixed, 3 no difference) · 11 studies (4 design, 2 causal, 2 associational, 2 qualitative, 1 review), `q1`–`q3` · 1 of 11 report an effect size · 20 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.

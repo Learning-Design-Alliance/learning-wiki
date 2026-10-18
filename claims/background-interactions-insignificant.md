@@ -15,12 +15,14 @@ sources:
     author: "Lena Asp, Alli Klapp, & Victoria Rolfe"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Interaction effects between student background variables (BOOKS, LANG, GENDER) and outcomes were statistically insignificant in both achievement and confidence models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` All four interaction measures (three two-way and one three-way) between the student background variables were statistically insignificant in the achievement models (C5) and the confidence models (D5). [→ Lena Asp 2026](#lena-asp-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Null interaction tests in MSEM Models C5 and D5 of the Swedish grade 4 TIMSS 2019 data. The study reports "all four interaction measures were statistically insignificant"; no effect sizes are printed, so no magnitude is reported.
 

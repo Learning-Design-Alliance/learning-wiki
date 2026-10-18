@@ -12,7 +12,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 41 claims (33 show a difference, 5 mixed, 3 no difference) · 35 studies (9 causal, 9 qualitative, 7 review, 5 associational, 3 theoretical, 2 design), `q1`–`q3` · 3 of 35 report an effect size · 41 claims rest on one study
+> **Evidence** · 42 claims (33 show a difference, 5 mixed, 4 no difference) · 36 studies (9 causal, 9 qualitative, 7 review, 5 associational, 3 design, 3 theoretical), `q1`–`q3` · 3 of 36 report an effect size · 42 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.

@@ -15,12 +15,14 @@ sources:
     author: de Jong, T.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Cognitive load measures are relative, but theory hinges on absolute overload; studies comparing conditions may miss that all conditions show overload. [→ de Jong 2010](#de-jong-2010)
@@ -31,7 +33,7 @@ sources:
 
 de Jong, T. (2010). Cognitive load theory, educational research, and instructional design: some food for thought. Instructional Science. https://doi.org/10.1007/s11251-009-9110-0
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review's analysis of overall measurement problems states that although learning is hindered when working memory capacity is exceeded, existing measures cannot detect overload and "the critical level indicating overload is unknown". Conceptual/methodological argument, no effect size.
 

@@ -15,12 +15,14 @@ sources:
     author: "Baier, F., Maurer, C., Dignath, C., & Kunter, M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Studying theoretical content with text-based cases yields a small advantage in productive scientific knowledge application over studying the same content with theoretical models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In a quasi-experimental pre-post study of 101 pre-service teachers, the case-based learning group showed higher productive knowledge application on a vignette test than the comparison group, with a small effect (η²p = 0.04). [→ Baier 2021](#baier-2021)
@@ -31,7 +33,7 @@ sources:
 
 Baier, F., Maurer, C., Dignath, C., & Kunter, M. (2021). Fostering pre-service teachers' theoretical knowledge application: studying with and without text-based cases. Instructional Science. https://doi.org/10.1007/s11251-021-09560-7
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Quasi-experimental pre-post study of 101 pre-service teachers in a classroom management course; ANCOVA controlled for performance on each of the four vignettes at pre-test. The group effect was significant with a printed effect size of η²p = 0.04, which the article describes as a small effect that may not be of practical relevance.
 

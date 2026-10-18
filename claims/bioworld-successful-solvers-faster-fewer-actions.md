@@ -15,18 +15,22 @@ sources:
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
   - id: lajoie-2001-2
     resource: "http://www.jstor.org/stable/41953546"
     title: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546"
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 90% of participating students solved the problems. [→ Lajoie 2001](#lajoie-2001)
@@ -38,7 +42,7 @@ sources:
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Conclusions section reporting the diagnostic accuracy measure across the 40 grade-9 participants: 90% solved the BioWorld problems, which the authors call high given that disease problem solving was new to them. No effect size is printed.
 
@@ -48,7 +52,7 @@ Conclusions section reporting the diagnostic accuracy measure across the 40 grad
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Comparison of successful versus less successful solvers in the computer-trace data: accurate diagnosers took less time and needed fewer actions, indicating different search strategies. No test statistic or effect size is printed for this contrast.
 

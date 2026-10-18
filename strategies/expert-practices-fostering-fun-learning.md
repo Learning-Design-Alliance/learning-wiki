@@ -17,7 +17,7 @@ sources:
 # Expert-recommended practices for fostering fun in learning: suggestion boxes, embracing failure, differentiated challenge, and open-ended questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 From the expert interview, teachers are advised to gather students' ideas for making lessons more fun, for example a classroom suggestion box where "every day they would throw in suggestions" discussed weekly; to set real challenges within and beyond students' abilities and "separate challenges from grades"; and to pose creative open-ended questions such as "Why does France have a capital?" with no right or wrong answer.
@@ -37,7 +37,7 @@ From the expert interview, teachers are advised to gather students' ideas for ma
 - fostering fun, creativity, and engagement in formal lessons
 
 ### Affordances
-- [Six Non Gamification Fun Elements Primary](../theories/six-non-gamification-fun-elements-primary.md)
+- Six Non Gamification Fun Elements Primary
 
 ## Claims
 

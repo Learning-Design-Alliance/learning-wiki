@@ -15,12 +15,14 @@ sources:
     author: "Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # RIDE-instructed dyads more often use elicitative, responsive, confirmation/acceptance, and asking-for-action communicative activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Four groups of communicative activities were significantly more frequent in the experimental group than in the control group. [→ Saab 2007](#saab-2007)
@@ -31,7 +33,7 @@ sources:
 
 Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M. (2007). Supporting Communication in a Collaborative Discovery Learning Environment: the Effect of Instruction. Instructional Science 35:73–98. https://doi.org/10.1007/s11251-006-9003-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mann–Whitney U-tests on absolute chat frequencies from 17 experimental versus 12 control dyads working 90 minutes in Collisions; elicitative p = 0.027, responsive p = 0.015, confirmation/acceptance p = 0.017, asking for action p = 0.017.
 

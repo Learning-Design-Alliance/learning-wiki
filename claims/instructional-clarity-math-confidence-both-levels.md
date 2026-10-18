@@ -15,12 +15,14 @@ sources:
     author: "Lena Asp, Alli Klapp, & Victoria Rolfe"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Student-perceived instructional clarity is significantly and substantially related to mathematics confidence at both student and classroom levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Instructional clarity is significantly and substantially related to mathematics confidence at both levels (0.41***w; 0.83***b) in Model D1, and this holds in the final Model D5 (0.40***w; 0.80***b). [→ Lena Asp 2026](#lena-asp-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 MSEM Models D1–D5 with mathematics confidence as outcome in the same Swedish grade 4 TIMSS 2019 sample. The study reports instructional clarity "significant and substantially related to mathematics confidence at both levels (0.41***w; 0.83***b)", stable in Model D5 (0.40***w; 0.80***b); only standardised path coefficients are printed, no effect size.
 

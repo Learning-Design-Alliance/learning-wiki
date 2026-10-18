@@ -15,12 +15,14 @@ sources:
     author: Olga Vogel, Marcel Hunecke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Expertise positively predicts knowledge integration, and the four competencies remain positively related to knowledge integration at different levels of expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adding expertise as a predictor showed a significant effect on knowledge integration (b = 0.16) and explained 5% additional variance, while the competencies continued to show positive relationships. [→ Olga Vogel 2024](#olga-vogel-2024)
@@ -31,7 +33,7 @@ sources:
 
 Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through individual competencies: the impacts of perspective taking, reflexivity, analogical reasoning and tolerance of ambiguity and uncertainty. Instructional Science. https://doi.org/10.1007/s11251-023-09653-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression Model 2 in the same survey dataset added a single-item self-rated expertise measure. The article prints "b = 0.16, SE = 0.03, t = 5.92, p < 0.001" and ΔR2 = .05. The competencies' coefficients remained similar, supporting relevance across expertise levels; no standardized effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Ming-fai Pang, Ference Marton
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Students taught by teachers using variation theory showed extremely better mastery of the supply-and-demand price concept than students taught without the theory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` After a series of three lessons, the difference in learning outcomes between students taught with the theory and students taught without it was extreme. [→ Ming-fai Pang 2005](#ming-fai-pang-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ming-fai Pang, Ference Marton. (2005). Learning Theory as Teaching Resource: Enhancing Students' Understanding of Economic Concepts. Instructional Science. https://doi.org/10.1007/s11251-005-2811-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Comparison study: one group of experienced secondary teachers planned and taught three lessons using the theory; a comparison group taught the same concept under the same conditions except for the theory's use. The article states "The difference in learning outcomes was extreme." No effect size is printed.
 

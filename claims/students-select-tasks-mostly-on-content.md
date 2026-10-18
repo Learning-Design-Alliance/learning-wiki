@@ -15,12 +15,14 @@ sources:
     author: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Secondary school students selecting tasks without guidance base most selections on content and rarely on difficulty or support level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students based a median of 6.00 of 8 selections on content, 2.00 on difficulty level, and 1.00 on support level, and only 2 of 118 selections took all three into account. [→ Nugteren 2018](#nugteren-2018)
@@ -31,7 +33,7 @@ sources:
 
 Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Explorative lab experiment in which 15 secondary school students selected eight genetics tasks from a 75-task database and wrote down their reasons, which two raters coded (intraclass correlations .98, .95, .84). Participants "based a median of 6.00 selections out of 8 on content". No effect size is printed for this descriptive result.
 

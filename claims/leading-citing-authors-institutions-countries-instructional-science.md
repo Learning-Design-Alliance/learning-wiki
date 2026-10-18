@@ -15,24 +15,30 @@ sources:
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: betzabe-ruiz-morales-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09791-6"
     title: "Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6"
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: betzabe-ruiz-morales-2026-3
     resource: "https://doi.org/10.1007/s11251-026-09791-6"
     title: "Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6"
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The most prolific citing authors of the journal are Chin-Chung Tsai (128 publications) and Fred Paas (102); Utrecht University leads institutions with 335; the United States leads countries with 6,921 citing articles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Chin-Chung Tsai and Fred Paas are the most prolific citing authors, with 128 and 102 publications citing the journal respectively. [→ Betzabe Ruiz-Morales 2026](#betzabe-ruiz-morales-2026)
@@ -45,7 +51,7 @@ sources:
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of the top 30 authors, institutions and countries by citing articles (Table 4). The authors report Tsai and Paas "emerge as the most prolific authors, with 128 and 102 publications".
 
@@ -55,7 +61,7 @@ Analysis of the top 30 authors, institutions and countries by citing articles (T
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same Table 4 institutional analysis. The authors attribute the Dutch dominance to robust research culture and strong collaborative networks at these universities.
 
@@ -65,7 +71,7 @@ Same Table 4 institutional analysis. The authors attribute the Dutch dominance t
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same Table 4 country analysis of citing articles. The authors read the US prominence as indicating significant investment in educational research and an established scholarly tradition.
 

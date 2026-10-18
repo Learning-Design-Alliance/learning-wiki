@@ -15,12 +15,14 @@ sources:
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Instructional Science has accumulated 39,169 citations with an h-index of 86 and an average of 26.5 citations per paper as of July 2024
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` As of July 2024 the journal had received 39,169 citations from WoS documents, averaging 26.5 citations per paper, with an h-index of 86. [→ Betzabe Ruiz-Morales 2026](#betzabe-ruiz-morales-2026)
@@ -31,7 +33,7 @@ sources:
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Bibliometric performance analysis of all Instructional Science articles and reviews (n = 1,262) retrieved from the WoS Core Collection, reporting total citations, cites per paper and h-index. The study states the journal "had received 39,169 citations" with an h-index of 86.
 

@@ -15,18 +15,22 @@ sources:
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: amante-2026-2
     resource: "https://doi.org/10.1007/s11251-025-09764-1"
     title: "Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1"
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Self-constructing a complete concept map produces better delayed recall than completing, sorting a map, or writing a summary, with the largest effect in the I+C structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` CM self-construction significantly outperformed the other tasks in delayed recall (F(3, 223) = 7.1, p <.001, η² = 0.20), with an especially high effect in the I+C structure (F(3, 24) = 14.7, η² = 0.65). [→ Amante 2026](#amante-2026)
@@ -37,7 +41,7 @@ sources:
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Task-type main effect from the two-way ANOVA of the 12-condition study: self-constructed CM beat the other three tasks in recall ("F (3, 223)  = 7.1, p <.001, η2 = 0.20"); comprehension differences were not significant.
 
@@ -47,7 +51,7 @@ Task-type main effect from the two-way ANOVA of the 12-condition study: self-con
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Within the I+C structure the task effect on recall was especially large ("F (3, 24)  = 14.7, p <.001, η2 = 0.65"), reported in the Results section of the same ANOVA study.
 

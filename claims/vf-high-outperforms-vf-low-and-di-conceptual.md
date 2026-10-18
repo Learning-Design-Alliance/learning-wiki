@@ -15,12 +15,14 @@ sources:
     author: Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` VF-high students significantly outperformed VF-low (d = 0.644) and DI (d = 0.648) students on the conceptual knowledge posttest. [→ Thomas C. Braas 2025](#thomas-c-braas-2025)
@@ -31,7 +33,7 @@ sources:
 
 Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog. (2025). When is observing failure productive? Investigating the role of solution diversity in vicarious failure. Instructional Science. https://doi.org/10.1007/s11251-025-09706-x
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Randomized experiment with 152 secondary students in four conditions (PF, VF-high, VF-low, DI); ANCOVA on conceptual knowledge showed a significant condition effect, F(3, 140) = 3.078, p =.030, η2p = 0.062, with "students in the VF-high condition significantly outperformed" VF-low and DI in Bonferroni-corrected post-hoc tests.
 

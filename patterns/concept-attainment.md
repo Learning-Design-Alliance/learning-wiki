@@ -15,7 +15,7 @@ grain_size: lesson, unit
 # Concept Attainment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 18 studies (8 quant-synthesis, 7 causal, 2 review, 1 theoretical), `q1`–`q4` · 7 of 18 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 19 studies (8 causal, 8 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 8 of 19 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 
@@ -103,6 +103,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Activation improves learning.](../claims/activation-improves-learning.md) [+M] — partly checked: 2 of 3 entries pass, the rest could not be confirmed (abstract)
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M] — partly checked: 1 of 3 entries pass, the rest could not be confirmed (abstract)
+- [Classifying provided examples is more effective for learning relational categories than reading or generating examples](../claims/classifying-examples-beats-reading-generating-relational-categories.md) [+M] — attached 2026-10-18 from Tim M. Steininger et al. (2022), which proposed "Use classification tasks rather than example generation in early phases of relational-category learning"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

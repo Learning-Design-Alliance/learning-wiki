@@ -15,12 +15,14 @@ sources:
     author: Julia Kollmer, Katrin Schleinschok, Katharina Scheiter, Alexander Eitel
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Drawing quality was a significant predictor of JOLs (b = 0.29, p = 0.03, r = 0.28), and the condition-by-quality interaction was not significant (p = 0.21, r = 0.17). [→ Julia Kollmer 2020](#julia-kollmer-2020)
@@ -31,7 +33,7 @@ sources:
 
 Julia Kollmer, Katrin Schleinschok, Katharina Scheiter, Alexander Eitel. (2020). Is drawing after learning effective for metacognitive monitoring only when supported by spatial scaffolds? Instructional Science. https://doi.org/10.1007/s11251-020-09521-6
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Moderation analysis with z-standardized drawing quality, condition, and their interaction predicting mean JOLs. The interaction missed significance (b = 2.81, p = 0.21, r = 0.17); without the interaction, "drawing quality was a significant predictor for JOLs" in both drawing conditions taken together.
 

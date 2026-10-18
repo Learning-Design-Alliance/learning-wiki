@@ -15,12 +15,14 @@ sources:
     author: Kirschner, P. A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Special issue findings are soft: small-scale case studies limit generalizability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The five teams used predominantly small-scale case studies with varied methods and tools, and each team noted that generalizability was limited because the cases were small and disparate. [→ Kirschner 2015](#kirschner-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kirschner, P. A. (2015). Do we need teachers as designers of technology enhanced learning? Instructional Science, 43, 309–322. https://doi.org/10.1007/s11251-015-9346-9
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Cross-paper observation in the discussion section: the special issue offers richly exemplified plausible possibilities but not solid conclusions that can be generalized to different settings. The author recommends future research incorporate methodological alignment across cases and broaden study designs, e.g. experiments or surveys.
 

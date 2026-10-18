@@ -15,12 +15,14 @@ sources:
     author: Manuela Glaser, Manuel Knoos, Stephan Schwan
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Audio explanations with an LDI integrated structure lead to longer fixation times on referred-to picture elements during interpretation phases than LDI separated structures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` During interpretation sentences, referred-to picture elements were fixated significantly longer in the LDI integrated condition than in the LDI separated condition. [→ Manuela Glaser 2022](#manuela-glaser-2022)
@@ -31,7 +33,7 @@ sources:
 
 Manuela Glaser, Manuel Knoos, Stephan Schwan. (2022). Localizing, describing, interpreting: effects of different audio text structures on attributing meaning to digital pictures. Instructional Science. https://doi.org/10.1007/s11251-022-09593-6
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Eye-tracking laboratory experiment with 55 participants randomly assigned to LDI integrated (n = 26) or LDI separated (n = 29) conditions viewing two history paintings. ANCOVA controlling interest in history showed a significant main effect, F(1,52) = 10.75, p = .002, ηp² = 0.171, with "significantly longer fixated in the LDI integrated condition".
 

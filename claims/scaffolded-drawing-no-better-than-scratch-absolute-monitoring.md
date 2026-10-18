@@ -15,12 +15,14 @@ sources:
     author: Julia Kollmer, Katrin Schleinschok, Katharina Scheiter, Alexander Eitel
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant difference between the drawing-from-scratch and scaffolded-drawing conditions on absolute monitoring accuracy (d = 0.10, p = 0.36). [→ Julia Kollmer 2020](#julia-kollmer-2020)
@@ -31,7 +33,7 @@ sources:
 
 Julia Kollmer, Katrin Schleinschok, Katharina Scheiter, Alexander Eitel. (2020). Is drawing after learning effective for metacognitive monitoring only when supported by spatial scaffolds? Instructional Science. https://doi.org/10.1007/s11251-020-09521-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 In the same linear mixed effects model on JOL minus performance, the second Helmert contrast compared drawing from scratch with scaffolded drawing and found "no significant difference between the two drawing conditions on absolute monitoring accuracy". Equivalence was not tested.
 

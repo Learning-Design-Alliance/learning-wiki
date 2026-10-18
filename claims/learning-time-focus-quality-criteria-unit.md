@@ -15,18 +15,22 @@ sources:
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: inga-glogger-frey-2022-2
     resource: "https://doi.org/10.1007/s11251-022-09577-6"
     title: "Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6"
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` Groups spent equal total time in the learning environment, rejecting Hypothesis 3e. [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)
@@ -38,7 +42,7 @@ sources:
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Software-logged total time in the CBLE in the N = 45 experiment; the null was more likely than the alternative, so no total-time difference was detected and equivalence was not tested.
 
@@ -48,7 +52,7 @@ Software-logged total time in the CBLE in the N = 45 experiment; the null was mo
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Logged time in the quality-criteria unit in the N = 45 experiment; the discussion reports "d = 0.52; anecdotal evidence", less pronounced than the d = 0.852 in the replicated study, with thinking aloud possibly diluting the effect.
 

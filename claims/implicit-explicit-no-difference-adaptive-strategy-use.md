@@ -15,12 +15,14 @@ sources:
     author: Aiso Heinze, Julia Arend, Meike Gruessing, Frank Lipowsky
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Implicit and explicit learning environments do not differ in third graders' skills in adaptive use of strategies at post-test or at 3- and 8-month follow-ups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In a randomized experiment with 73 third-graders, neither the interaction effect time*group nor the main effect of learning environment reached statistical significance for adaptive use of strategies. [→ Aiso Heinze 2018](#aiso-heinze-2018)
@@ -31,7 +33,7 @@ sources:
 
 Aiso Heinze, Julia Arend, Meike Gruessing, Frank Lipowsky. (2018). Instructional approaches to foster third graders' adaptive use of strategies: an experimental study on the effects of two learning environments on multi-digit addition and subtraction. Instr Sci 46:869–891. https://doi.org/10.1007/s11251-018-9457-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Linear mixed models on repeated measures (pretest, posttest, follow-ups at 3 and 8 months) comparing 38 children in the explicit and 35 in the implicit condition, with general cognitive abilities as covariate. Group differences showed only small effect sizes at T3 and T4 (dT3 = 0.25, dT4 = 0.20). The article reports "no significant effect of the type of learning environment".
 

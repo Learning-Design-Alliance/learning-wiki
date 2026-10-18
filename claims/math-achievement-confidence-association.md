@@ -15,12 +15,14 @@ sources:
     author: "Lena Asp, Alli Klapp, & Victoria Rolfe"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Mathematics achievement is strongly positively associated with mathematics confidence at the student level (0.43)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` At the student level, mathematics achievement is strongly positively associated with mathematics confidence (0.43): a one standard deviation increase in confidence corresponds to a 0.43 standard deviation increase in achievement. [→ Lena Asp 2026](#lena-asp-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Standardised coefficient from MSEM Model E in the Swedish grade 4 TIMSS 2019 sample. The study reports mathematics achievement "strongly positively associated with mathematics confidence (0.43)" at the student level; only a standardised path coefficient is printed, no effect size.
 

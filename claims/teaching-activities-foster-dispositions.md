@@ -15,18 +15,22 @@ sources:
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: jafar-tavakoli-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09762-3"
     title: "Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3"
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported using self-reflection, journaling, discussions, capstone projects, authentic and experiential learning, and problem-based learning to foster dispositions. [→ Jafar Tavakoli 2025](#jafar-tavakoli-2025)
@@ -38,7 +42,7 @@ sources:
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Findings on teaching and learning activities (RQ2): participants named self-reflection, journaling, discussions, capstone projects, group work, authentic learning, experiential learning, and problem-based learning as strategies to foster dispositions.
 
@@ -48,7 +52,7 @@ Findings on teaching and learning activities (RQ2): participants named self-refl
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion section statement that the teaching activities participants mentioned align with literature but "were not consistently applied across the participants’ designs".
 

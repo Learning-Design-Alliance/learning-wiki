@@ -15,12 +15,14 @@ sources:
     author: "Kokarida, P., Markopoulos, P., & Tisza, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Across all four focus groups, students expressed a desire for varied learning content and teaching approaches, including outdoor lessons, tablets and 3D printing, and movement integrated into lessons, as core to fostering fun. [→ Kokarida 2026](#kokarida-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Thematic analysis of the four student focus groups (N = 12): students valued experimenting with different artistic mediums, drawing landscapes outdoors, interactive whiteboards and tablets, and dancing to songs in music class.
 

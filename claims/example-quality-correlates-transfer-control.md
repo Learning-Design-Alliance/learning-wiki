@@ -15,12 +15,14 @@ sources:
     author: "Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Generated-example quality correlated with knowledge transfer (r = .352) and perceived learning control (r = .432), but not with retention (r = .280, p = .103). [→ Krause-Wichmann 2025](#krause-wichmann-2025)
@@ -31,7 +33,7 @@ sources:
 
 Krause-Wichmann, T., Klopp, E., Stark, L., & Stark, R. (2025). Promoting future teachers' pedagogical knowledge: The role of self-generated vs. provided illustrative examples after instruction. Instructional Science. https://doi.org/10.1007/s11251-024-09694-4
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Correlational analysis within the self-generation condition (n = 35) of high-inferentially coded example quality (0–3 scale, κ > 0.80); quality was "highly correlated with knowledge transfer" and control, but not with retention.
 

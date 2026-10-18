@@ -15,12 +15,14 @@ sources:
     author: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Before pedagogical training, prospective university teachers have lower professional vision scores than current faculty teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Prospective teachers scored lower on professional vision than current faculty teachers at pre-test. [→ Heinonen 2023](#heinonen-2023)
@@ -31,7 +33,7 @@ sources:
 
 Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Pre-test comparison of 70 life science university teachers (22 prospective, 48 current faculty) using Mann–Whitney U-tests on video annotation task scores. The study reports "prospective teachers had lower professional vision scores compared to current faculty" (Z = –3.079, p = 0.002).
 

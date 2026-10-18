@@ -15,12 +15,14 @@ sources:
     author: "Lin, T., Mullick, J., & Campbell, M."
     q: 1
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Reading proficiency improved across all performance groups, with low performers reaching Grade 3b reading standards and top performers reaching Grade 6a–7a levels by Cycle 3
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Low-performing students progressed from basic app-based reading in Cycle 1 to Grade 3b reading standards by Cycle 3. [→ Lin 2026](#lin-2026)
@@ -32,7 +34,7 @@ sources:
 
 Lin, T., Mullick, J., & Campbell, M. (2026). Inclusive pedagogy in practice within the multi-tiered systems of support framework: a design-based research in a Chinese EFL classroom. Instructional Science. https://doi.org/10.1007/s11251-025-09754-3
 
-`q1 · i?`
+`q1 · i?` · `design · r3`
 
 Reading evaluations using the Oxford Reading Criterion Scale across the three cycles in the single EFL class. The article reports grade-level ranges per group; no effect size or statistical test is printed.
 

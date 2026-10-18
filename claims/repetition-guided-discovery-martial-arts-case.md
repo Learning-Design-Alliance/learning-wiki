@@ -15,12 +15,14 @@ sources:
     author: Arthur Bakker
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Strong guidance and repetition may be needed to discover what cannot be told (Trninic's martial arts case)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Trninic's case study of martial arts instruction shows that through repetition and continued guidance a student discovers what the teacher wants him to discover, integrating instruction and discovery rather than opposing them. [→ Arthur Bakker 2018](#arthur-bakker-2018)
@@ -31,7 +33,7 @@ sources:
 
 Arthur Bakker. (2018). Discovery learning: zombie, phoenix, or elephant? Instructional Science, 46, 169–183. https://doi.org/10.1007/s11251-018-9450-8
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The commentary's reading of Trninic's (2018) case study, which skillfully compares martial arts training with mathematics education. The author reports that "It is by repetition and continued guidance that the student discovers" the intended lesson, supporting integration of guidance and discovery. This is a qualitative case study, so no effect size is printed.
 

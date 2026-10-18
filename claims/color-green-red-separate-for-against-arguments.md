@@ -15,12 +15,14 @@ sources:
     author: Marije van Amelsvoort, Alfons Maes
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Color, especially green for arguments in favor and red for arguments against, is widely used by producers to categorize for and against arguments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Color was used to separate for and against arguments in most diagrams, with green used for arguments in favor and red for arguments against in 14 of 20 diagrams. [→ Marije van Amelsvoort 2016](#marije-van-amelsvoort-2016)
@@ -31,7 +33,7 @@ sources:
 
 Marije van Amelsvoort, Alfons Maes. (2016). Show me your opinion. Perceptual cues in creating and reading argument diagrams. Instructional Science 44:335–357. https://doi.org/10.1007/s11251-016-9378-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Production study of 20 diagrams: color use to categorize for/against arguments was above chance (p < .001 as printed), with "green was used for arguments in favor and/or red was used for arguments against" in 14 of 20 diagrams. No effect size printed.
 

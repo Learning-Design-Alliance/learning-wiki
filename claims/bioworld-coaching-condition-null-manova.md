@@ -15,12 +15,14 @@ sources:
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # No significant differences in learning measures across teacher-coached, researcher-coached, and BioWorld-alone conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A MANOVA comparing three coaching conditions on all dependent measures found no significant differences. [→ Lajoie 2001](#lajoie-2001)
@@ -31,7 +33,7 @@ sources:
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Exploratory pilot comparing 6 groups (2 teacher-guided, 2 graduate-student-guided, 2 BioWorld-only) selected as equivalent by the teacher; a MANOVA with condition (3) as between-subjects factor found no significant differences at alpha 0.10. Only a test outcome is printed, no effect size.
 

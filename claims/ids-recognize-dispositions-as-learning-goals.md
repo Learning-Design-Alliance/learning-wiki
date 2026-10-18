@@ -15,12 +15,14 @@ sources:
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Higher education instructional designers recognize dispositions as important learning goals in their course designs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Nearly all interviewed instructional designers regarded dispositions as important and stated they incorporate them into their designs. [→ Jafar Tavakoli 2025](#jafar-tavakoli-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Exploratory qualitative study of semi-structured interviews with six US higher education instructional designers; the discussion reports that "Nearly all participants in this study regarded dispositions as important" and incorporated them into designs.
 

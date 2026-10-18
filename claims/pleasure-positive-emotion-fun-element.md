@@ -15,12 +15,14 @@ sources:
     author: "Kokarida, P., Markopoulos, P., & Tisza, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students perceive pleasure—positive emotions during learning and the active minimization of boredom and displeasure—as an element of fun in learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students report that fun in learning is interlinked with feeling good and delight, while boredom from monotonous lessons and unpleasant content compromise the experience of fun. [→ Kokarida 2026](#kokarida-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Focus group thematic analysis: students enjoyed singing new songs and melodies, while citing boredom in language lessons and discomfort with unpleasant, dark-colored paintings as undermining fun in learning.
 

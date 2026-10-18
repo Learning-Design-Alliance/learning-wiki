@@ -15,12 +15,14 @@ sources:
     author: Rikke Magnussen, Yotam Hod
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Students perceived CCS tasks as authentic problems whose answers teachers did not already know (52.2%) versus everyday school (8%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students felt that teachers did not already know the answer to CCS project tasks (52.2%) far more than in everyday school (8%). [→ Rikke Magnussen 2023](#rikke-magnussen-2023)
@@ -31,7 +33,7 @@ sources:
 
 Rikke Magnussen, Yotam Hod. (2023). Bridging communities and schools in Urban development: community and citizen science. Instructional Science. https://doi.org/10.1007/s11251-023-09641-9
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Pre/post survey question across the CCS iterations on whether tasks came from outside professionals and whether the teacher already knew the answers. The article prints 52.2% versus 8% descriptively; no effect size is reported.
 

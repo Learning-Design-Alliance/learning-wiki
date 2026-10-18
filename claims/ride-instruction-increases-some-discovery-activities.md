@@ -15,12 +15,14 @@ sources:
     author: "Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # RIDE instruction increases some transformative discovery activities and overall regulative discovery activity, with effects limited to specific activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The experimental group used describing and recognizing of relations, concluding, and regulative evaluation/total regulation significantly more often than the control group. [→ Saab 2007](#saab-2007)
@@ -31,7 +33,7 @@ sources:
 
 Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M. (2007). Supporting Communication in a Collaborative Discovery Learning Environment: the Effect of Instruction. Instructional Science 35:73–98. https://doi.org/10.1007/s11251-006-9003-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mann–Whitney U-tests on logged discovery activities of 17 experimental versus 12 control dyads; describing and recognizing of relations p = 0.017, concluding p = 0.027, regulative evaluation and total p = 0.033.
 

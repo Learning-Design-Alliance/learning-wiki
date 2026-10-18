@@ -15,18 +15,22 @@ sources:
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: oshra-aloni-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09666-8"
     title: "Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8"
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students' preference levels for the four learning modalities were positively correlated, and cluster analysis separated a lower-preference group (135 students) from a higher-preference group (170 students)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Significant positive correlations were found among all four learning-preference levels. [→ Oshra Aloni 2024](#oshra-aloni-2024)
@@ -38,7 +42,7 @@ sources:
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Pearson correlation analyses among the four learning-preference levels of the 305 students showed "significant positive correlations were found among all levels of the learning preferences"; Table 1 prints coefficients ranging from r = 0.39 to r = 0.57 (all p < 0.001).
 
@@ -48,7 +52,7 @@ Pearson correlation analyses among the four learning-preference levels of the 30
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 K-means clustering with the elbow technique (Hartigan & Wong) on the same sample identified two preference groups; the lower-preference cluster had 135 students (e.g., visual M = 2.34) and the higher-preference cluster had 170 students (e.g., visual M = 3.17), strengthening the correlation results.
 

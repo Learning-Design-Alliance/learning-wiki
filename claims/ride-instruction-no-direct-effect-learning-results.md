@@ -15,12 +15,14 @@ sources:
     author: "Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # RIDE instruction shows no direct effect on discovery learning results (SWLE or domain knowledge posttest)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No significant differences between groups were found on SWLE, assignments completed, or domain knowledge posttest scores. [→ Saab 2007](#saab-2007)
@@ -31,7 +33,7 @@ sources:
 
 Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M. (2007). Supporting Communication in a Collaborative Discovery Learning Environment: the Effect of Instruction. Instructional Science 35:73–98. https://doi.org/10.1007/s11251-006-9003-4
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 One-way ANOVA on SWLE (experimental M = 27.59, SD = 10.28; control M = 29.33, SD = 14.60; F = 0.142, p = 0.709) and ANCOVA on domain knowledge tests with pretests as covariate found no significant differences; equivalence was not tested. Test reliability was reported as considerably low.
 

@@ -15,18 +15,22 @@ sources:
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: inga-glogger-frey-2022-2
     resource: "https://doi.org/10.1007/s11251-022-09577-6"
     title: "Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6"
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Worked-example preparation leads to more application of canonical criteria during future learning, which mediates higher transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The worked example group applied the canonical assessment criteria to examples more often than the inventing group (BF+0 = 4.238, d = .71). [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)
@@ -38,7 +42,7 @@ sources:
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Think-aloud process coding in the N = 45 experiment; Table 2 reports means of 10.25 (worked example) versus 6.20 (inventing), d = .71, BF+0 = 4.238, moderate evidence that the "worked example group applied the canonical assessment criteria more often".
 
@@ -48,7 +52,7 @@ Think-aloud process coding in the N = 45 experiment; Table 2 reports means of 10
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Exploratory multiple mediation analysis (PROCESS macro, 5000 bootstrap samples) with four process mediators; the confidence interval for the canonical-criteria indirect effect excluded zero, indicating "a significant indirect effect of the application of canonical criteria".
 

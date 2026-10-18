@@ -15,12 +15,14 @@ sources:
     author: "Kokarida, P., Markopoulos, P., & Tisza, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students report that demanding, unsupportive or punitive teacher behavior and disruptive peer behavior create stress that hinders their ability to enjoy learning. [→ Kokarida 2026](#kokarida-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Focus group thematic analysis: students described stress from being made to sing songs they did not know, discomfort at a teacher scolding a classmate, and irritation at peers rolling around on the carpet during music class.
 

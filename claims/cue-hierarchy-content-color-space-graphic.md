@@ -15,18 +15,22 @@ sources:
     author: Marije van Amelsvoort, Alfons Maes
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: marije-van-amelsvoort-2016-2
     resource: "https://doi.org/10.1007/s11251-016-9378-9"
     title: "Marije van Amelsvoort, Alfons Maes. (2016). Show me your opinion. Perceptual cues in creating and reading argument diagrams. Instructional Science 44:335–357. https://doi.org/10.1007/s11251-016-9378-9"
     author: Marije van Amelsvoort, Alfons Maes
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Readers' judgment explanations support a cautious hierarchy of perceptual cues: content, then color, then space, then graphic features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Content was the most-mentioned judgment feature when available (77–93% of judgments), and color was the most important cue when text was absent (84–87%). [→ Marije van Amelsvoort 2016](#marije-van-amelsvoort-2016)
@@ -38,7 +42,7 @@ sources:
 
 Marije van Amelsvoort, Alfons Maes. (2016). Show me your opinion. Perceptual cues in creating and reading argument diagrams. Instructional Science 44:335–357. https://doi.org/10.1007/s11251-016-9378-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Analysis of 1497 transcribed judgment explanations from the unlimited-time task in the perception study. Content was mentioned in 77–93% of judgments where text was available, but was the sole basis in only 14.6% of explanations.
 
@@ -48,7 +52,7 @@ Analysis of 1497 transcribed judgment explanations from the unlimited-time task 
 
 Marije van Amelsvoort, Alfons Maes. (2016). Show me your opinion. Perceptual cues in creating and reading argument diagrams. Instructional Science 44:335–357. https://doi.org/10.1007/s11251-016-9378-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Proportions of feature mentions across all judgment explanations: direction 25.7% (n = 386), position 13.8% (n = 207), arrows 10.5% (n = 157), boxes 4.4% (n = 66). These are descriptive proportions, not effect sizes.
 

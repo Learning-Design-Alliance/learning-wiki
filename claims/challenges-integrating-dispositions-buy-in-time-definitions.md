@@ -15,18 +15,22 @@ sources:
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: jafar-tavakoli-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09762-3"
     title: "Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3"
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Buy-in from SMEs and faculty was the most frequently cited challenge in the study. [→ Jafar Tavakoli 2025](#jafar-tavakoli-2025)
@@ -38,7 +42,7 @@ sources:
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion of RQ2 challenges: course modality, time, energy, and stakeholder buy-in; "buy-in was the most frequently cited challenge in this study", consistent with Tagare et al. (2023b) on faculty buy-in.
 
@@ -48,7 +52,7 @@ Discussion of RQ2 challenges: course modality, time, energy, and stakeholder buy
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion of RQ3 challenges: participants such as Mia and Noah described dispositions as hard to measure because they are internal mental states lacking measurable, observable definitions.
 

@@ -15,18 +15,22 @@ sources:
     author: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: nugteren-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9448-2"
     title: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2"
     author: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Self-assessment accuracy and estimated performance change do not improve over repeated task selections within a single session
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Self-assessment accuracy remained -1 step for both early and final selections, with no significant difference between them, z = -0.91, p = .36. [→ Nugteren 2018](#nugteren-2018)
@@ -38,7 +42,7 @@ sources:
 
 Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Wilcoxon signed-rank comparison of the first four versus final four task selections in the N = 15 experiment. Median accuracy was -1 step at both points; equivalence was not tested, only the non-significant difference is reported.
 
@@ -48,7 +52,7 @@ Wilcoxon signed-rank comparison of the first four versus final four task selecti
 
 Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same split-half comparison for estimated performance change (JOL minus performance estimate), which was 0 steps for both early and final selections. No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Ming-fai Pang, Ference Marton
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Observations of the classrooms showed subtle but decisive differences in what was happening, and these differences were correlated with the differences in outcome. [→ Ming-fai Pang 2005](#ming-fai-pang-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ming-fai Pang, Ference Marton. (2005). Learning Theory as Teaching Resource: Enhancing Students' Understanding of Economic Concepts. Instructional Science. https://doi.org/10.1007/s11251-005-2811-0
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Classroom observation study accompanying the comparison: observations of what was happening in the classrooms showed "subtle but decisive differences correlated with the differences in outcome." No effect size is printed.
 

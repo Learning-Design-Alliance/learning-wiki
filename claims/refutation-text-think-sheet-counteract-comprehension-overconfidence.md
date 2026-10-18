@@ -15,18 +15,22 @@ sources:
     author: Anja Prinz, Stefanie Golke, Jörg Wittwer
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: anja-prinz-2021-2
     resource: "https://doi.org/10.1007/s11251-021-09535-8"
     title: "Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8"
     author: Anja Prinz, Stefanie Golke, Jörg Wittwer
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the control group, more misconceptions resulted in greater overconfidence in comprehension predictions; this detrimental effect did not occur in the refutation-text or think-sheet groups. [→ Anja Prinz 2021](#anja-prinz-2021)
@@ -38,7 +42,7 @@ sources:
 
 Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Conditional effect on prediction bias (signed difference between predicted and actual questions correct) in the randomized experiment: "more misconceptions resulted in greater overconfidence" in the control group; effects in the other groups were not significant.
 
@@ -48,7 +52,7 @@ Conditional effect on prediction bias (signed difference between predicted and a
 
 Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus moderation test on comprehension-prediction bias in the same experiment: "∆R2 = .06, F(2, 86) = 2.76, p = .069". The think-sheet/control interaction was significant (b = −0.68, p = .031) and the refutation-text/control interaction marginal.
 

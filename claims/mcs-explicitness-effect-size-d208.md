@@ -15,12 +15,14 @@ sources:
     author: Orna Heaysman, Bracha Kramarski
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # In the SRL-AIDE group, MCS explicitness showed a larger pre-post gain (d = 2.08) than KC explicitness (d = 1.03), and SRL-AIDE's KC gain exceeded the comparison group's (d = 1.03 vs d = 0.31)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The pre-post effect size for MCS explicitness in the SRL-AIDE group (d = 2.08) was larger than for KC explicitness (d = 1.03). [→ Orna Heaysman 2026](#orna-heaysman-2026)
@@ -32,7 +34,7 @@ sources:
 
 Orna Heaysman, Bracha Kramarski. (2026). Authentic evidence from the 'SRL-AIDE' simulative environment on explicitness and duration of in-class SRL teaching practices. Instructional Science. https://doi.org/10.1007/s11251-026-09787-2
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Cohen's d comparisons of pre-post explicitness gains in the quasi-experimental video study. The SRL-AIDE group's MCS gain was "d = 2.08" versus KC "d = 1.03"; its KC gain (d = 1.03) exceeded the comparison group's d = 0.31.
 

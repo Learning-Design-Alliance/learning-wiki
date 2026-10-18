@@ -17,7 +17,7 @@ sources:
 # Provide self-assessment feedback and SRLTS-based task-selection advice to secondary school students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (3 for, 3 mixed) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends that students "might benefit from self-assessment and task-selection advice", with feedback on self-assessments and advice that uses "the paths from the model as a basis for the advice". Advice should focus on using self-assessments for choosing difficulty levels, support levels, and content, and early guidance could include more explicit instructions while later guidance phases out and alerts students to use self-assessment information.
@@ -39,7 +39,7 @@ The article recommends that students "might benefit from self-assessment and tas
 - appropriate learning-task selection
 
 ### Affordances
-- [Srlts Model Task Selection](../theories/srlts-model-task-selection.md)
+- [Srlts Model Task Selection](../theories/self-regulated-learning.md)
 
 ## Claims
 

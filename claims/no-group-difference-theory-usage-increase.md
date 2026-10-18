@@ -15,12 +15,14 @@ sources:
     author: "Baier, F., Maurer, C., Dignath, C., & Kunter, M."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Contrary to the hypothesis, the treatment group did not show a higher increase in self-reported theory-based analysis than the comparison group (η²p = 0.00). [→ Baier 2021](#baier-2021)
@@ -31,7 +33,7 @@ sources:
 
 Baier, F., Maurer, C., Dignath, C., & Kunter, M. (2021). Fostering pre-service teachers' theoretical knowledge application: studying with and without text-based cases. Instructional Science. https://doi.org/10.1007/s11251-021-09560-7
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Group-by-time interaction from the repeated-measures ANOVA on theory-based knowledge usage in the quasi-experimental study. The interaction was not significant, with a printed effect size of η²p = 0.00; equivalence was not tested.
 

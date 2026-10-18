@@ -15,18 +15,22 @@ sources:
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: jafar-tavakoli-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09762-3"
     title: "Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3"
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Most assessment methods for dispositions were suggestions rather than implemented practices, and some designers had no assessment ideas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Only a few participants actually incorporated assessment of dispositions into their designs; most mentioned methods were merely suggestions. [→ Jafar Tavakoli 2025](#jafar-tavakoli-2025)
@@ -38,7 +42,7 @@ sources:
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion of RQ3 findings: participants mentioned authentic assessment, peer and self-assessment, self-reflection, role play, and scenario-based inputs, but "most of these were merely suggestions" with only a few actually incorporated.
 
@@ -48,7 +52,7 @@ Discussion of RQ3 findings: participants mentioned authentic assessment, peer an
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Findings on assessment methods (RQ3): three of the six interviewed instructional designers "came up with no idea on how they are assessing dispositions in their design".
 

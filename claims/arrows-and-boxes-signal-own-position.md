@@ -15,12 +15,14 @@ sources:
     author: Marije van Amelsvoort, Alfons Maes
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Producers signal their own argumentative position with arrows pointing toward their own arguments and more boxes around own arguments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants who used boxes around arguments used more boxes for their own position than for the other position. [→ Marije van Amelsvoort 2016](#marije-van-amelsvoort-2016)
@@ -31,7 +33,7 @@ sources:
 
 Marije van Amelsvoort, Alfons Maes. (2016). Show me your opinion. Perceptual cues in creating and reading argument diagrams. Instructional Science 44:335–357. https://doi.org/10.1007/s11251-016-9378-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Production study: among participants who used boxes around arguments, all "used more boxes for their own position than for the other position" (p < .001 as printed). No effect size printed.
 

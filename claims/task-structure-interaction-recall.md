@@ -15,18 +15,22 @@ sources:
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: amante-2026-2
     resource: "https://doi.org/10.1007/s11251-025-09764-1"
     title: "Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1"
     author: "Amante, C., Lucero, M., & Montanero, M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Task type and activity structure interact on recall: self-constructed maps help mainly when individually prepared and then discussed in pairs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The 3 × 4 ANOVA on recall detected a task × structure interaction (F(6, 223) = 2.71, p =.019, η² = 0.18); self-construction was especially useful in I+C and ceased to be more useful when students worked individually throughout. [→ Amante 2026](#amante-2026)
@@ -37,7 +41,7 @@ sources:
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Omnibus interaction from the 12-condition ANOVA study ("F (6, 223) = 2.71, p =.019, η2 = 0.18"), reported in the Results section for the recall variable.
 
@@ -47,7 +51,7 @@ Omnibus interaction from the 12-condition ANOVA study ("F (6, 223) = 2.71, p =.0
 
 Amante, C., Lucero, M., & Montanero, M. (2026). Learning with concept maps: the effect of activity structure and the type of task. Instructional Science. https://doi.org/10.1007/s11251-025-09764-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Figure 1 pattern described in Results text: recall after self-construction was highest in I+C, and per the authors "this task ceases to be more useful than the others when the students work all the time individually".
 

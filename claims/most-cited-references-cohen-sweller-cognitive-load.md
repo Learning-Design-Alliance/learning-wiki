@@ -15,18 +15,22 @@ sources:
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: betzabe-ruiz-morales-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09791-6"
     title: "Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6"
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among references cited by Instructional Science publications, Cohen's 1988 Statistical Power Analysis (66 citations) and Sweller's 1998 cognitive load theory article are the most referenced works
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cohen's 1988 book Statistical Power Analysis for the Behavioral Sciences is the most referenced document in Instructional Science publications, with 66 total citations. [→ Betzabe Ruiz-Morales 2026](#betzabe-ruiz-morales-2026)
@@ -38,7 +42,7 @@ sources:
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of the top 50 most cited documents cited within Instructional Science publications (Table 7). The authors report Cohen's 1988 book "stands out as the most referenced, with 66 total citations".
 
@@ -48,7 +52,7 @@ Analysis of the top 50 most cited documents cited within Instructional Science p
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same Table 7 reference analysis. The authors highlight Sweller's 1998 cognitive load theory article as highly influential, alongside classic works by Vygotsky and Newell and Simon.
 

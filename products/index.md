@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1765 entries** · 0 stable · 1765 in review · 0 drafts
+**1768 entries** · 0 stable · 1768 in review · 0 drafts
 
 ---
 
@@ -285,6 +285,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Community schools framework: four pillars for a whole-child, whole-school, whole-community approach](community-schools-framework-four-pillars-for-a-whole-child-whole-school-whole-community-ap.md) - The Oakes et al.
 * [Companion Mathematica publications](companion-mathematica-publications.md) - A Mathematica toolkit comprising a prior-research table, target-setting guide, sample-size guide, reporting template, and related planning materials for organizations developing monitoring and evaluation plans.
 * [Compass Care](compass-care.md) - Compass Care is a family-centered wraparound programme run by a Compass Care Team to support chronically absent students and their caregivers through attendance and engagement barriers.
+* [Competencies of Knowledge Integration questionnaire](competencies-of-knowledge-integration-questionnaire.md) - A 23-item Likert-scale questionnaire developed by Olga Vogel to assess reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty as competencies supporting knowledge integration in interdisciplinary and transdisciplinary work.
 * [Completion by Design](completion-by-design.md) - A community-college redesign framework and initiative that coordinates institutional policies, practices, and programmes into completion pathways to improve student progress and credential attainment.
 * [Component measures battery: linguistic knowledge, fluency, and metacognitive knowledge tests in L1 and L2](component-measures-battery-linguistic-knowledge-fluency-and-metacognitive-knowledge-tests.md) - A battery of L1 and L2 linguistic knowledge, fluency, metacognitive knowledge, and writing-performance measures developed by Schoonen et al.
 * [Comprehensive Assessment Battery for Children - Working Memory (CABC-WM)](comprehensive-assessment-battery-for-children-working-memory-cabc-wm.md) - The CABC-WM is a computer-based, pirate-themed battery of 13 individually administered working-memory tasks for children, developed by Gray Shelley et al.
@@ -1491,6 +1492,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SQEIAIGRASQ questionnaire and Quadratic Equation Achievement Test (QEAT)](sqeiaigrasq-questionnaire-and-quadratic-equation-achievement-test-qeat.md) - A pair of validated instruments developed by Oladayo et al.
 * [SRA 2Inform](sra-2inform.md) - SRA 2Inform is a web-based, teacher-facing data-management application supporting the Corrective Reading program by tracking student performance.
 * [SRA Real Math Building Blocks PreK](sra-real-math-building-blocks-prek.md) - A supplemental preschool mathematics curriculum developed by Douglas Clements and Julie Sarama and distributed by SRA/McGraw-Hill, combining software, manipulatives, print materials, group activities, learning centers, and home activities.
+* [SRL-AIDE](srl-aide.md) - A teacher professional-development framework that combines explicit self-regulated-learning instruction with live-actor classroom simulations, feedback, video modelling, and guided reflection for in-service elementary teachers.
 * [SSL](ssl.md) - SSL is a structured early-literacy intervention programme whose developers provide lessons using modelling, guided practice, progress monitoring, and reteaching.
 * [ST Math](st-math.md) - ST Math is game-based instructional software for K–12 mathematics developed and provided by the MIND Research Institute, using visual-spatial puzzles to support mathematics learning.
 * [Stages of Concern Questionnaire (SoCQ)](stages-of-concern-questionnaire-socq.md) - A 35-item Likert self-report instrument developed by Loucks and colleagues within the Concerns-Based Adoption Model to measure educators' intensity across seven stages of concern about an educational innovation.
@@ -1598,6 +1600,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teaching Fractions Toolkit](teaching-fractions-toolkit.md) - REL Midwest's Teaching Fractions Toolkit is a grade 6 mathematics professional-development and support package featuring teacher learning modules, reflection tools, formative-assessment probes, and resources for educational leaders.
 * [Teaching is My Favorite Color](teaching-is-my-favorite-color.md) - A teacher-designed and teacher-led support and professional-development community for teachers of color across three southwestern Pennsylvania school districts.
 * [Teaching Monster Challenge benchmark](teaching-monster-challenge-benchmark.md) - A benchmark released by Lin et al.
+* [Teaching Proficiency through Reading and Storytelling (TPRS)](teaching-proficiency-through-reading-and-storytelling-tprs.md) - TPRS is a language-teaching method developed by Ray and Seely that uses comprehensible target-language input, physical-response vocabulary introduction, collaborative story creation, and reading or retelling activities for second- and foreign-language learners.
 * [TeachingCoach](teachingcoach.md) - TeachingCoach is an AI-based conversational coaching system developed by Isabel Molnar and colleagues to help higher-education instructors diagnose teaching challenges, develop strategies, plan next steps, and reflect through evidence-grounded multi-turn dialogue.
 * [TeachingCoach synthetic dialogue dataset (406,183 training examples)](teachingcoach-synthetic-dialogue-dataset-406183-training-examples.md) - Isabel Molnar et al.'s dataset of GPT-4o-generated, expert-filtered multi-turn instructor–consultant dialogues conditioned on teaching rules, instructor profiles, and teaching challenges.
 * [Team Pennsylvania Foundation teacher and principal evaluation pilot project](team-pennsylvania-foundation-teacher-and-principal-evaluation-pilot-project.md) - A Team Pennsylvania Foundation statewide pilot that developed value-added estimates and informed the design of a comprehensive teacher and principal evaluation system in Pennsylvania.

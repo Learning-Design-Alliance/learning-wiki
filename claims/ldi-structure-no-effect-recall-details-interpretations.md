@@ -15,18 +15,22 @@ sources:
     author: Manuela Glaser, Manuel Knoos, Stephan Schwan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
   - id: manuela-glaser-2022-2
     resource: "https://doi.org/10.1007/s11251-022-09593-6"
     title: "Manuela Glaser, Manuel Knoos, Stephan Schwan. (2022). Localizing, describing, interpreting: effects of different audio text structures on attributing meaning to digital pictures. Instructional Science. https://doi.org/10.1007/s11251-022-09593-6"
     author: Manuela Glaser, Manuel Knoos, Stephan Schwan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # LDI structure does not significantly affect cued recall of picture details or of interpretations themselves
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Cued recall of descriptions of picture details showed no significant difference between LDI integrated and LDI separated conditions. [→ Manuela Glaser 2022](#manuela-glaser-2022)
@@ -38,7 +42,7 @@ sources:
 
 Manuela Glaser, Manuel Knoos, Stephan Schwan. (2022). Localizing, describing, interpreting: effects of different audio text structures on attributing meaning to digital pictures. Instructional Science. https://doi.org/10.1007/s11251-022-09593-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 ANCOVA on cued recall of descriptions (sum scores 0–48) controlling interest in history: F(1,52) = 3.07, p = .086, ηp² = 0.056, "no main effect of audio explanation format"; means were 19.19 (integrated) vs 17.93 (separated).
 
@@ -49,7 +53,7 @@ ANCOVA on cued recall of descriptions (sum scores 0–48) controlling interest i
 
 Manuela Glaser, Manuel Knoos, Stephan Schwan. (2022). Localizing, describing, interpreting: effects of different audio text structures on attributing meaning to digital pictures. Instructional Science. https://doi.org/10.1007/s11251-022-09593-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANCOVA on cued recall of interpretations (sum scores 0–48): F(1,52) = 0.21, p = .649, ηp² = 0.004, "no main effect for audio explanation format"; means 13.00 vs 13.34. Equivalence was not tested.
 

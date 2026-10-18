@@ -17,7 +17,7 @@ sources:
 # Design for disagreement: provide a safe space for members to question community practices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's tentative design suggestion is that "providing a safe space for members to question the practices of the community would naturally throw up more instances of failure to reach consensus" across the dimensions of knowledge, practices, and identities. Instead of designing only for agreement, designers should design for and document disagreement, treating failures to reach consensus as loci of unexpected and potentially rich learning and innovation.
@@ -40,7 +40,7 @@ The article's tentative design suggestion is that "providing a safe space for me
 - critical examination of boundary conditions
 
 ### Affordances
-- [Learning Versus Conserving Communities Distinction](../theories/learning-versus-conserving-communities-distinction.md)
+- Learning Versus Conserving Communities Distinction
 
 ## Claims
 

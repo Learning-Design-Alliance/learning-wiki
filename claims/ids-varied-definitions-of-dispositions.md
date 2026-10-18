@@ -15,12 +15,14 @@ sources:
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants offered heterogeneous definitions of dispositions, and more than one categorized them as soft skills rather than as the literature defines them. [→ Jafar Tavakoli 2025](#jafar-tavakoli-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Interview findings (RQ1 definition category): participants defined dispositions variously as soft skills, learning habits, internal mental states, or affective traits; the article notes "He was not the only one to categorize dispositions as soft skills". Only Ava's definition aligned closely with the literature.
 

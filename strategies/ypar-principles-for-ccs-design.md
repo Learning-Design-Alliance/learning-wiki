@@ -39,7 +39,7 @@ The commentary argues instructors and designers of CCS in schools could look to 
 - mutualism amongst scientists, students, and local communities
 
 ### Affordances
-- [Nested Inquiries Ccs Schools](../theories/nested-inquiries-ccs-schools.md)
+- [Nested Inquiries Ccs Schools](../designs/nested-inquiries-ccs-schools.md)
 
 ## Related Strategies
 

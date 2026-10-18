@@ -15,18 +15,22 @@ sources:
     author: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: heinonen-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09603-7"
     title: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7"
     author: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Reasoning skills increased statistically significantly during the course for both prospective teachers (Z = −2.444, p = 0.015) and current faculty (Z = −4.409, p < 0.001). [→ Heinonen 2023](#heinonen-2023)
@@ -38,7 +42,7 @@ sources:
 
 Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Within-group pre/post comparison of 64 participants' written video interpretations scored 0–4 per incident. The study reports "reasoning skills increased statistically significantly during the course" for both groups, with use of pedagogical concepts clearly increasing.
 
@@ -48,7 +52,7 @@ Within-group pre/post comparison of 64 participants' written video interpretatio
 
 Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Same pre/post design measuring noticing of 15 predefined incidents. The study reports "no statistically significant improvement in noticing skills in either of the groups"; equivalence was not tested.
 

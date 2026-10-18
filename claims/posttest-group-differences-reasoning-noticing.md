@@ -15,12 +15,14 @@ sources:
     author: "Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # After training, prospective teachers caught up with current faculty in reasoning but still had lower noticing scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Post-test Mann–Whitney U-tests revealed no statistical differences between groups in professional vision or reasoning scores, but prospective teachers still had lower noticing scores (Z = −1.985, p = 0.047). [→ Heinonen 2023](#heinonen-2023)
@@ -31,7 +33,7 @@ sources:
 
 Heinonen, N., Katajavuori, N., Murtonen, M., & Södervik, I. (2023). Short pedagogical training in supporting university teachers' professional vision: A comparison of prospective and current faculty teachers. Instructional Science, 51, 201–229. https://doi.org/10.1007/s11251-022-09603-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Post-test group comparison after the six-week course (n = 64). The study reports "prospective teachers had caught up with current faculty in their reasoning capability during the course, but not in the noticing skills."
 

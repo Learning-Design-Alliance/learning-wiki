@@ -15,12 +15,14 @@ sources:
     author: "Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Communicative activities associated with the RIDE rules, especially Intelligent collaboration, correlate with discovery learning activities in both groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` RIDE-rule communicative activities correlate with several discovery activities in both groups, especially Intelligent collaboration, and monitoring and planning correlate with all three testable rules. [→ Saab 2007](#saab-2007)
@@ -31,7 +33,7 @@ sources:
 
 Saab, N., van Joolingen, W. R. & van Hout-Wolters, B. H. A. M. (2007). Supporting Communication in a Collaborative Discovery Learning Environment: the Effect of Instruction. Instructional Science 35:73–98. https://doi.org/10.1007/s11251-006-9003-4
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Spearman correlation analysis of logged activity frequencies for both groups (17 experimental, 12 control dyads); printed correlations include r = 0.901 for thinking of alternative answers with Intelligent collaboration in the control group and r = 0.757 for formulating hypotheses in the experimental group.
 

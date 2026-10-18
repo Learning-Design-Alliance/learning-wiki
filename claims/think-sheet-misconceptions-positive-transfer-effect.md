@@ -15,18 +15,22 @@ sources:
     author: Anja Prinz, Stefanie Golke, Jörg Wittwer
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: anja-prinz-2021-2
     resource: "https://doi.org/10.1007/s11251-021-09535-8"
     title: "Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8"
     author: Anja Prinz, Stefanie Golke, Jörg Wittwer
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The overall interaction between misconceptions and instructional method on transfer was significant. [→ Anja Prinz 2021](#anja-prinz-2021)
@@ -38,7 +42,7 @@ sources:
 
 Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Regression analysis on transfer (comprehension of an educational research report requiring application of covariance knowledge) in the randomized experiment. The omnibus interaction was significant: "∆R2 = .08, F(2, 86) = 4.05, p = .021".
 
@@ -48,7 +52,7 @@ Regression analysis on transfer (comprehension of an educational research report
 
 Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Conditional effect in the same transfer regression: in the think-sheet group "misconceptions had a significant positive effect, b = 0.66, SE = 0.21, t(91) = 3.17, p = .002". Effects in the control and refutation-text groups were not significant.
 

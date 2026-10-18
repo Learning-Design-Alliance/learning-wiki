@@ -15,12 +15,14 @@ sources:
     author: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Judgments of learning add no new self-assessment information beyond performance estimates for single tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The difference between JOLs and performance estimates was 0 in 74.17% of all cases, and the JOL-versus-estimate difference was not significant, z = -0.98, p = .33. [→ Nugteren 2018](#nugteren-2018)
@@ -31,7 +33,7 @@ sources:
 
 Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the N = 15 experiment, median JOL (3.75 steps) closely matched median performance estimate (3.63 steps); the Wilcoxon test was not significant, z = -0.98, p = .33. No effect size is printed for the redundancy finding itself.
 

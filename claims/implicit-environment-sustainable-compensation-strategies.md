@@ -15,12 +15,14 @@ sources:
     author: Aiso Heinze, Julia Arend, Meike Gruessing, Frank Lipowsky
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Implicitly taught students showed a more sustainable use of self-generated compensation strategies, which resisted the later introduction of standard algorithms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The implicit group used compensation-type strategies more frequently than the explicit group at post-test (55 vs. 29) and at both follow-ups (65 vs. 35 at T3; 75 vs. 23 at T4), with the frequency increasing from T2 to T4. [→ Aiso Heinze 2018](#aiso-heinze-2018)
@@ -31,7 +33,7 @@ sources:
 
 Aiso Heinze, Julia Arend, Meike Gruessing, Frank Lipowsky. (2018). Instructional approaches to foster third graders' adaptive use of strategies: an experimental study on the effects of two learning environments on multi-digit addition and subtraction. Instr Sci 46:869–891. https://doi.org/10.1007/s11251-018-9457-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 χ2-homogeneity tests of strategy-type frequencies at T1–T4 in the two-condition experiment. The implicit group used compensation strategies more often at post-test (55 vs. 29) and follow-ups (65 vs. 35; 75 vs. 23). No effect size is printed for this specific contrast, so no magnitude is asserted.
 

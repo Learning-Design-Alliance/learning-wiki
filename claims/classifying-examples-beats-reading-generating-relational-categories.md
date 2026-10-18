@@ -15,12 +15,14 @@ sources:
     author: Tim M. Steininger, Jörg Wittwer, Thamar Voss
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Classifying provided examples is more effective for learning relational categories than reading or generating examples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Classifying provided examples led to better learning outcomes than reading or generating examples on the generation, inference, and definition recall tasks of the knowledge test. [→ Tim M. Steininger 2022](#tim-m-steininger-2022)
@@ -31,7 +33,7 @@ sources:
 
 Tim M. Steininger, Jörg Wittwer, Thamar Voss. (2022). Classifying Examples is More Effective for Learning Relational Categories Than Reading or Generating Examples. Instructional Science. https://doi.org/10.1007/s11251-022-09584-7
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A randomized experiment with N = 83 student teachers assigned to reading (n = 25), generating (n = 27), or classifying (n = 31) example formats. The planned contrast favoring classification was significant, "V = 0.290 (Pillai’s trace), F(4, 77) = 7.86, p < .001, ηp2 = 0.29", on all tasks except classification.
 

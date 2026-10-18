@@ -15,12 +15,14 @@ sources:
     author: Olga Vogel, Marcel Hunecke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Analogical reasoning and perspective taking are the strongest predictors of knowledge integration, followed by tolerance of ambiguity and uncertainty and reflexivity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the simultaneous regression model, analogical reasoning (b = 0.29) and perspective taking (b = 0.26) showed the highest predictability, ahead of tolerance of ambiguity and uncertainty (b = 0.21) and reflexivity (b = 0.12). [→ Olga Vogel 2024](#olga-vogel-2024)
@@ -31,7 +33,7 @@ sources:
 
 Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through individual competencies: the impacts of perspective taking, reflexivity, analogical reasoning and tolerance of ambiguity and uncertainty. Instructional Science. https://doi.org/10.1007/s11251-023-09653-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same regression model as H1 (Model 1, Table 4). The article prints the ordering of regression coefficients: "Analogical reasoning (b = 0.29) and perspective taking (b = 0.26) demonstrated the highest predictability". The b values are regression coefficients, not standardized effect sizes, so impact is null.
 

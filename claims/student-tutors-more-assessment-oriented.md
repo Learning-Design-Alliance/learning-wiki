@@ -15,12 +15,14 @@ sources:
     author: "Moust, J. C. & Schmidt, H. G."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Student tutors used the end-of-course exam more frequently than staff tutors to direct students' activities in the small-group tutorial. [→ Moust 1995](#moust-1995)
@@ -31,7 +33,7 @@ sources:
 
 Moust, J. C. & Schmidt, H. G. (1995). Facilitating small-group learning: a comparison of student and staff tutors' behavior. Instructional Science 22: 287-301. https://link.springer.com/journal/11251
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 On the achievement/test-orientation subscale student tutors scored higher in both courses (course 1: F = 8.06, p = 0.005; course 2: F = 10.41, p = 0.002); interviews report student tutors giving concrete cues about what to study for the test.
 

@@ -15,12 +15,14 @@ sources:
     author: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students' actual task selections deviate about half a difficulty level and half a support level from SRLTS model-based selections
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Compared with selections calculated from actual performance and mental-effort scores per the SRLTS model, participants deviated more than half a difficulty level (Mdn = 0.57) and more than half a support level (Mdn = 0.57). [→ Nugteren 2018](#nugteren-2018)
@@ -31,7 +33,7 @@ sources:
 
 Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Comparison of participants' actual selections with model-based selections computed from actual performance scores and mental effort ratings using the printed coding scheme (e.g., 0 or 1 steps correct prescribes a lower difficulty level). Only medians are printed; no effect size or test statistic is reported for this comparison.
 

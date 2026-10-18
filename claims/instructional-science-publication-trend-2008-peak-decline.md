@@ -15,18 +15,22 @@ sources:
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: betzabe-ruiz-morales-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09791-6"
     title: "Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6"
     author: Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Annual output in Instructional Science rose markedly from around 2008, peaked at about 55 documents in the early 2010s, then declined to roughly 30–40 papers annually
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Publication output increased markedly from about 2008, reached a peak of approximately 55 documents in the first-2010s, and recently stabilized around 30–40 papers annually. [→ Betzabe Ruiz-Morales 2026](#betzabe-ruiz-morales-2026)
@@ -38,7 +42,7 @@ sources:
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive analysis of annual document counts shown in Fig. 2 of the bibliometric study. The authors report a "marked increase in the number of publications" from around 2008, with a later slight decline to 30–40 papers annually.
 
@@ -48,7 +52,7 @@ Descriptive analysis of annual document counts shown in Fig. 2 of the bibliometr
 
 Betzabe Ruiz-Morales, Víctor G. Alfaro-García, José M. Merigó, Amara Atif, Eleni A. Kyza. (2026). Half a century of Instructional Science: a bibliometric analysis. Instructional Science. https://doi.org/10.1007/s11251-026-09791-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Annual production analysis based on Table 1 and Fig. 2 of the study. The authors identify 2013 as "the most productive year with 55 articles" and note decreases in years like 1977, 1985 and 1993.
 

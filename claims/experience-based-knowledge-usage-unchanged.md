@@ -15,12 +15,14 @@ sources:
     author: "Baier, F., Maurer, C., Dignath, C., & Kunter, M."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Neither intervention changes pre-service teachers' self-reported reliance on experience-based knowledge when analysing classroom situations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Self-reported experience-based knowledge usage showed no change from pre-test to post-test in either group and no group-by-time interaction (η²p = 0.00 for both). [→ Baier 2021](#baier-2021)
@@ -31,7 +33,7 @@ sources:
 
 Baier, F., Maurer, C., Dignath, C., & Kunter, M. (2021). Fostering pre-service teachers' theoretical knowledge application: studying with and without text-based cases. Instructional Science. https://doi.org/10.1007/s11251-021-09560-7
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Repeated-measures ANOVA on the experience-based analysis scale (Omega 0.94 pre, 0.97 post) in the quasi-experimental study, tested two-sided as an exploratory research question. No change and no interaction; printed effect sizes of η²p = 0.00 for both. Means stayed at or above 4 on the 6-point scale.
 

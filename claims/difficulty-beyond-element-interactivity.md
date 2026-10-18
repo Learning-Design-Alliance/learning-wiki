@@ -15,12 +15,14 @@ sources:
     author: de Jong, T.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Material difficulty is not determined solely by element number and interactivity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Difficulty also depends on factors beyond element interactivity, such as goal configuration in problems, ontological category shifts, and conflicting or ambiguous relations. [→ de Jong 2010](#de-jong-2010)
@@ -31,7 +33,7 @@ sources:
 
 de Jong, T. (2010). Cognitive load theory, educational research, and instructional design: some food for thought. Instructional Science. https://doi.org/10.1007/s11251-009-9110-0
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review attributes to Klahr and Robinson a finding that children had considerably more difficulty with all-pegs-occupied Tower of Hanoi problems "despite the number of moves being the same in both problems". Reported as a cited second-hand finding, no effect size printed.
 

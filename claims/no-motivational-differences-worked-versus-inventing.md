@@ -15,12 +15,14 @@ sources:
     author: Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bayesian tests found no evidence that inventing raised situational interest or that the worked example raised self-efficacy after learning. [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)
@@ -31,7 +33,7 @@ sources:
 
 Inga Glogger-Frey, Anne-Katrin Treier, Alexander Renkl. (2022). How preparation-for-learning with a worked versus an open inventing problem affect subsequent learning processes in pre-service teachers. Instructional Science. https://doi.org/10.1007/s11251-022-09577-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Bayesian independent-samples t-tests on interest and self-efficacy questionnaires administered before and after the learning phase in the N = 45 experiment; only anecdotal evidence (BF+0 = 1.374) favored the worked example on self-efficacy measured directly after preparation, so no motivational benefit was detected and equivalence was not tested.
 

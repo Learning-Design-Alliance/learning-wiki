@@ -15,12 +15,14 @@ sources:
     author: Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` VF-high did not differ significantly from PF on conceptual knowledge posttest scores (p =.193), with VF-high descriptively even outperforming PF. [→ Thomas C. Braas 2025](#thomas-c-braas-2025)
@@ -31,7 +33,7 @@ sources:
 
 Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog. (2025). When is observing failure productive? Investigating the role of solution diversity in vicarious failure. Instructional Science. https://doi.org/10.1007/s11251-025-09706-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same randomized four-condition experiment, Bonferroni-corrected post-hoc comparison of VF-high versus PF on conceptual knowledge was non-significant; the article reports "did not differ significantly from students who engaged in PF themselves" with d = 0.292 favoring VF-high descriptively.
 

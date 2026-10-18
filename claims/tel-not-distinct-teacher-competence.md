@@ -15,12 +15,14 @@ sources:
     author: Kirschner, P. A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # TEL design is not a distinct teacher competence but part of ordinary learning design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` From the viewpoint of teacher competences, there is no need for specific attention to TEL; TEL is an artefact of the times and the newest tool in the teacher's arsenal. [→ Kirschner 2015](#kirschner-2015)
@@ -31,7 +33,7 @@ sources:
 
 Kirschner, P. A. (2015). Do we need teachers as designers of technology enhanced learning? Instructional Science, 43, 309–322. https://doi.org/10.1007/s11251-015-9346-9
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in the premise section: the author reasons by analogy to other professions (doctor, chef) that the five core competencies are unchanged by new tools, so TEL design needs no separate course or competence, just as chefs are not taught a separate course on induction ranges.
 

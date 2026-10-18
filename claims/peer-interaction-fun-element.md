@@ -15,12 +15,14 @@ sources:
     author: "Kokarida, P., Markopoulos, P., & Tisza, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students report that being with friends buffers stress in potentially embarrassing activities, and that collaborative group activities are more fun than individual tasks. [→ Kokarida 2026](#kokarida-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Focus group thematic analysis (N = 12 students): a shy student described friends as making singing less stressful, and a student contrasted fun group activities in gymnastics with individual work like tests.
 

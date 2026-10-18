@@ -15,12 +15,14 @@ sources:
     author: "Lena Asp, Alli Klapp, & Victoria Rolfe"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Student-perceived classroom management is significantly associated with mathematics achievement at both student and classroom levels in Swedish grade 4 TIMSS 2019
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In the final model C5 with background controls, classroom management remains significantly associated with mathematics achievement (0.07**w; 0.18*b), with the classroom-level estimate reduced from Model C1. [→ Lena Asp 2026](#lena-asp-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lena Asp, Alli Klapp, & Victoria Rolfe. (2026). Associations between student-perceived teaching quality and students’ mathematics confidence and mathematics achievement: A study of Swedish grade 4 TIMSS 2019. Instructional Science. https://doi.org/10.1007/s11251-025-09767-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Final MSEM Model C5 added BOOKS, LANG and GENDER controls. The study reports classroom management "substantially and significantly associated with mathematics achievement", with the aggregated estimate decreasing from 0.42***b to 0.18*b after controls; no effect size is printed.
 

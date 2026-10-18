@@ -15,12 +15,14 @@ sources:
     author: "Lee, S. W.-Y., Wu, H., & Chang, H."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Four intermediate epistemic levels — late absolutist, early multiplist, late multiplist, and early evaluatist — emerged when students' forced-choice assumptions were triangulated with their written justifications
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Triangulating forced-choice responses with coded written justifications revealed four new adjusted developmental positions beyond the three standard epistemic levels. [→ Lee 2021](#lee-2021)
@@ -31,7 +33,7 @@ sources:
 
 Lee, S. W.-Y., Wu, H., & Chang, H. (2021). Examining secondary school students' views of model evaluation through an integrated framework of personal epistemology. Instructional Science, 49, 223–248. https://doi.org/10.1007/s11251-021-09534-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the qualitative middle-out coding of the 188 students' responses, "four new adjusted developmental positions, late absolutist, early multiplist, late multiplist, and early evaluatist emerged from the data," for example students choosing an absolutist option but justifying it with evidence.
 

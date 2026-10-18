@@ -15,12 +15,14 @@ sources:
     author: Hasan Ozgur Kapici
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The experimental group improved inquiry skills significantly (t(147) = 6.939, p =.000) while the control group did not (t(157) = 0.276, p =.783), and the posttest difference favored the experimental group, d = 0.707. [→ Hasan Ozgur Kapici 2025](#hasan-ozgur-kapici-2025)
@@ -31,7 +33,7 @@ sources:
 
 Hasan Ozgur Kapici. (2025). Does inquiry-based learning work better in regular classrooms or computer-based settings? Instructional Science (2025) 53:705–728. https://doi.org/10.1007/s11251-025-09711-0
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Same quasi-experimental study, inquiry skills test (TIPS II-based, 19 items). Paired tests showed the virtual-platform group improved significantly, "t(147) = 6.939, p =.000", while the control group did not, "t(157) = 0.276, p =.783"; the posttest comparison favored the experimental group with "d = 0.707".
 

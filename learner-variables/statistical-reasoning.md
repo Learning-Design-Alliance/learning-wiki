@@ -12,7 +12,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 15 claims (11 show a difference, 4 mixed) · 6 studies (3 causal, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 6 report an effect size · 15 claims rest on one study
+> **Evidence** · 17 claims (13 show a difference, 4 mixed) · 7 studies (4 causal, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 7 report an effect size · 17 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.

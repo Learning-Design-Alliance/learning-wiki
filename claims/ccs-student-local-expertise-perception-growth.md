@@ -15,12 +15,14 @@ sources:
     author: Rikke Magnussen, Yotam Hod
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` After participating in the City at Play CCS project, the share of students who felt they had knowledge about their neighborhood that the redeveloping architects did not have rose from 9% to 45%. [→ Rikke Magnussen 2023](#rikke-magnussen-2023)
@@ -31,7 +33,7 @@ sources:
 
 Rikke Magnussen, Yotam Hod. (2023). Bridging communities and schools in Urban development: community and citizen science. Instructional Science. https://doi.org/10.1007/s11251-023-09641-9
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Pre/post digital surveys administered to City at Play classes asked whether students possessed knowledge about their neighborhood that the redeveloping architects did not. The article reports "9%" at baseline rising to "45%" at endline; no effect size or test statistic is printed.
 

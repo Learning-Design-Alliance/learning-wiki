@@ -17,7 +17,7 @@ sources:
 # Use design research to study the interplay of guidance and discovery, trading methodological control for ecological validity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends design research (design-based research, design experiments) as the methodological way forward, conjecturing that randomized controlled trials as the gold standard force researchers to dichotomize discovery versus direct instruction. In design research "one loses methodological control but typically gains ecological validity," and generalization takes the form of theoretical generalization and transportation of useful design ideas rather than statistical generalization from sample to population.

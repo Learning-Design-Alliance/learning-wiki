@@ -15,12 +15,14 @@ sources:
     author: Rikke Magnussen, Yotam Hod
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Educational designs bridging school and professional communities were developed based on skill development rather than research processes, content, or results
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The projects showed that CCS educational designs can bridge school and professional communities through skill development rather than the research processes, content, or results that traditionally focus citizen science projects. [→ Rikke Magnussen 2023](#rikke-magnussen-2023)
@@ -31,7 +33,7 @@ sources:
 
 Rikke Magnussen, Yotam Hod. (2023). Bridging communities and schools in Urban development: community and citizen science. Instructional Science. https://doi.org/10.1007/s11251-023-09641-9
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Authors' concluding interpretation of the design and observation data from both iterations regarding the professional bridge. The article states it was "possible to develop educational designs bridging school and professional communities based on skill development"; no effect size applies.
 

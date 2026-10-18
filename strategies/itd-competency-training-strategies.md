@@ -17,7 +17,7 @@ sources:
 # Train ITD competencies through cross-training, guided boundary-object creation, coaching, and early reflexivity learning objectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's instructional implications recommend methodically designing ITD teamwork and specific training methods per competency. "Perspective taking can be fostered through cross-training, in which participants change positions in task processing to learn the skills and knowledge that their teammates require in task solving". Analogical reasoning is encouraged through guided creation of boundary objects combining knowledge structures from different disciplines; coaching suits tolerance of ambiguity and uncertainty; reflexivity objectives should enter the curriculum early.

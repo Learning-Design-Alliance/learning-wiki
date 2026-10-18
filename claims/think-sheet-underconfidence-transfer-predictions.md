@@ -15,18 +15,22 @@ sources:
     author: Anja Prinz, Stefanie Golke, Jörg Wittwer
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: anja-prinz-2021-2
     resource: "https://doi.org/10.1007/s11251-021-09535-8"
     title: "Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8"
     author: Anja Prinz, Stefanie Golke, Jörg Wittwer
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the think-sheet group, misconceptions had a marginally significant negative effect on bias of transfer predictions, indicating underconfidence, and the think-sheet/control interaction was significant. [→ Anja Prinz 2021](#anja-prinz-2021)
@@ -38,7 +42,7 @@ sources:
 
 Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Conditional effect on transfer-prediction bias in the randomized experiment: "More misconceptions resulted in more underconfident predictions" in the think-sheet group. The think-sheet/control interaction was significant (b = −0.80, p = .014); the refutation-text/control interaction was not.
 
@@ -48,7 +52,7 @@ Conditional effect on transfer-prediction bias in the randomized experiment: "Mo
 
 Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Conditional effects on transfer-prediction bias in the same regression analysis: no significant effect of misconceptions in the control or refutation-text group, so the transfer-prediction hypothesis was not supported.
 

@@ -15,18 +15,22 @@ sources:
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: oshra-aloni-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09666-8"
     title: "Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8"
     author: Oshra Aloni, Michal Zion, Ornit Spektor-Levy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Girls exhibited significantly higher learning preferences than boys for visual means and agency support, with no significant gender differences for auditory or sensorimotor modalities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learning-preference levels differed significantly by gender overall, F(4,300) = 5.40, p < 0.001, ηp2 = 0.07. [→ Oshra Aloni 2024](#oshra-aloni-2024)
@@ -38,7 +42,7 @@ sources:
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 One-way MANOVA with gender as the independent variable and the four preference levels as dependent variables in the 305-student sample showed a significant overall gender difference, "F(4,300) = 5.40, p < 0.001, ηp2 = 0.07".
 
@@ -48,7 +52,7 @@ One-way MANOVA with gender as the independent variable and the four preference l
 
 Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dynamic interactions between learning preferences, gender, learning disabilities, and achievements in science studies. Instructional Science. https://doi.org/10.1007/s11251-024-09666-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Follow-up univariate tests in the same MANOVA found significant gender differences for visual means (F(1,303) = 8.40, p = 0.004, ηp2 = 0.03) and agency support (F(1,303) = 7.70, p = 0.006, ηp2 = 0.03); "girls exhibited higher levels of learning preferences for visuals and agency support than boys", with low-moderate effect sizes.
 

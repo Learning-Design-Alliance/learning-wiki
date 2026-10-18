@@ -15,12 +15,14 @@ sources:
     author: "Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Grade-9 students using BioWorld significantly increased their confidence in their diagnosis from initial to final hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students' belief-meter confidence rose significantly between first and last diagnosis during BioWorld problem solving. [→ Lajoie 2001](#lajoie-2001)
@@ -31,7 +33,7 @@ sources:
 
 Lajoie, S. P., Lavigne, N. C., Guerrera, C., & Munsie, S. D. (2001). Constructing knowledge in the context of BioWorld. Instructional Science, 29(2), 155-186. http://www.jstor.org/stable/41953546
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Computer-trace data from 20 grade-9 groups solving digestion cases in BioWorld; a one-way RM ANOVA on belief-meter entries found students significantly increased their confidence about their diagnosis at the time of their final argument (F(1,19) = 51.042, p = 0.00). Means are descriptive; no effect size is printed.
 

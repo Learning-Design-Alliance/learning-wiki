@@ -15,12 +15,14 @@ sources:
     author: "Kokarida, P., Markopoulos, P., & Tisza, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Primary school students aged 9–12 perceive a sense of agency—choice over content, personalization, self-directed performance, and task completion—as a core element of fun in learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students aged 9–12 report that having a voice in what and how they learn, personalization to class interests, self-directed performance, and completing invested tasks directly contribute to fun and engagement in learning. [→ Kokarida 2026](#kokarida-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kokarida, P., Markopoulos, P., & Tisza, G. (2026). Fun beyond gamification: Universal elements to enhance children's learning. Instructional Science (2026) 54:30. https://doi.org/10.1007/s11251-026-09780-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Thematic analysis of four focus group interviews with 12 students aged 9–12 in a Greek primary school, corroborated by classroom observations of 48 students. Students linked choice and personalization to fun: "I think it would be nice to vote to see what everyone likes."
 

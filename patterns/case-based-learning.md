@@ -36,7 +36,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 37 claims (14 for, 23 mixed) · 30 studies (11 causal, 6 quant-synthesis, 5 review, 3 design, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 5 of 30 report an effect size · 32 claims rest on one study
+> **Evidence** · 39 claims (16 for, 23 mixed) · 31 studies (12 causal, 6 quant-synthesis, 5 review, 3 design, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 6 of 31 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - Transfer is stronger when learners articulate why a response fits the case rather than merely selecting an option [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Facilitation matters: questioning and hints often outperform simply telling learners what the right answer was [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — some novices need component instruction or worked examples before cases become productive
+- [Studying theoretical content with text-based cases yields a small advantage in productive scientific knowledge application over studying the same content with theoretical models](../claims/text-based-cases-small-advantage-knowledge-application.md) [+M] — attached 2026-10-18 from Baier et al. (2021), which proposed "Use text-based cases to connect scientific theory to real-world classroom situations in teacher education, but treat them as one option rather than a panacea against inert knowledge"; tests this page's relationship.
+- [Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations](../claims/both-interventions-increase-theory-based-knowledge-usage.md) [+M] — attached 2026-10-18 from Baier et al. (2021), which proposed "Use text-based cases to connect scientific theory to real-world classroom situations in teacher education, but treat them as one option rather than a panacea against inert knowledge"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

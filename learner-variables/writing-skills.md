@@ -12,7 +12,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (55 show a difference, 13 mixed, 11 no difference) · 53 studies (20 causal, 18 associational, 6 review, 4 quant-synthesis, 3 theoretical, 2 design), `q1`–`q4` · 16 of 53 report an effect size · 74 claims rest on one study
+> **Evidence** · 80 claims (56 show a difference, 13 mixed, 11 no difference) · 54 studies (20 causal, 18 associational, 6 review, 4 quant-synthesis, 3 design, 3 theoretical), `q1`–`q4` · 16 of 54 report an effect size · 75 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.

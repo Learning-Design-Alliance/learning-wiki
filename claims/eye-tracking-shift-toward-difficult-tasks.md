@@ -15,18 +15,22 @@ sources:
     author: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: nugteren-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9448-2"
     title: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2"
     author: "Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Eye movements shift from easy, low-support tasks during early selections to faster orientation toward more difficult tasks during final selections
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Fixation duration on difficulty levels one and two was significantly longer during early than final selections (e.g., level one: z = -2.50, p = .01, r = -0.46). [→ Nugteren 2018](#nugteren-2018)
@@ -38,7 +42,7 @@ sources:
 
 Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Eye tracking with a Tobii 1750 during task selection in the N = 15 experiment; fixation durations on difficulty levels one (r = -0.46) and two (r = -0.43) differed significantly between early and final selections, with no significant differences for levels three to five.
 
@@ -48,7 +52,7 @@ Eye tracking with a Tobii 1750 during task selection in the N = 15 experiment; f
 
 Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-regulation of secondary school students: self-assessments are inaccurate and insufficiently used for learning-task selection. Instructional Science. https://doi.org/10.1007/s11251-018-9448-2
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Time-to-first-fixation analysis for the five difficulty levels: level four was significant (z = -2.33, p = .02, r = -0.43) and level five marginally significant (z = -1.76, p = .08, r = -0.32); levels one to three were not significant.
 

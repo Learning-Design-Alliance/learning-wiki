@@ -15,12 +15,14 @@ sources:
     author: Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Pretest performance (r =.174, p =.032) and average math grade (r =.217, p =.009) were related to conceptual knowledge scores but not to procedural knowledge scores. [→ Thomas C. Braas 2025](#thomas-c-braas-2025)
@@ -31,7 +33,7 @@ sources:
 
 Thomas C. Braas, Christian Hartmann, Vincent Hoogerheide, Nikol Rummel, Tamara van Gog. (2025). When is observing failure productive? Investigating the role of solution diversity in vicarious failure. Instructional Science. https://doi.org/10.1007/s11251-025-09706-x
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Secondary correlational analysis in the full sample before the main ANCOVA; the article reports pretest and math grade "were related to conceptual knowledge scores on the posttest" but not to procedural knowledge scores, justifying their use as covariates.
 

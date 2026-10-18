@@ -15,12 +15,14 @@ sources:
     author: "Baier, F., Maurer, C., Dignath, C., & Kunter, M."
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # The case-based intervention was perceived as connecting theory to practice more strongly than the model-based comparison intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The treatment group reported a higher theory-practice connection during the intervention than the comparison group, supporting the manipulation check (d = 0.42). [→ Baier 2021](#baier-2021)
@@ -31,7 +33,7 @@ sources:
 
 Baier, F., Maurer, C., Dignath, C., & Kunter, M. (2021). Fostering pre-service teachers' theoretical knowledge application: studying with and without text-based cases. Instructional Science. https://doi.org/10.1007/s11251-021-09560-7
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Independent samples t-test on a three-item theory-practice connection scale (Omega = 0.87) administered at post-test in the quasi-experimental study. The printed effect size was d = 0.42; the authors read this as cases establishing congruence between study and application contexts.
 

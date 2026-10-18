@@ -15,12 +15,14 @@ sources:
     author: Jafar Tavakoli, Marisa Exter, Ankita Kotangale
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The gap between dispositions as learning goals and their assessment indicates misalignment among Integrated Course Design components
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Many designers lacked appropriate assessment methods for dispositions, raising concerns about alignment between learning goals, teaching activities, and feedback and assessment. [→ Jafar Tavakoli 2025](#jafar-tavakoli-2025)
@@ -31,7 +33,7 @@ sources:
 
 Jafar Tavakoli, Marisa Exter, Ankita Kotangale. (2025). Integrating dispositions in instructional design: an exploratory study in higher education. Instructional Science. https://doi.org/10.1007/s11251-025-09762-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Abstract-level summary of the interview findings framed by Fink's (2013) Integrated Course Design: the misalignment between recognized disposition goals and weak assessment suggests learners may be inadequately prepared to apply knowledge and skills in real-world contexts.
 

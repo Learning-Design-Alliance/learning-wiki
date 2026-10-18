@@ -15,18 +15,22 @@ sources:
     author: Olga Vogel, Marcel Hunecke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: olga-vogel-2024-2
     resource: "https://doi.org/10.1007/s11251-023-09653-5"
     title: "Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through individual competencies: the impacts of perspective taking, reflexivity, analogical reasoning and tolerance of ambiguity and uncertainty. Instructional Science. https://doi.org/10.1007/s11251-023-09653-5"
     author: Olga Vogel, Marcel Hunecke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The competency–knowledge integration relationships differ between scientific and economic samples: reflexivity is significant only in the scientific sample, while tolerance of ambiguity and uncertainty and perspective taking are significant only in the economic sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the scientific sample the impact of reflexivity on knowledge integration was significant, but not the effects of tolerance of ambiguity and uncertainty and perspective taking; in the economic sample the reverse pattern held. [→ Olga Vogel 2024](#olga-vogel-2024)
@@ -38,7 +42,7 @@ sources:
 
 Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through individual competencies: the impacts of perspective taking, reflexivity, analogical reasoning and tolerance of ambiguity and uncertainty. Instructional Science. https://doi.org/10.1007/s11251-023-09653-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Moderated regression with group as moderator (R 2 = 0.34, F(9,246) = 15.96, p < 0.001) comparing the scientific (N = 152) and economic (N = 104) samples via simple slopes. Path coefficients "differed between groups" as the article reports. No effect sizes are printed for the group-specific paths.
 
@@ -48,7 +52,7 @@ Moderated regression with group as moderator (R 2 = 0.34, F(9,246) = 15.96, p < 
 
 Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through individual competencies: the impacts of perspective taking, reflexivity, analogical reasoning and tolerance of ambiguity and uncertainty. Instructional Science. https://doi.org/10.1007/s11251-023-09653-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The same moderated regression analysis reports a non-significant overall interaction (p = 0.74) and non-significant moderation of each path (all p ≥ 0.23). The article states Hypothesis 2 "could not be confirmed"; equivalence between contexts was not tested, so this null is reported as detected-no-moderation.
 
