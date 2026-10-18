@@ -16,6 +16,9 @@ sources:
 
 # Challenge candidate digital technologies against a learning-based pedagogical framework before adoption
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 As a practical move, the article recommends testing proposed uses of digital technologies against a pedagogical framework derived from what is known about learning. The abstract describes building "what we know about what it takes to learn" into a framework "with which to challenge digital technologies to deliver a genuinely enhanced learning experience". In practice this means interrogating each candidate technology use: does it serve learners' and teachers' needs as the framework specifies, and does it genuinely enhance the learning experience rather than merely enable new activity?
 
@@ -34,7 +37,7 @@ As a practical move, the article recommends testing proposed uses of digital tec
 - selecting and shaping technology use that genuinely enhances learning
 
 ### Affordances
-- [Pedagogical Framework Challenge Digital Technologies](../theories/pedagogical-framework-challenge-digital-technologies.md)
+- Pedagogical Framework Challenge Digital Technologies
 
 ## Related Strategies
 - 

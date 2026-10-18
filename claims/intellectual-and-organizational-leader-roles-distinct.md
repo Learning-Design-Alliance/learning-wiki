@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
     title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
     author: E. M. Mercier, S. E. Higgins, Laura da Costa
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
   - id: e-m-mercier-2014-2
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
     title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
     author: E. M. Mercier, S. E. Higgins, Laura da Costa
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In study one, leadership configurations fell along the lines of intellectual and organizational leader, with three of eight math groups having distinct intellectual and organizational leaders and two groups having one student take both roles. [→ E. M. Mercier 2014](#e-m-mercier-2014)
@@ -31,7 +42,7 @@ sources:
 
 E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Analysis of accepted leadership moves coded as intellectual (Topic Control, Idea Management and Development) or organizational (Planning and Organizing, Turn Management, Acknowledgment) in eight groups. The article reports "Three of the eight groups in the math activity had a distinct intellectual and organizational leader."
 
@@ -41,7 +52,7 @@ Analysis of accepted leadership moves coded as intellectual (Topic Control, Idea
 
 E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Study two examined emergent leadership in 22 groups of students across six classes in a multi-touch classroom. The article reports that distinct intellectual and organizational leader roles "taken on by two different students, could be identified in half of the groups."
 

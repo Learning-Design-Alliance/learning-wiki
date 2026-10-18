@@ -12,10 +12,17 @@ sources:
   - id: schneider-2018
     resource: "https://doi.org/10.1007/s11412-018-9281-2"
     title: "Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., & Pea, R. (2018). Leveraging mobile eye-trackers to capture joint visual attention in co-located collaborative learning groups. International Journal of Computer-Supported Collaborative Learning, 13(3), 241–261. https://doi.org/10.1007/s11412-018-9281-2"
-    author: "Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., & Pea, R"
+    author: "Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., & Pea, R."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Unbalanced participation in dyads is negatively correlated with learning gains
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Across the entire sample, dyads' learning gains are significantly negatively correlated with unbalanced levels of participation computed from eye-tracking data. [→ Schneider 2018](#schneider-2018)
@@ -26,7 +33,7 @@ sources:
 
 Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., & Pea, R. (2018). Leveraging mobile eye-trackers to capture joint visual attention in co-located collaborative learning groups. International Journal of Computer-Supported Collaborative Learning, 13(3), 241–261. https://doi.org/10.1007/s11412-018-9281-2
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Sample-wide analysis generalizing the two-dyad qualitative finding; the study "found a significant negative correlation between dyads' learning gains and unbalanced levels of participation (as computed from the eye-tracking data)."
 
@@ -36,4 +43,4 @@ Sample-wide analysis generalizing the two-dyad qualitative finding; the study "f
 
 
 ## Related Claims
--
+- [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related

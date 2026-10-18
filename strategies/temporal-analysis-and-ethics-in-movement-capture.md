@@ -16,6 +16,9 @@ sources:
 
 # Pair movement-based analysis with temporal analysis and discuss camera intrusiveness when collecting detailed data
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editors recommend extensions to movement-based analytic work: "temporal analysis would also be useful since participation can change over time and this will have implications for redesign." They also advise researchers to weigh detail against intrusiveness: "as researchers, we often need detailed data, while ensuring that the tools we use do not become too intrusive for the participants."
 

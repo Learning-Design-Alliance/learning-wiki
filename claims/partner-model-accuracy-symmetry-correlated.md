@@ -12,10 +12,17 @@ sources:
   - id: dillenbourg-2016
     resource: "https://doi.org/10.1007/s11412-016-9235-5"
     title: "Dillenbourg, P., Lemaignan, S., Sangin, M., Nova, N., & Molinari, G. (2016). The symmetry of partner modelling. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9235-5"
-    author: "Dillenbourg, P., Lemaignan, S., Sangin, M., Nova, N., & Molinari, G"
+    author: "Dillenbourg, P., Lemaignan, S., Sangin, M., Nova, N., & Molinari, G."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # In most of the reported collaborative experiments, the accuracy of the partner model A built about B was correlated with the accuracy of the model B built about A
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Across five experiments on collaborative problem solving or collaborative learning, in four studies the accuracy of the model that A built about B was correlated with the accuracy of the model that B built about A. [→ Dillenbourg 2016](#dillenbourg-2016)
@@ -26,7 +33,7 @@ sources:
 
 Dillenbourg, P., Lemaignan, S., Sangin, M., Nova, N., & Molinari, G. (2016). The symmetry of partner modelling. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9235-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Summary of five experiments on collaborative problem solving and collaborative learning reported in this peer-reviewed journal article: in four studies, mutual partner-model accuracies were correlated. The article states this correlation but prints no effect size, so no magnitude is reported here.
 

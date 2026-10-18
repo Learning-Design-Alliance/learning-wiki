@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (11 for, 18 mixed, 3 against) · 26 studies (12 causal, 4 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 26 report an effect size · 26 claims rest on one study
+> **Evidence** · 34 claims (12 for, 19 mixed, 3 against) · 28 studies (12 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 28 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -106,6 +106,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](../claims/failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) [~W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Design preparatory problem-solving scaffolds that explicitly engineer either success or failure before instruction".
 - [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](../claims/failure-driven-scaffolding-higher-quality-constructive-reasoning.md) [+W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Design preparatory problem-solving scaffolds that explicitly engineer either success or failure before instruction".
 - [The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome](../claims/content-support-moderator-not-significant.md) [~W] — attached 2026-10-18 from Freydis Vogel et al. (2016), which proposed "Combine collaboration scripts with content-related scaffolding so the two scaffolds amplify each other (synergistic scaffolding)"; tests this page's relationship.
+- [Effects of collaboration scripts combined with heuristic worked examples on mathematical argumentation skills depend on prior knowledge and working-memory capacity, consistent with a Matthew Effect](../claims/script-worked-example-fading-matthew-effect.md) [~W] — attached 2026-10-18 from Carolyn P. Rosé et al. (2017), which proposed "Design scaffolding with attention to over-scripting risk and plan for fading scripting support over time".
+- [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](../claims/adaptive-expert-teacher-closes-gaps-real-time-labs.md) [+M] — attached 2026-10-18 from Sten Ludvigsen et al. (2018), which proposed "When digital resources replace the textbook as the main resource, designers and teachers must establish additional supports and scaffolds".
 
 ## Objective and learner-valued goal
 

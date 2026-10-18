@@ -16,6 +16,9 @@ sources:
 
 # Deploy automated analysis tools to support tutors' time-consuming analysis of CSCL conversations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends automated collaboration-assessment tools because, as CSCL gains broader usage, analyzing chat conversations manually burdens tutors. It aims to support "tutors in the time-consuming process of analyzing conversations" by applying the two ReaderBench models to collaboration assessment, so evaluation of collaboration need not rest entirely on human reading of chats.
 

@@ -12,7 +12,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (24 show a difference, 5 mixed, 2 no difference) · 27 studies (8 qualitative, 5 causal, 5 review, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 2 of 27 report an effect size · 31 claims rest on one study
+> **Evidence** · 32 claims (25 show a difference, 5 mixed, 2 no difference) · 28 studies (8 qualitative, 6 review, 5 causal, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 2 of 28 report an effect size · 32 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -72,6 +72,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](../claims/role-design-enhances-collaborative-knowledge-construction-quality.md) [+W] — instruction changes it
 - [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](../claims/teacher-level-collaboration-remained-low-activities-targeted-leaders.md) [-M] — instruction changes it
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](../claims/dr-outperforms-ci-task-performance.md) [+W] — instruction changes it
+- [Across the special issue, all four levels of coupling minds correlate with task performance](../claims/all-four-levels-coupling-correlate-task-performance.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

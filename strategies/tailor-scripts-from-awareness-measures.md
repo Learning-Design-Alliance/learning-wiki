@@ -16,6 +16,9 @@ sources:
 
 # Combine scripting with awareness measures to tailor collaboration scripts to the dyad
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Building on the finding that scripting and awareness prompts were kept as separate conditions, the editors propose that researchers go beyond affirming possible positive effects and guide designers on how and when to invoke them. They suggest combining the two experimental conditions and tailoring the script to the dyad based on awareness measures of the collaboration process, which they say could discover an effective synthesis.
 

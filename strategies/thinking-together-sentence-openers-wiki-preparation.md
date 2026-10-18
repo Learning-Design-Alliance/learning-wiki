@@ -16,6 +16,9 @@ sources:
 
 # Thinking Together approach with sentence openers to prepare primary students for wiki collaboration
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The project's first phase used the Thinking Together approach: in three face-to-face sessions students set up and reflected upon ground rules for effective communication, and each received a sheet with five kinds of sentence openers — giving information, asking for another's point of view, expressing disagreement, expressing agreement, and giving reasons and summarising. The openers were also displayed for reference during wiki discussions in the negotiation space, to support collaborative talk modelled on Exploratory Talk.
 
@@ -37,7 +40,7 @@ The project's first phase used the Thinking Together approach: in three face-to-
 - collaborative writing
 
 ### Affordances
-- [Dialogic Space Intersubjectivity Wiki Framework](../theories/dialogic-space-intersubjectivity-wiki-framework.md)
+- [Dialogic Space Intersubjectivity Wiki Framework](../theories/sociocultural-theory.md)
 
 ## Related Strategies
 - 

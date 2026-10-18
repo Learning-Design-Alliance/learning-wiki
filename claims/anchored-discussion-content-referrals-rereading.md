@@ -12,10 +12,17 @@ sources:
   - id: van-der-pol-2006
     resource: "https://doi.org/10.1007/s11412-006-9657-6"
     title: "van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6"
-    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J"
+    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Anchored discussion strengthens referrals to content and prompts rereading of relevant passages
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Forum discussion contained more referrals to persons, while anchored discussion contained more direct referrals to the content of other messages and of the text. [→ van der Pol 2006](#van-der-pol-2006)
@@ -26,7 +33,7 @@ sources:
 
 van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Referral coding of the 36 discussion protocols (Table 3: referring to persons 34% vs 13%; content of text 5% vs 12%). The contrast names forum referral to persons versus anchored referral to actual content of messages and text.
 

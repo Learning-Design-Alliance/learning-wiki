@@ -16,6 +16,9 @@ sources:
 
 # Diagnose collaborative arrangements by comparing mutual partner-model accuracies between team members
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's methodological approach is to address its research question by "comparing the respective accuracies of the models built by different team members". Assessing symmetry — whether A's model of B matches B's model of A — is used as an empirical probe of whether mutual modelling rests on interaction quality or individual abilities. Applying this comparative assessment to a collaborating team provides a diagnostic of how mutual understanding is being built, before one attributes modelling success to either partner's individual competence.
 
@@ -34,7 +37,7 @@ The article's methodological approach is to address its research question by "co
 - assessing and supporting mutual understanding in collaborative learning
 
 ### Affordances
-- [Mutual Partner Modelling Some Model](../theories/mutual-partner-modelling-some-model.md)
+- Mutual Partner Modelling Some Model
 
 ## Related Strategies
 - 

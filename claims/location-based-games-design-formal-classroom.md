@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-018-9280-3"
     title: "Nancy Law, Carolyn P. Rose, Ulrike Cress & Sten Ludvigsen. (2018). Different technologies, methodologies and epistemologies—is CSCL a community or communities? Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9280-3"
     author: "Nancy Law, Carolyn P. Rose, Ulrike Cress & Sten Ludvigsen"
+    q: 2
+    i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # Collaborative location-based games design was implemented within a formal classroom aligned to the Norwegian national competency framework
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students in a history class worked in groups through three phases (game design, playing another group's game, producing a media product) using a location-based game authoring tool, with activities aligned to the national curriculum. [→ Nancy Law 2018](#nancy-law-2018)
@@ -26,7 +33,7 @@ sources:
 
 Nancy Law, Carolyn P. Rose, Ulrike Cress & Sten Ludvigsen. (2018). Different technologies, methodologies and epistemologies—is CSCL a community or communities? Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9280-3
 
-`q2 · i?`
+`q2 · i?` · `design · r?`
 
 Design-based study by Wake, Guribye and Wasson in a formal classroom, using videos, interviews and student generated artifacts as data collection methods, per the editorial's description of the study design.
 

@@ -12,14 +12,25 @@ sources:
   - id: heimbuch-2018
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
     title: "Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0"
-    author: "Heimbuch, S., Ollesch, L., & Bodemer, D"
+    author: "Heimbuch, S., Ollesch, L., & Bodemer, D."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: heimbuch-2018-2
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
     title: "Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0"
-    author: "Heimbuch, S., Ollesch, L., & Bodemer, D"
+    author: "Heimbuch, S., Ollesch, L., & Bodemer, D."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In the main study, wiki contribution frequency indirectly mediated the effect of script on post-test learning, while the direct script effect was not significant
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An OLS path analysis with BCa bootstrapping showed DDR students contributed more (a = 8.55), heavier contributors scored higher at post-test (b = 0.024), and the indirect effect ab = .21, 95% CI [.02, .52], excluded zero. [→ Heimbuch 2018](#heimbuch-2018)
@@ -31,7 +42,7 @@ sources:
 
 Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 OLS path analysis with bias-corrected and accelerated bootstrapping (10,000 resamples) in the main study; the bootstrap CI for the indirect effect was "entirely above zero, ab = .21, 95% CI [.02, .52]". No standardized effect size is printed here.
 
@@ -41,7 +52,7 @@ OLS path analysis with bias-corrected and accelerated bootstrapping (10,000 resa
 
 Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Same main-study mediation section: the unmediated total-effect model found no significant direct script effect on post-test learning; equivalence was not tested. R² = .01 is not treated as an effect size here.
 

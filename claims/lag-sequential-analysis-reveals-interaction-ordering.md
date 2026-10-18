@@ -43,4 +43,4 @@ In an illustrative study of students in India, Manu Kapur applied Lag-sequential
 
 
 ## Related Claims
--
+- [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related

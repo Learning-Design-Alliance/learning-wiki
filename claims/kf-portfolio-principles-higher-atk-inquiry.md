@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-006-8997-6"
     title: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6"
     author: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst"
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The Knowledge Forum class with portfolio and principles, and the class with portfolio, had higher ATK Inquiry scores than the Knowledge Forum-only class. [→ Eddy Y.C. Lee 2006](#eddy-yc-lee-2006)
@@ -26,7 +33,7 @@ sources:
 
 Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 MANCOVA on Analytic Toolkit database participation indices across three Knowledge Forum classes, controlling for Hong Kong Attainment Test scores, with alpha set at .01. Univariate analysis showed "significant differences for ATK Inquiry across classes, F(2, 107) = 7.96" with η² = .13; paired comparisons favored the portfolio and portfolio-principles classes.
 

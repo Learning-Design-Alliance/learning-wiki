@@ -12,10 +12,17 @@ sources:
   - id: lu-2010
     resource: "https://doi.org/10.1007/s11412-010-9092-6"
     title: "Lu, J., Lajoie, S. P., & Wiseman, J. (2010). Scaffolding problem-based learning with CSCL tools. Computer-Supported Collaborative Learning, 5, 283–298. https://doi.org/10.1007/s11412-010-9092-6"
-    author: "Lu, J., Lajoie, S. P., & Wiseman, J"
+    author: "Lu, J., Lajoie, S. P., & Wiseman, J."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teacher discourse shifted toward creating new challenging situations (NI) and confirming repeats (R) in the interactive-whiteboard condition, versus providing requested information (IR) and clarification questions (Q) in the traditional-whiteboard condition
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the IW condition the teacher initiated more new information or challenging situations and repeated or confirmed student responses with questioning intonation, while in the TW condition the teacher provided more requested information and asked clarification questions. [→ Lu 2010](#lu-2010)
@@ -26,7 +33,7 @@ sources:
 
 Lu, J., Lajoie, S. P., & Wiseman, J. (2010). Scaffolding problem-based learning with CSCL tools. Computer-Supported Collaborative Learning, 5, 283–298. https://doi.org/10.1007/s11412-010-9092-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative and content analysis of transcribed DP role-play discourse under the two conditions, reported in the Results discourse-patterns section. The article states "These scaffolding strategies differences were consistent in the two conditions."
 

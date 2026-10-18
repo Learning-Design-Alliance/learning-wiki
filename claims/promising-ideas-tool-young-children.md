@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-015-9222-2"
     title: "Gerry Stahl. (2015). A decade of CSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-015-9222-2"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # A promising-ideas tool enabled children of about 8 years old to identify, communicate, respond to and build upon promising ideas in knowledge-building discourse
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Young children (about 8 years old) using the promising-ideas tool could identify and build upon promising ideas in their classroom knowledge-building discussions. [→ Gerry Stahl 2015](#gerry-stahl-2015)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2015). A decade of CSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-015-9222-2
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Editorial summary of Chen, Scardamalia and Bereiter's article in this issue, describing a promising-ideas software feature tested through the authors' DBR process of iteratively testing new features. The editorial states children "can identify, communicate, respond to and build upon promising ideas" with the tool; no effect sizes or sample details are printed here.
 

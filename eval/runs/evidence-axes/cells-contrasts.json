@@ -34002,5 +34002,9 @@
  "learner-difference\t2017 Hispanic-White adjusted math gap\t2010 Hispanic-White adjusted math gap": {
   "label": "2017 Hispanic–White adjusted math gap vs 2010 Hispanic–White adjusted math gap",
   "treatment_is_a": true
+ },
+ "scaffolding\tadaptive teacher support combining procedural, conceptual, eliciting, elaboration, and contextual guidance\tstudents’ work without this support": {
+  "label": "scaffolded vs unscaffolded instruction",
+  "treatment_is_a": true
  }
 }

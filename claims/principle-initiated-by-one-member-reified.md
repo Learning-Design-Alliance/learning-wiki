@@ -12,14 +12,25 @@ sources:
   - id: overdijk-2008
     resource: "https://doi.org/10.1007/s11412-008-9038-4"
     title: "Overdijk, M. & van Diggelen, W. (2008). Appropriation of a shared workspace: Organizing principles and their application. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9038-4"
-    author: "Overdijk, M. & van Diggelen, W"
+    author: "Overdijk, M. & van Diggelen, W."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: overdijk-2008-2
     resource: "https://doi.org/10.1007/s11412-008-9038-4"
     title: "Overdijk, M. & van Diggelen, W. (2008). Appropriation of a shared workspace: Organizing principles and their application. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9038-4"
-    author: "Overdijk, M. & van Diggelen, W"
+    author: "Overdijk, M. & van Diggelen, W."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A shared organizing principle can be established by one member and followed by others, becoming stronger with each application
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In group 2, a graphical organizing principle initiated by one student early in the discussion was followed by the others and became difficult to deviate from. [→ Overdijk 2008](#overdijk-2008)
@@ -31,7 +42,7 @@ sources:
 
 Overdijk, M. & van Diggelen, W. (2008). Appropriation of a shared workspace: Organizing principles and their application. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9038-4
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Episode analysis of group 2's discussion in the shared workspace shows the principle "became reified in the drawing area, and was strengthened with each application," evolving into a strong principle within the first five minutes that all members maintained even when it disrupted adjacency.
 
@@ -41,7 +52,7 @@ Episode analysis of group 2's discussion in the shared workspace shows the princ
 
 Overdijk, M. & van Diggelen, W. (2008). Appropriation of a shared workspace: Organizing principles and their application. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9038-4
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Episode analysis of group 3 shows students adopted each other's practices for grouping contributions, typing text, and using source cards; these choices were made only in this particular group.
 

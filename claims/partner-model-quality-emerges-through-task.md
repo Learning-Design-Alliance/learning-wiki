@@ -12,14 +12,25 @@ sources:
   - id: ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9236-4"
     title: "Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4"
-    author: Ludvigsen, S
+    author: Ludvigsen, S.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
   - id: ludvigsen-2016-2
     resource: "https://doi.org/10.1007/s11412-016-9236-4"
     title: "Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4"
-    author: Ludvigsen, S
+    author: Ludvigsen, S.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across five collaborative problem-solving experiments, the quality of mutual modelling emerged through the task and was sensitive to awareness tools and media richness, partly contradicting the starting hypothesis that partner modelling is an improvable individual skill. [→ Ludvigsen 2016](#ludvigsen-2016)
@@ -31,7 +42,7 @@ sources:
 
 Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports Dillenbourg et al.'s five experiments engaging participants in collaborative problem solving, with tasks varying in importance and in how difficult it is to build accurate models; the finding partly contradicts the starting assumption.
 
@@ -41,7 +52,7 @@ The editorial reports Dillenbourg et al.'s five experiments engaging participant
 
 Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports this symmetry result from the same five experiments by Dillenbourg et al., noting explicitly that it held in several but not all of the experiments.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
     title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
     author: E. M. Mercier, S. E. Higgins, Laura da Costa
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Some groups had an intellectual leader without an organizational leader, but no group had an organizational leader without an intellectual leader
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In study one, there were groups that only had an intellectual leader, while there was no group that had an organizational but not an intellectual leader. [→ E. M. Mercier 2014](#e-m-mercier-2014)
@@ -26,7 +33,7 @@ sources:
 
 E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Summary of study one leadership configurations across eight groups. The article reports "there were groups that only had an intellectual leader, while there was no group that had an organizational but not an intellectual leader."
 

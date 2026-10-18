@@ -12,10 +12,17 @@ sources:
   - id: fu-2016
     resource: "https://doi.org/10.1007/s11412-016-9245-3"
     title: "Fu, E. L. F., van Aalst, J., & Chan, C. K. K. (2016). Toward a classification of discourse patterns in asynchronous online discussions. International Journal of Computer-Supported Collaborative Learning, 11, 441-478. https://doi.org/10.1007/s11412-016-9245-3"
-    author: "Fu, E. L. F., van Aalst, J., & Chan, C. K. K"
+    author: "Fu, E. L. F., van Aalst, J., & Chan, C. K. K."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The Bidea^ dimension was the most frequent (45.87% of total discourse), with Bfact^ dominant in Grade 5 Science and Bopinion^ dominant in Grade 10 Liberal Studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bidea^ represented 45.87% of total discourse; the most frequent sub-codes were Bfact^ (29.10%) in G5S and Bopinion^ (20.6%) in G10LS. [→ Fu 2016](#fu-2016)
@@ -26,7 +33,7 @@ sources:
 
 Fu, E. L. F., van Aalst, J., & Chan, C. K. K. (2016). Toward a classification of discourse patterns in asynchronous online discussions. International Journal of Computer-Supported Collaborative Learning, 11, 441-478. https://doi.org/10.1007/s11412-016-9245-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative coding of discourse across three KF views found the Bidea^ dimension most frequent at 45.87% of total discourse. The authors suggest Bscience students tended to consider brief factsBas self-explanatory, while humanities students tended to use subjective judgments.
 

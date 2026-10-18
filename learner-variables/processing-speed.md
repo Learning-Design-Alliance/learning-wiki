@@ -12,7 +12,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (18 show a difference, 10 mixed, 3 no difference) · 20 studies (10 associational, 3 causal, 3 quant-synthesis, 3 review, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 31 claims rest on one study
+> **Evidence** · 32 claims (19 show a difference, 10 mixed, 3 no difference) · 21 studies (10 associational, 3 causal, 3 quant-synthesis, 3 review, 2 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 32 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -66,6 +66,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](../claims/disorder-specific-phoneme-naming-set-shifting.md) [~W] — learners who differ on it differ in outcomes
 - [Slower processing speed in adults with ASD is associated with greater impairment on ADOS Communication and Reciprocal Social Interaction scores](../claims/processing-speed-associated-with-ados-social-communication.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](../claims/shared-wm-speed-verbal-comprehension-rd-md.md) [+M] — learners who differ on it differ in outcomes
+- [Digital mapping tools slow down students' judging and categorizing of online material, prompting collaborative negotiation of how to make sense of a controversy](../claims/mapping-tools-slow-categorization-negotiation.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

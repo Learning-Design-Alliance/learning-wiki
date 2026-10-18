@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-015-9222-2"
     title: "Gerry Stahl. (2015). A decade of CSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-015-9222-2"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Analyses of the CSCL literature show statistical measures at the individual unit of analysis dominate published CSCL research despite calls for group-level analysis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Most CSCL publications rely on pre/post tests of individuals or coding of individual utterances, even in small-group collaboration contexts, per recent methodological analyses of the literature. [→ Gerry Stahl 2015](#gerry-stahl-2015)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2015). A decade of CSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-015-9222-2
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The editorial reports, citing Jeong et al. (2014) and Tee & Lee (2013), that methodological analyses of the CSCL literature found "statistical measures at the individual unit of analysis dominate the field." No quantitative breakdown is provided in this source, so the finding is reported as attributed.
 

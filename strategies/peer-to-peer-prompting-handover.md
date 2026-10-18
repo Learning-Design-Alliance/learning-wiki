@@ -16,6 +16,9 @@ sources:
 
 # Peer-delivered prompts in which students take over prompting, feedback, and assessment from an instructor
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 In Harney and Hogan's experimental study in an undergraduate Psychology course, one condition delivers scaffolding prompts by an instructor, while in another an instructor first models the prompts and students then take on responsibility for prompting each other. The editors tie this peer-learning focus to lifelong learning: students gain skills to make better use of their social connections as learning resources, especially where instructor time is limited.
 

@@ -12,14 +12,25 @@ sources:
   - id: van-der-pol-2006
     resource: "https://doi.org/10.1007/s11412-006-9657-6"
     title: "van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6"
-    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J"
+    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: van-der-pol-2006-2
     resource: "https://doi.org/10.1007/s11412-006-9657-6"
     title: "van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6"
-    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J"
+    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Forum messages more often contained social statements and regulative comments than anchored-discussion messages. [→ van der Pol 2006](#van-der-pol-2006)
@@ -31,7 +42,7 @@ sources:
 
 van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Protocol coding of social and regulative comments across the 36 discussions (Table 5: social comments 42% vs 2%; regulative comments 25% vs 4%). The forum resembled email structure with introductory and closing parts.
 
@@ -41,7 +52,7 @@ Protocol coding of social and regulative comments across the 36 discussions (Tab
 
 van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Message-length analysis over the complete collection of messages (n = 1,342). Forum messages averaged 57 words versus 38; a significantly larger number of messages per discussion in the anchored condition (t(28.49) = j2.13, p = 0.04) almost completely compensated.
 

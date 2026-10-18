@@ -20,6 +20,7 @@ A behavioral assessment paradigm developed by Jirout et al. to measure preschool
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Loewenstein's information-gap theory of curiosity as a framework for measuring children's exploratory curiosity**: The information-gap theory holds that curiosity arises from feelings of deprivation that are aversive and motivate information-seeking to reduce them. The review adopts it as the conceptual framework for evaluating procedures for measuring children's exploratory curiosity, defining curiosity as "the threshold of desired uncertainty in the environment that leads to exploratory behavior." The authors extend it to young children as a stable uncertainty preference. (Jirout et al. (2011))
 
 ### Claims
 

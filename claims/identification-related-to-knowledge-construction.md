@@ -12,10 +12,17 @@ sources:
   - id: ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9236-4"
     title: "Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4"
-    author: Ludvigsen, S
+    author: Ludvigsen, S.
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Identification is closely related to how and what knowledge students construct in online group discussions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In Öztok's case study of online group discussions, participants' use of identification categories shaped discourse sequences and participation trajectories, and identification was closely related to how and what knowledge students constructed. [→ Ludvigsen 2016](#ludvigsen-2016)
@@ -26,7 +33,7 @@ sources:
 
 Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 The editorial reports Öztok's case study, which used an interaction-analysis model with five phases of interaction to capture how identities are displayed in threaded interactions within a CSCL environment, in education content from a large North American research university.
 

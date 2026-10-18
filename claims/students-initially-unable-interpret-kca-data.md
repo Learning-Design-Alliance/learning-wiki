@@ -12,10 +12,17 @@ sources:
   - id: yang-2016
     resource: "https://doi.org/10.1007/s11412-016-9239-1"
     title: "Yang, Y., van Aalst, J., Chan, C.K.K., & Tian, W. (2016). Reflective assessment in knowledge building by students with low academic achievement. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-016-9239-1"
-    author: "Yang, Y., van Aalst, J., Chan, C.K.K., & Tian, W"
+    author: "Yang, Y., van Aalst, J., Chan, C.K.K., & Tian, W."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Many low-achieving students were initially unable to interpret KCA data productively when first using the tool.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Many students were initially unable to interpret the KCA data productively upon first introduction of the tool. [→ Yang 2016](#yang-2016)
@@ -26,7 +33,7 @@ sources:
 
 Yang, Y., van Aalst, J., Chan, C.K.K., & Tian, W. (2016). Reflective assessment in knowledge building by students with low academic achievement. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-016-9239-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Finding from the early phase of reflective assessment with KCA reported in Results RQ3. A survey of the first nine users immediately after introduction indicated interpretation difficulties.
 

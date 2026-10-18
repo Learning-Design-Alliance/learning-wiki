@@ -12,14 +12,25 @@ sources:
   - id: heimbuch-2018
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
     title: "Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0"
-    author: "Heimbuch, S., Ollesch, L., & Bodemer, D"
+    author: "Heimbuch, S., Ollesch, L., & Bodemer, D."
+    q: 1
+    i: "?"
+    kind: causal
+    rigour: 1
   - id: heimbuch-2018-2
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
     title: "Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0"
-    author: "Heimbuch, S., Ollesch, L., & Bodemer, D"
+    author: "Heimbuch, S., Ollesch, L., & Bodemer, D."
+    q: 1
+    i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q1` · `i3` large
 
 ## Subclaims
 `q1 i?` At t1 the odds of incorporating the partner's evidence into answers on the pirate-status question were 10.80 times higher for DDR dyads, χ²(1, N = 28) = 7.34, p = .007; the conviction question showed no relevant differences. [→ Heimbuch 2018](#heimbuch-2018)
@@ -31,7 +42,7 @@ sources:
 
 Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Small laboratory pre-study (N = 28 at t1, N = 22 at t2): DDR vs BRD dyads categorised on whether open-ended answers integrated only own material (A or B) or the partner's evidence (A and B). The t1 χ²(1, N = 28) = 7.34, p = .007 supports the main-topic contrast; no standardized effect size is printed.
 
@@ -41,7 +52,7 @@ Small laboratory pre-study (N = 28 at t1, N = 22 at t2): DDR vs BRD dyads catego
 
 Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0
 
-`q1 · i3`
+`q1 · i3` · `causal · r1`
 
 Pre-study Mann-Whitney comparison of the overall knowledge-test scores (Table 3): BRD M = 23.67 vs DDR M = 25.54, U = 32.50, p = .043, r = .44 [-.06, .72], with the article noting low statistical precision due to the small sample.
 

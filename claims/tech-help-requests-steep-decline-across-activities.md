@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-016-9229-3"
     title: "Anniken Furberg. (2016). Teacher support in computer-supported lab work: bridging the gap between lab experiments and students' conceptual understanding. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9229-3"
     author: Anniken Furberg
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Technologically oriented help requests comprised 11.5% of requests and declined steeply from the first to the last post-experiment activity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q3 i?` Help requests about technology (SCY-Lab operation, browser problems, breakdowns) accounted for 11.5% of requests and fell sharply across the three activities. [→ Anniken Furberg 2016](#anniken-furberg-2016)
@@ -26,7 +33,7 @@ sources:
 
 Anniken Furberg. (2016). Teacher support in computer-supported lab work: bridging the gap between lab experiments and students' conceptual understanding. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9229-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Part of the same frequency-count categorisation of 122 requests in the post-experiment phase; Table 2 reports Tech counts of 9, 4 and 1 across the three activities. Most concerned "browser problems, abrupt breakdowns of the SCY-Lab environment" or opening support tools.
 

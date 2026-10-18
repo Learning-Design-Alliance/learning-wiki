@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-009-9069-5"
     title: "Jan van Aalst. (2009). Distinguishing knowledge-sharing, knowledge-construction, and knowledge-creation discourses. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9069-5"
     author: Jan van Aalst
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In every group, a large share of information items was described without being interpreted or evaluated, ranging from 35.4% (Group B) to 66.7% (Group C). [→ Jan van Aalst 2009](#jan-van-aalst-2009)
@@ -26,7 +33,7 @@ sources:
 
 Jan van Aalst. (2009). Distinguishing knowledge-sharing, knowledge-construction, and knowledge-creation discourses. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9069-5
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative analysis of the Information main code across the four group discourses. The percentages of uninterpreted information are descriptive; the article links the pattern to a realist epistemology in which information is assumed to be self-explanatory.
 

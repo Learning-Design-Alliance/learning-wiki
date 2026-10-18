@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
     title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
     author: E. M. Mercier, S. E. Higgins, Laura da Costa
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
   - id: e-m-mercier-2014-2
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
     title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
     author: E. M. Mercier, S. E. Higgins, Laura da Costa
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In study one, leadership moves were distributed among group members, with some groups showing balanced leadership and others one or two emergent leaders. [→ E. M. Mercier 2014](#e-m-mercier-2014)
@@ -31,7 +42,7 @@ sources:
 
 E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Observational coding of eight groups of year six pupils completing history and math mystery tasks. The article reports that "leadership moves appear to be distributed among group members," with variation across groups in whether leadership was balanced or concentrated.
 
@@ -41,7 +52,7 @@ Observational coding of eight groups of year six pupils completing history and m
 
 E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Coding of 22 groups in a multi-touch classroom study. The article reports "1,377 leadership moves were identified from 11,126 utterances across the 22 groups" and that 82% were accepted, with groups categorized as one leader, main and secondary leaders, or shared leadership.
 

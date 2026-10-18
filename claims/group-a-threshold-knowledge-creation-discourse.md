@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-009-9069-5"
     title: "Jan van Aalst. (2009). Distinguishing knowledge-sharing, knowledge-construction, and knowledge-creation discourses. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9069-5"
     author: Jan van Aalst
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Group A's discourse contained the idea units needed for knowledge construction but only rare rise-above moves, indicating a threshold rather than well-developed knowledge-creation discourse
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only 2.4% of Group A's idea units were coded as rise-above, suggesting its discourse was not yet a well-developed example of knowledge creation. [→ Jan van Aalst 2009](#jan-van-aalst-2009)
@@ -26,7 +33,7 @@ sources:
 
 Jan van Aalst. (2009). Distinguishing knowledge-sharing, knowledge-construction, and knowledge-creation discourses. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9069-5
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative analysis of Group A's Ideas code instances. Most idea units were concepts and explanations with only 22.2% facts or opinions, but rise-above units were rare, supporting the abstract's finding of a threshold knowledge-creation discourse.
 

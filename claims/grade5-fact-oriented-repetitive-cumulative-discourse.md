@@ -12,10 +12,17 @@ sources:
   - id: fu-2016
     resource: "https://doi.org/10.1007/s11412-016-9245-3"
     title: "Fu, E. L. F., van Aalst, J., & Chan, C. K. K. (2016). Toward a classification of discourse patterns in asynchronous online discussions. International Journal of Computer-Supported Collaborative Learning, 11, 441-478. https://doi.org/10.1007/s11412-016-9245-3"
-    author: "Fu, E. L. F., van Aalst, J., & Chan, C. K. K"
+    author: "Fu, E. L. F., van Aalst, J., & Chan, C. K. K."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Grade 5 Science students predominantly engaged in fact-oriented, repetitive, and cumulative discourse, suggesting difficulty sustaining conversational exchanges online
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The G5S view had 25 narrative units, including 22 knowledge-sharing units and three knowledge-construction units, with students mostly engaging in fact-oriented, repetitive, and cumulative discourse. [→ Fu 2016](#fu-2016)
@@ -26,7 +33,7 @@ sources:
 
 Fu, E. L. F., van Aalst, J., & Chan, C. K. K. (2016). Toward a classification of discourse patterns in asynchronous online discussions. International Journal of Computer-Supported Collaborative Learning, 11, 441-478. https://doi.org/10.1007/s11412-016-9245-3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Narrative analysis of the Grade 5 Science view (38 students, 346 notes over seven weeks) found 25 narrative units, of which 22 were knowledge-sharing and three knowledge-construction. The authors suggest students Bmight not have known how to engage in conversational exchanges in online environments.
 

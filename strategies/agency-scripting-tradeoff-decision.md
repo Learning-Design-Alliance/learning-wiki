@@ -16,6 +16,9 @@ sources:
 
 # When scripting collaborative tasks, decide on the learner-agency versus pre-defined-goals trade-off position deliberately
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial shows that the choice between leaving open what learners map or produce and scripting toward explicit curriculum goals is a live design controversy (Wise and Schwarz's Provocation #2). Where "scripting is used, there are clear, prede fined learning goals underpinning the learning context", whereas studies like CTM gave a simple activity structure and left the rest to children and family members. Designers should state which learning outcome class they target before choosing a point on this spectrum.
 

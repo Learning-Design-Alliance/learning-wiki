@@ -46,3 +46,4 @@ Epistemic Network Analysis of coded noticing statements from 17 preservice teach
 - [Preservice teachers moved directly from attending to shaping more often than from attending to interpreting, and attending–interpreting links remained comparatively weak](attending-shaping-over-attending-interpreting.md) — related
 - [The dominant within-dimension noticing transition varied by week: attending in Week 1, interpreting in Week 2, and shaping in Week 3](dominant-transitions-vary-by-week.md) — related
 - [Noticing in AI-based simulations was organised through both within-dimension continuity and between-dimension connections rather than a linear sequence](noticing-organised-continuity-and-connections.md) — a broader claim this one bears on
+- [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related

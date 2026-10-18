@@ -16,6 +16,9 @@ sources:
 
 # Use SQuILD to quantify informal talk and learning in open-ended museum settings
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Scoring Qualitative Informal Learning Dialogues (SQuILD) is a method presented by Roberts and Lyons that "aims to measure informal talk and learning in open-ended museum settings." It can "be used to quantify social learning as a way of testing how participants understand interactive exhibits," addressing three challenges: developing relevant codes, segmenting dialogue with an event unit for cross-group comparison, and respecting socially constructed learning when quantifying dialogue.
 

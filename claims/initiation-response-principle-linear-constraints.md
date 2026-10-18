@@ -12,10 +12,17 @@ sources:
   - id: overdijk-2008
     resource: "https://doi.org/10.1007/s11412-008-9038-4"
     title: "Overdijk, M. & van Diggelen, W. (2008). Appropriation of a shared workspace: Organizing principles and their application. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9038-4"
-    author: "Overdijk, M. & van Diggelen, W"
+    author: "Overdijk, M. & van Diggelen, W."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The graphical organizing principle was abandoned when the group reached the border of the drawing area and could not reorganize. [→ Overdijk 2008](#overdijk-2008)
@@ -26,7 +33,7 @@ sources:
 
 Overdijk, M. & van Diggelen, W. (2008). Appropriation of a shared workspace: Organizing principles and their application. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-008-9038-4
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Episode analysis of group 1 shows early placement of contributions affected subsequent organization; when the group reached the bottom of the drawing area, "the downward vertical organization became disrupted" and the graphical principle was abandoned.
 

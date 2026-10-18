@@ -12,14 +12,25 @@ sources:
   - id: kirschner-2018
     resource: "https://doi.org/10.1007/s11412-018-9277-y"
     title: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y"
-    author: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J"
+    author: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J."
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
   - id: kirschner-2018-2
     resource: "https://doi.org/10.1007/s11412-018-9277-y"
     title: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y"
-    author: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J"
+    author: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J."
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`–`q2`
 
 ## Subclaims
 `q1 i?` Collaborative learning is beneficial when task complexity exceeds individual working memory capacity and members have prior experience working together, but unnecessary for learners who already have relevant knowledge structures. [→ Kirschner 2018](#kirschner-2018)
@@ -31,7 +42,7 @@ sources:
 
 Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A theoretical prediction of cognitive load theory for collaboration, stated from the interaction of the information store, borrowing and reorganising, and narrow limits of change principles. No data are offered in this article for the prediction itself; it is an argued design implication about element interactivity and group capacity.
 
@@ -41,7 +52,7 @@ A theoretical prediction of cognitive load theory for collaboration, stated from
 
 Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article reports, citing Zhang et al. (2016), a team-composition study whose results confirmed heterogeneous teams could favour lower prior knowledge learners; however, comparing individual learners with homogeneous and heterogeneous teams, knowledgeable individuals 'marginally out- perform' teams. Reported secondhand without statistics; no effect size printed.
 

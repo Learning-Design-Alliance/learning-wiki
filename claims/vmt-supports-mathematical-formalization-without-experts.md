@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-016-9230-x"
     title: "Sten Ludvigsen. (2016). CSCL towards the future: The second decade of ijCSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9230-x"
     author: Sten Ludvigsen
+    q: 1
+    i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` A case study of three students in the VMT environment with embedded GeoGebra showed students can move toward formalization of mathematical arguments without a teacher or more knowledgeable peer present. [→ Sten Ludvigsen 2016](#sten-ludvigsen-2016)
@@ -26,7 +33,7 @@ sources:
 
 Sten Ludvigsen. (2016). CSCL towards the future: The second decade of ijCSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9230-x
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r?`
 
 Editorial report of Diler Oner's case study of three students collaboratively solving a geometrical construction problem in the VMT environment, selected on the principle of analyzing extreme cases. The editorial notes students sometimes lack technical vocabulary yet can be shown to move toward formalizations of their arguments.
 

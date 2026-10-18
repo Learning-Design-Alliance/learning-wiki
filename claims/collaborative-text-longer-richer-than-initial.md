@@ -12,13 +12,20 @@ sources:
   - id: pifarré-2011
     resource: "https://www.springer.com/journal/11412"
     title: "Pifarré, M. & Kleine Staarman, J. (2011). Wiki-supported collaborative learning in primary education: How a dialogic space is created for thinking together. International Journal of Computer Supported Collaborative Learning, 6(2), 187-205. https://www.springer.com/journal/11412"
-    author: "Pifarré, M. & Kleine Staarman, J"
+    author: "Pifarré, M. & Kleine Staarman, J."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Collaborative wiki texts are longer, contain more t-units and more reasoning connectors than the initial pair-written texts
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
+
 ## Subclaims
-`q2 i?` Comparing initial pair texts with the collaborative texts, the collaborative texts had more words, more t-units and more reasoning connectors, and better structure and organisation. [→ Pifarré 2011](#pifarré-2011)
+`q2 i?` Comparing initial pair texts with the collaborative texts, the collaborative texts had more words, more t-units and more reasoning connectors, and better structure and organisation. [→ Pifarré 2011](#pifarre-2011)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Pifarré, M. & Kleine Staarman, J. (2011). Wiki-supported collaborative learning in primary education: How a dialogic space is created for thinking together. International Journal of Computer Supported Collaborative Learning, 6(2), 187-205. https://www.springer.com/journal/11412
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Quantitative comparison (Table 1) of initial pair texts and collaborative wiki texts for two groups on paragraphs, words, t-units and reasoning connectors; e.g. Group 2's collaborative text had 184 words and 8 reasoning connectors versus 110 and 4 for its longest initial text. Descriptive counts; no statistical test reported.
 

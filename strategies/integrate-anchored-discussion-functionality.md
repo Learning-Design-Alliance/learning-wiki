@@ -16,6 +16,9 @@ sources:
 
 # Integrate anchored-discussion functionality into existing electronic learning environments
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that, to increase the availability of anchored discussion in university practice, it would be useful to integrate functionality for anchored discussion into existing electronic learning environments, rather than relying on separate specialized systems. This follows from their finding that the anchored system's functional design implicitly focused students' collaborative intentions on the text without additional training or elaborate instructions, preserving an open learning environment that does not restrict users' actions.
 
@@ -34,7 +37,7 @@ The authors recommend that, to increase the availability of anchored discussion 
 - Collaborative processing and comprehension of academic literature
 
 ### Affordances
-- [Anchored Discussion Design Theory](../theories/anchored-discussion-design-theory.md)
+- [Anchored Discussion Design Theory](../designs/anchored-discussion-design-theory.md)
 
 ## Related Strategies
 - 

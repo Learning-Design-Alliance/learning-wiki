@@ -16,6 +16,9 @@ sources:
 
 # Scaffold collaborative inquiry with a three-phase model culminating in a coauthored collaborative summary note
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because the teacher and students had little experience with extended collaborative inquiry, "a three-phase inquiry model was employed": Phase 1 orients students to identify problems and select promising inquiry foci, Phase 2 is the main research phase, and Phase 3 has students evaluate what they learned. In Phase 3 each group reviews whether knowledge advances were made and coauthors a Collaborative Summary Note in a brief research-report format, self-assessing collective accomplishment against a rubric. The strategy is intended to underscore that knowledge advancements are collective achievements in a knowledge-creation community.
 
@@ -34,7 +37,7 @@ Because the teacher and students had little experience with extended collaborati
 - conducting collaborative inquiry and self-assessing collective knowledge advances
 
 ### Affordances
-- [Three Discourse Modes Framework](../theories/three-discourse-modes-framework.md)
+- [Three Discourse Modes Framework](../theories/knowledge-objects-and-knowledge-practices.md)
 
 ## Related Strategies
 - 

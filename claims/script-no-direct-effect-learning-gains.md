@@ -12,14 +12,25 @@ sources:
   - id: heimbuch-2018
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
     title: "Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0"
-    author: "Heimbuch, S., Ollesch, L., & Bodemer, D"
+    author: "Heimbuch, S., Ollesch, L., & Bodemer, D."
+    q: 2
+    i: 0
+    kind: causal
+    rigour: 2
   - id: heimbuch-2018-2
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
     title: "Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0"
-    author: "Heimbuch, S., Ollesch, L., & Bodemer, D"
+    author: "Heimbuch, S., Ollesch, L., & Bodemer, D."
+    q: 2
+    i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i0`–`i2`
 
 ## Subclaims
 `q2 i0` Absolute knowledge-test gains did not differ significantly between DDR and BRD groups (d = 0.08, p = .364). [→ Heimbuch 2018](#heimbuch-2018)
@@ -31,7 +42,7 @@ sources:
 
 Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0
 
-`q2 · i0`
+`q2 · i0` · `causal · r2`
 
 Main-study Welch's t-test on learning gains (Table 7): BRD M = 0.91 vs DDR M = 1.04, t(63.94) = 0.35, p = .364, d = 0.08 [-0.39, 0.56]. No equivalence test was reported.
 
@@ -41,7 +52,7 @@ Main-study Welch's t-test on learning gains (Table 7): BRD M = 0.91 vs DDR M = 1
 
 Heimbuch, S., Ollesch, L., & Bodemer, D. (2018). Comparing effects of two collaboration scripts on learning activities for wiki-based environments. University of Duisburg-Essen. https://doi.org/10.1007/s11412-018-9283-0
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Main-study paired-samples t-test across both script groups: pre-test M = 13.13 vs post-test M = 14.11, t(68) = 5.52, p < .001, d = 0.66 [0.40, 0.92], printed in Table 7.
 

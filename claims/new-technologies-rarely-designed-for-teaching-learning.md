@@ -13,9 +13,16 @@ sources:
     resource: "https://hal.science/hal-00592750"
     title: "Diana Laurillard. (2009). The pedagogical challenges to collaborative technologies. International Journal of Computer-Supported Collaborative Learning (ijCSCL), 4, pp.5-20. https://hal.science/hal-00592750"
     author: Diana Laurillard
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # New technologies excite creative pedagogical ideas but are rarely designed with teaching and learning in mind
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` New technologies generate many ideas for teaching and learning, although the technologies themselves are rarely designed with teaching and learning in mind. [→ Diana Laurillard 2009](#diana-laurillard-2009)
@@ -26,7 +33,7 @@ sources:
 
 Diana Laurillard. (2009). The pedagogical challenges to collaborative technologies. International Journal of Computer-Supported Collaborative Learning (ijCSCL), 4, pp.5-20. https://hal.science/hal-00592750
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The abstract presents this as the paper's motivating observation about the mismatch between technology design and educational needs, using the phrase "rarely designed with teaching and learning in mind". It is an expert argument, not a measured finding.
 

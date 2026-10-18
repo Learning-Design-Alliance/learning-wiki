@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-006-8997-6"
     title: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6"
     author: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst"
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Collective portfolio scores explained additional variance in conceptual understanding beyond achievement, participation, and individual inquiry
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Entering portfolio scores (collective inquiry) in the final regression step added a statistically significant 4% of variance to conceptual understanding, R² = .57, p < .05. [→ Eddy Y.C. Lee 2006](#eddy-yc-lee-2006)
@@ -26,7 +33,7 @@ sources:
 
 Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Hierarchical multiple regression with essay scores as dependent variable (n = 52 at final step): academic achievement entered first (R² = .33), ATK inquiry second (nonsignificant change, R² = .34), explanation and inquiry scores third (additional 19%, R² = .53), portfolio scores last. The article concludes portfolio scores "predicted students' conceptual understanding" over and above the earlier steps; no standardized effect size is printed.
 

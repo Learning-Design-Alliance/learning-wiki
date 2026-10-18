@@ -16,6 +16,9 @@ sources:
 
 # Weekly design meetings as key sites of teacher inquiry, collaboration, and knowledge creation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Seconded teachers and researchers met weekly as a design team to improve knowledge-building practices, share understanding with school colleagues, and provide peer coaching. During meetings, teachers present classroom artifacts (video clips, computer notes) for group discourse examining "big ideas and problems" using knowledge-building principles. This strategy develops teacher leaders who spread innovation to other teachers.
 

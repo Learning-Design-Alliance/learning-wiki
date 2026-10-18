@@ -16,6 +16,9 @@ sources:
 
 # Study the development of self-regulatory skills in naturalistic settings over longer periods of time
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editors propose that because experiments in CSCL are time-limited, the field should investigate how self-regulatory skills develop in naturalistic settings over longer time spans. They state: "it would be very interesting to see how self-regulatory skills develop in naturalistic settings over longer periods of time". This responds to the Wang et al. adaptable-scripts study, whose students collaborated for three hours total, and frames longer-term follow-up as a next step for that research line.
 

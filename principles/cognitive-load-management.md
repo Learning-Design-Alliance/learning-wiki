@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (16 for, 16 mixed, 1 against) · 35 studies (14 causal, 8 quant-synthesis, 8 review, 4 theoretical, 1 design), `q1`–`q4` · 10 of 35 report an effect size · 25 claims rest on one study
+> **Evidence** · 35 claims (18 for, 16 mixed, 1 against) · 36 studies (14 causal, 8 quant-synthesis, 8 review, 5 theoretical, 1 design), `q1`–`q4` · 10 of 36 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -111,6 +111,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+M] — not settled: the text available could not confirm the entries (abstract). Bears on the explanatory hypothesis only (immediate-memory capacity and how grouping stretches it), not on any learning comparison the model makes; its discussion's point that a chunk must be meaningful to the learner is consistent with the expertise qualification.
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](../claims/germane-load-mediates-tool-effect-on-justification-quality.md) [+M] — attached 2026-10-15 from Matthias Stadler et al. (2024), which proposed "Design learning tasks that challenge learners to engage actively with complex material rather than merely providing information efficiently"; tests this page's relationship.
+- [The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks](../claims/collective-working-memory-effect-complexity-dependent.md) [+W] — attached 2026-10-18 from Kirschner et al. (2018), which proposed "Nine collaborative cognitive load principles relating task, learner and team characteristics to extraneous transactive load"; tests this page's relationship.
+- [Communication and coordination costs of transactive activities can annul the benefit of sharing cognitive load in a group](../claims/transactive-costs-annul-load-sharing-benefit.md) [+W] — attached 2026-10-18 from Kirschner et al. (2018), which proposed "Nine collaborative cognitive load principles relating task, learner and team characteristics to extraneous transactive load"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

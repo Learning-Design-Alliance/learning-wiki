@@ -12,10 +12,17 @@ sources:
   - id: chan-2011
     resource: "https://doi.org/10.1007/s11412-011-9121-0"
     title: "Chan, C. K. K. (2011). Bridging research and practice: Implementing and sustaining knowledge building in Hong Kong classrooms. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9121-0"
-    author: Chan, C. K. K
+    author: Chan, C. K. K.
+    q: 1
+    i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Scaling up educational innovation requires attention to breadth of use, depth of understanding, sustainability, and teachers' ability to refine the innovation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` For educational innovations to scale up, dimensions including breadth of use across classrooms, depth of understanding, sustainability, and teachers' ability to shift, change, and refine the innovation need to be considered. [→ Chan 2011](#chan-2011)
@@ -26,7 +33,7 @@ sources:
 
 Chan, C. K. K. (2011). Bridging research and practice: Implementing and sustaining knowledge building in Hong Kong classrooms. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-011-9121-0
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Conceptual analysis drawing on scaling-up research (Dede and Honan 2005). The article states that "various dimensions need to be considered, including the breadth of use across classrooms, the depth of understanding, the sustainability of innovation."
 

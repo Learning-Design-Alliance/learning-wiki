@@ -16,6 +16,9 @@ sources:
 
 # Advance CSCL impact on schooling through multi-disciplinary design-based research networks that package effective collaborative-learning models for teachers everywhere
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial argues that isolated CSCL advances must be consolidated into larger efforts, since the DBR needed to influence educational policy and practice requires large multi-disciplinary undertakings beyond single labs. It states the field must "flesh out models of collaborative learning that are not only demonstrably effective under a range of settings, but are packaged to be used in practice by teachers everywhere." Implementing this requires new kinds of research networks, sustained teacher professional development in guiding collaboration, and curriculum aligned with established standards across grades, developed through many iterations of trial and redesign.
 

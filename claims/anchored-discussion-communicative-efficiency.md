@@ -12,14 +12,25 @@ sources:
   - id: van-der-pol-2006
     resource: "https://doi.org/10.1007/s11412-006-9657-6"
     title: "van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6"
-    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J"
+    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: van-der-pol-2006-2
     resource: "https://doi.org/10.1007/s11412-006-9657-6"
     title: "van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6"
-    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J"
+    author: "van der Pol, J., Admiraal, W., & Simons, P.R.J."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Anchored discussion supports greater communicative efficiency but not higher mutual understanding
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Forum discussion used more comprehensive referrals and clarifying statements, while anchored discussion used more brief demonstrative referrals. [→ van der Pol 2006](#van-der-pol-2006)
@@ -31,7 +42,7 @@ sources:
 
 van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Referral and clarification coding of the 36 discussion protocols (Table 4: comprehensive referring 15% vs 2%; demonstrative referring 5% vs 19%; clarifying 35% vs 20%). Brief demonstrative referrals were interpreted as evidence of a shared frame of reference.
 
@@ -41,7 +52,7 @@ Referral and clarification coding of the 36 discussion protocols (Table 4: compr
 
 van der Pol, J., Admiraal, W., & Simons, P.R.J. (2006). The affordance of anchored discussion for the collaborative processing of academic texts. International Journal of Computer-Supported Collaborative Learning, 1(3), 339–357. https://doi.org/10.1007/s11412-006-9657-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Questionnaire items on perceived mutual understanding (111 completed questionnaires) showed no significant condition difference. The authors state the efficiency gain seems to decrease the effort needed to reach the same level of understanding, not raise it.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-009-9069-5"
     title: "Jan van Aalst. (2009). Distinguishing knowledge-sharing, knowledge-construction, and knowledge-creation discourses. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9069-5"
     author: Jan van Aalst
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students showed low competence with Knowledge Forum features designed to support linking ideas, which may explain the lower-than-expected linking index
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 206 linkages, only 8 used Knowledge Forum referencing features; most links were to Web pages, suggesting low competence with the idea-linking features. [→ Jan van Aalst 2009](#jan-van-aalst-2009)
@@ -26,7 +33,7 @@ sources:
 
 Jan van Aalst. (2009). Distinguishing knowledge-sharing, knowledge-construction, and knowledge-creation discourses. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9069-5
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Frequency analysis of the Linking code over all groups: 206 linkages, of which 106 were to Web pages, 66 verbal links to earlier notes, and only 8 uses of Knowledge Forum features such as referencing one note from another.
 

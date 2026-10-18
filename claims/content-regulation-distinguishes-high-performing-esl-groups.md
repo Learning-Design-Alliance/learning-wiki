@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-018-9274-1"
     title: "Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé. (2018). Multiple forms of regulation and coordination across levels in educational settings. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-018-9274-1"
     author: Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
   - id: sten-ludvigsen-2018-2
     resource: "https://doi.org/10.1007/s11412-018-9274-1"
     title: "Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé. (2018). Multiple forms of regulation and coordination across levels in educational settings. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-018-9274-1"
     author: Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In wiki-supported ESL literature circles, the high-performing group engaged in content regulation through cognitive activities while the low-performing group used only self-regulation of content.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Students were able to engage in social regulation but struggled with content regulation in wiki-supported second-language learning groups. [→ Sten Ludvigsen 2018](#sten-ludvigsen-2018)
@@ -31,7 +42,7 @@ sources:
 
 Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé. (2018). Multiple forms of regulation and coordination across levels in educational settings. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-018-9274-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 A 16-week study of 60 Chinese college students studying English as a Second Language in wiki-supported literature circles, analyzed with sequential analysis of chat-log data using coding schemes for social intentionality, regulation processes, and emotions. "The high-performing group was able to participate in content regulation through cognitive activities."
 
@@ -41,7 +52,7 @@ A 16-week study of 60 Chinese college students studying English as a Second Lang
 
 Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé. (2018). Multiple forms of regulation and coordination across levels in educational settings. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-018-9274-1
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Sequential analysis of chat-log data from the same 16-week ESL wiki study contrasted regulation patterns between performance groups. "The low-performing group used only self-regulation when working with the content" while the high-performing group showed bidirectional regulation patterns.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-006-8997-6"
     title: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6"
     author: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst"
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The portfolio-principles class had significantly higher mean scores on total questions and high-level questions than both the Knowledge Forum and Knowledge Forum portfolio classes. [→ Eddy Y.C. Lee 2006](#eddy-yc-lee-2006)
@@ -26,7 +33,7 @@ sources:
 
 Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 All database questions were coded on a 4-point depth-of-inquiry scale (inter-rater reliability .78) and compared across the three Knowledge Forum classes via MANCOVA controlling for achievement. η² = .20 for total questions and η² = .23 for high-level questions; paired comparisons favored the portfolio-principles class over both other classes.
 

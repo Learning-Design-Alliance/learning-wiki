@@ -12,14 +12,25 @@ sources:
   - id: ludvigsen-2017
     resource: "https://doi.org/10.1007/s11412-017-9257-7"
     title: "Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G. (2017). Frameworks for mass collaboration, adaptable scripts, complex systems theory, and collaborative writing. Intern. J. Comput.-Support. Collab. Learn, 12, 127–131. https://doi.org/10.1007/s11412-017-9257-7"
-    author: "Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G"
+    author: "Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: ludvigsen-2017-2
     resource: "https://doi.org/10.1007/s11412-017-9257-7"
     title: "Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G. (2017). Frameworks for mass collaboration, adaptable scripts, complex systems theory, and collaborative writing. Intern. J. Comput.-Support. Collab. Learn, 12, 127–131. https://doi.org/10.1007/s11412-017-9257-7"
-    author: "Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G"
+    author: "Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In a synchronous online environment, self-organization can be seen as a continuum, and there is strong interdependence between processes and content
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Vogler et al. argue that self-organization can be seen as a continuum in emerging participation in a synchronous online environment. [→ Ludvigsen 2017](#ludvigsen-2017)
@@ -31,7 +42,7 @@ sources:
 
 Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G. (2017). Frameworks for mass collaboration, adaptable scripts, complex systems theory, and collaborative writing. Intern. J. Comput.-Support. Collab. Learn, 12, 127–131. https://doi.org/10.1007/s11412-017-9257-7
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 The editorial reports the Vogler et al. study's use of self-organization to explain emerging participation; it also notes "V ogler et al. argue in this paper that self-organization can be seen as a continuum". This is the editorial's summary, attributed to the included study.
 
@@ -41,7 +52,7 @@ The editorial reports the Vogler et al. study's use of self-organization to expl
 
 Ludvigsen, S., Law, N., Rosé, C. P., & Stahl, G. (2017). Frameworks for mass collaboration, adaptable scripts, complex systems theory, and collaborative writing. Intern. J. Comput.-Support. Collab. Learn, 12, 127–131. https://doi.org/10.1007/s11412-017-9257-7
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial names this as one of the findings of the Vogler et al. study, which used Camtasia software and four video cameras to capture graduate students' activities, analyzing their regular-course chat and written-pane collaboration on four articles.
 

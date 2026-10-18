@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-006-8997-6"
     title: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6"
     author: "Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst"
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Students using portfolios with knowledge-building principles showed higher conceptual understanding on a writing task than the other classes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` ANCOVA controlling for academic achievement favored the Knowledge Forum with portfolios and principles class over the other classes on the conceptual understanding writing task. [→ Eddy Y.C. Lee 2006](#eddy-yc-lee-2006)
@@ -26,7 +33,7 @@ sources:
 
 Eddy Y.C. Lee, Carol K.K. Chan, & Jan van Aalst. (2006). Students assessing their own collaborative knowledge building. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-006-8997-6
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 All four classes, including a non-Knowledge Forum comparison class submitting paper-and-pencil portfolios, wrote a 300-word essay on who should look after the World, scored with school writing rubrics (inter-rater reliability .88). η² = .19, a large effect by the η² threshold; means were 5.5, 5.2, 5.2, and 7.0 respectively.
 

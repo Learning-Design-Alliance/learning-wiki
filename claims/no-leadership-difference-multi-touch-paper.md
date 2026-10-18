@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
     title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
     author: E. M. Mercier, S. E. Higgins, Laura da Costa
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Emergent leadership did not differ between multi-touch table and paper conditions in study one
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The number and types of leadership moves were almost identical across multi-touch and paper conditions, indicating the technology did not obviously influence leadership behaviors. [→ E. M. Mercier 2014](#e-m-mercier-2014)
@@ -26,7 +33,7 @@ sources:
 
 E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Comparison of leadership moves by task (math or history) and condition (multi-touch or paper) in study one, with descriptive statistics presented in Table 3. The article reports the number of moves "was almost identical across conditions."
 

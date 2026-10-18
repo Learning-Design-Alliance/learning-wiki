@@ -12,13 +12,20 @@ sources:
   - id: pifarré-2011
     resource: "https://www.springer.com/journal/11412"
     title: "Pifarré, M. & Kleine Staarman, J. (2011). Wiki-supported collaborative learning in primary education: How a dialogic space is created for thinking together. International Journal of Computer Supported Collaborative Learning, 6(2), 187-205. https://www.springer.com/journal/11412"
-    author: "Pifarré, M. & Kleine Staarman, J"
+    author: "Pifarré, M. & Kleine Staarman, J."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
+
 ## Subclaims
-`q2 i?` Concordance analysis of both groups' negotiation spaces showed keywords associated with collaboration and reasoning were evenly distributed throughout the negotiation process, taken as an indicator of collaboration. [→ Pifarré 2011](#pifarré-2011)
+`q2 i?` Concordance analysis of both groups' negotiation spaces showed keywords associated with collaboration and reasoning were evenly distributed throughout the negotiation process, taken as an indicator of collaboration. [→ Pifarré 2011](#pifarre-2011)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Pifarré, M. & Kleine Staarman, J. (2011). Wiki-supported collaborative learning in primary education: How a dialogic space is created for thinking together. International Journal of Computer Supported Collaborative Learning, 6(2), 187-205. https://www.springer.com/journal/11412
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Computer-based concordance analysis (Wordsmith Tools) of the negotiation spaces of two groups of six students, counting collaboration and reasoning words in Catalan. The authors report the keywords were "evenly distributed throughout the negotiation process" (G1: 802 words; G2: 994 words).
 

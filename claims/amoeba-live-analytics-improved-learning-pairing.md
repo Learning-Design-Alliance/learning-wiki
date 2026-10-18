@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-015-9222-2"
     title: "Gerry Stahl. (2015). A decade of CSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-015-9222-2"
     author: Gerry Stahl
+    q: 1
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # The AMOEBA system's automated collaboration-pairing recommendations led to improved learning and more sophisticated programming by students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Automated recommendations from the AMOEBA system about which students might most effectively collaborate led to improved learning and more sophisticated programming. [→ Gerry Stahl 2015](#gerry-stahl-2015)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2015). A decade of CSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-015-9222-2
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 Editorial summary of Berland, Davis and Petrick Smith's article: AMOEBA analyzes students' software programming work and displays representations of discourse-feature behavior to the teacher in real time to inform matching students into collaborating pairs. The editorial reports the study's conclusion of improved learning; no statistics are printed here.
 

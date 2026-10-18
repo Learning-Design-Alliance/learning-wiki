@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-017-9253-y"
     title: "Nancy Law, Sten Ludvigsen, Ulrike Cress, Carolyn P. Rose. (2017). Fostering targeted group practices as a Core focus for CSCL task and technology design. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-017-9253-y"
     author: Nancy Law, Sten Ludvigsen, Ulrike Cress, Carolyn P. Rose
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Fine-grained analysis of two children's collaboration on touchscreens showed only a small part of coordination, communication and collaboration via movements, touches and gestures occurred on the touchscreen; much happened in the open space between screen and children. [→ Nancy Law 2017](#nancy-law-2017)
@@ -26,7 +33,7 @@ sources:
 
 Nancy Law, Sten Ludvigsen, Ulrike Cress, Carolyn P. Rose. (2017). Fostering targeted group practices as a Core focus for CSCL task and technology design. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-017-9253-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 The editorial summarizes Davidsen and Ryberg's fine-grained analysis of two nine-year-old children using bodily-material resources (with language) while working on touchscreens to make sense of the concept of scale, including 66 s of analyzed video showing productive collaboration.
 

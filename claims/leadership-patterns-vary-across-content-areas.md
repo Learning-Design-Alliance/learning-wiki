@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
     title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
     author: E. M. Mercier, S. E. Higgins, Laura da Costa
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants showed different amounts of leadership in different disciplines; for example, one child made no leadership moves during the history task but nine effective moves during the mathematics task. [→ E. M. Mercier 2014](#e-m-mercier-2014)
@@ -26,7 +33,7 @@ sources:
 
 E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Breakdown of accepted leadership moves by content area in study one. The article reports participants "showing different amounts of leadership in the differen t disciplines," citing a child with no history moves but nine in mathematics.
 
