@@ -64,6 +64,7 @@ Working memory is severely limited, and attention allocated to irrelevant input 
 - [Segmenting](../strategies/segmenting.md) — pacing control prevents overload from continuous streams
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the physical-environment arm of the same goal
 - [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](focused-more-is-more-generative-processing.md)
+- [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
 
 ## Examples
 - **Multimedia course design:** applying the coherence principle by replacing decorative stock photos in an online biology module with diagrams tied to the explained process (Clark & Mayer, 2016).

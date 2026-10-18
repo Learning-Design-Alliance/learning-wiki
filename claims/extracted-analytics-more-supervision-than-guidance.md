@@ -46,3 +46,4 @@ Thematic synthesis of five studies (Table 2) observing teacher actions in classr
 ## Related Claims
 - [CA tool-based assessment and visualization of learning outcomes enables targeted feedback and evidence-based adjustment of pedagogical practices in higher education](ca-visualization-supports-targeted-feedback-and-pedagogical-adjustment.md) — related
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
+- [TAIA reoriented the teacher's action distribution toward inquiry-practice support while the comparison condition emphasized content delivery and assessment](taia-teacher-action-distribution-shift.md) — related

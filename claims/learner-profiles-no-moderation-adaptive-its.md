@@ -56,3 +56,4 @@ Exploratory latent profile analysis (BIC-supported five-profile solution) follow
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Latent career adapt-abilities profiles differ strongly in core self-evaluations, with a stepwise increase across low, moderate, and high groups](profiles-differ-core-self-evaluation-stepwise.md) — related
 - [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](task-difficulty-adaptation-no-learning-benefit-second-grade.md) — related
+- [Latent profile analysis identifies three learner profiles differing in cognitive factors, self-concept, and extraneous load, with significant performance differences](three-inquiry-learner-profiles-lpa.md) — related

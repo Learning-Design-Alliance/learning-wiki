@@ -59,8 +59,10 @@ Predictable structure reduces extraneous cognitive load: when learners do not ha
 5. Fade the scaffolding: progressively hand structural responsibility to learners (they set agendas, choose formats) as they internalize the organization [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - Activating prior knowledge — predictable openings create a reliable slot for retrieval practice at session start
 - Formative check-ins — routine low-stakes checks work best when their format is stable and expected
+- [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
 
 ## Examples
 - **Khan Academy** — every exercise uses the same interface, hint ladder, and mastery progression, so learners spend effort on mathematics rather than mechanics (https://www.khanacademy.org)

@@ -56,9 +56,11 @@ POE works because committing to a prediction activates prior knowledge — inclu
 4. Close with instructor consolidation that names the target concept and explicitly addresses the misconception the discrepancy was designed to expose.
 
 ## Related Strategies
+
 - **Peer Instruction** — the clicker-based discussion variant of POE developed by Crouch and Mazur; adds peer debate between prediction and reveal
 - **Predict-Observe-Explain labs** — the same structure applied to full laboratory investigations rather than single demonstrations
 - **Activating Prior Knowledge** ([Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)) — POE's prediction phase is a forced, commitment-based form of activation
+- [Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics](pdeode-six-step-teaching-strategy.md)
 
 ## Examples
 - **Peer Instruction at Harvard** ([Crouch & Mazur, 2001](https://doi.org/10.1119/1.2345553)) — ConcepTests in introductory physics follow the POE cycle: individual clicker vote, peer discussion, re-vote, instructor explanation.

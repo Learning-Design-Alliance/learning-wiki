@@ -182,6 +182,10 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](../claims/self-regulation-striatal-motor-coupling-reactive.md) [+W] — learners who differ on it differ in outcomes
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — learners who differ on it differ in outcomes
 - [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](../claims/learner-agency-adaptive-guidance-only-advanced-regulators.md) [~M] — an instructional effect differs with it
+- [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [-W] — learners who differ on it differ in outcomes
+- [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](../claims/short-term-journal-prompts-increase-cognitive-strategy-use.md) [+M] — instruction changes it
+- [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](../claims/short-term-journal-prompts-increase-metacognitive-strategy-use.md) [+M] — instruction changes it
+- [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

@@ -65,6 +65,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](../claims/its-reduces-executive-state-ma-improves-algebra.md) [+M] — instruction changes it
 - [Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back](../claims/discontinuity-during-folding-back-still-effective.md) [-W] — learners who differ on it differ in outcomes
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](../claims/short-practice-improves-equation-rearrangement.md) [+M] — instruction changes it
+- [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](../claims/cognitive-skill-intercorrelations-conditional.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

@@ -56,6 +56,7 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](../claims/vocabulary-mediation-working-memory-inference.md) [+M] — instruction changes it
 - [Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years](../claims/vocabulary-only-unique-predictor-global-coherence-all-ages.md) [+M] — instruction changes it
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~M] — instruction changes it
+- [Double-content examples had no significant effect on generating alternatives of action, drawing inferences, or taking multiple perspectives](../claims/double-content-examples-no-effect-other-measures.md) [-M] — instruction changes it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

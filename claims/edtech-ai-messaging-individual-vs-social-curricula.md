@@ -51,3 +51,4 @@ The presentation contrasts EdTech AI messaging, which it says "over-emphasizes i
 - [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related
 - [AI in VET is predominantly implemented through behaviorist or cognitively oriented instructional designs emphasizing drill-and-practice and adaptive feedback, while approaches fostering learner agency and critical reflection remain underrepresented](ai-vet-behaviorist-designs-learner-agency-underrepresented.md) — related
 - AI knowledge and education are increasingly emphasized in Federal STEM education programs and are a component of the Computer Science for All initiative — related
+- [United States next generation science standards emphasize learning about complex systems as a core feature of science learning](ngss-emphasize-complex-systems-learning.md) — related

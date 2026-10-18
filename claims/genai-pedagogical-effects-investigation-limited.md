@@ -49,3 +49,4 @@ The review's analysis of challenge-theme distribution by agent type (RQ2), obser
 - [Systematic review finds operational teaming most common (62.5%) and no empirical evidence of synergistic teacher-AI teaming](review-operational-teaming-most-common-no-synergistic.md) — related
 - [Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research](capabilities-skills-addressed-in-only-3-of-36-genai-studies.md) — related
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
+- [Research on supports teachers need to teach about complex systems has been sparse despite 15 years of tools-and-theories work](little-research-on-teacher-supports-for-complex-systems.md) — a narrower finding that bears on this claim

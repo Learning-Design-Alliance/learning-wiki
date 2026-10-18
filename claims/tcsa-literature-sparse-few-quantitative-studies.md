@@ -44,3 +44,4 @@ The review's article-selection analysis found that although many TCSA papers app
 
 ## Related Claims
 - The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures — related
+- [Research on supports teachers need to teach about complex systems has been sparse despite 15 years of tools-and-theories work](little-research-on-teacher-supports-for-complex-systems.md) — related

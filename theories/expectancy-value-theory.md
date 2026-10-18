@@ -62,6 +62,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](../claims/ai-availability-questions-programming-skill-utility.md) [+M]
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](../claims/usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) [~W]
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](../claims/value-components-differential-prediction-outcomes.md) [+W] — attached 2026-10-17 from Guo et al. (2016), which proposed "Modern expectancy-value theory: multidimensional task value with four components"; tests this page's relationship.
+- [Linguistically varying an instructional video into easy, moderate, and difficult versions does not significantly affect students’ expectancies of success or intrinsic task value compared with the moderate version](../claims/linguistic-condition-no-effect-expectancy-value-beliefs.md) [~W] — attached 2026-10-18 from Lina Wirth et al. (2026), which proposed "Situated Expectancy-Value Theory (SEVT) as a framework for treating linguistic demands as task difficulty shaping motivational beliefs"; tests this page's relationship.
 
 ## Related Theories
 

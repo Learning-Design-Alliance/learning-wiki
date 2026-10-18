@@ -49,3 +49,4 @@ Theoretical argument in the article's review of MLE theory: direct exposure base
 - Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration — related
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
 - [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — a narrower finding that bears on this claim
+- [The authors argue meaningful learning is possible outside environments labeled constructivist, including lectures](meaningful-learning-possible-outside-constructivist-environments.md) — related

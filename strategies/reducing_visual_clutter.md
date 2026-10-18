@@ -59,9 +59,11 @@ Visual clutter competes for limited attentional resources: young learners in hig
 5. **Observe and adjust**: monitor on-task behavior and learner feedback; reintroduce warmth (color, student work, plants) if the environment feels sterile, keeping functional content primary.
 
 ## Related Strategies
+
 - [Clear Structure & Presentation](../principles/clear-structure.md) — the same decluttering logic applied to the structure of content rather than the environment
 - [Cognitive Load Reduction](../principles/cognitive-load-management.md) — the broader family of techniques for cutting extraneous processing
 - [Chunking](../principles/chunking.md) — organizing remaining visual content into meaningful groups so it loads efficiently
+- [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
 
 ## Examples
 - **Fisher, Godwin & Seltman (2014)** — Laboratory classrooms decorated heavily vs. sparsely: children in the heavily decorated condition spent significantly more time off-task and performed worse on lessons; the sparse condition is the canonical demonstration of the effect ([study](https://doi.org/10.1177/0956797614533801)).

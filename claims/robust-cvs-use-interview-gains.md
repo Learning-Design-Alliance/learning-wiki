@@ -65,3 +65,4 @@ Consistency analysis of the same interview measure: 0 of 21 preinstruction stude
 - [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](explicit-cvs-knowledge-equal-conditions.md) — related
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](good-experimenter-classification-equal-conditions.md) — related
+- [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related

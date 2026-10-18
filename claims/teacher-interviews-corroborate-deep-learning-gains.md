@@ -50,3 +50,4 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - Qualitative educator interviews corroborate and explain the quantitative path findings — a broader claim this one bears on
+- [Interviewed students at below-average, average, and above-average levels showed improved understanding of condensation after the intervention](pdeode-interviews-improved-understanding-three-levels.md) — related

@@ -86,3 +86,4 @@ The review reports a set of studies (e.g., Siegler & Chen 2008 on water displace
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
 - [Students who collected more peers' ideas wrote poorer explanations, while generating own redundant ideas related to better explanations](idea-collection-direction-matuk-linn.md) — related
+- [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — related

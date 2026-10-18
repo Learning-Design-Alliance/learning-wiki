@@ -52,3 +52,4 @@ Analysis of 938 metacognitive episodes coded for the four types of intra-group s
 - [The 'Y-read?' collaboration script elicited mainly low-level metacognitive regulation during pre- and post-task discussions, with deep-level activities rare](collab-script-elicited-mostly-low-level-metacognitive-regulation.md) — related
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
 - [A collaborative script embedding solitary reading between planning and review episodes shaped a group's regulative activity, but only low-level regulation](script-planning-review-shaped-low-level-regulation.md) — related
+- [IMR occurred mainly in less successful outcome groups and was absent or rare in more successful outcome groups](imr-mainly-less-successful-groups.md) — related

@@ -91,6 +91,11 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](../claims/sequential-patterns-curiosity-confusion-joy.md) [+M] — instruction changes it
 - [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](../claims/low-achievers-joy-predominance-knowledge-building.md) [+M] — instruction changes it
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](../claims/emotion-transition-similar-emotions-lsa.md) [+M] — instruction changes it
+- [Attending a game session rather than a lecture increased all epistemic emotions except boredom among university students in a Diplomacy-based international relations course.](../claims/game-sessions-increase-epistemic-emotions-except-boredom.md) [~M] — instruction changes it
+- [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](../claims/time-trends-epistemic-emotions-decline-course.md) [~M] — instruction changes it
+- [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](../claims/perceived-support-correlates-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [The session-type-by-time interaction showed anxiety increasing in game sessions while decreasing in lectures, and confusion declining more steeply in game sessions.](../claims/session-type-time-interaction-anxiety-confusion.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

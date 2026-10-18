@@ -114,6 +114,7 @@ Claims this page cited before it was rewritten as a conditional model, and two n
 - [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](../claims/pigelleto-applications-doubled-positions.md) [+W]
 - [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](../claims/fci-gain-increased-peer-instruction-harvard.md) [+W] — attached 2026-10-15 from Crouch et al. (2003), which proposed "Align every course element with active engagement, since gains are greatest when the questioning strategy is accompanied by other engagement strategies"; tests this page's relationship.
 - [Video benefits learning only when its interactivity matches or exceeds the comparison condition](../claims/video-benefit-depends-on-relative-interactivity.md) [~W] — attached 2026-10-15 from Noetel et al. (2021), which proposed "Maintain or increase interactivity when moving teaching content to video".
+- [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](../claims/self-explanation-prompts-no-learning-benefit-controlled-time.md) [~W] — attached 2026-10-18 from Beege et al. (2025), which proposed "Do not assume interactive video features are generally beneficial: check learner use, response quality, and time-on-task boundaries"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

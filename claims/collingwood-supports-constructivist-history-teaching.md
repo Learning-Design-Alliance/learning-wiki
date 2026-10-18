@@ -45,3 +45,5 @@ The author's interpretive argument (type e): because historical knowledge is its
 ## Related Claims
 - Collingwood argues historical knowledge differs from natural-science knowledge because historical events have both an observable 'outside' and an unobservable 'inside' of thought — related
 - Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence — related
+- [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](ibl-immersion-improves-understanding-historical-inquiry.md) — related
+- [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related

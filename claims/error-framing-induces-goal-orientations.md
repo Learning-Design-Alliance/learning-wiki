@@ -43,4 +43,4 @@ Theoretical argument in the Training Frame section: errors serve as salient feed
 
 
 ## Related Claims
--
+- [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related

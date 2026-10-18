@@ -150,6 +150,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](../claims/tier2-dosage-scheduling-mixed-findings.md) [~M] — learners who differ on it differ in outcomes
 - [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](../claims/claim-3d-modeling-task-halted-engineering-practices.md) [+W] — instruction changes it
 - [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](../claims/claim-teacher-visit-pattern-brief-with-phase-exceptions.md) [~W] — instruction changes it
+- [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](../claims/long-term-prompting-no-added-benefit-declines-regardless.md) [-M] — an instructional effect differs with it
+- [Guided LiquidText users redistribute task time toward document processing and away from writing](../claims/guidance-time-reallocation-multiple-document-task.md) [+M] — instruction changes it
 
 ## The evidence by question
 

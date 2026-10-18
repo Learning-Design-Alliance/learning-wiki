@@ -55,3 +55,4 @@ Randomized controlled experiment with a final sample of 95 undergraduates (33 sl
 - [Training on AI interaction strategies does not further improve AI-assisted learning design quality](ai-interaction-training-no-added-design-quality-gain.md) — related
 - [ARPG+ produces higher final prompt quality than unguided, template, and rule-based conditions among simulated learners](arpg-plus-higher-prompt-quality-than-baselines.md) — related
 - [Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages](prompting-improves-inference-performance.md) — related
+- [Guided use of a multiple document reading application yields higher multiple document comprehension than access-only, unguided, or traditional pdf viewer use](liquidtext-guidance-comprehension-advantage.md) — a narrower finding that bears on this claim

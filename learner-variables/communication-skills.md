@@ -98,6 +98,9 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](../claims/super-talk-multifaceted-understanding-cross-community.md) [+M] — instruction changes it
 - [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](../claims/fifth-graders-high-quality-super-notes-cross-classroom.md) [+M] — instruction changes it
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](../claims/young-children-collaborative-gestures-mr-science.md) [+M] — instruction changes it
+- [In the case discourse, failure to integrate individuals' ideas with sound verification was linked to low-level inquiry outcomes, while successful high-level grounding enabled groups to integrate ideas and negotiate shared knowledge](../claims/idea-integration-linked-to-grounding-quality-in-case-discourse.md) [+W] — learners who differ on it differ in outcomes
+- [In the PISG case study, occurrences of high-level grounding and high-level testing co-occurred with more occurrences of high-level inquiry processes](../claims/pisg-case-high-level-grounding-testing-linked-high-inquiry.md) [+M] — learners who differ on it differ in outcomes
+- [Self-explanations from faded double-content examples did not predict change in professional vision, with two isolated exceptions](../claims/self-explanations-no-predictive-effect-pvcm.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

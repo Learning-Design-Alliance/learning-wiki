@@ -107,6 +107,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Perceived neighborhood safety is positively associated with school attachment among 15-year-olds after controlling for individual, family, school, and external neighborhood factors](../claims/perceived-neighborhood-safety-school-attachment-association.md) [+W] — learners who differ on it differ in outcomes
 - [Perceived neighborhood safety is protective for school attachment among low-income youth in high-disorder neighborhoods, and mediates the affluence-school attachment link only among non-low-income youth](../claims/safety-attachment-moderation-and-mediation-by-income.md) [~W] — learners who differ on it differ in outcomes
 - [The association between perceived neighborhood safety and GPA is moderated by observer-rated neighborhood disorder and by neighborhood affluence](../claims/safety-gpa-moderated-by-disorder-and-affluence.md) [~W] — learners who differ on it differ in outcomes
+- [High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms](../claims/vad-stress-psychological-safety-threat.md) [+M] — instruction changes it
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

@@ -66,3 +66,4 @@ Same classroom study, consistency analysis: consistent CVS use (correct on at le
 - [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](robust-cvs-use-interview-gains.md) — a narrower finding that bears on this claim
 - [Domain knowledge about the ramps variables increased although instruction targeted only the domain-general CVS strategy](domain-knowledge-gain-without-direct-instruction.md) — related
 - [Students' experiment-evaluation strategies shifted toward correct CVS after instruction, though 23% still used incorrect strategies](evaluation-strategies-shift-to-cvs.md) — related
+- [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related

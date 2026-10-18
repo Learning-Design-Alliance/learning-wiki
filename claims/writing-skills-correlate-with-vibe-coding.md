@@ -64,3 +64,4 @@ Partial correlations controlling for cognitive ability (Table 3b) in the same st
 ## Related Claims
 - [Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills](cognitive-skills-correlate-with-vibe-coding-and-predictors.md) — related
 - [CS achievement significantly predicts vibe-coding performance and remains a significant predictor after controlling for domain-general cognitive ability](cs-achievement-predicts-vibe-coding-performance.md) — related
+- [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](cognitive-skill-intercorrelations-conditional.md) — related

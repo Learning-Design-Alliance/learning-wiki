@@ -62,4 +62,4 @@ Group-level coding analysis of group 3's discussion: "40%" of actions during the
 
 
 ## Related Claims
--
+- [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](qualitative-cases-interaction-quality-variation.md) — related

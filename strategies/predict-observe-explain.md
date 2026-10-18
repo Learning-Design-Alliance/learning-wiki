@@ -76,11 +76,13 @@ POE works because committing to a prediction activates prior knowledge and expos
 4. **Consolidate**: Name the target conception explicitly, connect it to the discrepant event, and follow with application ([Application of Knowledge](../elements/application-of-knowledge.md)) or a second POE on a related phenomenon.
 
 ## Related Strategies
+
 - [Peer Instruction](peer-instruction.md) — shares the commit-then-discuss-then-resolve structure, applied to conceptual questions rather than physical events
 - [Case-Based Learning](case-based-learning.md) — similarly anchors learning in a concrete, discrepant scenario
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the discussion structure most often layered onto the predict and explain phases
 - [Comparing Cases](comparing-contrasting-cases.md) — alternative route to discriminating conceptions through structured contrast [Comparing and contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - [Concept Probing](concept-probing.md) — diagnostic questioning without the observation component
+- [Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics](pdeode-six-step-teaching-strategy.md)
 
 ## Examples
 - **Physics lecture (Mazur's Peer Instruction lineage)**: Students predict whether a heavy and a light ball dropped together land simultaneously, vote with clickers, discuss, then observe the drop — the same predict-commit-discuss cycle Crouch and Mazur documented at Harvard.

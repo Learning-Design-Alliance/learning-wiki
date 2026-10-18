@@ -45,3 +45,4 @@ Survey validation comparing topic-level assistant question volume against self-r
 ## Related Claims
 - [Per-topic rank agreement between assistant volume and survey difficulty is strong for 14 of 28 topics, with 5 outliers splitting into late-semester meta-level and concept-introduction topics](per-topic-rank-agreement-and-outliers.md) — a narrower finding that bears on this claim
 - [Students' self-assessed question specificity was not significantly correlated with their observed specificity](students-miscalibrate-question-specificity.md) — related
+- [Teachers' reflective prompt levels correlate significantly with the reflective level of their students' responses](prompt-level-correlates-student-reflection-responses.md) — related

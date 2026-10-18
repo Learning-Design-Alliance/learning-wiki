@@ -43,4 +43,4 @@ Narrative review of trace-methodology work following Winne's idea of trace as da
 
 
 ## Related Claims
--
+- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — a narrower finding that bears on this claim

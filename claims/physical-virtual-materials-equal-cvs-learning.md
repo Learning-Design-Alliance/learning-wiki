@@ -67,3 +67,4 @@ In the transfer phase one week after training, all children worked with physical
 - [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](good-experimenter-classification-equal-conditions.md) — related
 - [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](robust-cvs-use-interview-gains.md) — related
+- [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
