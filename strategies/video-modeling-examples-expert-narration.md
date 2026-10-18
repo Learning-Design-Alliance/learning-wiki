@@ -34,7 +34,7 @@ The program created video modeling examples by recording expert teachers demonst
 - understanding expert reasoning and decision-making in differentiated instruction
 
 ## Related Strategies
-- [Pd Program Differentiation Blueprint](pd-program-differentiation-blueprint.md)
+- Pd Program Differentiation Blueprint
 
 ## Examples
 -
