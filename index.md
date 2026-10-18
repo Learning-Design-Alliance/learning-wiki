@@ -53,7 +53,7 @@ Designs for a particular setting, course, population or product: what a design u
 ### [Products & Programmes](products/index.md) (1740)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-### [Strategies](strategies/index.md) (6054)
+### [Strategies](strategies/index.md) (6072)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)
@@ -71,7 +71,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (74)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (19645)
+### [Claims](claims/index.md) (19797)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---
