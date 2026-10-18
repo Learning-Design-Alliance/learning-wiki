@@ -63,6 +63,7 @@ Diagnosing errors forces learners to articulate *why* a step is wrong, which eng
 - [Self-Explanation](../elements/self-explanation.md) — the explanation prompt that makes error diagnosis effective
 - [Faded Worked Examples](faded-worked-examples.md) — completion-format erroneous examples blend the two approaches
 - [Error-injection exercises: diagnosing subtly wrong simulations as graded practice](error-injection-diagnosis-exercises.md)
+- [After instruction, have students practice designing deliberately invalid experiments, explain and correct their own errors, and optionally exchange designs with peers for spot-explain-fix discussion](practice-designing-deliberately-invalid-experiments-strategy.md)
 
 ## Examples
 - **Incorrect examples in algebra instruction** (Renkl and colleagues' research program): students study a worked probability or algebra problem containing a typical error (e.g., adding fractions by adding numerators and denominators), explain what is wrong, then solve a near-transfer problem.

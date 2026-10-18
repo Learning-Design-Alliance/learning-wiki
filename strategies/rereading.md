@@ -66,6 +66,7 @@ Rereading works because repetition drives words toward automatic recognition, wh
 - [Retrieval Practice](../principles/active-learning.md) — testing oneself on a text outperforms rereading it for durable learning
 - [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 - [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
+- [Prefer distributing study across days with varied but congruent texts, and treat repeated rereading of one text with caution because it inflates confidence without durable gains](distribute-varied-congruent-text-reading.md)
 
 ## Examples
 - **Repeated Readings intervention (Samuels, 1979)** — a student reads a 50–200 word passage four times, aiming for a fluency criterion on each pass; the basis of most fluency interventions.

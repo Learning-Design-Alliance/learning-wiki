@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (16 for, 8 mixed) · 17 studies (12 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 3 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (17 for, 8 mixed) · 18 studies (13 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 4 of 18 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -107,6 +107,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](../claims/worked-example-preparation-higher-transfer-than-inventing.md) [+M] — attached 2026-10-18 from Inga Glogger-Frey et al. (2022), which proposed "Use worked-example preparation rather than open inventing to prepare learners for subsequent instruction in complex, ill-structured domains"; tests this page's relationship.
 - [Worked-example preparation deepens subsequent learning via more elaboration during the future-learning phase](../claims/worked-example-preparation-more-elaboration-future-learning.md) [+W] — attached 2026-10-18 from Inga Glogger-Frey et al. (2022), which proposed "Use worked-example preparation rather than open inventing to prepare learners for subsequent instruction in complex, ill-structured domains".
 - [Worked-example preparation leads to more application of canonical criteria during future learning, which mediates higher transfer](../claims/canonical-criteria-application-mediates-transfer-advantage.md) [+W] — attached 2026-10-18 from Inga Glogger-Frey et al. (2022), which proposed "Use worked-example preparation rather than open inventing to prepare learners for subsequent instruction in complex, ill-structured domains"; tests this page's relationship.
+- [Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors](../claims/correct-exemplars-improve-pst-fraction-explanations.md) [+M] — attached 2026-10-18 from Guba et al. (2026), which proposed "Give preservice teachers a fully correct and complete exemplar to compare against their own mathematical explanations"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

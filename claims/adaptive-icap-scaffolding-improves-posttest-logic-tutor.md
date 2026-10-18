@@ -65,3 +65,4 @@ Controlled between-subjects classroom study (N=113 undergraduates in a discrete 
 - Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students — related
 - [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](task-difficulty-adaptation-no-learning-benefit-second-grade.md) — reports the opposite
+- [Teacher-judged logical reasoning combined with prior knowledge to predict learning only under the control condition; scaffolding almost fully diminished the disadvantage of lower logical reasoning](scaffolds-diminish-logical-reasoning-disadvantage.md) — related

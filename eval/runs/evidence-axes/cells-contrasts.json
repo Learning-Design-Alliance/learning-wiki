@@ -34554,5 +34554,417 @@
  "technology-tool\tAI chatbots providing writing suggestions\tnot stated": {
   "label": "AI chatbot writing suggestions vs no stated comparison",
   "treatment_is_a": true
+ },
+ "active-learning\t18-minute self-study followed by 15-minute peer discussion\t18-minute video lecture followed by 15-minute peer discussion": {
+  "label": "self-study followed by discussion vs lecture followed by discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\t18-minute self-study followed by peer discussion\t18-minute video lecture followed by peer discussion": {
+  "label": "self-study followed by discussion vs lecture followed by discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-constructing visual-textual representations integrated in a timeline\tco-constructing textual representations": {
+  "label": "integrated visual-textual timeline co-construction vs textual co-construction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaboration with external experts during collaborative curriculum design\tnot stated": {
+  "label": "collaboration with external experts vs not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative construction condition (Text, Visual, or Timeline)\tpre-test before the collaborative tasks": {
+  "label": "collaborative construction vs pre-test before collaborative tasks",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative design with peers and experts\tnot stated": {
+  "label": "collaborative design with peers and experts vs not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tself-study followed by discussion\tlecture followed by discussion": {
+  "label": "self-study followed by discussion vs lecture followed by discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tself-study followed by peer discussion\tlecture followed by peer discussion": {
+  "label": "self-study followed by discussion vs lecture followed by discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tself-study followed by peer discussion\tvideo lecture followed by peer discussion": {
+  "label": "self-study followed by discussion vs video lecture followed by discussion",
+  "treatment_is_a": true
+ },
+ "case-comparison\tMLS worked example pairs\tbusiness-as-usual instruction with the same examples and language support": {
+  "label": "MLS-WEPs vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tMLS-WEPs with worked-example comparison\tbusiness-as-usual instruction with the same language support": {
+  "label": "MLS-WEPs vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tModified for Language Support-Worked Example Pairs\tbusiness-as-usual step-by-step instruction with the same language support": {
+  "label": "MLS-WEPs vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcorrect and complete exemplar of a fraction magnitude comparison\texample explanations displaying common misconceptions and errors": {
+  "label": "correct exemplars vs misconception-and-error examples",
+  "treatment_is_a": true
+ },
+ "case-comparison\tprior Unit 1 MLS-WEP exposure\tno prior MLS-WEP exposure": {
+  "label": "prior MLS-WEP exposure vs no prior MLS-WEP exposure",
+  "treatment_is_a": true
+ },
+ "debriefing\tdebrief conversation with colleagues\tbefore the debrief conversation": {
+  "label": "debriefing conversation vs pre-debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tdescription phase with conversational remembering\tanalysis and application phases with distributed metacognition": {
+  "label": "conversational remembering vs distributed metacognition",
+  "treatment_is_a": true
+ },
+ "debriefing\tdistributed metacognition built on a shared account\treflection without a jointly reconstructed account": {
+  "label": "distributed metacognition based on a shared account vs individual reflection",
+  "treatment_is_a": true
+ },
+ "debriefing\tfacilitator-guided conversational remembering\tindividual recollection or evaluation": {
+  "label": "facilitated conversational remembering vs individual recollection or evaluation",
+  "treatment_is_a": true
+ },
+ "debriefing\tfacilitator-structured debriefing that elicits an observer’s perspective and distributes metacognitive evaluation\tindividual performance evaluation": {
+  "label": "distributed metacognitive evaluation vs individual performance evaluation",
+  "treatment_is_a": true
+ },
+ "debriefing\tfacilitator-structured group reconstruction and consensus\tuncoordinated individual recollection": {
+  "label": "structured group reconstruction and consensus vs uncoordinated individual recollection",
+  "treatment_is_a": true
+ },
+ "feedback-type\tego-involving feedback\ttask-involving feedback": {
+  "label": "ego-involving feedback vs task-involving feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tDiagram + Arithmetic representation\tDiagram representation": {
+  "label": "Diagram + arithmetic representation vs diagram representation",
+  "treatment_is_a": true
+ },
+ "media-design\tText + Arithmetic representation\tDiagram + Arithmetic representation": {
+  "label": "Text + arithmetic representation vs diagram + arithmetic representation",
+  "treatment_is_a": true
+ },
+ "media-design\tText + Arithmetic representation\tDiagram representation": {
+  "label": "Text + arithmetic representation vs diagram representation",
+  "treatment_is_a": true
+ },
+ "media-design\tarrows from left to right\tarrows from top to bottom": {
+  "label": "Left-to-right arrows vs top-to-bottom arrows",
+  "treatment_is_a": true
+ },
+ "media-design\tarrows left-to-right\tarrows top-down": {
+  "label": "Left-to-right arrows vs top-to-bottom arrows",
+  "treatment_is_a": true
+ },
+ "media-design\tarrows oriented in a given reading direction\tarrows oriented in the alternative reading direction": {
+  "label": "Arrows oriented in the reading direction vs arrows oriented in the alternative reading direction",
+  "treatment_is_a": true
+ },
+ "media-design\tarrows oriented in a reading direction\treading direction without corresponding arrow orientation": {
+  "label": "Arrows oriented in the reading direction vs reading direction without corresponding arrow orientation",
+  "treatment_is_a": true
+ },
+ "media-design\tco-constructing visual-textual representations\tco-constructing textual representations": {
+  "label": "Co-constructed visual-textual representations vs co-constructed textual representations",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram organization aligned with personality-disorder types\tdiagram organization aligned with categories": {
+  "label": "Diagram organization aligned with personality-disorder types vs diagram organization aligned with categories",
+  "treatment_is_a": true
+ },
+ "media-design\teach representational format\tthe other four formats": {
+  "label": "Each representational format vs the other four representational formats",
+  "treatment_is_a": true
+ },
+ "media-design\tpersonality-disorder types as left headers\tpersonality-disorder types as top headers": {
+  "label": "Personality-disorder types as left headers vs personality-disorder types as top headers",
+  "treatment_is_a": true
+ },
+ "media-design\tpersonality-disorder types as the organizing headers\tcategories as the organizing headers": {
+  "label": "Personality-disorder types as organizing headers vs categories as organizing headers",
+  "treatment_is_a": true
+ },
+ "media-design\tquestions focused on personality-disorder types\tquestions focused on categories": {
+  "label": "Questions focused on personality-disorder types vs questions focused on categories",
+  "treatment_is_a": true
+ },
+ "media-design\treading in the direction of the personality-disorder-type headers\treading in the direction of the category headers": {
+  "label": "Reading in the direction of the personality-disorder-type headers vs reading in the direction of the category headers",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentational format conditions\tother representational format conditions": {
+  "label": "One representational format condition vs the other representational format conditions",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual-textual representations integrated in a timeline\tco-constructed textual representations": {
+  "label": "Visual-textual representations integrated in a timeline vs co-constructed textual representations",
+  "treatment_is_a": true
+ },
+ "other\t1998 policy implementation\t1997 policy implementation": {
+  "label": "1998 policy implementation vs 1997 policy implementation",
+  "treatment_is_a": true
+ },
+ "other\t1998 reading scores after adjustment for retained students\tunadjusted 1998 reading scores": {
+  "label": "adjusted vs unadjusted 1998 reading scores",
+  "treatment_is_a": true
+ },
+ "other\t1998 retained or Transition Center eighth graders with an extra January retest chance\t1997 retained or Transition Center eighth graders without the January retest chance": {
+  "label": "1998 extra January retest opportunity vs 1997 no January retest opportunity",
+  "treatment_is_a": true
+ },
+ "other\t1998 retained sixth graders with an extra January retest chance\t1997 retained sixth graders without the January retest chance": {
+  "label": "1998 extra January retest opportunity vs 1997 no January retest opportunity",
+  "treatment_is_a": true
+ },
+ "other\t1998 retained third graders with an extra January retest chance\t1997 retained third graders without the January retest chance": {
+  "label": "1998 extra January retest opportunity vs 1997 no January retest opportunity",
+  "treatment_is_a": true
+ },
+ "other\t1999 CPS accountability reporting conditions\t1992 CPS accountability reporting conditions": {
+  "label": "1999 CPS accountability reporting conditions vs 1992 CPS accountability reporting conditions",
+  "treatment_is_a": true
+ },
+ "other\t1999 CPS policy cohort\t1997 CPS policy cohort": {
+  "label": "1999 CPS policy cohort vs 1997 CPS policy cohort",
+  "treatment_is_a": true
+ },
+ "other\t1999 CPS promotional-policy cohort\t1997 CPS promotional-policy cohort": {
+  "label": "1999 CPS promotional-policy cohort vs 1997 CPS promotional-policy cohort",
+  "treatment_is_a": true
+ },
+ "other\t1999 L-to-M gain scores\t1997 L-to-M gain scores": {
+  "label": "1999 L-to-M gain scores vs 1997 L-to-M gain scores",
+  "treatment_is_a": true
+ },
+ "other\t1999 accountability inclusion rate\t1992 accountability inclusion rate": {
+  "label": "1999 accountability inclusion rate vs 1992 accountability inclusion rate",
+  "treatment_is_a": true
+ },
+ "praise\tperson praise\tno praise": {
+  "label": "person praise vs no praise",
+  "treatment_is_a": true
+ },
+ "praise\tperson praise under ego-involving feedback\tno praise under ego-involving feedback": {
+  "label": "person praise vs no praise",
+  "treatment_is_a": true
+ },
+ "praise\tperson praise under task-involving feedback\tno praise under task-involving feedback": {
+  "label": "person praise vs no praise",
+  "treatment_is_a": true
+ },
+ "problem-first\tThink Ask Understand role-script during problem solving\tdirect instruction": {
+  "label": "role-scripted problem solving vs direct instruction",
+  "treatment_is_a": true
+ },
+ "problem-first\tinstruction before problem solving\tproblem solving before instruction": {
+  "label": "problem solving first vs instruction first",
+  "treatment_is_a": false
+ },
+ "problem-first\tinvention-first instruction\texample-first instruction": {
+  "label": "invention first vs example first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before instruction (PS-I)\tinstruction before problem solving (I-PS)": {
+  "label": "problem solving first vs instruction first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before instruction (PS-I)\tproblem solving after instruction (I-PS)": {
+  "label": "problem solving first vs instruction first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure generation followed by instruction\tdirect instruction followed by practice": {
+  "label": "productive failure vs direct instruction followed by practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: group problem solving before instruction\tdirect instruction before practice": {
+  "label": "productive failure vs direct instruction followed by practice",
+  "treatment_is_a": true
+ },
+ "prompts\tactive processing prompts\tgeneral thought prompt": {
+  "label": "active-processing prompts vs general-thought prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tguided invention with metacognitive prompts\tunguided invention": {
+  "label": "guided invention with metacognitive prompts vs unguided invention",
+  "treatment_is_a": true
+ },
+ "prompts\tguided invention with metacognitive scaffolding prompts\tunguided invention": {
+  "label": "guided invention with metacognitive prompts vs unguided invention",
+  "treatment_is_a": true
+ },
+ "prompts\tmore promptings and information items\tfewer promptings and information items": {
+  "label": "more promptings and information items vs fewer promptings and information items",
+  "treatment_is_a": true
+ },
+ "prompts\tmore promptings than information items\tinformation items than promptings": {
+  "label": "more promptings than information items vs more information items than promptings",
+  "treatment_is_a": true
+ },
+ "prompts\tpro-active tutoring with human tutor accessible\tpro-active tutoring without human tutor access": {
+  "label": "proactive tutoring with human tutor access vs proactive tutoring without human tutor access",
+  "treatment_is_a": true
+ },
+ "prompts\tquestions about what students would do differently next time\treflection on what happened and why": {
+  "label": "questions about what to do differently next time vs reflection on what happened and why",
+  "treatment_is_a": true
+ },
+ "prompts\trevised explanation after instructional support\tfirst-draft explanation before instructional support": {
+  "label": "revised explanation after instructional support vs first-draft explanation before instructional support",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tclosed-book self-explanation prompts\topen-book self-explanation prompts": {
+  "label": "closed-book self-explanation prompts vs open-book self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfree recall\trereading": {
+  "label": "free recall vs rereading",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice quiz\trereading": {
+  "label": "practice quiz vs rereading",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttest question generation\trereading": {
+  "label": "test question generation vs rereading",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadditional structural and problematizing instructional scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit modeling and adaptive problematizing scaffolds\tinquiry activities without the additional scaffolds": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit modeling and adaptive problematizing scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit structural and problematizing scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit structuring and problematizing scaffolds\tinquiry activities without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit structuring and problematizing scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh contingent support with high independent working time\tlow contingent support with high independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh contingent support with long independent working time\tlow contingent support with long independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigher contingent support\tlower contingent support": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinquiry with teacher modeling and adaptive problematizing scaffolds\tstructured inquiry without the additional scaffolds": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlow contingent support with low independent working time\thigh contingent support with low independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": false
+ },
+ "scaffolding\tlow contingent support with short independent working time\thigh contingent support with short independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": false
+ },
+ "scaffolding\toperation with video review\toperation without video review": {
+  "label": "video review vs no video review",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding condition\tnonscaffolding condition": {
+  "label": "scaffolding vs nonscaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding intervention\tnonscaffolding condition": {
+  "label": "scaffolding vs nonscaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tthree-way interaction of support contingency, independent working time, and occasion\tno three-way interaction": {
+  "label": "three-way interaction present vs absent",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvideo review with virtual simulation or hands-on activity\tno video review with the same operation type": {
+  "label": "video review vs no video review",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvirtual simulation or hands-on activity with video review\tthe same operation without video review": {
+  "label": "video review vs no video review",
+  "treatment_is_a": true
+ },
+ "self-explanation\tclosed-book self-explanation prompts\topen-book self-explanation prompts": {
+  "label": "closed-book vs open-book self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tclosed-book self-explanation prompts without active-processing prompts\topen-book self-explanation prompts without active-processing prompts": {
+  "label": "closed-book vs open-book self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\topen-book self-explanation prompts\tclosed-book self-explanation prompts": {
+  "label": "closed-book vs open-book self-explanation prompts",
+  "treatment_is_a": false
+ },
+ "simulation\thands-on activity\tvirtual simulation without video review": {
+  "label": "virtual simulation without video review vs hands-on activity",
+  "treatment_is_a": false
+ },
+ "simulation\topen simulation game\trule-based simulation game": {
+  "label": "open simulation game vs rule-based simulation game",
+  "treatment_is_a": true
+ },
+ "simulation\trule-based simulation game\topen simulation game": {
+  "label": "open simulation game vs rule-based simulation game",
+  "treatment_is_a": false
+ },
+ "simulation\tvirtual simulation\thands-on activity": {
+  "label": "virtual simulation without video review vs hands-on activity",
+  "treatment_is_a": true
+ },
+ "test-format\tfree recall, practice quiz, or test generation\tthe other retrieval formats": {
+  "label": "Generative retrieval formats vs other retrieval formats",
+  "treatment_is_a": true
+ },
+ "worked-examples\tcorrect and complete exemplar of a fraction magnitude comparison\tlist of steps focused on structural aspects of the explanation": {
+  "label": "complete worked example vs step-by-step explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention\tregular Texts and influence course": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention\tregular course": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention across online inquiry phases\tregular course without intervention materials": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention with explicit instruction and guided practice\tregular Texts and influence course": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual instructional text\tvisual-only instructional text": {
+  "label": "audio-visual instructional text vs visual-only instructional text",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual instructional text in VR\tvisual-only instructional text in VR": {
+  "label": "audio-visual instructional text vs visual-only instructional text",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual-only instructional text\taudio-visual instructional text": {
+  "label": "audio-visual instructional text vs visual-only instructional text",
+  "treatment_is_a": false
  }
 }

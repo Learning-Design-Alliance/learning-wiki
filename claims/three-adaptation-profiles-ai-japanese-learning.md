@@ -46,3 +46,4 @@ Latent profile analyses at each of three waves using five technostress dimension
 - [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
+- [Latent transition analysis extracted four ability-profiles of hypothesis-based reasoning across affirmative, refuting, and irrelevant evidence](four-hbr-ability-profiles-lta.md) — related

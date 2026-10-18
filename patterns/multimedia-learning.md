@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (24 for, 16 mixed) · 34 studies (17 causal, 8 quant-synthesis, 6 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 34 report an effect size · 31 claims rest on one study
+> **Evidence** · 42 claims (25 for, 17 mixed) · 35 studies (18 causal, 8 quant-synthesis, 6 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 35 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -101,6 +101,8 @@ None at present. Claims linked to this page later go here until they are read ag
 - [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-improves-transfer.md) [+W]
 - [The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs](../claims/annotations-not-proximity-drive-illustration-benefit.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotate illustrations with captions and labels that repeat the text's cause-and-effect information to foster meaningful learning from science text"; tests this page's relationship.
 - [The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students](../claims/illustration-integration-effect-stronger-for-low-experience-learners.md) [~W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotate illustrations with captions and labels that repeat the text's cause-and-effect information to foster meaningful learning from science text".
+- [For transfer, only learners studying collaboratively benefited from animated over static graphics](../claims/collaboration-enables-transfer-benefit-of-animation.md) [+W] — attached 2026-10-18 from Rebetez et al. (2010), which proposed "Collaborative learning as a design condition enabling transfer benefits from animated graphics"; tests this page's relationship.
+- [Snapshots of critical steps were marginally beneficial for individual learners but significantly detrimental for dyads](../claims/snapshots-detrimental-in-dyads-beneficial-individually.md) [~W] — attached 2026-10-18 from Rebetez et al. (2010), which proposed "Collaborative learning as a design condition enabling transfer benefits from animated graphics"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -126,6 +128,10 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](../claims/segmentation-moderates-verbal-redundancy.md) [~W]
 - [Sol Multimedia Lesson Sequence Eb](../designs/sol-multimedia-lesson-sequence-eb.md) [+M]
+
+## Examples
+
+- [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](../designs/mitosis-illustrated-text-emme-material.md)
 
 ## Related Patterns
 

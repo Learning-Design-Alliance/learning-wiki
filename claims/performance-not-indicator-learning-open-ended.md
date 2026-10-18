@@ -62,4 +62,4 @@ Theoretical framing: the article adopts impasse-driven theories of learning (pro
 
 
 ## Related Claims
--
+- [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related

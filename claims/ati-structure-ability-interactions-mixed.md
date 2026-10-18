@@ -43,4 +43,4 @@ Narrative review of the aptitude-by-treatment interaction literature, citing Cra
 
 
 ## Related Claims
--
+- [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](tool-effectiveness-depends-initial-grasp.md) — a narrower finding that bears on this claim

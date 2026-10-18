@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (9 for, 2 mixed) · 4 studies (4 associational), `q2` · 1 of 4 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (10 for, 2 mixed) · 5 studies (5 associational), `q2` · 1 of 5 report an effect size · 12 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -72,6 +72,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](../claims/turkish-student-teachers-entity-performance-higher.md) [~W]
 - [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Achievement goal framework applied to memory in adulthood"; tests this page's relationship.
 - [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](../claims/performance-goals-predict-lower-memory-self-efficacy.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Achievement goal framework applied to memory in adulthood"; tests this page's relationship.
+- [Mastery goals are associated with task and recognition practices, with recognition shared by both goal types](../claims/lao-mastery-goals-task-recognition-shared.md) [+W] — attached 2026-10-18 from Anongsack Mahavong (2026), which proposed "TARGETS framework: Ames's TARGET dimensions extended with a social component"; tests this page's relationship.
 
 ## The evidence by question
 

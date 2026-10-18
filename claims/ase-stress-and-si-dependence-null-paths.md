@@ -50,3 +50,4 @@ SEM path tests in the same 229-respondent survey found the two hypothesized dire
 - [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Social influence positively predicts perceived trust in generative AI](social-influence-predicts-perceived-trust.md) — related
+- [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — related

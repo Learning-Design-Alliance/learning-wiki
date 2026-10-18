@@ -47,3 +47,4 @@ p = 0.039. As such, the expectation that direct instruction would prepare studen
 - [The three preparatory conditions did not differ on procedural knowledge acquisition](no-condition-differences-procedural-knowledge.md) — related
 - [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
+- [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related

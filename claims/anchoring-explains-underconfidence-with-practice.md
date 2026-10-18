@@ -41,4 +41,4 @@ Narrative review attributing to Scheck and Nelson (2005) the hypothesis that "pe
 
 
 ## Related Claims
--
+- [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related

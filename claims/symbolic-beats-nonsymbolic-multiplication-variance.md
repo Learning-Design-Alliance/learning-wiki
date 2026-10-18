@@ -49,3 +49,4 @@ Two additional hierarchical regressions (N = 63) entered the comparison tasks in
 - [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related
 - [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](phonological-memory-modest-multiplication-contribution.md) — related
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
+- [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — related

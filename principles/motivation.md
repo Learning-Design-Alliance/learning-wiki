@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (35 for, 17 mixed, 4 against) · 61 studies (19 review, 13 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 5 associational, 3 design), `q1`–`q4` · 7 of 61 report an effect size · 42 claims rest on one study
+> **Evidence** · 57 claims (35 for, 18 mixed, 4 against) · 62 studies (19 review, 14 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 5 associational, 3 design), `q1`–`q4` · 7 of 62 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ None at present. Claims attached to this page after 2026-10-15 are listed here u
 - [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](../claims/process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) [+W] — attached 2026-10-17 from Gunderson et al. (2018), which proposed "Praise young children's effort and strategies (process) rather than fixed personal qualities to foster incremental mindsets and long-term achievement".
 - [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](../claims/learning-goals-predict-higher-memory-self-efficacy.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Foster learning goals and avoid performance-goal emphasis when supporting adult memory learners"; tests this page's relationship.
 - [Memory self-efficacy positively predicts memory performance, mediating the indirect effects of both goal orientations](../claims/memory-self-efficacy-predicts-performance-mediation.md) [+M] — attached 2026-10-17 from Hastings et al. (2011), which proposed "Foster learning goals and avoid performance-goal emphasis when supporting adult memory learners".
+- [Under task-involving feedback, pre-task person praise reduces motivation and indirectly lowers task performance; under ego-involving feedback it indirectly raises performance](../claims/person-praise-indirect-performance-via-motivation.md) [~M] — attached 2026-10-18 from Cheng-Hong Liu (2026), which proposed "Avoid pre-task person praise for tasks with anticipated task-involving feedback; it is a strategic option only when ego-involving feedback (public comparison) is expected"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -51,3 +51,4 @@ Qualitative single case study of one mentor-mentee dyad over a four-week first p
 - [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — a narrower finding that bears on this claim
 - Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning — a broader claim this one bears on
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
+- [In the Ethiopian TDT study, novice teachers performed as well as facilitators in designing communicative English lessons](ethiopia-novice-teachers-performed-as-facilitators.md) — related

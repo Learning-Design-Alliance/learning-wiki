@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (124 show a difference, 34 mixed, 17 no difference, 2 unmarked) · 142 studies (48 associational, 39 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 34 of 142 report an effect size · 165 claims rest on one study
+> **Evidence** · 178 claims (124 show a difference, 34 mixed, 18 no difference, 2 unmarked) · 143 studies (48 associational, 40 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 34 of 143 report an effect size · 166 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -226,6 +226,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [+M] — learners who differ on it differ in outcomes
 - [Short-term prompting in learning journals does not change university students' self-efficacy](../claims/short-term-prompts-do-not-change-self-efficacy.md) [-W] — instruction changes it
 - [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](../claims/text-based-cases-higher-situational-interest.md) [+M] — instruction changes it
+- [Academic self-efficacy was not significantly associated with final test performance](../claims/self-efficacy-no-direct-path-final-test.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

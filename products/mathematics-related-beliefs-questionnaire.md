@@ -31,7 +31,8 @@ The MRBQ is a 58-item, six-point Likert-scale questionnaire developed by Op ’t
 - [Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)](../claims/mrbq-factor-correlations-positive.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Creative Self-Concept questionnaire (Stubbé et al., 2015)](creative-self-concept-questionnaire-stubbe-et-al-2015.md)
 
 ## Key Sources
 - Op 't Eynde, P., & De Corte, E. (2003). Students' mathematics-related belief systems: Design and analysis of a questionnaire. https://eric.ed.gov/?id=ED475708

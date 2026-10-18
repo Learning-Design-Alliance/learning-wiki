@@ -46,3 +46,4 @@ Scaled qualitative content analysis (Mayring, 2014) of pretest and posttest open
 - [Coding of self perspectives reached acceptable interrater agreement (89%, κ=.77)](self-perspective-coding-interrater-agreement.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](human-inter-rater-benchmark-icc-above-089-essays.md) — related
+- [The authors argue that analysing interpretations of video situations gives a more reliable view of teachers’ conceptions than self-report Likert questionnaires](video-interpretation-more-reliable-than-self-report-conceptions.md) — related

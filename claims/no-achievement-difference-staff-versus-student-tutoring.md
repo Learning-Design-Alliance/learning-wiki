@@ -47,3 +47,6 @@ First field experiment: 230 first-year law students randomly assigned to staff- 
 - [Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning](student-tutors-more-assessment-oriented.md) — related
 - [Staff tutors display more authoritarian behavior than student tutors in problem-based tutorial groups](staff-tutors-more-authoritarian-than-student-tutors.md) — related
 - [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
+- [No achievement difference between staff- and peer-tutored groups in the first curriculum year](no-achievement-difference-year-one-peer-staff.md) — a narrower finding that bears on this claim
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — reports the opposite
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related

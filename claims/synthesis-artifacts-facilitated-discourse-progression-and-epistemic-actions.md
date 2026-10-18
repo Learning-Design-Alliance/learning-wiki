@@ -62,4 +62,4 @@ Interaction analysis of Excerpt 3 (group 3, synthesis activity): the role of "kn
 
 
 ## Related Claims
--
+- [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](debriefing-conversational-remembering-public-artifact.md) — related

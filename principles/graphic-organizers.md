@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (11 for, 8 mixed, 1 against) · 33 studies (14 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 33 report an effect size · 9 claims rest on one study
+> **Evidence** · 22 claims (13 for, 8 mixed, 1 against) · 34 studies (15 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 34 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,8 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~W]
 - [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M]
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](../claims/concept-mapping-greater-achievement-gains-esl.md) [+W] — attached 2026-10-16 from Pasana Chularut (2001), which proposed "Provide explicit learning-strategy training and sustained practice when introducing concept mapping to language learners"; tests this page's relationship.
+- [Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization](../claims/semiempty-concept-mapping-more-causal-explanation-argumentation.md) [+W] — attached 2026-10-18 from Lucero et al. (2024), which proposed "Use semiempty (moderately-directed) concept maps rather than fully student-generated maps to scaffold collaborative reasoning".
+- [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](../claims/concept-mapping-more-re-elaboration-causal-relationships.md) [+W] — attached 2026-10-18 from Lucero et al. (2024), which proposed "Use semiempty (moderately-directed) concept maps rather than fully student-generated maps to scaffold collaborative reasoning".
 
 ## Objective and learner-valued goal
 

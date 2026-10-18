@@ -198,3 +198,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Animated personas produce better learning than static ones, and agent voice contributes significantly to learning](animated-persona-and-voice-effects.md) — related
 - [Pedagogical agents enhance learning compared with learning environments that do not feature agents](pedagogical-agents-enhance-learning.md) — related
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — a narrower finding that bears on this claim
+- [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](vr-modality-no-intrinsic-load-difference.md) — related

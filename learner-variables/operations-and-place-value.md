@@ -12,7 +12,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (23 show a difference, 5 mixed, 4 no difference) · 17 studies (6 causal, 6 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 31 claims rest on one study
+> **Evidence** · 35 claims (26 show a difference, 5 mixed, 4 no difference) · 19 studies (8 causal, 6 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 19 report an effect size · 34 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -68,6 +68,9 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Students' initial correct answers can mask reasoning based on a subtraction strategy not previously reported for integer order comparisons](../claims/nicole-subtraction-strategy-order-relation.md) [+W] — learners who differ on it differ in outcomes
 - [The adult-like retrieval bias for multiplication over addition on strategy selection is significant only in fourth grade, with retrieval used as frequently for both operations in second and sixth grade](../claims/multiplication-retrieval-bias-fourth-grade-only.md) [+W] — learners who differ on it differ in outcomes
 - [Two sources of the problem-size effect — more frequent and more efficient retrieval on small than large problems — are present in children of all grades, while the procedural-efficiency source is present only in second grade](../claims/problem-size-sources-children-strategy-use.md) [+W] — learners who differ on it differ in outcomes
+- [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](../claims/mls-weps-improved-unit1-calculation-explanation.md) [+M] — instruction changes it
+- [MLS-WEPs intervention predicted higher Unit 2 (functions) calculation and explanation scores when controlling for prior knowledge](../claims/mls-weps-improved-unit2-calculation-explanation.md) [+M] — instruction changes it
+- [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](../claims/text-arithmetic-improved-procedural-knowledge.md) [+M] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

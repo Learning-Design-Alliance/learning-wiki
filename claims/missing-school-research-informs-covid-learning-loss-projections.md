@@ -50,3 +50,4 @@ The presentation's framing argument: because COVID interruptions are unprecedent
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — possibly the same claim (merge candidate)
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
+- [COVID-19 restrictions inhibited implementation of later activities in the learning sequence](covid-restrictions-later-activities-inhibited.md) — related

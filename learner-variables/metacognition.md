@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (49 show a difference, 15 mixed, 7 no difference) · 55 studies (21 causal, 9 associational, 8 theoretical, 7 qualitative, 5 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 16 of 55 report an effect size · 70 claims rest on one study
+> **Evidence** · 74 claims (50 show a difference, 16 mixed, 8 no difference) · 58 studies (23 causal, 9 associational, 8 theoretical, 7 qualitative, 6 review, 3 quant-synthesis, 2 design), `q1`–`q4` · 17 of 58 report an effect size · 73 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -112,6 +112,9 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [-M] — instruction changes it
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](../claims/drawing-after-learning-improves-absolute-monitoring-accuracy.md) [+W] — instruction changes it
 - [The inventing group showed more metacognitive regulation during future learning, contrary to hypothesis, without benefiting transfer](../claims/inventing-group-more-metacognitive-regulation.md) [+M] — instruction changes it
+- [Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention](../claims/metacognitive-scaffolding-guided-invention-gains.md) [+M] — instruction changes it
+- [Rereading raises judgements of learning after each reading while multiple text reading raises them only after the second reading (significant interaction, ηp2 = 0.07)](../claims/rereading-inflates-jols-across-readings.md) [~M] — instruction changes it
+- [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](../claims/no-metacognitive-awareness-of-errorful-learning-benefits.md) [-M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

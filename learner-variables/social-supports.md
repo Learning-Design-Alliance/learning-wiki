@@ -12,7 +12,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (46 show a difference, 3 mixed, 3 no difference) · 47 studies (15 associational, 13 qualitative, 9 review, 4 causal, 3 design, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 47 report an effect size · 52 claims rest on one study
+> **Evidence** · 54 claims (48 show a difference, 3 mixed, 3 no difference) · 49 studies (15 associational, 14 qualitative, 9 review, 5 causal, 3 design, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 2 of 49 report an effect size · 54 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -87,6 +87,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](../claims/social-support-no-buffer-depression.md) [-W] — an instructional effect differs with it
 - [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](../claims/low-stress-climate-fun-element.md) [+M] — learners who differ on it differ in outcomes
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](../claims/peer-interaction-fun-element.md) [+M] — learners who differ on it differ in outcomes
+- [Struggling participants in the rule-based game initiated emergent facilitation — self-organized peer facilitation — which was fuelled by cognitive load, scope disturbances and high distance and supported first- and second-order learning](../claims/emergent-facilitation-by-participants-in-rule-based-sg.md) [+M] — instruction changes it
+- [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](../claims/scaffolding-intervention-increases-teacher-contingency.md) [+M] — instruction changes it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

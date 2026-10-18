@@ -52,3 +52,4 @@ CFA (Proc TCALIS, maximum likelihood) on goal scores from MAP Reading and Mathem
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
 - State epistemic curiosity and situational interest items load on a single latent factor in confirmatory factor analysis — related
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
+- [Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily](tutor-rating-factors-not-one-trait.md) — related

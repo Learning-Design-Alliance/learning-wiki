@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (90 show a difference, 14 mixed, 9 no difference) · 95 studies (40 associational, 16 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 13 of 95 report an effect size · 110 claims rest on one study
+> **Evidence** · 115 claims (90 show a difference, 14 mixed, 11 no difference) · 97 studies (40 associational, 18 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 13 of 97 report an effect size · 112 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -143,6 +143,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [+M] — learners who differ on it differ in outcomes
 - [Short-term prompting in learning journals does not change university students' self-efficacy](../claims/short-term-prompts-do-not-change-self-efficacy.md) [-W] — instruction changes it
 - [Mathematics achievement is strongly positively associated with mathematics confidence at the student level (0.43)](../claims/math-achievement-confidence-association.md) [+M] — learners who differ on it differ in outcomes
+- [Academic self-efficacy was not significantly associated with final test performance](../claims/self-efficacy-no-direct-path-final-test.md) [-W] — learners who differ on it differ in outcomes
+- [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](../claims/no-metacognitive-awareness-of-errorful-learning-benefits.md) [-W] — instruction changes it
 
 ## The evidence by question
 

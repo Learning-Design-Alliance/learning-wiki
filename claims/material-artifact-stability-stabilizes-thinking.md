@@ -59,3 +59,4 @@ Analysis in Section 4.B.2 of the material setting: strips stacked side-by-side p
 - [The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time](worksheet-wording-sustains-less-distance-less-time.md) — related
 - Overlaying a grid onto the MIT-P display reifies the attentional anchor and abruptly shifts students into a new unit-based interaction routine — a narrower finding that bears on this claim
 - [Structural stability in the model is decided by a convex hull constraint on the resultant center of mass](convex-hull-com-stability-constraint.md) — related
+- [Students' courses of action differed by instrumentation: photogate and tape-timer groups centred on numbers and dots with motion concepts rare, while probeware groups centred on motion concepts](lab-discourse-differs-by-instrumentation.md) — related

@@ -67,3 +67,4 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 - [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](outcome-constructs-test-formats-moderate-redundancy.md) — related
 - [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — related
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](tap-identical-formats-stronger-effect.md) — possibly the same claim (merge candidate)
+- [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](practice-retrieval-scores-no-condition-differences.md) — related

@@ -64,3 +64,4 @@ Secondary correlational analysis in the PF condition using the range of distinct
 ## Related Claims
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
 - [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — related
+- [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — related

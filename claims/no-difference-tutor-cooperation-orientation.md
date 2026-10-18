@@ -45,3 +45,5 @@ Cooperation orientation ratings did not differ significantly between tutor types
 ## Related Claims
 - [Prior field experiments found no achievement differences between staff- and student-tutored groups](no-achievement-difference-staff-versus-student-tutoring.md) — related
 - [Staff tutors display more authoritarian behavior than student tutors in problem-based tutorial groups](staff-tutors-more-authoritarian-than-student-tutors.md) — related
+- [Peer tutors evaluated the group's functioning more extensively than staff tutors, and this behavior declined over curriculum years for both](peer-tutors-evaluate-group-functioning-more.md) — related
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related

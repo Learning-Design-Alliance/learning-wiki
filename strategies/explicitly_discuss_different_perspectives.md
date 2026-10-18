@@ -63,6 +63,7 @@ Structured perspective-taking discussion supports conceptual growth because lear
 - [Debate](../patterns/debate.md) — a formalized version of perspective discussion with assigned positions and evidence rules
 - [Discussion-based learning](../principles/collaborative-learning.md) — the broader pattern this strategy instantiates with a multiperspectival focus
 - [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
+- [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum in which students analyze primary sources from multiple stakeholder positions on historical events, followed by structured discussion and reflection.

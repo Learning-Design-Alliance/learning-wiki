@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/vr-modality-no-extraneous-load-difference.md
+---
+
+# Revision history: [claims/vr-modality-no-extraneous-load-difference](../claims/vr-modality-no-extraneous-load-difference.md)
+
+### 2026-10-18 · ingest · process:wiki-ingest
+Ingested from jrnl-a42da5e19ff6 (The modality effect reverses in a virtual reality learning environment and influences cognitive load) via eval_harness.py + ingest_extractions.py

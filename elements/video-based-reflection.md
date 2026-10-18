@@ -22,7 +22,7 @@ sources:
 # Video-Based Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 causal, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Video-based reflection is the element in which learners or practitioners review a recording of their own past activity to analyze choices, patterns, and next steps. The reviewer, not only an outside observer, does the interpreting — this is what distinguishes it from an instructor simply watching and evaluating footage. It has been used at very different grain sizes: young children interpreting video of their own unscripted play, and teacher teams interpreting video of their own classroom teaching within an ongoing professional-development partnership.
@@ -49,7 +49,7 @@ Video-based reflection is the element in which learners or practitioners review 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students developed varied perceptions of video annotation, citing benefits for SRL and acting alongside embarrassment and added workload](../claims/varied-student-perceptions-video-annotation.md) [~W] — attached 2026-10-18 from Hengtao Tang (2025), which proposed "VideoAnt video annotation tool used for time-stamped self-critique of rehearsal videos".
 
 ## Related Elements
 

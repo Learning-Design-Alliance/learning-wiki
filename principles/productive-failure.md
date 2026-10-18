@@ -31,7 +31,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (5 for, 5 mixed, 3 against, 1 unmarked) · 14 studies (6 causal, 4 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 5 of 14 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (8 for, 7 mixed, 4 against, 1 unmarked) · 18 studies (9 causal, 5 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 7 of 18 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,12 @@ Taken together: for conceptual understanding and transfer in learners past the e
 - [Guided discovery outperforms pure discovery](../claims/minimal-guidance-less-effective-for-novices.md) [~M]: the wider debate this page sits in.
 - [Expertise reversal](../claims/expertise-reversal-effect-compound.md) [~M]: why the balance between generating and being told shifts with prior knowledge.
 - [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](../claims/ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) [+W] — attached 2026-10-14 from Loibl et al. (2017), which proposed "PS-I lesson structure: an initial problem-solving phase followed by an instruction phase"; tests this page's relationship.
+- [Role-script support (TAU) during generation led university relearning students to outperform direct instruction in all weeks but the first](../claims/tau-role-script-outperformed-di-relearning.md) [+W] — attached 2026-10-18 from Manu Kapur (2012), which proposed "Provide content-general support during generation that helps without telling students the targeted content"; tests this page's relationship.
+- [Mixed-ability groups generated a broader range of RSMs than all-low and all-high ability groups, relating to better uptake of the canonical formula](../claims/mixed-ability-groups-broader-rsm-range.md) [+W] — attached 2026-10-18 from Manu Kapur (2012), which proposed "Provide content-general support during generation that helps without telling students the targeted content".
+- [Micro productive failure showed no effect on conceptual explanation, but a condition × time interaction emerged as the I-PS mean advantage at one day reversed at one week](../claims/micro-pf-no-conceptual-explanation-effect.md) [-M] — attached 2026-10-18 from Esther Ziegler et al. (2021), which proposed "Micro productive failure: brief, repeated problem-solving-before-instruction cycles spread across a multi-step procedure"; tests this page's relationship.
+- [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](../claims/micro-productive-failure-improves-isomorphic-procedural-problems.md) [+M] — attached 2026-10-18 from Esther Ziegler et al. (2021), which proposed "Sequence brief problem-solving attempts before instruction when teaching multi-step algebraic procedures"; tests this page's relationship.
+- [Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study](../claims/giftedness-instruction-interaction-significant.md) [~M] — attached 2026-10-18 from Lim et al. (2023), which proposed "Invention-first instruction is a candidate strategy for gifted secondary students, pending confirmation"; tests this page's relationship.
+- [Learning the CVS with self-generated, vicarious, combined, or no errors during PS-I does not differentially affect CVS posttest performance when controlling for prior knowledge](../claims/cvs-error-type-no-posttest-differences.md) [~W] — attached 2026-10-18 from Hämmerle et al. (2026), which proposed "Integrate learning from errors within a PS-I framework to retain cognitively engaging experimentation while structuring it in a resource-efficient, guided manner".
 
 ## Objective and learner-valued goal
 

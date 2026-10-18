@@ -17,7 +17,7 @@ sources:
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 12 studies (4 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 1 of 12 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 13 studies (5 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 2 of 13 report an effect size · 7 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -37,6 +37,8 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — authentic participation is more productive when support is calibrated to learner capability
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](../claims/ail-theory-practice-gap-he-programs.md) [-W]
 - [The case-based intervention was perceived as connecting theory to practice more strongly than the model-based comparison intervention](../claims/case-intervention-higher-theory-practice-connection.md) [+W] — attached 2026-10-18 from Baier et al. (2021), which proposed "Inert knowledge and situated cognition account of the theory-practice gap in teacher education".
+- [Expansive framing increased high school biology students' transfer-of-knowing of facts between body systems (d = .89)](../claims/expansive-framing-boosts-transfer-of-knowing-facts.md) [+W] — attached 2026-10-18 from Randi A. Engle et al. (2011), which proposed "Expansive versus bounded framing of learning contexts as an instructional mechanism for transfer"; tests this page's relationship.
+- [Expansive framing increased transfer-of-knowing of the differential pressure principle (d = .95)](../claims/expansive-framing-boosts-differential-pressure-transfer-of-knowing.md) [+W] — attached 2026-10-18 from Randi A. Engle et al. (2011), which proposed "Expansive versus bounded framing of learning contexts as an instructional mechanism for transfer"; tests this page's relationship.
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

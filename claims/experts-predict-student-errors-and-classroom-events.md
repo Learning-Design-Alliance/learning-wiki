@@ -52,3 +52,4 @@ In the study by Stein, Clarridge, and Berliner (1988), expert, novice, and postu
 - Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important — related
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
 - [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related
+- [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related

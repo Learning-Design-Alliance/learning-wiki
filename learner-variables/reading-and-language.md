@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (91 show a difference, 23 mixed, 33 no difference, 2 unmarked) · 113 studies (33 causal, 26 associational, 21 review, 19 quant-synthesis, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 25 of 113 report an effect size · 140 claims rest on one study
+> **Evidence** · 152 claims (92 show a difference, 24 mixed, 34 no difference, 2 unmarked) · 115 studies (34 causal, 27 associational, 21 review, 19 quant-synthesis, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 26 of 115 report an effect size · 143 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -199,6 +199,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](../claims/self-questioning-benefits-low-verbal-ability-more.md) [+M] — an instructional effect differs with it
 - [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](../claims/context-learning-comprehension-interaction-marginal.md) [-M] — an instructional effect differs with it
 - [Translanguaging practices briefly afforded multilingual participation, but this positioning did not endure across the unit](../claims/translanguaging-afforded-participation-not-enduring.md) [~M] — instruction changes it
+- [Effectiveness of the MLS-WEPs intervention generally did not vary by English learners' English proficiency after controlling for prior knowledge](../claims/mls-weps-effective-across-proficiency-levels.md) [-M] — an instructional effect differs with it
+- [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](../claims/math-performance-correlated-with-proficiency.md) [+M] — learners who differ on it differ in outcomes
+- [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](../claims/open-questions-comprehension-unique-predictor-integration.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

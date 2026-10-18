@@ -46,4 +46,4 @@ The editorial reports Kapur and Kinzer's confirmation of their earlier productiv
 - [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related

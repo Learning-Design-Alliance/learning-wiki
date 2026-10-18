@@ -50,7 +50,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (9 for, 18 mixed, 1 against) · 23 studies (9 causal, 6 review, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q3` · 7 of 23 report an effect size · 23 claims rest on one study
+> **Evidence** · 29 claims (10 for, 18 mixed, 1 against) · 24 studies (9 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q3` · 7 of 24 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Taken together: for system-paced lessons in which words explain a picture, narra
 - [Bimodal captioned input improved L2 listening skills](../claims/bimodal-captioned-input-improves-segmentation.md) [~W]: captions as language input, reported second-hand.
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to print](../claims/enhancing-features-direct-attention-dual-language-e-books.md) [~W]: narration used to draw attention *to* printed words in early reading, a different purpose from this principle.
 - [Screencast design findings](../claims/screencast-design-movement-narration-handwriting.md) [~W]: a typology of narration in screencasts, not an outcome comparison.
+- [The modality effect tends to be strongest when material is fast-paced and under system control](../claims/modality-boundary-conditions-pace-control.md) [+W] — attached 2026-10-18 from Richard E. Mayer (2010), which proposed "Treat boundary conditions as theory-sharpening qualifications, not immutable prescriptions".
 
 ## Objective and learner-valued goal
 

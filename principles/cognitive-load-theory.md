@@ -31,7 +31,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (16 for, 20 mixed) · 41 studies (18 causal, 10 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 5 of 41 report an effect size · 26 claims rest on one study
+> **Evidence** · 37 claims (17 for, 20 mixed) · 42 studies (19 causal, 10 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 5 of 42 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+W] — attached 2026-10-15 from Slava Kalyuga (2010), which proposed "Adjust instructional methods and guidance as learners acquire more experience in a specific domain"; tests this page's relationship.
 - [Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](../claims/working-memory-partially-independent-modality-subcomponents.md) [+W] — attached 2026-10-15 from Sweller et al. (1998), which proposed "Design instruction to reduce working memory load and encourage schema construction".
 - [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](../claims/intrinsic-extraneous-distinction-essential-vs-instructional.md) [~W] — attached 2026-10-15 from Sweller (2010), which proposed "Judge instructional procedures by whether the element interactivity they impose is essential to the task".
+- [Learning with tree diagrams increased experienced cognitive load across intrinsic, extraneous, germane, and overall measures](../claims/tree-diagrams-increase-cognitive-load.md) [+W] — attached 2026-10-18 from Bas Kolloffel et al. (2009), which proposed "For novices facing complex, high-intrinsic-load material, prefer sequential text-plus-equation formats over tree diagrams"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

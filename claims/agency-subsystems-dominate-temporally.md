@@ -50,3 +50,4 @@ Qualitative thematic analysis of one teacher's written reflection and interviews
 - [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — a narrower finding that bears on this claim
 - Dynamic self-regulation of brain subsystems enables simultaneous multisource learning beyond conscious attention — related
 - [Review reports the Wikiglass learning analytics tool study shows interplay between teacher and student use of the tool](editorial-wikiglass-teacher-student-interplay.md) — related
+- [Contextual resources shape teachers' agentic responses in challenging situations, which in turn shape their interpretations of student behavior and possibilities for responsiveness](contextual-resources-shape-teacher-responsiveness.md) — related

@@ -66,3 +66,4 @@ Overload distribution analysis (Fig. 8) categorizing 5000 interactions per metho
 - [ARPG+ produces higher final prompt quality than unguided, template, and rule-based conditions among simulated learners](arpg-plus-higher-prompt-quality-than-baselines.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
+- [Participants in the rule-based simulation game perceived it as demanding, and learning and applying its procedures and rules hindered investment in their learning goals](rule-based-sg-procedures-hindered-learning-goals.md) — related

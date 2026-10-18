@@ -158,6 +158,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - **Sketch-to-explain routines**: Before solving a complex problem, learners draw the situation, sequence, or relationship structure first.
 - [Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits](../strategies/success-cues-labelling-hybrid-documentation.md)
 - [Prompt students to sketch a drawing of the system while reading an expository science text](../strategies/sketching-during-reading-strategy.md)
+- [Scaffold cross-representational integration by sequencing discussion of pictures with concepts from the text before ordering them](../strategies/scaffold-text-visual-integration-sequencing.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

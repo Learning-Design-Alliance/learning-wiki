@@ -56,3 +56,4 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89% — related
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](yoshii-text-picture-definition-supply-only.md) — related
+- [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related

@@ -54,3 +54,5 @@ Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice,
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
 - [Students and researchers gave systematically different types of explanatory comments about the visual argument, with students rejecting pictures as proofs](student-visual-argument-norm-comments.md) — related
 - [Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes](observed-classroom-differences-correlated-with-outcomes.md) — related
+- [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
+- [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](novices-skip-more-classroom-areas.md) — related

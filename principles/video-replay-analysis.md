@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (12 for, 9 mixed) · 25 studies (9 qualitative, 4 quant-synthesis, 3 causal, 3 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 4 of 25 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (12 for, 10 mixed) · 26 studies (9 qualitative, 4 quant-synthesis, 4 review, 3 causal, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 4 of 26 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Claims this page cited before it was rewritten, or found in the search, that bea
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](../claims/structured-feedback-reflection-cycle-mentoring.md) [+W]: one practicum case; the mentee adopted "what worked well, what didn't, what would I change". Used above for the debrief; not a video finding.
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](../claims/video-pause-rewind-sequences-negative-performance.md) [~W]: about students pausing and rewinding **lecture** videos (49 students, correlational; the authors do not suggest discouraging it). It does not bear on replaying one's own performance; listed so that "pause and rewind" findings from lecture video are not carried here.
 - [Facilitators' questions, regularly posed in terms of seeing, make it relevant for students to discuss how situations appeared audiovisually and how these appearances contrasted with their experiences](../claims/seeing-questions-guide-audiovisual-contrast.md) [+W] — attached 2026-10-18 from Elin Johansson et al. (2017), which proposed "Selecting short clips of successful 'key events' as the debriefing focus".
+- [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](../claims/video-debriefing-precision-safety-tradeoffs.md) [~M] — attached 2026-10-18 from Charlott Sellberg et al. (2025), which proposed "Align performance-review media such as video with instructional aims, facilitator expertise, and the emotional climate of training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

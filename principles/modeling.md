@@ -23,7 +23,7 @@ sources:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (18 for, 7 mixed) · 37 studies (11 causal, 7 review, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 2 of 37 report an effect size · 15 claims rest on one study
+> **Evidence** · 26 claims (19 for, 7 mixed) · 38 studies (12 causal, 7 review, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 3 of 38 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Claims that mention modelling but bear on this page little or not at all:
 - [Instructional Cmr Time Correlates Student Cmr](../claims/instructional-cmr-time-correlates-student-cmr.md) [+M]
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](../claims/video-model-improves-retrieval-questioning-skill.md) [+M] — attached 2026-10-18 from Sam Sims et al. (2026), which proposed "Incorporate observable video models when training early-career teachers in evidence-based teaching practices"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -53,3 +53,4 @@ The frequency and mitigation findings (subclaims 1-2) are descriptive patterns f
 - [Teachers need professional development geared specifically to the curricula they teach, not only generic teaching skills or general content knowledge](teachers-need-curriculum-specific-professional-development.md) — related
 - [The sense-making and interpretation steps of teacher inquiry models proved confusing for teachers](sense-making-interpretation-steps-confusing-for-teachers.md) — related
 - [Students' writing and storytelling developed substantially, with the majority group publishing 23 school-level stories in Cycle 1 and 38 in Cycle 2 before a school cap limited publications](tprs-mtss-storytelling-publication-growth.md) — related
+- [Research agenda flags that practical concerns may dominate design-team discussion and hinder teacher learning, and that external priorities need further inquiry](practical-concerns-may-hinder-design-team-learning.md) — related

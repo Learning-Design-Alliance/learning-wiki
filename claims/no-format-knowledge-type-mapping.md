@@ -62,4 +62,5 @@ ANCOVA on procedural knowledge (max 10, covariates math grade and time-on-task) 
 
 
 ## Related Claims
--
+- [Representational format produced no significant differences in conceptual or situational knowledge](no-format-effect-conceptual-situational-knowledge.md) — related
+- [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](text-arithmetic-improved-procedural-knowledge.md) — reports the opposite

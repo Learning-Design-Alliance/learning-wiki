@@ -79,12 +79,14 @@ Explicitly comparing perspectives supports abstraction and transfer, because lea
 6. Debrief by having learners synthesize: what does each perspective explain well, and what does it miss?
 
 ## Related Strategies
+
 - [Structured academic controversy](../strategies/structured-academic-controversy.md) — a formalized version using assigned positions and side-switching
 - [Socratic questioning](../elements/socratic-questioning.md) — instructor questioning that surfaces hidden assumptions behind a position
 - [Jigsaw](../strategies/jigsaw.md) — each learner masters one perspective or piece, then teaches it to peers
 - [Role-Play](../strategies/acting-role-play.md) — embodied perspective adoption
 - [Socratic Seminar](socratic-seminar.md) — text-based discussion that surfaces interpretive differences
 - [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
+- [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 
 ## Examples
 - **Constructive controversy in teacher education** (Johnson & Johnson): pre-service teachers are assigned positions on tracking vs. mixed-ability grouping, argue, switch sides, then synthesize a personal position — reliably improving achievement and attitude change over debate and individual study.

@@ -51,3 +51,4 @@ Exploratory Bayesian test of the inverse of Hypothesis 3b on think-aloud data fr
 - [Worked-example preparation deepens subsequent learning via more elaboration during the future-learning phase](worked-example-preparation-more-elaboration-future-learning.md) — related
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — reports the opposite
 - [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](no-motivational-differences-worked-versus-inventing.md) — related
+- [Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention](metacognitive-scaffolding-guided-invention-gains.md) — related

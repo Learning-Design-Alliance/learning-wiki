@@ -58,3 +58,4 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption](exposure-adoption-gap-opportunity-window.md) — related
 - [The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year](national-cyber-pathways-initiative-700-students-10-districts.md) — a narrower finding that bears on this claim
 - [Students were split between early entry into a program of study and exploring options, and most wished for more structured exploration opportunities](students-split-on-program-of-study-timing.md) — a narrower finding that bears on this claim
+- [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — a narrower finding that bears on this claim

@@ -49,6 +49,7 @@ The article's central design recommendation is that retention initiatives be off
 ## Examples
 
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
+- [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
 
 ## Key Sources
 - Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4

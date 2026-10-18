@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 143 claims (96 show a difference, 29 mixed, 16 no difference, 2 unmarked) · 99 studies (29 associational, 23 causal, 20 review, 10 quant-synthesis, 9 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 21 of 99 report an effect size · 135 claims rest on one study
+> **Evidence** · 146 claims (98 show a difference, 29 mixed, 17 no difference, 2 unmarked) · 102 studies (29 associational, 25 causal, 20 review, 10 quant-synthesis, 9 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 21 of 102 report an effect size · 138 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -191,6 +191,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Implicit and explicit learning environments do not differ in third graders' skills in adaptive use of strategies at post-test or at 3- and 8-month follow-ups](../claims/implicit-explicit-no-difference-adaptive-strategy-use.md) [-M] — instruction changes it
 - [Implicitly taught students showed a more sustainable use of self-generated compensation strategies, which resisted the later introduction of standard algorithms](../claims/implicit-environment-sustainable-compensation-strategies.md) [+M] — instruction changes it
 - [The strategy intervention improved third graders' adaptive use of strategies relative to untreated classmates](../claims/intervention-improved-adaptive-use-versus-classmates.md) [+M] — instruction changes it
+- [Facilitator techniques such as advocacy-inquiry, guided self-correction, and the plus-delta method function as metacognitive practices that shift focus from retrodiction to prediction](../claims/debriefing-techniques-as-metacognitive-practices.md) [+M] — instruction changes it
+- [Target strategy use did not vary by instructional support condition for any of the three fraction comparison tasks](../claims/target-strategy-use-did-not-vary-by-condition.md) [-M] — instruction changes it
+- [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](../claims/video-review-scaffolds-self-regulated-learning.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

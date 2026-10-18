@@ -63,3 +63,4 @@ Supervised Week 8 independent no-AI near-transfer essay scored blind by two rate
 - [In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them](llm-writing-quality-single-and-duo-outperform-control.md) — related
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
+- [Role-script support (TAU) during generation led university relearning students to outperform direct instruction in all weeks but the first](tau-role-script-outperformed-di-relearning.md) — related

@@ -87,3 +87,4 @@ The review reports a set of studies (e.g., Siegler & Chen 2008 on water displace
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
 - [Students who collected more peers' ideas wrote poorer explanations, while generating own redundant ideas related to better explanations](idea-collection-direction-matuk-linn.md) — related
 - [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — related
+- [Correct exemplars supported greater detection and correction of errors and omissions in explanations than a list of steps focused on structural aspects](correct-exemplars-beat-defining-features-for-error-detection.md) — related

@@ -49,3 +49,4 @@ Qualitative casebook finding from the Lessons Learned chapter, based on intervie
 - [Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts](ilc-reach-32000-educators-495-districts.md) — related
 - Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle — related
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related
+- [Consultation with trusted colleagues offered new interpretations of a student's behavior, lessening a teacher's emotional labor and shifting her from surface acting to deep acting (Linda case)](linda-consultation-shifted-surface-to-deep-acting.md) — related

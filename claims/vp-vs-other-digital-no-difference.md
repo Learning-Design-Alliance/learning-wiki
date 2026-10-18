@@ -47,3 +47,5 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions](vp-design-variants-mostly-null.md) — related
 - [Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning](vp-passive-versus-active-comparison.md) — related
 - [Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)](vp-blended-skills-mixed.md) — related
+- [Video review enhances practical skill performance in both modalities and eliminates the hands-on versus virtual simulation difference](video-review-eliminates-modality-performance-gap.md) — related
+- [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related

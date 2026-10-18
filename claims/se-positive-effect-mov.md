@@ -50,3 +50,4 @@ Bootstrapped path coefficient from the PLS-SEM structural model (Table 6). The S
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
 - [Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)](tuga-negative-direct-effect-sdl.md) — related
 - [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related
+- [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — related

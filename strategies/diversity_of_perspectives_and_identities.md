@@ -58,9 +58,11 @@ Exposure to diverse perspectives improves complex thinking: students in diverse 
 5. Use [Check-In](../elements/check-in.md) routines to monitor whether all learners are participating and whether discussion is producing engagement or withdrawal.
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — the affective counterpart; perspective diversity gives empathy work real content
 - [Case-Based Learning](../patterns/case-based-learning.md) — a natural vehicle for embedding stakeholder diversity in authentic problems
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — encountering conflicting perspectives creates the productive impasse that drives accommodation
+- [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 
 ## Examples
 - **[Facing History and Ourselves](https://www.facinghistory.org)** — History curriculum built on primary sources from multiple participant perspectives, with structured discussion protocols for contested material.

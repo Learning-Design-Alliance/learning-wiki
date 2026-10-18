@@ -67,3 +67,4 @@ Doppelt et al. (2009) study of 8th-grade science teachers using a new electronic
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](pd-content-focus-prevalence.md) — related
 - [Active learning was incorporated in 34 of 35 reviewed effective PD studies](pd-active-learning-prevalence.md) — related
+- [Collaboration with experts during design and enactment contributed to the quality of designed artefacts and to teacher learning across all three cases](expert-collaboration-quality-and-teacher-learning.md) — related

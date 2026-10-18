@@ -47,6 +47,7 @@ The article recommends that in collaborative knowledge construction and learning
 ## Related Strategies
 
 - [Foster and, if necessary, enforce socio-cognitive conflicts that lead to productive solutions as a strategy to optimize learning outcomes](foster-socio-cognitive-conflicts-productive-solutions.md)
+- [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 
 ## Examples
 -

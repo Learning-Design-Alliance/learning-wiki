@@ -65,3 +65,4 @@ Second pilot round tested both learning phases with one whole social science cla
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related
+- [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — related

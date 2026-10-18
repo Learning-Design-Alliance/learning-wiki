@@ -46,3 +46,4 @@ On the achievement/test-orientation subscale student tutors scored higher in bot
 - [Prior field experiments found no achievement differences between staff- and student-tutored groups](no-achievement-difference-staff-versus-student-tutoring.md) — related
 - [Staff tutors display more authoritarian behavior than student tutors in problem-based tutorial groups](staff-tutors-more-authoritarian-than-student-tutors.md) — related
 - [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related

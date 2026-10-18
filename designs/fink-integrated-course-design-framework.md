@@ -40,7 +40,8 @@ The study's organizing framework is Fink's (2013) Integrated Course Design, whic
 - [Misalignment Dispositions Goals Assessment Fink](../claims/misalignment-dispositions-goals-assessment-fink.md) [+M]
 
 ## Related Designs
-- 
+
+- [Dual-process (Geneplore) creative writing instruction design framework with Schacter's five creative teaching areas](geneplore-schacter-creative-writing-design-framework.md)
 
 ## Examples
 -
