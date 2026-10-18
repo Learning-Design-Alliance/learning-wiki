@@ -46,3 +46,4 @@ Unconditional random-intercept-only multilevel models fitted on 441 implementers
 - [At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs](organizational-strategic-factors-associated-with-attitudes.md) — related
 - [At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence](individual-level-general-and-strategic-factors-attitudes.md) — related
 - [At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence](general-climate-moderates-strategic-climate-effect.md) — related
+- [No group effects on learning and performance were found: a non-significant intra-group correlation](no-group-effects-intra-group-correlation-nonsignificant.md) — related

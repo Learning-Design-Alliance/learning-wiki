@@ -43,3 +43,4 @@ K-means clustering (k=4, chosen by elbow method and silhouette analysis) of norm
 ## Related Claims
 - [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) — related
 - No significant differences in AI-free assessment performance across GenAI usage clusters in an OOP course — related
+- [No group effects on learning and performance were found: a non-significant intra-group correlation](no-group-effects-intra-group-correlation-nonsignificant.md) — related

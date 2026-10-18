@@ -49,3 +49,5 @@ Qualitative episode analysis of group B on the electrostatics tutorial, where ex
 - [A teaching assistant's arrival shifts group behavior to the red cluster, corresponding to framing the activity as listening to the TA](ta-arrival-shifts-framing-to-listening.md) — related
 - [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](precision-of-language-evaluation-criterion.md) — related
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
+- [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — a broader claim this one bears on
+- [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related
