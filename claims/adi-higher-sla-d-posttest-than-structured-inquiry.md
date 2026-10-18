@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
-`q3 i3` The ADI group outperformed the structured-inquiry comparison group on the post-SLA-D measure of demonstrated scientific literacy (d = 0.83). [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#gülüzar-eymur-pınar-seda-çetin-2024)
+`q3 i3` The ADI group outperformed the structured-inquiry comparison group on the post-SLA-D measure of demonstrated scientific literacy (d = 0.83). [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#guluzar-eymur-pnar-seda-cetin-2024)
 
 ## Evidence
 

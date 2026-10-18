@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Experimental-group students outperformed comparison students on items 1, 5, 13 and 16 (determination of variables) and items 4, 10, 14 and 15 (scientific inquiry) in the post-SLA-D. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#gülüzar-eymur-pınar-seda-çetin-2024)
+`q2 i?` Experimental-group students outperformed comparison students on items 1, 5, 13 and 16 (determination of variables) and items 4, 10, 14 and 15 (scientific inquiry) in the post-SLA-D. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#guluzar-eymur-pnar-seda-cetin-2024)
 
 ## Evidence
 

@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Students looked proportionally less at the input and problem statement when a graph was present, while spending about 19% of total dwell time on the graph. [→ Ögren 2017](#ögren-2017)
+`q2 i?` Students looked proportionally less at the input and problem statement when a graph was present, while spending about 19% of total dwell time on the graph. [→ Ögren 2017](#ogren-2017)
 
 ## Evidence
 

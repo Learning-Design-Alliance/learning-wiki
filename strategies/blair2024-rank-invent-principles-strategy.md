@@ -39,7 +39,7 @@ A concrete implementable activity: pairs of learners receive short contrasting t
 - articulating values and principles for productive discussion
 
 ### Affordances
-- [Blair2024 Contrasting Cases Synthesis Instruction](../theories/blair2024-contrasting-cases-synthesis-instruction.md)
+- Blair2024 Contrasting Cases Synthesis Instruction
 
 ## Related Strategies
 - 

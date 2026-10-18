@@ -29,8 +29,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Connections between concrete in-game actions and the concept of tactics are not treated as transparent in the gaming experience but require active highlighting by instructors. [→ Sjöblom 2025](#sjöblom-2025)
-`q2 i?` Teachers positively assess tactical reasoning even when the outcome was a failure-event, distinguishing outcomes from the quality of reasoning. [→ Sjöblom 2025 (2)](#sjöblom-2025-2)
+`q2 i?` Connections between concrete in-game actions and the concept of tactics are not treated as transparent in the gaming experience but require active highlighting by instructors. [→ Sjöblom 2025](#sjoblom-2025)
+`q2 i?` Teachers positively assess tactical reasoning even when the outcome was a failure-event, distinguishing outcomes from the quality of reasoning. [→ Sjöblom 2025 (2)](#sjoblom-2025-2)
 
 ## Evidence
 

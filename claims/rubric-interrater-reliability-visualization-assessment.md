@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
-`q3 i?` Inter-rater reliability (Cohen's κ) was 0.80–0.89 for the conceptual rubric and 0.73–0.83 for the technical rubric. [→ Francisco José Jiménez-Hornero 2026](#francisco-josé-jiménez-hornero-2026)
+`q3 i?` Inter-rater reliability (Cohen's κ) was 0.80–0.89 for the conceptual rubric and 0.73–0.83 for the technical rubric. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)
 
 ## Evidence
 

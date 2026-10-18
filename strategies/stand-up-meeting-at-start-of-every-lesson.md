@@ -39,7 +39,7 @@ In the implemented Scrum module, "At the start of every lesson each group gather
 - early surfacing of problems
 
 ### Affordances
-- [Scrum Methodology Educational Scaffold Framework](../theories/scrum-methodology-educational-scaffold-framework.md)
+- Scrum Methodology Educational Scaffold Framework
 
 ## Related Strategies
 - 

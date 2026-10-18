@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Students solving problems with graphs did not answer significantly more correctly than students without graphs (56% vs 52%). [→ Ögren 2017](#ögren-2017)
+`q2 i?` Students solving problems with graphs did not answer significantly more correctly than students without graphs (56% vs 52%). [→ Ögren 2017](#ogren-2017)
 
 ## Evidence
 

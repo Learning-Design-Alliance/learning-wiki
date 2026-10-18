@@ -29,8 +29,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Total dwell time on the graph showed no relationship to answering correctly. [→ Ögren 2017](#ögren-2017)
-`q2 i?` The more students looked at the problem statement, the better they performed; statement dwell time was a significant predictor of correct answers. [→ Ögren 2017 (2)](#ögren-2017-2)
+`q2 i?` Total dwell time on the graph showed no relationship to answering correctly. [→ Ögren 2017](#ogren-2017)
+`q2 i?` The more students looked at the problem statement, the better they performed; statement dwell time was a significant predictor of correct answers. [→ Ögren 2017 (2)](#ogren-2017-2)
 
 ## Evidence
 

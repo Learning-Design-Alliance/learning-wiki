@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Transitions between the graph and the problem statement were marginally higher for students who answered correctly; no other transition types differed. [→ Ögren 2017](#ögren-2017)
+`q2 i?` Transitions between the graph and the problem statement were marginally higher for students who answered correctly; no other transition types differed. [→ Ögren 2017](#ogren-2017)
 
 ## Evidence
 

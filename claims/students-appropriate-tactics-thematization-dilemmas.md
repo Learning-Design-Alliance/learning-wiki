@@ -29,8 +29,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` In student-led debriefings, students articulate general tactical themes such as concentration of force and the importance of creating a situational picture. [→ Sjöblom 2025](#sjöblom-2025)
-`q2 i?` Students use the notion of creating dilemmas for the opponent as a frame for explaining and positively assessing their in-game decisions. [→ Sjöblom 2025 (2)](#sjöblom-2025-2)
+`q2 i?` In student-led debriefings, students articulate general tactical themes such as concentration of force and the importance of creating a situational picture. [→ Sjöblom 2025](#sjoblom-2025)
+`q2 i?` Students use the notion of creating dilemmas for the opponent as a frame for explaining and positively assessing their in-game decisions. [→ Sjöblom 2025 (2)](#sjoblom-2025-2)
 
 ## Evidence
 

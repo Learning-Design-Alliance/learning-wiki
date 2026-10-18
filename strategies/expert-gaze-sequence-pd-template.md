@@ -38,7 +38,7 @@ The article recommends that professional development programmes attend to the co
 - developing expert-like, culture-appropriate classroom gaze and attentional strategies
 
 ### Affordances
-- [Scanpath Theory Teacher Cognitive Models](../theories/scanpath-theory-teacher-cognitive-models.md)
+- Scanpath Theory Teacher Cognitive Models
 
 ## Related Strategies
 - 

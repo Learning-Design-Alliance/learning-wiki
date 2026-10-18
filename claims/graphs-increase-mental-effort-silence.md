@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Participants spoke less when problems included a graph; the proportion of silence rose from 62.3% to 66.3% in the multimedia condition. [→ Ögren 2017](#ögren-2017)
+`q2 i?` Participants spoke less when problems included a graph; the proportion of silence rose from 62.3% to 66.3% in the multimedia condition. [→ Ögren 2017](#ogren-2017)
 
 ## Evidence
 

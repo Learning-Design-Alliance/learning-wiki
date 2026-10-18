@@ -37,7 +37,7 @@ An implementable teaching activity: provide answers to sample problems so activi
 - Situated problem-solving methods, critical thinking, ownership of learning
 
 ### Affordances
-- [Quasi Community Framework](../theories/quasi-community-framework.md)
+- Quasi Community Framework
 
 ## Related Strategies
 - 

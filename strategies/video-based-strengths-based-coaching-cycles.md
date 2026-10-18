@@ -38,7 +38,7 @@ During implementation, "teachers participated in up to four video-based coaching
 - Teachers' use of talk moves and reduction of monologic control practices
 
 ### Affordances
-- [Quality Talk Framework](../theories/quality-talk-framework.md)
+- Quality Talk Framework
 
 ## Related Strategies
 - 

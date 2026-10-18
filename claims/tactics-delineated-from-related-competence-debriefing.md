@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Teachers recurrently draw distinctions between tactics and other phenomena such as communication, teamwork, and technology when steering debriefing discussions, and students adopt these distinctions. [→ Sjöblom 2025](#sjöblom-2025)
+`q2 i?` Teachers recurrently draw distinctions between tactics and other phenomena such as communication, teamwork, and technology when steering debriefing discussions, and students adopt these distinctions. [→ Sjöblom 2025](#sjoblom-2025)
 
 ## Evidence
 

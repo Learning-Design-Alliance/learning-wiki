@@ -29,8 +29,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` In problem P3 the graph raised correctness from 0.25 to 0.70; in P4 it lowered it from 0.38 to 0.10, and helpful graphs were selected, integrated and used to build mental models more actively. [→ Ögren 2017](#ögren-2017)
-`q2 i?` With a graph present, participants used less prior knowledge and integrated information less with input and statement, and evaluated their own knowledge more positively — consistent with a picture bias. [→ Ögren 2017 (2)](#ögren-2017-2)
+`q2 i?` In problem P3 the graph raised correctness from 0.25 to 0.70; in P4 it lowered it from 0.38 to 0.10, and helpful graphs were selected, integrated and used to build mental models more actively. [→ Ögren 2017](#ogren-2017)
+`q2 i?` With a graph present, participants used less prior knowledge and integrated information less with input and statement, and evaluated their own knowledge more positively — consistent with a picture bias. [→ Ögren 2017 (2)](#ogren-2017-2)
 
 ## Evidence
 

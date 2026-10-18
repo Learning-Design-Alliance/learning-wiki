@@ -29,8 +29,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Presentation condition significantly predicted giving a confirmatory answer, with more confirmations in the multimedia condition. [→ Ögren 2017](#ögren-2017)
-`q2 i?` A significant interaction between presentation condition and statement truth: performance was better for true statements with a graph present, while true/false made no difference without a graph. [→ Ögren 2017 (2)](#ögren-2017-2)
+`q2 i?` Presentation condition significantly predicted giving a confirmatory answer, with more confirmations in the multimedia condition. [→ Ögren 2017](#ogren-2017)
+`q2 i?` A significant interaction between presentation condition and statement truth: performance was better for true statements with a graph present, while true/false made no difference without a graph. [→ Ögren 2017 (2)](#ogren-2017-2)
 
 ## Evidence
 

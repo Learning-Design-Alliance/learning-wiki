@@ -37,7 +37,7 @@ The treatment teaching across ten 40-minute lessons operationalized the patterns
 - Discerning and using alternation of points of view on societal issues
 
 ### Affordances
-- [Variation Theory Learning Teaching](../theories/variation-theory-learning-teaching.md)
+- Variation Theory Learning Teaching
 
 ## Related Strategies
 - 

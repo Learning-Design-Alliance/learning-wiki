@@ -37,7 +37,7 @@ The editorial recommends that future research connect multiple studies through a
 - systematic theory building on preparation effects in composite instructional designs
 
 ### Affordances
-- [Cid Framework Composite Instructional Designs](../theories/cid-framework-composite-instructional-designs.md)
+- Cid Framework Composite Instructional Designs
 
 ## Related Strategies
 - 

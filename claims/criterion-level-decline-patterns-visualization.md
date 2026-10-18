@@ -29,8 +29,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
-`q3 i?` Among technical-execution criteria, Axis labeling and units (β = −0.49) and Annotations or key labels (β = −0.47) showed the steepest significant declines; among conceptual criteria, Explanation of scales and units (β = −0.30) and terminology (β = −0.28) declined most. [→ Francisco José Jiménez-Hornero 2026](#francisco-josé-jiménez-hornero-2026)
-`q3 i?` All five conceptual criteria showed statistically significant negative time effects after Bonferroni and FDR correction. [→ Francisco José Jiménez-Hornero 2026 (2)](#francisco-josé-jiménez-hornero-2026-2)
+`q3 i?` Among technical-execution criteria, Axis labeling and units (β = −0.49) and Annotations or key labels (β = −0.47) showed the steepest significant declines; among conceptual criteria, Explanation of scales and units (β = −0.30) and terminology (β = −0.28) declined most. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)
+`q3 i?` All five conceptual criteria showed statistically significant negative time effects after Bonferroni and FDR correction. [→ Francisco José Jiménez-Hornero 2026 (2)](#francisco-jose-jimenez-hornero-2026-2)
 
 ## Evidence
 

@@ -29,8 +29,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
-`q3 i2` Post-test personal epistemology of science scores differed significantly between groups (t(65) = 3.05, p < .05, d = 0.79), while value of science and self-efficacy subscales did not differ. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#gülüzar-eymur-pınar-seda-çetin-2024)
-`q3 i?` Overall SLA-MB scores did not differ significantly between groups after the treatment (t(65) = 1.35, p > .05). [→ Gülüzar Eymur · Pınar Seda Çetin 2024 (2)](#gülüzar-eymur-pınar-seda-çetin-2024-2)
+`q3 i2` Post-test personal epistemology of science scores differed significantly between groups (t(65) = 3.05, p < .05, d = 0.79), while value of science and self-efficacy subscales did not differ. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#guluzar-eymur-pnar-seda-cetin-2024)
+`q3 i?` Overall SLA-MB scores did not differ significantly between groups after the treatment (t(65) = 1.35, p > .05). [→ Gülüzar Eymur · Pınar Seda Çetin 2024 (2)](#guluzar-eymur-pnar-seda-cetin-2024-2)
 
 ## Evidence
 

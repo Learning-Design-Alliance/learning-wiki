@@ -37,7 +37,7 @@ A forward-looking design recommendation drawn from the study's null result: beca
 - conceptual understanding of variance and use of contrasting cases as grounded feedback on solution attempts
 
 ### Affordances
-- [Three Mechanisms Productive Failure Ps I](../theories/three-mechanisms-productive-failure-ps-i.md)
+- Three Mechanisms Productive Failure Ps I
 
 ## Related Strategies
 - 

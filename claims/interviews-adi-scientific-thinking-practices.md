@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` All six interviewed experimental-group students said the experiments helped them identify variables; four reported identifying patterns in data and five reported developing a method to investigate problems; no comparison-group students were coded in this category. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#gülüzar-eymur-pınar-seda-çetin-2024)
+`q2 i?` All six interviewed experimental-group students said the experiments helped them identify variables; four reported identifying patterns in data and five reported developing a method to investigate problems; no comparison-group students were coded in this category. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#guluzar-eymur-pnar-seda-cetin-2024)
 
 ## Evidence
 

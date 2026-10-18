@@ -39,7 +39,7 @@ This strategy operationalizes the ADI model in an eighth-grade science lab. The 
 - Scientific writing and peer review
 
 ### Affordances
-- [Adi Instructional Model Eight Steps](../theories/adi-instructional-model-eight-steps.md)
+- Adi Instructional Model Eight Steps
 
 ## Related Strategies
 - 

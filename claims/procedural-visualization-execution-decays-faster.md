@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
-`q3 i?` Technical-execution rubric scores fell significantly, with a substantially steeper time coefficient than conceptual understanding, supporting H2. [→ Francisco José Jiménez-Hornero 2026](#francisco-josé-jiménez-hornero-2026)
+`q3 i?` Technical-execution rubric scores fell significantly, with a substantially steeper time coefficient than conceptual understanding, supporting H2. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)
 
 ## Evidence
 

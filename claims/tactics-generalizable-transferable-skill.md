@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Teachers argue wargame exercises are designed to train tactics rather than familiarity with specific terrain, fostering an orientation to transferable knowledge. [→ Sjöblom 2025](#sjöblom-2025)
+`q2 i?` Teachers argue wargame exercises are designed to train tactics rather than familiarity with specific terrain, fostering an orientation to transferable knowledge. [→ Sjöblom 2025](#sjoblom-2025)
 
 ## Evidence
 

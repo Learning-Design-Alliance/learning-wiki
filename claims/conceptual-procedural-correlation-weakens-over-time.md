@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
-`q3 i?` Cross-sectional correlations between rubric dimensions were positive but shrinking across time points, and at T2 were uniformly weak and nonsignificant. [→ Francisco José Jiménez-Hornero 2026](#francisco-josé-jiménez-hornero-2026)
+`q3 i?` Cross-sectional correlations between rubric dimensions were positive but shrinking across time points, and at T2 were uniformly weak and nonsignificant. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)
 
 ## Evidence
 

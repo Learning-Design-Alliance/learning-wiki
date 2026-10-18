@@ -39,7 +39,7 @@ Because EMME visualize gaze with abstract stimuli such as a moving dot, circle o
 - Adopting effective multimedia processing strategies
 
 ### Affordances
-- [Emme Three Perspectives Effectiveness](../theories/emme-three-perspectives-effectiveness.md)
+- Emme Three Perspectives Effectiveness
 
 ## Related Strategies
 - Emme Eye Movement Modeling Examples
