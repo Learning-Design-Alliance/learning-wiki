@@ -15,12 +15,14 @@ sources:
     author: Yoon, Susan A.; Anderson, Emma; Koehler-Yom, Jessica; Evans, Chad; Park, Miyoung; Sheldon, Joshua; Schoenfeld, Ilana; Wendel, Daniel J; Scheintaub, Hal; Klopfer, Eric
     q: 2
     i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # Students' classroom experiences and learning over the 2 years illustrate the impact of the instructional supports
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Results from students' classroom experiences and learning over the 2 years are offered to further illustrate the impact of the instructional supports. [→ Yoon 2016](#yoon-2016)

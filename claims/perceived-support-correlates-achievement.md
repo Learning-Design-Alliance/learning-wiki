@@ -15,12 +15,14 @@ sources:
     author: Fan Chen, Gaowei Chen
     q: 3
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Argumentation-support and inquiry-experience perceptions were not significantly correlated with achievement within each group but showed significant pooled-sample associations (ρ = 0.317 and 0.253). [→ Fan Chen 2026](#fan-chen-2026)

@@ -17,7 +17,7 @@ sources:
 # Experiment with dialogic instructional moves that connect students' everyday experiences to conceptual knowledge to move beyond experience-based reasoning.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 This is the article's own implication for instructional work in life skills education. It recommends that teachers attend to students' ideas and everyday experiences and try out dialogic moves that link those resources to conceptual knowledge, addressing the observed problem that conversations sometimes "remained at an experience-based level without linking the student's everyday experiences to academic perspectives". The article's instruction moves include attuning to, acknowledging, repeating and revoicing student contributions.

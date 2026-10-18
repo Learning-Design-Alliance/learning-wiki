@@ -17,6 +17,7 @@ sources:
 # Technology-augmented inquiry approach (TAIA): pedagogical visibility as a mechanism to scaffold student inquiry and reduce teacher orchestration load in disadvantaged classrooms
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 TAIA is the framing model of this study: a classroom orchestration system that integrates digital tools into the inquiry workflow so that "transient student thoughts into inspectable, actionable digital artifacts" give teachers pedagogical visibility. Its utility is described as twofold — scaffolding student cognition by decomposing complex tasks, and enhancing pedagogical orchestration by externalizing student thinking for the teacher. The article evaluates a context-adapted TAIA via the WeInquiry platform in two rural classrooms, arguing prior efficacy was established only in resource-rich settings.

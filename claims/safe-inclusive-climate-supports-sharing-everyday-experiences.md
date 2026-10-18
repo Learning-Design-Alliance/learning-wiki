@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Marthe Fundingsrud, Anniken Furberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Inviting students to share everyday experiences contributed to a safe, inclusive classroom climate in which students willingly shared personal experiences in life skills conversations.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students willingly shared experiences they found relevant when inquiring into the focal life skills concepts. [→ Kenneth Silseth 2026](#kenneth-silseth-2026)

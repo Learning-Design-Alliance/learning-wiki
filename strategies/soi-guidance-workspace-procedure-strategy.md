@@ -17,7 +17,7 @@ sources:
 # Guide students through Select-Organize-Integrate steps with an application's multiple document functions before the task
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A concrete procedure the article implemented for strategy guidance in a tablet-based multiple document task. Before starting, students were instructed to "access documents and highlight important information in each document during reading, select and extract task-relevant information in each document and move it to the workspace, and organize and integrate extracted information in the workspace by comparing and contrasting information across documents". A cue card reminding them of the steps was available throughout the task, after a training task on another topic using a checklist of all application functions.

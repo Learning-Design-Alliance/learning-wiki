@@ -17,6 +17,7 @@ sources:
 # Out-of-school lab for social sciences as a setting for PF-based learning of research methods
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The studies took place in an interdisciplinary out-of-school lab at a large German university, offering projects for secondary students. The article describes that "Out-of-school labs are non-formal learning settings that are assumed to be highly authentic environments for learning scientific ways of thinking and working due to their location\

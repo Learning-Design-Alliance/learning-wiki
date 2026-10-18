@@ -15,12 +15,14 @@ sources:
     author: Biemans, H.J.A., Simons, P.RJ
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # CONTACT-2's effectiveness did not depend on the degree of conceptual resemblance between test questions and the central concepts from the texts, nor on the moment of testing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The effectiveness of the CONTACT-2 strategy appeared not to depend on the degree of conceptual resemblance between the performance test questions and the central concepts from the texts. [→ Biemans 1996](#biemans-1996)

@@ -15,12 +15,14 @@ sources:
     author: "Beege, M., & Ploetzner, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In an exploratory path analysis, none of intrinsic, extraneous, or germane load significantly mediated the effects of the two design features on retention or comprehension. [→ Beege 2025](#beege-2025)

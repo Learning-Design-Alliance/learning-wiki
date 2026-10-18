@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Marthe Fundingsrud, Anniken Furberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers can respond to sensitive and emotional student contributions in whole-class life skills conversations by acknowledging the contribution, integrating it and redirecting toward general aspects of the topic, thereby avoiding a therapeutic role.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When a student shared a personal story of exclusion in whole-class conversation, the teacher used the account as a stepping stone to engage the whole class without probing its emotional details. [→ Kenneth Silseth 2026](#kenneth-silseth-2026)

@@ -15,12 +15,14 @@ sources:
     author: "Voet, M. & De Wever, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` 109 students explicitly stated that the inquiry experience improved their understanding of how historical inquiry worked, emphasizing history's interpretative nature. [→ Voet 2018](#voet-2018)

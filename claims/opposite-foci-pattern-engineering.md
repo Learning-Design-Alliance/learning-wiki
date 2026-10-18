@@ -15,12 +15,14 @@ sources:
     author: "Iiskala, T., Volet, S., Jones, C., Koretsky, M., & Vauras, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # American university engineering students showed the opposite foci pattern: the less successful group manifested more high-level MR than the more successful group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In engineering, the less successful group showed 73.2% high-level focus MR versus 50.7% in the more successful group, which equally regulated both high and low levels. [→ Iiskala 2021](#iiskala-2021)

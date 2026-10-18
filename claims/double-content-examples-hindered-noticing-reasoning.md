@@ -15,12 +15,14 @@ sources:
     author: Jasmin Lilian Bauersfeld, Bernadette Gold
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Studying double-content examples before video-based analyses hindered student teachers' noticing and reasoning compared to studying without them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Student teachers studying without double-content examples showed significantly greater increases in noticing + reasoning than those studying with complete or faded double-content examples. [→ Jasmin Lilian Bauersfeld 2025](#jasmin-lilian-bauersfeld-2025)

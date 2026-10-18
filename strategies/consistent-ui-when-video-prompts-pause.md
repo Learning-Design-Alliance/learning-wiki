@@ -17,7 +17,7 @@ sources:
 # Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The discussion identifies a design contributor to extraneous load: prompts changed the screen layout, presenting video in a smaller frame beside a question-and-answer area and then restoring full screen after answering. The article states "A consistent user interface could help to keep extraneous load low." Implementers of in-video prompts should therefore avoid layout switches between watching and answering phases, keeping the video presentation stable while prompts are open.

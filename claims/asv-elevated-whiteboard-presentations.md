@@ -15,12 +15,14 @@ sources:
     author: Lehesvuori, S., Järvinen, M., Lämsä, J., Heilala, V., Hämäläinen, R.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students' situational stress (ASV) values were elevated during periods when students were engaged in tasks at the whiteboard
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Normalised Absolute Stress Vector values rose during student presentation turns at the whiteboard, with considerable variation between students and within presentations. [→ Lehesvuori 2026](#lehesvuori-2026)

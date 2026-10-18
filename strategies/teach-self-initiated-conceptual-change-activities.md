@@ -17,7 +17,7 @@ sources:
 # Teach learners to initiate and perform learning activities aimed at conceptual change themselves
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article closes by proposing that future work should identify "the instructional conditions required to teach students how they themselves can initiate and perform learning activities aimed at conceptual change". This moves beyond externally prompted activation toward self-regulated conceptual-change activity. It remains a research recommendation, not an implemented or tested recipe, since the article's experiments supplied activation computer-assisted rather than teaching students to self-initiate it.

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1762 entries** · 0 stable · 1762 in review · 0 drafts
+**1765 entries** · 0 stable · 1765 in review · 0 drafts
 
 ---
 
@@ -296,6 +296,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Concept Catalyst](concept-catalyst.md) - Concept Catalyst is an LLM-assisted web tool developed by Singh et al.
 * [Conceptual framework for data-driven decision making in education](conceptual-framework-for-data-driven-decision-making-in-education.md) - A Mathematica-developed framework, commissioned by the Gates Foundation, that organizes how education systems use data for strategic decision making and learning capacity.
 * [Concerns-Based Adoption Model](concerns-based-adoption-model.md) - CBAM is an implementation framework developed by researchers at the University of Texas at Austin for assessing and supporting individuals’ adoption of educational innovations.
+* [Condensation Conceptual Test (CCT)](condensation-conceptual-test-cct.md) - A five-item diagnostic assessment developed by Bayram Costu and colleagues to measure university students' conceptual understanding and conceptual change about condensation.
 * [Connect Science](connect-science.md) - Connect Science is a 31-lesson fourth-grade science curriculum that integrates NGSS practices, social and collaborative skills, and service learning for classroom implementation.
 * [Connect with Kids](connect-with-kids.md) - Connect with Kids is a character-education curriculum developed for elementary and secondary students that uses peer-story videos, lessons, activities, and schoolwide and community outreach to promote prosocial attitudes and positive behavior.
 * [ConnectED](connected.md) - ConnectED is a web application developed by Thang Doan Viet et al.
@@ -330,6 +331,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CRA Course Design Guide](cra-course-design-guide.md) - A modular Digital Promise resource produced by the CRA Collaborative to help instructors design or integrate a graduate-level introductory culturally responsive assessment course.
 * [CRAFT](craft.md) - CRAFT is a Stanford Graduate School of Education co-design initiative that develops classroom-ready artificial-intelligence literacy resources for educators.
 * [CREACT](creact.md) - CREACT is a five-step discussion-based teaching framework for creative thinking, developed by Sak and usable across lessons and topics.
+* [CResME (Clinical-reasoning Mapping Exercise)](cresme-clinical-reasoning-mapping-exercise.md) - A multimedia clinical-reasoning exercise system developed by Cloude et al.
 * [CRESST Integrated Assessment System](cresst-integrated-assessment-system.md) - A computer-based suite developed by CRESST that integrates collaborative and individual concept mapping, problem-solving, explanation, and metacognition tasks for assessing learning across ages and content areas.
 * [Critical Language Pedagogy questionnaire](critical-language-pedagogy-questionnaire.md) - A validated 17-item, four-factor Likert questionnaire developed by Mahmoodarabi et al.
 * [Critical Maker-Entrepreneurialism Program](critical-maker-entrepreneurialism-program.md) - A four-phase, multi-month youth program in which participants identify community-rooted problems, develop solutions with iterative community input, and reframe entrepreneurial practices for community benefit.
@@ -876,6 +878,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Linked Learning Alliance two-tiered certification system](linked-learning-alliance-two-tiered-certification-system.md) - A certification framework run by the Linked Learning Alliance to evaluate and support secondary-school Linked Learning pathways combining academics, career technical education, work-based learning, and student support services.
 * [LinkedIn skill network dataset: 2.4 million US workers, 16,753 skills, 556,206 directed edges, 12 skill domains](linkedin-skill-network-dataset-24-million-us-workers-16753-skills-556206-directed-edges-12.md) - A Carpanelli et al.
 * [Linking Learning to Careers](linking-learning-to-careers.md) - A Vermont Division of Vocational Rehabilitation programme that provides high school students with disabilities individualized career planning, integrated work-based learning, college exploration, team-based guidance, assistive technology support, and transportation funding.
+* [LiquidText](liquidtext.md) - LiquidText is a tablet-based multiple-document reading and sensemaking application developed by LiquidText that lets learners view, annotate, link, and synthesize information across documents.
 * [Literacy Boost](literacy-boost.md) - Literacy Boost is Save the Children's early-literacy intervention programme, including teacher professional development and classroom-support components for young learners.
 * [Literacy Express](literacy-express.md) - A preschool curriculum package for three- to five-year-old children that integrates oral language, emergent literacy, mathematics, science, general knowledge, and socioemotional development through thematic units and daily group activities.
 * [Literacy First](literacy-first.md) - Literacy First is an early-literacy tutoring programme run by Literacy First that provides trained tutors and individualized daily sessions for kindergarten through grade 2 students who are reading below grade level.

@@ -15,12 +15,14 @@ sources:
     author: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # SRL phase transitions during clinical reasoning with a multimedia system are frequent, cyclical, and dominated by Forethought→Performance and Performance→Forethought transitions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The most frequent SRL phase dyad was Forethought→Performance (25%), followed by Performance→Forethought (21%), Performance→Self-reflection (14%), and Self-reflection→Performance (11%). [→ Cloude 2025](#cloude-2025)

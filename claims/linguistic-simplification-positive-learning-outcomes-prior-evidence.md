@@ -15,18 +15,22 @@ sources:
     author: Lina Wirth, Timo Ehmke, Jan Retelsdorf, Poldi Kuhl
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: lina-wirth-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09799-y"
     title: "Lina Wirth, Timo Ehmke, Jan Retelsdorf, Poldi Kuhl. (2026). Linguistic demands of instructions: Effects on students’ expectancy-value beliefs. Instructional Science. https://doi.org/10.1007/s11251-026-09799-y"
     author: Lina Wirth, Timo Ehmke, Jan Retelsdorf, Poldi Kuhl
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Prior meta-analytic and experimental evidence reports positive effects of linguistic simplification on learning outcomes, attributed by the review literature cited in this article
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A meta-analysis summarized by the article reports that linguistic modifications in STEM had a significant positive impact on learning outcomes, particularly for students with limited prior knowledge. [→ Lina Wirth 2026](#lina-wirth-2026)

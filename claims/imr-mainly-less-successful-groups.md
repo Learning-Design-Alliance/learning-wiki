@@ -15,12 +15,14 @@ sources:
     author: "Iiskala, T., Volet, S., Jones, C., Koretsky, M., & Vauras, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # IMR occurred mainly in less successful outcome groups and was absent or rare in more successful outcome groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` IMR amounted to 21.3% of MR turns in the less successful Finnish high school group versus 2.5% in the more successful group. [→ Iiskala 2021](#iiskala-2021)

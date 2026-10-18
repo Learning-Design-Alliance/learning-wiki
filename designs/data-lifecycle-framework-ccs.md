@@ -17,6 +17,7 @@ sources:
 # The data lifecycle: extending participatory science beyond data collection to decisions and action
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes the data lifecycle as the full arc of participatory science work, from developing expertise and defining research questions through collecting, interpreting, and sharing data to making decisions and taking action, then evaluating outcomes and reassessing goals. It holds that "data alone do not contain instructions for which actions to take" and that decisions are expressions of preference shaped by identity. The authors used it as an instructional design process for centering youth agency in their bird-monitoring CCS project.

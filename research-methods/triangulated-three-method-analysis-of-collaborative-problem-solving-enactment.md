@@ -12,6 +12,7 @@ generated:
 # Triangulated three-method analysis of collaborative problem-solving enactment
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article develops a triangulated analysis method combining three equally valued approaches to understand CPS at group level: "(a) directed content analysis of the actualized CPS in groups, (b) process analysis and visualizations, and (c) qualitative cases". All analyses rest on video recordings of co-located group sessions. Content analysis provides cumulative frequency accounts, process analysis adds the temporal order and intensity of social and cognitive states, and qualitative cases return attention to micro-interaction processes. The authors argue this produces "a unified depiction in understanding CPS in this context" and divergent ways to understand CPS.

@@ -15,12 +15,14 @@ sources:
     author: Ashlyn Pierson, D. Teo Keifert, Bethany Daniel, Sarah Lee, Tessaly Jen, Adam Bell, Heather Johnson, Rachel Askew, Andrea Henrie
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # An initial PD design that did not distinguish equity conceptions reified deficit perspectives of multilingual learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During Summer PD 1 and Academic Year 1, teachers and facilitators framed multilingual learners' writing and language in deficit terms, and facilitators redirected to artifacts rather than challenging deficit framings. [→ Ashlyn Pierson 2024](#ashlyn-pierson-2024)

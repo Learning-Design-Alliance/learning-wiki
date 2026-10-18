@@ -15,12 +15,14 @@ sources:
     author: Lehesvuori, S., Järvinen, M., Lämsä, J., Heilala, V., Hämäläinen, R.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Peer discussion leading to individual resolving of an incorrect solution was interpreted as cognitive engagement favouring learning, co-occurring with peaking situational stress
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Student C's realisation of an error during peer comparison, followed by individual problem solving with peaking ASV, was interpreted as stress co-occurring with productive cognitive engagement. [→ Lehesvuori 2026](#lehesvuori-2026)

@@ -15,12 +15,14 @@ sources:
     author: "Beege, M., & Ploetzner, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Navigation features and self-explanation prompts do not interact in their effect on video learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The combination of navigation features and self-explanation prompts showed no interaction effect on retention or comprehension, contrary to the hypothesis that navigation would help most with prompts. [→ Beege 2025](#beege-2025)

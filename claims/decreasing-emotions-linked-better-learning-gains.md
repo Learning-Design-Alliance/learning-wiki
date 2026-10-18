@@ -15,12 +15,14 @@ sources:
     author: "Ketonen, E. E., Kruskopf, M., Lonka, K., & Mattlin, M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Groups formed by individual emotion slopes did not differ at pre-test, but the decreasing-anxiety, decreasing-surprise and decreasing-enjoyment groups showed more positive change in concept-test scores; no associations were found for other emotions. [→ Ketonen 2026](#ketonen-2026)

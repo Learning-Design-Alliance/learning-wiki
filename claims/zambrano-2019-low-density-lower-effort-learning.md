@@ -15,18 +15,22 @@ sources:
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jimmy-zambrano-2019-2
     resource: "https://doi.org/10.1007/s11251-019-09495-0"
     title: "Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner. (2019). Effects of group experience and information distribution on collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-019-09495-0"
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Low information density reduces mental effort and increases efficiency during the collaborative learning phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` During the learning phase, groups with low information density perceived lower mental effort than groups with high information density. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

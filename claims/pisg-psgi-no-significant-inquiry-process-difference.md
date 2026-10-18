@@ -15,18 +15,22 @@ sources:
     author: Esther Tan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: esther-tan-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9460-6"
     title: "Esther Tan (2018). Effects of two differently sequenced classroom scripts on common ground in collaborative inquiry learning. Instructional Science. https://doi.org/10.1007/s11251-018-9460-6"
     author: Esther Tan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The PISG and PSGI script sequences showed no statistically significant differences on high- and low-level inquiry processes, with small effect sizes despite descriptive trends favoring PISG on high-level processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Descriptively, the PISG sequence showed more occurrences of high-level generating evidence, evaluating evidence, and drawing conclusions than PSGI, but the differences were not statistically significant and effect sizes were small. [→ Esther Tan 2018](#esther-tan-2018)

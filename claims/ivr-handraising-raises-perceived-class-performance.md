@@ -15,18 +15,22 @@ sources:
     author: Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: lisa-hasenbein-2024-2
     resource: "https://doi.org/10.1007/s11251-023-09646-4"
     title: "Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner. (2024). An experimental test of the Big-Fish-Little-Pond Effect using an immersive virtual reality classroom. Instructional Science. https://doi.org/10.1007/s11251-023-09646-4"
     author: Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner
     q: 3
     i: 3
+    kind: causal
+    rigour: 3
 ---
 
 # Higher proportions of hand-raising virtual classmates raise sixth-graders' perceived class performance level and register more hand-raisers in an IVR lesson
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` Compared with 20% hand-raising classmates, 65% (d = 0.60) and 80% (d = 1.24) conditions produced significantly higher perceived class performance levels, while 35% did not. [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

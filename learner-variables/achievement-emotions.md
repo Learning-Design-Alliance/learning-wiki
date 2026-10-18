@@ -12,7 +12,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (42 show a difference, 8 mixed, 5 no difference, 2 unmarked) · 45 studies (13 causal, 10 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 6 of 45 report an effect size · 54 claims rest on one study
+> **Evidence** · 62 claims (43 show a difference, 12 mixed, 5 no difference, 2 unmarked) · 47 studies (14 causal, 11 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 7 of 47 report an effect size · 59 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).

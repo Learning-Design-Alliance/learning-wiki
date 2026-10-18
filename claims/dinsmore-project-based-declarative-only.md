@@ -15,12 +15,14 @@ sources:
     author: "Loyens, S. M. M., & Gijbels, D."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` A collaborative, project-based engineering design course produced significant effects on students' declarative knowledge, but not on procedural or principled knowledge, nor on personal interest in engineering. [→ Loyens 2008](#loyens-2008)

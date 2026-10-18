@@ -15,18 +15,22 @@ sources:
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: nadja-m-gentner-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09671-x"
     title: "Nadja M. Gentner, Lisa Respondek, Tina Seufert. (2024). Effects of short- and long-term prompting in learning journals on strategy use, self-efficacy, and learning outcomes. Instructional Science (2024) 52:919–950. https://doi.org/10.1007/s11251-024-09671-x"
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` For self-reported cognitive strategy use in unit 2 there was a main effect of time but no main effect of condition and no time × condition interaction, F(3,216)=0.23, p=.87; strategy use decreased irrespective of condition. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

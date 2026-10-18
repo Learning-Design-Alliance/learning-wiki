@@ -15,12 +15,14 @@ sources:
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Of 42 participants, the largest group (20) preferred high-tech VAD, citing superior audio and video quality, two camera angles, and timestamps that made the debriefing more focused. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)

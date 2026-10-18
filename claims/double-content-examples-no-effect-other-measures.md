@@ -15,12 +15,14 @@ sources:
     author: Jasmin Lilian Bauersfeld, Bernadette Gold
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Double-content examples had no significant effect on generating alternatives of action, drawing inferences, or taking multiple perspectives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Increases in alternatives of action, inferences, and multiple perspectives did not differ significantly between groups with and without double-content examples. [→ Jasmin Lilian Bauersfeld 2025](#jasmin-lilian-bauersfeld-2025)

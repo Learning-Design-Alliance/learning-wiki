@@ -15,12 +15,14 @@ sources:
     author: Fan Chen, Gaowei Chen
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` After adjusting for pre-test achievement and ICT competency, the inquiry approach significantly affected post-test scores (ηp² = 0.102), with EG students outperforming CG peers. [→ Fan Chen 2026](#fan-chen-2026)

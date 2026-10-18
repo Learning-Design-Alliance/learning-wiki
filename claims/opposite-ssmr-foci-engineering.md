@@ -15,12 +15,14 @@ sources:
     author: "Iiskala, T., Volet, S., Jones, C., Koretsky, M., & Vauras, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In the engineering context, SSMR focus showed an opposite pattern to veterinary science: the less successful group had proportionally more SSMR-High than the more successful group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In engineering, SSMR-High was 63.4% of MR turns in the less successful group versus 38.7% in the more successful group. [→ Iiskala 2021](#iiskala-2021)

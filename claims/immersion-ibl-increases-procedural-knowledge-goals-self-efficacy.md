@@ -15,18 +15,22 @@ sources:
     author: "Voet, M. & De Wever, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: voet-2018-2
     resource: "https://doi.org/10.1007/s11251-017-9439-8"
     title: "Voet, M. & De Wever, B. (2018). Effects of immersion in inquiry-based learning on student teachers' educational beliefs. Instructional Science, 46(3), 383-403. https://doi.org/10.1007/s11251-017-9439-8"
     author: "Voet, M. & De Wever, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Student teachers' value for procedural knowledge goals increased significantly from pre- to posttest after a four-hour technology-enhanced inquiry activity. [→ Voet 2018](#voet-2018)

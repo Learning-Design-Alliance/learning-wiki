@@ -15,18 +15,22 @@ sources:
     author: Fan Chen, Gaowei Chen
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: fan-chen-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09788-1"
     title: "Fan Chen, Gaowei Chen. (2026). How a technology-augmented inquiry approach affects teacher practice and student learning in disadvantaged science classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09788-1"
     author: Fan Chen, Gaowei Chen
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` EG students reported significantly higher perceived hypothesis-related support, argumentation-related support, and inquiry enjoyment than CG students. [→ Fan Chen 2026](#fan-chen-2026)

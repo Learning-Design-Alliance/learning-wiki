@@ -15,18 +15,22 @@ sources:
     author: Jordan Lombard, Ivar Bråten, Cécile van de Leemput, Franck Amadieu
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: jordan-lombard-2021-2
     resource: "https://doi.org/10.1007/s11251-021-09537-6"
     title: "Jordan Lombard, Ivar Bråten, Cécile van de Leemput, Franck Amadieu. (2021). Performance and acceptance when using tablets as a multiple document learning tool: do application and guidance matter? Instructional Science. https://doi.org/10.1007/s11251-021-09537-6"
     author: Jordan Lombard, Ivar Bråten, Cécile van de Leemput, Franck Amadieu
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The LiquidText Guidance group perceived the tablet as less useful than the control group, with d = 1.22. [→ Jordan Lombard 2021](#jordan-lombard-2021)

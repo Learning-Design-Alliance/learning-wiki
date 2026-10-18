@@ -17,6 +17,7 @@ sources:
 # Constructive competition within Social Interdependence Theory
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article frames classroom competition through Social Interdependence Theory, which defines competition as a situation in which "individuals have similar goals and each individual's performance is impacted by the actions of others." Modern views place competition and cooperation on one continuum, and treat competition as constructive to learning "when winning is relatively unimportant, in situations in which all participants have a reasonable chance to win, and under circumstances in which there are clear, specific, and fair rules, procedures, and criteria for winning." The study designed its Kahoot activities (no grade impact, immediate feedback, leaderboard with normative comparisons) to meet this definition, and examined individual-difference predispositions toward competition alongside the situational context.

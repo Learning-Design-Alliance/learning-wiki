@@ -15,12 +15,14 @@ sources:
     author: Yoon, Susan A.; Anderson, Emma; Koehler-Yom, Jessica; Evans, Chad; Park, Miyoung; Sheldon, Joshua; Schoenfeld, Ilana; Wendel, Daniel J; Scheintaub, Hal; Klopfer, Eric
     q: 1
     i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # United States next generation science standards emphasize learning about complex systems as a core feature of science learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r?` · `q1`
 
 ## Subclaims
 `q1 i?` The recent next generation science standards in the United States emphasize learning about complex systems as a core feature of science learning. [→ Yoon 2016](#yoon-2016)

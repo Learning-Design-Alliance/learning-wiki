@@ -15,12 +15,14 @@ sources:
     author: David Gijbels, Sofie M. M. Loyens
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The authors argue meaningful learning is possible outside environments labeled constructivist, including lectures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Learning in lectures can be a constructive process leading to meaningful learning; meaningful learning does not exclusively occur in environments explicitly designed on constructivist theories. [→ David Gijbels 2009](#david-gijbels-2009)

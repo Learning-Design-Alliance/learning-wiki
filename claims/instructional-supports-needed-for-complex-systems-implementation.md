@@ -15,12 +15,14 @@ sources:
     author: Yoon, Susan A.; Anderson, Emma; Koehler-Yom, Jessica; Evans, Chad; Park, Miyoung; Sheldon, Joshua; Schoenfeld, Ilana; Wendel, Daniel J; Scheintaub, Hal; Klopfer, Eric
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Results across 2 years demonstrate the need for particular instructional supports to improve implementation efforts, including differentiated opportunities to build expertise and addressing teacher beliefs about whether computational-model construction belongs in the science classroom. [→ Yoon 2016](#yoon-2016)

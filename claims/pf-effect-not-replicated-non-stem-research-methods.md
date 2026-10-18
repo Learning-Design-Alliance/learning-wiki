@@ -15,12 +15,14 @@ sources:
     author: Valentina Nachtigall · Katja Serova · Nikol Rummel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across two quasi-experimental studies (212 and 152 10th graders) comparing Productive Failure to direct instruction for social science research methods, PF students did not outperform DI students. [→ Valentina Nachtigall · Katja Serova · Nikol Rummel 2020](#valentina-nachtigall-katja-serova-nikol-rummel-2020)

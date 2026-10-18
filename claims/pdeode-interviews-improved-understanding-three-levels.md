@@ -15,12 +15,14 @@ sources:
     author: Bayram Costu, Alipasa Ayas, Mansoor Niaz
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Interviewed students at below-average, average, and above-average levels showed improved understanding of condensation after the intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Semi-structured interviews with three students of differing prior performance showed alternative conceptions remediated for below-average and average students and strengthened scientific views for the above-average student. [→ Bayram Costu 2011](#bayram-costu-2011)

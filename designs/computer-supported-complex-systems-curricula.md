@@ -17,6 +17,7 @@ sources:
 # Computer-supported complex systems curricula delivered in science classrooms
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Computer-supported complex systems curricula are classroom science materials in which computational tools support student learning about complex systems, a topic that next generation science standards in the United States emphasize as "a core feature of science learning". The article studies teachers' delivery of such curricula in a 2-year professional development project, gathering data on teachers' abilities and perceptions. The curricula's classroom implementation is the setting in which the article's teacher-support findings arise.

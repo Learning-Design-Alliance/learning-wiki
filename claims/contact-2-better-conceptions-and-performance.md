@@ -15,12 +15,14 @@ sources:
     author: Biemans, H.J.A., Simons, P.RJ
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The revised CONTACT-2 strategy led fifth- and sixth-graders to construct better conceptions and achieve higher learning performance scores than original CONTACT or no-activation control conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students from the CONTACT-2 condition constructed better conceptions than students from the original CONTACT and NO ACTIVATION control conditions. [→ Biemans 1996](#biemans-1996)

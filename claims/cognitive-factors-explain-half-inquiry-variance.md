@@ -15,12 +15,14 @@ sources:
     author: "Gerdesmann, D., Schwichow, M., & Koerber, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Content knowledge, CVS, functional thinking, and general cognitive ability each significantly contributed to inquiry performance, jointly explaining approximately 49% of variance. [→ Gerdesmann 2026](#gerdesmann-2026)

@@ -15,18 +15,22 @@ sources:
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jimmy-zambrano-2019-2
     resource: "https://doi.org/10.1007/s11251-019-09495-0"
     title: "Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner. (2019). Effects of group experience and information distribution on collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-019-09495-0"
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the learning phase, experienced groups outperformed inexperienced groups on task performance. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

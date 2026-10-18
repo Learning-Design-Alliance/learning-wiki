@@ -15,18 +15,22 @@ sources:
     author: Esther Tan
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
   - id: esther-tan-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9460-6"
     title: "Esther Tan (2018). Effects of two differently sequenced classroom scripts on common ground in collaborative inquiry learning. Instructional Science. https://doi.org/10.1007/s11251-018-9460-6"
     author: Esther Tan
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In the PISG case study, occurrences of high-level grounding and high-level testing co-occurred with more occurrences of high-level inquiry processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q1`–`q2`
 
 ## Subclaims
 `q1 i?` Graphical coding analysis of one PISG small group's full discourse showed that occurrences of high-level grounding (GH) and high-level testing (TH) led to occurrences of high-level generation of evidence, evaluation of evidence and drawing of conclusions. [→ Esther Tan 2018](#esther-tan-2018)

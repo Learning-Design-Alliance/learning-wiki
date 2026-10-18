@@ -15,12 +15,14 @@ sources:
     author: "Loyens, S. M. M., & Gijbels, D."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In a constructivist portfolio-assessment course, deep approaches decreased, surface approaches increased, and preferences for student participation and permanent evaluation decreased significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students in a constructivist-designed course with portfolio assessment decreased deep approaches and increased surface approaches, and their preferences for student participation in examination and for permanent evaluation decreased significantly. [→ Loyens 2008](#loyens-2008)

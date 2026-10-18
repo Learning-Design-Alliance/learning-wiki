@@ -15,18 +15,22 @@ sources:
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: stefan-a-schreder-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
     title: "Stefan A. Schreder, Helen Jossberger, Hans Gruber. (2025). Mountain rescuers' experiences with video-assisted and verbal debriefings: a qualitative study. Instructional Science. https://doi.org/10.1007/s11251-025-09716-9"
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` High-tech VAD equipment led some participants to feel stressed, under pressure, and inhibited from showing natural behaviour; fear of being exposed with recorded mistakes applied to both VAD types. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)

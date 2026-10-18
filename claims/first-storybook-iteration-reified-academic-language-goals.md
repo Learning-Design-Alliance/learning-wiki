@@ -15,12 +15,14 @@ sources:
     author: Ashlyn Pierson, D. Teo Keifert, Bethany Daniel, Sarah Lee, Tessaly Jen, Adam Bell, Heather Johnson, Rachel Askew, Andrea Henrie
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers persisted in treating academic English as the endpoint of science learning during the first Language Storybook iteration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the first Summer PD 2 workshop, debrief reflections reified rather than rearticulated monolingual language ideologies, maintaining an equity-as-access framing despite the immersive French activity. [→ Ashlyn Pierson 2024](#ashlyn-pierson-2024)

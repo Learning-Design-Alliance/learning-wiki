@@ -17,7 +17,7 @@ sources:
 # Engage student teachers in reflection on their educational beliefs before immersing them in IBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors advise that because immersion in IBL "may not be effective for student teachers who hold conceptions that are largely incompatible with IBL", professional development should first engage student teachers in reflection on their educational beliefs. Conceptual-change strategies are recommended: making implicit beliefs explicit, revealing their inadequacy, and integrating logically sound alternative perspectives.

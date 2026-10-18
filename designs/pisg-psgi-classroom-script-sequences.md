@@ -17,6 +17,7 @@ sources:
 # Two differently sequenced classroom scripts: PISG (Plenary–Individual–Small Group) and PSGI (Plenary–Small Group–Individual)
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Both scripts begin with the teacher modeling each inquiry skill at the plenary level, then distribute activities across social levels in opposite orders. In this study, "students in the Plenary–Individual–Small Group (PISG) classroom script first worked individually before working in small groups, whereas students in the Plenary–Small Group–Individual (PSGI) condition first worked in small groups before working individually." Both sequences ran through a pre-field trip, field trip to the Botanical Gardens and post-field trip phase on plant adaptation, with inquiry task 1 consistently used for plenary teacher modeling. The scripts are used as macro-scripts that shape interaction patterns by sequencing tasks across plenary, individual and small group levels.

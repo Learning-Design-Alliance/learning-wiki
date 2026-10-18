@@ -15,18 +15,22 @@ sources:
     author: Daniell DiFrancesca, Dan Spencer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: daniell-difrancesca-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09741-8"
     title: "Daniell DiFrancesca, Dan Spencer. (2025). The effects of competitive classroom activities on undergraduates with varied levels of competitive preference. Instructional Science. https://doi.org/10.1007/s11251-025-09741-8"
     author: Daniell DiFrancesca, Dan Spencer
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` Self-efficacy, metacognitive self-regulation, mastery approach/avoidance, and performance avoidance showed no significant group, time, or interaction effects; only overall interest showed a time effect, with students decreasing in reported interest from pre-test to post-test. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

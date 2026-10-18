@@ -15,12 +15,14 @@ sources:
     author: Bayram Costu, Alipasa Ayas, Mansoor Niaz
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # A PDEODE teaching activity reduced first-year students' alternative conceptions about condensation from pre-test to post-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` After a teaching activity of three PDEODE tasks, students' alternative conceptions about condensation decreased from pre-test to post-test. [→ Bayram Costu 2011](#bayram-costu-2011)

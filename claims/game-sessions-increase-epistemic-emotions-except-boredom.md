@@ -15,12 +15,14 @@ sources:
     author: "Ketonen, E. E., Kruskopf, M., Lonka, K., & Mattlin, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Attending a game session rather than a lecture increased all epistemic emotions except boredom among university students in a Diplomacy-based international relations course.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Game sessions increased curiosity, enjoyment, surprise, confusion, anxiety and frustration relative to lectures, while boredom was reported less often in game sessions. [→ Ketonen 2026](#ketonen-2026)

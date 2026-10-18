@@ -15,12 +15,14 @@ sources:
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The learning-phase MANOVA showed a large multivariate main effect of group experience and a medium-sized main effect of information distribution, with a nonsignificant interaction. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

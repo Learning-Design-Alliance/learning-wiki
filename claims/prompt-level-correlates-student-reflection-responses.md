@@ -15,12 +15,14 @@ sources:
     author: Avivit Arvatz, Boaz Hadas, Rotem Waitzman, Yehudit Judy Dori
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Teachers' reflective prompt levels correlate significantly with the reflective level of their students' responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A significant Spearman correlation between the level of teachers' reflective prompts and students' reflective responses (rs = 0.31, p < 0.001, N = 538). [→ Avivit Arvatz 2025](#avivit-arvatz-2025)

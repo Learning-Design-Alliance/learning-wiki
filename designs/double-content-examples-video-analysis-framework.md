@@ -17,6 +17,7 @@ sources:
 # Double-content examples as instructional support for video-based analysis in an ill-structured domain
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Double-content examples integrate two levels: the learning domain level (the skill being taught, here analyzing classroom videos) and the exemplifying domain level (the content illustrating it, here classroom management). In this study, written analyses by an expert teacher with 38 years of experience served as examples, with highlighted text sequences marking professional vision indicators and instructional explanations added. The framework draws on cognitive load theory and the worked example effect, proposing that novices study expert solutions before producing their own analyses.

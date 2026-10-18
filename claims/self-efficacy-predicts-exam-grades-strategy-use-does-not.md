@@ -15,12 +15,14 @@ sources:
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In a regression on first-exam grades, neither self-reported cognitive nor metacognitive strategy use predicted learning outcomes, while self-efficacy did. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

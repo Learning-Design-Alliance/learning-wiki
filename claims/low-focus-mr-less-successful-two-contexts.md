@@ -15,12 +15,14 @@ sources:
     author: "Iiskala, T., Volet, S., Jones, C., Koretsky, M., & Vauras, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # MR of less successful outcome groups focused more on low-level cognitive activity in Finnish high school and Australian veterinary contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Finnish high school, low-level focus MR was 67.2% in the less successful group versus 31.6% in the more successful group. [→ Iiskala 2021](#iiskala-2021)

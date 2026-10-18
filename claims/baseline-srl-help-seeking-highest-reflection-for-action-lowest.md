@@ -15,12 +15,14 @@ sources:
     author: Avivit Arvatz, Boaz Hadas, Rotem Waitzman, Yehudit Judy Dori
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' baseline SRL profiles show help-seeking as the highest and reflection FOR action as the lowest skill in both cohorts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In both cohorts, reflection FOR action was the lowest SRL skill and help-seeking the highest, with significant Friedman rank differences among SRL factors. [→ Avivit Arvatz 2025](#avivit-arvatz-2025)

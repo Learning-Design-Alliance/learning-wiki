@@ -15,12 +15,14 @@ sources:
     author: Jasmin Lilian Bauersfeld, Bernadette Gold
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The focus-on-students effect was not robust: significant in the ANOVA but not in non-parametric tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i1` The ANOVA showed a small significant group difference in focus on students favoring the control group, but Kruskal-Wallis tests did not confirm it. [→ Jasmin Lilian Bauersfeld 2025](#jasmin-lilian-bauersfeld-2025)

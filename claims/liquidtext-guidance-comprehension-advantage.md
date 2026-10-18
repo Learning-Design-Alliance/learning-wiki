@@ -15,12 +15,14 @@ sources:
     author: Jordan Lombard, Ivar Bråten, Cécile van de Leemput, Franck Amadieu
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Guided use of a multiple document reading application yields higher multiple document comprehension than access-only, unguided, or traditional pdf viewer use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Undergraduate students guided to use LiquidText's functions outperformed the control group on multiple document comprehension with d = 1.41. [→ Jordan Lombard 2021](#jordan-lombard-2021)

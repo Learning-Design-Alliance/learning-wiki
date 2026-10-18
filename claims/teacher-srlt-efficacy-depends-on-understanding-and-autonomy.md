@@ -15,12 +15,14 @@ sources:
     author: Avivit Arvatz, Boaz Hadas, Rotem Waitzman, Yehudit Judy Dori
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers' SRL&T implementation efficacy depended on developing SRL understanding and autonomy in designing SRL-enriched modules
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q1 i?` Findings from interviews, reflections, and thematic analysis indicate teachers' efficacy in implementing SRL&T depended on their developing SRL understanding and design autonomy. [→ Avivit Arvatz 2025](#avivit-arvatz-2025)

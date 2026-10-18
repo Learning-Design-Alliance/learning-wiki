@@ -15,12 +15,14 @@ sources:
     author: "Beege, M., & Ploetzner, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Learning from video with self-explanation prompts was not more successful than learning without prompts, with Bayes factors supporting the null hypothesis. [→ Beege 2025](#beege-2025)

@@ -22,7 +22,7 @@ sources:
 # Multimodal analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 8 claims (8 for) · 3 studies (2 associational, 1 design), `q2`–`q3` · 0 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (10 for) · 4 studies (3 associational, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 10 claims rest on one study
 
 ## Description
 Multimodal analysis is one of three methodological advances the report highlights, defined as "Integrating multiple streams of data, such as audio, video, eye gaze, sensors, and clickstream data." The introduction elaborates it as "the study of learning with data streams that include physical movement, sound, and logs from interactions with technology (as well as more traditional observations)." The report presents the Connected Worlds exhibit at the New York Hall of Science, which enables embodied learning in an immersive sensor-rich space, as a research site where scientists are pushing the frontiers of multimodal analytics.

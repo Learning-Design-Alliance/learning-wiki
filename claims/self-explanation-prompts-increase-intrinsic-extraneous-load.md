@@ -15,12 +15,14 @@ sources:
     author: "Beege, M., & Ploetzner, R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Self-explanation prompts increase intrinsic and extraneous cognitive load but not germane load in instructional video learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Self-explanation prompts significantly increased perceived intrinsic load and extraneous load, while navigation features had no effect on any load facet and germane load was unaffected. [→ Beege 2025](#beege-2025)

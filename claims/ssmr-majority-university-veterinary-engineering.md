@@ -15,12 +15,14 @@ sources:
     author: "Iiskala, T., Volet, S., Jones, C., Koretsky, M., & Vauras, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # SSMR comprised the majority of social MR turns in both less and more successful outcome groups in Australian university veterinary science and American university engineering contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In veterinary science, SSMR constituted 92.1% of less successful groups' MR turns and 91.6% of more successful groups' MR turns. [→ Iiskala 2021](#iiskala-2021)

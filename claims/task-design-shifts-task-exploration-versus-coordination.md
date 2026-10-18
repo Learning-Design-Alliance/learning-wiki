@@ -15,12 +15,14 @@ sources:
     author: Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Task design relates to emphases within the cognitive elements: the technology-enhanced task elicited more task exploration, while the physical-objects task elicited more coordination
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across task designs, cognitive sub-element emphases differed: Task 1 involved more task exploration than coordination, while Task 2 involved more coordination than task exploration. [→ Johanna Pöysä-Tarhonen 2022](#johanna-poysa-tarhonen-2022)

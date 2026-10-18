@@ -15,12 +15,14 @@ sources:
     author: Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Reported presence (α = 0.77) and realism (α = 0.78) were high in all conditions, and conditions showed no significant differences (all ps > 0.05). [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

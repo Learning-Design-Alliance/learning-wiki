@@ -15,18 +15,22 @@ sources:
     author: Jasmin Lilian Bauersfeld, Bernadette Gold
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: jasmin-lilian-bauersfeld-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09738-3"
     title: "Jasmin Lilian Bauersfeld, Bernadette Gold. (2025). Complete or faded double-content examples of video-based analyses: How do they impact student teachers' professional vision of classroom management? Instructional Science. https://doi.org/10.1007/s11251-025-09738-3"
     author: Jasmin Lilian Bauersfeld, Bernadette Gold
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Self-explanations from faded double-content examples did not predict change in professional vision, with two isolated exceptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Multiple regression models showed the self-explanation scores together did not predict change in any professional vision measure. [→ Jasmin Lilian Bauersfeld 2025](#jasmin-lilian-bauersfeld-2025)

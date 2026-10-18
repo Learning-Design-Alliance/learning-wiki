@@ -17,7 +17,7 @@ sources:
 # Support youth as knowledge producers with rigorous intellectual criteria for evaluating their environmental decisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's forward-looking recommendation for CCS education is to design projects that position youth as knowledge producers and to explicitly build their decision-evaluation capacity. Per the abstract, projects should provide "instructional recommendations for CCS projects which position youth as knowledge producers, such as how to support youth in developing rigorous intellectual criteria for evaluating their environmental decisions." The study's findings motivate this: students had systems knowledge but varied values and often lacked action-related knowledge.

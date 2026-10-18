@@ -12,7 +12,7 @@ generated:
 # Turn-level and lesson-level classroom dialogue coding
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An observational scheme coding every speaker turn for codes such as ELI, EL, REI, RE, OI, UC, Q, SC, RC, RB and RW, plus five holistic lesson-level ratings (Aims, Monitoring, Reflection, Talk Rules, Student Participation). The article reports that "Video-recorded dialogue was analyzed using a scheme based on work reported by Hennessy, Rojas-Drummond and colleagues", with reliability checks on 9952 turns yielding Pearson rs from .65 to 1.00 (M=.79).

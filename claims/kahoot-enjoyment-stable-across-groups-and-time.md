@@ -15,12 +15,14 @@ sources:
     author: Daniell DiFrancesca, Dan Spencer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Enjoyment ratings showed no significant time, group, or interaction effects, and remained high (totals around 4 on a 5-point scale) across all eight Kahoots. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

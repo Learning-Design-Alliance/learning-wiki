@@ -15,12 +15,14 @@ sources:
     author: Daniell DiFrancesca, Dan Spencer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` For quiz 1, the Kahoot-performance-by-competitiveness interaction was significant, with a positive Kahoot-quiz relationship for the HC group only; the interactions for quizzes 2 and 3 were not significant. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

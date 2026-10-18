@@ -15,18 +15,22 @@ sources:
     author: Kenneth Silseth, Marthe Fundingsrud, Anniken Furberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: kenneth-silseth-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09820-4"
     title: "Kenneth Silseth, Marthe Fundingsrud, Anniken Furberg. (2026). Infusing students' everyday experiences in classrooms: a case study of classroom conversations in life skills education. Instructional Science. https://doi.org/10.1007/s11251-026-09820-4"
     author: Kenneth Silseth, Marthe Fundingsrud, Anniken Furberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers faced challenges integrating students' everyday experiences with conceptual knowledge, and conversations sometimes remained at an experience-based level without reaching academic perspectives.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a whole-class conversation about the concept of role, the conversation remained at an experience-based level without linking the student's everyday experiences to academic perspectives. [→ Kenneth Silseth 2026](#kenneth-silseth-2026)

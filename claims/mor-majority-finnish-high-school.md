@@ -15,12 +15,14 @@ sources:
     author: "Iiskala, T., Volet, S., Jones, C., Koretsky, M., & Vauras, M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # MOR comprised the majority of social MR turns in both less and more successful outcome groups in Finnish senior high school science
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` MOR comprised 54.1% of MR turns in the less successful Finnish high school group and 58.2% in the more successful group. [→ Iiskala 2021](#iiskala-2021)

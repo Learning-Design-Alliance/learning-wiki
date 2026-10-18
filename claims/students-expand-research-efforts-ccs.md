@@ -15,12 +15,14 @@ sources:
     author: Erin Bridges Bird · Heidi L. Ballard · Margaret Harte
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Seven of ten focal students explained they could help the birds by expanding their research efforts on campus and beyond
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A majority of focal students (7 of 10) saw expanding research efforts on-campus and off-campus as a way to help the birds, proposing ideas like cameras and networks of Ornithology Clubs. [→ Erin Bridges Bird · Heidi L. Ballard · Margaret Harte 2023](#erin-bridges-bird-heidi-l-ballard-margaret-harte-2023)

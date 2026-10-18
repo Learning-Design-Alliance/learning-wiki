@@ -15,12 +15,14 @@ sources:
     author: "Loyens, S. M. M., & Gijbels, D."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # A constructivist course increased perceived deep-level assessment demands but students still reported more frequent use of surface approaches to learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Perceptions of assessment demands shifted toward deep levels in a constructivist-principles course, but this change did not influence approaches to learning, which shifted toward surface use. [→ Loyens 2008](#loyens-2008)

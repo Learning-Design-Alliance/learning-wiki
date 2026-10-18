@@ -15,12 +15,14 @@ sources:
     author: Erin Bridges Bird · Heidi L. Ballard · Margaret Harte
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the predator-prey problem-posing space, students held systems knowledge and varied, value-based views (danger, balance, ecosystem significance), yet reached no collective definition of the problem and lacked action-related knowledge for what to do. [→ Erin Bridges Bird · Heidi L. Ballard · Margaret Harte 2023](#erin-bridges-bird-heidi-l-ballard-margaret-harte-2023)

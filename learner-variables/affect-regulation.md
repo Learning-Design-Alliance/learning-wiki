@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (97 show a difference, 25 mixed, 12 no difference) · 91 studies (35 associational, 18 causal, 14 review, 8 qualitative, 7 quant-synthesis, 5 theoretical, 4 design), `q1`–`q4` · 25 of 91 report an effect size · 128 claims rest on one study
+> **Evidence** · 140 claims (99 show a difference, 29 mixed, 12 no difference) · 93 studies (35 associational, 19 causal, 14 review, 9 qualitative, 7 quant-synthesis, 5 theoretical, 4 design), `q1`–`q4` · 25 of 93 report an effect size · 134 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.

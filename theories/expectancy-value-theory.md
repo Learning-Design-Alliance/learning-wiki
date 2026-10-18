@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (3 qualitative, 1 associational, 1 design), `q2`–`q3` · 1 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (3 qualitative, 1 causal, 1 associational, 1 design), `q2`–`q3` · 1 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.

@@ -15,12 +15,14 @@ sources:
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: 3
+    kind: causal
+    rigour: "?"
 ---
 
 # Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` During the four prompted journals of unit 1, self-reported cognitive strategy use significantly increased from baseline, F(2.55,186.42)=15.95, p<.001, ηp²=0.18. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

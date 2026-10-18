@@ -15,12 +15,14 @@ sources:
     author: "Gerdesmann, D., Schwichow, M., & Koerber, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Higher CVS skill predicted a higher likelihood of valid experiments (OR = 1.20, CI [1.16, 1.23]), with smaller effects of extraneous load (OR = 0.93) and content knowledge (OR = 1.06). [→ Gerdesmann 2026](#gerdesmann-2026)

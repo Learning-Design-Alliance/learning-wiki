@@ -15,12 +15,14 @@ sources:
     author: Lina Wirth, Timo Ehmke, Jan Retelsdorf, Poldi Kuhl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Linguistically varying an instructional video into easy, moderate, and difficult versions does not significantly affect students’ expectancies of success or intrinsic task value compared with the moderate version
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Neither the linguistically easy nor the linguistically difficult instructional video affected expectancies of success or intrinsic task value significantly relative to the moderate version. [→ Lina Wirth 2026](#lina-wirth-2026)

@@ -15,12 +15,14 @@ sources:
     author: Erin Bridges Bird · Heidi L. Ballard · Margaret Harte
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Elementary CCS students articulated multiple, varied project purposes, with all students acting toward helping the birds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Each student articulated and acted on at least a couple of project purposes (help, attract, research, learn, teach), but prioritization and framing varied across students. [→ Erin Bridges Bird · Heidi L. Ballard · Margaret Harte 2023](#erin-bridges-bird-heidi-l-ballard-margaret-harte-2023)

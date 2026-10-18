@@ -15,18 +15,22 @@ sources:
     author: Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: johanna-pöysä-tarhonen-2022-2
     resource: "https://doi.org/10.1007/s11251-021-09562-5"
     title: "Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä. (2022). “Anything taking shape?” Capturing various layers of small group collaborative problem solving in an experiential geometry course in initial teacher education. Instructional Science. https://doi.org/10.1007/s11251-021-09562-5"
     author: Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cumulative frequency accounts did not indicate large variation between groups or tasks in the appearance of CPS elements. [→ Johanna Pöysä-Tarhonen 2022](#johanna-poysa-tarhonen-2022)

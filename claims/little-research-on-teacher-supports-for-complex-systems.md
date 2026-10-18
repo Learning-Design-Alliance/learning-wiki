@@ -15,12 +15,14 @@ sources:
     author: Yoon, Susan A.; Anderson, Emma; Koehler-Yom, Jessica; Evans, Chad; Park, Miyoung; Sheldon, Joshua; Schoenfeld, Ilana; Wendel, Daniel J; Scheintaub, Hal; Klopfer, Eric
     q: 1
     i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # Research on supports teachers need to teach about complex systems has been sparse despite 15 years of tools-and-theories work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Over 15 years, educational tools and theories for student learning about complex systems have been investigated, but little research has addressed the supports teachers need. [→ Yoon 2016](#yoon-2016)

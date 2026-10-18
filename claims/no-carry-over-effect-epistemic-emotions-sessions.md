@@ -15,12 +15,14 @@ sources:
     author: "Ketonen, E. E., Kruskopf, M., Lonka, K., & Mattlin, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Epistemic emotions showed no significant carry-over (autoregressive) stability from one course session to the next, except boredom after session type was included.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Lagged models found no significant autoregressive effects for any epistemic emotion; in models including session type, only boredom showed statistically significant stability. [→ Ketonen 2026](#ketonen-2026)

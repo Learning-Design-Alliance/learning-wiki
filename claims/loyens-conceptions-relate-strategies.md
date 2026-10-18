@@ -15,12 +15,14 @@ sources:
     author: "Loyens, S. M. M., & Gijbels, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies, and doubting students risk inadequate regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students' conceptions of constructivist learning are structurally related to their regulation and processing strategies, and students who doubt their own learning capacities seem at risk for adopting an inadequate regulation strategy. [→ Loyens 2008](#loyens-2008)

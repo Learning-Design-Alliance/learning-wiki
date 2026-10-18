@@ -15,12 +15,14 @@ sources:
     author: Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Perceived performance level was significantly negatively related to situational self-concept (β = −0.19, p < 0.001) but not to dispositional self-concept (β = −0.03, p = 0.426). [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

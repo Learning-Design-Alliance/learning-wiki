@@ -12,6 +12,7 @@ generated:
 # Dynamic structural equation modelling for intra-individual emotion trajectories
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The study advocates measuring emotions repeatedly after every session and analysing them with dynamic structural equation modelling, a process-oriented, intra-individual approach "only recently applied in educational research". This distinguishes within-person processes, between-person differences and learning context. The unique individual emotional trajectories showed that group-level conclusions about emotion trends were not applicable to all individuals, since individuals with decreasing emotions learned better.

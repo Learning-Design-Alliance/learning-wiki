@@ -15,12 +15,14 @@ sources:
     author: Daniell DiFrancesca, Dan Spencer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Kahoot performance over a semester did not differ between high- and low-competitive undergraduates, though scores varied across time points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In the 2x8 mixed ANOVA on Kahoot performance, the group-by-time interaction and between-group effect were non-significant, while time affected scores for all students. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

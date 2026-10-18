@@ -15,12 +15,14 @@ sources:
     author: "Voet, M. & De Wever, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Added interpretive support did not significantly affect the evolution of student teachers' educational beliefs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Dyads that received additional support for using sources, forming arguments, or both showed no significant difference in belief change compared to dyads without it. [→ Voet 2018](#voet-2018)

@@ -15,12 +15,14 @@ sources:
     author: Bayram Costu, Alipasa Ayas, Mansoor Niaz
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Responses classified as sound understanding on open-ended condensation items rose after the intervention and were still above pre-test levels at delayed post-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The proportion of sound understanding (SU) responses on open-ended items increased after the intervention, declined slightly at delayed post-test, and remained above pre-test levels. [→ Bayram Costu 2011](#bayram-costu-2011)

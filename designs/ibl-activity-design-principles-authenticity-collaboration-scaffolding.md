@@ -17,6 +17,7 @@ sources:
 # Three design principles for IBL activities in professional development: authenticity, collaboration, and scaffolded inquiry
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The IBL activity was designed around three principles. Authenticity meant a discovery-oriented approach using an ill-structured evaluative problem statement requiring students to form their own interpretations of evidence. Collaboration reflected the view that historical reasoning is a social activity in which interaction "stimulates students to elaborate their knowledge". Scaffolding sequenced key inquiry activities in a macro-script within a workflow.

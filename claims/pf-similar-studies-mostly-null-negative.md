@@ -15,12 +15,14 @@ sources:
     author: Valentina Nachtigall · Katja Serova · Nikol Rummel
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Of eight PF-similar studies of problem solving prior to instruction in non-STEM or domain-general settings, only Schwartz and Bransford (1998) found a positive learning effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The article's overview of eight non-STEM or domain-general PF-similar studies reports that most showed no or a negative effect, with only Schwartz and Bransford (1998) finding a positive effect. [→ Valentina Nachtigall · Katja Serova · Nikol Rummel 2020](#valentina-nachtigall-katja-serova-nikol-rummel-2020)

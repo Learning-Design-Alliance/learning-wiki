@@ -15,18 +15,22 @@ sources:
     author: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: cloude-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09729-4"
     title: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D. (2025). Novice and expert self-regulated learning phase transitions in medical diagnosis: Implications for adaptive and intelligent systems. Instructional Science. https://doi.org/10.1007/s11251-025-09729-4"
     author: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The relation between medical expertise and diagnostic accuracy was case-dependent: positive for Case 4, negative for Case 1 (novices outperformed experts), and absent for Cases 2, 3, and 5
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` For Case 4, diagnostic accuracy was significantly related to expertise (OR = 14.7); for Case 1, the relation was negative and significant, with novices achieving higher diagnostic accuracy than experts. [→ Cloude 2025](#cloude-2025)

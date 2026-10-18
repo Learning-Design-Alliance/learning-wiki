@@ -15,12 +15,14 @@ sources:
     author: Lehesvuori, S., Järvinen, M., Lämsä, J., Heilala, V., Hämäläinen, R.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teacher communicative activities in the analysed undergraduate mathematics lesson were dominated by presentation and correction, reflecting an authoritative communicative approach
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the analysed lesson, teacher presentation and correction activities dominated the communicative structure, with infrequent whole-class discussion indicating few extended dialogues. [→ Lehesvuori 2026](#lehesvuori-2026)

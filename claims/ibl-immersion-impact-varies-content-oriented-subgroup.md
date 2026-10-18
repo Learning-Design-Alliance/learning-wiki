@@ -15,12 +15,14 @@ sources:
     author: "Voet, M. & De Wever, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The impact of immersion in IBL on beliefs varies significantly across individual students, with about 8% holding content-oriented beliefs largely unaffected
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` There is significant variance on the student level for belief change across all scales. [→ Voet 2018](#voet-2018)

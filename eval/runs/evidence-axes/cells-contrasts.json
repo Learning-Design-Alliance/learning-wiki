@@ -34258,5 +34258,221 @@
  "worked-examples\tworked examples\tproblem-solving without worked examples": {
   "label": "worked examples vs problem-solving without worked examples",
   "treatment_is_a": true
+ },
+ "active-learning\tconstructivist learning environment\tlecture": {
+  "label": "constructivist learning environment vs lecture/traditional learning environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist learning environments\tlectures": {
+  "label": "constructivist learning environment vs lecture/traditional learning environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist learning environments\ttraditional learning environments": {
+  "label": "constructivist learning environment vs traditional learning environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tmathematics tasks at the whiteboard\tother lesson periods": {
+  "label": "mathematics tasks at the whiteboard vs other lesson periods",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer interaction leading to individual resolution of an incorrect solution\tless interactive communicative activity": {
+  "label": "peer interaction leading to individual resolution of an incorrect solution vs less interactive communicative activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer interaction leading to individual resolution of an incorrect solution\tother communicative activity": {
+  "label": "peer interaction leading to individual resolution of an incorrect solution vs other communicative activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer interaction leading to individual resolution of an incorrect solution\tpresenting and communicating mathematical problems": {
+  "label": "peer interaction leading to individual resolution of an incorrect solution vs presenting and communicating mathematical problems",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers with developed SRL understanding and autonomy in designing modules\tteachers before developing SRL understanding and module-design autonomy": {
+  "label": "autonomy support vs no autonomy support",
+  "treatment_is_a": true
+ },
+ "debriefing\tFrench storybook debrief\tequity-as-transformation rearticulation": {
+  "label": "French storybook debrief vs equity-as-transformation rearticulation",
+  "treatment_is_a": true
+ },
+ "debriefing\thigh-tech video-assisted debriefing\tlower-tech video-assisted debriefing": {
+  "label": "High-tech video-assisted debriefing vs lower-tech video-assisted debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\thigh-tech video-assisted debriefing\tlower-tech video-assisted debriefing and verbal debriefing": {
+  "label": "High-tech video-assisted debriefing vs lower-tech video-assisted debriefing plus verbal debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\thigh-tech video-assisted debriefing\tverbal and lower-tech video-assisted debriefing": {
+  "label": "High-tech video-assisted debriefing vs verbal debriefing plus lower-tech video-assisted debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\thigh-tech video-assisted debriefing\tverbal debriefing": {
+  "label": "High-tech video-assisted debriefing vs verbal debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\thigh-tech video-assisted debriefing\tverbal debriefing and lower-tech video-assisted debriefing": {
+  "label": "High-tech video-assisted debriefing vs verbal debriefing plus lower-tech video-assisted debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tlower-tech VAD\thigh-tech VAD": {
+  "label": "High-tech video-assisted debriefing vs lower-tech video-assisted debriefing",
+  "treatment_is_a": false
+ },
+ "debriefing\tvideo-assisted debriefing\tverbal debriefing": {
+  "label": "Video-assisted debriefing vs verbal debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tvideo-assisted debriefing, high-tech and lower-tech\tverbal debriefing": {
+  "label": "Video-assisted debriefing vs verbal debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLiquidText with explicit guidance\tLiquidText without explicit guidance": {
+  "label": "explicit guidance vs no explicit guidance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLiquidText with explicit strategy guidance\tLiquidText Access without extraction and integration functions": {
+  "label": "explicit strategy guidance vs no explicit strategy guidance",
+  "treatment_is_a": true
+ },
+ "fading\tcomplete double-content examples\tfaded double-content examples": {
+  "label": "faded examples vs complete examples",
+  "treatment_is_a": false
+ },
+ "gamification\tDiplomacy game sessions\tlecture sessions": {
+  "label": "game-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgame sessions\tlecture sessions": {
+  "label": "game-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgame sessions across the course\tlecture sessions across the course": {
+  "label": "game-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "gamification\tsemester-long competitive Kahoot review activities\tpre-semester interest baseline": {
+  "label": "gamified review activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling keyword cues during video viewing\tno signaling cues": {
+  "label": "signaling cues vs no signaling cues",
+  "treatment_is_a": true
+ },
+ "problem-first\tProductive Failure: problem solving before instruction\tDirect Instruction: instruction before problem solving": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tProductive Failure: solve a complex problem before instruction\tDirect Instruction: instruction before problem solving": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving prior to instruction\tcontrol condition": {
+  "label": "problem-first vs control",
+  "treatment_is_a": true
+ },
+ "prompts\tAdam’s final SRL-enriched module with reflective prompts\tAdam’s initial SRL-enriched module": {
+  "label": "Reflective prompts vs less-developed or baseline reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tBen’s final SRL-enriched module with reflective prompts\tBen’s initial SRL-enriched module": {
+  "label": "Reflective prompts vs less-developed or baseline reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tSRL-enriched science modules with reflective prompts\tearlier modules or baseline reflection": {
+  "label": "Reflective prompts vs less-developed or baseline reflection",
+  "treatment_is_a": true
+ },
+ "prompts\thigher-level reflective prompts\tlower-level reflective prompts": {
+  "label": "Higher-level reflective prompts vs lower-level reflective prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tlater SRL-enriched modules with reflective prompts\tearlier modules with less developed reflective prompts": {
+  "label": "Higher-level reflective prompts vs lower-level reflective prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tlater modules with more sophisticated reflective prompts\tearlier modules with less sophisticated reflective prompts": {
+  "label": "Higher-level reflective prompts vs lower-level reflective prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tlater prompted journal entries\tearlier prompted journal entries": {
+  "label": "Later prompting vs earlier prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tlater short-term prompted journal periods\tearlier journal periods": {
+  "label": "Later prompting vs earlier prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tlater time points in unit 1\tearlier time points in unit 1": {
+  "label": "Later prompting vs earlier prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tlong-term prompting\tshort-term prompting": {
+  "label": "Long-term prompting vs short-term prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tlong-term prompting in learning journals\tshort-term prompting in learning journals": {
+  "label": "Long-term prompting vs short-term prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tshort-term prompting in learning journals\tchange across journal entries t1–t4": {
+  "label": "Long-term prompting vs short-term prompting",
+  "treatment_is_a": false
+ },
+ "scaffolding\tTeacher summaries grounded in students’ everyday experiences\tNot stated": {
+  "label": "Teacher summaries grounded in students’ everyday experiences vs no stated support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadditional support for using sources and/or forming arguments\tmacro-script without the additional support layer": {
+  "label": "Additional support for using sources and/or forming arguments vs macro-script without the additional support layer",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdifferentiated opportunities to build expertise\tnot specified": {
+  "label": "Differentiated opportunities to build expertise vs no specified differentiation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdifferentiated opportunities to build expertise\tnot stated": {
+  "label": "Differentiated opportunities to build expertise vs no specified differentiation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tteacher direct support (“Just go ahead”)\tgetting stuck during presentation before support": {
+  "label": "Immediate teacher direct support vs support only after getting stuck",
+  "treatment_is_a": true
+ },
+ "scaffolding\tteacher guidance using students’ everyday experiences\tnot stated": {
+  "label": "Teacher guidance using students’ everyday experiences vs no stated support",
+  "treatment_is_a": true
+ },
+ "self-explanation\tfocused self-explanation prompts\tno focused self-explanation prompts": {
+  "label": "self-explanation prompts vs no self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\thigher self-explanation scores\tlower self-explanation scores": {
+  "label": "higher vs lower self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explaining concepts of classroom management in time block 2\tlower self-explanation": {
+  "label": "higher vs lower self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation prompts\tno self-explanation prompts": {
+  "label": "self-explanation prompts vs no self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanations of focus on students in time block 3\tlower self-explanation": {
+  "label": "higher vs lower self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tspecific self-explanation prompts\tno self-explanation prompts": {
+  "label": "self-explanation prompts vs no self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "worked-examples\tcomplete or faded double-content examples\tno double-content examples": {
+  "label": "double-content examples vs no double-content examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tfaded double-content examples\tno comparison reported": {
+  "label": "faded double-content examples vs no comparison reported",
+  "treatment_is_a": true
  }
 }

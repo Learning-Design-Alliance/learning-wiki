@@ -15,12 +15,14 @@ sources:
     author: "Iiskala, T., Volet, S., Jones, C., Koretsky, M., & Vauras, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # VMSR occurred at low levels across all groups and contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` VMSR was present at 5.9% (less successful) and 3.9% (more successful) in veterinary science, 1.3% in the more successful high school group, and 0.9% in the less successful engineering group. [→ Iiskala 2021](#iiskala-2021)

@@ -15,18 +15,22 @@ sources:
     author: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: cloude-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09729-4"
     title: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D. (2025). Novice and expert self-regulated learning phase transitions in medical diagnosis: Implications for adaptive and intelligent systems. Instructional Science. https://doi.org/10.1007/s11251-025-09729-4"
     author: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Novices showed marginally higher complexity of SRL phase sequences than experts (frequent but predictable transitions), with no group differences in entropy or transition number
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Novices demonstrated more complexity in SRL phase sequences (Med = 0.83) than experts (Med = 0.78), a marginal difference (W = 140, p = 0.0539). [→ Cloude 2025](#cloude-2025)

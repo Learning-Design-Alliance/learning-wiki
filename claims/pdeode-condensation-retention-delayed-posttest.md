@@ -15,12 +15,14 @@ sources:
     author: Bayram Costu, Alipasa Ayas, Mansoor Niaz
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Conceptual change about condensation after PDEODE teaching was retained at delayed post-test for most alternative conceptions, but not for SAC #4 and #6
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Conceptual change was maintained at delayed post-test for all SAC except SAC #4 and #6. [→ Bayram Costu 2011](#bayram-costu-2011)

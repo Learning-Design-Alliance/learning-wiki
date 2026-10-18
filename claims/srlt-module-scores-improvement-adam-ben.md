@@ -15,12 +15,14 @@ sources:
     author: Avivit Arvatz, Boaz Hadas, Rotem Waitzman, Yehudit Judy Dori
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Rubric-based SRL&T scores of final modules reached intermediate levels for both teachers; Adam moved from three to six points between initial and final modules, Ben only from five to six. [→ Avivit Arvatz 2025](#avivit-arvatz-2025)

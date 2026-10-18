@@ -15,12 +15,14 @@ sources:
     author: Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` The 80% hand-raising condition produced a significant negative effect on situational self-concept versus 20% (β = −0.12, p = 0.015, d = 0.30), while 35% and 65% showed no significant effect. [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

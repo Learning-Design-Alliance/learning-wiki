@@ -17,7 +17,7 @@ sources:
 # Use alternative labels such as new learning environments instead of constructivist learning environments to avoid false expectations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends avoiding the term constructivist learning environment because it can 'create false expectations on a prescriptive level'. It endorses alternative labels such as 'new learning environments or learning environments that foster meaningful learning', noting some special issue authors already used the concept of new learning environments and that this link with constructivism is less straightforward and more appropriate for the research questions they advocate.

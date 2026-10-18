@@ -12,7 +12,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 24 claims (21 show a difference, 1 mixed, 2 unmarked) · 18 studies (5 review, 5 associational, 3 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 4 of 18 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (26 show a difference, 2 mixed, 1 no difference, 2 unmarked) · 20 studies (6 associational, 5 review, 4 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 5 of 20 report an effect size · 30 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.

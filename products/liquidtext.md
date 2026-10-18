@@ -13,6 +13,7 @@ generated:
 # LiquidText
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 LiquidText is a tablet-based multiple-document reading and sensemaking application developed by LiquidText that lets learners view, annotate, link, and synthesize information across documents.

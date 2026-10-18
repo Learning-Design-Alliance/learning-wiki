@@ -15,12 +15,14 @@ sources:
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Experienced groups show higher instructional efficiency than inexperienced groups in the delayed retention test after collaborative learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Experienced groups were more efficient (performance combined with mental effort) than inexperienced groups in the delayed retention test. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

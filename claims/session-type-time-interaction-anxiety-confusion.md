@@ -15,12 +15,14 @@ sources:
     author: "Ketonen, E. E., Kruskopf, M., Lonka, K., & Mattlin, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The session-type-by-time interaction showed anxiety increasing in game sessions while decreasing in lectures, and confusion declining more steeply in game sessions.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Interaction effects revealed diverging trajectories by session type for anxiety (increasing in games, decreasing in lectures) and a steeper confusion decrease in game sessions than lectures; no other significant interactions were found. [→ Ketonen 2026](#ketonen-2026)

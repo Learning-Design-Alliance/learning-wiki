@@ -15,12 +15,14 @@ sources:
     author: Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Including perceived performance level made the direct 80% vs. 20% effect nonsignificant (β = −0.04, p = 0.267), and the indirect effect was significant (β = −0.05, 95% CI [−0.08, −0.02]). [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

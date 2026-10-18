@@ -17,7 +17,7 @@ sources:
 # Use prompts in learning journals for a limited initial period; if continuing long-term, add support such as feedback, adaptive prompts, or additional help
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 2 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The study found that short-term prompting (four weekly journals) activated cognitive and metacognitive strategy use, while extending the same static prompts for another four weeks added no benefit: strategy use and self-efficacy declined in both groups. The authors conclude that "Future research should investigate possible enhancers of long-term prompting like feedback, adaptive prompts or additional support." For practitioners, this suggests prompting learners at the start of a course and either fading static prompts or enriching continued prompting with feedback or adaptation.

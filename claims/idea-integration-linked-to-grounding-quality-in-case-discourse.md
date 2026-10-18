@@ -15,18 +15,22 @@ sources:
     author: Esther Tan
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
   - id: esther-tan-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9460-6"
     title: "Esther Tan (2018). Effects of two differently sequenced classroom scripts on common ground in collaborative inquiry learning. Instructional Science. https://doi.org/10.1007/s11251-018-9460-6"
     author: Esther Tan
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In the case discourse, failure to integrate individuals' ideas with sound verification was linked to low-level inquiry outcomes, while successful high-level grounding enabled groups to integrate ideas and negotiate shared knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Where the group did not successfully integrate individuals' ideas or reached quick consensus without sound verification, forging common ground was hindered and low-level inquiry outcomes followed. [→ Esther Tan 2018](#esther-tan-2018)

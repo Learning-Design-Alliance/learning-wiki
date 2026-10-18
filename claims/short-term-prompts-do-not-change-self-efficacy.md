@@ -15,12 +15,14 @@ sources:
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: 1
+    kind: causal
+    rigour: "?"
 ---
 
 # Short-term prompting in learning journals does not change university students' self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Self-efficacy did not change over the four prompted journals of unit 1, F(2.72,198.68)=2.27, p=.09, ηp²=0.03. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

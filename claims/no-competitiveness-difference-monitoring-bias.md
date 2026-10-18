@@ -15,12 +15,14 @@ sources:
     author: Daniell DiFrancesca, Dan Spencer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The group-by-time interaction and between-group effect on prediction bias were non-significant, but bias showed a significant time effect. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

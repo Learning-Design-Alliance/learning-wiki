@@ -15,24 +15,30 @@ sources:
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: stefan-a-schreder-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
     title: "Stefan A. Schreder, Helen Jossberger, Hans Gruber. (2025). Mountain rescuers' experiences with video-assisted and verbal debriefings: a qualitative study. Instructional Science. https://doi.org/10.1007/s11251-025-09716-9"
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: stefan-a-schreder-2025-3
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
     title: "Stefan A. Schreder, Helen Jossberger, Hans Gruber. (2025). Mountain rescuers' experiences with video-assisted and verbal debriefings: a qualitative study. Instructional Science. https://doi.org/10.1007/s11251-025-09716-9"
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Implementing VAD raised facilitator cognitive demand, debriefing time, and attention competition with the video, with segment-search time greater in lower-tech VAD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Facilitators reported high cognitive demand from handling VAD technology while leading the simulation, and participants noted facilitators needed more debriefing time, especially in lower-tech VAD to locate video segments. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)

@@ -17,6 +17,7 @@ sources:
 # Integrated Diplomacy course design alternating lectures and game sessions
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A university international relations course built around the board game Diplomacy, with alternating "1.5-hour lectures and 2-hour game sessions" in a weekly cycle of reading, lectures with small-group discussion, game sessions, and online discussion tasks. Students played in two-player teams including a peace-mediator team, a feature added by the teacher; game performance formed one-quarter of course evaluation. Three revised win-conditions correspond to offensive realism, liberal-institutionalism and constructivism.

@@ -15,12 +15,14 @@ sources:
     author: Biemans, H.J.A., Simons, P.RJ
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # In an earlier study, students taught with the original CONTACT strategy focused mainly on the central concepts from the training texts, disregarding other information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students in the original CONTACT strategy mainly focused on the central concepts from the training texts and disregarded other information. [→ Biemans 1996](#biemans-1996)

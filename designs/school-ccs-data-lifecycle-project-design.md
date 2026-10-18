@@ -17,6 +17,7 @@ sources:
 # Instructional design pattern: a school-based CCS project enacting the full data lifecycle with youth-led decisions
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's program design builds on the CCS education framework and aligns its phases with the data lifecycle: developing expertise through bird-identification lessons; defining research questions in the after-school Ornithology Club (50 min weekly); designing an observation protocol with student-chosen tools; interpreting and evaluating data; making decisions and taking action, funded by a school-garden grant for a Bird Sanctuary; submitting data to eBird and presenting to audiences; and evaluating outcomes and reassessing goals.

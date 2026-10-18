@@ -15,12 +15,14 @@ sources:
     author: Yoon, Susan A.; Anderson, Emma; Koehler-Yom, Jessica; Evans, Chad; Park, Miyoung; Sheldon, Joshua; Schoenfeld, Ilana; Wendel, Daniel J; Scheintaub, Hal; Klopfer, Eric
     q: 2
     i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # A 2-year professional development study gathered data on teachers' abilities and perceptions regarding delivery of computer-supported complex systems curricula
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Data on teachers' abilities and perceptions regarding delivery of computer-supported complex systems curricula were gathered over 2 years of professional development. [→ Yoon 2016](#yoon-2016)

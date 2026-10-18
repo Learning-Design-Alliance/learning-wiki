@@ -15,12 +15,14 @@ sources:
     author: Lisa Hasenbein, Ulrich Trautwein, Jens-Uwe Hahn, Stephan Soller, Richard Göllner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # A 15-minute exposure to higher-performing virtual classmates did not significantly affect sixth-graders' dispositional domain-specific self-concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Differences in dispositional self-concept across hand-raising conditions were not statistically significant, including the extreme contrast (β = −0.01, p = 0.894). [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

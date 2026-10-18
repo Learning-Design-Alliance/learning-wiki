@@ -15,24 +15,30 @@ sources:
     author: Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: johanna-pöysä-tarhonen-2022-2
     resource: "https://doi.org/10.1007/s11251-021-09562-5"
     title: "Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä. (2022). “Anything taking shape?” Capturing various layers of small group collaborative problem solving in an experiential geometry course in initial teacher education. Instructional Science. https://doi.org/10.1007/s11251-021-09562-5"
     author: Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: johanna-pöysä-tarhonen-2022-3
     resource: "https://doi.org/10.1007/s11251-021-09562-5"
     title: "Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä. (2022). “Anything taking shape?” Capturing various layers of small group collaborative problem solving in an experiential geometry course in initial teacher education. Instructional Science. https://doi.org/10.1007/s11251-021-09562-5"
     author: Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` For Group B, social state changes were 35.2% lower in the physical-objects task than the technology-enhanced task, indicating longer continued social moments despite slightly more social states. [→ Johanna Pöysä-Tarhonen 2022](#johanna-poysa-tarhonen-2022)

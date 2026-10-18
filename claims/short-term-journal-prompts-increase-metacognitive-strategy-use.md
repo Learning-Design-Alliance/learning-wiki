@@ -15,12 +15,14 @@ sources:
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: 3
+    kind: causal
+    rigour: "?"
 ---
 
 # Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` During the prompted journals of unit 1, self-reported metacognitive strategy use significantly increased from baseline, F(2.49,181.95)=31.35, p<.001, ηp²=0.30. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

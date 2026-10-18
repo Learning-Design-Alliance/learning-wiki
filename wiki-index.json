@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":20230,
-"design":891,
+"design":903,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1762,
-"research-method":424,
+"product":1765,
+"research-method":429,
 "strategy":6116,
 "theory":1361
 },
@@ -183628,6 +183628,14 @@
 "type":"design"
 },
 {
+"description":"Computer-supported complex systems curricula are classroom science materials in which computational tools support student learning about complex systems, a topic that next generation science standards in the United St...",
+"id":"computer-supported-complex-systems-curricula",
+"path":"designs/computer-supported-complex-systems-curricula.md",
+"status":"review",
+"title":"Computer-supported complex systems curricula delivered in science classrooms",
+"type":"design"
+},
+{
 "description":"The study built a conceptual model (Figure 2) linking cultural and contextual factors to students' discussion behaviors and skills in PBL.",
 "id":"conceptual-model-cultural-contextual-discussion-behaviors",
 "path":"designs/conceptual-model-cultural-contextual-discussion-behaviors.md",
@@ -183676,11 +183684,27 @@
 "type":"design"
 },
 {
+"description":"The article frames classroom competition through Social Interdependence Theory, which defines competition as a situation in which \\\"individuals have similar goals and each individual's performance is impacted by the ac...",
+"id":"constructive-competition-social-interdependence",
+"path":"designs/constructive-competition-social-interdependence.md",
+"status":"review",
+"title":"Constructive competition within Social Interdependence Theory",
+"type":"design"
+},
+{
 "description":"The restructured Introductory Astronomy course was \\\"lecture-free, problem-centered, and collaborative in structure.\\\" Rather than presenting the heliocentric model linearly, students retraced the steps of evaluating an...",
 "id":"constructivist-model-reconstruction-course-pattern",
 "path":"designs/constructivist-model-reconstruction-course-pattern.md",
 "status":"review",
 "title":"Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation",
+"type":"design"
+},
+{
+"description":"The CONTACT strategy is an instructional approach premised on the idea that students need guidance to activate and correct their preconceptions in text processing.",
+"id":"contact-strategy-preconception-activation",
+"path":"designs/contact-strategy-preconception-activation.md",
+"status":"review",
+"title":"The CONTACT strategy: continuous, computer-assisted activation of individual learners' conceptions to promote conceptual change",
 "type":"design"
 },
 {
@@ -183940,6 +183964,14 @@
 "type":"design"
 },
 {
+"description":"The article describes the data lifecycle as the full arc of participatory science work, from developing expertise and defining research questions through collecting, interpreting, and sharing data to making decisions...",
+"id":"data-lifecycle-framework-ccs",
+"path":"designs/data-lifecycle-framework-ccs.md",
+"status":"review",
+"title":"The data lifecycle: extending participatory science beyond data collection to decisions and action",
+"type":"design"
+},
+{
 "description":"DataCanvas-EDU is an agentic framework in which the instructor specifies a teaching brief (business setting, learner level, permitted tools, assignment scope) and intended patterns through conversation, while an AI ag...",
 "id":"datacanvas-edu-framework",
 "path":"designs/datacanvas-edu-framework.md",
@@ -184084,6 +184116,14 @@
 "type":"design"
 },
 {
+"description":"A university international relations course built around the board game Diplomacy, with alternating \\\"1.5-hour lectures and 2-hour game sessions\\\" in a weekly cycle of reading, lectures with small-group discussion, game...",
+"id":"diplomacy-integrated-ir-course-design",
+"path":"designs/diplomacy-integrated-ir-course-design.md",
+"status":"review",
+"title":"Integrated Diplomacy course design alternating lectures and game sessions",
+"type":"design"
+},
+{
 "description":"Ackerman Elementary achieved the highest coherence ratings among the 11 field study schools by adopting a Direct Instruction program providing scripted lessons and matching assessments in mathematics and reading for g...",
 "id":"direct-instruction-coordinated-adoption-pattern",
 "path":"designs/direct-instruction-coordinated-adoption-pattern.md",
@@ -184177,6 +184217,14 @@
 "path":"designs/domain-grounded-mediation-llm-vr-instruction.md",
 "status":"review",
 "title":"Domain-grounded mediation framework for LLM-assisted VR instruction",
+"type":"design"
+},
+{
+"description":"Double-content examples integrate two levels: the learning domain level (the skill being taught, here analyzing classroom videos) and the exemplifying domain level (the content illustrating it, here classroom manageme...",
+"id":"double-content-examples-video-analysis-framework",
+"path":"designs/double-content-examples-video-analysis-framework.md",
+"status":"review",
+"title":"Double-content examples as instructional support for video-based analysis in an ill-structured domain",
 "type":"design"
 },
 {
@@ -185735,6 +185783,14 @@
 "type":"design"
 },
 {
+"description":"The IBL activity was designed around three principles.",
+"id":"ibl-activity-design-principles-authenticity-collaboration-scaffolding",
+"path":"designs/ibl-activity-design-principles-authenticity-collaboration-scaffolding.md",
+"status":"review",
+"title":"Three design principles for IBL activities in professional development: authenticity, collaboration, and scaffolded inquiry",
+"type":"design"
+},
+{
 "description":"ICE-T is a multi-faceted didactic framework for teaching machine learning whose name mnemonically captures its components: Intermodal Transfer grounded in Bruner's enactive-iconic-symbolic principle, Computational Thi...",
 "id":"ice-t-didactic-framework-ml",
 "path":"designs/ice-t-didactic-framework-ml.md",
@@ -187157,6 +187213,14 @@
 "type":"design"
 },
 {
+"description":"The studies took place in an interdisciplinary out-of-school lab at a large German university, offering projects for secondary students.",
+"id":"out-of-school-social-science-lab-pf-setting",
+"path":"designs/out-of-school-social-science-lab-pf-setting.md",
+"status":"review",
+"title":"Out-of-school lab for social sciences as a setting for PF-based learning of research methods",
+"type":"design"
+},
+{
 "description":"A learning environment developed by Hußmann and Schindler (2014a, b) in the KOSIMA project, which aims at teaching mathematics through real contexts.",
 "id":"out-of-the-debts-learning-environment",
 "path":"designs/out-of-the-debts-learning-environment.md",
@@ -187330,6 +187394,14 @@
 "path":"designs/physicsmate-multi-relational-knowledge-graph.md",
 "status":"review",
 "title":"Multi-relational knowledge graph of the NCTB physics syllabus with ten ontological node types",
+"type":"design"
+},
+{
+"description":"Both scripts begin with the teacher modeling each inquiry skill at the plenary level, then distribute activities across social levels in opposite orders.",
+"id":"pisg-psgi-classroom-script-sequences",
+"path":"designs/pisg-psgi-classroom-script-sequences.md",
+"status":"review",
+"title":"Two differently sequenced classroom scripts: PISG (Plenary–Individual–Small Group) and PSGI (Plenary–Small Group–Individual)",
 "type":"design"
 },
 {
@@ -187861,6 +187933,14 @@
 "type":"design"
 },
 {
+"description":"The study's program design builds on the CCS education framework and aligns its phases with the data lifecycle: developing expertise through bird-identification lessons; defining research questions in the after-school...",
+"id":"school-ccs-data-lifecycle-project-design",
+"path":"designs/school-ccs-data-lifecycle-project-design.md",
+"status":"review",
+"title":"Instructional design pattern: a school-based CCS project enacting the full data lifecycle with youth-led decisions",
+"type":"design"
+},
+{
 "description":"Drawing on craft (sloyd) tradition, the authors characterize school-based collaborative making projects as \\\"1) multi-material, including both soft (e.g., textile) and hard (e.g., metals) materials; 2) digitally enhanc...",
 "id":"school-collaborative-making-project-pattern",
 "path":"designs/school-collaborative-making-project-pattern.md",
@@ -188341,6 +188421,14 @@
 "type":"design"
 },
 {
+"description":"Online modules designed by teachers after SRL&T professional development, integrating reflective questions as SRL prompts into pre-existing teaching materials.",
+"id":"srl-enriched-online-science-modules-reflective-prompts",
+"path":"designs/srl-enriched-online-science-modules-reflective-prompts.md",
+"status":"review",
+"title":"SRL-enriched online science modules with reflective prompts as instructional and research tools",
+"type":"design"
+},
+{
 "description":"The evaluation's activity data collection is a two-phase instrument for retrospectively documenting SSSC services over calendar year 2021.",
 "id":"sssc-activity-data-collection-protocol",
 "path":"designs/sssc-activity-data-collection-protocol.md",
@@ -188554,6 +188642,14 @@
 "path":"designs/tabletop-multimedia-tribal-fire-small-group-knowledge-building.md",
 "status":"review",
 "title":"Tabletop environments as focal multimedia settings for small-group collaborative knowledge building",
+"type":"design"
+},
+{
+"description":"TAIA is the framing model of this study: a classroom orchestration system that integrates digital tools into the inquiry workflow so that \\\"transient student thoughts into inspectable, actionable digital artifacts\\\" giv...",
+"id":"taia-pedagogical-visibility-framework",
+"path":"designs/taia-pedagogical-visibility-framework.md",
+"status":"review",
+"title":"Technology-augmented inquiry approach (TAIA): pedagogical visibility as a mechanism to scaffold student inquiry and reduce teacher orchestration load in disadvantaged classrooms",
 "type":"design"
 },
 {
@@ -204596,6 +204692,14 @@
 "type":"product"
 },
 {
+"description":"A five-item diagnostic assessment developed by Bayram Costu and colleagues to measure university students' conceptual understanding and conceptual change about condensation.",
+"id":"condensation-conceptual-test-cct",
+"path":"products/condensation-conceptual-test-cct.md",
+"status":"review",
+"title":"Condensation Conceptual Test (CCT)",
+"type":"product"
+},
+{
 "description":"Connect Science is a 31-lesson fourth-grade science curriculum that integrates NGSS practices, social and collaborative skills, and service learning for classroom implementation.",
 "id":"connect-science",
 "path":"products/connect-science.md",
@@ -204865,6 +204969,14 @@
 "path":"products/creact.md",
 "status":"review",
 "title":"CREACT",
+"type":"product"
+},
+{
+"description":"A multimedia clinical-reasoning exercise system developed by Cloude et al.",
+"id":"cresme-clinical-reasoning-mapping-exercise",
+"path":"products/cresme-clinical-reasoning-mapping-exercise.md",
+"status":"review",
+"title":"CResME (Clinical-reasoning Mapping Exercise)",
 "type":"product"
 },
 {
@@ -209035,6 +209147,14 @@
 "path":"products/linking-learning-to-careers.md",
 "status":"review",
 "title":"Linking Learning to Careers",
+"type":"product"
+},
+{
+"description":"LiquidText is a tablet-based multiple-document reading and sensemaking application developed by LiquidText that lets learners view, annotate, link, and synthesize information across documents.",
+"id":"liquidtext",
+"path":"products/liquidtext.md",
+"status":"review",
+"title":"LiquidText",
 "type":"product"
 },
 {
@@ -216326,6 +216446,14 @@
 "type":"research-method"
 },
 {
+"description":"The study applies the ATC21S CPS framework, in which \\\"CPS is defined as a set of elements consisting of 'social' and 'cognitive' as the first-order components\\\".",
+"id":"atc21s-collaborative-problem-solving-framework",
+"path":"research-methods/atc21s-collaborative-problem-solving-framework.md",
+"status":"review",
+"title":"ATC21S collaborative problem-solving framework",
+"type":"research-method"
+},
+{
 "description":"The report frames its contribution as moving beyond the standard outcome measure in charter school research.",
 "id":"attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s",
 "path":"research-methods/attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s.md",
@@ -216696,6 +216824,14 @@
 "type":"research-method"
 },
 {
+"description":"CORDTRA stands for Chronologically-ordered Representations of Discourse and Tool-Related Activity.",
+"id":"cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col",
+"path":"research-methods/cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col.md",
+"status":"review",
+"title":"CORDTRA diagrams for visually representing the chronology of tool use and discourse in collaborative learning analysis",
+"type":"research-method"
+},
+{
 "description":"The article introduces an angular-statistics framework in which item and test difficulty and discriminating values are obtained from the cosine of the angle between the observed score vector and the maximum possible score vector, involving inner products and vector lengths.",
 "id":"cosine-similarity-framework",
 "path":"research-methods/cosine-similarity-framework.md",
@@ -216926,6 +217062,14 @@
 "path":"research-methods/durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior.md",
 "status":"review",
 "title":"Durkin's eight-category scheme for classifying teachers' comprehension-related behavior",
+"type":"research-method"
+},
+{
+"description":"The study advocates measuring emotions repeatedly after every session and analysing them with dynamic structural equation modelling, a process-oriented, intra-individual approach \\\"only recently applied in educational research\\\".",
+"id":"dynamic-structural-equation-modelling-for-intra-individual-emotion-trajectories",
+"path":"research-methods/dynamic-structural-equation-modelling-for-intra-individual-emotion-trajectories.md",
+"status":"review",
+"title":"Dynamic structural equation modelling for intra-individual emotion trajectories",
 "type":"research-method"
 },
 {
@@ -217359,6 +217503,14 @@
 "path":"research-methods/four-level-response-safety-classification-for-evaluating-educational-llm-safety.md",
 "status":"review",
 "title":"Four-level response safety classification for evaluating educational LLM safety",
+"type":"research-method"
+},
+{
+"description":"The study adapts Van Manen's (1977) cumulative levels of reflection into a four-level rubric for classifying teachers' reflective prompts in learning modules.",
+"id":"four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level",
+"path":"research-methods/four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level.md",
+"status":"review",
+"title":"Four-level rubric for teachers' reflective prompts adapted from Van Manen's reflective levels",
 "type":"research-method"
 },
 {
@@ -219334,6 +219486,14 @@
 "path":"research-methods/triangulated-multi-source-assessment-of-writing-processes-and-writing-knowledge.md",
 "status":"review",
 "title":"Triangulated multi-source assessment of writing processes and writing knowledge",
+"type":"research-method"
+},
+{
+"description":"The article develops a triangulated analysis method combining three equally valued approaches to understand CPS at group level: \\\"(a) directed content analysis of the actualized CPS in groups, (b) process analysis and visualizations, and (c) qualitative cases\\\".",
+"id":"triangulated-three-method-analysis-of-collaborative-problem-solving-enactment",
+"path":"research-methods/triangulated-three-method-analysis-of-collaborative-problem-solving-enactment.md",
+"status":"review",
+"title":"Triangulated three-method analysis of collaborative problem-solving enactment",
 "type":"research-method"
 },
 {
@@ -300699,13 +300859,16 @@
 "community-integrated-data-system-ucla-cs":"community-integrated-data-system-ucla-cs",
 "community-organizing-cycle-school-change":"community-organizing-cycle-school-change",
 "compound-line-graph-ai-integration-lesson":"compound-line-graph-ai-integration-lesson",
+"computer-supported-complex-systems-curricula":"computer-supported-complex-systems-curricula",
 "conceptual-model-cultural-contextual-discussion-behaviors":"conceptual-model-cultural-contextual-discussion-behaviors",
 "conditions-for-equitable-learning-and-development-three-categories":"conditions-for-equitable-learning-and-development-three-categories",
 "conditions-for-successful-coaching-implementation":"conditions-for-successful-coaching-implementation",
 "constrained-production-tasks-limited-vocabulary":"constrained-production-tasks-limited-vocabulary",
 "constructionism-imagineering-process-metaverse":"constructionism-imagineering-process-metaverse",
 "constructive-alignment-genai-embedding-extension":"constructive-alignment-genai-embedding-extension",
+"constructive-competition-social-interdependence":"constructive-competition-social-interdependence",
 "constructivist-model-reconstruction-course-pattern":"constructivist-model-reconstruction-course-pattern",
+"contact-strategy-preconception-activation":"contact-strategy-preconception-activation",
 "content-language-integration-bricks-and-mortar":"content-language-integration-bricks-and-mortar",
 "context-prompts-gen-ai-physics":"context-prompts-gen-ai-physics",
 "context-pruning-and-segmented-generation-mitigate-hallucinations":"context-pruning-and-segmented-generation-mitigate-hallucinations",
@@ -300738,6 +300901,7 @@
 "cyberagents-competency-mapping-module":"cyberagents-competency-mapping-module",
 "daily-individualized-tutoring-rti-monitoring-pattern":"daily-individualized-tutoring-rti-monitoring-pattern",
 "dance-first-physics-weekly-cycle-dual-record":"dance-first-physics-weekly-cycle-dual-record",
+"data-lifecycle-framework-ccs":"data-lifecycle-framework-ccs",
 "datacanvas-edu-framework":"datacanvas-edu-framework",
 "dative-alternation-training-task-simple-structural-change":"dative-alternation-training-task-simple-structural-change",
 "decoding-fluency-tutoring-program":"decoding-fluency-tutoring-program",
@@ -300756,6 +300920,7 @@
 "digital-cafe-public-access-space":"digital-cafe-public-access-space",
 "digital-learning-environment-characteristics":"digital-learning-environment-characteristics",
 "digital-technologies-agile-project-framework":"digital-technologies-agile-project-framework",
+"diplomacy-integrated-ir-course-design":"diplomacy-integrated-ir-course-design",
 "direct-instruction-coordinated-adoption-pattern":"direct-instruction-coordinated-adoption-pattern",
 "discovery-synthesis-split-mixed-initiative":"discovery-synthesis-split-mixed-initiative",
 "distribute-special-education-funds-to-leas":"distribute-special-education-funds-to-leas",
@@ -300768,6 +300933,7 @@
 "diversity-by-design-three-components":"diversity-by-design-three-components",
 "dl2f-task-based-unit-pattern":"dl2f-task-based-unit-pattern",
 "domain-grounded-mediation-llm-vr-instruction":"domain-grounded-mediation-llm-vr-instruction",
+"double-content-examples-video-analysis-framework":"double-content-examples-video-analysis-framework",
 "dp-role-play-pbl-extension":"dp-role-play-pbl-extension",
 "dpt-five-agent-simulated-classroom":"dpt-five-agent-simulated-classroom",
 "dpt-hazards-framework-and-matched-questioning":"dpt-hazards-framework-and-matched-questioning",
@@ -300962,6 +301128,7 @@
 "hybrid-micro-personalization-framework":"hybrid-micro-personalization-framework",
 "hybrid-query-resolution-platform-internship-onboarding":"hybrid-query-resolution-platform-internship-onboarding",
 "hypergamification-bidirectional-lms-game-integration":"hypergamification-bidirectional-lms-game-integration",
+"ibl-activity-design-principles-authenticity-collaboration-scaffolding":"ibl-activity-design-principles-authenticity-collaboration-scaffolding",
 "ice-t-didactic-framework-ml":"ice-t-didactic-framework-ml",
 "icub-llm-narrative-storytelling-system":"icub-llm-narrative-storytelling-system",
 "identity-centered-e-textile-making":"identity-centered-e-textile-making",
@@ -301139,6 +301306,7 @@
 "osp-pairs-what-if-inquiry-pattern":"osp-pairs-what-if-inquiry-pattern",
 "oulad-snapshot-recourse-evaluation-protocol":"oulad-snapshot-recourse-evaluation-protocol",
 "ousd-point-person-support-model":"ousd-point-person-support-model",
+"out-of-school-social-science-lab-pf-setting":"out-of-school-social-science-lab-pf-setting",
 "out-of-the-debts-learning-environment":"out-of-the-debts-learning-environment",
 "outreach-through-trusted-community-channels":"outreach-through-trusted-community-channels",
 "p3-taxonomy-robotics-ai-curriculum":"p3-taxonomy-robotics-ai-curriculum",
@@ -301161,6 +301329,7 @@
 "phonological-processing-assessment-battery-third-grade":"phonological-processing-assessment-battery-third-grade",
 "photon-fusion-vr-immersive-learning-system":"photon-fusion-vr-immersive-learning-system",
 "physicsmate-multi-relational-knowledge-graph":"physicsmate-multi-relational-knowledge-graph",
+"pisg-psgi-classroom-script-sequences":"pisg-psgi-classroom-script-sequences",
 "plc-team-structures-equity-schools":"plc-team-structures-equity-schools",
 "plo-aligned-integrated-coursework":"plo-aligned-integrated-coursework",
 "plural-llm-assistance-arrangement-design-space":"plural-llm-assistance-arrangement-design-space",
@@ -301227,6 +301396,7 @@
 "scaffolded-video-ethnography-project":"scaffolded-video-ethnography-project",
 "scenery-generator-learning-fields":"scenery-generator-learning-fields",
 "school-aggregation-benchmark-generator":"school-aggregation-benchmark-generator",
+"school-ccs-data-lifecycle-project-design":"school-ccs-data-lifecycle-project-design",
 "school-collaborative-making-project-pattern":"school-collaborative-making-project-pattern",
 "schools-lecture-demo-exercise-sessions":"schools-lecture-demo-exercise-sessions",
 "scoe-centralized-fqhc-mental-health-services":"scoe-centralized-fqhc-mental-health-services",
@@ -301287,6 +301457,7 @@
 "spoke-and-wheel-teaching-architecture-itas":"spoke-and-wheel-teaching-architecture-itas",
 "sr-as-intentional-learning-experience-mentoring":"sr-as-intentional-learning-experience-mentoring",
 "sri-strategic-reading-instruction-program":"sri-strategic-reading-instruction-program",
+"srl-enriched-online-science-modules-reflective-prompts":"srl-enriched-online-science-modules-reflective-prompts",
 "sssc-activity-data-collection-protocol":"sssc-activity-data-collection-protocol",
 "starter-questions-sorted-into-engineering-challenges":"starter-questions-sorted-into-engineering-challenges",
 "starter-stations-rotation-pattern":"starter-stations-rotation-pattern",
@@ -301314,6 +301485,7 @@
 "symbiosis-theory-human-ai-role-design":"symbiosis-theory-human-ai-role-design",
 "tablet-dictation-40-words-orthographic-graphic-complexity":"tablet-dictation-40-words-orthographic-graphic-complexity",
 "tabletop-multimedia-tribal-fire-small-group-knowledge-building":"tabletop-multimedia-tribal-fire-small-group-knowledge-building",
+"taia-pedagogical-visibility-framework":"taia-pedagogical-visibility-framework",
 "tandem-radar-simulation-2x2x2-active-learning-experiment":"tandem-radar-simulation-2x2x2-active-learning-experiment",
 "tasd-teacher-authored-prompt-orchestration":"tasd-teacher-authored-prompt-orchestration",
 "tdaa-test-driven-ai-assisted-pattern":"tdaa-test-driven-ai-assisted-pattern",
@@ -303544,6 +303716,7 @@
 "concept-catalyst":"concept-catalyst",
 "conceptual-framework-for-data-driven-decision-making-in-education":"conceptual-framework-for-data-driven-decision-making-in-education",
 "concerns-based-adoption-model":"concerns-based-adoption-model",
+"condensation-conceptual-test-cct":"condensation-conceptual-test-cct",
 "connect-science":"connect-science",
 "connect-with-kids":"connect-with-kids",
 "connected":"connected",
@@ -303578,6 +303751,7 @@
 "cra-course-design-guide":"cra-course-design-guide",
 "craft":"craft",
 "creact":"creact",
+"cresme-clinical-reasoning-mapping-exercise":"cresme-clinical-reasoning-mapping-exercise",
 "cresst-integrated-assessment-system":"cresst-integrated-assessment-system",
 "cris-framework":"college-readiness-indicator-systems-cris",
 "cris-menu":"college-readiness-indicator-systems-cris",
@@ -304108,6 +304282,7 @@
 "linked-learning-alliance-two-tiered-certification-system":"linked-learning-alliance-two-tiered-certification-system",
 "linkedin-skill-network-dataset-24-million-us-workers-16753-skills-556206-directed-edges-12":"linkedin-skill-network-dataset-24-million-us-workers-16753-skills-556206-directed-edges-12",
 "linking-learning-to-careers":"linking-learning-to-careers",
+"liquidtext":"liquidtext",
 "literacy-boost":"literacy-boost",
 "literacy-express":"literacy-express",
 "literacy-first":"literacy-first",
@@ -305031,6 +305206,7 @@
 "approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education":"approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education",
 "architecturally-enforced-novice-like-student-simulation":"architecturally-enforced-novice-like-student-simulation",
 "assessment-metadata-as-naturally-occurring-direct-sel-measurement":"assessment-metadata-as-naturally-occurring-direct-sel-measurement",
+"atc21s-collaborative-problem-solving-framework":"atc21s-collaborative-problem-solving-framework",
 "attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s":"attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s",
 "augmented-cross-recurrence-graphs-for-distinguishing-balanced-and-unbalanced-participation":"augmented-cross-recurrence-graphs-for-distinguishing-balanced-and-unbalanced-participation",
 "automated-computer-vision-analysis-of-gaze-and-proxemics-from-classroom-video":"automated-computer-vision-analysis-of-gaze-and-proxemics-from-classroom-video",
@@ -305079,6 +305255,7 @@
 "continuous-conjunctive-model":"continuous-conjunctive-model",
 "contrapuntal-reading":"contrapuntal-reading",
 "coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment":"coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment",
+"cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col":"cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col",
 "cosine-similarity-framework":"cosine-similarity-framework",
 "countable-versus-dispositional-prompt-rule-audit":"countable-versus-dispositional-prompt-rule-audit",
 "coursegraph-course-overlap-detection-methodology":"coursegraph-course-overlap-detection-methodology",
@@ -305109,6 +305286,7 @@
 "domain-theory-informed-lens-prompting-for-trait-discovery":"principal-trait-analysis-pta",
 "dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o":"dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o",
 "durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior":"durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior",
+"dynamic-structural-equation-modelling-for-intra-individual-emotion-trajectories":"dynamic-structural-equation-modelling-for-intra-individual-emotion-trajectories",
 "dynamical-systems-analysis-of-intelligent-tutoring-system-process-data":"dynamical-systems-analysis-of-intelligent-tutoring-system-process-data",
 "early-warning-and-college-readiness-indicator-construction":"early-warning-indicator-construction",
 "early-warning-indicator-construction":"early-warning-indicator-construction",
@@ -305166,6 +305344,7 @@
 "four-dimension-team-creative-performance-framework-for-dst-evaluation":"four-dimension-team-creative-performance-framework-for-dst-evaluation",
 "four-layer-model-of-pedagogical-safety-for-educational-rl-with-the-reward-hacking-severity":"four-layer-model-of-pedagogical-safety-for-educational-rl-with-the-reward-hacking-severity",
 "four-level-response-safety-classification-for-evaluating-educational-llm-safety":"four-level-response-safety-classification-for-evaluating-educational-llm-safety",
+"four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level":"four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level",
 "four-measurable-properties-for-evaluating-adaptive-virtual-patients":"four-measurable-properties-for-evaluating-adaptive-virtual-patients",
 "four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat":"four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat",
 "four-options-for-accounting-for-co-teaching-in-value-added-models":"four-options-for-accounting-for-co-teaching-in-value-added-models",
@@ -305424,6 +305603,7 @@
 "transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors":"transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors",
 "transition-network-analysis-tna":"transition-network-analysis-tna",
 "triangulated-multi-source-assessment-of-writing-processes-and-writing-knowledge":"triangulated-multi-source-assessment-of-writing-processes-and-writing-knowledge",
+"triangulated-three-method-analysis-of-collaborative-problem-solving-enactment":"triangulated-three-method-analysis-of-collaborative-problem-solving-enactment",
 "trifactor-model":"trifactor-model",
 "trio-ethnography":"trio-ethnography",
 "trustworthiness-lens-for-evaluating-llms-in-education":"trustworthiness-lens-for-evaluating-llms-in-education",

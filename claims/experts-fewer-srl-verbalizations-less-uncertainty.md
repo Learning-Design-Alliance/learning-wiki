@@ -15,18 +15,22 @@ sources:
     author: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: cloude-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09729-4"
     title: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D. (2025). Novice and expert self-regulated learning phase transitions in medical diagnosis: Implications for adaptive and intelligent systems. Instructional Science. https://doi.org/10.1007/s11251-025-09729-4"
     author: "Cloude, E. B., Chapman, R., Azevedo, R., Castiglioni, A., LaRochelle, J., Hernandez, C., & Torre, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Experts verbalized fewer SRL phases overall than novices during clinical reasoning, with feelings of uncertainty almost absent among experts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A Fisher's Exact test revealed a significant difference in the frequency of SRL phases between experts and novices (p = 0.0005), with experts verbalizing fewer SRL phases overall. [→ Cloude 2025](#cloude-2025)

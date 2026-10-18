@@ -15,12 +15,14 @@ sources:
     author: Johanna Pöysä-Tarhonen, Päivi Häkkinen, Pasi Tarhonen, Piia Näykki, Sanna Järvelä
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Micro-level analysis of interaction exemplifies a quality gradient across groups, from individual autonomous chains (Group B) to synchronized actions (Group D) to the highest-quality contemplative interaction (Group C). [→ Johanna Pöysä-Tarhonen 2022](#johanna-poysa-tarhonen-2022)

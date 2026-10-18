@@ -15,18 +15,22 @@ sources:
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: 3
+    kind: causal
+    rigour: "?"
   - id: nadja-m-gentner-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09671-x"
     title: "Nadja M. Gentner, Lisa Respondek, Tina Seufert. (2024). Effects of short- and long-term prompting in learning journals on strategy use, self-efficacy, and learning outcomes. Instructional Science (2024) 52:919–950. https://doi.org/10.1007/s11251-024-09671-x"
     author: Nadja M. Gentner, Lisa Respondek, Tina Seufert
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i3`
 
 ## Subclaims
 `q3 i3` The number of segments coded as cognitive strategy use significantly increased over the prompted unit, F(2.35,133.97)=14.78, p<.001, ηp²=0.21. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

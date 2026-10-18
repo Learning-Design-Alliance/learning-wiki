@@ -15,18 +15,22 @@ sources:
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: stefan-a-schreder-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
     title: "Stefan A. Schreder, Helen Jossberger, Hans Gruber. (2025). Mountain rescuers' experiences with video-assisted and verbal debriefings: a qualitative study. Instructional Science. https://doi.org/10.1007/s11251-025-09716-9"
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported that with video evidence they could not argue about feedback, and facilitators felt feedback was accepted better and more credible compared with VD. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)

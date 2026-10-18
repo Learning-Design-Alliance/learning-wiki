@@ -15,12 +15,14 @@ sources:
     author: Lehesvuori, S., Järvinen, M., Lämsä, J., Heilala, V., Hämäläinen, R.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teacher scaffolding questions probing correctness and teacher challenges to a student's solution co-occurred with ASV peaks during Student B's presentation turn. [→ Lehesvuori 2026](#lehesvuori-2026)

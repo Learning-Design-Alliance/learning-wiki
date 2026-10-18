@@ -15,18 +15,22 @@ sources:
     author: "Gerdesmann, D., Schwichow, M., & Koerber, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gerdesmann-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09806-2"
     title: "Gerdesmann, D., Schwichow, M., & Koerber, S. (2026). Factors that explain simulation-based inquiry performance in physics learning. Instructional Science. https://doi.org/10.1007/s11251-026-09806-2"
     author: "Gerdesmann, D., Schwichow, M., & Koerber, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Content knowledge, CVS, and functional thinking are positively correlated after controlling for general cognitive ability, consistent with hypotheses H1.2.1–H1.2.3. [→ Gerdesmann 2026](#gerdesmann-2026)

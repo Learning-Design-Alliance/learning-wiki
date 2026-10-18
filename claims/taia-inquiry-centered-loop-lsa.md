@@ -15,12 +15,14 @@ sources:
     author: Fan Chen, Gaowei Chen
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Under TAIA the teacher enacted an inquiry-centered instructional loop with repeated within-phase support sequences, identified through lag sequential analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Sequential analysis showed the EG teacher repeatedly linked hypothesis-guidance actions (e.g., A1 → A1 → A1 → A1) to iteratively refine student hypotheses via the shared workspace. [→ Fan Chen 2026](#fan-chen-2026)

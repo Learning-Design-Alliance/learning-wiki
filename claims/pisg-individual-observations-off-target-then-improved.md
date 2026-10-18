@@ -15,18 +15,22 @@ sources:
     author: Esther Tan
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
   - id: esther-tan-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9460-6"
     title: "Esther Tan (2018). Effects of two differently sequenced classroom scripts on common ground in collaborative inquiry learning. Instructional Science. https://doi.org/10.1007/s11251-018-9460-6"
     author: Esther Tan
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In the PISG script, students' field-trip individual observations were largely off-target for the chosen plant, while by the post-field trip individuals showed some improvement in scientific thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` During the PISG field-trip individual task, all four case students listed three to four observations about rainforest plants but only one statement each was specific to the plant chosen for inquiry. [→ Esther Tan 2018](#esther-tan-2018)

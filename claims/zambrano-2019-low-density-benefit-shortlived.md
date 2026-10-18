@@ -15,12 +15,14 @@ sources:
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the short-term retention test, groups that had learned with low information density outperformed groups with high information density. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

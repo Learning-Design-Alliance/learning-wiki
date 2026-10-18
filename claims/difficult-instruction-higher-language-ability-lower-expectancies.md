@@ -15,12 +15,14 @@ sources:
     author: Lina Wirth, Timo Ehmke, Jan Retelsdorf, Poldi Kuhl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Under linguistically difficult instruction, higher language ability is associated with lower expectancies of success — the opposite direction of the hypothesized moderation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The interaction between the linguistically difficult instructional video and language abilities had a significant negative effect on expectancies of success (β = −0.29, p = .008), contrary to the hypothesis that lower-ability students would suffer most. [→ Lina Wirth 2026](#lina-wirth-2026)

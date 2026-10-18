@@ -15,12 +15,14 @@ sources:
     author: Lehesvuori, S., Järvinen, M., Lämsä, J., Heilala, V., Hämäläinen, R.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Active listening was the most common individual student communicative activity in the analysed lesson, with marked individual differences between the three students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across coded 20-second intervals for three students, active listening dominated, and students differed in time spent next to the whiteboard, in questions asked, and in active listening. [→ Lehesvuori 2026](#lehesvuori-2026)

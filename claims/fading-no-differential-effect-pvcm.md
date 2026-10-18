@@ -15,12 +15,14 @@ sources:
     author: Jasmin Lilian Bauersfeld, Bernadette Gold
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Complete and faded double-content examples did not differentially affect student teachers' professional vision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No significant differences emerged between the complete-example group and the faded-example group on any measure of professional vision. [→ Jasmin Lilian Bauersfeld 2025](#jasmin-lilian-bauersfeld-2025)

@@ -15,12 +15,14 @@ sources:
     author: "Gerdesmann, D., Schwichow, M., & Koerber, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Latent profile analysis identifies three learner profiles differing in cognitive factors, self-concept, and extraneous load, with significant performance differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The profiles combined cognitive skills with dispositional and load characteristics: pessimistic averagers had average skills but lower self-concept and higher extraneous load; optimistic strugglers had lower skills but higher self-concept. [→ Gerdesmann 2026](#gerdesmann-2026)

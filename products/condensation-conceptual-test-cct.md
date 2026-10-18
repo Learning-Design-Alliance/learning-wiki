@@ -13,6 +13,7 @@ generated:
 # Condensation Conceptual Test (CCT)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A five-item diagnostic assessment developed by Bayram Costu and colleagues to measure university students' conceptual understanding and conceptual change about condensation.

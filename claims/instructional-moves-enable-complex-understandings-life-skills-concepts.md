@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Marthe Fundingsrud, Anniken Furberg
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers' instructional moves of attuning to, acknowledging, repeating and selectively picking up on student contributions appear to enable students to develop increasingly complex understandings of life skills concepts.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that guidance and instructional moves enabled students to develop increasingly complex understandings of the focal life skills concepts. [→ Kenneth Silseth 2026](#kenneth-silseth-2026)

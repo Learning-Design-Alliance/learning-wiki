@@ -12,6 +12,7 @@ generated:
 # Four-level rubric for teachers' reflective prompts adapted from Van Manen's reflective levels
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study adapts Van Manen's (1977) cumulative levels of reflection into a four-level rubric for classifying teachers' reflective prompts in learning modules. "Level 1 involves basic descriptive reflections" guiding students to content knowledge; "Van-Manen's practical reflection level was split in two, where Level 2 prompts reflection using limited SRL terminology" and Level 3 encourages concrete problem-solving commentary; "The highest level, Level 4, prompts critical reflections and fosters SRL." It enabled tracking teachers' SRL&T growth across a year of module design, with a parallel rubric for student reflective responses.

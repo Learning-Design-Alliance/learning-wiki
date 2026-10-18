@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Marthe Fundingsrud, Anniken Furberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers can guide students' conceptual understanding of life skills concepts by building on the everyday experiences students invoke in classroom conversations.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a group work sequence, a teacher used a student's everyday experiences of self-esteem as a soccer player and pupil to guide him toward a more complex, context-dependent understanding of the concept. [→ Kenneth Silseth 2026](#kenneth-silseth-2026)

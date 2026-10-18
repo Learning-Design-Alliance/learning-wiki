@@ -15,18 +15,22 @@ sources:
     author: Ashlyn Pierson, D. Teo Keifert, Bethany Daniel, Sarah Lee, Tessaly Jen, Adam Bell, Heather Johnson, Rachel Askew, Andrea Henrie
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: ashlyn-pierson-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09674-8"
     title: "Ashlyn Pierson, D. Teo Keifert, Bethany Daniel, Sarah Lee, Tessaly Jen, Adam Bell, Heather Johnson, Rachel Askew, Andrea Henrie. (2024). Designing to support equity-as-transformation perspectives for multilingual science learners. Instructional Science. https://doi.org/10.1007/s11251-024-09674-8"
     author: Ashlyn Pierson, D. Teo Keifert, Bethany Daniel, Sarah Lee, Tessaly Jen, Adam Bell, Heather Johnson, Rachel Askew, Andrea Henrie
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Redesigned PD pairing the Language Storybook and Jonathan and the Sun discussion with tailored facilitation shifted the community toward anti-deficit, transformative perspectives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Adding the Language Storybook and Jonathan and the Sun discussion with facilitation tying big ideas to practical, real-world stories was more successful in shifting the PD community towards anti-deficit discussions including equity-as-transformation. [→ Ashlyn Pierson 2024](#ashlyn-pierson-2024)

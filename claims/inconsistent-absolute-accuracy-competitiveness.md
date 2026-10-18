@@ -15,12 +15,14 @@ sources:
     author: Daniell DiFrancesca, Dan Spencer
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Absolute monitoring accuracy showed a significant group-by-time interaction, but with opposite directions at different time points (HC < LC at Kahoot 2; LC < HC at Kahoot 5), which the authors interpret as no meaningful difference. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

@@ -15,12 +15,14 @@ sources:
     author: Meg Farrell, Monika Martin, Ricardo Böheim, Alexander Renkl, Werner Rieß, Karen D. Könings, Jeroen J. G. van Merriënboer, Tina Seidel
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Independent double coding of PST video-analysis descriptions and interpretations showed very good agreement (ICC = 0.90 for descriptions, 0.89 for interpretations). [→ Meg Farrell 2024](#meg-farrell-2024)

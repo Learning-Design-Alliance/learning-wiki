@@ -15,12 +15,14 @@ sources:
     author: "Ketonen, E. E., Kruskopf, M., Lonka, K., & Mattlin, M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Intraclass correlations ranged from 0.182 to 0.367, indicating positive emotions were more often reported than negative and most variance was within-person. [→ Ketonen 2026](#ketonen-2026)

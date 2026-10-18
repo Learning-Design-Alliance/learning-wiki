@@ -13,6 +13,7 @@ generated:
 # CResME (Clinical-reasoning Mapping Exercise)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A multimedia clinical-reasoning exercise system developed by Cloude et al. that presents linked clinical case information and requires medical students to match findings, construct diagnoses, and receive rubric-based evaluation.

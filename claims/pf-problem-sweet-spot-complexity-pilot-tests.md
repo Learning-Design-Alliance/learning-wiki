@@ -15,18 +15,22 @@ sources:
     author: Valentina Nachtigall · Katja Serova · Nikol Rummel
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: valentina-nachtigall-katja-serova-nikol-rummel-2020-2
     resource: "https://doi.org/10.1007/s11251-020-09525-2"
     title: "Valentina Nachtigall · Katja Serova · Nikol Rummel. (2020). When failure fails to be productive: probing the effectiveness of productive failure for learning beyond STEM domains. Instructional Science. https://doi.org/10.1007/s11251-020-09525-2"
     author: Valentina Nachtigall · Katja Serova · Nikol Rummel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pilot tests showed students produced non-canonical solution ideas (on average 6.5 ideas in round one) that typically included at least one of the four targeted errors, supporting sweet-spot complexity for the PF problem. [→ Valentina Nachtigall · Katja Serova · Nikol Rummel 2020](#valentina-nachtigall-katja-serova-nikol-rummel-2020)

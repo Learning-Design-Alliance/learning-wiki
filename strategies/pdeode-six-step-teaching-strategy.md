@@ -17,7 +17,7 @@ sources:
 # Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 PDEODE is a six-step variant of the Predict-Observe-Explain technique proposed by Savander-Ranne and Kolari (2003). Students individually predict and justify what will happen (P), discuss and share ideas in groups (D), reach a group consensus and present it in whole-class discussion (E), perform a hands-on experiment and record observations (O), reconcile predictions with observations (D), and confront and resolve any contradictions (E). The teacher challenges students, facilitates discussions, asks probing questions, and guides observation of target concepts.

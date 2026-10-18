@@ -15,12 +15,14 @@ sources:
     author: "Ketonen, E. E., Kruskopf, M., Lonka, K., & Mattlin, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` RDSEM time-trend models controlling session type predicted lower curiosity, enjoyment, confusion and anxiety and higher boredom as calendar weeks progressed; surprise and frustration showed no trend. [→ Ketonen 2026](#ketonen-2026)

@@ -15,12 +15,14 @@ sources:
     author: Lina Wirth, Timo Ehmke, Jan Retelsdorf, Poldi Kuhl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Expectancies of success and intrinsic task value positively predict achievement test scores, but language-related variables show no indirect effects on achievement via these beliefs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There were no significant indirect effects of the experimental conditions, language abilities, or their interactions on achievement except a total indirect effect of language abilities (β = 0.16, p = .049). [→ Lina Wirth 2026](#lina-wirth-2026)

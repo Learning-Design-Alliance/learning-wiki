@@ -15,12 +15,14 @@ sources:
     author: Jordan Lombard, Ivar Bråten, Cécile van de Leemput, Franck Amadieu
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Guided LiquidText users redistribute task time toward document processing and away from writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The guided group spent longer processing the documents than the control group, d = 1.04. [→ Jordan Lombard 2021](#jordan-lombard-2021)

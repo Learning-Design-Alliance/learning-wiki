@@ -15,12 +15,14 @@ sources:
     author: Lina Wirth, Timo Ehmke, Jan Retelsdorf, Poldi Kuhl
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Students’ language abilities positively predict their expectancies of success while learning from an instructional video, but not their intrinsic task value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Language abilities showed a significant positive effect on expectancies of success (β = 0.27, p = .033). [→ Lina Wirth 2026](#lina-wirth-2026)

@@ -15,12 +15,14 @@ sources:
     author: Stefan A. Schreder, Helen Jossberger, Hans Gruber
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` All five facilitators preferred VAD over VD, valuing the visualisation of important events for precise feedback and the objectivity of video that reduced the need to justify negative feedback. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)

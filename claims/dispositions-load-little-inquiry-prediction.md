@@ -15,18 +15,22 @@ sources:
     author: "Gerdesmann, D., Schwichow, M., & Koerber, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gerdesmann-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09806-2"
     title: "Gerdesmann, D., Schwichow, M., & Koerber, S. (2026). Factors that explain simulation-based inquiry performance in physics learning. Instructional Science. https://doi.org/10.1007/s11251-026-09806-2"
     author: "Gerdesmann, D., Schwichow, M., & Koerber, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Dispositional factors add little to predicting inquiry performance except physics self-concept, and extraneous load has a significant negative effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A more positive physics self-concept was associated with better inquiry performance, but adding all dispositional variables did not increase overall explanatory power. [→ Gerdesmann 2026](#gerdesmann-2026)
