@@ -44,4 +44,4 @@ ANOVA on situational knowledge (max 4, no covariates) in the 61-dyad/95-individu
 
 
 ## Related Claims
--
+- [Representational format produced no significant differences in conceptual or situational knowledge](no-format-effect-conceptual-situational-knowledge.md) — reports the opposite

@@ -143,6 +143,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [+M] — learners who differ on it differ in outcomes
 - [Short-term prompting in learning journals does not change university students' self-efficacy](../claims/short-term-prompts-do-not-change-self-efficacy.md) [-W] — instruction changes it
 - [Mathematics achievement is strongly positively associated with mathematics confidence at the student level (0.43)](../claims/math-achievement-confidence-association.md) [+M] — learners who differ on it differ in outcomes
+- [Academic self-efficacy was not significantly associated with final test performance](../claims/self-efficacy-no-direct-path-final-test.md) [-W] — learners who differ on it differ in outcomes
+- [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](../claims/no-metacognitive-awareness-of-errorful-learning-benefits.md) [-W] — instruction changes it
 
 ## The evidence by question
 

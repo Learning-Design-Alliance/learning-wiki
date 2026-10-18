@@ -68,6 +68,9 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Students' initial correct answers can mask reasoning based on a subtraction strategy not previously reported for integer order comparisons](../claims/nicole-subtraction-strategy-order-relation.md) [+W] — learners who differ on it differ in outcomes
 - [The adult-like retrieval bias for multiplication over addition on strategy selection is significant only in fourth grade, with retrieval used as frequently for both operations in second and sixth grade](../claims/multiplication-retrieval-bias-fourth-grade-only.md) [+W] — learners who differ on it differ in outcomes
 - [Two sources of the problem-size effect — more frequent and more efficient retrieval on small than large problems — are present in children of all grades, while the procedural-efficiency source is present only in second grade](../claims/problem-size-sources-children-strategy-use.md) [+W] — learners who differ on it differ in outcomes
+- [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](../claims/mls-weps-improved-unit1-calculation-explanation.md) [+M] — instruction changes it
+- [MLS-WEPs intervention predicted higher Unit 2 (functions) calculation and explanation scores when controlling for prior knowledge](../claims/mls-weps-improved-unit2-calculation-explanation.md) [+M] — instruction changes it
+- [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](../claims/text-arithmetic-improved-procedural-knowledge.md) [+M] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

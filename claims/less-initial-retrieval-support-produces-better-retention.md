@@ -122,3 +122,4 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 - [Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do](science-values-imposed-on-language.md) — related
 - Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition — related
 - [Recognition tests yield higher word-learning effect sizes than recall tests](recognition-tests-higher-effect-sizes-than-recall.md) — related
+- [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](practice-retrieval-scores-no-condition-differences.md) — related

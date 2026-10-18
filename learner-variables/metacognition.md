@@ -112,6 +112,9 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [-M] — instruction changes it
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](../claims/drawing-after-learning-improves-absolute-monitoring-accuracy.md) [+W] — instruction changes it
 - [The inventing group showed more metacognitive regulation during future learning, contrary to hypothesis, without benefiting transfer](../claims/inventing-group-more-metacognitive-regulation.md) [+M] — instruction changes it
+- [Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention](../claims/metacognitive-scaffolding-guided-invention-gains.md) [+M] — instruction changes it
+- [Rereading raises judgements of learning after each reading while multiple text reading raises them only after the second reading (significant interaction, ηp2 = 0.07)](../claims/rereading-inflates-jols-across-readings.md) [~M] — instruction changes it
+- [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](../claims/no-metacognitive-awareness-of-errorful-learning-benefits.md) [-M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

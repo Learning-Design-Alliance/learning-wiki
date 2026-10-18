@@ -64,3 +64,4 @@ Thematic analysis of semi-structured interviews conducted in spring 2023 with 21
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements](cobi-broad-buy-in-students-teachers.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
+- [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — related

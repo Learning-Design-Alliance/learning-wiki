@@ -169,6 +169,12 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Expertise positively predicts knowledge integration, and the four competencies remain positively related to knowledge integration at different levels of expertise](../claims/competencies-relevant-across-expertise-levels.md) [+M] — learners who differ on it differ in outcomes
 - [Experts do not exhibit higher levels of reflexivity than novices, consistent with reflexivity as a meta-cognitive competence](../claims/experts-not-higher-reflexivity-than-novices.md) [-M] — learners who differ on it differ in outcomes
 - [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](../claims/pretest-grade-correlate-conceptual-not-procedural.md) [~M] — learners who differ on it differ in outcomes
+- [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](../claims/knowledge-driven-vs-image-driven-classroom-perception.md) [+W] — learners who differ on it differ in outcomes
+- [Expert teachers' fixations are significantly more focused (less dispersed) than novices' when viewing classroom scenes, irrespective of video type](../claims/expert-fixations-more-focused-than-novices.md) [+M] — learners who differ on it differ in outcomes
+- [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](../claims/experts-monitor-interaction-areas-novices-salient-areas.md) [+M] — learners who differ on it differ in outcomes
+- [In the Ethiopian TDT study, novice teachers performed as well as facilitators in designing communicative English lessons](../claims/ethiopia-novice-teachers-performed-as-facilitators.md) [-M] — learners who differ on it differ in outcomes
+- [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](../claims/novices-skip-more-classroom-areas.md) [+M] — learners who differ on it differ in outcomes
+- [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](../claims/scaffolds-mitigate-prior-knowledge-limit.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

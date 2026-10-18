@@ -147,6 +147,7 @@ Correct procedures, conceptual understanding, recall of a correction and comfort
 - **"Surprise" Quizzes**: Asking students to predict an outcome before a demonstration; the surprise of a wrong prediction triggers the hypercorrection effect.
 - [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](../strategies/misconception-aware-contrastive-remediation-videos.md)
 - [Tool-supported workflow for identifying, clustering, and visualizing common modelling mistakes as bug fixing transformations](../research-methods/tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak.md)
+- [After instruction, have students practice designing deliberately invalid experiments, explain and correct their own errors, and optionally exchange designs with peers for spot-explain-fix discussion](../strategies/practice-designing-deliberately-invalid-experiments-strategy.md)
 
 ## Key Sources
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)

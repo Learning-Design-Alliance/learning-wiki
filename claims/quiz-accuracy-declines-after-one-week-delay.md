@@ -46,3 +46,5 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 - [College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week](no-comprehension-difference-digital-paper-textbooks.md) — related
 - [Evaluation accuracy differed by problem type, with a significant time-by-problem-type interaction: confounded designs remained hardest after instruction](problem-type-interaction-evaluation.md) — related
 - [All three instructional methods reduced misconceptions, and comprehension and transfer effects were stable at delayed testing one week later](misconception-reduction-stable-delayed-testing.md) — related
+- [Multiple text reading shows more stable retention than rereading: non-significantly higher one-week scores and a smaller decline from one day to one week](mtr-stable-retention-smaller-decline.md) — related
+- [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related

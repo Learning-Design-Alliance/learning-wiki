@@ -45,3 +45,4 @@ Theoretical argument in the 'Language Is More Than a Science' section: the autho
 
 ## Related Claims
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related
+- [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](preferable-futures-backcasting-agency.md) — related

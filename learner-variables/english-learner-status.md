@@ -116,6 +116,8 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies](../claims/dll-smaller-vocabulary-each-language.md) [~M] — learners who differ on it differ in outcomes
 - [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](../claims/simultaneous-sequential-vocabulary-differences.md) [+M] — learners who differ on it differ in outcomes
 - [The institutionalized “ELL” label positioned labelled students as the Other, depriving them of access to agentive participation in the unit](../claims/ell-label-positioned-students-as-other.md) [+M] — learners who differ on it differ in outcomes
+- [Effectiveness of the MLS-WEPs intervention generally did not vary by English learners' English proficiency after controlling for prior knowledge](../claims/mls-weps-effective-across-proficiency-levels.md) [-M] — an instructional effect differs with it
+- [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](../claims/math-performance-correlated-with-proficiency.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

@@ -44,4 +44,4 @@ Chi-square analyses of tool-use percentages across the 61 dyads and 95 individua
 
 
 ## Related Claims
--
+- [Target strategy use did not vary by instructional support condition for any of the three fraction comparison tasks](target-strategy-use-did-not-vary-by-condition.md) — related

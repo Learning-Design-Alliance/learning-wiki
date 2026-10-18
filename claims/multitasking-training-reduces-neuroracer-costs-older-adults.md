@@ -63,3 +63,4 @@ Follow-up comparison in experiment 3 context: MTT post-training cost (reported a
 
 ## Related Claims
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — reports the opposite
+- [Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios](sixmonth-portfolio-transfer-argumentation.md) — related

@@ -102,3 +102,4 @@ A systematic review evaluating ten learning techniques against generalisability,
 - Retrieval practice strengthens memory and produces stronger, more enduring learning — related
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Retrieval practice conditions produced significantly higher cognitive load than rereading](retrieval-practice-increases-cognitive-load.md) — related

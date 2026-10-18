@@ -43,4 +43,4 @@ Comparative analysis of video-coded interactions from 34 eighth-graders on SimSk
 
 
 ## Related Claims
--
+- [Self-study students produced more substantive comments, a higher proportion of substantive comments, and more co-constructive turns during discussion than lecture students, though interaction-episode counts did not differ](self-study-discussion-substantive-dialogue-quality.md) — related

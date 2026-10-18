@@ -1,0 +1,47 @@
+---
+type: claim
+title: Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation
+description: Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation
+id: short-online-training-shifts-interpretations-learning-focused-video
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: henna-vilppu-2019
+    resource: "https://doi.org/10.1007/s11251-019-09496-z"
+    title: "Henna Vilppu, Ilona Södervik, Liisa Postareff, Mari Murtonen. (2019). The effect of short online pedagogical training on university teachers’ interpretations of teaching–learning situations. Instructional Science. https://doi.org/10.1007/s11251-019-09496-z"
+    author: Henna Vilppu, Ilona Södervik, Liisa Postareff, Mari Murtonen
+    q: 2
+    i: "?"
+---
+
+# Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` After participating in the online courses, eight participants changed their interpretation of the learning-focused video from a knowledge-transmission to a learning-facilitation view. [→ Henna Vilppu 2019](#henna-vilppu-2019)
+
+## Evidence
+
+### Henna Vilppu 2019
+
+Henna Vilppu, Ilona Södervik, Liisa Postareff, Mari Murtonen. (2019). The effect of short online pedagogical training on university teachers’ interpretations of teaching–learning situations. Instructional Science. https://doi.org/10.1007/s11251-019-09496-z
+
+`q2 · i?` · `causal · r1`
+
+Pre–post analysis of written interpretations of a 41-s video in which a teacher activates the class to discuss a student question. Responses were theory-driven coded; the article reports the count of changed interpretations, and illustrates it with participant P13’s shift toward “activate the class by referring the question to the students”.
+
+> "Eight participants changed their interpretation from knowledge transmission to a learning facilitation view of teaching after participating in university pedagogy course(s)."
+
+## Discussion
+
+
+## Related Claims
+- [After the short online courses, fourteen respondents changed their interpretations of a content-focused teaching video](short-online-training-shifts-interpretations-content-focused-video.md) — related
+- [The authors argue that analysing interpretations of video situations gives a more reliable view of teachers’ conceptions than self-report Likert questionnaires](video-interpretation-more-reliable-than-self-report-conceptions.md) — related
+- [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
+- [After training, better professional vision and reasoning are correlated with more learning-centered conception changes and fewer misconceptions](posttest-correlations-vision-conceptions.md) — related

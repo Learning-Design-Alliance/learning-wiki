@@ -47,3 +47,6 @@ Questionnaire study in two eight-week first-year law courses (202 and 150 studen
 - [Staff tutors display more authoritarian behavior than student tutors in problem-based tutorial groups](staff-tutors-more-authoritarian-than-student-tutors.md) — related
 - [Student tutors show greater role congruence, being more interested in students' daily lives and study experiences](student-tutors-greater-role-congruence.md) — related
 - [Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning](student-tutors-more-assessment-oriented.md) — related
+- [No achievement difference between staff- and peer-tutored groups in the first curriculum year](no-achievement-difference-year-one-peer-staff.md) — related
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related

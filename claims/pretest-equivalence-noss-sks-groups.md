@@ -49,3 +49,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](no-significant-posttest-retention-decline-either-group.md) — related
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — a broader claim this one bears on
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
+- [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related

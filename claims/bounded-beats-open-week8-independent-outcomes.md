@@ -56,3 +56,4 @@ Class-clustered analysis with exact Webb six-point wild-cluster inference over s
 - [Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking](reflective-engagement-predicts-independent-outcomes.md) — related
 - [Among AI-exposed students, open collaboration predicted higher aggregate offloading, which was associated with lower Week 8 higher-order thinking (indirect estimate −0.34)](offloading-mediation-lower-independent-hot.md) — related
 - [Open collaboration involved more prompts, greater text incorporation, less self-generated text, and deeper idea and reasoning offloading than bounded support](open-collaboration-process-intensity-profile.md) — related
+- [Role-script support (TAU) during generation led university relearning students to outperform direct instruction in all weeks but the first](tau-role-script-outperformed-di-relearning.md) — related

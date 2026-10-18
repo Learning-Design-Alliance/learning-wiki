@@ -44,3 +44,4 @@ Deductive qualitative and quantitative content analysis of 50 teacher essays cod
 - [Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions](approaching-markers-future-attainability.md) — related
 - [Structural and dynamical future-scaffolding skills appeared in teachers' visions, led by causal-relationship identification and present-future shifting](future-scaffolding-skills-teacher-essays.md) — related
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related
+- [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](course-pluralised-futures-questioned-determinism.md) — related

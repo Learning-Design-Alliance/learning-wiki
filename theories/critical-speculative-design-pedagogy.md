@@ -37,7 +37,10 @@ Critical Speculative Design Pedagogy (CSDP) integrates Cultural Learning Pathway
 - Developing the capacity to speculatively redesign — not just critique — those systems toward more just, restorative futures
 
 ## Claims
+
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](../claims/critical-speculative-design-supports-critical-consciousness-in-science.md) [~M]
+- [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](../claims/course-pluralised-futures-questioned-determinism.md) [+W] — attached 2026-10-18 from Tapio Rasa et al. (2022), which proposed "Futures thinking connected to the projective dimension of transformative agency".
+- [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](../claims/preferable-futures-backcasting-agency.md) [+W] — attached 2026-10-18 from Tapio Rasa et al. (2022), which proposed "Futures thinking connected to the projective dimension of transformative agency".
 
 ## Related Theories
 

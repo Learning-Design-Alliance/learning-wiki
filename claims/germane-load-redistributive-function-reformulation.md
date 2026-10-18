@@ -52,3 +52,4 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory](germane-load-activities-require-external-methods.md) — related
 - [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
+- [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related

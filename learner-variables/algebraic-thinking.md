@@ -66,6 +66,11 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back](../claims/discontinuity-during-folding-back-still-effective.md) [-W] — learners who differ on it differ in outcomes
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](../claims/short-practice-improves-equation-rearrangement.md) [+M] — instruction changes it
 - [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](../claims/cognitive-skill-intercorrelations-conditional.md) [~M] — learners who differ on it differ in outcomes
+- [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](../claims/micro-productive-failure-improves-isomorphic-procedural-problems.md) [+M] — instruction changes it
+- [Micro productive failure showed no effect on conceptual explanation, but a condition × time interaction emerged as the I-PS mean advantage at one day reversed at one week](../claims/micro-pf-no-conceptual-explanation-effect.md) [~M] — instruction changes it
+- [MLS-WEPs improved the quality of written explanations, with larger gains in fully correct explanations and reduced blank and concept-irrelevant responses](../claims/mls-weps-improved-explanation-quality.md) [+W] — instruction changes it
+- [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](../claims/mls-weps-improved-unit1-calculation-explanation.md) [+W] — instruction changes it
+- [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](../claims/practice-problems-favor-ps-i-first-worksheets.md) [~M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

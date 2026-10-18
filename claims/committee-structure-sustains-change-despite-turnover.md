@@ -53,3 +53,4 @@ The authors' expert interpretation from consulting across many districts, not a 
 - [High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement](high-teacher-turnover-costly-disruptive-lowers-achievement.md) — related
 - [Programmatic churn from constant turnover of curricula and initiatives hindered teachers' capacity for personalized, evaluation-driven improvement](programmatic-churn-hinders-personalized-improvement.md) — related
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
+- [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — related

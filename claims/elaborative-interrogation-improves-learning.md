@@ -132,3 +132,4 @@ Open questions for future enrichment: effect sizes relative to other learning te
 - [Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts](practice-testing-distributed-practice-high-utility.md) — related
 - [Self-explanation improves abstract transfer of logical rules relative to no self-explanation](self-explanation-improves-abstract-transfer.md) — related
 - [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
+- [Active processing of instructional explanation prompts increase coverage of main content items](active-processing-prompts-increase-main-content-coverage.md) — related

@@ -39,6 +39,11 @@ Where the humanist tradition ([Ginott](ginotts-congruent-communication.md), [Gla
 ### Target Learning Objectives
 - Sustained student engagement and minimized off-task behavior across a full school year, achieved primarily through investment during the first few weeks rather than through response after problems emerge
 
+## Claims
+
+- [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](../claims/experts-monitor-interaction-areas-novices-salient-areas.md) [+M] — attached 2026-10-18 from Charlotte E. Wolff et al. (2016), which proposed "Professional vision of teaching: knowledge-driven perception of classroom events underpinning withitness"; tests this page's relationship.
+- [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](../claims/novices-skip-more-classroom-areas.md) [+M] — attached 2026-10-18 from Charlotte E. Wolff et al. (2016), which proposed "Professional vision of teaching: knowledge-driven perception of classroom events underpinning withitness"; tests this page's relationship.
+
 ## Related Theories
 - [Ginott's Congruent Communication](ginotts-congruent-communication.md) — a reactive, communication-focused approach that Kounin's tradition explicitly contrasts itself with by emphasizing prevention instead
 - [Glasser's Choice Theory and Cooperative Learning](glassers-choice-theory-and-cooperative-learning.md) — similarly reactive/problem-solving-focused, in contrast to Kounin's prevention emphasis

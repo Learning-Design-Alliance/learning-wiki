@@ -133,3 +133,4 @@ Concrete load-reduction levers documented elsewhere in this wiki include [chunki
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — reports the opposite
+- [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related

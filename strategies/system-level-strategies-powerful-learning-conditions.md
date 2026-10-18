@@ -42,6 +42,7 @@ Drawing on the Water of Systems Change framework (structural, relational, transf
 - [Small school reformers should intentionally build professional community, principal leadership, and teacher influence rather than relying on size reduction](intentionally-build-organizational-conditions-small-schools.md)
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
 - [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
+- [Administrators and teacher educators should enable relational agency through consultation structures and honor teachers' emotions in responsive teaching](enable-relational-agency-consultation-for-responsive-teaching.md)
 
 ## Examples
 -

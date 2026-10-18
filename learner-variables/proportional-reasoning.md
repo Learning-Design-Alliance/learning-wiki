@@ -51,6 +51,8 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [The one-half advantage in fraction comparison emerges by Grade 4 for TA children and Grade 5 for LA children, but only at Grade 7 for children with MLD, who never exceed ~75% accuracy on one-half items](../claims/delayed-one-half-advantage-mld.md) [~M] — learners who differ on it differ in outcomes
 - [The relation between early whole number magnitude knowledge and later fraction magnitude knowledge is not attributable to number line tasks being used at both measurement times](../claims/number-line-task-overlap-not-explaining-continuity.md) [+W] — learners who differ on it differ in outcomes
 - [Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD](../claims/visual-model-advantage-persists-mld.md) [~M] — instruction changes it
+- [Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors](../claims/correct-exemplars-improve-pst-fraction-explanations.md) [+M] — instruction changes it
+- [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](../claims/practice-problems-favor-ps-i-first-worksheets.md) [~M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

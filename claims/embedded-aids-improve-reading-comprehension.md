@@ -53,3 +53,4 @@ Quasi-experimental study of science material with approximately 200 tenth grader
 - Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions. — related
 - Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material. — related
 - [Verbal-protocol-guided revisions of functional documents improved comprehension, with error rates falling from 50% to 22% despite longer texts](protocol-guided-revision-improves-comprehension.md) — related
+- [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related

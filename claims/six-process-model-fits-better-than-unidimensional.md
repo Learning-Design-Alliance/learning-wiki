@@ -41,4 +41,4 @@ CFA with theta parameterization and WLSMV estimator on the online figurative tes
 
 
 ## Related Claims
--
+- [Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily](tutor-rating-factors-not-one-trait.md) — related

@@ -71,3 +71,4 @@ Same SEM, mediation analysis section: total indirect effect "0.28, 95% CI (0.21,
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
 - [Indirect paths through AI learning self-efficacy and perceived usefulness account for about 69.5% of the total association between school support and AI learning anxiety](indirect-appraisal-paths-dominate-support-anxiety-association.md) — related
 - The Monte Carlo power analysis indicates limited statistical power for several hypothesised direct and indirect effects — related
+- [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — related

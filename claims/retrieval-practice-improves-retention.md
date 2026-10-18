@@ -275,3 +275,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — a narrower finding that bears on this claim
 - [Active control over the learning experience enhances recognition memory from age 7 into adulthood](active-control-enhances-memory-development.md) — related
+- [Retrieval practice conditions produced significantly higher cognitive load than rereading](retrieval-practice-increases-cognitive-load.md) — related

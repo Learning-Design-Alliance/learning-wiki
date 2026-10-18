@@ -143,3 +143,4 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — reports the opposite
 - [Adopting mastery goals rather than performance goals during initial learning promotes transfer](mastery-goals-promote-transfer.md) — related
+- [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](practice-retrieval-scores-no-condition-differences.md) — related

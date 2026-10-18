@@ -46,3 +46,4 @@ The study's comparative assertion that its observed declines are "more substanti
 - [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — related
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - The COVID-19 pandemic increased classroom disruptions and negatively affected students' social and emotional development — related
+- [COVID-19 restrictions inhibited implementation of later activities in the learning sequence](covid-restrictions-later-activities-inhibited.md) — related

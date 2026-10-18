@@ -86,3 +86,4 @@ Lyster and Saito (2010), a meta-analysis of 15 classroom studies, supports recas
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
 - [Recasts were provided more predominantly than prompts and explicit correction in both French immersion and Japanese immersion elementary classrooms](recasts-predominate-over-prompts-explicit-correction-immersion.md) — related
+- [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](tool-effectiveness-depends-initial-grasp.md) — related

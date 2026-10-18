@@ -46,3 +46,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — reports the opposite
 - [Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort](teacher-workload-negatively-associated-learning-gains.md) — related
 - [Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported](aied-u-positive-indirect-effect-via-effort-reduction.md) — related
+- [The four experimental conditions did not differ in self-reported prior physics performance at baseline](baseline-physics-performance-no-group-differences.md) — related

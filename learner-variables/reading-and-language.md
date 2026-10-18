@@ -199,6 +199,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](../claims/self-questioning-benefits-low-verbal-ability-more.md) [+M] — an instructional effect differs with it
 - [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](../claims/context-learning-comprehension-interaction-marginal.md) [-M] — an instructional effect differs with it
 - [Translanguaging practices briefly afforded multilingual participation, but this positioning did not endure across the unit](../claims/translanguaging-afforded-participation-not-enduring.md) [~M] — instruction changes it
+- [Effectiveness of the MLS-WEPs intervention generally did not vary by English learners' English proficiency after controlling for prior knowledge](../claims/mls-weps-effective-across-proficiency-levels.md) [-M] — an instructional effect differs with it
+- [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](../claims/math-performance-correlated-with-proficiency.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

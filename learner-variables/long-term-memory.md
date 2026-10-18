@@ -106,6 +106,9 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [An individual-then-collaborative activity structure (I+C) yields better delayed recall than collaborative-then-individual (C+I) and fully individual (I) structures](../claims/ic-structure-better-recall-than-ci-and-individual.md) [+W] — instruction changes it
 - [Self-constructing a complete concept map produces better delayed recall than completing, sorting a map, or writing a summary, with the largest effect in the I+C structure](../claims/self-constructed-cm-better-recall.md) [+M] — instruction changes it
 - [Task type and activity structure interact on recall: self-constructed maps help mainly when individually prepared and then discussed in pairs](../claims/task-structure-interaction-recall.md) [~M] — instruction changes it
+- [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](../claims/timeline-effect-disappears-at-retention.md) [~W] — instruction changes it
+- [Relationships between individual differences and final test performance were nonsignificant in retrieval practice conditions but significant in the rereading condition](../claims/individual-difference-correlations-vary-by-strategy-condition.md) [~M] — learners who differ on it differ in outcomes
+- [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](../claims/self-study-discussion-long-term-retention-transfer.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

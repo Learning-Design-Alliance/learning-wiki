@@ -48,3 +48,4 @@ Same within-subjects older-adult experiment, with the auditory reaction-time tas
 - [Physical guidance reduces pointing error during low-vision navigation in older adults, indicating better spatial learning with a guide](physical-guide-improves-older-adult-low-vision-spatial-learning.md) — related
 - [Average pointing error increases linearly with age across younger and older adults in a real-world low-vision navigation task](spatial-learning-worsens-with-age-low-vision-navigation.md) — related
 - [Dual-task (secondary-task) measures offer concurrent cognitive load assessment but are rarely used](dual-task-concurrent-load-measurement.md) — a broader claim this one bears on
+- [The four experimental conditions did not differ in self-reported prior physics performance at baseline](baseline-physics-performance-no-group-differences.md) — related

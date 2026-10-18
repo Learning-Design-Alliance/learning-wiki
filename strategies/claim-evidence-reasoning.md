@@ -58,8 +58,10 @@ CER converts the diffuse skill of "arguing from evidence" into a learnable, asse
 5. Fade the template over successive tasks, moving to open explanation writing ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Argumentation](../elements/argumentation.md) — CER is a scaffolded entry point into full argumentation; the reasoning component is a Toulminian warrant
 - [Argument Construction](../elements/argument-construction.md) — the broader skill CER structures
+- [Combine element identification, rubric design, peer assessment and role-playing on socio-scientific issues to train argumentation competence](argumentation-training-strategy-set.md)
 
 ## Examples
 - **McNeill & Krajcik's middle-school chemistry curriculum** — students explain whether two unknown substances are the same, writing CER responses from solubility and reaction data; the canonical implementation.

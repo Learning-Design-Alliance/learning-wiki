@@ -110,6 +110,7 @@ Do not rank peer teaching above adult small-group or one-to-one teaching from th
 
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](../claims/peer-assisted-learning-improves-learning-outcomes.md) [+W]: a definition from a descriptive report; does not test this pattern.
 - [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](../claims/peer-tutoring-audio-prompting-vocabulary-gains.md) [+W] — attached 2026-10-16 from Mackiewicz et al. (2011), which proposed "Eight-card audio-prompted tutoring sequence with model-lead-test feedback"; tests this page's relationship.
+- [No achievement difference between staff- and peer-tutored groups in the first curriculum year](../claims/no-achievement-difference-year-one-peer-staff.md) [~W] — attached 2026-10-18 from Schmidt et al. (1995), which proposed "In early problem-based curriculum years, peer tutors can substitute for staff tutors without achievement loss"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

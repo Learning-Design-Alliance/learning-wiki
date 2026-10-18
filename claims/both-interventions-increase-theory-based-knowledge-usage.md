@@ -46,3 +46,4 @@ Repeated-measures ANOVA on self-reported theory-based knowledge usage (Omega 0.8
 - [Neither intervention changes pre-service teachers' self-reported reliance on experience-based knowledge when analysing classroom situations](experience-based-knowledge-usage-unchanged.md) — related
 - [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](no-group-difference-theory-usage-increase.md) — related
 - [Studying theoretical content with text-based cases yields a small advantage in productive scientific knowledge application over studying the same content with theoretical models](text-based-cases-small-advantage-knowledge-application.md) — related
+- [The authors argue that analysing interpretations of video situations gives a more reliable view of teachers’ conceptions than self-report Likert questionnaires](video-interpretation-more-reliable-than-self-report-conceptions.md) — related

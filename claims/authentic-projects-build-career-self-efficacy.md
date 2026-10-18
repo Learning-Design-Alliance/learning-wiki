@@ -68,3 +68,4 @@ The authors describe Mr. Duarte's final project, in which students find communit
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](early-career-pathway-exposure-enhances-self-efficacy.md) — a broader claim this one bears on
 - [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
+- [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related

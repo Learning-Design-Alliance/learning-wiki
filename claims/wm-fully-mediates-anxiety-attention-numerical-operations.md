@@ -56,3 +56,4 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Working memory mediates the indirect effects of anxiety on math performance](wm-mediates-anxiety-effect-on-math.md) — a broader claim this one bears on
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
 - [Processing speed affects math achievement directly and both reading and math indirectly through working memory](ps-direct-math-indirect-wm-academic-effects.md) — related
+- [Higher working memory capacity was associated with better final test performance on advanced materials](working-memory-predicts-advanced-material-test-performance.md) — related

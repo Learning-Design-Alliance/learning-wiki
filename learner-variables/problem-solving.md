@@ -78,6 +78,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Eighth graders in a CPS group outperformed those in an IPS group on physics problem solving, with CPS narrowing high–low achievement gaps](../claims/cps-outperformed-ips-problem-solving-gap.md) [+M] — instruction changes it
 - [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](../claims/students-attribute-problems-to-technology-not-own-work.md) [~W] — instruction changes it
 - [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](../claims/online-ps-solutions-predict-posttests.md) [+M] — learners who differ on it differ in outcomes
+- [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](../claims/micro-productive-failure-improves-isomorphic-procedural-problems.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

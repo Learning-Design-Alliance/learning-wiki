@@ -119,3 +119,4 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — related
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — a narrower finding that bears on this claim
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
+- [Extraneous cognitive load arising from limited scope and high distance in the rule-based game pushed the facilitator toward first- and second-order interventions instead of the third-order interventions the learning goal required](extraneous-load-shifts-facilitator-to-fol-interventions.md) — a narrower finding that bears on this claim

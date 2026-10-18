@@ -119,3 +119,4 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [Common health literacy measures largely detect individual differences in cognitive abilities](health-literacy-measures-detect-cognitive-ability-differences.md) — related
 - [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](postdiction-skills-related-to-math-accuracy-grades-1-6.md) — a narrower finding that bears on this claim
 - [Generating examples produces overconfident judgments of learning, especially for principles and procedures](example-generation-overconfidence-judgment-bias.md) — a narrower finding that bears on this claim
+- [Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision](pst-overconfidence-fraction-explanation-calibration.md) — a narrower finding that bears on this claim

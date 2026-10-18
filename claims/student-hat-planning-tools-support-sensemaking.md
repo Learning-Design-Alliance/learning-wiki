@@ -61,3 +61,4 @@ Case study of one teacher using the discussion planning tool across all three di
 - [OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design](open-scied-design-tensions-coherence.md) — related
 - [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) — related
 - [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md) — related
+- [Collaboration with experts during design and enactment contributed to the quality of designed artefacts and to teacher learning across all three cases](expert-collaboration-quality-and-teacher-learning.md) — related

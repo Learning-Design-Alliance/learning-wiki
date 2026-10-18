@@ -99,6 +99,12 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](../claims/vocabulary-mediation-working-memory-inference.md) [+M] — learners who differ on it differ in outcomes
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](../claims/whole-number-ccs-one-level-per-wm-unit.md) [+W] — learners who differ on it differ in outcomes
 - [Rational-number CCS test performance is predicted by working memory capacity and, to a lesser extent, by intrusion errors in the listening span](../claims/rational-number-ccs-predicted-by-wm-and-intrusions.md) [+W] — learners who differ on it differ in outcomes
+- [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](../claims/adding-equations-to-diagrams-reduced-load-not-outcomes.md) [~M] — instruction changes it
+- [Extraneous cognitive load arising from limited scope and high distance in the rule-based game pushed the facilitator toward first- and second-order interventions instead of the third-order interventions the learning goal required](../claims/extraneous-load-shifts-facilitator-to-fol-interventions.md) [+M] — instruction changes it
+- [Higher working memory capacity was associated with better final test performance on advanced materials](../claims/working-memory-predicts-advanced-material-test-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Learning with tree diagrams increased experienced cognitive load across intrinsic, extraneous, germane, and overall measures](../claims/tree-diagrams-increase-cognitive-load.md) [+M] — instruction changes it
+- [Participants in the rule-based simulation game perceived it as demanding, and learning and applying its procedures and rules hindered investment in their learning goals](../claims/rule-based-sg-procedures-hindered-learning-goals.md) [+M] — instruction changes it
+- [Retrieval practice conditions produced significantly higher cognitive load than rereading](../claims/retrieval-practice-increases-cognitive-load.md) [+M] — instruction changes it
 
 ## The evidence by question
 

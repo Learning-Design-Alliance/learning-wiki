@@ -45,3 +45,4 @@ Randomized experiment with 152 secondary students in four conditions (PF, VF-hig
 ## Related Claims
 - [No significant differences among PF, VF-high, VF-low, and DI conditions on procedural knowledge acquisition](no-condition-effect-procedural-knowledge.md) — related
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
+- [Diversity of student-generated representations and solution methods is significantly correlated with learning from PF](rsm-diversity-correlates-with-pf-learning.md) — related

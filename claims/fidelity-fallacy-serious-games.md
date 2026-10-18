@@ -63,3 +63,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit](schematic-visuals-outperform-realistic.md) — a narrower finding that bears on this claim
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
+- [Participants in the rule-based simulation game perceived it as demanding, and learning and applying its procedures and rules hindered investment in their learning goals](rule-based-sg-procedures-hindered-learning-goals.md) — related

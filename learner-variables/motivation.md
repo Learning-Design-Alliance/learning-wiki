@@ -226,6 +226,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [+M] — learners who differ on it differ in outcomes
 - [Short-term prompting in learning journals does not change university students' self-efficacy](../claims/short-term-prompts-do-not-change-self-efficacy.md) [-W] — instruction changes it
 - [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](../claims/text-based-cases-higher-situational-interest.md) [+M] — instruction changes it
+- [Academic self-efficacy was not significantly associated with final test performance](../claims/self-efficacy-no-direct-path-final-test.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

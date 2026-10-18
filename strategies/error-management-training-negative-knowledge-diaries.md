@@ -45,7 +45,8 @@ The article recommends that "vocational education programs should give trainees 
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](../claims/errorless-discrimination-learning-transfer-advantage.md) [-W]
 
 ## Related Strategies
-- 
+
+- [After instruction, have students practice designing deliberately invalid experiments, explain and correct their own errors, and optionally exchange designs with peers for spot-explain-fix discussion](practice-designing-deliberately-invalid-experiments-strategy.md)
 
 ## Examples
 -

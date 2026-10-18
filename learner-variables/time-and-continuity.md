@@ -152,6 +152,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](../claims/claim-teacher-visit-pattern-brief-with-phase-exceptions.md) [~W] — instruction changes it
 - [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](../claims/long-term-prompting-no-added-benefit-declines-regardless.md) [-M] — an instructional effect differs with it
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](../claims/guidance-time-reallocation-multiple-document-task.md) [+M] — instruction changes it
+- [Low contingent support increased task effort when independent working time was short; with long independent working time task effort decreased under both contingencies but less so with high contingency](../claims/contingency-working-time-task-effort-interaction.md) [~M] — an instructional effect differs with it
+- [When controlling for task effort, low contingent support improved multiple-choice achievement with short independent working time whereas high contingent support improved it with long independent working time](../claims/contingency-by-working-time-interaction-achievement.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

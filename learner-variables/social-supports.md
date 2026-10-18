@@ -87,6 +87,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](../claims/social-support-no-buffer-depression.md) [-W] — an instructional effect differs with it
 - [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](../claims/low-stress-climate-fun-element.md) [+M] — learners who differ on it differ in outcomes
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](../claims/peer-interaction-fun-element.md) [+M] — learners who differ on it differ in outcomes
+- [Struggling participants in the rule-based game initiated emergent facilitation — self-organized peer facilitation — which was fuelled by cognitive load, scope disturbances and high distance and supported first- and second-order learning](../claims/emergent-facilitation-by-participants-in-rule-based-sg.md) [+M] — instruction changes it
+- [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](../claims/scaffolding-intervention-increases-teacher-contingency.md) [+M] — instruction changes it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

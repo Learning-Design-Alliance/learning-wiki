@@ -49,3 +49,4 @@ Same randomized study's immediate posttest analysis: "a marginally significant e
 - [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](worked-examples-no-improvement-knowledge-application.md) — related
+- [Initial failure did not hurt subsequent learning during instruction: no condition differences on example generation or immediate learning tests](no-condition-differences-example-generation-immediate-tests.md) — related

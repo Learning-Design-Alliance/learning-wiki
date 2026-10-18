@@ -57,3 +57,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
+- [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — related

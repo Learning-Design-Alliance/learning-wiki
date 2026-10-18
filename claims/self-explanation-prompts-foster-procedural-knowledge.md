@@ -47,3 +47,4 @@ Experiment with N = 62 learners studying probability theory from multi-represent
 - [Explanation prompts direct attention to targeted information and can reduce attention to other important information](explanation-prompts-redirect-attention-with-hidden-costs.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding](assisting-self-explanation-prompt-effect.md) — related
+- [Generated self-explanations mediate the immediate posttest advantage of open-book over closed-book prompts](self-explanations-mediate-open-book-immediate-advantage.md) — related

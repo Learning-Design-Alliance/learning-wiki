@@ -66,3 +66,4 @@ Post hoc contrasts between indirect effects in the same bootstrap analysis. The 
 - [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related
 - [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
 - [Teamwork predicts critical thinking via educational motivation (Ind2: Twork→EdMot→CThink, β=.052, 95% CI .0318-.0747)](teamwork-via-educational-motivation-indirect-effect.md) — related
+- [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related

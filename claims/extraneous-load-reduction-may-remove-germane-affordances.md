@@ -46,3 +46,4 @@ The review quotes Paas et al. (2004) on nonlinear hypertext environments, where 
 - [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
+- [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related
