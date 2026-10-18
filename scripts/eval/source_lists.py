@@ -146,38 +146,108 @@ def open_copy(w: dict) -> "str | None":
 
 
 def load_journal(issns: list) -> list:
-    """Open-access articles and reviews from journals given by ISSN, newest first."""
+    """Open-access articles and reviews from journals given by ISSN, newest first. OpenAlex
+    first; when its shared daily budget is spent (429 on every retry), Crossref and Unpaywall."""
     import requests
     out = []
     for issn in issns:
-        cursor = "*"
-        while cursor:
-            for wait in (0, 5, 20, 60):                     # OpenAlex answers bursts with 429
-                time.sleep(wait)
-                r = requests.get(OPENALEX, timeout=60, params={
-                    "filter": f"primary_location.source.issn:{issn},is_oa:true,type:article|review",
-                    "per-page": 200, "cursor": cursor, "mailto": "contact@learningdesignalliance.org",
-                    "select": "id,doi,title,publication_year,authorships,best_oa_location,locations,primary_location,type"})
-                if r.status_code != 429:
-                    break
-            r.raise_for_status()
-            d = r.json()
-            for w in d["results"]:
-                title = w.get("title") or ""
-                if not title or NOT_RESEARCH_TITLE.search(title):
-                    continue
-                url = open_copy(w)
-                doi = clean_doi((w.get("doi") or "").replace("https://doi.org/", ""))
-                names = [a["author"]["display_name"].split()[-1] for a in w.get("authorships", [])[:3]
-                         if a.get("author", {}).get("display_name")]
-                src = ((w.get("primary_location") or {}).get("source") or {}).get("display_name") or issn
-                out.append({"list": "journal", "key": "jrnl-" + w["id"].rsplit("/", 1)[-1].lower(),
-                            "title": title, "url": f"https://doi.org/{doi}" if doi else url,
-                            "fetch_url": url,
-                            "doi": doi or None, "arxiv": None, "type": w.get("type"), "group": src,
-                            "domain": "research", "year": str(w.get("publication_year") or ""),
-                            "authors": ", ".join(names) or None})
-            cursor = d["meta"].get("next_cursor")
+        try:
+            out += _journal_openalex(issn)
+        except requests.HTTPError as e:
+            if e.response is None or e.response.status_code != 429:
+                raise
+            print(f"OpenAlex budget spent; listing {issn} from Crossref and Unpaywall", file=sys.stderr)
+            out += _journal_crossref(issn)
+    return out
+
+
+def _unpaywall_copy(doi: str) -> "str | None":
+    """A readable open copy from Unpaywall, by the same rule as open_copy()."""
+    import requests
+    for attempt in range(3):
+        try:
+            r = requests.get(f"https://api.unpaywall.org/v2/{doi}", timeout=30,
+                             params={"email": "contact@learningdesignalliance.org"})
+        except requests.RequestException:
+            time.sleep(3)
+            continue
+        if r.status_code in (429, 503):
+            time.sleep(5 * (attempt + 1))
+            continue
+        if r.status_code != 200:
+            return None
+        d = r.json()
+        locs = [d.get("best_oa_location") or {}] + sorted(
+            d.get("oa_locations") or [], key=lambda l: 0 if l.get("host_type") == "repository" else 1)
+        for l in locs:
+            url = l.get("url_for_pdf") or l.get("url")
+            if url and not re.search(r"ezproxy|/login", url) and not any(h in url for h in BLOCKING_HOSTS):
+                return url
+        return None
+    return None
+
+
+def _journal_crossref(issn: str) -> list:
+    import requests
+    from concurrent.futures import ThreadPoolExecutor
+    works, cursor = [], "*"
+    while cursor:
+        r = requests.get(f"https://api.crossref.org/journals/{issn}/works", timeout=60, params={
+            "filter": "type:journal-article", "rows": 1000, "cursor": cursor,
+            "select": "DOI,title,author,issued", "mailto": "contact@learningdesignalliance.org"})
+        r.raise_for_status()
+        items = r.json()["message"]["items"]
+        works += items
+        cursor = r.json()["message"].get("next-cursor") if items else None
+    src = issn
+    works = [w for w in works if (w.get("title") or [""])[0] and not NOT_RESEARCH_TITLE.search(w["title"][0])]
+    with ThreadPoolExecutor(8) as ex:
+        urls = list(ex.map(lambda w: _unpaywall_copy(w["DOI"].lower()), works))
+    out = []
+    for w, url in zip(works, urls):
+        if not url:
+            continue
+        doi = clean_doi(w["DOI"])
+        names = [a.get("family", "") for a in (w.get("author") or [])[:3] if a.get("family")]
+        year = str(((w.get("issued") or {}).get("date-parts") or [[None]])[0][0] or "")
+        out.append({"list": "journal", "key": "jrnl-" + hashlib.sha1(doi.encode()).hexdigest()[:12],
+                    "title": w["title"][0], "url": f"https://doi.org/{doi}", "fetch_url": url, "doi": doi,
+                    "arxiv": None, "type": "article", "group": src, "domain": "research", "year": year,
+                    "authors": ", ".join(names) or None})
+    return out
+
+
+def _journal_openalex(issn: str) -> list:
+    import requests
+    out = []
+    cursor = "*"
+    while cursor:
+        for wait in (0, 5, 20):                         # OpenAlex answers bursts with 429
+            time.sleep(wait)
+            r = requests.get(OPENALEX, timeout=60, params={
+                "filter": f"primary_location.source.issn:{issn},is_oa:true,type:article|review",
+                "per-page": 200, "cursor": cursor, "mailto": "contact@learningdesignalliance.org",
+                "select": "id,doi,title,publication_year,authorships,best_oa_location,locations,primary_location,type"})
+            if r.status_code != 429:
+                break
+        r.raise_for_status()
+        d = r.json()
+        for w in d["results"]:
+            title = w.get("title") or ""
+            if not title or NOT_RESEARCH_TITLE.search(title):
+                continue
+            url = open_copy(w)
+            doi = clean_doi((w.get("doi") or "").replace("https://doi.org/", ""))
+            names = [a["author"]["display_name"].split()[-1] for a in w.get("authorships", [])[:3]
+                     if a.get("author", {}).get("display_name")]
+            src = ((w.get("primary_location") or {}).get("source") or {}).get("display_name") or issn
+            out.append({"list": "journal", "key": "jrnl-" + w["id"].rsplit("/", 1)[-1].lower(),
+                        "title": title, "url": f"https://doi.org/{doi}" if doi else url,
+                        "fetch_url": url,
+                        "doi": doi or None, "arxiv": None, "type": w.get("type"), "group": src,
+                        "domain": "research", "year": str(w.get("publication_year") or ""),
+                        "authors": ", ".join(names) or None})
+        cursor = d["meta"].get("next_cursor")
     return out
 
 
