@@ -15,12 +15,14 @@ sources:
     author: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant two-way interaction of prompt condition and DRC test score on germane load; below a mean-centered DRC score of −0.98 retrospective prompts induced higher GCL than anticipatory prompts. [→ Meier 2024](#meier-2024)
@@ -31,7 +33,7 @@ sources:
 
 Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I. (2024). Better self-explaining backwards or forwards? Prompting self-explanation in video-based modelling examples for learning a diagnostic strategy. Instructional Science, 52, 613–638. https://doi.org/10.1007/s11251-023-09651-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANOVA moderation on posttest germane load (RQ3) in the two prompt conditions; the interaction F(1, 40) = 8.813, p = .005, η2partial = 0.181, with the quoted boundary showing higher GCL under retrospective prompts for lower-prior-knowledge apprentices.
 

@@ -15,12 +15,14 @@ sources:
     author: Sabine Schlag, Sabine Glock
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Preservice teachers rated the video as simpler and more superficial than the text with the same content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Both complexity and profundity ratings differed significantly between text and video, with the video rated simpler (d = 1.96) and more superficial (d = 1.00). [→ Sabine Schlag 2024](#sabine-schlag-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Manipulation-check ratings by the 177 Study 2 participants on the text and video with identical content. The text was rated more complex (M = 4.71) and profound (M = 4.61); the video simpler (M = 2.92) and more superficial (M = 3.40).
 

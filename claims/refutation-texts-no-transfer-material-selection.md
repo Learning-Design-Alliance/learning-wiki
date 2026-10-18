@@ -15,12 +15,14 @@ sources:
     author: Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel
     q: 2
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Refutation texts did not promote beneficial selection of multimedia material by student teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` The refutation-texts conditions did not differ significantly from the standard-texts condition on the material-selection transfer test, not supporting Hypothesis 3a. [→ Anja Prinz 2022](#anja-prinz-2022)
@@ -31,7 +33,7 @@ sources:
 
 Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel. (2022). Refuting student teachers' misconceptions about multimedia learning. Instructional Science, 50, 89–110. https://doi.org/10.1007/s11251-021-09568-z
 
-`q2 · i0`
+`q2 · i0` · `causal · r2`
 
 Planned orthogonal contrast on the material-selection transfer test (four selection tasks, maximum 4 points) in the randomized experiment. The article reports "no significant difference" with "t(93) = −0.07, p = 0.943, η2 < 0.01"; equivalence was not tested.
 

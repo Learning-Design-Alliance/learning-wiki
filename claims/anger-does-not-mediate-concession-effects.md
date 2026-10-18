@@ -15,12 +15,14 @@ sources:
     author: Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mediation analyses revealed no significant mediation effect of anger for conceptual change or transfer, not supporting Hypothesis 4. [→ Anja Prinz 2022](#anja-prinz-2022)
@@ -31,7 +33,7 @@ sources:
 
 Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel. (2022). Refuting student teachers' misconceptions about multimedia learning. Instructional Science, 50, 89–110. https://doi.org/10.1007/s11251-021-09568-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Bootstrap mediation analysis (Hayes procedure, 10,000 bootstrap samples) run on the two refutation-text conditions only, with condition as predictor, anger as mediator. "the confidence intervals included zero" for both outcomes, so no mediation was found.
 

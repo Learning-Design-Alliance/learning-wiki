@@ -15,12 +15,14 @@ sources:
     author: Kristoffer Larsson · Klas Andersson
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Checks comparing treatment and control groups showed no significant differences on the pre-test or on mean merit rating; no effect size was reported for these checks. [→ Kristoffer Larsson · Klas Andersson 2025](#kristoffer-larsson-klas-andersson-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kristoffer Larsson · Klas Andersson. (2025). Testing the use of variation theory in teaching critical thinking—a field experimental study. Instructional Science (2025) 53:1025–1046. https://doi.org/10.1007/s11251-025-09721-y
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomization check ANOVAs comparing the treatment and control groups on the voting-age pre-test and on 8th-grade mean merit rating. "The analysis showed no significant differences" between the groups; the article reports only test statistics, with no effect size for these checks.
 

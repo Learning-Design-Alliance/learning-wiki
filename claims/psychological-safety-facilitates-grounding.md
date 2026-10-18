@@ -15,12 +15,14 @@ sources:
     author: Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Psychological safety is positively associated with negotiation activities (verification, clarification, agreement) in ICT-supported collaborative problem-solving
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Psychological safety had significant positive main effects on verification, clarification, and agreement, and increased negotiation per contribution. [→ Pieter J. Beers 2007](#pieter-j-beers-2007)
@@ -32,7 +34,7 @@ sources:
 
 Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers. (2007). ICT-support for grounding in the classroom. Instructional Science 35, 535–556. https://doi.org/10.1007/s11251-007-9018-5
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Repeated measures ANCOVA on coded messages from vocational education teams, with group-mean psychological safety (Cochran's a = .69) as covariate. Alongside main effects on verification, F(1, 11) = 5.83, P < .05, and clarification, F(1, 11) = 6.67, P < .05, the article reports "a signiﬁcant positive main effect of psychological safety on agreement."
 

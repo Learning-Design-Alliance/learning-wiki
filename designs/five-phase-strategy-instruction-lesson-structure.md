@@ -41,7 +41,8 @@ The intervention lesson followed a structured sequence of five phases: (1) orien
 - [Strategy Instruction Improves Divergent Thinking](../claims/strategy-instruction-improves-divergent-thinking.md) [+M]
 
 ## Related Designs
-- 
+
+- [Writing Lab six-lesson lesson-series pattern alternating divergent and convergent thinking with a fixed compare-contrast, generate, select, apply, evaluate activity cycle](writing-lab-alternating-divergent-convergent-lesson-pattern.md)
 
 ## Examples
 -

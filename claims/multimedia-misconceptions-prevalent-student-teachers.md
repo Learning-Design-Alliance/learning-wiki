@@ -15,12 +15,14 @@ sources:
     author: Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Multimedia-learning misconceptions are highly prevalent among student teachers, with the learning-styles misconception endorsed most commonly (84%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Student teachers hold misconceptions about multimedia learning, with 84% endorsing the learning-styles misconception and the other three misconceptions endorsed by 33–74%. [→ Anja Prinz 2022](#anja-prinz-2022)
@@ -31,7 +33,7 @@ sources:
 
 Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel. (2022). Refuting student teachers' misconceptions about multimedia learning. Instructional Science, 50, 89–110. https://doi.org/10.1007/s11251-021-09568-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Pretest of a randomized three-condition experiment (N = 96) using the misconceptions-about-multimedia-learning questionnaire. The negative average score indicates misconceptions were present across conditions: "the misconception score in the pretest was negative (M = −0.53, SD = 1.00)".
 

@@ -15,12 +15,14 @@ sources:
     author: Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` As a covariate, reading comprehension uniquely adjusted processing time (η²p = 0.036) and response length (η²p = 0.039), indicating better comprehenders were more engaged. [→ Lucia Mason 2022](#lucia-mason-2022)
@@ -31,7 +33,7 @@ sources:
 
 Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten. (2022). Do medium and Context Matter when learning from multiple complementary Digital texts and videos? Instructional Science (2022) 50:653–679. https://doi.org/10.1007/s11251-022-09591-8
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Covariate effects within the ANCOVAs on behavioral engagement for the 255 participants. Reading comprehension also uniquely adjusted processing time, F(1, 240) = 9.05, p = .003, η²p = 0.036, and task value for videos adjusted processing time, F(1, 240) = 5.95, p = .015, η²p = 0.024.
 

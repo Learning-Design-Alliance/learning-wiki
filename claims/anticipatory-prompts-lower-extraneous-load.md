@@ -15,12 +15,14 @@ sources:
     author: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Apprentices in the anticipatory prompt condition reported significantly lower extraneous cognitive load than apprentices in the retrospective prompt condition. [→ Meier 2024](#meier-2024)
@@ -31,7 +33,7 @@ sources:
 
 Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I. (2024). Better self-explaining backwards or forwards? Prompting self-explanation in video-based modelling examples for learning a diagnostic strategy. Instructional Science, 52, 613–638. https://doi.org/10.1007/s11251-023-09651-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANOVA on posttest-only load measures in the prompt-condition comparison; extraneous load F(1, 40) = 5.394, p = .025, η2partial = 0.119, with descriptive means of 3.89 (retrospective) versus 3.01 (anticipatory). The authors write that "ECL was lower in the anticipatory prompt group".
 

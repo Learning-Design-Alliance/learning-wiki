@@ -15,24 +15,30 @@ sources:
     author: "Schuessler, K., Fischer, V., & Walpuski, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
   - id: schuessler-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
     author: "Schuessler, K., Fischer, V., & Walpuski, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: schuessler-2025-3
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
     author: "Schuessler, K., Fischer, V., & Walpuski, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Items requiring integration have higher relative item difficulty than items requiring selecting or organizing, and delayed perceived task difficulty ratings appear closer to integrating-item difficulty, though that correlation comparison is not significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Relative item difficulty differs significantly across cognitive processes (Welch's F(2, 80.030) = 4.94, p = 0.009), with Bonferroni post-hoc differences between integrating and selecting and between integrating and organizing. [→ Schuessler 2025](#schuessler-2025)
@@ -45,7 +51,7 @@ sources:
 
 Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 One-way ANOVA (Welch's F, as homogeneity of variance was violated) on 43 selecting, 41 organizing, and 42 integrating items; the post-hoc tests show "selecting < integrating" and "organizing < integrating", while selecting and organizing did not differ significantly. Only F and p are printed.
 
@@ -55,7 +61,7 @@ One-way ANOVA (Welch's F, as homogeneity of variance was violated) on 43 selecti
 
 Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlations of perceived task difficulty with relative item difficulty per process: r = -0.64 (selecting, n = 43), r = -0.60 (organizing, n = 41), r = -0.71 (integrating, n = 42); differences of q = 0.14 and q = 0.20 were "small effects, but not significant", so no null-hypothesis test confirmed the pattern.
 
@@ -65,7 +71,7 @@ Correlations of perceived task difficulty with relative item difficulty per proc
 
 Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Three separate regressions at item-group level; selecting items explained 40.3% and organizing items 35.9% of perceived task difficulty variance, both "less than the 50.5%" explained by integrating items. Only R² values are printed, so impact is coded null.
 

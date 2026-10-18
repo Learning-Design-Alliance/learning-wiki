@@ -15,12 +15,14 @@ sources:
     author: Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # University students spent longer processing time watching two complementary videos than reading two complementary digital texts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In the ANCOVA on processing time, the video condition spent longer time processing the information than the text condition (d = 0.52), while not differing significantly from the mixed condition. [→ Lucia Mason 2022](#lucia-mason-2022)
@@ -31,7 +33,7 @@ sources:
 
 Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten. (2022). Do medium and Context Matter when learning from multiple complementary Digital texts and videos? Instructional Science (2022) 50:653–679. https://doi.org/10.1007/s11251-022-09591-8
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 A 3×2 between-participants ANCOVA (medium: texts, videos, mixed; context: Facebook, Moodle) on processing time with 255 higher-education students, covarying reading comprehension and task value for videos. Main effect of medium, F(2, 240) = 7.10, p < .001, η²p = 0.056; the video condition "spent longer time processing the information".
 

@@ -15,12 +15,14 @@ sources:
     author: Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Free-recall practice led to better retention of non-targeted content sections than short-answer practice on the free-recall posttest, but not on the short-answer posttest. [→ Tino Endres 2020](#tino-endres-2020)
@@ -31,7 +33,7 @@ sources:
 
 Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl. (2020). It matters how to recall – task differences in retrieval practice. Instructional Science. https://doi.org/10.1007/s11251-020-09526-1
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 In the same 54-participant within-subject experiment, the holistic-retrieval advantage for non-targeted sections on the free-recall posttest (M = 2.45 vs M = 2.10) reached significance with printed effect size ƞ2 = 0.084 (small-to-medium), while the short-answer posttest showed no difference (p = 0.261).
 

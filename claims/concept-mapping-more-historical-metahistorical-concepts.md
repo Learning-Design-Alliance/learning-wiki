@@ -15,12 +15,14 @@ sources:
     author: "Lucero, M., Montanero, M., & van Boxtel, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Utterances in the semiempty concept mapping condition contained significantly more substantive historical concepts and metahistorical concepts than utterances in the summary writing condition. [→ Lucero 2024](#lucero-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Chi-square comparison of coded concept use in the same 10-dyad discourse corpus; metaconcepts were 45% of coded concept use in concept mapping versus 30.8% in summary writing. The article prints no effect size for this difference.
 

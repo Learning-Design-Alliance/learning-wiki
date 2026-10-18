@@ -15,12 +15,14 @@ sources:
     author: Sabine Schlag, Sabine Glock
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Achievement level led to material choice, and choice-specific reasons reflected ability and effort attributions in the printed path model. [→ Sabine Schlag 2024](#sabine-schlag-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Path analysis of Study 2 data using Weiner-based ability and effort reason items, with model fit reported as moderate. The article reports the text was chosen because the student was "perceived as high-achieving and as high in effort"; video reasons were lower ability and effort evaluations.
 

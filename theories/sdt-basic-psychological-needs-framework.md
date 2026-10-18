@@ -57,6 +57,7 @@ Self-determination theory is described in the article as "a comprehensive theory
 ## Examples
 
 - [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](../strategies/motivation-supportive-genai-integration-higher-education.md)
+- [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
 
 ## Key Sources
 - Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/

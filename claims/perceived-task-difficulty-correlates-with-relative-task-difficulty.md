@@ -15,18 +15,22 @@ sources:
     author: "Schuessler, K., Fischer, V., & Walpuski, M."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: schuessler-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
     author: "Schuessler, K., Fischer, V., & Walpuski, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Perceived task difficulty and relative task difficulty are strongly correlated (r = -0.91), with relative task difficulty explaining 83.2% of variance in perceived task difficulty. [→ Schuessler 2025](#schuessler-2025)
@@ -38,7 +42,7 @@ sources:
 
 Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Task-level reanalysis of the Fischer (2019) chemistry competence data: 32 tasks rated on perceived task difficulty and analyzed with a 1-pl Rasch model. The printed effect size r = -0.91 is negative only because of Rasch scaling, meaning relatively difficult tasks were rated as more difficult.
 
@@ -48,7 +52,7 @@ Task-level reanalysis of the Fischer (2019) chemistry competence data: 32 tasks 
 
 Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Regression analysis on the same 32 tasks; the article reports that "only 16.8% of perceived task difficulty remain unexplained". No standardized effect size is printed for this regression beyond R², which is not treated as an effect size.
 

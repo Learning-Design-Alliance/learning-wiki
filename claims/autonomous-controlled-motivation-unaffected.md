@@ -15,18 +15,22 @@ sources:
     author: Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
   - id: louise-maddens-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09606-4"
     title: "Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4"
     author: Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen
     q: 2
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Autonomous motivation decreased and controlled motivation increased overall, with no differences between the need-supportive and baseline conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Autonomous motivation fell significantly from pretest (M = 2.81, SD = 0.81) to posttest (M = 2.64, SD = 0.82), d = 0.254. [→ Louise Maddens 2023](#louise-maddens-2023)
@@ -38,7 +42,7 @@ sources:
 
 Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Paired samples t-test in the results section; decreases were 0.19 in baseline and 0.15 in the need-supportive condition.
 
@@ -48,7 +52,7 @@ Paired samples t-test in the results section; decreases were 0.19 in baseline an
 
 Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4
 
-`q2 · i0`
+`q2 · i0` · `causal · r2`
 
 Independent samples t-tests on mean differences: both printed effect sizes (d = -0.069 and d = -0.090) are below d = 0.2. All motivation means stayed below the neutral score of 3.
 

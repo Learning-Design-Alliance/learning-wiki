@@ -15,12 +15,14 @@ sources:
     author: Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Participants in the refutation-texts conditions (with and without concessions) showed greater conceptual change than participants in the standard-texts condition. [→ Anja Prinz 2022](#anja-prinz-2022)
@@ -31,7 +33,7 @@ sources:
 
 Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel. (2022). Refuting student teachers' misconceptions about multimedia learning. Instructional Science, 50, 89–110. https://doi.org/10.1007/s11251-021-09568-z
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Planned orthogonal contrast in the randomized experiment (N = 96, 32 per condition) comparing both refutation-text conditions against standard texts on the conceptual-change score. The contrast was significant: "t(93) = 2.36, p = 0.020, η2 = 0.06", a medium effect by the article's thresholds.
 

@@ -39,7 +39,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (9 for, 14 mixed, 1 unmarked) · 36 studies (11 quant-synthesis, 9 causal, 7 review, 3 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 14 of 36 report an effect size · 14 claims rest on one study
+> **Evidence** · 25 claims (10 for, 14 mixed, 1 unmarked) · 37 studies (11 quant-synthesis, 9 causal, 7 review, 3 associational, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 14 of 37 report an effect size · 15 claims rest on one study
 
 ## Description
 
@@ -116,6 +116,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Llmkt Outperforms Existing Kt Methods On Tutoring Dialogues](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [~W]
 - [Audio Discussions Increase Perceived Pronunciation Ability](../claims/audio-discussions-increase-perceived-pronunciation-ability.md) [+M]
 - [Decreased Perceived Pronunciation Difficulty](../claims/decreased-perceived-pronunciation-difficulty.md) [+M]
+- [Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning](../claims/formative-assessment-training-improves-information-on-results.md) [+W] — attached 2026-10-18 from H. P. A. Boshuizen (2016), which proposed "Use flexible, adaptive formative assessment during learning to provide information on results for regulation".
 
 ## Source verification and open tests
 

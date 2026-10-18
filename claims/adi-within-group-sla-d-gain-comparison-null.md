@@ -15,12 +15,14 @@ sources:
     author: Gülüzar Eymur · Pınar Seda Çetin
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Experimental-group students improved on the SLA-D (t(33) = 5.51, p < .05, d = 3.62) whereas comparison-group students did not improve significantly (t(32) = 1.25, p > .05). [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#guluzar-eymur-pnar-seda-cetin-2024)
@@ -31,7 +33,7 @@ sources:
 
 Gülüzar Eymur · Pınar Seda Çetin (2024). Investigating the role of an inquiry-based science lab on students' scientific literacy. Instructional Science (2024) 52:743–760. https://doi.org/10.1007/s11251-024-09672-w
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Paired-samples t-tests on pre- and post-SLA-D scores reported in the Results. The article states "the overall gain for experimental group was large" (Table 4: means 7.61 to 11.4 for experimental; 7.57 to 8.60 for comparison).
 

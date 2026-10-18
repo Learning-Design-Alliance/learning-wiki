@@ -15,18 +15,22 @@ sources:
     author: "Ögren, M., Nyström, M., & Jarodzka, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ögren-2017-2
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
     author: "Ögren, M., Nyström, M., & Jarodzka, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Performance was unrelated to dwell time on the graph but increased with dwell time on the problem statement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Total dwell time on the graph showed no relationship to answering correctly. [→ Ögren 2017](#ogren-2017)
@@ -38,7 +42,7 @@ sources:
 
 Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Multi-level logistic regression (Table 4) on the multimedia condition; correct answers showed only small differences in graph dwell time (19.9% vs 18.6%). The proportion of dwell time on the graph interacted significantly with answer truth (z = 2.355, p = 0.0185).
 
@@ -48,7 +52,7 @@ Multi-level logistic regression (Table 4) on the multimedia condition; correct a
 
 Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Students who answered correctly dwelled 42.6% (SD 12.8) on the statement vs 38.3% (SD 11.3) for incorrect answers; regression coefficient for logit dwell time z = 2.565, p = 0.01033.
 

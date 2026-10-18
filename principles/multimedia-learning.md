@@ -145,6 +145,8 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 
 ## Examples
 
+- [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](../designs/mitosis-illustrated-text-emme-material.md)
+
 ### Illustrative
 
 **[Multimedia Learning](../elements/multimedia-learning.md)** — A lesson combines a labeled diagram, short narration, and a brief practice prompt so learners can connect process language to a visible structure.

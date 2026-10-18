@@ -15,18 +15,22 @@ sources:
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: wenkang-zhang-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` A substantial share of students verify GenAI-generated information via cross-checking with search engines. [→ Wenkang Zhang 2025](#wenkang-zhang-2025)
@@ -38,7 +42,7 @@ sources:
 
 Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of questionnaire responses: 21 of 63 students emphasized verifying GenAI-generated information by cross-checking through search engines, e.g. re-searching ChatGPT-provided terminologies on Google.
 
@@ -48,7 +52,7 @@ Thematic analysis of questionnaire responses: 21 of 63 students emphasized verif
 
 Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 15 of 63 participants described post-editing GenAI outputs (revising logical errors, removing high-sounding expressions); one interviewee reported pre-editing — segmenting long sentences, adjusting word order, simplifying metaphorical language — yielding "significant improvements" for Chinese-to-English non-literary texts.
 

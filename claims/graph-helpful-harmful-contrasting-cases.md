@@ -15,18 +15,22 @@ sources:
     author: "Ögren, M., Nyström, M., & Jarodzka, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ögren-2017-2
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
     author: "Ögren, M., Nyström, M., & Jarodzka, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In problem P3 the graph raised correctness from 0.25 to 0.70; in P4 it lowered it from 0.38 to 0.10, and helpful graphs were selected, integrated and used to build mental models more actively. [→ Ögren 2017](#ogren-2017)
@@ -38,7 +42,7 @@ sources:
 
 Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Qualitative and coded-verbal comparison of the two most extreme problems. In P3 the graph directly supported the dominant solution strategy (50% of multimedia participants used the key concept vs 6% of controls). In P4, 60% of multimedia participants said something like 'this must be correct' vs 19% of controls.
 
@@ -48,7 +52,7 @@ Qualitative and coded-verbal comparison of the two most extreme problems. In P3 
 
 Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Normalized verbal-code differences across P3 and P4 show that with a graph, participants selected more graph information (1.25) and built more graph-based mental models (0.65), but used less prior knowledge and integrated less across sources — the authors call the latter a probable negative effect of the graph.
 

@@ -15,12 +15,14 @@ sources:
     author: "Lucero, M., Montanero, M., & van Boxtel, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Dyads completing a semiempty concept map produced significantly more argumentation and causal explanation utterances than dyads writing a collaborative summary, whose utterances were more often contextualization or off-analysis. [→ Lucero 2024](#lucero-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Chi-square analysis of coded interaction utterances from 10 randomly chosen dyads (5 per condition) in two Spanish history classes. Causal explanation reached 49.9% of concept-mapping utterances versus 8.9% in summary writing; the authors report students "engaged more in argumentation and causal explanation". No effect size printed.
 

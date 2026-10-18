@@ -15,18 +15,22 @@ sources:
     author: "Nora A. McIntyre & Tom Foulsham"
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
   - id: nora-a-mcintyre-tom-foulsham-2018-2
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
     title: "Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x"
     author: "Nora A. McIntyre & Tom Foulsham"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teacher scanpaths are most dissimilar across combined expertise-and-culture sub-groups, significantly for attentional gaze and marginally for communicative gaze
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Attentional scanpaths were significantly more similar within (M = 0.39) sub-groups (expertise × culture) than across (M = 0.37) them. [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)
@@ -38,7 +42,7 @@ sources:
 
 Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Dual-IV sub-group comparisons (e.g., Hong Kong experts vs UK novices) among the 40 teachers. "signiﬁcantly more similar within ( M = 0.39) sub-groups", η²p = 0.23, p = 0.001.
 
@@ -48,7 +52,7 @@ Dual-IV sub-group comparisons (e.g., Hong Kong experts vs UK novices) among the 
 
 Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Communicative-gaze sub-group comparison in the same sample showed the same direction (M = 0.39 within vs 0.37 across) but "did not reach conventional levels of signiﬁcance"; η²p = 0.09 at p = 0.06.
 

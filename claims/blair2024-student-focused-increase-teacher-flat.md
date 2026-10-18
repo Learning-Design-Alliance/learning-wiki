@@ -15,18 +15,22 @@ sources:
     author: "Blair, K. P., Banes, L. C., & Martin, L."
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
   - id: blair-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09661-z"
     title: "Blair, K. P., Banes, L. C., & Martin, L. (2024). Fostering noticing of classroom discussion features through analysis of contrasting cases. Instructional Science, 52:417–452. https://doi.org/10.1007/s11251-024-09661-z"
     author: "Blair, K. P., Banes, L. C., & Martin, L."
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0`–`i2`
 
 ## Subclaims
 `q2 i2` Total student-focused codes showed a marginal pre-to-post increase (t(16) = -1.77, p = .096, d = 0.43), consistent with hypothesized shifts. [→ Blair 2024](#blair-2024)
@@ -38,7 +42,7 @@ sources:
 
 Blair, K. P., Banes, L. C., & Martin, L. (2024). Fostering noticing of classroom discussion features through analysis of contrasting cases. Instructional Science, 52:417–452. https://doi.org/10.1007/s11251-024-09661-z
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Study 1 follow-up t-test on student-focused codes; the article calls it "a marginal increase" (p = .096, d = 0.43).
 
@@ -48,7 +52,7 @@ Study 1 follow-up t-test on student-focused codes; the article calls it "a margi
 
 Blair, K. P., Banes, L. C., & Martin, L. (2024). Fostering noticing of classroom discussion features through analysis of contrasting cases. Instructional Science, 52:417–452. https://doi.org/10.1007/s11251-024-09661-z
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 Study 1 follow-up on teacher-focused codes found no change (d = 0.06), consistent with pattern (c) predicting a shift in quality rather than quantity of teacher-focused noticing.
 

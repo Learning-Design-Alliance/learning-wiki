@@ -15,12 +15,14 @@ sources:
     author: "Emad, G. R., & Roth, W.-M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A large portion of shared knowledge in the quasi-community took the form of articulated personal experiences (stories) that contextualized knowledge in workplace practice. [→ Emad 2016](#emad-2016)
@@ -31,7 +33,7 @@ sources:
 
 Emad, G. R., & Roth, W.-M. (2016). Quasi-Communities: Rethinking Learning in Formal Adult and Vocational Education. Instructional Science. https://doi.org/10.1007/s11251-016-9386-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Ethnographic analysis of classroom discourse in the mariners' course found storytelling, e.g. a marine carpenter explaining the three-four-five triangle from squaring work, contextualized knowledge; the authors report "The stories' contents were related to the classroom community's concerns and the problem at hand."
 

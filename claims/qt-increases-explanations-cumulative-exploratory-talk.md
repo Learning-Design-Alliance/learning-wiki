@@ -15,18 +15,22 @@ sources:
     author: "Dammert, Y., Gasser, L., & Murphy, P. K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: dammert-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09809-z"
     title: "Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z"
     author: "Dammert, Y., Gasser, L., & Murphy, P. K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The intervention increased students' elaborated explanations and cumulative and exploratory talk
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The frequency of elaborated explanations was 93% higher among intervention-group students, with very strong Bayesian support (ER = 230; hurdle ER = 5999). [→ Dammert 2026](#dammert-2026)
@@ -38,7 +42,7 @@ sources:
 
 Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Bayesian hurdle-gamma model of elaborated explanations (responses with two reasoning elements) per 10-minute discussion, coded from the 20 pretest and posttest small-group discussions.
 
@@ -48,7 +52,7 @@ Bayesian hurdle-gamma model of elaborated explanations (responses with two reaso
 
 Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Bayesian hurdle-gamma models of group-level talk. Exploratory talk showed the parallel pattern: students in the IG produced 63% more exploratory talk (ER = 166), and the likelihood of none occurring was 80% lower (ER = 67).
 

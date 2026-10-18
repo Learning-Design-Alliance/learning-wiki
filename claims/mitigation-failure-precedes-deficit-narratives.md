@@ -15,12 +15,14 @@ sources:
     author: Samantha A. Marshall, Grace A. Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Common threat-mitigation strategies preceded and failed to prevent deficit narratives, whose introduction followed the failure of mitigation to restore the emotional regime
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Colleagues initially employed threat-mitigation strategies such as undermining the critique or distancing into abstraction, but when strong negative emotions persisted, deficit narratives were produced to restore the dominant emotional regime. [→ Samantha A. Marshall 2025](#samantha-a-marshall-2025)
@@ -31,7 +33,7 @@ sources:
 
 Samantha A. Marshall, Grace A. Chen. (2025). Deficit narratives as teacher foils: how vulnerability and emotional regimes shape teacher discourse. Instructional Science. https://doi.org/10.1007/s11251-025-09740-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 From the Discussion, synthesizing the two discourse-analytic cases: mitigation moves observed in both cases (undermining the critique's validity, distancing into abstraction, offering reasons to justify the criticized practice) failed when negative emotions persisted despite them.
 

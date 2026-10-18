@@ -15,18 +15,22 @@ sources:
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: wenkang-zhang-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students value GenAI corrective feedback with rationales and report increased motivation and confidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students report using GenAI tools for corrective feedback on finished translation drafts, valuing the rationales behind the feedback. [→ Wenkang Zhang 2025](#wenkang-zhang-2025)
@@ -38,7 +42,7 @@ sources:
 
 Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the questionnaire/interview dataset, 50 of 63 students reported seeking corrective feedback from ChatGPT on finished drafts; an interviewee contrasted ChatGPT's explainable feedback with Grammarly, where "I cannot continue to ask why".
 
@@ -48,7 +52,7 @@ In the questionnaire/interview dataset, 50 of 63 students reported seeking corre
 
 Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of questionnaire and interview data: 34 of 63 participants reported improved motivation due to "interactiveness", and 12 of those reported reduced difficulty of complex texts developing confidence. Self-reported perceptions only.
 

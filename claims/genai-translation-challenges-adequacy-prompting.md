@@ -15,24 +15,30 @@ sources:
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: wenkang-zhang-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: wenkang-zhang-2025-3
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Many students report redundancy, omission and mistranslation in GenAI-generated translations. [→ Wenkang Zhang 2025](#wenkang-zhang-2025)
@@ -45,7 +51,7 @@ sources:
 
 Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of questionnaire and interview responses: 37 of 63 participants reported inadequacies — "redundancy," "omission," and/or "mistranslation" — in GenAI translations, especially of complex content.
 
@@ -55,7 +61,7 @@ Thematic analysis of questionnaire and interview responses: 37 of 63 participant
 
 Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Students who could not obtain desired responses from GenAI tools (34 of 63) attributed this to "their limited prompt engineering skills", e.g. having to revise prompts several times.
 
@@ -65,7 +71,7 @@ Students who could not obtain desired responses from GenAI tools (34 of 63) attr
 
 Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the qualitative dataset, 18 of 63 participants voiced concerns that "the over-reliance on GenAI tools" could restrict their thoughts and ideas and lead to job losses for translators.
 

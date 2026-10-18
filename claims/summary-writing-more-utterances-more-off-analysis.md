@@ -15,12 +15,14 @@ sources:
     author: "Lucero, M., Montanero, M., & van Boxtel, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Although summary dyads produced nearly twice as many utterances, off-analysis utterances dominated in the summary condition (69.3%) versus the concept mapping condition (34.3%), a significant difference. [→ Lucero 2024](#lucero-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Utterance counts from all 10 dyads across two tasks; the discussion attributes most summary-condition utterances to "dictating sentences from one of the summaries, which the partner merely repeated and copied". No effect size printed.
 

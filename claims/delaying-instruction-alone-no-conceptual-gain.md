@@ -15,12 +15,14 @@ sources:
     author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Merely delaying instruction until after problem solving does not improve conceptual understanding when no additional measures trigger knowledge-gap awareness or deep-feature discovery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The order of the learning phases did not significantly affect conceptual understanding posttest scores, and the PS-I vs. I-PS difference was not significant. [→ Loibl 2020](#loibl-2020)
@@ -31,7 +33,7 @@ sources:
 
 Loibl, K., Tillema, M., Rummel, N., & van Gog, T. (2020). The effect of contrasting cases during problem solving prior to and after instruction. Instructional Science. https://doi.org/10.1007/s11251-020-09504-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANCOVA on conceptual understanding in the randomized 2×2 experiment (N = 181). Neither factor was significant; the PS-I vs. I-PS pairwise difference was "not significant (p = 0.22)" with overlapping confidence intervals. Equivalence was not tested.
 

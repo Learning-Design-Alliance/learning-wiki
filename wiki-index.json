@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":20717,
-"design":921,
+"design":934,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1770,
-"research-method":433,
+"product":1775,
+"research-method":437,
 "strategy":6157,
 "theory":1361
 },
@@ -186817,6 +186817,14 @@
 "type":"design"
 },
 {
+"description":"ADI is an inquiry-based instructional model that gives \\\"a more central place to argumentation and the role of argument in the social construction of scientific knowledge while promoting inquiry.\\\" It comprises eight in...",
+"id":"adi-instructional-model-eight-steps",
+"path":"designs/adi-instructional-model-eight-steps.md",
+"status":"review",
+"title":"The Argument-Driven Inquiry (ADI) instructional model with eight interrelated steps",
+"type":"design"
+},
+{
 "description":"The article identifies four structural features of AdLab: \\\"Paucity of instructor time\\\", \\\"All in the room together\\\", \\\"Experiments long and hard\\\", and \\\"Same experiments at diﬀerent times\\\".",
 "id":"adlab-structural-features-community-formation",
 "path":"designs/adlab-structural-features-community-formation.md",
@@ -187423,6 +187431,22 @@
 "path":"designs/black-male-teacher-fellowship-program.md",
 "status":"review",
 "title":"Black Male Teacher Fellowship Program",
+"type":"design"
+},
+{
+"description":"The instructional approach uses \\\"juxtaposed examples that are chosen to highlight distinctive features or relationships\\\", with most features held constant so key differences stand out.",
+"id":"blair2024-contrasting-cases-synthesis-instruction",
+"path":"designs/blair2024-contrasting-cases-synthesis-instruction.md",
+"status":"review",
+"title":"Contrasting cases with a synthesis (inventing principles) task to develop perceptual differentiation of discussion features",
+"type":"design"
+},
+{
+"description":"Building on Gibson's perceptual learning theory, the article proposes three forms of noticing for teachers developing discussion facilitation.",
+"id":"blair2024-three-forms-discussion-noticing",
+"path":"designs/blair2024-three-forms-discussion-noticing.md",
+"status":"review",
+"title":"Three forms of noticing required for learning to facilitate productive discussion",
 "type":"design"
 },
 {
@@ -188291,6 +188315,14 @@
 "type":"design"
 },
 {
+"description":"This pattern is a short, cross-disciplinary online learning sequence in which learners complete a small set of themed assignments and produce conceptual models.",
+"id":"cross-disciplinary-online-modeling-assignment-sequence",
+"path":"designs/cross-disciplinary-online-modeling-assignment-sequence.md",
+"status":"review",
+"title":"Short online cross-disciplinary mini-course of themed modeling assignments for building systems thinking",
+"type":"design"
+},
+{
 "description":"Woolyungah's academics span several disciplines and use a team-teaching approach so students encounter a range of approaches to disciplinary and cross-disciplinary research.",
 "id":"cross-disciplinary-team-teaching-research-nexus",
 "path":"designs/cross-disciplinary-team-teaching-research-nexus.md",
@@ -188953,6 +188985,14 @@
 "path":"designs/embodied-physics-inquiry-through-dance.md",
 "status":"review",
 "title":"Embodied Physics Inquiry Through Dance Improvisation",
+"type":"design"
+},
+{
+"description":"EMME are recordings of a model's eye movements performed during a task, overlaid onto the task material so that learners can see where, how long, and in what order the model looks.",
+"id":"emme-eye-movement-modeling-examples",
+"path":"designs/emme-eye-movement-modeling-examples.md",
+"status":"review",
+"title":"Eye Movement Modeling Examples (EMME) as an instructional tool for multimedia learning",
 "type":"design"
 },
 {
@@ -189899,6 +189939,14 @@
 "path":"designs/genai-video-tracking-fitting-workflow.md",
 "status":"review",
 "title":"Four-phase generative-AI physics workflow: video generation, Tracker tracking, Excel Solver curve fitting, parameter validation",
+"type":"design"
+},
+{
+"description":"The article grounds its creative writing unit in Finke et al.'s dual-process Geneplore model, in which \\\"Generative and exploratory processes alternate continuously\\\", mapped onto writing as alternation between the fict...",
+"id":"geneplore-schacter-creative-writing-design-framework",
+"path":"designs/geneplore-schacter-creative-writing-design-framework.md",
+"status":"review",
+"title":"Dual-process (Geneplore) creative writing instruction design framework with Schacter's five creative teaching areas",
 "type":"design"
 },
 {
@@ -191058,6 +191106,14 @@
 "type":"design"
 },
 {
+"description":"The article's stated contribution is \\\"the formation of theoretical and practical frameworks for the integration of an cross-disciplinary model-based systems engineering online assignments into engineering and science...",
+"id":"mbse-online-assignment-integration-framework",
+"path":"designs/mbse-online-assignment-integration-framework.md",
+"status":"review",
+"title":"Theoretical and practical frameworks for integrating cross-disciplinary model-based systems engineering online assignments into engineering and science curricula",
+"type":"design"
+},
+{
 "description":"The article's explanatory framework holds that achieving dialogic microteaching requires overcoming two challenges: role-playing various imaginary students plausibly, and appropriating their viewpoints in subsequent r...",
 "id":"mediating-perspective-taking-manipulatives-framework",
 "path":"designs/mediating-perspective-taking-manipulatives-framework.md",
@@ -191151,6 +191207,14 @@
 "path":"designs/mild-disturbance-conventional-classroom-minimal-enclosure.md",
 "status":"review",
 "title":"Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space",
+"type":"design"
+},
+{
+"description":"The study's learning material is an expository illustrated text on mitosis distributed across 11 pages with an overall length of 1113 words, text on the left and a complementary picture on the right of each page.",
+"id":"mitosis-illustrated-text-emme-material",
+"path":"designs/mitosis-illustrated-text-emme-material.md",
+"status":"review",
+"title":"Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies",
 "type":"design"
 },
 {
@@ -191403,11 +191467,27 @@
 "type":"design"
 },
 {
+"description":"An adapted version of the baseline 4C/ID-based online learning environment for research skills in which \\\"need support consisted of 12 implementations (four implementations for each need), based on existing research on...",
+"id":"need-supportive-4cid-learning-environment",
+"path":"designs/need-supportive-4cid-learning-environment.md",
+"status":"review",
+"title":"Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations",
+"type":"design"
+},
+{
 "description":"R15CC conducted needs-sensing during the Collaborative's development phase, and this work \\\"critically impacted the design of this FACE Collaborative.\\\" It surfaced diverse leadership structures, communication challenge...",
 "id":"needs-sensing-informs-collaborative-design",
 "path":"designs/needs-sensing-informs-collaborative-design.md",
 "status":"review",
 "title":"Needs-sensing before design: surface state-specific structures, communication gaps, and coordination complexity to shape a collaborative",
+"type":"design"
+},
+{
+"description":"The article combines the linguistic approach of Clark and Schaefer with the cognitivist approach of Bromme into one account of grounding.",
+"id":"negotiation-common-ground-dual-concept",
+"path":"designs/negotiation-common-ground-dual-concept.md",
+"status":"review",
+"title":"Negotiation of common ground as a dual concept combining linguistic and cognitive approaches",
 "type":"design"
 },
 {
@@ -192500,6 +192580,14 @@
 "type":"design"
 },
 {
+"description":"Scrum methodology is \\\"a project management framework\\\" from business and industry, restyled for education.",
+"id":"scrum-methodology-educational-scaffold-framework",
+"path":"designs/scrum-methodology-educational-scaffold-framework.md",
+"status":"review",
+"title":"Scrum methodology as an educational scaffold: a project-management framework with ceremonies, roles and artefacts that structures planning, monitoring and reflection in complex context-based learning environments",
+"type":"design"
+},
+{
 "description":"Scrutable interfaces use a knowledge representation, such as a concept map, to structure users' interactions with an underlying AI model.",
 "id":"scrutable-interfaces-knowledge-representation-generative-ai",
 "path":"designs/scrutable-interfaces-knowledge-representation-generative-ai.md",
@@ -193105,6 +193193,14 @@
 "path":"designs/sustainable-development-pedagogy-sdp-model.md",
 "status":"review",
 "title":"Sustainable Development Pedagogy (SDP) AI model converting zero-paper mandates into design catalysts",
+"type":"design"
+},
+{
+"description":"The adapted intervention is a one-year language-arts program in which students were \\\"instructed on how to identify various authentic questions, justify their claims, and collaboratively construct knowledge in discussi...",
+"id":"swiss-qt-literary-intervention-package",
+"path":"designs/swiss-qt-literary-intervention-package.md",
+"status":"review",
+"title":"Swiss QT literary intervention package: nine mini-lessons, four literary-fiction books, literacy journals, and small-group discussions",
 "type":"design"
 },
 {
@@ -194020,6 +194116,14 @@
 "path":"designs/writing-in-reading-four-aspects-pattern.md",
 "status":"review",
 "title":"Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment",
+"type":"design"
+},
+{
+"description":"A reusable lesson-series pattern for creative writing in upper secondary education: a metacognitive introductory lesson, four element-focused lessons (mindmaps/character, suspense, dialogue, perspective), and a final...",
+"id":"writing-lab-alternating-divergent-convergent-lesson-pattern",
+"path":"designs/writing-lab-alternating-divergent-convergent-lesson-pattern.md",
+"status":"review",
+"title":"Writing Lab six-lesson lesson-series pattern alternating divergent and convergent thinking with a fixed compare-contrast, generate, select, apply, evaluate activity cycle",
 "type":"design"
 },
 {
@@ -209515,6 +209619,14 @@
 "type":"product"
 },
 {
+"description":"A 44-item, seven-point Likert self-report questionnaire developed by Stubbé and colleagues to measure Dutch secondary students' creative self-concept across seven constructs.",
+"id":"creative-self-concept-questionnaire-stubbe-et-al-2015",
+"path":"products/creative-self-concept-questionnaire-stubbe-et-al-2015.md",
+"status":"review",
+"title":"Creative Self-Concept questionnaire (Stubbé et al., 2015)",
+"type":"product"
+},
+{
 "description":"A multimedia clinical-reasoning exercise system developed by Cloude et al.",
 "id":"cresme-clinical-reasoning-mapping-exercise",
 "path":"products/cresme-clinical-reasoning-mapping-exercise.md",
@@ -215407,6 +215519,14 @@
 "type":"product"
 },
 {
+"description":"NTool is an online, newsgroup-reader-based asynchronous communication tool developed by Pieter J.",
+"id":"ntool",
+"path":"products/ntool.md",
+"status":"review",
+"title":"NTool",
+"type":"product"
+},
+{
 "description":"Number Rockets is a scripted Tier 2 small-group mathematics tutoring program for first-grade students struggling in math, delivered by tutors in supplemental 40-minute sessions.",
 "id":"number-rockets",
 "path":"products/number-rockets.md",
@@ -216832,6 +216952,14 @@
 "type":"product"
 },
 {
+"description":"A structured small-group language-arts discussion framework developed by Quality Talk researchers that uses authentic questions, reasoning, co-constructed responses, teacher talk moves, and gradual transfer of discussion control to students.",
+"id":"quality-talk-qt",
+"path":"products/quality-talk-qt.md",
+"status":"review",
+"title":"Quality Talk (QT)",
+"type":"product"
+},
+{
 "description":"QTEL is a professional-development and instructional programme that supports educators in teaching rigorous academic content and academic English simultaneously to secondary English Learners.",
 "id":"quality-teaching-for-english-learners-qtel",
 "path":"products/quality-teaching-for-english-learners-qtel.md",
@@ -217173,6 +217301,14 @@
 "path":"products/red-riadis-de-investigacion-en-aps-en-actividad-fisica-y-deporte-para-la-inclusion-social.md",
 "status":"review",
 "title":"Red RIADIS de investigación en ApS en actividad física y deporte para la inclusión social",
+"type":"product"
+},
+{
+"description":"A linked database combining TALIS 2013 mathematics-teacher responses with PISA 2012 student responses from the same schools to support analysis of mathematics instructional quality from multiple perspectives.",
+"id":"redesigned-talis-pisa-link-rtpl-database",
+"path":"products/redesigned-talis-pisa-link-rtpl-database.md",
+"status":"review",
+"title":"Redesigned TALIS-PISA Link (rTPL) database",
 "type":"product"
 },
 {
@@ -218446,6 +218582,14 @@
 "path":"products/ssl.md",
 "status":"review",
 "title":"SSL",
+"type":"product"
+},
+{
+"description":"A Swedish Defence University digital, map-based naval tactics wargame in which opposing teams maneuver units, manage sensors and weapons, and solve increasingly complex scenarios in real time.",
+"id":"ssm-simple-surface-warfare-model-digital-wargame-platform",
+"path":"products/ssm-simple-surface-warfare-model-digital-wargame-platform.md",
+"status":"review",
+"title":"SSM (Simple Surface Warfare Model) digital wargame platform",
 "type":"product"
 },
 {
@@ -221069,6 +221213,14 @@
 "type":"research-method"
 },
 {
+"description":"The article operationalizes maintained situational interest not by verbal self-report but behaviorally: participants decided which of six described seminar topics (Experiment 1) or which of six take-home texts (Experiment 2) they wanted to engage with, and the count of yes-responses was the measure.",
+"id":"behavioral-choice-measure-of-maintained-situational-interest",
+"path":"research-methods/behavioral-choice-measure-of-maintained-situational-interest.md",
+"status":"review",
+"title":"Behavioral choice measure of maintained situational interest",
+"type":"research-method"
+},
+{
 "description":"A real-time observational coding protocol in which coders watch video of small groups without a transcript and note the exact time of changes in vocal register, affect, grammar, gesture production, and body language.",
 "id":"behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video",
 "path":"research-methods/behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video.md",
@@ -221178,6 +221330,14 @@
 "path":"research-methods/chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity.md",
 "status":"review",
 "title":"Chain of assumptions/inferences perspective within an argument-based approach to validity",
+"type":"research-method"
+},
+{
+"description":"The CID framework (a framework for the cognitive analysis of composite instructional designs) explains how learning in one phase affects subsequent phases by focusing on the learner's knowledge state between phases.",
+"id":"cid-framework-for-the-cognitive-analysis-of-composite-instructional-designs",
+"path":"research-methods/cid-framework-for-the-cognitive-analysis-of-composite-instructional-designs.md",
+"status":"review",
+"title":"CID framework for the cognitive analysis of composite instructional designs",
 "type":"research-method"
 },
 {
@@ -221380,6 +221540,14 @@
 "path":"research-methods/continuous-conjunctive-model.md",
 "status":"review",
 "title":"Continuous Conjunctive Model",
+"type":"research-method"
+},
+{
+"description":"The article organizes frameworks for conceptualizing instructional quality along a continuum adapted from Charalambous and Praetorius (2018), in which \\\"Senden et al.",
+"id":"continuum-for-classifying-instructional-quality-frameworks-generic-subject-specific-and-hy",
+"path":"research-methods/continuum-for-classifying-instructional-quality-frameworks-generic-subject-specific-and-hy.md",
+"status":"review",
+"title":"Continuum for classifying instructional quality frameworks: generic, subject-specific, and hybrid",
 "type":"research-method"
 },
 {
@@ -223324,6 +223492,14 @@
 "path":"research-methods/sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp.md",
 "status":"review",
 "title":"SC2R: semantics-constrained counterfactual recourse framework for educational decision support",
+"type":"research-method"
+},
+{
+"description":"Scanpath theory holds that a scanpath is \\\"a 'repetitive sequence of saccades and ﬁxations, idiosyncratic to a particular subject [person] and to a particular target pattern'\\\" and that scanpaths reflect \\\"the read-out of the internal representation of pictures, the so-called 'cognitive model'\\\".",
+"id":"scanpath-theory-of-gaze-as-read-out-of-a-cognitive-model",
+"path":"research-methods/scanpath-theory-of-gaze-as-read-out-of-a-cognitive-model.md",
+"status":"review",
+"title":"Scanpath theory of gaze as read-out of a cognitive model",
 "type":"research-method"
 },
 {
@@ -306124,6 +306300,7 @@
 "adapt-lesson-plan-representation-schema":"adapt-lesson-plan-representation-schema",
 "addie-cinco-fases-evaluacion-formativa-virtual":"addie-cinco-fases-evaluacion-formativa-virtual",
 "addie-orchestration-framework-llm-lesson-generation":"addie-orchestration-framework-llm-lesson-generation",
+"adi-instructional-model-eight-steps":"adi-instructional-model-eight-steps",
 "adlab-structural-features-community-formation":"adlab-structural-features-community-formation",
 "admission-as-rite-of-passage-pattern":"admission-as-rite-of-passage-pattern",
 "aew-module-feedbackfruits-peer-feedback":"aew-module-feedbackfruits-peer-feedback",
@@ -306200,6 +306377,8 @@
 "biweekly-homeroom-small-communities":"biweekly-homeroom-small-communities",
 "black-girls-interview-protocol-codebook":"black-girls-interview-protocol-codebook",
 "black-male-teacher-fellowship-program":"black-male-teacher-fellowship-program",
+"blair2024-contrasting-cases-synthesis-instruction":"blair2024-contrasting-cases-synthesis-instruction",
+"blair2024-three-forms-discussion-noticing":"blair2024-three-forms-discussion-noticing",
 "blended-funding-classroom-alignment-lindsay":"blended-funding-classroom-alignment-lindsay",
 "blind-turing-test-legal-exam-evaluation-protocol":"blind-turing-test-legal-exam-evaluation-protocol",
 "bloom-classification-ui-selected-questions-verbs":"bloom-classification-ui-selected-questions-verbs",
@@ -306308,6 +306487,7 @@
 "critique-to-evidence-workflow-pattern":"critique-to-evidence-workflow-pattern",
 "cross-department-state-team-designs-rar":"cross-department-state-team-designs-rar",
 "cross-device-flipped-genai-design-platform":"cross-device-flipped-genai-design-platform",
+"cross-disciplinary-online-modeling-assignment-sequence":"cross-disciplinary-online-modeling-assignment-sequence",
 "cross-disciplinary-team-teaching-research-nexus":"cross-disciplinary-team-teaching-research-nexus",
 "cs1-cr-course-structure":"cs1-cr-course-structure",
 "cscl-teacher-dashboard-prototype-fractions":"cscl-teacher-dashboard-prototype-fractions",
@@ -306391,6 +306571,7 @@
 "embedded-high-dosage-tutoring-pattern":"embedded-high-dosage-tutoring-pattern",
 "embedded-two-adult-dual-enrollment-classroom":"embedded-two-adult-dual-enrollment-classroom",
 "embodied-physics-inquiry-through-dance":"embodied-physics-inquiry-through-dance",
+"emme-eye-movement-modeling-examples":"emme-eye-movement-modeling-examples",
 "engage-to-unlock-productive-friction-mechanism":"engage-to-unlock-productive-friction-mechanism",
 "engagement-intensity-intake-construct":"engagement-intensity-intake-construct",
 "engineering-design-six-step-ict-sequence":"engineering-design-six-step-ict-sequence",
@@ -306509,6 +306690,7 @@
 "genai-theory-practice-dialogue-mechanism":"genai-theory-practice-dialogue-mechanism",
 "genai-trainer-synthesizer-peer-feedback-roles":"genai-trainer-synthesizer-peer-feedback-roles",
 "genai-video-tracking-fitting-workflow":"genai-video-tracking-fitting-workflow",
+"geneplore-schacter-creative-writing-design-framework":"geneplore-schacter-creative-writing-design-framework",
 "generated-activity-types-collision-prevention":"generated-activity-types-collision-prevention",
 "genius-hour-elected-enrichment-blocks":"genius-hour-elected-enrichment-blocks",
 "georgia-doe-lead-certification-pilot":"georgia-doe-lead-certification-pilot",
@@ -306653,6 +306835,7 @@
 "matched-popup-message-isolate-fallibility-disclosure":"matched-popup-message-isolate-fallibility-disclosure",
 "materials-reflect-principles-of-learning":"materials-reflect-principles-of-learning",
 "mathbot-constructionism-reinforcement-framework":"mathbot-constructionism-reinforcement-framework",
+"mbse-online-assignment-integration-framework":"mbse-online-assignment-integration-framework",
 "mediating-perspective-taking-manipulatives-framework":"mediating-perspective-taking-manipulatives-framework",
 "memdora-17-interaction-type-taxonomy":"memdora-17-interaction-type-taxonomy",
 "memdora-collaborative-deck-layer":"memdora-collaborative-deck-layer",
@@ -306665,6 +306848,7 @@
 "middle-school-biotechnology-fermented-drinks-lesson":"middle-school-biotechnology-fermented-drinks-lesson",
 "middle-school-transition-words-self-assessment-lesson":"middle-school-transition-words-self-assessment-lesson",
 "mild-disturbance-conventional-classroom-minimal-enclosure":"mild-disturbance-conventional-classroom-minimal-enclosure",
+"mitosis-illustrated-text-emme-material":"mitosis-illustrated-text-emme-material",
 "mixed-genetic-algorithm-homogeneous-heterogeneous-fitness":"mixed-genetic-algorithm-homogeneous-heterogeneous-fitness",
 "mixed-methods-19-speech-measures-listener-ratings-teacher-reports":"mixed-methods-19-speech-measures-listener-ratings-teacher-reports",
 "mlme-course-thermal-ai-curriculum":"mlme-course-thermal-ai-curriculum",
@@ -306696,7 +306880,9 @@
 "multiliteracies-four-knowledge-processes-framework":"multiliteracies-four-knowledge-processes-framework",
 "national-black-student-loan-debt-study":"national-black-student-loan-debt-study",
 "ncs-partner-high-school-team-structures":"ncs-partner-high-school-team-structures",
+"need-supportive-4cid-learning-environment":"need-supportive-4cid-learning-environment",
 "needs-sensing-informs-collaborative-design":"needs-sensing-informs-collaborative-design",
+"negotiation-common-ground-dual-concept":"negotiation-common-ground-dual-concept",
 "nest-instruction-in-360-400-minute-day":"nest-instruction-in-360-400-minute-day",
 "nested-inquiries-ccs-schools":"nested-inquiries-ccs-schools",
 "nevada-eight-step-adoption-step-matrix":"nevada-eight-step-adoption-step-matrix",
@@ -306833,6 +307019,7 @@
 "script-four-model-architecture-inner-outer-loop":"script-four-model-architecture-inner-outer-loop",
 "script-mechanics-data-structure-transformations":"script-mechanics-data-structure-transformations",
 "scripted-one-to-one-paraprofessional-tutoring":"scripted-one-to-one-paraprofessional-tutoring",
+"scrum-methodology-educational-scaffold-framework":"scrum-methodology-educational-scaffold-framework",
 "scrutable-interfaces-knowledge-representation-generative-ai":"scrutable-interfaces-knowledge-representation-generative-ai",
 "sdd-template-project-copilot-instructions":"sdd-template-project-copilot-instructions",
 "sdlmi-early-elementary-implementation":"sdlmi-early-elementary-implementation",
@@ -306909,6 +307096,7 @@
 "supplemental-small-group-daily-reading-instruction-ell":"supplemental-small-group-daily-reading-instruction-ell",
 "sustain-shcs-county-base-alongside-billing-initiatives":"sustain-shcs-county-base-alongside-billing-initiatives",
 "sustainable-development-pedagogy-sdp-model":"sustainable-development-pedagogy-sdp-model",
+"swiss-qt-literary-intervention-package":"swiss-qt-literary-intervention-package",
 "symbiosis-theory-human-ai-role-design":"symbiosis-theory-human-ai-role-design",
 "tablet-dictation-40-words-orthographic-graphic-complexity":"tablet-dictation-40-words-orthographic-graphic-complexity",
 "tabletop-multimedia-tribal-fire-small-group-knowledge-building":"tabletop-multimedia-tribal-fire-small-group-knowledge-building",
@@ -307024,6 +307212,7 @@
 "world-knowledge-ad-task-post-test-survey":"world-knowledge-ad-task-post-test-survey",
 "writing-focused-genai-declaration-structure":"writing-focused-genai-declaration-structure",
 "writing-in-reading-four-aspects-pattern":"writing-in-reading-four-aspects-pattern",
+"writing-lab-alternating-divergent-convergent-lesson-pattern":"writing-lab-alternating-divergent-convergent-lesson-pattern",
 "wwc-compress-mainstream-developmental-education":"wwc-compress-mainstream-developmental-education",
 "y-read-collaboration-script-environment":"y-read-collaboration-script-environment",
 "ymhc-member-training-support-framework":"ymhc-member-training-support-framework",
@@ -309185,6 +309374,7 @@
 "cra-course-design-guide":"cra-course-design-guide",
 "craft":"craft",
 "creact":"creact",
+"creative-self-concept-questionnaire-stubbe-et-al-2015":"creative-self-concept-questionnaire-stubbe-et-al-2015",
 "cresme-clinical-reasoning-mapping-exercise":"cresme-clinical-reasoning-mapping-exercise",
 "cresst-integrated-assessment-system":"cresst-integrated-assessment-system",
 "cris-framework":"college-readiness-indicator-systems-cris",
@@ -309931,6 +310121,7 @@
 "novel-data-set-linking-fight-participants-for-discipline-disparity-analysis":"novel-data-set-linking-fight-participants-for-discipline-disparity-analysis",
 "nsf-proposal-analytic-dataset":"nsf-proposal-analytic-dataset",
 "nsmq-riddles":"nsmq-riddles",
+"ntool":"ntool",
 "number-rockets":"number-rockets",
 "number-sets-test":"number-sets-test",
 "nwea-covid-19-map-growth-data-visualization":"nwea-covid-19-map-growth-data-visualization",
@@ -310112,6 +310303,7 @@
 "q-learning-lab":"q-learning-lab",
 "qcge-sas":"qcge-sas",
 "quality-counts-california-qcc":"quality-counts-california-qcc",
+"quality-talk-qt":"quality-talk-qt",
 "quality-teaching-for-english-learners-qtel":"quality-teaching-for-english-learners-qtel",
 "quantum-randi-challenge-qrc":"quantum-randi-challenge-qrc",
 "quantum-theory-test":"quantum-theory-test",
@@ -310155,6 +310347,7 @@
 "recovery-high-schools-rhss":"recovery-high-schools-rhss",
 "red-light-purple-light":"red-light-purple-light",
 "red-riadis-de-investigacion-en-aps-en-actividad-fisica-y-deporte-para-la-inclusion-social":"red-riadis-de-investigacion-en-aps-en-actividad-fisica-y-deporte-para-la-inclusion-social",
+"redesigned-talis-pisa-link-rtpl-database":"redesigned-talis-pisa-link-rtpl-database",
 "redi-research-based-developmentally-informed-preschool-program":"redi-research-based-developmentally-informed-preschool-program",
 "reference-implementation-of-the-classroom-feedback-mediation-layer":"reference-implementation-of-the-classroom-feedback-mediation-layer",
 "reflex-ed":"reflex-ed",
@@ -310315,6 +310508,7 @@
 "sra-real-math-building-blocks-prek":"sra-real-math-building-blocks-prek",
 "srl-aide":"srl-aide",
 "ssl":"ssl",
+"ssm-simple-surface-warfare-model-digital-wargame-platform":"ssm-simple-surface-warfare-model-digital-wargame-platform",
 "st-math":"st-math",
 "stages-of-concern-questionnaire-socq":"stages-of-concern-questionnaire-socq",
 "stakeholder-facing-web-application-for-real-time-text-complexity-and-curriculum-alignment":"stakeholder-facing-web-application-for-real-time-text-complexity-and-curriculum-alignment",
@@ -310650,6 +310844,7 @@
 "bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue":"bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue",
 "baseline-covariate-adjustment-in-education-randomized-trials":"baseline-covariate-adjustment-in-education-randomized-trials",
 "bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory":"bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory",
+"behavioral-choice-measure-of-maintained-situational-interest":"behavioral-choice-measure-of-maintained-situational-interest",
 "behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video":"behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video",
 "behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events":"behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events",
 "bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs":"bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs",
@@ -310664,6 +310859,7 @@
 "causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials":"causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials",
 "centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs":"centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs",
 "chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity":"chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity",
+"cid-framework-for-the-cognitive-analysis-of-composite-instructional-designs":"cid-framework-for-the-cognitive-analysis-of-composite-instructional-designs",
 "cindle-coding-scheme":"cindle-coding-scheme",
 "classical-test-theory":"classical-test-theory",
 "classical-test-theory-decision-consistency-estimation-methods":"classical-test-theory-decision-consistency-estimation-methods",
@@ -310691,6 +310887,7 @@
 "contextual-similarity-scoring-model-for-automated-essay-grading":"contextual-similarity-scoring-model-for-automated-essay-grading",
 "contingent-shift-framework-for-measuring-scaffolding-contingency-in-classroom-interaction":"contingent-shift-framework-for-measuring-scaffolding-contingency-in-classroom-interaction",
 "continuous-conjunctive-model":"continuous-conjunctive-model",
+"continuum-for-classifying-instructional-quality-frameworks-generic-subject-specific-and-hy":"continuum-for-classifying-instructional-quality-frameworks-generic-subject-specific-and-hy",
 "contrapuntal-reading":"contrapuntal-reading",
 "coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment":"coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment",
 "cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col":"cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col",
@@ -310946,6 +311143,7 @@
 "rule-space-model":"rule-space-model",
 "savvy-content-derived-visual-and-auditory-information-density-metrics":"savvy-content-derived-visual-and-auditory-information-density-metrics",
 "sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp":"sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp",
+"scanpath-theory-of-gaze-as-read-out-of-a-cognitive-model":"scanpath-theory-of-gaze-as-read-out-of-a-cognitive-model",
 "school-value-added-modeling":"value-added-modeling",
 "seasonal-learning-analysis":"seasonal-learning-analysis",
 "sel-status-and-growth-early-warning-modeling":"sel-status-and-growth-early-warning-modeling",

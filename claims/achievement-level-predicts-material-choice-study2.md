@@ -15,12 +15,14 @@ sources:
     author: Sabine Schlag, Sabine Glock
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a logistic regression, achievement level predicted material choice while ethnic background did not. [→ Sabine Schlag 2024](#sabine-schlag-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Logistic regression in the 2×2 between-subject vignette study with 177 preservice teachers. Achievement level predicted choosing video versus text; ethnic background did not (p = .531). Low achievers received the video 84.23% of the time; high achievers received the text 72.22% of the time.
 

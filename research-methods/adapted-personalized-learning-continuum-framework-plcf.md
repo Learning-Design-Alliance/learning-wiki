@@ -25,7 +25,8 @@ The article adapts the Personalized Learning Continuum Framework of Lokey-Vega a
 - [Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)](../claims/hybrid-learning-models-outperform-fully-automated.md) [+M]
 
 ## Related Research Methods
--
+
+- [Continuum for classifying instructional quality frameworks: generic, subject-specific, and hybrid](continuum-for-classifying-instructional-quality-frameworks-generic-subject-specific-and-hy.md)
 
 ## Key Sources
 - Li, S., Zeng, C., Liu, H., Jia, J., Liang, M., Cha, Y., Lim, C. P., & Wu, X. (2025). A meta-analysis of AI-enabled personalized STEM education in schools. International Journal of STEM Education. https://doi.org/10.1186/s40594-025-00566-y

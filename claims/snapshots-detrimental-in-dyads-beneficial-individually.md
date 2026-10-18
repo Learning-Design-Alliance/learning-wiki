@@ -15,12 +15,14 @@ sources:
     author: "Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Snapshots of critical steps were marginally beneficial for individual learners but significantly detrimental for dyads
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Providing snapshots of critical steps of the system had opposite effects by learning setting: marginally beneficial when studying individually, significantly detrimental when studying in dyads. [→ Rebetez 2010](#rebetez-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P. (2010). Learning from animation enabled by collaboration. Instructional Science, 38(5), 471–485. https://doi.org/10.1007/s11251-009-9117-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Reported finding of the same three-factor experiment, which manipulated the presence of "snapshots of critical steps of the system". The article flags this result as contrary to its expectations; it prints no effect sizes or test statistics in the available text.
 

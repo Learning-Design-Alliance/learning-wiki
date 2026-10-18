@@ -15,12 +15,14 @@ sources:
     author: "Schuessler, K., Fischer, V., & Walpuski, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Both the competence test and the cognitive load ratings fit two-dimensional Rasch models significantly better than unidimensional models, supporting separate modeling of the two load dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For the competence test, a two-dimensional model (chemistry content knowledge, decision-making) fit significantly better than the unidimensional model (Δdeviance = 5635.58, p ≤ 0.001), with item-reliability 0.96. [→ Schuessler 2025](#schuessler-2025)
@@ -31,7 +33,7 @@ sources:
 
 Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Likelihood-ratio model comparison in ConQuest on the 128-item competence test (1-pl Rasch, multi-matrix design, N = 1543 students); the article reports only the deviance statistic and reliability, no effect size.
 

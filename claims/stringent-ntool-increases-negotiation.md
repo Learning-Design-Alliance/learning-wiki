@@ -15,12 +15,14 @@ sources:
     author: Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # High-coercion (Stringent) NTool increases explicit negotiation activities in secondary vocational collaborative problem-solving, though the verification effect was stronger in morning sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Coercion and psychological safety had significant main effects on negotiation of meaning per contribution, which was highest in the Stringent groups. [→ Pieter J. Beers 2007](#pieter-j-beers-2007)
@@ -31,7 +33,7 @@ sources:
 
 Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers. (2007). ICT-support for grounding in the classroom. Instructional Science 35, 535–556. https://doi.org/10.1007/s11251-007-9018-5
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Analysis of verifications plus clarifications divided by the number of contributions per group, using repeated measures ANCOVA with psychological safety as covariate. The article reports "signiﬁcant main effects of both psychological safety and coercion" and that "Negotiation per contribution was highest in the Stringent groups."
 

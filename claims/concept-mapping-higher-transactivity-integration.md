@@ -15,12 +15,14 @@ sources:
     author: "Lucero, M., Montanero, M., & van Boxtel, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Summary-writing dyads used more elicitation whereas concept-mapping dyads used more externalization and integration utterances, indicating a higher level of co-construction in the concept mapping condition. [→ Lucero 2024](#lucero-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Chi-square analysis of coded co-construction modes in the 10-dyad corpus; integration was 45.3% of concept-mapping utterances versus 18.1% in summary writing. Percentages are printed descriptively; no effect size is reported.
 

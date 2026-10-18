@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1770 entries** · 0 stable · 1770 in review · 0 drafts
+**1775 entries** · 0 stable · 1775 in review · 0 drafts
 
 ---
 
@@ -333,6 +333,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CRA Course Design Guide](cra-course-design-guide.md) - A modular Digital Promise resource produced by the CRA Collaborative to help instructors design or integrate a graduate-level introductory culturally responsive assessment course.
 * [CRAFT](craft.md) - CRAFT is a Stanford Graduate School of Education co-design initiative that develops classroom-ready artificial-intelligence literacy resources for educators.
 * [CREACT](creact.md) - CREACT is a five-step discussion-based teaching framework for creative thinking, developed by Sak and usable across lessons and topics.
+* [Creative Self-Concept questionnaire (Stubbé et al., 2015)](creative-self-concept-questionnaire-stubbe-et-al-2015.md) - A 44-item, seven-point Likert self-report questionnaire developed by Stubbé and colleagues to measure Dutch secondary students' creative self-concept across seven constructs.
 * [CResME (Clinical-reasoning Mapping Exercise)](cresme-clinical-reasoning-mapping-exercise.md) - A multimedia clinical-reasoning exercise system developed by Cloude et al.
 * [CRESST Integrated Assessment System](cresst-integrated-assessment-system.md) - A computer-based suite developed by CRESST that integrates collaborative and individual concept mapping, problem-solving, explanation, and metacognition tasks for assessing learning across ages and content areas.
 * [Critical Language Pedagogy questionnaire](critical-language-pedagogy-questionnaire.md) - A validated 17-item, four-factor Likert questionnaire developed by Mahmoodarabi et al.
@@ -1100,6 +1101,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Novel data set linking fight participants for discipline disparity analysis](novel-data-set-linking-fight-participants-for-discipline-disparity-analysis.md) - A research dataset constructed by Nathan Barrett et al.
 * [NSF proposal analytic dataset](nsf-proposal-analytic-dataset.md) - An analytic dataset assembled by Fesler et al.
 * [NSMQ Riddles](nsmq-riddles.md) - A benchmark dataset created by George Boateng and colleagues containing 1,840 scientific and mathematical riddles from Ghana's National Science and Maths Quiz for evaluating automated question-answering systems.
+* [NTool](ntool.md) - NTool is an online, newsgroup-reader-based asynchronous communication tool developed by Pieter J.
 * [Number Rockets](number-rockets.md) - Number Rockets is a scripted Tier 2 small-group mathematics tutoring program for first-grade students struggling in math, delivered by tutors in supplemental 40-minute sessions.
 * [Number Sets Test](number-sets-test.md) - A speeded assessment developed by Moore et al.
 * [NWEA COVID-19 MAP Growth data visualization](nwea-covid-19-map-growth-data-visualization.md) - An interactive NWEA Research dashboard that visualizes state-level MAP Growth achievement and projected proficiency data for the 2020–2021 school year to inform understanding of pandemic-related learning impacts and recovery.
@@ -1287,6 +1289,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Q-Learning Lab](q-learning-lab.md) - Q-Learning Lab is a single-file, offline bilingual browser tool made by Jueng for teaching introductory tabular Q-learning through an interactive gridworld, Bellman-update visualizations, transition logs, and CSV export.
 * [QCGE-SAS](qcge-sas.md) - A seven-point Likert self-assessment scale developed by Jeitziner et al.
 * [Quality Counts California (QCC)](quality-counts-california-qcc.md) - A statewide quality rating and improvement framework run through a collaboration among First 5 California, the California Department of Education, and the California Department of Social Services to assess and support early-learning and care sites.
+* [Quality Talk (QT)](quality-talk-qt.md) - A structured small-group language-arts discussion framework developed by Quality Talk researchers that uses authentic questions, reasoning, co-constructed responses, teacher talk moves, and gradual transfer of discussion control to students.
 * [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md) - QTEL is a professional-development and instructional programme that supports educators in teaching rigorous academic content and academic English simultaneously to secondary English Learners.
 * [Quantum Randi Challenge (QRC)](quantum-randi-challenge-qrc.md) - The QRC is a modifiable computer game created by Vongehr for teaching quantum mechanics through challenges involving quantum and hidden-variable simulations.
 * [Quantum Theory Test](quantum-theory-test.md) - A 30-item quantum-theory achievement test developed by Saif Alneyadi et al.
@@ -1333,6 +1336,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Recovery high schools (RHSs)](recovery-high-schools-rhss.md) - Recovery high schools are small secondary-school programmes that combine diploma-granting education with therapeutic recovery programming for students with substance-use recovery needs.
 * [Red Light, Purple Light](red-light-purple-light.md) - A preschool music-and-movement programme that uses progressively complex cue-and-action games to develop children's self-regulation, including attention switching, instruction memory, and impulse inhibition.
 * [Red RIADIS de investigación en ApS en actividad física y deporte para la inclusión social](red-riadis-de-investigacion-en-aps-en-actividad-fisica-y-deporte-para-la-inclusion-social.md) - A research network created and supported by Spain's Consejo Superior de Deportes that connects university service-learning research in physical activity and sport with social inclusion initiatives for vulnerable groups.
+* [Redesigned TALIS-PISA Link (rTPL) database](redesigned-talis-pisa-link-rtpl-database.md) - A linked database combining TALIS 2013 mathematics-teacher responses with PISA 2012 student responses from the same schools to support analysis of mathematics instructional quality from multiple perspectives.
 * [REDI (Research-Based, Developmentally Informed) preschool program](redi-research-based-developmentally-informed-preschool-program.md) - A preschool intervention developed by researchers that combines the Preschool PATHS social-emotional learning curriculum with interactive literacy activities, phonological-awareness training, and teacher training and mentoring for disadvantaged children.
 * [Reference implementation of the classroom feedback mediation layer](reference-implementation-of-the-classroom-feedback-mediation-layer.md) - A lightweight GitHub-hosted demonstration implementation by Junsoo Park et al.
 * [RefleX ED](reflex-ed.md) - RefleX ED is a tutor-support tool developed by Yilmaz et al.
@@ -1495,6 +1499,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SRA Real Math Building Blocks PreK](sra-real-math-building-blocks-prek.md) - A supplemental preschool mathematics curriculum developed by Douglas Clements and Julie Sarama and distributed by SRA/McGraw-Hill, combining software, manipulatives, print materials, group activities, learning centers, and home activities.
 * [SRL-AIDE](srl-aide.md) - A teacher professional-development framework that combines explicit self-regulated-learning instruction with live-actor classroom simulations, feedback, video modelling, and guided reflection for in-service elementary teachers.
 * [SSL](ssl.md) - SSL is a structured early-literacy intervention programme whose developers provide lessons using modelling, guided practice, progress monitoring, and reteaching.
+* [SSM (Simple Surface Warfare Model) digital wargame platform](ssm-simple-surface-warfare-model-digital-wargame-platform.md) - A Swedish Defence University digital, map-based naval tactics wargame in which opposing teams maneuver units, manage sensors and weapons, and solve increasingly complex scenarios in real time.
 * [ST Math](st-math.md) - ST Math is game-based instructional software for K–12 mathematics developed and provided by the MIND Research Institute, using visual-spatial puzzles to support mathematics learning.
 * [Stages of Concern Questionnaire (SoCQ)](stages-of-concern-questionnaire-socq.md) - A 35-item Likert self-report instrument developed by Loucks and colleagues within the Concerns-Based Adoption Model to measure educators' intensity across seven stages of concern about an educational innovation.
 * [Stakeholder-facing web application for real-time text complexity and curriculum alignment analysis](stakeholder-facing-web-application-for-real-time-text-complexity-and-curriculum-alignment.md) - A Flask-based application developed by Jordan J.

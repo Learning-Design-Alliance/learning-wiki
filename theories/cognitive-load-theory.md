@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 44 claims (33 for, 9 mixed, 2 against) · 44 studies (19 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 10 of 44 report an effect size · 34 claims rest on one study
+> **Evidence** · 47 claims (35 for, 9 mixed, 3 against) · 46 studies (21 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 10 of 46 report an effect size · 37 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -112,6 +112,9 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](../claims/expertise-reversal-worked-examples.md) [+W] — attached 2026-10-16 from Tamara van Gog et al. (2010), which proposed "Cognitive load explanation of why worked examples outperform unsupported problem solving for novices"; tests this page's relationship.
 - [2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs. g+ = 0.11), as predicted by the redundancy effect and the coherence principle](../claims/2d-agents-tend-more-effective-than-3d.md) [+W] — attached 2026-10-17 from Castro-Alonso et al. (2021), which proposed "Cognitive load theory (redundancy effect) and cognitive theory of multimedia learning (coherence principle) as the account predicting agent dimensionality effects".
 - [Retrieval practice conditions produced significantly higher cognitive load than rereading](../claims/retrieval-practice-increases-cognitive-load.md) [+W] — attached 2026-10-18 from Redifer et al. (2026), which proposed "Cognitive load balance account of the testing effect with advanced materials".
+- [In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)](../claims/sd-amount-linear-negative-recall-study1.md) [+W] — attached 2026-10-18 from Lukas Wesenberg et al. (2026), which proposed "Three cognitive-process accounts of the seductive details effect: distraction, disruption, and diversion theory"; tests this page's relationship.
+- [Seductive detail amount did not increase extraneous cognitive load in either study](../claims/sd-amount-no-extraneous-load-effect.md) [-W] — attached 2026-10-18 from Lukas Wesenberg et al. (2026), which proposed "Three cognitive-process accounts of the seductive details effect: distraction, disruption, and diversion theory"; tests this page's relationship.
+- [Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts](../claims/retrospective-prompts-higher-germane-load-low-prior-knowledge.md) [+W] — attached 2026-10-18 from Meier et al. (2024), which proposed "Cognitive load theory (1998 conception) as the explanatory framework for prompt-direction and expertise effects in example-based learning"; tests this page's relationship.
 
 ## The evidence by question
 

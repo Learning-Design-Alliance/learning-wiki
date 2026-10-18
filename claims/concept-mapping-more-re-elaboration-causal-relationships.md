@@ -15,18 +15,22 @@ sources:
     author: "Lucero, M., Montanero, M., & van Boxtel, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: lucero-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09659-7"
     title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
     author: "Lucero, M., Montanero, M., & van Boxtel, C."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Re-elaboration of the partner's contributions across historical reasoning components was significantly more frequent in the semiempty concept mapping condition; the discussion estimates up to five times more re-elaborations of causal relationships than in summary writing. [→ Lucero 2024](#lucero-2024)
@@ -38,7 +42,7 @@ sources:
 
 Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Chi-square test on re-elaboration utterances across reasoning components in the coded corpus; elaboration differences were not significant while re-elaborations were. No effect size printed.
 
@@ -48,7 +52,7 @@ Chi-square test on re-elaboration utterances across reasoning components in the 
 
 Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Authors' discussion statement (interpretation) quantifying the re-elaboration contrast as up to five times more in concept mapping; many re-elaborations involved justifications of causal and motivational relations.
 

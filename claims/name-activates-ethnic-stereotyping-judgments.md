@@ -15,12 +15,14 @@ sources:
     author: Sabine Schlag, Sabine Glock
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Simply inserting a name indicating Turkish-origin background produced less favorable judgments of otherwise identical student descriptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 1, only the name differed between the two vignettes, yet judgments and video choices differed significantly by ethnicity. [→ Sabine Schlag 2024](#sabine-schlag-2024)
@@ -31,7 +33,7 @@ sources:
 
 Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the Study 1 experiment, the two student vignettes differed only in name (Emre vs. Ben); the student was described as attentive and high-performing in both. The authors state this name manipulation alone produced the judgment and material-choice differences, consistent with prior name-based vignette research.
 

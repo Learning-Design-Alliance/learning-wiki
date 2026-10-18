@@ -15,18 +15,22 @@ sources:
     author: "Sjöblom, B., & Lymer, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: sjöblom-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09717-8"
     title: "Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8"
     author: "Sjöblom, B., & Lymer, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teachers actively highlight specific in-game actions as examples of tactical decision-making, including distinguishing sound tactical reasoning from negative outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Connections between concrete in-game actions and the concept of tactics are not treated as transparent in the gaming experience but require active highlighting by instructors. [→ Sjöblom 2025](#sjoblom-2025)
@@ -38,7 +42,7 @@ sources:
 
 Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Analysis of a transcript in which a teacher highlights a logistics-related discussion as an example of "a tactical decision". The article treats this as illustrating the instructor's task of making explicit connections between game actions and the concept of tactics.
 
@@ -48,7 +52,7 @@ Analysis of a transcript in which a teacher highlights a logistics-related discu
 
 Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Transcript analysis of an end-of-day debriefing where students lost a radar helicopter to technological surprise; the teacher assessed the handling as tactically correct, separating outcome evaluation from evaluation of tactical reasoning.
 

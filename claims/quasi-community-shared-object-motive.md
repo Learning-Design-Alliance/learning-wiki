@@ -15,12 +15,14 @@ sources:
     author: "Emad, G. R., & Roth, W.-M."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Early realization of a shared object/motive bonds adult course participants into a quasi-community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When pedagogy lets students realize their common object/motive early, individual and collective success become bound together and community development is provoked. [→ Emad 2016](#emad-2016)
@@ -31,7 +33,7 @@ sources:
 
 Emad, G. R., & Roth, W.-M. (2016). Quasi-Communities: Rethinking Learning in Formal Adult and Vocational Education. Instructional Science. https://doi.org/10.1007/s11251-016-9386-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Ethnographic case study evidence from the mariners' course: introductions on day one surfaced that participants' main intentions were chart competency and passing the certification exam, as one put it, "my goal is to get that certificate and by achieving that certificate I hope that I'd be a Second Mate."
 

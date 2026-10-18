@@ -15,18 +15,22 @@ sources:
     author: "Dammert, Y., Gasser, L., & Murphy, P. K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: dammert-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09809-z"
     title: "Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z"
     author: "Dammert, Y., Gasser, L., & Murphy, P. K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The intervention increased teachers' talk moves but decreased authentic teacher questions, contradicting the dialogic-practice hypothesis for questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among teachers who used talk moves, the intervention was associated with a 68% higher frequency than in the control group, with strong evidence (ER = 323). [→ Dammert 2026](#dammert-2026)
@@ -38,7 +42,7 @@ sources:
 
 Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Bayesian hurdle-gamma model of teacher talk moves per 10-minute discussion in the quasi-experimental pretest-posttest design. The likelihood of completely omitting talk moves was 93% lower in the IG with very strong evidence (ER > 999).
 
@@ -48,7 +52,7 @@ Bayesian hurdle-gamma model of teacher talk moves per 10-minute discussion in th
 
 Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Bayesian hurdle-gamma model of authentic teacher questions. The intervention increased the likelihood of completely omitting authentic questions by 1101% with very strong supporting evidence (ER = 161).
 

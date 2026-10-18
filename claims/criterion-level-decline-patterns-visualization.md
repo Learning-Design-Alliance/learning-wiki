@@ -15,18 +15,22 @@ sources:
     author: Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: francisco-josé-jiménez-hornero-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09808-0"
     title: "Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé. (2026). Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications. Instructional Science. https://doi.org/10.1007/s11251-026-09808-0"
     author: Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Procedural losses were steepest for axis labeling and annotations, while conceptual losses were steepest for explanation of scales and terminology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Among technical-execution criteria, Axis labeling and units (β = −0.49) and Annotations or key labels (β = −0.47) showed the steepest significant declines; among conceptual criteria, Explanation of scales and units (β = −0.30) and terminology (β = −0.28) declined most. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)
@@ -38,7 +42,7 @@ sources:
 
 Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé. (2026). Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications. Instructional Science. https://doi.org/10.1007/s11251-026-09808-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Criterion-level LMMs for the technical-execution rubric with Bonferroni and FDR corrections (α_adj = 0.01); all criteria remained significant under both adjustments.
 
@@ -48,7 +52,7 @@ Criterion-level LMMs for the technical-execution rubric with Bonferroni and FDR 
 
 Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé. (2026). Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications. Instructional Science. https://doi.org/10.1007/s11251-026-09808-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Criterion-level LMMs for the conceptual-understanding rubric; Completeness (β = −0.22) was the most stable conceptual aspect, and random-intercept variances ranged from 0.17 to 0.22.
 

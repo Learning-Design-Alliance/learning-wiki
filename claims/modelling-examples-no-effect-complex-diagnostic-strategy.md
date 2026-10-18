@@ -15,18 +15,22 @@ sources:
     author: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: meier-2024-2
     resource: "https://doi.org/10.1007/s11251-023-09651-7"
     title: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I. (2024). Better self-explaining backwards or forwards? Prompting self-explanation in video-based modelling examples for learning a diagnostic strategy. Instructional Science, 52, 613–638. https://doi.org/10.1007/s11251-023-09651-7"
     author: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Apprentices learning with extensive video-based modelling examples showed no greater pretest-to-posttest gains in diagnostic strategy knowledge and skills than apprentices practising the strategy independently in a simulation. [→ Meier 2024](#meier-2024)
@@ -37,7 +41,7 @@ sources:
 
 Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I. (2024). Better self-explaining backwards or forwards? Prompting self-explanation in video-based modelling examples for learning a diagnostic strategy. Instructional Science, 52, 613–638. https://doi.org/10.1007/s11251-023-09651-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 RM-ANOVA comparing a modelling-examples condition (n = 46) with a control condition solving open problems (n = 21) on repeated measures. The article reports: "this improvement was not larger in the modelling example condition".
 
@@ -47,7 +51,7 @@ RM-ANOVA comparing a modelling-examples condition (n = 46) with a control condit
 
 Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I. (2024). Better self-explaining backwards or forwards? Prompting self-explanation in video-based modelling examples for learning a diagnostic strategy. Instructional Science, 52, 613–638. https://doi.org/10.1007/s11251-023-09651-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANOVA on posttest-only measures (second diagnosis, intrinsic, germane, and extraneous load) found no example-condition effects; all printed η2partial values were ≤ .027. The authors state: "we were unable to confirm hypotheses H1 to H3".
 

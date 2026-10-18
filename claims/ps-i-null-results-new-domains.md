@@ -15,24 +15,30 @@ sources:
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: katharina-loibl-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: katharina-loibl-2025-3
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Loibl and Leuders (2024) found no significant effects for instructional sequence or inclusion of student solutions in Bayesian reasoning, though processes mediating learning and fit to intermediate knowledge appeared relevant. [→ Katharina Loibl 2025](#katharina-loibl-2025)
@@ -45,7 +51,7 @@ sources:
 
 Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports, citing Loibl and Leuders (2024), a conceptual replication of the PS-I effect in Bayesian reasoning that "did not find significant effects for the instructional sequence" or for student solutions. No effect size is printed; equivalence was not tested.
 
@@ -55,7 +61,7 @@ The editorial reports, citing Loibl and Leuders (2024), a conceptual replication
 
 Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports, citing Leukel and Loibl (2025), an extension of PS-I to motor skill learning in primary school children; "All groups improved in movement execution, regardless of condition". No effect size is printed.
 
@@ -65,7 +71,7 @@ The editorial reports, citing Leukel and Loibl (2025), an extension of PS-I to m
 
 Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports, citing Ganaiem and Roll (2025), middle-school students assigned to example-first, problem-first, or simultaneous presentation conditions for inquiry skills; "no significant differences in learning outcomes or cognitive load" were found. No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: H. P. A. Boshuizen
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Over three years, teachers improved their practices and could procure better information on the results of their teaching, which in turn led to better learning of students. [→ H. P. A. Boshuizen 2016](#h-p-a-boshuizen-2016)
@@ -31,7 +33,7 @@ sources:
 
 H. P. A. Boshuizen. (2016). Teaching as regulation and dealing with complexity. Instructional Science, 44, 311–314. https://doi.org/10.1007/s11251-016-9377-x
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The editorial reports, citing Furtak et al. (this issue), a three-year study of formative assessment skill development. Crucial to improvement was teachers' improved skills in "eliciting and interpreting information on students’ progress".
 

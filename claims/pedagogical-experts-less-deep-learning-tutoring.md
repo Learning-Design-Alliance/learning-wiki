@@ -15,12 +15,14 @@ sources:
     author: H. P. A. Boshuizen
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Pedagogical experts reverted to explanations when tutoring in a biological domain and generated less deep learning than tutors with less pedagogical expertise, who were more interactive and scaffolded their tutee's learning. [→ H. P. A. Boshuizen 2016](#h-p-a-boshuizen-2016)
@@ -31,7 +33,7 @@ sources:
 
 H. P. A. Boshuizen. (2016). Teaching as regulation and dealing with complexity. Instructional Science, 44, 311–314. https://doi.org/10.1007/s11251-016-9377-x
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The editorial reports, citing Herppich et al. (this issue), that pedagogical experts generated less deep learning than less pedagogically expert tutors in a biological domain. Reported second-hand; design not described here.
 

@@ -15,12 +15,14 @@ sources:
     author: Kristoffer Larsson · Klas Andersson
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Variation-theory-based teaching produces significantly larger gains than control teaching in 9th-grade students' alternations of points of view on a taught societal issue
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In a randomized field experiment, treatment students made on average 1.85 more alternations after the intervention versus 0.44 for controls on the voting-age task, with a significant group × time interaction (ηp2 = 0.39). [→ Kristoffer Larsson · Klas Andersson 2025](#kristoffer-larsson-klas-andersson-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kristoffer Larsson · Klas Andersson. (2025). Testing the use of variation theory in teaching critical thinking—a field experimental study. Instructional Science (2025) 53:1025–1046. https://doi.org/10.1007/s11251-025-09721-y
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Two-group (treatment n = 39, control n = 53) × 2 time mixed-design ANOVA on the voting-age essay task in a randomized field experiment. The group × time interaction was significant with ηp2 = 0.39, "showing the effect of the treatment relative to the control condition"; treatment students gained 1.85 alternations versus 0.44 for controls.
 

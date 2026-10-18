@@ -15,12 +15,14 @@ sources:
     author: Gülüzar Eymur · Pınar Seda Çetin
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` All six interviewed experimental-group students said the experiments helped them identify variables; four reported identifying patterns in data and five reported developing a method to investigate problems; no comparison-group students were coded in this category. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#guluzar-eymur-pnar-seda-cetin-2024)
@@ -31,7 +33,7 @@ sources:
 
 Gülüzar Eymur · Pınar Seda Çetin (2024). Investigating the role of an inquiry-based science lab on students' scientific literacy. Instructional Science (2024) 52:743–760. https://doi.org/10.1007/s11251-024-09672-w
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative content analysis of semi-structured interviews with six experimental and six comparison students, conducted one week after implementation (Table 10). Interview categories included Scientific Thinking and Doing, Motivation, and Laboratory Environment.
 

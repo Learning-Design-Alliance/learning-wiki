@@ -27,7 +27,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (8 for, 9 mixed, 2 against) · 25 studies (9 causal, 6 quant-synthesis, 6 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 12 claims rest on one study
+> **Evidence** · 20 claims (9 for, 9 mixed, 2 against) · 26 studies (10 causal, 6 quant-synthesis, 6 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,6 +97,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+W]
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [~W]
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](../claims/experience-mediate-connection-academic-language-vibration.md) [+W]
+- [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](../claims/pbl-discussion-prior-to-text-increases-free-recall.md) [+W] — attached 2026-10-18 from W.S. de Grave et al. (2001), which proposed "Activate prior knowledge through small-group problem discussion before assigning a text to study"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

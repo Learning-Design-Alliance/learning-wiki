@@ -15,18 +15,22 @@ sources:
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: xin-liu-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09652-6"
     title: "Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6"
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fit-index changes from configural to metric invariance were within the Rutkowski and Svetina cut-offs. [→ Xin Liu 2023](#xin-liu-2023)
@@ -38,7 +42,7 @@ sources:
 
 Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Measurement invariance testing of the five-factor student model across seven countries in Mplus. The article reports changes "within the cut-off values", with "ΔCFI equals 0.005" and ΔRMSEA of −0.001 for the metric level.
 
@@ -48,7 +52,7 @@ Measurement invariance testing of the five-factor student model across seven cou
 
 Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Second invariance step for the student model. Because "the metric and the scalar invariance models exceeded predefined cut-off values", the article concludes "metric invariance holds" and states comparisons of latent means should be avoided.
 

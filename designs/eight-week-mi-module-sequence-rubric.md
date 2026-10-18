@@ -48,6 +48,7 @@ The paper provides reusable curriculum artifacts: an eight-week module sequence 
 ## Related Designs
 
 - [Pair-based, discovery-oriented LLM analysis activity following an eight-week disciplinary module](pair-based-discovery-llm-analysis-activity.md)
+- [Short online cross-disciplinary mini-course of themed modeling assignments for building systems thinking](cross-disciplinary-online-modeling-assignment-sequence.md)
 
 ## Examples
 -

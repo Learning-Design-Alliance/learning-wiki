@@ -15,12 +15,14 @@ sources:
     author: "Dammert, Y., Gasser, L., & Murphy, P. K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A QT-based literary intervention reduced teachers' monologic practices (teacher turns, turn allocation, test questions, evaluation) in small-group discussions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At posttest, the proportion of teacher turns was 46% lower in the intervention group than in the control group, with very strong Bayesian evidence (ER = 2999). [→ Dammert 2026](#dammert-2026)
@@ -31,7 +33,7 @@ sources:
 
 Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Bayesian multilevel beta regression on 20 videotaped small-group discussions (13 IG, 7 CG) nested in 9 teachers, controlling for pretest, home language, and grade. The posterior estimate shows the "proportion of teacher turns was 46% lower in the IG".
 

@@ -15,12 +15,14 @@ sources:
     author: "Sjöblom, B., & Lymer, G."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers recurrently draw distinctions between tactics and other phenomena such as communication, teamwork, and technology when steering debriefing discussions, and students adopt these distinctions. [→ Sjöblom 2025](#sjoblom-2025)
@@ -31,7 +33,7 @@ sources:
 
 Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Microethnographic analysis of video-recorded debriefing sessions from wargaming-based tactics courses at the Swedish Defence University. The analysis finds participants, especially teachers, invoke tactics while drawing boundaries, with the teamwork/communication distinction the most common: "the most common distinction that is explicitly drawn in our data".
 

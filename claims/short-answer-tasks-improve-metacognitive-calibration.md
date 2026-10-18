@@ -15,12 +15,14 @@ sources:
     author: Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Learners' judgment-of-learning accuracy was better after short-answer retrieval practice than after free-recall practice. [→ Tino Endres 2020](#tino-endres-2020)
@@ -31,7 +33,7 @@ sources:
 
 Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl. (2020). It matters how to recall – task differences in retrieval practice. Instructional Science. https://doi.org/10.1007/s11251-020-09526-1
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 In the 54-participant within-subject study, calibration was computed as the absolute discrepancy between aggregated JOLs and actual posttest scores. Targeted retrieval produced more accurate judgments, printed effect size ƞ2 = 0.178 (large); holistic retrieval led to higher JOL ratings (ƞ2 = 0.179).
 

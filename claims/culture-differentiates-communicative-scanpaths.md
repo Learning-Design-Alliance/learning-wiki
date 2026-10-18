@@ -15,18 +15,22 @@ sources:
     author: "Nora A. McIntyre & Tom Foulsham"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: nora-a-mcintyre-tom-foulsham-2018-2
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
     title: "Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x"
     author: "Nora A. McIntyre & Tom Foulsham"
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Culture differentiates communicative but not attentional teacher scanpaths once expertise is controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` With expertise controlled, teachers' attentional scanpaths were not more similar within-culture than across (p = 0.08). [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)
@@ -38,7 +42,7 @@ sources:
 
 Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Dual-IV comparison (Table 4) of attentional scanpaths across cultures with expertise held constant, in the sample of 40 teachers. The effect did not reach significance, "not more similar within-culture than across ( p = 0.08)"; no effect size was printed.
 
@@ -48,7 +52,7 @@ Dual-IV comparison (Table 4) of attentional scanpaths across cultures with exper
 
 Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x
 
-`q3 · i2`
+`q3 · i2` · `associational · r1`
 
 Communicative-gaze dual-IV comparisons in the same sample. Within-culture similarity exceeded across-culture, "more similar within ( M = 0.39) than across ( M = 0.38) culture", η²p = 0.10, p = 0.05.
 

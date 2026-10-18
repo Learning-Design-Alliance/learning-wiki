@@ -35,7 +35,8 @@ The OECD's TALIS 2013 dataset contains international survey data from teachers a
 - [Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control](../claims/control-score-distributions-vary-by-domain.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Redesigned TALIS-PISA Link (rTPL) database](redesigned-talis-pisa-link-rtpl-database.md)
 
 ## Key Sources
 - Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597

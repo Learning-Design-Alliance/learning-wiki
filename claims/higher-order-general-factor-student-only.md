@@ -15,18 +15,22 @@ sources:
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: xin-liu-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09652-6"
     title: "Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6"
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A significant higher-order general instructional quality factor wrapping the five lower-order dimensions was identified in PISA student data and held in all seven countries. [→ Xin Liu 2023](#xin-liu-2023)
@@ -38,7 +42,7 @@ sources:
 
 Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Higher-order factor analysis of the student data, motivated by non-significant or small correlations between some dimensions. The article reports "a significant higher-order general instructional quality factor could be identified, wrapping the five lower-order dimensions" in all seven countries.
 
@@ -48,7 +52,7 @@ Higher-order factor analysis of the student data, motivated by non-significant o
 
 Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The same higher-order model tested on TALIS teacher data. The article reports the "oblique model did not hold", suggesting teachers may focus on specific aspects of their teaching, such as classroom discipline, cognitive activation, and teacher support, as stand-alone factors.
 

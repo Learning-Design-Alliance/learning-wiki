@@ -15,12 +15,14 @@ sources:
     author: Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Cross-sectional correlations between rubric dimensions were positive but shrinking across time points, and at T2 were uniformly weak and nonsignificant. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)
@@ -31,7 +33,7 @@ sources:
 
 Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé. (2026). Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications. Instructional Science. https://doi.org/10.1007/s11251-026-09808-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Pearson correlations between rubric dimensions computed separately at T0, T1, and T2. At T0 several were near zero or slightly negative and nonsignificant; by T1 coefficients were positive but smaller; at T2 all were weak and nonsignificant.
 

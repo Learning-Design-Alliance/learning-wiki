@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (16 for, 9 mixed) · 27 studies (7 review, 6 associational, 4 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 27 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (17 for, 9 mixed, 1 against) · 28 studies (7 review, 6 associational, 5 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 28 report an effect size · 21 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -79,6 +79,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](../claims/inattention-moderates-ai-benefit-associations.md) [~W]
 - [Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence](../claims/openness-relatedness-indirect-via-competence.md) [~W]
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](../claims/autonomy-support-training-effective-d63.md) [+W] — attached 2026-10-15 from Su et al. (2011), which proposed "Autonomy-supportive training programs as a class of interventions grounded in self-determination theory".
+- [Amotivation increased in both conditions during the intervention, but the increase was smaller in the need-supportive condition](../claims/amotivation-increase-lower-need-support.md) [+W] — attached 2026-10-18 from Louise Maddens et al. (2023), which proposed "Self-determination theory and Basic Psychological Need Theory as a framework for motivation in complex-skill learning".
+- [Autonomous motivation decreased and controlled motivation increased overall, with no differences between the need-supportive and baseline conditions](../claims/autonomous-controlled-motivation-unaffected.md) [-W] — attached 2026-10-18 from Louise Maddens et al. (2023), which proposed "Self-determination theory and Basic Psychological Need Theory as a framework for motivation in complex-skill learning"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -112,6 +114,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Epistemic Games](../patterns/epistemic-games.md)
 - [Digital Open Badges](../elements/digital-open-badges.md)
 - [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](../strategies/motivation-supportive-genai-integration-higher-education.md)
+- [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (32 for, 28 mixed, 1 against, 1 unmarked) · 32 studies (10 causal, 9 quant-synthesis, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 11 of 32 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (34 for, 28 mixed, 1 against, 1 unmarked) · 33 studies (11 causal, 9 quant-synthesis, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 33 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -101,6 +101,8 @@ None at present: every claim listed here was read against the model on 2026-10-1
 - [The TTST advantage persists when no further presentations follow the retrieval manipulation, ruling out encoding-effort strategies (Experiment 3)](../claims/ttst-advantage-not-encoding-strategy.md) [+W] — attached 2026-10-16 from Carrier et al. (1992), which proposed "After some learning is achieved, learners should be given forced retrievals without the target material present"; tests this page's relationship.
 - [The TTST advantage persists in a pure-list design, ruling out differential rehearsal (Experiment 4)](../claims/ttst-advantage-not-differential-rehearsal.md) [+W] — attached 2026-10-16 from Carrier et al. (1992), which proposed "After some learning is achieved, learners should be given forced retrievals without the target material present"; tests this page's relationship.
 - [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](../claims/skipping-permits-more-retrieval-attempts.md) [+W] — attached 2026-10-16 from Matthew Jensen Hays et al. (2010), which proposed "When study time is fixed, skip feedback after successful retrieval in favor of additional retrieval attempts".
+- [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](../claims/targeted-retrieval-improves-targeted-information-retention.md) [+W] — attached 2026-10-18 from Tino Endres et al. (2020), which proposed "Match the type of retrieval-practice task to the educational goal and the breadth of the learning content".
+- [Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest](../claims/holistic-retrieval-improves-non-targeted-information-free-recall-posttest.md) [+W] — attached 2026-10-18 from Tino Endres et al. (2020), which proposed "Match the type of retrieval-practice task to the educational goal and the breadth of the learning content".
 
 ## Objective and learner-valued goal
 

@@ -15,12 +15,14 @@ sources:
     author: Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Contrary to expectation, common ground after collaboration was highest in the low-coercion (Idiosyncratic) NTool groups, not the Stringent groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A significant main effect of coercion on common ground ran in the opposite direction to the hypothesis, with common ground highest in the Idiosyncratic groups. [→ Pieter J. Beers 2007](#pieter-j-beers-2007)
@@ -31,7 +33,7 @@ sources:
 
 Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers. (2007). ICT-support for grounding in the classroom. Instructional Science 35, 535–556. https://doi.org/10.1007/s11251-007-9018-5
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Common ground was computed as the average spread of individual problem representations over discussion episodes, analysed by repeated measures ANCOVA with psychological safety as covariate. The article reports the effect was "not in the expected direction" and that "Common ground was highest in the Idiosyncratic groups."
 

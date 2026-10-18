@@ -15,12 +15,14 @@ sources:
     author: Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Holistic retrieval via free-recall raises self-efficacy, fully mediated by performance during retrieval practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Self-efficacy was significantly higher after free-recall than after short-answer retrieval practice, and the effect was mediated by participants' performance. [→ Tino Endres 2020](#tino-endres-2020)
@@ -31,7 +33,7 @@ sources:
 
 Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl. (2020). It matters how to recall – task differences in retrieval practice. Instructional Science. https://doi.org/10.1007/s11251-020-09526-1
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 In the 54-participant within-subject experiment, self-efficacy (five items, α = 0.904) was rated after each task type. Free-recall raised it more, printed effect size ƞ2 = 0.080 (small); a MEMORE within mediation showed an indirect effect via performance, B = 31.58, 95% CI [9.81, 62.55], with a non-significant direct path indicating complete mediation.
 

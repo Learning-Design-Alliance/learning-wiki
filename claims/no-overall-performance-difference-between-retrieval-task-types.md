@@ -15,12 +15,14 @@ sources:
     author: Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Overall posttest performance does not differ between targeted and holistic retrieval conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On overall performance, no task-specific differences were found between conditions on either posttest format, with Bayesian evidence favoring the null. [→ Tino Endres 2020](#tino-endres-2020)
@@ -31,7 +33,7 @@ sources:
 
 Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl. (2020). It matters how to recall – task differences in retrieval practice. Instructional Science. https://doi.org/10.1007/s11251-020-09526-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Analysis of overall delayed posttest performance in the 54-participant within-subject study found no condition difference on either posttest format; Bayesian repeated measures ANOVAs (BF01 = 4.091 and 3.364) provided "substantial evidence favoring the null hypothesis". Equivalence was not directly tested beyond the Bayes factors.
 

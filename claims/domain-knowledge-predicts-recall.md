@@ -15,12 +15,14 @@ sources:
     author: "Krebs, M.-C., Schüler, A., & Scheiter, K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # In the exploratory recall analysis, participants with relatively high domain knowledge showed better recall performance than participants with relatively low domain knowledge.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The multiple regression showed a significant effect of domain knowledge on recall performance, F(1, 156) = 8.12, p = 0.005, adj. R2 = 0.08, favoring higher domain knowledge. [→ Krebs 2021](#krebs-2021)
@@ -31,7 +33,7 @@ sources:
 
 Krebs, M.-C., Schüler, A., & Scheiter, K. (2021). Do prior knowledge, model-observer similarity and social comparison influence the effectiveness of eye movement modeling examples for supporting multimedia learning? Instructional Science, 49, 607–635. https://doi.org/10.1007/s11251-021-09552-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Exploratory multiple regression from the Results section predicting recall from modeling condition, PK activation, domain knowledge and social comparison orientation. The article prints F(1, 156) = 8.12 and means of 71.14% vs 65.18%; adj. R2 is variance explained, not a standardized effect size, so no magnitude is coded.
 

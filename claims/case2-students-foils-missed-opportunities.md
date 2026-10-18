@@ -15,12 +15,14 @@ sources:
     author: Samantha A. Marshall, Grace A. Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # In Case 2, persistent strong negative self-critique led teachers to assign deficit narratives to students as having missed opportunities, serving as foils for teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When intense negative affect persisted and challenged emotional regimes discouraging such expression, teachers introduced deficit narratives casting students as having missed the opportunities teachers provided. [→ Samantha A. Marshall 2025](#samantha-a-marshall-2025)
@@ -31,7 +33,7 @@ sources:
 
 Samantha A. Marshall, Grace A. Chen. (2025). Deficit narratives as teacher foils: how vulnerability and emotional regimes shape teacher discourse. Instructional Science. https://doi.org/10.1007/s11251-025-09740-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Case 2 discourse analysis at Easley High School: after Joanna called her move "the worst possible thing," colleagues' mitigation failed to quell her negative affect, and Marc and Will assigned students a deficit narrative about missing the "opportunity to figure it out," reasserting a dispassionate-but-gentle tone.
 

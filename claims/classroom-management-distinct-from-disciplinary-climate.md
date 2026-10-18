@@ -15,12 +15,14 @@ sources:
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` CFA identified classroom management and classroom disciplinary climate as two different dimensions, distinct in conceptualization, item wording, and statistical model. [→ Xin Liu 2023](#xin-liu-2023)
@@ -31,7 +33,7 @@ sources:
 
 Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 CFA of the PISA student data, where classroom management items describe specific teacher actions (e.g., getting students to listen, keeping the class orderly) while disciplinary climate items mirror the entire learning environment. The article states these are "substantially different aspects of mathematical instructional quality".
 

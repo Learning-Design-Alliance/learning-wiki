@@ -15,18 +15,22 @@ sources:
     author: Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
   - id: louise-maddens-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09606-4"
     title: "Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4"
     author: Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Amotivation increased in both conditions during the intervention, but the increase was smaller in the need-supportive condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1`–`i2`
 
 ## Subclaims
 `q2 i2` Overall amotivation rose from pretest (M = 1.77, SD = 0.79) to posttest (M = 2.26, SD = 0.89), d = -0.524. [→ Louise Maddens 2023](#louise-maddens-2023)
@@ -38,7 +42,7 @@ sources:
 
 Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Paired samples t-test in the results: the rise was significant, t(214) = -7.69, p < 0.001, d = -0.524, an unexpected finding given SDT hypotheses.
 
@@ -48,7 +52,7 @@ Paired samples t-test in the results: the rise was significant, t(214) = -7.69, 
 
 Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Independent samples t-test on mean differences between the 97 baseline and 118 need-supportive students: the increase was 0.65 in baseline versus 0.37 in the need-supportive group, d = 0.301.
 

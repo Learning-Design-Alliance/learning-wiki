@@ -19,14 +19,13 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 69 | 659 | 244 | 350 | 1,322 |
+| causal | 69 | 677 | 246 | 352 | 1,344 |
 | quant-synthesis | 64 | 117 | 38 | 118 | 337 |
-| review | 92 | 368 | 104 | 124 | 688 |
-| associational | 62 | 835 | 336 | 261 | 1,494 |
-| qualitative | 118 | 304 | 68 | 88 | 578 |
-| design | 54 | 521 | 131 | 32 | 738 |
-| theoretical | 97 | 285 | 50 | 56 | 488 |
-| not yet coded | | | | | 34 |
+| review | 92 | 370 | 104 | 124 | 690 |
+| associational | 62 | 837 | 338 | 261 | 1,498 |
+| qualitative | 121 | 305 | 68 | 88 | 582 |
+| design | 54 | 522 | 131 | 32 | 739 |
+| theoretical | 97 | 286 | 50 | 56 | 489 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -91,7 +90,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 126 pages | 2 | q2–q3 | 0 of 2 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 107 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
-| [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 89 pages | 1 | q3 | 0 of 1 |
+| [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 85 pages | 6 | q2–q3 | 1 of 6 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
@@ -142,9 +141,9 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [methods](methods/index.md) | 38 | 21 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 890 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 74 | 37.5 | 0 |
-| [designs](designs/index.md) | 921 | 548 | 1 | 1 |
-| [products](products/index.md) | 1,770 | 1,174 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 433 | 385 | 1 | 0 |
+| [designs](designs/index.md) | 934 | 557 | 1 | 1 |
+| [products](products/index.md) | 1,775 | 1,179 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 437 | 388 | 1 | 0 |
 
 ## Toward pooled estimates
 
