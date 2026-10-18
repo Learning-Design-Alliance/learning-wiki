@@ -16,6 +16,9 @@ sources:
 
 # Use QCGE self-assessments as a basis for formative group evaluation and integrate them into group-awareness or engagement-feedback tools
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that lecturers use a QCGE self-assessment to gain information about the quality of collaborative work in learning groups, e.g. as formative evaluation at group level. It further proposes that "a QCGE self-assessment could be used as a basis for adapting and developing learning processes within learning groups and could usefully be integrated into group-awareness tools" or automated group engagement feedback tools, giving groups an opportunity to reflect on and regulate their group processes.
 
@@ -34,7 +37,7 @@ The article recommends that lecturers use a QCGE self-assessment to gain informa
 - reflection on and regulation of group processes leading to better group learning outcomes
 
 ### Affordances
-- [Qcge Framework Four Dimensions](../theories/qcge-framework-four-dimensions.md)
+- Qcge Framework Four Dimensions
 
 ## Related Strategies
 - 

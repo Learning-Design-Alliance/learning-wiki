@@ -12,10 +12,17 @@ sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Group summary scores did not differ significantly between algorithm-formed and randomly formed groups on content, vocabulary, or grammar rubrics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Mann-Whitney U tests on teacher-scored group summaries (1–4 rubrics) found no significant condition differences on content, vocabulary, or grammar. [→ Liang 2025](#liang-2025)
@@ -26,7 +33,7 @@ sources:
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Group summaries submitted via BookRoll's memo function were scored by the senior teacher on content, vocabulary, and grammar rubrics. Mann-Whitney U tests found no significant differences; e.g., grammar U = 39.0, p = .791. Several groups failed to submit summaries for scoring.
 

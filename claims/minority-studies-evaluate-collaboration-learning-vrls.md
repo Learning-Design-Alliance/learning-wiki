@@ -12,14 +12,25 @@ sources:
   - id: kurtz-2025
     resource: "https://doi.org/10.1007/s11412-025-09454-7"
     title: "Kurtz, M., Benabbou, A., Pons, C., & Broisin, J. (2025). Collaboration in virtual and remote laboratories for education: A systematic literature review. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-025-09454-7"
-    author: "Kurtz, M., Benabbou, A., Pons, C., & Broisin, J"
+    author: "Kurtz, M., Benabbou, A., Pons, C., & Broisin, J."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
   - id: kurtz-2025-2
     resource: "https://doi.org/10.1007/s11412-025-09454-7"
     title: "Kurtz, M., Benabbou, A., Pons, C., & Broisin, J. (2025). Collaboration in virtual and remote laboratories for education: A systematic literature review. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-025-09454-7"
-    author: "Kurtz, M., Benabbou, A., Pons, C., & Broisin, J"
+    author: "Kurtz, M., Benabbou, A., Pons, C., & Broisin, J."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` 31% of reviewed publications (n = 19) included a study evaluating collaboration among users; most relied exclusively on qualitative data. [→ Kurtz 2025](#kurtz-2025)
@@ -31,7 +42,7 @@ sources:
 
 Kurtz, M., Benabbou, A., Pons, C., & Broisin, J. (2025). Collaboration in virtual and remote laboratories for education: A systematic literature review. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-025-09454-7
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review coding of evaluation practices across the 62 publications: "31% of publications (n = 19) included a study to evaluate collaboration among users"; 10 used qualitative data only, 7 quantitative only, 2 mixed methods.
 
@@ -41,7 +52,7 @@ Review coding of evaluation practices across the 62 publications: "31% of public
 
 Kurtz, M., Benabbou, A., Pons, C., & Broisin, J. (2025). Collaboration in virtual and remote laboratories for education: A systematic literature review. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-025-09454-7
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review synthesis of the 26 studies assessing learning outcomes of collaborative VRLs: "84% (n = 22) have a positive impact on learning". Indicators include questionnaires, tests, grades and task completion metrics; all studies reporting student level involve higher education.
 

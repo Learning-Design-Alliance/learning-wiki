@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09446-7"
     title: "Lucas Paulsen, Jacob Davidsen. (2025). Activity-based collaborative virtual reality: Conceptualising immersive virtual reality for collaborative learning. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09446-7"
     author: Lucas Paulsen, Jacob Davidsen
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Findings suggest VR-mediated mentoring with 360VR supports newly qualified teachers' noticing, classroom management competencies and self-efficacy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the mentoring case, working with 360VR episodes of their own teaching across multiple cycles of VR mentoring and classroom teaching supported teachers' noticing, classroom management competencies and self-efficacy. [→ Lucas Paulsen 2025](#lucas-paulsen-2025)
@@ -26,7 +33,7 @@ sources:
 
 Lucas Paulsen, Jacob Davidsen. (2025). Activity-based collaborative virtual reality: Conceptualising immersive virtual reality for collaborative learning. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09446-7
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article reports on the second empirical case, VR-mediated mentoring of newly qualified primary and lower-secondary teachers using CAVA360VR across multiple cycles of reflection and teaching. The finding is hedged by the authors as "Findings suggest", with no effect sizes or test statistics printed.
 

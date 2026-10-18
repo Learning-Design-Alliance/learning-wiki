@@ -12,18 +12,33 @@ sources:
   - id: zhou-2025
     resource: "https://doi.org/10.1007/s11412-024-09438-z"
     title: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2025). Disagreeing softly: Supporting students in managing disagreement in peer critique. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09438-z"
-    author: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G"
+    author: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: zhou-2025-2
     resource: "https://doi.org/10.1007/s11412-024-09438-z"
     title: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2025). Disagreeing softly: Supporting students in managing disagreement in peer critique. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09438-z"
-    author: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G"
+    author: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: zhou-2025-3
     resource: "https://doi.org/10.1007/s11412-024-09438-z"
     title: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2025). Disagreeing softly: Supporting students in managing disagreement in peer critique. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09438-z"
-    author: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G"
+    author: "Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most disagreements were resolved, with group members explicitly agreeing on a consensus understanding or decision; 25 episodes resolved through concession. [→ Zhou 2025](#zhou-2025)
@@ -36,7 +51,7 @@ sources:
 
 Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2025). Disagreeing softly: Supporting students in managing disagreement in peer critique. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09438-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Episode-level analysis of the 48 gallery walk disagreement episodes, excluding the 4 involving no agreement with invisible peers. Consensus was marked by explicit agreements such as "Yeah," "I agree," or "OK, let's…"; 25 episodes ended through concession, where students accepted an idea from a single side.
 
@@ -46,7 +61,7 @@ Episode-level analysis of the 48 gallery walk disagreement episodes, excluding t
 
 Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2025). Disagreeing softly: Supporting students in managing disagreement in peer critique. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09438-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The same episode-level analysis found resolution through co-construction in 14 instances, where students "integrated ideas from both sides"; the article states this pattern appeared exclusively in soft and mixed disagreement episodes.
 
@@ -56,7 +71,7 @@ The same episode-level analysis found resolution through co-construction in 14 i
 
 Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2025). Disagreeing softly: Supporting students in managing disagreement in peer critique. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09438-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 A third of the 5 episodes without explicit consensus ended in topic shifting after the proponent defended their stance; the quote describes "2 instances" that "remained unre- solved," one unheard and one cut off by the class ending.
 

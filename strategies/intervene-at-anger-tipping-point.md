@@ -16,6 +16,9 @@ sources:
 
 # Time educator intervention to the anger tipping point rather than suppressing anger from the outset
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that educators treat anger as a signal to monitor rather than immediately suppress: science talk increased "in parallel with anger talk, until an apparent tipping point." Facilitation should target the moment tilting begins, when discussion quality plummets, rather than early moments of anger which can accompany productive argumentation. The abstract states the findings "offer guidance on the timing for educators' intervention in collaborative discourse when anger arises among students."
 

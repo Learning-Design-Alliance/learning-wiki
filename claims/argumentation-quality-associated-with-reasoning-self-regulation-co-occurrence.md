@@ -63,3 +63,4 @@ The central statistic (d=1.96) is frequently the kind of number that gets over-r
 - [Student argument quality in the game showed limits: one group discarded a hypothesis despite evidence still partially supporting it](mercury-case-hypothesis-discarding-limit.md) — related
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [In VR-based facilitated model-based reasoning about gene regulation, the model's function was examined most frequently, followed by structure and then behavior](sbf-analysis-vr-gene-regulation-function-most-examined.md) — related
+- [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](ena-high-learning-dense-reannotation-discourse-networks.md) — related

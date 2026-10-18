@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09461-8"
     title: "Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman. (2025). Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09461-8"
     author: Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the "Israeli-Palestinian conflict" discussion, LlamaLo stated that Israel is an apartheid country as fact rather than claim, and gave a distorted history overview ignoring the Israelites period. [→ Yifat Ben-David Kolikant 2025](#yifat-ben-david-kolikant-2025)
@@ -26,7 +33,7 @@ sources:
 
 Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman. (2025). Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09461-8
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative content analysis of the Israeli-Palestinian conflict discussion (Findings §4.2). The article reports that LlamaLo "presented contested assertions as facts", identified the topic as political, and urged negotiation between the two sides.
 

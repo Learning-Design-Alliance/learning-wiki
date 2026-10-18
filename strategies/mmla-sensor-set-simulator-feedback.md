@@ -16,6 +16,9 @@ sources:
 
 # Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article proposes an MMLA design using three technologies: system logs capturing navigational actions such as speed, "angle of turns", and distance between vessels; eye-tracking capturing "area of interest and joint visual attention" as accountable traces of gaze orientation; and speech recognition transcribing bridge team communications, usable in debriefing to provide accountability. Each maps to a display of understanding identified in the episode analyses.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-024-09435-2"
     title: "Charlott Sellberg · Amit Sharma. (2025). Toward multimodal learning analytics in simulation-based collaborative learning: A design ethnography of maritime training. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09435-2"
     author: Charlott Sellberg · Amit Sharma
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Episode 2, a lookout positioned at the chart table occasioned correction addressed through the hierarchically responsible officer-of-the-watch, showing spatial position as a display of role understanding. [→ Charlott Sellberg · Amit Sharma 2025](#charlott-sellberg-amit-sharma-2025)
@@ -26,7 +33,7 @@ sources:
 
 Charlott Sellberg · Amit Sharma. (2025). Toward multimodal learning analytics in simulation-based collaborative learning: A design ethnography of maritime training. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09435-2
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Multimodal interaction analysis of Episode 2, in which the instructor, monitoring from the instructors' room, addresses a correction about lookout positioning to the officer-of-the-watch rather than the lookout, making the professional hierarchy explicit. No effect sizes printed.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-024-09435-2"
     title: "Charlott Sellberg · Amit Sharma. (2025). Toward multimodal learning analytics in simulation-based collaborative learning: A design ethnography of maritime training. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09435-2"
     author: Charlott Sellberg · Amit Sharma
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Feedback in full-mission simulator training is delivered through recurring, multidimensional, multimodal feedback cycles built on instructors' embedded assessments of the fit between learning objectives and the ongoing task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Feedback during simulations consists of recurring, multidimensional, and multimodal feedback cycles in which instructors continuously monitor students' actions to assess fit between learning objectives and the ongoing task. [→ Charlott Sellberg · Amit Sharma 2025](#charlott-sellberg-amit-sharma-2025)
@@ -26,7 +33,7 @@ sources:
 
 Charlott Sellberg · Amit Sharma. (2025). Toward multimodal learning analytics in simulation-based collaborative learning: A design ethnography of maritime training. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09435-2
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Multimodal interaction analysis of video records from two routinely occurring episodes of instructor-student interaction, drawn from approximately 60 h of recorded simulation-based training at a Scandinavian maritime university. The article reports that instructors' "close monitoring of student's actions" grounds feedback cycles.
 

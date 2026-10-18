@@ -16,6 +16,9 @@ sources:
 
 # Design CSCL environments to remind learners to think as a group and scaffold cognitive group awareness
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 From group A's failure, the authors propose that environments "include additional features to remind learners to work and think as a group, so that opinions are made and thus possibilities for internationalization of voices is created..., but not so that interactions and roles are artificially distributed". They also suggest a tool to scaffold cognitive group awareness, citing a study where awareness of peers' contributions encouraged cognitive conflict and topic focus, and note group A's inability to track inputted N values or notes within the environment.
 
@@ -35,7 +38,7 @@ From group A's failure, the authors propose that environments "include additiona
 - sustained group-level dialogue, empirical evaluation and knowledge construction
 
 ### Affordances
-- [Dst I Positions Cscl Framework](../theories/dst-i-positions-cscl-framework.md)
+- [Dst I Positions Cscl Framework](../research-methods/dialogical-self-theory-dst-i-positions-as-a-cscl-analytical-framework.md)
 
 ## Related Strategies
 - 

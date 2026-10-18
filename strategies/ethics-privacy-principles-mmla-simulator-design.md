@@ -16,6 +16,9 @@ sources:
 
 # Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article states that any LA system can have considerable socioeconomic impact, and that ethics and privacy, noted by Lemay et al. (2021) as insufficiently discussed in the EDM and LA fields, "can be the crucial enabler in implementation of learning analytics." It recommends attending to data access, storage location, anonymization, privacy, and informed consent, citing Pardo and Siemens's practical principles.
 

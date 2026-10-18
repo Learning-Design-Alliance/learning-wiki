@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 63 claims (37 for, 23 mixed, 3 against) · 64 studies (20 associational, 18 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 20 of 64 report an effect size · 48 claims rest on one study
+> **Evidence** · 64 claims (38 for, 23 mixed, 3 against) · 65 studies (20 associational, 19 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 21 of 65 report an effect size · 49 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -110,6 +110,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Regulating GA proceeds via metacognitive monitoring of adequacy and accuracy plus control through outward- and inward-oriented strategies](../claims/ga-regulation-monitoring-control-strategies.md) [+W] — attached 2026-10-18 from Lenka Schnaubert (2022), which proposed "GA participates in three regulatory cycles: regulating GA, regulating social interaction, and regulating partner schema building".
 - [Shared and co-constructed intra-group interaction were significantly correlated with deep-level metacognitive activities during pre-task regulation](../claims/shared-coconstructed-interaction-correlated-deep-level.md) [+W] — attached 2026-10-18 from Kielstra et al. (2022), which proposed "Four types of intra-group social metacognitive interaction (ignored, accepted, shared, co-constructed) as a measure of sharedness in socially shared regulated learning".
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](../claims/pre-course-srl-predicts-collaborative-participation.md) [+W] — attached 2026-10-18 from Psathas et al. (2023), which proposed "SRL profiling as a basis for grouping, intervention targeting, and participation prediction in MOOCs".
+- [Adaptive AI support directs regulatory activity toward monitoring while static AI support produces strategy-focused, procedural regulation](../claims/adaptive-ai-monitoring-static-strategy-networks.md) [+W] — attached 2026-10-18 from Ridwan Whitehead · Andy Nguyen · Sanna Järvelä (2026), which proposed "Trigger regulation framework for identifying multimodal SSRL processes".
 
 ## The evidence by question
 

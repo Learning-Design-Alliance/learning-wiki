@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 26 studies (5 review, 5 qualitative, 5 design, 4 causal, 3 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 26 report an effect size · 28 claims rest on one study
+> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 27 studies (5 review, 5 qualitative, 5 design, 4 causal, 4 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 27 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,7 @@ Claims and sources this page touches that have not been read against the model a
 - The earlier page's line "Instructor social presence behaviors (responsiveness, personal communication) improve online learner outcomes [+M]" cites **no claim and no source**; nothing in the wiki records that finding.
 - [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](../claims/course-template-supports-learner-presence.md) [+W] — read 2026-10-15: about teaching presence and course organisation (the authors' interpretation, one MBA programme), not social presence; it bears on [Community of Inquiry](community-of-inquiry.md) and [Online Course Design](../patterns/online-course-design.md) rather than on this model.
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable](../claims/cognitive-presence-highest-least-variable-online-cbi.md) [~W] — read 2026-10-15: descriptive ratings from the same 47-student survey as the metacognition claim above; it describes how the CoI presences were rated and predicts nothing about participation or learning, so it does not enter the model.
+- [Danmaku interaction is predominantly socio-emotional while discussion-board interaction tilts cognitive, and the tools share only four content categories](../claims/danmaku-socio-emotional-vs-board-cognitive-categories.md) [+W] — attached 2026-10-18 from Bo Yang (2024), which proposed "Combine danmaku with discussion boards so MOOC environments serve both large-community connectedness and small-group exchange".
 
 ## Objective and learner-valued goal
 

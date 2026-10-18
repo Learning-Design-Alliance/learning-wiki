@@ -16,6 +16,9 @@ sources:
 
 # Structure synthesis work as a facilitator role plus dedicated synthesis weeks with individual artifacts feeding in-class group synthesis
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The KS intervention's pedagogical design combined a 20-minute lecture on knowledge synthesis, a student "discussion facilitator" role in regular weeks, and two synthesis weeks without new readings. Before class each student posted an individual synthesis artifact on Canvas; in class, groups collaboratively produced a group synthesis drawing on individual artifacts, then applied it by redesigning a ""problematic" learning situation".
 
@@ -37,7 +40,7 @@ The KS intervention's pedagogical design combined a 20-minute lecture on knowled
 - deeper in-class discussion grounded in peers' ideas
 
 ### Affordances
-- [Knowledge Synthesis Cscl Framework](../theories/knowledge-synthesis-cscl-framework.md)
+- [Knowledge Synthesis Cscl Framework](../theories/knowledge-objects-and-knowledge-practices.md)
 
 ## Related Strategies
 - 

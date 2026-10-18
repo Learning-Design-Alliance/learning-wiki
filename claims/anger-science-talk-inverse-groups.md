@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09459-2"
     title: "Taehyun Kim, Mike Tissenbaum. (2025). Understanding when anger becomes productive or destructive in collaborative educational games. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09459-2"
     author: Taehyun Kim, Mike Tissenbaum
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Groups' anger-talk proportion was inversely related to science-talk proportion across two teams
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Green City had 36.6% of turns coded with anger and 58.6% with science talk, while Red City had 4.8% anger and 80.8% science talk, an inverse pattern. [→ Taehyun Kim 2025](#taehyun-kim-2025)
@@ -26,7 +33,7 @@ sources:
 
 Taehyun Kim, Mike Tissenbaum. (2025). Understanding when anger becomes productive or destructive in collaborative educational games. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09459-2
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Discourse turn-count analysis of two focal groups (883 and 812 total turns). The article reports "323 instances, or 36.6%" anger turns in Green City versus "39 instances, or 4.8%" in Red City, and notes the accompanying science-talk proportions of 58.6% versus 80.8%.
 

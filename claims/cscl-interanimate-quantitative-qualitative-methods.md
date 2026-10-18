@@ -48,3 +48,4 @@ The editorial's interpretive conclusion (type e) drawn from three methodology ar
 - [The editorial reports that a mixed methods study of 42 participant pairs found partly contradictory and partly complementary results on physiological synchrony and collaborative learning](physiological-synchrony-collaborative-learning-mixed-methods.md) — related
 - [Quantitative results of the floor-control experiment were uninterpretable without qualitative log analysis](floor-control-results-needed-mixed-methods.md) — related
 - [Analyses of the CSCL literature show statistical measures at the individual unit of analysis dominate published CSCL research despite calls for group-level analysis](individual-unit-analysis-dominates-cscl-methods.md) — related
+- [Participants identified communication across paradigms, not the absence of a single paradigm, as CSCL's main challenge](cross-paradigm-communication-the-main-cscl-challenge.md) — related

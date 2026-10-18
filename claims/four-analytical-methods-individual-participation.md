@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09450-x"
     title: "Shihui Feng, Ziyi Wei. (2025). The CoMPAS Framework for Modeling Individual Participation in Collaborative Learning Processes: a Systematic Review. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09450-x"
     author: Shihui Feng, Ziyi Wei
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Content analysis was commonly used on oral conversational data (N = 21) and textual input data (N = 13); network analysis was used in 14 studies and cluster analysis in 13 studies, with several distinct network-analysis approaches identified. [→ Shihui Feng 2025](#shihui-feng-2025)
@@ -26,7 +33,7 @@ sources:
 
 Shihui Feng, Ziyi Wei. (2025). The CoMPAS Framework for Modeling Individual Participation in Collaborative Learning Processes: a Systematic Review. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09450-x
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's RQ3 synthesis summarizes four analytical method types (descriptive analysis, content analysis, network analysis, clustering). The printed counts are N = 14 for network analysis (used in three approaches: node-level centrality measures, epistemic network analysis, and centrality-plus-clustering), N = 13 for clustering, and N = 21 and N = 13 for content analysis of oral and textual data. These are descriptive review counts, not measured effects.
 

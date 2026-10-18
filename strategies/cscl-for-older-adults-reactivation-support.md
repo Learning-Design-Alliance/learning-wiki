@@ -16,6 +16,9 @@ sources:
 
 # Design CSCL environments for older learners that support memory reactivation as well as constructive and interactive engagement
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that older adults engaged interactively but needed to reactivate memory before elaborating, the article states that "older adults may require the reactivation of memory to engage in elaboration" and that the results "offer insights into designing effective CSCL environments tailored to the learning needs of older adults." The strategy is to pair concept-map-based collaboration with support for recall of studied material, since older adults' interactive episodes repeatedly involved re-reading the text.
 
@@ -34,7 +37,7 @@ Based on the finding that older adults engaged interactively but needed to react
 - elaboration and integration of new conceptual knowledge during collaboration
 
 ### Affordances
-- [Collaborative Memory Mechanisms Cross Cuing Re Exposure Error Pruning](../theories/collaborative-memory-mechanisms-cross-cuing-re-exposure-error-pruning.md)
+- Collaborative Memory Mechanisms Cross Cuing Re Exposure Error Pruning
 
 ## Related Strategies
 - 

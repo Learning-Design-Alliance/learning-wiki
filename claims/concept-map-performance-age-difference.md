@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09456-5"
     title: "Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5"
     author: Shigen Shimojo, Yugo Hayashi
+    q: 3
+    i: 3
+    kind: associational
+    rigour: "?"
 ---
 
 # Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r?` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Younger adults' maps improved from two to three dimensions across phases; older adults added no new information. [→ Shigen Shimojo 2025](#shigen-shimojo-2025)
@@ -26,7 +33,7 @@ sources:
 
 Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5
 
-`q3 · i3`
+`q3 · i3` · `associational · r?`
 
 Within-group concept-map comparison: younger adults' maps "indicating an improvement from the pretest to the posttest" (U = 170.00, p =.002, r = 0.60), moving from two to three dimensions; older adults' median 0 indicated no elaboration.
 

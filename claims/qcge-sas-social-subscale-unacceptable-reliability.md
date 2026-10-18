@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09445-8"
     title: "Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn. (2025). Measuring the quality of collaborative group engagement: Development and validation of the QCGE self-assessment scale (QCGE-SAS). Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09445-8"
     author: Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Behavioural, cognitive and conceptual-to-consequential subscales of the QCGE-SAS show acceptable reliability, while the social engagement subscale shows unacceptable internal consistency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Cronbach's alpha for the BE, CE and CC subscales exceeded 0.70, but the SE subscale's alpha of 0.560 did not reach the accepted threshold. [→ Loris T. Jeitziner 2025](#loris-t-jeitziner-2025)
@@ -27,7 +34,7 @@ sources:
 
 Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn. (2025). Measuring the quality of collaborative group engagement: Development and validation of the QCGE self-assessment scale (QCGE-SAS). Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09445-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Reliability analysis of the QCGE-SAS in the validation study (N = 246), covering "BE α = 0.754; SE α = 0.560; CE α = 0.775; and CC α = 0.738"; composite reliability from the CFA was BE = 0.76, SE = 0.61, CE = 0.80 and CC = 0.72.
 

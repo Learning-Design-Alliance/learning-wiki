@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09451-w"
     title: "Alena Seredko. (2025). Accomplishing collaboration at scale: How professionals jointly frame problems on Stack Overflow. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09451-w"
     author: Alena Seredko
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Collaborative problem framing unfolds as sequential comment-and-edit organization across Stack Overflow's dual-space design of distinct question and commenting spaces
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Commenters follow a two-step routine — pinpoint problematic elements with shared programming vocabulary, then categorize the issue or request a change — and edits are reported in comments. [→ Alena Seredko 2025](#alena-seredko-2025)
@@ -26,7 +33,7 @@ sources:
 
 Alena Seredko. (2025). Accomplishing collaboration at scale: How professionals jointly frame problems on Stack Overflow. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09451-w
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Sequential analysis of Thread 3 (question ID 77882157), where commenters identified a dimensional mismatch in bracket notation and requested added commas, and the OP made two successive edits, each "explicitly reported via comments". Resolving the issues yielded an intelligible question, evidenced by two answers.
 

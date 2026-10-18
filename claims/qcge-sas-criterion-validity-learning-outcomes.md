@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09445-8"
     title: "Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn. (2025). Measuring the quality of collaborative group engagement: Development and validation of the QCGE self-assessment scale (QCGE-SAS). Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09445-8"
     author: Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
   - id: loris-t-jeitziner-2025-2
     resource: "https://doi.org/10.1007/s11412-025-09445-8"
     title: "Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn. (2025). Measuring the quality of collaborative group engagement: Development and validation of the QCGE self-assessment scale (QCGE-SAS). Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09445-8"
     author: Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Criterion validity was examined by correlating the four QCGE-SAS subscales with self-reported learning outcomes, supported by significant correlations. [→ Loris T. Jeitziner 2025](#loris-t-jeitziner-2025)
@@ -31,7 +42,7 @@ sources:
 
 Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn. (2025). Measuring the quality of collaborative group engagement: Development and validation of the QCGE self-assessment scale (QCGE-SAS). Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09445-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Criterion validity analysis correlating the four QCGE-SAS subscales with the single-item self-reported learning outcome ('I learned a lot from our group work', seven-point scale). The abstract reports "significant correlations with... self-reported... learning outcomes"; coefficient values were not available in the supplied text.
 
@@ -41,7 +52,7 @@ Criterion validity analysis correlating the four QCGE-SAS subscales with the sin
 
 Loris T. Jeitziner, Lisa Paneth, Oliver Rack, Susanne Bleisch, Carmen Zahn. (2025). Measuring the quality of collaborative group engagement: Development and validation of the QCGE self-assessment scale (QCGE-SAS). Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09445-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Subsample analysis using the students graded on their collaborative group work (drawn from the laboratory subsample; grading used a weighted scoring grid with two independent expert raters reaching "good interrater reliability (ICC = 0.825)" over 19 models).
 

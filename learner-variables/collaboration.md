@@ -12,7 +12,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (32 show a difference, 5 mixed, 3 no difference) · 34 studies (9 causal, 8 qualitative, 7 review, 5 associational, 3 theoretical, 2 design), `q1`–`q3` · 3 of 34 report an effect size · 40 claims rest on one study
+> **Evidence** · 41 claims (33 show a difference, 5 mixed, 3 no difference) · 35 studies (9 causal, 9 qualitative, 7 review, 5 associational, 3 theoretical, 2 design), `q1`–`q3` · 3 of 35 report an effect size · 41 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -81,6 +81,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Learners who reflected collaboratively on their prior collaboration gained more knowledge about effective collaboration than learners guided by an external collaboration script or unsupported learners](../claims/reflection-scaffold-beats-script-collaboration-knowledge.md) [+M] — instruction changes it
 - [Neither the external collaboration script nor the reflection scaffold increased the quality of interaction in the subsequent (testing-phase) collaboration](../claims/no-script-or-reflection-effect-on-interaction-quality.md) [-M] — instruction changes it
 - [Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn](../claims/modeling-outlasts-scripting-after-withdrawal.md) [+M] — instruction changes it
+- [In groups with pre-established positive collaborative relationships, NGI clusters aligned with high positive emotions and frequent group synchronisation during collaborative DGBL](../claims/ngi-clusters-align-with-flow-collaborative-dgbl.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

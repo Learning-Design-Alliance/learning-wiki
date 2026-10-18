@@ -16,6 +16,9 @@ sources:
 
 # Teaching minimal reproducible example production as a key competence for participation in large-scale professional collaboration
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article argues that "Mastering the production of MREs can thus be seen as a key professional competence in software development, allowing problems to be diagnosed and solved in the vast, asynchronous environment of Stack Overflow". Because novices commonly fail to include minimal code without prompting and struggle to meet SO quality criteria, the study recommends that professional education support this competence to prepare professionals for productive participation in large-scale collaboration.
 
@@ -35,7 +38,7 @@ The article argues that "Mastering the production of MREs can thus be seen as a 
 - formulating solvable, reproducible programming problems for large-scale asynchronous collaboration
 
 ### Affordances
-- [Intelligibility Through Shared Methods](../theories/intelligibility-through-shared-methods.md)
+- Intelligibility Through Shared Methods
 
 ## Related Strategies
 - 

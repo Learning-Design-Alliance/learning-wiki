@@ -13,17 +13,32 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09456-5"
     title: "Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5"
     author: Shigen Shimojo, Yugo Hayashi
+    q: 3
+    i: 3
+    kind: associational
+    rigour: 1
   - id: shigen-shimojo-2025-2
     resource: "https://doi.org/10.1007/s11412-025-09456-5"
     title: "Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5"
     author: Shigen Shimojo, Yugo Hayashi
+    q: 3
+    i: 3
+    kind: associational
+    rigour: "?"
   - id: shigen-shimojo-2025-3
     resource: "https://doi.org/10.1007/s11412-025-09456-5"
     title: "Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5"
     author: Shigen Shimojo, Yugo Hayashi
+    q: 3
+    i: 3
+    kind: associational
+    rigour: "?"
 ---
 
 # Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Younger adults produced more active utterances than older adults. [→ Shigen Shimojo 2025](#shigen-shimojo-2025)
@@ -36,7 +51,7 @@ sources:
 
 Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 ICAP-coded utterances (α = 0.68) in the 52-participant experiment: "revealing a significant difference between younger adults (median = 98.50) and older adults (median = 33.00)" for active mode (U = 515, p =.002, r = 0.448).
 
@@ -46,7 +61,7 @@ ICAP-coded utterances (α = 0.68) in the 52-participant experiment: "revealing a
 
 Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5
 
-`q3 · i3`
+`q3 · i3` · `associational · r?`
 
 Constructive-mode counts favored older adults: "a difference was found between younger adults (median = 17.00) and older adults (median = 26.00)" (U = 58, p <.001, r = 0.771), i.e. more older adults than young adults in constructive mode.
 
@@ -56,7 +71,7 @@ Constructive-mode counts favored older adults: "a difference was found between y
 
 Shigen Shimojo, Yugo Hayashi. (2025). Age-related differences in explanatory activities during collaborative learning with concept maps: experimental investigation using epistemic network analysis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09456-5
 
-`q3 · i3`
+`q3 · i3` · `associational · r?`
 
 Interactive-mode counts: "older adults were more interactive than younger adults" (median 29.00 vs 12.00; U = 182, p =.004, r = 0.395).
 

@@ -12,10 +12,17 @@ sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # In a high school EFL active-reading setting, mixed genetic algorithm group formation with Wordcloud awareness produced significantly greater vocabulary learning gains than random grouping
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The experimental condition (algorithm-formed groups plus Wordcloud) showed a significantly greater vocabulary learning gain than the control condition, with a printed effect size r = 0.504. [→ Liang 2025](#liang-2025)
@@ -26,7 +33,7 @@ sources:
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Within-cohort comparison of vocabulary learning gain (15-item pre/post quizzes) between random and algorithm-formed grouping conditions in a Japanese senior high school EFL class. The Wilcoxon Signed-Rank test reached significance (W = 90.5, p < .01), with effect size r = 0.504; experimental mean LG was 0.51 versus control 0.33.
 

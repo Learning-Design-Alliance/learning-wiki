@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09460-9"
     title: "Tatiana Íñiguez-Berrozpe, Carmen Elboj-Saso, Francesco Marcaletti, Pablo Bautista-Alcaine. (2025). Learning to deal with hate speech: An online collective intelligence experiment on the Collective Learning platform. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09460-9"
     author: Tatiana Íñiguez-Berrozpe, Carmen Elboj-Saso, Francesco Marcaletti, Pablo Bautista-Alcaine
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The small groups did not improve on questions 1 and 4, G2 declined on questions 2 and 3, and G3 improved only on question 2
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+
 ## Subclaims
-`q2 i?` Neither small group improved its mean answer score on questions 1 and 4; G2 showed a negative tendency on questions 2 and 3, and G3 progressed positively on question 2 from phase 4 but not on question 3. [→ Tatiana Íñiguez-Berrozpe 2025](#tatiana-íñiguez-berrozpe-2025)
+`q2 i?` Neither small group improved its mean answer score on questions 1 and 4; G2 showed a negative tendency on questions 2 and 3, and G3 progressed positively on question 2 from phase 4 but not on question 3. [→ Tatiana Íñiguez-Berrozpe 2025](#tatiana-iniguez-berrozpe-2025)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Tatiana Íñiguez-Berrozpe, Carmen Elboj-Saso, Francesco Marcaletti, Pablo Bautista-Alcaine. (2025). Learning to deal with hate speech: An online collective intelligence experiment on the Collective Learning platform. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09460-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive analysis of mean scores for G2 (n = 18) and G3 (n = 20) across the seven phases, per Table 1. The authors describe G2's "negative tendency" on questions 2 and 3 and G3's positive progression on question 2 from phase 4 on; no effect sizes are printed.
 

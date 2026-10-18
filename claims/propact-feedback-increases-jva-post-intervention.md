@@ -50,3 +50,4 @@ Process-level analysis addressing RQ2 in the same within-subjects study: JVA agg
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
 - [Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control](propact-proactive-feedback-improves-debugging-success.md) — related
 - [Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline](gaze-assistance-higher-secondary-aoi-followup.md) — related
+- [Adaptive AI support directs regulatory activity toward monitoring while static AI support produces strategy-focused, procedural regulation](adaptive-ai-monitoring-static-strategy-networks.md) — related

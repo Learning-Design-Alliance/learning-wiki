@@ -12,10 +12,17 @@ sources:
   - id: zabolotna-2025
     resource: "https://doi.org/10.1007/s11412-024-09442-3"
     title: "Zabolotna, K., Nøhr, L., Iwata, M., Spikol, D., Malmberg, J., & Järvenoja, H. (2025). How does collaborative task design shape collaborative knowledge construction and group-level regulation of learning? A study of secondary school students' interactions in two varied tasks. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09442-3"
-    author: "Zabolotna, K., Nøhr, L., Iwata, M., Spikol, D., Malmberg, J., & Järvenoja, H"
+    author: "Zabolotna, K., Nøhr, L., Iwata, M., Spikol, D., Malmberg, J., & Järvenoja, H."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In SimSketch cognitive regulation showed a clearer pattern leading to negotiate, supporting CKC; in Simua, negotiation more often preceded cognitive regulation, indicating challenges in joint knowledge construction. [→ Zabolotna 2025](#zabolotna-2025)
@@ -26,7 +33,7 @@ sources:
 
 Zabolotna, K., Nøhr, L., Iwata, M., Spikol, D., Malmberg, J., & Järvenoja, H. (2025). How does collaborative task design shape collaborative knowledge construction and group-level regulation of learning? A study of secondary school students' interactions in two varied tasks. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09442-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 T/ONA directionality analysis of networks for both tasks and the subtraction model. The article reports SimSketch cognitive regulation "led to 'negotiate,' supporting CKC" and the reverse order in Simua; edge weights were not significantly different between tasks.
 

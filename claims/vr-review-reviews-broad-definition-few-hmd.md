@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09446-7"
     title: "Lucas Paulsen, Jacob Davidsen. (2025). Activity-based collaborative virtual reality: Conceptualising immersive virtual reality for collaborative learning. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09446-7"
     author: Lucas Paulsen, Jacob Davidsen
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # A systematic review found literature reviews on collaborative learning in VR use very broad VR definitions, with few included papers using HMDs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The authors' systematic review of designing for collaborative learning in VR found reviews operating with broad VR definitions, with one cited review having only a tenth of included papers use HMDs. [→ Lucas Paulsen 2025](#lucas-paulsen-2025)
@@ -26,7 +33,7 @@ sources:
 
 Lucas Paulsen, Jacob Davidsen. (2025). Activity-based collaborative virtual reality: Conceptualising immersive virtual reality for collaborative learning. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09446-7
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article cites its authors' systematic review (Paulsen et al., 2024), reporting that reviews on collaborative learning in VR "operate with a very broad definition of VR" or, per van der Meer et al. (2023), had "only a tenth of the included papers make use of HMDs". No effect sizes are printed.
 

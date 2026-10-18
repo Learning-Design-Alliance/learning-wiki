@@ -12,10 +12,17 @@ sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 1
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Among two video-recorded groups with distinct fitness values, the group with more heterogeneous yellow markers and shared red markers completed content-based reading earlier and showed more meta-cognitive activity, yet both groups earned identical summary scores. [→ Liang 2025](#liang-2025)
@@ -26,7 +33,7 @@ sources:
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Video-based process mining (MAXQDA 24 coding of cognitive and social behaviors) of two experimental-condition groups with the highest and lowest fitness values. The authors conclude the higher-fitness group (G1) was more efficient; summary scores were identical across rubrics.
 

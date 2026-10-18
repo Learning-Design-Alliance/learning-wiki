@@ -16,6 +16,9 @@ sources:
 
 # Support construction of actionable knowledge through post-VR mock performance and reified artefacts such as storyboards
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 To transform learning constructed in VR into practice, the article recommends accompanying VR sessions with activities that bridge knowledge 'on-action' to use 'in-action'. Strategies printed in the article include post-VR mock clinical exams akin to the VR session's activity (medical case), and storyboards containing screenshots from the 360-degree video, annotated after the mentoring session to capture and reify classroom management strategies. These artefacts let learners continue reasoning about why actions are performed.
 
@@ -36,7 +39,7 @@ To transform learning constructed in VR into practice, the article recommends ac
 - summarising and adjusting classroom management strategies
 
 ### Affordances
-- [Abc Vr Framework Collaborative 360Vr](../theories/abc-vr-framework-collaborative-360vr.md)
+- [Abc Vr Framework Collaborative 360Vr](../theories/cultural-historical-activity-theory.md)
 
 ## Related Strategies
 - 

@@ -12,14 +12,25 @@ sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 2
+    i: 3
+    kind: design
+    rigour: 2
   - id: liang-2025-2
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The mixed algorithm produced groups differing significantly in marker-feature distributions, with shared (overlapping) yellow markers significantly lower than unique yellow markers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` A one-way ANOVA on the four group marker features showed a statistically significant difference among groups (F(3, 36) = 7.0755, p = .0007), with η² = 0.371. [→ Liang 2025](#liang-2025)
@@ -31,7 +42,7 @@ sources:
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q2 · i3`
+`q2 · i3` · `design · r2`
 
 Descriptive analysis of the 10 algorithm-formed groups' marker features (unique/shared red and yellow markers) followed by one-way ANOVA after normality and variance checks. The test reached significance with η² = 0.371 ("37.1% of the variance explained by marker features").
 
@@ -41,7 +52,7 @@ Descriptive analysis of the 10 algorithm-formed groups' marker features (unique/
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Tukey's HSD pairwise comparisons of marker features. Shared Yellow was significantly lower than Unique Yellow (p = .002); Unique Red vs Shared Red was non-significant (p = .149), as were the remaining red-yellow pairs.
 

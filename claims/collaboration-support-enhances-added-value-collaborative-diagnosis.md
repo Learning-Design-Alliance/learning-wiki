@@ -1,0 +1,47 @@
+---
+type: claim
+title: "Pre-service teachers' collaborative diagnostic accuracy does not per se exceed individual diagnostic accuracy, but collaboration support can significantly enhance the added value of collaborative diagnosis"
+description: "Pre-service teachers' collaborative diagnostic accuracy does not per se exceed individual diagnostic accuracy, but collaboration support can significantly enhance the added value of collaborative diagnosis"
+id: collaboration-support-enhances-added-value-collaborative-diagnosis
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: amadeus-j-pickal-2026
+    resource: "https://doi.org/10.1007/s11412-026-09494-7"
+    title: "Amadeus J. Pickal, Katharina Engelmann, Clark A. Chinn, Birgit J. Neuhaus, Raimund Girwidz, Christof Wecker. (2026). Fostering the collaborative diagnosis of cross-domain skills in video-based simulations: An analysis of collaborative diagnostic activities. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-026-09494-7"
+    author: Amadeus J. Pickal, Katharina Engelmann, Clark A. Chinn, Birgit J. Neuhaus, Raimund Girwidz, Christof Wecker
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
+---
+
+# Pre-service teachers' collaborative diagnostic accuracy does not per se exceed individual diagnostic accuracy, but collaboration support can significantly enhance the added value of collaborative diagnosis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q2`
+
+## Subclaims
+`q2 i?` Collaboratively generated diagnoses were not per se more accurate than individually generated diagnoses, but collaboration support significantly enhanced the added value of collaborative diagnosis. [→ Amadeus J. Pickal 2026](#amadeus-j-pickal-2026)
+
+## Evidence
+
+### Amadeus J. Pickal 2026
+
+Amadeus J. Pickal, Katharina Engelmann, Clark A. Chinn, Birgit J. Neuhaus, Raimund Girwidz, Christof Wecker. (2026). Fostering the collaborative diagnosis of cross-domain skills in video-based simulations: An analysis of collaborative diagnostic activities. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-026-09494-7
+
+`q2 · i?` · `causal · r?`
+
+An experimental summary reported in the article's abstract: collaboration alone did not beat individual diagnosis, whereas "collaboration support can significantly enhance the added value of collaborative diagnosis" among 194 pre-service teachers in a video-based simulation setting.
+
+> "The results indicate that pre-service teachers' collaborative diagnostic accuracy does not per se exceed individual diagnostic accuracy, but that collaboration support can significantly enhance the added value of collaborative diagnosis."
+
+## Discussion
+
+
+## Related Claims
+- [Increased information sharing appears to be the reason collaboration support enhances the added value of collaborative diagnosis](information-sharing-mechanism-collaborative-diagnosis-support.md) — a narrower finding that bears on this claim
+- [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](adaptive-feedback-improves-diagnosis-justification.md) — related

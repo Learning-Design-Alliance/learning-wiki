@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1755 entries** · 0 stable · 1755 in review · 0 drafts
+**1762 entries** · 0 stable · 1762 in review · 0 drafts
 
 ---
 
@@ -194,6 +194,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CASEL Wheel](casel-wheel.md) - A framework developed by CASEL that organizes five interrelated social and emotional learning competencies across classrooms, schools, families and caregivers, and communities.
 * [Catapult Learning's Wraparound Supplemental Educational Services](catapult-learnings-wraparound-supplemental-educational-services.md) - A Catapult Learning supplemental-education programme that delivers AchieveLiteracy and AchieveMath curricula through structured, low-ratio small-group instruction in literacy and mathematics.
 * [Causal Dimension Scale (CDS) and revised CDSII](causal-dimension-scale-cds-and-revised-cdsii.md) - The CDS, developed by Russell, and its CDSII revision by McAuley, Duncan, and Russell are self-report assessments that measure perceived causal attributions across dimensions such as locus, stability, and controllability.
+* [CAVA360VR](cava360vr.md) - CAVA360VR is a virtual-reality software platform developed for collaborative analysis, annotation, discussion, and debate around 360-degree video recordings.
 * [CBM Computation progress-monitoring probes for first-grade math](cbm-computation-progress-monitoring-probes-for-first-grade-math.md) - These are brief, standardized first-grade mathematics computation probes used to monitor student progress in RTI, with performance scored by correctly computed digits.
 * [CBM ID-TABLET](cbm-id-tablet.md) - Patricia A.
 * [cc-self-train auto-updating sync pipeline](cc-self-train-auto-updating-sync-pipeline.md) - A Zain Naboulsi onboarding and maintenance pipeline that detects upstream Claude Code changes, updates affected teaching modules, and verifies their structural integrity.
@@ -241,6 +242,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Clark and Malecki 10-item Academic Grit Scale (Turkish adaptation)](clark-and-malecki-10-item-academic-grit-scale-turkish-adaptation.md) - A 10-item, single-factor, five-point Likert self-report scale adapted into Turkish by Kaya et al.
 * [CLASP](clasp.md) - A three-quarter introductory physics curriculum for bioscience majors, developed and run at UC Davis and implemented in other university settings.
 * [Classroom Assessment Scoring System Pre-K (CLASS Pre-K)](classroom-assessment-scoring-system-pre-k-class-pre-k.md) - A standardized observational assessment developed by Teachstone that rates the quality of teacher–child interactions across Emotional Support, Classroom Organization, and Instructional Support domains in early-childhood classrooms.
+* [Classroom Discourse Analyser (CDA) platform](classroom-discourse-analyser-cda-platform.md) - A platform that processes classroom videos into synchronised transcripts, speaker-turn visualisations, and participation statistics for teacher professional learning and student reflection.
 * [Classroom Organization and Management Program](classroom-organization-and-management-program.md) - A manualized teacher-training classroom-management programme that equips teachers to implement strategies for organizing classrooms and reducing student problem behavior.
 * [Classroom Video Analysis (CVA) assessment](classroom-video-analysis-cva-assessment.md) - A video-based assessment developed by Ramirez and colleagues that elicits and scores teachers' usable mathematical teaching knowledge through written analyses of authentic mathematics-instruction episodes.
 * [Classtime](classtime.md) - Classtime is a web-based formative-assessment platform made by Classtime that lets educators deliver interactive question sets, view responses and dashboards in real time, and provide feedback across subjects.
@@ -265,6 +267,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Collaborative Innovation](collaborative-innovation.md) - White's Collaborative Innovation framework organizes collaborative work through four Practice Tenets and two Impact Tenets, with associated phases, protocols, and activities.
 * [Collaborative Strategic Reading](collaborative-strategic-reading.md) - A structured reading-comprehension program developed by Janette K.
 * [Collaborative Way](collaborative-way.md) - A teamwork framework used by the Team Learning Foundation that structures collaboration around generous listening, direct communication, encouragement, commitment-keeping, appreciation, and a shared team mission.
+* [Collective Learning platform](collective-learning-platform.md) - An online collective-intelligence platform developed by researchers at the University of Zaragoza and Kampal Data Solutions that moderates networked participant interactions to generate collaborative solutions.
 * [College Experiences Survey](college-experiences-survey.md) - A survey instrument used in a larger evaluation of college persistence to collect data about students' college experiences, as reported by David DesRoches et al.
 * [College Explorer](college-explorer.md) - College Explorer is a data-visualization tool from NWEA Research that links MAP Growth scores with national benchmarks for colleges, universities, and majors to support post-secondary planning.
 * [College match indicator](college-match-indicator.md) - A measurement tool developed by the University of Chicago Consortium on School Research to gauge how students are progressing toward college enrollment by comparing their academic qualifications with college enrollment outcomes.
@@ -880,6 +883,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Little Books](little-books.md) - Little Books is a Good Year Books curriculum resource consisting of reproducible, illustrated beginning-reading books for interactive reading by parents with children or teachers with students.
 * [LittleCurriculum](littlecurriculum.md) - LittleCurriculum is an 88B-token K–5-filtered pretraining corpus created by Fanfei Li et al.
 * [LittleLearner](littlelearner.md) - LittleLearner is a 5B-parameter language model trained from scratch by Fanfei Li et al.
+* [LlamaLo](llamalo.md) - LlamaLo is a dialogue chatbot fine-tuned by Yifat Ben-David Kolikant et al.
 * [LLM-queries](llm-queries.md) - A GitHub repository released by Keith et al.
 * [LLMersion-1](llmersion-1.md) - Guo et al.'s open-source local language-learning software prototype integrates synchronized listening, reading, pronunciation, conversation, and writing practice, with the companion LLMersion Narrator for producing narrated audio and read-along video.
 * [LLMs Unplugged](llms-unplugged.md) - A freely available CC BY-NC-SA collection of unplugged lessons, instructor notes, printable handouts, and optional n-gram booklet software tools created and hosted by Ben Swift for teaching language-model fundamentals and AI literacy.
@@ -970,6 +974,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [MeduAI-SP](meduai-sp.md) - MeduAI-SP is a web-based multi-agent LLM standardized-patient training platform developed by Yang et al.
 * [Mellon Research Forum initiative on the value of a liberal arts education](mellon-research-forum-initiative-on-the-value-of-a-liberal-arts-education.md) - A Mellon Foundation research initiative that supports and organizes scholarly inquiry into the multiple outcomes of a liberal arts education.
 * [Memdora](memdora.md) - Memdora is a cross-platform AI spaced-repetition software system developed and described by Ruiyang Zhang, offering browser-based capture, AI-generated study cards, and FSRS-6 scheduling for long-term retention.
+* [MEME (Modeling and Evidence Mapping Environment)](meme-modeling-and-evidence-mapping-environment.md) - A networked collaborative modeling environment developed by Zhou et al.
 * [Mentira](mentira.md) - Mentira is a place-based mobile game developed by Holden and Sykes that teaches Spanish sociopragmatic language use through collaborative crime-mystery interactions and contextual corrective feedback.
 * [Mentor Tech](mentor-tech.md) - Mentor Tech is a Texas Tech University programme that supports underrepresented students through matched faculty mentoring, workshops, community connections, and scholarships.
 * [Menu of Measures](menu-of-measures.md) - A curated resource developed by Mathematica and a panel of mathematics-instruction and measurement researchers for Bill & Melinda Gates Foundation grantees, listing valid, reliable, and accessible measures of middle-grades mathematics outcomes.
@@ -1275,6 +1280,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### Q {: #letter-q }
 
 * [Q-Learning Lab](q-learning-lab.md) - Q-Learning Lab is a single-file, offline bilingual browser tool made by Jueng for teaching introductory tabular Q-learning through an interactive gridworld, Bellman-update visualizations, transition logs, and CSV export.
+* [QCGE-SAS](qcge-sas.md) - A seven-point Likert self-assessment scale developed by Jeitziner et al.
 * [Quality Counts California (QCC)](quality-counts-california-qcc.md) - A statewide quality rating and improvement framework run through a collaboration among First 5 California, the California Department of Education, and the California Department of Social Services to assess and support early-learning and care sites.
 * [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md) - QTEL is a professional-development and instructional programme that supports educators in teaching rigorous academic content and academic English simultaneously to secondary English Learners.
 * [Quantum Randi Challenge (QRC)](quantum-randi-challenge-qrc.md) - The QRC is a modifiable computer game created by Vongehr for teaching quantum mechanics through challenges involving quantum and hidden-variable simulations.
@@ -1545,6 +1551,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SYMP Test](symp-test.md) - The SYMP Test is a group-administered, timed paper-and-pencil assessment created by Brankaer et al.
 * [Symphony Math](symphony-math.md) - Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.
 * [Syntea](syntea.md) - Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation.
+* [Synthesis Lab](synthesis-lab.md) - Synthesis Lab is a web application that integrates with social annotation tools to help learners categorize peer annotations into conceptual building blocks and develop knowledge syntheses.
 * [Systems Review](systems-review.md) - Systems Review is an inquiry-based, systems-focused approach for teams working to improve a system, developed and facilitated by R15CC.
 
 #### T {: #letter-t }

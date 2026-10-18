@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09459-2"
     title: "Taehyun Kim, Mike Tissenbaum. (2025). Understanding when anger becomes productive or destructive in collaborative educational games. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09459-2"
     author: Taehyun Kim, Mike Tissenbaum
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Anger-related science talk rose in parallel until an apparent tipping point in group dynamics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across segments, science and anger codes trended upward together before an apparent tipping point after which science talk declined. [→ Taehyun Kim 2025](#taehyun-kim-2025)
@@ -26,7 +33,7 @@ sources:
 
 Taehyun Kim, Mike Tissenbaum. (2025). Understanding when anger becomes productive or destructive in collaborative educational games. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09459-2
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Segment-level code distributions (Table 3) show parallel upward trends in science and anger codes for both cities before Green City's third- and fourth-quarter anger spike and resulting science-talk decline, described as "an apparent tipping point."
 

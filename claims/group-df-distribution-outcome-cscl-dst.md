@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09447-6"
     title: "Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen. (2025). Understanding the role of I-positions facilitating knowledge construction in a computer-supported collaborative learning environment. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09447-6"
     author: Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: aaron-j-peltoniemi-2025-2
     resource: "https://doi.org/10.1007/s11412-025-09447-6"
     title: "Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen. (2025). Understanding the role of I-positions facilitating knowledge construction in a computer-supported collaborative learning environment. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09447-6"
     author: Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` More than half of group A's dialogues were categorized as orientation or conceptualization, with only two categorized as investigation or discussion, whereas group B showed a fairly equal distribution across orientation, investigation and discussion. [→ Aaron J. Peltoniemi 2025](#aaron-j-peltoniemi-2025)
@@ -31,7 +42,7 @@ sources:
 
 Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen. (2025). Understanding the role of I-positions facilitating knowledge construction in a computer-supported collaborative learning environment. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09447-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative analysis of audio recordings from ten undergraduates in two groups of five completing a computer-based thermodynamics task; dialogues were coded by discourse function and knowledge-construction category. The quoted fragment states group A's distribution: "more than half of the dialogues (eight total)" were orientation or conceptualization.
 
@@ -41,7 +52,7 @@ Qualitative analysis of audio recordings from ten undergraduates in two groups o
 
 Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen. (2025). Understanding the role of I-positions facilitating knowledge construction in a computer-supported collaborative learning environment. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09447-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion section interpreting the visualized dialogues of both groups: group A's personal-level yes-no questions and failure are contrasted with group B's turn-taking and repeated empirical evaluation followed by extensive discussion. "In the end, they failed the learning task."
 

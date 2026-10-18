@@ -34218,5 +34218,45 @@
  "test-format\tembodied one-on-one interview\tmultiple-choice post-test": {
   "label": "one-on-one interview vs multiple-choice test",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative diagnosis\tindividual diagnosis": {
+  "label": "collaborative diagnosis vs individual diagnosis",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tpost hoc feedback\treal-time feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": false
+ },
+ "feedback-timing\treal-time feedback\tpost hoc feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive MAI support\tstatic MAI support": {
+  "label": "adaptive vs static MAI support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcollaboration support via collaboration scripts\tcollaboration without collaboration support": {
+  "label": "collaboration support vs no collaboration support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcollaborative diagnosis with collaboration support or scripts\tcollaborative diagnosis without collaboration support": {
+  "label": "collaboration support vs no collaboration support",
+  "treatment_is_a": true
+ },
+ "worked-examples\tself-explaining worked examples\tproblem-solving without worked examples": {
+  "label": "worked examples vs problem-solving without worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tself-explaining worked examples\tsolving problems without worked examples": {
+  "label": "worked examples vs problem-solving without worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tself-explaining worked examples with specific or general prompts\tproblem-solving without worked examples": {
+  "label": "worked examples vs problem-solving without worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples\tproblem-solving without worked examples": {
+  "label": "worked examples vs problem-solving without worked examples",
+  "treatment_is_a": true
  }
 }

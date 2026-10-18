@@ -12,10 +12,17 @@ sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The mixed-algorithm grouping intervention did not significantly change comprehension test performance despite slightly higher experimental mean
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A paired-sample t-test on true-or-false content-comprehension scores found no significant difference between conditions (t = −0.535, p = .597); equivalence was not tested. [→ Liang 2025](#liang-2025)
@@ -26,7 +33,7 @@ sources:
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Six true-or-false instructor-created comprehension questions were administered to 29 students completing both conditions. The t-test was non-significant, with descriptive means of 4.102 (control) and 4.241 (experimental).
 

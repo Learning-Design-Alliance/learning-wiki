@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09461-8"
     title: "Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman. (2025). Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09461-8"
     author: Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When users shifted to a purely social post, LlamaLo responded socially and did not push back to resume the dialogic discussion. [→ Yifat Ben-David Kolikant 2025](#yifat-ben-david-kolikant-2025)
@@ -26,7 +33,7 @@ sources:
 
 Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman. (2025). Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09461-8
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Case example from the hummus cultural-appropriation discussion (Findings §4.2). After the users posted a purely social invitation to meet for hummus, LlamaLo "did not push back to resume the discussion" and replied socially.
 

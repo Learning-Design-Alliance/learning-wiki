@@ -16,6 +16,9 @@ sources:
 
 # Address chatbot-induced challenges computationally and pedagogically, including tone safeguards, bias reduction, and user-side prompt engineering
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends addressing the chatbot's challenges both computationallally and pedagogically: safeguards and careful fine-tuning can reduce bias and tone problems, and users can be guided to personalize interaction via prompt engineering. The authors note lengthy posts (averaging 298 words versus users' 79) may overwhelm some users and suggest prompts such as "limit your answer to 100 words" or hyperparameter configuration.
 

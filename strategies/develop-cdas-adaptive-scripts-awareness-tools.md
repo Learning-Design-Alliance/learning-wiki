@@ -51,6 +51,7 @@ The article recommends that training in knowledge-rich domains focus on developi
 ## Related Strategies
 
 - [Combine scripting with awareness measures to tailor collaboration scripts to the dyad](tailor-scripts-from-awareness-measures.md)
+- [Use a collaboration script structured by scientific-reasoning phases to prompt sharing, eliciting, and negotiating diagnostic information](collaboration-script-diagnostic-phases.md)
 
 ## Examples
 -

@@ -16,6 +16,9 @@ sources:
 
 # Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Teachers devised reflection prompts centred on three questions—what happened (facts), how to interpret (reason and evaluation), and how to improve (plan)—to structure students' asynchronous forum responses to visualised classroom clips. Students first reflected individually on their group's performance, then reviewed peers' responses and contributed insights and feedback, making the forum an extension of classroom space for documenting and exchanging views asynchronously.
 

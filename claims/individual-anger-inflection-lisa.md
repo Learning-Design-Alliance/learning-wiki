@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-025-09459-2"
     title: "Taehyun Kim, Mike Tissenbaum. (2025). Understanding when anger becomes productive or destructive in collaborative educational games. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09459-2"
     author: Taehyun Kim, Mike Tissenbaum
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Lisa's code counts rose through three segments (75, 97, 133) until an anger spike in the third segment, after which science and overall counts dropped heavily (52 events, 16 science). [→ Taehyun Kim 2025](#taehyun-kim-2025)
@@ -26,7 +33,7 @@ sources:
 
 Taehyun Kim, Mike Tissenbaum. (2025). Understanding when anger becomes productive or destructive in collaborative educational games. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09459-2
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Figure 5-based per-student talk-code counts across four ~30-minute segments for the highest-anger Green City student. The article prints her segment code sums (75; 97; 133) and reports that after the spike her "overall science and code counts dropped heavily (52 events, 16 science)."
 

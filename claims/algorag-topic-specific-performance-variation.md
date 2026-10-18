@@ -47,3 +47,4 @@ Per-topic analysis over the 179-question test set (Table 2, Fig. 2). NP-complete
 - [BLEU-4 scored zero on all 179 mathematical-proof responses, which the authors interpret as a property of n-gram metrics rather than system failure](bleu4-zero-mathematical-proofs-metric-limitation.md) — related
 - [Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception](collearn-misconception-mining-f1.md) — related
 - [The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests](proof-heavy-topics-strained-artifacts-requested.md) — related
+- [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related

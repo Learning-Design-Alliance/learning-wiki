@@ -48,3 +48,4 @@ Same randomized study's immediate posttest analysis: "a marginally significant e
 - [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — related
 - [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
+- [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](worked-examples-no-improvement-knowledge-application.md) — related

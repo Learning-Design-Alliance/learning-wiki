@@ -71,3 +71,4 @@ Survey-based comparison of Affinity for Technology Interaction scores across gro
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — reports the opposite
 - [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)
+- [Affinity for technology interaction differed across clusters, with text reproducers highest and integrators scoring higher than reconstructors (d = 0.59)](ati-differs-across-uptake-clusters.md) — related

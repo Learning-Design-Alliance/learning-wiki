@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-024-09443-2"
     title: "Pengjin Wang · Fan Chen · Deliang Wang · Gaowei Chen (2025). Enhancing students' dialogic reflection through classroom discourse visualisation. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09443-2"
     author: Pengjin Wang · Fan Chen · Deliang Wang · Gaowei Chen
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Only the high-dose VSDR group showed statistically significant improvement in ICT subject knowledge, from pre-test to post-test
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The high-dose group improved significantly in ICT subject knowledge [t(25)=3.537, p=0.002]; the low-dose group's gain was not statistically significant [t(26)=0.844, p=0.406]; pre-test scores did not differ between groups [t(51)=0.642, p=0.524]. [→ Pengjin Wang · Fan Chen · Deliang Wang · Gaowei Chen 2025](#pengjin-wang-fan-chen-deliang-wang-gaowei-chen-2025)
@@ -26,7 +33,7 @@ sources:
 
 Pengjin Wang · Fan Chen · Deliang Wang · Gaowei Chen (2025). Enhancing students' dialogic reflection through classroom discourse visualisation. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09443-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Paired-samples t-test of pre–post ICT subject knowledge in a 3-month case study with 53 second-grade students; high-dose means rose "from the pre-test (M = 4.77, SD = 1.18) to the post-test (M = 5.65, SD = 0.56)" [t(25) = 3.537, p = 0.002], statistically significant. Low-dose gain was not significant [t(26) = 0.844, p = 0.406]; equivalence was not tested.
 

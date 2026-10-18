@@ -12,14 +12,25 @@ sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
   - id: liang-2025-2
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
     title: "Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9"
-    author: "Liang, C., Toyokawa, Y., & Ogata, H"
+    author: "Liang, C., Toyokawa, Y., & Ogata, H."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Most students reported using the Wordcloud for group discussion, and Wordcloud use showed a marginally non-significant advantage on content comprehension but no difference on vocabulary gain
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Over 85% of 39 students reported individual and group use of the Wordcloud for discussions and found it helpful. [→ Liang 2025](#liang-2025)
@@ -31,7 +42,7 @@ sources:
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Four-item questionnaire (adapted from Strauß & Rummel, 2021; Cronbach's alpha 0.773) administered to the experimental condition. Most students reported using the Wordcloud; seven dissenting students were classified as the Non-used group.
 
@@ -41,7 +52,7 @@ Four-item questionnaire (adapted from Strauß & Rummel, 2021; Cronbach's alpha 0
 
 Liang, C., Toyokawa, Y., & Ogata, H. (2025). Optimizing group formation with a mixed genetic algorithm: an empirical study in active reading using marker data. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09452-9
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Independent-sample comparisons between students who reported using the Wordcloud and those who did not. Vocabulary gain showed no significant difference; content comprehension favored the Used group at a marginally non-significant level (p = .093).
 
