@@ -50,3 +50,6 @@ The review's synthesis of the mapped PS-I implementations associated design feat
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — reports the opposite
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](mechanisms-explain-positive-and-negative-ps-i-effects.md) — related
+- [Students' generated solutions rarely matched the erroneous solutions included in the explicit instruction phase](mismatch-generated-instructed-solutions-bayesian.md) — a narrower finding that bears on this claim
+- [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](ps-i-superior-only-with-student-solutions.md) — a narrower finding that bears on this claim
+- [Solution rates in the initial problem-solving phase moderate whether studies find beneficial PS-I effects](solution-rate-moderates-ps-i-benefits.md) — related

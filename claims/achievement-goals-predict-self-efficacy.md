@@ -12,10 +12,17 @@ sources:
   - id: mason-2012
     resource: "https://doi.org/10.1007/s11251-012-9210-0"
     title: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L. (2012). Besides knowledge: a cross-sectional study on the relations between epistemic beliefs, achievement goals, self-beliefs, and achievement in science. Instructional Science. https://doi.org/10.1007/s11251-012-9210-0"
-    author: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L"
+    author: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mastery and performance-approach goals have positive effects on self-efficacy, and performance-avoidance goals have negative effects, at all grade levels. [→ Mason 2012](#mason-2012)
@@ -26,7 +33,7 @@ sources:
 
 Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L. (2012). Besides knowledge: a cross-sectional study on the relations between epistemic beliefs, achievement goals, self-beliefs, and achievement in science. Instructional Science. https://doi.org/10.1007/s11251-012-9210-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM path analysis of fifth-grade data (n = 213) showed mastery (β = 0.23) and performance-approach goals (β = 0.27) positively predicted self-efficacy, while performance-avoidance goals negatively predicted it (β = -0.46). Similar patterns held at eighth and eleventh grades.
 

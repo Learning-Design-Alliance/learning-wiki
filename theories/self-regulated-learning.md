@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 69 claims (40 for, 26 mixed, 3 against) · 69 studies (22 associational, 21 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 22 of 69 report an effect size · 54 claims rest on one study
+> **Evidence** · 70 claims (41 for, 26 mixed, 3 against) · 70 studies (23 associational, 21 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 22 of 70 report an effect size · 55 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -116,6 +116,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](../claims/long-term-prompting-no-added-benefit-declines-regardless.md) [~M] — attached 2026-10-18 from Nadja M. Gentner et al. (2024), which proposed "Zimmerman's cyclical three-phase model of self-regulated learning (forethinking, performance, self-reflection)".
 - [Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question](../claims/different-methods-different-srl-components-achievement.md) [~W] — attached 2026-10-18 from Laura Dörrenbächer-Ulrich et al. (2021), which proposed "Three-layer model of self-regulated learning (Boekaerts): cognitive, metacognitive, and motivational regulatory layers".
 - [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](../claims/srl-intervention-elicited-srl-behaviors.md) [+W] — attached 2026-10-18 from Hengtao Tang (2025), which proposed "Zimmerman's cyclical self-regulated learning model (forethought, performance/volition, self-reflection)".
+- [Pre-service teachers showed stronger sequential transitions linking controlling with monitoring and planning, while in-service teachers more often followed sociocognitive challenges with monitoring](../claims/pre-service-controlling-monitoring-planning-sequences.md) [+W] — attached 2026-10-18 from Faisal Channa et al. (2026), which proposed "Socially shared regulation of learning (SSRL) as an emergent, interactionally constructed group process shaped by professional trajectories".
 
 ## The evidence by question
 

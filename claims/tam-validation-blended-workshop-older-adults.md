@@ -44,3 +44,4 @@ TAM-based validation test (five-point Likert scale) applied to the blended works
 - [The blended workshop group increased digital competence more than the face-to-face group after the workshops](blended-group-greater-digital-competence-gain.md) — related
 - [Years of education correlate positively with pre-workshop digital literacy scores in older adults](education-correlates-pre-digital-literacy.md) — related
 - [Digital literacy workshops ameliorate older adults' digital competence in both face-to-face and blended modalities](workshops-ameliorate-older-adult-digital-competence.md) — related
+- [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related

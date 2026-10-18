@@ -62,4 +62,4 @@ ANCOVA on quality of the best solution attempt (scored on four functional compon
 
 
 ## Related Claims
--
+- [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related

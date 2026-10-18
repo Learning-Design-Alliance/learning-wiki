@@ -12,7 +12,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 18 claims (14 show a difference, 4 mixed) · 10 studies (5 associational, 2 causal, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 4 of 10 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (14 show a difference, 4 mixed, 1 no difference) · 11 studies (5 associational, 2 causal, 2 design, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 11 report an effect size · 19 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -53,6 +53,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD](../claims/visual-model-advantage-persists-mld.md) [~M] — instruction changes it
 - [Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors](../claims/correct-exemplars-improve-pst-fraction-explanations.md) [+M] — instruction changes it
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](../claims/practice-problems-favor-ps-i-first-worksheets.md) [~M] — instruction changes it
+- [In chemistry cycle 1, students actively engaged in experimentation still did worse on the volume-rate item, with correct answers falling 6% from pre-test to post-test](../claims/active-engagement-insufficient-cycle1-volume-item.md) [-W] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

@@ -47,4 +47,4 @@ Teacher-reported engagement observations across the three DBR cycles in one Chin
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — related

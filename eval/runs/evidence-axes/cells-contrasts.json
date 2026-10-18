@@ -35146,5 +35146,197 @@
  "worked-examples\tworked-example conditions\tcontrol condition": {
   "label": "worked examples vs control tasks",
   "treatment_is_a": true
+ },
+ "active-learning\tgroup work with its purpose explained and data groups compared\tclass 4A's first research lesson without this change": {
+  "label": "structured group work vs usual instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner control over multimedia lesson pace and order\tno learner control": {
+  "label": "learner control vs no learner control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner control over the multimedia lesson\tno learner control": {
+  "label": "learner control vs no learner control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-controlled multimedia instruction\tsystem-controlled multimedia instruction": {
+  "label": "learner control vs system control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-controlled multimedia lesson\tsystem-controlled multimedia lesson": {
+  "label": "learner control vs system control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tno illusion of control\tillusion of control": {
+  "label": "genuine control vs illusory control",
+  "treatment_is_a": true
+ },
+ "case-comparison\texplicit instruction building on typical student solutions\texplicit instruction without typical student solutions": {
+  "label": "typical student solutions included vs not included",
+  "treatment_is_a": true
+ },
+ "case-comparison\tinstruction presenting and refuting the included typical erroneous solutions\tstudents' actual solution attempts": {
+  "label": "typical erroneous solutions vs students' actual solution attempts",
+  "treatment_is_a": true
+ },
+ "case-comparison\tinstruction with typical student solutions\tinstruction without typical student solutions": {
+  "label": "typical student solutions included vs not included",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tspontaneously applying the example-first-principle\tless application of the example-first-principle": {
+  "label": "Example-first sequencing vs non-example-first sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tstudy-practice\tpractice-study and study-study": {
+  "label": "Study-then-practice vs practice-then-study or study-only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tToulmin argument-structure training\tcomputerised speed-reading training": {
+  "label": "argument-structure training vs speed-reading training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\targument structure training\tspeed-reading training": {
+  "label": "argument-structure training vs speed-reading training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcomputerised argument-structure training\tcomputerised speed-reading training": {
+  "label": "argument-structure training vs speed-reading training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcomputerized argument-structure training\tcomputerized speed-reading training": {
+  "label": "argument-structure training vs speed-reading training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional video on evaluating sources\tno instructional video": {
+  "label": "instructional sourcing video vs no instructional video",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional video on identifying and evaluating sources\tno instructional video": {
+  "label": "instructional sourcing video vs no instructional video",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twatched instructional sourcing video\tno instructional video": {
+  "label": "instructional sourcing video vs no instructional video",
+  "treatment_is_a": true
+ },
+ "problem-first\tBayesian problem-solving before instruction\toriginal variance study": {
+  "label": "Bayesian problem-solving first vs original variance-study sequence",
+  "treatment_is_a": true
+ },
+ "problem-first\tExploration-first: simulation exploration before instruction\tInstruction-first: instruction before simulation exploration": {
+  "label": "Exploration-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tPS-I with typical student solutions\tthe other three conditions": {
+  "label": "PS-I with typical student solutions vs other conditions",
+  "treatment_is_a": true
+ },
+ "problem-first\texploration before instruction\tinstruction before exploration": {
+  "label": "Exploration-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before direct instruction\tworked solution before direct instruction": {
+  "label": "Problem-solving first vs worked-solution first, before instruction",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before explicit instruction (PS-I)\texplicit instruction before problem solving (I-PS)": {
+  "label": "Problem-solving first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before instruction\tworked solutions before instruction": {
+  "label": "Problem-solving first vs worked-solution first, before instruction",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before instruction (PS-I)\tworked solution before instruction (WS-I)": {
+  "label": "Problem-solving first vs worked-solution first, before instruction",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving followed by instruction, with instruction building on student solutions\tinstruction followed by problem solving, with instruction building on student solutions": {
+  "label": "Problem-solving first vs instruction-first, with instruction building on student solutions",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving followed by instruction, without instruction building on student solutions\tinstruction followed by problem solving, without instruction building on student solutions": {
+  "label": "Problem-solving first vs instruction-first, without instruction building on student solutions",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving prior to instruction (PS-I)\tinstruction prior to problem solving (I-PS)": {
+  "label": "Problem-solving first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving before instruction (PS-I)\tinstruction before problem-solving (I-PS)": {
+  "label": "Problem-solving first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving prior to instruction (PS-I)\tinstruction prior to problem-solving (I-PS)": {
+  "label": "Problem-solving first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "prompts\tembedded rating scales only\tinstructional video only": {
+  "label": "embedded rating scales only vs instructional video only",
+  "treatment_is_a": true
+ },
+ "prompts\tembedded rating scales only\tno sourcing prompts": {
+  "label": "embedded rating scales only vs no sourcing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tembedded source-credibility rating scales\tno embedded rating scales": {
+  "label": "embedded source-credibility rating scales vs no embedded rating scales",
+  "treatment_is_a": true
+ },
+ "prompts\tembedded source-credibility rating scales during video viewing\tno embedded rating scales": {
+  "label": "embedded source-credibility rating scales during video viewing vs no embedded rating scales",
+  "treatment_is_a": true
+ },
+ "prompts\tembedded source-credibility rating scales during viewing\tno embedded rating scales": {
+  "label": "embedded source-credibility rating scales during viewing vs no embedded rating scales",
+  "treatment_is_a": true
+ },
+ "prompts\tinstructional video plus embedded rating scales\tembedded rating scales only": {
+  "label": "instructional video plus embedded rating scales vs embedded rating scales only",
+  "treatment_is_a": true
+ },
+ "prompts\tinstructional video plus embedded rating scales\tinstructional video only": {
+  "label": "instructional video plus embedded rating scales vs instructional video only",
+  "treatment_is_a": true
+ },
+ "prompts\tinstructional video plus embedded rating scales\tno sourcing prompts": {
+  "label": "instructional video plus embedded rating scales vs no sourcing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tquestions with greater similarity to relevance instructions\tquestions with lesser similarity to relevance instructions": {
+  "label": "greater vs lesser similarity to relevance instructions",
+  "treatment_is_a": true
+ },
+ "prompts\twhat-question relevance instructions\tread for understanding control": {
+  "label": "what-question relevance instructions vs read-for-understanding control",
+  "treatment_is_a": true
+ },
+ "prompts\twhy-question relevance instructions\tread for understanding control": {
+  "label": "why-question relevance instructions vs read-for-understanding control",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulation\tlive classroom simulation": {
+  "label": "VR simulation vs live classroom simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tlive classroom simulation\tVR simulation": {
+  "label": "VR simulation vs live classroom simulation",
+  "treatment_is_a": false
+ },
+ "simulation\tlive classroom simulation\tmultiuser VR simulation": {
+  "label": "multiuser VR simulation vs live classroom simulation",
+  "treatment_is_a": false
+ },
+ "simulation\tmultiuser VR simulation\tlive classroom simulation": {
+  "label": "multiuser VR simulation vs live classroom simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tpost-training\tpre-training": {
+  "label": "post-training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\ttraining with VR or live simulation\tpre-training baseline": {
+  "label": "training with VR or live simulation vs pre-training baseline",
+  "treatment_is_a": true
  }
 }

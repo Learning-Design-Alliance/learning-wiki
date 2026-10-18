@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9344-y"
     title: "Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y"
     author: Joep van der Graaf, Eliane Segers, Ludo Verhoeven
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # CVS use relates positively to age but not to gender in kindergartners
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Age in months positively predicted both CVS scores, while gender related to neither score. [→ Joep van der Graaf 2015](#joep-van-der-graaf-2015)
@@ -26,7 +33,7 @@ sources:
 
 Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Linear regression models with gender and age in months entered simultaneously as independent variables and the experiment or variable correct scores as dependent variables, in 45 kindergartners. Age was a positive predictor of both scores; gender was unrelated to either.
 

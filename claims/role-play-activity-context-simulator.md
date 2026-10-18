@@ -43,4 +43,4 @@ Hontvedt and Arnseth's community-of-practice case study of Norwegian sailor appr
 
 
 ## Related Claims
--
+- [VR participants lacked mutual engagement in collaborative role-playing during the teaching simulation](vr-participants-lacked-mutual-engagement-role-playing.md) — related

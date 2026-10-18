@@ -53,3 +53,4 @@ The report attributes this to Digital Promise's prior "Dynamic Learning Project 
 - Baseline survey found only about 35% of teachers felt all their students were comfortable with technology, while 85% wanted more technology-training — related
 - [Teachers described an ideal technology coach as prepared, patient, observant, and using current research-based methods](pr-ideal-coach-characteristics-teacher-voice.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — possibly the same claim (merge candidate)
+- [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related

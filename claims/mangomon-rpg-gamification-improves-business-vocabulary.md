@@ -52,3 +52,4 @@ The design is a single group of 21 students tested before and after, with no com
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [ITS are effective across instructional roles, whether used as principal means of instruction, integrated class instruction, separate in-class activities, supplementary after-class instruction, or homework](its-effective-in-all-instructional-roles.md) — related
+- [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](visigarp-diagram-prepost-null.md) — related

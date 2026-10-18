@@ -89,3 +89,4 @@ Exploratory correlation in Appendix A among inventing-group participants; invent
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — related
 - [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — reports the opposite
 - [Mixed-ability groups generated a broader range of RSMs than all-low and all-high ability groups, relating to better uptake of the canonical formula](mixed-ability-groups-broader-rsm-range.md) — reports the opposite
+- [Students' generated solutions rarely matched the erroneous solutions included in the explicit instruction phase](mismatch-generated-instructed-solutions-bayesian.md) — related

@@ -40,7 +40,8 @@ A forward-looking design recommendation drawn from the study's null result: beca
 - Three Mechanisms Productive Failure Ps I
 
 ## Related Strategies
-- 
+
+- [Provide feedback in the problem-solving phase to foster negative knowledge and multiple solution attempts](feedback-in-problem-solving-phase-negative-knowledge.md)
 
 ## Examples
 -

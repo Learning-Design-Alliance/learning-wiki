@@ -43,4 +43,5 @@ The editorial's narrative synthesis of prior PS-I studies reports that the desig
 
 
 ## Related Claims
--
+- [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — possibly the same claim (merge candidate)
+- [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](ps-i-superior-only-with-student-solutions.md) — a narrower finding that bears on this claim

@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9344-y"
     title: "Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y"
     author: Joep van der Graaf, Eliane Segers, Ludo Verhoeven
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
   - id: joep-van-der-graaf-2015-2
     resource: "https://doi.org/10.1007/s11251-015-9344-y"
     title: "Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y"
     author: Joep van der Graaf, Eliane Segers, Ludo Verhoeven
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Levels were accurately ordered with subsequent levels more difficult (Ht = .84, strong ordering). [→ Joep van der Graaf 2015](#joep-van-der-graaf-2015)
@@ -31,7 +42,7 @@ sources:
 
 Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Mokken scale analysis using the manifest invariant item ordering method on per-level scores of 45 kindergartners showed the levels ordered accurately by difficulty, with the item-ordering coefficient indicating "strong ordering" (Ht = .84).
 
@@ -41,7 +52,7 @@ Mokken scale analysis using the manifest invariant item ordering method on per-l
 
 Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Repeated-measures ANOVA with Level as within-subjects factor and gender as between-subjects factor on experiment correct scores; gender had no effect. Post-hoc analyses showed performance higher on Level 1 than any other level and higher on Level 2 than Levels 3 and 4, while Levels 3 and 4 did not differ significantly.
 

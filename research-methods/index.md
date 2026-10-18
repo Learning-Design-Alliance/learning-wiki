@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**454 entries** · 0 stable · 454 in review · 0 drafts
+**455 entries** · 0 stable · 455 in review · 0 drafts
 
 ---
 
@@ -75,6 +75,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Cohort-based graduation and dropout rate calculation](cohort-based-graduation-and-dropout-rate-calculation.md) - The report calculates graduation and dropout rates by following student cohorts over multiple years using two cohort types.
 * [Collaboration Literacy Analytics Framework (CLAF)](collaboration-literacy-analytics-framework-claf.md) - The CLAF is a conceptual framework 'that integrates evaluation metrics, indicator interdependencies, and feedback mechanisms.' It 'captures the dynamic relationship between process and outcome measures, connects individual- and group-level indicators, and incorporates review mechanisms as student-dr
 * [College-readiness predictor selection using decision trees, random forests, lasso, and factor analysis](college-readiness-predictor-selection-using-decision-trees-random-forests-lasso-and-factor.md) - This framework uses data reduction to select, from thousands of measures, the variables that maximize classification accuracy for college enrollment and persistence.
+* [Combined fine-grained video coding and process mining for sequential collaborative-learning analysis](combined-fine-grained-video-coding-and-process-mining-for-sequential-collaborative-learnin.md) - The article introduces a methodological contribution that combines fine-grained video analysis with process mining to study sequential patterns linking challenges and collaborative regulatory activities.
 * [Combined regression discontinuity and interrupted time-series design with instrumental variables](combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var.md) - When a threshold-based policy changes conditions for non-targeted students too, a standard regression discontinuity cannot estimate the policy effect, only the enrollment effect.
 * [Combined tSSNA and ONA method](combined-tssna-and-ona-method.md) - This analytic method combines temporal socio-semantic network analysis (tSSNA) and ordered network analysis (ONA) to analyze collaborative knowledge creation.
 * [CoMPAS framework: six forms modeling individual participation in collaborative learning](compas-framework-six-forms-modeling-individual-participation-in-collaborative-learning.md) - The CoMPAS framework models individual participation in collaborative learning processes across six components: Cognitive interactions, Coordinative interactions, Metacognitive interactions, Passive participation, solo Active participation, and Socio-emotional interactions.

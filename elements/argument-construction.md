@@ -13,7 +13,7 @@ generated:
 # Argument Construction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 10 studies (5 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 11 studies (6 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 3 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Argument construction asks learners to build a structured claim–evidence–reasoning case for a position, typically using an explicit framework such as Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal). Learners must gather and evaluate evidence, articulate warrants connecting evidence to claims, and anticipate counterarguments — converting domain knowledge into defensible reasoning rather than recall.
@@ -57,6 +57,7 @@ Argument construction supports learning because generating and defending a posit
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](../claims/unstructured-llm-use-cognitive-offloading.md) [~W]
 - [Argument quality gains favored the PS-GenAI-PF group over the PF group, while elaboration gains favored the GenAI-PF group](../claims/genai-peer-feedback-raises-argument-quality.md) [~W]
+- [Groups using the Graphical Debate-tool constructed representations of significantly higher quality than groups using the Textual Debate-tool, for both debate positions.](../claims/gd-tool-higher-quality-representations.md) [+W] — attached 2026-10-18 from Jeroen Janssen et al. (2008), which proposed "Debate-tool (Graphical and Textual versions) in the VCRI CSCL environment"; tests this page's relationship.
 
 ## The evidence by question
 - *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+S]

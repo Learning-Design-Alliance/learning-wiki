@@ -68,3 +68,4 @@ Methodological evidence on scoring: a '4-point rubric' anchored from limited to 
 - [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](kbm-three-mediating-processes.md) — related
 - [Post-intervention domain knowledge correlated with final model scores and with higher-level systems thinking discourse (ST-3)](model-and-discourse-correlate-with-domain-knowledge.md) — related
 - [Systems thinking discourse shifted away from lower-level moves toward higher-level interconnections and feedback moves across the KBM unit](systems-thinking-discourse-shift-toward-higher-level-moves.md) — related
+- [University students without qualitative-reasoning experience improved their Cerrado ecology domain knowledge after interacting with VISIGARP](visigarp-domain-knowledge-gains.md) — related

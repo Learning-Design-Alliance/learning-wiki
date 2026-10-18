@@ -46,3 +46,4 @@ MANOVA and univariate tests on post-test scores (mean 8.59 of 16, SD 2.71) for 8
 - [Arrows did not guide initial reading behavior in matrix diagrams with two nominal headers](arrows-not-guide-initial-reading-matrix-diagrams.md) — related
 - [Reading order in matrix diagrams followed the header content (types) rather than arrow orientation](header-content-guides-reading-order-over-arrows.md) — related
 - [Most participants self-reported studying the matrix diagram primarily by personality disorder types](self-reported-reading-dominated-by-types.md) — related
+- [Control participants recalled equal amounts of information for both question types](control-condition-equal-recall-question-types.md) — related

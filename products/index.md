@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1788 entries** · 0 stable · 1788 in review · 0 drafts
+**1791 entries** · 0 stable · 1791 in review · 0 drafts
 
 ---
 
@@ -206,6 +206,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CCTV-view classroom incident recognition benchmark (synthetic plus real-world preschool pose data)](cctv-view-classroom-incident-recognition-benchmark-synthetic-plus-real-world-preschool-pos.md) - A privacy-aware benchmark dataset from Paritosh Parmar et al.
 * [CE-S-DSP & SOS hybrid self-report measure of cognitive engagement](ce-s-dsp-sos-hybrid-self-report-measure-of-cognitive-engagement.md) - A hybrid self-report assessment assembled by Meg Guerreiro (2017) from existing cognitive-engagement measures to assess students' reported cognitive engagement, including in grades 6–8 mathematics.
 * [Center of Black Student Excellence](center-of-black-student-excellence.md) - A planned Long Beach Unified School District entity that provides tutoring, mentoring, cultural programming, wellness services, legal aid, career support, and advocacy for Black students and families.
+* [Cerrado Succession Hypothesis (CSH) qualitative model library](cerrado-succession-hypothesis-csh-qualitative-model-library.md) - A GARP-based qualitative ecological model library developed by Anders Bouwer and collaborators to simulate Cerrado vegetation succession, population dynamics, and fire-management effects through composable model fragments and scenarios.
 * [CGScholar AI Helper](cgscholar-ai-helper.md) - CGScholar AI Helper is a cloud-based web application made by CGScholar that provides rubric-guided, teacher-steerable AI feedback to support student writing and revision.
 * [Challenge Based Learning (CBL) Framework](challenge-based-learning-cbl-framework.md) - A challenge-driven learning framework developed and maintained through Apple-supported Challenge Based Learning initiatives for educators and learners working on authentic real-world challenges.
 * [Chapter One](chapter-one.md) - Chapter One is a push-in, one-on-one early-literacy tutoring programme that embeds interventionists in K–1 classrooms and provides aligned digital practice, operated by Chapter One.
@@ -429,6 +430,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [DreamBox Math](dreambox-math.md) - DreamBox Learning's adaptive online mathematics program for K–8 learners, designed to supplement classroom instruction through personalized, standards-aligned practice and instruction.
 * [Dual Enrollment Equity Pathway (DEEP) framework](dual-enrollment-equity-pathway-deep-framework.md) - A Community College Research Center framework that organizes four equity-oriented practice areas for designing and supporting dual-enrollment programs, especially for underserved high school students.
 * [Duolingo](duolingo.md) - Duolingo is a language-learning software platform operated by Duolingo, Inc., offering courses, practice activities, and community discussion boards across many languages.
+* [Dynamic hands-on ramp task for assessing kindergartners' CVS use across four variable-count levels](dynamic-hands-on-ramp-task-for-assessing-kindergartners-cvs-use-across-four-variable-count.md) - A researcher-administered hands-on ramp-task assessment adapted from Chen and Klahr's ramp task to measure kindergartners' control-of-variables strategy through progressively complex experiment designs and feedback.
 * [Dynamic Learning Project](dynamic-learning-project.md) - A school-based instructional technology coaching programme run by Digital Promise that places full-time coaches in underserved schools to support teachers through iterative coaching cycles, modeling, co-teaching, and reflection.
 * [DysLexLens](dyslexlens.md) - DysLexLens is a low-resource, evidence-traceable LLM framework developed by Dana Rezazadegan et al.
 
@@ -1758,6 +1760,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Virginia RETHINKS Health Sciences Education initiative](virginia-rethinks-health-sciences-education-initiative.md) - A TAACCCT-funded initiative organized across Virginia's 23 community colleges to redesign health-sciences education, strengthen workforce connections, and improve college efficiencies.
 * [Virtual professional learning community (vPLC)](virtual-professional-learning-community-vplc.md) - The vPLC is a scalable professional-learning programme run by the ASSISTments initiative to help teachers, especially in rural and underresourced settings, implement ASSISTments effectively.
 * [Virtually Connecting](virtually-connecting.md) - Virtually Connecting is a social-justice-oriented open educational practice run by founders and volunteers that facilitates conversations between conference attendees and people unable to attend.
+* [VISIGARP](visigarp.md) - VISIGARP is a domain-independent SWI-PROLOG/XPCE educational tool that generates interactive diagrams from GARP qualitative simulations so students can inspect system states, transitions, causal dependencies, and entity relations.
 * [Vision to Learn (VTL)](vision-to-learn-vtl.md) - Vision to Learn is a nonprofit school-based vision programme that provides low-income students with screenings, comprehensive eye examinations, and free corrective glasses through mobile clinics and partner schools.
 * [VISMATIC](vismatic.md) - A secured, low-cost JupyterHub sandbox and process-monitoring framework developed by Germán Arroyo et al.
 * [Visual4Math](visual4math.md) - Visual4Math is a web-based prototype developed by Zhengxu Li et al.

@@ -12,10 +12,17 @@ sources:
   - id: mason-2012
     resource: "https://doi.org/10.1007/s11251-012-9210-0"
     title: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L. (2012). Besides knowledge: a cross-sectional study on the relations between epistemic beliefs, achievement goals, self-beliefs, and achievement in science. Instructional Science. https://doi.org/10.1007/s11251-012-9210-0"
-    author: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L"
+    author: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Beliefs that scientific knowledge is hypothetical and evolving have a direct positive effect on domain knowledge at each grade level. [→ Mason 2012](#mason-2012)
@@ -26,7 +33,7 @@ sources:
 
 Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L. (2012). Besides knowledge: a cross-sectional study on the relations between epistemic beliefs, achievement goals, self-beliefs, and achievement in science. Instructional Science. https://doi.org/10.1007/s11251-012-9210-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM path analysis of fifth-grade data (n = 213) showed beliefs about development of scientific knowledge directly predicted domain knowledge (β = 0.22, t = 3.01). Similar direct effects emerged at eighth grade (β = 0.28) and eleventh grade (β = 0.17).
 

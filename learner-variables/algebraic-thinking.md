@@ -12,7 +12,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (21 show a difference, 11 mixed, 5 no difference) · 26 studies (14 causal, 4 associational, 2 review, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 6 of 26 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (23 show a difference, 11 mixed, 5 no difference) · 27 studies (15 causal, 4 associational, 2 review, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 6 of 27 report an effect size · 36 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -73,6 +73,8 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](../claims/practice-problems-favor-ps-i-first-worksheets.md) [~M] — instruction changes it
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](../claims/we-ps-sequence-no-effect-inquiry-competencies.md) [-W] — instruction changes it
 - [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](../claims/cognitive-load-no-sequence-effect.md) [+W] — learners who differ on it differ in outcomes
+- [Teams in the matched condition had more elaborate discussions of the domain than teams in the mismatched condition, especially about relations and mathematical relationships](../claims/matched-condition-elaborate-domain-discussion.md) [+M] — instruction changes it
+- [Teams with part-task congruent tools adjusted their representations across phases—broad causal representations first, then more selective algebraic specification—unlike single-tool teams](../claims/matched-tools-phase-appropriate-representations.md) [+M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

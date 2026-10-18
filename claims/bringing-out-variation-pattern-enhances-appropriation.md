@@ -44,3 +44,4 @@ Design experiment comparing two teacher groups teaching the same economic concep
 
 ## Related Claims
 - [A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning](variation-embodiment-awareness-promotes-constructive-teaching-montessori.md) — related
+- [Teachers in the chemistry learning study concluded that what counts is not active participation but experiencing a pattern of variation and invariance that allows discernment](teachers-learned-pattern-of-variation-counts.md) — possibly the same claim (merge candidate)

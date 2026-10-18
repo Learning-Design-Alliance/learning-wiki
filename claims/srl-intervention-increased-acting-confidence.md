@@ -43,4 +43,4 @@ Qualitative interview theme; students said they felt more capable of developing 
 
 
 ## Related Claims
--
+- [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related

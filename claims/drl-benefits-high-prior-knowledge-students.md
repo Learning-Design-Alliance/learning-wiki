@@ -73,3 +73,5 @@ Interaction terms from the same mixed-effects regression model on posttest probl
 - [No significant differences in posttest rule accuracy across scaffolding conditions](no-rule-accuracy-difference-across-conditions.md) — reports the opposite
 - [Critical thinking improvement differed by proficiency level: high-level students gained 18%, intermediate 12%, and low-level 8%, with asymmetric feedback adaptation](wise-agent-differential-proficiency-trajectories.md) — related
 - [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](erroneous-examples-benefit-both-prior-knowledge-levels.md) — related
+- [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](pretest-accuracy-moderates-typical-argument-training.md) — related
+- [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — reports the opposite

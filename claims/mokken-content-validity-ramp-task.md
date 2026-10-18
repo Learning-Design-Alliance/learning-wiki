@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-015-9344-y"
     title: "Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y"
     author: Joep van der Graaf, Eliane Segers, Ludo Verhoeven
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The double monotonicity model held for the ramp task data, supporting content validity of the dynamic assessment of CVS use. [→ Joep van der Graaf 2015](#joep-van-der-graaf-2015)
@@ -26,7 +33,7 @@ sources:
 
 Joep van der Graaf, Eliane Segers, Ludo Verhoeven. (2015). Scientific reasoning abilities in kindergarten: dynamic assessment of the control of variables strategy. Instr Sci 43:381–400. https://doi.org/10.1007/s11251-015-9344-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Mokken scale analysis of per-level experiment correct scores from 45 kindergartners, treating levels as items. The test-scalability coefficient H = .48 was in the moderate range, and all item scalability coefficients exceeded the .30 cut-off, supporting a unidimensional CVS scale.
 

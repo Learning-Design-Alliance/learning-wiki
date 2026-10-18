@@ -12,10 +12,17 @@ sources:
   - id: mason-2012
     resource: "https://doi.org/10.1007/s11251-012-9210-0"
     title: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L. (2012). Besides knowledge: a cross-sectional study on the relations between epistemic beliefs, achievement goals, self-beliefs, and achievement in science. Instructional Science. https://doi.org/10.1007/s11251-012-9210-0"
-    author: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L"
+    author: "Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Performance-avoidance goals have negative effects on both self-concept and self-efficacy at each grade level. [→ Mason 2012](#mason-2012)
@@ -26,7 +33,7 @@ sources:
 
 Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L. (2012). Besides knowledge: a cross-sectional study on the relations between epistemic beliefs, achievement goals, self-beliefs, and achievement in science. Instructional Science. https://doi.org/10.1007/s11251-012-9210-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM path analysis of fifth-grade data (n = 213) showed performance-avoidance goals strongly negatively predicted self-concept (β = -0.65) and self-efficacy (β = -0.46). Similar negative effects on both self-beliefs emerged at eighth and eleventh grades.
 

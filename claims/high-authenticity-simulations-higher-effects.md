@@ -48,3 +48,4 @@ Metaregression moderator analysis of authenticity, with printed effects "g = 0.5
 ## Related Claims
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
+- [Domain-specific challenges and authentic environmental prompting in the VR simulation fostered both experiential and vicarious learning of teaching](vr-authentic-prompting-fosters-experiential-vicarious-learning.md) — related

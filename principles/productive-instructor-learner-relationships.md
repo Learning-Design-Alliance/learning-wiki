@@ -23,7 +23,7 @@ sources:
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 24 studies (7 causal, 5 associational, 4 review, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 24 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (13 for, 6 mixed) · 25 studies (7 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 25 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ Claims bearing on the page that are not part of the model above, each with how f
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](../claims/student-educator-relationship-builds-self-efficacy-and-belonging.md) [+W] — a theoretical argument about university students, no data; it proposes a mechanism (self-efficacy and belonging) for the adult case.
 - [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](../claims/strong-student-tutor-relationships-key-to-tutoring-success.md) [+W] — a cross-programme association across eight tutoring evaluations; used above only for the scarce-facilitator row.
 - [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](../claims/judgement-bearing-assistance-central-pivot.md) [~W]
+- [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](../claims/lao-relational-goals-targets-recognition-grouping-respect.md) [+W] — attached 2026-10-18 from Anongsack Mahavong (2026), which proposed "Foster teachers' relational goals alongside mastery goals to support favorable instructional practices".
 
 ## Objective and learner-valued goal
 
