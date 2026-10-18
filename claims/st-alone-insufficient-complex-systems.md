@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09590-9"
     title: "Namsoo Shin, Jonathan Bowers, Steve Roderick, Cynthia McIntyre, A. Lynn Stephens, Emil Eidin, Joseph Krajcik, Daniel Damelin. (2022). A framework for supporting systems thinking and computational thinking through constructing models. Instructional Science. https://doi.org/10.1007/s11251-022-09590-9"
     author: Namsoo Shin, Jonathan Bowers, Steve Roderick, Cynthia McIntyre, A. Lynn Stephens, Emil Eidin, Joseph Krajcik, Daniel Damelin
+    q: 1
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Systems thinking alone is insufficient for investigating complex systems with time delays and feedback, motivating the addition of computational thinking
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that because multifaceted interactions in systems with time delays and feedback outpace mental simulation, ST alone may not suffice for investigating solutions to complex problems such as climate change. [→ Namsoo Shin 2022](#namsoo-shin-2022)
@@ -26,7 +33,7 @@ sources:
 
 Namsoo Shin, Jonathan Bowers, Steve Roderick, Cynthia McIntyre, A. Lynn Stephens, Emil Eidin, Joseph Krajcik, Daniel Damelin. (2022). A framework for supporting systems thinking and computational thinking through constructing models. Instructional Science. https://doi.org/10.1007/s11251-022-09590-9
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 A theoretical argument in the introduction, citing prior empirical work (Cronin et al.; Sterman & Sweeney) showing poor forecasting of systems with time delays and feedback. The article offers this as its rationale for integrating CT with ST; it reports no new data.
 

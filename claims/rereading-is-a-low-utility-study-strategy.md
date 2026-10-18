@@ -97,3 +97,5 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — a narrower finding that bears on this claim
 - [On a one-week delayed test, multiple text reading and rereading both outperform single reading, but on a one-day delayed test the differences are non-significant](distributed-reading-beats-single-reading-one-week.md) — related
 - [Retrieval practice conditions produced significantly higher cognitive load than rereading](retrieval-practice-increases-cognitive-load.md) — related
+- [Restudy of an evidence summary alone produces no measurable skill improvement between simulator attempts](restudy-alone-no-skill-improvement.md) — a narrower finding that bears on this claim
+- [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](video-model-improves-retrieval-questioning-skill.md) — related

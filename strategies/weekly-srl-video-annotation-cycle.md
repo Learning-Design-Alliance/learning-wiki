@@ -16,6 +16,9 @@ sources:
 
 # Weekly SRL intervention cycle pairing goal-setting forms, rehearsal videos, VideoAnt annotation, and progress reports
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The intervention iterated a five-day weekly schedule: students set one to two weekly goals with a plan of action, rehearsed toward the goals while filming themselves, uploaded and annotated the videos in VideoAnt, and completed progress reports judging whether goals were met. The schedule alternated physicality and vocal development foci across remote and face-to-face days, mapping activities onto Zimmerman's three SRL phases.
 
@@ -35,7 +38,7 @@ The intervention iterated a five-day weekly schedule: students set one to two we
 - self-regulated learning behaviors
 
 ### Affordances
-- [Zimmerman Cyclical Srl Model Acting Intervention](../theories/zimmerman-cyclical-srl-model-acting-intervention.md)
+- [Zimmerman Cyclical Srl Model Acting Intervention](../theories/self-regulated-learning.md)
 
 ## Related Strategies
 - 

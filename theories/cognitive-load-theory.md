@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 47 claims (35 for, 9 mixed, 3 against) · 46 studies (21 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 10 of 46 report an effect size · 37 claims rest on one study
+> **Evidence** · 49 claims (37 for, 9 mixed, 3 against) · 47 studies (22 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 11 of 47 report an effect size · 39 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -115,6 +115,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)](../claims/sd-amount-linear-negative-recall-study1.md) [+W] — attached 2026-10-18 from Lukas Wesenberg et al. (2026), which proposed "Three cognitive-process accounts of the seductive details effect: distraction, disruption, and diversion theory"; tests this page's relationship.
 - [Seductive detail amount did not increase extraneous cognitive load in either study](../claims/sd-amount-no-extraneous-load-effect.md) [-W] — attached 2026-10-18 from Lukas Wesenberg et al. (2026), which proposed "Three cognitive-process accounts of the seductive details effect: distraction, disruption, and diversion theory"; tests this page's relationship.
 - [Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts](../claims/retrospective-prompts-higher-germane-load-low-prior-knowledge.md) [+W] — attached 2026-10-18 from Meier et al. (2024), which proposed "Cognitive load theory (1998 conception) as the explanatory framework for prompt-direction and expertise effects in example-based learning"; tests this page's relationship.
+- [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](../claims/vr-reverse-modality-effect-recall.md) [+W] — attached 2026-10-18 from Patrick Albus (2023), which proposed "Boundary-condition account of the reverse modality effect in immersive VR".
+- [Visual-only text produces higher germane cognitive load than audio-visual text in VR](../claims/vr-visual-only-higher-germane-load.md) [+W] — attached 2026-10-18 from Patrick Albus (2023), which proposed "Boundary-condition account of the reverse modality effect in immersive VR".
 
 ## The evidence by question
 

@@ -16,6 +16,9 @@ sources:
 
 # Design citizen science projects to leverage misidentifications, spread expert participation, and train scientists and students in question-based moderation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's future-research section offers concrete design moves for K-5 citizen science projects: gather misidentified or unidentified spottings for student problem-solving discussions, spread expert scientists across artifacts and threads, align scientist and school goals, equip scientists with basic knowledge of student learning via research-practice partnerships, and train both scientists and students in moderation. The authors suggest that "simple changes such asking questions, rather than providing answers, might engage more students and further the discussion."
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09714-x"
     title: "Giulia Messina Dahlberg · Susanne Gustavsson. (2025). Keeping worlds apart to put them back together: VET teachers' instructional patterns in simulation-based training. Instructional Science. https://doi.org/10.1007/s11251-025-09714-x"
     author: Giulia Messina Dahlberg · Susanne Gustavsson
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Simulator feedback responds authentically to student error, e.g. logs fall from the cargo when the grapple is opened incorrectly.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Excerpt 2 Sequence 7, when the student opened the grapple to position a log, another log fell from the cargo space, and the simulator responded in an authentic manner to the student's handling. [→ Giulia Messina Dahlberg · Susanne Gustavsson 2025](#giulia-messina-dahlberg-susanne-gustavsson-2025)
@@ -26,7 +33,7 @@ sources:
 
 Giulia Messina Dahlberg · Susanne Gustavsson. (2025). Keeping worlds apart to put them back together: VET teachers' instructional patterns in simulation-based training. Instructional Science. https://doi.org/10.1007/s11251-025-09714-x
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 From the analysis of Excerpt 2: the authors report that "The simulator plays an important role in responding to the student's handling of the log in an authentic manner" when a log falls due to incorrect grapple use.
 

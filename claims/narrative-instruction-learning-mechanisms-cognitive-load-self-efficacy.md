@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09723-w"
     title: "Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w"
     author: Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur
+    q: 3
+    i: 1
+    kind: causal
+    rigour: "?"
   - id: samuel-tobler-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09723-w"
     title: "Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w"
     author: Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Narrative instruction leads to higher germane cognitive load and self-efficacy, and lower extraneous cognitive load, than expository instruction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Germane cognitive load was significantly higher in the narrative condition (d = 0.43, BF = 31.42), and self-efficacy showed strong Bayesian evidence favoring narrative (d = 0.34, BF = 14.05) though nonsignificant. [→ Samuel Tobler 2025](#samuel-tobler-2025)
@@ -31,7 +42,7 @@ sources:
 
 Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w
 
-`q3 · i1`
+`q3 · i1` · `causal · r?`
 
 Two-way ANOVAs on questionnaire ratings (N = 90) found only germane cognitive load reached statistical significance for the learning-material comparison; self-efficacy showed "d = 0.34, BF = 14.05" and germane load "d = 0.43, BF = 31.42", both favoring narrative.
 
@@ -41,7 +52,7 @@ Two-way ANOVAs on questionnaire ratings (N = 90) found only germane cognitive lo
 
 Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 The same ANOVA framework found a small nonsignificant effect for extraneous cognitive load ("d = − 0.22"), with the negative direction favoring the narrative condition as lower extraneous load is preferable for learning.
 

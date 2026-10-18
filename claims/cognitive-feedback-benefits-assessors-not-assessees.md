@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-011-9177-2"
     title: "Jingyan Lu, Nancy Law. (2012). Online peer assessment: effects of cognitive and affective feedback. Instructional Science 40:257–275. https://doi.org/10.1007/s11251-011-9177-2"
     author: Jingyan Lu, Nancy Law
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cognitive feedback did not significantly predict assessees' project performance, and the authors conclude peer feedback may not help weak students. [→ Jingyan Lu 2012](#jingyan-lu-2012)
@@ -26,7 +33,7 @@ sources:
 
 Jingyan Lu, Nancy Law. (2012). Online peer assessment: effects of cognitive and affective feedback. Instructional Science 40:257–275. https://doi.org/10.1007/s11251-011-9177-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 From the regression and correlational results (N = 181), cognitive feedback received did not significantly predict project scores. The article states "feedback affects assessors rather than assessees, and peer feedback may not help weak students".
 

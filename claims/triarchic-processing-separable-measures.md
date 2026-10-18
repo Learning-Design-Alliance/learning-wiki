@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-009-9113-x"
     title: "Richard E. Mayer. (2010). Seeking a science of instruction. Instr Sci 38:143–145. https://doi.org/10.1007/s11251-009-9113-x"
     author: Richard E. Mayer
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` DeLeeuw and Mayer (2008) found that extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory. [→ Richard E. Mayer 2010](#richard-e-mayer-2010)
@@ -26,7 +33,7 @@ sources:
 
 Richard E. Mayer. (2010). Seeking a science of instruction. Instr Sci 38:143–145. https://doi.org/10.1007/s11251-009-9113-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Mayer cites the DeLeeuw and Mayer (2008) study as partial validation of the triarchic theory, reporting that the three kinds of processing "are tapped by different assessment instruments". No effect sizes are printed in this commentary.
 

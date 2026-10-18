@@ -16,6 +16,9 @@ sources:
 
 # Use empathy interviews as a professional development tool for shifting classroom practice towards rehumanizing mathematics
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial reports that Lambert and Imm (2022) show how developing empathy can disrupt deficit narratives for veteran teachers and school leaders, and "offer empathy interviews as a professional development tool for shifting classroom practice towards rehumanizing mathematics." The strategy involves having teachers and leaders develop empathy in order to disrupt deficit narratives about students.
 

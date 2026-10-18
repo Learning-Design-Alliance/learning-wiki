@@ -35,7 +35,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (18 for, 12 mixed, 1 against) · 25 studies (12 causal, 7 quant-synthesis, 3 review, 2 associational, 1 qualitative), `q2`–`q4` · 9 of 25 report an effect size · 26 claims rest on one study
+> **Evidence** · 33 claims (19 for, 13 mixed, 1 against) · 26 studies (13 causal, 7 quant-synthesis, 3 review, 2 associational, 1 qualitative), `q2`–`q4` · 10 of 26 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ Claims the earlier page (and the pages folded into it) cited, not used above. Ea
 - [Cognitive overload degrades learning when task demands exceed working-memory capacity.](../claims/cognitive-overload-degrades-learning.md) [~M]: the general load mechanism; bears on why elaboration of dense material can backfire, not tested for elaboration here.
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](../claims/depth-predicts-task-quality.md) [+W]: 22 students' questions to a language model; associational, bears only loosely on elaboration.
 - [Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls](../claims/trained-students-higher-order-prompting-strategies.md) [+W]: students trained to prompt a generative AI tool; about question-asking with AI, bears only indirectly on learner-generated why-questions.
+- [Providing explanations during a small-group discussion yields better recall of subsequently studied text one month later than only listening to the discussion](../claims/explaining-during-discussion-improves-delayed-recall.md) [+M] — attached 2026-10-18 from Floris M. van Blankenstein et al. (2011), which proposed "Have students actively provide explanations during small-group discussion to support long-term retention"; tests this page's relationship.
+- [Immediately after the discussion, participants who explained did not recall more than participants who only listened](../claims/no-immediate-advantage-of-explaining-over-listening.md) [~M] — attached 2026-10-18 from Floris M. van Blankenstein et al. (2011), which proposed "Have students actively provide explanations during small-group discussion to support long-term retention"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

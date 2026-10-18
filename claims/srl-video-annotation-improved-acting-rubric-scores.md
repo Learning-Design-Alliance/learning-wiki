@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09699-z"
     title: "Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
     author: Hengtao Tang, Jessica Perry Ellison
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students' ITS-AR acting scores increased significantly from pre-assessment to post-assessment after the SRL video annotation intervention. [→ Hengtao Tang 2025](#hengtao-tang-2025)
@@ -26,7 +33,7 @@ sources:
 
 Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Pre-post analysis of seven of ten participants who completed both assessments in a small mixed-methods study; a Wilcoxon Signed Rank test was used. The mean score of participants' ITS-AR "increased from 4.95 (Fair) to 7.57 (Good)". No effect size was printed.
 

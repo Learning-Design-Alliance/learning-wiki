@@ -16,6 +16,9 @@ sources:
 
 # Scaffold the cognitive processes of interdisciplinary understanding during collaborative modeling
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that future work examine effective ways to structure students' interactions and scaffold the cognitive processes associated with interdisciplinary understanding as students figure out a phenomenon from diverse perspectives. They note that collaborative modeling involving multiple expertise "can also lead to conflict and misunderstanding due to different perspectives and non-overlapping expertise", and that integrating separate models while ensuring syntactical quality and shared understanding remains a challenge. The study's findings on time allocation across processes motivate targeting scaffolds at transforming knowledge and maintaining a critical stance.
 

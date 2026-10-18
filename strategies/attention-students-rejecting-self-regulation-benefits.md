@@ -16,6 +16,9 @@ sources:
 
 # Give extra attention to students who disagree that self-regulation aspects can help their learning
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that students doubting their learning capacity tend to adopt an inadequate lack-of-regulation strategy, the authors recommend that "more attention should be given to those students who entirely disagree that aspects of self-regulation such as goal setting, self-observation, self-assessment, and self-reinforcement can be helpful for their learning process." Differences in self-regulated strategy use reflect on academic achievement, so identifying and supporting these students in constructivist curricula is a concrete instructional action.
 
@@ -34,7 +37,7 @@ Based on the finding that students doubting their learning capacity tend to adop
 - self-regulated learning strategy use and effective regulation of study
 
 ### Affordances
-- [Three Level Conceptual Controlling Operational Structure](../theories/three-level-conceptual-controlling-operational-structure.md)
+- [Three Level Conceptual Controlling Operational Structure](../theories/self-regulated-learning.md)
 
 ## Related Strategies
 - 

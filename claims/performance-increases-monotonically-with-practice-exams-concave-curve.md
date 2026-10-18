@@ -12,13 +12,20 @@ sources:
   - id: glöckner-2013
     resource: "https://doi.org/10.1007/s11251-013-9266-5"
     title: "Glöckner, A., Towfigh, E., & Traxler, C. (2013). Development of legal expertise. Instructional Science, 41, 989–1007. https://doi.org/10.1007/s11251-013-9266-5"
-    author: "Glöckner, A., Towfigh, E., & Traxler, C"
+    author: "Glöckner, A., Towfigh, E., & Traxler, C."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Performance increases monotonically with the number of practice exams following a slightly concave learning curve without considerable kinks
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+
 ## Subclaims
-`q3 i?` Grades increase almost monotonically with the number of exams written, following a slightly concave pattern without significant kinks. [→ Glöckner 2013](#glöckner-2013)
+`q3 i?` Grades increase almost monotonically with the number of exams written, following a slightly concave pattern without significant kinks. [→ Glöckner 2013](#glockner-2013)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Glöckner, A., Towfigh, E., & Traxler, C. (2013). Development of legal expertise. Instructional Science, 41, 989–1007. https://doi.org/10.1007/s11251-013-9266-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Panel regression analysis of 71,405 exams from 2,979 students at the University of Münster Faculty of Law. Students start with a grade significantly below 5.5, earn grades significantly above 6.0 after 20 exams, and reach 6.5 after 30 exams. The data "clearly reject a performance–experience pattern that follows a step-function or has intermediate drops" and "point to a linear or a slightly concave pattern."
 

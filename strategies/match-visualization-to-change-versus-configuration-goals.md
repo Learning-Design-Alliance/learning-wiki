@@ -16,6 +16,9 @@ sources:
 
 # Match the visualization format to the learning task: use animations for learning the specifics of change and static pictures for teaching spatial configurations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article concludes that instructional visualizations should be chosen according to what the learning task demands. Its conclusion states that "animations can be highly effective tools to support dynamic perceptual learning and the acquisition of kinematic models", while "Static pictures, in contrast, are especially promising in teaching spatial configurations." The strategy follows from the finding that format effects reverse depending on whether motions or spatial arrangements are the learning goal, and it responds to earlier skepticism that animations are not worth their extra production effort.
 

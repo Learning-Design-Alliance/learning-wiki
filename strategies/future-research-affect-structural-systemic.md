@@ -16,6 +16,9 @@ sources:
 
 # Future research should study affect and emotion as structural, systemic, racialized, gendered, and embodied phenomena
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial's forward-looking agenda calls for research on affect/emotion as structural or systemic phenomena, and research "that delves deeply into affect and emotion as racialized, gendered, and embodied phenomena in relation to intersecting systems of oppression." The authors note this may require new methodological approaches, since the papers in this issue largely rely on coding or discourse analysis of teachers' talk, and additional conceptual and theoretical innovation drawing on affect theories from other disciplines.
 

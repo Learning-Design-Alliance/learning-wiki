@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-021-09556-3"
     title: "Valentina Nachtigall, Nikol Rummel. (2021). Investigating students' perceived authenticity of learning activities in an out-of-school lab for social sciences: a replication study. Instructional Science. https://doi.org/10.1007/s11251-021-09556-3"
     author: Valentina Nachtigall, Nikol Rummel
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Prior OSL research shows highly inconsistent cognitive and motivational effects of authentic setting features, and few studies measured perceived authenticity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Across the eight OSL studies the review tabulates, effects of the authentic location on knowledge acquisition and achievement range from positive to null to negative, and motivational findings are likewise inconsistent. [→ Valentina Nachtigall 2021](#valentina-nachtigall-2021)
@@ -26,7 +33,7 @@ sources:
 
 Valentina Nachtigall, Nikol Rummel. (2021). Investigating students' perceived authenticity of learning activities in an out-of-school lab for social sciences: a replication study. Instructional Science. https://doi.org/10.1007/s11251-021-09556-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Narrative review of eight OSL studies tabulated in Table 1: the review reports "highly inconsistent" cognitive effects, with Scharfenberg et al. (2007) positive, Itzek-Greulich et al. (2015) null, and Itzek-Greulich et al. (2017) negative on achievement; motivational results are also mixed.
 

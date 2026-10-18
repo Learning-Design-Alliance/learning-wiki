@@ -16,6 +16,9 @@ sources:
 
 # Respond to theory critiques by building reconciliation rather than only cataloguing criticisms
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Mayer proposes that a useful critique moves "from criticizing to building" by reconciling a theory with its criticisms. He argues a critique that only attacks is too negative and one that only defends is too positive; instead, "a critique that seeks to build a reconciliation between a theory and its criticisms provides a the way to move our field forward". He demonstrates this by addressing three exemplary issues: realistic situations, boundary conditions, and triarchic theory.
 

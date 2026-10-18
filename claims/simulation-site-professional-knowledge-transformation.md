@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09763-2"
     title: "Charlott Sellberg & Oskar Lindwall. (2025). Simulation-based training in professional education: learning, participation, and instructional design. Instructional Science. https://doi.org/10.1007/s11251-025-09763-2"
     author: "Charlott Sellberg & Oskar Lindwall"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Simulation functions as a site where professional knowledge is produced, negotiated, and reshaped, not merely a tool for skill rehearsal
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the special issue studies, simulation emerges as a setting where professional knowledge itself is produced, debated, and reconfigured, including the collaborative redesign of organisational routines in healthcare. [→ Charlott Sellberg & Oskar Lindwall 2025](#charlott-sellberg-oskar-lindwall-2025)
@@ -26,7 +33,7 @@ sources:
 
 Charlott Sellberg & Oskar Lindwall. (2025). Simulation-based training in professional education: learning, participation, and instructional design. Instructional Science. https://doi.org/10.1007/s11251-025-09763-2
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial's synthesis of the special issue's qualitative studies (forestry, nursing, mountain rescue, military, healthcare) finds simulation functions as "a setting where professional knowledge itself is produced, debated, and reconfigured". This is the authors' interpretive synthesis, not a measured effect.
 

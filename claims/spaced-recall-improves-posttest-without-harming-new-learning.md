@@ -12,14 +12,25 @@ sources:
   - id: lindquist-2024
     resource: "https://doi.org/10.1007/s11251-024-09680-w"
     title: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w"
-    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M"
+    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: lindquist-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09680-w"
     title: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w"
-    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M"
+    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The treatment group scored significantly higher than the control group on the full 50-question post-test (72.4% vs 68.5%). [→ Lindquist 2024](#lindquist-2024)
@@ -31,7 +42,7 @@ sources:
 
 Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Analysis of the full 50-question multiple-choice post-test administered 6 months after quarter one instruction in the same randomized USMAPS experiment (N=128). The article reports "The p-value of 0.011"; no effect size is printed.
 
@@ -41,7 +52,7 @@ Analysis of the full 50-question multiple-choice post-test administered 6 months
 
 Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Comparison of quarter three final exam (open response, group-graded) scores between treatment and control groups in the same experiment. The difference was not statistically significant; equivalence was not formally tested. No effect size is printed.
 

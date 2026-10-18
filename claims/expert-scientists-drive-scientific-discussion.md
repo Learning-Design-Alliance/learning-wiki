@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09710-1"
     title: "Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1"
     author: Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: janet-mannheimer-zydney-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09710-1"
     title: "Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1"
     author: Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Expert scientist E1 had the highest degree centrality (9) in the scientific discussion. [→ Janet Mannheimer Zydney 2025](#janet-mannheimer-zydney-2025)
@@ -31,7 +42,7 @@ sources:
 
 Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Degree and betweenness centrality analysis (Table 3) of the Project Noah discussion found expert E1 most central in scientific discussion; E1 provided corrective feedback, explanations, and an identification website link.
 
@@ -41,7 +52,7 @@ Degree and betweenness centrality analysis (Table 3) of the Project Noah discuss
 
 Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 A homophily (E-I index) analysis coding students by whether they co-contributed with an expert scientist was significant (E-I index = -0.50, p < 0.05); the E-I index is not a standardized effect size.
 

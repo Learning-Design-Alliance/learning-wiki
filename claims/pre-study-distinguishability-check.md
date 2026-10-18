@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-021-09541-w"
     title: "Rolf Ploetzner, Sandra Berney, Mireille Bétrancourt. (2021). When learning from animations is more successful than learning from static pictures: learning the specifics of change. Instructional Science. https://doi.org/10.1007/s11251-021-09541-w"
     author: Rolf Ploetzner, Sandra Berney, Mireille Bétrancourt
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A pre-study confirmed learners could reliably distinguish the motions and arrangements used as response options in the main study
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants correctly identified on average 18.53 of 20 moving links (92.65%) and 15.56 of 16 arrangements (97.25%). [→ Rolf Ploetzner 2021](#rolf-ploetzner-2021)
@@ -26,7 +33,7 @@ sources:
 
 Rolf Ploetzner, Sandra Berney, Mireille Bétrancourt. (2021). When learning from animations is more successful than learning from static pictures: learning the specifics of change. Instructional Science. https://doi.org/10.1007/s11251-021-09541-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Pre-study with 33 undergraduate students randomly assigned to distinguish either motions of links or arrangements of joined pairs, presented in quadrants with feedback. Mean correct identifications were 18.53 of 20 (92.65%) for motions and 15.56 of 16 (97.25%) for arrangements; no inferential test or effect size is printed.
 

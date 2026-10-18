@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09533-2"
     title: "Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels. (2021). Multimethod assessment of self-regulated learning in college students: different methods for different components? Instructional Science. https://doi.org/10.1007/s11251-020-09533-2"
     author: Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # SRL components show moderate correlations within one assessment level but no correlations across different assessment methods within one component
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+
 ## Subclaims
-`q2 i?` Within one assessment level, moderate correlations appear between SRL components, but across assessment methods within one component almost no correlations appear. [→ Laura Dörrenbächer-Ulrich 2021](#laura-dörrenbächer-ulrich-2021)
+`q2 i?` Within one assessment level, moderate correlations appear between SRL components, but across assessment methods within one component almost no correlations appear. [→ Laura Dörrenbächer-Ulrich 2021](#laura-dorrenbacher-ulrich-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels. (2021). Multimethod assessment of self-regulated learning in college students: different methods for different components? Instructional Science. https://doi.org/10.1007/s11251-020-09533-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational analysis of 70 college students' data from four SRL measures in a standardized laboratory setting. The abstract-level summary states "moderate to high relations between the different components of SRL ... within one assessment level" and "no relations between the different assessment methods within one component."
 

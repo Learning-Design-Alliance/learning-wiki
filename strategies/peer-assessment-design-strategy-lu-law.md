@@ -16,6 +16,9 @@ sources:
 
 # Design peer assessment to encourage specific problem-identifying feedback, suggestions, and affective support rather than grades alone
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's implications for teachers designing peer assessment: ask students "to be specific in their feedback, particularly with regard to the problems in assessees' work, and to provide suggestions"; scaffold assessment processes, especially for weak students; encourage exchanging affective comments giving socio-emotional support; and have students explain why they assigned particular grades rather than simply assigning grades.
 

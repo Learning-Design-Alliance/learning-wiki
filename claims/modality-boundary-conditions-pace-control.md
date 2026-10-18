@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-009-9113-x"
     title: "Richard E. Mayer. (2010). Seeking a science of instruction. Instr Sci 38:143–145. https://doi.org/10.1007/s11251-009-9113-x"
     author: Richard E. Mayer
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The modality effect tends to be strongest when material is fast-paced and under system control
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The modality effect is not found in all studies; it tends to be strongest under fast-paced, system-controlled presentation. [→ Richard E. Mayer 2010](#richard-e-mayer-2010)
@@ -26,7 +33,7 @@ sources:
 
 Richard E. Mayer. (2010). Seeking a science of instruction. Instr Sci 38:143–145. https://doi.org/10.1007/s11251-009-9113-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Mayer summarizes the literature on the modality principle, noting the effect "tends to be strongest" under fast-paced, system-controlled conditions. This is a narrative review statement; no effect sizes are printed.
 

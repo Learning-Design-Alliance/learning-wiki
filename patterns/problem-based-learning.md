@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (8 for, 17 mixed, 2 against) · 25 studies (8 causal, 5 theoretical, 4 quant-synthesis, 4 review, 3 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (8 for, 18 mixed, 3 against) · 26 studies (9 causal, 5 theoretical, 4 quant-synthesis, 4 review, 3 qualitative, 1 design), `q1`–`q4` · 5 of 26 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -116,6 +116,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](../claims/pbl-knowledge-generation-application-dissemination.md) [+W]
 - [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](../claims/pbl-skills-interpersonal-problem-solving-group.md) [+W]
 - [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](../claims/staged-feedback-survey-perceptions.md) [~W]
+- [Elaboration during a problem-based discussion interacts with relevant prior knowledge on immediate text recall, with the interaction approaching significance at a medium effect size](../claims/elaboration-prior-knowledge-interaction-immediate-recall.md) [~M] — attached 2026-10-18 from Floris M. Van Blankenstein et al. (2013), which proposed "Provide students with some relevant prior knowledge before they enter a problem-based discussion, because lacking it may be detrimental for future learning"; tests this page's relationship.
+- [For students without relevant prior knowledge, elaborating during the discussion led to lower recall than not elaborating](../claims/elaboration-without-prior-knowledge-harms-recall.md) [-W] — attached 2026-10-18 from Floris M. Van Blankenstein et al. (2013), which proposed "Provide students with some relevant prior knowledge before they enter a problem-based discussion, because lacking it may be detrimental for future learning"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

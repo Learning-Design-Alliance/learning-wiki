@@ -12,10 +12,17 @@ sources:
   - id: lindquist-2024
     resource: "https://doi.org/10.1007/s11251-024-09680-w"
     title: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w"
-    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M"
+    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Pretest scores did not differ significantly between groups (47.0% vs 48.8%), and quarter one final exam scores were nearly identical (79.5% vs 79.2%). [→ Lindquist 2024](#lindquist-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Baseline balance check on the July pretest (50-problem multiple choice) in the USMAPS experiment; the quarter one final exam check similarly yielded p = 0.823. No effect size is printed.
 

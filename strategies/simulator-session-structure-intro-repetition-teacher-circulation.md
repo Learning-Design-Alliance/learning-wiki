@@ -16,6 +16,9 @@ sources:
 
 # Structure simulator sessions as short introductions followed by repeated task performance with teacher circulation and feedback.
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article describes a session structure where the teacher gives a short introduction (supported by pre-session online platform content and a physical model of the forwarder), students then perform tasks independently in a predetermined order and difficulty level, with each task repeated three times regardless of result. The teacher circulates with an overview of the room and provides feedback or guidance as needed. The article reports that "The logic behind this repetition is that, according to the teacher, it leads to a certain level of confidence and skill and the student can compare the results after each iteration of the task".
 

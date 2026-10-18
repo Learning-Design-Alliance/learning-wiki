@@ -16,6 +16,9 @@ sources:
 
 # Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because teachers are often biased in assessing students' cognitive level and wrongfully use it to indicate learning strategies, the article recommends external instruments for measuring learning strategies before deciding on differentiated instruction. The article states "it is important to use external instrument(s) to measure students' cognitive level/learning profile/learning strategies." The study implemented this by grouping students using five MSLQ scales.
 

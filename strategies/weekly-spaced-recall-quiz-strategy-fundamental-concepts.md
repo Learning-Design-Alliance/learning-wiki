@@ -16,6 +16,9 @@ sources:
 
 # Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 A classroom strategy in which a small portion of weekly class time is used for short timed quizzes on previously taught fundamental concepts, with concepts cycling roughly monthly. The article found that "identifying essential knowledge such as fundamental concepts and then providing students weekly spaced quizzes where the identified concepts cycle monthly, positively effects students' ability to recall those concepts at the end of the academic year." Quizzes were worth only 4% of the grade to keep them low stakes.
 

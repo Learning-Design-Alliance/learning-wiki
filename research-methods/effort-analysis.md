@@ -17,7 +17,7 @@ sources:
 # Effort analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (1 causal, 1 review, 1 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (1 causal, 1 review, 1 associational, 1 theoretical), `q2` · 1 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Effort analysis is a method for conducting "effort-related individual score validation" of achievement test data. It operates at the level of the individual test event, seeking to identify scores that have been "materially distorted by non-effortful test taking" so that inferences about what a student knows and can do are not based on scores distorted by construct-irrelevant factors such as low test-taking motivation. The article presents the method as a complement to standard measurement models, which assume effortful responding.
@@ -25,20 +25,23 @@ Effort analysis is a method for conducting "effort-related individual score vali
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Effort analysis: a method for effort-related individual score validation of achievement test data**: Effort analysis is a method for conducting "effort-related individual score validation" of achievement test data. It operates at the level of the individual test event, seeking to identify scores that have been "materially distorted by non-effortful test taking" so that inferences about what a student knows and can do are not based on scores distorted by construct-irrelevant factors such as low test-taking motivation. The article presents the method as a complement to standard measurement models, which assume effortful responding. (Steven Wise (2015))
+- **Researchers must deliberately choose between invested mental effort and perceived task difficulty items and state at which point and how frequently cognitive load is measured**: Because the two dominant single-item cognitive load ratings capture different aspects of overall load, the article advises that "researchers should therefore discuss carefully which item they use and how this may limit the results of their study". It further advises "to precisely examine at which point and how frequently cognitive load is measured as delayed ratings are closely related to more demanding items within a set of items". The principle applies whenever single-item subjective ratings are used as an indicator of overall cognitive load. (Schuessler et al. (2025))
 
 ### Claims
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](../claims/measurement-models-assume-effortful-responding.md) [+M]
 - [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](../claims/test-taking-motivation-negative-score-bias.md) [+M]
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](../claims/test-taking-engagement-essential-for-valid-scores.md) [+W]
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](../claims/rapid-guessing-signals-disengaged-test-taking.md) [+W]
+- [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](../claims/mental-effort-and-task-difficulty-ratings-differ.md) [+M]
+- [Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item](../claims/delayed-ratings-track-most-demanding-items.md) [+M]
 
 ## Related Research Methods
 -
 
 ## Key Sources
 - Steven Wise. (2015). Effort analysis: Individual score validation of achievement test data. Applied Measurement in Education, 28(3), 237–252. https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/
-
 <!-- merged 2026-10-10 from theories/effort-analysis-individual-score-validation ("Effort analysis: a method for effort-related individual score validation of achievement test data"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6
 
 # Effort analysis: a method for effort-related individual score validation of achievement test data
 

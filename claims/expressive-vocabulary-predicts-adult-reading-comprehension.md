@@ -48,3 +48,4 @@ Hierarchical regression predicting WJ-III Passage Comprehension (N = 232): nonwo
 
 ## Related Claims
 - [Expressive vocabulary adds small but significant variance to exception word reading, but not to general or nonword reading, in adult struggling readers](expressive-vocabulary-exception-word-reading-adults.md) — related
+- [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — related

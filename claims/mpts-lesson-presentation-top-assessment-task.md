@@ -12,10 +12,17 @@ sources:
   - id: spangenberg-2025
     resource: "https://doi.org/10.1007/s11251-025-09712-z"
     title: "Spangenberg, E. D. (2025). Constructive alignment of a mathematics methodology module. Instructional Science. https://doi.org/10.1007/s11251-025-09712-z"
-    author: Spangenberg, E. D
+    author: Spangenberg, E. D.
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Pre-service teachers identified lesson planning and presentation as the assessment task most evaluating their readiness for practice
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among assessment tasks named by MPTs as evaluating readiness for practice, lesson planning and presentation was most frequent (18 responses, 25.7%), followed by tests (17, 24.3%). [→ Spangenberg 2025](#spangenberg-2025)
@@ -26,7 +33,7 @@ sources:
 
 Spangenberg, E. D. (2025). Constructive alignment of a mathematics methodology module. Instructional Science. https://doi.org/10.1007/s11251-025-09712-z
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Experiment-phase survey of 42 MPTs; named assessment tasks were categorized and frequencies converted to percentages (Table 8). "Lesson planning and presentation 18 25.7" led, with tests close behind at 24.3%, and reflection journals and portfolios at 12.9% and 11.4%. Percentages are descriptive.
 

@@ -53,3 +53,4 @@ Structural equation model for expository writing quality in the same longitudina
 - [Third-grade narrative and expository writing quality are distinct but strongly related factors](narrative-expository-writing-quality-two-factors.md) — related
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
 - [Kindergarten treatment status was negatively related to third-grade expository writing quality](treatment-status-negatively-related-expository-quality.md) — reports the opposite
+- [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related

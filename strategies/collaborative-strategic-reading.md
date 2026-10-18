@@ -60,9 +60,11 @@ CSR operationalizes the finding that explicit strategy instruction improves comp
 7. **Fade supports** — Gradually remove cue cards and role scripts as students internalize the strategy sequence [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - Reciprocal Teaching — the closest relative; shares prediction, question generation, and summarizing but uses dialogue roles rather than CSR's fix-up and gist routines
 - Jigsaw — an alternative cooperative reading structure that distributes content rather than strategies across group members
 - Concept-Oriented Reading Instruction — combines strategy instruction with engagement and inquiry goals
+- [Teach sourcing across all online inquiry phases with explicit instruction, controversial tasks, prompts, and collaborative group work](sourcing-across-inquiry-phases-intervention-design.md)
 
 ## Examples
 - **Klingner and Vaughn's efficacy studies** — Fourth-grade and middle-school classrooms in which CSR students, including English learners, outperformed comparison students on comprehension measures, with the largest gains for students with lower reading achievement.

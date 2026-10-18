@@ -12,14 +12,25 @@ sources:
   - id: verstegen-2006
     resource: "https://doi.org/10.1007/s11251-005-3346-0"
     title: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0"
-    author: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A"
+    author: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
   - id: verstegen-2006-2
     resource: "https://doi.org/10.1007/s11251-005-3346-0"
     title: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0"
-    author: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A"
+    author: "Verstegen, D.M.L., Barnard, Y.F. & Pilot, A."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Subjects appreciated the peer review intervention (average 4.0) while rating the chat session less positively (average 3.1)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Subjects liked the peer review intervention, rating it 4.0 on a five-point scale (SD 0.6). [→ Verstegen 2006](#verstegen-2006)
@@ -31,7 +42,7 @@ sources:
 
 Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Five-point-scale questionnaire ratings of the interventions by eight subjects. The peer review received an 'average score 4.0 on a ﬁve-point scale; standard deviation: 0.6', with one subject commenting it took place too early in the week.
 
@@ -41,7 +52,7 @@ Five-point-scale questionnaire ratings of the interventions by eight subjects. T
 
 Verstegen, D.M.L., Barnard, Y.F. & Pilot, A. (2006). Which events can cause iteration in instructional design? An empirical study of the design process. Instructional Science 34, 481–517. https://doi.org/10.1007/s11251-005-3346-0
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Same questionnaire ratings: subjects 'were less positive about the chat session (average score 3.1; standard deviation: 1.2)'. The authors observed the discussions were rather confused and difficult to follow, with no moderator or visual structure.
 

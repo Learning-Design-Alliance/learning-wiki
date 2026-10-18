@@ -12,10 +12,17 @@ sources:
   - id: lehmann-2024
     resource: "https://doi.org/10.1007/s11251-023-09655-3"
     title: "Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3"
-    author: Lehmann, T
+    author: Lehmann, T.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Pre-service teachers' second-order knowledge integration is mediated by their first-order knowledge integration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A mediation analysis showed that second-order knowledge integration (integrated application of CK, PK, and PCK) is mediated by first-order knowledge integration. [→ Lehmann 2024](#lehmann-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Mediation analysis (PROCESS macro, bootstrap samples per the method section) relating experimental condition, essay-based first-order KI, and the integrated knowledge application test; the detailed mediation statistics lie beyond the provided text, so no effect size is reported.
 

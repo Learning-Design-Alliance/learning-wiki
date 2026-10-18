@@ -12,14 +12,25 @@ sources:
   - id: loyens-2008
     resource: "https://doi.org/10.1007/s11251-008-9065-6"
     title: "Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G. (2008). Relationships between students' conceptions of constructivist learning and their regulation and processing strategies. Instructional Science. https://doi.org/10.1007/s11251-008-9065-6"
-    author: "Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G"
+    author: "Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
   - id: loyens-2008-2
     resource: "https://doi.org/10.1007/s11251-008-9065-6"
     title: "Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G. (2008). Relationships between students' conceptions of constructivist learning and their regulation and processing strategies. Instructional Science. https://doi.org/10.1007/s11251-008-9065-6"
-    author: "Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G"
+    author: "Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # A three-tiered conceptual-controlling-operational structure is fully valid for MSLQ variables but only partially for ILS variables
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` For the MSLQ model, relations between conceptions and cognitive strategy use were entirely mediated by self-regulation (Δχ² nonsignificant). [→ Loyens 2008](#loyens-2008)
@@ -31,7 +42,7 @@ sources:
 
 Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G. (2008). Relationships between students' conceptions of constructivist learning and their regulation and processing strategies. Instructional Science. https://doi.org/10.1007/s11251-008-9065-6
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Δχ² test comparing the MSLQ model with a saturated alternative adding direct paths (Δχ² (df = 4) = 6.40, N = 98); the nonsignificant result supports complete mediation of conceptions' influence by MSLQ self-regulation.
 
@@ -41,7 +52,7 @@ Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G. (2008). Relationships be
 
 Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G. (2008). Relationships between students' conceptions of constructivist learning and their regulation and processing strategies. Instructional Science. https://doi.org/10.1007/s11251-008-9065-6
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Δχ² test comparing the ILS model with a saturated alternative adding direct paths from conceptions to processing variables (N = 98); the significant result supports retention of direct paths, i.e. only partial mediation by ILS regulation strategies.
 

@@ -12,10 +12,17 @@ sources:
   - id: lehmann-2024
     resource: "https://doi.org/10.1007/s11251-023-09655-3"
     title: "Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3"
-    author: Lehmann, T
+    author: Lehmann, T.
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Prompted and control groups show no significant differences in separative elaborations within domains or in additions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No significant differences were found for elaborations within domains or for additions across the three conditions. [→ Lehmann 2024](#lehmann-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Follow-up ANOVAs in the three-group essay-coding analysis found no condition effect on the separative measure elaborations within domains (p = .138) or on additions (p = .561); equivalence was not tested.
 

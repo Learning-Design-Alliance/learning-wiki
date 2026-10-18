@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11251-010-9152-3"
     title: "Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). Participatory instructional redesign by students and teachers in secondary education: effects on perceptions of instruction. Instructional Science (2011) 39:737–762. https://doi.org/10.1007/s11251-010-9152-3"
     author: Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Participatory redesign produced significantly more positive perception effects on instruction aspects relevant to the formulated improvements than on irrelevant ones
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+
 ## Subclaims
-`q2 i?` Across classes, positive effects concentrated on the IPSEE scales targeted by each class's improvements. [→ Karin D. Könings 2010](#karin-d-könings-2010)
+`q2 i?` Across classes, positive effects concentrated on the IPSEE scales targeted by each class's improvements. [→ Karin D. Könings 2010](#karin-d-konings-2010)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). Participatory instructional redesign by students and teachers in secondary education: effects on perceptions of instruction. Instructional Science (2011) 39:737–762. https://doi.org/10.1007/s11251-010-9152-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 A cross-class chi-square on the direction of ANOVA effects found 16 of 25 significant effects positive on relevant scales versus six of 20 on irrelevant scales, v2(1) = 5.20. Only frequencies and a test statistic are printed; impact is null.
 

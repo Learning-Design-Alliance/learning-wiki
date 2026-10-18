@@ -12,10 +12,17 @@ sources:
   - id: lindquist-2024
     resource: "https://doi.org/10.1007/s11251-024-09680-w"
     title: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w"
-    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M"
+    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Spaced recall quizzing improves long-term retention even when immediate feedback is not provided
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The retention quizzes produced statistically significant improvements in long-term retention despite the study design preventing immediate feedback and not ensuring students reviewed delayed feedback. [→ Lindquist 2024](#lindquist-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Authors' interpretation of the main retention result in light of the feedback design: quizzes were graded automatically with scores and worked solutions released later the same day, with no class time for discussion. No effect size is printed.
 

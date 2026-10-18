@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-009-9124-7"
     title: "Floris M. van Blankenstein, Diana H. J. M. Dolmans, Cees P. M. van der Vleuten, Henk G. Schmidt. (2011). Which cognitive processes support learning during small-group discussion? The role of providing explanations and listening to others. Instructional Science 39, 189–204. https://doi.org/10.1007/s11251-009-9124-7"
     author: Floris M. van Blankenstein, Diana H. J. M. Dolmans, Cees P. M. van der Vleuten, Henk G. Schmidt
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Providing explanations during a small-group discussion yields better recall of subsequently studied text one month later than only listening to the discussion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Participants who explained during a relevant simulated discussion recalled more text propositions one month later than participants who only listened (r = 0.31). [→ Floris M. van Blankenstein 2011](#floris-m-van-blankenstein-2011)
@@ -26,7 +33,7 @@ sources:
 
 Floris M. van Blankenstein, Diana H. J. M. Dolmans, Cees P. M. van der Vleuten, Henk G. Schmidt. (2011). Which cognitive processes support learning during small-group discussion? The role of providing explanations and listening to others. Instructional Science 39, 189–204. https://doi.org/10.1007/s11251-009-9124-7
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Randomized experiment with 70 Maastricht University students assigned to explanation (N = 24), listening (N = 24) or control (N = 22) conditions using a video-recorded simulated discussion. The planned contrast found explainers recalled more than listeners at one month, "t(67) = 2.22, p\ .05 (two-tailed), r = 0.31".
 

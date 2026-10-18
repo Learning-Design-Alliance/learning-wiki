@@ -12,10 +12,17 @@ sources:
   - id: molenaar-2010
     resource: "https://doi.org/10.1007/s11251-010-9154-1"
     title: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C. (2010). Metacognitive scaffolding in an innovative learning arrangement. Instructional Science. https://doi.org/10.1007/s11251-010-9154-1"
-    author: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C"
+    author: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C."
+    q: 3
+    i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Students in problematizing triads scored significantly higher on the near transfer test than students in structuring triads, t(147) = 1.64, p < 0.05, r = 0.13. [→ Molenaar 2010](#molenaar-2010)
@@ -26,7 +33,7 @@ sources:
 
 Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C. (2010). Metacognitive scaffolding in an innovative learning arrangement. Instructional Science. https://doi.org/10.1007/s11251-010-9154-1
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Planned comparison between problematizing and structuring conditions on a near transfer task (mind map of topics to consider when moving to another country). The article reports a significant small effect, r = 0.13, while recall and knowledge test effects were non-significant and negative.
 

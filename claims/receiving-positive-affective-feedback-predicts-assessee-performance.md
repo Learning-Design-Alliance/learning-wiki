@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-011-9177-2"
     title: "Jingyan Lu, Nancy Law. (2012). Online peer assessment: effects of cognitive and affective feedback. Instructional Science 40:257–275. https://doi.org/10.1007/s11251-011-9177-2"
     author: Jingyan Lu, Nancy Law
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Receiving positive affective feedback from peers is a significant predictor of assessees' project performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The amount of positive affective feedback students received from peers significantly predicted their final project scores (t = 2.25, p < .05). [→ Jingyan Lu 2012](#jingyan-lu-2012)
@@ -26,7 +33,7 @@ sources:
 
 Jingyan Lu, Nancy Law. (2012). Online peer assessment: effects of cognitive and affective feedback. Instructional Science 40:257–275. https://doi.org/10.1007/s11251-011-9177-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical multiple regression (N = 181) found positive emotional feedback from peers (PEBP) significantly predicted project scores (t = 2.25, p< .05). The article reports "The more positive comments students received, the more likely they were to perform well on their projects".
 

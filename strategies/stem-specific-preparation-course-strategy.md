@@ -16,6 +16,9 @@ sources:
 
 # Offer a STEM-specific pre-college preparation course emphasizing mathematics and effective learning habits, and expose female high-school students to extra-curricular advanced mathematics
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because the gap traces to incoming preparedness and does not shrink on its own, the authors recommend intervening before fixation in first year: "perhaps a STEM-specific preparation course, with an emphasis on mathematics and on establishing effective learning habits could help reduce the gap before students start their undergraduate studies". They further suggest "interventions designed to increase the exposure of high-school female students to extra-curricular advanced mathematics howtos and tips and tricks". Both are forward-looking recommendations the article explicitly proposes for future evaluation, alongside learning analytics work with more meaningful traces.
 

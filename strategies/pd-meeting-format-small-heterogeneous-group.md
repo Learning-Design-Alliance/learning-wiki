@@ -16,6 +16,9 @@ sources:
 
 # Organize participatory design meetings for one teacher with a small heterogeneous group of student co-designers
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on a preliminary study, the article recommends that participatory design meetings be held for one teacher with a small group of students rather than a whole year group, that co-designers represent heterogeneous views of the lessons, and that meetings not take up too much time. In the study, seven co-designers per class were selected from pretest IPSEE scores as high, moderate, and low perceivers, and met for 50 minutes during regular school hours, with a summary emailed to the rest of the class afterwards.
 
@@ -36,7 +39,7 @@ Based on a preliminary study, the article recommends that participatory design m
 - Identifying and implementing improvements to the regular education process
 
 ### Affordances
-- [Participatory Design Three Phases](../theories/participatory-design-three-phases.md)
+- [Participatory Design Three Phases](../designs/participatory-design-three-phases.md)
 
 ## Related Strategies
 - 

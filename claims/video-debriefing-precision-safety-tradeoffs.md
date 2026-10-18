@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09763-2"
     title: "Charlott Sellberg & Oskar Lindwall. (2025). Simulation-based training in professional education: learning, participation, and instructional design. Instructional Science. https://doi.org/10.1007/s11251-025-09763-2"
     author: "Charlott Sellberg & Oskar Lindwall"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In mountain rescue training, video-assisted debriefings enhance precision and evidentiary power but introduce risks to psychological safety and a tendency to narrow reflection to individual rather than team performance. [→ Charlott Sellberg & Oskar Lindwall 2025](#charlott-sellberg-oskar-lindwall-2025)
@@ -26,7 +33,7 @@ sources:
 
 Charlott Sellberg & Oskar Lindwall. (2025). Simulation-based training in professional education: learning, participation, and instructional design. Instructional Science. https://doi.org/10.1007/s11251-025-09763-2
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports, citing Schreder et al.'s qualitative study comparing video-assisted and verbal debriefings in mountain rescue training, that video "enhances precision and evidentiary power" while posing risks to psychological safety. No effect sizes are printed.
 

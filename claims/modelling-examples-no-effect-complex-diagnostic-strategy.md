@@ -61,4 +61,4 @@ ANOVA on posttest-only measures (second diagnosis, intrinsic, germane, and extra
 
 
 ## Related Claims
--
+- [Video models do not increase trainee teachers’ self-efficacy for questioning for retrieval relative to restudy](video-model-no-self-efficacy-gain.md) — related

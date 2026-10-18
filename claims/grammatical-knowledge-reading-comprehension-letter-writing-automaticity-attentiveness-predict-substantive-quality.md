@@ -56,3 +56,4 @@ Multilevel model analysis of 527 first-grade children nested in 34 classrooms, w
 - [A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [No statistically significant interactions between child-level and instructional quality predictors for either written composition dimension](no-child-by-instructional-quality-interactions-written-composition.md) — related
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related
+- [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related

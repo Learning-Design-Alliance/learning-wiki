@@ -34938,5 +34938,33 @@
  "worked-examples\tcorrect and complete exemplar of a fraction magnitude comparison\tlist of steps focused on structural aspects of the explanation": {
   "label": "complete worked example vs step-by-step explanation",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention\tregular Texts and influence course": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention\tregular course": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention across online inquiry phases\tregular course without intervention materials": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led sourcing intervention with explicit instruction and guided practice\tregular Texts and influence course": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual instructional text\tvisual-only instructional text": {
+  "label": "audio-visual instructional text vs visual-only instructional text",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual instructional text in VR\tvisual-only instructional text in VR": {
+  "label": "audio-visual instructional text vs visual-only instructional text",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual-only instructional text\taudio-visual instructional text": {
+  "label": "audio-visual instructional text vs visual-only instructional text",
+  "treatment_is_a": false
  }
 }

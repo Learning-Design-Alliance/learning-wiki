@@ -12,10 +12,17 @@ sources:
   - id: molenaar-2010
     resource: "https://doi.org/10.1007/s11251-010-9154-1"
     title: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C. (2010). Metacognitive scaffolding in an innovative learning arrangement. Instructional Science. https://doi.org/10.1007/s11251-010-9154-1"
-    author: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C"
+    author: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Metacognitive scaffolding did not significantly affect group performance of collaborating triads, though the effect size indicated a small to medium positive effect
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Scaffolding did not have a significant effect on the quality of the group paper compared to the control condition, with r = 0.19 indicating a small to medium positive effect. [→ Molenaar 2010](#molenaar-2010)
@@ -26,7 +33,7 @@ sources:
 
 Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C. (2010). Metacognitive scaffolding in an innovative learning arrangement. Instructional Science. https://doi.org/10.1007/s11251-010-9154-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Planned comparisons in a randomized experiment with 52 triads (16 control, 33 scaffolding) compared the control group with the two scaffolding conditions on quality of the group paper. The article reports t(49) = 1.39, p > 0.05, r = 0.19, a "small to medium positive effect" that was not significant.
 

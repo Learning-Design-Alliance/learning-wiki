@@ -16,6 +16,9 @@ sources:
 
 # Treat debriefing models as designable curricular artefacts that coordinate remembering, analysis, and planning
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial highlights Solberg and Sellberg's notion of epistemic engineering, in which facilitators balance structure with responsiveness so that remembering is joint, analysis distributed, and takeaways actionable. It proposes that "debriefing models themselves should be treated as designable curricular artefacts that coordinate remembering, analysis, and planning". Facilitators use models and artefacts to reconstrue performance into teachable knowledge.
 

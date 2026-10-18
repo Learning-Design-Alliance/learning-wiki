@@ -12,10 +12,17 @@ sources:
   - id: lindquist-2024
     resource: "https://doi.org/10.1007/s11251-024-09680-w"
     title: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w"
-    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M"
+    author: "Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Study lead instructors did not differ from non-study-lead instructors in student retention performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A t-test found almost no evidence that student performance varied as a result of being in a study lead's class (p = 0.899). [→ Lindquist 2024](#lindquist-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lindquist, D. S., Sparrow, B. E., & Lindquist, J. M. (2024). Spaced recall reduces forgetting of fundamental mathematical concepts in a post high school precalculus course. Instructional Science, 52, 859-878. https://doi.org/10.1007/s11251-024-09680-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Bias check comparing retention index of students taught by the two study-lead instructors versus the four non-lead instructors in the USMAPS experiment. No effect size is printed.
 

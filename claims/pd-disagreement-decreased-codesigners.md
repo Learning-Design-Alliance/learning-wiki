@@ -13,16 +13,27 @@ sources:
     resource: "https://doi.org/10.1007/s11251-010-9152-3"
     title: "Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). Participatory instructional redesign by students and teachers in secondary education: effects on perceptions of instruction. Instructional Science (2011) 39:737–762. https://doi.org/10.1007/s11251-010-9152-3"
     author: Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
   - id: karin-d-könings-2010-2
     resource: "https://doi.org/10.1007/s11251-010-9152-3"
     title: "Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). Participatory instructional redesign by students and teachers in secondary education: effects on perceptions of instruction. Instructional Science (2011) 39:737–762. https://doi.org/10.1007/s11251-010-9152-3"
     author: Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teacher–student disagreement diminished for co-designers and, in most cases, for the rest of the class
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+
 ## Subclaims
-`q2 i?` The gap between teachers' and students' perceptions narrowed more in experimental groups than controls in classes 3, 4, and 5. [→ Karin D. Könings 2010](#karin-d-könings-2010)
+`q2 i?` The gap between teachers' and students' perceptions narrowed more in experimental groups than controls in classes 3, 4, and 5. [→ Karin D. Könings 2010](#karin-d-konings-2010)
 
 ## Evidence
 
@@ -30,7 +41,7 @@ sources:
 
 Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). Participatory instructional redesign by students and teachers in secondary education: effects on perceptions of instruction. Instructional Science (2011) 39:737–762. https://doi.org/10.1007/s11251-010-9152-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Per-class ANOVAs on teacher–student disagreement scores showed larger decreases for co-designers and the rest of the class than controls in classes 3, 4, and 5. No effect size printed in this summary sentence; impact null.
 
@@ -40,7 +51,7 @@ Per-class ANOVAs on teacher–student disagreement scores showed larger decrease
 
 Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). Participatory instructional redesign by students and teachers in secondary education: effects on perceptions of instruction. Instructional Science (2011) 39:737–762. https://doi.org/10.1007/s11251-010-9152-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 The class 2 exception on student autonomy arose because the teacher's perception score dropped from 3.60 to 2.80 while student perceptions did not change, raising disagreement scores for both experimental student groups.
 

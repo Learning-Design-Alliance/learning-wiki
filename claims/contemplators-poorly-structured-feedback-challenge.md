@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09744-5"
     title: "Flora Ji-Yoon Jin, Lixiang Yan, Roberto Martinez-Maldonado, Dragan Gašević, Philip Wing Keung Chan, Yi-Shan Tsai. (2025). Latent classes of self-reported feedback experiences: exploring students’ challenges, motivations, and action-taking behaviours in feedback processes. Instructional Science. https://doi.org/10.1007/s11251-025-09744-5"
     author: Flora Ji-Yoon Jin, Lixiang Yan, Roberto Martinez-Maldonado, Dragan Gašević, Philip Wing Keung Chan, Yi-Shan Tsai
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Feedback Contemplators with High Emotional Strain perceived poorly structured feedback content—lacking depth, clarity, actionable information, and personalisation—as their biggest challenge in making sense of feedback
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the Feedback Contemplators with High Emotional Strain class, students perceived poorly structured feedback content as the biggest challenge in making sense of feedback. [→ Flora Ji-Yoon Jin 2025](#flora-ji-yoon-jin-2025)
@@ -27,7 +34,7 @@ sources:
 
 Flora Ji-Yoon Jin, Lixiang Yan, Roberto Martinez-Maldonado, Dragan Gašević, Philip Wing Keung Chan, Yi-Shan Tsai. (2025). Latent classes of self-reported feedback experiences: exploring students’ challenges, motivations, and action-taking behaviours in feedback processes. Instructional Science. https://doi.org/10.1007/s11251-025-09744-5
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of open-ended question Q3 responses (n = 348, 54.29% reported difficulty making sense of feedback; 176 from this class). The article states "students perceived poorly structured feedback content as the biggest challenge in making sense of feedback", with the printed code frequencies above.
 

@@ -16,6 +16,9 @@ sources:
 
 # During the discussion, the teacher asks directive questions that point to the relevant concepts students need to recall from their subsequent self-study
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that the PBL teacher "ask directive questions which point more directly to the relevant concepts students need to recall from their self-study after the discussion," thereby retrieving relevant prior knowledge from students. In the experiment, the teacher on video asked eight questions designed to relate concepts from the prior-knowledge sentences to each other and to the problem, prompting participants to generate new relationships. The summary recommendation is that teachers might improve recall by offering relevant prior knowledge before the discussion and asking questions during it to retrieve this knowledge.
 

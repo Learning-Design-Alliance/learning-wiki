@@ -12,10 +12,17 @@ sources:
   - id: lehmann-2024
     resource: "https://doi.org/10.1007/s11251-023-09655-3"
     title: "Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3"
-    author: Lehmann, T
+    author: Lehmann, T.
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Domain-specific knowledge increased significantly from pre- to post-test with a strong effect (ηp2 = 0.969), with no effect of experimental condition. [→ Lehmann 2024](#lehmann-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lehmann, T. (2024). Bridging domains: examining the effects of relevance instructions and guiding questions on pre-service teachers' first- and second-order knowledge integration. Instructional Science. https://doi.org/10.1007/s11251-023-09655-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Repeated-measures MANOVA on CK, PK, and PCK pre–post knowledge tests in the three-group experiment: a strong overall gain (ηp2 = 0.969) with no condition effect (p = .557); per-domain gains were significant in all three domains with no interactions.
 

@@ -16,6 +16,9 @@ sources:
 
 # Facilitators can use a taxonomy of moves and strategies for acknowledging and exploring emotion to build a facilitation repertoire
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial describes Vedder-Weiss, Trachtenberg-Masalton, and Sarfati-Shaulov's (2025) focus on the facilitation side of professional development, "mapping a taxonomy of moves and strategies for acknowledging and exploring emotion to build a repertoire for facilitators." This paper provides insight into how teachers' emotions can become a resource for continued learning. Relatedly, the editorial notes researchers have identified specific strategies facilitators use to elicit and/or respond to teachers' emotions in professional learning spaces.
 

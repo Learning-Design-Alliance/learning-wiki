@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09714-x"
     title: "Giulia Messina Dahlberg · Susanne Gustavsson. (2025). Keeping worlds apart to put them back together: VET teachers' instructional patterns in simulation-based training. Instructional Science. https://doi.org/10.1007/s11251-025-09714-x"
     author: Giulia Messina Dahlberg · Susanne Gustavsson
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
   - id: giulia-messina-dahlberg-susanne-gustavsson-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09714-x"
     title: "Giulia Messina Dahlberg · Susanne Gustavsson. (2025). Keeping worlds apart to put them back together: VET teachers' instructional patterns in simulation-based training. Instructional Science. https://doi.org/10.1007/s11251-025-09714-x"
     author: Giulia Messina Dahlberg · Susanne Gustavsson
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Excerpt 3, the teacher's reference to "a real machine" as the accepted benchmark shows how instruction gets legitimacy in relation to the real activity. [→ Giulia Messina Dahlberg · Susanne Gustavsson 2025](#giulia-messina-dahlberg-susanne-gustavsson-2025)
@@ -31,7 +42,7 @@ sources:
 
 Giulia Messina Dahlberg · Susanne Gustavsson. (2025). Keeping worlds apart to put them back together: VET teachers' instructional patterns in simulation-based training. Instructional Science. https://doi.org/10.1007/s11251-025-09714-x
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 From the analysis of Excerpt 3, where teacher and student discuss the correct crane speed value before a task. The authors report that the reference to "a real machine" functions as the accepted benchmark of comparison.
 
@@ -41,7 +52,7 @@ From the analysis of Excerpt 3, where teacher and student discuss the correct cr
 
 Giulia Messina Dahlberg · Susanne Gustavsson. (2025). Keeping worlds apart to put them back together: VET teachers' instructional patterns in simulation-based training. Instructional Science. https://doi.org/10.1007/s11251-025-09714-x
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 From the analysis of Excerpt 3: the teacher's use of "our" marks the practice as part of shared vocational knowledge, and the authors report that "These kinds of shifting of positions, from teacher to future colleague, to more experience and expert professional, are rather common in the data".
 

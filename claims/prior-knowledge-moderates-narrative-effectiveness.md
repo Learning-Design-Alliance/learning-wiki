@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09723-w"
     title: "Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w"
     author: Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur
+    q: 2
+    i: 1
+    kind: causal
+    rigour: 2
   - id: samuel-tobler-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09723-w"
     title: "Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w"
     author: Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur
+    q: 3
+    i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Prior biology knowledge tentatively moderates material effectiveness: non-STEM students favor narratives, STEM students favor expository texts for recall and understanding
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3` · `i1` small
 
 ## Subclaims
 `q2 i1` Non-STEM-background students in the narrative group showed a trend of outperforming non-STEM students in the expository group in recall (d = 0.33, BF = 4.30) and understanding (d = 0.29, BF = 3.51), while STEM students showed a trend favoring expository materials (recall d = −0.30; understanding d = −0.20). [→ Samuel Tobler 2025](#samuel-tobler-2025)
@@ -31,7 +42,7 @@ sources:
 
 Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Follow-up simple main effect analyses comparing narrative vs. expository within non-STEM and STEM subgroups found no statistically significant differences, but effect sizes and Bayes Factors suggested a trend favoring narratives for non-STEM students ("d = 0.33, BF = 4.30" for recall) and expository for STEM students.
 
@@ -41,7 +52,7 @@ Follow-up simple main effect analyses comparing narrative vs. expository within 
 
 Samuel Tobler, Tanmay Sinha, Katja Köhler, Manu Kapur. (2025). Teaching biology with narratives: examining the impact of affective and cognitive variables on undergraduate student learning. Instructional Science. https://doi.org/10.1007/s11251-025-09723-w
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 The two-way ANOVA's learning material × educational background interaction reached significance only for recall ("F(1,86) = 2.251, p <.05, d = 0.33"), with no interaction effect for transfer (d = 0.00).
 

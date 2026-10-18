@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09710-1"
     title: "Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1"
     author: Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
   - id: janet-mannheimer-zydney-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09710-1"
     title: "Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1"
     author: Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Student S14 bridged the most connections between expert scientists and students (Betweenness = 10). [→ Janet Mannheimer Zydney 2025](#janet-mannheimer-zydney-2025)
@@ -31,7 +42,7 @@ sources:
 
 Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Betweenness centrality analysis (Table 3) identified S14 as the key bridge between expert scientists and students; the authors note this was surprising since Rangers typically take this role.
 
@@ -41,7 +52,7 @@ Betweenness centrality analysis (Table 3) identified S14 as the key bridge betwe
 
 Janet Mannheimer Zydney, Erin Rumpke, Gi Woong Choi, Lauren Angelone. (2025). Understanding interactions between scientists and elementary school students in a citizen science project. Instructional Science (2025) 53:949–971. https://doi.org/10.1007/s11251-025-09710-1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative contextualization of the SNA findings shows bridging students asked simple questions (e.g., about location or identification) and made declarative assertions that invited discussion.
 

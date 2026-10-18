@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09533-2"
     title: "Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels. (2021). Multimethod assessment of self-regulated learning in college students: different methods for different components? Instructional Science. https://doi.org/10.1007/s11251-020-09533-2"
     author: Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+
 ## Subclaims
-`q2 i?` The cognitive component correlates with GPA when measured by the strategy knowledge test, the motivational component when measured by questionnaire, and the metacognitive component when measured by an open-ended microanalytic question; GPA is reverse coded, so negative correlations support criterion validity. [→ Laura Dörrenbächer-Ulrich 2021](#laura-dörrenbächer-ulrich-2021)
+`q2 i?` The cognitive component correlates with GPA when measured by the strategy knowledge test, the motivational component when measured by questionnaire, and the metacognitive component when measured by an open-ended microanalytic question; GPA is reverse coded, so negative correlations support criterion validity. [→ Laura Dörrenbächer-Ulrich 2021](#laura-dorrenbacher-ulrich-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels. (2021). Multimethod assessment of self-regulated learning in college students: different methods for different components? Instructional Science. https://doi.org/10.1007/s11251-020-09533-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational analysis against GPA of the college entrance diploma in 70 college students. Table 8 prints strategy knowledge test–cognition −0.33**, questionnaire–motivation −0.24*, and open-ended microanalysis–metacognition −0.26*; "As GPA in Germany is reverse coded, negative correlations speak in favor of the criterion validity."
 

@@ -12,10 +12,17 @@ sources:
   - id: molenaar-2010
     resource: "https://doi.org/10.1007/s11251-010-9154-1"
     title: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C. (2010). Metacognitive scaffolding in an innovative learning arrangement. Instructional Science. https://doi.org/10.1007/s11251-010-9154-1"
-    author: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C"
+    author: "Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C."
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Scaffolding did not significantly affect free recall, knowledge test scores, or transfer of domain knowledge; all effect sizes were very low (r = 0.01 to 0.08). [→ Molenaar 2010](#molenaar-2010)
@@ -26,7 +33,7 @@ sources:
 
 Molenaar, I., van Boxtel, C. A. M., & Sleegers, P. J. C. (2010). Metacognitive scaffolding in an innovative learning arrangement. Instructional Science. https://doi.org/10.1007/s11251-010-9154-1
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Planned comparisons of the control group against both scaffolding conditions on three individual domain knowledge measures. All printed effect sizes were very low (r = 0.01 to 0.08), leading the authors to conclude metacognitive scaffolds had "little to no effect on the domain knowledge construction".
 

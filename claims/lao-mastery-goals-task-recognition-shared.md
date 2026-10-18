@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09756-1"
     title: "Anongsack Mahavong, József Balázs Fejes. (2026). How are Lao teachers' goals for teaching associated with their instructional practices? Instructional Science, 54, 6. https://doi.org/10.1007/s11251-025-09756-1"
     author: Anongsack Mahavong, József Balázs Fejes
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mastery goals are associated with task and recognition practices, with recognition shared by both goal types
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In SEM Model 2, mastery goals are positively linked to the task and recognition TARGETS practices. [→ Anongsack Mahavong 2026](#anongsack-mahavong-2026)
@@ -27,7 +34,7 @@ sources:
 
 Anongsack Mahavong, József Balázs Fejes. (2026). How are Lao teachers' goals for teaching associated with their instructional practices? Instructional Science, 54, 6. https://doi.org/10.1007/s11251-025-09756-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 SEM Model 2 on 207 Lao teachers' self-reports found "Mastery goals were positively linked to task and recognition," and "recognition emerged as a shared fac - tor associated with both relational and mastery goals." No path coefficients are printed in the text provided.
 

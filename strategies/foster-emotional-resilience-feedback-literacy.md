@@ -16,6 +16,9 @@ sources:
 
 # Foster students' emotional resilience and educators' feedback literacy, and use dialogic, technology-enhanced feedback processes
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that emotional responses and feedback design shape uptake, the article recommends that "enhancing educators’ feedback literacy and fostering students’ emotional resilience may be crucial for effective feedback processes". Educators need skills to craft feedback students can clearly understand and apply, while students with high emotional resilience are less likely to experience adverse reactions and more likely to seek clarification rather than dismiss feedback. The article adds that the dialogic process "can potentially be facilitated by technology-enhanced feedback tools, such as learning analytics (LA) tools".
 
@@ -36,7 +39,7 @@ Based on the finding that emotional responses and feedback design shape uptake, 
 - translating feedback into concrete actions
 
 ### Affordances
-- [Triangular Framework Dialogic Feedback](../theories/triangular-framework-dialogic-feedback.md)
+- [Triangular Framework Dialogic Feedback](../theories/feedback-loops-definition.md)
 
 ## Related Strategies
 - 
