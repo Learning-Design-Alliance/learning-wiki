@@ -70,3 +70,4 @@ ANOVA on identifying key words in examples, same experiment. The article reports
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
 - [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related
 - Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning — a broader claim this one bears on
+- [In the joint final model, instructional clarity shows an unexpected negative and significant relation with mathematics achievement at the student level](instructional-clarity-negative-achievement-student-level.md) — related

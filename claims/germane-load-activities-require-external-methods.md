@@ -47,3 +47,4 @@ Theoretical argument from the abstract about the practical consequences of the g
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept](germane-load-added-on-theoretical-not-empirical-grounds.md) — related
 - [In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept](germane-load-indistinguishable-from-intrinsic-load.md) — related
+- [The claim that high-variability practice imposes germane load rests on post-hoc explanation and does not always replicate](high-variability-germane-load-post-hoc.md) — related

@@ -78,3 +78,4 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](llm-search-lower-intrinsic-cognitive-load.md) — related
 - [Propositional knowledge showed a prior knowledge main effect but no instructional method × prior knowledge interaction](no-expertise-reversal-propositional-knowledge.md) — related
+- [The claim that high-variability practice imposes germane load rests on post-hoc explanation and does not always replicate](high-variability-germane-load-post-hoc.md) — related

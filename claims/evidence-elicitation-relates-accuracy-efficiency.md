@@ -48,3 +48,4 @@ SEM analysis across the three conceptually replicated simulation studies also fo
 - [Hypotheses sharing relates positively to diagnostic justification and diagnostic efficiency](hypotheses-sharing-relates-justification-efficiency.md) — related
 - [Evidence sharing relates positively to diagnostic justification quality](evidence-sharing-relates-diagnostic-justification.md) — related
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
+- [In BioWorld, confidence was tied to final diagnostic accuracy but not to the first hypothesis](bioworld-confidence-tied-to-final-accuracy.md) — related

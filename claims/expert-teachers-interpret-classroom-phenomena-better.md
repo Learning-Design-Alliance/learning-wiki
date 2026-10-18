@@ -53,3 +53,4 @@ Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice,
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
 - [Students and researchers gave systematically different types of explanatory comments about the visual argument, with students rejecting pictures as proofs](student-visual-argument-norm-comments.md) — related
+- [Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes](observed-classroom-differences-correlated-with-outcomes.md) — related

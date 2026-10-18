@@ -116,6 +116,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [In stepwise multiple regression, fine motor precision accounts for about sixty percent and Functional Dexterity Test time about four percent of handwriting legibility in preschool children](../claims/regression-fine-motor-precision-effect-handwriting-legibility.md) [+M] — instruction changes it
 - [Motor coordination uniquely predicts written language achievement, and ADHD symptom severity negatively predicts written language, in children with and without ADHD](../claims/motor-coordination-adhd-symptoms-predict-written-language.md) [+M] — instruction changes it
 - [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](../claims/grade5-correlations-vmi-mc-vp-dysgraphia.md) [~M] — instruction changes it
+- [Students' writing and storytelling developed substantially, with the majority group publishing 23 school-level stories in Cycle 1 and 38 in Cycle 2 before a school cap limited publications](../claims/tprs-mtss-storytelling-publication-growth.md) [+W] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

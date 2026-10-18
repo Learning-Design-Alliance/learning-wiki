@@ -134,6 +134,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](../claims/perceived-support-correlates-achievement.md) [~W] — learners who differ on it differ in outcomes
 - [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](../claims/kahoot-enjoyment-stable-across-groups-and-time.md) [-M] — instruction changes it
 - [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](../claims/text-based-cases-higher-situational-interest.md) [+M] — instruction changes it
+- [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](../claims/no-motivational-differences-worked-versus-inventing.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

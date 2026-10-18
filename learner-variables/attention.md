@@ -130,6 +130,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](../claims/adhd-children-higher-creative-strengths.md) [+M] — learners who differ on it differ in outcomes
 - [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](../claims/adhd-children-higher-ttct-originality.md) [+M] — learners who differ on it differ in outcomes
 - [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](../claims/ngi-not-distracting-attention-returns.md) [-M] — instruction changes it
+- [Student engagement increased across all performance levels over three DBR cycles, with low-performing students moving from 7–10 teacher prompts per lesson to 95–100% sustained attention by Cycle 3](../claims/tprs-mtss-engagement-gains-all-performance-levels.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

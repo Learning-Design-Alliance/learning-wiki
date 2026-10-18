@@ -186,6 +186,11 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](../claims/short-term-journal-prompts-increase-cognitive-strategy-use.md) [+M] — instruction changes it
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](../claims/short-term-journal-prompts-increase-metacognitive-strategy-use.md) [+M] — instruction changes it
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [~M] — instruction changes it
+- [Explicitly taught students used the complex task-specific strategy types indirect subtraction and simplifying more than twice as often as implicitly taught students at post-test](../claims/explicit-environment-more-complex-task-specific-strategies.md) [+M] — instruction changes it
+- [Implicit and explicit learning environments do not differ in third graders' accurate use of strategies](../claims/implicit-explicit-no-difference-accurate-strategy-use.md) [-M] — instruction changes it
+- [Implicit and explicit learning environments do not differ in third graders' skills in adaptive use of strategies at post-test or at 3- and 8-month follow-ups](../claims/implicit-explicit-no-difference-adaptive-strategy-use.md) [-M] — instruction changes it
+- [Implicitly taught students showed a more sustainable use of self-generated compensation strategies, which resisted the later introduction of standard algorithms](../claims/implicit-environment-sustainable-compensation-strategies.md) [+M] — instruction changes it
+- [The strategy intervention improved third graders' adaptive use of strategies relative to untreated classmates](../claims/intervention-improved-adaptive-use-versus-classmates.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

@@ -51,3 +51,5 @@ Table 4 reports Instructor A's students' perceived changes: Variation in lessons
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](clickers-perceived-learning-benefit.md) — related
 - [Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself](learning-attributed-to-process-not-technology.md) — related
 - Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking — related
+- [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related
+- [Students perceive pleasure—positive emotions during learning and the active minimization of boredom and displeasure—as an element of fun in learning](pleasure-positive-emotion-fun-element.md) — related

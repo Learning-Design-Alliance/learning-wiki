@@ -125,3 +125,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — related
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related
 - [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — related
+- [Secondary school students overestimate their performance on learning tasks by about one step out of five](students-overestimate-task-performance.md) — related

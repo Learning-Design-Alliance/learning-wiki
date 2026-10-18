@@ -53,3 +53,4 @@ Eye-tracking finding from the speaker scene, where two parts carried signalling 
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related
 - [Signaling Improves Learning](signaling-improves-learning.md) — a broader claim this one bears on
 - Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location — related
+- [Producers signal their own argumentative position with arrows pointing toward their own arguments and more boxes around own arguments](arrows-and-boxes-signal-own-position.md) — related

@@ -51,3 +51,4 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related
+- [The case-based intervention was perceived as connecting theory to practice more strongly than the model-based comparison intervention](case-intervention-higher-theory-practice-connection.md) — related

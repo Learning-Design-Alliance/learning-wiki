@@ -55,3 +55,4 @@ Small-group case study of 21 undergraduates studying a multimedia animation on c
 - [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — related
 - [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related
 - [Body movements and positions focusing on virtual objects, and shifts away from or around them, signal key interactional collaborative events in shared VR](body-movement-signals-collaborative-events-vr.md) — related
+- [Producers signal their own argumentative position with arrows pointing toward their own arguments and more boxes around own arguments](arrows-and-boxes-signal-own-position.md) — related

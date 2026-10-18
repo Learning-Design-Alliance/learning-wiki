@@ -50,3 +50,4 @@ Multivariate models on RELACHS follow-up depressive symptoms. Adding friend supp
 - [Adolescents with moderate or high friend support are about half as likely to report being bullied](friend-support-lower-bullying-likelihood.md) — related
 - [High family social support is associated with lower odds of depressive symptoms](high-family-support-lower-depression.md) — related
 - [Findings are mixed on whether friendship buffers the negative effects of peer rejection for children with ADHD](friendship-buffering-peer-rejection-mixed-evidence.md) — related
+- [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related

@@ -40,6 +40,7 @@ The packet converts theories of communicative competence into classroom practice
 ## Related Strategies
 
 - [Offline Learning Packets](offline-learning-packets.md)
+- [Train ITD competencies through cross-training, guided boundary-object creation, coaching, and early reflexivity learning objectives](itd-competency-training-strategies.md)
 
 ## Examples
 -

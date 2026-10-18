@@ -89,3 +89,4 @@ Narrative review reporting the D'Angelo et al. (2014) meta-analysis: supplementi
 -
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — the general claim this finding bears on, with the studies behind it
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
+- [Effects of discovery-related approaches are differential, not uniform across students or learning goals](discovery-effects-differential-across-students-and-goals.md) — related

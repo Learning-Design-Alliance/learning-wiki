@@ -112,3 +112,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — related
 - [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](coordination-of-two-representations-correctless.md) — related
 - [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related
+- [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related

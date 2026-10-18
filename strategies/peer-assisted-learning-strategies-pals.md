@@ -121,6 +121,7 @@ PALS converts [Practice](../elements/practice.md) into high-frequency, individua
 - [Peer Tutoring](peer-tutoring.md) — the broader family of same-age and cross-age tutoring arrangements PALS systematizes
 - [Jigsaw](jigsaw.md) — another cooperative structure with interdependent roles and individual accountability
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
+- [Reciprocal peer teaching with parent-facing explanation to sustain collaborative learning in exam-oriented contexts](reciprocal-teaching-parent-persuasion-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — PALS is a delivery structure for massed, feedback-rich practice

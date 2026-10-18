@@ -62,3 +62,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — related
 - [Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy](divergence-structure-versus-autonomy-in-projects.md) — related
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
+- [Most students (71–83%) experienced working more on real-world problems in CCS projects than in everyday school (33–44%), while collaboration showed no significant distinction from everyday schoolwork](ccs-real-world-problem-solving-distinct-collaboration-not.md) — related

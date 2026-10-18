@@ -45,3 +45,4 @@ Qualitative interview study of 36 university staff and students at an Australian
 ## Related Claims
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Negative emotions are perceived to have either positive or negative impacts on learning, with faculty more likely than students to recognize their functional benefits](negative-emotions-dual-impact-faculty-see-benefits.md) — related
+- [Students perceive pleasure—positive emotions during learning and the active minimization of boredom and displeasure—as an element of fun in learning](pleasure-positive-emotion-fun-element.md) — related

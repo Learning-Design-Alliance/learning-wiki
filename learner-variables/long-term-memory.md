@@ -103,6 +103,9 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Short-duration anaerobic sprint exercise speeds vocabulary-type associative learning by 20% with increased serum BDNF that correlates with learning success](../claims/anaerobic-sprint-bdnf-associative-learning.md) [+M] — instruction changes it
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](../claims/time-based-forgetting-occurs-regardless-of-presentation-method.md) [+M] — instruction changes it
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](../claims/sleep-consolidation-semantic-memory-school-start-times.md) [+M] — instruction changes it
+- [An individual-then-collaborative activity structure (I+C) yields better delayed recall than collaborative-then-individual (C+I) and fully individual (I) structures](../claims/ic-structure-better-recall-than-ci-and-individual.md) [+W] — instruction changes it
+- [Self-constructing a complete concept map produces better delayed recall than completing, sorting a map, or writing a summary, with the largest effect in the I+C structure](../claims/self-constructed-cm-better-recall.md) [+M] — instruction changes it
+- [Task type and activity structure interact on recall: self-constructed maps help mainly when individually prepared and then discussed in pairs](../claims/task-structure-interaction-recall.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

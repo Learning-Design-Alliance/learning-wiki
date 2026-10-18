@@ -45,6 +45,7 @@ Focus groups let leaders "hear firsthand from multiple educational partners and 
 - [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
 - [Hold listening sessions in accessible locations where staff simply listen to educational partners](listening-sessions-for-educational-partners.md)
 - [Use the Start, Stop, Continue process to surface and act on promising practices with educational partners](start-stop-continue-promising-practices.md)
+- [Expert-recommended practices for fostering fun in learning: suggestion boxes, embracing failure, differentiated challenge, and open-ended questions](expert-practices-fostering-fun-learning.md)
 
 ## Examples
 -

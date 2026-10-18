@@ -49,3 +49,4 @@ Instructor report from classroom implementation of the exploration assignment in
 ## Related Claims
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — possibly the same claim (merge candidate)
+- [Student tutors show greater role congruence, being more interested in students' daily lives and study experiences](student-tutors-greater-role-congruence.md) — related

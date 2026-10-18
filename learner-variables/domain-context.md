@@ -79,6 +79,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Workers in the studied workgroups tended to manage their learning needs to minimise their supervisors' involvement, with supervisors not the contacts of first resort for learning](../claims/supervisors-not-first-resort-for-workplace-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Workgroups in the study could generally not be regarded as communities of practice, though subsets operated as communities of practice for specific issues](../claims/workgroups-not-generally-communities-of-practice.md) [~M] — learners who differ on it differ in outcomes
 - [High authenticity simulations show higher effects than low authenticity simulations](../claims/high-authenticity-simulations-higher-effects.md) [+M] — an instructional effect differs with it
+- [Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play](../claims/ccs-student-local-expertise-perception-growth.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

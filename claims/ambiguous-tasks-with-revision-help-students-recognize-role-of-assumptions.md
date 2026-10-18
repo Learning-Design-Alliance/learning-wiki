@@ -56,3 +56,4 @@ This is design-based research across a small number of intensively-analyzed clas
 - [Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score](pretest-assumption-conclusion-difficulties.md) — related
 - [Underlying assumptions dictate how the five foundations are operationalized in a learning environment](assumptions-dictate-foundation-operationalization.md) — related
 - [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related
+- [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — a broader claim this one bears on

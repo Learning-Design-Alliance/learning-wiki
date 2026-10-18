@@ -72,3 +72,4 @@ An independent replication with three conditions (unguided problem solving, guid
 - [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) — related
 - [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) — related
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related
+- [A validity problem in Kapur's standard deviation transfer item brackets its transfer findings as working hypotheses](kapur-sd-transfer-item-validity-problem.md) — related

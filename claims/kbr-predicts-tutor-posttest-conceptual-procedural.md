@@ -80,3 +80,4 @@ The authors' summary of the path analysis model (CFI 1.0, TLI 1.0, RMSEA 0.0, SR
 - [%KBR correlated with prior knowledge only among high-prior students, not among low-prior students](kbr-prior-correlation-only-high-prior.md) — related
 - [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](procedural-prior-predicts-conceptual-post.md) — related
 - [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related
+- [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — related

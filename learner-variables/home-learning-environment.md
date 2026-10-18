@@ -69,6 +69,9 @@ The home learning environment is what families, caregivers and communities provi
 - [Unschooled illiterate adults living in print-rich environments have good knowledge of the pragmatic functions and uses of written language but cannot read environmental print out of context](../claims/illiterate-adults-know-functions-not-environmental-print.md) [~M] — learners who differ on it differ in outcomes
 - [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](../claims/multiple-immersive-processes-at-microsites.md) [+M] — instruction changes it
 - [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](../claims/sensory-immersion-prompted-geoscientific-observation.md) [+M] — instruction changes it
+- [At the classroom level in the joint Model E, only aggregated classroom management, aggregated SES and aggregated language background related significantly to mathematics achievement](../claims/classroom-level-model-e-composition-effects.md) [+M] — learners who differ on it differ in outcomes
+- [Interaction effects between student background variables (BOOKS, LANG, GENDER) and outcomes were statistically insignificant in both achievement and confidence models](../claims/background-interactions-insignificant.md) [-M] — learners who differ on it differ in outcomes
+- [SES and language spoken at home are strongly related to mathematics achievement especially at the classroom level, and teaching-quality estimates reduce these background estimates](../claims/ses-language-achievement-gap-teaching-quality-reduction.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Reading Pattern Survey** (Rodrigo et al., 2014): self-report of reading attitude, habits and print exposure, including books read and library visits.

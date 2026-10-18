@@ -51,3 +51,4 @@ Same randomized two-group SafeCracker experiment with 72 students. "The worked e
 - [Worked Examples With Practice Improve Transfer](worked-examples-with-practice-improve-transfer.md)
 - [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related
 - In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance — related
+- [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](example-quality-correlates-transfer-control.md) — related

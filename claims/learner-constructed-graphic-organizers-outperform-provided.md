@@ -118,3 +118,4 @@ In three experiments, learners read a passage that came either with author-provi
 - [Generative Learning Improves Comprehension](generative-processing-improves-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps — related
+- [Self-constructing a complete concept map produces better delayed recall than completing, sorting a map, or writing a summary, with the largest effect in the I+C structure](self-constructed-cm-better-recall.md) — a narrower finding that bears on this claim

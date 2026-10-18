@@ -44,3 +44,4 @@ ANCOVA on the procedural knowledge subscale (applying the mean absolute deviatio
 
 ## Related Claims
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
+- [No significant differences among PF, VF-high, VF-low, and DI conditions on procedural knowledge acquisition](no-condition-effect-procedural-knowledge.md) — related

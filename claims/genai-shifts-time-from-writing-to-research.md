@@ -49,3 +49,4 @@ Self-reported time-allocation shares from the post-learning survey in the random
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](guidance-time-reallocation-multiple-document-task.md) — related
+- [Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content](learning-time-focus-quality-criteria-unit.md) — related

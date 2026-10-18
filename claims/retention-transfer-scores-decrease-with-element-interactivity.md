@@ -48,3 +48,4 @@ Descriptive analysis of the eight RTs and TTs plotted against the experts' low/h
 - [Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity](mental-effort-study-time-indicate-element-interactivity.md) — related
 - [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](no-group-difference-tat-posttest-cls.md) — related
 - [The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups](clt-design-effective-learning-retention-transfer.md) — related
+- [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related

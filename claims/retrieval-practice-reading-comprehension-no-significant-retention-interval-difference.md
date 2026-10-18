@@ -52,3 +52,4 @@ Between-subjects factor of the classroom experiment: 100 undergraduates randomly
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](retrieval-format-by-retention-interval-interaction-not-significant.md) — related
 - [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
+- [All three instructional methods reduced misconceptions, and comprehension and transfer effects were stable at delayed testing one week later](misconception-reduction-stable-delayed-testing.md) — related

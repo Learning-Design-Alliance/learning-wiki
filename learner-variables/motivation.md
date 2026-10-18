@@ -225,6 +225,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Linguistically varying an instructional video into easy, moderate, and difficult versions does not significantly affect students’ expectancies of success or intrinsic task value compared with the moderate version](../claims/linguistic-condition-no-effect-expectancy-value-beliefs.md) [-M] — instruction changes it
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [+M] — learners who differ on it differ in outcomes
 - [Short-term prompting in learning journals does not change university students' self-efficacy](../claims/short-term-prompts-do-not-change-self-efficacy.md) [-W] — instruction changes it
+- [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](../claims/text-based-cases-higher-situational-interest.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

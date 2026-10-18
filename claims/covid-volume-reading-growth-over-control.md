@@ -51,3 +51,4 @@ An interview-reported district case during COVID distance learning: teachers cho
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related
 - [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related
+- [The strategy intervention improved third graders' adaptive use of strategies relative to untreated classmates](intervention-improved-adaptive-use-versus-classmates.md) — related

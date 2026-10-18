@@ -90,6 +90,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking](../claims/reflective-engagement-predicts-independent-outcomes.md) [~M] — learners who differ on it differ in outcomes
 - [Preschoolers in a multiliteracies folk-tale program showed increased critical-thinking behaviors in qualitative journal data](../claims/preschool-folktale-program-increased-critical-thinking-qualitative.md) [+M] — instruction changes it
 - [Instruction increased students' ability to evaluate experiments designed by others on a paper-and-pencil test](../claims/experiment-evaluation-gains.md) [+M] — instruction changes it
+- [Individual-level critical thinking instruction has an unimpressive track record, motivating communal-level intervention](../claims/critical-thinking-individual-intervention-unimpressive-track-record.md) [-W] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

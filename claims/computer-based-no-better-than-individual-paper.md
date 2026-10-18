@@ -47,3 +47,4 @@ Comparison of the computer-based group (N=29) with the prior study's individual 
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](detailed-answer-keys-improve-momentum-only.md) — related
 - [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation](computer-based-tutorial-implementation-lowest-posttest.md) — related
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related
+- [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related

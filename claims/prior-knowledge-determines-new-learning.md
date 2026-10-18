@@ -97,3 +97,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — a narrower finding that bears on this claim
 - [Advance organizers facilitate conceptual retention and far transfer of unfamiliar technical material for learners lacking relevant prior knowledge](advance-organizers-far-transfer-unfamiliar-technical-material.md) — related
 - [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related
+- [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — a narrower finding that bears on this claim

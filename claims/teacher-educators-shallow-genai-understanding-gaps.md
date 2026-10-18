@@ -51,3 +51,4 @@ Narrative synthesis finding from the review's professional knowledge gaps theme,
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related
 - [The most critical challenge in integrating AI into instructional design is pedagogical alignment (14 of 28 studies, 50.0%)](ai-id-challenge-pedagogical-alignment.md) — a broader claim this one bears on
+- [The gap between dispositions as learning goals and their assessment indicates misalignment among Integrated Course Design components](misalignment-dispositions-goals-assessment-fink.md) — related

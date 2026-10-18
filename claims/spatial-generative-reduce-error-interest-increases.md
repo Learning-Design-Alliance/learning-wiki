@@ -52,3 +52,4 @@ Second regression in the same study testing the subsidiary hypotheses: "all thre
 - [Interest ratings were the only significant predictor of readers' predictive judgments of understanding](interest-predicts-judgments-of-understanding.md) — related
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related
+- [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related

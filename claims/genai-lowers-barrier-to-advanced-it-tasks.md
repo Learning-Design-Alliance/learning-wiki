@@ -46,3 +46,4 @@ Interview theme on extended expertise boundaries: P10, "not a programmer," built
 - [GenAI compresses traditional sysadmin expertise pathways by shortcutting hands-on practice, mentorship, and iterative problem solving](genai-compresses-sysadmin-expertise-pathways.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
+- [Teachers designing TEL face serious constraints of time, expertise and endorsement](teacher-designers-time-expertise-constraints.md) — related

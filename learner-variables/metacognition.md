@@ -110,6 +110,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [The 'Y-read?' collaboration script elicited mainly low-level metacognitive regulation during pre- and post-task discussions, with deep-level activities rare](../claims/collab-script-elicited-mostly-low-level-metacognitive-regulation.md) [+M] — instruction changes it
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](../claims/short-term-journal-prompts-increase-metacognitive-strategy-use.md) [+M] — instruction changes it
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [-M] — instruction changes it
+- [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](../claims/drawing-after-learning-improves-absolute-monitoring-accuracy.md) [+W] — instruction changes it
+- [The inventing group showed more metacognitive regulation during future learning, contrary to hypothesis, without benefiting transfer](../claims/inventing-group-more-metacognitive-regulation.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

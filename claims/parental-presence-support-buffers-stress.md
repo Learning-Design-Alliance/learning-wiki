@@ -70,3 +70,4 @@ Narrative review synthesis of human studies of parental buffering. The review re
 - [Threat-related psychopathology associations appear more consistently mediated by stress response systems than deprivation-related ones](threat-mediated-stress-response-deprivation-less-so.md) — related
 - [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related
 - [Teacher's direct support of a stuck presenter corresponded with a clear decrease in situational stress (ASV)](teacher-support-asv-release.md) — a narrower finding that bears on this claim
+- [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related

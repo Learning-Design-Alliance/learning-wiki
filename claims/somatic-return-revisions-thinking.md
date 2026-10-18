@@ -50,3 +50,4 @@ The review-style article attributes this position to Peter Reason (1994) and his
 - Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
 - Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness — related
 - [Somatically informed dance teachers use six facilitation strategies to deepen movement sensation](somatically-informed-teachers-six-movement-awareness-strategies.md) — related
+- [Students who got stuck on the desk-scale number line proactively returned to the body-scale number line to validate their answers, achieving perspectival mutuality](returning-to-bnl-perspectival-mutuality.md) — a narrower finding that bears on this claim

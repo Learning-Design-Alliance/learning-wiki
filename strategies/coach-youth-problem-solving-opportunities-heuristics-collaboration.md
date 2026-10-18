@@ -48,6 +48,7 @@ The article recommends that pedagogical perspectives promoting practical applica
 - [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md)
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](value-creating-curriculum-africana-youth.md)
 - [Use ChatGPT as a tool for supporting students’ learning and promoting problem-solving skills](chatgpt-support-learning-problem-solving.md)
+- [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 
 ## Examples
 -

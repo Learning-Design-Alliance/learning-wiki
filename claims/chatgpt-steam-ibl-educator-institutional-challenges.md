@@ -57,3 +57,4 @@ The review's summary of educator- and institutional-level challenges (Table 5, e
 - [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](ai-collaborative-learning-challenges-bias-overreliance.md) — related
 - Only a small fraction of AIEd research addresses ethical implications, challenges and risks — related
+- [The gap between dispositions as learning goals and their assessment indicates misalignment among Integrated Course Design components](misalignment-dispositions-goals-assessment-fink.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ ENA of AI interaction logs contrasted with the Struggling profile in a pairwise 
 - [Low-literacy students' ENA networks are dominated by links between Abstract Generation Commands and Factual or Challenging Questions, described as a transactional approach](low-literacy-transactional-generation-network.md) — related
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — related
 - [Epistemic network analysis linked the PS-GenAI-PF group to negative emotions and higher-order feedback content associations](ena-ps-genai-pf-negative-emotions-higher-order-content.md) — related
+- [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related

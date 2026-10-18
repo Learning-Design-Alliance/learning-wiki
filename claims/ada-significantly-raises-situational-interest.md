@@ -52,3 +52,5 @@ Group comparison in the cluster-randomized controlled study (N = 195 ninth-grade
 - [Learning performance improved over time and differed by group, but ADA showed no significant group-by-time interaction advantage over conventional materials](ada-no-significant-performance-interaction.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
+- [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](no-motivational-differences-worked-versus-inventing.md) — related
+- [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](text-based-cases-higher-situational-interest.md) — related

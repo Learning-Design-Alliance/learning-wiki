@@ -1,0 +1,62 @@
+---
+type: claim
+title: Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance
+description: Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance
+id: think-sheet-underconfidence-transfer-predictions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: anja-prinz-2021
+    resource: "https://doi.org/10.1007/s11251-021-09535-8"
+    title: "Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8"
+    author: Anja Prinz, Stefanie Golke, Jörg Wittwer
+    q: 3
+    i: "?"
+  - id: anja-prinz-2021-2
+    resource: "https://doi.org/10.1007/s11251-021-09535-8"
+    title: "Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8"
+    author: Anja Prinz, Stefanie Golke, Jörg Wittwer
+    q: 3
+    i: "?"
+---
+
+# Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` In the think-sheet group, misconceptions had a marginally significant negative effect on bias of transfer predictions, indicating underconfidence, and the think-sheet/control interaction was significant. [→ Anja Prinz 2021](#anja-prinz-2021)
+`q3 i?` Misconceptions had no significant influence on bias of transfer predictions in the control group, so no compensatory effect could emerge. [→ Anja Prinz 2021 (2)](#anja-prinz-2021-2)
+
+## Evidence
+
+### Anja Prinz 2021
+
+Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
+
+`q3 · i?`
+
+Conditional effect on transfer-prediction bias in the randomized experiment: "More misconceptions resulted in more underconfident predictions" in the think-sheet group. The think-sheet/control interaction was significant (b = −0.80, p = .014); the refutation-text/control interaction was not.
+
+> "Yet, there was a marginally significant negative effect of misconceptions in the think-sheet group, b = −0.45, SE = 0.23, t(91) = −1.97, p = .052. More misconceptions resulted in more underconfident predictions (see Fig. 10)."
+
+### Anja Prinz 2021 (2)
+
+Anja Prinz, Stefanie Golke, Jörg Wittwer. (2021). Counteracting detrimental effects of misconceptions on learning and metacomprehension accuracy: The utility of refutation texts and think sheets. Instructional Science. https://doi.org/10.1007/s11251-021-09535-8
+
+`q3 · i?`
+
+Conditional effects on transfer-prediction bias in the same regression analysis: no significant effect of misconceptions in the control or refutation-text group, so the transfer-prediction hypothesis was not supported.
+
+> "The effect of misconceptions on bias was not significant in the control group, b = 0.35, SE = 0.22, t(91) = 1.58, p = .117, and the refutation-text group, b = −0.03, SE = 0.23, t(91) = −0.11, p = .912."
+
+## Discussion
+
+
+## Related Claims
+- [More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related
+- [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — related

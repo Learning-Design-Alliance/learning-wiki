@@ -67,3 +67,4 @@ Cross-sectional study of adults ages 18 to 81 who studied related and unrelated 
 - [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related
 - [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — related
 - [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related
+- [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related

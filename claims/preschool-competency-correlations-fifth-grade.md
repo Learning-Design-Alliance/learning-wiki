@@ -47,3 +47,4 @@ Correlational analysis of key variables in Table 3 for the 781-child sample; all
 - [The counting and cardinality coefficient is significantly larger than the coefficients for patterning, geometry, and measurement and data](counting-coefficient-larger-than-other-domains.md) — related
 - [Basic counting competencies alone are considerably predictive of fifth grade mathematics achievement when modeled without advanced counting](basic-counting-alone-predictive.md) — related
 - [Gains in counting and cardinality during the preschool year are associated with roughly half a standard deviation higher fifth grade mathematics achievement](preschool-counting-gains-predict-fifth-grade.md) — related
+- [Mathematics achievement is strongly positively associated with mathematics confidence at the student level (0.43)](math-achievement-confidence-association.md) — related

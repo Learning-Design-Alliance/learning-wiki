@@ -63,3 +63,4 @@ Description of the COVID-pivot virtual showcase in spring 2020: instructors crea
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](philanthropic-studies-epportfolio-curricular-integration.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — a broader claim this one bears on
 - The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment — related
+- [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](teaching-activities-foster-dispositions.md) — a broader claim this one bears on

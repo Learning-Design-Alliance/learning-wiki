@@ -166,6 +166,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Experts verbalized fewer SRL phases overall than novices during clinical reasoning, with feelings of uncertainty almost absent among experts](../claims/experts-fewer-srl-verbalizations-less-uncertainty.md) [+M] — learners who differ on it differ in outcomes
 - [Novices showed marginally higher complexity of SRL phase sequences than experts (frequent but predictable transitions), with no group differences in entropy or transition number](../claims/novices-higher-srl-complexity-experts-moderate-diversity.md) [~M] — learners who differ on it differ in outcomes
 - [The relation between medical expertise and diagnostic accuracy was case-dependent: positive for Case 4, negative for Case 1 (novices outperformed experts), and absent for Cases 2, 3, and 5](../claims/expertise-diagnostic-accuracy-case-dependent.md) [~M] — learners who differ on it differ in outcomes
+- [Expertise positively predicts knowledge integration, and the four competencies remain positively related to knowledge integration at different levels of expertise](../claims/competencies-relevant-across-expertise-levels.md) [+M] — learners who differ on it differ in outcomes
+- [Experts do not exhibit higher levels of reflexivity than novices, consistent with reflexivity as a meta-cognitive competence](../claims/experts-not-higher-reflexivity-than-novices.md) [-M] — learners who differ on it differ in outcomes
+- [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](../claims/pretest-grade-correlate-conceptual-not-procedural.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
