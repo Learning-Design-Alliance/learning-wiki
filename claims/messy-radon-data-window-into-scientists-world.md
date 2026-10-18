@@ -49,3 +49,4 @@ The commentary reports, citing Aridor et al. (this issue), a case study of two m
 - [Teacher-scientist pairs in school citizen science are both motivated largely by educating students, with scientists showing only lesser utilitarian data-collection motives](scientists-motivated-by-educating-students-in-ccs.md) — related
 - [All nine DReaM uncertainty articulation sub-categories were identified in middle school students' citizen science participation](nine-dream-subcategories-articulated-case-study.md) — related
 - [Uncertainty types across the three reasoning domains were found to interrelate in students' citizen science activity](uncertainty-types-interrelate-citizen-science.md) — related
+- [Data type shapes practice emphasis: first-hand data aligns with problem understanding and experiment design, second-hand data with statistical analysis and synthesis](data-type-first-hand-second-hand-practice-alignment.md) — related

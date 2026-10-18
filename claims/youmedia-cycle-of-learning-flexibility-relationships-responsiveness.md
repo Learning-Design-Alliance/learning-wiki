@@ -46,3 +46,4 @@ The report's observed model (Figure 2), developed from analysis of over 130 hour
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not](four-plus-improvement-cycles-improve-conditions.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
+- [Classroom teachers spontaneously adopted empathy interviews outside the design thinking cycle, using them with students and families for relationship building](empathy-interviews-adopted-beyond-design-cycle.md) — related

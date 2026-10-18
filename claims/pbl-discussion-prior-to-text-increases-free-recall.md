@@ -43,4 +43,4 @@ Randomized experiment with 48 first-year medical students assigned to discuss ei
 
 
 ## Related Claims
--
+- [The PBL assumption that student-generated learning issues guide self-directed learning had never been empirically tested before this study](pbl-learning-issues-assumption-untested.md) — related

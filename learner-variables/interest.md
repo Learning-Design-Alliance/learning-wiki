@@ -12,7 +12,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 102 claims (80 show a difference, 12 mixed, 8 no difference, 2 unmarked) · 85 studies (32 causal, 19 associational, 12 design, 11 review, 5 qualitative, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 17 of 85 report an effect size · 97 claims rest on one study
+> **Evidence** · 106 claims (82 show a difference, 12 mixed, 10 no difference, 2 unmarked) · 88 studies (34 causal, 20 associational, 12 design, 11 review, 5 qualitative, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 18 of 88 report an effect size · 101 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -136,6 +136,10 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](../claims/text-based-cases-higher-situational-interest.md) [+M] — instruction changes it
 - [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](../claims/no-motivational-differences-worked-versus-inventing.md) [-M] — instruction changes it
+- [Co-teaching does not differ from solo teaching in the development of students' mathematics self-concept and interest](../claims/co-teaching-no-motivation-development-benefit.md) [-M] — instruction changes it
+- [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](../claims/example-problem-pairs-raise-perceived-competence.md) [-M] — instruction changes it
+- [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](../claims/math-self-concept-interest-decline-one-school-year.md) [+M] — instruction changes it
+- [Students' perception of science instruction as interesting is positively associated with their emotional engagement in science](../claims/interesting-science-instruction-associated-emotional-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

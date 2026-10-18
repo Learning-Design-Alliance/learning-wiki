@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (12 for, 9 mixed, 1 against) · 40 studies (20 causal, 7 theoretical, 6 quant-synthesis, 6 review, 1 qualitative), `q1`–`q4` · 3 of 40 report an effect size · 12 claims rest on one study
+> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 41 studies (21 causal, 7 theoretical, 6 quant-synthesis, 6 review, 1 qualitative), `q1`–`q4` · 4 of 41 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](../claims/experts-counteract-automaticity-mental-representations.md) [~W]: a review arguing that everyday skills plateau once automatic while expert performance keeps improving; it bears on when to hand a learned procedure over to refinement ([Deliberate Practice](deliberate-practice.md)).
 - [In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy](../claims/self-generated-elaboration-improves-procedural-knowledge-accounting.md) [+W]: one classroom experiment (three groups of 25–26) in accounting; self-generated elaboration beat instructor-assisted elaboration on procedural knowledge, but not the combined strategy. It bears on step 6 (learners generating reasons themselves), not yet read against it.
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [~W]: a theoretical argument from second-language acquisition (q1). It sits against prolonged isolated drill and beside the whole-task argument; it is an argument, not a test.
+- [The demonstration-with-review tutorial outperformed the demonstration-only control on practice, immediate post-test and delayed post-test](../claims/review-tutorial-outperforms-demonstration-only.md) [+W] — attached 2026-10-18 from Hans van der Meij (2016), which proposed "Follow each task demonstration with a short review recap to support retention of the procedure".
 
 ## Objective and learner-valued goal
 

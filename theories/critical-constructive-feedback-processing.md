@@ -17,7 +17,7 @@ sources:
 # Critical Constructive Feedback Processing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 associational, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Critical constructive feedback (CCF) is feedback given after a wrong or suboptimal answer that both signals the error and offers a way to correct it. This theory treats "did the student use the feedback?" not as one question but as five sequential, independently measurable stages a piece of feedback must survive: **noticing** (attention reaches the feedback), **decoding** (the text is actually read, not just glanced at), **making sense** (the meaning is understood), **acting upon** (the student follows the feedback's guidance), and **making progress** (the action produces real improvement on a later attempt). Framing feedback processing this way turns "feedback neglect" from a single failure mode into a diagnosable pipeline, where a design fix aimed at one stage (e.g., making feedback more noticeable) can succeed at that stage while leaving downstream stages untouched. The model draws on established error-handling stages from human-computer interaction (Nielsen 1994; Norman 1988) and on social-cueing and persona-effect research to motivate why an embodied, gazing pedagogical agent — rather than a generic visual cue like an arrow — can move a student through the earliest stages.
@@ -39,6 +39,7 @@ Critical constructive feedback (CCF) is feedback given after a wrong or suboptim
 
 - [Critical constructive feedback is neglected at multiple, independently measurable processing stages](../claims/critical-constructive-feedback-is-neglected-at-multiple-stages.md) [~M]
 - [Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)](../claims/pedagogy-drives-relevance-not-correct-application.md) [~W]
+- [During peer-feedback processing, students deal with errors in one of two patterns: immediately knowing whether they agree with feedback, or first having to study the feedback more thoroughly](../claims/two-patterns-error-feedback-processing.md) [+W] — attached 2026-10-18 from Jochem E. J. Aben et al. (2024), which proposed "Aben et al.'s model of cognitive sub-phases in dealing with errors during feedback provision and processing"; tests this page's relationship.
 
 ## Related Theories
 - [Self-Regulated Learning](self-regulated-learning.md) — acting upon feedback and monitoring progress overlap with SRL's monitoring and control phases, but this theory decomposes the pre-monitoring attentional and comprehension steps that SRL treats as already given

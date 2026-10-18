@@ -67,6 +67,7 @@ Video replay works because it converts fleeting performance into a stable, revie
 - Portfolio-based reflection — annotated video clips as reflective artifacts accumulated over a course
 - [Use TPACK-based analysis of teaching video cases and design artifacts to build novice instructional designers' metacognition](tpack-video-case-analysis-for-idc-metacognition.md)
 - [Shared history feedback inquiry using stimulated recall of time-lapse replays](shared-history-stimulated-recall-inquiry.md)
+- [Use MET video feedback with novice-led think-aloud discourse in teacher education, prompting trainees to also identify positive aspects of their teaching](met-feedback-novice-led-discourse-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — expert recordings serve as comparison models for the learner's own replay

@@ -51,3 +51,4 @@ Robust main-effects model for revision performance (pseudo R² = 0.580) with gro
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
+- [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](cognitive-load-no-sequence-effect.md) — related

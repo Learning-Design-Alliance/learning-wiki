@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (18 for, 16 mixed, 1 against) · 36 studies (14 causal, 8 quant-synthesis, 8 review, 5 theoretical, 1 design), `q1`–`q4` · 10 of 36 report an effect size · 27 claims rest on one study
+> **Evidence** · 36 claims (19 for, 16 mixed, 1 against) · 37 studies (15 causal, 8 quant-synthesis, 8 review, 5 theoretical, 1 design), `q1`–`q4` · 11 of 37 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,6 +113,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](../claims/germane-load-mediates-tool-effect-on-justification-quality.md) [+M] — attached 2026-10-15 from Matthias Stadler et al. (2024), which proposed "Design learning tasks that challenge learners to engage actively with complex material rather than merely providing information efficiently"; tests this page's relationship.
 - [The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks](../claims/collective-working-memory-effect-complexity-dependent.md) [+W] — attached 2026-10-18 from Kirschner et al. (2018), which proposed "Nine collaborative cognitive load principles relating task, learner and team characteristics to extraneous transactive load"; tests this page's relationship.
 - [Communication and coordination costs of transactive activities can annul the benefit of sharing cognitive load in a group](../claims/transactive-costs-annul-load-sharing-benefit.md) [+W] — attached 2026-10-18 from Kirschner et al. (2018), which proposed "Nine collaborative cognitive load principles relating task, learner and team characteristics to extraneous transactive load"; tests this page's relationship.
+- [Constantly high task complexity improves delayed posttest performance compared with gradually increasing complexity](../claims/constantly-high-complexity-improves-posttest-performance.md) [+M] — attached 2026-10-18 from Ines Zeitlhofer (2026), which proposed "Favor tasks that are cognitively demanding from the outset and include desirable difficulties such as interleaved practice"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

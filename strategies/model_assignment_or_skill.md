@@ -99,6 +99,7 @@ Modeling works because it converts tacit expert knowledge into explicit, observa
 - Gradual release of responsibility ("I do, we do, you do") — the instructional frame that sequences modeling, guided practice, and independence [Fisher & Frey, 2011]
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 - [Teach a four-step verbalized problem-solving strategy (identify problem, propose solution, implement, evaluate)](four-step-self-regulated-problem-solving-strategy.md)
+- [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](video-modeling-examples-train-self-assessment-task-selection.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component; modeling adds the reasoning narration

@@ -48,6 +48,7 @@ Empathy interviews are "one-on-one conversations that use open-ended questions t
 - [Conduct focus groups to hear firsthand from multiple partners and build shared understanding beyond the numbers](focus-groups-beyond-the-numbers.md)
 - [Hold listening sessions in accessible locations where staff simply listen to educational partners](listening-sessions-for-educational-partners.md)
 - [Use the Start, Stop, Continue process to surface and act on promising practices with educational partners](start-stop-continue-promising-practices.md)
+- [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
 
 ## Examples
 -

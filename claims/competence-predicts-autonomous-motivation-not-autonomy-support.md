@@ -53,3 +53,4 @@ Same PLS-SEM structural model of 297 students. The hypothesis-testing results sh
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](competence-strongest-predictor-relatedness-null.md) — related
+- [Perceived competence predicts isomorphic test performance and perceived autonomy predicts transfer performance](perceived-competence-autonomy-predict-test-performance.md) — related

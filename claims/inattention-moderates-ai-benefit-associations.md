@@ -87,3 +87,4 @@ Same latent interaction analysis reported null results for the remaining tested 
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
 - [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
 - [Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality](baseline-quality-moderates-component-relations.md) — related
+- [Perceived competence predicts isomorphic test performance and perceived autonomy predicts transfer performance](perceived-competence-autonomy-predict-test-performance.md) — related

@@ -62,4 +62,4 @@ Same study, results section: the hybrid implementation had a countervailing enha
 
 
 ## Related Claims
--
+- [Multiple factors besides learning issues may shape PBL students' self-study decisions](multiple-factors-shape-pbl-self-study-decisions.md) — related

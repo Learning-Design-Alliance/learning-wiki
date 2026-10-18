@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (6 for, 5 mixed, 3 against) · 13 studies (9 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4` · 4 of 13 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (6 for, 6 mixed, 3 against) · 14 studies (10 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4` · 4 of 14 report an effect size · 14 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -50,6 +50,7 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [Merely delaying instruction until after problem solving does not improve conceptual understanding when no additional measures trigger knowledge-gap awareness or deep-feature discovery](../claims/delaying-instruction-alone-no-conceptual-gain.md) [~W] — attached 2026-10-18 from Loibl et al. (2020), which proposed "Three-mechanism account of why problem solving before instruction can benefit conceptual understanding"; tests this page's relationship.
 - [In an out-of-school lab for social sciences, the authenticity level of the learning activity (Productive Failure vs. Direct Instruction) did not affect students' perceived authenticity or situational interest](../claims/pf-vs-di-no-effect-perceived-authenticity-situational-interest.md) [~W] — attached 2026-10-18 from Valentina Nachtigall (2021), which proposed "Productive Failure as an authentic learning activity that emulates scientific inquiry".
 - [In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution](../claims/ps-i-no-advantage-primary-motor-learning.md) [-W] — attached 2026-10-18 from Christian Leukel (2025), which proposed "KLI framework for composite instructional designs: intermediate knowledge from the PS phase anchors processing of subsequent instruction"; tests this page's relationship.
+- [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](../claims/pf-collaborative-individual-no-conceptual-knowledge-difference.md) [~W] — attached 2026-10-18 from Charleen Brand et al. (2023), which proposed "Three preparatory mechanisms account of Productive Failure".
 
 ## The evidence by question
 

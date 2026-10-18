@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (17 for, 8 mixed) · 18 studies (13 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 4 of 18 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (18 for, 8 mixed) · 19 studies (14 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 4 of 19 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Worked-example preparation deepens subsequent learning via more elaboration during the future-learning phase](../claims/worked-example-preparation-more-elaboration-future-learning.md) [+W] — attached 2026-10-18 from Inga Glogger-Frey et al. (2022), which proposed "Use worked-example preparation rather than open inventing to prepare learners for subsequent instruction in complex, ill-structured domains".
 - [Worked-example preparation leads to more application of canonical criteria during future learning, which mediates higher transfer](../claims/canonical-criteria-application-mediates-transfer-advantage.md) [+W] — attached 2026-10-18 from Inga Glogger-Frey et al. (2022), which proposed "Use worked-example preparation rather than open inventing to prepare learners for subsequent instruction in complex, ill-structured domains"; tests this page's relationship.
 - [Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors](../claims/correct-exemplars-improve-pst-fraction-explanations.md) [+M] — attached 2026-10-18 from Guba et al. (2026), which proposed "Give preservice teachers a fully correct and complete exemplar to compare against their own mathematical explanations"; tests this page's relationship.
+- [Example–problem pairs are more efficient than problem–example pairs for both gifted and nongifted primary school students](../claims/example-problem-pairs-more-efficient-both-gifted-nongifted.md) [+W] — attached 2026-10-18 from Coppens et al. (2019), which proposed "Start online learning phases with a worked example rather than a practice problem"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

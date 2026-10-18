@@ -43,6 +43,7 @@ The guide distinguishes the empathy interview from a regular interview through s
 - [Five-step empathy interview exercise for teachers designing inclusive computing pathways](empathy-interview-five-step-exercise.md)
 - [Using Empathy Interviews for Family Engagement](using_empathy_interviews_for_family_engagement.md)
 - [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
+- [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
 
 ## Examples
 -

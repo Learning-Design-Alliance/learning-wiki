@@ -43,4 +43,4 @@ Between-subject experiment (N = 62) in which quiz question difficulty was varied
 
 
 ## Related Claims
--
+- [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](high-complexity-lowers-icl-and-metacognitive-strategy-use.md) — related

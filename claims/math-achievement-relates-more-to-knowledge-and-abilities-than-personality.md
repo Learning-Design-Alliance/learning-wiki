@@ -73,3 +73,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [General cognitive ability has moderate positive relations with work performance, with meta-analytic validity coefficients in the 0.4 to 0.6 range across many job types](cognitive-ability-validity-work-performance.md) — related
 - [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — a narrower finding that bears on this claim
 - [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](social-competence-positive-externalizing-negative-achievement.md) — related
+- [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](motivation-changes-independent-of-achievement.md) — a narrower finding that bears on this claim

@@ -72,3 +72,4 @@ Same ANCOVA with a time factor (one-day vs one-week posttest); the article repor
 - [Initial failure did not hurt subsequent learning during instruction: no condition differences on example generation or immediate learning tests](no-condition-differences-example-generation-immediate-tests.md) — related
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](practice-problems-favor-ps-i-first-worksheets.md) — related
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related
+- [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related

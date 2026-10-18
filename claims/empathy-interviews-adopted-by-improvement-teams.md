@@ -46,3 +46,4 @@ Participants reported learning empathy interviews at an early convening and adop
 - [The Student Electronic Exit Ticket (SEET) is useful for gathering student perspectives on coherence, relevance, and participation during OpenSciEd enactment](seet-useful-student-perspective-instrument.md) — related
 - Female principals enacted care through a 'listening then deciding' pattern of situational decision making — related
 - [CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews](cbe-practices-identified-via-review-visits-interviews.md) — related
+- [Classroom teachers spontaneously adopted empathy interviews outside the design thinking cycle, using them with students and families for relationship building](empathy-interviews-adopted-beyond-design-cycle.md) — related

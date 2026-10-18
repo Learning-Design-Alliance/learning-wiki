@@ -49,3 +49,4 @@ Simulation comparison across constraint conditions (Figure 3) showing an asymmet
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](prefer-harder-constraint-reduces-overpractice.md) — a narrower finding that bears on this claim
 - [Weakness Targeting and Maximize Usual Case Improvement yield the lowest overpractice among unconstrained strategies in the equation-solving dataset](weakness-targeting-lowest-overpractice.md) — related
 - [Children who switched to the efficient method largely reverted to the inefficient method over subsequent trials](children-revert-to-first-learned-inefficient-method.md) — related
+- [The acquired strategy-selection knowledge did not make PROTO-TEG more efficient in terms of student performance](proto-teg-self-improvement-no-student-performance-gain.md) — reports the opposite

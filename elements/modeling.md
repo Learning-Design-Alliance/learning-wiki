@@ -81,6 +81,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 **[Codecademy](https://www.codecademy.com)** — Annotated code demonstrations shown inline before learners write their own version, pairing each model with immediate practice.
 
 **[National Writing Project](https://www.nwp.org)** — Teachers write alongside students, modeling drafting and revision decisions in real time rather than only presenting finished texts.
+- [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](../strategies/video-modeling-examples-train-self-assessment-task-selection.md)
 
 ## Key Sources
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

@@ -30,4 +30,4 @@ The authors recommend striving for a unified language, such as a formalisation s
 
 ## Key Sources
 - Baker, M., Reimann, P. (2024). CSCL: a learning and collaboration science?. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-024-09433-4
-- Gweon, G., Jain, M., McDonough, J., Raj, B., & Rosé, C. P. (2013). Measuring prevalence of other-oriented transactive contributions using an automated measure of speech style accommodation. Computer-Supported Collaborative Learning (2013).
+- Gweon, G., Jain, M., McDonough, J., Raj, B., & Rosé, C. P. (2013). Measuring prevalence of other-oriented transactive contributions using an automated measure of speech style accommodation. Computer-Supported Collaborative Learning (2013). [doi:10.1007/s11412-013-9172-5](https://doi.org/10.1007/s11412-013-9172-5)

@@ -12,7 +12,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (43 show a difference, 12 mixed, 5 no difference, 2 unmarked) · 47 studies (14 causal, 11 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 7 of 47 report an effect size · 59 claims rest on one study
+> **Evidence** · 63 claims (43 show a difference, 12 mixed, 6 no difference, 2 unmarked) · 48 studies (15 causal, 11 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 8 of 48 report an effect size · 60 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -96,6 +96,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](../claims/perceived-support-correlates-achievement.md) [~W] — learners who differ on it differ in outcomes
 - [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](../claims/decreasing-emotions-linked-better-learning-gains.md) [+M] — learners who differ on it differ in outcomes
 - [The session-type-by-time interaction showed anxiety increasing in game sessions while decreasing in lectures, and confusion declining more steeply in game sessions.](../claims/session-type-time-interaction-anxiety-confusion.md) [~M] — instruction changes it
+- [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](../claims/example-problem-pairs-raise-perceived-competence.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 

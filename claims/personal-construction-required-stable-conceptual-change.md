@@ -64,3 +64,4 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
 - [Collaborative constructions (joint analyses built while collaborating) had little relevance to individual post-test performance in adolescence and early adulthood](collaborative-constructions-little-relevance-older-learners.md) — reports the opposite
 - [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](fragmented-premature-shared-understanding.md) — related
+- [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md) — related

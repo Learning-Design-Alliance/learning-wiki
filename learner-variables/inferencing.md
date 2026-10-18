@@ -12,7 +12,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 22 claims (17 show a difference, 3 mixed, 2 no difference) · 10 studies (5 causal, 3 review, 2 associational), `q1`–`q3` · 1 of 10 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (19 show a difference, 3 mixed, 2 no difference) · 11 studies (6 causal, 3 review, 2 associational), `q1`–`q3` · 2 of 11 report an effect size · 23 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -57,6 +57,8 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years](../claims/vocabulary-only-unique-predictor-global-coherence-all-ages.md) [+M] — instruction changes it
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~M] — instruction changes it
 - [Double-content examples had no significant effect on generating alternatives of action, drawing inferences, or taking multiple perspectives](../claims/double-content-examples-no-effect-other-measures.md) [-M] — instruction changes it
+- [ABM students engage more frequently in embodied reasoning strategies—first-to-third-person perspective shifts, causal inference making, and gestures—than video students, who rely more on third-person perspectives and information retrieval](../claims/abm-students-more-embodied-reasoning-strategies.md) [+W] — instruction changes it
+- [First-to-third-person perspective shifting, causal inference making, and gesture use correlate positively with explanatory and transfer scores, while information retrieval and handwriting correlate negatively](../claims/embodied-strategies-correlate-explanatory-transfer-scores.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

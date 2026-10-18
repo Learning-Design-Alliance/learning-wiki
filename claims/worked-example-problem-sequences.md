@@ -128,3 +128,7 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related
 - [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — possibly the same claim (merge candidate)
+- [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](cognitive-load-no-sequence-effect.md) — related
+- [Task sequence effects on mental effort reverse between learning phase and transfer test](effort-reversal-learning-versus-transfer-phase.md) — related
+- [Example–problem pairs are more efficient than problem–example pairs for both gifted and nongifted primary school students](example-problem-pairs-more-efficient-both-gifted-nongifted.md) — a narrower finding that bears on this claim
+- [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related

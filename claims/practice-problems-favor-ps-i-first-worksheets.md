@@ -72,3 +72,4 @@ Sub-analysis comparing the first two worksheets with the later four; the article
 - [CPS students proposed better problem-solving solutions and allocated more time to solutions, evidence-based reasoning, and simulation/data recording than IPS students](cps-more-time-and-better-ps-solutions.md) — related
 - [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — related
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — reports the opposite
+- [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related

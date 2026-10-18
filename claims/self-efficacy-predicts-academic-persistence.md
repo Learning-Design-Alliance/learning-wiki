@@ -164,3 +164,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Former students reported positive changes in self-perception and self-confidence after participating in prison higher education](prison-college-improved-self-perception-women.md) — related
 - [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — a narrower finding that bears on this claim
 - [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related
+- [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](motivation-changes-independent-of-achievement.md) — reports the opposite

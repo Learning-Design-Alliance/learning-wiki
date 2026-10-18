@@ -135,6 +135,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 
 **PALS/ACLS simulation courses** — Resuscitation training protocols mandate team debriefs after each scenario, with measured improvements in subsequent team performance.
 - [Send EQUIP data reports in advance of debriefs and use discussion protocols to guide data conversations](../strategies/advance-data-reports-with-debrief-protocols.md)
+- [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](../strategies/blended-pearls-chat-debrief-strategy.md)
 
 ## Key Sources
 - Fanning, R. M., & Gaba, D. M. (2007). The role of debriefing in simulation-based learning. *Simulation in Healthcare, 2*(2), 115–125. [doi:10.1097/SIH.0b013e3180315539](https://doi.org/10.1097/SIH.0b013e3180315539)

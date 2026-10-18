@@ -47,3 +47,6 @@ Within the PF condition (n = 55), correlations between solution attempt measures
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
 - [Objective feedback is neither necessary nor sufficient for the group advantage; discussion is the critical factor](feedback-not-needed-for-group-advantage.md) — related
 - [Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not](canonical-components-correlate-conceptual-knowledge.md) — related
+- [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](pf-solution-quality-correlation-individual-only.md) — related
+- [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quality-no-mediation.md) — related
+- [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quantity-no-mediation.md) — related

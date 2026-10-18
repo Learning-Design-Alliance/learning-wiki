@@ -148,3 +148,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — possibly the same claim (merge candidate)
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
 - [Active control over the learning experience enhances recognition memory from age 7 into adulthood](active-control-enhances-memory-development.md) — related
+- [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related

@@ -68,6 +68,7 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 - [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](post-noticing-reflection-guides.md)
 - [Predator/prey simulation game on the beach for hatchling survival](predator-prey-hatchling-crawl-game.md)
+- [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following [Fanning & Gaba's](https://doi.org/10.2310/4745.2007.00006) framework treat the scenario as merely the stimulus for the debrief.

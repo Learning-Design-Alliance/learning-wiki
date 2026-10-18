@@ -45,6 +45,7 @@ Empathy interviews are "open-ended conversations with a predetermined protocol" 
 - [Design Thinking](design-thinking.md)
 - [Start with Yourself (Identity Mapping)](start-with-yourself-identity-mapping.md)
 - [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
+- [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
 
 ## Examples
 -

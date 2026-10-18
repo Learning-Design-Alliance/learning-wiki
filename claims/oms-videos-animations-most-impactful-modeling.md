@@ -49,3 +49,4 @@ Interpretive case study of 42 students in the I-TEP Web-based course during summ
 - [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](web-folders-enable-coaching.md) — related
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](students-prefer-technology-enhanced-task-interactivity-animation.md) — related
 - [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related
+- [The design of video modeling examples strongly affects training success: screen-recording examples were ineffective while writing-out examples were effective](modeling-example-design-affects-training-success.md) — related

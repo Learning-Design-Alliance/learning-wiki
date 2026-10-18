@@ -47,3 +47,4 @@ Descriptive t-test comparisons in the full sample of 118 (59 girls, 59 boys); GP
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Background characteristics independently predict 9th-grade off-track indicators: boys are 1.7 times as likely to be suspended and 3.5 times as likely to have a GPA below a C than girls](background-covariates-predict-off-track.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related

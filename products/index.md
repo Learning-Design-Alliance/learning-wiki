@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1786 entries** · 0 stable · 1786 in review · 0 drafts
+**1788 entries** · 0 stable · 1788 in review · 0 drafts
 
 ---
 
@@ -1274,6 +1274,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Prompt Programming](prompt-programming.md) - Prompt Programming is a web-based dialogue tool described by Victor-Alexandru Pădurean et al.
 * [PromptDecipher](promptdecipher.md) - A web-based chatbot-authoring system developed by Miina Koyama and colleagues that lets educators create and refine AI tutoring chatbots by directly correcting simulated bot responses.
 * [ProPACT](propact.md) - ProPACT is an AI-driven adaptive collaborative tutor that uses multimodal dyadic sensing and forecast-driven prompts to support undergraduate and master's students during pair-programming debugging.
+* [PROTO-TEG](proto-teg.md) - PROTO-TEG is a self-improving intelligent tutoring system for geometry that selects didactic strategies using a student model and knowledge learned from recorded tutoring episodes.
 * [Proxy-labeled AI-detection error-analysis corpus and released evaluation pipeline](proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline.md) - Karr et al.'s released corpus and code evaluate commercial AI-text-detector errors using published abstracts, model rewrites, and humanized texts.
 * [PS2 Pal](ps2-pal.md) - A GPT-4-based AI tutoring platform developed by Kestin et al.
 * [PSLC DataShop](pslc-datashop.md) - PSLC DataShop is a public repository of educational interaction data from online learning environments, maintained by the Pittsburgh Science of Learning Center for researchers to access and compare learning analyses.
@@ -1687,6 +1688,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Tool for Representational Balance in Books](tool-for-representational-balance-in-books.md) - A 10-criterion rubric created by The Education Trust that guides readers in assessing how people, cultures, and topics are represented in books.
 * [Toolkit for Building a Virtual Learning Cohort](toolkit-for-building-a-virtual-learning-cohort.md) - A Mathematica toolkit that helps facilitators plan and evaluate virtual learning cohorts through guiding values and ten transferable planning tools.
 * [Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees](toolkit-of-guides-and-templates-for-launching-and-sustaining-an-intermediary-led-cohort-of.md) - A Mathematica toolkit of adaptable guides and templates for designing and facilitating meetings and for developing theories of change, collecting data, and synthesizing findings in strategic learning initiatives.
+* [Topic Checklist (TOC)](topic-checklist-toc.md) - A University of Limburg self-report instrument in which students rate time spent and perceived mastery across intended course topics to measure actual self-directed learning activities.
 * [Tough As Nails, Nimble Fingers (TAN) virtual computing PD project](tough-as-nails-nimble-fingers-tan-virtual-computing-pd-project.md) - An NSF-funded Digital Promise and Bit Source initiative delivering virtual K–8 computational-thinking professional development, including CT Booster sessions and micro-credentials, in rural Kentucky.
 * [TPI working procedures](tpi-working-procedures.md) - A structured framework developed for the TPI programme to guide online trainee researchers, tutors, and students through progressive research-project stages and related learning activities.
 * [TRACE-grade-prediction training code and anonymized dataset release](trace-grade-prediction-training-code-and-anonymized-dataset-release.md) - Paul Savala's TRACE release provides training code and an anonymized subset of enrollment records for retraining and replicating grade and course prediction models at other institutions.

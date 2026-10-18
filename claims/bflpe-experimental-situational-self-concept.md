@@ -51,3 +51,4 @@ In the randomized IVR experiment, regression of situational self-concept on dumm
 - [Higher proportions of hand-raising virtual classmates raise sixth-graders' perceived class performance level and register more hand-raisers in an IVR lesson](ivr-handraising-raises-perceived-class-performance.md) — related
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
 - [Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions](ivr-presence-realism-high-uniform.md) — related
+- [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related
