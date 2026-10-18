@@ -12,10 +12,15 @@ sources:
   - id: blair-2024
     resource: "https://doi.org/10.1007/s11251-024-09661-z"
     title: "Blair, K. P., Banes, L. C., & Martin, L. (2024). Fostering noticing of classroom discussion features through analysis of contrasting cases. Instructional Science, 52:417–452. https://doi.org/10.1007/s11251-024-09661-z"
-    author: "Blair, K. P., Banes, L. C., & Martin, L"
+    author: "Blair, K. P., Banes, L. C., & Martin, L."
+    q: 2
+    i: 3
 ---
 
 # A contrasting cases activity shifted the focus of preservice teachers' video noticing from teacher-focused to student-focused codes (significant time × subject-focus interaction)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` In Study 1, a repeated measures ANCOVA on pre/post video noticing codes found a significant time by subject-focus interaction (F(1,15) = 14.01, p < .01, ηp² = 0.48), with no significant main effect of time. [→ Blair 2024](#blair-2024)

@@ -16,6 +16,9 @@ sources:
 
 # Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that doctoral programs support durable methodological capabilities through ongoing opportunities for technical application, retrieval, and feedback, since a one-shot course produced significant decay within a year. It argues the asymmetry between conceptual and procedural decay "underscores the importance of designing learning experiences that support both durable conceptual frameworks and sustained opportunities for technical application". Traditional isolated methodological courses yield immediate gains but limited long-term retention.
 

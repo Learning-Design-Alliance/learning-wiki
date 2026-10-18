@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09591-8"
     title: "Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten. (2022). Do medium and Context Matter when learning from multiple complementary Digital texts and videos? Instructional Science (2022) 50:653–679. https://doi.org/10.1007/s11251-022-09591-8"
     author: Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten
+    q: 3
+    i: 1
 ---
 
 # Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` As a covariate, reading comprehension uniquely adjusted processing time (η²p = 0.036) and response length (η²p = 0.039), indicating better comprehenders were more engaged. [→ Lucia Mason 2022](#lucia-mason-2022)

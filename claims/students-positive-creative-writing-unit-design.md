@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09647-3"
     title: "Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen. (2024). Instruction in creative and argumentative writing: transfer and crossover effects on writing process and text quality. Instructional Science. https://doi.org/10.1007/s11251-023-09647-3"
     author: Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen
+    q: 2
+    i: "?"
   - id: anouk-ten-peze-2024-2
     resource: "https://doi.org/10.1007/s11251-023-09647-3"
     title: "Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen. (2024). Instruction in creative and argumentative writing: transfer and crossover effects on writing process and text quality. Instructional Science. https://doi.org/10.1007/s11251-023-09647-3"
     author: Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen
+    q: 2
+    i: "?"
 ---
 
 # Students in both panels were generally positive about the creative writing unit's instructional design, with only two items scoring below neutral and a group difference on one scale
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Participants in both panels were generally positive about the planned elements of the instructional design, with only two items below neutral. [→ Anouk ten Peze 2024](#anouk-ten-peze-2024)

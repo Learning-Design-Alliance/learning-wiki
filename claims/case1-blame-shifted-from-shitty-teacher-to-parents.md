@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09740-9"
     title: "Samantha A. Marshall, Grace A. Chen. (2025). Deficit narratives as teacher foils: how vulnerability and emotional regimes shape teacher discourse. Instructional Science. https://doi.org/10.1007/s11251-025-09740-9"
     author: Samantha A. Marshall, Grace A. Chen
+    q: 2
+    i: "?"
 ---
 
 # In Case 1, sustained self-critique by the focal teacher led colleagues to attribute students' mathematics failure to parenting and parental lack of authority
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` After the focal teacher called himself a 'shitty teacher' and persisted in negative self-critique, the conversation evolved into a discussion of how students' parents lack authority. [→ Samantha A. Marshall 2025](#samantha-a-marshall-2025)

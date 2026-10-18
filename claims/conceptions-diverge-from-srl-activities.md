@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-008-9067-4"
     title: "Remy M. J. P. Rikers, Tamara van Gog, Fred Paas. (2008). The effects of constructivist learning environments: a commentary. Instr Sci (2008) 36:463–467. https://doi.org/10.1007/s11251-008-9067-4"
     author: Remy M. J. P. Rikers, Tamara van Gog, Fred Paas
+    q: 2
+    i: "?"
 ---
 
 # Students' conceptions of self-regulated learning can diverge from their reported self-regulated learning activities
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Loyens and colleagues found students disagreed with statements about self-regulated learning (negative mean scores) yet reported higher use of self-regulated learning activities than a norm group. [→ Remy M. J. P. Rikers 2008](#remy-m-j-p-rikers-2008)

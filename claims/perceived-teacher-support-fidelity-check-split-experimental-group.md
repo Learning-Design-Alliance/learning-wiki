@@ -12,10 +12,15 @@ sources:
   - id: vogelzang-2021
     resource: "https://doi.org/10.1007/s11251-021-09554-5"
     title: "Vogelzang, J., Admiraal, W. F., van Driel, J. H. (2021). Scrum methodology in context-based secondary chemistry classes: effects on students' achievement and on students' perceptions of affective and metacognitive dimensions of their learning. Instructional Science. https://doi.org/10.1007/s11251-021-09554-5"
-    author: Vogelzang, J., Admiraal, W. F., van Driel, J. H
+    author: Vogelzang, J., Admiraal, W. F., van Driel, J. H.
+    q: 3
+    i: 3
 ---
 
 # Perceived teacher support differed substantially across the six Scrum-implementing teachers, providing the fidelity check that split the experimental group into top-teachers and growth-teachers.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` The six experimental teachers significantly differed in students' perceived support by teacher (η2 = 0.382), with two teachers scoring considerably higher (M = 4.49) and four lower (M = 3.70). [→ Vogelzang 2021](#vogelzang-2021)

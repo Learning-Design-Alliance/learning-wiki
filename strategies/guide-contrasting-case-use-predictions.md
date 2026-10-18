@@ -16,6 +16,9 @@ sources:
 
 # Explicitly guide students to use contrasting cases as grounded feedback by prompting intuitive predictions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 A forward-looking design recommendation drawn from the study's null result: because students in this experiment received no guidance on using the contrasting cases, the authors conclude that "novices often do not use the beneficial opportunities of contrasting cases when they are not explicitly guided to do so." They propose that future research should support students in utilizing the cases as grounded feedback by explicitly asking for intuitive predictions against which generated solution attempts are evaluated, and by drawing attention to the underlying principles the cases contrast. This strategy implements the knowledge-gap-awareness and deep-feature-discovery mechanisms of the PS-I framework.
 

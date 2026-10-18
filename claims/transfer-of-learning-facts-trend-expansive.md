@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-010-9145-2"
     title: "Randi A. Engle, Phi D. Nguyen, Adam Mendelson. (2011). The influence of framing on transfer: initial evidence from a tutoring experiment. Instr Sci 39:603–628. https://doi.org/10.1007/s11251-010-9145-2"
     author: Randi A. Engle, Phi D. Nguyen, Adam Mendelson
+    q: 3
+    i: "?"
 ---
 
 # A non-significant trend favored expansive framing on transfer-of-learning of facts (36% vs. 13%, p = .09)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Transfer-of-learning of facts showed a trend toward more transfer in the expansive condition (36% vs. 13%; F(1,20) = 3.27, p = .09); the difference was not statistically significant. [→ Randi A. Engle 2011](#randi-a-engle-2011)

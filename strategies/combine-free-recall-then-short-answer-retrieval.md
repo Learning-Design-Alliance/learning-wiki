@@ -16,6 +16,9 @@ sources:
 
 # Combine free-recall tasks followed by short-answer questions to cover both broad understanding and key information
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 For materials with some very important information where overall understanding also depends on broad knowledge, the article recommends applying both task formats: "students might first work on free-recall tasks to deepen their overall understanding. Then, they could answer short-answer questions to consolidate the most important key information." The authors note this mix of specific and unspecific recall tasks may explain why mixed-format tests showed higher weighted mean effect sizes in a recent meta-analysis they cite.
 

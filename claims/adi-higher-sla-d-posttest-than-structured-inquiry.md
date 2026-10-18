@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09672-w"
     title: "Gülüzar Eymur · Pınar Seda Çetin (2024). Investigating the role of an inquiry-based science lab on students' scientific literacy. Instructional Science (2024) 52:743–760. https://doi.org/10.1007/s11251-024-09672-w"
     author: Gülüzar Eymur · Pınar Seda Çetin
+    q: 3
+    i: 3
 ---
 
 # Eighth graders experiencing ADI instruction scored significantly higher on the post-test of demonstrated scientific literacy (SLA-D) than students experiencing structured inquiry
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` The ADI group outperformed the structured-inquiry comparison group on the post-SLA-D measure of demonstrated scientific literacy (d = 0.83). [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#gülüzar-eymur-pınar-seda-çetin-2024)

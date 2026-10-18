@@ -12,10 +12,15 @@ sources:
   - id: krebs-2021
     resource: "https://doi.org/10.1007/s11251-021-09552-7"
     title: "Krebs, M.-C., Schüler, A., & Scheiter, K. (2021). Do prior knowledge, model-observer similarity and social comparison influence the effectiveness of eye movement modeling examples for supporting multimedia learning? Instructional Science, 49, 607–635. https://doi.org/10.1007/s11251-021-09552-7"
-    author: "Krebs, M.-C., Schüler, A., & Scheiter, K"
+    author: "Krebs, M.-C., Schüler, A., & Scheiter, K."
+    q: 3
+    i: "?"
 ---
 
 # For recall performance, the study found no significant three-way interaction between modeling condition, prior knowledge activation and domain knowledge, so the model-observer similarity hypotheses were not supported.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the recall-performance three-way interaction model, no significant interaction emerged between modeling condition, PK activation and domain knowledge score, and Hypotheses 1–5 were not supported. [→ Krebs 2021](#krebs-2021)

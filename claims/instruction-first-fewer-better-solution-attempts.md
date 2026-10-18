@@ -12,14 +12,21 @@ sources:
   - id: loibl-2020
     resource: "https://doi.org/10.1007/s11251-020-09504-7"
     title: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T. (2020). The effect of contrasting cases during problem solving prior to and after instruction. Instructional Science. https://doi.org/10.1007/s11251-020-09504-7"
-    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T"
+    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T."
+    q: 3
+    i: 3
   - id: loibl-2020-2
     resource: "https://doi.org/10.1007/s11251-020-09504-7"
     title: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T. (2020). The effect of contrasting cases during problem solving prior to and after instruction. Instructional Science. https://doi.org/10.1007/s11251-020-09504-7"
-    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T"
+    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T."
+    q: 3
+    i: 3
 ---
 
 # Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Students who received instruction first generated significantly fewer solution attempts (η² = 0.16). [→ Loibl 2020](#loibl-2020)

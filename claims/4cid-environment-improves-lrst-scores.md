@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09606-4"
     title: "Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4"
     author: Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen
+    q: 2
+    i: 2
 ---
 
 # A 4C/ID-based online learning environment improves upper secondary students' research skills test scores from pretest to posttest
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Students improved significantly on the LRST posttest compared to pretest, d = -0.567. [→ Louise Maddens 2023](#louise-maddens-2023)

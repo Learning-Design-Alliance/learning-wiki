@@ -12,10 +12,15 @@ sources:
   - id: lucero-2024
     resource: "https://doi.org/10.1007/s11251-024-09659-7"
     title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
-    author: "Lucero, M., Montanero, M., & van Boxtel, C"
+    author: "Lucero, M., Montanero, M., & van Boxtel, C."
+    q: 2
+    i: "?"
 ---
 
 # Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Dyads completing a semiempty concept map produced significantly more argumentation and causal explanation utterances than dyads writing a collaborative summary, whose utterances were more often contextualization or off-analysis. [→ Lucero 2024](#lucero-2024)

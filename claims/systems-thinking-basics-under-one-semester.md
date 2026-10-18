@@ -12,10 +12,15 @@ sources:
   - id: peretz-2023
     resource: "https://doi.org/10.1007/s11251-023-09625-9"
     title: "Peretz, R., Tal, M., Akiri, E., Dori, D., & Dori, Y. J. (2023). Fostering engineering and science students' and teachers' systems thinking and conceptual modeling skills. Instructional Science, 51, 509–543. https://doi.org/10.1007/s11251-023-09625-9"
-    author: "Peretz, R., Tal, M., Akiri, E., Dori, D., & Dori, Y. J"
+    author: "Peretz, R., Tal, M., Akiri, E., Dori, D., & Dori, Y. J."
+    q: 2
+    i: "?"
 ---
 
 # Basics of systems thinking and conceptual modeling skills can be imparted within less than one semester
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Imparting the basics of systems thinking and conceptual modeling skills can be achieved within a short period of time — less than one semester. [→ Peretz 2023](#peretz-2023)

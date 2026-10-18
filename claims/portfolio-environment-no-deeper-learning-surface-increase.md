@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-008-9067-4"
     title: "Remy M. J. P. Rikers, Tamara van Gog, Fred Paas. (2008). The effects of constructivist learning environments: a commentary. Instr Sci (2008) 36:463–467. https://doi.org/10.1007/s11251-008-9067-4"
     author: Remy M. J. P. Rikers, Tamara van Gog, Fred Paas
+    q: 3
+    i: "?"
 ---
 
 # Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Using a pretest/posttest design, Baeten and colleagues found portfolio-based learning environments did not change students' assessment preferences and did not lead to deeper learning, while surface approaches increased significantly. [→ Remy M. J. P. Rikers 2008](#remy-m-j-p-rikers-2008)

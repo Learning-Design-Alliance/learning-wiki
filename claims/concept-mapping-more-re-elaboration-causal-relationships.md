@@ -12,14 +12,21 @@ sources:
   - id: lucero-2024
     resource: "https://doi.org/10.1007/s11251-024-09659-7"
     title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
-    author: "Lucero, M., Montanero, M., & van Boxtel, C"
+    author: "Lucero, M., Montanero, M., & van Boxtel, C."
+    q: 2
+    i: "?"
   - id: lucero-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09659-7"
     title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
-    author: "Lucero, M., Montanero, M., & van Boxtel, C"
+    author: "Lucero, M., Montanero, M., & van Boxtel, C."
+    q: 1
+    i: "?"
 ---
 
 # Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Re-elaboration of the partner's contributions across historical reasoning components was significantly more frequent in the semiempty concept mapping condition; the discussion estimates up to five times more re-elaborations of causal relationships than in summary writing. [→ Lucero 2024](#lucero-2024)

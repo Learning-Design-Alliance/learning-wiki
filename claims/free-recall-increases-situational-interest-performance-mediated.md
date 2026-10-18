@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09526-1"
     title: "Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl. (2020). It matters how to recall – task differences in retrieval practice. Instructional Science. https://doi.org/10.1007/s11251-020-09526-1"
     author: Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl
+    q: 2
+    i: "?"
 ---
 
 # Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Situational interest was higher after free-recall than after short-answer retrieval practice, and recall performance differences positively predicted interest differences. [→ Tino Endres 2020](#tino-endres-2020)

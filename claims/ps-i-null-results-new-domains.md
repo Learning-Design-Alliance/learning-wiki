@@ -13,17 +13,26 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
+    q: 2
+    i: "?"
   - id: katharina-loibl-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
+    q: 2
+    i: "?"
   - id: katharina-loibl-2025-3
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
+    q: 2
+    i: "?"
 ---
 
 # PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Loibl and Leuders (2024) found no significant effects for instructional sequence or inclusion of student solutions in Bayesian reasoning, though processes mediating learning and fit to intermediate knowledge appeared relevant. [→ Katharina Loibl 2025](#katharina-loibl-2025)

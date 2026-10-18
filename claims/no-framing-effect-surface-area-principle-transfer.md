@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-010-9145-2"
     title: "Randi A. Engle, Phi D. Nguyen, Adam Mendelson. (2011). The influence of framing on transfer: initial evidence from a tutoring experiment. Instr Sci 39:603–628. https://doi.org/10.1007/s11251-010-9145-2"
     author: Randi A. Engle, Phi D. Nguyen, Adam Mendelson
+    q: 3
+    i: "?"
 ---
 
 # No evidence that framing affected transfer of the surface area principle
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` For the surface area principle there were no main or interaction effects on immediate transfer measured three ways, with p-values ranging from .12 to 1.0; the study did not detect an effect. [→ Randi A. Engle 2011](#randi-a-engle-2011)

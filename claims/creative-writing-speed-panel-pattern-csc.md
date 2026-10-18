@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09647-3"
     title: "Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen. (2024). Instruction in creative and argumentative writing: transfer and crossover effects on writing process and text quality. Instructional Science. https://doi.org/10.1007/s11251-023-09647-3"
     author: Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen
+    q: 3
+    i: "?"
 ---
 
 # Students' creative writing speed decreased in panel 1 except for students with relatively high Creative Self-Concept, and increased in panel 2
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Creative writing speed decreased during the first panel except for relatively high Creative Self-Concept students, then increased in the second panel. [→ Anouk ten Peze 2024](#anouk-ten-peze-2024)

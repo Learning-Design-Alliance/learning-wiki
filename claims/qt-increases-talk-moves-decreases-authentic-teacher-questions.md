@@ -12,14 +12,21 @@ sources:
   - id: dammert-2026
     resource: "https://doi.org/10.1007/s11251-026-09809-z"
     title: "Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z"
-    author: "Dammert, Y., Gasser, L., & Murphy, P. K"
+    author: "Dammert, Y., Gasser, L., & Murphy, P. K."
+    q: 2
+    i: "?"
   - id: dammert-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09809-z"
     title: "Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervention on teachers' monologic and dialogic practices and the quality of students' contributions. Instructional Science. https://doi.org/10.1007/s11251-026-09809-z"
-    author: "Dammert, Y., Gasser, L., & Murphy, P. K"
+    author: "Dammert, Y., Gasser, L., & Murphy, P. K."
+    q: 2
+    i: "?"
 ---
 
 # The intervention increased teachers' talk moves but decreased authentic teacher questions, contradicting the dialogic-practice hypothesis for questions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among teachers who used talk moves, the intervention was associated with a 68% higher frequency than in the control group, with strong evidence (ER = 323). [→ Dammert 2026](#dammert-2026)

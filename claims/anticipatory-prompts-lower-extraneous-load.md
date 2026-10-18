@@ -12,10 +12,15 @@ sources:
   - id: meier-2024
     resource: "https://doi.org/10.1007/s11251-023-09651-7"
     title: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I. (2024). Better self-explaining backwards or forwards? Prompting self-explanation in video-based modelling examples for learning a diagnostic strategy. Instructional Science, 52, 613–638. https://doi.org/10.1007/s11251-023-09651-7"
-    author: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I"
+    author: "Meier, J., Hesse, P., Abele, S., Renkl, A., & Glogger-Frey, I."
+    q: 3
+    i: "?"
 ---
 
 # Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Apprentices in the anticipatory prompt condition reported significantly lower extraneous cognitive load than apprentices in the retrospective prompt condition. [→ Meier 2024](#meier-2024)

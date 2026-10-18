@@ -12,10 +12,15 @@ sources:
   - id: blair-2024
     resource: "https://doi.org/10.1007/s11251-024-09661-z"
     title: "Blair, K. P., Banes, L. C., & Martin, L. (2024). Fostering noticing of classroom discussion features through analysis of contrasting cases. Instructional Science, 52:417–452. https://doi.org/10.1007/s11251-024-09661-z"
-    author: "Blair, K. P., Banes, L. C., & Martin, L"
+    author: "Blair, K. P., Banes, L. C., & Martin, L."
+    q: 1
+    i: "?"
 ---
 
 # All participant pairs ranked the fully student-led Dialog E best, and disagreement about the elaborative-revoicing Dialog B reflected differences in values rather than in noticing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Pairs uniformly ranked Dialog E (completely student-led) best, followed by Dialog C (extensive teacher eliciting). [→ Blair 2024](#blair-2024)

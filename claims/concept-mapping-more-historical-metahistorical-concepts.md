@@ -12,10 +12,15 @@ sources:
   - id: lucero-2024
     resource: "https://doi.org/10.1007/s11251-024-09659-7"
     title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
-    author: "Lucero, M., Montanero, M., & van Boxtel, C"
+    author: "Lucero, M., Montanero, M., & van Boxtel, C."
+    q: 2
+    i: "?"
 ---
 
 # Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Utterances in the semiempty concept mapping condition contained significantly more substantive historical concepts and metahistorical concepts than utterances in the summary writing condition. [→ Lucero 2024](#lucero-2024)

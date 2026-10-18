@@ -16,6 +16,9 @@ sources:
 
 # Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Participants expected institutions to organize regular workshops and training sessions on GenAI use in translation, provide reliable and integrated support resources, subsidize access to state-of-the-art tools such as ChatGPT 4.0, and embed GenAI knowledge in the curriculum. Twelve of 63 participants advocated "the development of a dedicated course that starts from the foundational principles of GenAI and features more practices".
 

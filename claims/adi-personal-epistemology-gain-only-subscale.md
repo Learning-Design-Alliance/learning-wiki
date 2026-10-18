@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09672-w"
     title: "Gülüzar Eymur · Pınar Seda Çetin (2024). Investigating the role of an inquiry-based science lab on students' scientific literacy. Instructional Science (2024) 52:743–760. https://doi.org/10.1007/s11251-024-09672-w"
     author: Gülüzar Eymur · Pınar Seda Çetin
+    q: 3
+    i: 2
   - id: gülüzar-eymur-pınar-seda-çetin-2024-2
     resource: "https://doi.org/10.1007/s11251-024-09672-w"
     title: "Gülüzar Eymur · Pınar Seda Çetin (2024). Investigating the role of an inquiry-based science lab on students' scientific literacy. Instructional Science (2024) 52:743–760. https://doi.org/10.1007/s11251-024-09672-w"
     author: Gülüzar Eymur · Pınar Seda Çetin
+    q: 3
+    i: "?"
 ---
 
 # ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Post-test personal epistemology of science scores differed significantly between groups (t(65) = 3.05, p < .05, d = 0.79), while value of science and self-efficacy subscales did not differ. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#gülüzar-eymur-pınar-seda-çetin-2024)

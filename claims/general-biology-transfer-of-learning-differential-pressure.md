@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-010-9145-2"
     title: "Randi A. Engle, Phi D. Nguyen, Adam Mendelson. (2011). The influence of framing on transfer: initial evidence from a tutoring experiment. Instr Sci 39:603–628. https://doi.org/10.1007/s11251-010-9145-2"
     author: Randi A. Engle, Phi D. Nguyen, Adam Mendelson
+    q: 3
+    i: 3
 ---
 
 # General biology students in the expansive condition transferred more of what they learned about the differential pressure principle (d = 1.2)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Among general biology students, expansive-condition students transferred 78.6% of what they learned about differential pressure versus 33.6% in the bounded condition (d = 1.2; t(12) = 2.27, p < .05). [→ Randi A. Engle 2011](#randi-a-engle-2011)

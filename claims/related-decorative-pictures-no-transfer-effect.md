@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09618-8"
     title: "Demian Scherer, Annika Verkühlen, Stephan Dutke. (2023). Effects of related decorative pictures on learning and metacognition. Instructional Science. https://doi.org/10.1007/s11251-023-09618-8"
     author: Demian Scherer, Annika Verkühlen, Stephan Dutke
+    q: 3
+    i: 0
   - id: demian-scherer-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09618-8"
     title: "Demian Scherer, Annika Verkühlen, Stephan Dutke. (2023). Effects of related decorative pictures on learning and metacognition. Instructional Science. https://doi.org/10.1007/s11251-023-09618-8"
     author: Demian Scherer, Annika Verkühlen, Stephan Dutke
+    q: 3
+    i: 0
 ---
 
 # Related decorative pictures do not enhance transfer performance in either experiment (null results for correctness and metacognitive monitoring)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
 
 ## Subclaims
 `q3 i0` In Experiment 1, transfer performance did not differ between the pictures condition and the control condition. [→ Demian Scherer 2023](#demian-scherer-2023)

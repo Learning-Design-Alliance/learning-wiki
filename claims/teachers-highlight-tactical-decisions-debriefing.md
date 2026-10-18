@@ -12,14 +12,21 @@ sources:
   - id: sjöblom-2025
     resource: "https://doi.org/10.1007/s11251-025-09717-8"
     title: "Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8"
-    author: "Sjöblom, B., & Lymer, G"
+    author: "Sjöblom, B., & Lymer, G."
+    q: 2
+    i: "?"
   - id: sjöblom-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09717-8"
     title: "Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8"
-    author: "Sjöblom, B., & Lymer, G"
+    author: "Sjöblom, B., & Lymer, G."
+    q: 2
+    i: "?"
 ---
 
 # Teachers actively highlight specific in-game actions as examples of tactical decision-making, including distinguishing sound tactical reasoning from negative outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Connections between concrete in-game actions and the concept of tactics are not treated as transparent in the gaming experience but require active highlighting by instructors. [→ Sjöblom 2025](#sjöblom-2025)

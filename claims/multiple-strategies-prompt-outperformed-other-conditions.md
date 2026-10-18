@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
+    q: 2
+    i: "?"
 ---
 
 # In PS-I, prompting students to generate multiple strategies during the initial phase generally outperformed inventing one strategy or I-PS
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Velić and DeCaro (2025) found students prompted to generate multiple strategies during the initial PS-I phase generally outperformed the other conditions, with strategy-generation data suggesting the prompt promoted sense-making. [→ Katharina Loibl 2025](#katharina-loibl-2025)

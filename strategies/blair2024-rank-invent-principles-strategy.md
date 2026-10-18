@@ -16,6 +16,9 @@ sources:
 
 # Rank-and-invent-principles activity over contrasting discussion transcripts
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 A concrete implementable activity: pairs of learners receive short contrasting transcript cases printed on half sheets, rank the dialogs best to least good, and record "two to three principles that guided their ranking". Principles must explain the full ranking and be applicable to a new discussion. The ranking forces close pairwise comparisons that make the built-in contrasts stand out, and disagreements must be resolved. Supplemental new cases let learners test and refine their principles before a whole-class debrief and expert lecture.
 

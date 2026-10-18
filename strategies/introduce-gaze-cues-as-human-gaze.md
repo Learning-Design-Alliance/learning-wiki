@@ -16,6 +16,9 @@ sources:
 
 # Frame abstract gaze cues as human eye movements in the introductory text so learners perceive EMME as a social learning situation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because EMME visualize gaze with abstract stimuli such as a moving dot, circle or spotlight, the article argues that learners need to be told the cue's human origin for social factors to come into play. It cites evidence that people can interpret abstract cues as human eye movements, that anthropomorphic ascriptions change stimulus processing, and that belief in a cue's social origin improved visual search. Accordingly, when investigating alleged model-observer similarity, the authors "provided no further information about other model characteristics in the introductory text or in the EMME-videos", so the description of the model was the only source of information about it.
 

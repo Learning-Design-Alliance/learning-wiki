@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/11251"
     title: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen. (2001). Effects of problem-based discussion on studying a subsequent text: A randomized trial among first year medical students. Instructional Science 29: 33-44. https://link.springer.com/journal/11251"
     author: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen"
+    q: 3
+    i: "?"
 ---
 
 # Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` First-year medical students who discussed the relevant 'Stinging incident' problem recalled significantly more accurate propositions from a blood pressure regulation text than students who discussed an unrelated control problem. [→ W.S. de Grave 2001](#ws-de-grave-2001)

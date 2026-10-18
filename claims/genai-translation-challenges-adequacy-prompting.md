@@ -13,17 +13,26 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
+    q: 2
+    i: "?"
   - id: wenkang-zhang-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
+    q: 2
+    i: "?"
   - id: wenkang-zhang-2025-3
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
+    q: 2
+    i: "?"
 ---
 
 # Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Many students report redundancy, omission and mistranslation in GenAI-generated translations. [→ Wenkang Zhang 2025](#wenkang-zhang-2025)

@@ -12,10 +12,15 @@ sources:
   - id: ögren-2017
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
 ---
 
 # Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Participants spoke less when problems included a graph; the proportion of silence rose from 62.3% to 66.3% in the multimedia condition. [→ Ögren 2017](#ögren-2017)

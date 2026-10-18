@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09618-8"
     title: "Demian Scherer, Annika Verkühlen, Stephan Dutke. (2023). Effects of related decorative pictures on learning and metacognition. Instructional Science. https://doi.org/10.1007/s11251-023-09618-8"
     author: Demian Scherer, Annika Verkühlen, Stephan Dutke
+    q: 3
+    i: 2
 ---
 
 # Reading a text with related decorative pictures yields more correct answers to knowledge items than reading the text without pictures (Experiment 1, university students)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` University students who read a self-control text with thematically related decorative pictures answered significantly more knowledge items correctly than students who read the text without pictures, controlling for prior knowledge. [→ Demian Scherer 2023](#demian-scherer-2023)

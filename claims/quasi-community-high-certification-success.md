@@ -12,10 +12,15 @@ sources:
   - id: emad-2016
     resource: "https://doi.org/10.1007/s11251-016-9386-9"
     title: "Emad, G. R., & Roth, W.-M. (2016). Quasi-Communities: Rethinking Learning in Formal Adult and Vocational Education. Instructional Science. https://doi.org/10.1007/s11251-016-9386-9"
-    author: "Emad, G. R., & Roth, W.-M"
+    author: "Emad, G. R., & Roth, W.-M."
+    q: 2
+    i: "?"
 ---
 
 # Participation in the quasi-community pedagogy was followed by very high success in the certification examination
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` As the course progressed, students became competent with marine charts and certification-type tests, evident in their very high success rate in the end-of-course certification examination. [→ Emad 2016](#emad-2016)

@@ -12,10 +12,15 @@ sources:
   - id: rebetez-2010
     resource: "https://doi.org/10.1007/s11251-009-9117-6"
     title: "Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P. (2010). Learning from animation enabled by collaboration. Instructional Science, 38(5), 471–485. https://doi.org/10.1007/s11251-009-9117-6"
-    author: "Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P"
+    author: "Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P."
+    q: 3
+    i: "?"
 ---
 
 # Snapshots of critical steps were marginally beneficial for individual learners but significantly detrimental for dyads
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Providing snapshots of critical steps of the system had opposite effects by learning setting: marginally beneficial when studying individually, significantly detrimental when studying in dyads. [→ Rebetez 2010](#rebetez-2010)

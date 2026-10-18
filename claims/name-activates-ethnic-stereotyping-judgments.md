@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09681-9"
     title: "Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9"
     author: Sabine Schlag, Sabine Glock
+    q: 3
+    i: "?"
 ---
 
 # Simply inserting a name indicating Turkish-origin background produced less favorable judgments of otherwise identical student descriptions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Study 1, only the name differed between the two vignettes, yet judgments and video choices differed significantly by ethnicity. [→ Sabine Schlag 2024](#sabine-schlag-2024)

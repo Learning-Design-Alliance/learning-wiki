@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-021-09568-z"
     title: "Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel. (2022). Refuting student teachers' misconceptions about multimedia learning. Instructional Science, 50, 89–110. https://doi.org/10.1007/s11251-021-09568-z"
     author: Anja Prinz, Julia Kollmer, Lisa Flick, Alexander Renkl, Alexander Eitel
+    q: 2
+    i: "?"
 ---
 
 # Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Mediation analyses revealed no significant mediation effect of anger for conceptual change or transfer, not supporting Hypothesis 4. [→ Anja Prinz 2022](#anja-prinz-2022)

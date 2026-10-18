@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09526-1"
     title: "Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl. (2020). It matters how to recall – task differences in retrieval practice. Instructional Science. https://doi.org/10.1007/s11251-020-09526-1"
     author: Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl
+    q: 2
+    i: 3
 ---
 
 # Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` Specific short-answer retrieval practice led to better one-week-delayed retention of targeted content sections than free-recall practice, in both posttest formats. [→ Tino Endres 2020](#tino-endres-2020)

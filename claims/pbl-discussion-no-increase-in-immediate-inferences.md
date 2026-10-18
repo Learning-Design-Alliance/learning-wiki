@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/11251"
     title: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen. (2001). Effects of problem-based discussion on studying a subsequent text: A randomized trial among first year medical students. Instructional Science 29: 33-44. https://link.springer.com/journal/11251"
     author: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen"
+    q: 3
+    i: "?"
 ---
 
 # Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Inferences during free recall did not differ between the relevant-problem group (mean 9.56) and the control group (mean 11.19) when recall was tested immediately after study. [→ W.S. de Grave 2001](#ws-de-grave-2001)

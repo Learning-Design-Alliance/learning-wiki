@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09618-8"
     title: "Demian Scherer, Annika Verkühlen, Stephan Dutke. (2023). Effects of related decorative pictures on learning and metacognition. Instructional Science. https://doi.org/10.1007/s11251-023-09618-8"
     author: Demian Scherer, Annika Verkühlen, Stephan Dutke
+    q: 3
+    i: "?"
 ---
 
 # Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Eighth-grade students learning with related decorative pictures showed higher absolute accuracy (AC) and better discrimination (DIS) of confidence judgments for knowledge items than students learning without pictures. [→ Demian Scherer 2023](#demian-scherer-2023)

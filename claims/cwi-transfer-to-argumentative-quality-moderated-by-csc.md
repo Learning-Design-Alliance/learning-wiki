@@ -13,17 +13,26 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09647-3"
     title: "Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen. (2024). Instruction in creative and argumentative writing: transfer and crossover effects on writing process and text quality. Instructional Science. https://doi.org/10.1007/s11251-023-09647-3"
     author: Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen
+    q: 3
+    i: "?"
   - id: anouk-ten-peze-2024-2
     resource: "https://doi.org/10.1007/s11251-023-09647-3"
     title: "Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen. (2024). Instruction in creative and argumentative writing: transfer and crossover effects on writing process and text quality. Instructional Science. https://doi.org/10.1007/s11251-023-09647-3"
     author: Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen
+    q: 3
+    i: "?"
   - id: anouk-ten-peze-2024-3
     resource: "https://doi.org/10.1007/s11251-023-09647-3"
     title: "Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen. (2024). Instruction in creative and argumentative writing: transfer and crossover effects on writing process and text quality. Instructional Science. https://doi.org/10.1007/s11251-023-09647-3"
     author: Anouk ten Peze, Tanja Janssen, Gert Rijlaarsdam, Daphne van Weijen
+    q: 3
+    i: "?"
 ---
 
 # Creative writing instruction improved creative text quality in panel 1 and showed a transfer effect on argumentative text quality moderated by Creative Self-Concept, a pattern the second panel did not replicate
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the first panel, creative writing instruction had an effect on creative text quality compared to argumentative writing instruction, and AWI had no effect on argumentative text quality compared to CWI, indicating a transfer effect. [→ Anouk ten Peze 2024](#anouk-ten-peze-2024)

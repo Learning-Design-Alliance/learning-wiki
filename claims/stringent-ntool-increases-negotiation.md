@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-007-9018-5"
     title: "Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers. (2007). ICT-support for grounding in the classroom. Instructional Science 35, 535–556. https://doi.org/10.1007/s11251-007-9018-5"
     author: Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers
+    q: 2
+    i: "?"
 ---
 
 # High-coercion (Stringent) NTool increases explicit negotiation activities in secondary vocational collaborative problem-solving, though the verification effect was stronger in morning sessions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Coercion and psychological safety had significant main effects on negotiation of meaning per contribution, which was highest in the Stringent groups. [→ Pieter J. Beers 2007](#pieter-j-beers-2007)

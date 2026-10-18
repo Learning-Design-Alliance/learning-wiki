@@ -12,10 +12,15 @@ sources:
   - id: lucero-2024
     resource: "https://doi.org/10.1007/s11251-024-09659-7"
     title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
-    author: "Lucero, M., Montanero, M., & van Boxtel, C"
+    author: "Lucero, M., Montanero, M., & van Boxtel, C."
+    q: 2
+    i: "?"
 ---
 
 # Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Although summary dyads produced nearly twice as many utterances, off-analysis utterances dominated in the summary condition (69.3%) versus the concept mapping condition (34.3%), a significant difference. [→ Lucero 2024](#lucero-2024)

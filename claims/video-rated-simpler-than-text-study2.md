@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09681-9"
     title: "Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9"
     author: Sabine Schlag, Sabine Glock
+    q: 3
+    i: 3
 ---
 
 # Preservice teachers rated the video as simpler and more superficial than the text with the same content
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Both complexity and profundity ratings differed significantly between text and video, with the video rated simpler (d = 1.96) and more superficial (d = 1.00). [→ Sabine Schlag 2024](#sabine-schlag-2024)

@@ -12,10 +12,15 @@ sources:
   - id: lucero-2024
     resource: "https://doi.org/10.1007/s11251-024-09659-7"
     title: "Lucero, M., Montanero, M., & van Boxtel, C. (2024). Semiempty collaborative concept mapping in history education: students' engagement in historical reasoning and coconstruction. Instructional Science. https://doi.org/10.1007/s11251-024-09659-7"
-    author: "Lucero, M., Montanero, M., & van Boxtel, C"
+    author: "Lucero, M., Montanero, M., & van Boxtel, C."
+    q: 2
+    i: "?"
 ---
 
 # Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Summary-writing dyads used more elicitation whereas concept-mapping dyads used more externalization and integration utterances, indicating a higher level of co-construction in the concept mapping condition. [→ Lucero 2024](#lucero-2024)

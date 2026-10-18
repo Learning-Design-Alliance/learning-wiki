@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
+    q: 2
+    i: "?"
 ---
 
 # PS-I over a year in a university linear algebra course was followed by significantly higher final exam performance versus baseline cohorts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Baumgartner et al. (2025), students across four iterations of a PS-I linear algebra course showed significantly higher final exam performance compared to baseline cohorts, and active participation in PS-tasks predicted performance. [→ Katharina Loibl 2025](#katharina-loibl-2025)

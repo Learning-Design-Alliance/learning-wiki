@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09652-6"
     title: "Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6"
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
+    q: 2
+    i: "?"
 ---
 
 # Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Five dimensions were identified in pooled student responses, adding classroom management and student-orientated instruction to the three basic dimensions. [→ Xin Liu 2023](#xin-liu-2023)

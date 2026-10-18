@@ -16,6 +16,9 @@ sources:
 
 # Use expert teachers' gaze sequences, tailored to cultural context, as a template in professional development
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that professional development programmes attend to the cognitive models of expert teachers as revealed by their gaze sequences. Because "the order in which teachers look at differing regions of the classroom matters", novices can go beyond increasing eye contact to consider "the order in which they do things in classroom teaching". The article also stresses that the optimal model must take culture into consideration, since expertise manifests differently across cultural settings.
 

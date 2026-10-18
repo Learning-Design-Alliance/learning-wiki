@@ -16,6 +16,9 @@ sources:
 
 # Two-day lesson sequence: contrast pattern with identification exercise, then generalization pattern with sorting exercise, then reinforcement
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The treatment teaching across ten 40-minute lessons operationalized the patterns of variation. In the contrast lessons, "The teacher showed responses illustrating zero to three alternations of points of view, comparing them in order to highlight for the students how they differed in terms of number of alternations of points of view" on the same task. A reinforcement exercise had students estimate the number of alternating points of view in further responses. Lessons 4–7 implemented generalization across all three tasks, with students themselves sorting responses by number of alternations; lessons 8–9 reinforced both patterns with additional responses.
 

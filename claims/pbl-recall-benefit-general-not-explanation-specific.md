@@ -13,17 +13,26 @@ sources:
     resource: "https://link.springer.com/journal/11251"
     title: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen. (2001). Effects of problem-based discussion on studying a subsequent text: A randomized trial among first year medical students. Instructional Science 29: 33-44. https://link.springer.com/journal/11251"
     author: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen"
+    q: 3
+    i: "?"
   - id: ws-de-grave-2001-2
     resource: "https://link.springer.com/journal/11251"
     title: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen. (2001). Effects of problem-based discussion on studying a subsequent text: A randomized trial among first year medical students. Instructional Science 29: 33-44. https://link.springer.com/journal/11251"
     author: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen"
+    q: 3
+    i: "?"
   - id: ws-de-grave-2001-3
     resource: "https://link.springer.com/journal/11251"
     title: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen. (2001). Effects of problem-based discussion on studying a subsequent text: A randomized trial among first year medical students. Instructional Science 29: 33-44. https://link.springer.com/journal/11251"
     author: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen"
+    q: 3
+    i: "?"
 ---
 
 # The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The number of explanatory and descriptive propositions in recall did not differ significantly, and there was no significant treatment-by-type interaction. [→ W.S. de Grave 2001](#ws-de-grave-2001)

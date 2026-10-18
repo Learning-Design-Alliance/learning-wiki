@@ -12,10 +12,15 @@ sources:
   - id: loibl-2020
     resource: "https://doi.org/10.1007/s11251-020-09504-7"
     title: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T. (2020). The effect of contrasting cases during problem solving prior to and after instruction. Instructional Science. https://doi.org/10.1007/s11251-020-09504-7"
-    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T"
+    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T."
+    q: 3
+    i: "?"
 ---
 
 # Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Contrasting cases in the problem-solving material did not significantly affect conceptual understanding posttest scores or the quality of solution attempts. [→ Loibl 2020](#loibl-2020)

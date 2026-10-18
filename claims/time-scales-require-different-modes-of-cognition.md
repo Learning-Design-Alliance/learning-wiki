@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-016-9377-x"
     title: "H. P. A. Boshuizen. (2016). Teaching as regulation and dealing with complexity. Instructional Science, 44, 311–314. https://doi.org/10.1007/s11251-016-9377-x"
     author: H. P. A. Boshuizen
+    q: 1
+    i: "?"
 ---
 
 # Classroom events occur at different time scales requiring different modes of cognition
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Instant events require reflexive action, rapidly evolving events ask for intuitive decision making, and slow events allow a deliberative and analytic approach. [→ H. P. A. Boshuizen 2016](#h-p-a-boshuizen-2016)

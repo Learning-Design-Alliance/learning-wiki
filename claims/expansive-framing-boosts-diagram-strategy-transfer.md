@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-010-9145-2"
     title: "Randi A. Engle, Phi D. Nguyen, Adam Mendelson. (2011). The influence of framing on transfer: initial evidence from a tutoring experiment. Instr Sci 39:603–628. https://doi.org/10.1007/s11251-010-9145-2"
     author: Randi A. Engle, Phi D. Nguyen, Adam Mendelson
+    q: 3
+    i: "?"
 ---
 
 # Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Students in the expansive condition were much more likely to draw diagrams during the respiratory session (7 of 12) than bounded-condition students (1 of 12; G2(2) = 8.28, p = .02); no effect size is printed. [→ Randi A. Engle 2011](#randi-a-engle-2011)

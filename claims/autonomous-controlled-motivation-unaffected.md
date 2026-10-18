@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09606-4"
     title: "Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4"
     author: Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen
+    q: 2
+    i: 1
   - id: louise-maddens-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09606-4"
     title: "Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen. (2023). Fostering students' motivation towards learning research skills: the role of autonomy, competence and relatedness support. Instructional Science 51, 165–199. https://doi.org/10.1007/s11251-022-09606-4"
     author: Louise Maddens, Fien Depaepe, Annelies Raes, Jan Elen
+    q: 2
+    i: 0
 ---
 
 # Autonomous motivation decreased and controlled motivation increased overall, with no differences between the need-supportive and baseline conditions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Autonomous motivation fell significantly from pretest (M = 2.81, SD = 0.81) to posttest (M = 2.64, SD = 0.82), d = 0.254. [→ Louise Maddens 2023](#louise-maddens-2023)

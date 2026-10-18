@@ -12,10 +12,15 @@ sources:
   - id: sjöblom-2025
     resource: "https://doi.org/10.1007/s11251-025-09717-8"
     title: "Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8"
-    author: "Sjöblom, B., & Lymer, G"
+    author: "Sjöblom, B., & Lymer, G."
+    q: 2
+    i: "?"
 ---
 
 # In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers recurrently draw distinctions between tactics and other phenomena such as communication, teamwork, and technology when steering debriefing discussions, and students adopt these distinctions. [→ Sjöblom 2025](#sjöblom-2025)

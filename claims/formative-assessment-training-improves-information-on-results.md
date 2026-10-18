@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-016-9377-x"
     title: "H. P. A. Boshuizen. (2016). Teaching as regulation and dealing with complexity. Instructional Science, 44, 311–314. https://doi.org/10.1007/s11251-016-9377-x"
     author: H. P. A. Boshuizen
+    q: 1
+    i: "?"
 ---
 
 # Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Over three years, teachers improved their practices and could procure better information on the results of their teaching, which in turn led to better learning of students. [→ H. P. A. Boshuizen 2016](#h-p-a-boshuizen-2016)

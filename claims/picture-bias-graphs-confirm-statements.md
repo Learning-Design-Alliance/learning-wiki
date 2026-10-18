@@ -12,14 +12,21 @@ sources:
   - id: ögren-2017
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
   - id: ögren-2017-2
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
 ---
 
 # Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Presentation condition significantly predicted giving a confirmatory answer, with more confirmations in the multimedia condition. [→ Ögren 2017](#ögren-2017)

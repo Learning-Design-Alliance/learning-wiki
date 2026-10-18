@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
+    q: 2
+    i: "?"
   - id: wenkang-zhang-2025-2
     resource: "https://doi.org/10.1007/s11251-025-09705-y"
     title: "Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions of using generative AI in translation practices. Instructional Science. https://doi.org/10.1007/s11251-025-09705-y"
     author: Wenkang Zhang, Albert W. Li, Chenze Wu
+    q: 2
+    i: "?"
 ---
 
 # Students value GenAI corrective feedback with rationales and report increased motivation and confidence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students report using GenAI tools for corrective feedback on finished translation drafts, valuing the rationales behind the feedback. [→ Wenkang Zhang 2025](#wenkang-zhang-2025)

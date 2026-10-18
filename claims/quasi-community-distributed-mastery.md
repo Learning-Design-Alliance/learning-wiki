@@ -12,10 +12,15 @@ sources:
   - id: emad-2016
     resource: "https://doi.org/10.1007/s11251-016-9386-9"
     title: "Emad, G. R., & Roth, W.-M. (2016). Quasi-Communities: Rethinking Learning in Formal Adult and Vocational Education. Instructional Science. https://doi.org/10.1007/s11251-016-9386-9"
-    author: "Emad, G. R., & Roth, W.-M"
+    author: "Emad, G. R., & Roth, W.-M."
+    q: 2
+    i: "?"
 ---
 
 # Mastery in a quasi-community is dynamically and relatively distributed rather than structured as stable core-periphery hierarchy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In formal adult classrooms forming quasi-communities, hierarchy is dynamic and task-oriented, with any member exhibiting mastery by contributing expertise to the task at hand. [→ Emad 2016](#emad-2016)

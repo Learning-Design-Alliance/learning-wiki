@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
     title: "Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x"
     author: "Nora A. McIntyre & Tom Foulsham"
+    q: 3
+    i: 3
   - id: nora-a-mcintyre-tom-foulsham-2018-2
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
     title: "Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x"
     author: "Nora A. McIntyre & Tom Foulsham"
+    q: 3
+    i: "?"
 ---
 
 # Teacher scanpaths are most dissimilar across combined expertise-and-culture sub-groups, significantly for attentional gaze and marginally for communicative gaze
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Attentional scanpaths were significantly more similar within (M = 0.39) sub-groups (expertise × culture) than across (M = 0.37) them. [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)

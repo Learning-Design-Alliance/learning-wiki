@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-008-9067-4"
     title: "Remy M. J. P. Rikers, Tamara van Gog, Fred Paas. (2008). The effects of constructivist learning environments: a commentary. Instr Sci (2008) 36:463–467. https://doi.org/10.1007/s11251-008-9067-4"
     author: Remy M. J. P. Rikers, Tamara van Gog, Fred Paas
+    q: 2
+    i: "?"
 ---
 
 # In a constructivist learning environment, students' perceptions of assessment shifted toward deeper demands but their actual learning approaches did not, and surface approaches increased
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Gijbels and colleagues showed students changed their perception of assessment toward more deep-level demands but did not shift their actual learning approach toward a deeper one, and developed more surface approaches during the course. [→ Remy M. J. P. Rikers 2008](#remy-m-j-p-rikers-2008)

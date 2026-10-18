@@ -16,6 +16,9 @@ sources:
 
 # Choose individual texts and videos appropriate for specific students rather than deciding by representational format
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's general discussion recommends that material selection be tailored to the individual student rather than governed by whether the material is text or video. It states it is "crucial for (preservice) teachers to choose individual texts and videos that are appropriate for specific students and to avoid making general decisions based on the representational format", because perceiving videos as universally easy can overstrain students when videos are long and complex.
 

@@ -12,10 +12,15 @@ sources:
   - id: loibl-2020
     resource: "https://doi.org/10.1007/s11251-020-09504-7"
     title: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T. (2020). The effect of contrasting cases during problem solving prior to and after instruction. Instructional Science. https://doi.org/10.1007/s11251-020-09504-7"
-    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T"
+    author: "Loibl, K., Tillema, M., Rummel, N., & van Gog, T."
+    q: 3
+    i: "?"
 ---
 
 # Providing contrasting cases reduces the number of solution attempts students generate, both before and after instruction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Students who received contrasting cases generated significantly fewer solution attempts (p = 0.05, η² = 0.02). [→ Loibl 2020](#loibl-2020)

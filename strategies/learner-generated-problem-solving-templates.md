@@ -16,6 +16,9 @@ sources:
 
 # Have learners develop their own problem-solving templates instead of replicating instructor templates
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 An implementable teaching activity: provide answers to sample problems so activity shifts from finding answers to developing valid solution processes, then refuse to hand out templates and instead support learners in producing and comparing their own. The article states the pedagogy promotes "developing the situated processes of problem solving rather than solely replicating the existing method of solving problems," which the authors contrast with apprenticeship limited to expert modeling and replication.
 

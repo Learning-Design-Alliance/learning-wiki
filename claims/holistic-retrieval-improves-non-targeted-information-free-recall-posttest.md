@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-020-09526-1"
     title: "Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl. (2020). It matters how to recall – task differences in retrieval practice. Instructional Science. https://doi.org/10.1007/s11251-020-09526-1"
     author: Tino Endres, Lena Kranzdorf, Vivien Schneider, Alexander Renkl
+    q: 2
+    i: 2
 ---
 
 # Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Free-recall practice led to better retention of non-targeted content sections than short-answer practice on the free-recall posttest, but not on the short-answer posttest. [→ Tino Endres 2020](#tino-endres-2020)

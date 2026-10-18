@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-007-9018-5"
     title: "Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers. (2007). ICT-support for grounding in the classroom. Instructional Science 35, 535–556. https://doi.org/10.1007/s11251-007-9018-5"
     author: Pieter J. Beers, Paul A. Kirschner, Henny P. A. Boshuizen, Wim H. Gijselaers
+    q: 2
+    i: "?"
 ---
 
 # Cognitive load did not clearly increase during group work under high coercion; a three-way interaction of session time, cognitive load and coercion emerged, with a marginal main effect of coercion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A marginally significant main effect of coercion on cognitive load suggested load was highest in the Stringent groups, but load was not elevated during group collaboration itself. [→ Pieter J. Beers 2007](#pieter-j-beers-2007)

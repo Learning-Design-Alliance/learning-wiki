@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
     title: "Katharina Loibl, Valentina Nachtigall, Timo Leuders. (2025). Advances in research on composite instructional designs – investigating intermediate knowledge and preparation effects. Instructional Science. https://doi.org/10.1007/s11251-025-09751-6"
     author: Katharina Loibl, Valentina Nachtigall, Timo Leuders
+    q: 2
+    i: "?"
 ---
 
 # PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Saba et al. (2025), I-PS showed immediate gains in applying multivariable causality but PS-I demonstrated better transfer of MVC strategy and reasoning to a new context. [→ Katharina Loibl 2025](#katharina-loibl-2025)

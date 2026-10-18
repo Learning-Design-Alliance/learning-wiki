@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09652-6"
     title: "Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6"
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
+    q: 2
+    i: "?"
 ---
 
 # Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` CFA identified classroom management and classroom disciplinary climate as two different dimensions, distinct in conceptualization, item wording, and statistical model. [→ Xin Liu 2023](#xin-liu-2023)

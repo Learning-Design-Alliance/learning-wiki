@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-022-09591-8"
     title: "Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten. (2022). Do medium and Context Matter when learning from multiple complementary Digital texts and videos? Instructional Science (2022) 50:653–679. https://doi.org/10.1007/s11251-022-09591-8"
     author: Lucia Mason, Christian Tarchi, Angelica Ronconi, Lucia Manzione, Natalia Latini, Ivar Bråten
+    q: 3
+    i: "?"
 ---
 
 # No significant medium, context, or medium-by-context effects on written response length as a measure of behavioral engagement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The ANCOVA on response length showed no statistically significant main effect of medium or context and no significant interaction; equivalence was not tested. [→ Lucia Mason 2022](#lucia-mason-2022)

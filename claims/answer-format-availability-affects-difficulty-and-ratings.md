@@ -12,18 +12,27 @@ sources:
   - id: schuessler-2025
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: 1
   - id: schuessler-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: 3
   - id: schuessler-2025-3
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: "?"
 ---
 
 # Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i1`–`i3`
 
 ## Subclaims
 `q2 i1` Relative item difficulty is significantly lower for multiple-choice single-select items than for open-ended response questions (ΔM = 0.49, d = 0.38). [→ Schuessler 2025](#schuessler-2025)

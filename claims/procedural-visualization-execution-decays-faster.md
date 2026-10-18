@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-026-09808-0"
     title: "Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé. (2026). Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications. Instructional Science. https://doi.org/10.1007/s11251-026-09808-0"
     author: Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé
+    q: 3
+    i: "?"
 ---
 
 # Procedural execution in data visualization declined significantly and more steeply than conceptual understanding over twelve months
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Technical-execution rubric scores fell significantly, with a substantially steeper time coefficient than conceptual understanding, supporting H2. [→ Francisco José Jiménez-Hornero 2026](#francisco-josé-jiménez-hornero-2026)

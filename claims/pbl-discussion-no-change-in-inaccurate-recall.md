@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/11251"
     title: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen. (2001). Effects of problem-based discussion on studying a subsequent text: A randomized trial among first year medical students. Instructional Science 29: 33-44. https://link.springer.com/journal/11251"
     author: "W.S. de Grave, H.G. Schmidt & H.P.A. Boshuizen"
+    q: 3
+    i: "?"
 ---
 
 # Prior problem-based discussion does not change the number of inaccurate propositions recalled
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` There was no significant difference between conditions in the number of inaccurate propositions recalled. [→ W.S. de Grave 2001](#ws-de-grave-2001)

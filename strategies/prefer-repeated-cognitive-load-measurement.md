@@ -16,6 +16,9 @@ sources:
 
 # Prefer repeated measurement of cognitive load over a single delayed rating to capture changes during learning or performance
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on findings that delayed ratings at the end of a task set are affected by the most difficult task within the set, the article recommends that "repeated measurement of cognitive load should be preferred to get an impression of changes in cognitive load during performance or learning". Repeated immediate ratings can be implemented with single-item subjective scales, which the article notes are easy to implement even in huge samples, low in time exposure, and suitable for repeated measures.
 

@@ -12,10 +12,15 @@ sources:
   - id: peretz-2023
     resource: "https://doi.org/10.1007/s11251-023-09625-9"
     title: "Peretz, R., Tal, M., Akiri, E., Dori, D., & Dori, Y. J. (2023). Fostering engineering and science students' and teachers' systems thinking and conceptual modeling skills. Instructional Science, 51, 509–543. https://doi.org/10.1007/s11251-023-09625-9"
-    author: "Peretz, R., Tal, M., Akiri, E., Dori, D., & Dori, Y. J"
+    author: "Peretz, R., Tal, M., Akiri, E., Dori, D., & Dori, Y. J."
+    q: 2
+    i: "?"
 ---
 
 # An online cross-disciplinary learning process with OPM modeling assignments effectively enhanced systems thinking and modeling skills of learners, including those with no relevant background
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The online learning process effectively enhanced systems thinking and modeling skills of all learners, including those with no relevant background. [→ Peretz 2023](#peretz-2023)

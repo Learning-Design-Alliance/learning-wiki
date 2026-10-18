@@ -12,10 +12,15 @@ sources:
   - id: rebetez-2010
     resource: "https://doi.org/10.1007/s11251-009-9117-6"
     title: "Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P. (2010). Learning from animation enabled by collaboration. Instructional Science, 38(5), 471–485. https://doi.org/10.1007/s11251-009-9117-6"
-    author: "Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P"
+    author: "Rebetez, C., Betrancourt, M., Sangin, M., & Dillenbourg, P."
+    q: 2
+    i: "?"
 ---
 
 # Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The literature up to the study's date had not confirmed the intuitive expectation that animated graphics improve comprehension relative to static graphics, including in computer-supported collaborative learning settings. [→ Rebetez 2010](#rebetez-2010)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09672-w"
     title: "Gülüzar Eymur · Pınar Seda Çetin (2024). Investigating the role of an inquiry-based science lab on students' scientific literacy. Instructional Science (2024) 52:743–760. https://doi.org/10.1007/s11251-024-09672-w"
     author: Gülüzar Eymur · Pınar Seda Çetin
+    q: 2
+    i: "?"
 ---
 
 # ADI students' item-level gains concentrated on items about determining variables for a research question and on scientific inquiry questions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Experimental-group students outperformed comparison students on items 1, 5, 13 and 16 (determination of variables) and items 4, 10, 14 and 15 (scientific inquiry) in the post-SLA-D. [→ Gülüzar Eymur · Pınar Seda Çetin 2024](#gülüzar-eymur-pınar-seda-çetin-2024)

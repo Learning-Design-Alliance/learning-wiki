@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-026-09781-8"
     title: "Lukas Wesenberg, Sebastian Jansen, Felix Krieglstein, Felicia Meusel, Sascha Schneider, Georg Valtin, Günter Daniel Rey. (2026). The more, the worse? The influence of the seductive detail amount on learning. Instructional Science (2026) 54:29. https://doi.org/10.1007/s11251-026-09781-8"
     author: Lukas Wesenberg, Sebastian Jansen, Felix Krieglstein, Felicia Meusel, Sascha Schneider, Georg Valtin, Günter Daniel Rey
+    q: 3
+    i: "?"
 ---
 
 # In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Study 1, the greater the amount of SD content, the worse the recall of the learning material, with each 1% more SDs worsening the recall score by 0.11% of the maximum achievable score. [→ Lukas Wesenberg 2026](#lukas-wesenberg-2026)

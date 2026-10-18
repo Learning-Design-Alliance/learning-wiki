@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09721-y"
     title: "Kristoffer Larsson · Klas Andersson. (2025). Testing the use of variation theory in teaching critical thinking—a field experimental study. Instructional Science (2025) 53:1025–1046. https://doi.org/10.1007/s11251-025-09721-y"
     author: Kristoffer Larsson · Klas Andersson
+    q: 3
+    i: 3
 ---
 
 # Variation-theory-based teaching produces significantly larger gains than control teaching in 9th-grade students' alternations of points of view on a taught societal issue
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In a randomized field experiment, treatment students made on average 1.85 more alternations after the intervention versus 0.44 for controls on the voting-age task, with a significant group × time interaction (ηp2 = 0.39). [→ Kristoffer Larsson · Klas Andersson 2025](#kristoffer-larsson-klas-andersson-2025)

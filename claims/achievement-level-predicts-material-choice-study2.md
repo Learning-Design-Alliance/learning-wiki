@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09681-9"
     title: "Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9"
     author: Sabine Schlag, Sabine Glock
+    q: 3
+    i: "?"
 ---
 
 # Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In a logistic regression, achievement level predicted material choice while ethnic background did not. [→ Sabine Schlag 2024](#sabine-schlag-2024)

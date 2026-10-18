@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09681-9"
     title: "Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9"
     author: Sabine Schlag, Sabine Glock
+    q: 3
+    i: 3
 ---
 
 # Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` MANOVA revealed a significant main effect of student ethnicity on three judgment dimensions, with more negative judgments of the minority student (largest dimension effect d = 1.84 for low achievement). [→ Sabine Schlag 2024](#sabine-schlag-2024)

@@ -16,6 +16,9 @@ sources:
 
 # Provide teacher guidance on GenAI use, prompt engineering, ethics, and targeted classroom activities for translation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Translation students expected teachers to offer guidance on using GenAI in translation, including "decision-making between human translation and revision versus those augmented by GenAI, prompt engineering, and ethical implications". They also requested targeted classroom activities, such as ChatGPT-assisted assignments followed by revision discussions and human-versus-GenAI translation mini-competitions, and updates on latest GenAI tools and market information.
 

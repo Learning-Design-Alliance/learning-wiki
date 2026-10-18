@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-023-09652-6"
     title: "Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6"
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
+    q: 2
+    i: "?"
   - id: xin-liu-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09652-6"
     title: "Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6"
     author: Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke
+    q: 2
+    i: "?"
 ---
 
 # Mexico's measurement models differed from all other countries, so Mexico was excluded and the study reports seven countries
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In TALIS teacher data, none of the dimensions of mathematics instructional quality could be identified in Mexico. [→ Xin Liu 2023](#xin-liu-2023)

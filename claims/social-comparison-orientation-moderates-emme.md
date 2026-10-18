@@ -12,10 +12,15 @@ sources:
   - id: krebs-2021
     resource: "https://doi.org/10.1007/s11251-021-09552-7"
     title: "Krebs, M.-C., Schüler, A., & Scheiter, K. (2021). Do prior knowledge, model-observer similarity and social comparison influence the effectiveness of eye movement modeling examples for supporting multimedia learning? Instructional Science, 49, 607–635. https://doi.org/10.1007/s11251-021-09552-7"
-    author: "Krebs, M.-C., Schüler, A., & Scheiter, K"
+    author: "Krebs, M.-C., Schüler, A., & Scheiter, K."
+    q: 1
+    i: "?"
 ---
 
 # The exploratory analyses provided first evidence that social comparison orientation interacts with (alleged) model competence regarding EMME effectiveness.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The study reports first evidence of an interaction between learners' social comparison orientation and (alleged) model competence on the effectiveness of EMME, with further research needed. [→ Krebs 2021](#krebs-2021)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09681-9"
     title: "Sabine Schlag, Sabine Glock. (2024). The roles that students' ethnicity and achievement levels play in teachers' choice of learning materials in online teaching: evidence from two experimental studies. Instructional Science. https://doi.org/10.1007/s11251-024-09681-9"
     author: Sabine Schlag, Sabine Glock
+    q: 2
+    i: "?"
 ---
 
 # Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Achievement level led to material choice, and choice-specific reasons reflected ability and effort attributions in the printed path model. [→ Sabine Schlag 2024](#sabine-schlag-2024)

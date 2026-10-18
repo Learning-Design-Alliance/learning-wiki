@@ -16,6 +16,9 @@ sources:
 
 # Research on composite instructional designs should connect studies via a common theoretical model and may exploit machine-learning-based process data
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial recommends that future research connect multiple studies through a common theoretical model, so that preparation-effect assumptions can be tested coherently and advance theory building. It also expects that developments in methodology, "especially in data collection and evaluation utilizing machine learning strategies", can give a more detailed picture of learning processes in complex instructional designs.
 

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-025-09721-y"
     title: "Kristoffer Larsson · Klas Andersson. (2025). Testing the use of variation theory in teaching critical thinking—a field experimental study. Instructional Science (2025) 53:1025–1046. https://doi.org/10.1007/s11251-025-09721-y"
     author: Kristoffer Larsson · Klas Andersson
+    q: 3
+    i: "?"
 ---
 
 # Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Checks comparing treatment and control groups showed no significant differences on the pre-test or on mean merit rating; no effect size was reported for these checks. [→ Kristoffer Larsson · Klas Andersson 2025](#kristoffer-larsson-klas-andersson-2025)

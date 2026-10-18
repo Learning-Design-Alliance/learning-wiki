@@ -12,10 +12,15 @@ sources:
   - id: ögren-2017
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
 ---
 
 # Frequent eye transitions between graph and problem statement were marginally associated with correct answers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Transitions between the graph and the problem statement were marginally higher for students who answered correctly; no other transition types differed. [→ Ögren 2017](#ögren-2017)

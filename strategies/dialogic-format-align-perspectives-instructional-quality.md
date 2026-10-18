@@ -16,6 +16,9 @@ sources:
 
 # Adopt a dialogic format to align student and teacher perspectives on instructional quality within schools
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because teachers and students focus on different aspects of instruction — students on the nature of the learning environment and teacher support, teachers on instructional tasks, methods, and subject-domain features — the article recommends reframing the question of who judges quality. It states the question is "not who is the best 'expert' in judging instructional quality, but rather how a 'dialogic format' can be adopted to align the perspectives of students and teachers within schools in a certain country." The strategy treats both perspectives as complementary rather than competing measurement sources.
 

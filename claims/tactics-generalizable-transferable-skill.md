@@ -12,10 +12,15 @@ sources:
   - id: sjöblom-2025
     resource: "https://doi.org/10.1007/s11251-025-09717-8"
     title: "Sjöblom, B., & Lymer, G. (2025). Conceptual socialization in debriefing: tactics as an object of knowledge in wargame interactions. Instructional Science. https://doi.org/10.1007/s11251-025-09717-8"
-    author: "Sjöblom, B., & Lymer, G"
+    author: "Sjöblom, B., & Lymer, G."
+    q: 2
+    i: "?"
 ---
 
 # Teachers construe tactical reasoning as a generalizable, transferable skill, using the educational design of wargames to downplay concern with realism
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers argue wargame exercises are designed to train tactics rather than familiarity with specific terrain, fostering an orientation to transferable knowledge. [→ Sjöblom 2025](#sjöblom-2025)

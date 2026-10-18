@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
     title: "Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x"
     author: "Nora A. McIntyre & Tom Foulsham"
+    q: 3
+    i: "?"
   - id: nora-a-mcintyre-tom-foulsham-2018-2
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
     title: "Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and culture in teacher gaze in real-world classrooms. Instructional Science 46, 435-455. https://doi.org/10.1007/s11251-017-9445-x"
     author: "Nora A. McIntyre & Tom Foulsham"
+    q: 3
+    i: "?"
 ---
 
 # Expert teachers begin gaze sequences with student fixation and return to students throughout, whereas Hong Kong experts intersperse student scans that UK experts never use
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Experts in both cultures used student fixation first and alternated it with less student-oriented gaze in both attentional and communicative gaze; Hong Kong novices used no student fixations. [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)

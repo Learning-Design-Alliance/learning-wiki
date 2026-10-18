@@ -16,6 +16,9 @@ sources:
 
 # Video-based coaching cycles in which teachers analyze their own discussions, practice talk moves, and reflect on effectiveness
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 During implementation, "teachers participated in up to four video-based coaching sessions (C1–4), which were organized as a coaching cycle and grounded in a strengths-based approach". Throughout the iterative process, teachers analyzed their own classroom interactions, practiced talk moves, and reflected on their effectiveness, with the goal of transforming discussion routines by bolstering observational and reflective skills. Coaching was conducted by three experienced teachers trained in a three-day QT workshop, and this professional development accompanied the practice shifts reported in the study's results.
 

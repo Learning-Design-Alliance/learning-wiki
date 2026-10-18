@@ -12,14 +12,21 @@ sources:
   - id: schuessler-2025
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: 3
   - id: schuessler-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: "?"
 ---
 
 # Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` Invested mental effort is strongly correlated with relative task difficulty (r = -0.69) and with perceived task difficulty (r = 0.78). [→ Schuessler 2025](#schuessler-2025)

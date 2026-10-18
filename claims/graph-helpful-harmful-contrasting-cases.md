@@ -12,14 +12,21 @@ sources:
   - id: ögren-2017
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
   - id: ögren-2017-2
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
 ---
 
 # Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In problem P3 the graph raised correctness from 0.25 to 0.70; in P4 it lowered it from 0.38 to 0.10, and helpful graphs were selected, integrated and used to build mental models more actively. [→ Ögren 2017](#ögren-2017)

@@ -16,6 +16,9 @@ sources:
 
 # Develop the professional knowledge base through joint practice development by teachers and researchers
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article argues that utilisation of general research findings requires developing them into practices fitting the specific classroom, students, and subject matter. If left to individual teachers the resulting skill is "at best idiosyncratic". A format in which "practice development is the joint responsibility of a group of teachers, in cooperation with the researcher might be more fruitful in building a shared, well underpinned professional knowledge base."
 

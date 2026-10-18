@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-026-09808-0"
     title: "Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé. (2026). Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications. Instructional Science. https://doi.org/10.1007/s11251-026-09808-0"
     author: Francisco José Jiménez-Hornero, Eduardo Gutiérrez de Ravé
+    q: 3
+    i: "?"
 ---
 
 # Doctoral students' conceptual understanding of data visualization declined significantly over twelve months following structured instruction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Conceptual-understanding rubric scores declined significantly over the retention interval, averaging about a quarter of a rubric point per six-month interval. [→ Francisco José Jiménez-Hornero 2026](#francisco-josé-jiménez-hornero-2026)

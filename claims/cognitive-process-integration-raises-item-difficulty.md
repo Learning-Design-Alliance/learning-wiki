@@ -12,18 +12,27 @@ sources:
   - id: schuessler-2025
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: "?"
   - id: schuessler-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: "?"
   - id: schuessler-2025-3
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: "?"
 ---
 
 # Items requiring integration have higher relative item difficulty than items requiring selecting or organizing, and delayed perceived task difficulty ratings appear closer to integrating-item difficulty, though that correlation comparison is not significant
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Relative item difficulty differs significantly across cognitive processes (Welch's F(2, 80.030) = 4.94, p = 0.009), with Bonferroni post-hoc differences between integrating and selecting and between integrating and organizing. [→ Schuessler 2025](#schuessler-2025)

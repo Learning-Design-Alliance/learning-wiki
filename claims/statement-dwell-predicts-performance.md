@@ -12,14 +12,21 @@ sources:
   - id: ögren-2017
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
   - id: ögren-2017-2
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
     title: "Ögren, M., Nyström, M., & Jarodzka, H. (2017). There's more to the multimedia effect than meets the eye: is seeing pictures believing? Instructional Science, 45, 263–287. https://doi.org/10.1007/s11251-016-9397-6"
-    author: "Ögren, M., Nyström, M., & Jarodzka, H"
+    author: "Ögren, M., Nyström, M., & Jarodzka, H."
+    q: 2
+    i: "?"
 ---
 
 # Performance was unrelated to dwell time on the graph but increased with dwell time on the problem statement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Total dwell time on the graph showed no relationship to answering correctly. [→ Ögren 2017](#ögren-2017)

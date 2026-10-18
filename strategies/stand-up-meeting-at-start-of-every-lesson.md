@@ -16,6 +16,9 @@ sources:
 
 # Run short stand-up meetings at the start of every lesson around the team's scrum board
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 In the implemented Scrum module, "At the start of every lesson each group gathered around their Scrum board and had a small stand-up meeting (5 min)", in which members discussed what they had done in the last lesson, what they intended to do in the current lesson, and whether they experienced problems. The article argues this ceremony makes students mutually interdependent and brings each team member systematically into a situation of taking responsibility for the team effort.
 

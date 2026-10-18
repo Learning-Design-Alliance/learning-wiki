@@ -12,10 +12,15 @@ sources:
   - id: schuessler-2025
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
     title: "Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct validity of cognitive load measurement using single-item subjective rating scales. Instructional Science. https://doi.org/10.1007/s11251-024-09692-6"
-    author: "Schuessler, K., Fischer, V., & Walpuski, M"
+    author: "Schuessler, K., Fischer, V., & Walpuski, M."
+    q: 2
+    i: "?"
 ---
 
 # Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The four within-task difficulty categories differ significantly in relative item difficulty (Welch's F(3, 63.882) = 19.07, p ≤ 0.001), with most difficult items exceeding all other categories. [→ Schuessler 2025](#schuessler-2025)
