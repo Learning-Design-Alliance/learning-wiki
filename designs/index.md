@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**849 entries** · 0 stable · 849 in review · 0 drafts
+**848 entries** · 0 stable · 848 in review · 0 drafts
 
 ---
 
@@ -181,7 +181,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Conceptual model positioning students as co-designers of course policies through guided inquiry, perspectival thinking, and student voice](guided-inquiry-perspectival-student-voice-genai-model.md) - The article's conceptual model (Figure 1) positions students not only as learners but as co-designers of course structures and policies.
 * [Conditions for equitable learning and development framework: personal, school, and system conditions](conditions-for-equitable-learning-and-development-three-categories.md) - The guide organizes the conditions needed for equitable learning and development into three categories drawn from ecological models of development.
 * [Configurable scenery generator instantiating formal and informal learning fields](scenery-generator-learning-fields.md) - The scenery generator instantiates scenarios as parameterized learning fields with spatial structure, participant roles, resources, communication channels, schedules, norms, and evaluation expectations.
-* [Conjecture map linking planning-tool design to self-regulation outcomes in CSCL](conjecture-map-planning-cscl.md) - The article uses a conjecture map, described as \"A representation of the design and theoretical conjectures concerning the planning phase of self-regulation.\" Its design conjectures state that if students engage in a...
 * [Constrained sentence-production tasks with limited color vocabulary (syntactic-priming and sentence-completion tasks)](constrained-production-tasks-limited-vocabulary.md) - Two novel controlled production instruments for eliciting Korean passive sentences.
 * [Content Area Review Panels (CARPs)](carp-content-area-review-panels-nevada.md) - CARPs are the Nevada panels that \"Evaluate and rate instructional materials submitted by publishers.\" Per Table 1, they include subject-matter experts, content-area and special education teachers, curriculum directors...
 * [Context prompts: instructor-designed prompts defining role, task, and boundaries of a Gen AI interaction](context-prompts-gen-ai-physics.md) - The article's central framework is the context prompt: instructor-designed prompts that establish guidelines for generative AI to follow during student interactions.

@@ -76,7 +76,7 @@
 "research-methods->claims":350,
 "research-methods->research-methods":17,
 "strategies->claims":2676,
-"strategies->designs":57,
+"strategies->designs":56,
 "strategies->elements":2063,
 "strategies->methods":13,
 "strategies->patterns":679,
@@ -18679,7 +18679,6 @@
 "combined-measurement-laser-statistics-lab-pattern":{"designs":[{"slug":"demo-inquiry-model-discussion-sequence"}]},
 "community-integrated-data-system-ucla-cs":{"designs":[{"slug":"six-key-practices-community-school-immigrant-communities"}]},
 "compound-line-graph-ai-integration-lesson":{"designs":[{"slug":"three-stage-perceiving-comprehending-creating-pathway"}]},
-"conjecture-map-planning-cscl":{"strategies":[{"slug":"cscl-planning-support-design-principles"}]},
 "constructive-alignment-genai-embedding-extension":{"strategies":[{"slug":"embed-genai-into-existing-pedagogical-strategies"}]},
 "constructivist-model-reconstruction-course-pattern":{"patterns":[{"slug":"traditional-lecture-based-instruction"}],"principles":[{"slug":"teacher-as-mediator-not-content-disseminator"}],"theories":[{"slug":"reflective-judgment-framework-three-levels"}]},
 "context-prompts-gen-ai-physics":{"strategies":[{"slug":"ai-reflection-context-prompt-assignments"}]},
@@ -21998,17 +21997,17 @@
 },
 "note":"Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
 "totals":{
-"claims":19356,
-"designs":849,
+"claims":19355,
+"designs":848,
 "elements":1066,
 "learner-variables":74,
 "methods":38,
 "patterns":68,
 "principles":213,
 "processes":18,
-"products":1721,
+"products":1720,
 "research-methods":359,
-"strategies":6013,
+"strategies":6012,
 "theories":1361
 }
 }

@@ -37,7 +37,7 @@ The article culminates in a recommendation that education adopt scientific visua
 - exploratory inquiry-driven science learning
 
 ### Affordances
-- [Scientific Visualization Inscriptional System](../theories/scientific-visualization-inscriptional-system.md)
+- Scientific Visualization Inscriptional System
 
 ## Related Strategies
 - 

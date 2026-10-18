@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1721 entries** · 0 stable · 1721 in review · 0 drafts
+**1720 entries** · 0 stable · 1720 in review · 0 drafts
 
 ---
 
@@ -802,7 +802,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### L {: #letter-l }
 
 * [Labelled corpus of 4,217 discussion posts](labelled-corpus-of-4217-discussion-posts.md) - A dataset created by Gorgun et al.
-* [LabNbook](labnbook.md) - LabNbook is a web-based platform for collaborative science learning and report writing, providing text, drawing, protocol, spreadsheet/graphing, and Python-notebook tools for higher-education science students.
 * [Ladders to Literacy](ladders-to-literacy.md) - A supplemental kindergarten literacy curriculum developed by Notari-Syverson, O’Connor, and Vadasy and published by Sopris West, with activities targeting print awareness, phonological awareness, and oral language.
 * [Large Arizona school district dataset for EL reclassification modeling](large-arizona-school-district-dataset-for-el-reclassification-modeling.md) - A large Arizona school district longitudinal dataset used by Tyler Matta to jointly model English-proficiency development and the timing of English-learner reclassification.
 * [Large-scale Cognitive Tutor log dataset from over 7,000 pre-algebra students](large-scale-cognitive-tutor-log-dataset-from-over-7000-pre-algebra-students.md) - A large-scale dataset of more than 35 million observations from over 7,000 pre-algebra students using Cognitive Tutor, created by Ritter et al.

@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":19356,
-"design":849,
+"claim":19355,
+"design":848,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1721,
+"product":1720,
 "research-method":359,
-"strategy":6013,
+"strategy":6012,
 "theory":1361
 },
 "kinds":[
@@ -57989,15 +57989,6 @@
 "path":"claims/factors-driving-alternative-certification-growth.md",
 "status":"review",
 "title":"Multiple workforce factors contributed to the growth of alternative teacher certification programs",
-"type":"claim"
-},
-{
-"description":"Study 1 identified factors influencing planning and goal setting in team TEL and experimental science activities",
-"evidence_strength":"weak",
-"id":"factors-influencing-cscl-planning-goal-setting",
-"path":"claims/factors-influencing-cscl-planning-goal-setting.md",
-"status":"review",
-"title":"Study 1 identified factors influencing planning and goal setting in team TEL and experimental science activities",
 "type":"claim"
 },
 {
@@ -175738,14 +175729,6 @@
 "type":"design"
 },
 {
-"description":"The article uses a conjecture map, described as \\\"A representation of the design and theoretical conjectures concerning the planning phase of self-regulation.\\\" Its design conjectures state that if students engage in a...",
-"id":"conjecture-map-planning-cscl",
-"path":"designs/conjecture-map-planning-cscl.md",
-"status":"review",
-"title":"Conjecture map linking planning-tool design to self-regulation outcomes in CSCL",
-"type":"design"
-},
-{
 "description":"Two novel controlled production instruments for eliciting Korean passive sentences.",
 "id":"constrained-production-tasks-limited-vocabulary",
 "path":"designs/constrained-production-tasks-limited-vocabulary.md",
@@ -200243,14 +200226,6 @@
 "type":"product"
 },
 {
-"description":"LabNbook is a web-based platform for collaborative science learning and report writing, providing text, drawing, protocol, spreadsheet/graphing, and Python-notebook tools for higher-education science students.",
-"id":"labnbook",
-"path":"products/labnbook.md",
-"status":"review",
-"title":"LabNbook",
-"type":"product"
-},
-{
 "description":"A supplemental kindergarten literacy curriculum developed by Notari-Syverson, O’Connor, and Vadasy and published by Sopris West, with activities targeting print awareness, phonological awareness, and oral language.",
 "id":"ladders-to-literacy",
 "path":"products/ladders-to-literacy.md",
@@ -219719,14 +219694,6 @@
 "path":"strategies/csc-teacher-workshop-and-training-of-trainers.md",
 "status":"review",
 "title":"One-day teacher workshop plus optional training-of-trainers for implementing CSC",
-"type":"strategy"
-},
-{
-"description":"The article reports the formulation of \\\"CSCL design principles and recommendations to support individual and group activity planning and goal setting\\\", together with guidelines for applying these results in similar te...",
-"id":"cscl-planning-support-design-principles",
-"path":"strategies/cscl-planning-support-design-principles.md",
-"status":"review",
-"title":"Design principles and recommendations for supporting individual and group planning in CSCL",
 "type":"strategy"
 },
 {
@@ -276558,7 +276525,6 @@
 "facilities-ratings-rise-with-enrollment-size":"facilities-ratings-rise-with-enrollment-size",
 "fact-retrieval-tutoring-md-subtype-interaction":"fact-retrieval-tutoring-md-subtype-interaction",
 "factors-driving-alternative-certification-growth":"factors-driving-alternative-certification-growth",
-"factors-influencing-cscl-planning-goal-setting":"factors-influencing-cscl-planning-goal-setting",
 "factors-shaping-grammar-beliefs-outside-use-top":"factors-shaping-grammar-beliefs-outside-use-top",
 "factria-chatbot-increases-subfactors-considered":"factria-chatbot-increases-subfactors-considered",
 "factria-chatbot-usability-sus-70-84":"factria-chatbot-usability-sus-70-84",
@@ -289948,7 +289914,6 @@
 "conceptual-model-cultural-contextual-discussion-behaviors":"conceptual-model-cultural-contextual-discussion-behaviors",
 "conditions-for-equitable-learning-and-development-three-categories":"conditions-for-equitable-learning-and-development-three-categories",
 "conditions-for-successful-coaching-implementation":"conditions-for-successful-coaching-implementation",
-"conjecture-map-planning-cscl":"conjecture-map-planning-cscl",
 "constrained-production-tasks-limited-vocabulary":"constrained-production-tasks-limited-vocabulary",
 "constructionism-imagineering-process-metaverse":"constructionism-imagineering-process-metaverse",
 "constructive-alignment-genai-embedding-extension":"constructive-alignment-genai-embedding-extension",
@@ -293243,7 +293208,6 @@
 "kwara-stem-ai-tutor":"kwara-stem-ai-tutor",
 "kwik":"kwik",
 "labelled-corpus-of-4217-discussion-posts":"labelled-corpus-of-4217-discussion-posts",
-"labnbook":"labnbook",
 "ladders-to-literacy":"ladders-to-literacy",
 "large-arizona-school-district-dataset-for-el-reclassification-modeling":"large-arizona-school-district-dataset-for-el-reclassification-modeling",
 "large-scale-cognitive-tutor-log-dataset-from-over-7000-pre-algebra-students":"large-scale-cognitive-tutor-log-dataset-from-over-7000-pre-algebra-students",
@@ -295761,7 +295725,6 @@
 "cross-stakeholder-ai-education-action-recommendations":"cross-stakeholder-ai-education-action-recommendations",
 "cross-system-data-sharing-agreement-foster-care":"cross-system-data-sharing-agreement-foster-care",
 "csc-teacher-workshop-and-training-of-trainers":"csc-teacher-workshop-and-training-of-trainers",
-"cscl-planning-support-design-principles":"cscl-planning-support-design-principles",
 "csi-linked-learning-integration":"csi-linked-learning-integration",
 "csr-embedded-scheduling-strategy":"csr-embedded-scheduling-strategy",
 "ct-examples-before-teacher-lesson-design":"ct-examples-before-teacher-lesson-design",

@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**19356 entries** · 0 stable · 19356 in review · 0 drafts
+**19355 entries** · 0 stable · 19355 in review · 0 drafts
 
 ---
 
@@ -15630,7 +15630,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25](character-ed-studies-mostly-measure-student-outcomes.md) - Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25
 * [Studies on the effectiveness of hypermedia learning have produced ambiguous results](ambiguous-hypermedia-effectiveness-results.md) - Studies on the effectiveness of hypermedia learning have produced ambiguous results
 * [Studies relying exclusively on the Applied Problems subtest are likely to miss small but meaningful influences on early math achievement because the measure is less sensitive to variation among young children](applied-problems-misses-small-moderation-effects.md) - Studies relying exclusively on the Applied Problems subtest are likely to miss small but meaningful influences on early math achievement because the measure is less sensitive to variation among young children
-* [Study 1 identified factors influencing planning and goal setting in team TEL and experimental science activities](factors-influencing-cscl-planning-goal-setting.md) - Study 1 identified factors influencing planning and goal setting in team TEL and experimental science activities
 * [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](within-school-randomization-trade-offs-tfa.md) - Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience
 * [Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education](study-preferences-exist-but-insufficient.md) - Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education
 * [Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller and non-significant.](study-setting-moderates-genai-productivity-gains.md) - Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller...
