@@ -68,3 +68,4 @@ Dimension-level agreement on the 40 pilot recordings was strongest for logical c
 - [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — a broader claim this one bears on
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
 - [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — a narrower finding that bears on this claim
+- [Students were reasonably accurate overall across the nine scored interview questions (M = 6.17, SD = 2.12), with accuracy varying by question type](overall-interview-accuracy-reasonable.md) — related

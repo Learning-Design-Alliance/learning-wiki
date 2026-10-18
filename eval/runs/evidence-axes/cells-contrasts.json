@@ -33746,5 +33746,181 @@
  "scaffolding\ttransparent goal cue tracked with a finger\tabstract cue tracked with a finger": {
   "label": "transparent vs abstract goal cue",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tCVS classroom instruction\tpreinstruction performance": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCVS instruction\tbefore CVS instruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter classroom instruction\tbefore instruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclassroom expository instruction on CVS\tpreinstruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclassroom expository instruction on CVS\tpreinstruction baseline": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclassroom instruction in controlled experimentation\tpre-instruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclassroom instruction in the control of variables strategy\tpreinstruction baseline": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclassroom intervention with expository instruction on controlled experiments\tpreinstruction performance": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction on control of variables strategy\tpre-instruction baseline": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texpository CVS instruction plus probes\tprobes without explicit CVS instruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texpository CVS instruction plus probes\tunguided exploration without instruction or probes": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfourth-graders receiving expository instruction\tuntrained fourth-graders": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction phases\tpretest before instruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpostinstruction assessment after expository classroom instruction\tpreinstruction assessment": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t$10,000 award cap\t$20,000 award cap": {
+  "label": "higher award cap vs lower award cap",
+  "treatment_is_a": false
+ },
+ "learner-difference\t$20,000 maximum GSTG award\t$10,000 maximum GSTG award": {
+  "label": "higher award cap vs lower award cap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t0.5 numerical ratio\t0.8 numerical ratio": {
+  "label": "0.5 numerical ratio vs 0.8 numerical ratio",
+  "treatment_is_a": true
+ },
+ "learner-difference\t0–5 years of teaching experience\tmixed, neutral, or negative experience estimates": {
+  "label": "positive teaching experience vs mixed, neutral, or negative experience",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10 selected items with item–total correlations greater than 0.40\t2 selected items with item–total correlations at or below 0.40": {
+  "label": "higher item–total correlation vs lower item–total correlation",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10% unlearning\t30% and 50% unlearning": {
+  "label": "lower unlearning vs higher unlearning",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10-year-olds\tyoung adults": {
+  "label": "younger learners vs young adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10th-grade LTEL7 students\t12th-grade LTEL7 students": {
+  "label": "lower-grade students vs higher-grade students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t11 RIT fall-to-spring gain from a fall score of 233\texpected 8 RIT gain for students starting at the 55th fall percentile": {
+  "label": "higher RIT gain vs lower expected RIT gain",
+  "treatment_is_a": true
+ },
+ "learner-difference\t11th graders\t8th graders": {
+  "label": "older students vs younger students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t11th-grade students\t8th-grade students": {
+  "label": "older students vs younger students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t13-year-olds\tyoung adults": {
+  "label": "younger learners vs young adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t16-year-olds\tyoung adults": {
+  "label": "younger learners vs young adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t18–24 year-olds\t12–14 year-olds": {
+  "label": "older young adults vs younger adolescents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t18–24 year-olds\t14–17 year-olds": {
+  "label": "older young adults vs younger adolescents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t18–24-year-olds\t12–14- and 14–17-year-olds": {
+  "label": "older young adults vs younger adolescents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t18–24-year-olds\t12–14-year-olds": {
+  "label": "older young adults vs younger adolescents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t18–24-year-olds\t14–17-year-olds": {
+  "label": "older young adults vs younger adolescents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t19 per-question performance features\tsingle average-grade feature": {
+  "label": "multiple performance features vs single average-grade feature",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1978–83 birth-cohort tract-level outcome estimates\t1984–89 birth-cohort tract-level outcome estimates": {
+  "label": "older birth cohort vs younger birth cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1st-grade students (GI)\t2nd- to 5th-grade students (GII-GV)": {
+  "label": "younger students vs older students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2-year-old children\tinfants": {
+  "label": "older toddlers vs infants",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2005 CPS graduates aspiring to a four-year degree\tfull CPS graduate cohort": {
+  "label": "four-year-degree aspirants vs full graduate cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2007 White–Black gap at grade 4\tWhite–Black gap in 1992": {
+  "label": "later achievement gap vs earlier achievement gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2007 White–Black gap at grade 4\tWhite–Black gap in 2005": {
+  "label": "later achievement gap vs earlier achievement gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2007 gender score gap\tgender score gap 15 years earlier": {
+  "label": "current gender score gap vs earlier gender score gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2007 racial/ethnic achievement gaps at grade 8\tCorresponding gaps in 1992": {
+  "label": "later racial/ethnic achievement gaps vs earlier gaps",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2007 racial/ethnic achievement gaps at grade 8\tCorresponding gaps in 2005": {
+  "label": "later racial/ethnic achievement gaps vs earlier gaps",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2009 assessment\t2000 assessment": {
+  "label": "later assessment vs earlier assessment",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2012 compared with 2003 among youth with disabilities\t2003": {
+  "label": "later assessment period vs earlier assessment period",
+  "treatment_is_a": true
  }
 }

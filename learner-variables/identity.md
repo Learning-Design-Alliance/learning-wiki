@@ -12,7 +12,7 @@ generated:
 # Identity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (41 show a difference, 8 mixed, 3 no difference) · 30 studies (9 associational, 8 qualitative, 5 causal, 4 review, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 30 report an effect size · 51 claims rest on one study
+> **Evidence** · 55 claims (44 show a difference, 8 mixed, 3 no difference) · 31 studies (9 associational, 9 qualitative, 5 causal, 4 review, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 31 report an effect size · 54 claims rest on one study
 
 ## Description
 Identity is a learner's sense of self and understanding of who they are, which shapes how they engage with the world. It begins forming in infancy, develops most intensely during adolescence, and keeps changing in adult life. Commonly named aspects include race, ethnicity, gender, cultural background, language and disability status. In early childhood children begin to form identities as they learn about themselves and their world; in middle childhood they come to understand social categories in more depth and start to take on social identities through interaction with peers and educators; in adolescence peers and social life take on more weight and learners navigate social spaces more independently. The LVN summaries tie identity to learning in three ways: a positive ethnic-racial identity is associated with achievement and self-esteem, it can buffer the harm of discrimination, and identity-based stereotypes can produce [stereotype threat](stereotype-threat.md) and weaken [belonging](belonging.md). It is measured mainly with ethnic and racial identity scales for older children and adolescents. The group categories themselves are not causes of learning outcomes: see the wiki's pages on [race and ethnicity](race-and-ethnicity.md) and [gender](gender.md), where differences are read as reflecting circumstances and treatment. The LVN covers identity for pre-kindergarten to grade 12 only.
@@ -87,6 +87,9 @@ Identity is a learner's sense of self and understanding of who they are, which s
 - [The EI-to-FES path is significant only for U.S.-born families](../claims/ei-fes-path-significant-only-usborn-families.md) [~M] — learners who differ on it differ in outcomes
 - [The FES-to-EI path is significant for Mexico-born and mixed-nativity families but not for U.S.-born families](../claims/fes-ei-path-significant-immigrant-not-usborn-families.md) [~M] — an instructional effect differs with it
 - [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](../claims/demographic-correlates-identity-motivation.md) [+M] — learners who differ on it differ in outcomes
+- [Opportunities to gain the agentive identity of “agents of change” are intertwined with a macro- and meso-level geopolitical matrix of power](../claims/agentive-identity-access-tied-to-geopolitical-power.md) [+M] — instruction changes it
+- [Students positioned as leaders thickened an “agents of change” identity by using surveys, data, and graphs to convince others, including teachers](../claims/agents-of-change-identity-thickened-through-data-mobilization.md) [+M] — instruction changes it
+- [The institutionalized “ELL” label positioned labelled students as the Other, depriving them of access to agentive participation in the unit](../claims/ell-label-positioned-students-as-other.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Multigroup Ethnic Identity Measure, Revised (MEIM-R)** (Phinney & Ong, 2007): a brief survey of affiliation with one's ethnic group for older elementary students and adolescents.

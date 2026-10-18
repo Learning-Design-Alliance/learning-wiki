@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (34 show a difference, 13 mixed, 6 no difference, 2 unmarked) · 52 studies (15 associational, 13 causal, 13 review, 7 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 8 of 52 report an effect size · 50 claims rest on one study
+> **Evidence** · 57 claims (36 show a difference, 13 mixed, 6 no difference, 2 unmarked) · 53 studies (16 associational, 13 causal, 13 review, 7 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 8 of 53 report an effect size · 52 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -97,6 +97,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](../claims/narrow-transfer-computerized-ef-training.md) [~M] — instruction changes it
 - [Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity](../claims/hippocampal-plasticity-mismatch-individual-capacity.md) [+M] — an instructional effect differs with it
 - [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](../claims/vocabulary-mediation-working-memory-inference.md) [+M] — learners who differ on it differ in outcomes
+- [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](../claims/whole-number-ccs-one-level-per-wm-unit.md) [+W] — learners who differ on it differ in outcomes
+- [Rational-number CCS test performance is predicted by working memory capacity and, to a lesser extent, by intrusion errors in the listening span](../claims/rational-number-ccs-predicted-by-wm-and-intrusions.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

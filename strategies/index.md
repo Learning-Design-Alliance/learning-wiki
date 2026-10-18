@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6012 entries** · 0 stable · 6012 in review · 0 drafts
+**6013 entries** · 0 stable · 6013 in review · 0 drafts
 
 ---
 
@@ -4018,6 +4018,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels](civic-learning-recommendations-university-stakeholders.md) - The article directs recommendations at four stakeholder groups.
 * [Recommended procedure for applying L* to sequences of affective states](procedure-for-applying-l-star.md) - The article outlines a step-by-step procedure (Algorithm 1) for computing L* on full affect sequences with transitions to A excluded.
 * [Reconcile long-term policy goals with short-term accountability metrics by reviewing seasonal effects](reconcile-policy-goals-with-seasonality-aware-metrics.md) - Policy makers and accountability designers can audit their school effectiveness metrics for seasonal bias before using them for identification decisions.
+* [Reconsider pedagogical warnings that dismiss visual arguments in undergraduate mathematics](reconsider-warnings-against-visual-arguments.md) - The article suggests that lecturers' warnings that pictures are not rigorous may install a sociomathematical norm that leaves students dismissing visual arguments regardless of source, a norm that differs from practic...
 * [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](integrate-reason-feeling-self-relationship-concept-context.md) - The article's reconstruction of Kohlberg's moral education specifies four integrations drawn from Dewey: moral judgment \"involves reason and feeling, self and relationship, concept and context.\" Justice as a sole fixe...
 * [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md) - The recording tips sheet advises that recording 'can capture participants' exact words and preserve important details, supporting accurate analysis.' If recording, facilitators should gather consent and offer alternat...
 * [Recording Devices](recording_devices.md) - Allowing students to record lessons so they can play them back and go over anything that might be confusing.

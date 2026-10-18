@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1719 entries** · 0 stable · 1719 in review · 0 drafts
+**1721 entries** · 0 stable · 1721 in review · 0 drafts
 
 ---
 
@@ -1578,6 +1578,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Terracotta](terracotta.md) - Terracotta is a software tool developed by the article's researchers that integrates with Canvas to automate consent, random assignment, data collection, and de-identified exports for embedded learning experiments.
 * [TerraFlops](terraflops.md) - TerraFlops is an open-source wrapper described by Eimler et al.
 * [Test of Spatial Assembly (TOSA)](test-of-spatial-assembly-tosa.md) - The TOSA is an individually administered 2-D and 3-D spatial assembly assessment developed by Verdine et al.
+* [Test of the rational-number central conceptual structure with capacity-graded item subsets](test-of-the-rational-number-central-conceptual-structure-with-capacity-graded-item-subsets.md) - A study-developed assessment by Morra et al.
 * [TFT partnership](tft-partnership.md) - A REL Midwest partnership framework that organizes professional-learning activities and expected administrator, teacher, and student outcomes across short-, medium-, and long-term horizons.
 * [The 10 Elements of Black Excellence](the-10-elements-of-black-excellence.md) - A community-informed framework developed by LBUSD's Center to organize its foundation, aims, and practical approaches for advancing Black excellence.
 * [The 3E framework](the-3e-framework.md) - The 3E framework is a rubric-based assessment developed by Masum Hasan et al.
@@ -1677,6 +1678,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Validated 192-respondent GenAI chatbot adoption dataset with 13 clustering variables](validated-192-respondent-genai-chatbot-adoption-dataset-with-13-clustering-variables.md) - A Qualtrics-based dataset of 192 higher-education students' and educators' GenAI chatbot perceptions and experiences, standardized across 13 variables for clustering into adoption personas.
 * [Validated AI-TPACK scale for mathematics teacher education students](validated-ai-tpack-scale-for-mathematics-teacher-education-students.md) - A 24-item, six-variable, seven-point Likert self-report scale developed by Meijuan Xie and colleagues to assess mathematics teacher education students' AI-TPACK competence, self-efficacy, and teaching beliefs.
+* [Validated measure of the whole-number central conceptual structure](validated-measure-of-the-whole-number-central-conceptual-structure.md) - A validated instrument developed by Morra et al.
 * [Valor Collegiate Academy Compass Model](valor-collegiate-academy-compass-model.md) - Valor Collegiate Academy's whole-school SEL and mental-health programme uses five interdependent domains, developmental badges, and weekly mentor-facilitated Compass Circles for students in Grades 5–12.
 * [Value-Added Assessment System for DC Schools and Teachers](value-added-assessment-system-for-dc-schools-and-teachers.md) - A district accountability assessment system prepared for and run by District of Columbia Public Schools to estimate school and teacher value added.
 * [Vantage](vantage.md) - Vantage is a virtual assessment platform developed by Globerson et al.

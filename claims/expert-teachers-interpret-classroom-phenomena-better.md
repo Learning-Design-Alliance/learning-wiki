@@ -52,3 +52,4 @@ Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice,
 - Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details — related
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
+- [Students and researchers gave systematically different types of explanatory comments about the visual argument, with students rejecting pictures as proofs](student-visual-argument-norm-comments.md) — related

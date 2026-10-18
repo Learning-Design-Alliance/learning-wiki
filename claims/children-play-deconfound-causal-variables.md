@@ -64,3 +64,4 @@ The review reports Cook, Goodman, and Schulz's (2011) toy-box study where a conn
 ## Related Claims
 - [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related
 - [Pedagogically instructed preschoolers perform fewer kinds of actions and discover fewer non-demonstrated functions of a novel toy than children in non-pedagogical conditions](pedagogy-reduces-action-variety-and-discovery.md) — related
+- [Children's confidence in experimental conclusions increased after training and was higher for unconfounded than confounded experiments, with no training-condition differences](confidence-increases-unconfounded-experiments.md) — related

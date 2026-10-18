@@ -28,4 +28,4 @@ Building on Said (1993), the article defines contrapuntal reading as drawing out
 -
 
 ## Key Sources
-- Philip, T., & Sengupta, P. (2020). Theories of Learning as Theories of Society: A Contrapuntal Approach to Expanding Disciplinary Authenticity in Computing. Journal of the Learning Sciences. http://www.isls.org/
+- Philip, T., & Sengupta, P. (2020). Theories of Learning as Theories of Society: A Contrapuntal Approach to Expanding Disciplinary Authenticity in Computing. Journal of the Learning Sciences. http://www.isls.org/. [doi:10.1080/10508406.2020.1828089](https://doi.org/10.1080/10508406.2020.1828089)

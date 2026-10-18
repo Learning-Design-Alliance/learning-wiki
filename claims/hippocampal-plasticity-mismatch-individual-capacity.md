@@ -46,4 +46,4 @@ Theoretical argument from the Wenger and Lövdén review article as summarized i
 - [Working Memory](../learner-variables/working-memory.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
--
+- [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — related

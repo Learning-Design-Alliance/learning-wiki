@@ -43,3 +43,4 @@ Transition analysis of fixations parsed into bigrams and trigrams across the thr
 ## Related Claims
 - [Students working with multi-view program visualizations spend nearly half their attention on the code view, with attention distribution varying by task topic](gaze-anchored-in-code-despite-multi-view-scaffolds.md) — related
 - [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](prior-experience-shapes-view-engagement.md) — related
+- [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](eye-transitions-between-representations.md) — related

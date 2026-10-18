@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (35 show a difference, 11 mixed, 4 no difference) · 41 studies (13 causal, 8 review, 8 associational, 5 qualitative, 3 design, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 8 of 41 report an effect size · 48 claims rest on one study
+> **Evidence** · 51 claims (36 show a difference, 11 mixed, 4 no difference) · 42 studies (14 causal, 8 review, 8 associational, 5 qualitative, 3 design, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 8 of 42 report an effect size · 49 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -89,6 +89,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](../claims/wise-agent-truth-seeking-self-confidence-gains.md) [+M] — instruction changes it
 - [Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking](../claims/reflective-engagement-predicts-independent-outcomes.md) [~M] — learners who differ on it differ in outcomes
 - [Preschoolers in a multiliteracies folk-tale program showed increased critical-thinking behaviors in qualitative journal data](../claims/preschool-folktale-program-increased-critical-thinking-qualitative.md) [+M] — instruction changes it
+- [Instruction increased students' ability to evaluate experiments designed by others on a paper-and-pencil test](../claims/experiment-evaluation-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.
