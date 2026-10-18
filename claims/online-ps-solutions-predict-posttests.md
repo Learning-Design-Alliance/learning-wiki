@@ -15,18 +15,22 @@ sources:
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09407-y"
     title: "Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai. (2023). Can CPS better prepare 8th graders for problem-solving in electromagnetism and bridging the gap between high- and low-achievers than IPS? Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09407-y"
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Online PS solution performance was the only factor predicting ECT posttest score (β = 0.45, p < 0.001), accounting for 20% of the variance. [→ Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai 2023](#jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023)

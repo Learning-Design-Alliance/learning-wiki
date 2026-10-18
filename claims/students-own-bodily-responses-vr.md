@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Rolf Steier, Hans Christian Arnseth
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During reflective dialogues, students activated their own bodily expressions, such as describing a knot in the stomach and eye contact, to characterize emotional responses to the VR stories. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

@@ -17,7 +17,7 @@ sources:
 # Three design components to make Knowledge Building accessible to low-achieving students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 To make Knowledge Building more accessible to low-achieving students, the authors emphasize three design components: (1) establishing a collaborative and reflective culture for inquiry, collaboration, and idea improvement; (2) staging principle-based activities to help low-achieving students gradually develop skills of inquiry, collaboration, and metacognition; and (3) providing frequent reflection opportunities to help students engage in productive reflection. These designs provided explicit scaffolding so low-achieving students could take collective responsibility for knowledge advances in supportive contexts.

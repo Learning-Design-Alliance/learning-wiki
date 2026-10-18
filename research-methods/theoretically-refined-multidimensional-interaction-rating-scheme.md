@@ -12,6 +12,7 @@ generated:
 # Theoretically refined multidimensional interaction rating scheme
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The editorial reports that Meier, Spada and Rummel differentiated as many as nine dimensions of interaction for quantitative analysis, derived through bottom-up qualitative content analysis refined by top-down theory-informed considerations. Once operationalized for reliable application, these dimensions supported a rating scheme whose successful application suggested "such a ranking approach has advantages over coding for many research questions, while still allowing a quantitative comparison of alternative conditions."

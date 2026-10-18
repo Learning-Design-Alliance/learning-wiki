@@ -15,12 +15,14 @@ sources:
     author: Baker, M., Reimann, P.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Perceived task cohesion strength relates to team performance in collaborative learning teams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A survey-based measure of task cohesion was put into relation with collaborative learning team members' interactions, and relations were found between perceived task cohesion strength and team performance. [→ Baker 2024](#baker-2024)

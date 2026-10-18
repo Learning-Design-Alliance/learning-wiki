@@ -15,12 +15,14 @@ sources:
     author: Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across four classes, joy was the most frequently manifested emotion (53.16%) in Knowledge Building inquiry threads, followed by confusion (15.53%), anxiety (10.93%), and curiosity (9.07%), while surprise (2.17%) and boredom (1.41%) were less frequent. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022)

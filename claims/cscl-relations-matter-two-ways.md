@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The editors argue that what is lacking in collaborative interactions can be supported through interventions designed from empirical knowledge, and that CSCL environments can foster key learner competencies. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

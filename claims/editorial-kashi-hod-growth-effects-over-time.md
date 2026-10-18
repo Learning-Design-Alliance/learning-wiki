@@ -15,12 +15,14 @@ sources:
     author: Carolyn Rosé · Sanna Järvelä
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Review reports statistically significant growth effects over time in a semester-long graduate humanistic knowledge building community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Kashi and Hod graduate-course study, analysis of student utterances collected over an entire semester points to statistically significant growth effects over time. [→ Carolyn Rosé · Sanna Järvelä 2022](#carolyn-rose-sanna-jarvela-2022)

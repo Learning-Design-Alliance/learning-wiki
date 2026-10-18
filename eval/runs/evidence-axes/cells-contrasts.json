@@ -34058,5 +34058,165 @@
  "active-learning\tcollaborative problem-solving (CPS)\tindividual problem-solving (IPS)": {
   "label": "collaborative problem solving vs individual problem solving",
   "treatment_is_a": true
+ },
+ "debriefing\timmersive VR film followed by teacher-mediated reflective group dialogue\tindividually oriented VR film viewing without collaborative dialogue": {
+  "label": "teacher-mediated reflective group dialogue vs individual viewing without collaborative dialogue",
+  "treatment_is_a": true
+ },
+ "debriefing\timmersive VR followed by teacher-mediated reflective group dialogue\tno comparison condition stated": {
+  "label": "teacher-mediated reflective group dialogue vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\timmersive VR followed by teacher-mediated reflective group dialogue\tnot stated": {
+  "label": "teacher-mediated reflective group dialogue vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\treflection scaffold before the second problem\texternal collaboration script during collaboration": {
+  "label": "reflection scaffold vs external collaboration script",
+  "treatment_is_a": true
+ },
+ "debriefing\treflection scaffold before the second problem\tno collaboration support": {
+  "label": "reflection scaffold vs no collaboration support",
+  "treatment_is_a": true
+ },
+ "debriefing\treflection scaffold before the second problem\tno support for collaboration": {
+  "label": "reflection scaffold vs no collaboration support",
+  "treatment_is_a": true
+ },
+ "debriefing\tteacher-mediated reflective group dialogue after immersive VR\tnot stated": {
+  "label": "teacher-mediated reflective group dialogue vs no debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdialogue-focused professional development intervention\tpre-intervention baseline": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction about RIDE\tneither instruction nor joint reflection tool": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback probing for deeper conceptual understanding\tother feedback types": {
+  "label": "Deeper conceptual-understanding feedback vs other feedback types",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based collaboration script\t?": {
+  "label": "game-based collaboration script vs no game-based collaboration script",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based collaboration script with in-game roles\tnot stated": {
+  "label": "game-based collaboration script with in-game roles vs without in-game roles",
+  "treatment_is_a": true
+ },
+ "other\t1998 adjusted math score\t1998 unadjusted math score": {
+  "label": "adjusted vs unadjusted scores",
+  "treatment_is_a": true
+ },
+ "prompts\tKBDeX visualization, knowledge building rubrics, and metacognitive prompt questions\tportfolio-based reflective assessment": {
+  "label": "Structured metacognitive prompts and visualization vs portfolio-based reflective assessment",
+  "treatment_is_a": true
+ },
+ "prompts\tY-read? collaboration script\tpre-intervention assessment": {
+  "label": "Y-read? collaboration script vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "prompts\tY-read? collaboration script across four lessons\tpre-test before the intervention": {
+  "label": "Y-read? collaboration script vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "prompts\targumentative dialog with appropriate prompts\tknowledge telling or simply asking and receiving answers": {
+  "label": "Argumentative dialogue with prompts vs knowledge telling or simple question-answering",
+  "treatment_is_a": true
+ },
+ "prompts\tgeneral SRL-focused email interventions\tcontrol group with no further intervention": {
+  "label": "SRL-focused email interventions vs no further intervention",
+  "treatment_is_a": true
+ },
+ "prompts\tgeneral SRL-focused intervention\tcontrol with only general notification": {
+  "label": "SRL-focused intervention vs general notification",
+  "treatment_is_a": true
+ },
+ "prompts\tgeneral weekly SRL-focused prompts\tcontrol with basic dashboard mobilization": {
+  "label": "Weekly SRL-focused prompts vs basic dashboard mobilization",
+  "treatment_is_a": true
+ },
+ "prompts\tmere exposure prompt script\tcontrol group": {
+  "label": "Prompt script vs no prompt or control",
+  "treatment_is_a": true
+ },
+ "prompts\tprompts addressing both content and rhetorical problem spaces\tprompts that do not address both problem spaces": {
+  "label": "Prompts addressing both content and rhetorical problem spaces vs prompts not addressing both",
+  "treatment_is_a": true
+ },
+ "prompts\tsensory observation prompts\tless or no sensory prompting": {
+  "label": "Sensory observation prompts vs less or no sensory prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tsocial discussion prompts\tless or no social prompting": {
+  "label": "Social discussion prompts vs less or no social prompting",
+  "treatment_is_a": true
+ },
+ "prompts\t‘Y-read?’ collaboration script\tpre-intervention baseline": {
+  "label": "Y-read? collaboration script vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tSRL and social-regulation support\tno-support control": {
+  "label": "SRL and social-regulation support vs no-support control",
+  "treatment_is_a": true
+ },
+ "scaffolding\tSRL, co-regulation, and SSRL support\tSRL-only support and no-support control": {
+  "label": "SRL, co-regulation, and socially shared regulation support vs SRL-only or no support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tSRL, co-regulation, and SSRL support\tno support control": {
+  "label": "SRL, co-regulation, and socially shared regulation support vs no-support control",
+  "treatment_is_a": true
+ },
+ "scaffolding\tSRL, co-regulation, and SSRL support\tno-support control": {
+  "label": "SRL, co-regulation, and socially shared regulation support vs no-support control",
+  "treatment_is_a": true
+ },
+ "scaffolding\tTeacher-introduced solar-panel and case idea\tTeam's previously complex epistemic object and visions": {
+  "label": "Teacher-introduced idea vs team-developed epistemic object and visions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tactive teacher encouragement to elaborate on feelings\tlow teacher guidance without cued questions": {
+  "label": "Active teacher encouragement with emotion-elaboration prompts vs low teacher guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\textended teacher visit\tbrief teacher visits": {
+  "label": "Extended teacher visit vs brief teacher visits",
+  "treatment_is_a": true
+ },
+ "scaffolding\texternal collaboration script during collaboration\tno collaboration support": {
+  "label": "External collaboration script vs no collaboration support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlearner-controlled adaptive guidance with minimal or maximal detail\talternative guidance formats, including discourse prompting or worked examples": {
+  "label": "Learner-controlled adaptive guidance vs alternative guidance formats",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlearner-controlled guidance available in minimal or maximal detail\tnot stated": {
+  "label": "Learner-controlled guidance vs no stated guidance availability",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized SRL intervention\tcontrol with no targeted intervention": {
+  "label": "Personalized SRL intervention vs no targeted intervention",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized SRL-focused email interventions\tcontrol group with no further intervention": {
+  "label": "Personalized SRL-focused intervention vs no further intervention",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized SRL-focused intervention\tcontrol with only general notification": {
+  "label": "Personalized SRL-focused intervention vs general notification only",
+  "treatment_is_a": true
+ },
+ "scaffolding\tregulatory support\tno-support control": {
+  "label": "Regulatory support vs no-support control",
+  "treatment_is_a": true
+ },
+ "test-format\tembodied one-on-one interview\tmultiple-choice post-test": {
+  "label": "one-on-one interview vs multiple-choice test",
+  "treatment_is_a": true
  }
 }

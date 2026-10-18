@@ -15,12 +15,14 @@ sources:
     author: Carolyn P. Rosé, Sanna Järvelä
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # This issue's peer-review study is reported to find fine-grained matching by prior performance is needed to yield a significant effect of pairing, unlike coarse-grained matching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Fine-grained matching of peer-review partners by skill level yielded a significant effect while coarse-grained pairing did not. [→ Carolyn P. Rosé 2023](#carolyn-p-rose-2023)

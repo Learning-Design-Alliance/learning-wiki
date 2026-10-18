@@ -15,12 +15,14 @@ sources:
     author: Carolyn P. Rosé, Sanna Järvelä
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Enriching meta-discourse within Knowledge Forum improved collaboration quality, with the impact widening over time. [→ Carolyn P. Rosé 2023](#carolyn-p-rose-2023)

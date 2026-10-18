@@ -15,12 +15,14 @@ sources:
     author: Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Self-rated confidence in SAGAT answers (1–4) was highest in the alerting & guiding dashboard condition, with generally high confidence suggesting a possible ceiling effect. [→ Reet Kasepalu 2023](#reet-kasepalu-2023)

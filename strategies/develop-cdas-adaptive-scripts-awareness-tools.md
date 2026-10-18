@@ -17,7 +17,7 @@ sources:
 # Target the development of collaborative diagnostic activities with adaptive collaboration scripts and group awareness tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends that training in knowledge-rich domains focus on developing collaborative diagnostic activities, and proposes instructional supports to raise their quality. It notes that "providing learners with an adaptive collaboration script has been shown to improve evidence sharing quality and promote the internalization of collaboration scripts", and that "group awareness tools, such as shared concept maps, should be considered to compensate for deficits in one's collaboration knowledge". The authors also stress that what is required for high-quality CDAs remains an open question and that instructional support may be better domain-specific than domain-general.

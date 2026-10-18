@@ -15,12 +15,14 @@ sources:
     author: Carolyn P. Rosé, Nancy Law, Ulrike Cress, Sten Ludvigsen
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In the Eshuis et al. study contrasting instruction-only, instruction-plus-reflection-tool, and control conditions, instruction alone showed limited utility for collaborative practices. [→ Carolyn P. Rosé 2019](#carolyn-p-rose-2019)

@@ -15,12 +15,14 @@ sources:
     author: Zamecnik, A., Kovanović, V., Joksimović, S., Grossmann, G., Ladjal, D., Pardo, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Temporal network motifs show promise as a proxy indicator of task cohesion in WIL environments when combined with survey data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors conclude that combining temporal network motifs with survey data aligns self-reported cohesion with motif characterisations and supports motifs as a task cohesion proxy. [→ Zamecnik 2024](#zamecnik-2024)

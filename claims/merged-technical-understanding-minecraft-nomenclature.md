@@ -15,12 +15,14 @@ sources:
     author: "Mørch, A. I., Andersen, R., Eie, S., & Mifsud, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When group members used different names for the same building block (cobblestone), reaching a shared understanding of the Minecraft items inventory let them distribute the work and build different parts of the building in parallel. [→ Mørch 2024](#mrch-2024)

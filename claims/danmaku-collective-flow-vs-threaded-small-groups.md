@@ -15,12 +15,14 @@ sources:
     author: Bo Yang
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a MOOC lecture, danmaku messages flowed continuously along video playback as an undivided collective space, whereas discussion-board participation was divided into 98 threads averaging about 7.54 posts each. [→ Bo Yang 2024](#bo-yang-2024)

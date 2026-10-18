@@ -15,12 +15,14 @@ sources:
     author: Wen Huang, Candace Walkington, Mitchell J. Nathan
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Body movements and positions focusing on virtual objects, and shifts away from or around them, signal key interactional collaborative events in shared VR
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The body movement code toward the virtual object had high concurrent times with most codes in collaborative speech and in action on virtual object. [→ Wen Huang 2023](#wen-huang-2023)

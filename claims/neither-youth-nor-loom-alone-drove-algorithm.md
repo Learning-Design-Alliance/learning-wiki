@@ -15,12 +15,14 @@ sources:
     author: Anna Keune
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In one participant's gap-pattern weaving, the loom's material arrangement obstructed continuation of the established algorithm and demanded simultaneous building of both sides, showing mutual human-material determination of the algorithm. [→ Anna Keune 2024](#anna-keune-2024)

@@ -15,12 +15,14 @@ sources:
     author: Laura Brandl, Matthias Stadler, Constanze Richters, Anika Radkowitsch, Martin R. Fischer, Ralf Schmidmaier, Frank Fischer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Collaboration knowledge is positively and consistently related to the quality of evidence sharing across all three studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Collaboration knowledge positively and significantly predicts evidence sharing quality in all three studies. [→ Laura Brandl 2024](#laura-brandl-2024)

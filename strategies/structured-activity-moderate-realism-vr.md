@@ -17,7 +17,7 @@ sources:
 # Structured activity design and moderate realism benefit shared VR learning environments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that shared VR learning environments employ structured activity design and moderate realism to benefit equity, adaptability, and cost-effectiveness. Structured tasks with clear conjecture prompts, guided manipulation goals, and a facilitator directing progress gave groups a shared focus. Moderate realism avoided the costs of photorealistic rendering while supporting meaningful embodied collaboration.

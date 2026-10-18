@@ -15,18 +15,22 @@ sources:
     author: Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: ramy-elmoazen-2025-2
     resource: "https://doi.org/10.1007/s11412-024-09431-6"
     title: "Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre. (2025). Capturing temporal pathways of collaborative roles: A multilayered analytical approach using community of inquiry. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09431-6"
     author: Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Free riders earned significantly lower grades than students in the active constructive and social interactive trajectories, whose achievement levels were statistically indistinguishable.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Kruskal–Wallis revealed a significant difference in final exam GPA among trajectories (H = 40.59, p < 0.0001), with a large effect size (ε² = 0.30). [→ Ramy Elmoazen 2025](#ramy-elmoazen-2025)

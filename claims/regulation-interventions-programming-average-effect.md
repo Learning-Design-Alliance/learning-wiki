@@ -15,12 +15,14 @@ sources:
     author: Leonardo Silva, António Mendes, Anabela Gomes, Gabriel Fortes
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A random-effects meta-analysis of seven intervention studies yielded an average effect of 0.59 (C.I. [0.28, 0.89]). [→ Leonardo Silva 2023](#leonardo-silva-2023)

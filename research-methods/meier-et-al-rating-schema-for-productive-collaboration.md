@@ -12,6 +12,7 @@ generated:
 # Meier et al. rating schema for productive collaboration
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study's model of productive collaboration is the rating schema by Meier et al. (2007), chosen because it overlaps with PISA 2015 and ACT21S skill frameworks and, unlike the domain-specific FINCA framework, is domain-agnostic and adjustable to specific tasks. It identifies "five aspects of successful computer-supported interdisciplinary collaborative problem-solving processes: communication, coordination, joint information processing, relationship management, and motivation", decomposed into nine dimensions such as sustaining mutual understanding, information pooling, and reaching consensus. It served both to score collaboration knowledge in the tests and to rate interaction quality in the videos.

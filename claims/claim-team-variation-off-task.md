@@ -15,18 +15,22 @@ sources:
     author: Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: sini-davies-2024-2
     resource: "https://doi.org/10.1007/s11412-024-09427-2"
     title: "Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen. (2024). Knowledge creation through maker practices and the role of teacher and peer support in collaborative invention projects. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09427-2"
     author: Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Student teams differed markedly in their application of computer engineering and product design practices and in their share of off-task activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` The Button Presser team applied computer engineering and product design practices significantly less than the other two teams. [→ Sini Davies 2024](#sini-davies-2024)

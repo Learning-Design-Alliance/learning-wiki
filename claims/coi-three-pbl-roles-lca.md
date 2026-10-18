@@ -15,12 +15,14 @@ sources:
     author: Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Three emergent roles — leader, social mediator, and peripheral explorer — were identified in online PBL discussions from CoI-coded discourse using latent class analysis.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Latent class analysis of nine CoI indicators yielded three best-fitting roles labeled leader, social mediator, and peripheral explorer, with three classes chosen by BIC elbow and entropy of 0.9. [→ Ramy Elmoazen 2025](#ramy-elmoazen-2025)

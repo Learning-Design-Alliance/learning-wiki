@@ -15,18 +15,22 @@ sources:
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: michael-j-baker-2024-2
     resource: "https://doi.org/10.1007/s11412-024-09419-2"
     title: "Michael J. Baker, Peter Reimann. (2024). CSCL has come of age. Intern. J. Comput.-Support. Collab. Learn (2024) 19:1–10. https://doi.org/10.1007/s11412-024-09419-2"
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The editorial reports epistemic stance as an integrated unit of analysis for online discussion, with learning manifested in evolving shifts of stance objects (Park et al.)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` The editorial reports, citing Park et al., that students' self-expression most often occurred within an epistemic stance, sometimes combined with affective and evaluative stances. [→ Michael J. Baker 2024](#michael-j-baker-2024)

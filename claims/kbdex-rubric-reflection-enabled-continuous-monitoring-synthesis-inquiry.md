@@ -15,12 +15,14 @@ sources:
     author: "Yang, Y., Zhu, G., Sun, D., & Chan, C. K. K."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # KBDeX visualization and knowledge building rubrics engaged PSTs in continuous monitoring, analysis, negotiation, synthesis, and identification of promising inquiry routes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Analysis of PSTs’ reflections using collaborative analytics and prompt questions showed that the KBDeX visualization and rubric design supported productive collaborative knowledge building inquiry processes. [→ Yang 2022](#yang-2022)

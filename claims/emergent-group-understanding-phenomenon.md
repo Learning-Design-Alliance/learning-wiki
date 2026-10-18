@@ -15,12 +15,14 @@ sources:
     author: "Mørch, A. I., Andersen, R., Eie, S., & Mifsud, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Emergent group understanding is an empirical phenomenon arising from the interplay of a social object and a technology object, revealed by two subprocesses: spontaneous information provision and setting localized goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Emergent group understanding arose from complex social interactions between the social and technology objects when Minecraft was used in a social studies classroom, with two connected subprocesses: spontaneous acts of providing information to contextualize actions against a common background, and setting localized goals to guide future actions and interactions. [→ Mørch 2024](#mrch-2024)

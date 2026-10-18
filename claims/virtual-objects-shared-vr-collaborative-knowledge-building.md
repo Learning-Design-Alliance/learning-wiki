@@ -15,12 +15,14 @@ sources:
     author: Jacob Fortman, Rebecca Quintana
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Groups of in-service teachers collaboratively explored geometric conjectures in a shared VR environment, and virtual objects functioned as an effective medium for collaborative knowledge building. [→ Jacob Fortman 2023](#jacob-fortman-2023)

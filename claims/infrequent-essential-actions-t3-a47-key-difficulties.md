@@ -15,12 +15,14 @@ sources:
     author: Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Essential Olive Oil task actions T3 and A47 were conducted by few dyads, marking key difficulties in the solution path
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Some actions in the most efficient solution path (e.g., T3, A47) showed lower transition frequency than other path actions, indicating few pairs recognized their importance; these represent key difficulties for dyads. [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

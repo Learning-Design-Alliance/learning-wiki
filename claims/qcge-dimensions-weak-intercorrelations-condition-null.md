@@ -15,12 +15,14 @@ sources:
     author: "Paneth, L., Jeitziner, L. T., Rack, O., Opwis, K., & Zahn, C."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # QCGE dimensions correlate weakly with each other except a moderate CE–CC correlation; nonverbal behaviors were not affected by task condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Spearman correlations show the QCGE dimensions are weakly correlated except for CE and CC (moderate); a second model found no significant relationship between nonverbal behaviors and the experimental condition. [→ Paneth 2024](#paneth-2024)

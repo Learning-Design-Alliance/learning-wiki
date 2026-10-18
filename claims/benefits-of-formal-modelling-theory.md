@@ -15,18 +15,22 @@ sources:
     author: Baker, M., Reimann, P.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: baker-2024-2
     resource: "https://doi.org/10.1007/s11412-024-09433-4"
     title: "Baker, M., Reimann, P. (2024). CSCL: a learning and collaboration science?. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-024-09433-4"
     author: Baker, M., Reimann, P.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Bayesian Network models are generative: computed inferences generate data comparable with empirical data and other models, and 'what if' questions support counterfactual reasoning, which many philosophers of science consider pivotal to explanatory power. [→ Baker 2024](#baker-2024)

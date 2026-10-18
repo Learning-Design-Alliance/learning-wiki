@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Dyad pairs with one member high in both social and cognitive CPS skills show more actions and higher frequency of action transitions than other pairs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pairs with one member with high social and high cognitive CPS skills conducted more actions and demonstrated a higher average frequency of action transitions with more attempts given to different actions than other pairs. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

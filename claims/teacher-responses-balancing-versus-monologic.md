@@ -15,12 +15,14 @@ sources:
     author: Benzi Slakmon, Rotem Abdu
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # After the intervention, teachers' responses to dialogue focused on balancing student relations and eliciting dialogic gaps, yet some responses still promoted monologic narratives driven by mathematical correctness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among the 71 post-intervention responding utterances, teachers most often sought to balance student status (15 utterances), negate one-leads-one-is-led situations (eight utterances), and facilitate dialogic gaps (23 utterances); some responses still promoted monologic narratives (five utterances). [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

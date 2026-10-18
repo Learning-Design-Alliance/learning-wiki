@@ -15,12 +15,14 @@ sources:
     author: Natalia Reich-Stiebert, Jan-Bennet Voltmer, Jennifer Raimann, Stefan Stürmer
     q: 3
     i: 3
+    kind: associational
+    rigour: 3
 ---
 
 # Groups spent far more time getting to know each other than on task-related communication during the initial collaboration phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` On average, groups allocated a much larger share of initial-phase time to getting to know each other than to task-related communication, d = −1.98. [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

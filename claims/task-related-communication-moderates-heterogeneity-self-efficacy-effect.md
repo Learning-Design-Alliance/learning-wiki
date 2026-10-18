@@ -15,18 +15,22 @@ sources:
     author: Natalia Reich-Stiebert, Jan-Bennet Voltmer, Jennifer Raimann, Stefan Stürmer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: natalia-reich-stiebert-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09411-2"
     title: "Natalia Reich-Stiebert, Jan-Bennet Voltmer, Jennifer Raimann, Stefan Stürmer. (2023). The role of first-language heterogeneity in the acquisition of online interaction self-efficacy in CSCL. Intern. J. Comput.-Support. Collab. Learn 18:513–530. https://doi.org/10.1007/s11412-023-09411-2"
     author: Natalia Reich-Stiebert, Jan-Bennet Voltmer, Jennifer Raimann, Stefan Stürmer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Initial-phase task-related communication moderates the negative relationship between first-language heterogeneity and self-efficacy gains, while getting-to-know-each-other time does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Time spent on task-related communication was a significant moderator (H × T: p = .01; ΔR2 = .003, F = 6.27), with the negative heterogeneity effect significant only when groups spent little time on task-related communication. [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

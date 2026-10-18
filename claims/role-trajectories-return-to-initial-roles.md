@@ -15,12 +15,14 @@ sources:
     author: Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students' roles showed strong temporal stability: each trajectory returned to its initial roles across the 13 weeks, which the authors interpret as stable collaborative dispositions.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Sequence analysis showed most students sustained or returned to their initial role — e.g., active-constructive students maintained leadership with 75% consistency and social-interactive social mediators showed 85% stability. [→ Ramy Elmoazen 2025](#ramy-elmoazen-2025)

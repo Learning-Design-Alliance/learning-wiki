@@ -17,6 +17,7 @@ sources:
 # Chat-based dyad activities with a conversational agent and learning analytics dashboard in a MOOC
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A MOOC component combining weekly chat-based collaborative activities in which students "collaborate in dyads to submit a joint answer as a team" with a conversational agent (TIM) that injects prompts during peer discussion, plus a learning analytics module showing individual, partner, and cross-group performance graphs. Students can compare their metrics with peers and decide whether to change learning strategy; interactions with the LA module are logged.

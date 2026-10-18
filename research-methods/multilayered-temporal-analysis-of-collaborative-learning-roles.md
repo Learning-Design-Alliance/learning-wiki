@@ -12,6 +12,7 @@ generated:
 # Multilayered temporal analysis of collaborative-learning roles
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This analytical pattern combines several learning-analytics methods into layers to capture role dynamics over time: latent class analysis converts CoI-coded discourse into role states, epistemic network analysis maps code co-occurrence within roles, sequence mining orders roles across weeks, and Markov process mining estimates transition probabilities within trajectories. The authors motivate the layering with Reimann et al.'s warning that "relying on a single sequential approach can hide in details due to the ontological flatness of educational data", so that "such a combination yields a much better understanding of the temporal aspects of students' roles".

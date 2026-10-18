@@ -15,12 +15,14 @@ sources:
     author: Carolyn P. Rosé, Nancy Law, Ulrike Cress, Sten Ludvigsen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In collaborative reasoning tasks, student-generated multi-modal representations create an intersubjective space for joint reasoning and shape the direction of interaction. [→ Carolyn P. Rosé 2019](#carolyn-p-rose-2019)

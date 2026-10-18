@@ -17,6 +17,7 @@ sources:
 # Fiber crafts course (weaving and fabric manipulation) as a context for computational learning with middle school youth
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A 6-session fiber crafts course, facilitated twice at a K-8 charter school, offered weaving with three loom types and fabric manipulation with a laser-cut matrix template as contexts for performing computational concepts. "The participants of the course were 16 middle school students between 11 and 14 years old," self-selected via an interest survey. The crafts were chosen because they are matrix-based, connected historically to computing, and require routine movements that perform algorithms such as loops and conditional pairings.

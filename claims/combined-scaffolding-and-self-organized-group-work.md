@@ -15,12 +15,14 @@ sources:
     author: "Mørch, A. I., Andersen, R., Eie, S., & Mifsud, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Student learning activity combined domain-specific academic practices and generic skill practices, supported partly by teachers' scaffolding and partly by self-organized group work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Groups combined domain-specific (academic) and generic skills (gaming, collaboration, creativity, information seeking), with support split between teachers' scaffolding (top-down) and students' self-organized group work (bottom-up), while integration of historical source materials varied among groups. [→ Mørch 2024](#mrch-2024)

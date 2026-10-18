@@ -17,6 +17,7 @@ sources:
 # Immersive, family-centered, place-based LOTM framework linking the five SANSE immersion processes to mobile augmented reality design conjectures
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article contributes a design framework combining learning-on-the-move with Enyedy and Yoon's five-part immersion framework, called SANSE: "sensory, actional, narrative, social, and emancipatory" immersion. These immersive processes are operationalized as design conjectures (Table 2) specifying how MAR features—prompts, filters, GPS wayfinding, photo-taking—support intergenerational family sense-making about geologic time in outdoor informal settings. Each conjecture pairs the immersion category with Time Explorers examples, grounding XR-time-travel narratives in learners' physical place.

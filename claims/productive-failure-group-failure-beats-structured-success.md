@@ -15,12 +15,14 @@ sources:
     author: Gerry Stahl
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Collaborative group failure on ill-structured physics problems confers later individual problem-solving advantages over success on well-structured problems (productive failure)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Indian high school students who were in groups that failed to solve ill-structured physics problems later outperformed students who had been in groups that succeeded in solving well-structured problems. [→ Gerry Stahl 2008](#gerry-stahl-2008)

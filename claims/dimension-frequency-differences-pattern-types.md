@@ -15,12 +15,14 @@ sources:
     author: Fan Ouyang, Weiqi Xu, Mutlu Cukurova
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The three pattern types differed significantly on behavioural codes (Type 1 > Type 2 > Type 3 for concept mapping) and on several interactive, cognitive and regulative codes, but not on socio-emotional codes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` One-way ANOVA with Bonferroni correction and cross-checking Kruskal-Wallis tests found significant differences (p < .05) on Int-B, KS, KM, TU, RM, CM, and OB, with CM ordered Type 1 > Type 2 > Type 3, but no significant differences on any socio-emotional code. [→ Fan Ouyang 2023](#fan-ouyang-2023)

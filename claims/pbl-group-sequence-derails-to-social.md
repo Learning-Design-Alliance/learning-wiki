@@ -15,12 +15,14 @@ sources:
     author: Mohammed Saqr, Sonsoles López-Pernas
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Groups start with Organize (76.5% at t=1), move to Discuss, Share, and Argue, and later interactions become dominated by Socialize, Agree, and Discuss with decreasing Argue. [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

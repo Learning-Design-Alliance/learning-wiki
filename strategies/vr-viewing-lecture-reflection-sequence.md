@@ -17,7 +17,7 @@ sources:
 # Sequence immersive VR viewing with an introductory lecture and teacher-facilitated reflective group dialogues to make VR experiences collaborative
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The learning design places an individually-oriented VR medium inside a three-part activity sequence so that the experience becomes a shared resource for dialogue. As the authors state, "our developed learning design involved the following three, temporally organized activities: (1) an introductory lecture by one of the teachers, (2) VR experiences, and (3) reflective group dialogues." Five headsets ran at a time, students familiarized themselves with VR applications beforehand to avoid the awe factor, and dialogues of 20–30 minutes in groups of 2–5 immediately followed viewing. The design targeted the interdisciplinary topic of Health and life skills.

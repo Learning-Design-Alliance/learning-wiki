@@ -15,12 +15,14 @@ sources:
     author: Bo Yang
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Danmaku primarily carries tacit knowledge sharing via personal experience while the discussion board carries explicit mathematical knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Tacit knowledge (self-disclosed experiences and personal opinions) accounted for the majority of danmaku knowledge sharing, while explicit math knowledge was mainly shared on the discussion board. [→ Bo Yang 2024](#bo-yang-2024)

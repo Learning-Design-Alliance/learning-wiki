@@ -15,12 +15,14 @@ sources:
     author: Natalia Reich-Stiebert, Jan-Bennet Voltmer, Jennifer Raimann, Stefan Stürmer
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
 ---
 
 # First-language heterogeneity is negatively related to time spent getting to know each other and positively related to time spent on task-related communication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Group first-language heterogeneity correlated with less time getting to know each other (r = −.09) and more time on task-related communication (r = .11). [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

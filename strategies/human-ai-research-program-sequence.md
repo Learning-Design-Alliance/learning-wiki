@@ -17,7 +17,7 @@ sources:
 # Sequence CSCL research on human-AI knowledge construction from exploratory observation to experimental variable manipulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a concrete two-step research program. First, individuals and small groups should be systematically observed in their actual engagement with language-based AI tools, using conversation analysis, analysis of uptake events, think-aloud protocols during collaborative writing, and in-depth interviews. Subsequently, experimental research programs should vary independent variables such as prior knowledge, expectations of the tools, perceived trustworthiness, and alleged AI capabilities. Experimental studies with human-AI dyads or groups could compare the efficacy of particular prompts for learning and knowledge construction.

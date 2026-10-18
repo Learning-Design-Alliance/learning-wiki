@@ -15,12 +15,14 @@ sources:
     author: Anna Keune
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Youth-material collaborative intra-actions in weaving happened in one dimension at a time, and the repetition of these movements produced a baseline algorithm with reliable output. [→ Anna Keune 2024](#anna-keune-2024)

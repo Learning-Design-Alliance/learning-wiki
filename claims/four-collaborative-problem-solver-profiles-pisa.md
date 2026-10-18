@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Process indicators (time-on-task, actions-on-task, and three CPS process skills) yield four profiles — Disengaged, Struggling, Adaptive, and Excellent — which relate to demographics, motivation, and CPS performance. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

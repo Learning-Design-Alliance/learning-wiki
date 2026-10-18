@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Rolf Steier, Hans Christian Arnseth
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students attended to bodily expressions of people in the VR film as resources for interpreting emotional states and engaging with their stories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students gave detailed descriptions of people they encountered in the VR film, treating bodily expressions (e.g., fiddling fingers) as reflections of emotional states that frame how the story should be treated. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

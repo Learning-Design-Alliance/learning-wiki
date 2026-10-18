@@ -15,12 +15,14 @@ sources:
     author: Natalia Reich-Stiebert, Jan-Bennet Voltmer, Jennifer Raimann, Stefan Stürmer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Time spent getting to know each other paradoxically amplifies perceived group heterogeneity in first-language heterogeneous CSCL groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In exploratory moderated regression, first-language heterogeneity had a stronger positive effect on perceived group heterogeneity when groups spent more time getting to know each other (H × G: F(1, 1513) = 4.43, p = .04). [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

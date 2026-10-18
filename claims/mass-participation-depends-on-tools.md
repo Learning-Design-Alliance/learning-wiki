@@ -15,12 +15,14 @@ sources:
     author: Baker, M., Reimann, P.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In a MOOC on basic maths, forms of mass participation differed by tool: indirect crowd speech in the Danmaku environment versus direct communication and collaboration in discussion board threads. [→ Baker 2024](#baker-2024)

@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Rolf Steier, Hans Christian Arnseth
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students in an upper secondary classroom experienced the individually-oriented viewing of the VR film Travelling While Black as highly social, despite sitting silently in headset-wearing groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students experienced the VR film viewing as a highly social experience, characterized in terms of social and bodily relationships with the people in the film, despite the viewing itself appearing individual. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

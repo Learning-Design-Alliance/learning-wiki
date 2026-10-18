@@ -17,6 +17,7 @@ sources:
 # Educational Design Research Studio (EDRS) for collaborative design work
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Educational Design Research Studio (EDRS) is a technology-rich space, equipped with "interactive surfaces, writable walls, an interactive whiteboard, a data projector, and iPads." The studios are meant to support collaborative efforts of interdisciplinary design teams comprising three to eight people working over a workday or less, with the positioning of each tool reflecting its intended function for supporting collaborative design practices.

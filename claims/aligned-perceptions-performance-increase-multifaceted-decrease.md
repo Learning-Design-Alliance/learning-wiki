@@ -15,12 +15,14 @@ sources:
     author: Zamecnik, A., Kovanović, V., Joksimović, S., Grossmann, G., Ladjal, D., Pardo, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Week 3 performance differs significantly across the four perception-transition groups, and teams maintaining similar perceptions increased performance while teams maintaining different perceptions decreased it. [→ Zamecnik 2024](#zamecnik-2024)

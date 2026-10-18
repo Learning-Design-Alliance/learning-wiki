@@ -15,12 +15,14 @@ sources:
     author: Ulrike Cress · Joachim Kimmerle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In human-AI interactions, the concept of group awareness needs to be refined to allow for more asymmetrical relationships, since humans may know about the AI's competencies and shortcomings while the reverse is uncertain. [→ Ulrike Cress · Joachim Kimmerle 2023](#ulrike-cress-joachim-kimmerle-2023)

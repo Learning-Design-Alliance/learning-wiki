@@ -15,12 +15,14 @@ sources:
     author: "Psathas, G., Tegos, S., Demetriadis, S. N., & Tsiatsos, T."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Both SRL intervention modes produced higher course exit quiz scores than control in a programming MOOC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` One-way ANOVA showed exit quiz scores differed across conditions; both intervention groups scored about 3.7 points higher than the control group. [→ Psathas 2023](#psathas-2023)

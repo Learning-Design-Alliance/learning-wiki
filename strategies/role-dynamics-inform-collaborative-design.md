@@ -17,7 +17,7 @@ sources:
 # Use longitudinal role dynamics to inform group formation, role assignment, and targeted support in collaborative learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article closes by arguing that mapping how roles emerge and evolve over time gives teachers actionable information for collaborative course design. As the authors state, "understanding role dynamics and their evolving trajectories can help teachers better design future collaborative activities, assign roles, form groups, distribute tasks, and, more importantly, be able to support students." The multilayered analytics pipeline (LCA roles, ENA code networks, sequence mining, Markov process mining) is the concrete mechanism for surfacing free riders and role stability early enough to intervene.

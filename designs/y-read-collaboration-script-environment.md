@@ -17,6 +17,7 @@ sources:
 # 'Y-read?' digital learning environment with a macro- and micro-level collaboration script for socially shared regulation of task-oriented reading
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 'Y-read?' is a digital learning environment integrating a collaboration script and the TOR-test, built from four script elements: play, scene, scriptlets and roles. The "macro-level script combines the components 'play', 'scene' and 'roles'" and guides four scenes: pre-task group planning, individual task execution, individual reflection and post-task group reflection. A stated novelty is "a full automation flow of role information and related learning materials to different participants on four different tablets that synchronously drive face-to-face collaboration". Roles were rotated across four lessons.

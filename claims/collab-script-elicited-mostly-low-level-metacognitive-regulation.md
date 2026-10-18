@@ -15,12 +15,14 @@ sources:
     author: "Kielstra, J., Molenaar, I., van Steensel, R., & Verhoeven, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The 'Y-read?' collaboration script elicited mainly low-level metacognitive regulation during pre- and post-task discussions, with deep-level activities rare
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During pre-task regulation, 1909 (52.03%) utterances were low-level metacognitive activities while only 87 (2.37%) were deep-level. [→ Kielstra 2022](#kielstra-2022)

@@ -15,12 +15,14 @@ sources:
     author: Charles Crook
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A game-based collaboration script with assigned in-game roles shifted elementary students' attitudes towards collaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Rojas et al. study, group activity incorporating a game-based collaboration script shifted students' negative attitudes towards engaging in collaboration. [→ Charles Crook 2022](#charles-crook-2022)

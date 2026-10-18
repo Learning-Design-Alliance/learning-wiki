@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Rolf Steier, Hans Christian Arnseth
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Teachers adopted varying levels and strategies of guidance during reflective dialogues about VR experiences, which shaped students' meaning making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Across the groups the teachers used different levels of guidance, from encouraging elaboration to letting students lead, and these guiding strategies were an important aspect of students' meaning making. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

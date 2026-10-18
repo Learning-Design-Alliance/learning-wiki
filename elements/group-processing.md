@@ -13,7 +13,7 @@ generated:
 # Group Processing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Group processing is the fifth element of cooperative learning: after (or during) a collaborative task, the group explicitly reflects on its functioning — which member actions helped or hindered the work, and what to do differently next time. It converts collaboration from an assumed condition into an object of learning, giving teams feedback on both task performance and interpersonal effectiveness.

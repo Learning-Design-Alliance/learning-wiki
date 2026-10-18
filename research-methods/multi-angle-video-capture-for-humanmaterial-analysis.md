@@ -12,6 +12,7 @@ generated:
 # Multi-angle video capture for human–material analysis
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This capture pattern combines eye-level, bird's-eye-view, and close-up turntable videos so that material movements are analytically visible. The study collected approximately 13.5 hours each of eye-level and bird's-eye views plus 435 close-up videos, because data centered predominantly on human actions limits theorizing materially driven phenomena. Viewing angles simultaneously afforded verification of what had been seen from another angle through visual evidence.

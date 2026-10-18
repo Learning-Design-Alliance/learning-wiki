@@ -15,12 +15,14 @@ sources:
     author: "Mørch, A. I., Andersen, R., Eie, S., & Mifsud, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During the reconstruction phase, the group created a social object (discussions leading to a role-play script) and a technology object (a Minecraft building for staging the role-play), whose contents became increasingly knowledge based as the activity progressed. [→ Mørch 2024](#mrch-2024)

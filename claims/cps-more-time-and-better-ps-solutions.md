@@ -15,18 +15,22 @@ sources:
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09407-y"
     title: "Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai. (2023). Can CPS better prepare 8th graders for problem-solving in electromagnetism and bridging the gap between high- and low-achievers than IPS? Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09407-y"
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # CPS students proposed better problem-solving solutions and allocated more time to solutions, evidence-based reasoning, and simulation/data recording than IPS students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The CPS group significantly outperformed the IPS group in PS solution performance across the 11 online topics, regardless of achievement level. [→ Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai 2023](#jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023)

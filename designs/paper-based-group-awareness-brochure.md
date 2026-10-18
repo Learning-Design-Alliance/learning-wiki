@@ -17,6 +17,7 @@ sources:
 # Paper-based group awareness brochure with participant profiles
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The group awareness intervention was a paper-based brochure containing profiles of all workshop participants, designed to support cognitive and social group awareness. Each profile included name, picture and contact information plus "information about personal resources (research interests and exemplary publications) and information pointing to their social resources (affiliations and background)". Profiles were compiled from participants' personal websites, and the brochure was given without further instructions at the start of workshops in the experimental condition.

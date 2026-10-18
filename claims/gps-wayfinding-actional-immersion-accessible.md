@@ -15,12 +15,14 @@ sources:
     author: Heather Toomey Zimmerman, Susan M. Land, Lillyanna Faimon, Yu-Chen Chiu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Every family used the GPS map to navigate between microsites, with children partnering in navigation. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)

@@ -15,12 +15,14 @@ sources:
     author: Fan Ouyang, Weiqi Xu, Mutlu Cukurova
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Type 2 groups showed a communication–behaviour-synergistic transition, Type 1 a behaviour-oriented, and Type 3 a communication-oriented transition in hidden Markov models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` HMMs fitted per pattern type (5-state for Type 1, 7-state for Type 2, 5-state for Type 3, chosen by BIC) revealed a regular transition pattern from communication states to behaviour states and back to communication, with each type characterised by a distinct orientation. [→ Fan Ouyang 2023](#fan-ouyang-2023)

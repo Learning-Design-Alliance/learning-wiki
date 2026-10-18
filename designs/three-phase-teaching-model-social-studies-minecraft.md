@@ -17,6 +17,7 @@ sources:
 # Three-phase teaching model for social studies with Minecraft (Introduction, Reconstruction, Transformation)
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A teaching model resulting from design-based research iterations that organizes social studies teaching with Minecraft Education in three activities: Introduction (teacher lecturing, past orientation, vague intersubjectivity, domain-specific skills), Reconstruction (collaborative design in Minecraft and role-play scriptwriting, present orientation, fragmented intersubjectivity) and Transformation (role-playing and video recording, future orientation, focused intersubjectivity). The current version "suggests how generic and domain-specific skill practices can be combined in three ways", pairing each phase with a temporal orientation, a level of intersubjectivity, and a primary/secondary skill type.

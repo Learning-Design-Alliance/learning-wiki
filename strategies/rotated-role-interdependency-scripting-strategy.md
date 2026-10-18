@@ -17,7 +17,7 @@ sources:
 # Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The strategy assigns each group member a distinct informational role across script scenes: the leader guides discussion and holds reading-strategy information, the writer records group decisions, the task guard holds the task, and the text guard a blurred text. Roles support "sharedness through information interdependency among group members", and "roles were rotated across the four sessions to increase motivation and learning". Alternate role assignment compels every member to contribute a piece of the planning or reflection information, so the group cannot complete a task representation, strategy selection or strategy reflection without pooling role-held information.

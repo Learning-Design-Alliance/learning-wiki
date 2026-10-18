@@ -17,6 +17,7 @@ sources:
 # A conceptual design framework for PST collaborative inquiry combining knowledge building principles with collaborative-analytics reflective assessment
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a conceptual and design framework in which knowledge building principles emphasise "epistemic agency, idea improvement, community knowledge and transformative assessment" and PSTs take epistemic agency to foster idea improvement using transformative assessment focused on metacognitive reflection. Two key design components follow: sustained idea-driven knowledge building inquiry in Knowledge Forum writing, and collaborative analytics consisting of KBDeX visualizations plus interaction rubrics and prompt questions supporting metacognitive reflection. PSTs use the analytics to reflect on and assess ongoing Knowledge Forum work for deepening inquiry and revision.

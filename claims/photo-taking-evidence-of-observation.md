@@ -15,12 +15,14 @@ sources:
     author: Heather Toomey Zimmerman, Susan M. Land, Lillyanna Faimon, Yu-Chen Chiu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Photo-taking prompts at microsites functioned as sense-making activities connecting the MAR narrative to physical specimens. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)

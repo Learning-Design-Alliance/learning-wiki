@@ -15,12 +15,14 @@ sources:
     author: Baker, M., Reimann, P.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Four changes in CSCL over thirty years include mainstream collaborative pedagogies, collaboration technology becoming infrastructure, changed definitions of learning, and collaboration changing scale
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors identify four changes over the past thirty years: collaborative pedagogies mainstreaming, collaboration technology becoming infrastructure, learning redefined to include collective-level learning, and collaboration shifting from small synchronous groups to large, partly asynchronous collectives. [→ Baker 2024](#baker-2024)

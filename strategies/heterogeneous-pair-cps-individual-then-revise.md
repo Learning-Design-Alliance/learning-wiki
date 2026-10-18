@@ -17,7 +17,7 @@ sources:
 # Use heterogeneous-pair CPS in which students first generate individual solutions then revise them after collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends structuring collaborative problem-solving so that mixed-achievement pairs work together on simulation-based physics problems, with "students in CPS groups be strongly encouraged to develop their own PS solutions prior to collaboration, and revise them afterwards". This sequencing exposes each student to the hardest stage of problem solving before peer exchange, and the authors link heterogeneous grouping to support dialogue between high- and low-achievers. They also suggest "future research on CPS practice incorporate heterogeneous groups as a means of facilitating dialogue between high-achieving and low-achieving individuals".

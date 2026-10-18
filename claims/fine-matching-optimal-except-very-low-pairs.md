@@ -15,12 +15,14 @@ sources:
     author: Carolyn P. Rosé, Sanna Järvelä
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Fine-grained matching by ability level is reported to be optimal except in pairs where both students are at the very low ability level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The significant effect of fine-grained matching by ability level did not hold for pairs where both partners are at the very low ability level. [→ Carolyn P. Rosé 2023](#carolyn-p-rose-2023)

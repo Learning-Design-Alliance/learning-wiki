@@ -15,12 +15,14 @@ sources:
     author: Leonardo Silva, António Mendes, Anabela Gomes, Gabriel Fortes
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The intervention did not increase students' SRL aptitude, yet supported higher course grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Regulatory support raised course grades even though students' SRL aptitude, measured pre and post with the MSLQ, did not increase. [→ Leonardo Silva 2023](#leonardo-silva-2023)

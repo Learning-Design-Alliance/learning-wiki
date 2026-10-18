@@ -15,12 +15,14 @@ sources:
     author: Charles Crook
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Regulation in collaborative learning is layered: the portfolio of regulation layers needs itself to be regulated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that metacognitive regulation of collaboration is distributed and hierarchical across analytic layers, so that the portfolio of regulation layers is itself regulated, resisting simple labelling as metacognition. [→ Charles Crook 2022](#charles-crook-2022)

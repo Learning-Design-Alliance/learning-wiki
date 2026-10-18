@@ -15,18 +15,22 @@ sources:
     author: Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: ramy-elmoazen-2025-2
     resource: "https://doi.org/10.1007/s11412-024-09431-6"
     title: "Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre. (2025). Capturing temporal pathways of collaborative roles: A multilayered analytical approach using community of inquiry. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09431-6"
     author: Ramy Elmoazen, Mohammed Saqr, Laura Hirsto, Matti Tedre
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Trajectories differed in transition structure: free-rider students migrated from social mediator and leader roles into the peripheral explorer role, and rarely returned to leadership directly.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the free riders trajectory (n = 47), 81% of students persisted in the peripheral explorer role, with 76% of social mediators and 40% of leaders migrating to peripheral exploration, while leader transitions typically required an intermediary social mediator phase of about a week or two. [→ Ramy Elmoazen 2025](#ramy-elmoazen-2025)

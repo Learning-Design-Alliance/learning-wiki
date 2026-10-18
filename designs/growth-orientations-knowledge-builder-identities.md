@@ -17,6 +17,7 @@ sources:
 # Growth orientations in students' identities as knowledge builders theorized building on Dweck's mindset theory
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The editorial describes the Kashi and Hod article as breaking new theoretical ground in conceptualizing human growth within knowledge-building communities, "building on Dweck's theory of mindset". It situates this in a Humanistic knowledge building community, "a type of collaborative environment designed with the aim of supporting identity development and knowledge advancement".

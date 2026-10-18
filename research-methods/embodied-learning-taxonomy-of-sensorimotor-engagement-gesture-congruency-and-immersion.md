@@ -12,6 +12,7 @@ generated:
 # Embodied learning taxonomy of sensorimotor engagement, gesture congruency, and immersion
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The introduction reports, citing Johnson-Glenberg et al. and its 2017 update, an embodied learning taxonomy that "distinguishes components of embodied learning into three constructs": amount of sensorimotor engagement, congruence of gestures to content, and amount of immersion. Each construct spans four degrees, "the first degree being the lowest level of embodiment and the fourth degree being the highest." These formalized taxonomies and rubrics serve as design tools for XR learning designers and educators.

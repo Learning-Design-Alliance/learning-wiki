@@ -15,12 +15,14 @@ sources:
     author: Benzi Slakmon, Rotem Abdu
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Individual trajectories varied: 9 of 14 teachers increased dialogic noticing per episode, while two teachers slightly decreased, which the authors attribute to limits of the nondirective intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Per-participant counts (Table 3) show 9 of 14 participants increased dialogic utterances per episode after the intervention; three showed milder increases (participants 2, 6, and 13) and two showed a mild decrease (participants 5 and 9). [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

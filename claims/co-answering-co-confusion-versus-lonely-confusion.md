@@ -15,12 +15,14 @@ sources:
     author: Bo Yang
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Questions in danmaku regularly received many brief peer replies forming collective answers, and repeated similar needs could create a co-confusion atmosphere; on the discussion board many questions received no or few responses, though answered ones could sustain follow-up rounds. [→ Bo Yang 2024](#bo-yang-2024)

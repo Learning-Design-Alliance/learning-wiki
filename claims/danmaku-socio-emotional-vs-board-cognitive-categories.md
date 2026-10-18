@@ -15,12 +15,14 @@ sources:
     author: Bo Yang
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Danmaku interaction is predominantly socio-emotional while discussion-board interaction tilts cognitive, and the tools share only four content categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` More than 70% of danmaku interaction fell in the socio-emotional dimension, while the discussion board showed slightly more cognitive than socio-emotional interaction; relationship development occurred only on the board, and cohesive responses and co-presence only in danmaku. [→ Bo Yang 2024](#bo-yang-2024)

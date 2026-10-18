@@ -13,6 +13,7 @@ generated:
 # KBDeX (Knowledge Building Discourse Explorer)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 KBDeX is a social network analysis tool developed by Oshima and colleagues for visualizing and analyzing collaborative ideas and discourse in knowledge-building communities.

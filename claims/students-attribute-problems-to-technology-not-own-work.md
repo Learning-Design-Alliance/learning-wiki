@@ -15,12 +15,14 @@ sources:
     author: Gerry Stahl
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Students working in a CSCL environment may attribute their problems to the technology rather than to their own work, and must frame the problem context while guessing a teacher expectation modified by the opaque computer-supported context. [→ Gerry Stahl 2008](#gerry-stahl-2008)

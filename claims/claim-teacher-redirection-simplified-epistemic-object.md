@@ -15,12 +15,14 @@ sources:
     author: Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` When teachers directed the Sunny team from a water-turbine charger toward a solar panel charger, the team's application of product design practices declined and its epistemic object was simplified. [→ Sini Davies 2024](#sini-davies-2024)

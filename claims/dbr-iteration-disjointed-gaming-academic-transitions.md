@@ -15,12 +15,14 @@ sources:
     author: "Mørch, A. I., Andersen, R., Eie, S., & Mifsud, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # First DBR iteration evaluation showed disjointed transitions between gaming and academic work, prompting a revised three-step teaching model with domain knowledge acquisition first
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Student teachers reported that the transitions between gaming and academic work in the first iteration were disjointed and should be smoother, leading the team to add a domain-knowledge-acquisition step and an excursion to a historical site in iteration 2. [→ Mørch 2024](#mrch-2024)

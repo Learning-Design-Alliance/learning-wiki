@@ -15,12 +15,14 @@ sources:
     author: Benzi Slakmon, Rotem Abdu
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The intervention significantly increased teachers' noticing of six dialogic attributes — persuasive interaction, one leads and another is led, agreement and collective attention, students have equal status, dialogic gap, and monologue — but not of dialogue-expansion attributes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Significant changes after the intervention occurred in persuasive interaction, one leads and another is led, agreement and collective attention, dialogic gap, monologue, and students with equal status (all p < 0.05 in Table 2). [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

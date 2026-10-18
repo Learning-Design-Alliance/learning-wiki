@@ -15,12 +15,14 @@ sources:
     author: "Psathas, G., Tegos, S., Demetriadis, S. N., & Tsiatsos, T."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Pre-course SRL level statistically significantly predicted participation in collaborative chat activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a linear regression, students' SRL level statistically significantly predicted their participation in collaborative activities, with a small effect size. [→ Psathas 2023](#psathas-2023)

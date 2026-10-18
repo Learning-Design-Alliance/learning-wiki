@@ -15,12 +15,14 @@ sources:
     author: Charles Crook
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Schnaubert and Bodemer propose a six-part framework of defining aspects of group awareness for regulating joint activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A conceptual analysis by Schnaubert and Bodemer identifies six defining aspects of group awareness as it relates to the regulation of joint activity. [→ Charles Crook 2022](#charles-crook-2022)

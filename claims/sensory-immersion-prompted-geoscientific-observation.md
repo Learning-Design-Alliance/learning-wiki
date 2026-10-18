@@ -15,12 +15,14 @@ sources:
     author: Heather Toomey Zimmerman, Susan M. Land, Lillyanna Faimon, Yu-Chen Chiu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` App observation prompts led families to engage in visual and tactile exploration of sandstone and limestone, finding evidence of erosion, deposition, and change over time. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)

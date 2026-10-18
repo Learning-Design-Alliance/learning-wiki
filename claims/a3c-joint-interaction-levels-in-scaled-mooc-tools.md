@@ -15,12 +15,14 @@ sources:
     author: Bo Yang
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Lurkers showed attendance, posters showed coordination, distributed co-answering showed cooperation, and knowledge co-construction showed collaboration; collaboration was observed only in a small portion of knowledge-related discussions. [→ Bo Yang 2024](#bo-yang-2024)

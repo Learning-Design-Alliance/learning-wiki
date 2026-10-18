@@ -15,12 +15,14 @@ sources:
     author: "Paneth, L., Jeitziner, L. T., Rack, O., Opwis, K., & Zahn, C."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No statistically significant association between QCGE dimension ratings and the collaborative product grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Linear regression predicting the expert-rated group product grade from the four QCGE dimensions found no dimension statistically significant; equivalence was not tested. [→ Paneth 2024](#paneth-2024)

@@ -15,12 +15,14 @@ sources:
     author: Carolyn P. Rosé, Sanna Järvelä
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Feedback probing for deeper conceptual understanding is reported to be particularly effective in classwide peer feedback, though cognitively more demanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Feedback that probed for deeper conceptual understanding was particularly effective, though cognitively more demanding. [→ Carolyn P. Rosé 2023](#carolyn-p-rose-2023)

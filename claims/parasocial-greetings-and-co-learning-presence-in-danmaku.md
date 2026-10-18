@@ -15,12 +15,14 @@ sources:
     author: Bo Yang
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Danmaku learners greeted and complimented the pre-recorded instructor one-way, generating co-monologue streams, and used four strategies to establish co-learning presence that received tens of peer replies; neither pattern was found on the discussion board. [→ Bo Yang 2024](#bo-yang-2024)

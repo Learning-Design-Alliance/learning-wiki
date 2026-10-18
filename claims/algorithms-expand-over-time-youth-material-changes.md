@@ -15,12 +15,14 @@ sources:
     author: Anna Keune
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Algorithms developed over time through changes in youth-material collaborations, defining learning as physical expansion of algorithmic production
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Variations of established computational repetitions added new routines, showing that the craft-specific algorithm changed over time through shifting youth-material collaborations. [→ Anna Keune 2024](#anna-keune-2024)

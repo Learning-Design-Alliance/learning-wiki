@@ -15,12 +15,14 @@ sources:
     author: Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A teacher visited each of the three teams frequently but, in most cases, only for a few minutes, with exceptions of extended engagement during particular invention-process phases. [→ Sini Davies 2024](#sini-davies-2024)

@@ -15,12 +15,14 @@ sources:
     author: Gerry Stahl
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Purely peer groups did not fully succeed in the purposefully out-of-reach goal, but nevertheless forged significant steps in working on the problem. [→ Gerry Stahl 2008](#gerry-stahl-2008)

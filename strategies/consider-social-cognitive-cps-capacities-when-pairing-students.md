@@ -17,7 +17,7 @@ sources:
 # Consider students' social and cognitive capacities of CPS when assigning pairs for computer-based CPS tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 This strategy derives from the Li et al. study of dyadic action transitions summarized in the editorial: the authors stress pedagogical implications for how teachers compose student pairs in computer-supported collaborative problem solving. The editorial states that "Pedagogical implications are stressed, such as being aware of the students' social and cognitive capacities of CPS when assigning them into pairs for computer-based CPS tasks." It presupposes that pair composition shapes collaboration productivity.

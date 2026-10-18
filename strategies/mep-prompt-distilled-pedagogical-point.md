@@ -17,7 +17,7 @@ sources:
 # Instructors distill a key pedagogical point into a simple MEP prompt for multiplayer classrooms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The strategy is designing a minimal, simple exposure prompt that nudges learners toward a pedagogical goal while "maintaining freedom of learner creativity and minimizing instructor intrusion". The editorial reports instructors "can easily employ MEP scripts as part of a multiplayer classroom by distilling a key pedagogical point down to its essence within a prompt", grounded in role-playing game practice theory for designing low-cost scripts.

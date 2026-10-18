@@ -12,6 +12,7 @@ generated:
 # Three-layered AI-driven learning analytics framework for examining collaborative problem solving
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a three-layered analytical framework integrating AI algorithms with learning analytics to examine collaborative problem solving as complex adaptive systems: "AI algorithms were incorporated into that framework using multiple learning analytic approaches". Layer 1 codes interactive, cognitive, regulative, behavioural and socio-emotional dimensions; Layer 2 applies multichannel sequence analysis with optimal matching and Ward's clustering to detect pattern types; Layer 3 uses statistical analysis, epistemic network analysis, and hidden Markov modeling to reveal quantitative, structural, and transitional regularities per type.

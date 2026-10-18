@@ -15,12 +15,14 @@ sources:
     author: Laura Brandl, Matthias Stadler, Constanze Richters, Anika Radkowitsch, Martin R. Fischer, Ralf Schmidmaier, Frank Fischer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Evidence for the expected social-skills-to-CDA relations appears only for evidence elicitation, and inconsistently across studies. [→ Laura Brandl 2024](#laura-brandl-2024)

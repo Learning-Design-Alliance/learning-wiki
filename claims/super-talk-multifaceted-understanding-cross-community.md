@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Detailed analysis of cross-classroom Super Talk documented that students constructed a multifaceted understanding built on diverse ideas from each classroom that subsequently enriched discourse within each individual classroom. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

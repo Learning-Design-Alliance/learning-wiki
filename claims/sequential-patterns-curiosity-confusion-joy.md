@@ -15,24 +15,30 @@ sources:
     author: Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022-2
     resource: "https://doi.org/10.1007/s11412-022-09380-y"
     title: "Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan. (2022). Evolution of the academic emotions of academically low-achieving students in knowledge building. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09380-y"
     author: Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022-3
     resource: "https://doi.org/10.1007/s11412-022-09380-y"
     title: "Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan. (2022). Evolution of the academic emotions of academically low-achieving students in knowledge building. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09380-y"
     author: Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` With a support value of 0.6, 370 subsequences were generated, mostly consisting of joy with some curiosity or confusion, and 274 included confusion. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022)

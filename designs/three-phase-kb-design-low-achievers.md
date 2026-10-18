@@ -17,6 +17,7 @@ sources:
 # Three-phase principle-based pedagogical design scaffolding low-achieving students into Knowledge Building
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A three-phased pedagogical design, refined from a previous four-phased design, that maps sixteen principle-based activities onto Knowledge Building principles (epistemic agency, community knowledge, collective responsibility, improvable ideas, embedded concurrent and transformative assessment). Phase 1 creates a collaborative and reflective culture so students "develop collaboration, inquiry, and reflection skills for productive Knowledge Building inquiry"; Phase 2 engages students in problem-centered collaborative inquiry on Knowledge Forum; Phase 3 deepens inquiry and community knowledge through student-directed portfolio assessment and field trips.

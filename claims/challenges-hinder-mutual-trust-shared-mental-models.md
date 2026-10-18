@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The hackathon study identified which challenges hindered the development of mutual trust and which hindered the development of shared mental models. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

@@ -17,7 +17,7 @@ sources:
 # Design CSCL software to support communication and collaboration while leaving assessment of answer correctness to people
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 qualitative, 1 theoretical), `q1` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A design strategy drawn from the Lantz-Andersson case study: in a true CSCL context, the software "would support the communication and collaboration, but would leave the assessment of the correctness of answers to people." This avoids the rigidity of simplistic testing, drilling, or tutoring software, where opaque program logic rejects responses not in a precise format and students cannot tell what requirements were set up. The strategy avoids inscrutable computer judgment of student work.

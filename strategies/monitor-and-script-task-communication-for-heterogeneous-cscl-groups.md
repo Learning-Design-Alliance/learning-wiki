@@ -17,7 +17,7 @@ sources:
 # Monitor early group processes and provide group-adapted task-related communication scripting for linguistically heterogeneous CSCL groups at risk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends a group-specific intervention approach for its identified risk constellation of "a combination of high first-language heterogeneity and low task-related communication". Instructors should first monitor group processes in the early collaboration phase and provide feedback on risks; if needed, heterogeneous groups can be assisted in increasing task-related communication "through adapted scripting or scaffolding procedures designed to structure task-related communication". The approach is selective so low-risk groups are not disrupted.

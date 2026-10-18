@@ -15,12 +15,14 @@ sources:
     author: Carolyn P. Rosé, Sanna Järvelä
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # This issue's MOOC study is reported to demonstrate that an intervention delivered outside chat activities promotes student participation in chat-based collaborative activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An SRL-focused email intervention outside of chat activities increased students' participation in chat-based collaborative activities in a MOOC. [→ Carolyn P. Rosé 2023](#carolyn-p-rose-2023)

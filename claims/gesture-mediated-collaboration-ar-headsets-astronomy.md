@@ -15,12 +15,14 @@ sources:
     author: Jacob Fortman, Rebecca Quintana
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Gesture mediated collaborative learning in an AR-headset astronomy task, including exploration, orientation, sharing and synthesizing AR perspectives, and sharing symbolic conception
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In the 'Lost at Sea' collaborative astronomy task with AR headsets and tablets, gesture functioned as an important mediator of collaborative learning across five identified roles. [→ Jacob Fortman 2023](#jacob-fortman-2023)

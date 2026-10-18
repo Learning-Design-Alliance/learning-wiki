@@ -15,12 +15,14 @@ sources:
     author: Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No significant difference found across pair compositions in alternating sequences of two or three actions during CPS
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The study did not find a significant difference across pairs in alternating sequences of two or three actions (reciprocity and triadic patterns). [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

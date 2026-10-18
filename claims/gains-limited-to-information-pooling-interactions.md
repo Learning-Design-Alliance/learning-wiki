@@ -15,12 +15,14 @@ sources:
     author: Sebastian Strauß, Isis Tunnigkeit, Julia Eberle, Arlind Avdullahu, Nikol Rummel
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Learners' knowledge gains focused particularly on interactions required for solving information pooling tasks, such as sharing information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Explorative analyses indicated the acquired collaboration knowledge was concentrated on task-relevant interactions needed for information pooling rather than a broader skill set. [→ Sebastian Strauß 2025](#sebastian-strau-2025)

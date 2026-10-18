@@ -15,12 +15,14 @@ sources:
     author: Mohammed Saqr, Sonsoles López-Pernas
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Engaging in argumentation-triggered, information-triggered, or socially-triggered interaction sequences is positively associated with grades, while facilitated discussions is not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students who engaged more often in Information triggered, Argumentation triggered, or Socially triggered sequences had higher grades, but Facilitated discussions frequency was not statistically significant. [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

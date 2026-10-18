@@ -15,12 +15,14 @@ sources:
     author: "Psathas, G., Tegos, S., Demetriadis, S. N., & Tsiatsos, T."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Median CWWS participation scores were statistically significantly higher in both the general intervention group and the personalized intervention group than in the control group. [→ Psathas 2023](#psathas-2023)

@@ -15,12 +15,14 @@ sources:
     author: Sebastian Strauß, Isis Tunnigkeit, Julia Eberle, Arlind Avdullahu, Nikol Rummel
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners who reflected collaboratively on their prior collaboration gained more knowledge about effective collaboration than learners guided by an external collaboration script or unsupported learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` University students in the reflection condition gained more knowledge about effective collaboration (mid-test) than those in the script and control conditions, per multilevel modeling. [→ Sebastian Strauß 2025](#sebastian-strau-2025)

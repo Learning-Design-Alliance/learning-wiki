@@ -15,12 +15,14 @@ sources:
     author: Zamecnik, A., Kovanović, V., Joksimović, S., Grossmann, G., Ladjal, D., Pardo, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Feedback engagement is the main activity distinguishing perception groups, with divergent-perception teams interacting less with feedback content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The only engagement activity showing significant differences between transition groups was feedback: teams with different cohesive perceptions had lower feedback interactions than teams with similar perceptions. [→ Zamecnik 2024](#zamecnik-2024)

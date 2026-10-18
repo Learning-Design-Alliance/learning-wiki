@@ -15,12 +15,14 @@ sources:
     author: "Kielstra, J., Molenaar, I., van Steensel, R., & Verhoeven, L."
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Shared and co-constructed intra-group interaction were significantly correlated with deep-level metacognitive activities during pre-task regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Frequency of shared interaction correlated with frequency of deep-level metacognitive activities (r = 0.70, p < 0.05) and co-constructed more strongly (r = 0.84, p < 0.01) during pre-task regulation. [→ Kielstra 2022](#kielstra-2022)

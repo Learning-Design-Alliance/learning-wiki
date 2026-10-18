@@ -17,7 +17,7 @@ sources:
 # Involve cross-age peer tutors in maker-project pedagogical infrastructure
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 The article recommends involving peer-tutor students — the preceding year's tutees who become the present year's tutors — in the school's pedagogical infrastructure for co-invention projects. This "can: (1) free up teachers' time to concentrate on the scaffolding of the classroom activity instead of solving individual teams' technological and practical problems" and support advanced technologies, while tutors themselves gain personal growth.

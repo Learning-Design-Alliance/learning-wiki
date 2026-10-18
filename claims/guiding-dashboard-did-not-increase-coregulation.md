@@ -15,18 +15,22 @@ sources:
     author: Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: reet-kasepalu-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09414-z"
     title: "Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley. (2023). Studying teacher withitness in the wild: comparing a mirroring and an alerting & guiding dashboard for collaborative learning. Intern. J. Comput.-Support. Collab. Learn (2023) 18:575–606. https://doi.org/10.1007/s11412-023-09414-z"
     author: Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Interventions rose from 45.8% (11/24) in the no dashboard condition to 73.7% (14/19) in the mirroring-only condition, but the Chi-squared test proved non-significant (5.62, p = 0.06). [→ Reet Kasepalu 2023](#reet-kasepalu-2023)

@@ -15,12 +15,14 @@ sources:
     author: "Gerry Stahl & Friedrich Hesse"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The editorial's own synthesis of the issue's methodology articles (a quantitative rating-scheme paper, an SNA-plus-content-analysis paper, and a qualitative case-study paper) concludes that complementary perspectives should inter-animate rather than one method dominate. [→ Gerry Stahl & Friedrich Hesse 2007](#gerry-stahl-friedrich-hesse-2007)

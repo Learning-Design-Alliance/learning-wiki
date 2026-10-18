@@ -17,6 +17,7 @@ sources:
 # Eight linked microsites organizing a place-based MAR time-travel journey from the Ordovician period to the present day
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A microsite is defined as "the intersection of the groups' interactions, the digital MAR content, and the physical setting." The Time Explorers app arranged eight such microsites in geologic-time order—Time Spiral Sculpture, Coral Sculpture, Limestone Boulders, Sandstone Boulders, Arched Rock Wall, In-and-Out Creek, Model Cave, and Spring Basin—each pairing a physical location with narrative MAR elements, prompts, and a photo-taking sense-making activity, plus a ninth celebratory AR-filter selfie. This lesson-level pattern lets designers connect digital content across outdoor spaces while learners move.

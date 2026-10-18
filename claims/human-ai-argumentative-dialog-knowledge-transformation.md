@@ -15,12 +15,14 @@ sources:
     author: Ulrike Cress · Joachim Kimmerle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` With appropriate prompts, argumentative dialogs among humans and AI tools can be achieved in which emergent processes of joint knowledge construction may take place. [→ Ulrike Cress · Joachim Kimmerle 2023](#ulrike-cress-joachim-kimmerle-2023)

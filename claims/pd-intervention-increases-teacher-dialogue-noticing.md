@@ -15,12 +15,14 @@ sources:
     author: Benzi Slakmon, Rotem Abdu
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # After a dialogic-focused professional development intervention, mathematics teachers noticed student dialogue significantly more, in both attending (83 to 170 cases) and responding (24 to 71 cases)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After the intervention, teachers noticed dialogic attributes significantly more than before (total noticing rose from 107 to 241 cases, p < 0.05). [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

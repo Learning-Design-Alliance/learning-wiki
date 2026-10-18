@@ -15,12 +15,14 @@ sources:
     author: Heather Toomey Zimmerman, Susan M. Land, Lillyanna Faimon, Yu-Chen Chiu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` At many microsites, sensory, actional, narrative, and social immersions co-occurred during LOTM. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)

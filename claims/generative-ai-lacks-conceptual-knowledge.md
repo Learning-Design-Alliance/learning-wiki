@@ -15,12 +15,14 @@ sources:
     author: Ulrike Cress · Joachim Kimmerle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Generative AI tools do not possess conceptual knowledge or conscious understanding, relying only on word patterns and probabilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Generative AI tools produce text via word transitions and probabilities of word classes without conceptual knowledge or conscious understanding of the world. [→ Ulrike Cress · Joachim Kimmerle 2023](#ulrike-cress-joachim-kimmerle-2023)

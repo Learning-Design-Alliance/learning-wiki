@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Fifth-graders supported by the Idea Thread Mapper generated high-quality super notes reflecting on their inquiry progress for cross-classroom sharing. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

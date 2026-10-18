@@ -13,6 +13,7 @@ generated:
 # Wikiglass
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Wikiglass is a learning-analytics-enabled awareness tool developed by Hu, Ng, and Chu that provides real-time information about individual and group collaboration to students and teachers.

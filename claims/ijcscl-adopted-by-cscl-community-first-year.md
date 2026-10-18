@@ -15,12 +15,14 @@ sources:
     author: "Gerry Stahl & Friedrich Hesse"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In its first year the international journal of CSCL was adopted by the CSCL research community as a formal publication and feedback venue.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The journal is not merely a venue for academic papers but a medium of discourse about new directions within an active community with diverse perspectives, evidenced by submissions and reviewer volunteering in its first year. [→ Gerry Stahl & Friedrich Hesse 2007](#gerry-stahl-friedrich-hesse-2007)

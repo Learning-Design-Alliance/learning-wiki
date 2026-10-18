@@ -15,12 +15,14 @@ sources:
     author: Laura Brandl, Matthias Stadler, Constanze Richters, Anika Radkowitsch, Martin R. Fischer, Ralf Schmidmaier, Frank Fischer
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Content knowledge positively predicts evidence elicitation quality across three studies. [→ Laura Brandl 2024](#laura-brandl-2024)

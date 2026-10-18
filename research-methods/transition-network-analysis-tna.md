@@ -12,7 +12,7 @@ generated:
 # Transition Network Analysis (TNA)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Transition Network Analysis (TNA) models learning processes as networks of discrete behavioural states connected by directed, probabilistic transitions, computed here with a web-based TNA Shiny app. Unlike frequency counts, it "maps the temporal trajectory of learner actions", operationalising the error treatment sequence in interactionist SLA. In this study it revealed the Revision and Chat Loops and enabled network-level metrics (density, reciprocity) and proficiency-group comparisons.

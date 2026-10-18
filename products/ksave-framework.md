@@ -13,7 +13,7 @@ generated:
 # KSAVE framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The KSAVE framework is a 21st-century skills framework produced by the ATC21S project to organize knowledge, skills, attitudes, values, and ethics for curriculum and large-scale assessment.

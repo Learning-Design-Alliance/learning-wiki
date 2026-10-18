@@ -15,12 +15,14 @@ sources:
     author: Gerry Stahl
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Learning in virtual communities ranges across many settings, requiring connective ethnography and analysis at multiple units of analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Learning is an important part of participation in virtual communities and ranges across many settings, requiring data analysis at multiple units of analysis. [→ Gerry Stahl 2008](#gerry-stahl-2008)

@@ -15,12 +15,14 @@ sources:
     author: Natalia Reich-Stiebert, Jan-Bennet Voltmer, Jennifer Raimann, Stefan Stürmer
     q: 3
     i: 2
+    kind: associational
+    rigour: 3
 ---
 
 # First-language heterogeneity in CSCL groups reduces students' precourse–postcourse gains in online interaction self-efficacy, independent of students' own language status
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Students in first-language heterogeneous CSCL groups exhibited smaller pre-to-post gains in online interaction self-efficacy than students in homogeneous groups, with a significant heterogeneity × time interaction (η2 = .004) alongside a large time main effect (η2 = .11). [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

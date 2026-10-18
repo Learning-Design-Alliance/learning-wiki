@@ -15,12 +15,14 @@ sources:
     author: "Mochizuki, T., Sasaki, H., Wakimoto, T., Kubota, Y., Eagan, B., Hirayama, R., Yamaguchi, Y., Yuki, N., Funaoi, H., Suzuki, H., & Kato, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Qualitative analysis of viewpoint-switching scenes indicated the 3D perspective-taking manipulatives bolstered perspective-taking via the nonverbal LED-status representations of students' states
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` One representative excerpt shows a participant realizing she "should have asked questions more frequently" after observing student characters concentrated in the "invincible mode" representation. [→ Mochizuki 2022](#mochizuki-2022)

@@ -15,12 +15,14 @@ sources:
     author: Benzi Slakmon, Rotem Abdu
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The increase in noticing dialogue was accompanied by a decrease in noticing mathematical activity, described as attentional tunneling — a design consideration for integrated dialogue-plus-content noticing training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors report that gains in noticing dialogue co-occurred with an observed decrease in noticing mathematics, a phenomenon they identify as attentional tunneling. [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

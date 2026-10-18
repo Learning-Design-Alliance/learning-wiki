@@ -15,12 +15,14 @@ sources:
     author: "Psathas, G., Tegos, S., Demetriadis, S. N., & Tsiatsos, T."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Personalized SRL email interventions increased post-course self-regulation scores relative to control in a MOOC, while the general intervention did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After adjusting for pre-course SRL, post-course SRL levels were statistically significantly greater in the personalized intervention group than the control group, with no significant difference between control and general intervention groups. [→ Psathas 2023](#psathas-2023)

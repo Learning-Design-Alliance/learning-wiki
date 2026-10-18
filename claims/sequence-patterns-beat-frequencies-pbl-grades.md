@@ -15,12 +15,14 @@ sources:
     author: Mohammed Saqr, Sonsoles López-Pernas
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An MLM predicting grades from frequencies of four session sequence clusters explained more variance (conditional R2 = 0.74) than frequency-based models (R2 total 0.65-0.71). [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

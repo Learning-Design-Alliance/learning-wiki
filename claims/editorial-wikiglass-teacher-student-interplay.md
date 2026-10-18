@@ -15,12 +15,14 @@ sources:
     author: Carolyn Rosé · Sanna Järvelä
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Review reports the Wikiglass learning analytics tool study shows interplay between teacher and student use of the tool
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the Hu, Ng, and Chu study, the analysis illustrates the interplay between the respective use of the Wikiglass teacher-and-student tool by teachers and by students over a semester. [→ Carolyn Rosé · Sanna Järvelä 2022](#carolyn-rose-sanna-jarvela-2022)

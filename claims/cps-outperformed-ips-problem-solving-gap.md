@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Eighth graders in a CPS group outperformed those in an IPS group on physics problem solving, with CPS narrowing high–low achievement gaps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students in the CPS group significantly outperformed those in the IPS group on physics problem-solving and online problem-solving performance, while both conditions affected physics concept test performance to the same degree. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

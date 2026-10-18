@@ -15,12 +15,14 @@ sources:
     author: Jacob Fortman, Rebecca Quintana
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the STEP MR environment, students collaboratively develop their own gestures to represent and explain challenging concepts such as states of matter. [→ Jacob Fortman 2023](#jacob-fortman-2023)

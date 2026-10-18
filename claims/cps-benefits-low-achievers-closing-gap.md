@@ -15,24 +15,30 @@ sources:
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09407-y"
     title: "Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai. (2023). Can CPS better prepare 8th graders for problem-solving in electromagnetism and bridging the gap between high- and low-achievers than IPS? Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09407-y"
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023-3
     resource: "https://doi.org/10.1007/s11412-023-09407-y"
     title: "Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai. (2023). Can CPS better prepare 8th graders for problem-solving in electromagnetism and bridging the gap between high- and low-achievers than IPS? Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09407-y"
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # CPS benefited low-achievers significantly more than IPS on problem-solving, closing the gap with high-achievers, while high-achievers gained equally from both
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2`–`q3`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Low-achievers in the CPS group significantly outperformed low-achievers in the IPS group on the EPST posttest. [→ Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai 2023](#jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023)

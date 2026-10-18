@@ -15,12 +15,14 @@ sources:
     author: "Psathas, G., Tegos, S., Demetriadis, S. N., & Tsiatsos, T."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Retention was statistically significantly higher after both the personalized and the general intervention than in control; retention was 87.5% personalized, 80.0% general, 62.5% control. [→ Psathas 2023](#psathas-2023)

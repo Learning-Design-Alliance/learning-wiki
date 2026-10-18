@@ -15,18 +15,22 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: sanna-järvelä-2022-2
     resource: "https://doi.org/10.1007/s11412-022-09373-x"
     title: "Sanna Järvelä, Carolyn P. Rosé. (2022). Relations Matter – CSCL Research Informing and Developing CL Competencies. Intern. J. Comput.-Support. Collab. Learn (2022) 17:185–189. https://doi.org/10.1007/s11412-022-09373-x"
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Collaborative analytics-supported reflective assessment helped pre-service teachers develop collaborative inquiry competencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Knowledge Forum discourse analysis showed that collaborative analytics-supported reflective assessment helped PSTs develop collaborative inquiry competencies for community knowledge advancement. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

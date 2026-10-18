@@ -15,12 +15,14 @@ sources:
     author: Sebastian Strauß, Isis Tunnigkeit, Julia Eberle, Arlind Avdullahu, Nikol Rummel
     q: 3
     i: 0
+    kind: causal
+    rigour: "?"
 ---
 
 # Neither the external collaboration script nor the reflection scaffold increased the quality of interaction in the subsequent (testing-phase) collaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Compared to no support, neither the script nor the reflection scaffold produced an effect on the quality of interaction during the second collaboration task. [→ Sebastian Strauß 2025](#sebastian-strau-2025)

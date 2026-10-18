@@ -15,24 +15,30 @@ sources:
     author: Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022-2
     resource: "https://doi.org/10.1007/s11412-022-09380-y"
     title: "Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan. (2022). Evolution of the academic emotions of academically low-achieving students in knowledge building. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09380-y"
     author: Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022-3
     resource: "https://doi.org/10.1007/s11412-022-09380-y"
     title: "Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan. (2022). Evolution of the academic emotions of academically low-achieving students in knowledge building. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09380-y"
     author: Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Lag sequential analysis found significant transitions in which emotions shifted to the same or a similar emotion (e.g., boredom to frustration, joy to joy), reflecting the spread of similar emotions in inquiry threads. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022)

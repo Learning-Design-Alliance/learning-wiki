@@ -15,18 +15,22 @@ sources:
     author: Zamecnik, A., Kovanović, V., Joksimović, S., Grossmann, G., Ladjal, D., Pardo, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: zamecnik-2024-2
     resource: "https://doi.org/10.1007/s11412-024-09424-5"
     title: "Zamecnik, A., Kovanović, V., Joksimović, S., Grossmann, G., Ladjal, D., Pardo, A. (2024). The perceptions of task cohesion in collaborative learning teams. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-024-09424-5"
     author: Zamecnik, A., Kovanović, V., Joksimović, S., Grossmann, G., Ladjal, D., Pardo, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Kruskal–Wallis tests showed significant differences between perception groups for each of the five temporal motif groups, with Dyads and Star Triads of moderate magnitude and Chaotic, Switch and Ordered Triads of small magnitude. [→ Zamecnik 2024](#zamecnik-2024)

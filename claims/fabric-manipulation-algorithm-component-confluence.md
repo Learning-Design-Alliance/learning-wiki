@@ -15,12 +15,14 @@ sources:
     author: Anna Keune
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # In fabric manipulation, the algorithmic performance was contingent on repeated combinations of components paired with steps of the craft
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Unlike weaving, fabric manipulation's algorithmic performance rested on a repeating series of different youth-material component combinations (grid, thread-needle, thread, fabric) rather than one-dimension-at-a-time movements. [→ Anna Keune 2024](#anna-keune-2024)

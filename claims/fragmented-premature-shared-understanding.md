@@ -15,12 +15,14 @@ sources:
     author: "Mørch, A. I., Andersen, R., Eie, S., & Mifsud, L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When students choose among alternative historical materials under time pressure, a shortcut toward group understanding can bypass one member's uncertainty, leaving intersubjectivity with partial agreement and a gap between the social and technology objects. [→ Mørch 2024](#mrch-2024)

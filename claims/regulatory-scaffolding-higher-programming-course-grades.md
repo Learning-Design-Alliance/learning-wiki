@@ -15,12 +15,14 @@ sources:
     author: Leonardo Silva, António Mendes, Anabela Gomes, Gabriel Fortes
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Programming students who receive computational regulatory scaffolding achieve higher course grades than students who receive no regulatory support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a single-blind randomized controlled trial, students who received regulatory support achieved higher course grades than the control group. [→ Leonardo Silva 2023](#leonardo-silva-2023)

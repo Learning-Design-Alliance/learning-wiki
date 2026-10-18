@@ -15,12 +15,14 @@ sources:
     author: Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Pairs with at least one member high in both social and cognitive CPS skills conducted more actions with more frequent and more dispersed action transitions than other pairs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Pairs having at least one high-social/high-cognitive member conducted more actions, had a higher average frequency of action transitions, and a higher tendency to conduct actions for different numbers of times, interpreted as more productive CPS. [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

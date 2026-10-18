@@ -15,12 +15,14 @@ sources:
     author: Bo Yang
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # All discussion-board contributors sent significantly more text per person than all danmaku contributors in every shared category
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across the four categories covered by both tools, per-contributor text volume was significantly higher on the discussion board, e.g., knowledge sharing M = 0.859 (SD = 0.633) versus danmaku M = 0.129 (SD = 0.393), t(1638) = −18.237, p < .001. [→ Bo Yang 2024](#bo-yang-2024)

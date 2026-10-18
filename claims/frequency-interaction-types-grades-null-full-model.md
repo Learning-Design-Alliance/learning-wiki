@@ -15,12 +15,14 @@ sources:
     author: Mohammed Saqr, Sonsoles López-Pernas
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In frequency-based models, Argue, Discuss, Evaluate, and Socialize show significant positive associations with grades, but no interaction type is significant in the full model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Argue and Discuss were significant in the cognitive model, Argue and Evaluate in the high-cognitive model, and Socialize in the off-task model; none of the variables reached significance in the full model. [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

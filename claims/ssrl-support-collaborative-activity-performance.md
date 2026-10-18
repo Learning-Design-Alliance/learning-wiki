@@ -15,12 +15,14 @@ sources:
     author: Leonardo Silva, António Mendes, Anabela Gomes, Gabriel Fortes
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Only students receiving SSRL and co-regulation support achieved superior performance in collaborative programming activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the trial, superior performance in collaborative activities was achieved only by students who received SSRL and co-regulation support, not by those receiving SRL support alone. [→ Leonardo Silva 2023](#leonardo-silva-2023)

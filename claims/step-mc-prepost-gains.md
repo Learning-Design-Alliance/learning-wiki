@@ -15,12 +15,14 @@ sources:
     author: Xintian Tu, Joshua Danish, Megan Humburg, Mengxi Zhou, Nitasha Mathayas, Noel Enyedy, Tessaly Jen
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # First- and second-grade students' multiple-choice understanding of particle behavior improved significantly after seven STEP mixed-reality sessions.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Aggregate multiple-choice scores rose significantly from pre-test to post-test after the STEP sessions (paired t-test, n = 22). [→ Xintian Tu 2023](#xintian-tu-2023)

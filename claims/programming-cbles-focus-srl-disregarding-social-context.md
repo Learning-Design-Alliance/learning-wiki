@@ -15,12 +15,14 @@ sources:
     author: Leonardo Silva, António Mendes, Anabela Gomes, Gabriel Fortes
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Prior CBLEs for programming education have mostly supported SRL individually while disregarding the social context's influence on regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors' systematic literature review found that most regulatory-scaffold CBLEs in programming education attend to SRL only and disregard the social context. [→ Leonardo Silva 2023](#leonardo-silva-2023)

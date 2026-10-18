@@ -15,12 +15,14 @@ sources:
     author: Zamecnik, A., Kovanović, V., Joksimović, S., Grossmann, G., Ladjal, D., Pardo, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teams with similar cohesive perceptions report higher task cohesion scores than teams with different perceptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teams with similar cohesive perceptions report higher task cohesion scores, and teams with different perceptions report lower scores, across all four survey items. [→ Zamecnik 2024](#zamecnik-2024)

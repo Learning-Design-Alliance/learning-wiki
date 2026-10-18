@@ -15,12 +15,14 @@ sources:
     author: Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # CPS skill profiles of 166 students fell into three groups and yielded five distinguishable pair compositions among the 83 working dyads
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Individual students fell into HH, HL, and LL CPS skill groups, and pairing them produced five pair compositions used for further analysis. [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

@@ -15,18 +15,22 @@ sources:
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09407-y"
     title: "Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai. (2023). Can CPS better prepare 8th graders for problem-solving in electromagnetism and bridging the gap between high- and low-achievers than IPS? Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09407-y"
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # CPS and IPS raised electromagnetism concept-test performance equally, so CPS's advantage was specific to problem-solving performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i?` The type of problem-solving (CPS vs. IPS) had no statistically significant effect on posttest ECT performance. [→ Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai 2023](#jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023)

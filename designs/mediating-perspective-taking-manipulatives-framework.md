@@ -17,6 +17,7 @@ sources:
 # Dialogic microteaching supported by two complementary manipulatives: mediating puppets and perspective-taking animation
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's explanatory framework holds that achieving dialogic microteaching requires overcoming two challenges: role-playing various imaginary students plausibly, and appropriating their viewpoints in subsequent reflection. Grounded in Bakhtin's dialogism, in which utterances are formed "in anticipation of what the listener will say," the design pairs mediating manipulatives (tangible puppets whose psychological distance reduces anxiety and elicits multivoiced performances) with perspective-taking manipulatives (3D first-person viewpoint switching in reflection). Previous work showed puppetry alone left reflections returning to pre-role-play perspectives, motivating the combined design for immediate transfer of imaginary students' perspectives.

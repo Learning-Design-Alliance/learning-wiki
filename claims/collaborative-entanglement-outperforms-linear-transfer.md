@@ -15,12 +15,14 @@ sources:
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The editors report that knowledge brokering via collaborative entanglement is more successful than linear knowledge transfer for mobilising education research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The editorial reports, citing knowledge mobilisation research, that linear knowledge transfer (e.g. research publications tailored to practitioners) has proven successful only for bounded problems, while forms of collaborative entanglement such as co-design are more successful for mobilising knowledge. [→ Michael J. Baker 2024](#michael-j-baker-2024)

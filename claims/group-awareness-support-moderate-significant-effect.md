@@ -15,24 +15,30 @@ sources:
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: michael-j-baker-2024-2
     resource: "https://doi.org/10.1007/s11412-024-09419-2"
     title: "Michael J. Baker, Peter Reimann. (2024). CSCL has come of age. Intern. J. Comput.-Support. Collab. Learn (2024) 19:1–10. https://doi.org/10.1007/s11412-024-09419-2"
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: michael-j-baker-2024-3
     resource: "https://doi.org/10.1007/s11412-024-09419-2"
     title: "Michael J. Baker, Peter Reimann. (2024). CSCL has come of age. Intern. J. Comput.-Support. Collab. Learn (2024) 19:1–10. https://doi.org/10.1007/s11412-024-09419-2"
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Group awareness support in CSCL shows a moderate significant effect on students' learning performance, per the meta-analysis summarized in this issue (Chen et al.)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` The meta-analysis of group awareness support in CSCL found a moderate significant positive effect on learning performance, with a greater influence on cognitive development. [→ Michael J. Baker 2024](#michael-j-baker-2024)

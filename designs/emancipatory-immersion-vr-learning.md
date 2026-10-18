@@ -17,6 +17,7 @@ sources:
 # Emancipatory immersion as a design goal for VR learning about exclusion and discrimination
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Emancipatory immersion, developed in the CSCL field by Enyedy and Yoon, is the concept the authors use to interpret how students meaningfully related to the VR stories. Quoting the concept's originators: "we can develop a critical consciousness that promotes epistemological curiosity taking ownership of one's own constructed world." The article stresses it is not about fully identifying with others but about taking part in situations where others' experiences are taken seriously and invited into reflection on one's own lifeworld. The study's four dimensions are presented as manifestations of emancipatory immersion in reflective dialogue.

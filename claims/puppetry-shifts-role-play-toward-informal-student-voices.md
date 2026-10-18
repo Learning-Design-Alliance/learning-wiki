@@ -15,12 +15,14 @@ sources:
     author: "Mochizuki, T., Sasaki, H., Wakimoto, T., Kubota, Y., Eagan, B., Hirayama, R., Yamaguchi, Y., Yuki, N., Funaoi, H., Suzuki, H., & Kato, H."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Tangible puppetry role-play shifted microteaching discourse from formal planned utterances toward informal student voices, and the shift persisted into a subsequent self-performed role-play
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` After tangible puppetry role-play, discourse patterns shifted from linkages to Student-Formal codes toward Student-Informal and Teacher-Informal codes (Session #1 vs #2, d = 0.36), and the difference from Session #1 remained in Session #3 (d = 0.40). [→ Mochizuki 2022](#mochizuki-2022)

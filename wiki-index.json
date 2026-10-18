@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":19972,
-"design":873,
+"design":887,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1749,
-"research-method":400,
+"product":1755,
+"research-method":409,
 "strategy":6091,
 "theory":1361
 },
@@ -180986,6 +180986,14 @@
 "type":"design"
 },
 {
+"description":"A MOOC component combining weekly chat-based collaborative activities in which students \\\"collaborate in dyads to submit a joint answer as a team\\\" with a conversational agent (TIM) that injects prompts during peer disc...",
+"id":"chat-dyad-agent-lamooc-collab-element",
+"path":"designs/chat-dyad-agent-lamooc-collab-element.md",
+"status":"review",
+"title":"Chat-based dyad activities with a conversational agent and learning analytics dashboard in a MOOC",
+"type":"design"
+},
+{
 "description":"The article frames chatbots and search engines as two distinct forms of technological scaffolding for problem-based inquiry, taking interaction mode as its entry point.",
 "id":"chatbot-search-engine-scaffolding-comparison",
 "path":"designs/chatbot-search-engine-scaffolding-comparison.md",
@@ -181183,6 +181191,14 @@
 "path":"designs/collaboration-and-clri-role-play-enhancements.md",
 "status":"review",
 "title":"Two-enhancement design: refined teacher collaboration plus CLRI role-play",
+"type":"design"
+},
+{
+"description":"The article proposes a conceptual and design framework in which knowledge building principles emphasise \\\"epistemic agency, idea improvement, community knowledge and transformative assessment\\\" and PSTs take epistemic a...",
+"id":"collaborative-analytics-reflective-assessment-design-framework",
+"path":"designs/collaborative-analytics-reflective-assessment-design-framework.md",
+"status":"review",
+"title":"A conceptual design framework for PST collaborative inquiry combining knowledge building principles with collaborative-analytics reflective assessment",
 "type":"design"
 },
 {
@@ -182010,6 +182026,14 @@
 "type":"design"
 },
 {
+"description":"The Educational Design Research Studio (EDRS) is a technology-rich space, equipped with \\\"interactive surfaces, writable walls, an interactive whiteboard, a data projector, and iPads.\\\" The studios are meant to support...",
+"id":"educational-design-research-studio-edrs",
+"path":"designs/educational-design-research-studio-edrs.md",
+"status":"review",
+"title":"Educational Design Research Studio (EDRS) for collaborative design work",
+"type":"design"
+},
+{
 "description":"The architecture places a hidden, artifact-grounded diagnosis inside an explicit, stateful pedagogical workflow so the language model is not solely responsible for instructional strategy.",
 "id":"educator-guided-diagnosis-workflow-separation",
 "path":"designs/educator-guided-diagnosis-workflow-separation.md",
@@ -182095,6 +182119,14 @@
 "path":"designs/elevate-teacher-interaction-layer.md",
 "status":"review",
 "title":"Teacher Interaction Layer: a web-based configuration surface for pedagogical intent, persona, and role",
+"type":"design"
+},
+{
+"description":"Emancipatory immersion, developed in the CSCL field by Enyedy and Yoon, is the concept the authors use to interpret how students meaningfully related to the VR stories.",
+"id":"emancipatory-immersion-vr-learning",
+"path":"designs/emancipatory-immersion-vr-learning.md",
+"status":"review",
+"title":"Emancipatory immersion as a design goal for VR learning about exclusion and discrimination",
 "type":"design"
 },
 {
@@ -182397,6 +182429,14 @@
 "type":"design"
 },
 {
+"description":"A 6-session fiber crafts course, facilitated twice at a K-8 charter school, offered weaving with three loom types and fabric manipulation with a laser-cut matrix template as contexts for performing computational conce...",
+"id":"fiber-crafts-course-computational-learning",
+"path":"designs/fiber-crafts-course-computational-learning.md",
+"status":"review",
+"title":"Fiber crafts course (weaving and fabric manipulation) as a context for computational learning with middle school youth",
+"type":"design"
+},
+{
 "description":"A fiber crafts course facilitated within a weekly design studio at a K-8 public charter school, in which 16 middle school students aged 11-14 self-selected into units on weaving and fabric manipulation.",
 "id":"fiber-crafts-course-design-studio",
 "path":"designs/fiber-crafts-course-design-studio.md",
@@ -182674,6 +182714,14 @@
 "path":"designs/four-factor-scripting-space-method-participants-history.md",
 "status":"review",
 "title":"Four-factor scripting approach for blended learning: space, pedagogical method, participants, and history",
+"type":"design"
+},
+{
+"description":"The article integrates theories of embodied cognition with distributed and extended cognition to focus on four modalities for embodied collaboration in shared VR: actions on virtual objects, gesture, body movement, an...",
+"id":"four-modalities-embodied-vr-collaboration",
+"path":"designs/four-modalities-embodied-vr-collaboration.md",
+"status":"review",
+"title":"Four modalities of embodied collaboration in shared VR environments",
 "type":"design"
 },
 {
@@ -183093,6 +183141,14 @@
 "type":"design"
 },
 {
+"description":"The editorial describes the Kashi and Hod article as breaking new theoretical ground in conceptualizing human growth within knowledge-building communities, \\\"building on Dweck's theory of mindset\\\".",
+"id":"growth-orientations-knowledge-builder-identities",
+"path":"designs/growth-orientations-knowledge-builder-identities.md",
+"status":"review",
+"title":"Growth orientations in students' identities as knowledge builders theorized building on Dweck's mindset theory",
+"type":"design"
+},
+{
 "description":"A text-based chatbot with non-generative AI capability that sent 2-3 scheduled, customized messages per week (about 40 per semester) to students in large online courses.",
 "id":"gsu-academic-chatbot-mainstay",
 "path":"designs/gsu-academic-chatbot-mainstay.md",
@@ -183387,6 +183443,14 @@
 "path":"designs/image-processing-for-teaching-ipt.md",
 "status":"review",
 "title":"Image Processing for Teaching (IPT) project at the University of Arizona",
+"type":"design"
+},
+{
+"description":"The article contributes a design framework combining learning-on-the-move with Enyedy and Yoon's five-part immersion framework, called SANSE: \\\"sensory, actional, narrative, social, and emancipatory\\\" immersion.",
+"id":"immersive-family-centered-place-based-lotm-framework",
+"path":"designs/immersive-family-centered-place-based-lotm-framework.md",
+"status":"review",
+"title":"Immersive, family-centered, place-based LOTM framework linking the five SANSE immersion processes to mobile augmented reality design conjectures",
 "type":"design"
 },
 {
@@ -183904,6 +183968,14 @@
 "type":"design"
 },
 {
+"description":"A microsite is defined as \\\"the intersection of the groups' interactions, the digital MAR content, and the physical setting.\\\" The Time Explorers app arranged eight such microsites in geologic-time order—Time Spiral Scu...",
+"id":"linked-microsites-time-travel-journey",
+"path":"designs/linked-microsites-time-travel-journey.md",
+"status":"review",
+"title":"Eight linked microsites organizing a place-based MAR time-travel journey from the Ordovician period to the present day",
+"type":"design"
+},
+{
 "description":"The authors built an LLM-based pipeline that converts unstructured application materials (transcripts, recommendation letters, resumes, essays) into structured measures, extracting 216 measures designed with admission...",
 "id":"llm-admissions-featurization-pipeline",
 "path":"designs/llm-admissions-featurization-pipeline.md",
@@ -184142,6 +184214,14 @@
 "path":"designs/mathbot-constructionism-reinforcement-framework.md",
 "status":"review",
 "title":"Mathbot's design framework: Constructionism combined with Reinforcement Learning Theory for adaptive AI-driven learning",
+"type":"design"
+},
+{
+"description":"The article's explanatory framework holds that achieving dialogic microteaching requires overcoming two challenges: role-playing various imaginary students plausibly, and appropriating their viewpoints in subsequent r...",
+"id":"mediating-perspective-taking-manipulatives-framework",
+"path":"designs/mediating-perspective-taking-manipulatives-framework.md",
+"status":"review",
+"title":"Dialogic microteaching supported by two complementary manipulatives: mediating puppets and perspective-taking animation",
 "type":"design"
 },
 {
@@ -184784,6 +184864,14 @@
 "path":"designs/pair-new-revenues-with-transparency-and-accountability.md",
 "status":"review",
 "title":"New revenues must be paired with system improvements and accountability, including strengthened fiscal transparency so stakeholders understand how money is being used",
+"type":"design"
+},
+{
+"description":"The group awareness intervention was a paper-based brochure containing profiles of all workshop participants, designed to support cognitive and social group awareness.",
+"id":"paper-based-group-awareness-brochure",
+"path":"designs/paper-based-group-awareness-brochure.md",
+"status":"review",
+"title":"Paper-based group awareness brochure with participant profiles",
 "type":"design"
 },
 {
@@ -186380,6 +186468,14 @@
 "type":"design"
 },
 {
+"description":"A three-phased pedagogical design, refined from a previous four-phased design, that maps sixteen principle-based activities onto Knowledge Building principles (epistemic agency, community knowledge, collective respons...",
+"id":"three-phase-kb-design-low-achievers",
+"path":"designs/three-phase-kb-design-low-achievers.md",
+"status":"review",
+"title":"Three-phase principle-based pedagogical design scaffolding low-achieving students into Knowledge Building",
+"type":"design"
+},
+{
 "description":"The article identifies a three-phase structure organizing parent-child math word problem tutoring.",
 "id":"three-phase-math-word-problem-tutoring-structure",
 "path":"designs/three-phase-math-word-problem-tutoring-structure.md",
@@ -186401,6 +186497,14 @@
 "path":"designs/three-phase-symbolic-interpretation-progression.md",
 "status":"review",
 "title":"Three-phase progression for teaching symbolic interpretation with increasing text complexity",
+"type":"design"
+},
+{
+"description":"A teaching model resulting from design-based research iterations that organizes social studies teaching with Minecraft Education in three activities: Introduction (teacher lecturing, past orientation, vague intersubje...",
+"id":"three-phase-teaching-model-social-studies-minecraft",
+"path":"designs/three-phase-teaching-model-social-studies-minecraft.md",
+"status":"review",
+"title":"Three-phase teaching model for social studies with Minecraft (Introduction, Reconstruction, Transformation)",
 "type":"design"
 },
 {
@@ -186947,6 +187051,14 @@
 "path":"designs/wwc-compress-mainstream-developmental-education.md",
 "status":"review",
 "title":"Compress or mainstream developmental education with course redesign",
+"type":"design"
+},
+{
+"description":"'Y-read?' is a digital learning environment integrating a collaboration script and the TOR-test, built from four script elements: play, scene, scriptlets and roles.",
+"id":"y-read-collaboration-script-environment",
+"path":"designs/y-read-collaboration-script-environment.md",
+"status":"review",
+"title":"'Y-read?' digital learning environment with a macro- and micro-level collaboration script for socially shared regulation of task-oriented reading",
 "type":"design"
 },
 {
@@ -202266,6 +202378,14 @@
 "type":"product"
 },
 {
+"description":"CoTrack is a web-based multimodal collaboration analytics tool developed by Reet Kasepalu and colleagues that gives teachers mirrored collaboration data and model-based alerts and guidance for improving group-work quality.",
+"id":"cotrack",
+"path":"products/cotrack.md",
+"status":"review",
+"title":"CoTrack",
+"type":"product"
+},
+{
 "description":"A suite of NWEA course-specific computerized adaptive interim mathematics assessments for Algebra 1, Geometry, and Algebra 2, aligned to NWEA, Common Core, or state standards and reported on the RIT scale.",
 "id":"course-specific-map-growth-mathematics-tests",
 "path":"products/course-specific-map-growth-mathematics-tests.md",
@@ -205659,6 +205779,14 @@
 "type":"product"
 },
 {
+"description":"iTalk-iSee is a participatory visual learning analytics tool developed by Hu, Wu, and Chen that codes and visualizes peer talk to support student reflection and regulation of discourse engagement.",
+"id":"italk-isee",
+"path":"products/italk-isee.md",
+"status":"review",
+"title":"iTalk-iSee",
+"type":"product"
+},
+{
 "description":"ITAS is a conversational analytics agent that helps instructors and content developers query privacy-preserving aggregate learning-deployment data in natural language.",
 "id":"itas-conversational-instructor-analytics-agent",
 "path":"products/itas-conversational-instructor-analytics-agent.md",
@@ -205848,6 +205976,14 @@
 "path":"products/kauffman-firm-survey.md",
 "status":"review",
 "title":"Kauffman Firm Survey",
+"type":"product"
+},
+{
+"description":"KBDeX is a social network analysis tool developed by Oshima and colleagues for visualizing and analyzing collaborative ideas and discourse in knowledge-building communities.",
+"id":"kbdex-knowledge-building-discourse-explorer",
+"path":"products/kbdex-knowledge-building-discourse-explorer.md",
+"status":"review",
+"title":"KBDeX (Knowledge Building Discourse Explorer)",
 "type":"product"
 },
 {
@@ -210127,6 +210263,14 @@
 "type":"product"
 },
 {
+"description":"RESPE is a CSCL platform developed by Leonardo Silva and colleagues for online introductory programming courses, embedding individual and social self-regulation scaffolds, programming activities, and collaborative features.",
+"id":"respe",
+"path":"products/respe.md",
+"status":"review",
+"title":"RESPE",
+"type":"product"
+},
+{
 "description":"Responsive Classroom is a school-based social and emotional learning programme that organizes classroom practice around components including Morning Meeting, Rule Creation, Interactive Modeling, and Academic Choice.",
 "id":"responsive-classroom",
 "path":"products/responsive-classroom.md",
@@ -212513,6 +212657,14 @@
 "type":"product"
 },
 {
+"description":"A mobile augmented-reality app developed by Heather Toomey Zimmerman and colleagues for family, place-based learning about Appalachian geological history.",
+"id":"time-explorers",
+"path":"products/time-explorers.md",
+"status":"review",
+"title":"Time Explorers",
+"type":"product"
+},
+{
 "description":"A TNTP school-improvement programme that diagnoses school needs and develops and supports school leadership teams to strengthen leadership, instruction, school culture, and family engagement.",
 "id":"tntp-turnaround-leadership-teams-strategy-tlts",
 "path":"products/tntp-turnaround-leadership-teams-strategy-tlts.md",
@@ -213331,6 +213483,14 @@
 "type":"product"
 },
 {
+"description":"Wikiglass is a learning-analytics-enabled awareness tool developed by Hu, Ng, and Chu that provides real-time information about individual and group collaboration to students and teachers.",
+"id":"wikiglass",
+"path":"products/wikiglass.md",
+"status":"review",
+"title":"Wikiglass",
+"type":"product"
+},
+{
 "description":"The Wilson Reading System is a structured literacy curriculum developed by Wilson Language Training for teaching decoding, spelling, fluency, vocabulary, and related reading skills to learners with word-level reading difficulties.",
 "id":"wilson-reading-system",
 "path":"products/wilson-reading-system.md",
@@ -213772,11 +213932,27 @@
 "type":"research-method"
 },
 {
+"description":"The article operationalizes dialogue through four Bakhtin-inspired themes used both to train teachers and to analyze noticing utterances.",
+"id":"bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue",
+"path":"research-methods/bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue.md",
+"status":"review",
+"title":"Bakhtinian dialogic framework of four interconnected themes — voices, expanding the dialogue, inter-animation, and relations",
+"type":"research-method"
+},
+{
 "description":"The paper recommends that studies using student achievement outcomes generally aim to collect and use baseline data, because analyses using more than one wave of data typically have much greater statistical power than posttest-only analyses.",
 "id":"baseline-covariate-adjustment-in-education-randomized-trials",
 "path":"research-methods/baseline-covariate-adjustment-in-education-randomized-trials.md",
 "status":"review",
 "title":"Baseline covariate adjustment in education randomized trials",
+"type":"research-method"
+},
+{
+"description":"Bayesian Networks are presented as both a specification language and a computational mechanism with practical value in designing group and learning support systems: they have \\\"been frequently used to build student models (Millán et al., 2010) and for assessment (Almond et al., 2015)\\\".",
+"id":"bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory",
+"path":"research-methods/bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory.md",
+"status":"review",
+"title":"Bayesian Networks for student modelling, assessment, and collaborative learning theory",
 "type":"research-method"
 },
 {
@@ -214182,6 +214358,14 @@
 "type":"research-method"
 },
 {
+"description":"The editors propose importing Design Science Research from Information Systems into CSCL.",
+"id":"design-science-research-dsr-for-cscl",
+"path":"research-methods/design-science-research-dsr-for-cscl.md",
+"status":"review",
+"title":"Design Science Research (DSR) for CSCL",
+"type":"research-method"
+},
+{
 "description":"The article formalizes a methodology for preparing psychological interventions to be scaled, combining two design traditions.",
 "id":"design-thinking-methodology-for-improving-and-scaling-psychological-interventions",
 "path":"research-methods/design-thinking-methodology-for-improving-and-scaling-psychological-interventions.md",
@@ -214333,6 +214517,14 @@
 "path":"research-methods/eight-theme-analytical-framework-for-genai-in-higher-education-group-work.md",
 "status":"review",
 "title":"Eight-theme analytical framework for GenAI in higher-education group work",
+"type":"research-method"
+},
+{
+"description":"The introduction reports, citing Johnson-Glenberg et al.",
+"id":"embodied-learning-taxonomy-of-sensorimotor-engagement-gesture-congruency-and-immersion",
+"path":"research-methods/embodied-learning-taxonomy-of-sensorimotor-engagement-gesture-congruency-and-immersion.md",
+"status":"review",
+"title":"Embodied learning taxonomy of sensorimotor engagement, gesture congruency, and immersion",
 "type":"research-method"
 },
 {
@@ -215273,6 +215465,14 @@
 "type":"research-method"
 },
 {
+"description":"The study's model of productive collaboration is the rating schema by Meier et al.",
+"id":"meier-et-al-rating-schema-for-productive-collaboration",
+"path":"research-methods/meier-et-al-rating-schema-for-productive-collaboration.md",
+"status":"review",
+"title":"Meier et al. rating schema for productive collaboration",
+"type":"research-method"
+},
+{
 "description":"Borge and Mercier propose this approach as an alternative to the four overarching CSCL learning theories (information-processing, constructivism, socio-constructivist/socio-cultural, group cognition), arguing these lenses are \\\"too narrow to capture the true contextual richness of CSCL in action.\\\" It",
 "id":"micro-ecological-approach-to-cross-level-cscl-analysis",
 "path":"research-methods/micro-ecological-approach-to-cross-level-cscl-analysis.md",
@@ -215294,6 +215494,14 @@
 "path":"research-methods/model-of-collaborative-knowledge-building-across-interconnected-planes.md",
 "status":"review",
 "title":"Model of collaborative knowledge building across interconnected planes",
+"type":"research-method"
+},
+{
+"description":"This capture pattern combines eye-level, bird's-eye-view, and close-up turntable videos so that material movements are analytically visible.",
+"id":"multi-angle-video-capture-for-humanmaterial-analysis",
+"path":"research-methods/multi-angle-video-capture-for-humanmaterial-analysis.md",
+"status":"review",
+"title":"Multi-angle video capture for human–material analysis",
 "type":"research-method"
 },
 {
@@ -215334,6 +215542,14 @@
 "path":"research-methods/multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-ou.md",
 "status":"review",
 "title":"Multidimensional evaluation framework separating reference-answer similarity, structured-output stability, and domain-specific correctness",
+"type":"research-method"
+},
+{
+"description":"This analytical pattern combines several learning-analytics methods into layers to capture role dynamics over time: latent class analysis converts CoI-coded discourse into role states, epistemic network analysis maps code co-occurrence within roles, sequence mining orders roles across weeks, and Mar",
+"id":"multilayered-temporal-analysis-of-collaborative-learning-roles",
+"path":"research-methods/multilayered-temporal-analysis-of-collaborative-learning-roles.md",
+"status":"review",
+"title":"Multilayered temporal analysis of collaborative-learning roles",
 "type":"research-method"
 },
 {
@@ -216326,6 +216542,14 @@
 "type":"research-method"
 },
 {
+"description":"The editorial reports that Meier, Spada and Rummel differentiated as many as nine dimensions of interaction for quantitative analysis, derived through bottom-up qualitative content analysis refined by top-down theory-informed considerations.",
+"id":"theoretically-refined-multidimensional-interaction-rating-scheme",
+"path":"research-methods/theoretically-refined-multidimensional-interaction-rating-scheme.md",
+"status":"review",
+"title":"Theoretically refined multidimensional interaction rating scheme",
+"type":"research-method"
+},
+{
 "description":"The Baker, Schwarz, and Ludvigsen Squib argues for deep theoretical understanding of discussion and its unit of analysis to inform methods for analyzing dialogue over different timescales, from episodes to societal-scale argumentative knowledge construction.",
 "id":"theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales",
 "path":"research-methods/theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales.md",
@@ -216403,6 +216627,14 @@
 "path":"research-methods/three-interacting-themes-for-examining-cscl-classroom-innovation.md",
 "status":"review",
 "title":"Three interacting themes for examining CSCL classroom innovation",
+"type":"research-method"
+},
+{
+"description":"The article proposes a three-layered analytical framework integrating AI algorithms with learning analytics to examine collaborative problem solving as complex adaptive systems: \\\"AI algorithms were incorporated into that framework using multiple learning analytic approaches\\\".",
+"id":"three-layered-ai-driven-learning-analytics-framework-for-examining-collaborative-problem-s",
+"path":"research-methods/three-layered-ai-driven-learning-analytics-framework-for-examining-collaborative-problem-s.md",
+"status":"review",
+"title":"Three-layered AI-driven learning analytics framework for examining collaborative problem solving",
 "type":"research-method"
 },
 {
@@ -297439,6 +297671,7 @@
 "cf-informed-literacy-instruction-design":"cf-informed-literacy-instruction-design",
 "cft-while-noticing-tasks-pattern":"cft-while-noticing-tasks-pattern",
 "chain-of-concept-topic-graph-memory":"chain-of-concept-topic-graph-memory",
+"chat-dyad-agent-lamooc-collab-element":"chat-dyad-agent-lamooc-collab-element",
 "chatbot-search-engine-scaffolding-comparison":"chatbot-search-engine-scaffolding-comparison",
 "chatgpt-automated-hdr-assessment-system":"chatgpt-automated-hdr-assessment-system",
 "chatgpt-flga-approach":"chatgpt-flga-approach",
@@ -297464,6 +297697,7 @@
 "cogtax-four-level-bash-taxonomy":"cogtax-four-level-bash-taxonomy",
 "cogtax-four-level-command-line-taxonomy":"cogtax-four-level-command-line-taxonomy",
 "collaboration-and-clri-role-play-enhancements":"collaboration-and-clri-role-play-enhancements",
+"collaborative-analytics-reflective-assessment-design-framework":"collaborative-analytics-reflective-assessment-design-framework",
 "collaborative-framework-culturally-aware-aied":"collaborative-framework-culturally-aware-aied",
 "collearn-human-ai-co-learning-loop":"collearn-human-ai-co-learning-loop",
 "college-career-pathways-four-component-framework":"college-career-pathways-four-component-framework",
@@ -297567,6 +297801,7 @@
 "eco-feedback-llm-interface-five-eco-modes":"eco-feedback-llm-interface-five-eco-modes",
 "edbl-six-stage-framework":"edbl-six-stage-framework",
 "educasim-agent-persona-memory-architecture":"educasim-agent-persona-memory-architecture",
+"educational-design-research-studio-edrs":"educational-design-research-studio-edrs",
 "educator-guided-diagnosis-workflow-separation":"educator-guided-diagnosis-workflow-separation",
 "edusim-llm-four-module-architecture":"edusim-llm-four-module-architecture",
 "effective-lre-program-characteristics":"effective-lre-program-characteristics",
@@ -297578,6 +297813,7 @@
 "elementary-distributed-leadership-monitoring-pattern":"elementary-distributed-leadership-monitoring-pattern",
 "elevate-avatar-asset-production-pipeline":"elevate-avatar-asset-production-pipeline",
 "elevate-teacher-interaction-layer":"elevate-teacher-interaction-layer",
+"emancipatory-immersion-vr-learning":"emancipatory-immersion-vr-learning",
 "embedded-high-dosage-tutoring-pattern":"embedded-high-dosage-tutoring-pattern",
 "embedded-two-adult-dual-enrollment-classroom":"embedded-two-adult-dual-enrollment-classroom",
 "embodied-physics-inquiry-through-dance":"embodied-physics-inquiry-through-dance",
@@ -297615,6 +297851,7 @@
 "feedback-history-llm-contribution-tracking":"feedback-history-llm-contribution-tracking",
 "feedback-literacy-cyclical-genai-mapping":"feedback-literacy-cyclical-genai-mapping",
 "fiber-crafting-for-proportional-reasoning":"fiber-crafting-for-proportional-reasoning",
+"fiber-crafts-course-computational-learning":"fiber-crafts-course-computational-learning",
 "fiber-crafts-course-design-studio":"fiber-crafts-course-design-studio",
 "field-day-embedded-assessment-unit":"field-day-embedded-assessment-unit",
 "fifteen-week-game-based-program-thai-university":"fifteen-week-game-based-program-thai-university",
@@ -297650,6 +297887,7 @@
 "four-element-question-authoring-scaffolding-session":"four-element-question-authoring-scaffolding-session",
 "four-facet-problem-solving-competency-model":"four-facet-problem-solving-competency-model",
 "four-factor-scripting-space-method-participants-history":"four-factor-scripting-space-method-participants-history",
+"four-modalities-embodied-vr-collaboration":"four-modalities-embodied-vr-collaboration",
 "four-pedagogical-principles-ai-companion-design":"four-pedagogical-principles-ai-companion-design",
 "four-phase-cgpt-co-creation-spar-pattern":"four-phase-cgpt-co-creation-spar-pattern",
 "four-phase-sim-explicit-instruction-model-adults":"four-phase-sim-explicit-instruction-model-adults",
@@ -297702,6 +297940,7 @@
 "graphrag-textbook-retrieval-math-tutor":"graphrag-textbook-retrieval-math-tutor",
 "greedy-dynamic-skill-weighting-assignment-algorithm":"greedy-dynamic-skill-weighting-assignment-algorithm",
 "grow-your-own-classified-staff-credential-pathway":"grow-your-own-classified-staff-credential-pathway",
+"growth-orientations-knowledge-builder-identities":"growth-orientations-knowledge-builder-identities",
 "gsu-academic-chatbot-mainstay":"gsu-academic-chatbot-mainstay",
 "guided-human-ai-collaboration-workflow":"guided-human-ai-collaboration-workflow",
 "guided-inquiry-perspectival-student-voice-genai-model":"guided-inquiry-perspectival-student-voice-genai-model",
@@ -297739,6 +297978,7 @@
 "identity-centered-e-textile-making":"identity-centered-e-textile-making",
 "identity-reflection-before-empathy-interviews":"identity-reflection-before-empathy-interviews",
 "image-processing-for-teaching-ipt":"image-processing-for-teaching-ipt",
+"immersive-family-centered-place-based-lotm-framework":"immersive-family-centered-place-based-lotm-framework",
 "in-school-data-guided-tutoring-supplements-classroom":"in-school-data-guided-tutoring-supplements-classroom",
 "inclusive-math-circle-design-components":"inclusive-math-circle-design-components",
 "indobert-bilstm-hybrid-aes-architecture":"indobert-bilstm-hybrid-aes-architecture",
@@ -297803,6 +298043,7 @@
 "light-touch-ai-literacy-warning":"light-touch-ai-literacy-warning",
 "link-clinical-and-ei-records-framework":"link-clinical-and-ei-records-framework",
 "linked-classroom-home-caregiver-math-activities":"linked-classroom-home-caregiver-math-activities",
+"linked-microsites-time-travel-journey":"linked-microsites-time-travel-journey",
 "llm-admissions-featurization-pipeline":"llm-admissions-featurization-pipeline",
 "llm-assisted-hardware-debugging-protocol":"llm-assisted-hardware-debugging-protocol",
 "llm-attribution-with-proctored-retake-guardrail":"llm-attribution-with-proctored-retake-guardrail",
@@ -297833,6 +298074,7 @@
 "matched-popup-message-isolate-fallibility-disclosure":"matched-popup-message-isolate-fallibility-disclosure",
 "materials-reflect-principles-of-learning":"materials-reflect-principles-of-learning",
 "mathbot-constructionism-reinforcement-framework":"mathbot-constructionism-reinforcement-framework",
+"mediating-perspective-taking-manipulatives-framework":"mediating-perspective-taking-manipulatives-framework",
 "memdora-17-interaction-type-taxonomy":"memdora-17-interaction-type-taxonomy",
 "memdora-collaborative-deck-layer":"memdora-collaborative-deck-layer",
 "mezirow-transformative-learning-ethical-decision-frameworks-genai-pd":"mezirow-transformative-learning-ethical-decision-frameworks-genai-pd",
@@ -297913,6 +298155,7 @@
 "page-scroll-screen-presentation-prototypes":"page-scroll-screen-presentation-prototypes",
 "pair-based-discovery-llm-analysis-activity":"pair-based-discovery-llm-analysis-activity",
 "pair-new-revenues-with-transparency-and-accountability":"pair-new-revenues-with-transparency-and-accountability",
+"paper-based-group-awareness-brochure":"paper-based-group-awareness-brochure",
 "pbl-ai-guardrails-policy-set":"pbl-ai-guardrails-policy-set",
 "pedagogical-friction-reflection-gating":"pedagogical-friction-reflection-gating",
 "pepper-52-lis-signs-element":"pepper-52-lis-signs-element",
@@ -298112,9 +298355,11 @@
 "three-phase-debriefing-model-description-analysis-application":"three-phase-debriefing-model-description-analysis-application",
 "three-phase-gen-ai-problem-posing-activity":"three-phase-gen-ai-problem-posing-activity",
 "three-phase-grounding-script":"three-phase-grounding-script",
+"three-phase-kb-design-low-achievers":"three-phase-kb-design-low-achievers",
 "three-phase-math-word-problem-tutoring-structure":"three-phase-math-word-problem-tutoring-structure",
 "three-phase-practicum-e-mentoring-cycle":"three-phase-practicum-e-mentoring-cycle",
 "three-phase-symbolic-interpretation-progression":"three-phase-symbolic-interpretation-progression",
+"three-phase-teaching-model-social-studies-minecraft":"three-phase-teaching-model-social-studies-minecraft",
 "three-practices-for-ontological-alignment-in-computational-modeling":"three-practices-for-ontological-alignment-in-computational-modeling",
 "three-principle-framework-genai-writing-assessment":"three-principle-framework-genai-writing-assessment",
 "three-progressive-problem-posing-inquiry-topics":"three-progressive-problem-posing-inquiry-topics",
@@ -298184,6 +298429,7 @@
 "writing-focused-genai-declaration-structure":"writing-focused-genai-declaration-structure",
 "writing-in-reading-four-aspects-pattern":"writing-in-reading-four-aspects-pattern",
 "wwc-compress-mainstream-developmental-education":"wwc-compress-mainstream-developmental-education",
+"y-read-collaboration-script-environment":"y-read-collaboration-script-environment",
 "ymhc-member-training-support-framework":"ymhc-member-training-support-framework",
 "youth-led-pd-racial-justice-trainings":"youth-led-pd-racial-justice-trainings",
 "zpd-strategy-mapping-latent-ability-theta":"zpd-strategy-mapping-latent-ability-theta"
@@ -300323,6 +300569,7 @@
 "corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023":"corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023",
 "corrective-reading":"corrective-reading",
 "cortex":"cortex",
+"cotrack":"cotrack",
 "course-specific-map-growth-mathematics-tests":"course-specific-map-growth-mathematics-tests",
 "courseblueprint":"courseblueprint",
 "coursechat":"coursechat",
@@ -300755,6 +301002,7 @@
 "istart-2":"istart-2",
 "istart-me":"istart-me",
 "istation-reading":"istation-reading",
+"italk-isee":"italk-isee",
 "itas-conversational-instructor-analytics-agent":"itas-conversational-instructor-analytics-agent",
 "itss":"itss",
 "ixl-math":"ixl-math",
@@ -300779,6 +301027,7 @@
 "kar2ouche":"kar2ouche",
 "kauffman-campuses-initiative":"kauffman-campuses-initiative",
 "kauffman-firm-survey":"kauffman-firm-survey",
+"kbdex-knowledge-building-discourse-explorer":"kbdex-knowledge-building-discourse-explorer",
 "kdd-cup-2010-bridge-to-algebra-dataset":"kdd-cup-2010-bridge-to-algebra-dataset",
 "kentucky-academic-standards-for-computer-science":"kentucky-academic-standards-for-computer-science",
 "kg-grounded-benchmark-of-10836-solution-feedback-pairs-for-step-level-llm-tutoring-evaluat":"kg-grounded-benchmark-of-10836-solution-feedback-pairs-for-step-level-llm-tutoring-evaluat",
@@ -301318,6 +301567,7 @@
 "research-practice-industry-partnerships-rpips":"research-practice-industry-partnerships-rpips",
 "research-practice-partnership-dataset-linking-seven-cohorts-of-test-takers-demographic-and":"research-practice-partnership-dataset-linking-seven-cohorts-of-test-takers-demographic-and",
 "residencyrl":"residencyrl",
+"respe":"respe",
 "responsive-classroom":"responsive-classroom",
 "rethinks-health-sciences-education":"rethinks-health-sciences-education",
 "retrospective-cued-recall-dataset-of-affective-states-from-27-participants-in-9-groups-com":"retrospective-cued-recall-dataset-of-affective-states-from-27-participants-in-9-groups-com",
@@ -301618,6 +301868,7 @@
 "three-level-rti-prevention-model-for-identifying-learning-disabilities":"three-level-rti-prevention-model-for-identifying-learning-disabilities",
 "three-open-ended-survey-questions-assessing-ct-practices-in-physics-contexts":"three-open-ended-survey-questions-assessing-ct-practices-in-physics-contexts",
 "tibetcpr":"tibetcpr",
+"time-explorers":"time-explorers",
 "title-i-supplemental-educational-services-ses":"supplemental-educational-services",
 "tntp-turnaround-leadership-teams-strategy-tlts":"tntp-turnaround-leadership-teams-strategy-tlts",
 "too-good-for-drugs":"too-good-for-drugs",
@@ -301725,6 +301976,7 @@
 "whole-school-safety-wss-framework":"whole-school-safety-wss-framework",
 "whole-school-whole-community-whole-child-wscc-model":"whole-school-whole-community-whole-child-wscc-model",
 "wiki-design-platform":"wiki-design-platform",
+"wikiglass":"wikiglass",
 "wilson-reading-system":"wilson-reading-system",
 "windowdash":"windowdash",
 "wisconsin-information-and-technology-literacy-standards":"wisconsin-information-and-technology-literacy-standards",
@@ -301782,7 +302034,9 @@
 "assessment-metadata-as-naturally-occurring-direct-sel-measurement":"assessment-metadata-as-naturally-occurring-direct-sel-measurement",
 "attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s":"attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s",
 "augmented-cross-recurrence-graphs-for-distinguishing-balanced-and-unbalanced-participation":"augmented-cross-recurrence-graphs-for-distinguishing-balanced-and-unbalanced-participation",
+"bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue":"bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue",
 "baseline-covariate-adjustment-in-education-randomized-trials":"baseline-covariate-adjustment-in-education-randomized-trials",
+"bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory":"bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory",
 "behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video":"behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video",
 "behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events":"behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events",
 "bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs":"bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs",
@@ -301835,6 +302089,7 @@
 "design-based-rct-analysis-with-grouped-administrative-data":"design-based-rct-analysis-with-grouped-administrative-data",
 "design-based-research":"design-based-research",
 "design-based-research-dbr":"design-based-research-dbr",
+"design-science-research-dsr-for-cscl":"design-science-research-dsr-for-cscl",
 "design-thinking-methodology-for-improving-and-scaling-psychological-interventions":"design-thinking-methodology-for-improving-and-scaling-psychological-interventions",
 "dialogical-voice-synergy-model-of-collaboration":"dialogical-voice-synergy-model-of-collaboration",
 "dialogue-act-coding-dac-system":"dialogue-act-coding-dac-system",
@@ -301856,6 +302111,7 @@
 "effort-analysis":"effort-analysis",
 "effort-moderated-e-m-scoring-model":"effort-moderated-e-m-scoring-model",
 "eight-theme-analytical-framework-for-genai-in-higher-education-group-work":"eight-theme-analytical-framework-for-genai-in-higher-education-group-work",
+"embodied-learning-taxonomy-of-sensorimotor-engagement-gesture-congruency-and-immersion":"embodied-learning-taxonomy-of-sensorimotor-engagement-gesture-congruency-and-immersion",
 "emergent-llm-coding-plus-embedding-based-consolidation-pipeline-for-large-scale-student-di":"emergent-llm-coding-plus-embedding-based-consolidation-pipeline-for-large-scale-student-di",
 "emote-aloud-procedure-for-on-line-identification-of-affective-states-during-learning":"emote-aloud-procedure-for-on-line-identification-of-affective-states-during-learning",
 "empirical-bayes-shrinkage-for-teacher-value-added-estimates":"empirical-bayes-shrinkage-for-teacher-value-added-estimates",
@@ -301978,15 +302234,18 @@
 "marginal-structural-models-with-inverse-probability-of-treatment-weighting":"marginal-structural-models-with-inverse-probability-of-treatment-weighting",
 "mbp-kt":"mbp-kt",
 "me-checklist":"me-checklist",
+"meier-et-al-rating-schema-for-productive-collaboration":"meier-et-al-rating-schema-for-productive-collaboration",
 "micro-ecological-approach-to-cross-level-cscl-analysis":"micro-ecological-approach-to-cross-level-cscl-analysis",
 "mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups":"mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups",
 "model-based-multivariate-true-score-norming-procedure":"multivariate-true-score-model-for-achievement-and-growth-norming",
 "model-of-collaborative-knowledge-building-across-interconnected-planes":"model-of-collaborative-knowledge-building-across-interconnected-planes",
+"multi-angle-video-capture-for-humanmaterial-analysis":"multi-angle-video-capture-for-humanmaterial-analysis",
 "multi-armed-randomized-trial-analysis":"multi-armed-randomized-trial-analysis",
 "multi-dimensional-fidelity-framework-for-llm-student-simulation":"multi-dimensional-fidelity-framework-for-llm-student-simulation",
 "multi-rater-latent-growth-curve-model":"multi-rater-latent-growth-curve-model",
 "multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors":"multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors",
 "multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-ou":"multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-ou",
+"multilayered-temporal-analysis-of-collaborative-learning-roles":"multilayered-temporal-analysis-of-collaborative-learning-roles",
 "multilevel-conceptualization-of-moderators-in-genai-mediated-writing-research-technologica":"multilevel-conceptualization-of-moderators-in-genai-mediated-writing-research-technologica",
 "multilingual-embedding-based-automated-classification-of-self-regulated-learning-think-alo":"multilingual-embedding-based-automated-classification-of-self-regulated-learning-think-alo",
 "multimodal-analysis":"multimodal-analysis",
@@ -302118,6 +302377,7 @@
 "the-effort-moderated-irt-model-of-test-taking-motivation":"the-effort-moderated-irt-model-of-test-taking-motivation",
 "the-socratic-test-framework":"the-socratic-test-framework",
 "theoretically-productive-classroom-dialogue-framework-five-recurring-themes-plus-the-cross":"theoretically-productive-classroom-dialogue-framework-five-recurring-themes-plus-the-cross",
+"theoretically-refined-multidimensional-interaction-rating-scheme":"theoretically-refined-multidimensional-interaction-rating-scheme",
 "theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales":"theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales",
 "thick-description-as-the-analytic-basis-for-understanding-transactive-discourse":"thick-description-as-the-analytic-basis-for-understanding-transactive-discourse",
 "thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness":"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness",
@@ -302128,6 +302388,7 @@
 "three-criterion-framework-for-evaluating-test-mode-comparability":"three-criterion-framework-for-evaluating-test-mode-comparability",
 "three-group-coding-framework-for-scientific-habits-of-mind-in-informal-game-forums":"three-group-coding-framework-for-scientific-habits-of-mind-in-informal-game-forums",
 "three-interacting-themes-for-examining-cscl-classroom-innovation":"three-interacting-themes-for-examining-cscl-classroom-innovation",
+"three-layered-ai-driven-learning-analytics-framework-for-examining-collaborative-problem-s":"three-layered-ai-driven-learning-analytics-framework-for-examining-collaborative-problem-s",
 "three-level-engagement-typology-information-sharing-feedback-and-collaboration":"three-level-engagement-typology-information-sharing-feedback-and-collaboration",
 "three-levels-of-interpretational-aid-in-cscl-teacher-dashboards-mirroring-alerting-and-adv":"three-levels-of-interpretational-aid-in-cscl-teacher-dashboards-mirroring-alerting-and-adv",
 "three-measures-of-test-adaptation-based-on-optimal-test-information":"three-measures-of-test-adaptation-based-on-optimal-test-information",

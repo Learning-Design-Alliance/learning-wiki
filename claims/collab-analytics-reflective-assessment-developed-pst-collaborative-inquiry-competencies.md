@@ -15,12 +15,14 @@ sources:
     author: "Yang, Y., Zhu, G., Sun, D., & Chan, C. K. K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` PSTs in the analytics-enhanced knowledge building class developed collaborative inquiry competencies for community knowledge advancement, outperforming a comparison class using portfolio-based reflective assessment. [→ Yang 2022](#yang-2022)

@@ -15,12 +15,14 @@ sources:
     author: "Mochizuki, T., Sasaki, H., Wakimoto, T., Kubota, Y., Eagan, B., Hirayama, R., Yamaguchi, Y., Yuki, N., Funaoi, H., Suzuki, H., & Kato, H."
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # The student-centered shift in reflective discussion between Sessions #1 and #3 remained only in the experimental condition, with a medium effect size
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A significant Session #1–#3 shift along the x-axis toward student-centered perspectives with d = 0.54 was observed only in the experimental condition. [→ Mochizuki 2022](#mochizuki-2022)

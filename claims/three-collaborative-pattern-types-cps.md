@@ -15,12 +15,14 @@ sources:
     author: Fan Ouyang, Weiqi Xu, Mutlu Cukurova
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Multichannel sequence analysis with Ward's clustering identified three distinct collaborative pattern types (5, 14, and 5 CPS activities for Types 1–3), with the four groups distributed relatively equally across the three types. [→ Fan Ouyang 2023](#fan-ouyang-2023)

@@ -15,18 +15,22 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: sanna-järvelä-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09415-y"
     title: "Sanna Järvelä, Carolyn P. Rosé. (2023). Reflecting on what counts as collaboration: Reaching forward without losing what is behind. International Journal of Computer-Supported Collaborative Learning, 18, 457–464. https://doi.org/10.1007/s11412-023-09415-y"
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students in homogeneous groups made significantly greater learning gains than students in heterogeneous groups in small-group compost simulations. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

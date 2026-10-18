@@ -15,12 +15,14 @@ sources:
     author: Gerry Stahl
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After supports were withdrawn, students showed more lasting learning outcomes about how to collaborate by watching a video model, especially with prompted reflection on it, than by being marched through a scripted process. [→ Gerry Stahl 2008](#gerry-stahl-2008)

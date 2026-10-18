@@ -15,12 +15,14 @@ sources:
     author: Fan Ouyang, Weiqi Xu, Mutlu Cukurova
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Epistemic network analysis showed Type 1 concentrating on behaviour-related code connections, Type 2 on both communication- and behaviour-related connections, and Type 3 on communication-related connections
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` ENA identified three strongly connected code pairs per type (connection values > 0.40) and distinct centroid locations, with Type 1 centred on behaviour-related codes, Type 2 on communication- and behaviour-related codes, and Type 3 on communication-related codes. [→ Fan Ouyang 2023](#fan-ouyang-2023)

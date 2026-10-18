@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Rolf Steier, Hans Christian Arnseth
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Four dimensions characterize students' meaning making of immersive VR experiences across all eight reflective group dialogues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pattern analysis across all eight groups identified four prominent dimensions of students' talk about their VR experiences: feeling of taking part in conversations, attending to bodily expressions of others, students' own bodily responses, and teacher guidance. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

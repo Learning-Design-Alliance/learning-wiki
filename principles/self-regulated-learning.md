@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (36 for, 29 mixed, 3 against) · 54 studies (19 causal, 10 review, 9 quant-synthesis, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 15 of 54 report an effect size · 57 claims rest on one study
+> **Evidence** · 70 claims (38 for, 29 mixed, 3 against) · 55 studies (20 causal, 10 review, 9 quant-synthesis, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 16 of 55 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 

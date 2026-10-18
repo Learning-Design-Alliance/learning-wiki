@@ -15,12 +15,14 @@ sources:
     author: Heather Toomey Zimmerman, Susan M. Land, Lillyanna Faimon, Yu-Chen Chiu
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # No substantial example of emancipatory immersion was found in the family data, despite the framework including it.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Of the four sampled immersion vignettes plus the ideal-use-case family, emancipatory immersion had no substantial exemplar. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)

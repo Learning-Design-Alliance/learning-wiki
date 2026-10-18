@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a quasi-experiment with teachers (N = 24) in three conditions, a mirroring dashboard helped teachers' situational awareness and the alerting (guiding) dashboard decreased their workload and frustration. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

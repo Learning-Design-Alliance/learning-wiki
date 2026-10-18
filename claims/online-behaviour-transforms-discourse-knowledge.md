@@ -15,12 +15,14 @@ sources:
     author: Fan Ouyang, Weiqi Xu, Mutlu Cukurova
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` More deep-level knowledge was generated through concept mapping behaviours than through verbal communications, and Type 3's lowest knowledge construction through online behaviours co-occurred with the lowest final performance. [→ Fan Ouyang 2023](#fan-ouyang-2023)

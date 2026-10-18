@@ -15,12 +15,14 @@ sources:
     author: Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` CPS students scored significantly higher than IPS students on the EPST posttest after five online problem-solving sessions. [→ Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai 2023](#jiun-wei-guo-hsiao-ching-she-meng-jun-chen-pei-yi-tsai-2023)

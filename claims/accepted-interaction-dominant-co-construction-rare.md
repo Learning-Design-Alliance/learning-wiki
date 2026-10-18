@@ -15,12 +15,14 @@ sources:
     author: "Kielstra, J., Molenaar, I., van Steensel, R., & Verhoeven, L."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In pre-task regulation, 363 (75.00%) of 938 metacognitive episodes were coded as accepted interaction and only 29 (5.99%) as shared. [→ Kielstra 2022](#kielstra-2022)

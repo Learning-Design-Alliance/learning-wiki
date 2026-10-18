@@ -12,6 +12,7 @@ generated:
 # Bakhtinian dialogic framework of four interconnected themes — voices, expanding the dialogue, inter-animation, and relations
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article operationalizes dialogue through four Bakhtin-inspired themes used both to train teachers and to analyze noticing utterances. A voice is "a perspective about an idea that is communicated to others"; a dialogic gap occurs "when two equally valid and distinct voices interact, driving the dialogue forward"; expansion happens by widening (new voices, alternative solutions) or deepening (critical inquiry of existing voices); inter-animation involves revoicing others, and relations concern mutuality, equal status, and authoritative versus dialogic interaction. These constructs map onto eleven coded dialogic attributes (Table 1) such as persuasive interaction, monologue, and one-leads-another-is-led.

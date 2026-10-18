@@ -15,12 +15,14 @@ sources:
     author: Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` During the fifth session, when teams were instructed to create a digital 3D model in Tinkercad, nearly all knowledge-creation activities based on engineering practices halted, particularly disrupting the SleepSound and Sunny teams. [→ Sini Davies 2024](#sini-davies-2024)

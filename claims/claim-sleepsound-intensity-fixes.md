@@ -15,12 +15,14 @@ sources:
     author: Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The SleepSound team applied science, computer engineering, and product design practices in more segments and at higher simultaneous intensity than the other two teams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` SleepSound applied science, computer engineering, and product design practices in over two-thirds of its 3-min segments, up to seven dimensions in one segment, two or more dimensions in roughly three-quarters of those segments, and three or more in just over half. [→ Sini Davies 2024](#sini-davies-2024)

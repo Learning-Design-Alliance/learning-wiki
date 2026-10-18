@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä, Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Hackathon teams face 16 general challenges across seven types that hamper teamwork
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Analyses of a hackathon CSCL setting revealed sixteen general challenges and seven types of challenges that hamper teamwork. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

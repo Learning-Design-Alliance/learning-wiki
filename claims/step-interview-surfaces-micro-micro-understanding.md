@@ -15,12 +15,14 @@ sources:
     author: Xintian Tu, Joshua Danish, Megan Humburg, Mengxi Zhou, Nitasha Mathayas, Noel Enyedy, Tessaly Jen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` On the two most difficult multiple-choice questions about how particle behaviors reflect macro-state changes, only two students answered correctly on the post-test, while 12 demonstrated the same understanding in the post-interview. [→ Xintian Tu 2023](#xintian-tu-2023)

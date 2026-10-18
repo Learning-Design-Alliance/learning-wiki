@@ -17,7 +17,7 @@ sources:
 # Prompt for both the content problem space and the rhetorical problem space to support knowledge transforming with AI
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Building on knowledge telling vs. knowledge transforming, the article recommends that users who want to support joint knowledge transforming make use of translations between a content problem space and a rhetorical problem space, providing prompts for each. Example rhetorical prompts establish a genre and audience, while content prompts elicit alternative theories and counterarguments. This turns writing with AI from simply recording what one knows into converting knowledge into complex relational argumentation structures.

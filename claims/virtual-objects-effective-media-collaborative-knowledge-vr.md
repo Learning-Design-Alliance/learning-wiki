@@ -15,12 +15,14 @@ sources:
     author: Wen Huang, Candace Walkington, Mitchell J. Nathan
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Virtual objects serve as effective media for collaborative knowledge building in shared VR environments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Real-time measurements displayed on virtual objects enhanced participants' ability to imagine and reason about geometric shapes, lowering cognitive task demands. [→ Wen Huang 2023](#wen-huang-2023)

@@ -15,12 +15,14 @@ sources:
     author: Charles Crook
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the Vogel et al. study, letting learners choose between minimal and maximal detail of guidance was a feasible basis for adaptive scripting, but guidance affected regulatory actions only in students beginning the project with more advanced self-regulation skills. [→ Charles Crook 2022](#charles-crook-2022)

@@ -15,18 +15,22 @@ sources:
     author: Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
   - id: reet-kasepalu-2023-2
     resource: "https://doi.org/10.1007/s11412-023-09414-z"
     title: "Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley. (2023). Studying teacher withitness in the wild: comparing a mirroring and an alerting & guiding dashboard for collaborative learning. Intern. J. Comput.-Support. Collab. Learn (2023) 18:575–606. https://doi.org/10.1007/s11412-023-09414-z"
     author: Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Overall RTLX workload dropped from 35.6 (no dashboard) to 24.4 (alerting & guiding), a significant difference with Cohen's d = 1.6 (p = 0.000003). [→ Reet Kasepalu 2023](#reet-kasepalu-2023)

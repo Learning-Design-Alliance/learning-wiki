@@ -15,12 +15,14 @@ sources:
     author: Wen Huang, Candace Walkington, Mitchell J. Nathan
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 108 episodes of collaborative VR geometry work, actions on virtual objects and collaborative talk moves were intertwined, occurring simultaneously or sequentially. [→ Wen Huang 2023](#wen-huang-2023)

@@ -15,12 +15,14 @@ sources:
     author: Carolyn Rosé · Sanna Järvelä
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Aldemir, Borge, and Soto undergraduate-course study, the proposed MCC model highlighted four very frequent patterns and, compared with the GCC, offered a more vivid and comprehensive image of collaboration. [→ Carolyn Rosé · Sanna Järvelä 2022](#carolyn-rose-sanna-jarvela-2022)

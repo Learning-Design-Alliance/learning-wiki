@@ -15,12 +15,14 @@ sources:
     author: "Mochizuki, T., Sasaki, H., Wakimoto, T., Kubota, Y., Eagan, B., Hirayama, R., Yamaguchi, Y., Yuki, N., Funaoi, H., Suzuki, H., & Kato, H."
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Reflecting with the 3D manipulable animation made Session #3 reflective discussions more student-centered than reflecting with video only
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` In Session #3, the experimental condition (reflection with 3D animation) showed significantly more student-centered reflection along the x-axis than the control condition (video only), d = 0.60. [→ Mochizuki 2022](#mochizuki-2022)

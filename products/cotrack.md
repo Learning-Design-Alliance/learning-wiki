@@ -13,6 +13,7 @@ generated:
 # CoTrack
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 CoTrack is a web-based multimodal collaboration analytics tool developed by Reet Kasepalu and colleagues that gives teachers mirrored collaboration data and model-based alerts and guidance for improving group-work quality.

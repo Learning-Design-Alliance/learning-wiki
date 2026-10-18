@@ -15,12 +15,14 @@ sources:
     author: Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, Tobias Ley
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # With the alerting & guiding dashboard, teachers' workload dropped most on the performance and frustration subscales, while cognitive load, temporal demand and effort differences were non-significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The performance subscale (feeling accomplished) showed a large drop in the alerting & guiding vs no dashboard condition (Cohen's d = 1.2, p = 0.003). [→ Reet Kasepalu 2023](#reet-kasepalu-2023)

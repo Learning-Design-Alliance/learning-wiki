@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä · Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # In CSCL written civic discussions, gaps exist between a composer's emotion labeling and others' emotion recognition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Mixed-method analysis found several emotion recognition strategies revealing idiosyncratic emotional social language lacking common ground, and gaps between composers' labeling and others' recognition. [→ Sanna Järvelä · Carolyn P. Rosé 2022](#sanna-jarvela-carolyn-p-rose-2022)

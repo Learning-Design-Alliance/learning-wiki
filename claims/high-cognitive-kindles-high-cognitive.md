@@ -15,12 +15,14 @@ sources:
     author: Mohammed Saqr, Sonsoles López-Pernas
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Sessions starting with Argue trigger Discuss (43%), Evaluate (14%), and continued Argue (12%), whereas sessions starting with Share or Discuss continue at low cognitive levels (Discuss 33%, Share 14%, Socialize 21%). [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

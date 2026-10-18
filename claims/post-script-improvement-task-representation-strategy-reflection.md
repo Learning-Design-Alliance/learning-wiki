@@ -15,12 +15,14 @@ sources:
     author: "Kielstra, J., Molenaar, I., van Steensel, R., & Verhoeven, L."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # After working with the script, students improved their individual task representation of high-level tasks and their strategy reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students improved in determining a correct task representation of high-level tasks and in reflecting on the most appropriate reading strategy after working with the collaboration script. [→ Kielstra 2022](#kielstra-2022)

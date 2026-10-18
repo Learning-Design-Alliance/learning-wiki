@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä · Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Academically low-achieving students in Knowledge Building demonstrated high joy and low frustration and boredom, with emotions transitioning to similar states
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Content and sequential pattern analysis of Knowledge Forum notes showed a high percentage of joy, relatively low frustration and boredom, and emotions likely to transition to themselves or similar states. [→ Sanna Järvelä · Carolyn P. Rosé 2022](#sanna-jarvela-carolyn-p-rose-2022)

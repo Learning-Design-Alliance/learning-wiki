@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä · Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Combining tangible puppets as mediating manipulatives with 3D manipulable animations fostered immediate transfer of imaginary students' perspectives in microteaching role-plays
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The combination of the two manipulatives was effective for achieving the immediate transfer of imaginary students' perspectives, with epistemic network analysis of discourse. [→ Sanna Järvelä · Carolyn P. Rosé 2022](#sanna-jarvela-carolyn-p-rose-2022)

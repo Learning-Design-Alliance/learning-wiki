@@ -15,12 +15,14 @@ sources:
     author: Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among 166 sixth graders, social CPS skill levels were mostly high while cognitive CPS skill levels were mostly low across four ATC21S CPS tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Sixth graders' social CPS skills were predominantly at high levels (4-6) while their cognitive CPS skills were predominantly at low levels (1-3). [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

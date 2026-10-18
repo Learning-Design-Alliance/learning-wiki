@@ -15,12 +15,14 @@ sources:
     author: Kenneth Silseth, Rolf Steier, Hans Christian Arnseth
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students characterized their VR experience through a feeling of taking part in conversations, showing co-presence with the people in the film during collaborative reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In collaborative reflection, students described feeling spoken to directly by people in the VR film and being participants in the conversations, an experience the authors interpret as co-presence and emancipatory immersion. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

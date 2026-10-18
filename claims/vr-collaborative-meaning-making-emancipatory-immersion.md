@@ -15,18 +15,22 @@ sources:
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: michael-j-baker-2024-2
     resource: "https://doi.org/10.1007/s11412-024-09419-2"
     title: "Michael J. Baker, Peter Reimann. (2024). CSCL has come of age. Intern. J. Comput.-Support. Collab. Learn (2024) 19:1–10. https://doi.org/10.1007/s11412-024-09419-2"
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The editorial reports, citing the Silseth, Steier and Arnseth article in this issue, that immersive VR provided important resources for shared meaning-making and learning, through a process of emancipatory immersion. [→ Michael J. Baker 2024](#michael-j-baker-2024)

@@ -15,12 +15,14 @@ sources:
     author: "Paneth, L., Jeitziner, L. T., Rack, O., Opwis, K., & Zahn, C."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Frequencies of nonverbal behaviors descriptively rise with higher engagement ratings across the four QCGE dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Descriptive mean frequencies per 1-min sequence increase for most nonverbal behaviors as QCGE ratings rise from low to high, e.g. laughing with SE from 1.91 to 5.06 occurrences and head nodding with CC from 1.42 to 3.16. [→ Paneth 2024](#paneth-2024)

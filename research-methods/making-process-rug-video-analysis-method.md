@@ -12,7 +12,7 @@ generated:
 # Making-Process-Rug video-analysis method
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The Making-Process-Rug is a visual video-analysis method developed by the authors to trace "social-discursive, materially mediated, individual, and collaborative making processes" across a longitudinal co-invention project. Video is coded in fixed three-minute segments in ELAN using a sociomaterialgetCode template, then converted into layered, color-coded diagrams resembling woven rag rugs that show how verbal and embodied actions intertwine over time. It enables macro-level overview and later zooming to micro-level events such as process organizing, and quantitative comparison of action proportions.

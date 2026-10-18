@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 11 mixed) · 18 studies (5 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 4 of 18 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (14 for, 11 mixed) · 19 studies (5 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 

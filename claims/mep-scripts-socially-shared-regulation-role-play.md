@@ -15,12 +15,14 @@ sources:
     author: Sanna Järvelä · Carolyn P. Rosé
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Simple, targeted mere exposure prompt (MEP) scripts show promise for promoting desirable learning behaviors in a fully online multiplayer role-play classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The editorial reports that MEP scripts nudging learners toward pedagogical goals showed promise for promoting desirable learning behaviors, based on behavioral trace data and social network analysis. [→ Sanna Järvelä · Carolyn P. Rosé 2022](#sanna-jarvela-carolyn-p-rose-2022)

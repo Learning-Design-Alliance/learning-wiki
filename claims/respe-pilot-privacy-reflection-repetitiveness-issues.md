@@ -15,12 +15,14 @@ sources:
     author: Leonardo Silva, António Mendes, Anabela Gomes, Gabriel Fortes
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Pilot testing of RESPE revealed privacy concerns, difficulty reflecting on the learning process, and complaints about repetitiveness or usefulness of scaffolds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Log analysis and questionnaire responses from the pilot study surfaced privacy concerns, difficulties in reflection, and perceptions of repetitiveness or low usefulness of scaffolds. [→ Leonardo Silva 2023](#leonardo-silva-2023)

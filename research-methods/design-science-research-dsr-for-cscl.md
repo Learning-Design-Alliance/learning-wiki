@@ -12,6 +12,7 @@ generated:
 # Design Science Research (DSR) for CSCL
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The editors propose importing Design Science Research from Information Systems into CSCL. DSR holds, quoting the editorial, that "knowledge is possible and valuable not only in abstract form but also in the form of artefacts," with design theories as mid-range theories accounting for why an artefact works, under which circumstances and for whom. Artefacts worth building must be motivated by deep problem understanding and rigorous analysis of existing solutions, and designed iteratively with prototyping and formative evaluation. The editorial invites designs, including via a new Short Paper format.

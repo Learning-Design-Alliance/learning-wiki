@@ -15,12 +15,14 @@ sources:
     author: Michael J. Baker, Peter Reimann
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` The editorial reports, citing the Keune article in this issue, that following a posthumanist lens, materials should be recognised as collaborative actors in computational production, and human-material interactions produce algorithmic outcomes that evolve over time. [→ Michael J. Baker 2024](#michael-j-baker-2024)

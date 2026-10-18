@@ -15,12 +15,14 @@ sources:
     author: Charles Crook
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # A collaborative script embedding solitary reading between planning and review episodes shaped a group's regulative activity, but only low-level regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Embedding the regulation of a private reading task in a collaborative script was reported to be effective in shaping the group's regulative activity, though only at a low level. [→ Charles Crook 2022](#charles-crook-2022)

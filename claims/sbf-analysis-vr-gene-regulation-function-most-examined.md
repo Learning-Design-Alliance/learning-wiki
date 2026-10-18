@@ -15,12 +15,14 @@ sources:
     author: Jacob Fortman, Rebecca Quintana
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # In VR-based facilitated model-based reasoning about gene regulation, the model's function was examined most frequently, followed by structure and then behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` An SBF-framework analysis found function was the most frequently examined facet of a gene-regulation VR model, followed by structure, then behavior. [→ Jacob Fortman 2023](#jacob-fortman-2023)

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 61 claims (35 for, 23 mixed, 3 against) · 62 studies (20 associational, 16 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 19 of 62 report an effect size · 46 claims rest on one study
+> **Evidence** · 63 claims (37 for, 23 mixed, 3 against) · 64 studies (20 associational, 18 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 20 of 64 report an effect size · 48 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
