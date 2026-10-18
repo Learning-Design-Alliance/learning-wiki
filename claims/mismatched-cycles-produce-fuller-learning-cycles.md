@@ -12,10 +12,17 @@ sources:
   - id: nummijoki-2018
     resource: "https://doi.org/10.1080/10508406.2017.1412970"
     title: "Nummijoki, J., Engeström, Y., & Sannino, A. (2018). Defensive and expansive cycles of learning: A study of home care encounters. Journal of the Learning Sciences, 27(2), 224-264. https://doi.org/10.1080/10508406.2017.1412970"
-    author: "Nummijoki, J., Engeström, Y., & Sannino, A"
+    author: "Nummijoki, J., Engeström, Y., & Sannino, A."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Encounters with a mismatch between client's and worker's learning cycles typically contained all or almost all learning actions of the ideal-typical expansive cycle
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mismatched encounters (Cases B and C) typically contained all or almost all seven learning actions, suggesting dynamic tension between parties pushes the learning effort further. [→ Nummijoki 2018](#nummijoki-2018)
@@ -26,7 +33,7 @@ sources:
 
 Nummijoki, J., Engeström, Y., & Sannino, A. (2018). Defensive and expansive cycles of learning: A study of home care encounters. Journal of the Learning Sciences, 27(2), 224-264. https://doi.org/10.1080/10508406.2017.1412970
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Cross-case comparison of the four analyzed encounters. In Case B (HCC- & HCW+) the cycle contained all seven learning actions; in Case C (HCC+ & HCW-) it contained six of seven, missing only consolidating.
 

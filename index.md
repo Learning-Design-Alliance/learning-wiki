@@ -21,11 +21,11 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## The state of the evidence
 
-The wiki holds **5,359 distinct studies** behind 19,241 claims. What they add up to (the [evidence report](evidence.md) has the detail):
+The wiki holds **5,376 distinct studies** behind 19,304 claims. What they add up to (the [evidence report](evidence.md) has the detail):
 
 - **Few studies can show a cause.** 28% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 59% are quasi-experiments, observational studies or narrative reviews, and 13% are case studies, opinion or theory.
-- **Few print an effect size.** 1,139 of 5,359 studies (21%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 527 studies are rated `r3`, done well for their kind; 337 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 1,139 of 5,376 studies (21%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 530 studies are rated `r3`, done well for their kind; 339 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 97% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 62% of studies, and 35% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 222 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 116 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 6% strong, 49% moderate and 44% weak, and 52% supporting, 43% conditional and 5% against.
@@ -47,13 +47,13 @@ Instructional building blocks — the components you compose into patterns.
 ### [Patterns](patterns/index.md) (68)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (838)
+### [Designs](designs/index.md) (847)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Products & Programmes](products/index.md) (1716)
+### [Products & Programmes](products/index.md) (1719)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-### [Strategies](strategies/index.md) (5998)
+### [Strategies](strategies/index.md) (6012)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)
@@ -62,7 +62,7 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (38)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Research Methods](research-methods/index.md) (354)
+### [Research Methods](research-methods/index.md) (357)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
 ### [Theories](theories/index.md) (1361)
@@ -71,7 +71,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (74)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (19241)
+### [Claims](claims/index.md) (19304)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

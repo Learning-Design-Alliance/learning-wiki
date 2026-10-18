@@ -13,9 +13,16 @@ sources:
     resource: "https://www.tandfonline.com/journals/hlns20"
     title: "Ayush Gupta, David Hammer, Edward F. Redish. (2008). The Case for Dynamic Models of Learners' Ontologies in Physics. Journal of the Learning Sciences. https://www.tandfonline.com/journals/hlns20"
     author: Ayush Gupta, David Hammer, Edward F. Redish
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Novices can and do reason across ontological categories in everyday and scientific contexts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Novices share with experts the feature of reasoning across ontological categories, contra the SO characterization of novices as committed to the matter ontology. [→ Ayush Gupta 2008](#ayush-gupta-2008)
@@ -26,7 +33,7 @@ sources:
 
 Ayush Gupta, David Hammer, Edward F. Redish. (2008). The Case for Dynamic Models of Learners' Ontologies in Physics. Journal of the Learning Sciences. https://www.tandfonline.com/journals/hlns20
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article's central thesis, argued from examples of everyday speech, classroom reasoning, and expert discourse, is that cross-categorical reasoning is a shared feature of novices and experts. The supplied text notes Chi and Hausmann concede novices flexibly reclassify whales from fish to mammal, while contending this does not extend to concepts like light and current; the article's novice-reasoning section is truncated in the supplied text.
 

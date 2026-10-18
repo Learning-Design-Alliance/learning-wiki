@@ -12,10 +12,17 @@ sources:
   - id: philip-2020
     resource: "https://doi.org/10.1080/10508406.2020.1828089"
     title: "Philip, T., & Sengupta, P. (2020). Theories of Learning as Theories of Society: A Contrapuntal Approach to Expanding Disciplinary Authenticity in Computing. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2020.1828089"
-    author: "Philip, T., & Sengupta, P"
+    author: "Philip, T., & Sengupta, P."
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Theories of learning have historically operated to justify societal hierarchies through reification and ranking
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that theories of learning justify existing societal hierarchies via reification of abstract concepts and ranking of complex variation as an ascending scale. [→ Philip 2020](#philip-2020)
@@ -26,7 +33,7 @@ sources:
 
 Philip, T., & Sengupta, P. (2020). Theories of Learning as Theories of Society: A Contrapuntal Approach to Expanding Disciplinary Authenticity in Computing. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2020.1828089
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the article's framing section, drawing on Gould (1996), Lave (1996), and Martin (2009). The authors contend learning theories have operated through "reification" and ranking to justify hierarchies, and that the field fails to address intersecting histories of eugenics and Western learning theories.
 

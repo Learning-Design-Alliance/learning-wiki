@@ -16,6 +16,9 @@ sources:
 
 # Research agenda for advancing transformative communication environments: sociocultural theory, conversational analysis, and beyond-face-to-face affordances
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article closes by naming three high-priority areas for advancing its agenda. As the abstract states, 'I then describe high-priority areas for advancing this agenda: in sociocultural theory, in examining conceptual change by means of conversational analysis, and in technically establishing affordances of tools to sustain and potentially enhance joint activity beyond the here-and-now and the face-to-face.' This gives researchers and developers a concrete three-part program: theoretical work, empirical conversation-analytic study of conceptual change, and technical work on tools that extend joint activity beyond co-presence.
 

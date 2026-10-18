@@ -19,7 +19,7 @@ sources:
 # Disciplinary Literacy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (8 for, 8 mixed) · 23 studies (12 causal, 4 theoretical, 3 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 23 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (9 for, 8 mixed) · 24 studies (12 causal, 4 theoretical, 3 review, 2 quant-synthesis, 2 qualitative, 1 design), `q1`–`q4` · 4 of 24 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ Claims the earlier page cited that bear only partly on the model:
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](../claims/ai-literacy-discipline-specific-calibration.md) [+W] — a review's endorsement of a framework holding that fields differ in vocabularies, genres and evidentiary standards; no data. Used only in the AI-tools row.
 - [Teachers in one focus-group study show disciplinary variation in how they assess communication](../claims/disciplinary-variation-communication-assessment.md) [+W] — authors' interpretation of a focus-group analysis of teachers' assessment of communication; it bears on how disciplines judge communication, not on teaching disciplinary reading. Used only in the cross-subject rubric row.
 - [Use a strategy for imagining the past built on two sets of guiding questions](../strategies/strategy-imagining-past-two-question-sets.md) — a strategy page from the folded imagination page, not a claim; the old page marked it [+M], but it cites no claim. Used as the question card in the default design.
+- [Ninth graders in a five-week symbolism module increased their participation and facility with literary interpretation practices](../claims/symbolism-module-increased-interpretive-participation.md) [+W] — attached 2026-10-18 from Teresa Sosa et al. (2015), which proposed "Treat symbolic interpretation as a starting point, expecting interpretive facility to require effort over longer periods"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

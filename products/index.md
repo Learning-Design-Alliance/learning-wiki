@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1716 entries** · 0 stable · 1716 in review · 0 drafts
+**1719 entries** · 0 stable · 1719 in review · 0 drafts
 
 ---
 
@@ -709,6 +709,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Imagine Language & Literacy](imagine-language-literacy.md) - Imagine Language & Literacy is Imagine Learning’s web-based adaptive supplemental literacy program for students from pre-kindergarten through sixth grade.
 * [Imagine Math](imagine-math.md) - Imagine Math is Imagine Learning's adaptive digital supplemental mathematics learning platform for Pre-Kindergarten through Geometry, offering scaffolded instruction and on-demand support from certified teachers.
 * [Imagine Math Facts](imagine-math-facts.md) - Imagine Learning's Imagine Math Facts is a digital 3D game-based program for practicing addition, subtraction, multiplication, and division to build arithmetic fluency and automaticity.
+* [IMPROV framework](improv-framework.md) - Chen's framework guides learning-science researchers, designers, educators, and practitioners through six interconnected action areas for infrastructuring and sustaining educational innovations while building practitioner-led design capacity.
 * [Improving Chicago Schools: The Students Speak, 1997 and Improving Chicago Schools: The Teachers' Turn, 1997](improving-chicago-schools-the-students-speak-1997-and-improving-chicago-schools-the-teache.md) - A pair of student and teacher surveys administered by the Consortium on Chicago School Research to measure views of school environment, classroom learning, parent involvement, school governance, and teachers' professional work life.
 * [Improving Chicago's Schools biannual survey](improving-chicagos-schools-biannual-survey.md) - A biannual Consortium on Chicago School Research survey that collects students' reports on school experiences and educators' reports on instruction and working conditions across Chicago Public Schools.
 * [Indiana College Core](indiana-college-core.md) - The Indiana Commission for Higher Education's Indiana College Core programme enables high school students to earn transferable college credits, supported by the My College Core interactive planning tool and counselor guidance.
@@ -801,6 +802,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### L {: #letter-l }
 
 * [Labelled corpus of 4,217 discussion posts](labelled-corpus-of-4217-discussion-posts.md) - A dataset created by Gorgun et al.
+* [LabNbook](labnbook.md) - LabNbook is a web-based platform for collaborative science learning and report writing, providing text, drawing, protocol, spreadsheet/graphing, and Python-notebook tools for higher-education science students.
 * [Ladders to Literacy](ladders-to-literacy.md) - A supplemental kindergarten literacy curriculum developed by Notari-Syverson, O’Connor, and Vadasy and published by Sopris West, with activities targeting print awareness, phonological awareness, and oral language.
 * [Large Arizona school district dataset for EL reclassification modeling](large-arizona-school-district-dataset-for-el-reclassification-modeling.md) - A large Arizona school district longitudinal dataset used by Tyler Matta to jointly model English-proficiency development and the timing of English-learner reclassification.
 * [Large-scale Cognitive Tutor log dataset from over 7,000 pre-algebra students](large-scale-cognitive-tutor-log-dataset-from-over-7000-pre-algebra-students.md) - A large-scale dataset of more than 35 million observations from over 7,000 pre-algebra students using Cognitive Tutor, created by Ritter et al.
@@ -1724,6 +1726,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Wilson Reading System](wilson-reading-system.md) - The Wilson Reading System is a structured literacy curriculum developed by Wilson Language Training for teaching decoding, spelling, fluency, vocabulary, and related reading skills to learners with word-level reading difficulties.
 * [WindowDash](windowdash.md) - WindowDash is a synthetic food-delivery teaching-case dataset and accompanying instructional materials developed by Bang An et al.
 * [Wisconsin Information and Technology Literacy Standards](wisconsin-information-and-technology-literacy-standards.md) - A Wisconsin Department of Public Instruction framework defining information and technology literacy content standards, grade-banded performance standards, and proficiency indicators for local curriculum guidance.
+* [WISE (Web-based Inquiry Science Environment)](wise-web-based-inquiry-science-environment.md) - WISE is a web-based science-inquiry authoring and learning platform developed by the University of California, Berkeley, providing teacher tools for creating, managing, and assessing inquiry projects and student tools for structured collaborative investigation.
 * [WISE Agent](wise-agent.md) - WISE Agent (Writing Improvement and Smart Evaluation Agent) is an LLM-based writing-feedback tool developed by Qi Zhu et al.
 * [Wolfram Computable Document Format (CDF)](wolfram-computable-document-format-cdf.md) - Wolfram Research's software document format renders interactive Mathematica code as graphical, customizable documents in a standalone player or browser environment.
 * [Woodcock-Johnson Tests of Achievement—Applied Problems subtest](woodcock-johnson-tests-of-achievementapplied-problems-subtest.md) - A standardized achievement subtest measuring applied mathematical problem-solving and early numeracy, developed and published as part of the Woodcock-Johnson assessment system by Riverside Insights.

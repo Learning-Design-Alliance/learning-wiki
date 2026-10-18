@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2013.836656"
     title: "Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656"
     author: Annelies Raes, Tammy Schellens, and Bram De Wever
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # A Web-based collaborative inquiry project produces significant overall learning gains in science knowledge in secondary classrooms
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Students' overall knowledge acquisition score improved significantly from pretest (19.52 out of 44) to posttest (30.71 out of 44) after the Web-based inquiry project. [→ Annelies Raes 2013](#annelies-raes-2013)
@@ -26,7 +33,7 @@ sources:
 
 Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Four-level multilevel null model (test times within students within dyads within classrooms) from the quasi-experimental pretest/posttest study in 19 Flemish secondary classes. The intercept was "19.52 out of 44" and the significant learning gain was 11.19, yielding a posttest score of 30.71 out of 44.
 

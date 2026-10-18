@@ -16,6 +16,9 @@ sources:
 
 # Use the self-perspectives framework to analyze how seemingly similar HPT tasks elicit different processes
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Educators and researchers can apply the four-self-perspectives framework to diagnose what different HPT tasks actually ask of learners, since tasks operationalized as constructing hypothetical people, weighing prominent figures' thoughts, or reasoning abstractly may elicit different self perspectives. The article states the framework "can help educators to test new ways of facilitating HPT" and aims to "demonstrate how learning scientists and history educators can use the framework to understand how seemingly similar tasks may elicit very different processes among learners."
 

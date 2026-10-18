@@ -13,9 +13,16 @@ sources:
     resource: "https://telearn.hal.science/hal-00190593"
     title: "Douglas N. Gordin, Roy D. Pea. (1995). Prospects for Scientific Visualization as an Educational Technology. The Journal of the Learning Sciences, 4(3), pp.249-279. https://telearn.hal.science/hal-00190593"
     author: Douglas N. Gordin, Roy D. Pea
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Integrating scientific visualization into secondary education faces three named problems: basic scientific practices, classroom-format incompatibility, and infrastructure needs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
 `q1 i?` The article identifies students' need to learn basic scientific practices, incompatibilities between the traditional high-school classroom format and scientific inquiry, and the need for additional school infrastructure as potential problems for integrating scientific visualization into secondary education. [→ Douglas N. Gordin 1995](#douglas-n-gordin-1995)
@@ -26,7 +33,7 @@ sources:
 
 Douglas N. Gordin, Roy D. Pea. (1995). Prospects for Scientific Visualization as an Educational Technology. The Journal of the Learning Sciences, 4(3), pp.249-279. https://telearn.hal.science/hal-00190593
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r?`
 
 The article's analysis of integration challenges names three problems: "students' need to learn basic scientific practices," classroom-format incompatibilities, and infrastructure needs. This is an analytical/descriptive treatment rather than an empirical test.
 

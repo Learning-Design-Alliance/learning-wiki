@@ -13,9 +13,16 @@ sources:
     resource: "https://telearn.hal.science/hal-00190855"
     title: "Frank Fischer, Heinz Mandl. (2005). Knowledge Convergence in Computer-Supported Collaborative Learning: The Role of External Representation Tools. The Journal of the Learning Sciences, 14(3), pp.405-441. https://telearn.hal.science/hal-00190855"
     author: Frank Fischer, Heinz Mandl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Learning partners converge strongly in their use of knowledge resources during collaboration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` During the collaboration process, learning partners' use of knowledge resources converged strongly. [→ Frank Fischer 2005](#frank-fischer-2005)
@@ -26,7 +33,7 @@ sources:
 
 Frank Fischer, Heinz Mandl. (2005). Knowledge Convergence in Computer-Supported Collaborative Learning: The Role of External Representation Tools. The Journal of the Learning Sciences, 14(3), pp.405-441. https://telearn.hal.science/hal-00190855
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Experimental study varying external representation type and collaboration condition with 64 university students. The article reports that "learning partners converged strongly with respect to their use of resources during the collaboration process." No effect size is printed in the available text.
 

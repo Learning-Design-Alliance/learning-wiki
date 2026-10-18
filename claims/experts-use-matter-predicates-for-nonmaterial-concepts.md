@@ -13,13 +13,24 @@ sources:
     resource: "https://www.tandfonline.com/journals/hlns20"
     title: "Ayush Gupta, David Hammer, Edward F. Redish. (2008). The Case for Dynamic Models of Learners' Ontologies in Physics. Journal of the Learning Sciences. https://www.tandfonline.com/journals/hlns20"
     author: Ayush Gupta, David Hammer, Edward F. Redish
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
   - id: ayush-gupta-2008-2
     resource: "https://www.tandfonline.com/journals/hlns20"
     title: "Ayush Gupta, David Hammer, Edward F. Redish. (2008). The Case for Dynamic Models of Learners' Ontologies in Physics. Journal of the Learning Sciences. https://www.tandfonline.com/journals/hlns20"
     author: Ayush Gupta, David Hammer, Edward F. Redish
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Expert physicists apply matter-based predicates to non-material concepts in professional discourse
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Predicate analysis of published physics articles reveals both process and matter predicates used for light pulses. [→ Ayush Gupta 2008](#ayush-gupta-2008)
@@ -31,7 +42,7 @@ sources:
 
 Ayush Gupta, David Hammer, Edward F. Redish. (2008). The Case for Dynamic Models of Learners' Ontologies in Physics. Journal of the Learning Sciences. https://www.tandfonline.com/journals/hlns20
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The authors apply the SO framework's own predicate-analysis method to Chu and Wong's (1982) article on pulse propagation, finding predicates such as emerges, enters, distorted, and arrives alongside process predicates. They argue matter-like depiction of an electromagnetic pulse is used productively by experts within a process-based model.
 
@@ -41,7 +52,7 @@ The authors apply the SO framework's own predicate-analysis method to Chu and Wo
 
 Ayush Gupta, David Hammer, Edward F. Redish. (2008). The Case for Dynamic Models of Learners' Ontologies in Physics. Journal of the Learning Sciences. https://www.tandfonline.com/journals/hlns20
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Re-analysis of expert interview excerpts from Slotta and Chi's own study shows experts extending matter attributes such as moves, supply, quantify, and absorb to non-material concepts including energy and phonons. The authors note these topics were not target concepts in the original analysis.
 

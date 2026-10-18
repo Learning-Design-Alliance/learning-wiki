@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2013.836656"
     title: "Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656"
     author: Annelies Raes, Tammy Schellens, and Bram De Wever
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Dyad composition by gender and achievement level is not a confounding variable for knowledge acquisition after Web-based collaborative inquiry
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Adding dyad composition based on gender, achievement level, and their interaction did not significantly improve the model fit for knowledge acquisition, and parameter estimates were not significant. [→ Annelies Raes 2013](#annelies-raes-2013)
@@ -26,7 +33,7 @@ sources:
 
 Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Third-step model addition in the multilevel analysis of knowledge acquisition. Students freely chose partners, producing dyads of various gender and achievement compositions. The χ² test showed no significant improvement (p < .71).
 

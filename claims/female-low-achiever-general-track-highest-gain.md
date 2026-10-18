@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2013.836656"
     title: "Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656"
     author: Annelies Raes, Tammy Schellens, and Bram De Wever
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Female low achievers from the general track started with the lowest knowledge scores but achieved the highest learning gains in Web-based collaborative inquiry
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Based on the significant three-way interaction of Girl × Low Achiever × General Track, female low achievers from the general track started with significantly lower pretest scores (7.7) but achieved the highest learning gains (17.9). [→ Annelies Raes 2013](#annelies-raes-2013)
@@ -26,7 +33,7 @@ sources:
 
 Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Multilevel Model 1 interaction effect from the quasi-experimental study. The Girl × Low × General Track coefficient was −4.31 (p < .05) on pretest and the four-way interaction with learning gain was 5.78 (p < .05), closing the gap with similar boys and similar high achievers.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://telearn.hal.science/hal-00190855"
     title: "Frank Fischer, Heinz Mandl. (2005). Knowledge Convergence in Computer-Supported Collaborative Learning: The Role of External Representation Tools. The Journal of the Learning Sciences, 14(3), pp.405-441. https://telearn.hal.science/hal-00190855"
     author: Frank Fischer, Heinz Mandl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Outcome convergence after collaboration is low, and higher for application-oriented than factual knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Convergence with respect to individual outcomes was rather low. [→ Frank Fischer 2005](#frank-fischer-2005)
@@ -27,7 +34,7 @@ sources:
 
 Frank Fischer, Heinz Mandl. (2005). Knowledge Convergence in Computer-Supported Collaborative Learning: The Role of External Representation Tools. The Journal of the Learning Sciences, 14(3), pp.405-441. https://telearn.hal.science/hal-00190855
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 In the same 64-student experiment, the article reports that "Convergence with respect to outcomes was rather low, but relatively higher for application-oriented knowledge than for factual knowledge." No effect size is printed in the available text.
 

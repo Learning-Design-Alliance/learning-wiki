@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2013.836656"
     title: "Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656"
     author: Annelies Raes, Tammy Schellens, and Bram De Wever
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Students' overall improvement in inquiry skills was significant (1.36 points on a 10-point scale), and no student or class characteristic had a significant main or interaction effect on inquiry skills gains. [→ Annelies Raes 2013](#annelies-raes-2013)
@@ -26,7 +33,7 @@ sources:
 
 Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Four-level null model for inquiry skills from the same study, measured by a rubric-scored task on a scientific article (maximum 10). Adding gender, achievement level, and academic track did not improve model fit (χ² = 7.78, df = 14, p = .90).
 

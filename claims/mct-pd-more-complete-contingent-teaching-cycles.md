@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2013.805300"
     title: "J. van de Pol, M. Volman, F. Oort, J. Beishuizen. (2014). Teacher scaffolding in small-group work: an intervention study. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.805300"
     author: J. van de Pol, M. Volman, F. Oort, J. Beishuizen
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` At postmeasurement, teachers who participated in the MCT program showed more complete cycles of contingent teaching than the other teachers. [→ J. van de Pol 2014](#j-van-de-pol-2014)
@@ -26,7 +33,7 @@ sources:
 
 J. van de Pol, M. Volman, F. Oort, J. Beishuizen. (2014). Teacher scaffolding in small-group work: an intervention study. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.805300
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Postmeasurement comparison in the same experimental study of 30 prevocational social studies teachers: program participants "showed more complete cycles of contingent teaching at postmeasurement than the other teachers."
 

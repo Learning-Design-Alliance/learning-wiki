@@ -16,6 +16,9 @@ sources:
 
 # Use cultural data sets from students' everyday worlds as a gateway to literary interpretation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Following Lee, the module introduced symbolism through texts from the everyday world, such as images of traditional symbols and pop culture songs with lyrics. The article explains that "cultural data sets manifest the rhetorical problem that students will be encountering in literary texts but do so in texts where students routinely use the types of thinking and reasoning processes that they need to employ when working with literary texts." Discussion focuses metacognitively on how you know, making rules of notice explicit.
 

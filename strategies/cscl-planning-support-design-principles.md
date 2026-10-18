@@ -16,6 +16,9 @@ sources:
 
 # Design principles and recommendations for supporting individual and group planning in CSCL
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article reports the formulation of "CSCL design principles and recommendations to support individual and group activity planning and goal setting", together with guidelines for applying these results in similar teaching situations. The principles derive from the Study 1 model of influencing factors and are intended to guide tool design and implementation in the LabNbook platform and comparable CSCL environments.
 
@@ -34,7 +37,7 @@ The article reports the formulation of "CSCL design principles and recommendatio
 - goal setting and activity planning
 
 ### Affordances
-- [Conjecture Map Planning Cscl](../theories/conjecture-map-planning-cscl.md)
+- [Conjecture Map Planning Cscl](../designs/conjecture-map-planning-cscl.md)
 
 ## Related Strategies
 - 

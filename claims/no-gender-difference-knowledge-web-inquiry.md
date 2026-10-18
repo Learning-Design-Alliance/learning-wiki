@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2013.836656"
     title: "Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656"
     author: Annelies Raes, Tammy Schellens, and Bram De Wever
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Boys and girls do not differ significantly with respect to knowledge pretest scores or learning gain scores after the Web-based inquiry project. [→ Annelies Raes 2013](#annelies-raes-2013)
@@ -26,7 +33,7 @@ sources:
 
 Annelies Raes, Tammy Schellens, and Bram De Wever. (2013). Web-based Collaborative Inquiry to Bridge Gaps in Secondary Science Education. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2013.836656
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Multilevel Model 1 fixed-effect results from the pretest/posttest study. The Girl coefficient on pretest was −0.86 (SE 0.60) and Girl × Learning Gain was 1.22 (SE 0.82), neither statistically significant. Equivalence was not tested.
 

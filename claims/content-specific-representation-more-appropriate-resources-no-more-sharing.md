@@ -13,9 +13,16 @@ sources:
     resource: "https://telearn.hal.science/hal-00190855"
     title: "Frank Fischer, Heinz Mandl. (2005). Knowledge Convergence in Computer-Supported Collaborative Learning: The Role of External Representation Tools. The Journal of the Learning Sciences, 14(3), pp.405-441. https://telearn.hal.science/hal-00190855"
     author: Frank Fischer, Heinz Mandl
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Content-specific external representations increase appropriate resource use without increasing shared knowledge after collaboration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` With content-specific external representation, learners used more appropriate knowledge resources. [→ Frank Fischer 2005](#frank-fischer-2005)
@@ -27,7 +34,7 @@ sources:
 
 Frank Fischer, Heinz Mandl. (2005). Knowledge Convergence in Computer-Supported Collaborative Learning: The Role of External Representation Tools. The Journal of the Learning Sciences, 14(3), pp.405-441. https://telearn.hal.science/hal-00190855
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Experimental manipulation of external representation type (content-specific vs. content-independent) with 64 university students. The article reports learners "used more appropriate knowledge resources without sharing more knowledge after collaboration." No effect size is printed in the available text.
 

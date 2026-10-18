@@ -16,6 +16,9 @@ sources:
 
 # Use scientific visualization to link the aims of education to the practices of science through exploratory, inquiry-driven learning
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article culminates in a recommendation that education adopt scientific visualization as a means "to provide education with an important new inscriptional system for exploratory, inquiry-driven learning and to link the aims of education to the practices of science." This positions visualization tools as vehicles for inquiry-oriented science instruction rather than as presentation aids.
 

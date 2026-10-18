@@ -17,7 +17,7 @@ sources:
 # Materialized Action
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Constructionism holds that learners deepen understanding by building external artifacts that make their internal mental models tangible and shareable. Materialized action extends this by treating the material itself as an active participant in that process, not a passive substrate for a pre-formed idea. As a learner physically acts on a material (stitching, folding, tensioning), the material's own properties — how yarn behaves under tension, how fabric springs back after folding, how a needle's size scales a stitch — feed back into and co-construct the learner's understanding, not just record it. This is analyzed across three nested levels of unit construction: a **stitch/fold unit** (a small, repeatable material action), a **pattern unit** (repetition of that action into a larger structure), and a **project unit** (the completed artifact). Understanding develops through fluid movement across these three levels, driven by the interplay between the learner's actions and the material's responses — not by the learner's cognition alone.
@@ -35,14 +35,18 @@ Constructionism holds that learners deepen understanding by building external ar
 - Developing multiplicative proportional reasoning through the nested-unit structure of a craft (stitch/fold unit → pattern unit → project unit), grounded in materials rather than abstract symbolic representation alone
 
 ## Claims
+
 - [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+M]
+- [Computation in fabric manipulation is characterized as speculative physical 3D modeling](../claims/fabric-manipulation-speculative-3d-modeling.md) [+W] — attached 2026-10-18 from Anna Keune (2022), which proposed "Material syntonicity: ongoing physical intra-action with materials shapes what can be learned computationally".
 
 ## Related Theories
 - Constructionism (Papert; Harel & Papert) — extended here by foregrounding material agency rather than treating materials only as a means to externalize an individual's cognition
 - Body syntonicity (Papert) — extended to "material syntonicity" (Keune): recognizing how a domain concept is projected by a material's own behavior under manipulation (the tension of a stitch, the snap of a fold)
 
 ## Examples
+
 - [Fiber Crafting for Proportional Reasoning](../designs/fiber-crafting-for-proportional-reasoning.md) — an instructional pattern built directly on this theory's three-level unit structure
+- [Use matrix-based fiber crafts as a context for computational learning to broaden computing cultures](../strategies/fiber-crafts-computational-learning-context.md)
 
 ## Key Sources
 - Peppler, K., Keune, A., Bender, S., & Yankova, N. (2025). Materialized Action: Reformulating the "Doing of" Math Through Fiber Crafting. *Cognition and Instruction, 43*(3), 175-200. [https://doi.org/10.1080/07370008.2025.2485070](https://doi.org/10.1080/07370008.2025.2485070)

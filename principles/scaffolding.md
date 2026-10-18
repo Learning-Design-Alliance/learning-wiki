@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (11 for, 17 mixed, 3 against) · 25 studies (12 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 25 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (11 for, 18 mixed, 3 against) · 26 studies (12 causal, 4 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 26 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +105,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - El andamiaje de autoeficacia aumenta la carga germánica y reduce las cargas cognitivas intrínseca y extrínseca en estudiantes que aprenden con un ambiente computacional. [+W] — attached 2026-10-15 from Ramírez Ruiz (2018), which proposed "Incorporar andamiajes motivacionales de autoeficacia en ambientes computacionales para favorecer logro equitativo entre estilos cognitivos"; tests this page's relationship.
 - [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](../claims/failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) [~W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Design preparatory problem-solving scaffolds that explicitly engineer either success or failure before instruction".
 - [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](../claims/failure-driven-scaffolding-higher-quality-constructive-reasoning.md) [+W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Design preparatory problem-solving scaffolds that explicitly engineer either success or failure before instruction".
+- [The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome](../claims/content-support-moderator-not-significant.md) [~W] — attached 2026-10-18 from Freydis Vogel et al. (2016), which proposed "Combine collaboration scripts with content-related scaffolding so the two scaffolds amplify each other (synergistic scaffolding)"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

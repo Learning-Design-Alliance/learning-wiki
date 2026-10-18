@@ -44,3 +44,4 @@ The abstract states the paper's second aim: to "describe the importance of desig
 
 ## Related Claims
 - Design-based research has demonstrated its potential as a methodology suitable to both research and design of technology-enhanced learning environments — possibly the same claim (merge candidate)
+- [Design-based research is criticized for focusing on individual projects without guidance on long-term viability of innovations](dbr-lacks-guidance-long-term-viability.md) — related

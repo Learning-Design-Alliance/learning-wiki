@@ -16,6 +16,9 @@ sources:
 
 # Prefer naturalistic over randomized controlled designs when studying dialogue-outcome relations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends examining naturally occurring variation in theoretically productive dialogue rather than imposing it via intervention, because interventions achieve only patchy uptake and control teachers may use the target forms anyway. It notes that "caution is already being advocated around the use of randomized controlled approaches in classroom research", and that in one cited study control classrooms averaged higher usage than the intervention group. The study therefore analyzed routine lessons and controlled identified confounds statistically.
 
