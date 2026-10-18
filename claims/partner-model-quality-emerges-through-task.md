@@ -1,0 +1,54 @@
+---
+type: claim
+title: Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill
+description: Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill
+id: partner-model-quality-emerges-through-task
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: mixed
+sources:
+  - id: ludvigsen-2016
+    resource: "https://doi.org/10.1007/s11412-016-9236-4"
+    title: "Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4"
+    author: Ludvigsen, S
+  - id: ludvigsen-2016-2
+    resource: "https://doi.org/10.1007/s11412-016-9236-4"
+    title: "Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4"
+    author: Ludvigsen, S
+---
+
+# Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill
+
+## Subclaims
+`q2 i?` Across five collaborative problem-solving experiments, the quality of mutual modelling emerged through the task and was sensitive to awareness tools and media richness, partly contradicting the starting hypothesis that partner modelling is an improvable individual skill. [→ Ludvigsen 2016](#ludvigsen-2016)
+`q2 i?` In several, but not all, of the experiments, the symmetry of mutual models in the dyad seemed to be crucial. [→ Ludvigsen 2016 (2)](#ludvigsen-2016-2)
+
+## Evidence
+
+### Ludvigsen 2016
+
+Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4
+
+`q2 · i?`
+
+The editorial reports Dillenbourg et al.'s five experiments engaging participants in collaborative problem solving, with tasks varying in importance and in how difficult it is to build accurate models; the finding partly contradicts the starting assumption.
+
+> "The quality of the modeling emerges through the task and is sensitive to the awareness of tools and to media richness in the environment."
+
+### Ludvigsen 2016 (2)
+
+Ludvigsen, S. (2016). CSCL: connecting the social, emotional and cognitive dimensions. International Journal of Computer-Supported Collaborative Learning, 11, 115–121. https://doi.org/10.1007/s11412-016-9236-4
+
+`q2 · i?`
+
+The editorial reports this symmetry result from the same five experiments by Dillenbourg et al., noting explicitly that it held in several but not all of the experiments.
+
+> "In several, but not all of the experiments, the symmetry of mutual models in the dyad seems to be crucial."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,54 @@
+---
+type: claim
+title: Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis
+description: Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis
+id: artifact-structure-operationalizes-collective-knowledge
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: gerry-stahl-2014
+    resource: "https://doi.org/10.1007/s11412-014-9189-4"
+    title: "Gerry Stahl, Ulrike Cress, Nancy Law & Sten Ludvigsen. (2014). Analyzing the multidimensional construction of knowledge in diverse contexts. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:1–6. https://doi.org/10.1007/s11412-014-9189-4"
+    author: "Gerry Stahl, Ulrike Cress, Nancy Law & Sten Ludvigsen"
+  - id: gerry-stahl-2014-2
+    resource: "https://doi.org/10.1007/s11412-014-9189-4"
+    title: "Gerry Stahl, Ulrike Cress, Nancy Law & Sten Ludvigsen. (2014). Analyzing the multidimensional construction of knowledge in diverse contexts. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:1–6. https://doi.org/10.1007/s11412-014-9189-4"
+    author: "Gerry Stahl, Ulrike Cress, Nancy Law & Sten Ludvigsen"
+---
+
+# Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis
+
+## Subclaims
+`q2 i?` In contrast to analyzing interaction sequences, artifacts and their meaningful interconnected structure offer a unique way of operationalizing knowledge-related processes in collectives. [→ Gerry Stahl 2014](#gerry-stahl-2014)
+`q2 i?` Social-network analysis of article links defines disciplinary and interdisciplinary clusters, including pivotal and boundary-spanning articles, and contributor hypotheses were confirmed. [→ Gerry Stahl 2014 (2)](#gerry-stahl-2014-2)
+
+## Evidence
+
+### Gerry Stahl 2014
+
+Gerry Stahl, Ulrike Cress, Nancy Law & Sten Ludvigsen. (2014). Analyzing the multidimensional construction of knowledge in diverse contexts. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:1–6. https://doi.org/10.1007/s11412-014-9189-4
+
+`q2 · i?`
+
+Halatchliyski, Moskaliuk, Kimmerle, and Cress propose this methodological move for extending the concept of collective knowledge to long-term processes and large-scale network structures, exemplified by German Wikipedia articles categorized as educational and/or psychological.
+
+> "in contrast to the analysis of interaction sequences— artifacts and their meaningful interconnected structure offer a unique way of operationalizing knowledge-related processes in collectives."
+
+### Gerry Stahl 2014 (2)
+
+Gerry Stahl, Ulrike Cress, Nancy Law & Sten Ludvigsen. (2014). Analyzing the multidimensional construction of knowledge in diverse contexts. Intern. J. Comput.-Support. Collab. Learn. (2014) 9:1–6. https://doi.org/10.1007/s11412-014-9189-4
+
+`q2 · i?`
+
+Network analysis of links between German Wikipedia articles defines clusters and categories such as pivotal and boundary-spanning articles; the authors then use the community-level results to analyze individual-level participation, confirming their hypotheses about different kinds of contributors posting to different categories of articles.
+
+> "Using social-network analysis on the links between articles, it defines disciplinary and inter-disciplinary clusters of articles."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,54 @@
+---
+type: claim
+title: Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups
+description: Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups
+id: intellectual-and-organizational-leader-roles-distinct
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: e-m-mercier-2014
+    resource: "https://doi.org/10.1007/s11412-014-9201-z"
+    title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
+    author: E. M. Mercier, S. E. Higgins, Laura da Costa
+  - id: e-m-mercier-2014-2
+    resource: "https://doi.org/10.1007/s11412-014-9201-z"
+    title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
+    author: E. M. Mercier, S. E. Higgins, Laura da Costa
+---
+
+# Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups
+
+## Subclaims
+`q2 i?` In study one, leadership configurations fell along the lines of intellectual and organizational leader, with three of eight math groups having distinct intellectual and organizational leaders and two groups having one student take both roles. [→ E. M. Mercier 2014](#e-m-mercier-2014)
+`q2 i?` In study two, specific roles of intellectual and organizational leader taken on by two different students could be identified in half of the groups. [→ E. M. Mercier 2014 (2)](#e-m-mercier-2014-2)
+
+## Evidence
+
+### E. M. Mercier 2014
+
+E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
+
+`q2 · i?`
+
+Analysis of accepted leadership moves coded as intellectual (Topic Control, Idea Management and Development) or organizational (Planning and Organizing, Turn Management, Acknowledgment) in eight groups. The article reports "Three of the eight groups in the math activity had a distinct intellectual and organizational leader."
+
+> "Three of the eight groups in the math activity had a distinct intellectual and organizational leader, while in two groups, both roles were held by the same student."
+
+### E. M. Mercier 2014 (2)
+
+E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
+
+`q2 · i?`
+
+Study two examined emergent leadership in 22 groups of students across six classes in a multi-touch classroom. The article reports that distinct intellectual and organizational leader roles "taken on by two different students, could be identified in half of the groups."
+
+> "Again, leadership was distributed among group members, and specific roles of intellectual and organizational leader, taken on by two different students, could be identified in half of the groups."
+
+## Discussion
+
+
+## Related Claims
+-

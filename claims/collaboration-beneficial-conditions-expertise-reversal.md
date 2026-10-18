@@ -1,0 +1,54 @@
+---
+type: claim
+title: Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect
+description: Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect
+id: collaboration-beneficial-conditions-expertise-reversal
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: kirschner-2018
+    resource: "https://doi.org/10.1007/s11412-018-9277-y"
+    title: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y"
+    author: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J"
+  - id: kirschner-2018-2
+    resource: "https://doi.org/10.1007/s11412-018-9277-y"
+    title: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y"
+    author: "Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J"
+---
+
+# Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect
+
+## Subclaims
+`q1 i?` Collaborative learning is beneficial when task complexity exceeds individual working memory capacity and members have prior experience working together, but unnecessary for learners who already have relevant knowledge structures. [→ Kirschner 2018](#kirschner-2018)
+`q2 i?` When participants have relevant task knowledge, individual learners marginally outperform homogeneous and heterogeneous teams. [→ Kirschner 2018 (2)](#kirschner-2018-2)
+
+## Evidence
+
+### Kirschner 2018
+
+Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y
+
+`q1 · i?`
+
+A theoretical prediction of cognitive load theory for collaboration, stated from the interaction of the information store, borrowing and reorganising, and narrow limits of change principles. No data are offered in this article for the prediction itself; it is an argued design implication about element interactivity and group capacity.
+
+> "Collaborative learning is beneficial when the task exceeds individual working memory capacity (under time restrictions) assuming members have not stored relevant prior knowledge structures."
+
+### Kirschner 2018 (2)
+
+Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano R., J. (2018). From Cognitive Load Theory to Collaborative Cognitive Load Theory. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-018-9277-y
+
+`q2 · i?`
+
+The article reports, citing Zhang et al. (2016), a team-composition study whose results confirmed heterogeneous teams could favour lower prior knowledge learners; however, comparing individual learners with homogeneous and heterogeneous teams, knowledgeable individuals 'marginally out- perform' teams. Reported secondhand without statistics; no effect size printed.
+
+> "In general, the results conf irmed this; however, they also found that when participants have relevant task knowledge, individual learners marginally out- perform homogeneous and heterogeneous teams."
+
+## Discussion
+
+
+## Related Claims
+-

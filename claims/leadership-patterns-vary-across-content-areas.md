@@ -1,0 +1,39 @@
+---
+type: claim
+title: Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history
+description: Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history
+id: leadership-patterns-vary-across-content-areas
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: e-m-mercier-2014
+    resource: "https://doi.org/10.1007/s11412-014-9201-z"
+    title: "E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z"
+    author: E. M. Mercier, S. E. Higgins, Laura da Costa
+---
+
+# Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history
+
+## Subclaims
+`q2 i?` Participants showed different amounts of leadership in different disciplines; for example, one child made no leadership moves during the history task but nine effective moves during the mathematics task. [→ E. M. Mercier 2014](#e-m-mercier-2014)
+
+## Evidence
+
+### E. M. Mercier 2014
+
+E. M. Mercier, S. E. Higgins, Laura da Costa. (2014). Different leaders: Emergent organizational and intellectual leadership in children's collaborative learning groups. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-014-9201-z
+
+`q2 · i?`
+
+Breakdown of accepted leadership moves by content area in study one. The article reports participants "showing different amounts of leadership in the differen t disciplines," citing a child with no history moves but nine in mathematics.
+
+> "this appears to be more complex when the data is broken down b y discipline, with participants showing different amounts of leadership in the differen t disciplines (e.g., Child 2, Group 2, makes no leadership moves during the history task, but nineeffective moves during the mathematics task)."
+
+## Discussion
+
+
+## Related Claims
+-
