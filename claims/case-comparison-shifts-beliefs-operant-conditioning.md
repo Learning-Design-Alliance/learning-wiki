@@ -1,0 +1,39 @@
+---
+type: claim
+title: "Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition"
+description: "Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition"
+id: case-comparison-shifts-beliefs-operant-conditioning
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: julia-kienzler-2023
+    resource: "https://doi.org/10.1007/s11251-023-09627-7"
+    title: "Julia Kienzler, Thamar Voss, Jörg Wittwer. (2023). Student teachers' conceptual knowledge of operant conditioning: How can case comparison support knowledge acquisition? Instructional Science. https://doi.org/10.1007/s11251-023-09627-7"
+    author: Julia Kienzler, Thamar Voss, Jörg Wittwer
+---
+
+# Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition
+
+## Subclaims
+`q3 i3` Beliefs were more positive after learning than before with a large effect (η² = 0.38), with no condition interaction; the design lacked a control group so causality is not established. [→ Julia Kienzler 2023](#julia-kienzler-2023)
+
+## Evidence
+
+### Julia Kienzler 2023
+
+Julia Kienzler, Thamar Voss, Jörg Wittwer. (2023). Student teachers' conceptual knowledge of operant conditioning: How can case comparison support knowledge acquisition? Instructional Science. https://doi.org/10.1007/s11251-023-09627-7
+
+`q3 · i3`
+
+Repeated-measures ANOVA on nine-item belief scales (α = 0.73 before, 0.75 after) across all 181 participants. The printed effect size was η² = 0.38; the article reports beliefs "were more positive after learning than before learning with a large effect size".
+
+> "revealed a significant main effect of measurement point, F (1, 169) = 105.16, p < .001, η2 = 0.38, but no significant interaction with the between-subject factor experimental condition"
+
+## Discussion
+
+
+## Related Claims
+-

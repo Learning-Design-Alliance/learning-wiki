@@ -1,0 +1,39 @@
+---
+type: claim
+title: Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition
+description: Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition
+id: concrete-task-lower-exploratory-experiments
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: ard-w-lazonder-2009
+    resource: "https://doi.org/10.1007/s11251-008-9055-8"
+    title: "Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg. (2009). Unraveling the influence of domain knowledge during simulation-based inquiry learning. Instr Sci, 37, 437-451. https://doi.org/10.1007/s11251-008-9055-8"
+    author: Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg
+---
+
+# Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition
+
+## Subclaims
+`q3 i3` The concrete condition had a significantly lower percentage of exploratory experiments than the intermediate condition (r = .52). [→ Ard W. Lazonder 2009](#ard-w-lazonder-2009)
+
+## Evidence
+
+### Ard W. Lazonder 2009
+
+Ard W. Lazonder, Pascal Wilhelm, Emiel van Lieburg. (2009). Unraveling the influence of domain knowledge during simulation-based inquiry learning. Instr Sci, 37, 437-451. https://doi.org/10.1007/s11251-008-9055-8
+
+`q3 · i3`
+
+In the randomized three-task experiment, ANOVA showed a significant difference in exploratory experiments (F(2,53) = 11.28, p < .01); the concrete condition (M = 12.27%) was lower than the intermediate condition (M = 46.58%), "t(53) = 4.45, p\ .01, r = .52".
+
+> "Planned contrasts revealed that participants in the concrete condition had a signiﬁcantly lower percentage of exploratory experiments than participants from the intermediate condition ( t(53) = 4.45, p\ .01, r = .52)."
+
+## Discussion
+
+
+## Related Claims
+-

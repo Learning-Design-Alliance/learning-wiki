@@ -1,0 +1,39 @@
+---
+type: claim
+title: Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional
+description: Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional
+id: guidance-improves-posttest-logic-conditional
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: tessa-eysink-2002
+    resource: "https://doi.org/10.1023/A:1016018210897"
+    title: "Tessa Eysink, Sanne Dijkstra, Jan Kuper. (2002). The role of guidance in computer-based problem solving for the development of concepts of logic. Instructional Science. https://doi.org/10.1023/A:1016018210897"
+    author: Tessa Eysink, Sanne Dijkstra, Jan Kuper
+---
+
+# Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional
+
+## Subclaims
+`q3 i?` Guidance, operationalised by problems guiding learners to all different types of basic problem situations derived from the conditional, significantly influenced scores from pre- to post test. [→ Tessa Eysink 2002](#tessa-eysink-2002)
+
+## Evidence
+
+### Tessa Eysink 2002
+
+Tessa Eysink, Sanne Dijkstra, Jan Kuper. (2002). The role of guidance in computer-based problem solving for the development of concepts of logic. Instructional Science. https://doi.org/10.1023/A:1016018210897
+
+`q3 · i?`
+
+Experiment with 72 first- and second-year social science students in the computer-based learning environment Tarski's World, designed for teaching first-order logic. The abstract reports that guidance "significantly influenced the scores from pre- to post test"; no effect size is printed in the available text.
+
+> "Guidance, which was operationalised by giving the learners problems that guided them to all different types of basic problem situations that could be derived from the conditional by stimulating them to manipulate or to imagine to manipulate the geometrical objects, significantly influenced the scores from pre- to post test."
+
+## Discussion
+
+
+## Related Claims
+-

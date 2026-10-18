@@ -1,0 +1,54 @@
+---
+type: claim
+title: "Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden"
+description: "Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden"
+id: settings-moderate-vigilance-phone-use-link
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: moderate
+sources:
+  - id: liao-2026
+    resource: "https://doi.org/10.1007/s11251-026-09794-3"
+    title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+  - id: liao-2026-2
+    resource: "https://doi.org/10.1007/s11251-026-09794-3"
+    title: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3"
+    author: "Liao, H.-H., Liu, T.-C., & Lin, Y.-C"
+---
+
+# Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden
+
+## Subclaims
+`q3 i3` The positive effect of SV on PUF was stronger in the NR group than in the NH group (moderation β = −0.468, p = .001, f² = 0.106; group paths β = 0.477 vs 0.389). [→ Liao 2026](#liao-2026)
+`q3 i3` The positive effect of SV on APUD was stronger in the NH group than in the NR group (moderation β = 0.655, p = .006, f² = 0.124; group path β = 0.504 in NH only). [→ Liao 2026 (2)](#liao-2026-2)
+
+## Evidence
+
+### Liao 2026
+
+Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
+
+`q3 · i3`
+
+PLS-SEM moderation test on all 84 participants; the Group×SV interaction on phone-use frequency was significant, with the SV→PUF path stronger in NR (β = 0.477) than NH (β = 0.389).
+
+> "the positive effect of SV and PUF on the NR group was higher than that on the NH group (β = −0.468, p = .001, H8a supported)"
+
+### Liao 2026 (2)
+
+Liao, H.-H., Liu, T.-C., & Lin, Y.-C. (2026). External and internal smartphone distractions: Effects on phone use and learning performance in college classrooms. Instructional Science. https://doi.org/10.1007/s11251-026-09794-3
+
+`q3 · i3`
+
+PLS-SEM moderation test on all 84 participants; the Group×SV interaction on average phone-use duration was significant, with SV→APUD significant only in the NH group (β = 0.504, p < .001; NR β = 0.136, p = .593).
+
+> "the positive effect of SV and APUD on the NH group was higher than that on the NR group ( β = 0.655, p = .006, H8b supported)"
+
+## Discussion
+
+
+## Related Claims
+-

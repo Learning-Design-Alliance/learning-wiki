@@ -1,0 +1,39 @@
+---
+type: claim
+title: Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis
+description: Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis
+id: anomalous-data-handling-conditions-pbl
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-18
+evidence_strength: weak
+sources:
+  - id: de-grave-1996
+    resource: "https://doi.org/10.1007/BF00118111"
+    title: "de Grave, W. S., Boshuizen, H. & Schmidt, H. (1996). Problem based learning: Cognitive and metacognitive processes during problem analysis. Instructional Science: An International Journal of Learning and Cognition, 24(5), 321–341. https://doi.org/10.1007/BF00118111"
+    author: "de Grave, W. S., Boshuizen, H. & Schmidt, H"
+---
+
+# Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis
+
+## Subclaims
+`q2 i?` Students' ways of dealing with anomalous data, and the conditions that determine how they deal with such data, could be described from the stimulated recall data. [→ de Grave 1996](#de-grave-1996)
+
+## Evidence
+
+### de Grave 1996
+
+de Grave, W. S., Boshuizen, H. & Schmidt, H. (1996). Problem based learning: Cognitive and metacognitive processes during problem analysis. Instructional Science: An International Journal of Learning and Cognition, 24(5), 321–341. https://doi.org/10.1007/BF00118111
+
+`q2 · i?`
+
+From the stimulated recall protocols collected during problem analysis, the study described "the ways of dealing with anomalous data" and "the conditions that determine how students deal with anomalous data."
+
+> "The ways of dealing with anomalous data could be described as well as the conditions that determine how students deal with anomalous data."
+
+## Discussion
+
+
+## Related Claims
+-
