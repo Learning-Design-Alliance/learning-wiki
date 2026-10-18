@@ -15,18 +15,22 @@ sources:
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: hanna-grimm-peter-a-edelsbrunner-kornelia-möller-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09601-9"
     title: "Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller. (2023). Accommodating heterogeneity: the interaction of instructional scaffolding with student preconditions in the learning of hypothesis-based reasoning. Instructional Science. https://doi.org/10.1007/s11251-022-09601-9"
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Latent transition analysis extracted four ability-profiles of hypothesis-based reasoning across affirmative, refuting, and irrelevant evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The best-fitting latent transition analysis extracted four profiles — low, relevant, intermediate, and full — differing in solution rates across the three evidence types. [→ Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023](#hanna-grimm-peter-a-edelsbrunner-kornelia-moller-2023)

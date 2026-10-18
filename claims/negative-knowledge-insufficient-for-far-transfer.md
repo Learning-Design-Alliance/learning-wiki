@@ -15,12 +15,14 @@ sources:
     author: Sarah Shi Hui Wong
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Knowing what not to do does not suffice for knowing what to do: spot-explain-fix improved design critique and error anticipation but produced weaker near and far transfer than deliberate erring and no far-transfer advantage over errorless practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The article reports that despite rivaling deliberate erring on design critique and error anticipation, spot-explain-fix produced weaker near and far transfer, and a key implication is that negative knowledge alone does not guarantee valid design skill. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

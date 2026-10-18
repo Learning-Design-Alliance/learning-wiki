@@ -15,12 +15,14 @@ sources:
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A theme (38%) centred on the idea that humans have influence over technological change, expressed in pluralised futures and questioned fears. [→ Tapio Rasa 2022](#tapio-rasa-2022)

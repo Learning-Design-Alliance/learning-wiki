@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (16 for, 8 mixed) · 17 studies (12 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 3 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (17 for, 8 mixed) · 18 studies (13 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 4 of 18 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

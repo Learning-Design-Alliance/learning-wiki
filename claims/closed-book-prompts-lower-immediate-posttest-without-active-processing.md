@@ -15,12 +15,14 @@ sources:
     author: Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Closed-book prompts reduce immediate posttest performance only when learners were not prompted to actively process the instructional explanations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Experiment 1, closed-book self-explanation prompts decreased immediate posttest performance for learners without active processing prompts (ηp2 = .11) but not for learners with them. [→ Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle 2020](#sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020)

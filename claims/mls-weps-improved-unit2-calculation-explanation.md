@@ -15,12 +15,14 @@ sources:
     author: Xiaojuan Ke · Kristie J. Newton
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # MLS-WEPs intervention predicted higher Unit 2 (functions) calculation and explanation scores when controlling for prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the Function unit, intervention students scored 0.498 standard deviations higher on calculation and 0.730 higher on explanation than controls, controlling for prior knowledge. [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

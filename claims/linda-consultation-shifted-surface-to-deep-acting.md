@@ -15,12 +15,14 @@ sources:
     author: Ilana Seidel Horn, Yeliz Günal Aggül, Shuqin Li, Christine E. Hood
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Consultation with trusted colleagues offered new interpretations of a student's behavior, lessening a teacher's emotional labor and shifting her from surface acting to deep acting (Linda case)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Relational agency exercised through a debrief conversation with researcher-facilitators enhanced Linda's epistemic agency, generating a possible neurodivergence interpretation of Bee's participation and shifting her emotional labor from surface acting to deep acting. [→ Ilana Seidel Horn 2025](#ilana-seidel-horn-2025)

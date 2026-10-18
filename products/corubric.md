@@ -13,6 +13,7 @@ generated:
 # CoRubric
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 CoRubric is a free online e-rubric tool developed by the study authors for managing peer, self, and teacher assessment with criteria, scores, notes, comments, and exportable results.

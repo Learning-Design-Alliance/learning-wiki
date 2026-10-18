@@ -12,6 +12,7 @@ generated:
 # DReaM framework: nine sub-categories of uncertainty articulations integrating statistical, scientific and nature of science uncertainty
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 DReaM (Deterministic Relativistic and Middle ground) is an integrative framework offered by the authors that organizes learners' uncertainty articulations into nine sub-categories spanning three reasoning domains. The article states: 'Based on literature from the three fields of statistics, science and nature of science education, we offer an integrative framework, Deterministic Relativistic and Middle ground (DReaM), which consists of nine sub-categories of uncertainty articulations.'

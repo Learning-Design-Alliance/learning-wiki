@@ -15,12 +15,14 @@ sources:
     author: Jan van der Meij, Marije van Amelsvoort, Anjo Anjewierden
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Reading order in matrix diagrams followed the header content (types) rather than arrow orientation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Time in body sequence was longer in the direction of the types than in the direction of the categories, but not longer in the direction of the arrows; reading direction interacted with type of header content. [→ Jan van der Meij 2017](#jan-van-der-meij-2017)

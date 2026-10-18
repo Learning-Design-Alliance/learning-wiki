@@ -15,12 +15,14 @@ sources:
     author: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Stepwise regressions showed delayed effort and difficulty ratings were significantly predicted by the average of the three more complex problems, not the three easier ones. [→ Schmeck 2015](#schmeck-2015)

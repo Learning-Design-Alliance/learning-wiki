@@ -15,12 +15,14 @@ sources:
     author: Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Closed-book self-explanation prompts reduce the number of generated self-explanations when learners are not prompted to actively process the instructional explanations beforehand
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Experiment 1, the closed-book format reduced the number of generated self-explanations for learners without active processing prompts (ηp2 = .09) but not for learners with them. [→ Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle 2020](#sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020)

@@ -13,6 +13,7 @@ generated:
 # UNIPS
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 UNIPS is a Finnish national online platform developed collaboratively by eight universities to provide self-study and guided short modules in university pedagogy for university staff and doctoral students.

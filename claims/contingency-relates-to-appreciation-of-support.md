@@ -15,12 +15,14 @@ sources:
     author: "van de Pol, J., Volman, M., Oort, F., & Beishuizen, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Higher levels of contingent support were related to higher appreciation of support, regardless of measurement occasion or independent working time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The main effect of contingency on appreciation of support was significant (small effect size), with no interaction with occasion or independent working time. [→ van de Pol 2015](#van-de-pol-2015)

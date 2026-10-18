@@ -15,12 +15,14 @@ sources:
     author: "Guba, T.-P., Barbieri, C. A., Jansen, A., & Morris, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Most preservice teachers showed limitations in calibration, indicating over-confidence in the degree of completeness of their explanations at both time points. [→ Guba 2026](#guba-2026)

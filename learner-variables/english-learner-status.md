@@ -12,7 +12,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (54 show a difference, 19 mixed, 14 no difference) · 63 studies (27 associational, 13 causal, 10 review, 4 quant-synthesis, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 10 of 63 report an effect size · 86 claims rest on one study
+> **Evidence** · 89 claims (54 show a difference, 20 mixed, 15 no difference) · 64 studies (27 associational, 14 causal, 10 review, 4 quant-synthesis, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 11 of 64 report an effect size · 88 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.

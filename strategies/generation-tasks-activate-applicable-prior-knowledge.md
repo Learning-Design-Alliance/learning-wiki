@@ -17,7 +17,7 @@ sources:
 # Design generation tasks around concepts whose canonical formulas students do not know but for which they possess applicable skills and knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The editorial's second theme concerns designing the generation task to activate prior knowledge. Researchers "attempted to ﬁnd a novel concept that students did not know its canonical formula, but they would possess relevant skills and knowledge from other areas that they could apply to the RSM generation process." Not all generation tasks may be useful; the ones used worked because topics were chosen so students could use other knowledge and skills.

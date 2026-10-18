@@ -15,18 +15,22 @@ sources:
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 3
     i: 2
+    kind: causal
+    rigour: "?"
   - id: hanna-grimm-peter-a-edelsbrunner-kornelia-möller-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09601-9"
     title: "Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller. (2023). Accommodating heterogeneity: the interaction of instructional scaffolding with student preconditions in the learning of hypothesis-based reasoning. Instructional Science. https://doi.org/10.1007/s11251-022-09601-9"
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Scaffolded third-graders outperformed control students on reasoning based on irrelevant evidence after instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The experimental condition scored higher than the control condition on posttest reasoning from irrelevant events (d = 0.49). [→ Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023](#hanna-grimm-peter-a-edelsbrunner-kornelia-moller-2023)

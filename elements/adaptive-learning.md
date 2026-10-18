@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 15 studies (4 review, 3 associational, 3 qualitative, 2 quant-synthesis, 1 causal, 1 design, 1 theoretical), `q1`–`q4` · 2 of 15 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 16 studies (4 review, 3 associational, 3 qualitative, 2 causal, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 2 of 16 report an effect size · 15 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.

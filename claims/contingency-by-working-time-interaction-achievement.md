@@ -15,18 +15,22 @@ sources:
     author: "van de Pol, J., Volman, M., Oort, F., & Beishuizen, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: van-de-pol-2015-2
     resource: "https://doi.org/10.1007/s11251-015-9351-z"
     title: "van de Pol, J., Volman, M., Oort, F., & Beishuizen, J. (2015). The effects of scaffolding in the classroom: support contingency and student independent working time in relation to student achievement, task effort and appreciation of support. Instructional Science. https://doi.org/10.1007/s11251-015-9351-z"
     author: "van de Pol, J., Volman, M., Oort, F., & Beishuizen, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # When controlling for task effort, low contingent support improved multiple-choice achievement with short independent working time whereas high contingent support improved it with long independent working time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The three-way interaction between occasion, contingency and independent working time on multiple-choice scores was significant when task effort was included as a covariate. [→ van de Pol 2015](#van-de-pol-2015)

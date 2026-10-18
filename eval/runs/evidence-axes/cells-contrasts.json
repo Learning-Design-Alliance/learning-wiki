@@ -34830,5 +34830,113 @@
  "retrieval-practice\ttest question generation\trereading": {
   "label": "test question generation vs rereading",
   "treatment_is_a": true
+ },
+ "scaffolding\tadditional structural and problematizing instructional scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit modeling and adaptive problematizing scaffolds\tinquiry activities without the additional scaffolds": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit modeling and adaptive problematizing scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit structural and problematizing scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit structuring and problematizing scaffolds\tinquiry activities without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit structuring and problematizing scaffolds\tstructured inquiry without the additional scaffold": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh contingent support with high independent working time\tlow contingent support with high independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh contingent support with long independent working time\tlow contingent support with long independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigher contingent support\tlower contingent support": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinquiry with teacher modeling and adaptive problematizing scaffolds\tstructured inquiry without the additional scaffolds": {
+  "label": "additional scaffolding vs no additional scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlow contingent support with low independent working time\thigh contingent support with low independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": false
+ },
+ "scaffolding\tlow contingent support with short independent working time\thigh contingent support with short independent working time": {
+  "label": "higher vs lower contingent support",
+  "treatment_is_a": false
+ },
+ "scaffolding\toperation with video review\toperation without video review": {
+  "label": "video review vs no video review",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding condition\tnonscaffolding condition": {
+  "label": "scaffolding vs nonscaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding intervention\tnonscaffolding condition": {
+  "label": "scaffolding vs nonscaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tthree-way interaction of support contingency, independent working time, and occasion\tno three-way interaction": {
+  "label": "three-way interaction present vs absent",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvideo review with virtual simulation or hands-on activity\tno video review with the same operation type": {
+  "label": "video review vs no video review",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvirtual simulation or hands-on activity with video review\tthe same operation without video review": {
+  "label": "video review vs no video review",
+  "treatment_is_a": true
+ },
+ "self-explanation\tclosed-book self-explanation prompts\topen-book self-explanation prompts": {
+  "label": "closed-book vs open-book self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tclosed-book self-explanation prompts without active-processing prompts\topen-book self-explanation prompts without active-processing prompts": {
+  "label": "closed-book vs open-book self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\topen-book self-explanation prompts\tclosed-book self-explanation prompts": {
+  "label": "closed-book vs open-book self-explanation prompts",
+  "treatment_is_a": false
+ },
+ "simulation\thands-on activity\tvirtual simulation without video review": {
+  "label": "virtual simulation without video review vs hands-on activity",
+  "treatment_is_a": false
+ },
+ "simulation\topen simulation game\trule-based simulation game": {
+  "label": "open simulation game vs rule-based simulation game",
+  "treatment_is_a": true
+ },
+ "simulation\trule-based simulation game\topen simulation game": {
+  "label": "open simulation game vs rule-based simulation game",
+  "treatment_is_a": false
+ },
+ "simulation\tvirtual simulation\thands-on activity": {
+  "label": "virtual simulation without video review vs hands-on activity",
+  "treatment_is_a": true
+ },
+ "test-format\tfree recall, practice quiz, or test generation\tthe other retrieval formats": {
+  "label": "Generative retrieval formats vs other retrieval formats",
+  "treatment_is_a": true
+ },
+ "worked-examples\tcorrect and complete exemplar of a fraction magnitude comparison\tlist of steps focused on structural aspects of the explanation": {
+  "label": "complete worked example vs step-by-step explanation",
+  "treatment_is_a": true
  }
 }

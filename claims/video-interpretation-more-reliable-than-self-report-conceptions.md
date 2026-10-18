@@ -15,12 +15,14 @@ sources:
     author: Henna Vilppu, Ilona Södervik, Liisa Postareff, Mari Murtonen
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The authors argue that analysing interpretations of video situations gives a more reliable view of teachers’ conceptions than self-report Likert questionnaires
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` A method in which a researcher analyses a respondent’s interpretation of a teaching situation can provide a more reliable view of the respondent’s conceptions than self-reporting. [→ Henna Vilppu 2019](#henna-vilppu-2019)

@@ -15,12 +15,14 @@ sources:
     author: Sarah Shi Hui Wong
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
 ---
 
 # Both errorful learning methods produce better negative knowledge (anticipation of problem-specific design errors) than errorless practice, with no difference between self- and other-generated errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Spot-explain-fix (d = 0.66) and derr-explain-fix (d = 0.71) both anticipated more problem-specific errors than errorless practice and did not differ from each other. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

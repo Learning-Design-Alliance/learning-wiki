@@ -15,12 +15,14 @@ sources:
     author: Charlotte E. Wolff, Halszka Jarodzka, Niek van den Bogert, Henny P. A. Boshuizen
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors assert expert perception is knowledge-driven and novice search image-driven. [→ Charlotte E. Wolff 2016](#charlotte-e-wolff-2016)

@@ -25,9 +25,9 @@ The wiki holds **5,645 distinct studies** behind 20,553 claims. What they add up
 
 - **Few studies can show a cause.** 28% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 59% are quasi-experiments, observational studies or narrative reviews, and 13% are case studies, opinion or theory.
 - **Few print an effect size.** 1,214 of 5,645 studies (22%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 555 studies are rated `r3`, done well for their kind; 361 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Strong work is not only trials.** 556 studies are rated `r3`, done well for their kind; 361 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
-- **Not all research reaches design.** 61% of studies, and 34% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
+- **Not all research reaches design.** 61% of studies, and 35% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 222 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 116 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 6% strong, 49% moderate and 45% weak, and 52% supporting, 43% conditional and 5% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
@@ -47,10 +47,10 @@ Instructional building blocks — the components you compose into patterns.
 ### [Patterns](patterns/index.md) (68)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (914)
+### [Designs](designs/index.md) (921)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Products & Programmes](products/index.md) (1768)
+### [Products & Programmes](products/index.md) (1770)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
 ### [Strategies](strategies/index.md) (6138)
@@ -62,7 +62,7 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (38)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Research Methods](research-methods/index.md) (429)
+### [Research Methods](research-methods/index.md) (433)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
 ### [Theories](theories/index.md) (1361)

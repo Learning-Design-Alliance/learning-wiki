@@ -15,12 +15,14 @@ sources:
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Scaffolding enabled students' inhibition ability to contribute to learning reasoning from irrelevant events: inhibition predicted posttest scores only under the experimental condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Inhibition ability significantly predicted posttest reasoning from irrelevant events in the experimental condition (F = 1.99, p < 0.001) but showed no effect in the control condition (F = 0.00, p = 0.429). [→ Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023](#hanna-grimm-peter-a-edelsbrunner-kornelia-moller-2023)

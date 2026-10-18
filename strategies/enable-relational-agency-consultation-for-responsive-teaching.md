@@ -17,7 +17,7 @@ sources:
 # Administrators and teacher educators should enable relational agency through consultation structures and honor teachers' emotions in responsive teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that those fostering responsive instruction shift from transforming individual teachers toward building supportive systems. Administrators "should enable relational agency through activities that support consultation and ensure expertise can be respectfully shared to better imagine new forms of practice." Teacher educators should acknowledge that frustration, hurt, and anger accompany responsive teaching, emphasize that responsiveness is an interactional accomplishment, and encourage models that honor teachers' emotions, encourage consultation, and support tinkering and revision. Normalizing the tension between teachers' internal experiences and the emotional rules of responsive practice could reduce frustration.

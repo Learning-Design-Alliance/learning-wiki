@@ -15,18 +15,22 @@ sources:
     author: "Schmidt, H., van der Arend, A., Kokx, I. & Boon, L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: schmidt-1995-2
     resource: "https://doi.org/10.1007/bf00891781"
     title: "Schmidt, H., van der Arend, A., Kokx, I. & Boon, L. (1995). Peer versus staff tutoring in problem-based learning. Instructional Science 22: 279-285. https://doi.org/10.1007/bf00891781"
     author: "Schmidt, H., van der Arend, A., Kokx, I. & Boon, L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Staff tutors made more extensive use of subject-matter knowledge than peer tutors, but a significant interaction showed peer tutors rated higher in the first year and staff tutors higher in subsequent years. [→ Schmidt 1995](#schmidt-1995)

@@ -17,6 +17,7 @@ sources:
 # Self-study and discussion model: preparatory self-study enhances learning by transforming the quality of subsequent peer discussion
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The model, proposed by Lim and Park (2023) and extended here to high school students, holds that self-study supports individual cognitive construction while peer discussion facilitates the social construction of knowledge. The article argues its effectiveness "lies in how preparation transforms the quality of peer interaction rather than in activity level alone": self-study functions as a constructive activity that activates and reorganizes prior knowledge, enabling more substantive and co-constructive dialogue. Interpreted through the ICAP framework, discussion primarily activates and elaborates knowledge, whereas preparatory self-study establishes stable knowledge representations that persist over time.

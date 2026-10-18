@@ -15,18 +15,22 @@ sources:
     author: Cheng-Hong Liu, Xian-Rui Yin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: cheng-hong-liu-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09789-0"
     title: "Cheng-Hong Liu, Xian-Rui Yin. (2026). Effects of person praise on students' motivation and performance under ego-involving and task-involving feedback conditions. Instructional Science (2026) 54:34. https://doi.org/10.1007/s11251-026-09789-0"
     author: Cheng-Hong Liu, Xian-Rui Yin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Ego-involving feedback lowered trials relative to task-involving feedback (b = −1.5, t = −5.27, p <.001). [→ Cheng-Hong Liu 2026](#cheng-hong-liu-2026)

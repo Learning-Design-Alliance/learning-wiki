@@ -15,18 +15,22 @@ sources:
     author: Jaeseo Lim and Jooyong Park
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: jaeseo-lim-and-jooyong-park-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09801-7"
     title: "Jaeseo Lim and Jooyong Park (2026). Self-study followed by discussion enhances learning for high school students. Instructional Science (2026) 54:56. https://doi.org/10.1007/s11251-026-09801-7"
     author: Jaeseo Lim and Jooyong Park
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Self-study students produced more substantive comments, a higher proportion of substantive comments, and more co-constructive turns during discussion than lecture students, though interaction-episode counts did not differ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Substantive comments per discussion group were significantly higher in the self-study condition (d = 1.21). [→ Jaeseo Lim and Jooyong Park 2026](#jaeseo-lim-and-jooyong-park-2026)

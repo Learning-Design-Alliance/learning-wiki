@@ -15,12 +15,14 @@ sources:
     author: Esther Ziegler, Dragan Trninic, Manu Kapur
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The problem-solving measure showed a significant effect in favor of I-PS (η2p = 0.76), confirming expected success for I-PS and expected failure for PS-I. [→ Esther Ziegler 2021](#esther-ziegler-2021)

@@ -15,18 +15,22 @@ sources:
     author: Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: daniel-cebrián-robles-antonio-joaquín-franco-mariscal-ángel-blanco-lópez-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9446-4"
     title: "Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López. (2018). Preservice Elementary Science Teachers' Argumentation Competence: Impact of a Training Programme. https://doi.org/10.1007/s11251-018-9446-4"
     author: Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` A 6-month transfer task showed a slight improvement for the experimental group over the control group in transferring argumentation to practice, especially in the extent to which they mentioned argumentation in their practice portfolios. [→ Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López 2018](#daniel-cebrian-robles-antonio-joaquin-franco-mariscal-angel-blanco-lopez-2018)

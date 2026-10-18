@@ -17,7 +17,7 @@ sources:
 # Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article's practical implications recommend that vocational instructors adopt blended configurations matched to task complexity. For foundational skills, "Prioritizing hands-on training and synchronized step-by-step decomposed instructional videos is crucial for the development of foundational skills"; for complicated tasks, virtual simulation platforms should use industry-standard operational videos so students can compare their work with correct procedures. Schools could also integrate practical training, virtual simulation and video resources on one platform.

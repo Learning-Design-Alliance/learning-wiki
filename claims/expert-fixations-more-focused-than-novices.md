@@ -15,12 +15,14 @@ sources:
     author: Charlotte E. Wolff, Halszka Jarodzka, Niek van den Bogert, Henny P. A. Boshuizen
     q: 3
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Expert teachers' fixations are significantly more focused (less dispersed) than novices' when viewing classroom scenes, irrespective of video type
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Novices' fixations were significantly more dispersed than experts' across all videos. [→ Charlotte E. Wolff 2016](#charlotte-e-wolff-2016)

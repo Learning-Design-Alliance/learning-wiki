@@ -15,12 +15,14 @@ sources:
     author: Jan van der Meij, Marije van Amelsvoort, Anjo Anjewierden
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Most participants self-reported studying the matrix diagram primarily by personality disorder types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 63% of participants self-reported studying the diagram primarily based on the personality disorder types, 19.8% based on categories, 13.6% based on both, and 3.7% in random order. [→ Jan van der Meij 2017](#jan-van-der-meij-2017)

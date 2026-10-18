@@ -15,18 +15,22 @@ sources:
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: tapio-rasa-2022-2
     resource: "https://doi.org/10.1007/s11251-021-09572-3"
     title: "Tapio Rasa, Elina Palmgren, Antti Laherto. (2022). Futurising science education: students' experiences from a course on futures thinking and quantum computing. Instructional Science. https://doi.org/10.1007/s11251-021-09572-3"
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The most prevalent theme (76%) was a generally broadening or pluralising perception of the future, recalling the Futures Cone and plurality of futures. [→ Tapio Rasa 2022](#tapio-rasa-2022)

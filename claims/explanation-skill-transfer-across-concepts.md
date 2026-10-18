@@ -15,12 +15,14 @@ sources:
     author: Xiaojuan Ke · Kristie J. Newton
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Written explanation skills learned in the Unit 1 intervention transferred to a different mathematical concept (functions)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Students who received Unit 1 intervention materials scored significantly higher on the Unit 2 pretest explanation part (Cohen's d = 0.424), suggesting transfer of written explanation skills across mathematical concepts. [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

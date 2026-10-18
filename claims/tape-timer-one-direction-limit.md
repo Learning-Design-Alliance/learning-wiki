@@ -15,12 +15,14 @@ sources:
     author: Jonte Bernhard
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The tape timer affords study of downward motion only, so the direction of acceleration and the acceleration at the turning point cannot be addressed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Because the cart pulls the tape through the tape timer, only downward motion can be recorded and turning-point phenomena are inaccessible. [→ Jonte Bernhard 2018](#jonte-bernhard-2018)

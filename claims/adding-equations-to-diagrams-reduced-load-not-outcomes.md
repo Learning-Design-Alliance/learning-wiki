@@ -15,12 +15,14 @@ sources:
     author: Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The Diagram + Arithmetic condition showed a significant reduction of intrinsic, extraneous, and germane cognitive load relative to Diagram alone, without better learning outcomes. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

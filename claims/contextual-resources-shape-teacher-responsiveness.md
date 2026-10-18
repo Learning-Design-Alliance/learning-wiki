@@ -15,12 +15,14 @@ sources:
     author: Ilana Seidel Horn, Yeliz Günal Aggül, Shuqin Li, Christine E. Hood
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Contextual resources shape teachers' agentic responses in challenging situations, which in turn shape their interpretations of student behavior and possibilities for responsiveness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the two cases, differently offered resources for epistemic and relational agency shaped teachers' interpretations of students' behavior and thus their possibilities for responsive teaching actions. [→ Ilana Seidel Horn 2025](#ilana-seidel-horn-2025)

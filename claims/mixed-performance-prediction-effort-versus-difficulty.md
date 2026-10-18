@@ -15,12 +15,14 @@ sources:
     author: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The predictive value of cognitive load ratings for problem performance was mixed: mental effort predicted performance in Experiment 1, perceived difficulty in Experiment 2, but never both at once
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Experiment 1, immediate and delayed mental effort ratings significantly predicted performance while difficulty ratings did not; in Experiment 2 this pattern reversed. [→ Schmeck 2015](#schmeck-2015)

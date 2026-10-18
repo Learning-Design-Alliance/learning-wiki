@@ -17,6 +17,7 @@ sources:
 # Citizen science as a context for concurrently fostering statistical, scientific and NOS reasoning
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article positions citizen science as a pedagogical design pattern in which learners engage in authentic scientific practices, including data analysis, while learning scientific content. It states: 'The context of Citizen Science is particularly suited for this goal, providing a unique pedagogical opportunity for learning scientific content by engaging learners in authentic scientific practices, including data analysis.' The Radon Citizen Science Project learning sequence operationalized this pattern.

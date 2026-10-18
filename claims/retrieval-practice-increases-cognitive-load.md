@@ -15,12 +15,14 @@ sources:
     author: "Redifer, J. L., Myers, S. J., Bae, C. L., Naas, A., & Scott, A."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval practice conditions produced significantly higher cognitive load than rereading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Cognitive load was significantly lower in the rereading condition than in each of the three retrieval practice conditions, with effect sizes from d = 0.52 to d = 0.79. [→ Redifer 2026](#redifer-2026)

@@ -15,18 +15,22 @@ sources:
     author: Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020-2
     resource: "https://doi.org/10.1007/s11251-020-09523-4"
     title: "Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle. (2020). Example-based learning: should learners receive closed-book or open-book self-explanation prompts? Instructional Science. https://doi.org/10.1007/s11251-020-09523-4"
     author: Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Contrary to hypothesis 3b, Experiment 2 did not find closed-book prompts superior on a delayed posttest when learners had received active processing prompts beforehand. [→ Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle 2020](#sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020)

@@ -15,18 +15,22 @@ sources:
     author: Manu Kapur, Nikol Rummel
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: manu-kapur-2012-2
     resource: "https://doi.org/10.1007/s11251-012-9235-4"
     title: "Manu Kapur, Nikol Rummel. (2012). Productive failure in learning from generation and invention activities. Instr Sci 40:645-650. https://doi.org/10.1007/s11251-012-9235-4"
     author: Manu Kapur, Nikol Rummel
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Guided-invention students invented methods with more conceptual features and ranked datasets more accurately than unguided-invention students, though mathematical expression quality was not improved. [→ Manu Kapur 2012](#manu-kapur-2012)

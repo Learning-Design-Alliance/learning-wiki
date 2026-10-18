@@ -15,18 +15,22 @@ sources:
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: hanna-grimm-peter-a-edelsbrunner-kornelia-möller-2023-2
     resource: "https://doi.org/10.1007/s11251-022-09601-9"
     title: "Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller. (2023). Accommodating heterogeneity: the interaction of instructional scaffolding with student preconditions in the learning of hypothesis-based reasoning. Instructional Science. https://doi.org/10.1007/s11251-022-09601-9"
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prior knowledge significantly predicted posttest reasoning from irrelevant events in the control condition (F = 4.39, p < 0.001) but not in the experimental condition (F = 0.4, p = 0.054). [→ Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023](#hanna-grimm-peter-a-edelsbrunner-kornelia-moller-2023)

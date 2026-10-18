@@ -15,18 +15,22 @@ sources:
     author: Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: maaike-e-prangsma-2008-2
     resource: "https://doi.org/10.1007/s11251-007-9026-5"
     title: "Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar. (2008). Developing a 'big picture': Effects of collaborative construction of multimodal representations in history. Instructional Science. https://doi.org/10.1007/s11251-007-9026-5"
     author: Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In each condition pupils' scores increased significantly from pre-test to post-test and from pre-test to retention test (p = .00). [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

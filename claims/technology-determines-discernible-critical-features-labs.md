@@ -15,12 +15,14 @@ sources:
     author: Jonte Bernhard
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # What is possible for students to perceive or discern in a laboratory depends on the measurement technology used, even when the object of learning is the same
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A phenomenological affordance analysis of three labs studying the same motion in an inclined plane confirms that what is possible to perceive or discern depends on the technology used. [→ Jonte Bernhard 2018](#jonte-bernhard-2018)

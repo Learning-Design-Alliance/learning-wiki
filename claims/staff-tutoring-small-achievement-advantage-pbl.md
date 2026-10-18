@@ -15,12 +15,14 @@ sources:
     author: "Schmidt, H., van der Arend, A., Kokx, I. & Boon, L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students guided by staff tutors received somewhat higher course marks than students guided by peer tutors; the difference was statistically significant but small in practical terms. [→ Schmidt 1995](#schmidt-1995)

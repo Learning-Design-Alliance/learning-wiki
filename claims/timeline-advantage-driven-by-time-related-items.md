@@ -15,12 +15,14 @@ sources:
     author: Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The Timeline condition's advantage was concentrated in time-related test items and disappeared in the long run
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the 11 time-related questions, only the Text–Timeline contrast was significant at post-test (mean difference 1.45, p = .01); non-time-related questions showed no significant differences between conditions. [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

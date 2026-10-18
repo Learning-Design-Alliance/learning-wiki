@@ -15,12 +15,14 @@ sources:
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # After the futures-and-quantum-computing course, upper-secondary students reported a more optimistic or hopeful outlook on the future
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students self-reported a generally more optimistic outlook or mitigation of previous fears after the course (theme identified in 52% of interviews). [→ Tapio Rasa 2022](#tapio-rasa-2022)

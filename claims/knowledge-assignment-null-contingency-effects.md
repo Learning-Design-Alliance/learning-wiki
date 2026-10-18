@@ -15,12 +15,14 @@ sources:
     author: "van de Pol, J., Volman, M., Oort, F., & Beishuizen, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # On the knowledge assignment, neither the occasion-by-contingency interaction nor the three-way interaction with independent working time was significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The hypothesized contingency effect on knowledge assignment scores was not confirmed; interactions were non-significant, with and without task effort as covariate. [→ van de Pol 2015](#van-de-pol-2015)

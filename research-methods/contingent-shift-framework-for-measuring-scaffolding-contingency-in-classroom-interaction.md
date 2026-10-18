@@ -12,6 +12,7 @@ generated:
 # Contingent shift framework for measuring scaffolding contingency in classroom interaction
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The contingent shift framework, based on Wood et al. (1978), operationalizes scaffolding as the tailored adaptation of the degree of control in teacher support to a student's demonstrated understanding. The article states: "If a teacher used more control after a student’s demonstration of poor understanding and less control after a student’s demonstration of good understanding, we labelled the support contingent." Teacher turns are coded for degree of control from zero to five, student turns for demonstrated understanding, and contingency is scored as the percentage of contingent three-turn sequences per teacher. The article uses this framework as the measure of support quality in its classroom experiment.

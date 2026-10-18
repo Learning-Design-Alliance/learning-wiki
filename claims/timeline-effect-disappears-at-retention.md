@@ -15,18 +15,22 @@ sources:
     author: Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: maaike-e-prangsma-2008-2
     resource: "https://doi.org/10.1007/s11251-007-9026-5"
     title: "Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar. (2008). Developing a 'big picture': Effects of collaborative construction of multimodal representations in history. Instructional Science. https://doi.org/10.1007/s11251-007-9026-5"
     author: Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The post-test advantage of the Timeline condition did not endure: retention-test scores did not differ between conditions (F(2, 78) = .43, p = .65). [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

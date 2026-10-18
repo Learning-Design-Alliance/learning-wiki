@@ -15,12 +15,14 @@ sources:
     author: Marieke de Wijse-van Heeswijk, Etienne A. J. A. Rouwette, Sander V. Meijerink
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # In an open simulation game, third-order interventions effectively evoked third-order responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In the open SG, 66 TOL interventions co-occurred 59 times with TOL responses (105 total TOL responses), which the authors read as TOL interventions effectively evoking TOL responses. [→ Marieke de Wijse-van Heeswijk 2025](#marieke-de-wijse-van-heeswijk-2025)

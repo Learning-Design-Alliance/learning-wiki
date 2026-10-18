@@ -15,18 +15,22 @@ sources:
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
   - id: peter-seban-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09686-4"
     title: "Peter Seban, Kamila Urban, Radovan Sikl. (2025). Comparing the effectiveness of multiple text reading and rereading on knowledge retention and metacognitive accuracy. Instructional Science, 53, 337–364. https://doi.org/10.1007/s11251-024-09686-4"
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Rereading raises judgements of learning after each reading while multiple text reading raises them only after the second reading (significant interaction, ηp2 = 0.07)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` A significant interaction between time-point of JOL measurement and reading approach (F(2, 244) = 9.54, p < 0.001, ηp2 = 0.07), with significant main effects of time-point (η2 = 0.22) and approach (ηp2 = 0.04). [→ Peter Seban 2025](#peter-seban-2025)

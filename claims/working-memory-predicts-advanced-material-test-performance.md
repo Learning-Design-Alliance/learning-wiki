@@ -15,12 +15,14 @@ sources:
     author: "Redifer, J. L., Myers, S. J., Bae, C. L., Naas, A., & Scott, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Higher working memory capacity was associated with better final test performance on advanced materials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The direct path from working memory to final test performance was positive and significant in the mediation model. [→ Redifer 2026](#redifer-2026)

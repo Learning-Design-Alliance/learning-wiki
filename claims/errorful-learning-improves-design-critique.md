@@ -15,12 +15,14 @@ sources:
     author: Sarah Shi Hui Wong
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Both errorful learning methods improve design critique (understanding the indeterminacy of invalid experiments) equally, outperforming errorless practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Spot-explain-fix and derr-explain-fix both outperformed errorless practice on the design critique test (both ds = 0.37) and did not differ from each other. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

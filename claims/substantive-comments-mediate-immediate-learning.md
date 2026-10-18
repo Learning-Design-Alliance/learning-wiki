@@ -15,18 +15,22 @@ sources:
     author: Jaeseo Lim and Jooyong Park
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jaeseo-lim-and-jooyong-park-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09801-7"
     title: "Jaeseo Lim and Jooyong Park (2026). Self-study followed by discussion enhances learning for high school students. Instructional Science (2026) 54:56. https://doi.org/10.1007/s11251-026-09801-7"
     author: Jaeseo Lim and Jooyong Park
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The indirect effect of condition on immediate learning through substantive comments was significant (ab = 1.73, 95% CI [0.46, 3.38]), indicating partial mediation. [→ Jaeseo Lim and Jooyong Park 2026](#jaeseo-lim-and-jooyong-park-2026)

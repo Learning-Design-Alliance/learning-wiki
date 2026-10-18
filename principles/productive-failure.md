@@ -31,7 +31,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (5 for, 5 mixed, 3 against, 1 unmarked) · 14 studies (6 causal, 4 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 5 of 14 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (8 for, 6 mixed, 4 against, 1 unmarked) · 17 studies (8 causal, 5 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 7 of 17 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 

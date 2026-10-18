@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1768 entries** · 0 stable · 1768 in review · 0 drafts
+**1770 entries** · 0 stable · 1770 in review · 0 drafts
 
 ---
 
@@ -318,6 +318,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Corpus of nine empirical studies of collaborative learning for AI literacy (2015-2023)](corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023.md) - A Hingle (2024) corpus compiling nine empirical studies of collaborative learning for AI literacy identified through PRISMA screening across major scholarly databases.
 * [Corrective Reading](corrective-reading.md) - Corrective Reading is a scripted, structured reading intervention curriculum for upper-elementary struggling readers, focused on phonics, fluency, and comprehension.
 * [Cortex](cortex.md) - Cortex is a proprietary platform developed by Cortex Global that uses handwritten-response recognition and mark-scheme-aligned automated grading to assess complex upper-secondary STEM answers and provide annotated feedback.
+* [CoRubric](corubric.md) - CoRubric is a free online e-rubric tool developed by the study authors for managing peer, self, and teacher assessment with criteria, scores, notes, comments, and exportable results.
 * [CoTrack](cotrack.md) - CoTrack is a web-based multimodal collaboration analytics tool developed by Reet Kasepalu and colleagues that gives teachers mirrored collaboration data and model-based alerts and guidance for improving group-work quality.
 * [Course-specific MAP Growth Mathematics tests](course-specific-map-growth-mathematics-tests.md) - A suite of NWEA course-specific computerized adaptive interim mathematics assessments for Algebra 1, Geometry, and Algebra 2, aligned to NWEA, Common Core, or state standards and reported on the RIT scale.
 * [CourseBlueprint](courseblueprint.md) - CourseBlueprint is a retrieval-augmented course-blueprint and instructional-video generation pipeline developed by Md Zabirul Islam et al.
@@ -1707,6 +1708,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [UNESCO AI Competency Framework for Teachers](unesco-ai-competency-framework-for-teachers.md) - A UNESCO framework specifying 15 AI-related teacher competencies across five dimensions to guide national competency frameworks and teacher training programmes.
 * [UNESCO Recommendation on the Ethics of Artificial Intelligence](unesco-recommendation-on-the-ethics-of-artificial-intelligence.md) - A UNESCO global standard-setting framework that provides ethical principles and policy guidance for governments, educators, learners, and other stakeholders implementing and governing artificial intelligence.
 * [UNESCO's eight-component GenAI framework](unescos-eight-component-genai-framework.md) - A UNESCO framework for evaluating whether generative-AI policies address ethical governance, inclusion, equity, access, gender, sustainability, and related responsible-use considerations in education.
+* [UNIPS](unips.md) - UNIPS is a Finnish national online platform developed collaboratively by eight universities to provide self-study and guided short modules in university pedagogy for university staff and doctoral students.
 * [Universal Design for Learning (UDL) framework](universal-design-for-learning-udl-framework.md) - CAST's framework for designing flexible instruction around learner variability through multiple means of Engagement, Representation, and Action & Expression.
 * [University of Central Florida Center for Community Schools certification system for the Community Partnership Schools model](university-of-central-florida-center-for-community-schools-certification-system-for-the-co.md) - A UCF Center for Community Schools certification and technical-assistance programme that helps Florida schools implement and demonstrate fidelity to the Community Partnership Schools model through standards, self-assessment, coaching, mentoring, and external review.
 * [University of Virginia Partnership for Leaders in Education turnaround competency model](university-of-virginia-partnership-for-leaders-in-education-turnaround-competency-model.md) - A seven-competency, four-level proficiency framework developed by the University of Virginia Partnership for Leaders in Education to assess and develop school leaders in turnaround contexts.

@@ -15,18 +15,22 @@ sources:
     author: Esther Ziegler, Dragan Trninic, Manu Kapur
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: esther-ziegler-2021-2
     resource: "https://doi.org/10.1007/s11251-021-09544-7"
     title: "Esther Ziegler, Dragan Trninic, Manu Kapur. (2021). Micro productive failure and the acquisition of algebraic procedural knowledge. Instructional Science 49, 313–336. https://doi.org/10.1007/s11251-021-09544-7"
     author: Esther Ziegler, Dragan Trninic, Manu Kapur
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` On practice problems during instruction, PS-I significantly outperformed I-PS (η2p = 0.10). [→ Esther Ziegler 2021](#esther-ziegler-2021)

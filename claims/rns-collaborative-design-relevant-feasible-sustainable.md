@@ -15,12 +15,14 @@ sources:
     author: Joke Voogt, Therese Laferrière, Alain Breuleux, Rebecca C. Itow, Daniel T. Hickey, Susan McKenney
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Based on multi-iteration design-based research results, the article concludes teacher collaborative design in the RNS initiative proved relevant, feasible, and sustainable. [→ Joke Voogt 2015](#joke-voogt-2015)

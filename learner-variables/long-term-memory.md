@@ -12,7 +12,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (50 show a difference, 15 mixed, 7 no difference) · 49 studies (18 causal, 12 review, 11 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 20 of 49 report an effect size · 65 claims rest on one study
+> **Evidence** · 75 claims (51 show a difference, 17 mixed, 7 no difference) · 52 studies (21 causal, 12 review, 11 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 21 of 52 report an effect size · 68 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.

@@ -15,12 +15,14 @@ sources:
     author: Mads Solberg, Charlott Sellberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Debriefing analysis and application phases operate as distributed metacognition on the publicly shared account
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Thinking about thinking in the analysis and application phases emerges through interaction, moving between participants as they identify and evaluate performance gaps. [→ Mads Solberg 2025](#mads-solberg-2025)

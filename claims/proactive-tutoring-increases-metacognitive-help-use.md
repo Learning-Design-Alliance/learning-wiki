@@ -15,12 +15,14 @@ sources:
     author: "Bruno De Lièvre, Christian Depover & Pierre Dillenbourg"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Learners in the pro-active tutoring condition activated the metacognitive help significantly more than learners in the reactive condition (F=92.33, p=0.000). [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

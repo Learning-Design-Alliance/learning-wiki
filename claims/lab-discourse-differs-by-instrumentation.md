@@ -15,18 +15,22 @@ sources:
     author: Jonte Bernhard
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: jonte-bernhard-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9469-x"
     title: "Jonte Bernhard. (2018). What matters for students' learning in the laboratory? Do not neglect the role of experimental equipment! Instructional Science. https://doi.org/10.1007/s11251-018-9469-x"
     author: Jonte Bernhard
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' courses of action differed by instrumentation: photogate and tape-timer groups centred on numbers and dots with motion concepts rare, while probeware groups centred on motion concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Video analysis of the three labs shows discourse focused on reading numbers (photogates), interpreting dots (tape timer) or making sense of position, velocity and acceleration (probeware). [→ Jonte Bernhard 2018](#jonte-bernhard-2018)

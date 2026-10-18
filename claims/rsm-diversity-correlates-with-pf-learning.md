@@ -15,12 +15,14 @@ sources:
     author: Manu Kapur, Nikol Rummel
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Diversity of student-generated representations and solution methods is significantly correlated with learning from PF
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The diversity of student-generated RSMs significantly correlates with how much students learn from productive failure. [→ Manu Kapur 2012](#manu-kapur-2012)

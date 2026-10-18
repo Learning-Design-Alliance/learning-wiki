@@ -15,18 +15,22 @@ sources:
     author: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: schmeck-2015-2
     resource: "https://doi.org/10.1007/s11251-014-9328-3"
     title: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D. (2015). Measuring cognitive load with subjective rating scales during problem solving: differences between immediate and delayed ratings. Instructional Science, 43, 93–114. https://doi.org/10.1007/s11251-014-9328-3"
     author: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D."
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # A single delayed cognitive load rating after a problem sequence is significantly higher than the average of immediate ratings for both mental effort and perceived difficulty (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` In Experiment 1, delayed mental effort ratings were significantly higher than the average of the six immediate ratings (d = 0.85). [→ Schmeck 2015](#schmeck-2015)

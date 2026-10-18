@@ -15,24 +15,30 @@ sources:
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: 3
+    kind: causal
+    rigour: 3
   - id: peter-seban-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09686-4"
     title: "Peter Seban, Kamila Urban, Radovan Sikl. (2025). Comparing the effectiveness of multiple text reading and rereading on knowledge retention and metacognitive accuracy. Instructional Science, 53, 337–364. https://doi.org/10.1007/s11251-024-09686-4"
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
   - id: peter-seban-2025-3
     resource: "https://doi.org/10.1007/s11251-024-09686-4"
     title: "Peter Seban, Kamila Urban, Radovan Sikl. (2025). Comparing the effectiveness of multiple text reading and rereading on knowledge retention and metacognitive accuracy. Instructional Science, 53, 337–364. https://doi.org/10.1007/s11251-024-09686-4"
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A significant main effect of reading approach on the bias index (F(2, 180) = 14.54, p < 0.001, ηp2 = 0.14) and a significant interaction with time of test (F(2,180) = 4.44, p = 0.013, ηp2 = 0.05). [→ Peter Seban 2025](#peter-seban-2025)

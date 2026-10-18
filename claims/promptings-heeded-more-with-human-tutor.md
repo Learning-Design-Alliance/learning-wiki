@@ -15,12 +15,14 @@ sources:
     author: "Bruno De Lièvre, Christian Depover & Pierre Dillenbourg"
     q: 2
     i: 3
+    kind: causal
+    rigour: "?"
 ---
 
 # Learners heed proactive promptings more systematically when a human tutor is accessible than when it is not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r?` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` For lexical help, the correlation between promptings and activations was significant with pro-active HT tutoring (r=0.489, p=0.001) but not with pro-active CT tutoring (r=0.012, NS 0.860). [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

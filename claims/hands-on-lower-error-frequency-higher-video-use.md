@@ -15,18 +15,22 @@ sources:
     author: Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: zhanyong-qi-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09793-4"
     title: "Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang. (2026). The effect of blended learning approaches on vocational school students' practical skills performance and learning behaviors: virtual simulations or hands-on activities while accessing instructional videos. Instructional Science. https://doi.org/10.1007/s11251-026-09793-4"
     author: Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Hands-on activity groups show fewer erroneous operations than correct ones, and hands-on with video review students use video more than virtual simulation peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Behavior frequency counts showed erroneous operations occurred less frequently than correct operations within the hands-on activity groups, reversing the virtual simulation pattern. [→ Zhanyong Qi 2026](#zhanyong-qi-2026)

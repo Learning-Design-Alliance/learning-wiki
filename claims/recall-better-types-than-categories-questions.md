@@ -15,12 +15,14 @@ sources:
     author: Jan van der Meij, Marije van Amelsvoort, Anjo Anjewierden
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Post-test recall was better on type-focused than category-focused questions regardless of diagram condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Type of header content significantly affected scores on type-focused questions but not category-focused questions; arrow orientation had no significant effect on either. [→ Jan van der Meij 2017](#jan-van-der-meij-2017)

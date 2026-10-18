@@ -17,7 +17,7 @@ sources:
 # Prefer distributing study across days with varied but congruent texts, and treat repeated rereading of one text with caution because it inflates confidence without durable gains
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 3 studies (2 causal, 1 review), `q3` · 1 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 This strategy follows from the article's own findings: distributing reading over three days — whether by reading three different congruent texts or by rereading one — produced significantly better one-week retention than a single reading, while the single-reading group's representation faded over a week. The article also warns that rereading inflates confidence: its participants were overconfident, whereas multiple text readers were "underconfident about the knowledge they acquired". Learners and instructors should therefore favour spaced sessions with additional varied sources when available, and not rely on the felt ease of rereading as a signal of mastery.

@@ -15,12 +15,14 @@ sources:
     author: Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # At the end of the programme, the trained experimental group differed significantly from the control group in argumentation competence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Post-test Mann–Whitney U comparisons ratified that results obtained at the end of the training programme differed significantly between the experimental and control groups. [→ Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López 2018](#daniel-cebrian-robles-antonio-joaquin-franco-mariscal-angel-blanco-lopez-2018)

@@ -15,12 +15,14 @@ sources:
     author: "Schmidt, H., van der Arend, A., Kokx, I. & Boon, L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Peer tutors evaluated the group's functioning more extensively than staff tutors, and this behavior declined over curriculum years for both
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Peer tutors evaluated the group's functioning more extensively than staff tutors; for this behavior the rating declined over the years for both tutor types, with no interaction effect. [→ Schmidt 1995](#schmidt-1995)

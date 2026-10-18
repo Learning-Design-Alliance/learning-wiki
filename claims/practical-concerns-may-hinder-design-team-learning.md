@@ -15,12 +15,14 @@ sources:
     author: Joke Voogt, Therese Laferrière, Alain Breuleux, Rebecca C. Itow, Daniel T. Hickey, Susan McKenney
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Research agenda flags that practical concerns may dominate design-team discussion and hinder teacher learning, and that external priorities need further inquiry
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article reports that a small-scale study suggests practical concerns dominate discussion in design teams and may hinder teacher learning, and that how external priorities impact teacher learning through collaborative design requires further collaborative inquiry. [→ Joke Voogt 2015](#joke-voogt-2015)

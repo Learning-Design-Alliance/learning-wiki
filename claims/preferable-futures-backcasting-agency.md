@@ -15,12 +15,14 @@ sources:
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students expressed that imagination prompts action — values rather than short-term evaluation inspire agency (theme in 43% of interviews). [→ Tapio Rasa 2022](#tapio-rasa-2022)

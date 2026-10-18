@@ -15,12 +15,14 @@ sources:
     author: "Redifer, J. L., Myers, S. J., Bae, C. L., Naas, A., & Scott, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Relationships between individual differences and final test performance were nonsignificant in retrieval practice conditions but significant in the rereading condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Correlations of both working memory and self-efficacy with final test performance were positive and significant only in the rereading condition and not significant in any retrieval condition. [→ Redifer 2026](#redifer-2026)

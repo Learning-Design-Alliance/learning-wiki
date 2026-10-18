@@ -15,12 +15,14 @@ sources:
     author: Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In inquiry learning of combinatorics, learners given a Text + Arithmetic representation outperformed learners given tree diagrams on total post-test scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Participants in the Text + Arithmetic condition outperformed participants in the Diagram condition and the Diagram + Arithmetic condition on total post-test scores. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

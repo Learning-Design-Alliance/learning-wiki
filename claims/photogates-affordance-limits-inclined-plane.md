@@ -15,12 +15,14 @@ sources:
     author: Jonte Bernhard
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Photogates do not determine the sign of velocity, cannot show zero velocity with non-zero acceleration at the turning point, and afford the Δv/Δx rather than the Δv/Δt definition of acceleration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the photogate lab, only speed and not the sign of velocity is directly determined, the equipment cannot provide data showing zero velocity but non-zero acceleration at the turning point, and Δv/Δx is afforded while Δv/Δt is not. [→ Jonte Bernhard 2018](#jonte-bernhard-2018)

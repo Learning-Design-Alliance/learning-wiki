@@ -15,12 +15,14 @@ sources:
     author: Maaike E. Prangsma, Carla A. M. Van Boxtel, Gellof Kanselaar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Visual condition's post-test means were 1.75 points higher than the Text condition's, but the difference was not significant (p = .58). [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

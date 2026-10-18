@@ -17,7 +17,7 @@ sources:
 # Combine element identification, rubric design, peer assessment and role-playing on socio-scientific issues to train argumentation competence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The training programme combined four strategies to help improve PESTs' argumentative competence: identification of the essential elements in a written argument, designing evaluation rubrics based on a basic rubric, peer assessment with and without rubrics, and role-playing to promote argumentation on socio-scientific issues. The article presents this combination as the new perspective of the proposal, since it combines peer assessment with specific activities on argumentation, creating a rich educational framework in which PESTs were offered different opportunities, through contexts and contents, to enhance their argumentation competence.

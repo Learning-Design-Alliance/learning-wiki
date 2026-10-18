@@ -15,12 +15,14 @@ sources:
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Students reported acquiring new futures thinking skills (scenario building, backcasting) that systematised their thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The theme of new futures thinking skills systematising thinking appeared in 76% of interviews; students valued concrete thinking tools such as the Futures Cone and backcasting. [→ Tapio Rasa 2022](#tapio-rasa-2022)

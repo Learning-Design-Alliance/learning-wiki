@@ -15,18 +15,22 @@ sources:
     author: Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bas-kolloffel-2009-2
     resource: "https://doi.org/10.1007/s11251-008-9056-7"
     title: "Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm. (2009). The effects of representational format on learning combinatorics from an interactive computer simulation. Instr Sci 37:503–517. https://doi.org/10.1007/s11251-008-9056-7"
     author: Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Representational format produced no significant differences in conceptual or situational knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No main effect of format was found on conceptual knowledge. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

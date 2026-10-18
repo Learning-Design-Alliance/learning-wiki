@@ -15,12 +15,14 @@ sources:
     author: "van de Pol, J., Volman, M., Oort, F., & Beishuizen, J."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Average independent working time per group increased significantly more in the scaffolding condition than in the nonscaffolding condition, with a large effect size. [→ van de Pol 2015](#van-de-pol-2015)

@@ -15,12 +15,14 @@ sources:
     author: Henna Vilppu, Ilona Södervik, Liisa Postareff, Mari Murtonen
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # After the short online courses, fourteen respondents changed their interpretations of a content-focused teaching video
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Fourteen respondents changed their interpretations concerning the second video, which depicted a content-focused teacher sidestepping a student’s question. [→ Henna Vilppu 2019](#henna-vilppu-2019)

@@ -15,12 +15,14 @@ sources:
     author: Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant main effect of representational format on procedural knowledge was found, with Text + Arithmetic outperforming Diagram and Diagram + Arithmetic. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

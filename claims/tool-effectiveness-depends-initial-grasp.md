@@ -15,12 +15,14 @@ sources:
     author: Ming Fai Pang, Ference Marton
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` One set of pedagogical tools was highly effective for learners with a better initial grasp of the object of learning, another set was equally effective for learners with a weaker initial grasp, and both sets were equally ineffective when used for the wrong group of learners. [→ Ming Fai Pang 2013](#ming-fai-pang-2013)

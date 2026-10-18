@@ -15,12 +15,14 @@ sources:
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students perceived the future as more unpredictable after the course, often finding the openness liberating rather than distressing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students reported knowing "even less" about the future in a positive sense — that anything can happen (theme in 24% of interviews). [→ Tapio Rasa 2022](#tapio-rasa-2022)

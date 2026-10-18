@@ -15,12 +15,14 @@ sources:
     author: "Guba, T.-P., Barbieri, C. A., Jansen, A., & Morris, A."
     q: 2
     i: 2
+    kind: causal
+    rigour: "?"
 ---
 
 # Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Preservice teachers provided with a correct and complete exemplar of a fraction magnitude comparison showed greater improvements in their explanations than those who studied example explanations displaying common misconceptions and errors, with Hedges' g ranging from 0.64 to 0.95 across the three comparison tasks. [→ Guba 2026](#guba-2026)

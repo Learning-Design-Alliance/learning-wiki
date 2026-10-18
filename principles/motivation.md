@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (35 for, 17 mixed, 4 against) · 61 studies (19 review, 13 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 5 associational, 3 design), `q1`–`q4` · 7 of 61 report an effect size · 42 claims rest on one study
+> **Evidence** · 57 claims (35 for, 18 mixed, 4 against) · 62 studies (19 review, 14 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 5 associational, 3 design), `q1`–`q4` · 7 of 62 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 

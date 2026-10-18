@@ -15,18 +15,22 @@ sources:
     author: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: schmeck-2015-2
     resource: "https://doi.org/10.1007/s11251-014-9328-3"
     title: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D. (2015). Measuring cognitive load with subjective rating scales during problem solving: differences between immediate and delayed ratings. Instructional Science, 43, 93–114. https://doi.org/10.1007/s11251-014-9328-3"
     author: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # The delayed-higher-than-immediate difference for cognitive load ratings replicates regardless of whether problem complexity increases or decreases across the sequence (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` In Experiment 2's increasing-complexity group, delayed mental effort (d = 0.88) and perceived difficulty (d = 0.81) ratings exceeded immediate averages. [→ Schmeck 2015](#schmeck-2015)

@@ -15,12 +15,14 @@ sources:
     author: Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Generated self-explanations mediate the immediate posttest advantage of open-book over closed-book prompts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In groups without active processing prompts, the number of generated self-explanations mediated the advantage of open-book prompts on immediate posttest performance. [→ Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle 2020](#sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020)

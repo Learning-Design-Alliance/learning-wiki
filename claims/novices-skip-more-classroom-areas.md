@@ -15,18 +15,22 @@ sources:
     author: Charlotte E. Wolff, Halszka Jarodzka, Niek van den Bogert, Henny P. A. Boshuizen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
   - id: charlotte-e-wolff-2016-2
     resource: "https://doi.org/10.1007/s11251-016-9367-z"
     title: "Charlotte E. Wolff, Halszka Jarodzka, Niek van den Bogert, Henny P. A. Boshuizen. (2016). Teacher vision: expert and novice teachers' perception of problematic classroom management scenes. Instr Sci 44:243-265. https://doi.org/10.1007/s11251-016-9367-z"
     author: Charlotte E. Wolff, Halszka Jarodzka, Niek van den Bogert, Henny P. A. Boshuizen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In all four videos novices skipped more AOIs than experts; there were no instances where the majority of experts skipped more AOIs. [→ Charlotte E. Wolff 2016](#charlotte-e-wolff-2016)

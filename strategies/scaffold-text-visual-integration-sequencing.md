@@ -17,7 +17,7 @@ sources:
 # Scaffold cross-representational integration by sequencing discussion of pictures with concepts from the text before ordering them
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the dialogue analyses, the article proposes that task design determines whether pupils actively relate text and visuals. Task 1 appeared to "stimulated active integration more strongly because the integration was scaffolded more: first the pictures are discussed using historical concepts from the text, and then the pictures are put in the correct order". Both activities require relating textual information (concepts, causal and temporal relations) to visual information. Tasks where guiding questions make connecting text to image unnecessary elicited far fewer integrative utterances.

@@ -15,12 +15,14 @@ sources:
     author: "Guba, T.-P., Barbieri, C. A., Jansen, A., & Morris, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Correct exemplars supported greater detection and correction of errors and omissions in explanations than a list of steps focused on structural aspects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Preservice teachers who studied a fully correct and complete exemplar detected and corrected more errors and omissions in their own explanations than those given a list of steps outlining what a correct and complete explanation should include. [→ Guba 2026](#guba-2026)

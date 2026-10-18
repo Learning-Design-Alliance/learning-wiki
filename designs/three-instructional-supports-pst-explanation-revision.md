@@ -17,6 +17,7 @@ sources:
 # Three instructional supports for scaffolding preservice teachers' revision of mathematical explanations
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes and tests three distinct supports for provoking revision of fraction comparison explanations: correct examples, defining features, and error reflection. As printed, "PSTs were randomly assigned to one of three instructional support conditions to scaffold their analysis and revision of their explanations for fraction comparisons." Correct examples provided a complete, correct explanation with a fraction-strip diagram; defining features provided "a list of steps on how to completely explain the fraction comparison" without the answer or visual; error reflection presented a fictitious student's explanation with one incorrect component and one omission. The framework links revision thinking to metacognitive monitoring and calibration.

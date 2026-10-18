@@ -15,12 +15,14 @@ sources:
     author: Joke Voogt, Therese Laferrière, Alain Breuleux, Rebecca C. Itow, Daniel T. Hickey, Susan McKenney
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In the Ethiopian TDT study, novice teachers performed as well as facilitators in designing communicative English lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Findings from the Ethiopian study showed novice teachers performed as well as facilitators, despite factors hindering teacher learning in the first cycle. [→ Joke Voogt 2015](#joke-voogt-2015)

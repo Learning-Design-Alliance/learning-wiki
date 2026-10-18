@@ -15,18 +15,22 @@ sources:
     author: Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: daniel-cebrián-robles-antonio-joaquín-franco-mariscal-ángel-blanco-lópez-2018-2
     resource: "https://doi.org/10.1007/s11251-018-9446-4"
     title: "Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López. (2018). Preservice Elementary Science Teachers' Argumentation Competence: Impact of a Training Programme. https://doi.org/10.1007/s11251-018-9446-4"
     author: Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Preservice elementary science teachers who completed the argumentation training programme made significant pre-to-post gains across the three argument elements and overall argumentative performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Wilcoxon tests showed significant differences between pre-test and post-test in the experimental group in the three elements of an argument and overall performance for the tree growth activity, and similar significant differences for the water purity activity. [→ Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López 2018](#daniel-cebrian-robles-antonio-joaquin-franco-mariscal-angel-blanco-lopez-2018)

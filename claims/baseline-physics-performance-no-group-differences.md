@@ -15,12 +15,14 @@ sources:
     author: "Lim, S., Jung, J. Y., & Kalyuga, S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The four experimental conditions did not differ in self-reported prior physics performance at baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` A one-way ANOVA on self-reported physics performance found no observable differences between the experimental groups, F (3, 195) = 1.35, p = .227; no effect size is printed. [→ Lim 2023](#lim-2023)

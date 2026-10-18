@@ -15,12 +15,14 @@ sources:
     author: "Bruno De Lièvre, Christian Depover & Pierre Dillenbourg"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners use navigational help less when a human tutor is accessible, contradicting the expected direction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Activations of the navigational help were significantly lower when an HT tutor was accessible (F=6.490, p=0.011), with no proactivity or interaction effect. [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

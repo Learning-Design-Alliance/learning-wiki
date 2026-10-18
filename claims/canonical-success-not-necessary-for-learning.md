@@ -15,12 +15,14 @@ sources:
     author: Manu Kapur, Nikol Rummel
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Across the four studies, RSM generation processes may not lead to canonical solutions yet can still be germane for learning; success on the canonical solution is not considered necessary for learning. [→ Manu Kapur 2012](#manu-kapur-2012)

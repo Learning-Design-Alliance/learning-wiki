@@ -15,18 +15,22 @@ sources:
     author: Sarah Shi Hui Wong
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
   - id: sarah-shi-hui-wong-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09819-x"
     title: "Sarah Shi Hui Wong. (2026). Deliberate erring improves scientific reasoning: Learning experimentation skills by intentionally designing invalid experiments. Instructional Science. https://doi.org/10.1007/s11251-026-09819-x"
     author: Sarah Shi Hui Wong
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Both errorful learning methods (self- and other-generated invalid designs) improve near transfer of experimental design principles more than errorless practice, and self-generated deliberate errors yield the best near transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i1` Spot-explain-fix and derr-explain-fix produced better near transfer than errorless practice, with d = 0.30 and d = 0.76 respectively. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

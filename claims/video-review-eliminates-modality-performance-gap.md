@@ -15,18 +15,22 @@ sources:
     author: Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: zhanyong-qi-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09793-4"
     title: "Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang. (2026). The effect of blended learning approaches on vocational school students' practical skills performance and learning behaviors: virtual simulations or hands-on activities while accessing instructional videos. Instructional Science. https://doi.org/10.1007/s11251-026-09793-4"
     author: Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Video review enhances practical skill performance in both modalities and eliminates the hands-on versus virtual simulation difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` ANCOVA revealed significant main effects of operation type (ηp2 = 0.070) and video review (ηp2 = 0.120) on learning performance, plus a significant interaction effect (ηp2 = 0.047). [→ Zhanyong Qi 2026](#zhanyong-qi-2026)

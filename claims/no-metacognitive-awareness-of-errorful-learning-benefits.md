@@ -15,12 +15,14 @@ sources:
     author: Sarah Shi Hui Wong
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The three groups did not differ in perceived competence, JOL+ ratings, or post-test method effectiveness ratings. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

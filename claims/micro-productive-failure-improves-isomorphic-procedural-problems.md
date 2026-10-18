@@ -15,18 +15,22 @@ sources:
     author: Esther Ziegler, Dragan Trninic, Manu Kapur
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: esther-ziegler-2021-2
     resource: "https://doi.org/10.1007/s11251-021-09544-7"
     title: "Esther Ziegler, Dragan Trninic, Manu Kapur. (2021). Micro productive failure and the acquisition of algebraic procedural knowledge. Instructional Science 49, 313–336. https://doi.org/10.1007/s11251-021-09544-7"
     author: Esther Ziegler, Dragan Trninic, Manu Kapur
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` PS-I students outperformed I-PS students on the 24-item isomorphic problem-solving test after controlling for mathematics grade and reasoning ability (η2p = 0.06). [→ Esther Ziegler 2021](#esther-ziegler-2021)

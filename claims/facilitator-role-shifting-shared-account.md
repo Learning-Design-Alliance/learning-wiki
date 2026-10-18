@@ -15,12 +15,14 @@ sources:
     author: Mads Solberg, Charlott Sellberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The facilitator orchestrates reconstruction of the event timeline by delegating roles as narrator, mentor, or monitor, cuing missing items and summarising a co-constructed group narrative. [→ Mads Solberg 2025](#mads-solberg-2025)

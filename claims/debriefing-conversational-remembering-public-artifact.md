@@ -15,12 +15,14 @@ sources:
     author: Mads Solberg, Charlott Sellberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the description phase, group remembering transforms private thoughts into a stable public representation, understood as a socially shared epistemic artifact rather than identical internal mental models. [→ Mads Solberg 2025](#mads-solberg-2025)

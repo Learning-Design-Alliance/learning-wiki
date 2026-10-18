@@ -15,12 +15,14 @@ sources:
     author: "Bruno De Lièvre, Christian Depover & Pierre Dillenbourg"
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Learners used the lexical help significantly more often in the pro-active mode (1.35 and 1.09) than in the reactive mode (0.70 and 0.85). [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

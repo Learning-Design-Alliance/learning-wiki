@@ -17,7 +17,7 @@ sources:
 # Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 As a practitioner implication, the article recommends designing debriefing conversations so that multiple perspectives and jointly constructed accounts become resources for reflexive scrutiny of performance. As the authors state, "We highlight the importance of enabling multiple viewpoints and shared cognitive resources for epistemic outcomes, while also challenging students' assumptions and foster critical thinking skills". This is implemented through facilitator prompts that activate observers, invite self-correction, and elicit what students would do differently.

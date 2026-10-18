@@ -15,12 +15,14 @@ sources:
     author: Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learning with tree diagrams increased experienced cognitive load across intrinsic, extraneous, germane, and overall measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants in the Diagram condition reported higher extraneous load than participants in the Arithmetic, Text + Arithmetic, and Diagram + Arithmetic conditions. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

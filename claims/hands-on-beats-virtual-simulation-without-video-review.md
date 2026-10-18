@@ -15,12 +15,14 @@ sources:
     author: Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Without video review, hands-on activities enhance vocational students' practical skill performance more effectively than virtual simulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the absence of video review, the hands-on activity group significantly outperformed the virtual simulation group on circuit fault detection performance (MD = 2.42, p < 0.001). [→ Zhanyong Qi 2026](#zhanyong-qi-2026)

@@ -15,18 +15,22 @@ sources:
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
   - id: peter-seban-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09686-4"
     title: "Peter Seban, Kamila Urban, Radovan Sikl. (2025). Comparing the effectiveness of multiple text reading and rereading on knowledge retention and metacognitive accuracy. Instructional Science, 53, 337–364. https://doi.org/10.1007/s11251-024-09686-4"
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Multiple text reading shows more stable retention than rereading: non-significantly higher one-week scores and a smaller decline from one day to one week
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` MTR scored descriptively higher than RR on the one-week delayed test, but the difference was not formally significant (H1 not confirmed). [→ Peter Seban 2025](#peter-seban-2025)

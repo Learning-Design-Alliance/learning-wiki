@@ -15,12 +15,14 @@ sources:
     author: Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The general additive model estimated a main effect of intervention condition on posttest reasoning from irrelevant events
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In the general additive model, condition was a significant predictor of posttest irrelevant-evidence reasoning scores, with an estimate of 0.2 points. [→ Hanna Grimm · Peter A. Edelsbrunner · Kornelia Möller 2023](#hanna-grimm-peter-a-edelsbrunner-kornelia-moller-2023)

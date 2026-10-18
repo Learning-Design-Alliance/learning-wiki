@@ -17,6 +17,7 @@ sources:
 # Two-phase online module design combining individual reflective essays with small-group peer discussion
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Each short online pedagogy module comprised “an individual study phase and a small-group phase”. In the individual phase, participants studied self-study materials (videos, articles, glossaries, quizzes) and wrote a reflective essay; in the small-group phase, groups of four to six shared and commented on each other’s essays in Google Docs, with experienced teachers and novices mixed in each group. The design aims to support co-construction of knowledge and conceptual change regarding educational concepts, and all tasks were designed so that doctoral students without teaching experience could complete them.

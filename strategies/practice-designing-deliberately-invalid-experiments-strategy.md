@@ -17,7 +17,7 @@ sources:
 # After instruction, have students practice designing deliberately invalid experiments, explain and correct their own errors, and optionally exchange designs with peers for spot-explain-fix discussion
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends that "students could thus be instructed on the fundamentals of research design, then practice designing deliberately invalid experiments and explaining and correcting their errors for deep learning". This derr-explain-fix recipe follows the study's procedure: a lesson on five design principles, then 15 minutes of open-book practice designing a non-optimal study, explaining the deliberate errors, and correcting them. The article adds that because spot-explain-fix is "not harmful for learning" and beat errorless practice on three tests, students could afterwards exchange responses with peers to spot and discuss each other's deliberate errors.

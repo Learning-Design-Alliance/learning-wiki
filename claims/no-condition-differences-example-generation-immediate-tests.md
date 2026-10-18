@@ -15,12 +15,14 @@ sources:
     author: Esther Ziegler, Dragan Trninic, Manu Kapur
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Initial failure did not hurt subsequent learning during instruction: no condition differences on example generation or immediate learning tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant effect of condition on immediate learning tests, though PS-I means were on average still higher. [→ Esther Ziegler 2021](#esther-ziegler-2021)

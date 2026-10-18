@@ -15,12 +15,14 @@ sources:
     author: Manu Kapur, Nikol Rummel
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Ninth-graders who generated diverse but unsuccessful formulations of variance before instruction significantly outperformed direct-instruction students on posttest conceptual understanding and transfer. [→ Manu Kapur 2012](#manu-kapur-2012)

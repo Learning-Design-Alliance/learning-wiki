@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":20553,
-"design":914,
+"design":921,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1768,
-"research-method":429,
+"product":1770,
+"research-method":433,
 "strategy":6138,
 "theory":1361
 },
@@ -186311,6 +186311,14 @@
 "type":"design"
 },
 {
+"description":"The article positions citizen science as a pedagogical design pattern in which learners engage in authentic scientific practices, including data analysis, while learning scientific content.",
+"id":"citizen-science-concurrent-uncertainty-reasoning",
+"path":"designs/citizen-science-concurrent-uncertainty-reasoning.md",
+"status":"review",
+"title":"Citizen science as a context for concurrently fostering statistical, scientific and NOS reasoning",
+"type":"design"
+},
+{
 "description":"The CLASP discussion/laboratory (DL) is the core instructional setting: students in five-member groups at tables with a wall-mounted blackboard work through three activity cycles of 30 to 60 minutes each, twice weekly.",
 "id":"clasp-dl-activity-cycle",
 "path":"designs/clasp-dl-activity-cycle.md",
@@ -186903,6 +186911,14 @@
 "type":"design"
 },
 {
+"description":"The article reconceptualises the three-phase simulation debriefing through distributed cognition, arguing that the debriefing conversation itself is the major coordination device.",
+"id":"debriefing-coordination-device-dcog-model",
+"path":"designs/debriefing-coordination-device-dcog-model.md",
+"status":"review",
+"title":"DCog model of debriefing as a coordination device for conversational remembering and distributed metacognition",
+"type":"design"
+},
+{
 "description":"A one-on-one decoding and fluency treatment delivered over 20 weeks using 10 books ordered by reading difficulty, with placement and lesson repetition/skipping adaptive to student performance.",
 "id":"decoding-fluency-tutoring-program",
 "path":"designs/decoding-fluency-tutoring-program.md",
@@ -186940,6 +186956,14 @@
 "path":"designs/demystify-use-reflect-llm-intervention.md",
 "status":"review",
 "title":"Demystify, use, and reflect: a structured LLM-intervention course design positioning LLMs as tools for supported learning",
+"type":"design"
+},
+{
+"description":"The derring effect is a counterintuitive phenomenon in which \\\"deliberate erring has been found to enhance learning\\\", implemented by having students intentionally generate a plausible conceptual error, then strike it o...",
+"id":"derring-effect-deliberate-erring-framework",
+"path":"designs/derring-effect-deliberate-erring-framework.md",
+"status":"review",
+"title":"Derring effect and deliberate erring as a guided-error learning approach within the Prevention–Permission–Promotion (3P) framework",
 "type":"design"
 },
 {
@@ -188231,6 +188255,14 @@
 "path":"designs/functional-complementarity-ai-human-clinical-education.md",
 "status":"review",
 "title":"Functional complementarity model of AI and human roles in clinical skills education",
+"type":"design"
+},
+{
+"description":"A lesson/course-level design in which a contemporary science topic (quantum computing) provides continuity from scientific knowledge to emerging technologies and their future possibilities, intertwined with futures-st...",
+"id":"futures-thinking-science-course-pattern",
+"path":"designs/futures-thinking-science-course-pattern.md",
+"status":"review",
+"title":"Future-oriented science course combining authentic emerging technology with futures-studies methods",
 "type":"design"
 },
 {
@@ -191056,6 +191088,14 @@
 "type":"design"
 },
 {
+"description":"The model, proposed by Lim and Park (2023) and extended here to high school students, holds that self-study supports individual cognitive construction while peer discussion facilitates the social construction of knowl...",
+"id":"self-study-discussion-model-lim-park",
+"path":"designs/self-study-discussion-model-lim-park.md",
+"status":"review",
+"title":"Self-study and discussion model: preparatory self-study enhances learning by transforming the quality of subsequent peer discussion",
+"type":"design"
+},
+{
 "description":"The study's mixed-methods evidence base for Sections 4 and 5 comprises a statewide survey of SELPA directors administered February–March 2020, developed with input from the statewide SELPA Executive Board, plus a revi...",
 "id":"selpa-survey-and-allocation-plan-review-2020",
 "path":"designs/selpa-survey-and-allocation-plan-review-2020.md",
@@ -191817,6 +191857,14 @@
 "type":"design"
 },
 {
+"description":"The article proposes and tests three distinct supports for provoking revision of fraction comparison explanations: correct examples, defining features, and error reflection.",
+"id":"three-instructional-supports-pst-explanation-revision",
+"path":"designs/three-instructional-supports-pst-explanation-revision.md",
+"status":"review",
+"title":"Three instructional supports for scaffolding preservice teachers' revision of mathematical explanations",
+"type":"design"
+},
+{
 "description":"To operationalize competency goals in the reformed curriculum, the authors developed a competency map that translates abstract professional requirements into measurable learning outcomes.",
 "id":"three-layer-competency-map-ai-curriculum",
 "path":"designs/three-layer-competency-map-ai-curriculum.md",
@@ -192176,6 +192224,14 @@
 "path":"designs/two-models-middle-school-cte-delivery.md",
 "status":"review",
 "title":"Two common national models for middle school CTE delivery: career field–specific introductory coursework and stand-alone career exploration courses",
+"type":"design"
+},
+{
+"description":"Each short online pedagogy module comprised “an individual study phase and a small-group phase”.",
+"id":"two-phase-online-module-essay-peer-discussion",
+"path":"designs/two-phase-online-module-essay-peer-discussion.md",
+"status":"review",
+"title":"Two-phase online module design combining individual reflective essays with small-group peer discussion",
 "type":"design"
 },
 {
@@ -207863,6 +207919,14 @@
 "type":"product"
 },
 {
+"description":"CoRubric is a free online e-rubric tool developed by the study authors for managing peer, self, and teacher assessment with criteria, scores, notes, comments, and exportable results.",
+"id":"corubric",
+"path":"products/corubric.md",
+"status":"review",
+"title":"CoRubric",
+"type":"product"
+},
+{
 "description":"CoTrack is a web-based multimodal collaboration analytics tool developed by Reet Kasepalu and colleagues that gives teachers mirrored collaboration data and model-based alerts and guidance for improving group-work quality.",
 "id":"cotrack",
 "path":"products/cotrack.md",
@@ -218568,6 +218632,14 @@
 "type":"product"
 },
 {
+"description":"UNIPS is a Finnish national online platform developed collaboratively by eight universities to provide self-study and guided short modules in university pedagogy for university staff and doctoral students.",
+"id":"unips",
+"path":"products/unips.md",
+"status":"review",
+"title":"UNIPS",
+"type":"product"
+},
+{
 "description":"CAST's framework for designing flexible instruction around learner variability through multiple means of Engagement, Representation, and Action & Expression.",
 "id":"universal-design-for-learning-udl-framework",
 "path":"products/universal-design-for-learning-udl-framework.md",
@@ -219819,6 +219891,14 @@
 "type":"research-method"
 },
 {
+"description":"The contingent shift framework, based on Wood et al.",
+"id":"contingent-shift-framework-for-measuring-scaffolding-contingency-in-classroom-interaction",
+"path":"research-methods/contingent-shift-framework-for-measuring-scaffolding-contingency-in-classroom-interaction.md",
+"status":"review",
+"title":"Contingent shift framework for measuring scaffolding contingency in classroom interaction",
+"type":"research-method"
+},
+{
 "description":"The CCM is an extension of the NIDA cognitive diagnostic model that \\\"utilizes continuous variables instead of binary latent variables to represent attributes, thus it offers a more generalized diagnosis\\\" (Hong et al., 2015).",
 "id":"continuous-conjunctive-model",
 "path":"research-methods/continuous-conjunctive-model.md",
@@ -220065,6 +220145,14 @@
 "path":"research-methods/dmo-gru-hybrid-student-performance-prediction-method.md",
 "status":"review",
 "title":"DMO-GRU hybrid student performance prediction method",
+"type":"research-method"
+},
+{
+"description":"DReaM (Deterministic Relativistic and Middle ground) is an integrative framework offered by the authors that organizes learners' uncertainty articulations into nine sub-categories spanning three reasoning domains.",
+"id":"dream-framework-nine-sub-categories-of-uncertainty-articulations-integrating-statistical-s",
+"path":"research-methods/dream-framework-nine-sub-categories-of-uncertainty-articulations-integrating-statistical-s.md",
+"status":"review",
+"title":"DReaM framework: nine sub-categories of uncertainty articulations integrating statistical, scientific and nature of science uncertainty",
 "type":"research-method"
 },
 {
@@ -220346,6 +220434,14 @@
 "path":"research-methods/extended-taxonomy-design-process-etdp.md",
 "status":"review",
 "title":"Extended Taxonomy Design Process (ETDP)",
+"type":"research-method"
+},
+{
+"description":"The EMS model is an algorithm the authors developed for an earlier study to identify reading sequences from eye-tracking fixation data over look zones.",
+"id":"eye-movement-sequence-ems-model-for-identifying-reading-sequences-from-fixations",
+"path":"research-methods/eye-movement-sequence-ems-model-for-identifying-reading-sequences-from-fixations.md",
+"status":"review",
+"title":"Eye Movement Sequence (EMS) model for identifying reading sequences from fixations",
 "type":"research-method"
 },
 {
@@ -222465,6 +222561,14 @@
 "path":"research-methods/trajectory-based-early-indicator-framework-for-college-readiness-monitoring.md",
 "status":"review",
 "title":"Trajectory-based early indicator framework for college readiness monitoring",
+"type":"research-method"
+},
+{
+"description":"The article operationalizes transactivity as reasoning made explicit that builds on prior reasoning in a discussion.",
+"id":"transactivity-coding-scheme-for-self-and-other-oriented-reasoning",
+"path":"research-methods/transactivity-coding-scheme-for-self-and-other-oriented-reasoning.md",
+"status":"review",
+"title":"Transactivity coding scheme for self- and other-oriented reasoning",
 "type":"research-method"
 },
 {
@@ -304349,6 +304453,7 @@
 "chemviz-project-ncsa":"chemviz-project-ncsa",
 "child-creativity-gc-gf-ef-measure-battery":"child-creativity-gc-gf-ef-measure-battery",
 "child-friendly-chatbot-design-considerations":"child-friendly-chatbot-design-considerations",
+"citizen-science-concurrent-uncertainty-reasoning":"citizen-science-concurrent-uncertainty-reasoning",
 "clasp-dl-activity-cycle":"clasp-dl-activity-cycle",
 "classroom-proof-assistant-design-criteria":"classroom-proof-assistant-design-criteria",
 "cldrc-cognitive-reading-test-battery":"cldrc-cognitive-reading-test-battery",
@@ -304423,11 +304528,13 @@
 "data-lifecycle-framework-ccs":"data-lifecycle-framework-ccs",
 "datacanvas-edu-framework":"datacanvas-edu-framework",
 "dative-alternation-training-task-simple-structural-change":"dative-alternation-training-task-simple-structural-change",
+"debriefing-coordination-device-dcog-model":"debriefing-coordination-device-dcog-model",
 "decoding-fluency-tutoring-program":"decoding-fluency-tutoring-program",
 "deepseek-abstract-writing-platform-constrained-prompts":"deepseek-abstract-writing-platform-constrained-prompts",
 "deliberative-poll-quasi-experiment-model":"deliberative-poll-quasi-experiment-model",
 "demo-inquiry-model-discussion-sequence":"demo-inquiry-model-discussion-sequence",
 "demystify-use-reflect-llm-intervention":"demystify-use-reflect-llm-intervention",
+"derring-effect-deliberate-erring-framework":"derring-effect-deliberate-erring-framework",
 "describe-effective-program-elements-for-replication":"describe-effective-program-elements-for-replication",
 "design-teams-and-student-advisory-committees":"design-teams-and-student-advisory-committees",
 "designed-pattern-case-specification":"designed-pattern-case-specification",
@@ -304589,6 +304696,7 @@
 "full-immersion-lecture-lab-day-structure":"full-immersion-lecture-lab-day-structure",
 "function-concept-goal-explanation-diversity-framework":"function-concept-goal-explanation-diversity-framework",
 "functional-complementarity-ai-human-clinical-education":"functional-complementarity-ai-human-clinical-education",
+"futures-thinking-science-course-pattern":"futures-thinking-science-course-pattern",
 "gai-marketing-syllabi-review-faculty-survey":"gai-marketing-syllabi-review-faculty-survey",
 "gai-role-modified-assignment-pattern":"gai-role-modified-assignment-pattern",
 "gai-tutor-teammate-tool-coi-framework":"gai-tutor-teammate-tool-coi-framework",
@@ -304941,6 +305049,7 @@
 "secant-tangent-transition-applet-example":"secant-tangent-transition-applet-example",
 "segment-structure-transcript-format":"segment-structure-transcript-format",
 "self-determination-as-curriculum-access-strategies":"self-determination-as-curriculum-access-strategies",
+"self-study-discussion-model-lim-park":"self-study-discussion-model-lim-park",
 "selpa-survey-and-allocation-plan-review-2020":"selpa-survey-and-allocation-plan-review-2020",
 "semi-automated-tts-lesson-generation-pipeline":"semi-automated-tts-lesson-generation-pipeline",
 "serial-order-item-recall-fmri-task-battery":"serial-order-item-recall-fmri-task-battery",
@@ -305036,6 +305145,7 @@
 "three-dimensional-scaffolding-design-paratutor":"three-dimensional-scaffolding-design-paratutor",
 "three-elements-effective-training-realism-control-feedback":"three-elements-effective-training-realism-control-feedback",
 "three-facilitation-roles-stem-plcs":"three-facilitation-roles-stem-plcs",
+"three-instructional-supports-pst-explanation-revision":"three-instructional-supports-pst-explanation-revision",
 "three-layer-competency-map-ai-curriculum":"three-layer-competency-map-ai-curriculum",
 "three-lesson-supply-demand-price-sequence":"three-lesson-supply-demand-price-sequence",
 "three-moment-architecture-secondary-math":"three-moment-architecture-secondary-math",
@@ -305082,6 +305192,7 @@
 "two-hour-ai-literacy-regulation-workshop":"two-hour-ai-literacy-regulation-workshop",
 "two-map-ai-power-pairing-framework":"two-map-ai-power-pairing-framework",
 "two-models-middle-school-cte-delivery":"two-models-middle-school-cte-delivery",
+"two-phase-online-module-essay-peer-discussion":"two-phase-online-module-essay-peer-discussion",
 "two-stage-human-narrative-genai-comic-creation":"two-stage-human-narrative-genai-comic-creation",
 "two-stage-synthetic-paraphrase-augmentation-pipeline":"two-stage-synthetic-paraphrase-augmentation-pipeline",
 "ubms-hands-on-stem-exposure-pattern":"ubms-hands-on-stem-exposure-pattern",
@@ -307267,6 +307378,7 @@
 "corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023":"corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023",
 "corrective-reading":"corrective-reading",
 "cortex":"cortex",
+"corubric":"corubric",
 "cotrack":"cotrack",
 "course-specific-map-growth-mathematics-tests":"course-specific-map-growth-mathematics-tests",
 "courseblueprint":"courseblueprint",
@@ -308624,6 +308736,7 @@
 "unesco-ai-competency-framework-for-teachers":"unesco-ai-competency-framework-for-teachers",
 "unesco-recommendation-on-the-ethics-of-artificial-intelligence":"unesco-recommendation-on-the-ethics-of-artificial-intelligence",
 "unescos-eight-component-genai-framework":"unescos-eight-component-genai-framework",
+"unips":"unips",
 "universal-design-for-learning-udl-framework":"universal-design-for-learning-udl-framework",
 "university-of-central-florida-center-for-community-schools-certification-system-for-the-co":"university-of-central-florida-center-for-community-schools-certification-system-for-the-co",
 "university-of-virginia-partnership-for-leaders-in-education-turnaround-competency-model":"university-of-virginia-partnership-for-leaders-in-education-turnaround-competency-model",
@@ -308784,6 +308897,7 @@
 "construct-evaluation-framework":"construct-evaluation-framework",
 "constructivist-three-role-taxonomy-of-learner-generated-questions":"constructivist-three-role-taxonomy-of-learner-generated-questions",
 "contextual-similarity-scoring-model-for-automated-essay-grading":"contextual-similarity-scoring-model-for-automated-essay-grading",
+"contingent-shift-framework-for-measuring-scaffolding-contingency-in-classroom-interaction":"contingent-shift-framework-for-measuring-scaffolding-contingency-in-classroom-interaction",
 "continuous-conjunctive-model":"continuous-conjunctive-model",
 "contrapuntal-reading":"contrapuntal-reading",
 "coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment":"coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment",
@@ -308816,6 +308930,7 @@
 "divergent-collaborative-learning-mechanisms-dclm-framework":"divergent-collaborative-learning-mechanisms-dclm-framework",
 "dmo-gru-hybrid-student-performance-prediction-method":"dmo-gru-hybrid-student-performance-prediction-method",
 "domain-theory-informed-lens-prompting-for-trait-discovery":"principal-trait-analysis-pta",
+"dream-framework-nine-sub-categories-of-uncertainty-articulations-integrating-statistical-s":"dream-framework-nine-sub-categories-of-uncertainty-articulations-integrating-statistical-s",
 "dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o":"dual-assessment-framework-for-evaluating-llm-human-simulations-via-joint-self-report-and-o",
 "durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior":"durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior",
 "dynamic-structural-equation-modelling-for-intra-individual-emotion-trajectories":"dynamic-structural-equation-modelling-for-intra-individual-emotion-trajectories",
@@ -308853,6 +308968,7 @@
 "exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition":"exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition",
 "extended-strobel-taxonomy-of-five-studentgenai-entanglement-types":"extended-strobel-taxonomy-of-five-studentgenai-entanglement-types",
 "extended-taxonomy-design-process-etdp":"extended-taxonomy-design-process-etdp",
+"eye-movement-sequence-ems-model-for-identifying-reading-sequences-from-fixations":"eye-movement-sequence-ems-model-for-identifying-reading-sequences-from-fixations",
 "fate-framework":"fate-framework",
 "fight-pair-comparison":"fight-pair-comparison",
 "five-class-taxonomy-of-knowledge-sources-for-synthesizing-stem-plc-knowledge":"five-class-taxonomy-of-knowledge-sources-for-synthesizing-stem-plc-knowledge",
@@ -309130,6 +309246,7 @@
 "tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak":"tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak",
 "trace-transformer-for-academic-course-grade-estimation":"trace-transformer-for-academic-course-grade-estimation",
 "trajectory-based-early-indicator-framework-for-college-readiness-monitoring":"trajectory-based-early-indicator-framework-for-college-readiness-monitoring",
+"transactivity-coding-scheme-for-self-and-other-oriented-reasoning":"transactivity-coding-scheme-for-self-and-other-oriented-reasoning",
 "transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis":"transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis",
 "transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add":"transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add",
 "transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors":"transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors",

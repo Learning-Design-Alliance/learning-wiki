@@ -15,18 +15,22 @@ sources:
     author: Cheng-Hong Liu, Xian-Rui Yin
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: cheng-hong-liu-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09789-0"
     title: "Cheng-Hong Liu, Xian-Rui Yin. (2026). Effects of person praise on students' motivation and performance under ego-involving and task-involving feedback conditions. Instructional Science (2026) 54:34. https://doi.org/10.1007/s11251-026-09789-0"
     author: Cheng-Hong Liu, Xian-Rui Yin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Person praise raises state self-esteem (d = 0.40), and under task-involving feedback higher state self-esteem is negatively related to motivation, supporting a distraction mechanism only in the low-threat condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Person-praise participants scored higher on state self-esteem than no-praise participants, t(144) = 2.39, p =.018, d = 0.40. [→ Cheng-Hong Liu 2026](#cheng-hong-liu-2026)

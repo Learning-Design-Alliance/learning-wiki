@@ -15,12 +15,14 @@ sources:
     author: "Redifer, J. L., Myers, S. J., Bae, C. L., Naas, A., & Scott, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Academic self-efficacy was not significantly associated with final test performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Contrary to the authors' hypothesis, the direct path from academic self-efficacy to final test performance was not significant. [→ Redifer 2026](#redifer-2026)

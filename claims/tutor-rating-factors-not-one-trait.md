@@ -15,12 +15,14 @@ sources:
     author: "Schmidt, H., van der Arend, A., Kokx, I. & Boon, L."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Confirmatory factor analysis showed neither a one-factor nor a two-factor (process/content) hypothesis fitted the tutor-rating data entirely satisfactorily. [→ Schmidt 1995](#schmidt-1995)

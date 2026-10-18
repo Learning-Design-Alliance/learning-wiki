@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 43 claims (32 for, 9 mixed, 2 against) · 43 studies (18 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 9 of 43 report an effect size · 33 claims rest on one study
+> **Evidence** · 44 claims (33 for, 9 mixed, 2 against) · 44 studies (19 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 10 of 44 report an effect size · 34 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.

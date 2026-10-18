@@ -15,12 +15,14 @@ sources:
     author: Ming Fai Pang, Ference Marton
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Learning outcomes are better under conditions of variation consistent with the variation-theory conjecture than under conditions not consistent with it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Conditions consistent with the basic conjecture of the Variation Theory of Learning produced better learning outcomes than conditions not consistent with the theory, for learning the economic principle of price changes. [→ Ming Fai Pang 2013](#ming-fai-pang-2013)

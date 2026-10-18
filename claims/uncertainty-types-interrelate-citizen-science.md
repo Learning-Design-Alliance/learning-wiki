@@ -15,12 +15,14 @@ sources:
     author: "Aridor, K., Dvir, M., Tsybulsky, D., & Ben-Zvi, D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Uncertainty types across the three reasoning domains were found to interrelate in students' citizen science activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The case study suggests interrelations between statistical, scientific and nature of science uncertainty articulations. [→ Aridor 2023](#aridor-2023)

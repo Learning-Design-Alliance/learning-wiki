@@ -15,12 +15,14 @@ sources:
     author: "Bruno De Lièvre, Christian Depover & Pierre Dillenbourg"
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Neither tutoring mode nor human tutor access affects learners' use of conceptual help tools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Average activations of the conceptual help tool were very close across all four tutoring conditions (between 0.50 and 0.56), with no significant effects. [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

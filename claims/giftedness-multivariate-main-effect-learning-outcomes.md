@@ -15,12 +15,14 @@ sources:
     author: "Lim, S., Jung, J. Y., & Kalyuga, S."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Giftedness shows a significant multivariate main effect across the learning and recall outcome measures in the 2×2×2 study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Across near transfer, far transfer, calculation and the two recall variables, giftedness produced a significant multivariate main effect with η2 p = .178, a large multivariate effect size. [→ Lim 2023](#lim-2023)

@@ -15,12 +15,14 @@ sources:
     author: Xiaojuan Ke · Kristie J. Newton
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # MLS-WEPs improved the quality of written explanations, with larger gains in fully correct explanations and reduced blank and concept-irrelevant responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The intervention condition showed greater gains in fully correct explanations than control, and blanks dropped substantially in the treatment group. [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

@@ -15,12 +15,14 @@ sources:
     author: Sarah Shi Hui Wong
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
 ---
 
 # Deliberately designing and correcting one's own invalid experiments improves far transfer to a structurally more complex factorial design, whereas spotting and correcting others' errors does not outperform errorless practice on far transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The derr-explain-fix group outperformed both errorless practice (d = 0.56) and spot-explain-fix (d = 0.45) on far transfer; spot-explain-fix did not differ from errorless practice (d = 0.09, p = .50). [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

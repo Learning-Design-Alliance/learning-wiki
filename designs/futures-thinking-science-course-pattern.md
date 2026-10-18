@@ -17,6 +17,7 @@ sources:
 # Future-oriented science course combining authentic emerging technology with futures-studies methods
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A lesson/course-level design in which a contemporary science topic (quantum computing) provides continuity from scientific knowledge to emerging technologies and their future possibilities, intertwined with futures-studies methods. "Students were guided to employ, by turns, three fundamentally different types of thinking methods commonly used in futures studies: probable, possible and preferable futures", followed by a backcasting exercise in which students imagine themselves as active participants in reaching a preferable future. Group projects on personally chosen socio-scientific problems run throughout the module, supported by the Futures Cone visualisation and systems thinking tools.

@@ -15,12 +15,14 @@ sources:
     author: Jan van der Meij, Marije van Amelsvoort, Anjo Anjewierden
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Arrows did not guide initial reading behavior in matrix diagrams with two nominal headers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In diagrams with arrows pointing left to right, 51.2% of participants' initial reading sequence was left to right, and in diagrams with top-down arrows, 61.5% was top-down, a non-significant difference. [→ Jan van der Meij 2017](#jan-van-der-meij-2017)

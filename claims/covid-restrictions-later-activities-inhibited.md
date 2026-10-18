@@ -15,12 +15,14 @@ sources:
     author: "Aridor, K., Dvir, M., Tsybulsky, D., & Ben-Zvi, D."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # COVID-19 restrictions inhibited implementation of later activities in the learning sequence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` The pilot learning sequence was only partially implemented due to pandemic restrictions. [→ Aridor 2023](#aridor-2023)

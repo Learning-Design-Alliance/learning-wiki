@@ -15,12 +15,14 @@ sources:
     author: Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Active processing of instructional explanation prompts increase coverage of main content items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 2, active processing prompts substantially increased the extent to which learners covered the main content items in their entries (ηp2 = .18); Experiment 1 showed a comparable effect (ηp2 = .14). [→ Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle 2020](#sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020)

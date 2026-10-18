@@ -15,18 +15,22 @@ sources:
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
   - id: peter-seban-2025-2
     resource: "https://doi.org/10.1007/s11251-024-09686-4"
     title: "Peter Seban, Kamila Urban, Radovan Sikl. (2025). Comparing the effectiveness of multiple text reading and rereading on knowledge retention and metacognitive accuracy. Instructional Science, 53, 337–364. https://doi.org/10.1007/s11251-024-09686-4"
     author: Peter Seban, Kamila Urban, Radovan Sikl
     q: 3
     i: 1
+    kind: causal
+    rigour: 3
 ---
 
 # Reading approach and test delay each significantly affect knowledge-test performance, with no significant interaction (ηp2 = 0.02)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` A significant main effect of reading approach on knowledge-test score (F(2, 180) = 9.81, p < 0.001, ηp2 = 0.10). [→ Peter Seban 2025](#peter-seban-2025)

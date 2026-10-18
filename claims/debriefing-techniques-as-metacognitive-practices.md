@@ -15,12 +15,14 @@ sources:
     author: Mads Solberg, Charlott Sellberg
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Facilitator techniques such as advocacy-inquiry, guided self-correction, and the plus-delta method function as metacognitive practices that shift focus from retrodiction to prediction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Several key debriefing process elements are metacognitive practices; asking what students would do differently shifts metacognitive focus from reflecting on the past to anticipating the future. [→ Mads Solberg 2025](#mads-solberg-2025)

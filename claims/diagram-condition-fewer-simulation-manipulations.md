@@ -15,12 +15,14 @@ sources:
     author: Bas Kolloffel, Tessa H. S. Eysink, Ton de Jong, Pascal Wilhelm
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners working with tree diagrams performed fewer manipulations in the simulations than learners in other conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The Diagram condition performed fewer manipulations than the Arithmetic and Text + Arithmetic conditions, with no difference in time-on-task. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

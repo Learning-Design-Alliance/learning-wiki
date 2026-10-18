@@ -15,12 +15,14 @@ sources:
     author: Zhanyong Qi, Jiayi Wang, Yue Du, Xinyue Zhang
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hands-on activity groups outperformed virtual simulation groups in self-regulated learning with or without video review, and video review groups showed superior self-regulated learning. [→ Zhanyong Qi 2026](#zhanyong-qi-2026)

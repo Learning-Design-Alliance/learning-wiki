@@ -15,12 +15,14 @@ sources:
     author: Jonte Bernhard
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Probeware affords measurement of acceleration at the cart's highest point after an upward push, permitting the fallacy that acceleration is zero there to be addressed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Unlike photogates and the tape timer, probeware allows study of motion up, down and at the turning point, making the zero-velocity/non-zero-acceleration distinction experimentally accessible. [→ Jonte Bernhard 2018](#jonte-bernhard-2018)

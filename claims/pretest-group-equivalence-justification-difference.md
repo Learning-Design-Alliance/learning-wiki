@@ -15,12 +15,14 @@ sources:
     author: Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Pre-test Mann–Whitney U comparisons found no significant between-group differences in initial argumentative competence, with the exception of justifications in the tree growth activity (U = 736.0; p = 0.00), a medium effect (r = 0.32). [→ Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López 2018](#daniel-cebrian-robles-antonio-joaquin-franco-mariscal-angel-blanco-lopez-2018)

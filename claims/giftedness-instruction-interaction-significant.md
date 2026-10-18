@@ -15,12 +15,14 @@ sources:
     author: "Lim, S., Jung, J. Y., & Kalyuga, S."
     q: 3
     i: 2
+    kind: causal
+    rigour: "?"
 ---
 
 # Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The multivariate ANOVA found a significant interaction between giftedness and instruction (invention-first vs example-first), Wilks' λ = .923, F (5, 186) = 3.12, p = .010, η2 p = .077, a medium multivariate effect size. [→ Lim 2023](#lim-2023)

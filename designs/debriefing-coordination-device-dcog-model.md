@@ -17,6 +17,7 @@ sources:
 # DCog model of debriefing as a coordination device for conversational remembering and distributed metacognition
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article reconceptualises the three-phase simulation debriefing through distributed cognition, arguing that the debriefing conversation itself is the major coordination device. Its model holds that "debriefing conversations function as coordination devices for two key processes: conversational remembering and distributed metacognition", coordinating a cascade of representations from private memory to public speech. A coordination device is a structure or practice that constrains participants' actions to control how representations propagate within a distributed cognitive system. The model emerged abductively from cognitive-ethnographic analysis of one exemplary debriefing case.

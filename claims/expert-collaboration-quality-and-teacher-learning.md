@@ -15,12 +15,14 @@ sources:
     author: Joke Voogt, Therese Laferrière, Alain Breuleux, Rebecca C. Itow, Daniel T. Hickey, Susan McKenney
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Collaboration with experts during design and enactment contributed to the quality of designed artefacts and to teacher learning across all three cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the USA, Africa, and Canada cases, collaboration with experts yielded quality of the designed curricular artefacts and contributed to teacher learning of new approaches to teaching and learning. [→ Joke Voogt 2015](#joke-voogt-2015)

@@ -15,12 +15,14 @@ sources:
     author: Xiaojuan Ke · Kristie J. Newton
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` English learners who received the MLS-WEPs intervention scored 0.481 standard deviations higher on calculation and 0.702 standard deviations higher on explanation in Unit 1 than controls, holding prior knowledge constant. [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

@@ -15,12 +15,14 @@ sources:
     author: "Schmidt, H., van der Arend, A., Kokx, I. & Boon, L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No achievement difference between staff- and peer-tutored groups in the first curriculum year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the first curriculum year, pairwise contrasts revealed no significant achievement difference between peer- and staff-tutored groups, contrary to the overall trend. [→ Schmidt 1995](#schmidt-1995)

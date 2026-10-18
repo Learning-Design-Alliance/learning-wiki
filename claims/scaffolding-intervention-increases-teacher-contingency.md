@@ -15,12 +15,14 @@ sources:
     author: "van de Pol, J., Volman, M., Oort, F., & Beishuizen, J."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Contingency increased from premeasurement to postmeasurement significantly more in the scaffolding condition than in the nonscaffolding condition, with a large effect size. [→ van de Pol 2015](#van-de-pol-2015)

@@ -15,12 +15,14 @@ sources:
     author: Joke Voogt, Therese Laferrière, Alain Breuleux, Rebecca C. Itow, Daniel T. Hickey, Susan McKenney
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teacher design teams in three African studies (Ethiopia, Ghana, Tanzania) were associated with increases in teachers' knowledge and skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All three design-research studies of teacher design teams found increases in teachers' knowledge and skills, and Ghana and Ethiopia also found changes in teachers' beliefs. [→ Joke Voogt 2015](#joke-voogt-2015)

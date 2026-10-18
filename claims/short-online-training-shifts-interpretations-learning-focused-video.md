@@ -15,12 +15,14 @@ sources:
     author: Henna Vilppu, Ilona Södervik, Liisa Postareff, Mari Murtonen
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After participating in the online courses, eight participants changed their interpretation of the learning-focused video from a knowledge-transmission to a learning-facilitation view. [→ Henna Vilppu 2019](#henna-vilppu-2019)

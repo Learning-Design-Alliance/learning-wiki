@@ -15,12 +15,14 @@ sources:
     author: "Bruno De Lièvre, Christian Depover & Pierre Dillenbourg"
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Tutor promptings and information items explain only a limited share of variance in help tool use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Regression showed promptings and information items accounted for only 5% (R2=0.053) of metacognitive help use but 21% (R2=0.219) of lexical help use. [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

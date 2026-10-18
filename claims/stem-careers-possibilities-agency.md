@@ -15,12 +15,14 @@ sources:
     author: Tapio Rasa, Elina Palmgren, Antti Laherto
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students saw technology and STEM careers as creating concrete possibilities for their own agency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students expressed technological agency beliefs almost exclusively in career-focused terms, linking desirable futures to their own education and work (theme in 43% of interviews). [→ Tapio Rasa 2022](#tapio-rasa-2022)

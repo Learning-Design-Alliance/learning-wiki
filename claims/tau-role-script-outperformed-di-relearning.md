@@ -15,18 +15,22 @@ sources:
     author: Manu Kapur, Nikol Rummel
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: manu-kapur-2012-2
     resource: "https://doi.org/10.1007/s11251-012-9235-4"
     title: "Manu Kapur, Nikol Rummel. (2012). Productive failure in learning from generation and invention activities. Instr Sci 40:645-650. https://doi.org/10.1007/s11251-012-9235-4"
     author: Manu Kapur, Nikol Rummel
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Role-script support (TAU) during generation led university relearning students to outperform direct instruction in all weeks but the first
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` In a four-week in vivo experiment with 76 university students in a relearning situation, Think Ask Understand (TAU) role-script students outperformed DI students in all weeks but the first. [→ Manu Kapur 2012](#manu-kapur-2012)

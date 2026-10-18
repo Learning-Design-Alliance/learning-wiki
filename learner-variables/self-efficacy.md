@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (90 show a difference, 14 mixed, 9 no difference) · 95 studies (40 associational, 16 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 13 of 95 report an effect size · 110 claims rest on one study
+> **Evidence** · 115 claims (90 show a difference, 14 mixed, 11 no difference) · 97 studies (40 associational, 18 causal, 14 qualitative, 12 review, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 13 of 97 report an effect size · 112 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.

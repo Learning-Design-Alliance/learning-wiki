@@ -15,12 +15,14 @@ sources:
     author: "Aridor, K., Dvir, M., Tsybulsky, D., & Ben-Zvi, D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # All nine DReaM uncertainty articulation sub-categories were identified in middle school students' citizen science participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An interpretative microgenetic analysis of two students' participation identified all nine DReaM sub-categories of uncertainty articulation. [→ Aridor 2023](#aridor-2023)

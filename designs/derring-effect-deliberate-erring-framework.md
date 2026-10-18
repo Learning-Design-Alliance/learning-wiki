@@ -17,6 +17,7 @@ sources:
 # Derring effect and deliberate erring as a guided-error learning approach within the Prevention–Permission–Promotion (3P) framework
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The derring effect is a counterintuitive phenomenon in which "deliberate erring has been found to enhance learning", implemented by having students intentionally generate a plausible conceptual error, then strike it out and correct it. The article situates it in Wong and Lim's (2019b) 3P framework, under which "errors in learning can be observed, allowed, induced, or guided when not avoided": learning from others' invalid designs involves observing errors, whereas deliberate erring guides students into making and correcting their own errors in low-stakes contexts after correct instruction. Candidate mechanisms include failure-driven learning, development of negative knowledge, suppression of incorrect pathways, attention to correction, and structural alignment between incorrect and correct responses.

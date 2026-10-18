@@ -15,12 +15,14 @@ sources:
     author: Marieke de Wijse-van Heeswijk, Etienne A. J. A. Rouwette, Sander V. Meijerink
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Struggling participants in the rule-based game initiated emergent facilitation — self-organized peer facilitation — which was fuelled by cognitive load, scope disturbances and high distance and supported first- and second-order learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Emergent facilitation occurred 12 times in the rule-based SG, driven by experienced cognitive load (15 co-occurrences), scope disturbances from the game (78 co-occurrences) and high distance (31 co-occurrences), and led to increased FOL and SOL. [→ Marieke de Wijse-van Heeswijk 2025](#marieke-de-wijse-van-heeswijk-2025)

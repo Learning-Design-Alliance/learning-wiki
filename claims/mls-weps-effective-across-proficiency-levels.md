@@ -15,12 +15,14 @@ sources:
     author: Xiaojuan Ke · Kristie J. Newton
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Effectiveness of the MLS-WEPs intervention generally did not vary by English learners' English proficiency after controlling for prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Unit 1, treatment-group math outcomes did not differ significantly by English proficiency in calculation or explanation. [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

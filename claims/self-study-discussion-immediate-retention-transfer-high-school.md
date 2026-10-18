@@ -15,18 +15,22 @@ sources:
     author: Jaeseo Lim and Jooyong Park
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: jaeseo-lim-and-jooyong-park-2026-2
     resource: "https://doi.org/10.1007/s11251-026-09801-7"
     title: "Jaeseo Lim and Jooyong Park (2026). Self-study followed by discussion enhances learning for high school students. Instructional Science (2026) 54:56. https://doi.org/10.1007/s11251-026-09801-7"
     author: Jaeseo Lim and Jooyong Park
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # High school students taught with self-study followed by discussion achieved higher immediate retention and near-transfer scores than those taught with lecture followed by discussion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` Self-study students scored higher on immediate retention than lecture students (d = 0.47). [→ Jaeseo Lim and Jooyong Park 2026](#jaeseo-lim-and-jooyong-park-2026)

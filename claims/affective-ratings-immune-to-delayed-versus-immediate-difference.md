@@ -15,12 +15,14 @@ sources:
     author: "Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Delayed ratings of affective variables (interest and motivation) do not differ from the average of immediate ratings, unlike cognitive load ratings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In both experiments, delayed interest and motivation ratings did not differ significantly from the averages of the immediate ratings. [→ Schmeck 2015](#schmeck-2015)

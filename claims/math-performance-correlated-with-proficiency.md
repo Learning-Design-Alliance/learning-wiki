@@ -15,12 +15,14 @@ sources:
     author: Xiaojuan Ke · Kristie J. Newton
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Correlation matrix showed positive correlations between proficiency and math performance, stronger for the explanation part (e.g., r = .628 with Unit 2 post explanation) than calculation (e.g., r = .462). [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

@@ -15,12 +15,14 @@ sources:
     author: "Guba, T.-P., Barbieri, C. A., Jansen, A., & Morris, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Target strategy use did not vary by instructional support condition for any of the three fraction comparison tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Chi-square analyses revealed that use of the targeted comparison strategy did not vary by condition at first draft or revision for Tasks A, B, and C. [→ Guba 2026](#guba-2026)
