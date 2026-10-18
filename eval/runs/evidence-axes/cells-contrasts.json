@@ -34046,5 +34046,17 @@
  "other\t1998 adjusted math score\t1997 math score": {
   "label": "adjusted math score vs unadjusted math score",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative problem solving (CPS)\tindividual problem solving (IPS)": {
+  "label": "collaborative problem solving vs individual problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative problem solving in pairs\tindividual problem solving": {
+  "label": "collaborative problem solving vs individual problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative problem-solving (CPS)\tindividual problem-solving (IPS)": {
+  "label": "collaborative problem solving vs individual problem solving",
+  "treatment_is_a": true
  }
 }
