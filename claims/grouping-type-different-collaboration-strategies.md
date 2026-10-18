@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09357-3"
     title: "Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang. (2021). Self-efficacy and behavior patterns of learners using a real-time collaboration system developed for group programming. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09357-3"
     author: Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Different group compositions adopted different collaboration strategies: homogeneous groups split interface and programming work, while the heterogeneous CS/non-CS pair showed the most divergent behavior patterns
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Heterogeneous groups B and C showed significantly different complexity of behaviors and inconsistent OI and BCO patterns, attributable to different cooperation strategies such as working separately versus completing part of the synchronization step by step. [→ Ting-Chia Hsu 2021](#ting-chia-hsu-2021)
@@ -27,7 +34,7 @@ sources:
 
 Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang. (2021). Self-efficacy and behavior patterns of learners using a real-time collaboration system developed for group programming. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09357-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Behavior sequential analysis (GSEQ) of the two heterogeneous groups' RTC logs, with "782 behavior codes for Group B and 905 for Group C"; diagrams appear in Fig. 7. The authors conjecture the difference stems from different cooperation strategies such as the tendency to work separately.
 

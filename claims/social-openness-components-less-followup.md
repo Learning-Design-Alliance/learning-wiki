@@ -12,14 +12,25 @@ sources:
   - id: van-heijst-2019
     resource: "https://doi.org/10.1007/s11412-019-09303-4"
     title: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4"
-    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A"
+    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
   - id: van-heijst-2019-2
     resource: "https://doi.org/10.1007/s11412-019-09303-4"
     title: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4"
-    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A"
+    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Notes open on transactivity and authority were less likely to receive follow-up, while the components ownership and positioning towards the knowledge claim were not significantly associated with follow-up. [→ van Heijst 2019](#van-heijst-2019)
@@ -31,7 +42,7 @@ sources:
 
 van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 McNemar's test analysis of the 594 analyzed notes. The study reports that "KF notes that are open with respect to these components were less likely to receive follow up" for transactivity and authority, while ownership and personal positioning showed no significant association.
 
@@ -41,7 +52,7 @@ McNemar's test analysis of the 594 analyzed notes. The study reports that "KF no
 
 van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 McNemar's tests relating dimension-level scores to follow-up among the 594 analyzed notes found no significant association; equivalence was not tested. The article prints no effect size for this null finding.
 

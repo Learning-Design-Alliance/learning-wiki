@@ -16,6 +16,9 @@ sources:
 
 # Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial proposes that CSCL researchers should partner with core machine learning researchers to study fairness in trained models used for adaptive collaborative learning support. It states the topics "should be jointly investigated going forward by CSCL researchers in collaboration with core Machine Learning researchers" so that root causes of potential unfairness are understood alongside context of use, enabling effective mitigation strategies.
 

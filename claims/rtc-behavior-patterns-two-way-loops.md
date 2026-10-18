@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09357-3"
     title: "Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang. (2021). Self-efficacy and behavior patterns of learners using a real-time collaboration system developed for group programming. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09357-3"
     author: Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Adult learners using RTC showed a two-way BMO–BCC revision loop, a DEL–DCR interface cycle, and more OI interaction than in individual programming
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Multi-user programming on the RTC produced significant sequential behavior patterns absent from individual programming, including a two-way loop BMOΔBCC, the cycle DEL◊DCR, and more significant OI interaction followed by DCR. [→ Ting-Chia Hsu 2021](#ting-chia-hsu-2021)
@@ -27,7 +34,7 @@ sources:
 
 Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang. (2021). Self-efficacy and behavior patterns of learners using a real-time collaboration system developed for group programming. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09357-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Behavior sequence analysis of system logs from 13 cases using GSEQ 5.1, with 1,897 individual-programming and 3,571 RTC behavior codes, z-scores above 1.96 marking significance. A total of "1,897 behavior codes for individual programming were recorded in the logs, as were a total of 3,571 behavior codes for multi-user programming".
 

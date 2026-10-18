@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-012-9142-3"
     title: "Gerry Stahl. (2012). Ethnomethodologically informed. Computer-Supported Collaborative Learning 7:1–10. https://doi.org/10.1007/s11412-012-9142-3"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Intersubjective understanding can be achieved through inter-animation of persistently opposed perspectives without convergence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pollack and Ben-David Kolikant's case study of dyads discussing the Israeli-Palestinian conflict showed students built intersubjective understanding through inter-animation of opposed perspectives while still disagreeing, rather than through convergence on shared mental models. [→ Gerry Stahl 2012](#gerry-stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2012). Ethnomethodologically informed. Computer-Supported Collaborative Learning 7:1–10. https://doi.org/10.1007/s11412-012-9142-3
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Stahl summarizes Pollack and Ben-David Kolikant's case study of dyads with opposing political positions, mediated by CSCL technology, finding that each dyad used the other's perspective as a resource for reflection while maintaining their distinct perspectives—establishing intersubjectivity despite disagreement.
 

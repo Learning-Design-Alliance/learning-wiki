@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-020-09322-6"
     title: "Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6"
     author: Mohammed Saqr, et al
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Betweenness centrality was positively and significantly correlated with performance only in course C8 in the multigraph configuration, negatively and significantly correlated in four courses in that configuration, and insignificant in all courses when normalized simplified. [→ Mohammed Saqr 2020](#mohammed-saqr-2020)
@@ -26,7 +33,7 @@ sources:
 
 Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Observational analysis of betweenness centrality correlations with performance across the 12 courses in all three configurations. Only C8 was positively significant in the multigraph configuration ("r = 0.35, p < 0.01"); other configurations showed negative or insignificant correlations, and simplified normalized betweenness was statistically insignificant in all courses.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9200-0"
     title: "G. Stahl & S. Ludvigsen & N. Law & U. Cress. (2014). CSCL artifacts. International Journal of Computer-Supported Collaborative Learning, 9, 237–245. https://doi.org/10.1007/s11412-014-9200-0"
     author: "G. Stahl & S. Ludvigsen & N. Law & U. Cress"
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Student dyads given planning software enacted changed practices not intended by designers or facilitators
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When a planning software artifact was inserted into the instructional setting, the student pair followed the syllabus assignment order rather than simulating, evaluating and revising planning decisions. [→ G. Stahl & S. Ludvigsen & N. Law & U. Cress 2014](#g-stahl-s-ludvigsen-n-law-u-cress-2014)
@@ -26,7 +33,7 @@ sources:
 
 G. Stahl & S. Ludvigsen & N. Law & U. Cress. (2014). CSCL artifacts. International Journal of Computer-Supported Collaborative Learning, 9, 237–245. https://doi.org/10.1007/s11412-014-9200-0
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The editorial reports Overdijk et al.'s analysis of a student dyad using planning software, built on Rabardel's notion of instrumental genesis. The dyad initially transferred steps from instructions into a generic spreadsheet, then arranged the given steps within the new format.
 

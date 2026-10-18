@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (2 qualitative, 1 review, 1 design), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (2 qualitative, 2 design, 1 review), `q2` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -43,6 +43,7 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Productive interactions in long-term small-group collaboration take different forms, with discourse-based and object-oriented patterns the most relevant](../claims/productive-interactions-discourse-and-object-oriented-forms.md) [+W] — attached 2026-10-18 from Damşa (2014), which proposed "Multi-layer analytic framework linking productive interaction, knowledge objects, and shared epistemic agency over time".
 - [Groups performing generative epistemic actions more frequently produced higher-quality knowledge objects than a division-of-labor group](../claims/generative-epistemic-actions-higher-object-quality.md) [+W] — attached 2026-10-18 from Damşa (2014), which proposed "Shared epistemic agency as an emerging, group-level capacity for deliberate joint object-oriented interaction"; tests this page's relationship.
 - [Group A's discourse contained the idea units needed for knowledge construction but only rare rise-above moves, indicating a threshold rather than well-developed knowledge-creation discourse](../claims/group-a-threshold-knowledge-creation-discourse.md) [+W] — attached 2026-10-18 from Jan van Aalst (2009), which proposed "Three modes of discourse: knowledge sharing, knowledge construction, and knowledge creation".
+- [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](../claims/shared-epistemic-object-anchors-collaborative-making.md) [+W] — attached 2026-10-18 from Riikonen et al. (2020), which proposed "Epistemic-object account of collaborative making"; tests this page's relationship.
 
 ## Related Theories
 

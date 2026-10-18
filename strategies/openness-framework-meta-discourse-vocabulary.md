@@ -16,6 +16,9 @@ sources:
 
 # Use the socio-cognitive openness framework's discourse acts as an educational vocabulary for meta-discourse, and have teachers contribute with more cognitive than social openness
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that educational practices built on knowledge building communities use the socio-cognitive openness framework as "an educational vocabulary to evaluate the discourse" that gives an impulse to a community's meta-discourse. Its four discourse acts (building knowledge, expression of uncertainty, community orientation, expression of self) provide teachers and students an accessible language for reflecting on their knowledge building communication and knowledge results, possibly raising awareness of self at individual and community levels. A specific teaching implication is that teachers may evoke more follow-up by contributing with more cognitive than social openness.
 
@@ -34,7 +37,7 @@ The article recommends that educational practices built on knowledge building co
 - Sustaining online knowledge building discourse and improving collective idea development
 
 ### Affordances
-- [Socio Cognitive Openness Framework](../theories/socio-cognitive-openness-framework.md)
+- [Socio Cognitive Openness Framework](../research-methods/socio-cognitive-openness-framework-three-levels-two-dimensions-four-discourse-acts-and-eig.md)
 
 ## Related Strategies
 - 

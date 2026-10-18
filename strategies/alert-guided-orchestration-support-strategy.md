@@ -16,6 +16,9 @@ sources:
 
 # Use alert-guided dashboard support so teachers can concentrate on interpreting student answers while the system flags critical collaboration moments
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Under guiding support, automatic alerts flag critical moments (e.g. missing keywords, slow submissions or voting) so that alerts "are very quick to read and do not disturb my tasks, they are helpful to react to certain moments of the activity". Teachers reacted to alerts by increasing time, pausing the activity to give guidelines, posting predefined messages to lagging groups, and making announcements about time and phase transitions. All six teachers agreed the alerts provided guidance to act and their number was adequate.
 

@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09351-9"
     title: "Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe (2021). Deconstructing orchestration load: comparing teacher support through mirroring and guiding. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09351-9"
     author: Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Reported cognitive load was lowest in the mirroring condition (5.4), compared with no dashboard (5.6) and guiding (6.2)
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+
 ## Subclaims
-`q2 i?` Post-activity questionnaire ratings on a 1–20 scale showed the lowest average perceived cognitive load in the mirroring condition, contrary to the expectation that guiding would yield lower load. [→ Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021](#ishari-amarasinghe-davinia-hernández-leo-h-ulrich-hoppe-2021)
+`q2 i?` Post-activity questionnaire ratings on a 1–20 scale showed the lowest average perceived cognitive load in the mirroring condition, contrary to the expectation that guiding would yield lower load. [→ Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021](#ishari-amarasinghe-davinia-hernandez-leo-h-ulrich-hoppe-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe (2021). Deconstructing orchestration load: comparing teacher support through mirroring and guiding. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09351-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Cognitive-load questionnaire (1 low, 20 high) administered after each session of the six-teacher within-subject study; means and SDs are descriptive, no inferential test is reported. The measure reflected overall effort rather than differentiating load types.
 

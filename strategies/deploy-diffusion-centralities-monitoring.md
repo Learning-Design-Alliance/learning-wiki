@@ -16,6 +16,9 @@ sources:
 
 # Deploy diffusion-based centralities to monitor productive discussion and academic success in CSCL
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends using diffusion-based centralities as practical learning-analytics indicators for educators monitoring CSCL forums: "Diffusion-based centralities are feasible to calculate, implement and interpret, while offering a viable solution that can be deployed at any scale to monitor students' productive discussions and academic success." The strategy rests on the centralities' validated links to uptake, coded interaction quality and grades, and their computational ease relative to sophisticated diffusion models.
 
@@ -34,7 +37,7 @@ The article recommends using diffusion-based centralities as practical learning-
 - monitoring productive discussion, uptake, and study success
 
 ### Affordances
-- [Diffusion Centrality Uptake Framework](../theories/diffusion-centrality-uptake-framework.md)
+- [Diffusion Centrality Uptake Framework](../research-methods/diffusion-based-centrality-framework-for-measuring-uptake-in-cscl-discourse.md)
 
 ## Related Strategies
 - 

@@ -16,6 +16,9 @@ sources:
 
 # Log data from co-creation platforms can trace social practices of professional learning despite a streetlight effect
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The study demonstrates that traces from digital co-creation platforms can evidence social practices of knowledge appropriation, maturation and scaffolding at large scale, using ILSs as the unit of analysis and log-based indicators. The authors acknowledge a "'streetlight effect'": the analysis "relies only on the data already available about certain KAM practices mediated by Graasp, whereas additional interactions may have taken place through other face-to-face or digital channels." They recommend designing ICT tools with social-practice tracking in mind and gathering complementary evidence from other physical and digital spaces.
 
@@ -34,7 +37,7 @@ The study demonstrates that traces from digital co-creation platforms can eviden
 - understanding social dimensions of teacher professional learning
 
 ### Affordances
-- [Knowledge Appropriation Model Kam](../theories/knowledge-appropriation-model-kam.md)
+- Knowledge Appropriation Model Kam
 
 ## Related Strategies
 - 

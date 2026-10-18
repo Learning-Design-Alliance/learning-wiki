@@ -12,13 +12,20 @@ sources:
   - id: strauß-2021
     resource: "https://doi.org/10.1007/s11412-021-09340-y"
     title: "Strauß, S., & Rummel, N. (2021). Promoting regulation of equal participation in online collaboration by combining a group awareness tool and adaptive prompts. But does it even matter? International Journal of Computer-Supported Collaborative Learning (2021) 16:67–104. https://doi.org/10.1007/s11412-021-09340-y"
-    author: "Strauß, S., & Rummel, N"
+    author: "Strauß, S., & Rummel, N."
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+
 ## Subclaims
-`q2 i3` Group-aggregated satisfaction correlated strongly and negatively with the gini coefficient of participation in both tasks (rho(15) = −.61 and rho(15) = −.72), confirming H2. [→ Strauß 2021](#strauß-2021)
+`q2 i3` Group-aggregated satisfaction correlated strongly and negatively with the gini coefficient of participation in both tasks (rho(15) = −.61 and rho(15) = −.72), confirming H2. [→ Strauß 2021](#strau-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Strauß, S., & Rummel, N. (2021). Promoting regulation of equal participation in online collaboration by combining a group awareness tool and adaptive prompts. But does it even matter? International Journal of Computer-Supported Collaborative Learning (2021) 16:67–104. https://doi.org/10.1007/s11412-021-09340-y
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Spearman correlations between group-level gini coefficient and group-mean satisfaction in the field experiment yielded a printed effect size of rho = −.61 for topic #3 and rho = −.72 for topic #4, both p < .05; both "can be qualified as strong" per the article. Satisfaction was lower in groups with more unequal participation, and vice versa. Correlational, so causality is not established.
 

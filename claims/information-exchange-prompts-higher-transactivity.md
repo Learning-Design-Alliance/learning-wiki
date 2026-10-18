@@ -17,6 +17,9 @@ sources:
 
 # Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
 ## Subclaims
 `q2 i?` Transactivity analyses showed higher levels of collaborative discourse from information-exchange prompts than from prompts targeting reflection about content understanding or classroom practice. [→ Yoon 2020](#yoon-2020)
 
@@ -26,7 +29,7 @@ sources:
 
 Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351371. https://doi.org/10.1007/s11412-020-09326-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Transactivity analysis of teachers' interaction logs in course discussions of the online asynchronous PD. The analysis found higher levels of collaborative discourse from information-exchange prompts than from reflection prompts about content understanding or classroom practice. No effect size or test statistic is printed in the available text.
 

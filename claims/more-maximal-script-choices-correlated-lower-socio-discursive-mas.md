@@ -12,10 +12,17 @@ sources:
   - id: vogel-2022
     resource: "https://doi.org/10.1007/s11412-022-09363-z"
     title: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S. (2022). Adaptable scaffolding of mathematical argumentation skills: The role of self-regulation when scaffolded with CSCL scripts and heuristic worked examples. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09363-z"
-    author: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S"
+    author: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S."
+    q: 2
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # In Experiment 1, dyads that more often chose maximum CSCL scaffolding had lower post-test socio-discursive MAS
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Actual regulation (frequency of choosing maximal scaffolding) correlated negatively and significantly with post-test socio-discursive MAS (r = -0.36). [→ Vogel 2022](#vogel-2022)
@@ -26,7 +33,7 @@ sources:
 
 Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S. (2022). Adaptable scaffolding of mathematical argumentation skills: The role of self-regulation when scaffolded with CSCL scripts and heuristic worked examples. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09363-z
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Pearson two-tailed correlation analyses in Experiment 1 between frequency of adapting to maximum scaffolding (M=6.49, SD=4.49, range 0–18) and outcome measures. Post-test socio-discursive MAS correlation significant and negative (r=-0.36, p=0.04); self-regulation correlation (r=-0.30, p=0.09) not significant.
 

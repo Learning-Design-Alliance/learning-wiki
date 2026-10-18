@@ -16,6 +16,9 @@ sources:
 
 # Sequence collaboration and individual work on the same ITS problems, then compare error and hint process data across conditions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors' methodological strategy is to analyze "the hints and errors of students over time from process data" to understand why a combined collaborative-individual condition performs differently, looking at error rates "both when working collaboratively and individually" and hint requests relative to the other conditions. This complements pre/post learning-gain comparisons with within-activity behavioral traces rather than relying on outcome scores alone.
 

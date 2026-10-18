@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9200-0"
     title: "G. Stahl & S. Ludvigsen & N. Law & U. Cress. (2014). CSCL artifacts. International Journal of Computer-Supported Collaborative Learning, 9, 237–245. https://doi.org/10.1007/s11412-014-9200-0"
     author: "G. Stahl & S. Ludvigsen & N. Law & U. Cress"
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Co-citation analysis identified eight seminal CSCL works with little overlap with an earlier corpus study, possibly over-generalizing to a European sub-network
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Only three of the eight central works (37.5 %) identified by co-citation analysis were included in the previous study's list of 278 selected papers. [→ G. Stahl & S. Ludvigsen & N. Law & U. Cress 2014](#g-stahl-s-ludvigsen-n-law-u-cress-2014)
@@ -27,7 +34,7 @@ sources:
 
 G. Stahl & S. Ludvigsen & N. Law & U. Cress. (2014). CSCL artifacts. International Journal of Computer-Supported Collaborative Learning, 9, 237–245. https://doi.org/10.1007/s11412-014-9200-0
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The editorial reports Tang, Tsai and Lin's co-citation analysis of CSCL literature followed by social network analysis clustering, which yielded eight 'seminal works' with 'little overlap' with the earlier 2005–2009 corpus study's 278 selected papers. The editorial attributes this second-hand.
 

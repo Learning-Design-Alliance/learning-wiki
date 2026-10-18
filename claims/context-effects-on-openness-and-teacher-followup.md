@@ -12,14 +12,25 @@ sources:
   - id: van-heijst-2019
     resource: "https://doi.org/10.1007/s11412-019-09303-4"
     title: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4"
-    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A"
+    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
   - id: van-heijst-2019-2
     resource: "https://doi.org/10.1007/s11412-019-09303-4"
     title: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4"
-    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A"
+    author: "van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Context characteristics (community type, trimester, teacher-student role) have little impact on openness; teachers contribute more social openness and receive less follow-up
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Full community views had more high social and high cognitive openness scores than sub communities, and trimester 2 had more high cognitive openness scores with a small effect size (ɸ = .13). [→ van Heijst 2019](#van-heijst-2019)
@@ -31,7 +42,7 @@ sources:
 
 van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 McNemar's and chi-square tests on the 594 analyzed notes comparing openness across community type and trimester. The article prints the effect size " ɸ = .13" for the small trimester difference in cognitive openness; for the social dimension, trimester was not significantly related to openness.
 
@@ -41,7 +52,7 @@ McNemar's and chi-square tests on the 594 analyzed notes comparing openness acro
 
 van Heijst, H., de Jong, F. P. C. M., van Aalst, J., de Hoog, N., & Kirschner, P. A. (2019). Socio-cognitive openness in online knowledge building discourse: does openness keep conversations going? International Journal of Computer-Supported Collaborative Learning, 14, 165-184. https://doi.org/10.1007/s11412-019-09303-4
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Analysis of teacher-student role among 65 of the analyzed notes (10.9%) contributed by course teachers. The article reports teachers' contributions "received less follow-up than expected compared to students'notes (p <. 0 1 )" and were more often high in social openness; no cognitive openness difference was found.
 

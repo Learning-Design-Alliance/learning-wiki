@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09360-8"
     title: "Carolyn Rosé, Sanna Järvelä. (2021). A theory-driven reflection on context-aware support for collaborative discussions in light of analytics, affordances, and platforms. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09360-8"
     author: Carolyn Rosé, Sanna Järvelä
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Multimodal behavioral profiles of dyads' collaborative learning are identifiable by integrating video, audio, and log data, with emergent processes more explanatory than individual behaviors
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
+
 ## Subclaims
-`q2 i?` The editors report that integrating video, audio, and log data identified three multimodal behavioral profile clusters for dyads (Expressive Explorers, Calm Tinkerers, Silent Wanderers), and that emergent underlying processes are more explanatory than individual behaviors. [→ Carolyn Rosé 2021](#carolyn-rosé-2021)
+`q2 i?` The editors report that integrating video, audio, and log data identified three multimodal behavioral profile clusters for dyads (Expressive Explorers, Calm Tinkerers, Silent Wanderers), and that emergent underlying processes are more explanatory than individual behaviors. [→ Carolyn Rosé 2021](#carolyn-rose-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Carolyn Rosé, Sanna Järvelä. (2021). A theory-driven reflection on context-aware support for collaborative discussions in light of analytics, affordances, and platforms. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09360-8
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Editorial account (the editors describe Nasir et al.'s multimodal study of dyads on an interactive tabletop with a robot mediator): affect is included to connect behavior and learning, and clusters named Expressive Explorers, Calm Tinkerers, and Silent Wanderers; "underlying intents, strategies" are the explanatory level.
 

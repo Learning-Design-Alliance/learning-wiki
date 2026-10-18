@@ -16,6 +16,9 @@ sources:
 
 # Conduct more CSCL research at scale in authentic settings and follow collaborative learning over longer periods
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 As directions for future work, the article calls for studies involving many participants in authentic settings and studies following collaborative learning over longer periods of time. It praises the museum study as rare CSCL research "at scale" with more than 5600 visitors, and underscores long-term analyses like the year-long knowledge-building study because innovations are too often studied only during early take-up, when practice is immature.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-019-09305-2"
     title: "U. Cress, C. P. Rosé, N. Law, S. Ludvigsen. (2019). Investigating the complexity of computer-supported collaborative learning in action. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-019-09305-2"
     author: U. Cress, C. P. Rosé, N. Law, S. Ludvigsen
+    q: 2
+    i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Simulation and hybrid authentic-learning approaches do not necessarily differ in participants or experienced meaningfulness of collaboration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Matching the two basic approaches and their variants to the five dimensions identified meaningful patterns, with simulation and hybrid approaches not necessarily differing on participants or experienced meaningfulness. [→ U. Cress 2019](#u-cress-2019)
@@ -26,7 +33,7 @@ sources:
 
 U. Cress, C. P. Rosé, N. Law, S. Ludvigsen. (2019). Investigating the complexity of computer-supported collaborative learning in action. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-019-09305-2
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 Pattern identified by Hod and Sagy's review across the articles they coded with the taxonomy's five descriptors (participants, setting, timeframe, computer support, meaningfulness), as reported by the editorial: simulation and hybrid approaches "do not necessarily differ with regard to participants or the extent they experience the collaboration as meaningful."
 

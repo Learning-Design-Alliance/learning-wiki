@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-014-9200-0"
     title: "G. Stahl & S. Ludvigsen & N. Law & U. Cress. (2014). CSCL artifacts. International Journal of Computer-Supported Collaborative Learning, 9, 237–245. https://doi.org/10.1007/s11412-014-9200-0"
     author: "G. Stahl & S. Ludvigsen & N. Law & U. Cress"
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Damşa's study concludes that increased discourse about textual knowledge objects leads to better learning or knowledge building
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Damşa's case study, increases in discourse about the groups' textual objects are concluded to lead to improvements in learning or better knowledge building. [→ G. Stahl & S. Ludvigsen & N. Law & U. Cress 2014](#g-stahl-s-ludvigsen-n-law-u-cress-2014)
@@ -26,7 +33,7 @@ sources:
 
 G. Stahl & S. Ludvigsen & N. Law & U. Cress. (2014). CSCL artifacts. International Journal of Computer-Supported Collaborative Learning, 9, 237–245. https://doi.org/10.1007/s11412-014-9200-0
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The editorial attributes this conclusion to Damşa's analysis of small-group collaboration, in which 'The document drafts produced by the groups are conceptualized here as knowledge objects.' No effect size or sample details are printed; the editorial reports it second-hand.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-020-09322-6"
     title: "Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6"
     author: Mohammed Saqr, et al
+    q: 3
+    i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Outdegree in the multigraph configuration was positively correlated with performance in all 12 courses (r = 0.57 to 0.78), whereas simplified configuration correlated with only six courses and weighted outdegree was negatively and significantly correlated in two courses. [→ Mohammed Saqr 2020](#mohammed-saqr-2020)
@@ -26,7 +33,7 @@ sources:
 
 Mohammed Saqr, et al. (2020). Capturing the participation and social dimensions of computer-supported collaborative learning through social network analysis: which method and measures matter? International Journal of Computer-Supported Collaborative Learning 15:227–248. https://doi.org/10.1007/s11412-020-09322-6
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Observational SNA analysis across the 12 PBL courses comparing multigraph, weighted and simplified outdegree. Multigraph outdegree was "consistently positively correlated with student performance in all courses"; simplified correlated with six courses only, and weighted outdegree was negatively and significantly correlated in two courses (C9 and C10).
 

@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (17 for, 18 mixed, 2 against) · 43 studies (8 causal, 8 quant-synthesis, 7 theoretical, 6 review, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 6 of 43 report an effect size · 31 claims rest on one study
+> **Evidence** · 39 claims (19 for, 18 mixed, 2 against) · 45 studies (10 causal, 8 quant-synthesis, 7 theoretical, 6 review, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 7 of 45 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](../claims/collaborative-problem-solving-improves-critical-thinking-overall.md) [+M] — attached 2026-10-16 from Xu et al. (2023), which proposed "Design collaborative problem-solving for critical thinking around real problems, mixed courses, small groups, and teacher-supported scaffolds"; tests this page's relationship.
 - [Mixed courses show the largest effect among teaching types (ES = 1.34), and effects decline as group size increases beyond 2–3 members](../claims/mixed-courses-and-small-groups-strongest-cps-effects.md) [+M] — attached 2026-10-16 from Xu et al. (2023), which proposed "Design collaborative problem-solving for critical thinking around real problems, mixed courses, small groups, and teacher-supported scaffolds".
 - [Scripts scaffolding coordination alone or negotiation with information sharing show the largest domain-learning effects, while three-way combinations show smaller significant effects](../claims/specific-activity-combinations-domain-learning-moderator.md) [+M] — attached 2026-10-17 from Radkowitsch et al. (2020), which proposed "Design CSCL scripts to scaffold specific collaborative activities (negotiation, information sharing, coordination) rather than treating transactivity as a single undifferentiated target".
+- [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](../claims/gaze-feedback-improves-collaborative-process.md) [+W] — attached 2026-10-18 from Hayashi (2020), which proposed "Combine gaze-awareness feedback with PCA metacognitive suggestions to improve both coordination and learning gains in computer-mediated collaborative learning".
+- [Adult learners using RTC showed a two-way BMO–BCC revision loop, a DEL–DCR interface cycle, and more OI interaction than in individual programming](../claims/rtc-behavior-patterns-two-way-loops.md) [+W] — attached 2026-10-18 from Ting-Chia Hsu et al. (2021), which proposed "Instantly shared annotations and a chat room in RTC support constructing shared knowledge in multi-user programming".
 
 ## Objective and learner-valued goal
 

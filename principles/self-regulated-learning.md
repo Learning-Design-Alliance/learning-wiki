@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (35 for, 28 mixed, 3 against) · 53 studies (19 causal, 9 quant-synthesis, 9 review, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 15 of 53 report an effect size · 55 claims rest on one study
+> **Evidence** · 68 claims (36 for, 29 mixed, 3 against) · 54 studies (19 causal, 10 review, 9 quant-synthesis, 7 theoretical, 6 associational, 2 design, 1 qualitative), `q1`–`q4` · 15 of 54 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,8 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](../claims/metacognitive-selfregulation-training-beats-strategy-training.md) [+W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Use spared metacognitive monitoring as the basis for compensatory self-regulated learning in older adults"; tests this page's relationship.
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](../claims/aging-spares-jol-resolution-encoding.md) [~W] — attached 2026-10-17 from Hertzog C (2011), which proposed "Use spared metacognitive monitoring as the basis for compensatory self-regulated learning in older adults".
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — attached 2026-10-17 from Mary C. English (2013), which proposed "Design PBL learning environments and teaching practices with intention to support students' self-regulated learning".
+- [Self-regulation skills are particularly needed when learning with minimally structured or adaptable collaboration scripts in CSCL](../claims/self-regulation-needed-minimally-structured-adaptable-scripts.md) [+W] — attached 2026-10-18 from Lenka Schnaubert · Freydis Vogel (2022), which proposed "Balance script-imposed self-regulation demands by integrating regulation activities into collaboration script scaffolds".
+- [With a scripted collaboration designed to elicit metacognition, deep-level metacognitive regulation stays rare and students mostly accept rather than co-construct or share regulation](../claims/deep-level-shared-regulation-rare-despite-script.md) [~W] — attached 2026-10-18 from Lenka Schnaubert · Freydis Vogel (2022), which proposed "Balance script-imposed self-regulation demands by integrating regulation activities into collaboration script scaffolds".
 
 ## Objective and learner-valued goal
 

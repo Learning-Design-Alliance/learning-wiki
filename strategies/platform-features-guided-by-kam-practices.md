@@ -16,6 +16,9 @@ sources:
 
 # Use identified KAM social practices to guide collaborative platform features supporting teacher adoption
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Building on the finding that KAM traces align with higher adoption, the authors recommend using "the identification of key social practices" to guide future platform development in Graasp. Suggested functionalities include facilitating discussions or helping teachers find relevant peers or experts, helping practitioners communicate and expand their networks, and promoting the imagination and alignment aspects of communities of practice, for example encouraging ILS co-creation and exchange of teaching experiences. The goal is designing collaborative functionalities that encourage social learning and knowledge creation leading to changes in professional practice.
 
@@ -34,7 +37,7 @@ Building on the finding that KAM traces align with higher adoption, the authors 
 - adopting pedagogical innovations such as inquiry-based learning
 
 ### Affordances
-- [Knowledge Appropriation Model Kam](../theories/knowledge-appropriation-model-kam.md)
+- Knowledge Appropriation Model Kam
 
 ## Related Strategies
 - 

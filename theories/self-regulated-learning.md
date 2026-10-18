@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 60 claims (34 for, 23 mixed, 3 against) · 61 studies (20 associational, 16 causal, 10 quant-synthesis, 5 review, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 19 of 61 report an effect size · 45 claims rest on one study
+> **Evidence** · 61 claims (35 for, 23 mixed, 3 against) · 62 studies (20 associational, 16 causal, 10 quant-synthesis, 6 theoretical, 5 review, 3 qualitative, 2 design), `q1`–`q4` · 19 of 62 report an effect size · 46 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -107,6 +107,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](../claims/fall-htks-predicts-literacy-gains.md) [~W] — attached 2026-10-17 from Connor Carol McDonald et al. (2010), which proposed "Working model of self-regulation supporting academic growth through teacher practices".
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](../claims/pbl-success-requires-srl-processes-not-natural.md) [+W] — attached 2026-10-17 from Mary C. English (2013), which proposed "A theoretical model of the relationship between PBL and self-regulated learning".
 - [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](../claims/planning-prompts-increase-mooc-completion.md) [+M] — attached 2026-10-17 from Planning prompts increase and forecast course completion in massive open online courses, which proposed "The intention-action gap in MOOC learning and plan-making as a cheap, effective nudge"; tests this page's relationship.
+- [Regulating GA proceeds via metacognitive monitoring of adequacy and accuracy plus control through outward- and inward-oriented strategies](../claims/ga-regulation-monitoring-control-strategies.md) [+W] — attached 2026-10-18 from Lenka Schnaubert (2022), which proposed "GA participates in three regulatory cycles: regulating GA, regulating social interaction, and regulating partner schema building".
 
 ## The evidence by question
 

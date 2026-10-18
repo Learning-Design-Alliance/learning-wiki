@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09357-3"
     title: "Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang. (2021). Self-efficacy and behavior patterns of learners using a real-time collaboration system developed for group programming. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09357-3"
     author: Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Learners who collaborated with RTC reported CPSE as high as those who programmed individually; the overall average of the 13 cases improved but did not achieve statistical significance. [→ Ting-Chia Hsu 2021](#ting-chia-hsu-2021)
@@ -26,7 +33,7 @@ sources:
 
 Ting-Chia Hsu, Hal Abelson, Evan Patton, Shih-Chu Chen, Hsuan-Ning Chang. (2021). Self-efficacy and behavior patterns of learners using a real-time collaboration system developed for group programming. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-021-09357-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Behavioral experiment in which 13 adult learners completed two individual projects then two RTC collaborative projects, with CPSE (16 items, Cronbach's α = 0.96) surveyed after each phase. The overall average of the 13 cases "did improve, but did not achieve statistical significance".
 

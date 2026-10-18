@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09348-4"
     title: "Sanna Järvelä · Carolyn Rosé. (2021). Forms of collaboration matters: CSCL across the contexts. Intern. J. Comput.-Support. Collab. Learn (2021) 16:145–149. https://doi.org/10.1007/s11412-021-09348-4"
     author: Sanna Järvelä · Carolyn Rosé
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Students' collaborative historical reasoning evolved over two days while co-constructing network representations with Net.Create, per the editorial's report of Craig et al.
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r1` · `q2`
+
 ## Subclaims
-`q2 i?` Process analysis showed collaborative reasoning evolved over two days as students explored the historical period through their interactions with texts in Net.Create. [→ Sanna Järvelä · Carolyn Rosé 2021](#sanna-järvelä-carolyn-rosé-2021)
+`q2 i?` Process analysis showed collaborative reasoning evolved over two days as students explored the historical period through their interactions with texts in Net.Create. [→ Sanna Järvelä · Carolyn Rosé 2021](#sanna-jarvela-carolyn-rose-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Sanna Järvelä · Carolyn Rosé. (2021). Forms of collaboration matters: CSCL across the contexts. Intern. J. Comput.-Support. Collab. Learn (2021) 16:145–149. https://doi.org/10.1007/s11412-021-09348-4
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 The editorial reports Craig et al.'s in-depth process analysis, using Activity Theory as a lens, of students working with Net.Create on the time of Claudius, Agrippina and Nero. It prints no effect size or counts.
 

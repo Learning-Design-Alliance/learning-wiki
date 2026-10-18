@@ -16,6 +16,9 @@ sources:
 
 # Teachers ensure even delegation of construction responsibilities in making teams
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because possession of particular tools, such as shaping materials, "could... give the user the authority to control team activities", the article recommends that "teachers should ensure that the construction responsibilities are delegated evenly and provide everyone a chance to participate in joint fabrication work." This is an implementable facilitation move for open-ended making projects where participation is otherwise uneven. It complements other facilitation duties the article lists: sparking initial interest, introducing tools and materials, modeling, and assisting students through frustrating moments.
 

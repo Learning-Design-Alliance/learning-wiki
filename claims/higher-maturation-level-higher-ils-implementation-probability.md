@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-020-09335-1"
     title: "Ulrike Cress. (2020). The richness of CSCL environments. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09335-1"
     author: Ulrike Cress
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The higher the maturation level of an Inquiry Learning Space (create, share, co-create, publish), the higher its probability of being implemented in a classroom
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Maturation indicators predicted classroom implementation: higher maturation level was associated with a higher probability of implementation. [→ Ulrike Cress 2020](#ulrike-cress-2020)
@@ -26,7 +33,7 @@ sources:
 
 Ulrike Cress. (2020). The richness of CSCL environments. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09335-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The editorial reports a large-scale study tracing the development and use of about 40,000 Inquiry Learning Spaces in the Go-Lab teacher community, with implementation in a classroom as dependent variable. The editorial attributes this finding to the study, reporting no printed statistic here.
 

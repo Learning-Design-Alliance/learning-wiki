@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09354-6"
     title: "Peter Reimann. (2021). Socio-technical configurations for productive talk. Intern. J. Comput.-Support. Collab. Learn (2021) 16:301–306. https://doi.org/10.1007/s11412-021-09354-6"
     author: Peter Reimann
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In the prompted experimental group, dyads produced statistically significantly more Justifications and Alternative ideas than the control group, and Simple questions were used mainly for coordination rather than domain learning. [→ Peter Reimann 2021](#peter-reimann-2021)
@@ -26,7 +33,7 @@ sources:
 
 Peter Reimann. (2021). Socio-technical configurations for productive talk. Intern. J. Comput.-Support. Collab. Learn (2021) 16:301–306. https://doi.org/10.1007/s11412-021-09354-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Quasi-experimental study with 62 upper primary students (9–10 years old), half receiving prompts accompanied by verbal reinforcement; talk was coded with a modified Mercer framework and analyzed from code frequencies to ENA temporal patterns. Comparison is experimental versus control group, as printed. No effect size is given.
 

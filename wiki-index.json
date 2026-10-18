@@ -1,15 +1,15 @@
 {
 "counts":{
 "claim":19797,
-"design":867,
+"design":873,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":68,
 "principle":213,
 "process":18,
-"product":1740,
-"research-method":386,
+"product":1749,
+"research-method":400,
 "strategy":6072,
 "theory":1361
 },
@@ -179963,6 +179963,14 @@
 "type":"design"
 },
 {
+"description":"A teacher dashboard prototype built on MathTutor digital traces for dyads collaborating on fraction assignments, developed through \\\"a teacher co-design methodology\\\" with 10 teachers.",
+"id":"cscl-teacher-dashboard-prototype-fractions",
+"path":"designs/cscl-teacher-dashboard-prototype-fractions.md",
+"status":"review",
+"title":"CSCL teacher dashboard prototype for primary-school fractions with six activity indicators",
+"type":"design"
+},
+{
 "description":"The CSUB Teacher Residency Consortium is a professional learning community that brings together all of the university's residency coordinators monthly to align practices and share solutions across the seven residency...",
 "id":"csub-residency-consortium-plc",
 "path":"designs/csub-residency-consortium-plc.md",
@@ -181230,6 +181238,14 @@
 "type":"design"
 },
 {
+"description":"An intelligent tutoring system for fractions served as the core learning environment in this study, deployed with \\\"382 4th and 5th grade students\\\" across three conditions: a combined condition and \\\"individual or colla...",
+"id":"fractions-its-collaborative-combined-conditions-element",
+"path":"designs/fractions-its-collaborative-combined-conditions-element.md",
+"status":"review",
+"title":"Intelligent tutoring system for fractions used in individual, collaborative, and combined learning conditions",
+"type":"design"
+},
+{
 "description":"An 18-month residency (2017–2019) within Fresno Unified's workforce pipeline, run with California State University, Fresno, leading to a Multiple Subject credential and a master's degree in curriculum and instruction.",
 "id":"fresno-tk3-teacher-residency-program",
 "path":"designs/fresno-tk3-teacher-residency-program.md",
@@ -181307,6 +181323,14 @@
 "path":"designs/game-jam-resource-kit.md",
 "status":"review",
 "title":"Game jam resource kit: non-digital and digital materials, software, venue and devices for 4C-focused jams",
+"type":"design"
+},
+{
+"description":"A self-designed wiki environment on energy sources in which awareness information appears as horizontal bars in the discussion forum in the header and next to threads.",
+"id":"gat-wiki-environment-bar-visualizations",
+"path":"designs/gat-wiki-environment-bar-visualizations.md",
+"status":"review",
+"title":"Wiki learning environment with knowledge bars and participation bars at individual, group, and subgroup levels",
 "type":"design"
 },
 {
@@ -183692,6 +183716,14 @@
 "type":"design"
 },
 {
+"description":"The RIDE rules — Respect, Intelligent collaboration, Deciding together, and Encouraging — are communication rules summarizing essential characteristics of effective collaboration, derived by Saab et al.",
+"id":"ride-rules-effective-collaboration",
+"path":"designs/ride-rules-effective-collaboration.md",
+"status":"review",
+"title":"RIDE rules for effective collaboration",
+"type":"design"
+},
+{
 "description":"The taxonomy is instantiated as four tables (Tables 2-5), one per workflow stage, where each task row gives a definition, a model-agnostic baseline prompt, and a risk-and-mitigation column.",
 "id":"risk-mitigation-prompt-tables-per-stage",
 "path":"designs/risk-mitigation-prompt-tables-per-stage.md",
@@ -183817,6 +183849,14 @@
 "path":"designs/school-aggregation-benchmark-generator.md",
 "status":"review",
 "title":"Synthetic benchmark instance generator for school aggregation problems",
+"type":"design"
+},
+{
+"description":"Drawing on craft (sloyd) tradition, the authors characterize school-based collaborative making projects as \\\"1) multi-material, including both soft (e.g., textile) and hard (e.g., metals) materials; 2) digitally enhanc...",
+"id":"school-collaborative-making-project-pattern",
+"path":"designs/school-collaborative-making-project-pattern.md",
+"status":"review",
+"title":"Collaborative making project pattern: multi-material, digitally enhanced, holistic, thematically anchored",
 "type":"design"
 },
 {
@@ -184201,6 +184241,14 @@
 "path":"designs/smallab-three-design-principles.md",
 "status":"review",
 "title":"SMALLab mixed-reality design pivots on three principles: face-to-face interaction, distributed thought and action, and immediate consolidation",
+"type":"design"
+},
+{
+"description":"The article frames teacher collaboration in online asynchronous PD through social capital mechanisms.",
+"id":"social-capital-elements-online-pd-framework",
+"path":"designs/social-capital-elements-online-pd-framework.md",
+"status":"review",
+"title":"Social capital elements as design levers for online teacher professional development",
 "type":"design"
 },
 {
@@ -199112,6 +199160,14 @@
 "type":"product"
 },
 {
+"description":"An interactive augmented-reality sandbox environment presented by Hod and Twersky for embodied, collaborative spatial learning in science classrooms.",
+"id":"augmented-reality-sandbox",
+"path":"products/augmented-reality-sandbox.md",
+"status":"review",
+"title":"Augmented Reality Sandbox",
+"type":"product"
+},
+{
 "description":"A competitive federal grant programme administered by the U.S.",
 "id":"augustus-f-hawkins-center-for-excellence-grant-program",
 "path":"products/augustus-f-hawkins-center-for-excellence-grant-program.md",
@@ -201072,6 +201128,14 @@
 "path":"products/dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove.md",
 "status":"review",
 "title":"Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters",
+"type":"product"
+},
+{
+"description":"A dataset compiled from 69 Qassim University problem-based learning course offerings, containing coded Moodle forum interactions, student participation, and course-assessment information for studying online collaborative learning.",
+"id":"dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions",
+"path":"products/dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions.md",
+"status":"review",
+"title":"Dataset of 69 Qassim University PBL course offerings with coded forum interactions",
 "type":"product"
 },
 {
@@ -203164,6 +203228,22 @@
 "type":"product"
 },
 {
+"description":"The Go-Lab ecosystem, including the Graasp authoring and implementation platform and Golabz repository, is a technology environment developed and maintained to help teachers create and use inquiry-based STEM learning spaces.",
+"id":"go-lab-ecosystem",
+"path":"products/go-lab-ecosystem.md",
+"status":"review",
+"title":"Go-Lab ecosystem",
+"type":"product"
+},
+{
+"description":"Go-Lab is an online ecosystem and teacher community that supports the creation, sharing, reuse, and refinement of inquiry-based learning spaces and resources, developed and maintained by the Go-Lab Initiative.",
+"id":"go-lab-online-teacher-community-and-inquiry-learning-spaces",
+"path":"products/go-lab-online-teacher-community-and-inquiry-learning-spaces.md",
+"status":"review",
+"title":"Go-Lab online teacher community and Inquiry Learning Spaces",
+"type":"product"
+},
+{
 "description":"The Go-Learn-Grow toolkit is a set of practical materials produced for the Regional Educational Laboratory Mid-Atlantic to help districts, schools, and early childhood providers improve pre-kindergarten and kindergarten attendance.",
 "id":"go-learn-grow",
 "path":"products/go-learn-grow.md",
@@ -203513,6 +203593,14 @@
 "path":"products/hoot-reading.md",
 "status":"review",
 "title":"Hoot Reading",
+"type":"product"
+},
+{
+"description":"A digital discussion environment developed for written and oral contributions, configurable group conversations, and moderator-controlled reflection on controversial topics.",
+"id":"hot-discussions-platform-hdp",
+"path":"products/hot-discussions-platform-hdp.md",
+"status":"review",
+"title":"Hot Discussions Platform (HDP)",
 "type":"product"
 },
 {
@@ -206271,6 +206359,14 @@
 "type":"product"
 },
 {
+"description":"Net.Create is a network-visualization platform developed by Craig and colleagues that enables students to co-construct representations of historical events and relationships for collaborative reasoning.",
+"id":"netcreate",
+"path":"products/netcreate.md",
+"status":"review",
+"title":"Net.Create",
+"type":"product"
+},
+{
 "description":"A Gates Foundation programme that supports networks of schools in using continuous improvement to improve outcomes for students who are Black, Latino, or experiencing poverty.",
 "id":"networks-for-school-improvement-nsi",
 "path":"products/networks-for-school-improvement-nsi.md",
@@ -207928,6 +208024,14 @@
 "type":"product"
 },
 {
+"description":"PyramidApp is a web-based collaborative-learning platform developed by Ishari Amarasinghe, Davinia Hernández-Leo, and H.",
+"id":"pyramidapp",
+"path":"products/pyramidapp.md",
+"status":"review",
+"title":"PyramidApp",
+"type":"product"
+},
+{
 "description":"A dataset of 2,074 web-collected and LLM-generated Python multiple-choice questions spanning 22 concept categories, created by Jiajia Song et al.",
 "id":"python-mcq-dataset-for-unlearning-and-relearning-experiments",
 "path":"products/python-mcq-dataset-for-unlearning-and-relearning-experiments.md",
@@ -209302,6 +209406,14 @@
 "path":"products/social-sciences-education-framework-for-california-public-schools.md",
 "status":"review",
 "title":"Social Sciences Education Framework for California Public Schools",
+"type":"product"
+},
+{
+"description":"A SocioPatterns wearable RFID proximity-sensing system that records face-to-face contact durations between participants for collaboration and network analysis.",
+"id":"sociopatterns-rfid-badges",
+"path":"products/sociopatterns-rfid-badges.md",
+"status":"review",
+"title":"SocioPatterns RFID badges",
 "type":"product"
 },
 {
@@ -211356,6 +211468,14 @@
 "type":"product"
 },
 {
+"description":"A web-based virtual expedition and laboratory environment designed by education, biology, and chemistry professionals for interdisciplinary inquiry into environmental change using authentic Baltic Sea research materials and data.",
+"id":"vibse-virtual-baltic-sea-explorer",
+"path":"products/vibse-virtual-baltic-sea-explorer.md",
+"status":"review",
+"title":"ViBSE (Virtual Baltic Sea Explorer)",
+"type":"product"
+},
+{
 "description":"The vICC R package is an R software implementation of Bayesian tests for within-person variance homogeneity and membership models, released by the article's authors for researchers analyzing repeated-measures data.",
 "id":"vicc-r-package",
 "path":"products/vicc-r-package.md",
@@ -211940,6 +212060,14 @@
 "type":"research-method"
 },
 {
+"description":"This conceptualization, from Hod and Sagy, categorizes and compares authentic learning scenarios.",
+"id":"a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env",
+"path":"research-methods/a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env.md",
+"status":"review",
+"title":"A taxonomy classifying authentic CSCL learning environments into simulation and hybrid environments with five descriptors",
+"type":"research-method"
+},
+{
 "description":"The article introduces a taxonomy of ten distractor-generation strategies, \\\"grounded in learning-science literature and empirical observations of LLMs’ reasoning traces\\\", spanning task understanding (INTER, CORR), candidate construction (LINK, ERR_DESC, ERR_SIM, INST), quality control and selection ",
 "id":"a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l",
 "path":"research-methods/a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l.md",
@@ -212085,6 +212213,14 @@
 "type":"research-method"
 },
 {
+"description":"The chapter holds that telemetry \\\"should have the following properties: (a) is a description of behavior and not an inference about why behavior occurs, (b) is unambiguous,\\\" and (c) contains sufficient context to link the element to a specific player at a specific point.",
+"id":"behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events",
+"path":"research-methods/behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events.md",
+"status":"review",
+"title":"Behavioral telemetry logging with observable, unambiguous, contextualized events",
+"type":"research-method"
+},
+{
 "description":"A BERT-based model the authors train to learn embeddings for math strategies from MATHia student log data, together with a prediction task that distinguishes between successful and unsuccessful strategy use.",
 "id":"bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs",
 "path":"research-methods/bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs.md",
@@ -212162,6 +212298,14 @@
 "path":"research-methods/causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials.md",
 "status":"review",
 "title":"Causal mediation analysis of teacher practice in education randomized trials",
+"type":"research-method"
+},
+{
+"description":"The article organizes SNA-based CSCL measurement around two dimensions.",
+"id":"centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs",
+"path":"research-methods/centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs.md",
+"status":"review",
+"title":"Centrality measures as operationalization of the participatory and social dimensions of CSCL",
 "type":"research-method"
 },
 {
@@ -212423,6 +212567,14 @@
 "type":"research-method"
 },
 {
+"description":"Stahl proposes data sessions—involving multiple analysts reviewing the same data—as a mechanism for guarding against bias and idiosyncrasy in EM case analysis.",
+"id":"data-sessions-and-multiple-experienced-analysts-for-intersubjective-validation",
+"path":"research-methods/data-sessions-and-multiple-experienced-analysts-for-intersubjective-validation.md",
+"status":"review",
+"title":"Data sessions and multiple experienced analysts for intersubjective validation",
+"type":"research-method"
+},
+{
 "description":"DBIR is an emerging research-and-development approach the article positions as the process for co-developing its differentiated instruction practice framework.",
 "id":"design-based-implementation-research-dbir",
 "path":"research-methods/design-based-implementation-research-dbir.md",
@@ -212436,6 +212588,14 @@
 "path":"research-methods/design-based-rct-analysis-with-grouped-administrative-data.md",
 "status":"review",
 "title":"Design-based RCT analysis with grouped administrative data",
+"type":"research-method"
+},
+{
+"description":"Because education systems are structurally resistant to change, the article argues that \\\"advances in education often depend on use-inspired, iterative research conducted in partnership with practitioners and communities.\\\" It further notes that breakthroughs can emerge not only from new ideas but fro",
+"id":"design-based-research",
+"path":"research-methods/design-based-research.md",
+"status":"review",
+"title":"Design-Based Research",
 "type":"research-method"
 },
 {
@@ -212468,6 +212628,14 @@
 "path":"research-methods/dialogue-act-coding-dac-system.md",
 "status":"review",
 "title":"Dialogue Act Coding (DAC) system",
+"type":"research-method"
+},
+{
+"description":"A framework representing threaded CSCL discussion as a directed post-reply network in which centrality measures operationalize the uptake of ideas and stimulation of further discussion.",
+"id":"diffusion-based-centrality-framework-for-measuring-uptake-in-cscl-discourse",
+"path":"research-methods/diffusion-based-centrality-framework-for-measuring-uptake-in-cscl-discourse.md",
+"status":"review",
+"title":"Diffusion-based centrality framework for measuring uptake in CSCL discourse",
 "type":"research-method"
 },
 {
@@ -213282,6 +213450,14 @@
 "type":"research-method"
 },
 {
+"description":"The editorial describes Bridges et al.'s methodological lens, Interactional Ethnography (IE), as \\\"a logic-of-inquiry that can be used to examine collaborative processes\\\" as undergraduate students and their facilitator work with multimodal text.",
+"id":"interactional-ethnography-and-dialogic-intervisualizing",
+"path":"research-methods/interactional-ethnography-and-dialogic-intervisualizing.md",
+"status":"review",
+"title":"Interactional Ethnography and dialogic intervisualizing",
+"type":"research-method"
+},
+{
 "description":"The editorial reports that Su et al.",
 "id":"interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning",
 "path":"research-methods/interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning.md",
@@ -213474,6 +213650,14 @@
 "type":"research-method"
 },
 {
+"description":"The Making-Process-Rug is a visual video-analysis method developed by the authors to trace \\\"social-discursive, materially mediated, individual, and collaborative making processes\\\" across a longitudinal co-invention project.",
+"id":"making-process-rug-video-analysis-method",
+"path":"research-methods/making-process-rug-video-analysis-method.md",
+"status":"review",
+"title":"Making-Process-Rug video-analysis method",
+"type":"research-method"
+},
+{
 "description":"MFRM, developed by Linacre in 1989 as an extension of the partial credit model, is an IRT model in which \\\"all so urces of variability , such as raters, items and persons, which have the potential to influence measurement results , are considered simultaneously\\\".",
 "id":"many-facet-rasch-model",
 "path":"research-methods/many-facet-rasch-model.md",
@@ -213511,6 +213695,14 @@
 "path":"research-methods/me-checklist.md",
 "status":"review",
 "title":"M&E Checklist",
+"type":"research-method"
+},
+{
+"description":"Borge and Mercier propose this approach as an alternative to the four overarching CSCL learning theories (information-processing, constructivism, socio-constructivist/socio-cultural, group cognition), arguing these lenses are \\\"too narrow to capture the true contextual richness of CSCL in action.\\\" It",
+"id":"micro-ecological-approach-to-cross-level-cscl-analysis",
+"path":"research-methods/micro-ecological-approach-to-cross-level-cscl-analysis.md",
+"status":"review",
+"title":"Micro-ecological approach to cross-level CSCL analysis",
 "type":"research-method"
 },
 {
@@ -213729,6 +213921,14 @@
 "path":"research-methods/pea-policy-enforcement-and-authority-analytic-lens.md",
 "status":"review",
 "title":"PEA (Policy, Enforcement, and Authority) analytic lens",
+"type":"research-method"
+},
+{
+"description":"The article operationalizes sociocultural design variation with a coding scheme crossing the pentad facets: Participants (P0 teacher, P1 non-authentic practitioners, P2 authentic practitioners), Setting (S0 classroom, S1 non-authentic settings, S2 authentic settings), Time (T0 educational timeframe,",
+"id":"pentad-based-coding-scheme-p-s-t-cs-cl-for-classifying-authentic-cscl-designs",
+"path":"research-methods/pentad-based-coding-scheme-p-s-t-cs-cl-for-classifying-authentic-cscl-designs.md",
+"status":"review",
+"title":"Pentad-based coding scheme (P, S, T, CS, CL) for classifying authentic CSCL designs",
 "type":"research-method"
 },
 {
@@ -214239,6 +214439,14 @@
 "type":"research-method"
 },
 {
+"description":"A conceptual framework for analyzing openness in online knowledge building contributions, organized at three levels: dimensions, discourse acts and components (see Fig.",
+"id":"socio-cognitive-openness-framework-three-levels-two-dimensions-four-discourse-acts-and-eig",
+"path":"research-methods/socio-cognitive-openness-framework-three-levels-two-dimensions-four-discourse-acts-and-eig.md",
+"status":"review",
+"title":"Socio-cognitive openness framework: three levels, two dimensions, four discourse acts, and eight components",
+"type":"research-method"
+},
+{
 "description":"A discrete-time stochastic model with annual transitions representing both school robotics-program development and each school's relationship to the ARC network.",
 "id":"spatially-explicit-markov-simulation-of-educational-network-growth",
 "path":"research-methods/spatially-explicit-markov-simulation-of-educational-network-growth.md",
@@ -214447,6 +214655,14 @@
 "type":"research-method"
 },
 {
+"description":"The article adopts the teacher noticing framework of Van Es and Sherin to model how teachers make sense of classroom and dashboard situations.",
+"id":"teacher-noticing-framework-detection-and-interpretation-of-classroom-situations",
+"path":"research-methods/teacher-noticing-framework-detection-and-interpretation-of-classroom-situations.md",
+"status":"review",
+"title":"Teacher noticing framework: detection and interpretation of classroom situations",
+"type":"research-method"
+},
+{
 "description":"The TNRF builds on van Es and Sherin's expanded noticing framework of attending, interpreting, and shaping, and \\\"extends van Es and Sherin's (2021) framework by specifying the object of noticing more precisely as students' mathematical thinking\\\".",
 "id":"teacher-noticing-of-rationality-framework-tnrf",
 "path":"research-methods/teacher-noticing-of-rationality-framework-tnrf.md",
@@ -214535,6 +214751,14 @@
 "type":"research-method"
 },
 {
+"description":"The Baker, Schwarz, and Ludvigsen Squib argues for deep theoretical understanding of discussion and its unit of analysis to inform methods for analyzing dialogue over different timescales, from episodes to societal-scale argumentative knowledge construction.",
+"id":"theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales",
+"path":"research-methods/theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales.md",
+"status":"review",
+"title":"Theory-driven units of analysis for educational dialogue across multiple timescales",
+"type":"research-method"
+},
+{
 "description":"Stahl draws on Austin and Geertz's notion of thick description: CSCL researchers understand transaction meanings because they share a community with their subjects.",
 "id":"thick-description-as-the-analytic-basis-for-understanding-transactive-discourse",
 "path":"research-methods/thick-description-as-the-analytic-basis-for-understanding-transactive-discourse.md",
@@ -214612,6 +214836,14 @@
 "path":"research-methods/three-level-engagement-typology-information-sharing-feedback-and-collaboration.md",
 "status":"review",
 "title":"Three-level engagement typology: information sharing, feedback, and collaboration",
+"type":"research-method"
+},
+{
+"description":"Building on Soller et al.'s algorithm for collaboration support tools, the article distinguishes dashboards by which agent - tool or teacher - performs detection and interpretation.",
+"id":"three-levels-of-interpretational-aid-in-cscl-teacher-dashboards-mirroring-alerting-and-adv",
+"path":"research-methods/three-levels-of-interpretational-aid-in-cscl-teacher-dashboards-mirroring-alerting-and-adv.md",
+"status":"review",
+"title":"Three levels of interpretational aid in CSCL teacher dashboards: mirroring, alerting, and advising",
 "type":"research-method"
 },
 {
@@ -295374,6 +295606,7 @@
 "cross-device-flipped-genai-design-platform":"cross-device-flipped-genai-design-platform",
 "cross-disciplinary-team-teaching-research-nexus":"cross-disciplinary-team-teaching-research-nexus",
 "cs1-cr-course-structure":"cs1-cr-course-structure",
+"cscl-teacher-dashboard-prototype-fractions":"cscl-teacher-dashboard-prototype-fractions",
 "csub-residency-consortium-plc":"csub-residency-consortium-plc",
 "custom-ai-legal-knowledge-base-assistant":"custom-ai-legal-knowledge-base-assistant",
 "cvs-benchmark-lesson-ramps":"cvs-benchmark-lesson-ramps",
@@ -295532,6 +295765,7 @@
 "four-type-negative-feedback-manipulation-dative-study":"four-type-negative-feedback-manipulation-dative-study",
 "frac-feedback-literacy-script":"frac-feedback-literacy-script",
 "fraction-face-off-cooperative-lesson-structure":"fraction-face-off-cooperative-lesson-structure",
+"fractions-its-collaborative-combined-conditions-element":"fractions-its-collaborative-combined-conditions-element",
 "fresno-tk3-teacher-residency-program":"fresno-tk3-teacher-residency-program",
 "ftw-seven-session-sequence":"ftw-seven-session-sequence",
 "full-immersion-lecture-lab-day-structure":"full-immersion-lecture-lab-day-structure",
@@ -295542,6 +295776,7 @@
 "gai-tutor-teammate-tool-coi-framework":"gai-tutor-teammate-tool-coi-framework",
 "game-jam-pedagogical-framework":"game-jam-pedagogical-framework",
 "game-jam-resource-kit":"game-jam-resource-kit",
+"gat-wiki-environment-bar-visualizations":"gat-wiki-environment-bar-visualizations",
 "gateway-guiding-principles-structures-pattern":"gateway-guiding-principles-structures-pattern",
 "gen-aitecture-comfyui-inpainting-workflow":"gen-aitecture-comfyui-inpainting-workflow",
 "genai-agent-vipe-small-group-element":"genai-agent-vipe-small-group-element",
@@ -295839,6 +296074,7 @@
 "reusable-prompt-template-for-llm-code-generation":"reusable-prompt-template-for-llm-code-generation",
 "reusable-simulation-architecture-dynamic-relational-learning":"reusable-simulation-architecture-dynamic-relational-learning",
 "reversi-training-conditions-varying-intrinsic-and-extraneous-load":"reversi-training-conditions-varying-intrinsic-and-extraneous-load",
+"ride-rules-effective-collaboration":"ride-rules-effective-collaboration",
 "risk-mitigation-prompt-tables-per-stage":"risk-mitigation-prompt-tables-per-stage",
 "rl-sft-rl-multi-stage-pipeline":"rl-sft-rl-multi-stage-pipeline",
 "role-adaptive-ai-companion-framework-maa":"role-adaptive-ai-companion-framework-maa",
@@ -295855,6 +296091,7 @@
 "scaffolded-video-ethnography-project":"scaffolded-video-ethnography-project",
 "scenery-generator-learning-fields":"scenery-generator-learning-fields",
 "school-aggregation-benchmark-generator":"school-aggregation-benchmark-generator",
+"school-collaborative-making-project-pattern":"school-collaborative-making-project-pattern",
 "schools-lecture-demo-exercise-sessions":"schools-lecture-demo-exercise-sessions",
 "scoe-centralized-fqhc-mental-health-services":"scoe-centralized-fqhc-mental-health-services",
 "scoe-collective-impact-wellness-model":"scoe-collective-impact-wellness-model",
@@ -295903,6 +296140,7 @@
 "slo-thinking-through-components-matters-most":"slo-thinking-through-components-matters-most",
 "small-group-station-rotation-tier2-reading":"small-group-station-rotation-tier2-reading",
 "smallab-three-design-principles":"smallab-three-design-principles",
+"social-capital-elements-online-pd-framework":"social-capital-elements-online-pd-framework",
 "social-constructionist-collaborative-writing-classroom":"social-constructionist-collaborative-writing-classroom",
 "social-presence-framework-three-communication-types":"social-presence-framework-three-communication-types",
 "sol-multimedia-lesson-sequence-eb":"sol-multimedia-lesson-sequence-eb",
@@ -297989,6 +298227,7 @@
 "attachment-and-biobehavioral-catch-up-abc-intervention":"attachment-and-biobehavioral-catch-up-abc-intervention",
 "attitude-scale-towards-scientific-knowledge-sks":"attitude-scale-towards-scientific-knowledge-sks",
 "attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts":"attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts",
+"augmented-reality-sandbox":"augmented-reality-sandbox",
 "augustus-f-hawkins-center-for-excellence-grant-program":"augustus-f-hawkins-center-for-excellence-grant-program",
 "aurora-institutes-seven-critical-elements-of-instructional-practice":"aurora-institutes-seven-critical-elements-of-instructional-practice",
 "autogen-metagpt-crewai-langgraph-and-phidata":"autogen-metagpt-crewai-langgraph-and-phidata",
@@ -298239,6 +298478,7 @@
 "dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma":"dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-syllabi-and-ma",
 "dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist":"dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist",
 "dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove":"dataset-of-484-de-identified-student-project-reports-with-instructor-reviews-collected-ove",
+"dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions":"dataset-of-69-qassim-university-pbl-course-offerings-with-coded-forum-interactions",
 "dataset-of-approximately-18000-multiple-choice-questions-from-a-high-stakes-medical-exam":"dataset-of-approximately-18000-multiple-choice-questions-from-a-high-stakes-medical-exam",
 "datashop":"datashop",
 "davison-et-al-2011-longitudinal-bilingual-language-and-literacy-dataset":"davison-et-al-2011-longitudinal-bilingual-language-and-literacy-dataset",
@@ -298505,6 +298745,8 @@
 "gephi":"gephi",
 "getting-ready":"getting-ready",
 "ggmnonreg":"ggmnonreg",
+"go-lab-ecosystem":"go-lab-ecosystem",
+"go-lab-online-teacher-community-and-inquiry-learning-spaces":"go-lab-online-teacher-community-and-inquiry-learning-spaces",
 "go-learn-grow":"go-learn-grow",
 "go-tutor-corps":"go-tutor-corps",
 "gocps":"gocps",
@@ -298549,6 +298791,7 @@
 "holding-onto-the-green-zone":"holding-onto-the-green-zone",
 "hong-kong-knowledge-building-teachers-network-kbtn":"hong-kong-knowledge-building-teachers-network-kbtn",
 "hoot-reading":"hoot-reading",
+"hot-discussions-platform-hdp":"hot-discussions-platform-hdp",
 "hour-of-code":"hour-of-code",
 "how-i-know-project":"how-i-know-project",
 "i-best":"i-best",
@@ -298896,6 +299139,7 @@
 "ncte-transcript-dataset":"ncte-transcript-dataset",
 "nebraskas-aquestt-dual-state-accountability-system":"nebraskas-aquestt-dual-state-accountability-system",
 "nemo-explain-visualizer-nev":"nemo-explain-visualizer-nev",
+"netcreate":"netcreate",
 "networks-for-school-improvement-nsi":"networks-for-school-improvement-nsi",
 "neuroracer":"neuroracer",
 "nevada-mri-menu-of-more-rigorous-interventions-for-csi-schools":"nevada-mri-menu-of-more-rigorous-interventions-for-csi-schools",
@@ -299106,6 +299350,7 @@
 "puppet-and-touchscreen-mindset-scale-for-kindergarteners":"puppet-and-touchscreen-mindset-scale-for-kindergarteners",
 "pychometrik":"pychometrik",
 "pyneuralogic-framework-for-lifted-relational-neural-symbolic-learning":"pyneuralogic-framework-for-lifted-relational-neural-symbolic-learning",
+"pyramidapp":"pyramidapp",
 "python-mcq-dataset-for-unlearning-and-relearning-experiments":"python-mcq-dataset-for-unlearning-and-relearning-experiments",
 "q-learning-lab":"q-learning-lab",
 "quality-counts-california-qcc":"quality-counts-california-qcc",
@@ -299279,6 +299524,7 @@
 "social-academic-and-emotional-behavior-risk-screener-saebrs":"social-academic-and-emotional-behavior-risk-screener-saebrs",
 "social-problem-situations-inventory-for-children-spsic":"social-problem-situations-inventory-for-children-spsic",
 "social-sciences-education-framework-for-california-public-schools":"social-sciences-education-framework-for-california-public-schools",
+"sociopatterns-rfid-badges":"sociopatterns-rfid-badges",
 "socrates":"socrates",
 "socratic-circles":"socratic-circles",
 "socraticedu":"socraticedu",
@@ -299541,6 +299787,7 @@
 "veriforge":"veriforge",
 "verizon-innovative-learning-schools":"verizon-innovative-learning-schools",
 "vibe-compiler":"vibe-compiler",
+"vibse-virtual-baltic-sea-explorer":"vibse-virtual-baltic-sea-explorer",
 "vicc-r-package":"vicc-r-package",
 "videodisc-authoring-and-production-system-vaps":"videodisc-authoring-and-production-system-vaps",
 "virginia-rethinks-health-sciences-education-initiative":"virginia-rethinks-health-sciences-education-initiative",
@@ -299616,6 +299863,7 @@
 "a-four-step-adapted-cognitive-task-analysis-framework-for-clinical-environments":"a-four-step-adapted-cognitive-task-analysis-framework-for-clinical-environments",
 "a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness":"a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness",
 "a-hierarchical-taxonomy-of-novice-difficulties-with-selection-and-iteration-in-code-readin":"a-hierarchical-taxonomy-of-novice-difficulties-with-selection-and-iteration-in-code-readin",
+"a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env":"a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env",
 "a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l":"a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l",
 "a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and":"a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and",
 "activepassive-localglobal-coding-framework-for-llm-offloading-prompts":"activepassive-localglobal-coding-framework-for-llm-offloading-prompts",
@@ -299634,6 +299882,7 @@
 "augmented-cross-recurrence-graphs-for-distinguishing-balanced-and-unbalanced-participation":"augmented-cross-recurrence-graphs-for-distinguishing-balanced-and-unbalanced-participation",
 "baseline-covariate-adjustment-in-education-randomized-trials":"baseline-covariate-adjustment-in-education-randomized-trials",
 "behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video":"behavioral-coding-methodology-for-identifying-epistemological-framing-in-group-video",
+"behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events":"behavioral-telemetry-logging-with-observable-unambiguous-contextualized-events",
 "bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs":"bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs",
 "between-student-testing-and-response-curve-method":"between-student-testing-and-response-curve-method",
 "bidirectional-validity-approach":"bidirectional-validity-approach",
@@ -299644,6 +299893,7 @@
 "bootstrapping-adjustment-ba-method-for-item-parameter-bias-reduction":"bootstrapping-adjustment-ba-method-for-item-parameter-bias-reduction",
 "causal-chain-analysis-of-built-environment-effects":"causal-chain-analysis-of-built-environment-effects",
 "causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials":"causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials",
+"centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs":"centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs",
 "chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity":"chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity",
 "cindle-coding-scheme":"cindle-coding-scheme",
 "classical-test-theory":"classical-test-theory",
@@ -299678,12 +299928,15 @@
 "curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile":"curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile",
 "curriculum-grounded-ontology-framework-for-building-educational-qa-benchmarks":"curriculum-grounded-ontology-framework-for-building-educational-qa-benchmarks",
 "curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet":"curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet",
+"data-sessions-and-multiple-experienced-analysts-for-intersubjective-validation":"data-sessions-and-multiple-experienced-analysts-for-intersubjective-validation",
 "design-based-implementation-research-dbir":"design-based-implementation-research-dbir",
 "design-based-rct-analysis-with-grouped-administrative-data":"design-based-rct-analysis-with-grouped-administrative-data",
+"design-based-research":"design-based-research",
 "design-based-research-dbr":"design-based-research-dbr",
 "design-thinking-methodology-for-improving-and-scaling-psychological-interventions":"design-thinking-methodology-for-improving-and-scaling-psychological-interventions",
 "dialogical-voice-synergy-model-of-collaboration":"dialogical-voice-synergy-model-of-collaboration",
 "dialogue-act-coding-dac-system":"dialogue-act-coding-dac-system",
+"diffusion-based-centrality-framework-for-measuring-uptake-in-cscl-discourse":"diffusion-based-centrality-framework-for-measuring-uptake-in-cscl-discourse",
 "digital-learning-platform-process-data-analysis":"digital-learning-platform-process-data-analysis",
 "digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions":"digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions",
 "dina-and-dino-cognitive-diagnostic-models":"dina-and-dino-cognitive-diagnostic-models",
@@ -299791,6 +300044,7 @@
 "integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped":"integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped",
 "integrated-framework-linking-cognitive-ownership-mutual-evaluation-and-outcome-aligned-ver":"integrated-framework-linking-cognitive-ownership-mutual-evaluation-and-outcome-aligned-ver",
 "interaction-geography":"interaction-geography",
+"interactional-ethnography-and-dialogic-intervisualizing":"interactional-ethnography-and-dialogic-intervisualizing",
 "interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning":"interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning",
 "intersectional-disaggregation-of-school-climate-survey-data":"intersectional-disaggregation-of-school-climate-survey-data",
 "irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links":"irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links",
@@ -299816,11 +300070,13 @@
 "loss-function-decision-rule-for-late-pretest-use-in-education-rcts":"loss-function-decision-rule-for-late-pretest-use-in-education-rcts",
 "lt-mkt-framework-joint-modeling-of-cognitive-load-and-knowledge-transfer-for-multi-domain":"lt-mkt-framework-joint-modeling-of-cognitive-load-and-knowledge-transfer-for-multi-domain",
 "machine-learning-prediction-of-accessible-assessment-item-quality":"machine-learning-prediction-of-accessible-assessment-item-quality",
+"making-process-rug-video-analysis-method":"making-process-rug-video-analysis-method",
 "many-facet-rasch-model":"many-facet-rasch-model",
 "map-growth-item-calibration-workflow":"map-growth-item-calibration-workflow",
 "marginal-structural-models-with-inverse-probability-of-treatment-weighting":"marginal-structural-models-with-inverse-probability-of-treatment-weighting",
 "mbp-kt":"mbp-kt",
 "me-checklist":"me-checklist",
+"micro-ecological-approach-to-cross-level-cscl-analysis":"micro-ecological-approach-to-cross-level-cscl-analysis",
 "mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups":"mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups",
 "model-based-multivariate-true-score-norming-procedure":"multivariate-true-score-model-for-achievement-and-growth-norming",
 "model-of-collaborative-knowledge-building-across-interconnected-planes":"model-of-collaborative-knowledge-building-across-interconnected-planes",
@@ -299851,6 +300107,7 @@
 "partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment":"partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment",
 "pattern-based-knowledge-component-extraction-from-program-asts":"pattern-based-knowledge-component-extraction-from-program-asts",
 "pea-policy-enforcement-and-authority-analytic-lens":"pea-policy-enforcement-and-authority-analytic-lens",
+"pentad-based-coding-scheme-p-s-t-cs-cl-for-classifying-authentic-cscl-designs":"pentad-based-coding-scheme-p-s-t-cs-cl-for-classifying-authentic-cscl-designs",
 "per-draw-robust-linking":"per-draw-robust-linking",
 "pisa-collaborative-problem-solving-framework":"pisa-collaborative-problem-solving-framework",
 "planned-comparable-group-courseware-impact-study":"planned-comparable-group-courseware-impact-study",
@@ -299918,6 +300175,7 @@
 "six-behaviour-spatial-pedagogy-coding-scheme-for-team-teaching":"six-behaviour-spatial-pedagogy-coding-scheme-for-team-teaching",
 "six-dimensional-framework-of-authentic-assessment-characteristics":"six-dimensional-framework-of-authentic-assessment-characteristics",
 "sme-elicited-llm-feature-based-item-difficulty-prediction":"sme-elicited-llm-feature-based-item-difficulty-prediction",
+"socio-cognitive-openness-framework-three-levels-two-dimensions-four-discourse-acts-and-eig":"socio-cognitive-openness-framework-three-levels-two-dimensions-four-discourse-acts-and-eig",
 "spatially-explicit-markov-simulation-of-educational-network-growth":"spatially-explicit-markov-simulation-of-educational-network-growth",
 "srem":"srem",
 "srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-taggi":"srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-taggi",
@@ -299946,6 +300204,7 @@
 "taxonomy-of-test-score-based-school-evaluation-estimators":"taxonomy-of-test-score-based-school-evaluation-estimators",
 "teachbench":"teachbench",
 "teacher-nomination-procedure-for-observer-reported-emotion-regulation":"teacher-nomination-procedure-for-observer-reported-emotion-regulation",
+"teacher-noticing-framework-detection-and-interpretation-of-classroom-situations":"teacher-noticing-framework-detection-and-interpretation-of-classroom-situations",
 "teacher-noticing-of-rationality-framework-tnrf":"teacher-noticing-of-rationality-framework-tnrf",
 "teacher-team-method-for-co-taught-value-added-estimation":"teacher-team-method-for-co-taught-value-added-estimation",
 "teacher-value-added-modeling-for-performance-classification":"teacher-value-added-modeling-for-performance-classification",
@@ -299957,6 +300216,7 @@
 "the-effort-moderated-irt-model-of-test-taking-motivation":"the-effort-moderated-irt-model-of-test-taking-motivation",
 "the-socratic-test-framework":"the-socratic-test-framework",
 "theoretically-productive-classroom-dialogue-framework-five-recurring-themes-plus-the-cross":"theoretically-productive-classroom-dialogue-framework-five-recurring-themes-plus-the-cross",
+"theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales":"theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales",
 "thick-description-as-the-analytic-basis-for-understanding-transactive-discourse":"thick-description-as-the-analytic-basis-for-understanding-transactive-discourse",
 "thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness":"thinking-aloud-protocol-scoring-system-for-math-metacognitive-skillfulness",
 "three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc":"three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc",
@@ -299967,6 +300227,7 @@
 "three-group-coding-framework-for-scientific-habits-of-mind-in-informal-game-forums":"three-group-coding-framework-for-scientific-habits-of-mind-in-informal-game-forums",
 "three-interacting-themes-for-examining-cscl-classroom-innovation":"three-interacting-themes-for-examining-cscl-classroom-innovation",
 "three-level-engagement-typology-information-sharing-feedback-and-collaboration":"three-level-engagement-typology-information-sharing-feedback-and-collaboration",
+"three-levels-of-interpretational-aid-in-cscl-teacher-dashboards-mirroring-alerting-and-adv":"three-levels-of-interpretational-aid-in-cscl-teacher-dashboards-mirroring-alerting-and-adv",
 "three-measures-of-test-adaptation-based-on-optimal-test-information":"three-measures-of-test-adaptation-based-on-optimal-test-information",
 "three-method-framework-for-accounting-for-co-teaching-in-value-added-models":"three-method-framework-for-accounting-for-co-teaching-in-value-added-models",
 "three-multidimensional-irt-models-for-testlet-based-tests":"three-multidimensional-irt-models-for-testlet-based-tests",

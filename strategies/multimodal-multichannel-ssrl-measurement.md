@@ -16,6 +16,9 @@ sources:
 
 # Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's stated forward methodological path is to widen data channels toward multimodal data, combining subjective measures (self-reports, interviews) that capture intent and appraisal with objective data (log data, eye tracking, heart rate, electro-dermal activity, videos, facial expressions). It states that multimodal approaches "can help tackle the constraints of typical single-channel data" and help draw "more valid and reliable inferences". In CSCL practice, it argues participants would benefit from tools helping groups regulate learning within the groups.
 

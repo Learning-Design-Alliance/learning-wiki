@@ -16,6 +16,9 @@ sources:
 
 # Editorial vision: embrace diverse technologies and methodologies, rigor appropriate to each paper's methods, and CSCL in new contexts
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The new co-editors-in-chief state an inclusive editorial stance: they will "embrace a diversity of innovative technologies and research methodologies, while in all ways striving for rigor appropriate to the chosen methods for each accepted paper". They seek contributions bringing CSCL to new contexts, including workplace learning, online communities, personal development and career advancement, and communities of practice, and call for strong empirical designs grounded in rich theoretical models.
 

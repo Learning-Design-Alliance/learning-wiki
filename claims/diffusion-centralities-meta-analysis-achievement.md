@@ -12,10 +12,17 @@ sources:
   - id: saqr-2021
     resource: "https://doi.org/10.1007/s11412-021-09356-4"
     title: "Saqr, M., & López-Pernas, S. (2021). Modelling diffusion in computer-supported collaborative learning: a large scale learning analytics study. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09356-4"
-    author: "Saqr, M., & López-Pernas, S"
+    author: "Saqr, M., & López-Pernas, S."
+    q: 3
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Random-effects meta-analysis pooling correlations of centralities with final grades across 69 courses showed diffusion-based centralities had the highest and most consistent combined correlation coefficients and highest predictive intervals among the measures tested. [→ Saqr 2021](#saqr-2021)
@@ -26,7 +33,7 @@ sources:
 
 Saqr, M., & López-Pernas, S. (2021). Modelling diffusion in computer-supported collaborative learning: a large scale learning analytics study. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09356-4
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Correlation meta-analysis (17 meta-analyses, one per centrality measure) pooling Fisher's z transformed correlations across all 69 course offerings by inverse-variance weighting under a random-effects model. The article reports diffusion centralities "had the highest and most consistent combined correlation coefficients" and the highest predictive intervals.
 

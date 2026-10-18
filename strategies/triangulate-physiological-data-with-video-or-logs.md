@@ -16,6 +16,9 @@ sources:
 
 # Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends combining physiological sensors with other data sources to interpret bodily reactions in collaborative learning. It states that "the use of physiological data in triangulation with other data (e.g., video) has the potential to uncover otherwise unidentifiable psychophysiological reactions". It further suggests connecting physiological data with logfile traces to gather bigger datasets, and notes that physiological sensors are "seamless" and record reactions "on the fly".
 

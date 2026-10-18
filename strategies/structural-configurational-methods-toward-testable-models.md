@@ -16,6 +16,9 @@ sources:
 
 # Advance the use of structural-configurational methods such as SNA and ENA toward empirically testable models
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that CSCL researchers employ social, temporal, and spatial configurational analysis methods, grounded graph-theoretically in a structuralist view that "[The] belief that phenomena of human life are not intelligible except through the interrelations" captures. These methods should move from data description to explanatory purposes and theory/model testing. The article explicitly encourages researchers "so that they lead to empirically testable models."
 
@@ -35,7 +38,7 @@ The article recommends that CSCL researchers employ social, temporal, and spatia
 - building and testing explanatory models of collaboration, learning, and development
 
 ### Affordances
-- [Epistemic Network Analysis Temporal Patterns](../theories/epistemic-network-analysis-temporal-patterns.md)
+- [Epistemic Network Analysis Temporal Patterns](../research-methods/epistemic-network-analysis-ena.md)
 
 ## Related Strategies
 - 

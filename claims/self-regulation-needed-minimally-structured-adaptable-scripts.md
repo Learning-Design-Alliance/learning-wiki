@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-022-09367-9"
     title: "Lenka Schnaubert · Freydis Vogel. (2022). Integrating collaboration scripts, group awareness, and self-regulation in computer-supported collaborative learning. Intern. J. Comput.-Support. Collab. Learn (2022) 17:1–10. https://doi.org/10.1007/s11412-022-09367-9"
     author: Lenka Schnaubert · Freydis Vogel
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-regulation skills are particularly needed when learning with minimally structured or adaptable collaboration scripts in CSCL
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learners with better self-regulation benefit from minimal and adaptable scripts, since these require assessing one's own needs and selecting script structure. [→ Lenka Schnaubert · Freydis Vogel 2022](#lenka-schnaubert-freydis-vogel-2022)
@@ -27,7 +34,7 @@ sources:
 
 Lenka Schnaubert · Freydis Vogel. (2022). Integrating collaboration scripts, group awareness, and self-regulation in computer-supported collaborative learning. Intern. J. Comput.-Support. Collab. Learn (2022) 17:1–10. https://doi.org/10.1007/s11412-022-09367-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Two experiments with university freshmen in mathematics learning in dyads with proof and argumentation tasks, comparing minimally structured, maximally structured, and adaptable collaboration scripts with heuristic worked examples. The editorial reports self-regulation "is particularly needed for learning with minimally structured or adaptable collaboration scripts". No effect size printed.
 

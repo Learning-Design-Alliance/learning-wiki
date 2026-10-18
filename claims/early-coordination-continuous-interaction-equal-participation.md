@@ -12,13 +12,20 @@ sources:
   - id: strauß-2021
     resource: "https://doi.org/10.1007/s11412-021-09340-y"
     title: "Strauß, S., & Rummel, N. (2021). Promoting regulation of equal participation in online collaboration by combining a group awareness tool and adaptive prompts. But does it even matter? International Journal of Computer-Supported Collaborative Learning (2021) 16:67–104. https://doi.org/10.1007/s11412-021-09340-y"
-    author: "Strauß, S., & Rummel, N"
+    author: "Strauß, S., & Rummel, N."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+
 ## Subclaims
-`q2 i?` Sequence alignment and clustering of the groups' coded interaction sequences linked early initiation, pre-solution coordination, and continuous interaction to more equal participation and more satisfaction. [→ Strauß 2021](#strauß-2021)
+`q2 i?` Sequence alignment and clustering of the groups' coded interaction sequences linked early initiation, pre-solution coordination, and continuous interaction to more equal participation and more satisfaction. [→ Strauß 2021](#strau-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Strauß, S., & Rummel, N. (2021). Promoting regulation of equal participation in online collaboration by combining a group awareness tool and adaptive prompts. But does it even matter? International Journal of Computer-Supported Collaborative Learning (2021) 16:67–104. https://doi.org/10.1007/s11412-021-09340-y
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Exploratory analysis: coded forum and wiki actions (coordination, monitoring, major and minor contributions, 24-hour gaps) per group were compared by sequence alignment and clustered with partitioning around medoids over 29 groups. The article reports groups with the stated pattern "tended to achieve an equal distribution of participation"; no effect size is printed.
 

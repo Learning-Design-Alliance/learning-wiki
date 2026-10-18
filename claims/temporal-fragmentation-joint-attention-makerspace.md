@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-020-09337-z"
     title: "Anu Kajamaa & Kristiina Kumpulainen. (2020). Students' multimodal knowledge practices in a makerspace learning environment. International Journal of Computer-Supported Collaborative Learning (2020) 15:411–444. https://doi.org/10.1007/s11412-020-09337-z"
     author: "Anu Kajamaa & Kristiina Kumpulainen"
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students' uses of laser pens for play redirected attention away from the challenge and fragmented joint activity during making. [→ Anu Kajamaa & Kristiina Kumpulainen 2020](#anu-kajamaa-kristiina-kumpulainen-2020)
@@ -26,7 +33,7 @@ sources:
 
 Anu Kajamaa & Kristiina Kumpulainen. (2020). Students' multimodal knowledge practices in a makerspace learning environment. International Journal of Computer-Supported Collaborative Learning (2020) 15:411–444. https://doi.org/10.1007/s11412-020-09337-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Observation from the episode analysis of the boys' group in Episode 1: when Alex pointed the laser pen at a visiting student's face and the video camera lens, the article reports "temporal fragmentation of the joint activity". Peer disruptions also interrupted corridor work, though the boys refocused. A qualitative episode-level finding with no effect-size measure.
 

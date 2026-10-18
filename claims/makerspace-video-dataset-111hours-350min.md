@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-020-09337-z"
     title: "Anu Kajamaa & Kristiina Kumpulainen. (2020). Students' multimodal knowledge practices in a makerspace learning environment. International Journal of Computer-Supported Collaborative Learning (2020) 15:411–444. https://doi.org/10.1007/s11412-020-09337-z"
     author: "Anu Kajamaa & Kristiina Kumpulainen"
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Video dataset of 111 hours across one year underpins a 350-minute two-group episode analysis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The study's corpus comprised 111 hours of transcribed video recordings and field notes from 94 students and 7 facilitator-teachers, from which 350 minutes of two stable groups were analyzed in depth. [→ Anu Kajamaa & Kristiina Kumpulainen 2020](#anu-kajamaa-kristiina-kumpulainen-2020)
@@ -26,7 +33,7 @@ sources:
 
 Anu Kajamaa & Kristiina Kumpulainen. (2020). Students' multimodal knowledge practices in a makerspace learning environment. International Journal of Computer-Supported Collaborative Learning (2020) 15:411–444. https://doi.org/10.1007/s11412-020-09337-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Description of the study's data collection: video recordings collected three times a week from August to December 2016 with four cameras, covering students aged 9–12. "The data comprised 111 h of transcribed video recordings" plus field notes; 350 min were selected from two groups (four boys, four girls) working with several challenges. No effect sizes apply to this descriptive contribution.
 

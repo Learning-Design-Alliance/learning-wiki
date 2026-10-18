@@ -34006,5 +34006,45 @@
  "scaffolding\tadaptive teacher support combining procedural, conceptual, eliciting, elaboration, and contextual guidance\tstudents’ work without this support": {
   "label": "scaffolded vs unscaffolded instruction",
   "treatment_is_a": true
+ },
+ "other\t1997 policy allowing bilingual students to be tested before accountability inclusion\tPre-1997 testing practice in which tested bilingual students were included in reporting": {
+  "label": "bilingual students excluded from accountability reporting vs included",
+  "treatment_is_a": true
+ },
+ "other\t1997 policy raising science and other graduation requirements\tpre-policy graduation requirements": {
+  "label": "higher vs lower graduation requirements",
+  "treatment_is_a": true
+ },
+ "other\t1997 policy requiring college-preparatory coursework\tpre-policy curriculum requirements": {
+  "label": "college-preparatory coursework required vs not required",
+  "treatment_is_a": true
+ },
+ "other\t1997 policy requiring three college-preparatory science courses\tpre-1997 science graduation requirements": {
+  "label": "three college-preparatory science courses vs one science credit",
+  "treatment_is_a": true
+ },
+ "other\t1997 science-requirement policy cohorts\t1993–1995 pre-policy cohorts": {
+  "label": "science-requirement policy cohorts vs pre-policy cohorts",
+  "treatment_is_a": true
+ },
+ "other\t1997 survey\t1994 survey": {
+  "label": "1997 survey vs 1994 survey",
+  "treatment_is_a": true
+ },
+ "other\t1997 teacher survey\t1994 teacher survey": {
+  "label": "1997 teacher survey vs 1994 teacher survey",
+  "treatment_is_a": true
+ },
+ "other\t1997+ three-course college-preparatory science requirement\tpre-1997 one-science-credit requirement": {
+  "label": "three-course college-preparatory science requirement vs one-science-credit requirement",
+  "treatment_is_a": true
+ },
+ "other\t1997–1998 freshman cohort\t1993–1994 freshman cohort": {
+  "label": "1997–1998 freshman cohort vs 1993–1994 freshman cohort",
+  "treatment_is_a": true
+ },
+ "other\t1998 adjusted math score\t1997 math score": {
+  "label": "adjusted math score vs unadjusted math score",
+  "treatment_is_a": true
  }
 }

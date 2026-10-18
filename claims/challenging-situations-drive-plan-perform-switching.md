@@ -12,13 +12,20 @@ sources:
   - id: järvelä-2019
     resource: "https://doi.org/10.1007/s11412-019-09313-2"
     title: "Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and cyclical nature of regulation: Methodological Progress in understanding socially shared regulation in learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-019-09313-2"
-    author: "Järvelä, S., Järvenoja, H., & Malmberg, J"
+    author: "Järvelä, S., Järvenoja, H., & Malmberg, J."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Groups perceiving a learning situation as challenging switched frequently between planning and performance phases of regulation
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r?` · `q2`
+
 ## Subclaims
-`q2 i?` When groups perceived the situation as challenging, they switched between planning and performance phases frequently, needing continuous adaptation. [→ Järvelä 2019](#järvelä-2019)
+`q2 i?` When groups perceived the situation as challenging, they switched between planning and performance phases frequently, needing continuous adaptation. [→ Järvelä 2019](#jarvela-2019)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and cyclical nature of regulation: Methodological Progress in understanding socially shared regulation in learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-019-09313-2
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 Narrative review attributing to Sobocinski et al. (2017) a process discovery analysis in which groups "switched between the planning and performance phases frequently" in challenging situations. The review prints no effect size, so impact is null.
 

@@ -12,10 +12,17 @@ sources:
   - id: riikonen-2020
     resource: "https://doi.org/10.1007/s11412-020-09330-6"
     title: "Riikonen, S., Seitamaa-Hakkarainen, P., & Hakkarainen, K. (2020). Bringing maker practices to school: tracing discursive and materially mediated aspects of student teams' collaborative making processes. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-020-09330-6"
-    author: "Riikonen, S., Seitamaa-Hakkarainen, P., & Hakkarainen, K"
+    author: "Riikonen, S., Seitamaa-Hakkarainen, P., & Hakkarainen, K."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Successful seventh-grade co-invention teams spent a much larger share of their embodied making actions on model making and experimenting than the unsuccessful team
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Successful teams devoted between 33.1% and 48.5% of their overall embodied making actions to model making and experimenting, whereas the Plant team spent only 16.3%, and model making intertwined with ideation and evaluation in all successful teams. [→ Riikonen 2020](#riikonen-2020)
@@ -26,7 +33,7 @@ sources:
 
 Riikonen, S., Seitamaa-Hakkarainen, P., & Hakkarainen, K. (2020). Bringing maker practices to school: tracing discursive and materially mediated aspects of student teams' collaborative making processes. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-020-09330-6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Quantitative analysis of coded video data (Table 3) from the five teams' sessions, confirming visual Making-Process-Rug findings: "the biggest differences between the Plant team and the successful teams were in model making." No effect size is printed; proportions are descriptive.
 

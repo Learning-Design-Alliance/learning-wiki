@@ -12,14 +12,25 @@ sources:
   - id: vogel-2022
     resource: "https://doi.org/10.1007/s11412-022-09363-z"
     title: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S. (2022). Adaptable scaffolding of mathematical argumentation skills: The role of self-regulation when scaffolded with CSCL scripts and heuristic worked examples. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09363-z"
-    author: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S"
+    author: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S."
+    q: 2
+    i: 2
+    kind: causal
+    rigour: 2
   - id: vogel-2022-2
     resource: "https://doi.org/10.1007/s11412-022-09363-z"
     title: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S. (2022). Adaptable scaffolding of mathematical argumentation skills: The role of self-regulation when scaffolded with CSCL scripts and heuristic worked examples. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09363-z"
-    author: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S"
+    author: "Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In Experiment 2, self-regulation skills significantly positively predicted domain-specific MAS only in the minimal heuristic worked examples condition
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Only in the minimal worked examples condition were self-regulation skills significantly positively related to post-test domain-specific MAS. [→ Vogel 2022](#vogel-2022)
@@ -31,7 +42,7 @@ sources:
 
 Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S. (2022). Adaptable scaffolding of mathematical argumentation skills: The role of self-regulation when scaffolded with CSCL scripts and heuristic worked examples. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09363-z
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Exploratory regression analyses per condition of Experiment 2. Table 10 shows the minimal worked examples model with stand. β = 0.298* for self-regulation skills (R² = .625**); maximal (β=-.143) and adaptable (β=-.099) were not significant.
 
@@ -41,7 +52,7 @@ Exploratory regression analyses per condition of Experiment 2. Table 10 shows th
 
 Vogel, F., Kollar, I., Fischer, F., Reiss, K., & Ufer, S. (2022). Adaptable scaffolding of mathematical argumentation skills: The role of self-regulation when scaffolded with CSCL scripts and heuristic worked examples. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-022-09363-z
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Experiment 2 regressions predicting post-test socio-discursive MAS from pre-test and self-regulation skills in each worked examples condition; no significant predictor in any condition (Table 9 reports maximal β=-.143, adaptable β=-.099).
 

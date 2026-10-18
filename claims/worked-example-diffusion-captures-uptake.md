@@ -12,10 +12,17 @@ sources:
   - id: saqr-2021
     resource: "https://doi.org/10.1007/s11412-021-09356-4"
     title: "Saqr, M., & López-Pernas, S. (2021). Modelling diffusion in computer-supported collaborative learning: a large scale learning analytics study. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09356-4"
-    author: "Saqr, M., & López-Pernas, S"
+    author: "Saqr, M., & López-Pernas, S."
+    q: 1
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A worked network example shows diffusion-based centralities capturing uptake and argumentation more accurately than traditional centrality measures
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the article's fictional CSCL scenario (Fig. 2), the node with the highest degree centrality had only the third-highest diffusion centrality, while nodes generating promising discussions had the highest diffusion and coreness values. [→ Saqr 2021](#saqr-2021)
@@ -26,7 +33,7 @@ sources:
 
 Saqr, M., & López-Pernas, S. (2021). Modelling diffusion in computer-supported collaborative learning: a large scale learning analytics study. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09356-4
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 A single fictional network scenario with printed centrality values (Table 1): node G, whose reply "sparked a meaningful (promising) conversation", had the highest diffusion centrality and coreness (k=3), while node A with six isolated connections had the third-highest diffusion centrality despite the highest degree.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09347-5"
     title: "Tarja Pietarinen · Tuire Palonen · Marja Vauras. (2021). Guidance in computer-supported collaborative inquiry learning: Capturing aspects of affect and teacher support in science classrooms. Intern. J. Comput.-Support. Collab. Learn, 16, 261–287. https://doi.org/10.1007/s11412-021-09347-5"
     author: Tarja Pietarinen · Tuire Palonen · Marja Vauras
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teacher self-reported affect was compounded by students' self-reported affect across working phases
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers' perceptions of their own affect and guidance aligned with their students' self-reported affect, e.g., Henrik's negative perceptions matched his students' less intense but similar affect. [→ Tarja Pietarinen · Tuire Palonen · Marja Vauras 2021](#tarja-pietarinen-tuire-palonen-marja-vauras-2021)
@@ -26,7 +33,7 @@ sources:
 
 Tarja Pietarinen · Tuire Palonen · Marja Vauras. (2021). Guidance in computer-supported collaborative inquiry learning: Capturing aspects of affect and teacher support in science classrooms. Intern. J. Comput.-Support. Collab. Learn, 16, 261–287. https://doi.org/10.1007/s11412-021-09347-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Questionnaire data at three measurement points from four teachers and 56 students, analyzed descriptively across phases (Figs. 4–5). Students self-reported affect matching the teacher's negative self-perception in Henrik's class. Descriptive alignment; no effect size printed.
 

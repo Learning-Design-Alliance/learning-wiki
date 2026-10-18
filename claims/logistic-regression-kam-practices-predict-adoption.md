@@ -13,17 +13,28 @@ sources:
     resource: "https://doi.org/10.1007/s11412-020-09331-5"
     title: "María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet. (2020). Social practices in teacher knowledge creation and innovation adoption: a large-scale study in an online instructional design community for inquiry learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09331-5"
     author: María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
   - id: maría-jesús-rodríguez-triana-2020-2
     resource: "https://doi.org/10.1007/s11412-020-09331-5"
     title: "María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet. (2020). Social practices in teacher knowledge creation and innovation adoption: a large-scale study in an online instructional design community for inquiry learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09331-5"
     author: María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Logistic regression shows all traced KAM practices except fading are significant positive predictors of adoption, with maturation strongest (odds ratios up to 12.36) and model AUC = 0.79
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+
 ## Subclaims
-`q2 i?` Sharing, co-creating and formalizing multiply the odds of adoption by 3.81, 9.04 and 12.36 respectively; scaffolding practices multiply odds by about three while fading is non-significant; reuse multiplies odds by 3.86. [→ María Jesús Rodríguez-Triana 2020](#maría-jesús-rodríguez-triana-2020)
-`q2 i?` The regression model predicts adoption only imperfectly, with AUC = 0.79, yet the authors contend it is surprising that such a simplistic log-based model predicts at any accuracy. [→ María Jesús Rodríguez-Triana 2020 (2)](#maría-jesús-rodríguez-triana-2020-2)
+`q2 i?` Sharing, co-creating and formalizing multiply the odds of adoption by 3.81, 9.04 and 12.36 respectively; scaffolding practices multiply odds by about three while fading is non-significant; reuse multiplies odds by 3.86. [→ María Jesús Rodríguez-Triana 2020](#maria-jesus-rodriguez-triana-2020)
+`q2 i?` The regression model predicts adoption only imperfectly, with AUC = 0.79, yet the authors contend it is surprising that such a simplistic log-based model predicts at any accuracy. [→ María Jesús Rodríguez-Triana 2020 (2)](#maria-jesus-rodriguez-triana-2020-2)
 
 ## Evidence
 
@@ -31,7 +42,7 @@ sources:
 
 María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet. (2020). Social practices in teacher knowledge creation and innovation adoption: a large-scale study in an online instructional design community for inquiry learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09331-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Logistic regression on the 40,235-ILS dataset predicting adoption from maturation, scaffolding and appropriation levels. The article reports that "all KAM practices were found to be significant (and positive) predictors" except fading (odds ratio 0.83, p = 0.137).
 
@@ -41,7 +52,7 @@ Logistic regression on the 40,235-ILS dataset predicting adoption from maturatio
 
 María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet. (2020). Social practices in teacher knowledge creation and innovation adoption: a large-scale study in an online instructional design community for inquiry learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09331-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Model-level assessment of the same logistic regression. The article describes the model as "an imperfect predictor" with "AUC = 0.79," noting many other aspects such as institutional support and teacher predispositions also play roles.
 

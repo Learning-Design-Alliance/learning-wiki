@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09358-2"
     title: "Jauwairia Nasir, Aditi Kothiyal, Barbara Bruno, Pierre Dillenbourg. (2021). Many are the ways to learn identifying multi-modal behavioral profiles of collaborative learning in constructivist activities. Intern. J. Comput.-Support. Collab. Learn (2021) 16:485–523. https://doi.org/10.1007/s11412-021-09358-2"
     author: Jauwairia Nasir, Aditi Kothiyal, Barbara Bruno, Pierre Dillenbourg
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
   - id: jauwairia-nasir-2021-2
     resource: "https://doi.org/10.1007/s11412-021-09358-2"
     title: "Jauwairia Nasir, Aditi Kothiyal, Barbara Bruno, Pierre Dillenbourg. (2021). Many are the ways to learn identifying multi-modal behavioral profiles of collaborative learning in constructivist activities. Intern. J. Comput.-Support. Collab. Learn (2021) 16:485–523. https://doi.org/10.1007/s11412-021-09358-2"
     author: Jauwairia Nasir, Aditi Kothiyal, Barbara Bruno, Pierre Dillenbourg
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Speech activity and speech overlap distinguish gainer dyads from non-gainer Silent Wanderers across both gainer profiles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Expressive Explorers speak more, pause less, and overlap speech more than Silent Wanderers (Kruskal-Wallis p = 0.00* on Speech Activity, Silence, Speech Overlap, Overlap to Speech Ratio). [→ Jauwairia Nasir 2021](#jauwairia-nasir-2021)
@@ -31,7 +42,7 @@ sources:
 
 Jauwairia Nasir, Aditi Kothiyal, Barbara Bruno, Pierre Dillenbourg. (2021). Many are the ways to learn identifying multi-modal behavioral profiles of collaborative learning in constructivist activities. Intern. J. Comput.-Support. Collab. Learn (2021) 16:485–523. https://doi.org/10.1007/s11412-021-09358-2
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Kruskal-Wallis pairwise comparisons between behavioral clusters (Table 4) show Speech Activity, Silence, Speech Overlap and Overlap to Speech Ratio at p = 0.00* between Expressive Explorers and Silent Wanderers, i.e. speech features are the significant distinguishing behaviors.
 
@@ -41,7 +52,7 @@ Kruskal-Wallis pairwise comparisons between behavioral clusters (Table 4) show S
 
 Jauwairia Nasir, Aditi Kothiyal, Barbara Bruno, Pierre Dillenbourg. (2021). Many are the ways to learn identifying multi-modal behavioral profiles of collaborative learning in constructivist activities. Intern. J. Comput.-Support. Collab. Learn (2021) 16:485–523. https://doi.org/10.1007/s11412-021-09358-2
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Pairwise Kruskal-Wallis analysis of Calm Tinkerers versus Silent Wanderers (Table 4, p = 0.00* on Speech Activity, Silence, Speech Overlap, Overlap to Speech Ratio) shows the same speech contrast as the Expressive Explorer comparison, which the authors read as generality across gainer profiles.
 

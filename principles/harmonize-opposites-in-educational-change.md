@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (13 for, 9 mixed) · 17 studies (5 review, 5 theoretical, 3 causal, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 4 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (13 for, 11 mixed) · 18 studies (5 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 4 of 18 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,8 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s](../claims/china-middle-school-teachers-used-traditional-methods-late-1980s.md) [+W] — a cited statistic (87%, Zuo 1990, via Yang Xu 2010) describing the starting point of the communicative reform; background, not evidence about combining methods.
 - [Science Values Imposed On Language](../claims/science-values-imposed-on-language.md) [+W] — Jenkins's (1962) premise that scientific values were being imposed on language; motivates his case for teaching both, does not test it.
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](../claims/mead-education-as-mechanism-of-social-change.md) [+W] — Monroe's summary of Mead's 1943 article; background to the lateral-learning step, not a test of it.
+- [The combined condition had higher learning gains than individual-only and collaborative-only conditions, but only among 4th grade students](../claims/combined-condition-higher-gains-grade-four-restricted.md) [~W] — attached 2026-10-18 from Olsen et al. (2019), which proposed "Combine collaborative and individual learning within ITS-supported activities rather than choosing one or the other"; tests this page's relationship.
+- [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](../claims/combined-condition-fewer-errors-and-hints.md) [~W] — attached 2026-10-18 from Olsen et al. (2019), which proposed "Combine collaborative and individual learning within ITS-supported activities rather than choosing one or the other"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (10 for, 10 mixed, 8 against) · 25 studies (9 review, 6 associational, 5 theoretical, 3 qualitative, 2 design), `q1`–`q2` · 1 of 25 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (10 for, 10 mixed, 9 against) · 26 studies (9 review, 6 associational, 5 theoretical, 3 qualitative, 2 design, 1 causal), `q1`–`q2` · 1 of 26 report an effect size · 27 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -74,6 +74,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data](../claims/agent-gap-versus-regression-reference.md) [~W]
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](../claims/cross-semester-auc-decline-without-retraining.md) [-W]
 - [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](../claims/large-prediction-window-real-time-intervention.md) [+W]
+- [Students rarely mentioned the adaptive prompts and those who did perceived them as generic and ignored them](../claims/adaptive-prompts-perceived-generic-ignored.md) [-M] — attached 2026-10-18 from Strauß et al. (2021), which proposed "Group awareness tool with gini-triggered adaptive prompts implemented as Moodle plugins"; tests this page's relationship.
 
 ## The evidence by question
 

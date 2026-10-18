@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09351-9"
     title: "Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe (2021). Deconstructing orchestration load: comparing teacher support through mirroring and guiding. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09351-9"
     author: Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Mirroring-condition teachers consulted the dashboard more often than guiding-condition teachers (137 vs 95 consultations) but missed aspects needing reaction
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+
 ## Subclaims
-`q2 i?` Screen-captured tablet data showed teachers consulted the dashboard more often in the mirroring condition (137 times) than in the guiding condition (95 times), and reported concentrating on one collaboration aspect and missing elements to react to. [→ Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021](#ishari-amarasinghe-davinia-hernández-leo-h-ulrich-hoppe-2021)
+`q2 i?` Screen-captured tablet data showed teachers consulted the dashboard more often in the mirroring condition (137 times) than in the guiding condition (95 times), and reported concentrating on one collaboration aspect and missing elements to react to. [→ Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021](#ishari-amarasinghe-davinia-hernandez-leo-h-ulrich-hoppe-2021)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe (2021). Deconstructing orchestration load: comparing teacher support through mirroring and guiding. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09351-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Log/screen-capture analysis during mirroring sessions. The Responses Related tab was selected 80 times and the Participation Related tab 57 times. Teachers' questionnaire responses noted: "I missed elements to which I could have reacted, like adding more time in some phases".
 

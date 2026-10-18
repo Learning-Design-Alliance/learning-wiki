@@ -16,6 +16,9 @@ sources:
 
 # Develop new pedagogical solutions to facilitate and collectively manage students' multimodal knowledge practices in makerspaces
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because makerspace learning challenges are complex and knowledge practices are multimodal, carrying them out can be challenging for students. The authors recommend that "further attention needs to be directed to the development of new pedagogical solutions, to better facilitat e multimodal knowledge practices and their collective management". The strategy directs educators toward designing facilitation that supports joint attention, talk types, material and embodied mediation, and management of shared epistemic objects during open-ended making. It is offered as a direction for enhancing makerspaces' educational potential rather than a tested prescription.
 

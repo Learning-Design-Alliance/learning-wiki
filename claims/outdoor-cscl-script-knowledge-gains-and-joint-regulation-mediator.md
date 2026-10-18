@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-022-09367-9"
     title: "Lenka Schnaubert · Freydis Vogel. (2022). Integrating collaboration scripts, group awareness, and self-regulation in computer-supported collaborative learning. Intern. J. Comput.-Support. Collab. Learn (2022) 17:1–10. https://doi.org/10.1007/s11412-022-09367-9"
     author: Lenka Schnaubert · Freydis Vogel
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Learning with collaboration scripts outdoors yields biology knowledge gains in both iterations, with joint regulation activities mediating script-component effects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learners significantly gained biology knowledge in both iterations of the design-based study. [→ Lenka Schnaubert · Freydis Vogel 2022](#lenka-schnaubert-freydis-vogel-2022)
@@ -27,7 +34,7 @@ sources:
 
 Lenka Schnaubert · Freydis Vogel. (2022). Integrating collaboration scripts, group awareness, and self-regulation in computer-supported collaborative learning. Intern. J. Comput.-Support. Collab. Learn (2022) 17:1–10. https://doi.org/10.1007/s11412-022-09367-9
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The editorial reports a design-based study with two iterations in which small groups learned tree cycles outdoors with a mobile application integrating checklists and role distribution; learners "significantly gained biology knowledge" in both iterations. Statistics beyond significance not printed.
 

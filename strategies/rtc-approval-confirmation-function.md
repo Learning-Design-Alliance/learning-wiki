@@ -16,6 +16,9 @@ sources:
 
 # Add an approval/confirmation function to RTC so learners choose whether to accept a collaborator's change
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that RTC platforms add a mechanism governing shared edits: "it is suggested that RTC should provide one more confirmation button, which will allow the users to choose whether to accept their collaborator's change in the co-editing program." This addresses interruptions observed during multi-user programming, since users were forced to accept another collaborator's revision by default.
 

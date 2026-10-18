@@ -12,10 +12,17 @@ sources:
   - id: ollesch-2021
     resource: "https://doi.org/10.1007/s11412-021-09346-6"
     title: "Ollesch, L., Heimbuch, S., & Bodemer, D. (2021). Improving learning and writing outcomes: Influence of cognitive and behavioral group awareness tools in wikis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09346-6"
-    author: "Ollesch, L., Heimbuch, S., & Bodemer, D"
+    author: "Ollesch, L., Heimbuch, S., & Bodemer, D."
+    q: 1
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The article argues cognitive and behavioral GA information complement each other and should be presented simultaneously in wiki learning environments
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that cognitive and behavioral GA information could complement each other positively when presented simultaneously, because each type addresses a different wiki challenge. [→ Ollesch 2021](#ollesch-2021)
@@ -26,7 +33,7 @@ sources:
 
 Ollesch, L., Heimbuch, S., & Bodemer, D. (2021). Improving learning and writing outcomes: Influence of cognitive and behavioral group awareness tools in wikis. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-021-09346-6
 
-`q1 · i?`
+`q1 · i?` · `causal · r?`
 
 This is a theoretical argument rather than a tested result reported in the provided text. The authors reason that single GA types each address one of two wiki challenges, so combined presentation could complement each other positively when presented simultaneously to fully support wiki learning processes.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-020-09335-1"
     title: "Ulrike Cress. (2020). The richness of CSCL environments. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09335-1"
     author: Ulrike Cress
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The gaze awareness tool affected dialog management, information pooling and consensus reaching, while the effect of the metacognitive-support agent was much smaller. [→ Ulrike Cress 2020](#ulrike-cress-2020)
@@ -27,7 +34,7 @@ sources:
 
 Ulrike Cress. (2020). The richness of CSCL environments. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09335-1
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The editorial reports, on Hayashi's experiment with learning dyads in a jigsaw task using a 2x2 design, that gaze awareness had a positive effect while the agent's effect was "much smaller". Learning gains per student were a dependent measure; no statistics are printed in the editorial.
 

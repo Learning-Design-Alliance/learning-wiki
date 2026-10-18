@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-021-09347-5"
     title: "Tarja Pietarinen · Tuire Palonen · Marja Vauras. (2021). Guidance in computer-supported collaborative inquiry learning: Capturing aspects of affect and teacher support in science classrooms. Intern. J. Comput.-Support. Collab. Learn, 16, 261–287. https://doi.org/10.1007/s11412-021-09347-5"
     author: Tarja Pietarinen · Tuire Palonen · Marja Vauras
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Highest-outcome groups did not receive more guidance than other groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Comparing visits per group, the best performing groups did not receive more guidance and support than other groups, with one exception where Henrik guided his best-performing group the most. [→ Tarja Pietarinen · Tuire Palonen · Marja Vauras 2021](#tarja-pietarinen-tuire-palonen-marja-vauras-2021)
@@ -26,7 +33,7 @@ sources:
 
 Tarja Pietarinen · Tuire Palonen · Marja Vauras. (2021). Guidance in computer-supported collaborative inquiry learning: Capturing aspects of affect and teacher support in science classrooms. Intern. J. Comput.-Support. Collab. Learn, 16, 261–287. https://doi.org/10.1007/s11412-021-09347-5
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Video-based frequency counts of teacher visits across 19 groups in four classrooms (Fig. 3 data). The article emphasizes that the best performing groups "did not receive more guidance and support than the other groups", with a single-teacher exception. Descriptive; no effect size.
 

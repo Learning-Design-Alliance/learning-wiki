@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11412-012-9142-3"
     title: "Gerry Stahl. (2012). Ethnomethodologically informed. Computer-Supported Collaborative Learning 7:1–10. https://doi.org/10.1007/s11412-012-9142-3"
     author: Gerry Stahl
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Teacher orchestration of collaborative-learning scripts is at least as important as the quality of the script design itself
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Onrubia and Engel's analysis, using coding and frequency counts in an exploratory case study rather than statistical generalization, suggests that what matters for collaborative learning outcomes is the classroom orchestration of a macro-script by the teacher rather than the design of the script alone. [→ Gerry Stahl 2012](#gerry-stahl-2012)
@@ -26,7 +33,7 @@ sources:
 
 Gerry Stahl. (2012). Ethnomethodologically informed. Computer-Supported Collaborative Learning 7:1–10. https://doi.org/10.1007/s11412-012-9142-3
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Stahl reports Onrubia and Engel's study relating patterns of teacher assistance, forms of collaborative student-group work, and group performance under a macro-script, concluding that what is important is not simply the design of a macro-script, but the teacher's classroom orchestration that enacts the script in unpredictable teaching situations.
 

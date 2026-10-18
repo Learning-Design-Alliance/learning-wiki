@@ -16,6 +16,9 @@ sources:
 
 # Design CSCL assignments with individual accountability and positive interdependence
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Within the CSCL environment, assignments stimulated collaboration through "individual accountability and positive interdependence, two elements that aim to trigger interactions within teams." Each module contained individual assignments after which students had to share information to complete a joint assignment; each student was assigned a unique task or unique goal (e.g., highest efficiency, lowest costs, highest safety) that could only be reached through the joint goal, so all students could be held responsible for the team's success. This role assignment is transferable to other CSCL curricula.
 
