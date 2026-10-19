@@ -183,7 +183,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - **Asset-based feedback**: Instructor names what the learner already does well and connects it to the next improvement target.
 - **Experience-informed task entry**: Learners can begin with examples from work, family, language, or community knowledge.
 - [Choose fading starting points by identifying a response already in the child's repertoire](../strategies/repertoire-response-as-fading-starting-point.md)
-- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Ground coaching conversations in the work of children](../patterns/professional-development.md)
 - [Leveraging Strengths in Relationship Skills](../strategies/leveraging_strengths_in_relationship_skills.md)
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 - [Leverage what students do well and enjoy to address their learning challenges](../strategies/leverage-strengths-to-mitigate-challenges.md)
@@ -306,7 +306,7 @@ The author recommends beginning professional development sessions with celebrati
 
 ## Examples
 
-- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Ground coaching conversations in the work of children](../patterns/professional-development.md)
 - [Leveraging Strengths in Relationship Skills](../strategies/leveraging_strengths_in_relationship_skills.md)
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 

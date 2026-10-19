@@ -37,8 +37,7 @@ Collaborative discussion is the element in which learners build understanding to
 - Support co-construction, perspective comparison, and shared synthesis.
 
 ### Affordances
-- [Social Constructivism](../principles/social-constructivism.md)
-- [Social Learning](../theories/sociocultural-theory.md)
+- [Social Constructivism](../theories/sociocultural-theory.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

@@ -81,7 +81,7 @@ Structured discussion converts discussion from an unguided activity into a scaff
 - [Debate](../patterns/debate.md) — a highly formalized structured discussion variant
 
 ## Examples
-- **[Socratic seminar](../patterns/socratic-seminar.md)** — a text-based discussion protocol in which learners question each other using evidence from the text, with an inner/outer circle structure that makes participation observable and equitable.
+- **[Socratic seminar](../elements/socratic-seminar.md)** — a text-based discussion protocol in which learners question each other using evidence from the text, with an inner/outer circle structure that makes participation observable and equitable.
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** — individual thinking, rehearsal with a partner, then whole-class sharing; the staged structure lowers the risk of public contribution.
 - **[Facing History and Ourselves](https://www.facinghistory.org)** — publishes classroom discussion protocols (barometer, big paper, identity charts) with sentence starters designed for discussing difficult social topics.
 - **[EL Education](https://eleducation.org)** curriculum — embeds structured academic talk routines ("Think-Write-Pair-Share," discussion sentence frames) throughout its K–12 language arts modules, with explicit scaffolds for English language learners.

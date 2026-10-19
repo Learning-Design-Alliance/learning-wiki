@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (12 for, 27 mixed, 13 against) · 41 studies (21 causal, 9 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative, 1 design), `q2`–`q4` · 15 of 41 report an effect size · 49 claims rest on one study
+> **Evidence** · 51 claims (12 for, 27 mixed, 12 against) · 41 studies (21 causal, 9 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative, 1 design), `q2`–`q4` · 15 of 41 report an effect size · 47 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -76,7 +76,6 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Calibration accuracy improvements on French did not transfer to German and Math courses without the intervention, arguing against a maturation explanation](../claims/no-calibration-transfer-german-math.md) [+W]
 - [JOL resolution (relative accuracy) did not differ between younger and older adults](../claims/jol-resolution-no-age-difference.md) [~W]
 - [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](../claims/rating-scope-confidence-versus-jol-reactivity.md) [~W]
-- [Learners are substantially overconfident when judging the quality of their self-generated examples](../claims/overconfidence-judging-self-generated-examples.md) [-W]
 - [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](../claims/self-assessments-more-accurate-than-comprehension-judgments.md) [~W]
 - [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](../claims/students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) [~W]
 - [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](../claims/unskilled-unaware-monitoring-after-self-scoring.md) [~W]

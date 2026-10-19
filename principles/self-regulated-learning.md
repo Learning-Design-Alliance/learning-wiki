@@ -234,7 +234,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Peer Feedbackpeer Review](peer-learning.md)
 - (none yet linked)
 - [Help students understand disciplines as modes of inquiry rather than static bodies of information](epistemic-cognition.md)
-- [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](backward-design-goals-first-inquiry.md)
+- [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](../methods/backward-design.md)
 - [Learner Choice](autonomy.md)
 - [Feedback](../elements/feedback.md)
 
@@ -508,7 +508,7 @@ During the inquiry introduction, facilitators should make students conscious of 
 ## Related Principles
 
 - [Help students understand disciplines as modes of inquiry rather than static bodies of information](epistemic-cognition.md)
-- [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](backward-design-goals-first-inquiry.md)
+- [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](../methods/backward-design.md)
 
 ## Examples
 

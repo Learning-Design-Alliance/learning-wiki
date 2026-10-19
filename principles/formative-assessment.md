@@ -34,12 +34,16 @@ sources:
     resource: "http://www.voicethread.com"
     title: "Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com"
     author: Lepore, C. E
+  - id: joshua-wedlock-christopher-binnie-2025
+    resource: "https://doi.org/10.55593/ej.29115a5"
+    title: "Joshua Wedlock & Christopher Binnie. (2025). Deliberate and Purposeful Practice for Second Language Learning: A Framework. The Electronic Journal for English as a Second Language. https://doi.org/10.55593/ej.29115a5"
+    author: "Joshua Wedlock & Christopher Binnie"
 ---
 
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (12 for, 14 mixed, 1 unmarked) · 39 studies (11 quant-synthesis, 10 causal, 8 review, 3 associational, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 15 of 39 report an effect size · 17 claims rest on one study
+> **Evidence** · 33 claims (18 for, 14 mixed, 1 unmarked) · 43 studies (12 quant-synthesis, 11 causal, 9 review, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 15 of 43 report an effect size · 21 claims rest on one study
 
 ## Description
 
@@ -117,6 +121,12 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Audio Discussions Increase Perceived Pronunciation Ability](../claims/audio-discussions-increase-perceived-pronunciation-ability.md) [+M]
 - [Decreased Perceived Pronunciation Difficulty](../claims/decreased-perceived-pronunciation-difficulty.md) [+M]
 - [Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning](../claims/formative-assessment-training-improves-information-on-results.md) [+W] — attached 2026-10-18 from H. P. A. Boshuizen (2016), which proposed "Use flexible, adaptive formative assessment during learning to provide information on results for regulation".
+- [Deeper processing of target language improves lexical retention and long-term learning](../claims/depth-of-processing-improves-l2-retention.md) [+W]
+- [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](../claims/desirable-difficulty-enhances-long-term-retention.md) [+W]
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [+W]
+- [Quality out-of-class language learning combines focus on meaning and form and correlates with higher grades](../claims/quality-ocll-meaning-form-synergy-higher-grades.md) [+W]
+- [Structured repetition gains in fluency depend on repeating the same task](../claims/structured-repetition-fluency-task-specific.md) [+W]
+- *Does second-language practice carry over to skills and tasks other than the one practised?* [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+M]
 
 ## Source verification and open tests
 
@@ -264,3 +274,50 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [https://doi.org/10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)
 - Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)
+
+<!-- merged 2026-10-19 from patterns/three-phase-dp-pp-practice-protocol ("Three-phase DP/PP practice protocol pattern"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Three-phase DP/PP practice protocol pattern
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (6 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+
+## Description
+The framework organizes practice into three phases, summarized in Table 1 as criteria for deliberate, purposeful, and naive practice for language learning: (1) individualized design of effective practice, (2) actively engaging in a task with an explicit goal, immediate feedback, and repetition, and (3) individualized assessment of skill to inform the design of future practice. The article instructs that "Teachers should implement DP protocols that require students to “repeatedly perform the same or similar tasks” as a way of either promoting or consolidating task -specific language proficiency." The pattern applies to both teacher-led classroom DP and learner-managed out-of-class PP, with teacher involvement gradually reduced in PP.
+
+## Design Implications
+
+### Context
+#### Requirements
+- An individualized diagnosis (needs analysis) to pinpoint learning goals and impediments; each performance attempt accompanied by feedback or self-monitoring strategies; monitoring of improvement to decide when transitions to more complex tasks are appropriate
+#### Constraints
+- In larger classes the standard of DP will not be optimal, as the teacher cannot supply immediate feedback to each individual student, diminishing the quality of DP
+
+### Target Learners
+- Language learners in classroom and out-of-class settings, from beginners to advanced proficiency
+
+### Target Goals
+- Task-specific language proficiency, fluency, and consolidation of language learning through structured practice cycles
+
+### Claims
+
+- [Deeper processing of target language improves lexical retention and long-term learning](../claims/depth-of-processing-improves-l2-retention.md) [+W]
+- [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](../claims/desirable-difficulty-enhances-long-term-retention.md) [+W]
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [+W]
+- [Quality out-of-class language learning combines focus on meaning and form and correlates with higher grades](../claims/quality-ocll-meaning-form-synergy-higher-grades.md) [+W]
+- [Structured repetition gains in fluency depend on repeating the same task](../claims/structured-repetition-fluency-task-specific.md) [+W]
+
+## The evidence by question
+
+- *How much of performance does accumulated deliberate practice account for, and in which domains?* [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [+M]
+- *Does second-language practice carry over to skills and tasks other than the one practised?* [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+M]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Joshua Wedlock & Christopher Binnie. (2025). Deliberate and Purposeful Practice for Second Language Learning: A Framework. The Electronic Journal for English as a Second Language. https://doi.org/10.55593/ej.29115a5
+-->

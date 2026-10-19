@@ -1,7 +1,7 @@
 ---
 type: principle
 id: memory-consolidation
-aliases: [practice-play-modularization]
+aliases: [practice-play-modularization, skill-based-programmes-should-target-retention-and-sustainability]
 title: Memory Consolidation
 description: "For a learner who can perform something at the end of a session, planning later encounters that make them reactivate and use the material, and judging security only on a delayed unaided check, is expected to leave more available at the horizon than treating one fluent exposure as finished; no claim tests this as a whole, only its spacing and retrieval routes and a post-learning exercise-timing effect."
 canonical: true
@@ -22,12 +22,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED117874"
     title: "Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874"
     author: Winnick, Joseph P., and Ronald W. French, eds
+  - id: kapu-h-2026
+    resource: "https://doi.org/10.1136/bmjopen-2026-119283"
+    title: "Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish. (2026). Exploring educational approaches and strategies for developing evidence synthesis skills among pharmacy students: a scoping review protocol. BMJ Open. https://doi.org/10.1136/bmjopen-2026-119283"
+    author: Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish
 ---
 
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (12 for, 7 mixed, 2 against) · 34 studies (20 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 34 report an effect size · 14 claims rest on one study
+> **Evidence** · 24 claims (13 for, 8 mixed, 3 against) · 37 studies (20 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 37 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +137,9 @@ Claims this page cited before it was rewritten. All three now appear in the mode
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — the earlier page's support for "explanation stabilizes knowledge"; the claim's own title now limits it to immediate tests, so in the model it supports first learning, not consolidation
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — about the capacity of immediate memory and encoding, not about retention over time; bears on this page only through how material is organized before recall
 - [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](../claims/serial-motor-task-complexity-age.md) [+W]
+- [Short Term Training Challenges Long Term Skill Retention](../claims/short-term-training-challenges-long-term-skill-retention.md) [+W]
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [~W]
+- [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](../claims/ai-training-short-term-embedded-existing-courses.md) [-W]
 
 ## Objective and learner-valued goal
 
@@ -166,6 +173,9 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Self-Monitoring](self-monitoring.md) — learners' judgments of their own learning are the signal this page says not to trust without a delayed check
 
 ## Examples
+- [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
+- [Use workshops and training sessions to familiarize students and educators with MALL and foster independence](../strategies/workshops-training-mall-familiarization.md)
+- [Design CT interventions using empirically valid instructional design principles and report student and teacher characteristics](../strategies/design-ct-interventions-with-valid-instructional-principles.md)
 
 ### Illustrative
 
@@ -179,6 +189,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - Dudai, Y. (2004). The neurobiology of consolidations, or, how stable is the engram? *Annual Review of Psychology, 55*, 51-86. [https://doi.org/10.1146/annurev.psych.55.090902.142050](https://doi.org/10.1146/annurev.psych.55.090902.142050) <!-- corrected 2026-10-05 against Crossref; was: Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. -->
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 - Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874
+- Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish. (2026). Exploring educational approaches and strategies for developing evidence synthesis skills among pharmacy students: a scoping review protocol. BMJ Open. https://doi.org/10.1136/bmjopen-2026-119283
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -279,4 +290,48 @@ Humm's overview draws on Piaget's practice play and Bruner's modularization: ski
 
 ## Key Sources
 - Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874
+-->
+
+<!-- merged 2026-10-19 from principles/skill-based-programmes-should-target-retention-and-sustainability ("Skill-based training programmes should extend beyond short-term skill enhancement towards persistent retention and sustainability of acquired knowledge and skills"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Skill-based training programmes should extend beyond short-term skill enhancement towards persistent retention and sustainability of acquired knowledge and skills
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (3 review), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The protocol argues that skill-based training programmes delivered alongside the conventional academic curriculum — via independent workshops, practical sessions or short courses — promote domain-specific professional competencies and bridge the gap between individual capabilities and organisational expectations. However, it recommends such programmes must extend their focus beyond immediate short-term skill enhancement towards ensuring persistent retention and sustainability of acquired knowledge and skills so students can translate them in real-world professional contexts.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Programmes must include scope for both knowledge and practical skills development and provide follow-up assessment to estimate long-term skill retention
+#### Constraints
+- Embedding such programmes directly within the formal academic curriculum could be extremely challenging due to the rigid and bureaucratic nature of curriculum refinement processes
+
+### Target Learners
+- pharmacy students
+- health professional students in skill-based training programmes
+
+### Target Learning Objectives
+- evidence synthesis skills and their translation into real-world professional contexts
+
+### Claims
+
+- [Short Term Training Challenges Long Term Skill Retention](../claims/short-term-training-challenges-long-term-skill-retention.md) [+W]
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [~W]
+- [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](../claims/ai-training-short-term-embedded-existing-courses.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
+- [Use workshops and training sessions to familiarize students and educators with MALL and foster independence](../strategies/workshops-training-mall-familiarization.md)
+- [Design CT interventions using empirically valid instructional design principles and report student and teacher characteristics](../strategies/design-ct-interventions-with-valid-instructional-principles.md)
+
+## Key Sources
+- Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish. (2026). Exploring educational approaches and strategies for developing evidence synthesis skills among pharmacy students: a scoping review protocol. BMJ Open. https://doi.org/10.1136/bmjopen-2026-119283
 -->

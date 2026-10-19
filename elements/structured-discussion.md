@@ -43,7 +43,7 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 ### Affordances
 - [Social Learning](../theories/sociocultural-theory.md)
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Perspective-Taking](../principles/perspective-taking.md)
+- [Perspective-Taking](../principles/cognitive-flexibility.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

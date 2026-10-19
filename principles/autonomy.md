@@ -181,7 +181,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Flexible Grouping](flexible-grouping.md) — choice can include partner, role, or grouping structures.
 - [Competency-Based Learning & Assessment](competency-based-assessment.md) — learner choice often works well when outcomes are fixed but pathways vary.
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry often incorporates bounded choice around questions, methods, or products.
-- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](problem-based-learning.md)
 - [Scaffolding and Fading](scaffolding-and-fading.md) — this principle adds a temporal, relational dimension to scaffolding and fading: how a dyad's *pattern* of support and autonomy stabilizes over many sessions, not just how a single episode of support should be calibrated
 
 ## Examples
@@ -428,7 +428,7 @@ Student choice is identified as a common theme in maker education best practice:
 
 ## Related Principles
 
-- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](problem-based-learning.md)
 
 ## Examples
 -

@@ -79,7 +79,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — probing questions are the facilitation technique that keeps discussion analytical rather than anecdotal
 
 ## Examples
-- **[Socratic seminar](../patterns/socratic-seminar.md)** (secondary and college humanities): students question each other about a shared text using Paul's question types; the teacher intervenes only to redirect or deepen.
+- **[Socratic seminar](../elements/socratic-seminar.md)** (secondary and college humanities): students question each other about a shared text using Paul's question types; the teacher intervenes only to redirect or deepen.
 - **[ThinkCERCA](https://www.thinkcerca.com)** — embeds probing prompts in digital literacy lessons, asking students to justify claims with evidence from multiple texts.
 - **Problem-based learning tutorials** (e.g., the [Maastricht PBL model](https://www.maastrichtuniversity.nl/education/problem-based-learning)): tutors probe group reasoning about a case ("What explains this finding? What else could account for it?") rather than lecturing.
 

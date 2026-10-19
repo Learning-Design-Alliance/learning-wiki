@@ -43,7 +43,7 @@ The IBL activity was designed around three principles. Authenticity meant a disc
 
 ## Related Designs
 - Collaborative Learning
-- [Guided Practice Four Purposes](../patterns/guided-practice-four-purposes.md)
+- [Guided Practice Four Purposes](../patterns/professional-development.md)
 
 ## Examples
 -

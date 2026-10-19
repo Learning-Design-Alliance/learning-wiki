@@ -90,7 +90,6 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — scenarios supply the realistic tasks in which modeling, coaching, and fading occur
 - Problem-Based Learning — the scenario is the trigger for the entire inquiry cycle (see [Maastricht University's PBL program](https://www.maastrichtuniversity.nl/education/problem-based-learning))
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/coursework/Pages/the-case-method.aspx)** — students receive a business dilemma, must decide on a course of action before class, and defend it in discussion; a hybrid of scenario and case
@@ -144,7 +143,7 @@ Problem scenarios are concrete situations presented to learners as the context f
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md)
 
 ## Examples
 - A realistic case introduction that frames the decisions learners will need to make.

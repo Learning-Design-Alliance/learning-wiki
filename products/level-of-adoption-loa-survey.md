@@ -18,7 +18,7 @@ sources:
 # Level of Adoption (LoA) survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 An online collaborative self-report survey developed by Orr et al. to assess individuals' adoption of technologies across the eight Concerns-Based Adoption Model levels of use.
@@ -28,6 +28,8 @@ An online collaborative self-report survey developed by Orr et al. to assess ind
 
 ### Claims
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](../claims/loa-pilot-self-reported-increase-all-20-technologies.md) [+M]
+- [Loa Revised Ten Level Scale From Respondent Feedback](../claims/loa-revised-ten-level-scale-from-respondent-feedback.md) [+W]
+- [The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change](../claims/no-named-technologies-standards-scope.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,6 +70,45 @@ The Level of Adoption (LoA) survey is a collaborative self-assessment instrument
 - [Levels of Use of the Innovation: eight developmental levels with decision points](../products/concerns-based-adoption-model.md)
 - [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](concerns-based-adoption-model.md)
 - [The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention](../theories/teacher-technology-adoption-stages.md)
+
+## Examples
+-
+
+## Key Sources
+- Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
+-->
+
+<!-- merged 2026-10-19 from patterns/evolving-technology-catalogue-for-adoption-survey ("Continually culling, clustering, and redefining the technology catalogue to track converging emergent technologies"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Continually culling, clustering, and redefining the technology catalogue to track converging emergent technologies
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The LoA instrument's technology list is treated as an evolving artifact: the authors report "continually culling, refining, redefining and clustering our list of technologies" to represent current emergent yet applicable instructional technologies. They created a single classroom video category spanning delivery formats, added mobile devices, separated wikis/blogging from social networking, identified virtual worlds as a singular category, and removed production and laboratory software increasingly seen as standard tools.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Recognition that any such list of technologies is constantly evolving in the face of technological innovation and convergence
+#### Constraints
+- Dealing with evolving overlapping functionalities through convergence will continue to present difficulties as information/communication technologies continually evolve
+
+### Target Learners
+- professional communities of practice assessing instructional technology adoption
+
+### Target Goals
+- accurately representing current emergent educational technologies in collaborative adoption assessment
+
+### Claims
+
+- [Loa Revised Ten Level Scale From Respondent Feedback](../claims/loa-revised-ten-level-scale-from-respondent-feedback.md) [+W]
+- [The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change](../claims/no-named-technologies-standards-scope.md) [+W]
+
+## Related Patterns
+- 
 
 ## Examples
 -

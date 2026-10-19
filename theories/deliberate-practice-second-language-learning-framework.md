@@ -50,7 +50,7 @@ The article proposes a framework guiding educators to design classroom-based del
 
 ## Examples
 
-- [Three-phase DP/PP practice protocol pattern](../patterns/three-phase-dp-pp-practice-protocol.md)
+- [Three-phase DP/PP practice protocol pattern](../principles/formative-assessment.md)
 
 ## Key Sources
 - Joshua Wedlock & Christopher Binnie. (2025). Deliberate and Purposeful Practice for Second Language Learning: A Framework. The Electronic Journal for English as a Second Language. https://doi.org/10.55593/ej.29115a5

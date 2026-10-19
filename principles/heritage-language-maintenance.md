@@ -1,6 +1,7 @@
 ---
 type: principle
 id: heritage-language-maintenance
+aliases: [assess-hll-nhll-listening-differences-first]
 title: Preserve Heritage Language While Acquiring an Additional Language
 description: "For a learner acquiring a school or majority language, continuing to use and develop the heritage language is expected not to slow that acquisition and, at an academic level, to transfer to it; the support is associational and second-hand, and the one randomised programme-level test in the wiki found no significant difference for English learners."
 canonical: true
@@ -8,12 +9,17 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-15
+sources:
+  - id: denise-santos-gláucia-silva-2015
+    resource: "https://journals.sfu.ca/cjal/index.php/cjal"
+    title: "Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal"
+    author: "Denise Santos & Gláucia Silva"
 ---
 
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (18 for, 5 mixed) · 21 studies (5 review, 5 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 2 causal), `q1`–`q3` · 2 of 21 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (26 for, 5 mixed) · 22 studies (5 review, 5 theoretical, 4 associational, 3 quant-synthesis, 3 qualitative, 2 causal), `q1`–`q3` · 2 of 22 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +129,14 @@ Claims this page cited before, or found while rewriting it, that bear on it less
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+M]: case studies and a synthesis; used above for the cross-language comparison step. Its benefit is for fluent, balanced bilinguals.
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](../claims/mead-mother-tongue-status-affects-bilingual-learning.md) [+W]: an anthropological argument, no data; used above for the family-attitudes row.
 - [ASL proficiency correlates positively with English reading comprehension among deaf adults](../claims/asl-proficiency-correlates-reading-comprehension-deaf.md) [+W] — attached 2026-10-16 from Freel et al. (2011), which proposed "Use well-developed ASL as a bridge when teaching English literacy to deaf learners"; tests this page's relationship.
+- [Hlls Rate Listening Easiest Nhlls Challenging](../claims/hlls-rate-listening-easiest-nhlls-challenging.md) [+M]
+- [Hll Nhll Listening Scores Not Significant](../claims/hll-nhll-listening-scores-not-significant.md) [+M]
+- [Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure](../claims/four-difficulty-themes-textbook-listening.md) [+W]
+- [Heritage learners showed broader attention to the passage and selective second-listening attention, while non-heritage learners focused on local information](../claims/hlls-broader-and-selective-listening-attention.md) [+W]
+- [Both learner groups were more successful on listening tasks requiring local understanding than on tasks requiring integration of information or inference](../claims/local-understanding-easier-than-integration-inference.md) [+W]
+- [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](../claims/perceived-hll-advantage-and-dialect-difficulty.md) [+W]
+- [Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status](../claims/strategy-use-not-group-status-explains-listening-success.md) [+W]
+- [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](../claims/reversed-perceptions-textbook-listening-activities.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -157,6 +171,7 @@ Heritage-language proficiency, school-language conversational fluency, school-la
 - Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*, 251-263. [doi:10.1044/0161-1461(2005/025)](https://doi.org/10.1044/0161-1461(2005/025))
 - Meyers-Sutton, C. (2005). Multilingualism. In J. L. Berko Gleason (Ed.), *The development of language* (pp. 407-444). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Language development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -213,4 +228,49 @@ Most children worldwide grow up bilingual or multilingual; the United States is 
 - Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*, 251-263. [doi:10.1044/0161-1461(2005/025)](https://doi.org/10.1044/0161-1461(2005/025))
 - Meyers-Sutton, C. (2005). Multilingualism. In J. L. Berko Gleason (Ed.), *The development of language* (pp. 407-444). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Language development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-19 from principles/assess-hll-nhll-listening-differences-first ("Assess how heritage and non-heritage learners perceive and perform listening as a first step toward developing pedagogical practices for mixed classes"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Assess how heritage and non-heritage learners perceive and perform listening as a first step toward developing pedagogical practices for mixed classes
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 8 claims (8 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 8 claims rest on one study
+
+## Description
+Because heritage and non-heritage learners are commonly placed in single-track classes, the authors argue that understanding how the two groups perceive and perform listening is a prerequisite for designing pedagogy. They state that "an assessment of these differences is a first step toward the development of pedagogical practices", echoing Montrul's (2013) call to understand learners' processing for course development and assessment. The study operationalises this via questionnaires, listening tasks and self-reports.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Mixed single-track classes where HLLs and NHLLs share courses, as is common in US university language programmes
+#### Constraints
+- The study does not aim at broad generalisations; findings characterise one educational community as a baseline for future investigations
+
+### Target Learners
+- University heritage and non-heritage learners of less commonly taught languages
+
+### Target Learning Objectives
+- Listening comprehension in the heritage language classroom
+
+### Claims
+
+- [Hlls Rate Listening Easiest Nhlls Challenging](../claims/hlls-rate-listening-easiest-nhlls-challenging.md) [+M]
+- [Hll Nhll Listening Scores Not Significant](../claims/hll-nhll-listening-scores-not-significant.md) [+M]
+- [Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure](../claims/four-difficulty-themes-textbook-listening.md) [+W]
+- [Heritage learners showed broader attention to the passage and selective second-listening attention, while non-heritage learners focused on local information](../claims/hlls-broader-and-selective-listening-attention.md) [+W]
+- [Both learner groups were more successful on listening tasks requiring local understanding than on tasks requiring integration of information or inference](../claims/local-understanding-easier-than-integration-inference.md) [+W]
+- [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](../claims/perceived-hll-advantage-and-dialect-difficulty.md) [+W]
+- [Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status](../claims/strategy-use-not-group-status-explains-listening-success.md) [+W]
+- [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](../claims/reversed-perceptions-textbook-listening-activities.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 -->

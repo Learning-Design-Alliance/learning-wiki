@@ -1,6 +1,7 @@
 ---
 type: principle
 id: supporting-early-language-development
+aliases: [preschool-curricula-ef-tom-training]
 title: Support Early Language Development
 description: "For young children building a first language, frequent responsive exchanges in which an adult answers and expands the child's own turns are expected to grow the child's expressive language more than language the child only hears; one routine, dialogic shared reading, is tested against ordinary reading, and the general relationship rests on associational evidence."
 canonical: true
@@ -8,12 +9,17 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-15
+sources:
+  - id: biscevic-2018
+    resource: "https://www.scientiasocialis.lt/pec/"
+    title: "Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/"
+    author: "Biscevic, I., Pasalic, A., & Memisevic, H"
 ---
 
 # Support Early Language Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (13 for, 2 mixed, 2 against) · 23 studies (10 quant-synthesis, 5 causal, 3 review, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 11 claims rest on one study
+> **Evidence** · 26 claims (17 for, 6 mixed, 3 against) · 28 studies (10 quant-synthesis, 6 causal, 6 review, 4 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 28 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +121,15 @@ Claims bearing on the page that were read but not used as core evidence above.
 - [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap](../claims/vocabulary-programs-insufficient-to-close-vocabulary-gap.md) [~M]: school-age linguistic comprehension programmes; a limit on what any vocabulary programme should promise.
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](../claims/experiential-training-ecd-workers-better-child-outcomes.md) [+W]: an argument with no data; bears on how staff are trained.
 - [Maternal prescriptives that follow the child's focus of attention correlate positively with productive vocabulary at 1;10](../claims/follow-prescriptives-correlate-vocabulary-growth.md) [+W] — attached 2026-10-15 from Nameera Akhtar et al. (1991), which proposed "Direct a young child's behaviour only within a joint focus of attention to support vocabulary learning".
+- [Ef Significant Effect Semantic Fluency Preschool](../claims/ef-significant-effect-semantic-fluency-preschool.md) [+M]
+- [Pass Both Ef Tom Higher Semantic Fluency](../claims/pass-both-ef-tom-higher-semantic-fluency.md) [+M]
+- [False Belief Training No Language Effect](../claims/false-belief-training-no-language-effect.md) [~W]
+- [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](../claims/tom-marginal-non-significant-semantic-fluency.md) [-W]
+- [DCCS training in preschoolers transfers to false-belief understanding](../claims/dccs-training-transfers-false-belief.md) [+W]
+- [Lower-baseline participants often benefit more from executive-function training (compensation effects), and individual differences moderate training gains](../claims/compensation-effects-ef-training.md) [~W]
+- [EF training demands must keep increasing as children improve, or few gains will be seen](../claims/progressive-challenge-ef-training.md) [~W]
+- [Tools of the Mind curriculum effects are mixed across evaluations: null in prekindergarten, substantial in high-poverty kindergarten schools](../claims/tools-of-the-mind-mixed-evaluation-results.md) [~W]
+- [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](../claims/tools-montessori-curricula-improve-efs.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -150,6 +165,7 @@ Child talk during sessions, vocabulary on taught words, general expressive langu
 - Clark, E. V. (2009). *First language acquisition* (2nd ed.). Cambridge University Press.
 - Werker, J. F., Pegg, J. E., & McLeod, A. J. (1994). Cross-language speech perception: Initial capabilities and developmental change. *Developmental Psychology, 30*, 702-721.
 - Arduini-Van Hoose, N. (2020). Language development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/. [doi:10.33225/pec/18.76.21](https://doi.org/10.33225/pec/18.76.21)
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -202,4 +218,54 @@ Language develops fastest where children have real reason to communicate, hear v
 - Clark, E. V. (2009). *First language acquisition* (2nd ed.). Cambridge University Press.
 - Werker, J. F., Pegg, J. E., & McLeod, A. J. (1994). Cross-language speech perception: Initial capabilities and developmental change. *Developmental Psychology, 30*, 702-721.
 - Arduini-Van Hoose, N. (2020). Language development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-19 from principles/preschool-curricula-ef-tom-training ("Preschool curricula should include executive function (and theory of mind) training to foster language development"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Preschool curricula should include executive function (and theory of mind) training to foster language development
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 5 studies (3 review, 1 causal, 1 associational), `q2`–`q3` · 1 of 5 report an effect size · 9 claims rest on one study
+
+## Description
+The article recommends that preschool institutions modernize curricula to include activities fostering executive functions and theory of mind, because both relate to semantic fluency, which predicts later school success. It states "it is of utmost importance to offer different curricula in preschool institutions that would take into consideration the importance of EF and TOM", citing curricula such as Tools of the Mind and Reflection Training as examples shown to improve EF.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Curricula must be designed for preschool-age children and take EF and TOM development into account
+#### Constraints
+- The article's own evidence is correlational; it also cites a study (Hale & Tager-Flusberg, 2003) in which false-belief training improved TOM but had no effect on language skills
+
+### Target Learners
+- preschool children aged 3 to 6 years
+
+### Target Learning Objectives
+- language development, specifically semantic fluency and later academic skills
+
+### Claims
+
+- [Ef Significant Effect Semantic Fluency Preschool](../claims/ef-significant-effect-semantic-fluency-preschool.md) [+M]
+- [Pass Both Ef Tom Higher Semantic Fluency](../claims/pass-both-ef-tom-higher-semantic-fluency.md) [+M]
+- [False Belief Training No Language Effect](../claims/false-belief-training-no-language-effect.md) [~W]
+- [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](../claims/tom-marginal-non-significant-semantic-fluency.md) [-W]
+- [DCCS training in preschoolers transfers to false-belief understanding](../claims/dccs-training-transfers-false-belief.md) [+W]
+- [Lower-baseline participants often benefit more from executive-function training (compensation effects), and individual differences moderate training gains](../claims/compensation-effects-ef-training.md) [~W]
+- [EF training demands must keep increasing as children improve, or few gains will be seen](../claims/progressive-challenge-ef-training.md) [~W]
+- [Tools of the Mind curriculum effects are mixed across evaluations: null in prekindergarten, substantial in high-poverty kindergarten schools](../claims/tools-of-the-mind-mixed-evaluation-results.md) [~W]
+- [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](../claims/tools-montessori-curricula-improve-efs.md) [+W]
+
+## The evidence by question
+- *Do young children's executive functions (and theory of mind) predict their language and early academic skills?* [Executive function performance significantly predicts semantic fluency in preschool children](../claims/ef-significant-effect-semantic-fluency-preschool.md) [+M]
+- *Does training executive function or theory of mind in early childhood improve language and literacy?* [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](../claims/false-belief-training-no-language-effect.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/. [doi:10.33225/pec/18.76.21](https://doi.org/10.33225/pec/18.76.21)
 -->

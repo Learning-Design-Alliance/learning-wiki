@@ -148,7 +148,7 @@ Speech comprehension in the room, use of new material, listening without print, 
 - [Universal Design for Learning](universal-design-for-learning.md) — the audit that finds a sensory demand outside the goal.
 - [Multimodal Instruction](multimodal-instruction.md) — choosing modes and providing an alternative mode where one is inaccessible.
 - [Text-to-Speech](text-to-speech.md) — speech added to print, the reverse route.
-- [Four strategies for older refugee language learners](four-strategies-older-refugee-language-learners.md) — other recommendations for older language learners.
+- [Four strategies for older refugee language learners](../designs/elderly-refugee-programs-beyond-language-learning.md) — other recommendations for older language learners.
 - [Contextualize abstract content for older learners](cultural-life-experiences-connections.md) — another recommendation for older learners.
 
 ## Examples

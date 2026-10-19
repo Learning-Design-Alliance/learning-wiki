@@ -63,7 +63,6 @@ Anchored instruction situates learning around a shared, meaningful scenario or "
 
 ## Patterns That Use This Element
 - [Anchored Instruction](../patterns/anchored-instruction.md)
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - A video case anchors a unit on environmental decision making

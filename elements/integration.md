@@ -72,7 +72,7 @@ Integration activities convert learning from an isolated instructional event int
 
 ## Patterns That Use This Element
 - [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md) — integration is the fourth principle: "learning is promoted when learners integrate new knowledge into their everyday world"
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md) — post-scenario debriefs ask learners to connect scenario performance to real-world goals
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md) — post-scenario debriefs ask learners to connect scenario performance to real-world goals
 
 ## Examples
 

@@ -17,7 +17,7 @@ sources:
 # Use the distinct maturational timelines to guide monitoring of adolescents with neurodevelopmental disorders
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (1 causal, 1 review, 1 associational), `q2`–`q3` · 2 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 causal, 1 review), `q2`–`q3` · 2 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article draws clinical implications from its two distinct maturational trajectories. Because sustained attention processes mature protractedly through adolescence, the authors stress "the importance of continued monitoring of teenagers with Attention Deficit Hyperactivity Disorder". Conversely, because prediction abilities appear mature by age 12, the finding "highlights the importance of early diagnosis and intervention in Autism Spectrum Disorder", which is associated with difficulties in predictive processing.
@@ -43,11 +43,10 @@ The article draws clinical implications from its two distinct maturational traje
 ## Claims
 
 - [Reaction-time benefit from predictive context is similar across ages 12–24, suggesting mature prediction abilities by age 12](../claims/prediction-rt-benefit-mature-by-age-12.md) [+W]
-- [Sustained attention performance (hits, false alarms, and sensitivity d′) continues to improve after age 12 through early adulthood](../claims/sustained-attention-improves-after-age-12.md) [+W]
+- [Sustained attention performance (hits, false alarms, and sensitivity d′) continues to improve after age 12 through early adulthood](../claims/age-correlates-detection-performance.md) [+W]
 - [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](../claims/protracted-cognitive-flexibility-development.md) [+W]
 - [Predictability enhances P3 amplitude, CNV amplitude, and shortens target-P3 latency equally at all ages, indexing mature prediction encoding, preparation, and implementation](../claims/prediction-erp-markers-no-age-differences.md) [+W]
 - [CNV and P3 scalp topographies show a frontal shift with increasing age during adolescence](../claims/frontal-shift-cnv-p3-topographies-adolescence.md) [+W]
-- [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](../claims/age-correlates-detection-performance.md) [+W]
 
 ## Related Strategies
 - 

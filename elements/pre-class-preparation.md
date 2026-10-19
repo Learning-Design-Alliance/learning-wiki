@@ -50,7 +50,7 @@ Pre-class preparation is the element in which learners engage with readings, vid
 
 ## Patterns That Use This Element
 - [Flipped Learning](../principles/flipped-learning.md)
-- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 - Assigned reading with a prompt that must be used in the following class discussion.

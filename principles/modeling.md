@@ -347,7 +347,7 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 ## Related Patterns
 
 - [Merrill's First Principles of Instruction](../patterns/4cid-four-component-instructional-design.md)
-- [Demonstration, application, and integration corollaries of Merrill's framework](../patterns/merrill-demonstration-application-integration-corollaries.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](../patterns/4cid-four-component-instructional-design.md)
 
 ## Examples
 - An instructor models a complete solution path before learners solve a similar problem with support.

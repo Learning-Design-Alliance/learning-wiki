@@ -83,7 +83,7 @@ Problem solving is the element in which learners identify, analyze, and respond 
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md)
 - Problem-Based Learning — the problem *is* the curriculum; tasks drive all content acquisition
 - Goal-Based Scenarios — simulated environments where learners pursue a goal and the system responds to their problem-solving moves
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the exploration phase, where learners tackle problems with decreasing support

@@ -47,7 +47,7 @@ A course-level pattern in which middle school students explore career fields thr
 
 ## Related Patterns
 
-- [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
+- [Level-differentiated emphases: awareness, exploration, specialization](../products/technology-education-curriculum-guide.md)
 
 ## Examples
 

@@ -75,8 +75,8 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs](krashen-five-hypotheses-bilingual-principles.md)
 
 ## Examples
-- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/comprehensible-input-communicative-reading-activities.md)
-- [Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities](../principles/learning-activities-legitimate-place-syllabus.md)
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/accessible-vocabulary-syntax.md)
+- [Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities](../principles/flexible-error-treatment-strategies.md)
 - [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition](../strategies/process-writing-natural-settings-facilitate-acquisition.md)
 - [Sustained Silent Reading](../strategies/sustained-silent-reading.md) — its free voluntary reading variant draws on Krashen

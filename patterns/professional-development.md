@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: professional-development
-aliases: [coaching-level-2-necessary-supports-implementation-and-dialogue, coaching-level-3-sustaining-efforts-coach-learning-and-independence]
+aliases: [coaching-level-2-necessary-supports-implementation-and-dialogue, coaching-level-3-sustaining-efforts-coach-learning-and-independence, ground-conversations-in-childrens-work, guided-practice-four-purposes]
 title: Professional Development
 description: "A reusable policy for teachers: one observable classroom practice is modelled, rehearsed, enacted with the teacher's own students and given feedback in coaching cycles over a term, with support faded and use checked later; expected to change observed practice where the target is specific and coach time is sustained, though no claim here compares it with one-off workshops."
 canonical: true
@@ -24,12 +24,20 @@ sources:
     resource: "https://www.excelined.org"
     title: "Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org"
     author: "Comprehensive Early Literacy Policy: Fundamental Principles"
+  - id: corcoran-2003
+    resource: "https://eric.ed.gov/?id=ED480404"
+    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
+    author: Corcoran, Tom
+  - id: feiman-nemser-1994
+    resource: "https://eric.ed.gov/?id=ED377169"
+    title: "Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169"
+    author: Feiman-Nemser, Sharon, et al
 ---
 
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (31 for, 14 mixed, 4 against) · 42 studies (9 review, 9 qualitative, 8 causal, 7 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 7 of 42 report an effect size · 43 claims rest on one study
+> **Evidence** · 51 claims (33 for, 14 mixed, 4 against) · 43 studies (10 qualitative, 9 review, 8 causal, 7 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 7 of 43 report an effect size · 45 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +140,8 @@ Read against the model on 2026-10-19. Of the twelve claims that had gathered her
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](../claims/coaching-responsibilities-mentoring-and-advocacy.md) [+W] — read 2026-10-19: a conceptual framework citing earlier literature, with no data. It describes what coaches do, and the district-programme row already says to protect the mentoring half.
 - [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](../claims/external-coaching-accountability-idea-generation.md) [+W] — read 2026-10-19: interviews with district design teams building teacher-recruitment pilots. The coaching was of a team's design project, not of classroom practice, so it does not bear on the enact-and-feedback cycle.
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W] — (not about this page) read 2026-10-19: a duration moderator in a meta-analysis of AI-supported instruction for STEM students. It says nothing about how long teacher PD should run.
+- [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](../claims/clear-expectations-learning-walks-reinforce-hqim-use.md) [+W]
+- [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
 
 ## Illustrative design instance and observation record
 
@@ -165,6 +175,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](../claims/pd-models-and-curriculum-support.md) [+W]
 - [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](../claims/sri-implementation-observations-modeling-evaluation.md) [~W]
 - [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](../claims/squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) [~W]
+- High Hours Professional Development Linked Reform Practice [+M]
 
 ## Related Patterns
 
@@ -191,6 +202,10 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Professional Learning Communities](../strategies/professional-learning-communities.md)
 - [Certified Executive Coaches provide side-by-side professional development and improvement science support for ARC Core implementation](../strategies/arc-core-executive-coaching-pd-strategy.md)
 - [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](../strategies/pd-before-ethnic-studies-standards-implementation.md)
+- [Peer Teacher Workshops (PTWs)](../elements/peer-teacher-workshops-mise.md)
+- [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
+- [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](../strategies/preparation-program-design-three-strategies.md)
 
 ## Key Sources
 - Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. *Learning Policy Institute*. [doi:10.54300/122.311](https://doi.org/10.54300/122.311)
@@ -201,6 +216,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 - Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
 - Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
+- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+- Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -483,7 +500,7 @@ The toolkit states that core curricula choices "greatly impact student learning 
 
 ## Related Principles
 
-- [Eliminate three-cueing from elementary reading curricula and educator preparation materials](../principles/eliminate-three-cueing-instruction.md)
+- [Eliminate three-cueing from elementary reading curricula and educator preparation materials](../principles/phonics.md)
 - [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](../principles/ongoing-study-teams-peer-coaching-in-service.md)
 
 ## Examples
@@ -493,4 +510,137 @@ The toolkit states that core curricula choices "greatly impact student learning 
 
 ## Key Sources
 - Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
+-->
+
+<!-- merged 2026-10-19 from principles/curriculum-embedded-teacher-led-sustained-pd ("Design professional development around curriculum-embedded, teacher-led, sustained learning"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Design professional development around curriculum-embedded, teacher-led, sustained learning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 7 claims (7 for) · 5 studies (3 review, 1 qualitative, 1 design), `q2` · 0 of 5 report an effect size · 7 claims rest on one study
+
+## Description
+MISE's core guiding principles for professional development remained constant across a decade of adaptation. Professional development should be "Linked to specific curriculum units and focused on the content teachers must teach," based on a clear vision of good practice, immediately useful in classrooms, respectful of teachers and grounded in a coherent theory of adult learning, intensive yet extended over time with on-site support, led by accomplished teachers modeling good practice, easily accessible, and sustainable over time by local districts. The article notes these principles are consistent with the prevailing consensus on effective professional development and that MISE's use of district priorities, rather than individual teacher choice, aimed to build shared vision and communities of practice.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A clear vision of good practice and curriculum units to anchor the learning
+- District capacity and commitment to sustain the work over time
+#### Constraints
+- Participation was voluntary with incentives such as peer pressure and stipends, but no linkage to personnel evaluations, so workshops were seldom seen as high-stakes
+
+### Target Learners
+- Elementary and middle school teachers, especially generalists with minimal science backgrounds
+
+### Target Learning Objectives
+- Effective, consistent use of inquiry-centered science curriculum modules
+- Deepened science content knowledge
+
+### Claims
+
+- High Hours Professional Development Linked Reform Practice [+M]
+- [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](../claims/leader-teacher-diffusion-uneven.md) [+M]
+- [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](../claims/nonparticipant-barriers-professional-development.md) [+W]
+- [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](../claims/clear-expectations-learning-walks-reinforce-hqim-use.md) [+W]
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
+- [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
+- [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](../claims/pd-models-and-curriculum-support.md) [+W]
+
+## The evidence by question
+
+- *Does professional development tied to the curriculum teachers teach, modelled by accomplished teachers and sustained with on-site support change teaching and students' results?* [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+M]
+- *How much professional development, over how long, before teaching and student results change?* [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Peer Teacher Workshops (PTWs)](../elements/peer-teacher-workshops-mise.md)
+- [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
+- [Sustained classroom-embedded professional development through demonstration teachers](../strategies/demonstration-teachers-classroom-embedded-pd.md)
+- [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](../strategies/preparation-program-design-three-strategies.md)
+
+## Key Sources
+- Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+-->
+
+<!-- merged 2026-10-19 from patterns/ground-conversations-in-childrens-work ("Ground coaching conversations in the work of children"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Ground coaching conversations in the work of children
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+A recurring coaching pattern: conversations about instruction start from authentic artifacts of student learning such as written responses, writing samples, and actual Running Records. The author invites teachers to question when children were most and least engaged and to examine prompts, re-reading, self-correction, and privileged strategies. Looking across artifacts, teachers decided to broaden the range of written responses students completed after reading. These instructional conversations around children's work, the author writes, "challenged us to envision multiple possibilities."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Access to real student artifacts, Running Records, and writing samples for joint analysis
+#### Constraints
+- 
+
+### Target Learners
+- elementary classroom teachers
+
+### Target Goals
+- interpreting literacy assessment data
+- envisioning instructional possibilities from student evidence
+
+### Claims
+- 
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+-->
+
+<!-- merged 2026-10-19 from patterns/guided-practice-four-purposes ("Guided practice serves four broad, overlapping purposes for teacher learning"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Guided practice serves four broad, overlapping purposes for teacher learning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+In their reading of the literature, the authors found that guided practice may serve four broad and overlapping purposes: "They include helping teachers (1) realize visions of teaching in their daily practice; (2) implement a new curriculum or teaching strategies; (3) study their practice in systematic ways; and (4) restructure teaching." Beyond these orienting purposes, guides also pursue emergent, immediate goals arising from practical realities and the teacher's concerns. The purposes a guide pursues interact with the participants' relationship and the context.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Guides must clarify whether their purposes are short-term or long-range, intended or enacted, and where goals should come from
+#### Constraints
+- Purposes may conflict, e.g., an advisor helping teachers define their own agendas may find those agendas conflict with the advisor's beliefs about good teaching
+
+### Target Learners
+- novice and experienced classroom teachers
+
+### Target Goals
+- implementing new curriculum or strategies
+- studying one's own practice systematically
+- restructuring teaching
+
+### Claims
+- 
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
 -->

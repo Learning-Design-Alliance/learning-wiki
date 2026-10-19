@@ -26,12 +26,16 @@ sources:
     resource: "https://doi.org/10.18546/FEJ.02.2.04"
     title: "Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04"
     author: Koster, E
+  - id: calderon-1982
+    resource: "https://eric.ed.gov/?id=ED226607"
+    title: "Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607"
+    author: Calderon, Margarita; And Others
 ---
 
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (22 for, 7 mixed) · 26 studies (6 causal, 6 review, 4 associational, 4 qualitative, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 5 of 26 report an effect size · 25 claims rest on one study
+> **Evidence** · 35 claims (26 for, 9 mixed) · 29 studies (8 review, 6 causal, 4 associational, 4 qualitative, 3 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 5 of 29 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +139,12 @@ Claims this page cited, or that bear on it, which the model above does not rest 
 - [Writing is presented as uniquely corresponding to the features of successful learning](../claims/writing-uniquely-corresponds-features-successful-learning.md) [+W] — the old page's source restating Emig's 1977 argument; theory, no data. It restates the rationale for step 5; the writing meta-analyses above are what test it.
 
 Read against the model on 2026-10-19 and moved into it: the AI writing-dialogue case study and the review of AI practice (the AI-tutor and anxious-learner rows), the mathematics disparities report (a new row for linguistic-minority and low-income communities), the Iranian lack-of-practice survey (step 2), the two anxiety case-study claims (the observation table), the Sedova & Sedlacek participation-profile claim (step 3, the observation table and the evidence list), and the discourse-practices primer (already step 4's basis). The three bullets above stay here because they are theory or attribution with no data of their own.
+- [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+W]
+- [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](../claims/conversational-fluency-misleading-proficiency-indicator.md) [+W]
+- [BICS and CALP intersect developmentally but are not identical or reducible one to the other](../claims/bics-calp-intersect-not-identical.md) [+W]
+- [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](../claims/calp-can-precede-bics-in-certain-situations.md) [~W]
+- [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](../claims/integrate-oral-written-language-content-teaching.md) [+M]
+- [BICS-level language can be acquired in about two years regardless of age on arrival and first language](../claims/bics-acquired-two-years-all-ages.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -156,7 +166,7 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [Talk time and internal behavioral engagement are only weakly correlated, indicating they are separate phenomena](../claims/talk-and-engagement-separate-phenomena.md) [~W]
 
 ## Related Principles
-- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)
 - [Active Learning](active-learning.md) — the general relationship this page's talk-and-writing case sits inside.
 - [Peer Discussion](peer-discussion.md) — the narrower vote–discuss–revote relationship on conceptual questions.
 - [Collaborative Learning](collaborative-learning.md) — joint work in general.
@@ -189,6 +199,7 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - Yonghong Gao. (2008). Implementing Communicative Activities in English Reading Class. English Language Teaching, Vol. 1, No. 1. https://journals.cces.net/index.php/elt
 - Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
 - Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04
+- Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -240,7 +251,7 @@ The article presents the Bullock Report's basic tenet, adopted by Cummins for mi
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](../claims/speaking-practice-reduced-flca-increased-self-efficacy.md) [+W] — attached 2026-10-07 from Andrew Leichsenring (2010), which proposed "Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety"; tests this page's relationship.
 
 ## Related Principles
-- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)
 
 ## Examples
 
@@ -297,7 +308,7 @@ The article reasons that students learn the target language as a communicative t
 
 ## Related Principles
 
-- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)
 - [Create a relaxed, non-threatening atmosphere before engaging students in communicative activities](talking-and-writing-means-to-learning.md)
 
 ## Examples
@@ -354,7 +365,7 @@ The article argues that communicative activities are harder to engage in under s
 
 ## Related Principles
 
-- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)
 - [Reduce teacher talk time and improve its quality to give students adequate discussion time](talking-and-writing-means-to-learning.md)
 
 ## Examples
@@ -446,4 +457,52 @@ The article holds that dialogue is the most important ingredient in the whole pr
 
 ## Key Sources
 - Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04
+-->
+
+<!-- merged 2026-10-19 from patterns/functional-approach-bics-to-calp-progression ("Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (4 for, 2 mixed) · 3 studies (2 review, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
+
+## Description
+Larsen-Pusey's Functional Approach is a teaching model that bridges the gap between oral skills and academic language: "This model focuses on taking the students from BICS(oral dialogue) to *6ALP (written discourse)". It moves students from context-embedded to context-reduced situations and from cognitively undemanding to cognitively demanding tasks, drawing on generative linguistics, psycholinguistics, sociolinguistics, and educational psychology. The packet's model diagram sequences dialogue plays and skits, reported speech, reader's theater, narrative and expository reading, and note-taking, dialog journals, and written reports, with activities (e.g., Activity III's five steps from dialogue performance to narrative reconstruction) enacting the progression.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Goals must address all four modes of language use (reading, writing, listening, speaking) and be implemented across the curriculum
+#### Constraints
+- The packet states that for this model "a more detailed methodol- ogy remains to be developed"
+
+### Target Learners
+- K-12 bilingual and L2 students
+
+### Target Goals
+- moving from interpersonal oral communication to academic written discourse
+
+### Claims
+
+- [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+W]
+- [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](../claims/conversational-fluency-misleading-proficiency-indicator.md) [+W]
+- [BICS and CALP intersect developmentally but are not identical or reducible one to the other](../claims/bics-calp-intersect-not-identical.md) [+W]
+- [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](../claims/calp-can-precede-bics-in-certain-situations.md) [~W]
+- [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](../claims/integrate-oral-written-language-content-teaching.md) [+M]
+- [BICS-level language can be acquired in about two years regardless of age on arrival and first language](../claims/bics-acquired-two-years-all-ages.md) [~W]
+
+## The evidence by question
+
+- *How long do second-language learners take to reach conversational fluency compared with academic language proficiency, and is conversation always first?* [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+W]
+- *Does teaching oral and written academic language within content lessons improve English learners' content learning?* [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](../claims/integrate-oral-written-language-content-teaching.md) [+M]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607
 -->

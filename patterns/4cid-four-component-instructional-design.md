@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: 4cid-four-component-instructional-design
-aliases: [4cid, tell-show-do-distributed-across-whole-tasks, whole-task-progression-increasing-complexity, merrills-first-principles, merrills-first-principles-of-instruction]
+aliases: [4cid, tell-show-do-distributed-across-whole-tasks, whole-task-progression-increasing-complexity, merrills-first-principles, merrills-first-principles-of-instruction, merrill-demonstration-application-integration-corollaries]
 title: 4C/ID (Four-Component Instructional Design)
 description: "A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals."
 canonical: true
@@ -26,6 +26,10 @@ sources:
     resource: "https://doi.org/10.1080/15391523.2007.10782493"
     title: "Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22"
     author: Merrill, M. D
+  - id: molenda-2002
+    resource: "https://eric.ed.gov/?id=ED470983"
+    title: "Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983"
+    author: Molenda, Michael
 author: Jeroen J. G. van Merrienboer
 grain_size: unit
 ---
@@ -138,8 +142,8 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 - [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md)
 - [Reigeluth's Elaboration Theory](elaboration-theory.md)
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
-- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
-- [Five core areas of classroom technology use as organizing units for assessment](five-core-areas-classroom-technology-use.md)
+- [Five core areas of classroom technology use as organizing units for assessment](../products/the-toolkit.md)
+- [Merrill's First Principles (Demonstration)](../principles/modeling.md)
 
 ## Examples
 
@@ -160,6 +164,7 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 - M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 - Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22. [https://doi.org/10.1080/15391523.2007.10782493](https://doi.org/10.1080/15391523.2007.10782493)
+- Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the pattern body as it stood before the rewrite, kept verbatim.
 
@@ -424,9 +429,9 @@ Its practical strength is that it balances authenticity with structured support.
 
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
-- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](4cid-four-component-instructional-design.md)
 - [Problem-centered instruction with task-level engagement and problem progression](../principles/problem-based-learning.md)
-- [Five core areas of classroom technology use as organizing units for assessment](five-core-areas-classroom-technology-use.md)
+- [Five core areas of classroom technology use as organizing units for assessment](../products/the-toolkit.md)
 
 ## Examples
 - Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.
@@ -485,10 +490,49 @@ Merrill's First Principles is the short-form canonical target for task-centered 
 ## Related Patterns
 
 - [Merrill's First Principles of Instruction](4cid-four-component-instructional-design.md)
-- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](4cid-four-component-instructional-design.md)
 - [Problem-centered instruction with task-level engagement and problem progression](../principles/problem-based-learning.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 - ->
+-->
+
+<!-- merged 2026-10-19 from patterns/merrill-demonstration-application-integration-corollaries ("Demonstration, application, and integration corollaries of Merrill's framework"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Demonstration, application, and integration corollaries of Merrill's framework
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The digest enumerates the supporting generalizations for Merrill's remaining phases. Demonstration requires showing rather than merely telling, with demonstrations consistent with the learning goal, appropriate learner guidance, and relevant media that do not compete for attention. Application requires practice consistent with objectives, coaching that is gradually withdrawn, and a sequence of varied problems. Integration holds that "Learning is promoted when learners are encouraged to integrate (transfer) the new knowledge or skill into their everyday life", with corollaries of public demonstration, reflection, and creation.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Demonstrations must be consistent with the learning goal; practice and posttest must be consistent with stated or implied objectives
+#### Constraints
+- The digest presents these as prescriptions within a framework whose long-term status is untested: time will tell whether Merrill's First Principles will supplant Gagne's model
+
+### Target Learners
+- learners progressing from demonstration through coached application to everyday integration
+
+### Target Goals
+- skill demonstration, coached problem solving, and transfer to everyday life
+
+### Claims
+- 
+
+## Related Patterns
+
+- [Merrill's First Principles (Demonstration)](../principles/modeling.md)
+- [Merrill's First Principles](4cid-four-component-instructional-design.md)
+
+## Examples
+-
+
+## Key Sources
+- Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
 -->

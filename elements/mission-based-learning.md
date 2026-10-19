@@ -70,12 +70,11 @@ Mission-based learning drives engagement by giving learners a compelling goal wh
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — missions operationalize the problem as a goal-directed challenge
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md) — Schank's pattern in which a mission, a role, and a cover story create the context for skill practice
-- [Anchored Instruction](../patterns/anchored-instruction.md) — missions anchor learning in a rich, realistic context (e.g., The Jasper Woodbury Problem Solving series)
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md) — Schank's pattern in which a mission, a role, and a cover story create the context for skill practice
 
 ## Examples
 
-- **[Goal-Based Scenarios](../patterns/goal-based-scenarios.md)** — Schank's design pattern: learners take on a role (e.g., journalist, diagnostician) and must accomplish a mission, with failure treated as diagnostic feedback rather than penalty.
+- **[Goal-Based Scenarios](../patterns/anchored-instruction.md)** — Schank's design pattern: learners take on a role (e.g., journalist, diagnostician) and must accomplish a mission, with failure treated as diagnostic feedback rather than penalty.
 - **[Jasper Woodbury Problem Solving Project](https://peabody.vanderbilt.edu/departments/teachingandlearning/research/jasper_project.php)** — Vanderbilt's video-based adventure series in which students plan rescue missions requiring integrated mathematics and science reasoning.
 - **[Duolingo](../products/duolingo.md)** — gamified missions (daily goals, streaks, unit challenges) that structure language practice as bounded, goal-oriented challenges.
 - **Sales/business simulations (e.g., [Capsim](https://www.capsim.com), Harvard Business Publishing simulations)** — learners run a company or negotiate a deal under constraints, with market outcomes serving as mission feedback.

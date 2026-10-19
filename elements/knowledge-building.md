@@ -31,7 +31,7 @@ Knowledge-building is the element in which learners collectively construct, refi
 - Build collective understanding and progressively improve explanations.
 
 ### Affordances
-- [Social Constructivism](../principles/social-constructivism.md)
+- [Social Constructivism](../theories/sociocultural-theory.md)
 - [Community of Inquiry](../principles/community-of-inquiry.md)
 
 ### Claims

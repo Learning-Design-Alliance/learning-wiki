@@ -70,7 +70,7 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 
 ## Patterns That Use This Element
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md) — student-led questioning drives group sense-making
-- [Socratic Seminar](../patterns/socratic-seminar.md) — shares the student-led questioning structure, with reciprocal teaching adding explicit strategy training
+- [Socratic Seminar](socratic-seminar.md) — shares the student-led questioning structure, with reciprocal teaching adding explicit strategy training
 - [Fostering Communities of Learning (FCL)](../patterns/fostering-communities-of-learning-fcl.md) — uses reciprocal teaching-style dialogue as one of its convergent activities
 
 ## Examples

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: experiential-learning
-aliases: [experiential-course-design-practice-centered-diagnostic, kolb-derived-curriculum-guidelines, experiential-learning-as-program-philosophy, appropriating-disciplinary-tools-to-challenge-restrictive-narratives]
+aliases: [experiential-course-design-practice-centered-diagnostic, kolb-derived-curriculum-guidelines, experiential-learning-as-program-philosophy, appropriating-disciplinary-tools-to-challenge-restrictive-narratives, mediate-cultural-choices-with-personal-meanings, primary-and-secondary-program-themes]
 title: Experiential Learning
 description: "For learners building applied, professional or interpersonal capability, an experience followed by structured reflection and a further attempt with feedback is expected to improve performance and transfer, while unguided experience for novices learns less than guided instruction."
 canonical: true
@@ -22,12 +22,20 @@ sources:
     resource: "https://doi.org/10.1080/07370008.2022.2156512"
     title: "Watkins, J. (2023). \"That is Still STEM\": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. Cognition and Instruction, 41(4), 405-435."
     author: "Watkins, J."
+  - id: eggleton-1995
+    resource: "https://eric.ed.gov/?id=ED389592"
+    title: "Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592"
+    author: Eggleton, Patrick J
+  - id: hyde-hills-1998
+    resource: "https://eric.ed.gov/?id=ED424058"
+    title: "Hyde-Hills, I. (1998). It Is Better To Learn To Fish: Empowerment in Adventure Education. https://eric.ed.gov/?id=ED424058"
+    author: Hyde-Hills, I
 ---
 
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (16 for, 9 mixed) · 35 studies (10 causal, 8 quant-synthesis, 6 qualitative, 4 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 19 claims rest on one study
+> **Evidence** · 28 claims (19 for, 9 mixed) · 36 studies (10 causal, 8 quant-synthesis, 7 qualitative, 4 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +135,9 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](../claims/program-review-five-design-findings.md) [+W]
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](../claims/students-lasting-personal-growth-experiences.md) [+W]
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](../claims/teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) [~W]
+- [Perturbation Stimulates Philosophy Change](../claims/perturbation-stimulates-philosophy-change.md) [+W]
+- [Four Contexts Influential Preservice Philosophy](../claims/four-contexts-influential-preservice-philosophy.md) [+W]
+- [Adventure Programs Teach Empowerment Process](../claims/adventure-programs-teach-empowerment-process.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -176,6 +187,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
 - A teacher who initially described the engineering design process as a fixed sequence ("ask, imagine, plan, create, improve, communicate") later reflected, after her own messy LEGO-robotics project: "it can skip from one step to another, go backwards, go forward" — and subsequently reframed her own family's factory-floor work (loom fixing, supervising) as engineering she hadn't previously recognized as such.
 - [Use a triadic guiding-question checklist to design and reflect on adult learning activities across preparation, performance and reflection](../strategies/triadic-guiding-questions-design-adult-programs.md)
+- [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](../strategies/isomorphic-framing-empowerment-model.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)
@@ -185,6 +197,8 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 - Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932
 - Watkins, J. (2023). "That is Still STEM": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)
+- Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592
+- Hyde-Hills, I. (1998). It Is Better To Learn To Fish: Empowerment in Adventure Education. https://eric.ed.gov/?id=ED424058
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -418,4 +432,83 @@ Disciplinary tools taught to teachers as fixed procedures (e.g., a linear six-st
 
 ## Key Sources
 - Watkins, J. (2023). "That is Still STEM": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)
+-->
+
+<!-- merged 2026-10-19 from principles/mediate-cultural-choices-with-personal-meanings ("Mediate culturally established choices in mathematics education with preservice teachers' personal meanings to create a powerful context for examining mathematical philosophies"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Mediate culturally established choices in mathematics education with preservice teachers' personal meanings to create a powerful context for examining mathematical philosophies
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article concludes that neither acknowledging choices among culturally established pedagogical perspectives nor experiencing alternative pedagogical practices alone suffices for preservice teachers to examine their mathematical philosophies. Instead, the mediation of both the culturally established choices in mathematics education and the personal meanings attributed to alternative perspectives through experience provides a powerful context for instructing preservice teachers. This follows Green's (1971) idea that instruction, unlike indoctrination, provides opportunities to radically examine belief systems through self-examination and reflection.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Opportunities for preservice teachers to reflect on and examine their belief systems, including explicit attention to alternative culturally established philosophical views
+#### Constraints
+- The article notes Ken possibly could have benefited from more explicit attention to other culturally established choices for viewing mathematics and its teaching
+
+### Target Learners
+- preservice secondary mathematics teachers
+
+### Target Learning Objectives
+- examining and evolving one's philosophy of mathematics and mathematics teaching
+
+### Claims
+- [Perturbation Stimulates Philosophy Change](../claims/perturbation-stimulates-philosophy-change.md) [+W]
+- [Four Contexts Influential Preservice Philosophy](../claims/four-contexts-influential-preservice-philosophy.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592
+-->
+
+<!-- merged 2026-10-19 from principles/primary-and-secondary-program-themes ("Design programs with two themes: a primary therapeutic theme and a secondary empowerment-model theme"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Design programs with two themes: a primary therapeutic theme and a secondary empowerment-model theme
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The paper recommends that all programs have at least two themes: a primary theme providing therapeutic relief for targeted conditions, arising from a needs analysis or participants' request, and a secondary theme of an empowerment model enabling participants to bring about change in their own lives. The first theme provides the experiential learning opportunity for the second, so participants learn the empowerment process while working on their specific need.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A primary theme determined by needs analysis or participant request, and a wilderness project that operationalises the skills learned
+#### Constraints
+- 
+
+### Target Learners
+- adventure therapy participants
+
+### Target Learning Objectives
+- therapeutic relief for targeted conditions
+- personal agency in bringing about change
+
+### Claims
+
+- [Adventure Programs Teach Empowerment Process](../claims/adventure-programs-teach-empowerment-process.md) [+W]
+- [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](../strategies/isomorphic-framing-empowerment-model.md)
+
+## Key Sources
+- Hyde-Hills, I. (1998). It Is Better To Learn To Fish: Empowerment in Adventure Education. https://eric.ed.gov/?id=ED424058
 -->

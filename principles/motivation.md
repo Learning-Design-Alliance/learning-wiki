@@ -1,7 +1,7 @@
 ---
 type: principle
 id: motivation
-aliases: [target-expectancy-value-components-in-teacher-ai-training, foster-enjoyment-and-l2-learning-experience, foster-growth-mindset, growth-mindset]
+aliases: [target-expectancy-value-components-in-teacher-ai-training, foster-enjoyment-and-l2-learning-experience, foster-growth-mindset, growth-mindset, satisfy-all-three-needs-campus-wide-retention]
 title: Motivation
 description: "For a learner whose effort or persistence is low, motivation is expected to rise when the design repairs the component that is low for that learner (expectancy of success, task value, ownership, or belonging) rather than adding generic boosts, and to raise learning only through effort on a task that demands thinking; claims test single components, and none tests the matching relationship."
 canonical: true
@@ -38,12 +38,16 @@ sources:
     resource: "https://doi.org/10.1073/pnas.1608207113"
     title: "Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668"
     author: "Claro, S., Paunesku, D., & Dweck, C. S"
+  - id: zak-moskal-2020
+    resource: "https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
+    title: "Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
+    author: "Zak-Moskal, A. D., & Garrison, M. J"
 ---
 
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (46 for, 30 mixed, 1 against) · 78 studies (21 review, 18 causal, 10 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 78 report an effect size · 63 claims rest on one study
+> **Evidence** · 79 claims (48 for, 30 mixed, 1 against) · 79 studies (22 review, 18 causal, 10 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 79 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +197,8 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](../claims/motivation-associated-better-pronunciation-outcomes.md) [+W]. Read 2026-10-19: a narrative review citing one study second-hand, design not described; a correlation that does not change the second-language row.
 - [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](../claims/motivation-modulates-ldap-right-parieto-occipital.md) [+W]. Read 2026-10-19: an EEG experiment with 24 adolescents in a cued attention task; interest changed a brain signal before a stimulus, with no learning or persistence outcome (not about a design move on this page).
 - Four statements carried without claim links from the merged growth-mindset page, read 2026-10-19 against the claims they restate, which are already in the model: "Growth mindset interventions produce small average achievement effects, strongest for at-risk and low-SES students" [+M] and "Large-scale trial effects concentrate among lower-achieving students" [~M] (see the growth-mindset and peer-norms claims in step 8); "Mindset interventions reliably change beliefs and goal orientations; achievement effects depend on contextual support" [~M] (the teacher-context and peer-norms claims); "Process-focused feedback supports motivation and persistence more than trait-focused praise" [~M] (the praise claims in step 2).
+- [Retention Programs Meeting All Three Needs Higher Persistence](../claims/retention-programs-meeting-all-three-needs-higher-persistence.md) [+M]
+- [Choice Autonomy Rarely Tested In Retention Programs](../claims/choice-autonomy-rarely-tested-in-retention-programs.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -237,6 +243,8 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge](../strategies/mindset-theory-early-in-teacher-education.md)
 - [Combine metacognitive strategy information with motivational interventions that increase task value, and reduce need frustration](../strategies/combine-metacognitive-info-with-value-interventions.md)
 - [Raise serotonin through morning sunlight, timed tryptophan intake and exercise, and gratitude practices to support tolerance for failure](../strategies/sunlight-tryptophan-gratitude-serotonin-tools.md)
+- [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
+- [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
 
 ### Illustrative
 
@@ -262,6 +270,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - Hausmann, L. R. M., Schofield, J. W., & Woods, R. L. (2007). Sense of belonging as a predictor of intentions to persist among African American and White first-year college students. *Research in Higher Education*. [https://doi.org/10.1007/s11162-007-9052-9](https://doi.org/10.1007/s11162-007-9052-9)
 - Liu, C.-H., & Yin, X.-R. (2026). Effects of person praise on students' motivation and performance under ego-involving and task-involving feedback conditions. *Instructional Science, 54*, 34. [https://doi.org/10.1007/s11251-026-09789-0](https://doi.org/10.1007/s11251-026-09789-0)
 - Gunderson, E. A., Sorhagen, N. S., Gripshover, S. J., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C. (2018). Parent praise to toddlers predicts fourth grade academic achievement via children's incremental mindsets. *Developmental Psychology*. [https://doi.org/10.1037/dev0000444](https://doi.org/10.1037/dev0000444)
+- Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -614,4 +623,47 @@ Fostering a growth mindset helps when the learning environment gives learners cr
 - Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
 - Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668. [https://doi.org/10.1073/pnas.1608207113](https://doi.org/10.1073/pnas.1608207113)
 - ->
+-->
+
+<!-- merged 2026-10-19 from principles/satisfy-all-three-needs-campus-wide-retention ("Retention initiatives should satisfy all three basic psychological needs across the whole campus environment"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Retention initiatives should satisfy all three basic psychological needs across the whole campus environment
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article's central design recommendation is that retention initiatives be offered throughout the college environment and in each classroom, creating institutional cultures that satisfy students' needs for autonomy, competence, and relatedness. It argues that "all three basic psychological needs must be satisfied in order to increase intrinsic motivation or foster internalization of external goals", and that satisfying only relatedness and competence may not consistently create conditions for persistence. Competence support means providing optimal challenge, since too-easy activities bore and too-difficult ones provoke anxiety.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Programs must offer real, meaningful choices connected to students' assessed academic and social competencies, including navigating college life
+#### Constraints
+- The review's support is interpretive: the 12 studies were not explicitly framed by SDT, and the authors present the all-three-needs hypothesis as theorized rather than directly tested
+
+### Target Learners
+- college students
+- academically and socially under-prepared students
+
+### Target Learning Objectives
+- student retention and graduation
+- intrinsic motivation
+- sense of belonging
+
+### Claims
+- [Retention Programs Meeting All Three Needs Higher Persistence](../claims/retention-programs-meeting-all-three-needs-higher-persistence.md) [+M]
+- [Choice Autonomy Rarely Tested In Retention Programs](../claims/choice-autonomy-rarely-tested-in-retention-programs.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
+- [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
+
+## Key Sources
+- Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 -->

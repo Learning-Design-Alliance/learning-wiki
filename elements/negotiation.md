@@ -32,7 +32,7 @@ Negotiation is the element in which learners work through competing interests, p
 
 ### Affordances
 - [Social Interdependence](../principles/social-interdependence.md)
-- [Perspective-Taking](../principles/perspective-taking.md)
+- [Perspective-Taking](../principles/cognitive-flexibility.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

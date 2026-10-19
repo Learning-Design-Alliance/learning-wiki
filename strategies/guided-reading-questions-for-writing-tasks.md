@@ -41,7 +41,7 @@ After clarifying the writing task, the teacher presents a model text and “put 
 
 ## Related Strategies
 
-- [Teach Writing Based On Reading](../principles/teach-writing-based-on-reading.md)
+- [Teach Writing Based On Reading](../principles/process-based-writing.md)
 - [Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite](three-stage-noticing-writing-task.md)
 
 ## Examples

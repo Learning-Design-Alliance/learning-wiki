@@ -161,7 +161,7 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)
-- [Socratic Seminar](socratic-seminar.md)
+- [Socratic Seminar](../elements/socratic-seminar.md)
 - [Practice with Simulated People](practice-with-simulated-people.md) — when the case becomes a conversation to rehearse with a simulated or AI-played person.
 - [AI Tutoring](ai-tutoring.md) — when an AI questions or responds to a learner's case analysis, and what it should hold back.
 - [Mentor Support in Self-Paced Online Learning](mentor-support-in-self-paced-online-learning.md) — who reads a self-paced learner's case analyses and when they step in.
@@ -357,7 +357,7 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)
-- [Socratic Seminar](socratic-seminar.md)
+- [Socratic Seminar](../elements/socratic-seminar.md)
 
 ## Examples
 - Business strategy cases where learners recommend a course of action to a leadership team.

@@ -50,7 +50,7 @@ Item response theory (IRT) is presented as one of two fundamental approaches to 
 
 ## Examples
 
-- [Use IRT rather than classical test theory when implementing repeated measurement linking designs with re-randomized groups and multiple concurrent links](../principles/irt-preferred-for-repeated-measurement-linking.md)
+- [Use IRT rather than classical test theory when implementing repeated measurement linking designs with re-randomized groups and multiple concurrent links](../research-methods/irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links.md)
 - [Choose CTT or MFRM for open-ended test development based on practicality and reported detail, not difficulty results](../strategies/choose-ctt-or-mfrm-by-practicality.md)
 - [Rasch rating-scale analysis methodology for deriving school survey measures](../research-methods/rasch-rating-scale-analysis-for-deriving-educational-survey-measures.md)
 - [Seven practical recommendations for IRT-based scale development](../strategies/irt-scale-development-practical-recommendations.md)

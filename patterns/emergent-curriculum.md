@@ -145,7 +145,7 @@ Record: **entry point → dated notes of questions and returns, by child → the
 Limits: no claim in this wiki compares an emergent curriculum with a planned one, measures coverage of required content under it, or follows learners beyond a thread; the two cases nearest the pattern are single qualitative studies, one chosen as an extreme case; the guidance evidence comes from play and discovery studies; and the only causal test of adapting to interests keeps the content fixed. The record above is how a setting would gather its own evidence.
 
 ## Related Patterns
-- [Socratic Seminar](socratic-seminar.md) — the Hawkins (2006) high-school example channels emergent, student-generated interest into the kind of structured discussion this pattern describes
+- [Socratic Seminar](../elements/socratic-seminar.md) — the Hawkins (2006) high-school example channels emergent, student-generated interest into the kind of structured discussion this pattern describes
 - [Problem-Based Learning](problem-based-learning.md) — its conditional model of guidance for novices applies inside an emergent thread
 - [Scripted Personally Meaningful Inquiry](../principles/inquiry-based-learning.md) — a structured sequence in which students frame a personally meaningful question and investigate it, close to the older-student route here
 - [Free-Choice Learning Environment Design](../principles/free-choice-learning-environment-design.md) (principle) — settings with no imposed curriculum at all
@@ -172,7 +172,7 @@ Instructional planning is normally described as if goals and objectives are chos
 
 The defining feature is not that these activities *could* happen (a curriculum document could specify moon astronomy too) but *why* they happen: because the children wanted them, not because a predetermined plan called for them. This reframes the teacher's core challenge from planning activities that match preset goals to responding flexibly and sensitively as student interest becomes visible. Two practices support this responsiveness: **continuous observation** — watching, listening, and often keeping informal written records of student comments and activities, which doubles as an ongoing, authentic assessment of what students are actually learning; and **curriculum webbing** — brainstorming connections among student-suggested and teacher-suggested initiatives, done jointly with students, independently by the teacher, or jointly with co-teachers/assistants (a structure that works especially well in preschool, kindergarten, or special-education classrooms with more than one adult present; Vartuli & Rohs, 2006).
 
-Emergent curriculum can seem, to skeptics, like a formula for curricular and management chaos, but it has proven successful particularly in early childhood and the earliest elementary grades (Seitz, 2006; Wurm, 2005). A structurally similar approach is possible even with older students: a documented high school program had students begin with personally relevant problems and experiences, discuss them with classmates, and formulate their own research questions to study more formally and systematically (Hawkins, 2006; see [Socratic Seminar](socratic-seminar.md)) — an emergent curriculum in substance, since what students studied emerged from their own expressed interest rather than being predetermined.
+Emergent curriculum can seem, to skeptics, like a formula for curricular and management chaos, but it has proven successful particularly in early childhood and the earliest elementary grades (Seitz, 2006; Wurm, 2005). A structurally similar approach is possible even with older students: a documented high school program had students begin with personally relevant problems and experiences, discuss them with classmates, and formulate their own research questions to study more formally and systematically (Hawkins, 2006; see [Socratic Seminar](../elements/socratic-seminar.md)) — an emergent curriculum in substance, since what students studied emerged from their own expressed interest rather than being predetermined.
 
 ## Implications
 
@@ -217,7 +217,7 @@ Emergent curriculum can seem, to skeptics, like a formula for curricular and man
 - The pattern is inherently responsive to whichever specific interests a given group of students expresses, rather than needing separate personalization for individual students
 
 ## Related Patterns
-- [Socratic Seminar](socratic-seminar.md) — the Hawkins (2006) high-school example channels emergent, student-generated interest into the kind of structured discussion this pattern describes
+- [Socratic Seminar](../elements/socratic-seminar.md) — the Hawkins (2006) high-school example channels emergent, student-generated interest into the kind of structured discussion this pattern describes
 
 ## Examples
 

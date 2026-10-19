@@ -42,7 +42,7 @@ The authors define guided practice as face-to-face, close-to-the-classroom work 
 
 
 ## Related Theories
-- [Guided Practice Four Purposes](../patterns/guided-practice-four-purposes.md)
+- [Guided Practice Four Purposes](../patterns/professional-development.md)
 
 ## Examples
 

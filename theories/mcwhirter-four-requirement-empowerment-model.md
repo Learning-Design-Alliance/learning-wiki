@@ -49,7 +49,7 @@ The paper adopts McWhirter's (1991) model, in which empowerment is broader than 
 ## Examples
 
 - [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](../strategies/isomorphic-framing-empowerment-model.md)
-- [Design programs with two themes: a primary therapeutic theme and a secondary empowerment-model theme](../principles/primary-and-secondary-program-themes.md)
+- [Design programs with two themes: a primary therapeutic theme and a secondary empowerment-model theme](../principles/experiential-learning.md)
 - [Structure adventure programs in two parts: preparation and training phase followed by the wilderness project](../strategies/two-part-preparation-wilderness-program.md)
 - [Address staff technology reluctance by building an empowerment mindset that educators model daily for learners](../strategies/address-staff-technology-reluctance-empowerment.md)
 

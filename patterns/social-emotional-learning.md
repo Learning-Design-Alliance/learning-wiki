@@ -11,12 +11,17 @@ generated:
   at: 2026-10-19
 author: "Collaborative for Academic, Social, and Emotional Learning (CASEL)"
 grain_size: program, course, unit
+sources:
+  - id: shi-guochun-2026
+    resource: "https://doi.org/10.1186/s40359-026-05038-8"
+    title: "Shi Guochun, Shi Zimo, Wang Qianqian. (2026). Cross-sectional bidirectional associations between executive function and emotion regulation in adolescents: the moderating role of digital engagement intensity. BMC Psychology. https://doi.org/10.1186/s40359-026-05038-8"
+    author: Shi Guochun, Shi Zimo, Wang Qianqian
 ---
 
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 33 claims (23 for, 10 mixed) · 49 studies (15 causal, 14 review, 13 quant-synthesis, 4 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 49 report an effect size · 20 claims rest on one study
+> **Evidence** · 36 claims (26 for, 10 mixed) · 51 studies (15 causal, 15 review, 13 quant-synthesis, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 16 of 51 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +130,9 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](../claims/sel-classroom-approaches-three-types.md) [+W] — read 2026-10-19: CASEL's web page names the three approach types and cites no study or effect size. It does not compare them, so it does not settle stand-alone lessons against integration; it leaves the model unchanged.
 - [Students' success in school and beyond is inextricably linked to healthy social and emotional development](../claims/school-success-linked-social-emotional-development.md) [+W] — read 2026-10-19: a consensus statement that social and emotional development predicts success, with no study printed. It is a rationale for teaching the skills, not evidence that a programme changes them; no change to the model.
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M] — read 2026-10-19 (not about this page): K–12 formative-assessment meta-analyses on achievement (d ≈ .20–.29, larger with student self-assessment). The merged Responsive Classroom fragment linked it to teacher language; it measures no social or emotional outcome.
+- [Digital Intensity Attenuates Ef Reappraisal Link](../claims/digital-intensity-attenuates-ef-reappraisal-link.md) [+M]
+- [Ef Associated With Reappraisal And Lower Suppression Adolescents](../claims/ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) [+M]
+- [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](../claims/reappraisal-and-suppression-reverse-linked-to-ef.md) [+W]
 
 ## Illustrative design instance and observation record
 
@@ -196,6 +204,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P., Brady, S. T., et al. (2023). Where and with whom does a brief social-belonging intervention promote progress in college? *Science, 380*(6644), 499–505. [doi:10.1126/science.ade4420](https://doi.org/10.1126/science.ade4420)
 - Tingey, L., Piatt, R., Hennigar, A., O'Callahan, C., Weaver, S., & Zaveri, H. (2023). *The Sexual Risk Avoidance Education National Evaluation: Using co-regulation in youth programs* (OPRE Report 2023-281). Office of Planning, Research and Evaluation. [https://www.acf.hhs.gov/opre](https://www.acf.hhs.gov/opre)
 - Darling-Hammond, L., Schachner, A., & Edgerton, A. K. (2020). *Restarting and reinventing school: Learning in the time of COVID and beyond*. Learning Policy Institute. [http://learningpolicyinstitute.org/product/restarting-reinventing-school-covid](http://learningpolicyinstitute.org/product/restarting-reinventing-school-covid)
+- Shi Guochun, Shi Zimo, Wang Qianqian. (2026). Cross-sectional bidirectional associations between executive function and emotion regulation in adolescents: the moderating role of digital engagement intensity. BMC Psychology. https://doi.org/10.1186/s40359-026-05038-8
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -423,4 +432,51 @@ A typical RC day/week follows this practice architecture:
 - Rimm-Kaufman, S. E., Larsen, R. A. A., Baroody, A. E., Curby, T. W., Ko, M., Thomas, J. B., Merritt, E. G., Abry, T., & DeCoster, J. (2014). Efficacy of the Responsive Classroom approach: Results from a 3-year, longitudinal randomized controlled trial. *American Educational Research Journal, 51*(3), 567–603. [doi:10.3102/0002831214523821](https://doi.org/10.3102/0002831214523821)
 - Center for Responsive Schools. (2016). *Responsive Classroom for middle school*. Center for Responsive Schools.
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
+-->
+
+<!-- merged 2026-10-19 from principles/integrated-ef-sel-digital-literacy-intervention ("Combine executive function training, social-emotional learning, and constructive digital literacy rather than relying on broad screen-time reduction alone"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Combine executive function training, social-emotional learning, and constructive digital literacy rather than relying on broad screen-time reduction alone
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 4 studies (3 quant-synthesis, 1 associational), `q3`–`q4` · 3 of 4 report an effect size · 3 claims rest on one study
+
+## Description
+The article proposes that intervention for adolescents in digital environments should integrate cognitive and affective components rather than target screen time alone. It reports that "integrated intervention approaches combining executive function training, social-emotional learning, and constructive digital literacy may hold promise", grounding this in its findings that EF and ER are concurrently interlinked and that digital intensity attenuates their coupling. The recommendation is framed as preliminary given the cross-sectional design.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Interventions should address both executive function and emotion regulation together, since the study found associations in both directions.
+#### Constraints
+- The article states the findings are cross-sectional and should be regarded as preliminary evidence for future longitudinal research.
+
+### Target Learners
+- adolescents aged 12–17
+
+### Target Learning Objectives
+- executive function
+- emotion regulation
+- digital literacy
+
+### Claims
+
+- [Digital Intensity Attenuates Ef Reappraisal Link](../claims/digital-intensity-attenuates-ef-reappraisal-link.md) [+M]
+- [Ef Associated With Reappraisal And Lower Suppression Adolescents](../claims/ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) [+M]
+- [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](../claims/reappraisal-and-suppression-reverse-linked-to-ef.md) [+W]
+- [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+W]
+
+## The evidence by question
+
+- *Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Shi Guochun, Shi Zimo, Wang Qianqian. (2026). Cross-sectional bidirectional associations between executive function and emotion regulation in adolescents: the moderating role of digital engagement intensity. BMC Psychology. https://doi.org/10.1186/s40359-026-05038-8
 -->

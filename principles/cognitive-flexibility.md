@@ -1,7 +1,7 @@
 ---
 type: principle
 id: cognitive-flexibility
-aliases: [represent-procedures-as-shared-resources-to-clarify-thinking, vertical-and-horizontal-bonding-in-numerical-routines, perspective-seekingmultiple-perspectives, multiple-open-ended-definitions-over-fixed-labels]
+aliases: [represent-procedures-as-shared-resources-to-clarify-thinking, vertical-and-horizontal-bonding-in-numerical-routines, perspective-seekingmultiple-perspectives, multiple-open-ended-definitions-over-fixed-labels, perspective-taking]
 title: Cognitive Flexibility
 description: "Revisiting the same concepts across several cases, perspectives or representations that differ in how the concept applies, with explicit prompts to compare them, is expected to help learners with some but rigid knowledge of an ill-structured domain transfer it to a new case at a short horizon; it may cost factual recall, novices may need a simpler start, and delayed effects are untested here."
 canonical: true
@@ -34,12 +34,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED064728"
     title: "Hall, Peggy; Knappe, Shirley. (1971). Ideas of Western Man: Expressionism and Realism. Dade County Public Schools. https://eric.ed.gov/?id=ED064728"
     author: Hall, Peggy; Knappe, Shirley
+  - id: nussbaum-2007
+    resource: "https://doi.org/10.3200/JEXE.76.1.59-92"
+    title: "Nussbaum, E. M., & Schraw, G. (2007). Promoting argument-counterargument integration in students' writing. *The Journal of Experimental Education, 76*(1), 59-92"
+    author: "Nussbaum, E. M., & Schraw, G"
 ---
 
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (8 for, 10 mixed, 2 against) · 24 studies (9 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 24 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (9 for, 12 mixed, 2 against) · 28 studies (10 causal, 6 theoretical, 3 quant-synthesis, 3 review, 3 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 28 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +148,9 @@ Claims read against the model above (2026-10-19) that are relevant but do not ch
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — two syntheses (Zimmerman 2002; Butler & Winne 1995) of self-monitoring in general, with no effect size; they make the "what is different here" probe plausible as a monitoring prompt but test nothing about varied cases or perspectives.
 - [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](../claims/participant-feedback-diverse-perspectives.md) [+W] — two quoted testimonials from a researcher-educator co-design workshop (a presentation, no measures). About adult professionals' experience of mixed groups, not learners adapting knowledge; it changes nothing in the model.
 - [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](../claims/critical-technical-gap-k12-ml-activities.md) [-W] — a review of activity content: K-12 machine-learning activities rarely put two perspectives on the same algorithm. It shows such curricula seldom offer the multiple perspectives this page recommends; it measures no learning.
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need structured roles or prompts before perspective-taking becomes analytically useful
+- [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](../claims/hpt-multiple-selves-intertwined.md) [~W]
+- [Perspective taking increases the creativity of dyadic interactions](../claims/perspective-taking-increases-dyad-creativity.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -164,7 +171,6 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](../claims/multi-representational-learning-integration-failure.md) [~W]
 
 ## Related Principles
-- [Perspective-Taking](perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation
 - [Constructivist Learning](cognitive-activation.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
 - [Cognitive Disequilibrium](cognitive-disequilibrium.md) — contradiction and instability can sometimes trigger the need for more flexible models
 - [Two Facets Making Meaning Of Mathematics Epistemic Game](../theories/two-facets-making-meaning-of-mathematics-epistemic-game.md)
@@ -173,6 +179,7 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - [Peer Discussion](peer-discussion.md) — structured discussion is one common vehicle for comparing perspectives.
 - [Discussing Race](discussing-race.md) — race-conscious dialogue often depends on careful perspective comparison and interpretation.
 - [Evaluating Sources](evaluating-sources.md) — comparing perspectives is stronger when learners also assess evidence quality and credibility.
+- [Social Learning](../theories/sociocultural-theory.md)
 
 ## Examples
 - [Intermediate Mechanics Tutorials](../products/intermediate-mechanics-tutorials.md)
@@ -184,6 +191,8 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - **Perspective interview synthesis**: Learners interview others about an issue and compare their own assumptions to what they heard.
 - **Structured debate preparation**: Learners prepare to argue a position they do not initially hold in order to understand it more precisely.
 - [Quinmester humanities course 'Ideas of Western Man: Expressionism and Realism' integrating literature, philosophy, art, and music](../elements/ideas-western-man-expressionism-realism-course.md)
+- Debates that require learners to articulate the strongest case for an opposing position.
+- Historical inquiry that compares how different groups experienced the same event.
 
 ### Illustrative
 
@@ -207,6 +216,8 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
 - Jacqueline Anton, Dor Abrahamson. (2025). Walking the number line: towards an enactive understanding of integer arithmetic. Instructional Science. [https://doi.org/10.1007/s11251-025-09707-w](https://doi.org/10.1007/s11251-025-09707-w)
 - Mireia Vendrell, Samantha-Kaye Johnston. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. Computers and Education: Artificial Intelligence. [https://doi.org/10.1016/j.caeai.2026.100572](https://doi.org/10.1016/j.caeai.2026.100572)
+- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)
+- Nussbaum, E. M., & Schraw, G. (2007). Promoting argument-counterargument integration in students' writing. *The Journal of Experimental Education, 76*(1), 59-92. [https://doi.org/10.3200/JEXE.76.1.59-92](https://doi.org/10.3200/JEXE.76.1.59-92)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the previous body is kept verbatim.
 
@@ -239,7 +250,7 @@ Cognitive flexibility matters most in ill-structured domains where oversimplifie
 ### Theory
 #### Supporting
 - [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — the most direct pattern-level expression of this principle
-- [Perspective-Taking](perspective-taking.md) — shifting viewpoint is one of the mechanisms by which flexibility develops
+- [Perspective-Taking](cognitive-flexibility.md) — shifting viewpoint is one of the mechanisms by which flexibility develops
 - [Constructivism](../theories/constructivism.md) — knowledge is reorganized through active interpretation across contexts
 
 #### Contradicting / Qualifying
@@ -449,4 +460,59 @@ Because movement terms are imprecise, the guide avoids having students simply ta
 
 ## Key Sources
 - Hall, Peggy; Knappe, Shirley. (1971). Ideas of Western Man: Expressionism and Realism. Dade County Public Schools. https://eric.ed.gov/?id=ED064728
+-->
+
+<!-- merged 2026-10-19 from principles/perspective-taking ("Perspective-Taking"), a narrower page folded into its canonical page (fragment step, two models agreeing or a third settling): its body as it stood. Its bullets this page lacked were added above.
+
+# Perspective-Taking
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
+
+## Description
+Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own. It supports empathy, argument quality, and more flexible reasoning by forcing learners to compare assumptions, evidence, and consequences across positions.
+
+## Implications
+Perspective-taking helps learners move beyond their default frame by requiring them to reason through how another person or stakeholder might interpret the same situation. That can improve empathy and argument quality because learners must compare assumptions, evidence, and likely consequences rather than treating their first reading as complete, and the explanatory work itself can deepen understanding [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]. For novices, this often works best when the perspective-taking task is structured with prompts, roles, or comparison routines rather than left open-ended [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The design caution is that perspective-taking should deepen analysis, not perform shallow role-play or imply that all perspectives are equally well supported or ethically acceptable.
+
+### Context
+#### Requirements
+- **Contrastive viewpoints**: Learners need access to distinct interpretations, roles, or stakeholder positions.
+- **Structured comparison**: Prompts should ask how and why perspectives differ, not just list them.
+- **Norms for respectful disagreement**: Productive perspective-taking depends on intellectual safety.
+#### Constraints
+- **False equivalence risk**: Not all perspectives are equally evidence-based or ethically valid.
+- **Superficial role-play**: Perspective-taking can become performative if learners do not engage with actual reasoning or evidence.
+
+### Target Learners
+- Learners developing empathy, argumentation, historical understanding, or collaborative reasoning.
+
+### Target Learning Objectives
+- Compare interpretations, understand stakeholder positions, and reason beyond a single viewpoint.
+
+### Theory
+#### Supporting
+- Social-constructivist and dialogic learning traditions support understanding through exposure to alternative perspectives.
+#### Contradicting / Qualifying
+- Perspective-taking should deepen analysis, not flatten real differences in power, evidence, or consequence.
+
+### Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — perspective-taking improves analysis when learners explain another viewpoint rather than merely naming it
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need structured roles or prompts before perspective-taking becomes analytically useful
+- [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](../claims/hpt-multiple-selves-intertwined.md) [~W]
+- [Perspective taking increases the creativity of dyadic interactions](../claims/perspective-taking-increases-dyad-creativity.md) [+W]
+
+## Related Principles
+- [Perspective-Seeking/Multiple Perspectives](cognitive-flexibility.md)
+- [Social Learning](../theories/sociocultural-theory.md)
+- [Building Empathy](building-empathy.md)
+
+## Examples
+- Debates that require learners to articulate the strongest case for an opposing position.
+- Historical inquiry that compares how different groups experienced the same event.
+
+## Key Sources
+- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)
+- Nussbaum, E. M., & Schraw, G. (2007). Promoting argument-counterargument integration in students' writing. *The Journal of Experimental Education, 76*(1), 59-92. [https://doi.org/10.3200/JEXE.76.1.59-92](https://doi.org/10.3200/JEXE.76.1.59-92)
 -->

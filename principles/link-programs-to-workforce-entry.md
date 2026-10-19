@@ -1,6 +1,7 @@
 ---
 type: principle
 id: link-programs-to-workforce-entry
+aliases: [accelerated-contextualized-basic-skills-cohorts]
 title: Link program elements to workforce entry points and employer-recognized credentials so learners see an immediate economic payoff
 description: "For learners who enter a program to get work soon, tying each program element to a named job entry point (an early employer-recognized credential, training timed to hiring or apprenticeship intake, employer contact, visible wage steps) is expected to raise entry into that work, but no claim tests the linking against the same program untied; apprenticeship-versus-other-route evaluations and program reports are the nearest evidence."
 canonical: true
@@ -18,7 +19,7 @@ sources:
 # Link program elements to workforce entry points and employer-recognized credentials so learners see an immediate economic payoff
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (14 for, 7 mixed) · 12 studies (3 qualitative, 2 causal, 2 associational, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (15 for, 7 mixed) · 12 studies (3 qualitative, 2 causal, 2 associational, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -58,7 +59,7 @@ The three facts that most change the decision:
 | Learners are `adult` jobseekers on low incomes who need work quickly | Use an earn-and-learn route where one exists: paid from the start, wage raised at each credential; first credential in about six to eight weeks | [registered apprenticeship employment](../claims/registered-apprenticeship-ninth-quarter-employment-impacts.md) [+M] and [earnings](../claims/registered-apprenticeship-ninth-quarter-earnings-impacts.md) [+M] (adults in DOL-funded apprenticeships against community-college and employment-service comparison groups, ninth quarter; compares routes, not this design move); the weeks are an untested proposal |
 | Learners are `adolescent`, in high school | Lay out the pathway year by year with the college; use dual enrollment so prerequisites and a first entry-level credential are done before leaving school; employer contact as visits and interviews, not paid work, where age rules bar hiring | untested; from the [dual-enrollment pathway strategy](../strategies/dual-enrollment-pathway-template.md), which cites no claim. Recent high-school graduates were hired in one pilot, with employers relaxing an under-21 rule ([tcsg](../claims/tcsg-manufacturing-microcredentials-led-to-hiring.md) [+W]) |
 | Learners are adults already in work (`adult-workplace`), seeking promotion | Use tasks from their own job as the practice; choose credentials that count for promotion with their employer; schedule around shifts | [Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase](../claims/rural-microcredential-learners-report-skill-and-employment-gains.md) [+W] (learner self-reports, four rural initiatives); the design moves are untested |
-| Learners have low confidence, low literacy or low basic skills | Teach reading and maths inside the occupational tasks, keep the first credential short and achievable, and keep learners in a cohort | untested here; the same source's companion principle, [accelerated, contextualized basic-skills instruction with cohort support](accelerated-contextualized-basic-skills-cohorts.md), is unconverted. Larger wage gains when the first credential is a short-term certificate are reported second-hand ([stacking](../claims/stacking-microcredentials-increases-employment-wages.md) [+W]) |
+| Learners have low confidence, low literacy or low basic skills | Teach reading and maths inside the occupational tasks, keep the first credential short and achievable, and keep learners in a cohort | untested here; the same source's companion principle, [accelerated, contextualized basic-skills instruction with cohort support](link-programs-to-workforce-entry.md), is unconverted. Larger wage gains when the first credential is a short-term certificate are reported second-hand ([stacking](../claims/stacking-microcredentials-increases-employment-wages.md) [+W]) |
 | Learners say they are there mainly for pay | Expect some to leave for another job: make the program's own wage steps competitive, ask what work they want, and treat leaving for a job in the field as an exit point on the pathway, not a dropout | [interest vs economic motives](../claims/interest-alignment-vs-economic-motivations-persistence.md) [~M] and [Finding another job and low apprenticeship pay are the largest barriers to completing the LC101 apprenticeship phase](../claims/job-and-pay-largest-apprenticeship-barriers.md) [~M] (one coding-and-apprenticeship program, survey of 524) |
 | Learners work or care for others; little time | Short modules, evening or weekend sessions, theory online; count prior experience toward the credential | [time and difficulty barriers](../claims/time-and-difficulty-largest-coursework-barriers.md) [~M] (same coding program); flexibility of time and cost listed as a success factor ([workforce micro-credential success](../claims/workforce-micro-credential-success-practices.md) [+W]) |
 | Mixed modes: some learners remote or phone-only, practice must be hands-on | Put theory and the pathway map online and phone-readable; keep the hands-on credential tasks on site or with a simulator (the Georgia pilot used a VR forklift simulator); schedule employer interviews by video where travel is the barrier | untested; the simulator is described in [tcsg](../claims/tcsg-manufacturing-microcredentials-led-to-hiring.md) [+W], not compared |
@@ -109,6 +110,7 @@ These differ in learners, sectors, designs and outcomes (ninth-quarter earnings,
 ## Further evidence, not yet read against this model
 
 - [LINCS completers' employment and earnings, 2015](../claims/lincs-completers-employment-earnings-2015.md) [+W] — descriptive outcomes of a supply-chain certification program, no comparison; bears on what employment after a short industry credential can look like, not on the effect.
+- [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](../claims/nvcc-bridge-program-full-retention.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -124,7 +126,6 @@ Credentials earned, interviews, hires, wages, persistence to the next credential
 
 ## Related Principles
 - 
-- [Accelerated, contextualized basic-skills instruction with cohort support](accelerated-contextualized-basic-skills-cohorts.md) — the companion recommendation from the same pathway program for adults with low basic skills (unconverted).
 - [Authentic Audiences and Purposes](authentic-audiences-purposes.md) — an employer reviewing learners' work is one real audience.
 - [Experiential Learning](experiential-learning.md) — learning from structured experience, of which work placement is one source.
 - [Competency-Based Learning (pattern)](../patterns/competency-based-learning.md) — how a program is mapped to competencies and checked against criteria.
@@ -172,6 +173,48 @@ The article argues that pathway programs should tie every design element to empl
 
 - [Use dual enrollment and a shared pathway template so students complete prerequisites while still in high school](../strategies/dual-enrollment-pathway-template.md)
 - [Use employer-based earn-and-learn apprenticeship as a workforce training pathway outside traditional construction occupations](../strategies/earn-and-learn-apprenticeship-nontraditional-occupations.md)
+
+## Key Sources
+- Hyslop, A. (2008). Develop, Link, Foster, and Encourage. Techniques. https://www.acteonline.org
+-->
+
+<!-- merged 2026-10-19 from principles/accelerated-contextualized-basic-skills-cohorts ("Use accelerated, contextualized basic-skills instruction with cohort support to re-engage adults with low skill levels"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Use accelerated, contextualized basic-skills instruction with cohort support to re-engage adults with low skill levels
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article presents accelerated contextualized learning as the mechanism that lets low-skilled adults achieve success quickly and see a purpose for core skills. Turkheimer states, "What makes the program so special is the accelerated contextualized nature of the curriculum. Students can achieve something quickly, and the link to construction allows students to see a purpose for core skills, such as math." A cohort approach places students who have had little success with education inside a support system that builds friendships and self-esteem.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Intensive support services, including achievement coaches who keep students in school and solve problems
+- Flexible course scheduling, often during breaks between terms
+#### Constraints
+- 
+
+### Target Learners
+- adults with an eighth-grade skill level or below, many lacking a GED
+
+### Target Learning Objectives
+- correcting reading and math skill deficiencies
+- GED attainment
+- informed career choice
+
+### Claims
+
+- [Integrated Pathway Five Element Design](../products/cnmcc-breaking-through-construction-apprenticeship-program.md) [+M]
+- [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](../claims/nvcc-bridge-program-full-retention.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
 
 ## Key Sources
 - Hyslop, A. (2008). Develop, Link, Foster, and Encourage. Techniques. https://www.acteonline.org

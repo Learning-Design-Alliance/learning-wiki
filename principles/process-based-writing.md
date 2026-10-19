@@ -1,7 +1,7 @@
 ---
 type: principle
 id: process-based-writing
-aliases: [involve-students-in-revision-process, avoid-appropriating-student-writing, respond-as-a-reader]
+aliases: [involve-students-in-revision-process, avoid-appropriating-student-writing, respond-as-a-reader, teach-writing-based-on-reading]
 title: Process-based Writing
 description: "Teaching writing as a staged process (plan, draft, respond, revise, edit) with feedback on drafts gives developing writers a modest gain in writing quality over product-focused teaching, tested by one meta-analysis in grades 1–12 that found no gain for struggling writers, who gain more from explicit strategy instruction."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://doi.org/10.1080/07370008.2018.1456431"
     title: "Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. Cognition and Instruction, 36(3), 199-223."
     author: "Baaijen, V. M., & Galbraith, D."
+  - id: junhong-ren-2017
+    resource: "https://doi.org/10.5539/elt.v10n7p150"
+    title: "Junhong Ren. (2017). College English Writing Instruction for Non-English Majors in Mainland China: The “Output-Driven, Input-Enabled” Hypothesis Perspective. English Language Teaching, 10(7). https://doi.org/10.5539/elt.v10n7p150"
+    author: Junhong Ren
 ---
 
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (15 for, 14 mixed) · 45 studies (15 causal, 9 quant-synthesis, 6 review, 5 theoretical, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 45 report an effect size · 19 claims rest on one study
+> **Evidence** · 30 claims (16 for, 14 mixed) · 46 studies (15 causal, 9 quant-synthesis, 6 review, 6 theoretical, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 46 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +132,7 @@ Learners, genres and measures differ across these claims (school writers on rese
 Claims this page cited before it was rewritten, and claims found for it that bear on it more distantly. Claims read against the model (2026-10-15) now sit in the steps, rows and evidence above; what remains here bears only by distant analogy.
 
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+W] — one case analysis (`q1`, no comparison) of teacher candidates' weekly written reflections in a clinical course; it is about reflective writing on teaching, not writing instruction, and bears on responding before the final version and requiring revision only by analogy: progress was partial and not linear.
+- [Reading Writing Abilities Overlap](../claims/reading-writing-abilities-overlap.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -151,6 +156,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three](../claims/teacher-draft-stage-adaptivity-exceeds-llms.md) [+W]
 - [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](../claims/reader-insight-conditions-contrasting-benefits.md) [~W]
 - [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](../claims/struggling-adult-writers-limited-planning-revision.md) [~W]
+- [Output Driven Input Enabled Hypothesis](../theories/output-driven-input-enabled-hypothesis.md) [+M]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.
@@ -163,6 +169,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Immediate Feedback](immediate-feedback.md) — feedback timing; its rule that a learner needs a chance to use a correction applies to draft feedback.
 - [Self-Regulated Learning](self-regulated-learning.md) — the plan–monitor–adjust cycle that writing strategy instruction applies to composing.
 - [Goal Setting and Monitoring](goal-setting-monitoring.md) — process goals before outcome goals while a writing strategy is new.
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)
 
 ## Examples
 
@@ -185,6 +192,9 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](../strategies/assessment-design-levers-visible-learning-traces.md)
 - In the source study, an argumentative essay task ("is growing dependence on computers/the internet good or bad?") assigned to university students under this planning condition showed a significant increase in self-rated topic understanding among students whose sentence production was spontaneous, compared to those under a full outline-planning condition.
 - [Use a reading-as-the-reader activity in which writers re-read text from the reader's perspective before revising](../strategies/reading-as-the-reader-activity.md)
+- [Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment](../designs/writing-in-reading-four-aspects-pattern.md)
+- [Guide reading with targeted questions that direct attention to grammatical, lexical and structural features needed for the writing task](../strategies/guided-reading-questions-for-writing-tasks.md)
+- [Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback](../strategies/output-based-writing-teaching-suggestions.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.
@@ -192,6 +202,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - Fernandez, R., Peyton, J. K., & Schaetzel, K. (2017). A survey of writing instruction in adult ESL programs: Are teaching practices meeting adult learner needs? *COABE Journal, 6*(2), 5.
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7
 - Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)
+- Junhong Ren. (2017). College English Writing Instruction for Non-English Majors in Mainland China: The “Output-Driven, Input-Enabled” Hypothesis Perspective. English Language Teaching, 10(7). https://doi.org/10.5539/elt.v10n7p150
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -482,4 +493,46 @@ Lesson (a single extended writing session; the source study used a 30-minute dra
 
 ## Key Sources
 - Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)
+-->
+
+<!-- merged 2026-10-19 from principles/teach-writing-based-on-reading ("Teach writing based on reading so learners use meaningful input to accomplish output tasks"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Teach writing based on reading so learners use meaningful input to accomplish output tasks
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Because writing must be taught within intensive reading classes for non-English majors, the article recommends integrating the two: “Reading provides the students with the meaningful language input, which includes not only the linguistic constitutes but also the way the authors organize their ideas”. Students mine this input for elements that help them complete writing tasks, making writing the output-driven objective and reading the enabling input. The principle rests on the output-driven, input-enabled hypothesis and on reading-writing connection research.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Reading materials must provide appropriate language form and content for the writing tasks; writing tasks should interest learners; teachers must play a leading role in selecting materials and guiding their use
+#### Constraints
+- Reading does not always translate into writing abilities, since reading requires more automaticity while writing requires more deliberate awareness
+
+### Target Learners
+- non-English-major university students in intensive reading courses
+
+### Target Learning Objectives
+- English writing ability, including sentence structure, description, and paragraph organization
+
+### Claims
+- [Reading Writing Abilities Overlap](../claims/reading-writing-abilities-overlap.md) [+M]
+- [Output Driven Input Enabled Hypothesis](../theories/output-driven-input-enabled-hypothesis.md) [+M]
+
+## Related Principles
+
+- [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)
+
+## Examples
+
+- [Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment](../designs/writing-in-reading-four-aspects-pattern.md)
+- [Guide reading with targeted questions that direct attention to grammatical, lexical and structural features needed for the writing task](../strategies/guided-reading-questions-for-writing-tasks.md)
+- [Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback](../strategies/output-based-writing-teaching-suggestions.md)
+
+## Key Sources
+- Junhong Ren. (2017). College English Writing Instruction for Non-English Majors in Mainland China: The “Output-Driven, Input-Enabled” Hypothesis Perspective. English Language Teaching, 10(7). https://doi.org/10.5539/elt.v10n7p150
 -->

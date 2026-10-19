@@ -74,7 +74,7 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 ## Examples
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** — pairs rehearse ideas privately before public sharing, lowering the risk of the whole-class phase
 - **[Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)** — each expert reports a piece of the content; the class cannot succeed without every share
-- **[Socratic Seminar](../patterns/socratic-seminar.md)** — students present and challenge interpretations in a whole-class circle governed by text-evidence norms
+- **[Socratic Seminar](socratic-seminar.md)** — students present and challenge interpretations in a whole-class circle governed by text-evidence norms
 - **[Gallery Walk](../strategies/gallery-walk.md)** — written group products are posted and toured, converting simultaneous small-group sharing into a whole-class exchange
 
 ## Key Sources

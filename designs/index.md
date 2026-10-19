@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**972 entries** · 0 stable · 972 in review · 0 drafts
+**973 entries** · 0 stable · 973 in review · 0 drafts
 
 ---
 
@@ -717,6 +717,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Remora Free Body Diagram Require-GenAI task](remora-free-body-diagram-task.md) - A task deployed in an undergraduate introductory physics course in which students collaborate with GenAI to construct the most accurate free body diagram of a remora fish attached to a shark.
 * [Report Assessment & Feedback (RAF) procedure with human-in-the-loop approval of all feedback reports](raf-procedure-human-in-the-loop.md) - The RAF procedure is a flowchart (Figure 1) for AI-assisted report assessment.
 * [Representational scripting: sequencing part-tasks and matching each tool's ontology to part-task demands](representational-scripting-framework.md) - Representational scripting integrates collaboration scripts with representational tools so that the problem-solving process is sequenced into part-tasks whose demands are made explicit, and each tool's representationa...
+* [Require prospective industrial arts teachers to study behavioral and social science coursework on the human side of enterprise](behavioral-science-coursework-human-side-enterprise.md) - The monograph recommends that teacher educators design or select courses describing \"the relationships ofmen with men, machines with machines, and men with machines,\" including fundamentals of human interaction at wor...
 * [Research contest method for experimentally comparing interventions with revision rules between studies](intervention-research-contest-comparative-method.md) - A crowdsourced research contest in which teams submitted candidate interventions that were then experimentally compared head-to-head.
 * [Research-shaped homework: self-contained undergraduate problems combining multiple methods, data representations, and workflows with AI permitted as a partner](research-shaped-homework-ai-permitted.md) - A homework design in which assignments are \"self-contained pieces\" of professional research practice, combining several methods, data representations, and workflows rather than routine applications of one known method.
 * [Residency clinical faculty site coordinator role](residency-site-coordinator-role.md) - The site coordinator is a clinical faculty role at residency partner educator preparation programs, described by US PREP as a \"critical linchpin\" to transformed residencies and much expanded compared to typical clinic...

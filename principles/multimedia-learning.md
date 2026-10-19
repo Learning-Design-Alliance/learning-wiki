@@ -1,7 +1,7 @@
 ---
 type: principle
 id: multimedia-learning
-aliases: [visual-representations-benefit-only-with-adequate-processing-resources]
+aliases: [visual-representations-benefit-only-with-adequate-processing-resources, holistic-video-style-selection-principle]
 title: Multimedia Learning
 description: "For a learner without a working model of a structure or process, a relevant picture placed with the words that explain it may improve a learning test over words alone, qualified by redundancy, decorative additions, pacing, prior knowledge and assessment horizon."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://doi.org/10.1080/00220973.2015.1048847"
     title: "Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847"
     author: "Clinton, V., Alibali, M. W., & Nathan, M. J"
+  - id: chorianopoulos-2018
+    resource: "https://www.irrodl.org/"
+    title: "Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/"
+    author: Chorianopoulos, K
 ---
 
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (22 for, 30 mixed, 3 against) · 46 studies (23 causal, 11 quant-synthesis, 7 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 16 of 46 report an effect size · 47 claims rest on one study
+> **Evidence** · 67 claims (29 for, 35 mixed, 3 against) · 53 studies (24 causal, 11 quant-synthesis, 10 review, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 53 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +124,18 @@ Claims linked to this page later go here until they are read against the model. 
 - [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](../claims/coordination-of-two-representations-correctless.md) [-W] — read 2026-10-19: ten chemistry students with linked multiple representations; multiple representations are scoped out of this page and the pattern.
 - [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](../claims/theory-annotation-no-extra-skill-benefit.md) [~W] — read 2026-10-19: a pre-registered trial of video modelling of a teaching skill (58 trainees); video modelling is scoped out, though the null for added explanatory text is consistent with the coherence row.
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](../claims/modality-matching-complementary-channels-video.md) [+W] — read 2026-10-19: a practice essay reporting Mayer and Moreno second-hand; the modality and picture rows rest on the primary claims.
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W]
+- [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](../claims/human-embodiment-video-presence-effects.md) [+W]
+- [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](../claims/mooc-video-styles-discipline-clusters.md) [+W]
+- [Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible](../claims/screencast-design-movement-narration-handwriting.md) [+W]
+- [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](../claims/videos-and-ai-chatbots-complementary-functions.md) [+W]
+- [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](../claims/human-presence-preference-smaller-than-personalization.md) [~W]
+- [Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest](../claims/stable-mean-rank-ordering-four-video-types.md) [+W]
+- [96.9% of participating experts reported the video-assessment-remediation workflow provides a more effective learning experience than instructional videos alone](../claims/969-percent-experts-prefer-remediation-workflow.md) [+W]
+- [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](../claims/students-oppose-ai-videos-replacing-instructors.md) [~W]
+- [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](../claims/instructor-presence-no-retention-transfer-effect.md) [~W]
+- [mLearning students prefer video-based materials with each video under 5 minutes](../claims/mlearning-students-prefer-short-videos-under-5-minutes.md) [~W]
+- [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](../claims/students-contextualize-ai-video-appropriateness.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -145,6 +161,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Dual Coding](dual-coding.md) — provides the clearest explanatory account for why coordinated representations can improve learning
 - [Digital Learning](digital-learning.md) — many digital environments operationalize multimedia principles directly
 - [Redundancy Principle](redundancy.md)
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)
 
 ## Related Patterns
 - [Multimedia Learning](../patterns/multimedia-learning.md)
@@ -165,6 +182,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity*. Cambridge University Press. [https://doi.org/10.1017/CBO9781107707085](https://doi.org/10.1017/CBO9781107707085)
 - Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
+- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The old body follows verbatim.
 
@@ -244,4 +262,60 @@ The article concludes that relevant visual information such as diagrams in texts
 
 ## Key Sources
 - Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
+-->
+
+<!-- merged 2026-10-19 from principles/holistic-video-style-selection-principle ("Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 12 claims (7 for, 5 mixed) · 7 studies (3 review, 2 associational, 1 causal, 1 design), `q2`–`q3` · 1 of 7 report an effect size · 12 claims rest on one study
+
+## Description
+The article argues that instructional video is one pillar of pedagogical design that must work with other components such as problem sets, hypertext, discussion boards, and interactive quiz segmentation. It states that "the selection of a video production style should take a holistic view that considers the type of the course (Figure 3) and the needs of the learners." It also distinguishes video as a substitute for classroom teaching in distance education versus a complementary tool in flipped classrooms, noting that target group and instructional framework shape design motivations.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Video must be complemented with additional types of material and considered within the broader instructional framework
+#### Constraints
+- The article did not consider complete instructional design or the interaction design aspect of video lectures, focusing only on visual organization of video content
+
+### Target Learners
+- distance education adults
+- K12 students in flipped-classroom settings
+- MOOC learners
+
+### Target Learning Objectives
+- engagement and learning through well-integrated video-based course design
+
+### Claims
+
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W]
+- [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](../claims/human-embodiment-video-presence-effects.md) [+W]
+- [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](../claims/mooc-video-styles-discipline-clusters.md) [+W]
+- [Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible](../claims/screencast-design-movement-narration-handwriting.md) [+W]
+- [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](../claims/videos-and-ai-chatbots-complementary-functions.md) [+W]
+- [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](../claims/human-presence-preference-smaller-than-personalization.md) [~W]
+- [Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest](../claims/stable-mean-rank-ordering-four-video-types.md) [+W]
+- [96.9% of participating experts reported the video-assessment-remediation workflow provides a more effective learning experience than instructional videos alone](../claims/969-percent-experts-prefer-remediation-workflow.md) [+W]
+- [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](../claims/students-oppose-ai-videos-replacing-instructors.md) [~W]
+- [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](../claims/instructor-presence-no-retention-transfer-effect.md) [~W]
+- [mLearning students prefer video-based materials with each video under 5 minutes](../claims/mlearning-students-prefer-short-videos-under-5-minutes.md) [~W]
+- [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](../claims/students-contextualize-ai-video-appropriateness.md) [~W]
+
+## The evidence by question
+
+- *Does an instructional video's production style (presenter on screen, drawing or slides, human-recorded or AI-generated, length) change learners' engagement and preferences?* [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W]
+
+## Related Principles
+
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)
+
+## Examples
+-
+
+## Key Sources
+- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
 -->

@@ -341,7 +341,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - **Clinical decision simulator**: Learners diagnose, prioritize, and respond to a changing patient scenario.
 - **Virtual workplace rehearsal**: Learners practice safety, customer interaction, or troubleshooting in a modeled environment.
 - **Civic or historical simulation**: Learners make decisions within a constrained system and analyze outcomes.
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios (GBS)](../patterns/anchored-instruction.md)
 - [Use AI-based simulations as low-risk environments for practising and making visible teacher noticing](../strategies/ai-simulations-low-risk-noticing-practice.md)
 - [Simulation](../elements/simulation.md) and [Debrief](../elements/debrief.md) — the elements this principle is built from.
 - [Simulation Based Learning](../strategies/simulation-based-learning.md)
@@ -457,7 +457,7 @@ Simulations and immersive environments work when they let learners rehearse mean
 - **Clinical decision simulator**: Learners diagnose, prioritize, and respond to a changing patient scenario.
 - **Virtual workplace rehearsal**: Learners practice safety, customer interaction, or troubleshooting in a modeled environment.
 - **Civic or historical simulation**: Learners make decisions within a constrained system and analyze outcomes.
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios (GBS)](../patterns/anchored-instruction.md)
 - [Use AI-based simulations as low-risk environments for practising and making visible teacher noticing](../strategies/ai-simulations-low-risk-noticing-practice.md)
 
 ## Key Sources

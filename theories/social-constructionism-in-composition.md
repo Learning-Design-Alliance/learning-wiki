@@ -43,7 +43,6 @@ The paper defines social constructionism as "a philosophy of knowledge whichasse
 ## Related Theories
 
 - [Sociocultural Theory](sociocultural-theory.md)
-- [Social Constructivism](../principles/social-constructivism.md)
 - [Constructivism](constructivism.md)
 - [Co-constructionism requires an active individual, an active environment, and culture](co-constructionism-active-individual-environment-culture.md)
 - [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)

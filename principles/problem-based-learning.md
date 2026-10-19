@@ -1,6 +1,7 @@
 ---
 type: principle
 id: problem-based-learning
+aliases: [real-world-problem-solving-maker-context]
 title: Problem-based Learning
 description: "For learners who must apply knowledge to ill-structured problems, organizing work around problems has a small, highly variable and possibly inflated average effect; what is better supported is guidance for novices on the target content, with a problem-first phase as a narrower option followed by instruction."
 canonical: true
@@ -21,12 +22,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED470983"
     title: "Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983"
     author: Molenda, Michael
+  - id: lundberg-2018
+    resource: "https://eric.ed.gov/?id=EJ1179517"
+    title: "Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517"
+    author: "Lundberg, M., & Rasmussen, J"
 ---
 
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (13 for, 28 mixed, 3 against) · 41 studies (9 causal, 9 review, 7 quant-synthesis, 6 qualitative, 6 theoretical, 3 associational, 1 design), `q1`–`q4` · 6 of 41 report an effect size · 39 claims rest on one study
+> **Evidence** · 48 claims (17 for, 28 mixed, 3 against) · 45 studies (9 causal, 9 review, 8 qualitative, 7 quant-synthesis, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 6 of 45 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +124,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](../claims/srl-meta-analysis-publication-bias-absent.md) [~W] — read 2026-10-19 (not about this page): the bias check of a meta-analysis of self-regulated learning strategies (Ergen & Kanadli 2017), not of PBL; it says nothing about the PBL publication bias recorded above.
 
 On 2026-10-19 (wave 2) the other claims linked here were read and moved into the model: worked examples (already in the novice row), whole-task practice and teacher-guided inquiry (evidence and qualifications), the short- and long-term retention pair (the basic-knowledge row), the equivocal-evidence essay (the curriculum row), engagement and theory-building discussion (observation), the evidence-gaps review (by question), and the rows on group size, learning issues, lectures alongside PBL, groups working over several weeks, and AI tools.
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W]
+- [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](../claims/real-world-projects-structured-questions-top-content-strategies.md) [+W]
+- [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](../claims/talladega-graduation-rate-70-to-93-pbl-digital.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -139,6 +148,8 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Experiential Learning](experiential-learning.md) — problem-centered work often provides the concrete experience that later reflection builds on.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — real stakeholders or consequences often strengthen PBL design.
 - [Guided Practice](guided-practice.md) — novices often need coached practice with inquiry and problem-solving moves inside PBL.
+- [Real-world Math](cultural-life-experiences-connections.md)
+- [Provide student choice to build ownership and self-efficacy in maker education](autonomy.md)
 
 ## Examples
 - **Community issue investigation**: Learners analyze a local problem, gather evidence, and propose responses.
@@ -152,6 +163,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - Lin, L. F. (2017). Impacts of the problem-based learning pedagogy on English learners' reading comprehension, strategy use, and active learning attitudes. *Journal of Education and Training Studies, 5*(6), 109-125. [https://doi.org/10.11114/jets.v5i6.2320](https://doi.org/10.11114/jets.v5i6.2320)
 - Savery, J. R. (2019). Overview of problem-based learning: Definitions and distinctions. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning](https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning)
 - Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
+- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. Old body kept verbatim.
 
@@ -247,4 +259,49 @@ Within Merrill's framework, the problem-centered element holds that "Learning is
 
 ## Key Sources
 - Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
+-->
+
+<!-- merged 2026-10-19 from principles/real-world-problem-solving-maker-context ("Involve students in real-world problem solving to deepen engagement, retention, and understanding"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Involve students in real-world problem solving to deepen engagement, retention, and understanding
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (5 for) · 5 studies (2 qualitative, 1 associational, 1 design, 1 theoretical), `q2` · 0 of 5 report an effect size · 5 claims rest on one study
+
+## Description
+The paper argues that achieving high levels of engagement, increasing graduation rates, and deepening understanding of content requires involving students in meaningful problem solving embedded into their daily classes. Providing meaning through relevant context for learning directly affects the retention and success of all students, especially those who are more at risk, and maker education is presented as a way to provide a relevant context for learning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Meaningful problem solving must be embedded into students' daily classes
+#### Constraints
+- Especially important for retaining students who are more at risk of failure or dropping out
+
+### Target Learners
+- K-12 students, including those more at risk of failure or dropping out
+
+### Target Learning Objectives
+- Engagement, graduation, retention, and deeper understanding of content
+
+### Claims
+
+- [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W]
+- [Student engagement is higher during PBL than during traditional instruction](../claims/pbl-engagement-higher-than-traditional.md) [+W]
+- [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](../claims/real-world-projects-structured-questions-top-content-strategies.md) [+W]
+- [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](../claims/talladega-graduation-rate-70-to-93-pbl-digital.md) [+W]
+
+## Related Principles
+
+- [Real-world Math](cultural-life-experiences-connections.md)
+- [Provide student choice to build ownership and self-efficacy in maker education](autonomy.md)
+
+## Examples
+-
+
+## Key Sources
+- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
 -->

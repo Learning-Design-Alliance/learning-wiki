@@ -51,7 +51,7 @@ The article presents self-determination theory as an explanatory framework in wh
 
 ## Examples
 
-- [Retention initiatives should satisfy all three basic psychological needs across the whole campus environment](../principles/satisfy-all-three-needs-campus-wide-retention.md)
+- [Retention initiatives should satisfy all three basic psychological needs across the whole campus environment](../principles/motivation.md)
 - [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](../strategies/motivation-supportive-genai-integration-higher-education.md)
 
 ## Key Sources

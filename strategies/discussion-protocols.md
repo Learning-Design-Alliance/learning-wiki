@@ -87,7 +87,7 @@ Protocols work because they convert discussion from a social performance into a 
 
 ## Examples
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** (Lyman, 1981) — the most widely used protocol; individual think time, pair rehearsal, whole-class share, used across K-12 and higher education.
-- **[Socratic Seminar](../patterns/socratic-seminar.md)** — text-based student-led questioning in inner/outer circles; common in humanities curricula such as the College Board's Pre-AP program.
+- **[Socratic Seminar](../elements/socratic-seminar.md)** — text-based student-led questioning in inner/outer circles; common in humanities curricula such as the College Board's Pre-AP program.
 - **Peer Instruction** ([https://peerinstruction.cs.harvard.edu](https://peerinstruction.cs.harvard.edu)) — Eric Mazur's protocol: individual clicker vote, structured peer discussion, revote; documented large conceptual gains in physics.
 - **Harkness Method** (Phillips Exeter Academy) — oval-table, student-led discussion with an observer role, used across Exeter's curriculum.
 - **Socratic seminars in ELA classrooms** — students discuss a shared text in an inner circle while outer-circle peers track evidence use, then swap; widely used in International Baccalaureate and Expeditionary Learning (EL Education) schools ([EL Education protocols](https://eleducation.org))

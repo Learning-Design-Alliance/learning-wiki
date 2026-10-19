@@ -46,7 +46,6 @@ General additive model results (Table 4) for the inhibition smooth term; the pai
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The general additive model estimated a main effect of intervention condition on posttest reasoning from irrelevant events](gam-main-condition-effect-irrelevant-reasoning.md) — related
+- [The general additive model estimated a main effect of intervention condition on posttest reasoning from irrelevant events](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related
 - [Teacher-judged logical reasoning combined with prior knowledge to predict learning only under the control condition; scaffolding almost fully diminished the disadvantage of lower logical reasoning](scaffolds-diminish-logical-reasoning-disadvantage.md) — related
 - [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](scaffolds-mitigate-prior-knowledge-limit.md) — related
-- [Scaffolded third-graders outperformed control students on reasoning based on irrelevant evidence after instruction](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related

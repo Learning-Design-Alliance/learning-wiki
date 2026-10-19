@@ -186,7 +186,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Cognitive Load Management](cognitive-load-management.md) — personalization is one of the main levers for keeping load within each learner's capacity
 - [Assessment for Learning](assessment-for-learning.md) — supplies the diagnostic evidence on which any personalization depends
 - [Activation](activation.md) — diagnosing and engaging prior knowledge is the first step in deciding what to personalize
-- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](holistic-video-style-selection-principle.md)
+- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](multimedia-learning.md)
 - [Teach students to make the best of their intellectual styles rather than forcing one mandated mode](cognitive-styles.md)
 
 ## Examples
@@ -494,7 +494,7 @@ Drawing on Berquist and Phillips (1975), the article argues that an effective pr
 
 ## Related Principles
 
-- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](holistic-video-style-selection-principle.md)
+- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](multimedia-learning.md)
 - [Teach students to make the best of their intellectual styles rather than forcing one mandated mode](cognitive-styles.md)
 
 ## Examples

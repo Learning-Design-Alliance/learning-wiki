@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 380 claims (182 for, 177 mixed, 21 against) · 184 studies (93 causal, 44 associational, 13 review, 12 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 68 of 184 report an effect size · 374 claims rest on one study
+> **Evidence** · 379 claims (181 for, 177 mixed, 21 against) · 184 studies (93 causal, 44 associational, 13 review, 12 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 68 of 184 report an effect size · 372 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -199,12 +199,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Generating examples produces overconfident judgments of learning, especially for principles and procedures](../claims/example-generation-overconfidence-judgment-bias.md) [~W]
 - [Enactment impairs resolution of JOLs relative to verbal encoding of action phrases](../claims/enactment-impairs-jol-resolution.md) [~W]
 - [Cognitive processing differs by text type: participants engaged in more epistemic processing, meta-comprehension, and coherence-based processing when reading the other-side text than the own-side text](../claims/differential-processing-own-other-side-texts.md) [+W]
-- [In Experiment 1, retrospective judgments after firsthand experience still showed the metacognitive illusion, and it was amplified in participants who had earlier given prospective judgments](../claims/exp1-retrospective-illusion-persists-and-is-amplified.md) [~W]
+- [In Experiment 1, retrospective judgments after firsthand experience still showed the metacognitive illusion, and it was amplified in participants who had earlier given prospective judgments](../claims/exp1-retrospective-illusion-persists-and-is-amplified.md) [~W] — (also cited [+M])
 - [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](../claims/eol-underestimation-of-learnability.md) [+W]
 - [The type of EOL task (difficulty vs. trials-to-learn scale) does not reliably affect EOL accuracy](../claims/eol-task-type-no-effect-on-accuracy.md) [~W]
 - [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](../claims/distinct-metacognition-profiles-lpa-children.md) [+W]
 - [JOL-memory dissociation occurs only when font size ranges between very small and intermediate](../claims/dissociation-limited-very-small-intermediate-fonts.md) [~W]
-- [In Experiment 2, retrospective judgments again showed the metacognitive illusion, amplified in participants who had previously given prospective judgments](../claims/exp2-retrospective-illusion-persists-and-is-amplified.md) [+M]
 - [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](../claims/effective-restudy-distinguishes-metacognition-profiles.md) [~W]
 - [Comparing self-generated keywords with expert keywords increases bias, specifically underconfidence](../claims/expert-keyword-comparison-increases-underconfidence.md) [~W]
 - [In Experiment 2, children's confidence-task performance correlated with Winner and Ask choices but not Endorse choices, controlling for age](../claims/exp2-confidence-winner-ask-correlation.md) [~W]
@@ -274,7 +273,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Students' monitoring frequency during the collaborative exam was significantly and positively correlated with their number of EDA peaks.](../claims/monitoring-frequency-correlates-eda-peaks.md) [~W]
 - [Exposure to others' discrepant curiosity ratings reduces the curiosity gap between opted-out and non-opted-out trials and between incorrect and correct trials, altering metacognitive control](../claims/others-curiosity-discrepancy-alters-metacognitive-control.md) [+W]
 - [Children are considerably more overconfident about incorrect answers to true-false questions than about incorrect answers to open-ended questions](../claims/overconfidence-incorrect-answers-higher-true-false.md) [+W]
-- [Learners are substantially overconfident when judging the quality of their self-generated examples](../claims/overconfidence-judging-self-generated-examples.md) [-W]
+- [Learners are substantially overconfident when judging the quality of their self-generated examples](../claims/overconfidence-evaluating-self-generated-examples.md) [-W]
 - [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](../claims/paired-flashcards-improve-immediate-metacognitive-calibration.md) [+W]
 - [Perceived difficulty was negatively correlated with recognition but not significantly with transfer or drawing test performance](../claims/perceived-difficulty-recognition-correlation-only.md) [~W]
 - [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](../claims/near-transfer-working-memory-advantage-hypothesis.md) [~W]

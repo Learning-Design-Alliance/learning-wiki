@@ -16,7 +16,7 @@ generated:
 > **Evidence** · 6 claims (4 for, 2 mixed) · 15 studies (4 quant-synthesis, 4 theoretical, 3 causal, 2 review, 1 associational, 1 design), `q2`–`q4` · 5 of 15 report an effect size · 2 claims rest on one study
 
 ## Description
-Problem presentation is the instructional element in which learners are confronted with an authentic, ill-structured problem before receiving instruction on how to solve it. The problem functions as the organizing stimulus for inquiry: it activates prior knowledge, creates a need to know, and situates subsequent learning in a meaningful context. It is the opening move of [Problem-Based Learning](../patterns/problem-based-learning.md) and [Goal-Based Scenarios](../patterns/goal-based-scenarios.md), where the quality of the problem largely determines the quality of the learning that follows.
+Problem presentation is the instructional element in which learners are confronted with an authentic, ill-structured problem before receiving instruction on how to solve it. The problem functions as the organizing stimulus for inquiry: it activates prior knowledge, creates a need to know, and situates subsequent learning in a meaningful context. It is the opening move of [Problem-Based Learning](../patterns/problem-based-learning.md) and [Goal-Based Scenarios](../patterns/anchored-instruction.md), where the quality of the problem largely determines the quality of the learning that follows.
 
 ## Design Implications
 
@@ -69,7 +69,7 @@ A well-presented problem engages learners in authentic problem-solving by making
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — the problem is the first and organizing event of the entire cycle
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md) — the problem is framed as a mission or goal the learner must pursue within a simulated environment
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md) — the problem is framed as a mission or goal the learner must pursue within a simulated environment
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases supply the authentic problem context for analysis and discussion
 
 ## Examples

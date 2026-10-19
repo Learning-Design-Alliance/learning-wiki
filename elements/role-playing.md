@@ -31,7 +31,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - Support perspective-taking, communication, and situated decision-making.
 
 ### Affordances
-- [Perspective-Taking](../principles/perspective-taking.md)
+- [Perspective-Taking](../principles/cognitive-flexibility.md)
 - [Experiential Learning](../principles/experiential-learning.md)
 
 ### Claims
@@ -50,7 +50,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Group Work](group-work.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Goal-Based Scenarios](../patterns/anchored-instruction.md)
 - [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
