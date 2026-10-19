@@ -3,6 +3,7 @@ type: learner-variable
 id: arithmetic-fact-retrieval
 title: Arithmetic Fact Retrieval
 description: "A learner's ability to recall basic number combinations, such as single-digit sums and products, quickly and accurately from memory."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

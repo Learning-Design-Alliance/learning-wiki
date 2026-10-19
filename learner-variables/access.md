@@ -3,6 +3,7 @@ type: learner-variable
 id: access
 title: Access
 description: Whether a learner can perceive and operate the material at all — device, bandwidth, sensory and motor.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

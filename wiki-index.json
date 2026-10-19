@@ -218325,6 +218325,7 @@
 "type":"element"
 },
 {
+"canonical":true,
 "description":"A learner's command of the ways of reading, writing and reasoning used in academic disciplines and real-world domains, including questioning a text's purpose and bias.",
 "id":"academic-and-critical-literacy",
 "path":"learner-variables/academic-and-critical-literacy.md",
@@ -218333,6 +218334,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Anxiety tied to learning and assessment in a subject, such as mathematics anxiety, test anxiety and foreign-language anxiety.",
 "id":"academic-anxiety",
 "path":"learner-variables/academic-anxiety.md",
@@ -218341,6 +218343,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's perception of their own ability in an academic domain, such as how good they think they are at mathematics or at reading.",
 "id":"academic-self-concept",
 "path":"learner-variables/academic-self-concept.md",
@@ -218349,6 +218352,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner can perceive and operate the material at all — device, bandwidth, sensory and motor.",
 "id":"access",
 "path":"learner-variables/access.md",
@@ -218357,6 +218361,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Emotions tied to learning activities and their outcomes, such as enjoyment, boredom, frustration, pride, shame and hope.",
 "id":"achievement-emotions",
 "path":"learner-variables/achievement-emotions.md",
@@ -218365,6 +218370,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The purposes a learner pursues in achievement settings: to master the material (mastery goals) or to demonstrate competence relative to others (performance goals), each in an approach or avoidance form.",
 "id":"achievement-goal-orientation",
 "path":"learner-variables/achievement-goal-orientation.md",
@@ -218373,6 +218379,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Events that can cause trauma, such as abuse, neglect, witnessing violence or instability at home, and the chronic stress they leave behind.",
 "id":"adverse-experiences",
 "path":"learner-variables/adverse-experiences.md",
@@ -218381,6 +218388,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"What a learner does with frustration, anxiety and failure while the work is still in front of them.",
 "id":"affect-regulation",
 "path":"learner-variables/affect-regulation.md",
@@ -218389,6 +218397,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's age, grade level or stage of development, from early childhood to adulthood, as it bears on what instruction suits them.",
 "id":"age-and-developmental-stage",
 "path":"learner-variables/age-and-developmental-stage.md",
@@ -218397,6 +218406,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to generalise, represent, justify and reason about mathematical structures and relationships, from patterns in arithmetic to equations and functions.",
 "id":"algebraic-thinking",
 "path":"learner-variables/algebraic-thinking.md",
@@ -218405,6 +218415,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A young learner's knowledge of letter names, shapes and sounds, and their understanding that print carries meaning and works in particular ways on the page.",
 "id":"alphabet-knowledge-and-print-awareness",
 "path":"learner-variables/alphabet-knowledge-and-print-awareness.md",
@@ -218413,6 +218424,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to recall basic number combinations, such as single-digit sums and products, quickly and accurately from memory.",
 "id":"arithmetic-fact-retrieval",
 "path":"learner-variables/arithmetic-fact-retrieval.md",
@@ -218421,6 +218433,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How long a learner can sustain focus on one thing, and how easily something else takes it away.",
 "id":"attention",
 "path":"learner-variables/attention.md",
@@ -218429,6 +218442,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How the brain makes sense of the sounds that reach it through hearing: locating, distinguishing and interpreting sounds, especially speech.",
 "id":"auditory-processing",
 "path":"learner-variables/auditory-processing.md",
@@ -218437,6 +218451,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Autism, a lifelong developmental difference in social communication and in patterns of behaviour, interests and sensory processing, recorded in research by clinical diagnosis or school category; it varies widely between people and is distinct from intellectual ability.",
 "id":"autism-spectrum-disorder",
 "path":"learner-variables/autism-spectrum-disorder.md",
@@ -218445,6 +218460,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner expects to be treated as a full participant in this setting, and how much of their attention that question consumes.",
 "id":"belonging",
 "path":"learner-variables/belonging.md",
@@ -218453,6 +218469,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's sense of themselves as a contributor to their community: attending to others' needs, understanding how civic systems work and affect people, and acting with others toward shared goals.",
 "id":"civic-mindedness",
 "path":"learner-variables/civic-mindedness.md",
@@ -218461,6 +218478,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to work effectively and respectfully with others toward a shared goal: expressing and listening to ideas, compromising and sharing responsibility for the work.",
 "id":"collaboration",
 "path":"learner-variables/collaboration.md",
@@ -218469,6 +218487,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to express thoughts, ideas and feelings and to understand others, through speech, sign, writing, gesture, drawing or technology, including talking about subject matter such as mathematics.",
 "id":"communication-skills",
 "path":"learner-variables/communication-skills.md",
@@ -218477,6 +218496,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to generate novel and useful ideas, usually measured as divergent thinking: the fluency, flexibility, originality and elaboration of ideas produced for an open-ended problem.",
 "id":"creativity",
 "path":"learner-variables/creativity.md",
@@ -218485,6 +218505,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability and disposition to evaluate information and arguments, weigh evidence and perspectives, and reason to a judgement or decision.",
 "id":"critical-thinking",
 "path":"learner-variables/critical-thinking.md",
@@ -218493,6 +218514,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to turn written words into spoken words and meanings, by applying letter-sound knowledge to unfamiliar words and by recognising familiar words at sight.",
 "id":"decoding",
 "path":"learner-variables/decoding.md",
@@ -218501,6 +218523,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner can operate the interface the instruction is delivered through, independently of whether they can reach it.",
 "id":"digital-literacy",
 "path":"learner-variables/digital-literacy.md",
@@ -218509,6 +218532,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The sector, role or setting a scenario has to be placed in before a learner recognises it as their own.",
 "id":"domain-context",
 "path":"learner-variables/domain-context.md",
@@ -218517,6 +218541,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to perceive, understand, use and manage emotions in themselves and others.",
 "id":"emotional-intelligence",
 "path":"learner-variables/emotional-intelligence.md",
@@ -218525,6 +218550,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner is still acquiring the language of instruction (an English learner, multilingual learner or second-language learner), as classified by a school system or measured by proficiency tests.",
 "id":"english-learner-status",
 "path":"learner-variables/english-learner-status.md",
@@ -218533,6 +218559,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's beliefs about the nature of knowledge and knowing: whether knowledge is certain or tentative, simple or complex, handed down by authority or built from evidence.",
 "id":"epistemic-beliefs",
 "path":"learner-variables/epistemic-beliefs.md",
@@ -218541,6 +218568,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The set of control processes, inhibition, working-memory updating and cognitive flexibility, that let a learner direct attention and behaviour toward a goal.",
 "id":"executive-function",
 "path":"learner-variables/executive-function.md",
@@ -218549,6 +218577,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's gender as recorded in research data, used to describe differences in participation, attitudes and outcomes and to test whether an instructional effect differs between groups.",
 "id":"gender",
 "path":"learner-variables/gender.md",
@@ -218557,6 +218586,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's general reasoning and problem-solving capacity, measured by intelligence or general ability tests, as it bears on learning and on how instruction works.",
 "id":"general-cognitive-ability",
 "path":"learner-variables/general-cognitive-ability.md",
@@ -218565,6 +218595,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to define, analyse and argue about shapes and spatial relationships, up to writing formal geometric proofs.",
 "id":"geometric-reasoning",
 "path":"learner-variables/geometric-reasoning.md",
@@ -218573,6 +218604,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The learning opportunities, materials, practices and attitudes a learner's home, family and community provide outside formal instruction.",
 "id":"home-learning-environment",
 "path":"learner-variables/home-learning-environment.md",
@@ -218581,6 +218613,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's developing sense of who they are, including the social identities, such as race, ethnicity, gender, culture, language and disability, that shape how they meet the world.",
 "id":"identity",
 "path":"learner-variables/identity.md",
@@ -218589,6 +218622,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A reader's ability to fill in what a text leaves unsaid by connecting it with background knowledge, experience and other parts of the text.",
 "id":"inferencing",
 "path":"learner-variables/inferencing.md",
@@ -218597,6 +218631,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's engagement with and liking for a topic, whether a lasting personal interest or interest sparked in the moment by the situation.",
 "id":"interest",
 "path":"learner-variables/interest.md",
@@ -218605,6 +218640,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Identified learning, developmental and intellectual disabilities (dyslexia and other specific learning disabilities, autism, intellectual disability), and the special educational needs that follow from them.",
 "id":"learning-disabilities",
 "path":"learner-variables/learning-disabilities.md",
@@ -218613,6 +218649,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's stated preference for receiving information in one form (such as visual, auditory or kinaesthetic), and the claim that matching instruction to it improves learning.",
 "id":"learning-style-preferences",
 "path":"learner-variables/learning-style-preferences.md",
@@ -218621,6 +218658,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The memory system that stores knowledge, skills and experiences over hours to decades so they can be retrieved and used later.",
 "id":"long-term-memory",
 "path":"learner-variables/long-term-memory.md",
@@ -218629,6 +218667,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to hold and move between several representations of numbers and several strategies, choosing the one that suits the problem.",
 "id":"mathematical-flexibility",
 "path":"learner-variables/mathematical-flexibility.md",
@@ -218637,6 +218676,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's understanding of measuring: picking out an attribute such as length, area or time and quantifying it by comparison with a unit of the same kind.",
 "id":"measurement",
 "path":"learner-variables/measurement.md",
@@ -218645,6 +218685,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's awareness of their own thinking and their ability to monitor and steer it: planning an approach, checking understanding and changing strategy when something is not working.",
 "id":"metacognition",
 "path":"learner-variables/metacognition.md",
@@ -218653,6 +218694,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's belief about whether ability or intelligence is fixed or can grow with effort and good strategies (implicit theories of intelligence).",
 "id":"mindset",
 "path":"learner-variables/mindset.md",
@@ -218661,6 +218703,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's awareness of the meaningful parts of words (roots, prefixes and suffixes) and ability to use them to read, understand, spell and build longer words.",
 "id":"morphological-awareness",
 "path":"learner-variables/morphological-awareness.md",
@@ -218669,6 +218712,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner is willing to spend effort here, and what makes the spending feel worth it.",
 "id":"motivation",
 "path":"learner-variables/motivation.md",
@@ -218677,6 +218721,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's tendency to engage in and enjoy effortful thinking, such as complex problem solving and abstract reasoning.",
 "id":"need-for-cognition",
 "path":"learner-variables/need-for-cognition.md",
@@ -218685,6 +218730,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's understanding of numerical magnitudes and the relations among numbers, shown in tasks such as comparing two quantities or placing a number on a number line.",
 "id":"number-sense",
 "path":"learner-variables/number-sense.md",
@@ -218693,6 +218739,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's procedural and conceptual understanding of arithmetic operations and of the base-ten place-value system that written numbers rely on.",
 "id":"operations-and-place-value",
 "path":"learner-variables/operations-and-place-value.md",
@@ -218701,6 +218748,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's spoken language skills, including vocabulary, grammar, listening comprehension and the ability to tell an organised story.",
 "id":"oral-language",
 "path":"learner-variables/oral-language.md",
@@ -218709,6 +218757,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's characteristic patterns of thinking, feeling and behaving, usually described by the Big Five: conscientiousness, openness, agreeableness, extraversion and neuroticism.",
 "id":"personality-traits",
 "path":"learner-variables/personality-traits.md",
@@ -218717,6 +218766,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to notice and work with the sounds of spoken language (rhymes, syllables and individual phonemes) and to process those sounds quickly when reading and spelling.",
 "id":"phonological-awareness",
 "path":"learner-variables/phonological-awareness.md",
@@ -218725,6 +218775,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's physical health and fitness, including nutrition, regular exercise and adequate sleep, as it bears on cognition, mood and learning.",
 "id":"physical-wellbeing",
 "path":"learner-variables/physical-wellbeing.md",
@@ -218733,6 +218784,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's existing domain knowledge in the subject area before instruction begins.",
 "id":"prior-knowledge",
 "path":"learner-variables/prior-knowledge.md",
@@ -218741,6 +218793,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to work through unfamiliar challenges by setting goals and bringing knowledge, resources and creative thinking to bear on a solution.",
 "id":"problem-solving",
 "path":"learner-variables/problem-solving.md",
@@ -218749,6 +218802,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The rate at which a learner takes in information, makes sense of it and produces an appropriate response.",
 "id":"processing-speed",
 "path":"learner-variables/processing-speed.md",
@@ -218757,6 +218811,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's understanding of ratios and the relationships between them, as expressed in fractions, percentages and rates.",
 "id":"proportional-reasoning",
 "path":"learner-variables/proportional-reasoning.md",
@@ -218765,6 +218820,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's racial or ethnic group as recorded in research and administrative data, used to describe gaps in opportunity and outcomes and to test whether an instructional effect differs across groups.",
 "id":"race-and-ethnicity",
 "path":"learner-variables/race-and-ethnicity.md",
@@ -218773,6 +218829,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"What a learner can read fluently, and whether the language of instruction is the one they think in.",
 "id":"reading-and-language",
 "path":"learner-variables/reading-and-language.md",
@@ -218781,6 +218838,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to read connected text accurately, at a good pace and smoothly, silently or aloud, so that attention is free for comprehension.",
 "id":"reading-fluency",
 "path":"learner-variables/reading-fluency.md",
@@ -218789,6 +218847,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Being, and feeling, physically and psychologically secure at home, at school or work, and in the neighbourhood and wider community.",
 "id":"safety",
 "path":"learner-variables/safety.md",
@@ -218797,6 +218856,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's belief in their own ability to carry out the actions needed to succeed at a particular task or in a particular subject.",
 "id":"self-efficacy",
 "path":"learner-variables/self-efficacy.md",
@@ -218805,6 +218865,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner can plan, monitor and adjust their own work without the structure being supplied.",
 "id":"self-regulation",
 "path":"learner-variables/self-regulation.md",
@@ -218813,6 +218874,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The brain's ability to take in, organise and combine information from several senses and turn it into fitting physical and emotional responses.",
 "id":"sensory-integration",
 "path":"learner-variables/sensory-integration.md",
@@ -218821,6 +218883,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How much, how regularly and how well a learner sleeps, the period in which the body and brain rest, recover and consolidate memories.",
 "id":"sleep",
 "path":"learner-variables/sleep.md",
@@ -218829,6 +218892,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to understand others' perspectives and feelings and to build and keep positive relationships with peers, teachers and colleagues.",
 "id":"social-awareness-and-relationship-skills",
 "path":"learner-variables/social-awareness-and-relationship-skills.md",
@@ -218837,6 +218901,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The network of people, such as family, friends, teachers and community, that a learner has and believes they could turn to for help.",
 "id":"social-supports",
 "path":"learner-variables/social-supports.md",
@@ -218845,6 +218910,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's family income, wealth, parental education and occupation, and the resources and constraints that come with them.",
 "id":"socioeconomic-status",
 "path":"learner-variables/socioeconomic-status.md",
@@ -218853,6 +218919,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The ability to generate, retain, retrieve and transform visual and spatial images, such as mentally rotating an object or relating shapes to one another.",
 "id":"spatial-ability",
 "path":"learner-variables/spatial-ability.md",
@@ -218861,6 +218928,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to reason about data and uncertainty: posing questions, collecting and organising data, and describing and drawing inferences from it.",
 "id":"statistical-reasoning",
 "path":"learner-variables/statistical-reasoning.md",
@@ -218869,6 +218937,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The risk that a learner performs below their actual capability when a negative stereotype about a group they belong to is made salient in an evaluative setting.",
 "id":"stereotype-threat",
 "path":"learner-variables/stereotype-threat.md",
@@ -218877,6 +218946,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's grasp of how sentences are built: how word order, sentence structure and punctuation carry meaning, in reading, speech and writing.",
 "id":"syntax",
 "path":"learner-variables/syntax.md",
@@ -218885,6 +218955,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How much uninterrupted time a learner actually gets, and whether progress survives the gap until the next session.",
 "id":"time-and-continuity",
 "path":"learner-variables/time-and-continuity.md",
@@ -218893,6 +218964,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The cognitive work of making sense of what the eyes take in: recognising, ordering and interpreting visual information such as letters, numbers, shapes and diagrams.",
 "id":"visual-processing",
 "path":"learner-variables/visual-processing.md",
@@ -218901,6 +218973,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The words a learner knows and can use, receptively and expressively, including the academic and subject-specific words that school texts depend on.",
 "id":"vocabulary",
 "path":"learner-variables/vocabulary.md",
@@ -218909,6 +218982,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How much a learner can hold and manipulate at once before the material itself becomes the obstacle.",
 "id":"working-memory",
 "path":"learner-variables/working-memory.md",
@@ -218917,6 +218991,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's ability to write, from the foundational skills of handwriting, spelling and conventions to composing texts in a genre and arguing from evidence.",
 "id":"writing-skills",
 "path":"learner-variables/writing-skills.md",
@@ -301840,6 +301915,7 @@
 "type":"theory"
 },
 {
+"canonical":true,
 "description":"In this interview's account, the ZPD is what the instrumental method becomes when brought into school: education delivers \\\"appropriate forms of cultural mediation\\\" and observes whether and how students integrate them...",
 "id":"zpd-responsiveness-to-mediation",
 "path":"theories/zpd-responsiveness-to-mediation.md",

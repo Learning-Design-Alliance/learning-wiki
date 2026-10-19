@@ -3,6 +3,7 @@ type: learner-variable
 id: operations-and-place-value
 title: Operations and Place Value
 description: "A learner's procedural and conceptual understanding of arithmetic operations and of the base-ten place-value system that written numbers rely on."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

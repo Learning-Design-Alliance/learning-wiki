@@ -3,6 +3,7 @@ type: learner-variable
 id: processing-speed
 title: Processing Speed
 description: "The rate at which a learner takes in information, makes sense of it and produces an appropriate response."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

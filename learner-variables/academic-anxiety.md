@@ -3,6 +3,7 @@ type: learner-variable
 id: academic-anxiety
 title: Academic Anxiety
 description: "Anxiety tied to learning and assessment in a subject, such as mathematics anxiety, test anxiety and foreign-language anxiety."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

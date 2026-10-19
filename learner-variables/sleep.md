@@ -3,6 +3,7 @@ type: learner-variable
 id: sleep
 title: Sleep
 description: "How much, how regularly and how well a learner sleeps, the period in which the body and brain rest, recover and consolidate memories."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

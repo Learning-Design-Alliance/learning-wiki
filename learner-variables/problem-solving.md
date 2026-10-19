@@ -3,6 +3,7 @@ type: learner-variable
 id: problem-solving
 title: Problem Solving
 description: "A learner's ability to work through unfamiliar challenges by setting goals and bringing knowledge, resources and creative thinking to bear on a solution."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

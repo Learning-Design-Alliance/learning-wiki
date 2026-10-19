@@ -3,6 +3,7 @@ type: learner-variable
 id: english-learner-status
 title: English-Learner Status
 description: "Whether a learner is still acquiring the language of instruction (an English learner, multilingual learner or second-language learner), as classified by a school system or measured by proficiency tests."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

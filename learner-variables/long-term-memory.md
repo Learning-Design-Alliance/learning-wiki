@@ -3,6 +3,7 @@ type: learner-variable
 id: long-term-memory
 title: Long-Term Memory
 description: "The memory system that stores knowledge, skills and experiences over hours to decades so they can be retrieved and used later."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

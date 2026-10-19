@@ -3,6 +3,7 @@ type: learner-variable
 id: gender
 title: Gender
 description: "A learner's gender as recorded in research data, used to describe differences in participation, attitudes and outcomes and to test whether an instructional effect differs between groups."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

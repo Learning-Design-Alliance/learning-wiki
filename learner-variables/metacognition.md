@@ -3,6 +3,7 @@ type: learner-variable
 id: metacognition
 title: Metacognition
 description: "A learner's awareness of their own thinking and their ability to monitor and steer it: planning an approach, checking understanding and changing strategy when something is not working."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

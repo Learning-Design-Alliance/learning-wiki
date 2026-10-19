@@ -3,6 +3,7 @@ type: learner-variable
 id: interest
 title: Interest
 description: "A learner's engagement with and liking for a topic, whether a lasting personal interest or interest sparked in the moment by the situation."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

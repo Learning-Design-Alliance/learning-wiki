@@ -3,6 +3,7 @@ type: learner-variable
 id: morphological-awareness
 title: Morphological Awareness
 description: "A learner's awareness of the meaningful parts of words (roots, prefixes and suffixes) and ability to use them to read, understand, spell and build longer words."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

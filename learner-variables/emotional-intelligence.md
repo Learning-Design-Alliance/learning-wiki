@@ -3,6 +3,7 @@ type: learner-variable
 id: emotional-intelligence
 title: Emotional Intelligence
 description: "A learner's ability to perceive, understand, use and manage emotions in themselves and others."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

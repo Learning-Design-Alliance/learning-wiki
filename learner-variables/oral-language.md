@@ -3,6 +3,7 @@ type: learner-variable
 id: oral-language
 title: Oral Language
 description: "A learner's spoken language skills, including vocabulary, grammar, listening comprehension and the ability to tell an organised story."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

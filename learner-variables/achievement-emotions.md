@@ -3,6 +3,7 @@ type: learner-variable
 id: achievement-emotions
 title: Achievement Emotions
 description: "Emotions tied to learning activities and their outcomes, such as enjoyment, boredom, frustration, pride, shame and hope."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

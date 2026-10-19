@@ -3,6 +3,7 @@ type: learner-variable
 id: identity
 title: Identity
 description: "A learner's developing sense of who they are, including the social identities, such as race, ethnicity, gender, culture, language and disability, that shape how they meet the world."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

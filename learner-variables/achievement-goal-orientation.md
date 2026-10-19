@@ -3,6 +3,7 @@ type: learner-variable
 id: achievement-goal-orientation
 title: Achievement Goal Orientation
 description: "The purposes a learner pursues in achievement settings: to master the material (mastery goals) or to demonstrate competence relative to others (performance goals), each in an approach or avoidance form."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: learner-variable
 id: learning-style-preferences
 title: Learning-Style Preferences
 description: "A learner's stated preference for receiving information in one form (such as visual, auditory or kinaesthetic), and the claim that matching instruction to it improves learning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

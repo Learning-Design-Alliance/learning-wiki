@@ -3,6 +3,7 @@ type: learner-variable
 id: stereotype-threat
 title: Stereotype Threat
 description: "The risk that a learner performs below their actual capability when a negative stereotype about a group they belong to is made salient in an evaluative setting."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

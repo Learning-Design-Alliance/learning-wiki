@@ -3,6 +3,7 @@ type: learner-variable
 id: syntax
 title: Syntax
 description: "A learner's grasp of how sentences are built: how word order, sentence structure and punctuation carry meaning, in reading, speech and writing."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

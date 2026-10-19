@@ -3,6 +3,7 @@ type: learner-variable
 id: alphabet-knowledge-and-print-awareness
 title: Alphabet Knowledge and Print Awareness
 description: "A young learner's knowledge of letter names, shapes and sounds, and their understanding that print carries meaning and works in particular ways on the page."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

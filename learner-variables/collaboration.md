@@ -3,6 +3,7 @@ type: learner-variable
 id: collaboration
 title: Collaboration
 description: "A learner's ability to work effectively and respectfully with others toward a shared goal: expressing and listening to ideas, compromising and sharing responsibility for the work."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

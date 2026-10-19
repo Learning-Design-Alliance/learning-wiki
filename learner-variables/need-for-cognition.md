@@ -3,6 +3,7 @@ type: learner-variable
 id: need-for-cognition
 title: Need for Cognition
 description: "A learner's tendency to engage in and enjoy effortful thinking, such as complex problem solving and abstract reasoning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

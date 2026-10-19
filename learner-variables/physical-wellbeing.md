@@ -3,6 +3,7 @@ type: learner-variable
 id: physical-wellbeing
 title: Physical Well-Being
 description: "A learner's physical health and fitness, including nutrition, regular exercise and adequate sleep, as it bears on cognition, mood and learning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified
