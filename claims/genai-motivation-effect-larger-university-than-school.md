@@ -53,3 +53,4 @@ Exploratory subgroup analysis across education stage within the meta-analysis. T
 - [GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)](genai-motivation-effect-varies-subject-domain-language-largest.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
+- [Effects on reading comprehension are larger for primary schoolers than secondary schoolers and larger for typical readers than struggling readers, with no such differences for affirming motivations](comprehension-effects-sample-moderators.md) — related

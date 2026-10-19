@@ -1,0 +1,32 @@
+---
+type: product
+id: interactive-evidence-and-gap-maps-of-motivation-regulation-research-built-with-eppi-mapper
+title: Interactive evidence and gap maps of motivation regulation research, built with EPPI-Mapper, with the underlying dataset released on OSF
+description: An OSF-released dataset and EPPI-Mapper interactive visualisation created by Maike Trautner et al.
+product_kind: dataset
+status: review
+generated:
+  by: "process:settle-candidates"
+  at: 2026-10-19
+---
+
+# Interactive evidence and gap maps of motivation regulation research, built with EPPI-Mapper, with the underlying dataset released on OSF
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+An OSF-released dataset and EPPI-Mapper interactive visualisation created by Maike Trautner et al. to map motivation-regulation research settings, designs, contexts, operationalisations, and evidence gaps.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+
+### Claims
+- [Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires](../claims/motivation-regulation-research-dominated-by-university-cross-sectional-self-report.md) [+M]
+- [The evidence map reveals gaps: little is known about motivation regulation in pre- and primary school children, its development across school years, and its contextual characteristics](../claims/motivation-regulation-evidence-gaps-children-context.md) [+M]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Maike Trautner, Carola Grunschel, Malte Schwinger. (2025). Motivating Motivation Regulation Research—An Evidence and Gap Map Approach. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10019-1

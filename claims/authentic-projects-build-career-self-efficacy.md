@@ -30,7 +30,7 @@ sources:
 
 ## Subclaims
 `q2 i?` A student's authentic engagement with podcasting equipment at the launch event deepened her interest and belief she could succeed as a podcaster. [→ selfefficacy-yahaira](#selfefficacy-yahaira)
-`q2 i?` The paper states self-efficacy is developed when students succeed at challenging activities, illustrated by a client-based final website project. [→ selfefficacy-duarte](#selfefficacy-duarte)
+`q2 i?` The authors expect a planned client-based final project, in which students build a website or program for a community "client", to build self-efficacy; the report describes the project prospectively and observes no outcome from it. [→ selfefficacy-duarte](#selfefficacy-duarte)
 
 ## Evidence
 
@@ -50,7 +50,7 @@ Wortman, A., and Schiner, N. (2024, June). Access to powerful technology as a ca
 
 `q2 · i?` · `qualitative · r?`
 
-The authors describe Mr. Duarte's final project, in which students find community "clients" and build a website or program solving the client's problem, writing that knowing they have the necessary skills "builds self-efficacy."
+The authors describe Mr. Duarte's planned final project, in which students "will be asked" to find community "clients" and build a website or program solving the client's problem, and write that knowing they have the necessary skills "builds self-efficacy." This is the authors' expectation for a project not yet carried out; no self-efficacy outcome from it is reported.
 
 > "Knowing that they have the skills necessary to complete the project and provide a useful service to someone else provides for a deeply engaging experience for the students and builds self-efficacy."
 

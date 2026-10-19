@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions
-description: In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions
+title: Education data can easily leave educators and policymakers unmoved or drown them in extraneous information rather than driving decisions
+description: Education data can easily leave educators and policymakers unmoved or drown them in extraneous information rather than driving decisions
 id: data-often-fails-to-drive-education-decisions
 aliases: [data-often-leaves-educators-unmoved, data-use-often-fails-to-drive-decisions]
 status: review
@@ -28,18 +28,16 @@ sources:
     rigour: 1
 ---
 
-# In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions
+# Education data can easily leave educators and policymakers unmoved or drown them in extraneous information rather than driving decisions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r1` · `q1`
 
 ## Subclaims
 
-`q1 i?` Data in education frequently fails to move decision makers and can overwhelm them with extraneous information instead of improving instruction, school performance, and student achievement. [→ Various authors 2013](#various-authors-2013)
+`q1 i?` A Mathematica brief states, as framing rather than a measured finding, that it is "all too easy" for data to leave decision makers unmoved or drown them in extraneous information rather than drive decisions that would improve instruction, school performance, and student achievement. [→ Various authors 2013](#various-authors-2013)
 
-`q1 i?` In practice, data frequently leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions. [→ Mathematica Policy Research 2013](#mathematica-policy-research-2013)
-
-`q1 i?` Data in education systems frequently fails to move decision makers or overwhelms them with extraneous information instead of improving instruction, school performance, and student achievement. [→ Various authors 2013](#various-authors-2013)
+`q1 i?` A second Mathematica brief makes the same framing statement: it is "all too easy" for data to leave educators and policymakers unmoved or drown them in extraneous information rather than drive decisions. [→ Mathematica Policy Research 2013](#mathematica-policy-research-2013)
 
 ## Evidence
 
@@ -71,7 +69,7 @@ Mathematica Policy Research. (2013). Developing and Enhancing Data Systems (In F
 
 `q1 · i?` · `theoretical · r1`
 
-The brief asserts, without presenting evidence or data, that data commonly fails to drive decisions in education. This is the authors' framing statement for why guidance on developing and enhancing data systems is needed.
+The brief asserts, without presenting evidence or data, that it is "all too easy" for data to fail to drive decisions in education; it reports no frequency. This is the authors' framing statement for why guidance on developing and enhancing data systems is needed.
 
 > "In practice, however, it is all too easy for data to leave educators and policymakers unmoved—or, worse yet, to drown them in extraneous information, rather than drive decisions that will improve classroom instruction, school performance, and student achievement."
 

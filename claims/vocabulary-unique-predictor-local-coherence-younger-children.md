@@ -44,7 +44,7 @@ Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of v
 
 `q3 · i?` · `associational · r2`
 
-Fixed-order hierarchical multiple regressions with local coherence inference as the dependent variable, entering simple span, complex span, then vocabulary. For the 8-year-olds, "only vocabulary signiﬁcantly accounted for signiﬁcant variance"; for the 6-year-olds only vocabulary was significant when both variables were included in the model.
+Fixed-order hierarchical multiple regressions with local coherence inference as the dependent variable, entering simple span, complex span, then vocabulary for the 8- and 10-year-olds; complex span was excluded for the 6-year-olds, who performed poorly on the complex span tasks, so their model entered simple span and then vocabulary. For the 8-year-olds, "only vocabulary signiﬁcantly accounted for signiﬁcant variance"; for the 6-year-olds only vocabulary was significant when both variables were included in the model.
 
 > "For the 8-year-olds, only vocabulary signiﬁcantly accounted for signiﬁcant variance in local coherence inference making."
 

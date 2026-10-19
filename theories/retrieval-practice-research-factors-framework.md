@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 14 studies (9 causal, 3 quant-synthesis, 2 review), `q3`–`q4` · 7 of 14 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 15 studies (9 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q3`–`q4` · 7 of 15 report an effect size · 12 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -51,6 +51,7 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Information retrieval questions were consistently easier than comprehension questions across both visualisation formats](../claims/retrieval-easier-than-comprehension-questions.md) [~W]
 - [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](../claims/tap-identical-formats-stronger-effect.md) [+W]
+- [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
 
 ## Related Theories
 - 

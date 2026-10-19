@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (24 for, 33 mixed, 3 against) · 51 studies (23 causal, 12 review, 9 quant-synthesis, 6 theoretical, 1 design), `q1`–`q4` · 19 of 51 report an effect size · 52 claims rest on one study
+> **Evidence** · 61 claims (24 for, 34 mixed, 3 against) · 52 studies (23 causal, 12 review, 9 quant-synthesis, 6 theoretical, 1 associational, 1 design), `q1`–`q4` · 20 of 52 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,10 @@ For example, a laboratory trainee may value getting through a pipetting session 
 The model should weaken if comparable learners on comparable material learn as well from the unmanaged design under defensible comparisons with aligned outcomes, or if deferring component knowledge (primers, segments, parts first) repeatedly fails to help on tasks with many interacting elements; the Italian conjugation result, where a gradual ramp lost to constant high complexity, is one such signal for a simpler procedural task. The expertise qualification should weaken if, as in the segmenting synthesis, higher prior knowledge keeps predicting larger rather than smaller benefits. The "keep productive effort" edge should weaken if effortful conditions fail to improve delayed outcomes for the learners and materials in question, as interleaving did for word lists and problem-first designs did for younger children. If rated effort falls without any gain in performance, transfer or retention, the design reduced discomfort, not demand on learning. Do not protect the model by relabelling every failure after the fact as "too much load" or "too little challenge".
 
 A learning-phase efficiency gain, immediate performance, near transfer, delayed retention and unaided use in the learner's setting are separate claims. The present evidence does not establish a threshold of expertise at which to remove support, an optimal amount of difficulty, an ordering of load-management techniques, or that changes in load cause the gains they accompany.
+
+## Claims
+
+- [Invested mental effort and perceived task difficulty are significantly positively correlated at all measurement points except MP2.5, with correlations increasing as material complexity rises](../claims/effort-difficulty-positively-correlated-except-mp25.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

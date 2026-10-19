@@ -49,3 +49,4 @@ A narrative review synthesizing worked-example experiments, mostly with highly s
 - [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — reports the opposite
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
+- [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related

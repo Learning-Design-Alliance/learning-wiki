@@ -161,3 +161,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](question-asking-interventions-mixed-success.md) — a narrower finding that bears on this claim
 - [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — reports the opposite
 - [Written explanation skills learned in the Unit 1 intervention transferred to a different mathematical concept (functions)](explanation-skill-transfer-across-concepts.md) — related
+- [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — related

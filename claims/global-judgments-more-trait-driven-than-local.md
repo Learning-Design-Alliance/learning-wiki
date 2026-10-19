@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Motivational and personality variables relate more strongly to global than to local postdicted judgments
-description: Motivational and personality variables relate more strongly to global than to local postdicted judgments
+title: Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ
+description: Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ
 id: global-judgments-more-trait-driven-than-local
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Motivational and personality variables relate more strongly to global than to local postdicted judgments
+# Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
@@ -36,7 +36,7 @@ Marion Händel & Anique B. H. de Bruin & Markus Dresel (2020). Individual differ
 
 `q2 · i2` · `associational · r2`
 
-Study 1 general linear mixed model with repeated measures comparing beta-weights for local versus global judgments in the mathematics test. The comparison showed "domain-specific self-concept more strongly predicted the global judgments than the local judgments" with the printed F and η² values. Significant differences were also found for high school grade and gender.
+Study 1 general linear mixed model with repeated measures comparing beta-weights for local versus global judgments in the mathematics test. The comparison showed "domain-specific self-concept more strongly predicted the global judgments than the local judgments" with the printed F and η² values. Significant differences were also found for high school grade and gender; the other significant predictors, test performance and optimism, did not relate differently to local and global judgments, and the remaining motivational and personality scales were not consistent predictors of either. The authors read this as support for their hypothesis that motivation and personality matter more for global judgments, but the difference held for self-concept only. The design is correlational.
 
 > "For both judgment and bias, domain-specific self-concept more strongly predicted the global judgments than the local judgments (judgment: F(1, 243) = 11.04, p <. 0 0 1 ,η2 = .043; bias: F(1, 243) = 10.78, p <. 0 0 1 ,η2 = .042)."
 

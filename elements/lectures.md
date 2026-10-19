@@ -14,7 +14,7 @@ generated:
 # Lectures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 19 studies (7 quant-synthesis, 5 causal, 5 review, 2 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (6 for, 2 mixed, 2 against) · 20 studies (7 quant-synthesis, 6 review, 5 causal, 2 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 4 claims rest on one study
 
 ## Description
 A lecture is an instructor-led presentation that delivers content in a structured, sequenced format to a group of learners. It functions as an efficient means of transmitting foundational knowledge — explaining concepts, modeling reasoning, and organizing material — but its effectiveness depends on how attention is managed and how actively learners process the presented content.
@@ -72,6 +72,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](../claims/instructional-no-immediate-mkc-mrc-change.md) [-W]
+- [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](../claims/rosengrant-vigilance-no-15-minute-decline.md) [+W]
 
 ## The evidence by question
 - *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]

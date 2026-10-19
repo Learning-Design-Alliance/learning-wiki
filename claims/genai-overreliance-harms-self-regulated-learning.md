@@ -89,3 +89,4 @@ Narrative review reporting cited evidence that over-reliance on generative AI "m
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
 - [Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance](effective-ai-use-increases-over-reliance-harming-learning.md) — related
 - [Rule-triggered pedagogical agents increased SRL activities and learning outcomes relative to untriggered agents](rule-triggered-pedagogical-agents-srl.md) — related
+- [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — possibly the same claim (merge candidate)

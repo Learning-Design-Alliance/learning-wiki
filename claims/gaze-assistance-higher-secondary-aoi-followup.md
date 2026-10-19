@@ -69,3 +69,4 @@ Direct comparison of the weighted relevance distance (Equation 2 combining seman
 - [Gaze-based assistance led children to fixate the narrated primary AOI significantly longer than LLM-baseline assistance](gaze-assistance-longer-primary-aoi-fixation.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related
+- [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — related

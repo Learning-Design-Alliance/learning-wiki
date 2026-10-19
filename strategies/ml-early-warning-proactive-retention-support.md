@@ -46,6 +46,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Extend dropout prediction with deep learning, behavioral data, and real-time monitoring](future-dropout-modeling-rnn-behavioral-realtime.md)
 - [Regularly audit ML models for fairness and proactively apply bias mitigation during model training](regular-fairness-audits-and-proactive-bias-mitigation.md)
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
+- [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
 
 ## Examples
 -

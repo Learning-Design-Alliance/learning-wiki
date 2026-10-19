@@ -62,6 +62,9 @@ The article attributes the prerequisite relationship to the Gregory, DeLeon, and
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
+
 ## Related Claims
 - [Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences](sgd-preference-over-pe-and-manual-signs.md) — related
 - Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes — related

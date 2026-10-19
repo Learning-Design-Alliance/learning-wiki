@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (29 for, 35 mixed, 3 against) · 53 studies (24 causal, 11 quant-synthesis, 10 review, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 53 report an effect size · 59 claims rest on one study
+> **Evidence** · 71 claims (29 for, 39 mixed, 3 against) · 54 studies (24 causal, 12 quant-synthesis, 10 review, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 54 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,13 @@ The bounded words-with-pictures expectation should weaken if comparable learners
 
 A learning-phase preference, immediate recall, explanation of a mechanism, delayed retention and use on a real task are separate claims. The present evidence does not establish a universal best format, an optimal segment length, or a forecast for an individual learner.
 
+## Claims
+
+- [Representational pictures show consistently null effects for word problems with demanding characteristics such as rational numbers, probabilistic reasoning, or realistic considerations](../claims/representational-pictures-null-demanding-tasks.md) [~W]
+- [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](../claims/cognitive-skills-moderate-picture-effects.md) [~W]
+- [Affective variables and gender do not relate to picture effects on elementary schoolers' word problem-solving performance](../claims/affective-gender-no-moderation.md) [~W]
+- [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](../claims/decorative-pictures-null-effects.md) [~W]
+
 ## Related Principles
 - [Modality Principle](modality.md)
 - [Segmenting Principle](segmenting.md)
@@ -169,6 +176,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 ## Examples
 
 - [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](../designs/mitosis-illustrated-text-emme-material.md)
+- [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
 
 ### Illustrative
 

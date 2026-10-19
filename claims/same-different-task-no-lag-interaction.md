@@ -68,3 +68,4 @@ Experiment 3 analysis of words repeated within List 3, presented and tested in t
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](free-recall-lag-effect-structural-components.md) — related
 - [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — related
+- [Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect](verbal-learning-tasks-test-discriminative-contrast.md) — related

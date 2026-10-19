@@ -35798,5 +35798,229 @@
  "worked-examples\tstudying worked examples when motivated\tstudying worked examples when not motivated": {
   "label": "motivated vs not motivated",
   "treatment_is_a": true
+ },
+ "?\tinformed ratings\tnaïve ratings": {
+  "label": "informed ratings vs naïve ratings",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup quiz\tindividual quiz": {
+  "label": "group quiz vs individual quiz",
+  "treatment_is_a": true
+ },
+ "active-learning\tpractice with correct-answer feedback\tlecture": {
+  "label": "practice with feedback vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpractice with correct-response feedback\tlecture": {
+  "label": "practice with feedback vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpractice with elaborated feedback\tlecture": {
+  "label": "practice with feedback vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpractice with explanatory feedback\tlecture": {
+  "label": "practice with feedback vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpractice with feedback\tlecture": {
+  "label": "practice with feedback vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall group learning\tunspecified comparison": {
+  "label": "small-group learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centred approaches and changing activities\tunchanged lecture/activity format": {
+  "label": "student-centred/active learning vs traditional didactic/unchanged lecture format",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centred teaching methods\ttraditional didactic teaching": {
+  "label": "student-centred/active learning vs traditional didactic/unchanged lecture format",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-selected interventions\tnon-self-selected interventions": {
+  "label": "self-selected interventions vs non-self-selected interventions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprocess writing\tcontrol condition": {
+  "label": "process writing instruction vs control condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstrategy instruction\tcomparison condition": {
+  "label": "strategy instruction vs comparison condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstrategy instruction\tcontrol": {
+  "label": "strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstrategy instruction\tcontrol condition": {
+  "label": "strategy instruction vs control condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvideo-modeled algorithm training to use performance and mental effort for task choice\tnot stated": {
+  "label": "explicit instruction for task choice vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvisualization with instruction to focus on relational and structural information\tvisualization without this direct instruction": {
+  "label": "direct instruction to focus on relational and structural information vs no direct instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twriting instruction overall\tcontrol condition": {
+  "label": "writing instruction vs control condition",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcorrect-response feedback\tlecture": {
+  "label": "correct-response feedback vs lecture",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplanatory feedback\tcorrect-answer feedback": {
+  "label": "explanatory feedback vs correct-response feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplanatory feedback\tcorrect-response feedback": {
+  "label": "explanatory feedback vs correct-response feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplanatory feedback\tlecture": {
+  "label": "explanatory feedback vs lecture",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback valence across three conditions\tthree-condition omnibus comparison": {
+  "label": "feedback valence across three conditions vs three-condition omnibus comparison",
+  "treatment_is_a": true
+ },
+ "feedback-type\tlecture\tcorrect-response feedback": {
+  "label": "correct-response feedback vs lecture",
+  "treatment_is_a": false
+ },
+ "feedback-type\tlecture\tpractice with correct-response feedback": {
+  "label": "correct-response feedback vs lecture",
+  "treatment_is_a": false
+ },
+ "feedback-type\tlecture\tpractice with explanatory feedback": {
+  "label": "explanatory feedback vs lecture",
+  "treatment_is_a": false
+ },
+ "feedback-type\tnegative feedback\tpositive feedback": {
+  "label": "negative feedback vs positive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpractice with explanatory feedback\tpractice with correct-response feedback": {
+  "label": "explanatory feedback vs correct-response feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpredominantly negative feedback\tno feedback": {
+  "label": "negative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpredominantly negative feedback\tpredominantly positive feedback": {
+  "label": "negative feedback vs positive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpredominantly positive feedback\tpredominantly negative feedback": {
+  "label": "negative feedback vs positive feedback",
+  "treatment_is_a": false
+ },
+ "interleaving\tinterleaved dissimilar mathematics problem types\tblocked dissimilar mathematics problem types": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved math problem types\tblocked math problem types": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice of angles, surface area, and probability problems\tblocked practice of angles, surface area, and probability problems": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved similar mathematics problem types\tblocked similar mathematics problem types": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tmore similar interleaved tasks\tless similar interleaved tasks": {
+  "label": "more similar interleaved tasks vs less similar interleaved tasks",
+  "treatment_is_a": true
+ },
+ "media-design\tRepresentational pictures accompanying word problems\tThe same word problems without pictures": {
+  "label": "Representational/informative pictures vs text-only problems",
+  "treatment_is_a": true
+ },
+ "media-design\tdecorative pictures with word problems\tword problems without decorative pictures": {
+  "label": "Decorative pictures vs no decorative pictures",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentational pictures\ttext-only problems": {
+  "label": "Representational/informative pictures vs text-only problems",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentational pictures with demanding word problems\tsame word problems without pictures": {
+  "label": "Representational/informative pictures vs text-only problems",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentational-informative pictures\ttext-only problems": {
+  "label": "Representational/informative pictures vs text-only problems",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmenting condition\tno-segmenting condition": {
+  "label": "Segmenting vs no segmenting",
+  "treatment_is_a": true
+ },
+ "practice-amount\tan exam at the beginning of every class\tonly a few exams for the same material": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tanswer questions before receiving the lesson or passage\treceive the lesson or passage without pretesting": {
+  "label": "problem-first vs lesson-first",
+  "treatment_is_a": true
+ },
+ "prompts\thints that instruction is suboptimal\tno such hints": {
+  "label": "prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tprompting\tno prompting": {
+  "label": "prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tprompting condition\tno-prompting condition": {
+  "label": "prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice\tnot stated": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tdifferential incentives for items\tno differential incentives": {
+  "label": "differential incentives vs no differential incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgoal-driven manipulation present\tno goal-driven manipulation": {
+  "label": "goal-driven manipulation vs no goal-driven manipulation",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced presentations of each bigram\tconsecutive massed presentations of each bigram": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tcued-recall tests\tnot stated": {
+  "label": "cued-recall tests vs no tests",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice pretest\tcued-recall pretest": {
+  "label": "multiple-choice pretests vs cued-recall pretests",
+  "treatment_is_a": true
+ },
+ "test-format\topen-answer knowledge tests\tmultiple-choice knowledge tests": {
+  "label": "open-answer tests vs multiple-choice tests",
+  "treatment_is_a": true
+ },
+ "test-format\ttrue-false questions\tcompetitive multiple-choice questions": {
+  "label": "true-false questions vs multiple-choice questions",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples\theuristics-based search for problem-solving steps": {
+  "label": "worked examples vs problem-solving search",
+  "treatment_is_a": true
  }
 }

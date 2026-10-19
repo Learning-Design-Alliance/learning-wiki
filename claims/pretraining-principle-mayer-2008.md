@@ -36,7 +36,7 @@ Mayer, R. E. (2008). Applying the science of learning: Evidence-based principles
 
 `q3 · review summarising controlled experiments` · `i3 · large effect, median d = 0.85` · `n=5 experiments` · `review · r2`
 
-Controlled experiments adding a pre-lesson giving the name, location, and behavior of each component before narrated animations on brakes, pumps, and geology; the article reports the quoted 5-of-5 result and that "The median effect size was 0.85, which is a large effect."
+Controlled experiments adding a pre-lesson giving the name, location, and behavior of each component before computer-based lessons on brakes, pumps, and geology; the article reports the quoted 5-of-5 result and that "The median effect size was 0.85, which is a large effect."
 
 > "In 5 of 5 experiments, involving computer-based lessons on brakes, pumps, and geology, pretrained learners outperformed nonpretrained learners on transfer tests"
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Collaborative learning opportunities largely disappeared when courses shifted to remote instruction
-description: Collaborative learning opportunities largely disappeared when courses shifted to remote instruction
+title: In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before
+description: In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before
 id: remote-shift-reduced-collaborative-learning
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Collaborative learning opportunities largely disappeared when courses shifted to remote instruction
+# In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
@@ -35,7 +35,7 @@ Means, B., Peters, V., Neisler, J., Wiley, K., & Grifths, R. (2021). Lessons fro
 
 `q1 · i?` · `qualitative · r2`
 
-Qualitative case studies of 29 courses at 10 institutions based on instructor interviews and student interviews/focus groups (92 students). "Few instructors had examples of including collaborative activities during remote learning"; examples include an iClicker pair activity replaced by individual quizzes and an economics professor abandoning class discussions because attendance could not be required.
+Qualitative case studies of courses at 10 institutions that used adaptive courseware (the report describes 29 courses), based on interviews with 29 instructors and interviews or focus groups with 92 volunteer students from 22 of the courses; a convenience sample, not representative of all courses. "Few instructors had examples of including collaborative activities during remote learning"; examples include an iClicker pair activity replaced by individual quizzes and an economics professor abandoning class discussions because attendance could not be required.
 
 > "Few instructors had examples of including collaborative activities during remote learning, even when such activities were a part of the course before the coronavirus."
 

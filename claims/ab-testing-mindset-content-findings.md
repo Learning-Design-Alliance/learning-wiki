@@ -63,7 +63,7 @@ Yeager, David S., Romero, Carissa, Paunesku, Dave, Hulleman, Christopher S., Sch
 
 `q2 · i?` · `causal · r3`
 
-A/B Study 1 finding: explicitly refuting the fixed mindset gave it an "illusion of truth" and entrenched beliefs among strong fixed-mindset holders; a subtler within-person-comparison refutation tested in A/B Study 2 no longer caused reduced effectiveness.
+A/B Study 1 finding: refuting the fixed mindset led to smaller mindset changes than not doing so, and increased post-message fixed-mindset reports among participants with stronger baseline fixed mindsets. The authors offer an "illusion of truth" that might entrench fixed-mindset holders as a possible explanation; it was not tested. A subtler within-person-comparison refutation tested in A/B Study 2 no longer caused reduced effectiveness.
 
 > "the refutation manipulation caused participants who held a stronger fixed mindset at baseline to show an increase in fixed mindset post-message, main effect p = .003, interaction effect p = .01."
 

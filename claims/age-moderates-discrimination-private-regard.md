@@ -50,3 +50,4 @@ Nested SEM comparison constraining regression coefficients equal across middle (
 - [Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3](public-regard-decreases-discrimination-fluctuates.md) — related
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
 - [Perceived racial discrimination at Time 1 is negatively linked to public regard at Time 2 among African American adolescents](discrimination-negatively-predicts-public-regard.md) — related
+- [School level moderates the correlation non-linearly, with grades 7–12 showing the most negative correlation](school-level-nonlinear-moderator.md) — related

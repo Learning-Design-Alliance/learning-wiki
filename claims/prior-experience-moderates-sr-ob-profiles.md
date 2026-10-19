@@ -45,3 +45,4 @@ Subgroup latent profile analyses compared teachers with prior AI literacy experi
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — related
 - [Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence](expanded-pool-composite-still-null.md) — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
+- [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related

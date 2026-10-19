@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The MASCT-by-gender interaction significantly predicted T2 fluency; girls with greater T1 total anxiety showed significantly better T2 fluency, while anxiety level did not impact boys' performance. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
+`q3 i?` The MASCT-by-gender interaction significantly predicted T2 fluency; among girls, greater T1 total anxiety was associated with better T2 fluency, while among boys the slope was not significant (t(148) = −.38, ns). The design is observational and cannot show that anxiety caused either pattern. [→ Grills-Taquechel 2012](#grills-taquechel-2012)
 
 ## Evidence
 

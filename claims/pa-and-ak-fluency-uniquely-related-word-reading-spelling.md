@@ -35,7 +35,7 @@ Kim, Y.-S., Al Otaiba, S., Puranik, C., Sidler Folsom, J., & Gruelich, L. (2013)
 
 `q3 · i?` · `associational · r2`
 
-Structural equation modeling with 242 kindergartners confirmed the foundational role of code-related skills; the model fit was excellent (CFI = .97, TLI = .96, RMSEA = .07, SRMR = .03). Only significance levels were printed, no effect sizes.
+Nonexperimental structural equation model with 242 kindergartners; the model fit was excellent (CFI = .97, TLI = .96, RMSEA = .07, SRMR = .03) and explained about .61 of the variance in word reading and .58 in spelling. The text gives significance levels for the phonological awareness and alphabet knowledge paths, with their standardized coefficients shown only in Figure 1 (not available here); the unique relations are statistical, not causal.
 
 > "As expected, phonological awareness and alphabet knowledge ﬂuency were both uniquely related to word reading and spelling (ps B .002) after accounting for each other, vocabulary knowledge, and letter writing automaticity."
 

@@ -66,3 +66,4 @@ Both measures were independent predictors: "Performance-tested ERA and teacher-o
 - [Emotion regulation variables do not predict overall subjective happiness beyond Big Five traits and gender, and only performance-tested ERA predicts school satisfaction](era-limited-support-affective-wellbeing.md) — related
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
 - [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related
+- [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](emotion-differentiation-linked-regulation-and-understanding.md) — related

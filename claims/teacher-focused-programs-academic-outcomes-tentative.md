@@ -46,3 +46,4 @@ Moderator analysis of the 54 included studies coded for strategy focus; the auth
 - [Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes](social-emotional-focus-largest-contribution.md) — related
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Antecedent-focused emotion regulation strategies are linked to higher-quality teacher-student interactions and better classroom management](antecedent-emotion-regulation-better-interactions.md) — related

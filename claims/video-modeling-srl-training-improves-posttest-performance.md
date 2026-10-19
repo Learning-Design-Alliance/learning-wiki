@@ -49,3 +49,5 @@ Randomized experiment with 122 second-year Dutch secondary students assigned to 
 - [Heuristic and algorithmic training conditions do not differ in posttest problem-solving performance](no-posttest-difference-between-training-conditions.md) — related
 - [Task-selection skills trained with video modeling examples in biology transfer to task selection in a different domain (math)](task-selection-skills-transfer-across-domains.md) — a narrower finding that bears on this claim
 - [Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest](video-modeling-pretest-posttest-gains.md) — related
+- [Training learners with an effort-and-performance algorithm via video modeling improved monitoring accuracy, task selection accuracy, and learning outcomes](effort-performance-algorithm-training-improves-task-selection.md) — a narrower finding that bears on this claim
+- [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related

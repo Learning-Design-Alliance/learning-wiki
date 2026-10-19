@@ -53,3 +53,4 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
 - [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related
+- [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related

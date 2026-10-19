@@ -10,9 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: preparing-problems-for-classroom-instruction-2012
-    resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/16"
-    title: "Preparing Problems for Classroom Instruction. (2012). Improving Mathematical Problem Solving in Grades 4 Through Overview, U.S. Department of Education funded practice-guide presentation. https://ies.ed.gov/ncee/wwc/PracticeGuide/16"
-    author: Preparing Problems for Classroom Instruction
+    title: Preparing Problems for Classroom Instruction 2012
     q: 1
     i: "?"
     kind: theoretical
@@ -33,7 +31,7 @@ sources:
 
 ### Preparing Problems for Classroom Instruction 2012
 
-Preparing Problems for Classroom Instruction. (2012). Improving Mathematical Problem Solving in Grades 4 Through Overview, U.S. Department of Education funded practice-guide presentation. https://ies.ed.gov/ncee/wwc/PracticeGuide/16
+Preparing Problems for Classroom Instruction. (2012, January). Presentation on the practice guide Improving Mathematical Problem Solving in Grades 4 Through 8, U.S. Department of Education funded practice-guide presentation. https://ies.ed.gov/ncee/wwc/PracticeGuide/16
 
 `q1 · i?` · `theoretical · r1`
 

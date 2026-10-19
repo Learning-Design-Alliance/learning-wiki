@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teacher support is the strongest predictor of school belonging
-description: Teacher support is the strongest predictor of school belonging
+title: Teacher support is among the strongest predictors of school belonging
+description: Teacher support is among the strongest predictors of school belonging
 id: teacher-support-strongest-predictor-school-belonging
 aliases: [teacher-support-predicts-student-belonging]
 status: review
@@ -26,14 +26,14 @@ sources:
     rigour: 1
 ---
 
-# Teacher support is the strongest predictor of school belonging
+# Teacher support is among the strongest predictors of school belonging
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 review `r1` · `q2`–`q3`
 
 ## Subclaims
 
-`q3 i?` Across the meta-analysis, teacher support showed the strongest association with school belonging among the ten themes. [→ Allen 2018](#allen-2018)
+`q3 i?` Across the meta-analysis, teacher support and positive personal characteristics were the strongest predictors of school belonging among the ten themes. [→ Allen 2018](#allen-2018)
 
 `q2 i?` Teacher support is one of the strongest predictors of student belonging, and a classroom culture where students feel safe taking intellectual risks is a necessary foundation. [→ teacher-support](#teacher-support)
 

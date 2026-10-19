@@ -35,7 +35,7 @@ Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., L
 
 `q2 · i?` · `causal · r2`
 
-Difference-in-differences analyses across the pre–post survey instruments in the team-level quasi-experiment found no significant relative changes on these outcomes; the article prints no effect sizes for these null findings, so equivalence was not tested.
+Difference-in-differences regressions on the pre–post survey instruments in a small team-randomised study (seven self-selected intact teams of architectural engineering students, randomly assigned at the team level: four GenARch teams, N = 16; three Control teams, N = 11) found no significant relative changes on these outcomes. Table 2 prints the unstandardised DiD estimates in scale points: 0.177 [−0.161, 0.515], p = .305, for attitudes toward collaborative learning; 0.332 [−0.046, 0.710], p = .085, for overall teamwork quality; and 0.381, 0.212 and 0.241 (p = .143 to .337) for the three remaining Team-Q subscales. No standardised effect size is printed, and the wide intervals mean no effect was ruled out.
 
 > "No significant DiD estimates were observed for attitudes toward collaborative learning, overall teamwork quality, or the remaining teamwork subscales."
 

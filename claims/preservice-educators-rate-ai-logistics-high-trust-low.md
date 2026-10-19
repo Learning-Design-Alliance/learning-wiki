@@ -47,3 +47,4 @@ Descriptive analysis of post-interaction Likert reflection items from 131 preser
 - [Epistemic trust in AI-generated content did not differ significantly across the five AI platforms](epistemic-trust-stable-across-platforms.md) — related
 - Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — reports the opposite
+- [Practice with feedback is more efficient than lecture, saving about 24% of instructional time in Study 1 and yielding 2–3 times higher learning rates in Study 2](practice-feedback-more-efficient-than-lecture.md) — related

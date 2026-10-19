@@ -55,3 +55,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)](chatgpt-improves-lesson-planning-efficiency-ratings.md) — related
 - [Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency](preservice-educators-rate-ai-logistics-high-trust-low.md) — related
 - [Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)](assignment-support-highest-rated-ai-companion-function.md)
+- [Practice with feedback is more efficient than lecture, saving about 24% of instructional time in Study 1 and yielding 2–3 times higher learning rates in Study 2](practice-feedback-more-efficient-than-lecture.md) — related

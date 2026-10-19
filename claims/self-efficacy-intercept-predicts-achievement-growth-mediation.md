@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: soland-2019
     resource: "https://doi.org/10.1080/10824669.2020.1787171"
-    title: "Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/ [doi:10.1080/10824669.2020.1787171](https://doi.org/10.1080/10824669.2020.1787171)"
+    title: "Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/ (published as Soland, J., & Sandilos, L. E. (2020), Journal of Education for Students Placed at Risk, [doi:10.1080/10824669.2020.1787171](https://doi.org/10.1080/10824669.2020.1787171))"
     author: Soland, J.
     q: 2
     i: "?"
@@ -25,17 +25,17 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` ELL status has a significant negative indirect effect on math growth via the self-efficacy intercept (-.233 x .153 = -.036, significant at the .01 level) and on reading growth (-.244 x .187 = -.046, also significant at the .01 level); these are computed indirect-effect coefficients, not printed effect size statistics. [→ Soland 2019](#soland-2019)
+`q2 i?` ELL status has a significant negative indirect association with math growth via the self-efficacy intercept (-.233 x .153 = -.036, significant at the .01 level) and on reading growth (-.244 x .187 = -.046, also significant at the .01 level); these are computed indirect-effect coefficients, not printed effect size statistics. [→ Soland 2019](#soland-2019)
 
 ## Evidence
 
 ### Soland 2019
 
-Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/ [doi:10.1080/10824669.2020.1787171](https://doi.org/10.1080/10824669.2020.1787171)
+Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/ (published as Soland, J., & Sandilos, L. E. (2020), Journal of Education for Students Placed at Risk, [doi:10.1080/10824669.2020.1787171](https://doi.org/10.1080/10824669.2020.1787171))
 
 `q2 · i?` · `associational · r2`
 
-Indirect-effect decomposition in the math model (Question 3), significant at the .01 level. The reading model's indirect effect is reported as -.244 x .187 = -.046 standard deviations, also significant at the .01 level, tempering ELLs' reading gains; no d/g/r effect size is printed, so impact is null.
+Indirect-effect decomposition in the math model (Question 3), significant at the .01 level. The reading model's indirect effect is reported as -.244 x .187 = -.046 standard deviations, also significant at the .01 level, tempering ELLs' reading gains. These are products of path coefficients in standard-deviation units, not a d/g/r effect size, so no impact code is assigned (i?); this is not a null finding.
 
 > "The indirect effect can be calculated as -.233 x .153 = -.036. In practical terms, given that being an ELL is negatively associated with self-efficacy in 5th grade, and self-efficacy at that time point is positively associated with growth in math, ELL status has a strong negative indirect association with growth in math estimated at .036 standard deviations."
 

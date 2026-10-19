@@ -1,7 +1,7 @@
 ---
 type: claim
-title: BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate
-description: BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate
+title: Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it
+description: Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it
 id: students-perceive-statistics-as-neutral-subject
 status: review
 generated:
@@ -18,7 +18,7 @@ sources:
     rigour: 2
 ---
 
-# BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate
+# Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
@@ -35,7 +35,7 @@ Koch, M., & Peters Hinton, V. (2025). Voices of Undergraduate Students Taking In
 
 `q2 · i?` · `qualitative · r2`
 
-Across interviews on belonging and inclusivity, a common theme of uncertainty emerged; "Several students described mathematics as a “neutral” subject independent from considerations of culture or inclusivity." Many saw neutrality as appropriate for statistics.
+Across interviews on belonging and inclusivity, a common theme of uncertainty emerged; "Several students described mathematics as a “neutral” subject independent from considerations of culture or inclusivity." Many said the course conveyed a "neutrality" they felt was appropriate for statistics, and some said the inclusion of race and culture was not occurring to a degree they could discern. These are findings across the interviewed students as a whole (70% identified with at least one underrepresented BIPOC group), not findings specific to BIPOC students; the report's BIPOC-specific findings stress valuing inclusion that feels organic and diverse examples.
 
 > "Several students described mathematics as a “neutral” subject independent from considerations of culture or inclusivity."
 

@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` First grade numeral RAN RT showed a trend (p = .0780) and fifth grade numeral RT a near-significant trend (p = .0618) for mathematics; letter RT predicted word reading in first grade (p = .0183) and fifth grade (p = .0087). [→ Li Y 2013](#li-y-2013)
+`q2 i?` Faster first grade numeral RAN RT showed a trend toward higher fifth grade mathematics achievement (p = .0780), while fifth grade numeral RT, entered beyond first grade RT, was not significant (p = .0618); first grade letter RT predicted fifth grade word reading (p = .0183), and fifth grade letter RT predicted fifth grade word reading beyond first grade letter speed (p = .0087). [→ Li Y 2013](#li-y-2013)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ Li Y, Geary DC (2013) Developmental Gains in Visuospatial Memory Predict Gains i
 
 `q2 · i?` · `associational · r2`
 
-Multilevel models including RAN RTs for 177 children. Faster fifth grade letter processing also predicted fifth grade word reading fluency (p = .0087), above and beyond first grade letter speed; the letter-RT-on-slope interaction (p = .0041) indicated letter speed mattered more in earlier grades.
+Multilevel models including RAN RTs for 177 children. Faster first grade letter encoding and articulation predicted higher Word Reading scores at the end of fifth grade (p = .0183). Faster fifth grade letter processing also predicted fifth grade word reading fluency (p = .0087), above and beyond first grade letter speed; the letter-RT-on-slope interaction (p = .0041) indicated letter speed mattered more in earlier grades.
 
 > "there was a trend for speed of numeral processing (p = .0780); children who were faster at encoding and articulating Arabic numerals in first grade had a small advantage over their slower peers in fifth grade."
 

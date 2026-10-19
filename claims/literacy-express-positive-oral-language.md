@@ -73,7 +73,7 @@ Literacy Express. (2010). WWC Intervention Report: Literacy Express. U.S. Depart
 
 `q3 · i?` · `causal · r2`
 
-Randomized controlled trial in 12 Florida full-day preschools (188 children analyzed) comparing Literacy Express to High/Scope on PPVT-III and TOLD-P:3 Grammatic Understanding; no significant differences.
+Randomized controlled trial in 12 Florida full-day preschools (188 children with pretest and posttest data; 186 analyzed on the PPVT-III and 181 on the TOLD-P:3) comparing Literacy Express to High/Scope on PPVT-III and TOLD-P:3 Grammatic Understanding; no significant differences.
 
 > "The analyses showed, and the WWC confirmed, that differences between Literacy Express and the control group curriculum are not statistically significant or substantively important on either of these measures."
 

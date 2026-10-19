@@ -43,4 +43,4 @@ Experiment 2 ANCOVA (topic interest as covariate) on the behavioral take-home te
 
 
 ## Related Claims
--
+- [Interventions that trigger interest have larger effects on affirming motivations and reading comprehension than interventions that do not](interest-triggering-moderator.md) — related

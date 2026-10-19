@@ -44,6 +44,7 @@ The review reports mixed findings for the sound-induced flash illusion in autism
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](aging-multisensory-gains-simple-deficits-complex.md) — related

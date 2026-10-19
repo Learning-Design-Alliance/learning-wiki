@@ -48,3 +48,4 @@ Descriptive correlation analysis of the representative sample of secondary schoo
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — a broader claim this one bears on
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — a broader claim this one bears on
+- [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related

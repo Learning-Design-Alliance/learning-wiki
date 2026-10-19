@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (22 for, 21 mixed) · 48 studies (12 causal, 12 quant-synthesis, 7 review, 5 associational, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 12 of 48 report an effect size · 35 claims rest on one study
+> **Evidence** · 43 claims (22 for, 21 mixed) · 48 studies (12 causal, 12 quant-synthesis, 7 review, 5 associational, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 13 of 48 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 

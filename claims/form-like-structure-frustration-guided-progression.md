@@ -35,7 +35,7 @@ Joarder, S., & Chatti, M. A. (2026). Human-Centred Development of Indicators for
 
 `q2 · i?` · `design · r2`
 
-Think-aloud task evaluation with five new university participants creating an indicator to monitor monthly learning resource access. Participants preferred options for future steps to appear only after the current step was completed, and suggested tooltips for mapping steps.
+Think-aloud task evaluation with five new university participants creating an indicator to monitor monthly learning resource access. Participants preferred options for future steps to appear only after the current step was completed, and three of the five, confused about mapping data columns and method outputs, suggested tooltips for those steps.
 
 > "all participants expressed dissatisfaction with the form-like structure of the Indicator Editor. While the interface displayed the upcoming steps, further options were unresponsive due to the incompletion of previous steps, which led to frustration and caused users to click around aimlessly."
 

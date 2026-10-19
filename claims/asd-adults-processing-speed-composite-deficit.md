@@ -44,6 +44,7 @@ Case-control comparison of 76 verbal adults with ASD and 64 healthy controls, fu
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [The processing speed deficit in adults with ASD appears on each of the three standardized subtests: Trail Making A, Symbol Coding, and Category Fluency](asd-processing-speed-deficit-all-three-subtests.md) — a narrower finding that bears on this claim

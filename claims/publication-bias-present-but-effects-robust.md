@@ -48,3 +48,4 @@ Publication-bias assessment via funnel plots and a three-parameter selection mod
 - [Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)](supplementary-video-strong-benefit.md) — related
 - Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
 - [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
+- [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related

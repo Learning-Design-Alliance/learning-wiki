@@ -43,6 +43,7 @@ A practitioner brief asserts, without cited data, that teens with ASD are "vulne
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills](asd-teens-cyberbullying-targets-missed-cues.md) — related

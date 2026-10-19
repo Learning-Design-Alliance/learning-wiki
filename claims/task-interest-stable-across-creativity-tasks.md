@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience
-description: Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience
+title: Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience
+description: Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience
 id: task-interest-stable-across-creativity-tasks
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience
+# Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Perceived interest in Task 1 directly predicted interest in Task 2 with no mediation, and person-level value of creativity translated fully into task interest regardless of actual task experience. [→ Kamila Urban 2025](#kamila-urban-2025)
+`q2 i?` In an observational SEM, perceived interest in Task 1 was strongly associated with interest in Task 2 (β = 0.52) with no significant mediation through task experience, and person-level value of creativity was associated with Task 1 interest mostly directly (β = 0.49), task experience mediating only 6% of that effect. [→ Kamila Urban 2025](#kamila-urban-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Kamila Urban, Marek Urban. (2025). Metacognition and motivation in creativity: e
 
 `q2 · i?` · `associational · r2`
 
-In the SEM testing H2c, "there was no mediation" of Task 1 interest on Task 2 interest, while the direct effect remained strong; H2a was also not supported, with task experience mediating only 6% of the value-of-creativity effect on Task 1 interest.
+In the SEM testing H2c, "there was no mediation" of Task 1 interest on Task 2 interest, while the direct effect remained strong; H2a was also not supported, with task experience mediating only 6% of the value-of-creativity effect on Task 1 interest. These are associations in a structural model of one sample, not evidence that prior interest causes later interest.
 
 > "the results did not support this hypothesis, as there was no mediation (β = − 0.01, p =.392). The direct effect of perceived interest in Task 1 on perceived interest in Task 2 remained strong (β = 0.52, p <.001)."
 

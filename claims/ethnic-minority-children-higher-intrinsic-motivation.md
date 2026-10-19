@@ -52,3 +52,4 @@ Between-subjects ANOVA on intrinsic motivation. The study found "African-America
 - [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](stigma-awareness-academic-anxiety-intrinsic-motivation-children.md) — related
 - [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](school-belonging-centrality-compensation-no-buffering.md) — related
 - [Perceived group status mediates the ethnic differences in academic anxiety for African-American, Chinese, and Dominican children but not Russians](group-status-mediation-ethnic-academic-anxiety.md) — related
+- [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md) — related

@@ -44,7 +44,7 @@ Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on ins
 
 `q4 · i0 · d=0.18 (below 0.2)` · `quant-synthesis · r2`
 
-Random-effects meta-analysis of 113 achievement effect sizes from 60 causal studies; pooled effect 0.18 SD, random-effect SD 0.18 SD. Many achievement measures were aligned with the coaching programs.
+Random-effects meta-analysis of 113 achievement effect sizes from the 31 of its 60 causal studies that measured achievement; pooled effect 0.18 SD, random-effect SD 0.18 SD. Many achievement measures were aligned with the coaching programs.
 
 > "Across all coaching models, we estimate that coaching raised student performance on standardized tests by 0.18 SD based on effect sizes reported in 31 studies that included measures of students’ academic performance. The associated standard deviation of the estimated random effects is 0.18 SD"
 

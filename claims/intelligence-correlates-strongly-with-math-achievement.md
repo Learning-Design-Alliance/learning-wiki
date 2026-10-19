@@ -47,3 +47,4 @@ These are associations between measured ability and achievement; intelligence ov
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
+- [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related

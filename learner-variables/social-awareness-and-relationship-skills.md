@@ -12,7 +12,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (57 show a difference, 15 mixed, 8 no difference) · 61 studies (15 review, 15 associational, 10 causal, 10 quant-synthesis, 5 qualitative, 5 design, 1 theoretical), `q1`–`q4` · 18 of 61 report an effect size · 76 claims rest on one study
+> **Evidence** · 81 claims (58 show a difference, 15 mixed, 8 no difference) · 62 studies (15 review, 15 associational, 10 causal, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 18 of 62 report an effect size · 77 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -120,6 +120,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work](../claims/four-competencies-predict-knowledge-integration.md) [+M] — learners who differ on it differ in outcomes
 - [The competency–knowledge integration relationships differ between scientific and economic samples: reflexivity is significant only in the scientific sample, while tolerance of ambiguity and uncertainty and perspective taking are significant only in the economic sample](../claims/competency-knowledge-integration-links-differ-by-context.md) [~M] — learners who differ on it differ in outcomes
 - [Interpersonal perceptions affected most students implicitly during feedback provision and most students explicitly during feedback processing](../claims/interpersonal-perceptions-implicit-provision-explicit-processing.md) [+M] — learners who differ on it differ in outcomes
+- [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](../claims/emotion-differentiation-linked-regulation-and-understanding.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -150,3 +150,5 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Active control over the learning experience enhances recognition memory from age 7 into adulthood](active-control-enhances-memory-development.md) — related
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related
 - [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — related
+- [Group testing shows advantages in some studies but mixed results overall for long-term retention and transfer](collaborative-testing-mixed-results.md) — a narrower finding that bears on this claim
+- [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](retrieval-practice-review-50-classroom-experiments.md) — related

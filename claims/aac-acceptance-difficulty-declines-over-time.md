@@ -42,6 +42,9 @@ Item-level descriptive results from the implementation-experience section of the
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
+
 ## Related Claims
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — related
 - [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related

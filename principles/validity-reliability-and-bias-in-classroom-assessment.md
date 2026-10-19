@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 216 claims (86 for, 115 mixed, 15 against) · 165 studies (57 associational, 44 design, 25 review, 18 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 165 report an effect size · 210 claims rest on one study
+> **Evidence** · 222 claims (89 for, 118 mixed, 15 against) · 167 studies (57 associational, 44 design, 25 review, 18 theoretical, 16 causal, 4 quant-synthesis, 3 qualitative), `q1`–`q3` · 13 of 167 report an effect size · 216 claims rest on one study
 
 ## Conditional relationship
 
@@ -202,6 +202,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](../claims/llm-judge-correlates-human-experts-medgame.md) [+W]: an LLM judging machine-generated game content (r .81 and .61 with experts); not the scoring of learners' work, so not used in the AI row (reread 2026-10-19, second pass).
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](../claims/anvil-llm-judge-analogy-screening.md) [~W]: an LLM judging generated teaching analogies (alpha .66–.67 on the full scale); not the scoring of learners' work (reread 2026-10-19, second pass).
 - [Intuition ratings are unaffected by RAPM item difficulty, indicating stable strategy across items](../claims/intuition-unaffected-rapm-difficulty.md) [~W]: (not about this page) metacognitive experience while solving reasoning items (reread 2026-10-19, second pass).
+- [Cronbach's Alphas of knowledge tests vary widely, with a 90% prediction interval of (0.35, 0.96)](../claims/knowledge-test-alpha-prediction-interval.md) [+W] — attached 2026-10-19 from Peter A. Edelsbrunner et al. (2025), which proposed "Judge knowledge test internal consistency against empirically based expectations rather than fixed Alpha cut-offs".
+- [Subjective cognitive load questionnaires show satisfactory internal consistency across the four most frequently used instruments in experimental multimedia learning research](../claims/cognitive-load-questionnaires-satisfactory-internal-consistency.md) [+W] — attached 2026-10-19 from Felix Krieglstein et al. (2022), which proposed "Use multi-item multidimensional cognitive load scales rather than single-item measures to enable reliability estimation and differentiation of load types".
 
 ## Objective and learner-valued goal
 
@@ -287,6 +289,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [CPS graduates' grades are fairly consistent across high schools for students with similar test scores, challenging the myth that an A means less at lower-performing schools](../claims/grades-consistent-across-cps-high-schools.md) [+W]
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](../claims/single-administration-theoretical-reliability-vectors.md) [~W]
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](../claims/swcpm-arm-high-correlation-grades-1-5.md) [~W]
+- [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](../claims/meta-analytic-alpha-knowledge-tests-085.md) [~W]
+- [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](../claims/knowledge-test-alpha-domain-differences.md) [~W]
+- [Alpha of knowledge tests is substantially related to the number of items in the test](../claims/knowledge-test-alpha-test-length.md) [+W]
+- [Reliability estimates of cognitive load questionnaires did not differ between educational settings, instructional domains, presentation modes, or number of scale points](../claims/cognitive-load-reliability-invariant-across-moderators.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

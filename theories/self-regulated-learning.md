@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 179 claims (86 for, 85 mixed, 8 against) · 141 studies (50 associational, 41 causal, 15 review, 13 quant-synthesis, 8 qualitative, 7 design, 7 theoretical), `q1`–`q4` · 35 of 141 report an effect size · 164 claims rest on one study
+> **Evidence** · 185 claims (88 for, 89 mixed, 8 against) · 143 studies (50 associational, 41 causal, 17 review, 13 quant-synthesis, 8 qualitative, 7 design, 7 theoretical), `q1`–`q4` · 35 of 143 report an effect size · 170 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -226,6 +226,12 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Teachers' SRL&T implementation efficacy depended on developing SRL understanding and autonomy in designing SRL-enriched modules](../claims/teacher-srlt-efficacy-depends-on-understanding-and-autonomy.md) [~W]
 - [Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2](../claims/transformative-feedback-attenuates-joy-regulation-link.md) [~W]
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](../claims/two-srl-technology-profiles-high-and-low.md) [+W]
+- [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](../claims/generative-ai-offloading-suppresses-srl-agency.md) [~W] — attached 2026-10-19 from Joni Lämsä et al. (2026), which proposed "Human-AI interaction as shared regulation: offloading metacognitive monitoring to AI and onloading metacognitive control to learners".
+- [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](../claims/effort-appraisals-negative-correlation-monitoring.md) [+W] — attached 2026-10-19 from Tina Seufert (2020), which proposed "Effort Monitoring and Regulation (EMR) framework linking self-regulated learning with mental effort and cognitive load".
+- [Training learners with an effort-and-performance algorithm via video modeling improved monitoring accuracy, task selection accuracy, and learning outcomes](../claims/effort-performance-algorithm-training-improves-task-selection.md) [+W] — attached 2026-10-19 from Tina Seufert (2020), which proposed "Effort Monitoring and Regulation (EMR) framework linking self-regulated learning with mental effort and cognitive load".
+- [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](../claims/suboptimal-design-hints-trigger-costly-self-management.md) [~W] — attached 2026-10-19 from Tina Seufert (2020), which proposed "Self-regulation as a function of resources and imposed cognitive load: an inverted-u relationship with task difficulty".
+- [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](../claims/srl-ssrl-behaviors-predict-eda-simulation-stages.md) [~W]
+- [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](../claims/mind-wandering-dual-role-srl-regulatory-strategy.md) [~W]
 
 ## The evidence by question
 

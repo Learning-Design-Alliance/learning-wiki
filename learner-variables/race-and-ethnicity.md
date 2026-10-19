@@ -12,7 +12,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (151 show a difference, 25 mixed, 5 no difference) · 134 studies (81 associational, 21 review, 13 causal, 7 qualitative, 7 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 134 report an effect size · 179 claims rest on one study
+> **Evidence** · 182 claims (152 show a difference, 25 mixed, 5 no difference) · 135 studies (81 associational, 22 review, 13 causal, 7 qualitative, 7 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 135 report an effect size · 180 claims rest on one study
 
 ## How to read this page
 
@@ -217,6 +217,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](../claims/ethnicity-moderates-social-academic-relations.md) [+M] — an instructional effect differs by group
 - [Family income and race/ethnicity were associated with occupational therapy intensity, with higher-income children receiving more intensive OT](../claims/ei-ot-intensity-income-and-race-disparities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Impacts of the DC reforms on NAEP math scores were largest for Black students](../claims/dc-reforms-naep-math-impacts-largest-black-students.md) [+W]
+- [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](../claims/attitude-achievement-paradox-minority-youth.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

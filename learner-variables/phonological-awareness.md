@@ -12,7 +12,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (37 show a difference, 11 mixed, 19 no difference) · 42 studies (18 associational, 17 causal, 3 review, 2 quant-synthesis, 2 design), `q1`–`q3` · 14 of 42 report an effect size · 65 claims rest on one study
+> **Evidence** · 67 claims (37 show a difference, 11 mixed, 19 no difference) · 42 studies (19 associational, 16 causal, 3 review, 2 quant-synthesis, 2 design), `q1`–`q3` · 14 of 42 report an effect size · 65 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.

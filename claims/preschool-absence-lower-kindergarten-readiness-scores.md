@@ -38,7 +38,7 @@ sources:
 `q3 i?` Among students with similar incoming skills and backgrounds, students who missed 10 percent or more of school performed significantly worse on the math and letter recognition portions of the KRT than students with the best attendance. [→ Ehrlich 2014](#ehrlich-2014)
 `q3 i?` For pre-literacy outcomes, once children's beginning-of-year letter recognition skills were taken into account, there was no significant relationship between attendance and end-of-year scores. [→ Ehrlich 2014 (2)](#ehrlich-2014-2)
 
-`q3 i?` The more days of preschool a four-year-old student misses, the lower their scores on the math, letter recognition, and social-emotional portions of the Kindergarten Readiness Tool at year's end, controlling for entering skills. [→ Ehrlich 2014](#ehrlich-2014)
+`q3 i?` Controlling for entering skills and background, missing more preschool remained significantly associated with lower year-end scores on the math and letter recognition portions of the Kindergarten Readiness Tool (significant from 10 percent absence, against the best attenders), and on the social-emotional portion only for students missing at least 20 percent of school. [→ Ehrlich 2014](#ehrlich-2014)
 
 ## Evidence
 
@@ -48,7 +48,7 @@ Ehrlich, S. B., Gwynne, J. A., Pareja, A. S., Allensworth, E. M., Moore, P., Jag
 
 `q3 · i?` · `associational · r2`
 
-Analysis of 1,265 four-year-olds in the CPS Preschool Longitudinal Study (2010-11), using Woodcock-Johnson III fall scores as controls and the Kindergarten Readiness Tool at year end. Descriptively, best attenders answered 88 percent of math items correctly versus 75 percent for students missing at least 20 percent of school.
+Analysis of 1,265 four-year-olds in the CPS Preschool Longitudinal Study (2010-11), using Woodcock-Johnson III fall scores as controls and the Kindergarten Readiness Tool at year end. After controls, the social-emotional difference was significant only for students missing at least 20 percent of school, compared with those who missed the least. Descriptively, best attenders answered 88 percent of math items correctly versus 75 percent for students missing at least 20 percent of school.
 
 > "Among students with similar incoming skills and backgrounds, students who missed 10 percent or more of school—those considered chronically absent—still performed significantly worse on the math and letter recognition portions of the KRT than students who had the best attendance."
 

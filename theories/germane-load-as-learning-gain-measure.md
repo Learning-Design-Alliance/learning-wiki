@@ -17,7 +17,7 @@ sources:
 # Germane load operationalized as learning effects measured by test-score increases
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (2 for, 3 mixed, 2 against) · 7 studies (4 causal, 3 design), `q2`–`q3` · 3 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (2 for, 3 mixed, 3 against) · 8 studies (4 causal, 3 design, 1 quant-synthesis), `q2`–`q3` · 3 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test problems. As the article states, "germane load assigned in the learning phase was evaluated based on the increase of the test scores." This measurement approach treats pre- to post-test gains as the index of germane load, and the article uses it to distinguish two types of germane load related to intrinsic load.
@@ -45,6 +45,7 @@ The article operationalizes germane load as learning effects: the portion of wor
 - [Students' overall biology knowledge showed only a slight, statistically non-significant increase](../claims/biology-knowledge-non-significant-slight-increase.md) [-W]
 - [Students demonstrated significant improvement in genetics knowledge from pre-test to post-test after playing Geniventure](../claims/geniventure-significant-pre-post-genetics-improvement.md) [+W]
 - [Students improved significantly from pre- to post-test in both topics, with a medium effect in experimental design and a small effect in graphing](../claims/pre-post-gains-inquiry-competencies.md) [~W]
+- [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](../claims/germane-load-measurement-problems.md) [-W]
 
 ## Related Theories
 - 

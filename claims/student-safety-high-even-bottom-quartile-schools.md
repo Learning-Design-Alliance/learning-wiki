@@ -29,8 +29,6 @@ sources:
 
 `q2 i?` Nearly 85 percent of students in bottom quartile schools rate their experience mostly safe and none report feeling not safe, a pattern similar to top quartile schools where more than 80 percent feel mostly safe. [→ Sebring 1995](#sebring-1995)
 
-`q2 i?` Nearly 80 percent of students in bottom-quartile schools rate their experience as mostly safe, and in top-quartile schools more than 90 percent do so. [→ Sebring 1995](#sebring-1995)
-
 ## Evidence
 
 ### Sebring 1995
@@ -53,6 +51,8 @@ Sebring, P. A., Bryk, A. S., Luppescu, S., & Thum, Y. M. (1995). Charting Reform
 Survey report summary of the four-item Safety scale (safety in classes, hallways and bathrooms, outside around school, and traveling between home and school) for students in bottom-quartile schools, with printed percentages of nearly 80, about 20, and a very small number.
 
 > "Even in the bottom quartile schools, nearly 80 percent of the students rate their experience mostly safe (scores of 6-10). About 20 percent indicate their schools are somewhat safe (scores of 3-5), and a very small number of students report their schools are somewhat unsafe (scores of 1-2)."
+
+Subclaim that page carried for this entry, moved here 2026-10-19 because its figures are the Asbury report's, not the Prairie report's cited above: `q2 i?` Nearly 80 percent of students in bottom-quartile schools rate their experience as mostly safe, and in top-quartile schools more than 90 percent do so.
 -->
 
 ## Discussion

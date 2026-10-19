@@ -113,6 +113,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery](sequence-practice-easy-to-difficult-item-types.md)
 - [Lecturers should implement online practice tests with automatically generated individual corrective item feedback and encourage steady participation](implement-online-practice-tests-with-corrective-feedback.md)
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
+- [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

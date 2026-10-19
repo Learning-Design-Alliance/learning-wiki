@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose"
-description: "Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose"
+title: "One Black male educator reported that Admiral Squad participation raised his confidence, sense of belonging, and sense of purpose"
+description: "One Black male educator reported that Admiral Squad participation raised his confidence, sense of belonging, and sense of purpose"
 id: admiral-squad-confidence-beloning-impact
 status: review
 generated:
@@ -17,7 +17,7 @@ sources:
     rigour: 1
 ---
 
-# Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose
+# One Black male educator reported that Admiral Squad participation raised his confidence, sense of belonging, and sense of purpose
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
@@ -33,7 +33,7 @@ Iloh, C. (2024, February). Recruitment and Retention: Impact of Pilot Solutions 
 
 `q2 · i?` · `qualitative · r1`
 
-Qualitative case-study interview from the Admiral Squad case study: a 22-year-old Black male educator and former veteran described gains in confidence, belonging, and purpose. The article reports no quantitative outcome measures.
+Qualitative case-study interview from the Admiral Squad case study: a 22-year-old Black male educator and former veteran described gains in confidence, belonging, and purpose. The article reports no quantitative outcome measures. It is one participant's self-report, so it cannot show that the programme raised these for Black male educators generally.
 
 > "When I joined Admiral Squad and [its] other Black male educators, my confidence shot up, and I had a sense of belonging. That confidence improved my leadership, and I saw results in my coaching."
 

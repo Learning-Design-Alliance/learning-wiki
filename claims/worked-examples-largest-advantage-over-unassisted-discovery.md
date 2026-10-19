@@ -33,7 +33,7 @@ sources:
 
 Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Discovery-Based Instruction Enhance Learning? Journal of Educational Psychology, 103(1), 1–18. https://doi.org/10.1037/a0021017
 
-`q3 · i2 · medium effect, d=0.63 for worked examples vs unassisted discovery` · `quant-synthesis · r2`
+`q3 · i2 · medium effect, d = -0.63 for unassisted discovery vs worked examples (negative favours worked examples)` · `quant-synthesis · r2`
 
 Comparison-condition moderator analysis in the unassisted-discovery meta-analysis, Q(5) = 32.31, p < .001. Unassisted discovery fared worse against direct teaching (d = -0.29), feedback (d = -0.46), worked examples (d = -0.63), and explanations provided (d = -0.28); the quote shows worked examples beat direct teaching in magnitude.
 

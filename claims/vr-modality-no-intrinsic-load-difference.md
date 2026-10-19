@@ -53,3 +53,4 @@ ANCOVA on intrinsic cognitive load measured with the Differentiated Cognitive Lo
 - [Visual-only text also yields higher comprehension than audio-visual text in immersive VR](vr-reverse-modality-effect-comprehension.md) — related
 - [Bayesian analyses provide strong evidence that the modality effect reverses in VR for recall, comprehension and germane load](vr-reverse-modality-bayesian-evidence.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Reliability estimates of cognitive load questionnaires did not differ between educational settings, instructional domains, presentation modes, or number of scale points](cognitive-load-reliability-invariant-across-moderators.md) — related

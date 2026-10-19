@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms
-description: Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms
+title: In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms
+description: In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms
 id: no-fitness-executive-symptom-changes
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms
+# In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
@@ -44,7 +44,7 @@ Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & 
 
 `q3 · i?` · `causal · r2`
 
-Graded maximal ergospirometry before and after the intervention showed no group change in VO2peak; equivalence was not tested.
+Graded maximal ergospirometry before and after the intervention showed no significant group effect on VO2peak, and the authors report that fitness remained unchanged in both groups; equivalence was not tested.
 
 > "There was no significant effect of group for VO2peak: F(1, 36) = 0.40, p = 0.531, group difference = −0.83, 95% CI = [−3.49, 1.83], d = −0.14, see Fig. 2."
 
@@ -54,7 +54,7 @@ Rogge, A.-K., Röder, B., Zech, A., Nagel, V., Hollander, K., Braumann, K.-M. & 
 
 `q3 · i?` · `causal · r2`
 
-The Stroop effect was reliably elicited (congruent faster than incongruent, t(134) = 6.37, p < 0.001), but training did not change the interference score; equivalence was not tested.
+The Stroop effect was reliably elicited (congruent faster than incongruent, t(134) = 6.37, p < 0.001), but the groups did not differ significantly on the interference score at posttest; this is a single Stroop measure of executive function, so it does not speak to executive functions generally, and a nonsignificant difference with a wide interval does not show that training has no effect (equivalence was not tested).
 
 > "There was no significant effect of group on the Stroop interference score at posttest, F (1, 33) = 0.01, p = 0.911, group difference = −3.47, 95% CI = [−66.39, 59.44], d = −0.03 (see Fig. 3)."
 

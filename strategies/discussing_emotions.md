@@ -63,10 +63,12 @@ Emotions are causally linked to achievement through their effects on attention, 
 7. **Close the loop.** Use exit reflections to track whether emotional patterns change over time, and adjust instruction accordingly.
 
 ## Related Strategies
+
 - [Check-ins](../elements/check-in.md) — the lightweight daily routine that operationalizes emotion discussion
 - [Active listening](active-listening.md) — the teacher skill that makes emotional disclosure safe and productive
 - [Building empathy](../principles/building-empathy.md) — perspective-taking discussions extend the same skill from self to others
 - [Achievable micro-goals](achievable_micro-goals.md) — a common regulatory response to the frustration surfaced in emotion discussions
+- [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 
 ## Examples
 - **RULER approach** ([Yale Center for Emotional Intelligence](https://ei.yale.edu)) — classrooms use a Mood Meter, a co-created Charter, and regular "Meta-Moments" to make emotion discussion a standing routine; validated in school-based studies.

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes"
-description: "Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes"
+title: "In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science"
+description: "In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science"
 id: deeper-app-use-linked-stronger-attitude-changes
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes
+# In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Interview data indicated families who explored the app most often and most deeply reported stronger self-reported changes in joint media engagement and science, while confused families did not try the tools. [→ Dominguez 2021](#dominguez-2021)
+`q2 i?` Interview data indicated families who explored the app most often and most deeply reported stronger self-reported changes in joint media engagement and science, while families confused about the app's purpose did not seem to have tried its strategies or tools. The pattern is descriptive and does not show that more use caused the changes. [→ Dominguez 2021](#dominguez-2021)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and 
 
 `q2 · i?` · `causal · r1`
 
-Analysis of pre/post parent interviews and case examples of two bilingual families showing self-reported gains in confidence engaging in science talk. The report states "Families who explored the app most often and more deeply also reported stronger self-reported changes in joint media engagement and science," while families confused about the app's purpose did not try its strategies.
+Analysis of pre/post parent interviews and case examples of two bilingual families showing self-reported gains in confidence engaging in science talk. The report states "Families who explored the app most often and more deeply also reported stronger self-reported changes in joint media engagement and science," while families confused about the app's purpose "do not seem to have tried out the strategies or tools." This is an interview pattern, not a test of whether more use caused the changes.
 
 > "Families who explored the app most often and more deeply also reported stronger self-reported changes in joint media engagement and science"
 

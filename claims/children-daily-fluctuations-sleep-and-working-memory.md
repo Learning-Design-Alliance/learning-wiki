@@ -48,3 +48,4 @@ Micro-longitudinal ambulatory assessment in which 110 third- and fourth-graders 
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [Children with lower average working memory performance show stronger within-person coupling between nightly sleep quality and morning performance](lower-performers-stronger-sleep-quality-coupling.md)
+- [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related

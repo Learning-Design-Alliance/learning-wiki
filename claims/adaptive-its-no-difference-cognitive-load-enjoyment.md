@@ -14,7 +14,7 @@ sources:
     title: "Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics. Computers and Education Open 11. https://doi.org/10.1016/j.caeo.2026.100420"
     author: "Sibley, L., Berner, T., & Schmalfeldt, T."
     q: 3
-    i: "?"
+    i: 0
     kind: causal
     rigour: 3
 ---
@@ -22,10 +22,10 @@ sources:
 # Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3`
+> **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` Linear regressions revealed no significant condition effects on mental effort, subjective difficulty, or enjoyment after a 30-minute tutoring session. [→ Sibley 2026](#sibley-2026)
+`q3 i0` Linear regressions revealed no significant condition effects on mental effort, subjective difficulty, or enjoyment after a 30-minute tutoring session (partial η² .00, .01 and .00); a non-significant result does not show the effect is zero. [→ Sibley 2026](#sibley-2026)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics. Computers and Education Open 11. https://doi.org/10.1016/j.caeo.2026.100420
 
-`q3 · i?` · `causal · r3`
+`q3 · i0 · negligible, partial η² ≤ .01, not significant` · `causal · r3`
 
-Linear regressions with condition as independent variable and the three self-report measures as dependent variables in the N = 132 field experiment. The article reports "no significant effects of condition" with the printed F and p values; no standardized effect size is printed, so impact is null.
+Linear regressions with condition as independent variable and the three self-report measures as dependent variables in the N = 132 field experiment. The article reports "no significant effects of condition", with partial η² of .00, .01 and .00. These are non-significant estimates near zero, not a demonstration that the adaptive system has no impact on these measures.
 
 > "Results revealed no significant effects of condition on students' mental effort, F(1, 127) = 0.01, p = .938, η²p = .00; subjective difficulty, F(1, 127) = 1.59, p = .210, η²p = .01; and enjoyment, F(1, 126) = 0.41, p = .525, η²p = .00."
 

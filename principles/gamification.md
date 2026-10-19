@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (13 for, 14 mixed, 2 against) · 40 studies (15 causal, 11 review, 10 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 9 of 40 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (13 for, 16 mixed, 2 against) · 41 studies (15 causal, 11 review, 10 quant-synthesis, 3 associational, 1 design, 1 theoretical), `q1`–`q4` · 9 of 41 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -194,6 +194,8 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Adding a narrative theme to the Cache 17 game did not improve transfer posttest performance](../claims/narrative-theme-cache17-no-transfer-gain.md) [-W]
 - [Evidence of small-study effects exists for cognition and motivation, but trim-and-fill adjustment leaves the moderate motivating effect essentially unchanged](../claims/publication-bias-small-study-effects-games-stem.md) [~W]
 - [Single noncollaborative, noncompetitive play shows the largest learning effects; single competitive play shows no benefit relative to nongame conditions](../claims/single-noncompetitive-play-largest-effects.md) [~W]
+- [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](../claims/psd-two-factor-structure.md) [~W]
+- [Both PSD dimensions explain variance in study engagement and subjective well-being beyond core self-evaluations and PsyCap, with designing competition contributing most to engagement](../claims/psd-engagement-wellbeing-incremental.md) [~W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

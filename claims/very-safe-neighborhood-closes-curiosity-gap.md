@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children
-description: Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children
+title: In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods
+description: In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods
 id: very-safe-neighborhood-closes-curiosity-gap
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# Living in a very safe neighborhood eliminates the curiosity gap between lower-resourced and higher-resourced children
+# In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
@@ -35,7 +35,7 @@ Shah PE, Hirsh-Pasek K, Spinelli M, Ozor J, Weeks HM, McCaffery H and Kaciroti N
 
 `q3 · i?` · `associational · r3`
 
-Post hoc pairwise comparisons of mean curiosity by neighborhood safety within SES tertiles (Figure 1), on the weighted ECLS-B sample. Lower- vs higher-resourced children in fairly safe neighborhoods differed (Mlower = −0.19 vs Mhigher = 0.11, p = 0.003); in very safe neighborhoods mean curiosity did not vary across SES tertiles.
+Post hoc pairwise comparisons of mean curiosity by neighborhood safety within SES tertiles (Figure 1), on the weighted ECLS-B sample. Lower- vs higher-resourced children in fairly safe neighborhoods differed (Mlower = −0.19 vs Mhigher = 0.11, p = 0.003); in very safe neighborhoods, and in the small group of unsafe ones (about 7% of the sample), mean curiosity did not vary across SES tertiles. The analysis is observational, with post hoc comparisons: it shows where the gap is and is not found, not that making a neighborhood safer would close it.
 
 > "lower-resourced children demonstrated curiosity below the mean if they lived in “unsafe” and “fairly safe” neighborhoods, but demonstrated curiosity above the meanif they lived in a “very safe” neighborhood, with curiosity levels commensurate with children who were from middle-resourced or higher- resourced environments."
 

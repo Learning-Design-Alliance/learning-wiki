@@ -139,3 +139,4 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [The collective intelligence of groups is higher when members have greater social sensitivity](collective-intelligence-social-sensitivity.md) — related
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related
 - [Learners' knowledge gains focused particularly on interactions required for solving information pooling tasks, such as sharing information](gains-limited-to-information-pooling-interactions.md) — related
+- [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](cooperative-learning-more-effective-than-competitive-structures.md) — a broader claim this one bears on

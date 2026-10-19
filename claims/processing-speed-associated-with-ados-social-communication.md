@@ -44,6 +44,7 @@ Bivariate correlational analysis among 74 adults with ASD linking the processing
 
 ## Learner Variables
 - [Processing Speed](../learner-variables/processing-speed.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures](asd-adults-processing-speed-composite-deficit.md) — related

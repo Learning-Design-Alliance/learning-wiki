@@ -27,7 +27,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (16 for, 14 mixed) · 46 studies (15 causal, 9 quant-synthesis, 6 review, 6 theoretical, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 46 report an effect size · 20 claims rest on one study
+> **Evidence** · 31 claims (16 for, 15 mixed) · 47 studies (15 causal, 10 quant-synthesis, 6 review, 6 theoretical, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 47 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](../claims/reader-insight-conditions-contrasting-benefits.md) [~W]
 - [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](../claims/struggling-adult-writers-limited-planning-revision.md) [~W]
 - [Output Driven Input Enabled Hypothesis](../theories/output-driven-input-enabled-hypothesis.md) [+M]
+- [Process writing yields a meaningful but not statistically significant effect (g = 0.51) on US ELL students' writing](../claims/process-writing-nonsignificant-us-ell-writing.md) [~W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

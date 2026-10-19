@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not"
-description: "Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not"
+title: "Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent"
+description: "Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent"
 id: cross-linguistic-transfer-skill-specific
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not
+# Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`

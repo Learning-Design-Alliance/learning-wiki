@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low
-description: The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low
+title: Across countries, the association between school autonomy and students' digital skills is conditional on teacher support, which the authors read as autonomy compensating where teacher support is low
+description: Across countries, the association between school autonomy and students' digital skills is conditional on teacher support, which the authors read as autonomy compensating where teacher support is low
 id: autonomy-teacher-support-compensatory-interaction-digital-skills
 status: review
 generated:
@@ -9,9 +9,9 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 sources:
-  - id: popa-2022
+  - id: popa-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27391"
-    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)"
+    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2026). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)"
     author: "Popa, D. M., Oprea, S.-V., & Bâra, A."
     q: 2
     i: "?"
@@ -19,23 +19,23 @@ sources:
     rigour: 2
 ---
 
-# The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low
+# Across countries, the association between school autonomy and students' digital skills is conditional on teacher support, which the authors read as autonomy compensating where teacher support is low
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In contexts with lower teacher support, the effect of autonomy on digital skills is stronger; in high-support systems the marginal effect of autonomy is reduced. [→ Popa 2022](#popa-2022)
+`q2 i?` In country-level PISA data, the association of school autonomy with digital skills is stronger where teacher support is lower and weaker where it is high; the authors suggest, without testing, that autonomy may compensate for low teacher support. The data are observational and cannot show that autonomy causes digital skills. [→ Popa 2026](#popa-2026)
 
 ## Evidence
 
-### Popa 2022
+### Popa 2026
 
-Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)
+Popa, D. M., Oprea, S.-V., & Bâra, A. (2026). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)
 
 `q2 · i?` · `associational · r2`
 
-Interaction analysis of school autonomy and teacher support in shaping digital skills, reported for PISA 2022 (Figure 16). The article describes a conditional relationship with no printed interaction statistic or effect size.
+Observational interaction analysis of school autonomy and teacher support in relation to digital skills, using country-level PISA 2022 data (Figure 16). The article describes a conditional association, with no printed interaction statistic or effect size, and offers the compensatory reading as a suggestion ("may act as"); a country-level association cannot show that autonomy causes digital skills.
 
 > "In contexts with lower levels of teacher support, the effect of autonomy is stronger, suggesting that autonomy may act as a compensatory mechanism by enabling schools to adapt learning practices in the absence of strong institutional guidance."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking"
-description: "Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking"
+title: "More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking"
+description: "More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking"
 id: teacher-support-benefits-conditional-on-autonomy-balance
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking
+# More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`

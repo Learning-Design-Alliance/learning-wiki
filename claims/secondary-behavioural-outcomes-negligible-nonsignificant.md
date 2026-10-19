@@ -48,3 +48,4 @@ The review's multilevel meta-analysis of secondary behavioural outcomes reports 
 - Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct — related
 - [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — reports the opposite
 - [Self-regulation interventions showed positive associations with distal outcomes: academic achievement in 11 of 13 studies (85%), substance abuse in 4 of 5 (80%), and conduct disorders, social skills, depression, behavioral problems, and school suspensions in all reporting studies.](sr-interventions-positive-distal-outcomes-academic-substance-conduct.md) — related
+- [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — reports the opposite

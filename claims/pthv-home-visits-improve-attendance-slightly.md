@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)
-description: Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)
+title: Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)
+description: Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)
 id: pthv-home-visits-improve-attendance-slightly
 aliases: [pthv-home-visit-improves-attendance-es-002, home-visit-slightly-improves-attendance-dcps]
 status: review
@@ -28,7 +28,7 @@ sources:
     rigour: "?"
 ---
 
-# Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)
+# Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i0` negligible

@@ -35,7 +35,7 @@ Wolf, M.S., Curtis, L.M., Wilson, E.A.H., et al. (2012). Literacy, Cognitive Fun
 
 `q3 · i?` · `associational · r3`
 
-Analysis of performance on common health tasks in the LitCog study (n = 882 older adults), globally assessed and categorized into five task domains including comprehending print information and dosing and organizing medication. The article reports the association without a printed effect size.
+Analysis of performance on common health tasks in the LitCog study (n = 882 older adults), globally assessed and categorized into five task domains including comprehending print information and dosing and organizing medication. The article reports regression estimates for the health literacy association, which was substantially reduced once cognitive abilities entered the model (without cognitive abilities: β = −28.9, 95% CI −31.4 to −26.4; with them: β = −8.5, 95% CI −10.9 to −6.0); the text does not say on what scale these coefficients are expressed, so no impact code is assigned.
 
 > "Lower health literacy and weaker fluid and crystallized abilities were associated with poorer performance on healthcare tasks."
 

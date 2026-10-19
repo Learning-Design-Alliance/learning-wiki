@@ -48,3 +48,4 @@ A 2x8 mixed ANOVA on absolute accuracy (η2 = 0.043 interaction) decomposed into
 - [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md) — related
 - [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
 - [The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester](quiz1-kahoot-moderation-competitiveness.md) — related
+- [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related

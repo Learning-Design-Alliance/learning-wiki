@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` In the school-level RCT, FAST showed no statistically significant program effects on parental social support, parent-child relationship building, parent-school engagement, the home environment, student academic learning, or student social and behavioral development. [→ Bos 2018](#bos-2018)
+`q3 i?` In the school-level RCT, the report summarises FAST as having no meaningful, enduring effects on parental social support, parent-child relationship building, parent-school engagement, the home environment, student academic learning, or student social and behavioral development; two isolated small effects (more family conflict in Cohort 2 at the end of Grade 1, .26 SD; higher parent-teacher Joining in Cohort 1 at the end of kindergarten, .28 SD) did not recur and may be spurious. [→ Bos 2018](#bos-2018)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ Bos, J., Spier, E., Bandeira de Mello, V., González, R., & Huang, F. (2018). In
 
 `q3 · i?` · `causal · r2`
 
-Cluster RCT with 60 Philadelphia elementary schools randomized to FAST or control (30 each), 1,396 kindergarten students across two cohorts, analyzed with two-level models nesting students in schools. The report found "no statistically significant program effects of FAST" on any key outcome domain.
+Cluster RCT with 60 Philadelphia elementary schools randomized to FAST or control (30 each), 1,396 kindergarten students across two cohorts, analyzed with two-level models nesting students in schools. The report found "no meaningful, enduring effects (positive or negative) of FAST" on the key outcomes in its logic model. Its domain results do include two isolated, statistically significant small effects, which it calls possibly spurious: more family conflict (CPRS Conflict subscale) for Cohort 2 at the end of Grade 1 (effect size .26 SD), and a higher PTRS Joining score for Cohort 1 at the end of kindergarten (.28 SD), which disappeared in Grades 1 and 2 and was not found for Cohort 2.
 
-> "we found no statistically significant program effects of FAST on parental social support, parent-child relationship building, parent-school engagement, the home environment, student academic learning, or student social and behavioral development."
+> "For the larger RCT, we found no meaningful, enduring effects (positive or negative) of FAST on any of the key outcomes included in the logic model underlying the intervention. Specifically, we found no statistically significant program effects of FAST on parental social support, parent-child relationship building, parent-school engagement, the home environment, student academic learning, or student social and behavioral development."
 
 ## Discussion
 

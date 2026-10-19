@@ -237,3 +237,5 @@ This study found that the seductive details effect was not uniform: readers with
 - [Interest-evoking text revision strategies raised fourth and sixth graders' recall of a history passage but not acquisition of abstract, general information](interest-evoking-strategies-recall-history-passage.md) — related
 - [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — a narrower finding that bears on this claim
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)
+- [Reading passages without intent to learn was classified as rest because participants were not informed of a later test](incidental-reading-classified-as-rest.md) — related
+- [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](suboptimal-design-hints-trigger-costly-self-management.md) — related

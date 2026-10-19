@@ -40,6 +40,9 @@ Results reported alongside Figures 1 and 2, which plot the distribution of perfo
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Autistic and general-population job seekers do not differ significantly on the Disconumbers and Shapedance game-based assessment package](no-group-difference-disconumbers-shapedance-package.md) — related
 - [A small significant difference favors general-population candidates on the Digitspan and Shapedance package](small-difference-digitspan-shapedance-package.md) — reports the opposite

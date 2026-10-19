@@ -61,6 +61,9 @@ Follow-up logistic regression with ADHD subtypes (n = 743) re-ran the model with
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Inattention is the only psychopathology symptom dimension associated with slow processing speed, and it does not explain the associations with ASD or psychosis](inattention-dimension-associated-slow-ps.md) — reports the opposite
 - [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md) — related

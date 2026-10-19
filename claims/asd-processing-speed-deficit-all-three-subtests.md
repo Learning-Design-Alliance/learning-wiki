@@ -82,6 +82,7 @@ ANCOVA of Category Fluency: Animal Naming items in 60 s in the same case-control
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures](asd-adults-processing-speed-composite-deficit.md) — a broader claim this one bears on

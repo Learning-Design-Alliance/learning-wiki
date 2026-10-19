@@ -49,3 +49,4 @@ Analysis of yearly reading and math gain scores by grade cohort, 1994-2001, repo
 - [CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked](cps-learning-gains-rose-through-1996-may-have-peaked-by-1999.md) — related
 - [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
 - Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant — related
+- [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related

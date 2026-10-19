@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.17583/redimat.2021.6778"
     title: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
     author: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D."
-    q: 2
+    q: 1
     i: "?"
     kind: theoretical
     rigour: 2
@@ -22,10 +22,10 @@ sources:
 # Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
-`q2 i?` Serhan's (2015) study of students' conceptual and procedural knowledge of the definite integral found, coinciding with Orton (1983), that procedural skill coexists with limited conceptual understanding. [→ Burgos 2021](#burgos-2021)
+`q1 i?` As reported in the background of a theoretical analysis of the definite integral, Serhan's (2015) study of students' conceptual and procedural knowledge of the definite integral found, coinciding with Orton (1983), that procedural skill coexists with limited conceptual understanding. [→ Burgos 2021](#burgos-2021)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
 
-`q2 · i?` · `theoretical · r2`
+`q1 · theoretical analysis, reporting another study's finding` · `i? · no effect size` · `theoretical · r2`
 
-The review reports this result, citing Serhan (2015), who investigated students' conceptual and procedural knowledge using Hiebert and Lefevre's (1986) cognitive framework and Tall and Vinner's (1981) concept image/definition notions, asking which knowledge dominates and how students handle negative areas.
+Burgos et al. is an onto-semiotic analysis of the definite-integral concept and of a mathematical text, not an empirical study of students. Its background section reports this result secondhand, citing Serhan (2015), who investigated students' conceptual and procedural knowledge using Hiebert and Lefevre's (1986) cognitive framework and Tall and Vinner's (1981) concept image/definition notions, asking which knowledge dominates and how students handle negative areas.
 
 > "The results coincide with those of Orton (1983) in that students can use procedural knowledge and solve integration problems but have a limited understanding of the integration of basic concepts."
 

@@ -81,4 +81,6 @@ The review's single physical activity intervention (Abós et al., 2021, quantita
 
 
 ## Related Claims
--
+- [Gratitude PPIs were subcategorised into letters, lists, induction, and action variants during toolbox selection](gratitude-ppi-subcategories-selection.md) — related
+- [Cognitive reappraisal protects teachers from emotional exhaustion and burnout, while expressive suppression and surface acting are negatively linked to teaching effectiveness](reappraisal-protective-suppression-harmful-teachers.md) — related
+- [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — related

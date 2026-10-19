@@ -42,6 +42,9 @@ Narrative review of clinical literature. Cognitive inflexibility in ASD "is asso
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory — related

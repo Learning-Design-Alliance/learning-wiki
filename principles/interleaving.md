@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (13 for, 15 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 15 report an effect size · 25 claims rest on one study
+> **Evidence** · 30 claims (13 for, 17 mixed) · 16 studies (7 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 16 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,11 @@ The designer's objective is usually correct choice among kinds at a later time, 
 ## What would revise this model?
 
 The expectation should weaken if comparisons with comparable learners find no advantage for mixing on a delayed, mixed test where the kinds are confusable, or if the advantage disappears in further studies that hold spacing constant. If new syntheses find benefits for expository texts or words, the material rows above should change. If the blocked-then-mixed start loses to mixing from the first item for novices, step 2 of the default design should go. If school studies in subjects other than mathematics find no benefit, or studies of high-ability or advanced learners confirm a cost, the learner rows should narrow where interleaving is recommended.
+
+## Claims
+
+- [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](../claims/interleaving-benefit-low-skilled-students.md) [~W]
+- [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](../claims/discriminative-contrast-distinct-effects.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

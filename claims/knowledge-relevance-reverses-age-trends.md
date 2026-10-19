@@ -45,3 +45,4 @@ Review presenting a contrast of age trends in analytical reasoning versus crossw
 ## Related Claims
 - [Cross-sectional age relations show monotonic decline in fluid cognition (age-reasoning correlation about −0.40) but stability followed by decline for acquired knowledge](age-fluid-decline-knowledge-stable.md) — related
 - [Letter fluency shows no age-group difference in ANOVA, but older adults outperform young adults once processing speed and IQ are controlled](letter-fluency-age-advantage-emerges-after-speed-control.md) — related
+- [Bottom-quartile SES students show greater progress than top-quartile students when young, but the pattern reverses at older ages](ses-quartile-gains-reverse-with-age.md) — related

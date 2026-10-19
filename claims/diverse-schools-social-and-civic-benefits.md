@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q2 i?` A meta-analysis of more than 500 studies found increased intergroup contact reduces prejudice, negative attitudes, and stereotypes across groups. [→ George 2021](#george-2021)
-`q2 i?` Exposure to students from different backgrounds in schools leads to improved critical thinking and problem-solving skills and increased adult civic participation. [→ George 2021 (2)](#george-2021-2)
+`q2 i?` Exposure to students from different backgrounds in schools leads to improved critical thinking and problem-solving skills; the report also lists increased civic participation among the benefits of school integration. [→ George 2021 (2)](#george-2021-2)
 
 ## Evidence
 
@@ -54,7 +54,7 @@ George, J., & Darling-Hammond, L. (2021). Advancing integration and equity throu
 
 `q2 · i?` · `review · r2`
 
-The report's narrative review states this benefit of attending diverse schools, along with increased civic participation and increased likelihood of living in integrated neighborhoods and holding jobs in integrated workplaces as adults. No effect sizes are printed.
+The report's narrative review states this benefit of attending diverse schools, and elsewhere lists among the benefits of school integration "increased civic participation in a diverse global economy and increased likelihood of living in integrated neighborhoods and holding jobs in integrated workplaces as adults." No effect sizes are printed.
 
 > "research shows that students’ exposure to other students from different backgrounds and the new ideas and challenges that such exposure brings leads to improved critical thinking and problem-solving skills."
 

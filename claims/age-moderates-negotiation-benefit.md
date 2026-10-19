@@ -54,3 +54,4 @@ Cross-group comparison across the two samples in the Discussion: high school par
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) — a broader claim this one bears on
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](negotiation-frequency-correlates-vocabulary-high-school.md) — related
 - [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related
+- [School level moderates the correlation non-linearly, with grades 7–12 showing the most negative correlation](school-level-nonlinear-moderator.md) — related

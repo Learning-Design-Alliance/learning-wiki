@@ -64,6 +64,7 @@ Overview of the Lorah et al. (2015) review of 17 empirical studies on handheld c
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
 
 ## Related Claims
 - [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — related

@@ -50,3 +50,4 @@ Analytical derivation (Section III) solving the α-process differential equation
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
+- [Alpha of knowledge tests increases after interventions from pretest to posttest](knowledge-test-alpha-increases-after-intervention.md) — related

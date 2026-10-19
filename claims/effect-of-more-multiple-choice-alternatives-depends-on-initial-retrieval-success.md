@@ -72,3 +72,4 @@ The chapter reports the other half of this pattern: "when initial retrieval succ
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
 - [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md)
 - Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related
+- [Competitive true-false questions can produce benefits similar to competitive multiple-choice questions for previously asked and related questions](competitive-true-false-similar-benefits.md) — related

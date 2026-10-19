@@ -50,3 +50,4 @@ The report's synthesis of 12 independently conducted meta-analyses of school-bas
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — possibly the same claim (merge candidate)
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related
+- [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — a narrower finding that bears on this claim

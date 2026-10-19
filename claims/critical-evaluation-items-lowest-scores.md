@@ -33,7 +33,7 @@ Elizondo-García ME, Hernández-De la Cerda H, Benavides-García IG, Caratozzolo
 
 `q2 · i?` · `associational · r1`
 
-Item-level survey analysis in the Results section. Although both courses required cross-checking ChatGPT outputs with at least two academic sources, the critical-thinking items on independent judgment and skepticism "also scored lower," and the authors conclude the integration "did not strongly foster critical evaluation or validation skills."
+Item-level survey analysis in the Results section. Although students were explicitly instructed to validate ChatGPT's outputs using formal sources (the biology activity required cross-checking with at least two academic sources), the critical-thinking items on independent judgment and skepticism "also scored lower," and the authors conclude the integration "did not strongly foster critical evaluation or validation skills."
 
 > "Q12, which asked whether the activity encouraged students to look for information from other sources, scored 8.62 ± 2.20 in “Fundamentals of Biological Systems” and 8.43 ± 2.31 in “Mathematics and Data Science for Decision Making”. These scores are notable, given that students were explicitly instructed to validate ChatGPT’s outputs using formal sources."
 

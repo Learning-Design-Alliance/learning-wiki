@@ -35,7 +35,7 @@ Coppens, L. C., Hoogerheide, V., Snippe, E. M., Flunger, B., & van Gog, T. (2019
 
 `q2 · i2` · `causal · r2`
 
-ANCOVA on posttest perceived competence in the 2×2 design: "Students in the EPEP condition" reported greater perceived competence than PEPE students, F(1, 122) = 7.71, p = .006, η²p = .06; no interaction with giftedness.
+2 × 2 ANOVA (giftedness × task sequence) on posttest perceived competence, with 126 primary students quasi-randomly assigned to sequence (matched on gender and a standardized math score): "Students in the EPEP condition" reported greater perceived competence than PEPE students, F(1, 122) = 7.71, p = .006, η²p = .06; no interaction with giftedness.
 
 > "There was also a main effect of task sequence, F(1, 122) = 7.71, p = .006, /u1D7022
 p = .06. Students in the EPEP condition (M = 2.97, SD = 0.59) reported greater levels of perceived competence than students in the PEPE condition (M = 2.70, SD = 0.49)"

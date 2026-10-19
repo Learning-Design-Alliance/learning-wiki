@@ -9,17 +9,17 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 sources:
-  - id: crumley-2015
+  - id: crumley-2007
     resource: "https://doi.org/10.48550/arxiv.0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
+    title: "Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
     kind: design
     rigour: 2
-  - id: crumley-2015-2
+  - id: crumley-2007-2
     resource: "https://doi.org/10.48550/arxiv.0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
+    title: "Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Most lab groups get good agreement between their leading constants for fixed solar wind speed versus fixed number density data, showing reasonably consistent estimates of magnetopause location. [→ Crumley 2015](#crumley-2015)
-`q2 i?` Student estimates and the simulation's own magnetopause calculation often do not agree to within uncertainties, attributed by the authors to systematic issues in how students define the magnetopause location. [→ Crumley 2015 (2)](#crumley-2015-2)
+`q2 i?` Most lab groups get good agreement between their leading constants for fixed solar wind speed versus fixed number density data, showing reasonably consistent estimates of magnetopause location. [→ Crumley 2007](#crumley-2007)
+`q2 i?` Student estimates and the simulation's own magnetopause calculation often do not agree to within uncertainties, attributed by the authors to systematic issues in how students define the magnetopause location. [→ Crumley 2007 (2)](#crumley-2007-2)
 
 ## Evidence
 
-### Crumley 2015
+### Crumley 2007
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
@@ -48,13 +48,13 @@ Instructor-reported outcome of the empirical-fit portion of the lab, in which st
 
 > "Most groups get good agreement between their leading constants for the fixed solar wind speed versus fixed number density data, showing that the students are reasonably consistent in their estimates of magnetopause location."
 
-### Crumley 2015 (2)
+### Crumley 2007 (2)
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
+Crumley, Palczewski, and Kaster. (2007). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
-Instructor-reported comparison in the same empirical-fit section between student-defined magnetopause locations and the simulation's own calculated location. The authors attribute the disagreement to "systematic issues in how the students are defining the magnetopause location". No effect size is printed.
+Instructor-reported comparison in the same empirical-fit section between student-defined magnetopause locations and the simulation's own calculated location. The authors attribute the disagreement to "systematic issues in how the students are defining the magnetopause location". The abstract summarises the lab overall as giving "reasonable agreement" between students' results and model predictions; the disagreement beyond uncertainties is reported in the full text's empirical-fit section, for the comparison with the simulation's own calculated location. No effect size is printed.
 
 > "On the other hand, their results often do not agree to within uncertainties for the simulation versus student estimates of the magnetopause location. These discrepancies are typically caused by systematic issues in how the students are defining the magnetopause location."
 

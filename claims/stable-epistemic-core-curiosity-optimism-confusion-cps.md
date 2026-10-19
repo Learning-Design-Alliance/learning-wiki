@@ -53,3 +53,4 @@ ONA of retrospective cued-recall affect reports from 9 groups completing a situa
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
+- [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related

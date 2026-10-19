@@ -54,7 +54,7 @@ Cooperative Integrated Reading and Composition®. (2010). WWC Intervention Repor
 
 `q2 · i?` · `quant-synthesis · r1`
 
-WWC review of the Jewell (1994) quasi-experiment reporting a non-significant effect on the Bass Academic Skills Sample Reading Proficiency subtest; no effect size is printed, so impact is null.
+WWC review of the Jewell (1994) quasi-experiment reporting a non-significant effect on the Bass Academic Skills Sample Reading Proficiency subtest; the effect was not statistically significant and, by WWC calculations, not large enough to be substantively important, which does not show it was zero. No effect size is printed, so impact is coded `i?`.
 
 > "Jewell (1994) did not find statistically significant effects of Cooperative Integrated Reading and Composition ® on the Reading Proficiency sub-test of the Bass Academic Skills Sample for students in grades 2 through 6. According to WWC calculations, the effect was not large enough to be considered substantively important accord-ing to WWC criteria."
 

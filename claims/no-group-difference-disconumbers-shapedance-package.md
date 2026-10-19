@@ -40,6 +40,9 @@ One-way ANOVA comparing game-based assessment scores of autistic candidates (n =
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Score distributions on both game packages appear roughly equal across autistic and general-population candidates](score-distributions-roughly-equal-both-packages.md) — related
 - [A small significant difference favors general-population candidates on the Digitspan and Shapedance package](small-difference-digitspan-shapedance-package.md) — reports the opposite

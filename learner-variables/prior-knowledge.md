@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (80 show a difference, 41 mixed, 17 no difference, 3 unmarked) · 109 studies (34 causal, 22 review, 15 associational, 14 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 109 report an effect size · 126 claims rest on one study
+> **Evidence** · 143 claims (81 show a difference, 42 mixed, 17 no difference, 3 unmarked) · 111 studies (35 causal, 22 review, 15 associational, 15 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 111 report an effect size · 128 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -188,6 +188,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](../claims/practice-effect-varies-by-prior-achievement.md) [~M] — an instructional effect differs with it
 - [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](../claims/expertise-reversal-evolutionary-interpretation.md) [+W] — an instructional effect differs with it
 - [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](../claims/prior-knowledge-sequence-relationship-not-straightforward.md) [~M] — an instructional effect differs with it
+- [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](../claims/organized-knowledge-enhances-functional-intelligence.md) [+W] — learners who differ on it differ in outcomes
+- [Prior knowledge and intervention condition moderate repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](../claims/prior-knowledge-and-prompting-moderate-load-and-interest.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

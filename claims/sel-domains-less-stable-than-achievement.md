@@ -54,3 +54,4 @@ The study's abstract reports a comparison of stability of academic achievement r
 - [Within-person deviations from math and self-efficacy growth trajectories at a given time point are not related across constructs](within-person-deviations-unrelated-across-constructs.md) — related
 - Quantitative inter-skill influence analysis shows conceptually similar skills exert the strongest mutual influence in CLST predictions — related
 - [Self-control shows substantial rank-order stability in early adolescence, yet situational influences still matter](self-control-rank-order-stability-with-situational-change.md) — related
+- [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related

@@ -88,6 +88,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Active Learning](../principles/active-learning.md) — in-class quizzing (clickers) doubles as an engagement mechanism [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 - [Give students minimal direct instruction that retrieval practice beats restudying and that items should be recalled correctly three times before being dropped](minimal-retrieval-practice-strategy-instructions.md)
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
+- [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

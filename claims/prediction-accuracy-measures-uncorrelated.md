@@ -43,4 +43,4 @@ Correlational analysis within the intervention study comparing the two monitorin
 
 
 ## Related Claims
--
+- [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related

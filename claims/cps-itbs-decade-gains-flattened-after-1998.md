@@ -54,3 +54,4 @@ Trend analysis of ITBS grade-equivalent scores by age cohort from 1990 to 2001, 
 - [CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked](cps-learning-gains-rose-through-1996-may-have-peaked-by-1999.md) — related
 - [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](spanish-foundational-skills-fall-to-spring-gain-pattern.md) — related
+- [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related

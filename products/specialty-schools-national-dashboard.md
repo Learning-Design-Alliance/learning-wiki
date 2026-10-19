@@ -18,7 +18,7 @@ sources:
 # Specialty Schools National Dashboard
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (10 associational), `q1`–`q2` · 0 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 7 studies (7 associational), `q1`–`q2` · 0 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 An interactive NWEA data-visualization dashboard that reports MAP Growth achievement and growth patterns for U.S. private and public charter schools across seasons, subjects, school types, and demographic groups.

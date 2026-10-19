@@ -17,7 +17,7 @@ sources:
 # Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the perceived value of creativity shaped task interest, which remained stable over time and sustained engagement, the article recommends classroom environments that nurture this value. Drawing on intervention research in other domains, it states that "fostering the perceived value of creativity can be especially effective when students experience the joy of task resolution through repeated practice, recognize the relevance of tasks for their lives and future goals, engage in novel and varied tasks, and are guided by teachers who demonstrate enthusiasm for creative problem-solving."

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning
-description: After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning
+title: After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts
+description: After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts
 id: post-lesson-flexible-perspective-switching
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning
+# After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`

@@ -12,7 +12,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (54 show a difference, 17 mixed, 13 no difference, 2 unmarked) · 58 studies (22 associational, 19 causal, 8 review, 6 quant-synthesis, 3 theoretical), `q1`–`q4` · 15 of 58 report an effect size · 83 claims rest on one study
+> **Evidence** · 87 claims (54 show a difference, 18 mixed, 13 no difference, 2 unmarked) · 59 studies (22 associational, 19 causal, 8 review, 6 quant-synthesis, 4 theoretical), `q1`–`q4` · 15 of 59 report an effect size · 84 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -121,6 +121,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Scaffolding enabled students' inhibition ability to contribute to learning reasoning from irrelevant events: inhibition predicted posttest scores only under the experimental condition](../claims/scaffolds-enable-inhibition-contribution.md) [~W] — learners who differ on it differ in outcomes
 - [Gifted primary students report higher need for cognition, perceived competence and perceived autonomy than nongifted students](../claims/gifted-students-higher-nfc-competence-autonomy.md) [+M] — learners who differ on it differ in outcomes
 - [Starting with an example strongly benefits first practice problem performance, with a larger effect for gifted students](../claims/first-practice-problem-sequence-interaction.md) [+M] — an instructional effect differs with it
+- [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](../claims/organized-knowledge-enhances-functional-intelligence.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

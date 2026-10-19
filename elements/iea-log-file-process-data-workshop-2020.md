@@ -17,7 +17,7 @@ sources:
 # Three-day interactive webinar workshop on analyzing log file and process data from international large-scale assessments in education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The page announces a professional development event offered by the IEA together with DIPF and ZIB: "a three-day workshop on analyzing log file and process data from international large-scale assessments in education". The event was delivered as "an interactive webinar and online video conference on June 17th – 19th 2020" and is tagged under the topic of school and test engagement. It serves researchers learning to analyze behavioral process data from large-scale educational assessments.

@@ -136,6 +136,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - *Are learners with disabilities excluded from school by discipline more often than their peers?* [Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%](../claims/disability-suspension-disparity.md) [+M]
 
 ## Related Learner Variables
+- [Autism Spectrum Disorder](autism-spectrum-disorder.md) — autism on its own page, with the claims about autistic learners
 - [Access](access.md) — sensory and motor impairments, assistive technology
 - [Attention](attention.md) — ADHD and attentional control
 - [Working Memory](working-memory.md) — a frequent mechanism in specific learning disabilities

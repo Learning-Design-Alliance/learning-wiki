@@ -29,7 +29,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (18 for, 16 mixed) · 32 studies (13 quant-synthesis, 6 causal, 6 design, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 13 of 32 report an effect size · 26 claims rest on one study
+> **Evidence** · 35 claims (19 for, 16 mixed) · 33 studies (13 quant-synthesis, 6 causal, 6 design, 5 review, 2 theoretical, 1 associational), `q1`–`q4` · 13 of 33 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -138,6 +138,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
 - [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](../claims/equal-participation-across-collaboration-conditions.md) [~W]
 - [Cooperative learning with Think-Pair-Share and RoundTable produces significantly larger critical thinking gains than traditional teaching in 4th graders](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
+- [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](../claims/cooperative-learning-more-effective-than-competitive-structures.md) [+W]
 
 ## Related Patterns
 

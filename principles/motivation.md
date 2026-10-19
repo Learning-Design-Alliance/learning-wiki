@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (48 for, 30 mixed, 1 against) · 79 studies (22 review, 18 causal, 10 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 79 report an effect size · 65 claims rest on one study
+> **Evidence** · 82 claims (50 for, 31 mixed, 1 against) · 81 studies (23 review, 19 causal, 10 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 81 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -199,6 +199,8 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - Four statements carried without claim links from the merged growth-mindset page, read 2026-10-19 against the claims they restate, which are already in the model: "Growth mindset interventions produce small average achievement effects, strongest for at-risk and low-SES students" [+M] and "Large-scale trial effects concentrate among lower-achieving students" [~M] (see the growth-mindset and peer-norms claims in step 8); "Mindset interventions reliably change beliefs and goal orientations; achievement effects depend on contextual support" [~M] (the teacher-context and peer-norms claims); "Process-focused feedback supports motivation and persistence more than trait-focused praise" [~M] (the praise claims in step 2).
 - [Retention Programs Meeting All Three Needs Higher Persistence](../claims/retention-programs-meeting-all-three-needs-higher-persistence.md) [+M]
 - [Choice Autonomy Rarely Tested In Retention Programs](../claims/choice-autonomy-rarely-tested-in-retention-programs.md) [+M]
+- [Students with positive perceptions of the instrumentality of schoolwork for future goals are more motivated, use more effective learning strategies, and perform better in school](../claims/positive-instrumentality-enhances-motivation-learning.md) [+W] — attached 2026-10-19 from Phalet et al. (2004), which proposed "Foster internal regulation along with positive perceptions of instrumentality to make future goals motivate achievement in multicultural classrooms"; tests this page's relationship.
+- [Perceived instrumentality enhances student motivation only for students with a positive attitude toward their personal future; for students with a negative future outlook, high utility has the opposite effect](../claims/instrumentality-future-attitude-interaction.md) [+W] — attached 2026-10-19 from Phalet et al. (2004), which proposed "Foster internal regulation along with positive perceptions of instrumentality to make future goals motivate achievement in multicultural classrooms"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -211,6 +213,10 @@ For example, an adult learner in an evening English class may want to talk with 
 The matching rule should be dropped if comparisons show that a move aimed at the component a learner reports as low does no better than the same move given to everyone, or than the move aimed at another component. It should weaken if self-reports of expectancy, value, ownership and belonging cannot be told apart in practice, or do not predict which move helps. The cautions about rewards and generic messages should change if expected tangible rewards for taking part turn out not to lower later voluntary engagement in real courses, or if brief mindset messages show effects well beyond a tenth of a grade point without strategy support. If motivation raised by these moves raises learning on aligned measures whatever the task, the condition "only through a task that demands thinking" should be dropped. Do not protect the model by calling every failure "the wrong component" after the fact.
 
 Starting, effort, voluntary persistence, enjoyment, reported motivation and learning of the target are separate claims. The present evidence does not establish how to diagnose the low component reliably, how long a raised level lasts, or how much motivation is enough.
+
+## Claims
+
+- [Feedback valence does not directly affect willingness to invest effort, but has significant indirect effects via challenge and threat pointing in opposite directions (all four experiments)](../claims/feedback-willingness-indirect-challenge-threat.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

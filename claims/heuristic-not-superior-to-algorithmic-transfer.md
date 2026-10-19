@@ -45,3 +45,4 @@ Mann–Whitney U test comparing the heuristic (n = 37) and algorithmic (n = 42) 
 ## Related Claims
 - [Task-selection skills trained with video modeling examples in biology transfer to task selection in a different domain (math)](task-selection-skills-transfer-across-domains.md) — related
 - [Heuristic and algorithmic training conditions do not differ in posttest problem-solving performance](no-posttest-difference-between-training-conditions.md) — related
+- [Training learners with an effort-and-performance algorithm via video modeling improved monitoring accuracy, task selection accuracy, and learning outcomes](effort-performance-algorithm-training-improves-task-selection.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
-description: Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
+title: Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
+description: Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
 id: multimedia-expressive-vocabulary-environmentally-disadvantaged
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
+# Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
@@ -35,7 +35,7 @@ Takacs, Z. K., Swart, E. K., & Bus, A. G. (2015). Benefits and Pitfalls of Multi
 
 `q3 · i1` · `quant-synthesis · r2`
 
-Meta-analytic subgroup analysis of expressive vocabulary among disadvantaged children, printed effect size g+ = 0.35. There was a significant effect for disadvantaged children overall (g+ = 0.27, p = .02) but not for nondisadvantaged children (g+ = 0.05, p = .78); the between-group difference was not significant, Qbetween(1) = 1.10, p = .30.
+Meta-analytic subgroup analysis of expressive vocabulary among disadvantaged children, comparing technology-enhanced stories as a whole (multimedia and/or interactive features) with traditional story sharing; printed effect size g+ = 0.35. This subgroup estimate is not reported for multimedia-only stories, whose expressive-vocabulary effect is reported only overall. There was a significant effect for disadvantaged children overall (g+ = 0.27, p = .02) but not for nondisadvantaged children (g+ = 0.05, p = .78); the between-group difference was not significant, Qbetween(1) = 1.10, p = .30.
 
 > "A significant effect was found for children who were at risk because of environmental factors like low parental education, g+ = 0.35, k = 10, SE = 0.15, 95% CI = [0.06, 0.65], p = .02."
 

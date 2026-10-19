@@ -22,7 +22,7 @@ sources:
 # Rapid-guessing detection using item response-time thresholds
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (4 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (3 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 This framework identifies disengaged item responses on computer-based tests using response times—the seconds between item presentation and answer. Responses are "often termed “rapid guessing” because responses are, when effectively detected, correct at a rate no better than chance." Thresholds separate engaged from disengaged responses (e.g., 10% of average item response time, maximum 10 seconds), and student engagement is summarized as the proportion of non-rapid responses. The paper applies this framework to flag disengaged test events (rapid guessing on 10% or more of items) and re-estimate achievement for evaluation metrics.

@@ -49,3 +49,4 @@ Median test comparing heuristic (M = 2.70, SD = 1.05) and algorithmic (M = 2.69,
 - [Heuristic task-selection training is not more effective for transfer than algorithmic training](heuristic-not-superior-to-algorithmic-transfer.md) — related
 - [Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase](video-modeling-srl-training-improves-posttest-performance.md) — related
 - [Task-selection skills trained with video modeling examples in biology transfer to task selection in a different domain (math)](task-selection-skills-transfer-across-domains.md) — related
+- [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related

@@ -52,3 +52,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](pretesting-enhances-memory-tested-video.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
+- [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related

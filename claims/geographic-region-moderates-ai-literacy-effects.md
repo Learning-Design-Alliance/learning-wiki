@@ -53,3 +53,4 @@ Moderator analysis in the three-level meta-analysis testing five regions. Europe
 - GAI research in education is geographically concentrated in Europe, the United States, and Asia — related
 - AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation — related
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
+- [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related

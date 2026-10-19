@@ -61,6 +61,7 @@ Multimodal analysis is one of three methodological advances the report highlight
 - [Interactional Ethnography and dialogic intervisualizing](interactional-ethnography-and-dialogic-intervisualizing.md)
 - [Lonchamp's three-level integration of dialog, knowledge, and action analysis for dual-interaction CSCL environments](lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac.md)
 - [Multi-angle video capture for human–material analysis](multi-angle-video-capture-for-humanmaterial-analysis.md)
+- [Eye-tracking research paradigm for studying professional vision and teacher expertise](eye-tracking-research-paradigm-for-studying-professional-vision-and-teacher-expertise.md)
 
 ## Key Sources
 - Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad
