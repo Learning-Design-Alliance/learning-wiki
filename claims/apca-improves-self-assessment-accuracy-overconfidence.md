@@ -72,3 +72,4 @@ Descriptive statistics across the four groups (Table 1) show the APCA group's lo
 - [Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision](pst-overconfidence-fraction-explanation-calibration.md) — related
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — related
+- [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](practice-feedback-improves-metacognitive-calibration.md) — related

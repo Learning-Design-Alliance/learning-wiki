@@ -63,3 +63,4 @@ The authors' own review of scaffolding frameworks: an examination of 14 publishe
 
 ## Related Claims
 - [The field moved toward step-based problem solving and increased support for collaboration, while focusing on domain-level knowledge](aied-step-based-domain-focus-collaboration-growth.md) — related
+- [Most theorized individual difference constructs have been examined in sourcing research, but several motivation and personality constructs remain unstudied](individual-difference-constructs-examined-sourcing.md) — related

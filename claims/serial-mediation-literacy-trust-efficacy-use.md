@@ -44,7 +44,7 @@ Peichen Hu. (2026). Psychological predictors of continued ChatGPT use among univ
 
 `q3 · i?` · `associational · r2`
 
-Monte Carlo confidence intervals (20,000 draws) in the latent-variable SEM of 450 existing ChatGPT users tested the serial pathway; the printed estimate was "indirect eﬀect = 0.07, 95% CI (0.04, 0.10)". No standardised effect size is printed for this indirect path.
+Monte Carlo confidence intervals (20,000 draws) in the latent-variable SEM of 450 existing ChatGPT users tested the serial pathway; the printed estimate was "indirect eﬀect = 0.07, 95% CI (0.04, 0.10)". Table 3 notes that the estimates are standardised, so 0.07 is a standardised indirect effect; it is not a group-difference effect size and no `i` is coded from it.
 
 > "The serial indirect path from AI literacy through trust and then self-eﬃcacy to continued use was also signiﬁcant [indirect eﬀect = 0.07, 95% CI (0.04, 0.10); H7c], consistent with a speciﬁcation in which trust and self-eﬃcacy function as ordered rather than parallel links"
 
@@ -54,7 +54,7 @@ Peichen Hu. (2026). Psychological predictors of continued ChatGPT use among univ
 
 `q3 · i?` · `associational · r2`
 
-Same SEM, mediation analysis section: total indirect effect "0.28, 95% CI (0.21, 0.36)" with a significant direct effect, described by the authors as partial, complementary mediation. No standardised effect size is printed for the total indirect effect.
+Same SEM, mediation analysis section: total indirect effect "0.28, 95% CI (0.21, 0.36)" with a significant direct effect, described by the authors as partial, complementary mediation. The paper reports its structural estimates as standardised (Table 3); this total indirect effect is an indirect-path estimate, not a group-difference effect size, so no `i` is coded from it.
 
 > "The total indirect eﬀect was substantial [0.28, 95% CI (0.21, 0.36)], and becausethedirecteﬀectremainedsigniﬁcant,trustandself-eﬃcacy jointlyaccountedforpartial,complementarymediation."
 

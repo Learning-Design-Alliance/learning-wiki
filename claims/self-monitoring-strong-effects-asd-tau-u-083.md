@@ -43,6 +43,7 @@ Meta-analysis of 16 single-subject studies with 28 unique participants; the arti
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
 
 ## Related Claims
 

@@ -43,7 +43,7 @@ Page, K., Merritt Johnson, A., Franklin, K., Carter, B., Galindo, M., Solorzano,
 
 `q2 · i?` · `qualitative · r3`
 
-Reflexiones de participantes HSE tras ver vídeos introductorios de cuatro tecnologías LER. Citas incluyen preocupaciones como "¿Está segura nuestra información?" y dudas sobre si "¿Aceptarán los empleadores estos resultados concretos?". Estos retos cuestionan afirmaciones de vendedores sobre la equidad de los LER.
+Reflexiones de participantes HSE tras ver vídeos introductorios de tecnologías LER; en el primer taller de co-diseño se les presentaron por vídeo dos de las cuatro tecnologías (Teacher Wallet, MilGears, LearnCard y Career Wallet). Citas incluyen preocupaciones como "¿Está segura nuestra información?" y dudas sobre si "¿Aceptarán los empleadores estos resultados concretos?". Estos retos cuestionan afirmaciones de vendedores sobre la equidad de los LER.
 
 > "Los consejeros participantes compartieron más de 72 retos percibidos al utilizar los LER que presentamos durante las transiciones. Los agrupamos en 22 categorías, con los 15 retos principales mostrados en el Apéndice C."
 

@@ -49,3 +49,4 @@ A 2x8 mixed ANOVA on bias scores from prediction judgments across eight Kahoots 
 - [In Experiment 1, the feedback group showed significantly lower absolute (unsigned) metacognitive bias than the no-feedback group at both pre-task and post-task](feedback-reduces-absolute-metacognitive-bias-exp1.md) — related
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related
 - [The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester](quiz1-kahoot-moderation-competitiveness.md) — related
+- [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related

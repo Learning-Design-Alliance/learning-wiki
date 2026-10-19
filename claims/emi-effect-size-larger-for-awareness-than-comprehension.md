@@ -45,7 +45,7 @@ Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology I
 
 `q2 · i1` · `causal · r1`
 
-Blake's modified gain ratio computed from the experimental group's pre/post RCT means (7.63 to 15.73, test score 20): the printed effect size is "(1.06) which is slightly below Blake’s minimum accepted value is (1.2)"; the article concludes EMI has little effect size on reading comprehension.
+Blake's modified gain ratio computed from the experimental group's pre/post RCT means (7.63 to 15.73, test score 20): the printed effect size is "(1.06) which is slightly below Blake’s minimum accepted value is (1.2)"; the article concludes EMI has little effect size on reading comprehension. Participants were 98 first-year secondary school students in two intact groups of 49; the article's own text calls them "EFL English majors".
 
 > "Table 3 shows that the effect size of explicit morphology instruction on developing EFL English majors’ reading comprehension is (1.06) which is slightly below Blake’s minimum accepted value is (1.2)"
 
@@ -55,7 +55,7 @@ Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology I
 
 `q2 · i1` · `causal · r2`
 
-Blake's modified gain ratio computed from the experimental group's pre/post MAT means (14.55 to 67.2, test score 90): the printed effect size is "(1.28) which is above Black’s minimum accepted value (min.=1.2 and max.=2)".
+Blake's modified gain ratio computed from the experimental group's pre/post MAT means (14.55 to 67.2, test score 90): the printed effect size is "(1.28) which is above Black’s minimum accepted value (min.=1.2 and max.=2)". Participants were 98 first-year secondary school students in two intact groups of 49; the article's own text calls them "EFL English majors".
 
 > "Table 6 shows that the effect size of explicit morphology instruction on developing EFL English majors’ morphological awareness is (1.28) which is above Black’s minimum accepted value (min.=1.2 and max.=2)"
 

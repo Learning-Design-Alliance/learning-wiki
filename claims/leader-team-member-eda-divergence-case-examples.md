@@ -44,3 +44,4 @@ Descriptive case example from the third simulation (V3) reported in the Results 
 
 ## Related Claims
 - [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) — related
+- [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related

@@ -47,6 +47,7 @@ The article recommends that identifying the students most likely to have certain
 - [Implement a web of supports for students in foster care: one-stop resource centers, school-based liaisons, tiered services, and cross-system collaboration](foster-care-web-of-supports-strategy.md)
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
 - [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
+- [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
 
 ## Examples
 -

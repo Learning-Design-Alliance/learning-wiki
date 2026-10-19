@@ -67,3 +67,4 @@ Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Co
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - The affective component is suggested to contribute at least as much to language learning as cognitive skills — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
+- [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](emotion-differentiation-linked-regulation-and-understanding.md) — a broader claim this one bears on

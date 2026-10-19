@@ -50,3 +50,4 @@ Theoretical argument in this perspective article's section on cognitive offloadi
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — reports the opposite
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - AIEd research is weakly connected to theoretical pedagogical perspectives — related
+- [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — related

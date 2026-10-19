@@ -57,7 +57,7 @@ Jiang, J. Y., & Sporte, S. E. (2016). Teacher Evaluation in Chicago: Differences
 
 `q3 · i?` · `associational · r3`
 
-Analysis of 2013-14 REACH scores by teacher credentials, comparing teachers with National Board Certification (8 percent of CPS teachers) and advanced degrees (33 percent) to those without, on both observation and value-added measures.
+Analysis of 2013-14 REACH scores by teacher credentials, comparing teachers with National Board Certification or advanced degrees to those without, on both observation and value-added measures.
 
 > "Differences between teachers with National Board Certification or advanced degrees, compared to those without those credentials, were found only on observation scores, not value added."
 

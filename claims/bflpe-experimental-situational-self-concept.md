@@ -52,3 +52,5 @@ In the randomized IVR experiment, regression of situational self-concept on dumm
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
 - [Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions](ivr-presence-realism-high-uniform.md) — related
 - [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related
+- [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — a broader claim this one bears on
+- [Reanalyses of SCT choice-paradigm studies support the BFLPE, which was not moderated by students' chosen comparison targets](bflpe-reanalyses-not-moderated-by-comparison-choice.md) — related

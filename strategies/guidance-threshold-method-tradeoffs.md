@@ -17,7 +17,7 @@ sources:
 # Provide assessment developers and administrators guidance on tradeoffs of threshold-setting methods for identifying noneffortful responses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (2 associational, 1 design), `q1`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 associational, 1 design), `q1`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's stated purpose is to "help provide guidance to developers and administrators of large-scale assessments on the tradeoffs involved in using a given method to identify noneffortful responses." It pursues this by comparing multiple response time threshold-setting methods on large-scale computer-adaptive test data. The guidance concerns selecting among detection methods rather than instructing learners directly.

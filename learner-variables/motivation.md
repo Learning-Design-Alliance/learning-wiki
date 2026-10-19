@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 188 claims (131 show a difference, 35 mixed, 20 no difference, 2 unmarked) · 149 studies (52 associational, 41 causal, 22 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 35 of 149 report an effect size · 176 claims rest on one study
+> **Evidence** · 193 claims (134 show a difference, 37 mixed, 20 no difference, 2 unmarked) · 152 studies (53 associational, 41 causal, 23 review, 10 qualitative, 10 theoretical, 9 quant-synthesis, 6 design), `q1`–`q4` · 36 of 152 report an effect size · 179 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -238,6 +238,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [No significant direct effects exist between teachers' motivation to promote SRL and students' SRL motivation](../claims/no-direct-teacher-student-motivation-effects.md) [-W] — instruction changes it
 - [Teachers' self-efficacy for SRL promotion shows significant indirect effects on students' self-efficacy, utility value and attainment value via teacher- and student-reported SRL promotion, with no indirect path to cost](../claims/indirect-effects-teacher-self-efficacy-via-srl-promotion.md) [~W] — instruction changes it
 - [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](../claims/brilliance-cues-reduce-intrinsic-motivation.md) [+M] — instruction changes it
+- [Cognitive load ratings rise and interest and self-assessed understanding fall in sections introducing new content knowledge compared with introductory sections of worked examples](../claims/load-higher-interest-lower-in-content-knowledge-sections.md) [+M] — instruction changes it
+- [Interest rarely relates to sourcing while task values show consistent positive relationships](../claims/interest-task-values-sourcing.md) [~W] — learners who differ on it differ in outcomes
+- [Perceived task difficulty correlates negatively with self-assessed understanding and with interest at essentially all measurement points, while interest and self-assessed understanding correlate positively throughout](../claims/difficulty-negative-interest-understanding-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Prior knowledge and intervention condition moderate repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](../claims/prior-knowledge-and-prompting-moderate-load-and-interest.md) [~M] — instruction changes it
+- [Programs focusing solely on motivation are equally effective in stimulating affirming motivations and reading comprehension as programs combining motivational support with skills instruction](../claims/motivation-only-equally-effective.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

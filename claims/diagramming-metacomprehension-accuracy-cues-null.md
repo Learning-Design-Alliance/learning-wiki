@@ -57,3 +57,4 @@ The introduction reports, citing Pijeira-Díaz et al. (this issue), a three-cond
 - [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](self-assessments-more-accurate-than-comprehension-judgments.md) — related
 - [Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis](teacher-monitoring-accuracy-higher-name-plus-diagram-than-diagram-only.md) — related
 - [Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition](teacher-monitoring-accuracy-null-differences-name-only-vs-diagram-conditions.md) — related
+- [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](generative-tasks-monitoring-accuracy-not-outcomes.md) — a broader claim this one bears on

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9"
-description: "Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9"
+title: "Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course"
+description: "Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course"
 id: video-views-declined-across-quarter
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9
+# Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
-`q1 i?` The 300 personalized videos received 17552 views across both quarters, but weekly viewing dropped from 909 views (week 1) to 149 (week 5) to 41 (week 9). [→ Tomlinson 2026](#tomlinson-2026)
+`q1 i?` The 300 personalized videos received 17552 views across both quarters, but the first video set assigned in each week drew 909 views (week 1), 149 (week 5) and 41 (week 9). These are YouTube view counts, not unique student viewers. [→ Tomlinson 2026](#tomlinson-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Tomlinson, B., Black, R.W., Patterson, D.J., van der Hoek, A., Ferguson, J. & Bi
 
 `q1 · i?` · `associational · r1`
 
-YouTube analytics across two course offerings (534 students). The article reports the first week-1 video set had 909 views, week 5 had 149, and week 9 had "only 41 views, demonstrating that fewer than 10% of the course population was watching the videos voluntarily by the end of the course".
+YouTube analytics across two course offerings (534 students). The article reports the first video set assigned in week 1 had 909 views, the first set in week 5 had 149, and the first set in week 9 had "only 41 views, demonstrating that fewer than 10% of the course population was watching the videos voluntarily by the end of the course".
 
 > "The 300 videos (100 topics with 3 variants each) received a total of 17552 views across both quarters."
 

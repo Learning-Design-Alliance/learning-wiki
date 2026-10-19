@@ -35,7 +35,7 @@ Ketonen, E. E., Kruskopf, M., Lonka, K., & Mattlin, M. (2026). Dynamics of unive
 
 `q2 · i?` · `causal · r1`
 
-Mann-Whitney U comparisons of concept-test change scores between slope groups (n = 7–14 per group). Anxiety change: U = −2.07, p = 0.041; enjoyment: U = −2.46, p = 0.013; surprise: U = −2.01, p = 0.043. No effect sizes are printed.
+Mann-Whitney U comparisons of concept-test change scores between slope groups (n = 7–12 per group). Anxiety change: U = −2.07, p = 0.041; enjoyment: U = −2.46, p = 0.013; surprise: U = −2.01, p = 0.043. No effect sizes are printed.
 
 > "those students showing a decreasing rather than stable trend in either anxiety or surprise demonstrated more positive change in their test scores. Interestingly, those students exhibiting a decreasing trend in enjoyment actually demonstrated more positive change in their test scores than those showing a more stable trend"
 

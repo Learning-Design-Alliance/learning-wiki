@@ -14,7 +14,7 @@ sources:
     title: "Rogde K, Hagen ÅM, Melby‐Lervåg M, Lervåg A. (2019). The effect of linguistic comprehension instruction on generalized language and reading comprehension skills: A systematic review. Campbell Systematic Reviews. https://doi.org/10.1002/cl2.1059"
     author: Rogde K, Hagen ÅM, Melby‐Lervåg M, Lervåg A.
     q: 3
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` Linguistic comprehension intervention programs produce small positive immediate effects on generalized measures of linguistic comprehension skills. [→ Rogde K 2019](#rogde-k-2019)
+`q3 i0` Linguistic comprehension intervention programs produce small positive immediate effects on generalized measures of linguistic comprehension skills (g = 0.16). [→ Rogde K 2019](#rogde-k-2019)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Rogde K, Hagen ÅM, Melby‐Lervåg M, Lervåg A. (2019). The effect of linguistic comprehension instruction on generalized language and reading comprehension skills: A systematic review. Campbell Systematic Reviews. https://doi.org/10.1002/cl2.1059
 
-`q3 · i?` · `quant-synthesis · r2`
+`q3 · i0 · g = 0.16, below the d 0.2 cut-off; the review calls it small` · `quant-synthesis · r2`
 
-Systematic review and meta-analysis of 43 RCTs and QEs with pretest–posttest controlled designs in educational settings, 1992–2017. The review reports the overall immediate effect on generalized linguistic comprehension as "small in studies of both the overall immediate and follow‐up effects"; no pooled effect size value is printed in the available text.
+Systematic review and meta-analysis of 43 control-group studies (RCTs and QEs) in educational settings, 1992–2017; quasi-experiments needed pre- and posttests, while RCTs with a posttest-only design were also eligible. The review reports a "small summary (mean) effect size (g = 0.16)" for the immediate effect on generalized linguistic comprehension, and calls the effect "small in studies of both the overall immediate and follow‐up effects"; the immediate effect on generalized reading comprehension was negligible (g = 0.05).
 
 > "The effect of linguistic comprehension instruction on generalized outcomes of linguistic comprehension skills is small in studies of both the overall immediate and follow‐up effects."
 

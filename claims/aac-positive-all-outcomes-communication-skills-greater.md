@@ -44,6 +44,7 @@ Across the meta-analysis of 24 single-case studies, the article reports that "AA
 
 ## Learner Variables
 - [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
 
 ## Related Claims
 

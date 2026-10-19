@@ -44,4 +44,4 @@ Post hoc comparisons following the multilevel regression in the same survey (N =
 
 
 ## Related Claims
--
+- [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related

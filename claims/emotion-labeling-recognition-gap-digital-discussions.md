@@ -45,3 +45,4 @@ Mixed-method interview study with 25 undergraduates (from two of five study grou
 ## Related Claims
 - [The ability to identify basic emotions from non-linguistic vocal bursts improves significantly with age from 5 to 17 years](vocal-emotion-recognition-improves-age-5-17.md) — related
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
+- [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](emotion-differentiation-linked-regulation-and-understanding.md) — related

@@ -73,3 +73,4 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 - Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding — related
 - [Written examination scores were low and confounded, providing a serious warning about students' unaided performance on foundational calculations](kt1-exam-low-unaided-performance-warning.md) — related
 - Conventional regression models cannot consistently estimate effects of time-varying treatments when time-varying confounders are affected by past treatment — related
+- [In an AI-based early warning system, the predictive importance of CAM dimensions shifted over an instructional unit, with affect/metacognition self-reports leading early and cognitive artifacts gaining accuracy toward the end](early-warning-system-cam-predictive-importance-shifts-over-unit.md) — related

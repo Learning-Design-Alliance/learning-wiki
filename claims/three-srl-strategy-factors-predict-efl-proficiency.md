@@ -55,3 +55,4 @@ Multiple regression on MSLQ learning-strategy factors from 97 Japanese universit
 - Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance) — related
 - [Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly](metacognition-coding-experience-predict-ct-profile.md) — related
 - [IQ, psychological empowerment, self-realization, and self-regulation subscale scores contributed significantly to variance in hourly pay, while number of vocational education classes did not](self-determination-subdomains-predict-wage-vocational-classes-do-not.md) — related
+- [Achievement, effort-related variables, (meta-)cognitive learning strategies, and goal orientations are the most frequently reported correlates of motivation regulation](most-frequent-correlates-of-motivation-regulation.md) — related

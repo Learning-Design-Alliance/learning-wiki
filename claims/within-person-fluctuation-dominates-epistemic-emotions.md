@@ -48,3 +48,4 @@ Descriptive analysis of the 212 session-level emotion ratings; the ICC for curio
 - [Persistence varies both within and between students, warranting multilevel modeling, and level-1 predictors explained 18% of variance](multilevel-structure-of-gameplay-persistence.md) — related
 - [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](children-daily-fluctuations-sleep-and-working-memory.md) — related
 - [Approximately 13–14% of total variance in first-grade written composition is attributable to differences among classrooms](classroom-level-variance-written-composition-first-grade.md) — related
+- [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related

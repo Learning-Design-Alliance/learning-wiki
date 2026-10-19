@@ -46,3 +46,4 @@ Factor analysis of the shortened 18-item MAI administered with the HowULearn que
 - [Both metacognitive awareness dimensions correlate positively with deep approach and organized studying and negatively with an unreflective approach](metacognitive-awareness-correlates-approaches-learning.md) — related
 - [Students rate their knowledge about cognition higher than their regulation of cognition](knowledge-cognition-rated-higher-than-regulation.md) — related
 - [The metacognitive scale yields two factors: Global/Monitoring and Problem Solving](metacognitive-scale-two-factors-global-monitoring-problem-solving.md) — related
+- [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related

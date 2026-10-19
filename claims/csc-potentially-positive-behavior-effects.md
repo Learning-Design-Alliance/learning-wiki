@@ -35,7 +35,7 @@ What Works Clearinghouse. (2007). Caring School Community™ WWC Intervention Re
 
 `q2 · i?` · `quant-synthesis · r1`
 
-WWC synthesis of two studies (a randomized trial with reservations and a quasi-experiment) of CDP in grades K–6. The report states "The average improvement index for behavior is +8 percentile points, with a range of –2 to +27 percentile points." No standardized effect size is printed.
+WWC synthesis of two quasi-experimental studies, both meeting standards with reservations (the San Ramon Study randomly assigned one group of three schools, which confounds the unit of assignment with the unit of intervention, so WWC treated it as a quasi-experiment; the Six-District Study was a quasi-experiment) of CDP in grades K–6. The report states "The average improvement index for behavior is +8 percentile points, with a range of –2 to +27 percentile points." No standardized effect size is printed.
 
 > "The average improvement index for behavior is +8 percentile points, with a range of –2 to +27 percentile points."
 

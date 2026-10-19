@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question"
-description: "Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question"
+title: "Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question"
+description: "Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question"
 id: different-methods-different-srl-components-achievement
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question
+# Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
@@ -35,7 +35,7 @@ Laura Dörrenbächer-Ulrich, Marie Weißenfels, Lea Russer, Franziska Perels. (2
 
 `q2 · i?` · `associational · r1`
 
-Correlational analysis against GPA of the college entrance diploma in 70 college students. Table 8 prints strategy knowledge test–cognition −0.33**, questionnaire–motivation −0.24*, and open-ended microanalysis–metacognition −0.26*; "As GPA in Germany is reverse coded, negative correlations speak in favor of the criterion validity."
+Correlational analysis against GPA of the college entrance diploma in 70 college students. Table 8 prints strategy knowledge test–cognition −0.33**, questionnaire–motivation −0.24*, and open-ended microanalysis–metacognition −0.26*; "As GPA in Germany is reverse coded, negative correlations speak in favor of the criterion validity." The trace-data count of highlighted auxiliary words also correlated with GPA (0.29*), in the direction of poorer grades. These are correlations with a prior grade, not evidence that any component causes achievement.
 
 > "We found several correlations of moderate size (i.e., for the cognitive component assessed via strategy knowledge test, for the motivational component assessed via questionnaire, and the metacognitive component assessed via one open-ended microanalytic question)."
 

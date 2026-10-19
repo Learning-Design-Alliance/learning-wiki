@@ -62,4 +62,4 @@ As a result of the eyetracking and other data, the Cognitive Tutor curriculum tr
 
 
 ## Related Claims
--
+- [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — related

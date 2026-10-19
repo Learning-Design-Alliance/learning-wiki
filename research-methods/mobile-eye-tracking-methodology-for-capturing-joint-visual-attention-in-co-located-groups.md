@@ -25,7 +25,8 @@ The paper describes a methodology for studying co-located collaborative groups u
 - [Levels of joint visual attention are correlated with collaboration quality across collaborative groups](../claims/jva-correlated-with-collaboration-quality.md) [+M]
 
 ## Related Research Methods
--
+
+- [Eye-tracking research paradigm for studying professional vision and teacher expertise](eye-tracking-research-paradigm-for-studying-professional-vision-and-teacher-expertise.md)
 
 ## Key Sources
 - Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., & Pea, R. (2018). Leveraging mobile eye-trackers to capture joint visual attention in co-located collaborative learning groups. International Journal of Computer-Supported Collaborative Learning, 13(3), 241–261. https://doi.org/10.1007/s11412-018-9281-2

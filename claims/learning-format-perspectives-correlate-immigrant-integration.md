@@ -9,9 +9,9 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 sources:
-  - id: covington-2024
+  - id: covington-2025
     resource: "https://doi.org/10.33422/ijhep.v6i4.1084"
-    title: "Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747 [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)"
+    title: "Covington, K. C. D. (2025). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. International Journal of Higher Education Pedagogies, 6(4), 1-17. [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084) (an earlier version of the same study is the 2024 doctoral-study report, ERIC ED660747, https://eric.ed.gov/?id=ED660747)"
     author: Covington, K. C. D.
     q: 2
     i: "?"
@@ -25,17 +25,17 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Significant correlations exist between adult immigrants' perspectives of learning formats, self-directed learning and motivation, English skills acquisition and integration. [→ Covington 2024](#covington-2024)
+`q2 i?` Significant correlations exist between adult immigrants' perspectives of learning formats, self-directed learning and motivation, English skills acquisition and integration. [→ Covington 2025](#covington-2025)
 
 ## Evidence
 
-### Covington 2024
+### Covington 2025
 
-Covington, K. C. D. (2024). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. Doctoral study. https://eric.ed.gov/?id=ED660747 [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084)
+Covington, K. C. D. (2025). Examining the learner perspective in US immigrant adults: Socioeconomic status and the mission to successfully integrate. International Journal of Higher Education Pedagogies, 6(4), 1-17. [doi:10.33422/ijhep.v6i4.1084](https://doi.org/10.33422/ijhep.v6i4.1084) (an earlier version of the same study is the 2024 doctoral-study report, ERIC ED660747, https://eric.ed.gov/?id=ED660747)
 
 `q2 · i?` · `associational · r?`
 
-Correlational study using four self-report questionnaires with a quantitative sample (n = 107); the article reports that "Significant correlations were found to exist" among the studied variables. No correlation coefficients are printed in the available text, so no effect size is reported.
+Correlational study using four self-report questionnaires with a quantitative sample (n = 107); the 2024 ERIC record states that "Significant correlations were found to exist" among the studied variables. The ERIC record prints no coefficients; the 2025 journal abstract reports r = 0.801 between two of the measures (TOT and IPL) and R² = 0.728 for a multiple regression predicting integration. These are correlations among self-report measures in one sample, so they cannot show that learning-format perspectives cause integration.
 
 > "Significant correlations were found to exist between adult immigrants’ perspectives of learning formats, self-directed learning and motivation, English skills acquisitioning and integration."
 

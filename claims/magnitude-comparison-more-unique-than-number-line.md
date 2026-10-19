@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation
-description: Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation
+title: Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items
+description: Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items
 id: magnitude-comparison-more-unique-than-number-line
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation
+# Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` In partial correlational analyses, the association between number line estimation and subtraction disappeared while the association with numerical magnitude comparison remained significant. [→ Linsen 2014](#linsen-2014)
+`q3 i?` In cross-sectional partial correlational analyses, the association between number line estimation and subtraction disappeared while the association with numerical magnitude comparison remained significant, specifically for response times on indirect-addition (IA) items; the data do not allow causal interpretation. [→ Linsen 2014](#linsen-2014)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association 
 
 `q3 · i?` · `associational · r2`
 
-Partial correlational analyses controlling for the other task and intellectual ability showed number line estimation no longer predicted subtraction performance, whereas numerical magnitude comparison did. The article reports "the association with numerical magnitude comparison was still significant"; no effect size is printed.
+Cross-sectional partial correlational analyses, controlling for intellectual ability and for performance on the other item type, showed number line estimation no longer associated with subtraction performance, whereas numerical magnitude comparison still was. The unique association was with response times on the indirect-addition (IA) items: symbolic comparison's partial correlation with IA-item times differed significantly from its partial correlation with direct-subtraction item times (Williams-Steiger t = -2.89, p < .01); for accuracy the two did not differ (t = 1.50, p = .14). Correlations are printed in the article's tables, but no effect size for the contrast between the two tasks is coded here. The authors state the single-time-point data "do not allow us to make causal interpretations."
 
 > "the association between the number line estimation task and mental multi-digit subtraction disappeared, while the association with numerical magnitude comparison was still significant"
 

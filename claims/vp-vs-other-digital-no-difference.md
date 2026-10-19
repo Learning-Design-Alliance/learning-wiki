@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Virtual patients show no significant differences versus other types of digital education for knowledge or skills
-description: Virtual patients show no significant differences versus other types of digital education for knowledge or skills
+title: In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies
+description: In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies
 id: vp-vs-other-digital-no-difference
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# Virtual patients show no significant differences versus other types of digital education for knowledge or skills
+# In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
@@ -35,7 +35,7 @@ Kononowicz A A, Woodham L A, Edelbring S, Stathakarou N, Davies D, Saxena N, Tud
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Narrative synthesis of the few trials comparing virtual patients with other digital education. Neither the video-lecture nor the static-Web-course comparison "showed significant differences in knowledge outcomes"; only one skills study (Kumta et al) showed a significant difference (P<.001).
+Narrative synthesis of the few trials comparing virtual patients with other digital education. Neither the video-lecture nor the static-Web-course comparison "showed significant differences in knowledge outcomes"; of three skills comparisons, only Kumta et al showed a significant difference (P<.001), favouring virtual patients over traditional teaching supplemented by Web content; the other two were non-significant.
 
 > "Courteille et al [87] compared virtual patients with a video-recorded lecture, whereas Trudeau et al [90] compared with a static Web course. Neither of these comparisons showed significant differences in knowledge outcomes."
 

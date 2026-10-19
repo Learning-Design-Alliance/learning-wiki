@@ -44,7 +44,7 @@ Negen, J., & Sarnecka, B. W. (2012). Number-Concept Acquisition and General Voca
 
 `q3 · i?` · `associational · r2`
 
-Hierarchical regression on the merged Experiment 2 data (Table 2): Model 1 entered age (R2 = .468), then receptive vocabulary (ΔR2 = .133**) and expressive vocabulary (ΔR2 = .074*); Model 2's final age step (ΔR2 = .020) was not significant.
+Hierarchical regression on the Experiment 2 data (Table 2): Model 1 entered age (R2 = .468), then receptive vocabulary (ΔR2 = .133**) and expressive vocabulary (ΔR2 = .074*); Model 2's final age step (ΔR2 = .020) was not significant.
 
 > "For Model 1, we entered age, then receptive and productive vocabulary, revealing that all steps added to the fit. For Model 2, we entered receptive and productive vocabulary, then age. In this case, age did not contribute significantly to the fit."
 

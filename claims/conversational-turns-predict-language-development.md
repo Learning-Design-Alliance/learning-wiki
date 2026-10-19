@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Conversational turn-taking predicts language development better than raw word count or socioeconomic status.
+title: The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.
 id: conversational-turns-predict-language-development
 aliases: [conversational-turns-drive-language-development]
 status: review
@@ -34,7 +34,7 @@ sources:
     rigour: 2
 ---
 
-# Conversational turn-taking predicts language development better than raw word count or socioeconomic status.
+# The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 associational `r?`, 1 review `r2` · `q2`

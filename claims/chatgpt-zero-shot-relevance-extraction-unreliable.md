@@ -56,3 +56,4 @@ Preliminary zero-shot analysis using ChatGPT as the first-stage summarization/re
 - [Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits](llm-relevance-impact-misalignment-learner-characteristics.md) — related
 - [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related
 - [Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy](contextual-evaluation-prompt-improvement.md) — related
+- [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](suboptimal-design-hints-trigger-costly-self-management.md) — related

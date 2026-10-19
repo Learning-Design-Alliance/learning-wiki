@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 168 claims (77 for, 78 mixed, 13 against) · 128 studies (47 causal, 22 review, 19 quant-synthesis, 15 associational, 9 qualitative, 9 design, 7 theoretical), `q1`–`q4` · 32 of 128 report an effect size · 147 claims rest on one study
+> **Evidence** · 174 claims (80 for, 81 mixed, 13 against) · 130 studies (49 causal, 22 review, 19 quant-synthesis, 15 associational, 9 qualitative, 9 design, 7 theoretical), `q1`–`q4` · 34 of 130 report an effect size · 153 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -217,6 +217,12 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](../claims/small-effect-sizes-human-ai-feedback-differences.md) [~W]
 - [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](../claims/trust-customized-agents-accuracy-contextual-alignment.md) [~W]
 - [Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen](../claims/teacher-roles-vary-by-orchestration-type.md) [~W]
+- [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](../claims/practice-feedback-memory-beats-lecture.md) [+W] — attached 2026-10-19 from Michael W. Asher et al. (2026), which proposed "GPT-4o-generated personalized explanatory feedback for open-ended practice"; tests this page's relationship.
+- [Generalization from practice requires explanatory feedback and sufficient prior knowledge or confidence, with benefits concentrated among better-prepared learners](../claims/generalization-needs-explanatory-feedback-and-prior-knowledge.md) [~W] — attached 2026-10-19 from Michael W. Asher et al. (2026), which proposed "GPT-4o-generated personalized explanatory feedback for open-ended practice"; tests this page's relationship.
+- [Predominantly negative feedback leads students to expect a next round of problems will require more effort than predominantly positive feedback (Experiments 1 and 2)](../claims/negative-feedback-raises-anticipated-effort.md) [+W]
+- [With reduced construct overlap and a no-feedback control, feedback did not significantly affect challenge (Experiments 3 and 4), and negative feedback raised expected effort required only in Experiment 3](../claims/challenge-effect-absent-revised-measures.md) [~W]
+- [Learners judge explanatory feedback as more effective preparation than correct-response feedback, in both studies](../claims/explanatory-feedback-judged-more-effective-than-correct-response.md) [+W]
+- [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

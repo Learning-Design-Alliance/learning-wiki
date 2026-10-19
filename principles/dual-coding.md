@@ -27,7 +27,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (12 for, 10 mixed, 6 against) · 39 studies (16 causal, 12 review, 8 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 39 report an effect size · 19 claims rest on one study
+> **Evidence** · 30 claims (12 for, 12 mixed, 6 against) · 40 studies (16 causal, 12 review, 9 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 40 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,11 @@ The expectation should weaken if comparisons with comparable learners and aligne
 
 Comprehension while the visual is in view, recall a week later, transfer to a new problem and use in the setting the learner values are separate claims. The present evidence establishes no number of visuals per lesson, no length of drawing activity and no criterion for moving from supplied to learner-made visuals.
 
+## Claims
+
+- [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](../claims/cognitive-skills-moderate-picture-effects.md) [~W]
+- [Representational pictures show consistently null effects for word problems with demanding characteristics such as rational numbers, probabilistic reasoning, or realistic considerations](../claims/representational-pictures-null-demanding-tasks.md) [~W]
+
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)
 - [Multimedia Learning](multimedia-learning.md) — holds the presented explanation with a picture: placement, duplicated words, decoration and segmenting
@@ -166,6 +171,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits](../strategies/success-cues-labelling-hybrid-documentation.md)
 - [Prompt students to sketch a drawing of the system while reading an expository science text](../strategies/sketching-during-reading-strategy.md)
 - [Scaffold cross-representational integration by sequencing discussion of pictures with concepts from the text before ordering them](../strategies/scaffold-text-visual-integration-sequencing.md)
+- [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

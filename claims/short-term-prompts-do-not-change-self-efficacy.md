@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Short-term prompting in learning journals does not change university students' self-efficacy"
-description: "Short-term prompting in learning journals does not change university students' self-efficacy"
+title: "University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals"
+description: "University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals"
 id: short-term-prompts-do-not-change-self-efficacy
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# Short-term prompting in learning journals does not change university students' self-efficacy
+# University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i1` Self-efficacy did not change over the four prompted journals of unit 1, F(2.72,198.68)=2.27, p=.09, ηp²=0.03. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)
+`q3 i1` Self-efficacy showed no statistically significant change over the four prompted journals of unit 1 (a failure to detect change; equivalence was not tested), F(2.72,198.68)=2.27, p=.09, ηp²=0.03. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Nadja M. Gentner, Lisa Respondek, Tina Seufert. (2024). Effects of short- and lo
 
 `q3 · i1` · `causal · r?`
 
-Repeated-measures ANOVA on the MSLQ self-efficacy scale administered in the standardized part of journals t1–t4, contradicting hypothesis H2. "The results indicate no change in learners’ self-reported self-efficacy during unit 1", ηp² = 0.03; equivalence was not tested.
+Repeated-measures ANOVA on the MSLQ self-efficacy scale administered in the standardized part of journals t1–t4, contradicting hypothesis H2. The authors read this as "no change in learners’ self-reported self-efficacy during unit 1" (ηp² = 0.03), but the test only failed to detect a significant change; equivalence was not tested, so it does not show that self-efficacy stayed the same.
 
 > "Analysis indicated no main effect of time, F(2.72,198.68) = 2.27, p = .09, η p² = 0.03. The results indicate no change in learners’ self-reported self-efficacy during unit 1"
 

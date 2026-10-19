@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (46 for, 37 mixed, 2 against, 1 unmarked) · 38 studies (14 causal, 9 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 79 claims rest on one study
+> **Evidence** · 88 claims (46 for, 39 mixed, 2 against, 1 unmarked) · 40 studies (15 causal, 9 quant-synthesis, 8 review, 3 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 40 report an effect size · 81 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,8 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](../claims/test-restudy-beats-controls.md) [+M]
 - [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](../claims/ttst-beats-pure-st-eskimo-pairs.md) [+W]
+- [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
+- [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)
@@ -224,6 +226,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - A biology course opens each lesson with short no-notes prompts that ask learners to explain last week’s concepts before new content begins.
 - A language app revisits previously learned vocabulary with delayed recall items and immediate corrective feedback rather than only offering rereading.
 - [EISEL](../products/eisel.md)
+- [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](../strategies/frequent-low-stakes-cumulative-testing-strategy.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

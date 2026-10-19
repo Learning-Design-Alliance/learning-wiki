@@ -42,6 +42,9 @@ Item-level results from the same cross-sectional parent survey in Nablus. Barrie
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
+
 ## Related Claims
 
 - [Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed](aac-acceptance-difficulty-declines-over-time.md) — related

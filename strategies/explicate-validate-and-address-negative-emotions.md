@@ -65,6 +65,7 @@ Emotions are not noise around cognition; they are part of it. Control-value theo
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a structured, low-stakes way to make emotions discussable
 - [Utility-Value Connections](utility-value-connections.md) — the "address" step often takes the form of a utility-value intervention
 - [Address debilitating technology anxiety through supportive low-stakes introductory experiences while preserving the critical stance that accompanies it](preserve-critical-stance-while-reducing-debilitating-anxiety.md)
+- [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 
 ## Examples
 - **Organic chemistry gateway course.** The instructor opens by acknowledging that many students arrive anxious, presents data on how prior students' grades improved after the first exam regardless of first-week performance, and describes the specific study strategies that worked — combining validation with an attributional reframe and a concrete pathway.

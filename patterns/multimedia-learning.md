@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 73 claims (35 for, 36 mixed, 2 against) · 56 studies (31 causal, 10 quant-synthesis, 8 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 56 report an effect size · 64 claims rest on one study
+> **Evidence** · 75 claims (35 for, 38 mixed, 2 against) · 57 studies (31 causal, 10 quant-synthesis, 9 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 57 report an effect size · 66 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,11 @@ Record: **material and its configuration (picture, placement, channel, pacing, s
 [Multimedia learning](../elements/multimedia-learning.md), [multimedia instruction](../elements/multimedia-instruction.md), [digital learning](../elements/digital-learning.md), [personalized pacing](../elements/personalized-pacing.md), [self-explanation](../elements/self-explanation.md), [pedagogical agent signaling](../elements/pedagogical-agent-signaling.md) and [accommodations](../elements/accommodations.md).
 
 This pattern is scoped to explanations of structures, processes and relations presented through words and pictures. Learner-made representations, interactive simulations (a field study in undergraduate electrodynamics found [sketching and simulation tasks alongside the formula](../claims/multiple-representations-improve-learning.md) [~M] beat calculation-only tasks, d = 0.40, while raising perceived cognitive load, and a review there finds a second visual representation helps only with the learner's skill at connecting representations), video modelling of skills and language-learning glosses need their own configurations and evidence. Most of the recorded evidence comes from short lab lessons with university students; the policy supports observation and design reasoning, and its predictive accuracy and the learner-significance mechanism remain to be tested with actual learners.
+
+## Claims
+
+- [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](../claims/cognitive-skills-moderate-picture-effects.md) [~W]
+- [Affective variables and gender do not relate to picture effects on elementary schoolers' word problem-solving performance](../claims/affective-gender-no-moderation.md) [~W]
 
 ## Examples
 

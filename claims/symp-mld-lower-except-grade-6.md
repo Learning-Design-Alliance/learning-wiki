@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6
-description: Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6
+title: Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6
+description: Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6
 id: symp-mld-lower-except-grade-6
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6
+# Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
@@ -35,7 +35,7 @@ Brankaer, C., Ghesquière, P., & De Smedt, B. (2017). Symbolic magnitude process
 
 `q3 · i?` · `associational · r3`
 
-Criterion-related validity analysis comparing children below the 10th percentile (MLD) with children above the 35th percentile (TA) on the standardized mathematics test. Group differences held in Grades 1–5 but not Grade 6 ("F(1,196) = 0.78, p = .38"); differences remained significant with motor speed as covariate.
+Criterion-related validity analysis comparing children below the 10th percentile (MLD) with children above the 35th percentile (TA) on the standardized mathematics test. On the one-digit subtest, group differences held in Grades 1–5 but not Grade 6 ("F(1,196) = 0.78, p = .38"); the two-digit subtest, not given in Grade 1, showed the same pattern in Grades 2–5 and none in Grade 6 (F(1,196) = 0.26, p = .61); differences remained significant with motor speed as covariate.
 
 > "In all grades, children in the TA-group performed significantly better on the one-digit subtest than children in the MLD-group (Fs > 5.23, ps < .05), with exception for Grade 6 where no group differences were observed (F(1,196) = 0.78, p = .38)."
 

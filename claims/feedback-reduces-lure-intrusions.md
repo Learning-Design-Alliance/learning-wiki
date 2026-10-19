@@ -75,3 +75,4 @@ Supplementary t test against the no-test control condition, in which no lures ha
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
+- [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related

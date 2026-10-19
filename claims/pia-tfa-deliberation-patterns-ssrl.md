@@ -53,3 +53,4 @@ Agglomerative hierarchical clustering of 42 three-minute deliberation sequences 
 - [Regulation in collaborative learning is layered: the portfolio of regulation layers needs itself to be regulated](layered-self-regulation-meta-metacognition.md) — related
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
+- [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related

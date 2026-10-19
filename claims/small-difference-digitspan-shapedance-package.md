@@ -40,6 +40,9 @@ One-way ANOVA on the Digitspan and Shapedance package comparing autistic (n = 14
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Score distributions on both game packages appear roughly equal across autistic and general-population candidates](score-distributions-roughly-equal-both-packages.md) — reports the opposite
 - [Autistic and general-population job seekers do not differ significantly on the Disconumbers and Shapedance game-based assessment package](no-group-difference-disconumbers-shapedance-package.md) — reports the opposite

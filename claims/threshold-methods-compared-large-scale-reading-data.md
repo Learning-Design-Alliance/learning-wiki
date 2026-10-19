@@ -9,10 +9,10 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 sources:
-  - id: wise-2020
-    resource: "https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    title: "Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    author: Wise, S.
+  - id: soland-2021
+    resource: "https://doi.org/10.1186/s40536-021-00100-w"
+    title: "Soland, J., Kuhfeld, M., & Rios, J. (2021). Comparing different response time threshold setting methods to detect low effort on a large-scale assessment. Large-scale Assessments in Education, 9, 8. [doi:10.1186/s40536-021-00100-w](https://doi.org/10.1186/s40536-021-00100-w)"
+    author: "Soland, J., Kuhfeld, M., & Rios, J."
     q: 2
     i: "?"
     kind: associational
@@ -25,17 +25,17 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` A large-scale study compared threshold-setting methods for detecting noneffortful item responses using reading test scores from over 728,923 3rd-8th-grade students in 2,056 schools across the US. [→ Wise 2020](#wise-2020)
+`q2 i?` A large-scale study compared threshold-setting methods for detecting noneffortful item responses using reading test scores from over 728,923 3rd-8th-grade students in 2,056 schools across the US. [→ Soland 2021](#soland-2021)
 
 ## Evidence
 
-### Wise 2020
+### Soland 2021
 
-Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/
+Soland, J., Kuhfeld, M., & Rios, J. (2021). Comparing different response time threshold setting methods to detect low effort on a large-scale assessment. Large-scale Assessments in Education, 9, 8. [doi:10.1186/s40536-021-00100-w](https://doi.org/10.1186/s40536-021-00100-w)
 
 `q2 · i?` · `associational · r2`
 
-The page's abstract reports a large-scale comparison of threshold-setting methods on reading test scores, covering "over 728,923 3rd–8th-grade students in 2,056 schools across the US". No per-method results are printed on the page.
+An NWEA publications listing (read in place of the article) gives this study's summary: a large-scale comparison of threshold-setting methods on reading test scores, covering "over 728,923 3rd–8th-grade students in 2,056 schools across the US". No per-method results are printed in the listing.
 
 > "This study uses reading test scores from over 728,923 3rd–8th-grade students in 2,056 schools across the US to compare threshold-setting methods to detect noneffortful item responses."
 

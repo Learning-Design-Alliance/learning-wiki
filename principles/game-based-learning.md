@@ -201,7 +201,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
 - Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games, design, and learning: A systematic review and meta-analysis. *Review of Educational Research, 86*(1), 79–122. [https://doi.org/10.3102/0034654315582065](https://doi.org/10.3102/0034654315582065)
 - Arztmann, M., Hornstra, L., Jeuring, J., & Kester, L. (2023). Effects of games in STEM education: A meta-analysis on the moderating role of student background characteristics. *Studies in Science Education, 59*(1), 109–145. [https://doi.org/10.1080/03057267.2022.2057732](https://doi.org/10.1080/03057267.2022.2057732)
-- Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation games. *Personnel Psychology, 64*, 489–528.
+- Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation games. *Personnel Psychology, 64*, 489–528. [doi:10.1111/j.1744-6570.2011.01190.x](https://doi.org/10.1111/j.1744-6570.2011.01190.x)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 

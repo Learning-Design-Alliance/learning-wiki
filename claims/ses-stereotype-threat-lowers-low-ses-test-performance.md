@@ -45,3 +45,4 @@ Experimental study in which "Participants were placed in one of four conditions 
 
 ## Related Claims
 - [Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — related
+- [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related

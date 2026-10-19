@@ -17,7 +17,7 @@ sources:
 # Rapid-guessing detection of test taker disengagement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 associational, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The page's featured item concerns "rapid guessing" used "to detect test taker disengagement", with an emphasis on validation and applications. Rapid guessing refers to noneffortful, too-fast item responses whose detection flags disengaged test taking; the surrounding publications on the page treat disengagement as a threat to the validity of score interpretations in interim, summative, and international assessments. The element is positioned within NWEA's research program on measurement and scaling and school and test engagement.

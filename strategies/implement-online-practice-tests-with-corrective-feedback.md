@@ -50,6 +50,7 @@ The article's closing recommendation for educators is that "practice tests plus 
 
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
 - [Cumulative Review Quizzes](cumulative-review-quizzes.md)
+- [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 
 ## Examples
 -

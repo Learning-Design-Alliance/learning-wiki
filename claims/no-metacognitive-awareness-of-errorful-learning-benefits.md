@@ -14,7 +14,7 @@ sources:
     title: "Sarah Shi Hui Wong. (2026). Deliberate erring improves scientific reasoning: Learning experimentation skills by intentionally designing invalid experiments. Instructional Science. https://doi.org/10.1007/s11251-026-09819-x"
     author: Sarah Shi Hui Wong
     q: 3
-    i: "?"
+    i: 0
     kind: causal
     rigour: 3
 ---
@@ -22,10 +22,10 @@ sources:
 # Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3`
+> **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` The three groups did not differ in perceived competence, JOL+ ratings, or post-test method effectiveness ratings. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)
+`q3 i0` The three groups did not differ in perceived competence, JOL+ ratings, or post-test method effectiveness ratings. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Sarah Shi Hui Wong. (2026). Deliberate erring improves scientific reasoning: Learning experimentation skills by intentionally designing invalid experiments. Instructional Science. https://doi.org/10.1007/s11251-026-09819-x
 
-`q3 · i?` · `causal · r3`
+`q3 · i0 · negligible, η² ≤ .01` · `causal · r3`
 
-Null result from the randomized experiment (N = 276): after the intervention, the groups showed no differences on the 3-item perceived competence scale or six higher order judgments of learning; even after completing all four tests, the groups "did not differ in how effective they perceived their learning method to be, F(2, 273) = 0.02, p =.98, ŋ2 <.001". No effect sizes were reported for these null findings; equivalence was not tested.
+Null result from the randomized experiment (N = 276): after the intervention, the groups showed no differences on the 3-item perceived competence scale or six higher order judgments of learning; even after completing all four tests, the groups "did not differ in how effective they perceived their learning method to be, F(2, 273) = 0.02, p =.98, ŋ2 <.001". The printed effect sizes are small (η² = .01 for perceived competence, .002 for JOL+ ratings, < .001 for method effectiveness); equivalence was not tested.
 
 > "the three learning groups neither differed in their mean perceived competence ratings, F(2, 273) = 1.19, p =.31, ŋ2 =.01, nor mean JOL+ ratings, F(2, 273) = 0.21, p =.81, ŋ2 =.002."
 

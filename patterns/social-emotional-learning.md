@@ -21,7 +21,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (26 for, 10 mixed) · 51 studies (15 causal, 15 review, 13 quant-synthesis, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 16 of 51 report an effect size · 22 claims rest on one study
+> **Evidence** · 37 claims (27 for, 10 mixed) · 52 studies (16 review, 15 causal, 13 quant-synthesis, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 52 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -162,6 +162,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics](../claims/sel-no-prediction-chronic-absenteeism.md) [~W]
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](../claims/sel-meta-analysis-graduation-increases.md) [+M]
 - [Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies](../claims/zoo-u-subscale-intercorrelations-expected-overlap.md) [~W]
+- [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](../claims/sel-interventions-improve-school-outcomes.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

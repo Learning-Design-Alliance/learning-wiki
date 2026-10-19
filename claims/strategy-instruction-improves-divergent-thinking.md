@@ -35,7 +35,7 @@ van de Kamp, M.-T., Admiraal, W., & Rijlaarsdam, G. (2016). Becoming original: e
 
 `q3 · i?` · `causal · r2`
 
-Quasi-experiment with a pretest–posttest control group design across two cohorts (Cohort 1: 102 students; Cohort 2: 117 students) at one Dutch secondary school. Students were randomly assigned to classes receiving either the metacognitive strategy instruction or a regular brainstorm lesson. The article reports that "the strategy instruction of 50 min had positive effects on students' fluency, flexibility and originality" in both cohorts.
+Quasi-experiment with a pretest–posttest control group design across two cohorts (Cohort 1: 102 students; Cohort 2: 117 students) at one Dutch secondary school. Students were already grouped in classes (four in Cohort 1, five in Cohort 2), and the classes, not individual students, were randomly assigned to either the metacognitive strategy instruction or a regular brainstorm lesson. The article reports that "the strategy instruction of 50 min had positive effects on students' fluency, flexibility and originality" in both cohorts.
 
 > "The results showed that in both cohorts the strategy instruction of 50 min had positive effects on students' fluency, flexibility and originality."
 

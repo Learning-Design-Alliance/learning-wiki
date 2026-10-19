@@ -48,3 +48,4 @@ Correlational analysis of post-test scores among the 64 participants. The study 
 - [After training, prospective teachers caught up with current faculty in reasoning but still had lower noticing scores](posttest-group-differences-reasoning-noticing.md) — related
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related
+- [Dissociation between scaffolding quality and retrospective reasoning: experienced teachers scaffold better but reason less advanced about student thinking](pouta-scaffolding-reasoning-dissociation.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures
-description: Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures
+title: Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures
+description: Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures
 id: phonological-orthographic-efficiency-predicts-esl-reading
 status: review
 generated:
@@ -9,35 +9,36 @@ generated:
   at: 2026-09-28
 evidence_strength: weak
 sources:
-  - id: khatib-2011
-    resource: "https://doi.org/10.5539/ies.v4n4p192"
-    title: "Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192"
-    author: "Khatib, M., & Fat'hi, J."
+  - id: nassaji-1999
+    resource: "https://doi.org/10.1017/s0142716499002040"
+    title: "Nassaji, H., & Geva, E. (1999). The contribution of phonological and orthographic processing skills to adult ESL reading: Evidence from native speakers of Farsi. *Applied Psycholinguistics, 20*(2), 241–267. [doi:10.1017/s0142716499002040](https://doi.org/10.1017/s0142716499002040)"
+    author: "Nassaji, H., & Geva, E."
     q: 2
     i: "?"
-    kind: causal
-    rigour: 2
+    n: 60
+    kind: associational
+    rigour: "?"
 ---
 
-# Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures
+# Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence** · 1 study · associational `r?` · `q2` · n=60
 
 ## Subclaims
-`q2 i?` Efficiency in phonological and orthographic processing contributes significantly to individual differences in ESL reading comprehension, silent reading rate, and word recognition among adult L2 readers. [→ Khatib 2011](#khatib-2011)
+`q2 i?` In 60 adult ESL graduate students who were native speakers of Farsi, efficiency in phonological and orthographic processing contributed significantly to individual differences in reading comprehension, silent reading rate and word recognition; the design is correlational. [→ Nassaji 1999](#nassaji-1999)
 
 ## Evidence
 
-### Khatib 2011
+### Nassaji 1999
 
-Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192
+Nassaji, H., & Geva, E. (1999). The contribution of phonological and orthographic processing skills to adult ESL reading: Evidence from native speakers of Farsi. *Applied Psycholinguistics, 20*(2), 241–267. [doi:10.1017/s0142716499002040](https://doi.org/10.1017/s0142716499002040)
 
-`q2 · i?` · `causal · r2`
+`q2 · i? · no effect size in the text read` · `n=60` · `associational · r?`
 
-The article reports, citing Nassaji and Geva (1999), a correlational and hierarchical multiple regression study of 60 ESL graduate students, all native speakers of Farsi. Processing efficiency "contributed significantly to individual differences on the re ading measures"; no effect size is printed.
+Correlational and hierarchical multiple-regression study of 60 ESL graduate students, all native speakers of Farsi, with reading comprehension, silent reading rate and word recognition as criterion measures. Efficiency in phonological and orthographic processing "contributed significantly to individual differences on the reading measures", and orthographic efficiency contributed independently of syntactic and semantic measures. The batch reached this study through its summary in Khatib and Fat'hi (2011), *International Education Studies, 4*(4), whose own study is a separate intervention claim; the description here is checked against Nassaji and Geva's abstract.
 
-> "The analysis of the collected  data revealed that efficiency in p honological and orthographic processing contributed significantly to individual differences on the re ading measures."
+> "Efficiency in phonological and orthographic processing contributed significantly to individual differences on the reading measures."
 
 ## Discussion
 

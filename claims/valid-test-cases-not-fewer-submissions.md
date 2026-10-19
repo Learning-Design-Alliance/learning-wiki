@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Valid test case feedback improves correctness without reducing subsequent submission counts
-description: Valid test case feedback improves correctness without reducing subsequent submission counts
+title: Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions
+description: Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions
 id: valid-test-cases-not-fewer-submissions
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Valid test case feedback improves correctness without reducing subsequent submission counts
+# Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q3 i?` Valid test cases were not associated with fewer subsequent submissions, suggesting introductory students lack the debugging skills to efficiently exploit counterexamples. [→ Hasnain Heickal and Andrew Lan 2026](#hasnain-heickal-and-andrew-lan-2026)
+`q2 i?` Submissions receiving valid test cases had the highest average pass rates, but valid test cases were not associated with fewer subsequent submissions; the analyses are associational, because feedback was triggered by incorrect submissions. The authors suggest introductory students lack the debugging skills to efficiently exploit counterexamples. [→ Hasnain Heickal and Andrew Lan 2026](#hasnain-heickal-and-andrew-lan-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Hasnain Heickal and Andrew Lan. (2026). A Classroom Study of LLM-Generated Feedb
 
 `q2 · i?` · `associational · r1`
 
-Analysis of submission behavior in the classroom dataset. The authors believe this reflects "the limited systematic debugging skills of introductory programming students, who struggle to efficiently exploit a counterexample even when it is correct".
+Analysis of submission behavior in the classroom dataset: 66% of generated test cases were valid, and submissions receiving valid test cases had the highest average pass rates, while false-positive and no-effect cases were associated with substantially lower performance. Because feedback was conditionally triggered by incorrect submissions, the authors state that all analyses are "associative rather than causal", so the pass-rate difference does not show that valid test cases improved correctness, despite their phrase "improves correctness" below. The authors believe this reflects "the limited systematic debugging skills of introductory programming students, who struggle to efficiently exploit a counterexample even when it is correct".
 
 > "we find that valid test cases arenotassociated with fewer subsequent submissions—higher-quality feedback improves correctness without shortening the debugging process"
 

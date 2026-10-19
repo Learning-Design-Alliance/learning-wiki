@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Across difference, absolute, and within-study lag analyses, the ISI producing maximal retention grew longer as the retention interval lengthened. [→ Cepeda 2006](#cepeda-2006)
+`q2 i?` The difference-lag analyses found the optimal ISI difference grew with the retention interval, the absolute-ISI analyses found the optimal ISI bin grew with it, and a qualitative within-study analysis (subject to the authors' caveats about local maxima and coarse ISI sampling) pointed the same way. [→ Cepeda 2006](#cepeda-2006)
 
 ## Evidence
 

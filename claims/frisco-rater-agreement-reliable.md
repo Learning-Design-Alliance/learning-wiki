@@ -56,3 +56,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
 - Think aloud coding achieved inter-rater reliability of k = .53-.65 (kmax = .81-.82) between two coders using ELAN software — related
 - [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md)
+- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related

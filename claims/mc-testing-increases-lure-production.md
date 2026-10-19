@@ -69,3 +69,4 @@ In the SAT II experiment, lure production on the final cued recall test rose fro
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
+- [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related

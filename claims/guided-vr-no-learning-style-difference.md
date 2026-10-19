@@ -14,7 +14,7 @@ sources:
     title: "Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898 [doi:10.1080/15391523.2005.10782453](https://doi.org/10.1080/15391523.2005.10782453)"
     author: "Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail"
     q: 3
-    i: "?"
+    i: 1
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i?` The adjusted mean difference of 5.714 between assimilator and accommodator learners in the guided VR mode was not significant; equivalence was not tested. [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)
+`q3 i1` The adjusted mean difference of 5.714 between assimilator and accommodator learners in the guided VR mode was not significant (η² = .032); equivalence was not tested. [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)
 
 ## Evidence
 
@@ -33,13 +33,13 @@ sources:
 
 Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898 [doi:10.1080/15391523.2005.10782453](https://doi.org/10.1080/15391523.2005.10782453)
 
-`q3 · i?` · `causal · r2`
+`q3 · i1 · η² = .032, not significant` · `causal · r2`
 
-One-way ANCOVA within the VR (guided exploration) mode comparing learning styles with pre-test as covariate. The adjusted mean was 31.198 for assimilators and 25.484 for accommodators; "The adjusted mean diﬀerence of 5.714 was not signiﬁcant." No effect size is printed for this contrast.
+One-way ANCOVA within the VR (guided exploration) mode comparing learning styles with pre-test as covariate. The adjusted mean was 31.198 for assimilators and 25.484 for accommodators; "The adjusted mean diﬀerence of 5.714 was not signiﬁcant." Table 6 gives F(1, 59) = 1.977, p = .165, η² = .032 for the learning-style effect.
 
 > "After adjusting for the pre-test scores, it was found that there was no signiﬁcant diﬀerence between the assimilator learners and the accommodator learners on the gain scores, F(1, 59) = 0.165, p = 0.165."
 
-<!-- 2026-10-15: the quote prints the same value (0.165) for F and p, which cannot both be right; not checked against the article, so the p value here is unverified. -->
+The article's prose prints 0.165 for both F and p; its Table 6 gives F = 1.977, p = 0.165, so the F in the quoted sentence is a misprint in the source.
 
 ## Discussion
 

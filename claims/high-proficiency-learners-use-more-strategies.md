@@ -53,3 +53,4 @@ Independent-samples t-tests on MSLQ learning-strategy factors comparing the 67-s
 - [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related
 - [Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use](problems-hindering-metacognitive-strategy-use.md) — related
 - [Successful readers out-use less successful readers on global and support strategies but not problem-solving strategies](successful-readers-global-support-strategy-difference.md) — related
+- [Achievement, effort-related variables, (meta-)cognitive learning strategies, and goal orientations are the most frequently reported correlates of motivation regulation](most-frequent-correlates-of-motivation-regulation.md) — related

@@ -45,3 +45,4 @@ During multiple rounds of in-depth discussion among researchers, an extraction r
 ## Related Claims
 - [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — related
 - [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md) — related
+- [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related

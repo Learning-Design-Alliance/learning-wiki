@@ -85,3 +85,4 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — a narrower finding that bears on this claim
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related
+- [Perceived instrumentality enhances student motivation only for students with a positive attitude toward their personal future; for students with a negative future outlook, high utility has the opposite effect](instrumentality-future-attitude-interaction.md) — related

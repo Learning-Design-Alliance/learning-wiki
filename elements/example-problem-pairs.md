@@ -13,7 +13,7 @@ generated:
 # Example Problem Pairs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 5 studies (2 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 6 studies (2 causal, 2 review, 2 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 An example problem pair pairs a fully worked example with a structurally identical (isomorphic) problem that the learner must solve immediately afterward. The learner studies the expert solution, then applies the same procedure to a near-transfer task, alternating example study and problem solving across a sequence.
@@ -55,6 +55,7 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](../claims/worked-examples-no-improvement-knowledge-application.md) [-W]
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](../claims/alternating-example-problem-pairs.md) [+W]
+- [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](../claims/worked-example-effect-goal-dependent.md) [~W]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the example component of the pair

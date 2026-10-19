@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (67 show a difference, 20 mixed, 13 no difference) · 72 studies (30 causal, 14 associational, 8 theoretical, 7 review, 7 qualitative, 4 quant-synthesis, 2 design), `q1`–`q4` · 21 of 72 report an effect size · 99 claims rest on one study
+> **Evidence** · 101 claims (67 show a difference, 21 mixed, 13 no difference) · 73 studies (30 causal, 14 associational, 8 theoretical, 7 review, 7 qualitative, 5 quant-synthesis, 2 design), `q1`–`q4` · 22 of 73 report an effect size · 100 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -142,6 +142,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis](../claims/teacher-monitoring-accuracy-higher-name-plus-diagram-than-diagram-only.md) [+M] — instruction changes it
 - [Self-reported metacognitive regulation of reading contributes to expository digital text comprehension in a home e-learning environment](../claims/metacognitive-regulation-digital-text-comprehension-elearning.md) [+M] — learners who differ on it differ in outcomes
 - [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](../claims/individual-interventions-effective-except-self-explaining.md) [~W] — instruction changes it
+- [Goal-driven manipulations (incentives, time pressure, self-agency) weaken the negative effort–monitoring correlation to nonsignificance](../claims/goal-driven-manipulations-eliminate-negative-correlation.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

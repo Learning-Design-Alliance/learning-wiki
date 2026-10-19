@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 97 claims (67 show a difference, 19 mixed, 11 no difference) · 75 studies (20 associational, 18 causal, 15 review, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 13 of 75 report an effect size · 92 claims rest on one study
+> **Evidence** · 98 claims (68 show a difference, 19 mixed, 11 no difference) · 76 studies (20 associational, 18 causal, 16 review, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 13 of 76 report an effect size · 93 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -135,6 +135,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [In Experiment 1, participants were objectively less distracted by masked speech than by pure speech in serial recall, although both types caused significant distraction relative to quiet](../claims/exp1-objective-less-distracted-by-masked-speech.md) [+W] — instruction changes it
 - [In Experiment 2 with speech babble masking, participants again predicted masked speech to be more distracting than pure speech while being objectively less distracted by it, replicating Experiment 1](../claims/exp2-conceptual-replication-with-speech-babble.md) [+M] — instruction changes it
 - [The distraction-management dimension of homework management is unrelated to homework quality and not predicted by the homework management latent factor](../claims/distraction-dimension-unrelated-homework-quality.md) [-M] — learners who differ on it differ in outcomes
+- [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](../claims/activity-changes-improve-lesson-attention.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

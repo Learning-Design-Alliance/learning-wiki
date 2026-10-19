@@ -42,5 +42,8 @@ Summary of participant outcomes across the six included single-subject studies, 
 ## Discussion
 
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
+
 ## Related Claims
 -

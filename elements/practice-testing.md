@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (25 for, 16 mixed) · 26 studies (12 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 26 report an effect size · 37 claims rest on one study
+> **Evidence** · 43 claims (26 for, 17 mixed) · 28 studies (13 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 28 report an effect size · 39 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -92,6 +92,8 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
 - [A single practice test produced a larger effect (g = 0.70) than two or more practice tests (g = 0.51)](../claims/single-practice-test-larger-effect.md) [~W]
 - [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](../claims/skipping-feedback-fixed-time-improves-recall.md) [~W]
+- [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
+- [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](../claims/practice-feedback-improves-metacognitive-calibration.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
@@ -121,6 +123,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 **[Quizlet](https://quizlet.com)** — Self-testing tools (Learn and Test modes) that convert study sets into retrieval trials with feedback.
 - [Give students minimal direct instruction that retrieval practice beats restudying and that items should be recalled correctly three times before being dropped](../strategies/minimal-retrieval-practice-strategy-instructions.md)
 - [Combine free-recall tasks followed by short-answer questions to cover both broad understanding and key information](../strategies/combine-free-recall-then-short-answer-retrieval.md)
+- [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](../strategies/frequent-low-stakes-cumulative-testing-strategy.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

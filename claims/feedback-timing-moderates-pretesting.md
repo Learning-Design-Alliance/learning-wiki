@@ -87,3 +87,4 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](pretesting-enhances-memory-tested-video.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
+- [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — related

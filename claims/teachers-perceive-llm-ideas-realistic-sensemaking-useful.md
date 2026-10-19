@@ -67,3 +67,4 @@ Teachers appreciated suggestions like asking for evidence, reframing questions, 
 - [Only 69% of LLM-simulated ideas met the target grade's language level, with elementary grades faring worst and Llama-4 performing best](llm-ideas-language-level-69-percent-elementary-worst.md) — related
 - Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
 - [LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist](llm-simulated-students-surpass-rule-based-systems.md) — related
+- [Dissociation between scaffolding quality and retrospective reasoning: experienced teachers scaffold better but reason less advanced about student thinking](pouta-scaffolding-reasoning-dissociation.md) — related

@@ -9,9 +9,9 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 sources:
-  - id: ross-2025
+  - id: ross-2026
     resource: "https://doi.org/10.31234/osf.io/e6smh_v1"
-    title: "Ross, M., & Kaspar, K. (2025). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798 [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)"
+    title: "Ross, M., & Kaspar, K. (2026). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). PsyArXiv preprint. [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)"
     author: "Ross, M., & Kaspar, K."
     q: 1
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
-`q1 i?` Learners in immersive media environments tend to treat pedagogical agents as if they were real people, primarily relying on biologically primary communication patterns, so social interaction closely resembles real-life human-human interaction. [→ Ross 2025](#ross-2025)
+`q1 i?` Learners in immersive media environments tend to treat pedagogical agents as if they were real people, primarily relying on biologically primary communication patterns, so social interaction closely resembles real-life human-human interaction. [→ Ross 2026](#ross-2026)
 
 ## Evidence
 
-### Ross 2025
+### Ross 2026
 
-Ross, M., & Kaspar, K. (2025). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798 [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)
+Ross, M., & Kaspar, K. (2026). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). PsyArXiv preprint. [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)
 
 `q1 · i?` · `theoretical · r3`
 

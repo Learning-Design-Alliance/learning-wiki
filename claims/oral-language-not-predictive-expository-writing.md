@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` For expository writing quality, only lexical literacy was uniquely related; oral language and other predictors were not (ps ≥ .18). [→ Kim Young-Suk 2015](#kim-young-suk-2015)
+`q3 i?` For expository writing quality, among the kindergarten skill predictors only lexical literacy was uniquely related; oral language, attention and letter writing automaticity were not (ps ≥ .18). The kindergarten treatment-status control was negatively related (β = −.23, p = .009). [→ Kim Young-Suk 2015](#kim-young-suk-2015)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predicto
 
 `q3 · i?` · `associational · r2`
 
-Structural equation model for expository writing quality in the same longitudinal sample (N = 157), with good fit (CFI = .95; RMSEA = .055). The quote shows oral language was not uniquely predictive; no effect size was printed for the null paths.
+Structural equation model for expository writing quality in the same longitudinal sample (N = 157), with good fit (CFI = .95; RMSEA = .055). The quote shows oral language was not uniquely predictive; no effect size was printed for the null paths. The article adds one exception among the controls: kindergarten treatment status was negatively related to expository writing quality (β = −.23, p = .009).
 
 > "As shown in Figure 2, only kindergarten literacy skill was related (β = .43, p < .001) whereas the other predictors were not (ps ≥ .18)."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation
-description: Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation
+title: Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected
+description: Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected
 id: test-anxiety-negative-exam-performance
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation
+# Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Exam performance decreases with test anxiety (β = -0.30, SE = 0.09, p < 0.001), with no effect of proctoring or of the test anxiety × proctoring interaction. [→ Conijn 2022](#conijn-2022)
+`q2 i?` Exam grades were negatively associated with test anxiety (β = -0.30, SE = 0.09, p < 0.001); neither proctoring (p = 0.79) nor the test anxiety × proctoring interaction (p = 0.72) was significant, which shows no detected effect or moderation rather than an absent one. [→ Conijn 2022](#conijn-2022)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Conijn, R., Kleingeld, A., Matzat, U., & Snijders, C. (2022). The fear of big br
 
 `q2 · i?` · `associational · r2`
 
-Multi-level model of exam grades with student and course as random factors and test anxiety, proctoring and their interaction as fixed effects, on the subset of courses with exam grades. The study reports "a significant negative effect of test anxiety on exam grade (β = /C00.30, SE = 0.09, p < 0.001)"; hypothesis 1.5 was partly supported.
+Multi-level model of exam grades with student and course as random factors and test anxiety, proctoring and their interaction as fixed effects, on the subset of courses with exam grades. The study reports "a significant negative effect of test anxiety on exam grade (β = /C00.30, SE = 0.09, p < 0.001)"; hypothesis 1.5 was partly supported. The design is observational (proctoring was set by course teachers and anxiety was measured, not manipulated), so the association cannot show that anxiety lowers grades, and the nonsignificant proctoring terms are an absence of evidence, not evidence of no effect.
 
 > "The model showed a significant negative effect of test anxiety on exam grade (β = /C00.30, SE = 0.09, p < 0.001), but no effect of proctoring (p = 0.79) and no effect of the interaction between test anxiety and proctoring ( p = 0.72)."
 

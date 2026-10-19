@@ -49,3 +49,4 @@ The commentary reports Zusho's (2017) conclusions from reviewing the literature 
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md)
 - [Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory](perceived-control-competence-mega-theory-bridge.md)
 - [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md)
+- [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related

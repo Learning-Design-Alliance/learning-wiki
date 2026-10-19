@@ -63,3 +63,4 @@ Meta-analysis of 222 independent classroom studies integrating 48,478 students' 
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](quizzing-beats-restudying-and-elaborative-controls.md) — related
+- [Group testing shows advantages in some studies but mixed results overall for long-term retention and transfer](collaborative-testing-mixed-results.md) — a narrower finding that bears on this claim

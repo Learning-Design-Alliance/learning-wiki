@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study"
-description: "Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study"
+title: "In one study summarised in a policy brief, students and teachers who learned their commonalities through getting-to-know-you surveys reported more positive relationships, students earned higher grades, and achievement gaps for Black and Latinx students closed by more than 60%"
+description: "In one study summarised in a policy brief, students and teachers who learned their commonalities through getting-to-know-you surveys reported more positive relationships, students earned higher grades, and achievement gaps for Black and Latinx students closed by more than 60%"
 id: getting-to-know-you-surveys-commonalities-gap-closure
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study
+# In one study summarised in a policy brief, students and teachers who learned their commonalities through getting-to-know-you surveys reported more positive relationships, students earned higher grades, and achievement gaps for Black and Latinx students closed by more than 60%
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
-`q2 i?` In one study, students and teachers who learned about their commonalities reported more positive relationships, students earned higher grades, and achievement gap disparities for Black and Latinx students closed by more than 60%. [→ Hernández 2024](#hernandez-2024)
+`q2 i?` A policy brief reports, without identifying or describing the study, that in one study students and teachers who learned about their commonalities reported more positive relationships, students earned higher grades, and achievement gap disparities for Black and Latinx students closed by more than 60%. [→ Hernández 2024](#hernandez-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Hernández, L. E., & Darling-Hammond, L. (with Nielson, N.). (2024). Cultivating
 
 `q2 · i?` · `review · r1`
 
-The brief reports a single study of getting-to-know-you surveys administered at the beginning of the year, covering families, interests, hobbies, goals, and educational strengths. The gap-closure figure of more than 60% is printed in the brief, but no standardized effect size is printed, so impact is null; the underlying study is not described in detail.
+A research brief, not the study itself: it describes getting-to-know-you surveys administered at the beginning of the year (families, interests, hobbies, goals, educational strengths) and reports the results of "one study" secondhand, without naming it or describing its design. The gap-closure figure of more than 60% is printed in the brief, but no standardized effect size is, so impact is coded `i?` (not reported), which does not mean the effect was null. The brief's wording reports more positive relationships and higher grades; it does not establish that the surveys caused them.
 
 > "In one study, students and teachers who learned about their commonalities reported more positive relationships with each other. Students in that study also earned higher grades when teachers learned what they had in common, and achievement gap disparities for Black and Latinx students closed by more than 60%."
 

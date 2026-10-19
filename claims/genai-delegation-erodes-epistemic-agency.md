@@ -43,4 +43,4 @@ The paper reports, citing Gerlich (2025), Lee et al. (2025), and Kosmyna et al. 
 
 
 ## Related Claims
--
+- [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — related

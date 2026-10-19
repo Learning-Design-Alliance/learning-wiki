@@ -303,3 +303,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — a narrower finding that bears on this claim
 - [Effects of discovery-related approaches are differential, not uniform across students or learning goals](discovery-effects-differential-across-students-and-goals.md) — related
 - [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](scaffolds-prompt-p1-p2-engagement-at-start.md) — a narrower finding that bears on this claim
+- [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related

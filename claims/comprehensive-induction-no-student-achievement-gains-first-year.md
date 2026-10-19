@@ -67,7 +67,7 @@ Glazerman, S., Isenberg, E., Dolfin, S., Bleeker, M., Johnson, A., Grider, M., &
 
 `q3 · i?` · `causal · r?`
 
-In the same national randomized controlled evaluation, the one-year comprehensive induction condition showed no impact; the report states "For teachers who received one year of comprehensive induction, however, there was no impact." No effect size is printed.
+In the same national randomized controlled evaluation, the one-year comprehensive induction condition showed no impact; the report states "For teachers who received one year of comprehensive induction, however, there was no impact." The same summary reports that two years of comprehensive induction "can boost student achievement" compared with business-as-usual induction. No effect size is printed.
 
 > "For teachers who received one year of comprehensive induction, however, there was no impact."
 

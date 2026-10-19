@@ -46,3 +46,4 @@ In the Bloom-level experiment, selecting a lure (e.g., gravitation) on an applic
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
+- [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related

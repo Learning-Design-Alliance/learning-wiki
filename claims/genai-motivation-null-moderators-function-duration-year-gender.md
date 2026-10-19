@@ -85,3 +85,4 @@ Null moderator analyses within the meta-analysis: intervention duration and moti
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
 - [Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base](duration-nonsignificant-moderator-genai-writing.md) — related
+- [Effects on affirming motivations are larger when total intervention duration is longer and when the share of boys in the sample is higher](duration-and-gender-moderators.md) — reports the opposite

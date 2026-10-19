@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions"
-description: "Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions"
+title: "Continuing prompts long-term in learning journals confers no additional benefit: self-reported strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions, while the quantity of cognitive strategy use in the journals stays stable"
+description: "Continuing prompts long-term in learning journals confers no additional benefit: self-reported strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions, while the quantity of cognitive strategy use in the journals stays stable"
 id: long-term-prompting-no-added-benefit-declines-regardless
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions
+# Continuing prompts long-term in learning journals confers no additional benefit: self-reported strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions, while the quantity of cognitive strategy use in the journals stays stable
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium

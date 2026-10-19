@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-efficacy is related to the persistence of achievement gaps for English Language Learners
-description: Self-efficacy is related to the persistence of achievement gaps for English Language Learners
+title: An NWEA research brief examines how self-efficacy relates to the persistence of achievement gaps for English Language Learners; its landing page states no finding
+description: An NWEA research brief examines how self-efficacy relates to the persistence of achievement gaps for English Language Learners; its landing page states no finding
 id: self-efficacy-related-to-persistence-of-ell-achievement-gaps
 aliases: [self-efficacy-related-ell-achievement-gap]
 status: review
@@ -20,16 +20,14 @@ sources:
     rigour: "?"
 ---
 
-# Self-efficacy is related to the persistence of achievement gaps for English Language Learners
+# An NWEA research brief examines how self-efficacy relates to the persistence of achievement gaps for English Language Learners; its landing page states no finding
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
 
 ## Subclaims
 
-`q1 i?` The brief addresses a relationship between self-efficacy and the persistence of achievement gaps for English Language Learners. [→ James Soland 2019](#james-soland-2019)
-
-`q1 i?` There is a relationship between self-efficacy and the achievement gap for English Language Learners (ELLs). [→ James Soland 2019](#james-soland-2019)
+`q1 i?` The brief's landing page says only that it concerns the relationship between self-efficacy and the persistence of achievement gaps for English Language Learners; it reports no finding about whether or how the two are related. [→ James Soland 2019](#james-soland-2019)
 
 ## Evidence
 
@@ -39,7 +37,7 @@ James Soland. (2019). English Language Learners, self-efficacy, and the achievem
 
 `q1 · i?` · `associational · r?`
 
-The publication landing page for this NWEA research brief describes its topic in one sentence: it invites readers to "Learn more about the relationship between self-efficacy and the persistence of achievement gaps for English Language Learners." No findings, statistics, sample, or methods are printed on the page, so no effect size is available.
+The publication landing page for this NWEA research brief describes its topic in one sentence: it invites readers to "Learn more about the relationship between self-efficacy and the persistence of achievement gaps for English Language Learners." No findings, statistics, sample, or methods are printed on the page, so the page does not establish that a relationship exists, and no effect size is available.
 
 > "Learn more about the relationship between self-efficacy and the persistence of achievement gaps for English Language Learners."
 
@@ -56,6 +54,8 @@ A November 2019 NWEA webinar presentation by James Soland addresses this topic; 
 -->
 
 ## Discussion
+
+The associated working paper listed on the page, "English Language Learners, self-efficacy, and the achievement gap: understanding the relationship between academic and social-emotional growth", was published as Soland, J., & Sandilos, L. E. (2020), English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-Emotional Growth, Journal of Education for Students Placed at Risk (JESPAR), [doi:10.1080/10824669.2020.1787171](https://doi.org/10.1080/10824669.2020.1787171); its findings have not been read into this page. (Crossref confirms the title, both authors and the 2020 date.)
 
 
 

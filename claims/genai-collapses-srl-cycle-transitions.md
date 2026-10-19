@@ -55,3 +55,4 @@ The paper reports, citing Fan et al.'s study, that the SRL cycle is vulnerable t
 - Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.) — related
 - [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](ai-answers-bypass-effortful-meaning-making.md) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
+- [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — a broader claim this one bears on

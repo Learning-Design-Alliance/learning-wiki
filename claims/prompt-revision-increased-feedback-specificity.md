@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds
-description: Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds
+title: Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison
+description: Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison
 id: prompt-revision-increased-feedback-specificity
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds
+# Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` A revised prompt predicted lower odds of low-specificity feedback (OR = 0.04, p = .003) and higher odds of score-5 specificity (OR = 2.97, p < .001), mainly reducing generic/repetitive complaints. [→ Andres Karjus 2026](#andres-karjus-2026)
+`q2 i?` A revised prompt predicted lower odds of low-specificity feedback (OR = 0.04, p = .003) and higher odds of score-5 specificity (OR = 2.97, p < .001), mainly reducing generic/repetitive complaints; this is an observational association across prompt versions, not a tested causal effect. [→ Andres Karjus 2026](#andres-karjus-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Andres Karjus, Janika Leoste, Tiia Õun. (2026). Student Evaluation of Repeated 
 
 `q2 · i?` · `associational · r2`
 
-Mixed-effects logistic models with student random intercepts and homework number, comparing prompt versions after a revision following HW4. Lower-specificity cases fell from 2% to less than 1% while score-5 feedback rose from 2% to 11%.
+Mixed-effects logistic models with student random intercepts and homework number, comparing prompt versions after a revision following HW4. Lower-specificity cases fell from 2% to less than 1% while score-5 feedback rose from 2% to 11%. The study is a retrospective observational analysis of one course's coursework, and the prompt version changed at one point in the semester, so the association cannot show that the revision caused the shift.
 
 > "therevisedpromptpredictedloweroddsoflower-speciﬁcityfeedback(OR=0.04,𝑝=.003)andhigheroddsofscore-5speciﬁcity(OR=2.97,𝑝<.001)"
 

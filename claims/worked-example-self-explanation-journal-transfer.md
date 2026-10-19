@@ -54,3 +54,4 @@ Experiment with high school students who read a journal-writing introduction, th
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis](writing-improves-mathematical-understanding.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
+- [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — a broader claim this one bears on

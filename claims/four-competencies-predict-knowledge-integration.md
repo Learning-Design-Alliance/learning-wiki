@@ -35,7 +35,7 @@ Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through indi
 
 `q2 · i?` · `associational · r2`
 
-Cross-sectional online survey of 421 participants with ITD experience; multiple regression with the four competency scales predicting self-reported knowledge integration. The article reports "R 2 = 0.36, F(4,416) = 61.12, p < 0.001"; all beta confidence intervals excluded zero. No standardized effect size is printed, so impact is null.
+Cross-sectional online survey of 421 participants with ITD experience; multiple regression with the four competency scales predicting self-reported knowledge integration. The article reports "R 2 = 0.36, F(4,416) = 61.12, p < 0.001"; all beta confidence intervals excluded zero. The article prints no per-predictor effect size on the impact scale, so impact is coded `i?` (not reported); this does not mean the relationships are null, since each competency's coefficient was significantly positive.
 
 > "Table 4 shows that the competence constructs explained 36% of the variance in knowledge integration (R 2 = 0.36, F(4,416) = 61.12, p < 0.001). The bias-corrected confidence intervals for all beta weights did not contain zero"
 

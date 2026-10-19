@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control
-description: Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control
+title: Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control
+description: Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control
 id: attentional-control-buffers-speech-anxiety-performance
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 1
 ---
 
-# Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control
+# Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
-`q3 i?` The negative effect of public speaking anxiety on judged speech quality is statistically significant only at low levels of attentional control (ACS values of 2.59 or less). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)
-`q3 i?` The negative effect of public speaking anxiety on speech length is statistically significant only at low levels of attentional control (ACS values at or lower than 2.60). [→ Jones Christopher R. 2012 (2)](#jones-christopher-r-2012-2)
+`q3 i?` The negative association between measured public speaking anxiety and judged speech quality is statistically significant only at low levels of attentional control (ACS values of 2.59 or less); anxiety was measured, not manipulated, so this is a moderated association, not a causal effect. [→ Jones Christopher R. 2012](#jones-christopher-r-2012)
+`q3 i?` The negative association between measured public speaking anxiety and speech length is statistically significant only at low levels of attentional control (ACS values at or lower than 2.60), with a marginal interaction (p < .06). [→ Jones Christopher R. 2012 (2)](#jones-christopher-r-2012-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Con
 
 `q3 · i?` · `associational · r2`
 
-Regression analysis in the Results section of a two-session study of 61 undergraduates who gave a three-minute videotaped speech. Mean-centered ACS, PRCS, and their interaction predicted judges' ratings of speech quality. The interaction was significant, "b = .17, t(57) = 2.41, p = .02", and Johnson-Neyman probing showed anxiety's effect was negative and significant only at low ACS.
+Regression analysis in the Results section of a two-session study of 61 undergraduates who gave a three-minute videotaped speech. Mean-centered ACS, PRCS, and their interaction predicted judges' ratings of speech quality. The interaction was significant, "b = .17, t(57) = 2.41, p = .02", and Johnson-Neyman probing showed the anxiety slope was negative and significant only at low ACS. Anxiety and attentional control were measured as individual differences, so the study shows an association, not that anxiety causes poorer performance.
 
 > "On the primary dependent variable, judges’ ratings of speech quality, an interaction between ACS and PRCS was obtained: b = .17, t(57) = 2.41, p = .02."
 
@@ -54,7 +54,7 @@ Jones Christopher R., Fazio Russell H., Vasey Michael W. (2012). Attentional Con
 
 `q3 · i?` · `associational · r1`
 
-Regression analysis in the Results section predicting seconds of speech from mean-centered ACS, PRCS, and their interaction in the same 61-participant sample. The interaction was marginal, "b = 3.25, t(57) = 1.92, p < .06", and probing showed the negative effect of anxiety on speech length was significant only at ACS values at or below 2.60.
+Regression analysis in the Results section predicting seconds of speech from mean-centered ACS, PRCS, and their interaction in the same 61-participant sample. The interaction was marginal, "b = 3.25, t(57) = 1.92, p < .06", and probing showed the negative association of anxiety with speech length was significant only at ACS values at or below 2.60. Both predictors were measured, not manipulated, so this is not a causal effect.
 
 > "An interaction emerged between ACS and PRCS: b = 3.25, t(57) = 1.92, p < .06 (see Figure 2)."
 

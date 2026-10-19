@@ -140,7 +140,7 @@ Assisted success in practice, unaided performance in class, performance in the r
 - [Strengths-based Approach](strengths-based-approach.md) — reading and naming what a learner can already do, which the feedback move applies
 - [Universal Design for Learning](universal-design-for-learning.md) — planning alternatives to demands that are not part of the goal, such as speech or print
 - [Least Restrictive Environment](least-restrictive-environment.md) — the placement rule that decides where this instruction happens
-- [Supporting Students with Autism Spectrum Disorder](supporting-students-with-autism-spectrum-disorder.md) — a neighbouring page on another group of students who often share classes and supports
+- [Supporting Students with Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — a neighbouring page on another group of students who often share classes and supports
 
 ## Examples
 - [Self-Determined Learning Model of Instruction](../strategies/self-determined-learning-model-of-instruction.md) — students set, plan and review their own goals

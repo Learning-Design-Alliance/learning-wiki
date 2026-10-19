@@ -35,7 +35,7 @@ Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive vers
 
 `q3 · i2` · `causal · r3`
 
-Exploratory moderation analyses in the N = 132 field experiment with conscientiousness as moderator of condition effects on subjective perceptions. The article reports η²p = .04 and η²p = .05, small-to-medium effects, based on visual inspection of interactions shown in Fig. 2.
+Exploratory moderation analyses in the N = 132 field experiment with conscientiousness as moderator of condition effects on subjective perceptions. The article reports η²p = .04 and η²p = .05, which are small effects by its own thresholds (η²p = .01 small, .06 medium, .14 large); the direction of the interactions comes from visual inspection of Fig. 2.
 
 > "conscientiousness moderated the effect of condition on subjective difficulty, F(1, 115) = 4.39, p = .038, η²p = .04, and on enjoyment, F(1, 114) = 5.63, p = .019, η²p = .05."
 

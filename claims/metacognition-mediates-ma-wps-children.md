@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ"
-description: "Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ"
+title: "Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ"
+description: "Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ"
 id: metacognition-mediates-ma-wps-children
 status: review
 generated:
@@ -17,7 +17,7 @@ sources:
     rigour: 2
 ---
 
-# Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ
+# Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
@@ -33,7 +33,7 @@ Lai Y, Zhu X, Chen Y, Li Y (2015) Effects of Mathematics Anxiety and Mathematica
 
 `q3 · i?` · `associational · r2`
 
-Structural equation modeling of data from 224 fourth-grade children, controlling for non-verbal IQ. The fully mediated model fit well and the bootstrapped indirect effect was "-0.08", with 95% CI "-0.14 to -0.012" not overlapping zero.
+Structural equation modeling of data from 224 fourth-grade children, controlling for non-verbal IQ. The fully mediated model fit well and the bootstrapped indirect effect was "-0.08", with 95% CI "-0.14 to -0.012" not overlapping zero. The data are cross-sectional and nothing was manipulated; the authors state that the model cannot establish a causal relationship and that longitudinal data would be needed for one.
 
 > "The results of Model 2 revealed a significant negative path from the latent MA variable to the latent variable Metacognition (ß = -0.51, p = .001) and a significant positive path from Metacognition to WPS (ß = 0.15, p = .02)."
 

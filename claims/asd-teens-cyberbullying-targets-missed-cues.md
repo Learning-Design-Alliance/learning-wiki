@@ -43,6 +43,7 @@ The brief asserts, without cited evidence, that individuals with autism are "oft
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction](asd-teens-vulnerable-compulsive-internet-use.md) — related

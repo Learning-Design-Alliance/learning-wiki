@@ -88,6 +88,7 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 **[Bransford & Schwartz's "Preparation for Future Learning"](https://doi.org/10.1037/0033-295X.106.1.60)** — Contrasting-case activities that precede instruction measurably improve learners' ability to transfer to new problems.
 
 **[Khan Academy Mastery System](https://www.khanacademy.org)** — Spaced, varied problem sets that re-present a skill in new contexts after initial practice, functioning as near-transfer tasks.
+- [Evaluate proposed instructional approaches with controlled experiments measuring far-transfer problem solving](../strategies/experimental-tests-functional-intelligence-effects.md)
 
 ## Key Sources
 - Bransford, J. D., & Schwartz, D. L. (1999). Rethinking transfer: A simple proposal with multiple implications. *Review of Research in Education, 24*(1), 61–100. [doi:10.3102/0091732X024001061](https://doi.org/10.3102/0091732X024001061)

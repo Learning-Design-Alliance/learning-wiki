@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback, with no effect on feedback regulation
-description: Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback, with no effect on feedback regulation
+title: Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback; on feedback regulation it has no main effect, but its effect depends on agent type
+description: Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback; on feedback regulation it has no main effect, but its effect depends on agent type
 id: socratic-feedback-comprehension-monitoring-task-orientation
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: "?"
 ---
 
-# Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback, with no effect on feedback regulation
+# Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback; on feedback regulation it has no main effect, but its effect depends on agent type
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2`–`i3`

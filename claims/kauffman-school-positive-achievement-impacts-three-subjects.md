@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014
-description: The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014
+title: The Kauffman School had substantial positive, statistically significant impacts on student achievement in mathematics, reading, and science during its first three years of operation
+description: The Kauffman School had substantial positive, statistically significant impacts on student achievement in mathematics, reading, and science during its first three years of operation
 id: kauffman-school-positive-achievement-impacts-three-subjects
 aliases: [kauffman-school-significant-achievement-impacts-first-three-years, kauffman-school-positive-achievement-impacts-math-reading-science]
 status: review
@@ -28,7 +28,7 @@ sources:
     rigour: "?"
 ---
 
-# The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014
+# The Kauffman School had substantial positive, statistically significant impacts on student achievement in mathematics, reading, and science during its first three years of operation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`

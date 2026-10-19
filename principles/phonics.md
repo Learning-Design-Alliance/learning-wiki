@@ -31,7 +31,7 @@ sources:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (16 for, 7 mixed) · 39 studies (11 quant-synthesis, 10 causal, 8 review, 5 theoretical, 4 associational, 1 qualitative), `q1`–`q4` · 10 of 39 report an effect size · 11 claims rest on one study
+> **Evidence** · 23 claims (16 for, 7 mixed) · 40 studies (11 quant-synthesis, 10 causal, 8 review, 5 associational, 5 theoretical, 1 qualitative), `q1`–`q4` · 10 of 40 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 

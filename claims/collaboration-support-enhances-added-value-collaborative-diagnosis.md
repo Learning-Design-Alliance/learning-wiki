@@ -45,3 +45,4 @@ An experimental summary reported in the article's abstract: collaboration alone 
 ## Related Claims
 - [Increased information sharing appears to be the reason collaboration support enhances the added value of collaborative diagnosis](information-sharing-mechanism-collaborative-diagnosis-support.md) — a narrower finding that bears on this claim
 - [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](adaptive-feedback-improves-diagnosis-justification.md) — related
+- [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related

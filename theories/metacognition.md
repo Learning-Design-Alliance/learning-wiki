@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 379 claims (181 for, 177 mixed, 21 against) · 184 studies (93 causal, 44 associational, 13 review, 12 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 68 of 184 report an effect size · 372 claims rest on one study
+> **Evidence** · 385 claims (184 for, 180 mixed, 21 against) · 188 studies (94 causal, 45 associational, 14 review, 12 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 70 of 188 report an effect size · 378 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -421,6 +421,12 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](../claims/verbalizing-overconfidence-consistency-local-failures.md) [~W]
 - [For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes](../claims/yao-linear-growth-mck-vk.md) [+W]
 - [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](../claims/wmpt-measures-vary-with-difficulty.md) [~W]
+- [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](../claims/negative-effort-monitoring-correlation-meta-analysis.md) [+W] — attached 2026-10-19 from Martine Baars et al. (2020), which proposed "Cue utilization perspective with data-driven versus goal-driven self-regulation as an account of effort-based monitoring".
+- [Goal-driven manipulations (incentives, time pressure, self-agency) weaken the negative effort–monitoring correlation to nonsignificance](../claims/goal-driven-manipulations-eliminate-negative-correlation.md) [~W] — attached 2026-10-19 from Martine Baars et al. (2020), which proposed "Cue utilization perspective with data-driven versus goal-driven self-regulation as an account of effort-based monitoring".
+- [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](../claims/generative-tasks-monitoring-accuracy-not-outcomes.md) [+W]
+- [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](../claims/practice-feedback-improves-metacognitive-calibration.md) [+W]
+- [The relationship between invested mental effort and self-assessed understanding is weak and inconsistent, with most correlations non-significant and mixed directions](../claims/effort-understanding-weak-inconsistent-relationship.md) [~W]
+- [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](../claims/effort-item-wording-flips-correlation-direction.md) [~W]
 
 ## The evidence by question
 

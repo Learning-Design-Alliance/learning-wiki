@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst
-description: Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst
+title: Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third
+description: Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third
 id: observed-interest-arousal-predicts-poorer-readiness
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst
+# Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Expressions of interest/arousal predicted less social competence and more hyperactivity. [→ Berhenke 2011](#berhenke-2011)
-`q3 i?` Children in the top third of the interest/arousal distribution were rated less socially competent than those in the middle and bottom third. [→ Berhenke 2011 (2)](#berhenke-2011-2)
+`q3 i?` Children in the top third of the interest/arousal distribution were rated less socially competent than those in the middle and bottom third; for hyperactivity, the top and middle thirds were both rated higher than the bottom third. [→ Berhenke 2011 (2)](#berhenke-2011-2)
 
 ## Evidence
 
@@ -54,7 +54,7 @@ Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, 
 
 `q3 · i?` · `associational · r2`
 
-Follow-up analysis comparing bottom, middle, and top thirds of the interest/arousal distribution; "Children in the top third of the distribution were rated by teachers as less socially competent than those in the middle and bottom third."
+Follow-up analysis comparing bottom, middle, and top thirds of the interest/arousal distribution; "Children in the top third of the distribution were rated by teachers as less socially competent than those in the middle and bottom third." For hyperactivity, interpersonal and self-regulatory skills the split differed: children in the top and middle thirds were rated more hyperactive (t (114) = 3.04, p < 0.01) and weaker on both skills than those in the bottom third, so the top third was not uniquely worst on those.
 
 > "Children in the top third of the distribution were rated by teachers as less socially competent than those in the middle and bottom third (t (114) = −2.70, p < 0.01)."
 

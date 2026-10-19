@@ -26,7 +26,7 @@ sources:
 <!-- title before 2026-10-15: World History Project students show comparable competency to comparison students in the other five historical thinking skills -->
 
 ## Subclaims
-`q3 i?` No notable impacts were detected for historical argumentation, causation, comparison, contextualization, or sourcing outcomes; argumentation and overall summative differences were notable but not statistically significant. [→ Iwatani 2023](#iwatani-2023)
+`q3 i?` Beyond continuity and change over time, the report detected no statistically significant impact on student historical thinking skills: estimates for argumentation summative activities and summative work overall were notable (.39 and .36 SD) but not statistically significant, and no notable impacts were detected for the remaining skills. [→ Iwatani 2023](#iwatani-2023)
 
 ## Evidence
 
@@ -36,7 +36,7 @@ Iwatani, E., Hardy, A., Means, B., Daal, S., & Wei, X. (2023). Evaluation of Wor
 
 `q3 · i?` · `causal · r1`
 
-In the same student-work analysis, the report found no statistically significant differences for the remaining skills; only untested descriptive rubric-score increases of .26 and .32 points were printed for argumentation and overall summative work.
+In the same student-work analysis, the report found no statistically significant differences for the remaining skills; for argumentation summative activities and summative work overall it printed impact estimates of .26 and .32 rubric points (.39 and .36 standard deviations), which it describes as notable but not statistically significant, and no notable impacts for the remaining skills.
 
 > "We also found seemingly notable, but not statistically significant, impact estimates on student outcomes for historical argumentation summative activities, and summative activities overall. For these, the use of World History Project was associated with a .26 point and .32 point increase in rubric scores"
 

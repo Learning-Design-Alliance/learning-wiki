@@ -13,7 +13,7 @@ sources:
     title: "Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)"
     author: "Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R."
     q: 3
-    i: "?"
+    i: 1
     n: not stated in abstract (k unreported)
     kind: quant-synthesis
     rigour: "?"
@@ -22,13 +22,13 @@ sources:
 # Peer-assisted learning interventions improve achievement for elementary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · n=not stated in abstract (k unreported)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=not stated in abstract (k unreported)
 
 Peer-assisted learning (PAL) — structured interventions in which students teach, tutor or work interdependently with one another — raises elementary students' academic achievement relative to comparison instruction. The claim is scoped to elementary grades, where the meta-analytic evidence is concentrated.
 
 ## Subclaims
 
-`q3 i?` A meta-analytic review of group-comparison studies finds peer-assisted learning interventions produce positive effect sizes for achievement among elementary school students, with larger gains for younger, urban, low-income and minority students. [→ Rohrbeck et al. 2003](#rohrbeck-et-al-2003)
+`q3 i1` A meta-analytic review of group-comparison studies finds peer-assisted learning interventions produce positive effect sizes for achievement among elementary school students (weighted d = 0.33; unweighted mean 0.59), with larger gains for younger, urban, low-income and minority students. [→ Rohrbeck et al. 2003](#rohrbeck-et-al-2003)
 
 ## Evidence
 
@@ -36,13 +36,13 @@ Peer-assisted learning (PAL) — structured interventions in which students teac
 
 Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
 
-`q3 · meta-analytic review (abstract only)` · `i? · no effect size reported (abstract does not state a pooled d/g)` · `n=not stated in abstract (k unreported)` · `quant-synthesis · r?`
+`q3 · meta-analytic review (abstract only)` · `i1 · small effect, weighted d = 0.33, 95% CI 0.29–0.37 (unweighted mean ES = 0.59)` · `n=not stated in abstract (k unreported)` · `quant-synthesis · r?`
 
-A meta-analytic review of group-comparison-design studies evaluating peer-assisted learning (PAL) interventions with elementary school students. The review reports positive effect sizes on achievement outcomes overall, and finds PAL was most effective with younger, urban, low-income, and minority students. Interventions using interdependent reward contingencies, ipsative (self-referenced) evaluation procedures, and greater student autonomy showed higher effect sizes.
+A meta-analytic review of group-comparison-design studies evaluating peer-assisted learning (PAL) interventions with elementary school students. The review reports positive effect sizes on achievement outcomes overall (weighted d = 0.33, p < .0001, 95% CI 0.29–0.37; unweighted mean ES = 0.59, SD = 0.90), and finds PAL was most effective with younger, urban, low-income, and minority students. Interventions using interdependent reward contingencies, ipsative (self-referenced) evaluation procedures, and greater student autonomy showed higher effect sizes.
 
 ## Discussion
 
-**What the recorded evidence shows.** The meta-analysis recorded above, read as an abstract, reports positive effects on achievement and larger ones for younger, urban, low-income and minority students. Interventions with interdependent group rewards, self-referenced (ipsative) evaluation and more student autonomy showed larger effects. The abstract gives no pooled effect size.
+**What the recorded evidence shows.** The meta-analysis recorded above, read as an abstract, reports positive effects on achievement and larger ones for younger, urban, low-income and minority students. Interventions with interdependent group rewards, self-referenced (ipsative) evaluation and more student autonomy showed larger effects. The abstract gives a weighted pooled effect of d = 0.33 (unweighted mean 0.59).
 
 **How it relates to neighbouring claims.** Tutoring programmes in general are covered by [peer tutoring improves achievement](peer-tutoring-improves-achievement.md), the value of structure by [structured peer tutoring outperforms unstructured](structured-peer-tutoring-outperforms-unstructured.md), and gains for the tutor by [tutoring benefits tutors and tutees](peer-tutoring-improves-achievement.md).
 

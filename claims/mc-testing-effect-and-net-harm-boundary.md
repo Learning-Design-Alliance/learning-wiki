@@ -70,3 +70,4 @@ Descriptive comparison in the no-study–no-feedback condition: intrusions (M = 
 - [Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences](feedback-reduces-lure-production.md) — related
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — possibly the same claim (merge candidate)
+- [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related

@@ -221,3 +221,4 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — possibly the same claim (merge candidate)
 - [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](imagination-effect-expertise-reversal.md) — a narrower finding that bears on this claim
 - [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](expertise-reversal-evolutionary-interpretation.md) — a narrower finding that bears on this claim
+- [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related

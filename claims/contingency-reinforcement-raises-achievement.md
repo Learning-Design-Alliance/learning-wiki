@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: spilerman-1970
-    resource: "https://doi.org/10.2307/2111965"
-    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396 [doi:10.2307/2111965](https://doi.org/10.2307/2111965)"
+    resource: "https://eric.ed.gov/?id=ED133396"
+    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. Institute for Research on Poverty, University of Wisconsin. [ERIC ED133396](https://eric.ed.gov/?id=ED133396). [doi:10.2307/2111965](https://doi.org/10.2307/2111965)"
     author: Spilerman, Seymour
     q: 2
     i: "?"
@@ -31,11 +31,11 @@ sources:
 
 ### Spilerman 1970
 
-Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396 [doi:10.2307/2111965](https://doi.org/10.2307/2111965)
+Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. Institute for Research on Poverty, University of Wisconsin. [ERIC ED133396](https://eric.ed.gov/?id=ED133396). [doi:10.2307/2111965](https://doi.org/10.2307/2111965)
 
 `q2 · i?` · `review · r1`
 
-Narrative survey of reinforcement studies (Baer and Wolf; Martin et al.; Staats et al.; Tyler and Brown) reporting that "a planned design of contingency reinforcement can lead to higher achievement than would normally occur in the classroom" across age and population types. No effect sizes are printed.
+Discussion paper (read in its ERIC full text) arguing for peer-group reward structures for lower-class adolescents; its literature survey of reinforcement studies (Baer and Wolf; Martin et al.; Staats et al.; Tyler and Brown) reports that "a planned design of contingency reinforcement can lead to higher achievement than would normally occur in the classroom" across age and population types. No effect sizes are printed. A version was published in 1971 in *Sociology of Education* 44; its abstract presents only the argument, not this survey of evidence.
 
 > "There is empirical evidence that a planned design of contingency reinforcement can lead to higher achievement than would normally occur in the classroom."
 

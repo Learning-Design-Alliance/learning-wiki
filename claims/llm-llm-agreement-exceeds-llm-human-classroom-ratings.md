@@ -51,3 +51,4 @@ Analysis of 16 LLMs' ordinal ratings of 479 lesson transcripts from 311 classroo
 - [Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement](machine-machine-above-human-machine-below-human-human.md) — possibly the same claim (merge candidate)
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](teachingcoach-outperforms-gpt4o-expert-ratings.md) — related
 - [Full-scale LLM versions consistently achieve higher agreement with human grades than their mini and nano counterparts](full-scale-llms-outperform-mini-nano-grading.md) — related
+- [Machine learning measures of student engagement correlate moderately to highly with manual ratings, but manual ratings better predict self-reported engagement](goldberg-ml-engagement-measurement.md) — related

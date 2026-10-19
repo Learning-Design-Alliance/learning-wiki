@@ -50,3 +50,4 @@ The comparison is between two non-randomised cohorts, medical students in the or
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](tbl-team-dynamics-no-format-differences.md) — related
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
+- [Merely modifying teaching methods in medical and dental schools has limited merit for steering students' learning approaches; no one-size-fits-all teaching method exists](teaching-method-modification-limited-merit.md) — related

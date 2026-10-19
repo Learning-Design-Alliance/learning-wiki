@@ -2,7 +2,7 @@
 
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-**74 entries** · 0 stable · 74 in review · 0 drafts
+**75 entries** · 0 stable · 75 in review · 0 drafts
 
 ---
 
@@ -26,6 +26,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Arithmetic Fact Retrieval](arithmetic-fact-retrieval.md) - A learner's ability to recall basic number combinations, such as single-digit sums and products, quickly and accurately from memory.
 * [Attention](attention.md) - How long a learner can sustain focus on one thing, and how easily something else takes it away.
 * [Auditory Processing](auditory-processing.md) - How the brain makes sense of the sounds that reach it through hearing: locating, distinguishing and interpreting sounds, especially speech.
+* [Autism Spectrum Disorder](autism-spectrum-disorder.md) - Autism, a lifelong developmental difference in social communication and in patterns of behaviour, interests and sensory processing, recorded in research by clinical diagnosis or school category; it varies widely between people and is distinct from intellectual ability.
 
 #### B {: #letter-b }
 

@@ -49,3 +49,6 @@ Group comparisons (ANOVA/chi-square) in the CLDRC twin sample of 241 RD-only, 18
 - [Groups with reading difficulties perform significantly better than controls on the Stroop interference measure, and only math groups show set-shifting weakness](stroop-advantage-rd-set-shifting-md-only.md) — related
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related
 - [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](disorder-specific-phoneme-naming-set-shifting.md) — related
+- [Executive function deficits in comorbid RDMD show some evidence of under-additivity, especially in inhibition, shifting, and updating](rdmd-executive-function-under-additivity.md) — related
+- [The math deficit profile of children with comorbid RDMD is additive: it equals the sum of the deficits of isolated RD and MD groups](rdmd-math-deficits-additive.md) — related
+- [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related

@@ -36,7 +36,7 @@ McElhaney, K. W., & Kamdar, D. (2024). Updated summary and synthesis of OpenSciE
 
 `q3 · i?` · `review · r2`
 
-The review reports, citing Singleton et al. (2024), survey responses from 847 middle school science students in 34 classrooms across nine states collected during the OpenSciEd field test. No effect size is printed, so impact is null.
+The review reports, citing Singleton et al. (2024), survey responses from 847 middle school science students in 34 classrooms across nine states collected during the OpenSciEd field test. The review prints no effect size for this association, so its magnitude is coded `i?` (not reported), which does not mean the association is null.
 
 > "Both collective enterprise and care were positively associated with students' interest in science."
 

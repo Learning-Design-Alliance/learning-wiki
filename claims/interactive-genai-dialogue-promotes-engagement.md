@@ -9,9 +9,9 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 sources:
-  - id: raigul-zheldibayeva-2025
+  - id: raigul-zheldibayeva-2026
     resource: "https://doi.org/10.48550/arxiv.2605.17055"
-    title: "Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)"
+    title: "Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2026). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)"
     author: Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
-`q2 i?` When the conversational feature was available and visible, students asked follow-up questions and engaged in iterative feedback-revision cycles. [→ Raigul Zheldibayeva 2025](#raigul-zheldibayeva-2025)
+`q2 i?` When the conversational feature was available and visible, students asked follow-up questions and engaged in iterative feedback-revision cycles. [→ Raigul Zheldibayeva 2026](#raigul-zheldibayeva-2026)
 
 ## Evidence
 
-### Raigul Zheldibayeva 2025
+### Raigul Zheldibayeva 2026
 
-Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)
+Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2026). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)
 
 `q2 · i?` · `qualitative · r3`
 

@@ -54,3 +54,4 @@ Between-subjects experiment comparing diagram completion plus self-assessment (n
 - [Prompted self-assessment decreases utilization of the low-diagnosticity commission-errors cue](self-assessment-decreases-commission-errors-cue-utilization.md) — related
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related
 - [Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition](teacher-monitoring-accuracy-null-differences-name-only-vs-diagram-conditions.md) — related
+- [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](generative-tasks-monitoring-accuracy-not-outcomes.md) — related

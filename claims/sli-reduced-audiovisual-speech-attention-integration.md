@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Children with SLI/DLD show decreased selective attention to audiovisual speech, reduced sensitivity to temporal synchrony, and lesser perceptual gain from audiovisual versus auditory-only speech in noise. [→ Wallace 2020](#wallace-2020)
+`q2 i?` Children with SLI/DLD, or a history of it, show decreased selective attention to audiovisual speech and reduced sensitivity to temporal synchrony; the review adds that persons with SLI gain less perceptual accuracy from audiovisual than auditory-only speech in noise. [→ Wallace 2020](#wallace-2020)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Wallace, M. T., Woynaroski, T. G., & Stevenson, R. A. (2020). Multisensory Integ
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing studies using psychophysics, eye tracking, and EEG/ERP, that children with SLI show decreased selective attention to audiovisual speech and reduced temporal synchrony sensitivity, and citing Huyse et al. that they gain less perceptual accuracy from audiovisual versus auditory-only speech in noise.
+The review reports, citing studies using psychophysics, eye tracking, and EEG/ERP, that children with SLI show decreased selective attention to audiovisual speech and reduced temporal synchrony sensitivity, and, citing Huyse et al., that persons with SLI (the review does not restrict this sentence to children) gain less perceptual accuracy from audiovisual versus auditory-only speech in noise.
 
 > "Relative to controls, they experience a lesser degree of gain in perceptual accuracy in noisy listening conditions with access to audiovisual versus auditory-only speech (Huyse et al.2015)"
 

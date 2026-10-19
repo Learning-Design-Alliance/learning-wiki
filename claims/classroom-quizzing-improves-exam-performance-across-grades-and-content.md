@@ -130,3 +130,4 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — related
 - [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related
+- [More frequent exams are associated with better learning outcomes, including better grades and lower dropout, in classroom comparisons](frequent-exams-better-outcomes-leeming.md) — related

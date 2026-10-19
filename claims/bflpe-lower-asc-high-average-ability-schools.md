@@ -1,0 +1,54 @@
+---
+type: claim
+title: Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49
+description: Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49
+id: bflpe-lower-asc-high-average-ability-schools
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: moderate
+sources:
+  - id: marsh-2008
+    resource: "https://doi.org/10.1007/s10648-008-9075-6"
+    title: "Marsh, H. W., Seaton, M., Trautwein, U., Lüdtke, O., Hau, K. T., O'Mara, A. J., & Craven, R. G. (2008). The Big-fish–little-pond-effect Stands Up to Critical Scrutiny: Implications for Theory, Methodology, and Future Research. Educ Psychol Rev. https://doi.org/10.1007/s10648-008-9075-6"
+    author: "Marsh, H. W., Seaton, M., Trautwein, U., Lüdtke, O., Hau, K. T., O'Mara, A. J., & Craven, R. G."
+    q: 3
+    i: 2
+    kind: review
+    rigour: 2
+---
+
+# Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
+
+## Subclaims
+`q3 i2` Students have lower academic self-concepts when attending schools where the average ability of other students is high, compared to equally able students in low-average-ability schools. [→ Marsh 2008](#marsh-2008)
+`q2 i2` In PISA 2003 analyses across 41 countries, the BFLPE effect size was 0.49, judged large enough to warrant practical attention. [→ Marsh 2008](#marsh-2008)
+
+## Evidence
+
+### Marsh 2008
+
+Marsh, H. W., Seaton, M., Trautwein, U., Lüdtke, O., Hau, K. T., O'Mara, A. J., & Craven, R. G. (2008). The Big-fish–little-pond-effect Stands Up to Critical Scrutiny: Implications for Theory, Methodology, and Future Research. Educ Psychol Rev. https://doi.org/10.1007/s10648-008-9075-6
+
+`q3 · i2` · `review · r2`
+
+Review of secondary analyses of the PISA 2003 international assessment across 41 countries. The review reports that Seaton replicated cross-cultural support for the BFLPE and that "the BFLPE effect size (0.49) was sufficiently large to warrant practical attention as well as being substantively and theoretically important."
+
+> "In a subsequent analysis of PISA 2003 that included an even more diverse set of 41 countries than the 26 countries in PISA 2000 considered by Marsh and Hau ( 2003), Seaton ( 2007 also see Seaton et al. 2008a, b) replicated support for the cross-cultural generalizability of the BFLPE"
+
+## Discussion
+
+
+## Related Claims
+- [The negative contrast effect of high school-average achievement outweighs a weaker positive assimilation (reflected glory) effect](bflpe-contrast-outweighs-assimilation.md) — a narrower finding that bears on this claim
+- [The BFLPE generalizes across countries, cultures, settings, and long-term follow-ups](bflpe-cross-cultural-generalizability.md) — a broader claim this one bears on
+- [The BFLPE is domain-specific: school-average achievement affects academic self-concept but not global self-esteem or non-academic self-concept](bflpe-domain-specificity-asc.md) — related
+- [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — a narrower finding that bears on this claim
+- [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — related
+- [Reanalyses of SCT choice-paradigm studies support the BFLPE, which was not moderated by students' chosen comparison targets](bflpe-reanalyses-not-moderated-by-comparison-choice.md) — related
+- [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](perceived-performance-mediates-bflpe.md) — related
+- [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related

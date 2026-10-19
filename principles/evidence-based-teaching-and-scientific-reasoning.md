@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (11 for, 9 mixed, 2 against) · 22 studies (6 causal, 6 review, 5 associational, 2 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 22 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (13 for, 9 mixed, 2 against) · 23 studies (6 causal, 6 review, 5 associational, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 23 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare](../claims/teacher-observation-primary-perception-data-source.md) [-W] — interviews with 10 middle-school maths teachers nominated as early adopters; describes reliance on personal observation for one kind of judgment; bears on this page only as a description of practice.
 - [A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate](../claims/trust-not-equivalent-to-ai-accuracy.md) [+W] — a mixed-methods study of 40 undergraduates in physics, reported in a review; bears on trust without checking, for a new kind of source, not on teachers' adoption decisions.
 - [Sequential Field Testing Go No Go](../claims/sequential-field-testing-go-no-go.md) [+W]
+- [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](../claims/ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) [+W] — attached 2026-10-19 from Kimmo Sorjonen et al. (2025), which proposed "Do not treat statistically significant cross-lagged effects with good model fit in observational SEM data as strong evidence of causality"; tests this page's relationship.
+- [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](../claims/time-reversed-model-suggests-decreasing-self-concept-effect.md) [+W] — attached 2026-10-19 from Kimmo Sorjonen et al. (2025), which proposed "True causal hypotheses should survive testing with a broad set of different analyses; model-choice-sensitive support warrants suspended judgement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

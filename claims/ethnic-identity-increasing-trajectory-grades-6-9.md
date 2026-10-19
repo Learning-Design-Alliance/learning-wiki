@@ -48,3 +48,4 @@ The review reports, citing Huang and Stormshak (2011), a longitudinal finding th
 ## Related Claims
 - [ERI exploration becomes a salient component of identity development during adolescence as social-cognitive maturity increases](adolescent-eri-exploration-salience.md) — related
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
+- [Bicultural identity and integration-type acculturation attitudes are most conducive to minority students' school success, with weak or inconsistent associations for ethnic identification alone](bicultural-identity-integration-school-success.md) — related

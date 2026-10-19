@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment
-description: Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment
+title: Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)
+description: Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)
 id: hle-child-health-predict-reading-readiness
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment
+# Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Home literacy environment and child health together accounted for 11% of variance in reading readiness; SES was no longer significant once proximal factors were entered. [→ Dilnot 2017](#dilnot-2017)
+`q3 i?` Home literacy environment and child health together accounted for 11% of variance in reading readiness; SES was no longer significant once proximal factors were entered, which the authors read as suggesting mediation by home literacy environment; no formal mediation test was run. [→ Dilnot 2017](#dilnot-2017)
 
 ## Evidence
 

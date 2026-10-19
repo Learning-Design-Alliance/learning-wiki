@@ -55,3 +55,4 @@ One experiment is recorded (Brewer & Klein 2003); the outcome is self-reported a
 - [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](participant-feedback-diverse-perspectives.md) — related
 - [Methods derived from all four theoretical perspectives contribute to achievement gain under certain conditions](all-four-perspectives-contribute-under-conditions.md) — related
 - [Competition raises idea originality for all participants but does not affect fluency or flexibility](competition-main-effect-originality-not-fluency.md) — related
+- [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](cooperative-learning-more-effective-than-competitive-structures.md) — related

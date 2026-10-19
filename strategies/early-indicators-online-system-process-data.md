@@ -48,6 +48,7 @@ The authors recommend creating indicators to alert educators to students needing
 - [Use kindergarten-entry test data for early identification so educators can intervene before third grade](early-identification-kindergarten-intervention-before-third-grade.md)
 - [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](dropout-data-systems-diagnosis-strategy.md)
 - [Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment](kea-system-strengthening-family-engagement-alignment.md)
+- [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
 
 ## Examples
 -

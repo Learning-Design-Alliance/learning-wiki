@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q2 i?` Year 2-1 (storytelling) students enjoyed the Monday and Tuesday activities significantly more than Year 2-2 (explanation) students. [→ Tozadore 2025](#tozadore-2025)
-`q2 i?` The enjoyment difference also appeared in the Thursday language activity, which both groups experienced as storytelling. [→ Tozadore 2025 (2)](#tozadore-2025-2)
+`q2 i?` The two classes also differed in enjoyment of the Thursday language activity, which both did in the same form, while on Wednesday, when both had storytelling, they did not differ; so part of the class difference may not come from the condition. [→ Tozadore 2025 (2)](#tozadore-2025-2)
 
 ## Evidence
 
@@ -54,7 +54,7 @@ Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the C
 
 `q2 · i?` · `design · r2`
 
-In the Thursday activity, where both classes did storytelling with words in children's primary languages, the article reports "a significant difference was found" between the classes (W=72, p-value=0.04); no effect size is printed.
+In the Thursday activity both classes did the same thing: each child shared a word from their own or another language and the robot made up a short English paragraph using it. The article reports "a significant difference was found" between the classes on it (W=72, p-value=0.04); on Wednesday, the one day both classes had storytelling, no difference was found (W=73, p-value=0.177). Enjoyment was rated for every activity on the Friday. No effect size is printed.
 
 > "Again, a significant difference was found (W=72, p-value=0.04) in the language activity on Thursday."
 

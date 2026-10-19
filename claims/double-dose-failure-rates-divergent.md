@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability
-description: Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability
+title: Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall
+description: Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall
 id: double-dose-failure-rates-divergent
 status: review
 generated:
@@ -27,13 +27,13 @@ sources:
     rigour: 2
 ---
 
-# Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability
+# Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Above-norm students' failure rates increased post-policy by about 3 percentage points despite test score improvements; students just below the cutoff had failure rates lower by 4 percentage points. [→ Takako Nomi 2010](#takako-nomi-2010)
+`q3 i?` Above-norm students' failure rates increased post-policy by about 3 percentage points despite test score improvements; students just below the cutoff had failure rates lower by 4 percentage points. Classroom variables explained most of the above-norm rise (reduced to one point, not significant), while the below-norm decline grew larger once they were controlled. [→ Takako Nomi 2010](#takako-nomi-2010)
 `q3 i?` Students were more likely to fail in classes with greater academic demand and more disciplinary problems, and less likely to fail with more interactive pedagogy once demand was controlled. [→ Takako Nomi 2010 (2)](#takako-nomi-2010-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Takako Nomi, Elaine M. Allensworth. (2010). The Effects of Tracking with Support
 
 `q3 · i?` · `causal · r2`
 
-Log-odds failure models with percentage-point interpretations, two-cohort discontinuity sample. Including classroom variables reduced the above-norm increase to one percentage point, no longer significant (0.08 logits, p>0.1).
+Log-odds failure models with percentage-point interpretations, two-cohort discontinuity sample. Including classroom variables reduced the above-norm increase to one percentage point, no longer significant (0.08 logits, p>0.1). For below-norm students the decline in failure grew once the worse behavioural climate and higher academic demand of their classes were controlled: their failure rates fell five to six percentage points more than those conditions would predict, so classroom environment does not explain their decline.
 
 > "For above-norm students, failure rates increased post-policy by about 3 percentage points despite improvements in test scores (Model 1). In comparison, students just below the policy cut off score had lower failure rates post-policy, by 4 percentage points, compared to their pre-policy counterparts"
 

@@ -45,3 +45,4 @@ Communicative-gaze dual-IV comparisons in the same sample of 40 teachers. Within
 ## Related Claims
 
 - [Teachers' gaze scanpaths are more similar within an individual than between individuals, in both attentional and communicative gaze](teacher-scanpaths-intra-individual-similarity.md)
+- [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — related

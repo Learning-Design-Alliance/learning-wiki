@@ -61,9 +61,11 @@ Student question generation increases engagement because it builds on authentic 
 6. **Close the loop** — in final reflections and presentations, students answer their original questions and evaluate which remain open, treating unanswered questions as legitimate intellectual outcomes
 
 ## Related Strategies
+
 - Activating prior knowledge — anchor experiences work best when they surface what students already know and wonder about
 - Community-based learning — student questions about their own communities ground projects in authentic local contexts
 - Choice boards — a structure for letting students pursue their prioritized questions through differentiated pathways
+- [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 
 ## Examples
 - **The Question Formulation Technique** ([Right Question Institute](https://rightquestion.org)) — a published protocol used across K–12 and higher education in which students produce, refine, and prioritize questions that then drive lessons and projects; documented in Rothstein & Santana's *Make Just One Change* (2011).

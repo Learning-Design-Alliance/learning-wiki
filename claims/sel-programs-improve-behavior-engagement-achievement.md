@@ -76,3 +76,4 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — a narrower finding that bears on this claim
 - [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](well-attended-summer-programs-positive-outcomes.md) — a narrower finding that bears on this claim
 - [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md)
+- [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — a narrower finding that bears on this claim

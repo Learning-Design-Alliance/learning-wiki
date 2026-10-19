@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)
-description: Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)
+title: In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)
+description: In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)
 id: handwriting-fluency-mediates-ef-narrative-writing
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)
+# In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Inhibition and updating indirectly affect text length, syntactic complexity and story content through handwriting fluency. [→ Drijbooms 2015](#drijbooms-2015)
+`q3 i?` In the path model, inhibition and updating were related to text length, syntactic complexity and story content indirectly through handwriting fluency; the data are cross-sectional and correlational, so this cannot show cause, and the authors ask that the reported impacts be read as suggestive. [→ Drijbooms 2015](#drijbooms-2015)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Drijbooms, E., Groen, M. A., & Verhoeven, L. (2015). The contribution of executi
 
 `q3 · i?` · `associational · r2`
 
-Path analysis (LISREL, maximum likelihood) on 102 children; model fit satisfactory (χ2 = 11.01, p = .14, df = 7; RMSEA = .07, GFI = 1.00, NFI = .91, CFI = .97, AGFI = .90). "handwriting ﬂuency mediates the relation between EF and writing performance".
+Path analysis (LISREL, maximum likelihood) on 102 children; model fit satisfactory (χ2 = 11.01, p = .14, df = 7; RMSEA = .07, GFI = 1.00, NFI = .91, CFI = .97, AGFI = .90). "handwriting ﬂuency mediates the relation between EF and writing performance". The data are cross-sectional; the authors note the small sample limited them to path analysis and that "the reported impact among variables should be considered as suggestive".
 
 > "Inhibition and updating therefore indirectly affect all writing performance outcomes. This implies that handwriting ﬂuency mediates the relation between EF and writing performance on both the microstructural and macrostructural level."
 

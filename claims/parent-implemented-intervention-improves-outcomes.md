@@ -92,6 +92,9 @@ Boundary conditions to document when evidence is added include: (a) intervention
 
 Open questions for future enrichment: whether parent-delivered and professional-delivered formats differ in magnitude of child outcomes or only in cost and reach; how coaching dosage maps to implementation fidelity; and which outcome domains (language, adaptive behavior, behavior regulation) are most sensitive to parent delivery.
 
+## Learner Variables
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — another family/social-context lever on student outcomes

@@ -46,3 +46,5 @@ Transfer was measured with eight scenarios in which students selected a next tas
 - [Heuristic task-selection training is not more effective for transfer than algorithmic training](heuristic-not-superior-to-algorithmic-transfer.md) — related
 - [Heuristic and algorithmic training conditions do not differ in posttest problem-solving performance](no-posttest-difference-between-training-conditions.md) — related
 - [Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase](video-modeling-srl-training-improves-posttest-performance.md) — a broader claim this one bears on
+- [Training learners with an effort-and-performance algorithm via video modeling improved monitoring accuracy, task selection accuracy, and learning outcomes](effort-performance-algorithm-training-improves-task-selection.md) — related
+- [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related

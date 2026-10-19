@@ -53,7 +53,7 @@ Lindamood Phoneme Sequencing® (LiPS®): Beginning Reading. (2015). What Works C
 
 `q3 · i2` · `review · r3`
 
-Appendix C.2 prints WRMT-R Word Attack means of 113.70 (12.10) for LiPS vs 99.50 (15.00) for comparison, effect size 1.03, improvement index +35, p < .01; other alphabetics effect sizes ranged from 0.48 to 0.93, with CTOPP Blending Words not significant after correction (critical p = .044).
+Appendix C.2 prints WRMT-R Word Attack means of 113.70 (12.10) for LiPS vs 99.50 (15.00) for comparison, effect size 1.03, improvement index +35, p < .01; the other eight alphabetics effect sizes were 0 for CTOPP Rapid Letter Naming (p > .99) and 0.48 to 0.93 for the rest, with CTOPP Blending Words not significant after correction (critical p = .044).
 
 > "113.70 
 (12.10)

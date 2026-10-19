@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 110 claims (86 show a difference, 12 mixed, 10 no difference, 2 unmarked) · 89 studies (34 causal, 21 associational, 12 design, 11 review, 5 qualitative, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 18 of 89 report an effect size · 105 claims rest on one study
+> **Evidence** · 116 claims (91 show a difference, 12 mixed, 11 no difference, 2 unmarked) · 91 studies (34 causal, 21 associational, 12 review, 12 design, 5 quant-synthesis, 5 qualitative, 2 theoretical), `q1`–`q4` · 19 of 91 report an effect size · 109 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -145,6 +145,12 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Perceived difficulty and task interest in Task 1 indirectly inform expectancy beliefs for Task 2](../claims/difficulty-interest-cues-subsequent-expectancy.md) [+M] — learners who differ on it differ in outcomes
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](../claims/value-of-creativity-indirect-through-interest.md) [+M] — learners who differ on it differ in outcomes
 - [Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience](../claims/task-interest-stable-across-creativity-tasks.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive load ratings rise and interest and self-assessed understanding fall in sections introducing new content knowledge compared with introductory sections of worked examples](../claims/load-higher-interest-lower-in-content-knowledge-sections.md) [+M] — instruction changes it
+- [Interest rarely relates to sourcing while task values show consistent positive relationships](../claims/interest-task-values-sourcing.md) [-W] — learners who differ on it differ in outcomes
+- [Interventions that trigger interest have larger effects on affirming motivations and reading comprehension than interventions that do not](../claims/interest-triggering-moderator.md) [+M] — an instructional effect differs with it
+- [Perceived task difficulty correlates negatively with self-assessed understanding and with interest at essentially all measurement points, while interest and self-assessed understanding correlate positively throughout](../claims/difficulty-negative-interest-understanding-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Prior knowledge and intervention condition moderate repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](../claims/prior-knowledge-and-prompting-moderate-load-and-interest.md) [+M] — instruction changes it
+- [Repeated measures of invested mental effort, perceived task difficulty, interest, and self-assessed understanding differ significantly across measurement points within complex learning tasks and are not adequately represented by their mean](../claims/repeated-load-interest-measures-vary-within-complex-tasks.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

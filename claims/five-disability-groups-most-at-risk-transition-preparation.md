@@ -44,6 +44,7 @@ Key finding from the NLTS 2012 analyses comparing disability groups: five named 
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

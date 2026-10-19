@@ -9,17 +9,17 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 sources:
-  - id: lei-bao-2006
+  - id: lei-bao-2007
     resource: "https://doi.org/10.48550/arxiv.0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
+    title: "Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. arXiv preprint. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
     author: Lei Bao
     q: 2
     i: "?"
     kind: theoretical
     rigour: 3
-  - id: lei-bao-2006-2
+  - id: lei-bao-2007-2
     resource: "https://arxiv.org/abs/0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
+    title: "Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. arXiv preprint. https://arxiv.org/abs/0710.1375"
     author: Lei Bao
     q: 2
     i: 1
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i1` small
 
 ## Subclaims
-`q2 i?` With both α and γ processes, the normalized gain always has explicit pretest-score terms and a positive correlation with pretest score is expected. [→ Lei Bao 2006](#lei-bao-2006)
-`q2 i1` Multiple experimental studies report positive correlations between normalized gains and ability or pretest measures, with r values from about 0.1 to 0.57. [→ Lei Bao 2006 (2)](#lei-bao-2006-2)
+`q2 i?` With both α and γ processes, the normalized gain always has explicit pretest-score terms and a positive correlation with pretest score is expected. [→ Lei Bao 2007](#lei-bao-2007)
+`q2 i1` Multiple experimental studies report positive correlations between normalized gains and ability or pretest measures, with r values from about 0.1 to 0.57. [→ Lei Bao 2007 (2)](#lei-bao-2007-2)
 
 ## Evidence
 
-### Lei Bao 2006
+### Lei Bao 2007
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
+Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. arXiv preprint. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
 
 `q2 · i? · the article prints no effect size for this finding` · `theoretical · r3`
 
@@ -48,9 +48,9 @@ Analytical derivation (Section IV) of the normalized gain under combined α and 
 
 > "When the γ-process is considered, kg  always has explicit terms of 0ks  and a positive correlation between kg  and 0ks  can be expected."
 
-### Lei Bao 2006 (2)
+### Lei Bao 2007 (2)
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
+Lei Bao. (2007). Dynamic Models of Learning and Education Measurement. arXiv preprint. https://arxiv.org/abs/0710.1375
 
 `q2 · i1` · `theoretical · r3`
 

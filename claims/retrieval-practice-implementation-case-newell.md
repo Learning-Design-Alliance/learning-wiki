@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention
-description: A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention
+title: A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention
+description: A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention
 id: retrieval-practice-implementation-case-newell
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention
+# A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
@@ -36,7 +36,7 @@ Improving Research and Practice through Partnership: Lessons Learned from Santa 
 
 `q1 · i?` · `qualitative · r1`
 
-Case study of research use in practice: a former NMSA math teacher, motivated by Uncapher's presentation on retrieval practices shown to improve retention, shifted test preparation away from rereading notes and implemented retrieval practice with three strategies. No outcome data are reported.
+Case study of research use in practice: a former NMSA math teacher (the source does not say what grade levels NMSA serves), motivated by Uncapher's presentation on retrieval practices shown to improve retention, implemented retrieval practice in his classes with three strategies; his students had typically prepared for tests by rereading their notes. The source does not say whether he stopped them rereading. No outcome data are reported.
 
 > "His students had typically prepared for tests by “reading and rereading” their notes, but research has shown that this strategy is not effective for remembering information over the long term. Newell decided to implement retrieval practice with his classes using three strategies."
 

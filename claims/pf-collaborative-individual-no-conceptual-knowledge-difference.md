@@ -35,7 +35,7 @@ Charleen Brand, Christian Hartmann, Katharina Loibl, Nikol Rummel. (2023). Do st
 
 `q3 · i?` · `causal · r2`
 
-Randomized experiment with 137 tenth-grade students (PF COLL n = 87 in 35 groups of three; PF IND n = 50) in the traditional variance PF setting. The mediation analysis found "both conditions did not differ in conceptual knowledge acquisition" (total effect c = 0.57, p = 0.241).
+Randomized experiment with 137 tenth-grade students (PF COLL n = 87 analysed, of 105 initially assigned to 35 groups of three; PF IND n = 50) in the traditional variance PF setting. The mediation analysis found "both conditions did not differ in conceptual knowledge acquisition" (total effect c = 0.57, p = 0.241).
 
 > "the total effect of the conditions on conceptual knowledge was not statistically significant, c = 0.57, SE = 0.48, t = 1.17, p = 0.241, p’ = 1.00, 95% CI [− 0.39, 1.53]. That is, both conditions did not differ in conceptual knowledge acquisition"
 
