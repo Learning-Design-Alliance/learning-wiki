@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="sfs-aligned-post-training-generalizes-out-of-domain-models-trained-on-one-dataset-retain-substantial-sfs-gains-on-the-other">SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other<a class="headerlink" href="#sfs-aligned-post-training-generalizes-out-of-domain-models-trained-on-one-dataset-retain-substantial-sfs-gains-on-the-other" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · causal <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Models trained under the pipeline on Malrule or EEDI continue to achieve substantial SFS gains when evaluated on the other dataset, despite differences in problem format and misconception structure. <a href="#heejin-do-2026">→ Heejin Do 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="heejin-do-2026">Heejin Do 2026<a class="headerlink" href="#heejin-do-2026" title="Permanent link">&para;</a></h3>
+<p>Heejin Do, Shashank Sonkar, Mrinmaya Sachan. (2026). Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators. Preprint. https://arxiv.org/abs/2605.12748 <a href="https://doi.org/10.48550/arxiv.2605.12748">doi:10.48550/arxiv.2605.12748</a></p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Cross-domain transfer experiment training on one dataset and evaluating on the other (Figure 6); the text reports "substantial SFS gains even in out-of-domain settings," e.g., Malrule-trained models reaching out-of-domain SFS of 0.34–0.41.</p>
+<blockquote>
+<p>"Figure 6 shows that models trained under the pro- posed pipeline continue to achieve substantial SFS gains even in out-of-domain settings, despite dif- ferences in problem format and misconception structure."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../multi-turn-reflection-does-not-restore-sfs/">Multi-turn reflective interaction does not restore selective updating and destabilizes weaker simulators</a> — related</li>
+<li><a href="../sft-improves-selective-update-behavior/">Supervised fine-tuning on misconception-faithful demonstrations sharply improves SFS (up to +0.555 on Malrule for Qwen3-4B)</a> — related</li>
+<li><a href="../grpo-sfs-reward-beats-dpo/">GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall</a> — related</li>
+<li><a href="../tactutor-raises-tactbench-overall-0-629-to-0-832/">Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models</a> — a narrower finding that bears on this claim</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>sfs-post-training-cross-domain-generalization</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>heejin-do-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0</footer>
+</body>
+</html>

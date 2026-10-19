@@ -1,0 +1,1803 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals.">
+      
+      
+        <meta name="author" content="Jeroen J. G. van Merrienboer">
+      
+      
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/patterns/4cid-four-component-instructional-design/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lda-favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>4C/ID (Four-Component Instructional Design) - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lda-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#4cid-four-component-instructional-design" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              4C/ID (Four-Component Instructional Design)
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" ></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../situations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design for a Situation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Application
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Application
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Research
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Methods
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Methods
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    About
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description-and-scope" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Description and scope
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inputs-establish-the-design-brief" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inputs: establish the design brief
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequence-and-conditional-policy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sequence and conditional policy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#choosing-configurations-from-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Choosing configurations from evidence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fitting-the-design-to-a-situation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fitting the design to a situation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-evidence-by-question" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The evidence by question
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further evidence, not yet read against this model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#illustrative-design-instance-and-observation-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Illustrative design instance and observation record
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elements-and-limits" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elements and limits
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Claims
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related Patterns
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Examples
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Pattern"><span data-pagefind-filter="tier:canonical"></span><span data-pagefind-meta="aliases:4cid tell show do distributed across whole tasks whole task progression increasing complexity merrills first principles merrills first principles of instruction merrill demonstration application integration corollaries"></span>
+                
+                  
+
+
+
+<h1 id="4cid-four-component-instructional-design">4C/ID (Four-Component Instructional Design)<a class="headerlink" href="#4cid-four-component-instructional-design" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Pattern</strong> · <a href="../">All patterns</a>
+<strong>Evidence</strong> · 22 claims (14 for, 8 mixed) · 25 studies (9 causal, 5 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), <code>q1</code>–<code>q4</code> · 2 of 25 report an effect size · 19 claims rest on one study</p>
+</blockquote>
+<h2 id="description-and-scope">Description and scope<a class="headerlink" href="#description-and-scope" title="Permanent link">&para;</a></h2>
+<p>A reusable whole-task policy for <strong>complex skills</strong> (performance that integrates several kinds of knowledge and routine). It instantiates the <a href="../../principles/cognitive-load-theory/">cognitive load principle</a>: learners work on whole, authentic learning tasks grouped into task classes from simpler to more complex; support within each class starts high and fades; supportive information (how the domain is organised, how to approach the task) is available before and around the tasks; procedural information (how to carry out routine steps) is given just in time; and part-task practice is added only for routines that must become automatic. The study configurations below are evidence about parts of this policy; <strong>no study recorded in this wiki tests the four components together</strong>, and the response-dependent policy is an untested design proposal. It is a pattern for any complex skill; a particular clinical, technical or professional programme built with it is a design instance.</p>
+<h2 id="inputs-establish-the-design-brief">Inputs: establish the design brief<a class="headerlink" href="#inputs-establish-the-design-brief" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record or elicit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner and starting observation</td>
+<td>Task-specific experience for each task class; an attempt at a simple whole task with reasoning, errors, help needed and time; which routines are already fluent. Preserve unknowns; "novice" is per task class.</td>
+</tr>
+<tr>
+<td>Context and activities</td>
+<td>Setting, time available, whether real or simulated tasks are possible, which supports (examples, completion tasks, coaching, job aids) can be supplied and faded, and who judges performance.</td>
+</tr>
+<tr>
+<td>Learner-valued goal</td>
+<td>Ask what performance the learner wants and why. Record divergence from the designer's objective and negotiate task content rather than assume agreement.</td>
+</tr>
+<tr>
+<td>Designer objective</td>
+<td>The whole-task performance intended, its knowledge type (usually complex-skill), the range of situations it must transfer to, and which routines must be automatic versus looked up.</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>A representative whole task scored by an agreed rubric; immediate, delayed and near/far-transfer horizons as separate outcomes; any safety outcome. Learning-phase effort or efficiency is a separate measure.</td>
+</tr>
+</tbody>
+</table>
+<p>A request to "use 4C/ID" or to "teach the skill" does not supply these inputs. Ask for them before fixing the number of task classes, a fading schedule or a part-task dose.</p>
+<h2 id="sequence-and-conditional-policy">Sequence and conditional policy<a class="headerlink" href="#sequence-and-conditional-policy" title="Permanent link">&para;</a></h2>
+<ol>
+<li><strong>Analyse the whole task.</strong> Identify the integrated performance, its non-routine (reasoning) and routine (procedural) parts, and the dimensions that make a version simpler or more complex. These are design judgements; record their basis.</li>
+<li><strong>Elicit on a simple whole task.</strong> Before instruction, ask for an attempt at the simplest representative version, with reasoning and every help given. This places the learner in a task class; it is not a measure of a latent schema.</li>
+<li><strong>Work through a task class with fading support.</strong> Begin with high support (worked or modelled tasks, then completion tasks) and reduce it across varied tasks of the class; give supportive information before or alongside, and procedural information at the step where it is needed, then withdraw it.</li>
+<li><strong>Add part-task practice selectively.</strong> Only for a routine that whole-task practice does not make fluent enough and whose slowness is plausibly blocking whole-task performance.</li>
+<li><strong>Reobserve before moving on.</strong> Use an unsupported, varied task of the current class under the agreed rubric. Move to a more complex class, stay, or adjust support provisionally; recheck at the stated delay.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Observation</th>
+<th>Discriminating probe</th>
+<th>Proposed action, with its uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cannot start even the simplest whole task</td>
+<td>Present the same task with mutually referring information integrated and one interacting element pre-taught; ask for the first decision and why.</td>
+<td>If performance returns with integration or pre-teaching, keep the whole task and add that support or a simpler version. If not, consider brief isolated-element practice before the whole task. Neither branch is validated.</td>
+</tr>
+<tr>
+<td>Succeeds with full examples or completion tasks, fails without</td>
+<td>Give one unsupported varied task of the same class; ask which relation licenses each step.</td>
+<td>Stay in the class and fade more gradually (removing the last worked steps first is one tested option). One failure does not show that support must stay.</td>
+</tr>
+<tr>
+<td>Correct whole-task reasoning but slow or error-prone on one routine</td>
+<td>Time the routine on its own and inside the whole task; vary whether a job aid is available.</td>
+<td>Add short part-task practice or a just-in-time aid for that routine, provisionally; drill is not warranted for routines the objective allows to be looked up.</td>
+</tr>
+<tr>
+<td>Fluent, unsupported success across varied tasks of the class</td>
+<td>Present a task from the next class and a changed condition within the current one.</td>
+<td>Move to the more complex class with high support again, and remove support the learner no longer needs, since redundant guidance may cost the learner. The exact point is not established.</td>
+</tr>
+<tr>
+<td>Low participation or reliance on hints regardless of difficulty</td>
+<td>Ask about purpose, stakes and barriers; compare a task closer to the learner's valued goal.</td>
+<td>Negotiate task content or conditions; hint use and effort alone do not establish the learner's state.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="choosing-configurations-from-evidence">Choosing configurations from evidence<a class="headerlink" href="#choosing-configurations-from-evidence" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Whole tasks as the organising unit.</strong> <a href="../../claims/whole-task-performance-improves-transfer/">Whole-task practice for transfer of complex skills</a> [+W] rests on one design argument, not an experiment: it holds that the load-reducing methods suited to retention (low variability, full guidance) hinder transfer, and proposes high variability and limited guidance, with intrinsic load lowered early for novices. Use it as the pattern's rationale, not as evidence of an effect; judge-checked against its abstract.</li>
+<li><strong>Isolating interacting elements first.</strong> For novices on high-element-interactivity tasks, <a href="../../claims/part-task-practice-reduces-load-for-novices/">isolated parts before the integrated whole</a> [+M] improved performance in one experiment (sample, outcome and horizon not reported on the claim page; not yet checked against its sources). It supports pre-teaching or part-task practice as an entry step; it does not test part-task practice for automating routines inside a whole-task sequence, which is 4C/ID's use.</li>
+<li><strong>Fading within a task class.</strong> <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading from complete to incomplete examples to problems</a> [+M] favoured near transfer over static example–problem arrangements in three experiments (20 ninth graders; 54 and 45 college students), and removing the last steps first was more favourable. It does not establish a fading rate or far transfer; not settled against its sources.</li>
+<li><strong>Adjusting support to the response.</strong> <a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding</a> [+M]: one-to-one long-division tutoring for fourth and fifth graders (N=8 per condition) found fully contingent support ahead of fixed, moderate or no support at immediate and one-month tests; contingent tutoring matched non-interactive tutoring immediately but improved transfer in a second study (11 pairs); a meta-analysis ranked scaffolding above coaching but below explicit strategy training. Small samples, mostly one-to-one; not settled against its sources.</li>
+<li><strong>Removing support as expertise grows.</strong> <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as expertise increases</a> [~M]: two reviews, abstract only and not settled, argue that full guidance becomes redundant and should be faded toward independent problem solving. It qualifies keeping high support across task classes; it gives no threshold.</li>
+</ul>
+<p>Do not combine these into a predicted effect for the whole pattern. They differ in learners (children, secondary and college students, trainees), task, comparator and outcome, and none measured delayed whole-task performance in a workplace.</p>
+<h2 id="fitting-the-design-to-a-situation">Fitting the design to a situation<a class="headerlink" href="#fitting-the-design-to-a-situation" title="Permanent link">&para;</a></h2>
+<p>Ask for four facts when the brief omits them: <strong>the simplest whole task a learner can attempt</strong>, <strong>which routines must become automatic and which may be looked up</strong>, <strong>whether real or simulated whole tasks are possible</strong>, and <strong>the transfer horizon that will judge the programme</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The goal is transfer of a complex skill to varied situations</td>
+<td>Organise the programme around whole tasks in classes from simple to complex, with varied tasks within each class</td>
+<td><a href="../../claims/whole-task-performance-improves-transfer/">Whole-task practice improves transfer (design argument)</a> [+W]; <a href="../../claims/task-variety-enables-transfer-same-task-type/">Varied tasks of one type enable transfer</a> [+W]</td>
+</tr>
+<tr>
+<td>Learners are complete novices and the task has many interacting elements</td>
+<td>Start with brief practice on isolated elements, then move to the whole task</td>
+<td><a href="../../claims/part-task-practice-reduces-load-for-novices/">Part-task practice reduces load for novices</a> [+M]</td>
+</tr>
+<tr>
+<td>Within a task class</td>
+<td>Fade support from worked examples to completion tasks to independent tasks</td>
+<td><a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility</a> [+M]</td>
+</tr>
+<tr>
+<td>Learners in one class differ in prior knowledge</td>
+<td>Give lower-prior-knowledge learners full worked examples longer, and move higher-prior-knowledge learners to completion tasks sooner</td>
+<td><a href="../../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples/">Lower-prior-knowledge learners do better with full worked examples</a> [~M]</td>
+</tr>
+<tr>
+<td>Learners arrive experienced in the skill</td>
+<td>Start in a later task class or with less support; full guidance becomes redundant</td>
+<td><a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective with expertise</a> [~M]</td>
+</tr>
+<tr>
+<td>A tutor or adaptive system can watch the attempts</td>
+<td>Adjust support to the last response: more after a failure, less after a success</td>
+<td><a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning</a> [+M]</td>
+</tr>
+<tr>
+<td>A short professional workshop judged by a knowledge test</td>
+<td>Do not expect a knowledge-test gain over a lecture; judge the design on a whole-task performance check (for example an OSCE), and power the comparison</td>
+<td><a href="../../claims/no-knowledge-difference-lecture-vs-4cid-consent-training/">No knowledge difference between lecture and 4C/ID</a> [~M]; <a href="../../claims/osce-advantage-4cid-not-significant/">4C/ID's OSCE advantage was not significant</a> [~M]</td>
+</tr>
+<tr>
+<td>Learners are learning to program or troubleshoot</td>
+<td>Sequence task classes from completing to fixing to building; diagnostic reasoning appeared as tasks moved on</td>
+<td><a href="../../claims/scaffolded-task-progression-diagnostic-shift/">Scaffolded task progression shifts novices toward diagnosis</a> [+W]</td>
+</tr>
+<tr>
+<td>One routine is slow or error-prone inside otherwise sound whole-task work</td>
+<td>Add short part-task practice or a job aid for that routine only</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-evidence-by-question">The evidence by question<a class="headerlink" href="#the-evidence-by-question" title="Permanent link">&para;</a></h2>
+<ul>
+<li><em>Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?</em> <a href="../../claims/whole-task-performance-improves-transfer/">A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills</a> [+W]</li>
+<li><em>Should support be withdrawn, and in what order?</em> <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes the transfer of responsibility from instructor to learner.</a> [+M]</li>
+</ul>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+<p>Every claim this page cited before the rewrite has been read against the model and appears above, so none is listed here.
+- <a href="../../claims/osce-advantage-4cid-not-significant/">The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant</a> [~W] — attached 2026-10-07 from Khan Abdus Salam et al. (2025), which proposed "Blend efficient lectures with structured 4C/ID-based workshops and role-play for consent-taking training"; tests this page's relationship.
+- <a href="../../claims/no-knowledge-difference-lecture-vs-4cid-consent-training/">Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals</a> [~W] — attached 2026-10-07 from Khan Abdus Salam et al. (2025), which proposed "Blend efficient lectures with structured 4C/ID-based workshops and role-play for consent-taking training".
+- <a href="../../claims/entrepreneur-course-trial-matches-business-majors/">In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors</a> [+W]
+- <a href="../../claims/task-variety-enables-transfer-same-task-type/">Learning varied tasks of the same type enables transfer to unencountered tasks of that type</a> [+W]
+- <a href="../../claims/early-fraction-foundations-given-rational-number-difficulty/">Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers</a> [+W]
+- <a href="../../claims/worked-example-problem-sequences/">Example–problem sequences reduce cognitive load and improve learning outcomes</a> [+M]
+- <a href="../../claims/theory-agents-problem-centered-activation-advantage/">Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)</a> [~W]
+- <a href="../../claims/four-components-essential-complex-learning-blueprints/">Four interrelated components are essential in blueprints for complex learning</a> [+W] — attached 2026-10-15 from van Merriënboer et al. (2002), which proposed "Training blueprint structure for complex learning with associated instructional methods".
+- <a href="../../claims/real-life-tasks-high-intrinsic-load-need-management/">Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods</a> [+W] — attached 2026-10-15 from van Merriënboer et al. (2005), which proposed "Use real-life tasks as the driving force for complex learning".</p>
+<h2 id="illustrative-design-instance-and-observation-record">Illustrative design instance and observation record<a class="headerlink" href="#illustrative-design-instance-and-observation-record" title="Permanent link">&para;</a></h2>
+<p><em>Illustration only, invented, not a tested programme.</em> A new technician wants to fix faults on the machines in their own plant; the training lead's objective is passing a standard fault-finding assessment. Agree a representative whole task (diagnosing a simulated fault on a familiar machine), task classes from a single obvious fault to intermittent multiple faults, a reasoning-and-outcome rubric, permitted aids (the wiring diagram, not the fault table), and a one-month delayed task on a less familiar machine as the transfer outcome. Meter use, a routine, gets part-task practice only if it is slow inside the whole task.</p>
+<p>Record: <strong>task and class → support given and removed → response and reasoning → candidate interpretations and confidence basis → distinguishing probe → chosen next task and justification → next observation at the stated horizon</strong>. Preserve the learner's stated purpose and any change in it. An agent may summarise this record, but must not invent missing inputs or assign numerical state probabilities without a calibrated model.</p>
+<h2 id="elements-and-limits">Elements and limits<a class="headerlink" href="#elements-and-limits" title="Permanent link">&para;</a></h2>
+<p><a href="../../elements/whole-task-performance/">Whole-task performance</a>, <a href="../../elements/supportive-information/">supportive information</a>, <a href="../../elements/procedural-information/">procedural information</a>, <a href="../../elements/just-in-time-information/">just-in-time information</a>, <a href="../../elements/part-task-practice/">part-task practice</a>, <a href="../../elements/fading/">fading</a>, <a href="../../elements/scaffolding/">scaffolding</a>, <a href="../../elements/worked-examples/">worked examples</a>, <a href="../../elements/problem-presentation/">problem presentation</a> and <a href="../../elements/assessment/">assessment</a>. The pattern also applies <a href="../../principles/guided-practice/">guided practice</a>, <a href="../../principles/problem-based-learning/">problem-based learning</a>, <a href="../../principles/competency-based-assessment/">competency-based learning and assessment</a> and <a href="../../principles/worked-examples/">worked examples</a>; the <a href="../worked-examples/">worked-examples pattern</a> is the lesson-level policy for the support inside a task class.</p>
+<p>This pattern is scoped to complex skills where whole-task transfer is the objective; it is excessive for single facts or one-step procedures, and its analysis and sequencing cost design time. The evidence above tests components in other configurations, not the pattern as a whole, and the conditional branches remain to be tested with learners.</p>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/scaffolded-task-progression-diagnostic-shift/">Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase</a> [~W]</li>
+<li><a href="../../claims/four-cas-integrate-pedagogical-theories/">Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification</a> [+W]</li>
+<li><a href="../../claims/cvs-level-difficulty-ordering/">Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases</a> [+W]</li>
+<li><a href="../../claims/simulator-task-progression-low-to-high-fidelity/">Students in simulator training encounter a progression from simplified low-fidelity tasks to more complex higher-fidelity tasks as a deliberate instructional logic.</a> [+W]</li>
+<li><a href="../../claims/lowest-level-first-then-increasing-complexity/">Students mostly start at the lowest complexity level and move to higher levels, but many still choose level 1 tasks in the second half of learning</a> [~W]</li>
+<li><a href="../../claims/drawing-support-increased-perceived-difficulty/">Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload</a> [~W]</li>
+<li><a href="../../claims/within-teacher-performance-trajectories-as-scaffolds-faded/">As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit</a> [~W]</li>
+</ul>
+<h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../problem-based-learning/">Problem-Based Learning (PBL)</a></li>
+<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Reduction (CLT Scaffolding Approach)</a></li>
+<li><a href="../elaboration-theory/">Reigeluth's Elaboration Theory</a></li>
+<li><a href="../gagnes-9-events-of-instruction/">Gagne's 9 Events of Instruction</a></li>
+<li><a href="../../products/the-toolkit/">Five core areas of classroom technology use as organizing units for assessment</a></li>
+<li><a href="../../principles/modeling/">Merrill's First Principles (Demonstration)</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Clinical training programs that move from simpler to more complex patient cases while fading support.</li>
+<li>Technical workforce training where learners perform increasingly realistic troubleshooting tasks.</li>
+<li>Professional education sequences that combine authentic tasks, coaching, and targeted subskill drills.</li>
+<li><a href="../../strategies/whole-task-practice/">Whole Task Practice</a></li>
+<li><a href="../../strategies/scaffolded-difficulty-progression/">Scaffolded Difficulty Progression</a></li>
+<li><a href="../../strategies/scaffolded-genai-activities-assessments-across-levels/">Scaffold GenAI learning activities and assessments progressively across all undergraduate levels</a></li>
+<li>Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.</li>
+<li>Technical lessons that begin with a real task, activate prior knowledge, model performance, and then move into coached application.</li>
+<li>Adult education modules that connect existing experience to a new strategy and then ask learners to apply it in work or life.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>van Merrienboer, J. J. G. (1997). <em>Training complex cognitive skills</em>. Educational Technology Publications.</li>
+<li>van Merrienboer, J. J. G., Kester, L., &amp; Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. <em>Applied Cognitive Psychology, 20</em>(3), 343-352. <a href="https://doi.org/10.1002/acp.1250">https://doi.org/10.1002/acp.1250</a></li>
+<li>van Merrienboer, J. J. G., &amp; Kirschner, P. A. (2018). <em>Ten steps to complex learning</em> (3rd ed.). Routledge. <a href="https://doi.org/10.4324/9781315113210">doi:10.4324/9781315113210</a></li>
+<li>M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059</li>
+<li>Merrill, M. D. (2002). First principles of instruction. <em>Educational Technology Research and Development, 50</em>(3), 43-59. <a href="https://doi.org/10.1007/BF02505024">https://doi.org/10.1007/BF02505024</a></li>
+<li>Merrill, M. D. (2007). A task-centered instructional strategy. <em>Journal of Research on Technology in Education, 40</em>(1), 5-22. <a href="https://doi.org/10.1080/15391523.2007.10782493">https://doi.org/10.1080/15391523.2007.10782493</a></li>
+<li>Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983</li>
+</ul>
+<!-- deprecated 2026-10-01: superseded by the conditional model above; the pattern body as it stood before the rewrite, kept verbatim.
+
+## Description
+4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice. The pattern is designed for skills that require learners to integrate knowledge, strategy, and procedure rather than master isolated facts. Its central move is to keep the whole task visible while still managing difficulty through sequencing, scaffolding, and selective automation of subskills.
+
+The pattern is strongest when learners need transfer to authentic performance. It is not mainly a content-delivery model. It is a design approach for building sequences in which learners perform meaningful tasks, receive just enough support, and gradually work with more variability and complexity over time.
+## Implications
+
+### Context
+#### Requirements
+- **Complex performance goals**: Best used when the target involves coordination of multiple skills in realistic tasks.
+- **A sequence of whole tasks**: Tasks should progress from simpler to more complex while preserving meaningful structure.
+- **Supportive and procedural information**: Learners need conceptual guidance before or around the task and just-in-time directions during performance.
+- **Selective part-task practice**: Routine elements can be isolated when automation is necessary and the whole task would overload absolute novices.
+#### Constraints
+- **Design intensity**: 4C/ID requires careful sequencing, task-class design, and support planning.
+- **Weak fit for simple recall**: It is excessive for instruction focused mainly on memorization or single-step procedures.
+- **Scaffolding quality matters**: Poorly timed support can either overload learners or over-support them.
+- **Whole-task complexity can swamp novices**: Designers still need to manage intrinsic load deliberately.
+#### Grain Size
+- Unit
+- Course
+- Training sequence
+
+### Target Goals
+- **Complex skill acquisition**: Building integrated performance rather than detached subskills.
+- **Transfer**: Preparing learners for real or realistic practice conditions.
+- **Strategic and procedural coordination**: Combining conceptual understanding with fluent execution.
+
+### Target Learners
+- **Adult and professional learners**: Strong fit for workforce, technical, medical, and higher education contexts.
+- **Learners preparing for authentic performance**: Best when the outcome is application in practice, not only classroom recall.
+- **Novices in complex domains**: Particularly useful when complexity must be managed without losing sight of the whole task.
+
+### Theory
+#### Supporting
+- Cognitive load theory — complex performance should be sequenced so intrinsic load is manageable and extraneous load stays low.
+- Whole-task instructional design traditions — authentic coordinated performance supports transfer better than isolated training alone.
+- Scaffolding and fading perspectives — supports should be gradually withdrawn as learners gain control.
+#### Contradicting / Qualifying
+- Not all skills require full 4C/ID treatment; some can be learned more efficiently through simpler explicit instruction sequences.
+- Part-task work is a support inside the pattern, not the organizing center.
+
+### Claims
+#### Supporting
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../../claims/whole-task-performance-improves-transfer/) [+M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../../claims/part-task-practice-reduces-load-for-novices/) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../../claims/contingent-scaffolding-improves-learning/) [+M]
+#### Contradicting
+
+- [Worked examples can become redundant or counterproductive for advanced learners.](../../claims/worked-examples-less-effective-with-expertise/) [~M]
+
+## Design
+
+### Sequence
+1. Present a whole task at an entry level learners can attempt.
+2. Provide supportive information that helps learners understand the task class and relevant strategies.
+3. Deliver procedural information just in time during task performance.
+4. Add part-task practice for routine subskills that need automation.
+5. Increase task variability and complexity while fading supports.
+
+### Elements Used
+- [Whole-task Performance](../elements/whole-task-performance.md)
+- [Part-task Practice](../elements/part-task-practice.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Assessment](../elements/assessment.md)
+
+### Affordances
+- [Guided Practice](../principles/guided-practice.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
+- [Worked Examples](../principles/worked-examples.md)
+
+### Personalization
+- Task complexity can be adjusted by changing constraints, support, and variability.
+- Procedural supports can be faded at different rates for different learners.
+- Part-task practice can be targeted only to the subskills a learner has not yet automated.
+## Impact
+- Strong fit for complex-skill domains where transfer matters more than short-term task ease.
+- Helps preserve authentic performance demands while still protecting novices from overload.
+-->
+
+<!-- merged 2026-10-07 from patterns/tell-show-do-distributed-across-whole-tasks ("Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Whereas traditional instruction implements tell, show, recall, and apply for each topic in turn, in a task-centered strategy "this strategy is distributed across the several whole tasks in the progression": components are presented and demonstrated in early whole tasks and applied in subsequent ones. The instruction starts by demonstrating the least complex whole task, which forms a comprehensible objective for learners, and components may need additional demonstrations, information, or extra examples in later tasks depending on difficulty.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The first demonstration should be a complete but least complex version of the whole task, overviewing components at a high level to avoid overwhelming learners.
+#### Constraints
+- Some components may be so complex that additional demonstration or application examples outside the progression of whole tasks are necessary.
+
+### Target Learners
+- learners new to a content area
+
+### Target Goals
+- forming mental models of how component skills integrate into complete performance
+
+### Claims
+
+- [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](../../claims/entrepreneur-course-trial-matches-business-majors/) [+W]
+- [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](../../claims/task-variety-enables-transfer-same-task-type/) [+W]
+
+## Related Patterns
+
+- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](4cid-four-component-instructional-design.md)
+
+## Examples
+-
+
+## Key Sources
+- M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
+-->
+
+<!-- merged 2026-10-07 from patterns/whole-task-progression-increasing-complexity ("Task progression pattern: complete whole tasks of increasing complexity with limited new components"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Task progression pattern: complete whole tasks of increasing complexity with limited new components
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The pattern sequences a series of complete worked-example tasks rather than topic-by-topic instruction. "In a good progression each succeeding task is more complex than the preceding task", and "To manage cognitive load it is advisable to introduce only a limited number of new components or revised components for each succeeding task." Tasks should be as divergent as possible while remaining of the same type, and all component skills required by the final tasks must appear across the progression.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Each task in the progression should be complete, a worked example rather than a mere description, and require the same or similar knowledge and skill components.
+#### Constraints
+- For very complex tasks, an early two-phase variant progressively increases the complexity of a single whole task before additional whole examples are given.
+
+### Target Learners
+- learners new to a content area
+
+### Target Goals
+- transfer of knowledge and skill to yet unencountered tasks of the same type
+
+### Claims
+
+- [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](../../claims/entrepreneur-course-trial-matches-business-majors/) [+W]
+- [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](../../claims/task-variety-enables-transfer-same-task-type/) [+W]
+
+## Related Patterns
+
+- [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](4cid-four-component-instructional-design.md)
+- [Reigeluth's Elaboration Theory](elaboration-theory.md)
+
+## Examples
+
+- [Whole Task Practice](../../strategies/whole-task-practice/)
+- [Scaffolded Difficulty Progression](../../strategies/scaffolded-difficulty-progression/)
+
+## Key Sources
+- M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
+-->
+
+<!-- merged 2026-10-15 from patterns/merrills-first-principles-of-instruction ("Merrill's First Principles of Instruction"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles of Instruction
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (3 for, 3 mixed) · 11 studies (4 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 11 report an effect size · 4 claims rest on one study
+
+## Description
+Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration. Rather than prescribing a rigid lesson script, it identifies a set of instructional conditions that tend to support effective learning across many settings. The pattern is strongest when learners are working toward meaningful performance, not just isolated recall.
+
+Its practical strength is that it balances authenticity with structured support. Learners encounter real or realistic tasks, but instruction still includes activation, modeling, guided application, and integration into personal or professional use.
+
+## Implications
+
+### Context
+#### Requirements
+- **Meaningful whole tasks**: Learning should be organized around authentic or realistic problems rather than decontextualized fragments alone.
+- **Activation of prior knowledge**: Learners need help connecting new instruction to what they already know.
+- **Demonstration and guided application**: Learners should see examples and then apply knowledge with support.
+- **Integration**: Instruction should help learners bring new learning back into their own contexts and practices.
+- **Activation, demonstration, application, and integration**
+#### Constraints
+- **Design effort**: Strong task-centered instruction requires more intentional design than content-first sequencing.
+- **Weak fit for pure fact coverage**: The pattern is most useful when understanding and application matter.
+- **Support needs vary by expertise**: Some learners need more modeling and guidance than others.
+- **Authenticity can be faked**: Poorly designed "real-world tasks" weaken the pattern quickly.
+- **Task-centered design requires more planning than content-first sequencing**
+#### Grain Size
+- Lesson
+- Course
+
+### Target Goals
+- **Applied understanding**: Learners use knowledge in meaningful tasks.
+- **Transfer**: Instruction is designed from the start for later use.
+- **Integrated performance**: Concepts, procedures, and strategy come together around a task.
+- Support applied understanding and transfer.
+
+### Target Learners
+- **Adult and professional learners**: Strong fit where real-world performance matters.
+- **Learners in concept-and-skill domains**: Useful when both understanding and application are required.
+- **Designers building task-centered instruction**: Provides a reusable high-level structure across domains.
+
+### Theory
+#### Supporting
+
+- Task-centered instruction traditions — authentic problems organize learning more effectively than isolated content alone.
+- Constructivist and generative perspectives — activation, demonstration, and application support meaningful learning.
+- Transfer-oriented design — integration improves the chances that learning will be used later.
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../../claims/early-fraction-foundations-given-rational-number-difficulty/) [+W]
+
+#### Contradicting / Qualifying
+- Not every lesson needs all five principles equally, and designers still need to adapt to domain and learner expertise.
+- Task-centered instruction may need supplemental explicit teaching for foundational subskills.
+
+### Claims
+#### Supporting
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../../claims/whole-task-performance-improves-transfer/) [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../../claims/worked-example-problem-sequences/) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../../claims/contingent-scaffolding-improves-learning/) [~M]
+#### Contradicting
+
+- [Worked examples can become redundant or counterproductive for advanced learners.](../../claims/worked-examples-less-effective-with-expertise/) [~M]
+- [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../../claims/theory-agents-problem-centered-activation-advantage/) [~W]
+
+## Design
+
+### Sequence
+1. Organize instruction around a real or realistic problem or task.
+2. Activate relevant prior knowledge or experience.
+3. Demonstrate what successful performance or reasoning looks like.
+4. Have learners apply the knowledge with support and feedback.
+5. Integrate learning by reflecting, teaching, or using it in a new context.
+
+### Elements Used
+- [Whole-task Performance](../elements/whole-task-performance.md)
+- [Activation](../elements/activation.md)
+- [Practice](../elements/practice.md)
+- [Reflection](../elements/reflection.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+
+### Affordances
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Purposeful Reflection](../principles/reflection.md)
+
+### Personalization
+- Learners can work on tasks relevant to their own contexts while following the same instructional arc.
+- Demonstration and guidance can be adjusted based on expertise.
+- Integration can take many forms, including teaching others, reflection, or workplace application.
+
+## Related Patterns
+
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](4cid-four-component-instructional-design.md)
+- [Problem-centered instruction with task-level engagement and problem progression](../principles/problem-based-learning.md)
+- [Five core areas of classroom technology use as organizing units for assessment](../products/the-toolkit.md)
+
+## Examples
+- Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.
+- Technical lessons that begin with a real task, activate prior knowledge, model performance, and then move into coached application.
+- Adult education modules that connect existing experience to a new strategy and then ask learners to apply it in work or life.
+
+## Impact
+- Provides a practical high-level design frame for instruction that aims at use, not just exposure.
+- Works well across domains when designers keep the task at the center rather than treating the principles as a checklist.
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
+- Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22. [https://doi.org/10.1080/15391523.2007.10782493](https://doi.org/10.1080/15391523.2007.10782493)
+
+<!- - merged 2026-10-02 from patterns/merrills-first-principles ("Merrill's First Principles"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration.
+
+## Implications
+
+### Context
+#### Requirements
+- **Meaningful whole tasks**
+- **Activation, demonstration, application, and integration**
+#### Constraints
+- **Task-centered design requires more planning than content-first sequencing**
+#### Grain Size
+- Lesson
+- Course
+
+### Target Goals
+- Support applied understanding and transfer.
+
+### Theory
+#### Supporting
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+
+### Claims
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../../claims/whole-task-performance-improves-transfer/) [+M]
+
+## Design
+
+### Elements Used
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Reflection](../elements/reflection.md)
+
+## Related Patterns
+
+- [Merrill's First Principles of Instruction](4cid-four-component-instructional-design.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](4cid-four-component-instructional-design.md)
+- [Problem-centered instruction with task-level engagement and problem progression](../principles/problem-based-learning.md)
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
+- ->
+-->
+
+<!-- merged 2026-10-19 from patterns/merrill-demonstration-application-integration-corollaries ("Demonstration, application, and integration corollaries of Merrill's framework"), a narrower page folded into its canonical page (fragment step): its body as it stood. Its bullets this page lacked were added above.
+
+# Demonstration, application, and integration corollaries of Merrill's framework
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The digest enumerates the supporting generalizations for Merrill's remaining phases. Demonstration requires showing rather than merely telling, with demonstrations consistent with the learning goal, appropriate learner guidance, and relevant media that do not compete for attention. Application requires practice consistent with objectives, coaching that is gradually withdrawn, and a sequence of varied problems. Integration holds that "Learning is promoted when learners are encouraged to integrate (transfer) the new knowledge or skill into their everyday life", with corollaries of public demonstration, reflection, and creation.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Demonstrations must be consistent with the learning goal; practice and posttest must be consistent with stated or implied objectives
+#### Constraints
+- The digest presents these as prescriptions within a framework whose long-term status is untested: time will tell whether Merrill's First Principles will supplant Gagne's model
+
+### Target Learners
+- learners progressing from demonstration through coached application to everyday integration
+
+### Target Goals
+- skill demonstration, coached problem solving, and transfer to everyday life
+
+### Claims
+- 
+
+## Related Patterns
+
+- [Merrill's First Principles (Demonstration)](../principles/modeling.md)
+- [Merrill's First Principles](4cid-four-component-instructional-design.md)
+
+## Examples
+-
+
+## Key Sources
+- Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>pattern</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>4cid-four-component-instructional-design</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>4cid</code>, <code>tell-show-do-distributed-across-whole-tasks</code>, <code>whole-task-progression-increasing-complexity</code>, <code>merrills-first-principles</code>, <code>merrills-first-principles-of-instruction</code>, <code>merrill-demonstration-application-integration-corollaries</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>4C/ID (Four-Component Instructional Design)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>grain_size</code></td>
+<td><code>unit</code></td>
+</tr>
+<tr>
+<td><code>author</code></td>
+<td><code>Jeroen J. G. van Merrienboer</code></td>
+</tr>
+<tr>
+<td><code>canonical</code></td>
+<td><code>True</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-01</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>5 — <code>van-merrienboer-2006</code>, <code>m-david-merrill-2007</code>, <code>merrill-2002</code>, <code>merrill-2007</code>, <code>molenda-2002</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      <span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
