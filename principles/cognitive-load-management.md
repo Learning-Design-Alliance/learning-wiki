@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (22 for, 29 mixed, 3 against) · 50 studies (23 causal, 11 review, 9 quant-synthesis, 6 theoretical, 1 design), `q1`–`q4` · 18 of 50 report an effect size · 46 claims rest on one study
+> **Evidence** · 55 claims (23 for, 29 mixed, 3 against) · 51 studies (23 causal, 12 review, 9 quant-synthesis, 6 theoretical, 1 design), `q1`–`q4` · 18 of 51 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Optimal task design determined in laboratory studies may depend on learners' level of effort-by-allocation](../claims/task-design-depends-on-effort-allocation.md) [~W]
 - [In a combined meta-regression, titration but not domain overlap reduces age differences in dual-task performance, with no interaction between the two factors](../claims/titration-dominates-domain-overlap-combined-metaregression.md) [~W]
 - [Both expert and negative example standards increase perceived mental effort during example evaluation, and negative standards increase perceived task difficulty](../claims/standards-increase-cognitive-load-evaluation.md) [~W]
+- [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](../claims/weeding-extraneous-content-improves-video-learning.md) [+W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

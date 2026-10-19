@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 374 claims (180 for, 173 mixed, 21 against) · 182 studies (92 causal, 44 associational, 13 review, 12 theoretical, 10 qualitative, 7 quant-synthesis, 4 design), `q1`–`q4` · 66 of 182 report an effect size · 368 claims rest on one study
+> **Evidence** · 380 claims (182 for, 177 mixed, 21 against) · 184 studies (93 causal, 44 associational, 13 review, 12 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 68 of 184 report an effect size · 374 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -416,6 +416,12 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](../claims/technology-type-did-not-moderate-metacognition-effects.md) [~W]
 - [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](../claims/suddenness-certainty-decrease-rapm-difficulty.md) [~W]
 - [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](../claims/tell-none-conditions-mixed-jol-correlations.md) [~W]
+- [Before self-scoring, the unskilled-and-unaware effect in regulation accuracy appears on multiplication but not on division tasks](../claims/unskilled-unaware-regulation-before-self-scoring-task-dependent.md) [~W]
+- [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](../claims/young-children-self-initiate-external-metacognitive-strategies.md) [+W]
+- [The more underconfident participants are about their memory abilities, the larger their reminder bias, regardless of framing](../claims/underconfidence-predicts-reminder-bias.md) [~W]
+- [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](../claims/verbalizing-overconfidence-consistency-local-failures.md) [~W]
+- [For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes](../claims/yao-linear-growth-mck-vk.md) [+W]
+- [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](../claims/wmpt-measures-vary-with-difficulty.md) [~W]
 
 ## The evidence by question
 

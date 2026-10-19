@@ -13,7 +13,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (4 for, 7 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (4 for, 9 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 associational, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
@@ -37,6 +37,8 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](../claims/higher-achievers-more-accurate-underconfident-calibration.md) [~W]
 - [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](../claims/incentives-improve-calibration-lower-achievers.md) [~W]
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](../claims/little-relation-absolute-relative-accuracy.md) [~W]
+- [Before self-scoring, the unskilled-and-unaware effect in regulation accuracy appears on multiplication but not on division tasks](../claims/unskilled-unaware-regulation-before-self-scoring-task-dependent.md) [~W]
+- [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](../claims/wmpt-measures-vary-with-difficulty.md) [~W]
 
 ## The evidence by question
 - *Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?* [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S]

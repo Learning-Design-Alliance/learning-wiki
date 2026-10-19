@@ -16,7 +16,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (23 for, 9 mixed) · 48 studies (15 causal, 14 review, 13 quant-synthesis, 3 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 48 report an effect size · 19 claims rest on one study
+> **Evidence** · 33 claims (23 for, 10 mixed) · 49 studies (15 causal, 14 review, 13 quant-synthesis, 4 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 49 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019](../claims/scoe-3000-educators-ruler-sel-training.md) [+W]
 - [No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics](../claims/sel-no-prediction-chronic-absenteeism.md) [~W]
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](../claims/sel-meta-analysis-graduation-increases.md) [+M]
+- [Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies](../claims/zoo-u-subscale-intercorrelations-expected-overlap.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

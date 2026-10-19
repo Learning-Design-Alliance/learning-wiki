@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (9 for, 8 mixed, 1 against) · 15 studies (9 causal, 3 associational, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 15 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 15 studies (9 causal, 3 associational, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 15 report an effect size · 18 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
@@ -57,6 +57,7 @@ Self-explanation is the element in which learners explain to themselves why some
 - [Adding a self-explanation feature to a base game improved transfer performance](../claims/self-explanation-feature-improved-game-transfer.md) [+W]
 - [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](../claims/self-explanation-prompts-geometry-tutor-robust-learning.md) [+W]
 - [Observational learners read and filter more than hypermedia learners, and hypermedia learners check more solution steps than self-explanation learners](../claims/superficial-subcategory-contrasts.md) [~W]
+- [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](../claims/xgboost-gaming-detectors-decimal-point.md) [~W]
 
 ## The evidence by question
 - *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

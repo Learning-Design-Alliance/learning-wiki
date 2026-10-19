@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 93 claims (47 for, 46 mixed) · 59 studies (22 associational, 18 causal, 12 review, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 12 of 59 report an effect size · 90 claims rest on one study
+> **Evidence** · 101 claims (50 for, 50 mixed, 1 against) · 60 studies (22 associational, 18 causal, 12 review, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 12 of 60 report an effect size · 98 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -156,6 +156,14 @@ Information processing models are often criticized as overly linear and serial, 
 - [Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later](../claims/specific-processing-speed-predicts-grade9-entrance-exam-math.md) [+W]
 - [The two-factor STM/WM structure holds for both younger (8-10) and older (11-13) children](../claims/stm-wm-distinction-holds-across-childhood.md) [+W]
 - [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](../claims/threat-impairs-accuracy-low-medium-not-high-load.md) [~W]
+- [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](../claims/vocabulary-predicts-executive-loaded-nvwm.md) [~W]
+- [People can selectively remove no-longer-relevant information from WM, but removal of an arbitrary subset of items is inefficient](../claims/wm-removal-efficient-sets-limited-subsets.md) [~W]
+- [Perceptual attention and working memory are distinct entities that causally affect each other](../claims/wm-perceptual-attention-distinct-entities.md) [~W]
+- [WMC shows a main effect on inference verification but not on essay recall](../claims/wmc-main-effect-ivt-not-essay.md) [+W]
+- [Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps](../claims/working-memory-demand-increases-with-math-problem-complexity.md) [+W]
+- [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](../claims/wm-distinct-from-stm-subsystems-function.md) [+W]
+- [Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research](../claims/wm-np-predict-adult-math.md) [~W]
+- [The WM model is criticised as underspecified in its component interactions, limiting its predictive power](../claims/wm-model-underspecified-components-criticism.md) [-W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

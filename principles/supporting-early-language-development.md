@@ -13,7 +13,7 @@ generated:
 # Support Early Language Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (12 for, 2 mixed, 2 against) · 22 studies (10 quant-synthesis, 5 causal, 3 associational, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 22 report an effect size · 10 claims rest on one study
+> **Evidence** · 17 claims (13 for, 2 mixed, 2 against) · 23 studies (10 quant-synthesis, 5 causal, 3 review, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,10 @@ For example, a home visitor's objective may be more expressive vocabulary at the
 The expectation should weaken if trials comparing responsive, turn-taking interaction (outside book reading) with the same amount of adult talk directed at the child found no difference in the child's own language, or if dialogic-reading gains disappeared at a delay of months. If gains depend on the routine being delivered by researchers or trained specialists, and not by parents or ordinary staff even with coaching, the design should move effort to specialist small-group delivery for the children who need it most. If later work shows the turn-count association is explained by other differences between homes, the general statement on this page rests on dialogic reading alone and should be narrowed to it. Do not protect the model by calling every null result "low fidelity" after the fact; record frequency and what adults did before the outcome is known.
 
 Child talk during sessions, vocabulary on taught words, general expressive language, receptive language, phonological skills and later reading are separate outcomes. The present evidence sets no dose, no group size and no age at which to change routines.
+
+## Claims
+
+- [Within low-SES samples, quality of mother–child communication predicts children's later expressive language more strongly than input quantity](../claims/within-ses-quality-over-quantity.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — recasting and expansion are a form of scaffolding applied specifically to grammar

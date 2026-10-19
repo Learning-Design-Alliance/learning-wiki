@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (43 for, 30 mixed, 3 against) · 77 studies (21 review, 18 causal, 9 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 77 report an effect size · 62 claims rest on one study
+> **Evidence** · 77 claims (43 for, 31 mixed, 3 against) · 78 studies (21 review, 18 causal, 10 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 78 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -225,6 +225,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](../claims/motivation-modulates-ldap-right-parieto-occipital.md) [+W]
 - [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](../claims/motivation-reduces-but-not-eliminates-adhd-deficits.md) [~M]
 - [A majority of adolescents (about 63%) followed stable trajectories of physics and chemistry motivation across middle and high school](../claims/stable-motivation-majority-adolescents.md) [~W]
+- [During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile](../claims/upward-motivational-transitions-year-ai-curriculum.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

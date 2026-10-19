@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 59 claims (34 for, 23 mixed, 1 against, 1 unmarked) · 50 studies (22 associational, 11 review, 10 causal, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 13 of 50 report an effect size · 55 claims rest on one study
+> **Evidence** · 61 claims (36 for, 23 mixed, 1 against, 1 unmarked) · 51 studies (23 associational, 11 review, 10 causal, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 13 of 51 report an effect size · 57 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -107,6 +107,8 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](../claims/srl-training-teacher-level-not-student-level-effects.md) [+W]
 - [Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)](../claims/transformational-leadership-gender-specific-pathways.md) [~W]
 - [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](../claims/tec-summer-teacher-outcome-gains.md) [+W]
+- [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](../claims/verbal-stm-self-efficacy-positively-associated-vocabulary.md) [+W]
+- [Vocabulary mediates the association between academic self-efficacy and listening comprehension](../claims/vocabulary-mediates-self-efficacy-listening-comprehension.md) [+W]
 
 ## The evidence by question
 

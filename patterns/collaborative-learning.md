@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (16 for, 25 mixed, 3 against) · 40 studies (12 causal, 6 associational, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 design), `q1`–`q4` · 8 of 40 report an effect size · 42 claims rest on one study
+> **Evidence** · 45 claims (16 for, 26 mixed, 3 against) · 41 studies (13 causal, 6 associational, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 design), `q1`–`q4` · 8 of 41 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,7 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](../claims/leadership-moves-distributed-among-group-members.md) [~W]
 - [Individual acceptance of group constructions depends on reflection and reconciliation processes triggered by differing opinions, sometimes occurring after the group session](../claims/reflection-reconciliation-post-group-processes.md) [~W]
 - [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](../claims/script-no-direct-effect-learning-gains.md) [-W]
+- [Experienced groups show higher instructional efficiency than inexperienced groups in the delayed retention test after collaborative learning](../claims/zambrano-2019-experienced-groups-more-efficient-retention.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

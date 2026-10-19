@@ -43,7 +43,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (14 for, 21 mixed, 1 against) · 36 studies (13 quant-synthesis, 8 causal, 8 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 13 of 36 report an effect size · 30 claims rest on one study
+> **Evidence** · 39 claims (14 for, 24 mixed, 1 against) · 36 studies (13 quant-synthesis, 8 causal, 8 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 13 of 36 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,9 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](../claims/publication-bias-in-simulation-games-research.md) [~M]
 - [Single noncollaborative, noncompetitive play shows the largest learning effects; single competitive play shows no benefit relative to nongame conditions](../claims/single-noncompetitive-play-largest-effects.md) [~W]
 - [Tetris cognitive gains mostly appear on tests resembling the game itself, with training studies finding no gains on general cognitive tasks](../claims/tetris-gains-test-resemblance-only.md) [-W]
+- [Theoretically augmented game designs produce better learning outcomes than standard game versions (g = 0.34), with enhanced scaffolding designs showing g = 0.41](../claims/value-added-augmented-designs-benefit-learning.md) [~W]
+- [Trainees learn more from simulation games when they have unlimited access to the game](../claims/unlimited-access-enhances-simulation-game-learning.md) [~W]
+- [No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction](../claims/variety-actions-and-supplemental-instruction-null.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

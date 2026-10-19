@@ -18,7 +18,7 @@ sources:
 # Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (20 for, 7 mixed) · 22 studies (7 causal, 5 review, 4 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 8 of 22 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (21 for, 7 mixed) · 22 studies (7 causal, 5 review, 4 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 8 of 22 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,10 @@ For example, a teacher wants a ninth-grader's family to enforce homework; the fa
 The expectation should weaken if comparisons of relationship-first teacher contact against usual practice, with comparable families and outcomes rated by parents as well as teachers, show no gain in trust or behaviour, or gains that vanish within a year. If school-wide accountability or firm rules enforcement produce the same cooperation with no loss of trust, Mead's choice is less of a trade-off than the page assumes. If home visits and similar contacts help only families who already trust the school, the default must lead with something else for the families it is meant for. If partnership programmes work through their structured content rather than through the relationship, the page should recommend the content. Do not protect the model by calling every failure "not enough contact" after the fact.
 
 Trust as rated by teachers, trust as rated by parents, children's behaviour, attendance and achievement are separate claims. The present evidence establishes no dose of contact, no best channel, and no comparison with sanctions.
+
+## Claims
+
+- [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](../claims/virtual-meetings-flexible-parent-communication.md) [+W]
 
 ## Related Principles
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — the educator's own learning, including what household visits change in the teacher.

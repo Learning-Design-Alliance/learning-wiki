@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (9 for, 18 mixed, 5 against) · 31 studies (7 associational, 6 causal, 6 review, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 5 of 31 report an effect size · 28 claims rest on one study
+> **Evidence** · 33 claims (10 for, 18 mixed, 5 against) · 32 studies (7 review, 7 associational, 6 causal, 5 quant-synthesis, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [Drop rates did not vary with course structure except for an increase in the final high-enrollment quarter](../claims/drop-rate-stable-except-autumn-2009.md) [~W]
 - [MOOCs failed to deliver on their proponents' promises of transforming higher education](../claims/moocs-failed-to-deliver-on-promises.md) [-W]
 - [In a large online class, peer grades correlated highly with staff-assigned grades, with median agreement of 42.9% within 5% and 65.5% within 10% of staff grades in the second iteration](../claims/peer-grades-correlate-highly-with-staff-grades-mooc.md) [+W]
+- [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](../claims/video-length-mooc-engagement-declines.md) [+W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

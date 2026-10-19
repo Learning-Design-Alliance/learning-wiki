@@ -13,7 +13,7 @@ generated:
 # Provide guidance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (8 for, 7 mixed, 2 against) · 26 studies (12 causal, 4 quant-synthesis, 4 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 26 report an effect size · 10 claims rest on one study
+> **Evidence** · 18 claims (8 for, 8 mixed, 2 against) · 27 studies (12 causal, 5 review, 4 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 27 report an effect size · 11 claims rest on one study
 
 ## Description
 Providing guidance means supplying learners with scaffolding, models, worked examples, or coaching support while they acquire new knowledge or skills. The instructor or system structures the task enough to prevent unproductive search and error, then progressively withdraws support as competence develops.
@@ -61,6 +61,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](../claims/support-increases-team-regulation.md) [+M] — attached 2026-10-19 from Saab et al. (2012), which proposed "RIDE rules: computerized instruction in effective collaboration communication"; tests this page's relationship.
 - [Guidance tools supporting collaboration are relatively uncommon in educational VRLs, integrated in only 13 of 62 reviewed systems](../claims/guidance-tools-uncommon-vrls.md) [~W]
 - [Interaction-oriented pedagogical guidance was more effective than task-oriented guidance for 16-year-old students using video tools in history lessons](../claims/interaction-guidance-more-effective-than-task-guidance.md) [~W]
+- [Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors](../claims/worked-examples-discouraged-cognitive-tutor-algebra.md) [~W]
 
 ## The evidence by question
 - *Does explaining and modelling a new method beat leaving learners to discover it with little support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]

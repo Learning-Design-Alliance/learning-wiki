@@ -79,7 +79,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (34 for, 48 mixed, 7 against) · 62 studies (17 causal, 14 review, 12 quant-synthesis, 9 qualitative, 5 theoretical, 4 design, 1 associational), `q1`–`q4` · 15 of 62 report an effect size · 84 claims rest on one study
+> **Evidence** · 91 claims (34 for, 50 mixed, 7 against) · 62 studies (17 causal, 15 review, 11 quant-synthesis, 9 qualitative, 5 theoretical, 4 design, 1 associational), `q1`–`q4` · 15 of 62 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -280,6 +280,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](../claims/genai-avatar-treated-as-question-base.md) [~W]
 - [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](../claims/publication-bias-in-simulation-games-research.md) [~M]
 - [VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.](../claims/real-machine-benchmark-and-colleague-positioning.md) [~W]
+- [Trainees learn more from simulation games when they have unlimited access to the game](../claims/unlimited-access-enhances-simulation-game-learning.md) [~W]
+- [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](../claims/vr-ar-challenges-learners-teachers-schools.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

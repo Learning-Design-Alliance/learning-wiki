@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 62 claims (42 for, 19 mixed, 1 against) · 47 studies (23 associational, 11 causal, 11 review, 1 design, 1 theoretical), `q1`–`q3` · 9 of 47 report an effect size · 61 claims rest on one study
+> **Evidence** · 63 claims (43 for, 19 mixed, 1 against) · 48 studies (24 associational, 11 causal, 11 review, 1 design, 1 theoretical), `q1`–`q3` · 9 of 48 report an effect size · 62 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -109,6 +109,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback](../claims/self-efficacy-does-not-moderate-feedback-gains.md) [~W]
 - [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](../claims/self-modeling-raises-efficacy-and-skill.md) [+W]
 - [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools](../claims/self-efficacy-predicts-usefulness-ease-genai.md) [~W]
+- [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](../claims/verbal-stm-self-efficacy-positively-associated-vocabulary.md) [+W]
 
 ## The evidence by question
 

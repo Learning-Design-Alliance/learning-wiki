@@ -17,7 +17,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (21 for, 7 mixed, 1 against) · 23 studies (6 review, 5 theoretical, 4 qualitative, 3 causal, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 2 of 23 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (22 for, 8 mixed, 2 against) · 24 studies (6 review, 5 theoretical, 4 qualitative, 3 causal, 3 associational, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 24 report an effect size · 29 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -87,6 +87,9 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Students of color majoring in STEM report significantly lower sense of belonging than white majors](../claims/students-of-color-report-less-belonging-than-white-majors.md) [+W]
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](../claims/sob-linked-attainment-satisfaction-attrition.md) [+W]
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](../claims/teacher-student-relationship-strongest-sobas-link.md) [+W]
+- [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](../claims/welcoming-climate-belonging-enrollment-intent.md) [+W]
+- [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](../claims/underrepresented-students-fewer-belonging-affordances.md) [~W]
+- [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](../claims/vi-students-fit-in-less-accepted-at-school.md) [-W]
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

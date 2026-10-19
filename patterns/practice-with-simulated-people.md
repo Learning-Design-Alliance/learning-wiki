@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 121 claims (56 for, 50 mixed, 15 against) · 59 studies (14 causal, 13 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 59 report an effect size · 116 claims rest on one study
+> **Evidence** · 124 claims (58 for, 51 mixed, 15 against) · 60 studies (15 causal, 13 review, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 17 of 60 report an effect size · 119 claims rest on one study
 
 ## Description and scope
 
@@ -159,6 +159,9 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Agent accent condition showed no statistically significant differences in teachers' ratings of the agent's proficiency, etiquette, or personality](../claims/no-significant-accent-differences-casux-subscales.md) [~W]
 - [A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention](../claims/quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) [+W]
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](../claims/role-ambiguity-black-accent-trust-breakdown.md) [~W]
+- [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](../claims/vp-satisfaction-generally-positive.md) [+W]
+- [Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries](../claims/vp-effectiveness-global-applicability.md) [+W]
+- [Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures](../claims/variant2-least-positive-agent-perception.md) [~W]
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)
