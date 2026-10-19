@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (16 for, 14 mixed, 1 against, 1 unmarked) · 25 studies (12 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 25 report an effect size · 27 claims rest on one study
+> **Evidence** · 34 claims (16 for, 16 mixed, 1 against, 1 unmarked) · 25 studies (12 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 25 report an effect size · 29 claims rest on one study
 
 ## Description
 
@@ -120,6 +120,8 @@ The examples are local design instances, not additional observations from those 
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](../claims/testing-effect-persists-without-immediate-feedback.md) [+W]
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](../claims/contextual-spacing-effect-survives-orienting-tasks.md) [+W]
 - [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
+- [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](../claims/expanding-not-better-than-fixed-interval.md) [~W]
+- [Grade level and repetition spacing interact significantly in children's free recall](../claims/grade-by-spacing-interaction-free-recall.md) [~W]
 
 ## Key Sources
 

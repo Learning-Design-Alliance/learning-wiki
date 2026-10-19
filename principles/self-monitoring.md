@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (7 for, 11 mixed, 2 against) · 26 studies (10 causal, 7 quant-synthesis, 3 review, 3 associational, 3 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 11 claims rest on one study
+> **Evidence** · 21 claims (7 for, 11 mixed, 3 against) · 27 studies (10 causal, 7 quant-synthesis, 4 review, 3 associational, 3 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Accuracy of judgement, on-task behaviour, immediate task performance, delayed re
 - [Teaching cognitive strategies is associated with more accurate self-monitoring, while metacognitive strategy instruction shows no relation](../claims/cognitive-strategy-instruction-better-self-monitoring.md) [~W]
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](../claims/gender-difference-monitoring-judgments-health-math.md) [~W]
 - [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](../claims/unskilled-unaware-monitoring-after-self-scoring.md) [~W]
+- [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](../claims/explicit-metacognition-limited-access-inaccurate-reports.md) [-W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — monitoring depends on having a target worth tracking.

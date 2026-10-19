@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 30 studies (14 causal, 6 quant-synthesis, 4 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 6 of 30 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (9 for, 12 mixed, 2 against) · 31 studies (14 causal, 6 quant-synthesis, 5 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 17 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -69,6 +69,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Closed-book self-explanation prompts reduce the number of generated self-explanations when learners are not prompted to actively process the instructional explanations beforehand](../claims/closed-book-prompts-reduce-self-explanations-without-active-processing.md) [~W]
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](../claims/combine-cognitive-metacognitive-prompts.md) [~W]
 - [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](../claims/cscl-effectiveness-independent-of-number-of-activity-prompts.md) [~W]
+- [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](../claims/expertise-reversal-writing-journal-prompts-fading.md) [~W]
 
 ## The evidence by question
 

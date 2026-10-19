@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (13 for, 9 mixed, 4 against) · 32 studies (18 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 32 report an effect size · 17 claims rest on one study
+> **Evidence** · 30 claims (14 for, 12 mixed, 4 against) · 35 studies (19 causal, 7 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 35 report an effect size · 21 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -60,6 +60,10 @@ Worked examples are the element in which learners study complete or partial solu
 - [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](../claims/worked-examples-no-self-explanation-quality-advantage.md) [-W]
 - [Heuristic worked examples do not improve fifth graders' mathematical modeling competency](../claims/worked-examples-no-grade5-modeling-competency-effect.md) [-W]
 - [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](../claims/answer-items-no-difference-self-explanation-tutor.md) [~W]
+- [Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge](../claims/early-worked-examples-better-journal-quality.md) [+W]
+- [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](../claims/erroneous-examples-metacognitive-confidence-delayed.md) [~W]
+- [Learning with erroneous examples often imposed higher cognitive load than correct examples or problem-solving](../claims/errex-higher-cognitive-load.md) [~W]
+- [Erroneous examples and problem solving do not differ significantly on an immediate posttest](../claims/erroneous-examples-no-immediate-difference.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

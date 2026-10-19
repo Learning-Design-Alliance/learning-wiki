@@ -27,7 +27,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (15 for, 14 mixed, 1 against) · 33 studies (11 causal, 10 review, 7 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 33 report an effect size · 24 claims rest on one study
+> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 34 studies (12 causal, 10 review, 7 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 34 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](../claims/video-views-declined-across-quarter.md) [-W]
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](../claims/genai-rated-for-ideation-not-time-saving.md) [+W]
 - [High school students taught with self-study followed by discussion achieved higher immediate retention and near-transfer scores than those taught with lecture followed by discussion](../claims/self-study-discussion-immediate-retention-transfer-high-school.md) [+W]
+- [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](../claims/flipped-learning-personalised-guidance-gap.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

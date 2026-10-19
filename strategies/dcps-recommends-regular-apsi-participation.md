@@ -17,7 +17,7 @@ sources:
 # DCPS recommends regular AP teacher participation in the Advanced Placement Summer Institute to promote quality AP instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To promote quality instruction in AP courses, DCPS recommends that AP teachers participate regularly in the Advanced Placement Summer Institute (APSI), a staff-training program for AP teachers. The report examined this recommendation as part of its review of AP staffing and training in DCPS high schools, finding that "Fewer than one-fifth of AP teachers participated in the APSI at least once every three years."
@@ -35,6 +35,10 @@ To promote quality instruction in AP courses, DCPS recommends that AP teachers p
 
 ### Target Learning Goals
 - quality instruction in Advanced Placement courses
+
+## Claims
+
+- [Fewer than one-fifth of DCPS AP teachers participated in the APSI at least once every three years](../claims/fewer-one-fifth-ap-teachers-apsi-every-three-years.md) [-W]
 
 ## Related Strategies
 

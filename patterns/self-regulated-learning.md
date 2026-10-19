@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 50 claims (18 for, 29 mixed, 3 against) · 45 studies (18 causal, 7 review, 7 associational, 6 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 45 report an effect size · 43 claims rest on one study
+> **Evidence** · 52 claims (19 for, 30 mixed, 3 against) · 47 studies (18 causal, 8 review, 8 associational, 6 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 47 report an effect size · 45 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,8 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [The hypothesised mediation of prompt effects on self-efficacy via strategy use was not confirmed because prompts did not affect strategy use](../claims/strategy-mediation-of-prompt-self-efficacy-not-confirmed.md) [-W]
 - [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](../claims/student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md) [~W]
 - [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](../claims/srlt-module-scores-improvement-adam-ben.md) [~W]
+- [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](../claims/empirical-support-zimmerman-srl-models.md) [+W]
+- [Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support](../claims/explicit-regulation-infrequent-challenge-responsive.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

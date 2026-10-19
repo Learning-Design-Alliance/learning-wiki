@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (6 for, 35 mixed, 2 against) · 27 studies (11 associational, 6 causal, 6 review, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 27 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (6 for, 36 mixed, 2 against) · 28 studies (11 associational, 7 review, 6 causal, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 28 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](../claims/race-gender-grade-differences-persist.md) [~W]
 - [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](../claims/filtering-reverses-black-white-growth-gap.md) [~W]
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](../claims/act-subgroup-misprediction-and-school-variance.md) [~W]
+- [Across everyday-mathematics studies, individuals tended to score higher on tasks linked to their everyday practices than on school-format versions of the same questions](../claims/everyday-practice-tasks-scored-higher-than-school-format.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

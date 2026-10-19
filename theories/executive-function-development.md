@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 83 claims (45 for, 36 mixed, 2 against) · 59 studies (38 associational, 9 review, 6 causal, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 24 of 59 report an effect size · 78 claims rest on one study
+> **Evidence** · 99 claims (53 for, 44 mixed, 2 against) · 66 studies (43 associational, 9 review, 8 causal, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 25 of 66 report an effect size · 94 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -124,6 +124,22 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Disabled readers show working memory deficits at every age on the blocked listening span task](../claims/disabled-readers-lower-listening-span-all-ages.md) [~W]
 - [An apparent switching advantage in dyslexia (lower switching reaction-time cost) disappears after controlling for processing speed](../claims/dyslexia-switching-advantage-disappears-speed-control.md) [~W]
 - [Children show initially reduced DLPFC activation relative to adults for REL-1 and REL-2 trials, but sustained DLPFC activation for REL-1 problems in the later trial phase](../claims/dlpfc-immature-activation-children-rel1.md) [~W]
+- [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](../claims/ef-predictors-of-achievement-differ-across-grades.md) [~W]
+- [Executive function increases with age between 11–12 and 15–16, but knowledge attribution assumptions do not](../claims/ef-increases-with-age-kas-does-not.md) [+W]
+- [Emotion regulation and cognitive control discrepancy on emotional go/no-go decreases with age](../claims/emotion-cognitive-control-discrepancy-decreases-age.md) [+W]
+- [The developmental precedence of EF over ToM persists from 4 to 5 years of age](../claims/ef-precedence-persists-4-to-5.md) [~W]
+- [Executive function at 48 months moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](../claims/ef-moderates-preschool-kindergarten-ecls-k-math.md) [~W]
+- [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](../claims/ec-predicts-math-from-3-75-onward.md) [~W]
+- [Preschool executive function positively predicts kindergarten math on both measures, while teacher–child relationship quality shows only a trend-level main effect on ECLS-K Math and none on Applied Problems](../claims/ef-main-effect-teacher-relationship-main-effect-kindergarten-math.md) [+W]
+- [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](../claims/executive-function-maturation-over-twenty-years.md) [+W]
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](../claims/executive-functions-predict-early-math-over-iq.md) [+W]
+- [Executive task accuracy and processing speed improve dramatically with age across the preschool period, with no cohort effect from repeated testing](../claims/executive-performance-improves-with-age-no-cohort-effect.md) [+W]
+- [Girls show early EF and ToM advantages, but the EF advantage diminishes with age while the ToM advantage persists](../claims/gender-advantage-ef-diminishes-tom-persists.md) [~W]
+- [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](../claims/exclusion-reduces-nback-accuracy-young-adolescent-girls.md) [~W]
+- [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](../claims/fish-task-correlates-emergent-literacy-circle-does-not.md) [~W]
+- [Cognitive flexibility's unique contribution to academic marks emerges only once EF components become differentiated, around Grades 4–6](../claims/flexibility-contribution-emerges-with-ef-differentiation.md) [~W]
+- [Feedback on post-switch sorting improves preschoolers' DCCS performance and transfers to a novel DCCS version](../claims/feedback-improves-preschool-dccs.md) [+W]
+- [Higher inhibition and working-memory scores predict better overall Shape School accuracy at some ages, independent of trial type](../claims/gng-nb-main-effects-overall-accuracy.md) [+W]
 
 ## Related Theories
 

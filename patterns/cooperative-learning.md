@@ -29,7 +29,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (17 for, 15 mixed) · 31 studies (13 quant-synthesis, 6 design, 5 causal, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 13 of 31 report an effect size · 24 claims rest on one study
+> **Evidence** · 33 claims (17 for, 16 mixed) · 32 studies (13 quant-synthesis, 6 causal, 6 design, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 13 of 32 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](../claims/cooperative-learning-usefulness-attendance.md) [+W]
 - [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](../claims/cooperative-learning-skill-specific-ct-gains.md) [~W]
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
+- [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](../claims/equal-participation-across-collaboration-conditions.md) [~W]
 
 ## Related Patterns
 

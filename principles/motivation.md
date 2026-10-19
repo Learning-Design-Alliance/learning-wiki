@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (39 for, 24 mixed, 3 against) · 68 studies (19 review, 17 causal, 8 associational, 7 quant-synthesis, 7 qualitative, 7 theoretical, 3 design), `q1`–`q4` · 9 of 68 report an effect size · 52 claims rest on one study
+> **Evidence** · 68 claims (39 for, 26 mixed, 3 against) · 70 studies (19 review, 17 causal, 9 qualitative, 8 associational, 7 quant-synthesis, 7 theoretical, 3 design), `q1`–`q4` · 9 of 70 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -215,6 +215,8 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](../claims/adhd-motivation-profile-sdt-dimensions.md) [~W]
 - [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](../claims/automated-marking-higher-exam-confidence.md) [~W]
 - [Students who received the ability signal enrolled in and passed about one more AP course the following year](../claims/ability-signal-one-more-ap-course.md) [+W]
+- [Frustration at not understanding a concept is perceived to motivate exploration and persistence, while frustration attributed to teachers or curriculum impairs motivation](../claims/frustration-epistemic-motivates-external-impairs.md) [~W]
+- [Gaming participants did not report the negative consequences of task failure; low-stakes experimentation and regeneration supported perseverance](../claims/gaming-failure-tolerance-perseverance.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

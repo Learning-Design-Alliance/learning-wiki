@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 185 claims (81 for, 90 mixed, 14 against) · 144 studies (50 associational, 37 design, 19 review, 19 theoretical, 14 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 12 of 144 report an effect size · 179 claims rest on one study
+> **Evidence** · 191 claims (83 for, 94 mixed, 14 against) · 148 studies (51 associational, 38 design, 20 review, 19 theoretical, 15 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 12 of 148 report an effect size · 185 claims rest on one study
 
 ## Conditional relationship
 
@@ -283,6 +283,12 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64](../claims/closed-llm-graders-below-human-floor.md) [+W]
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](../claims/detector-61-3-percent-false-positives-non-native-toefl.md) [+W]
 - [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](../claims/desr-eight-item-scale-high-internal-consistency.md) [+W]
+- [Higher item noise, shared items among conceptually nested energy LOs, and smallest sample size explain the EMCS energy LOs' low classification accuracy](../claims/energy-lo-low-accuracy-sources.md) [~W]
+- [GenAI models' grades differ significantly across models, with GPTo1 grading more leniently than Llama2, Mistral7B and Cohere](../claims/genai-grade-differences-wilcoxon.md) [~W]
+- [Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates](../claims/freshman-gpa-predicts-80-percent-ontime-graduation.md) [~W]
+- [Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores](../claims/grader-grade-relates-to-grading-reliability.md) [~W]
+- [Giving students feedback about their grading bias increased their subsequent grading accuracy](../claims/grading-bias-feedback-increases-accuracy.md) [+W]
+- [Among students with the same ACT scores (21-23), college graduation rates are 77 percent for those with a high school GPA of 3.5 or higher versus 40 percent for those with a GPA of 2.0-2.4](../claims/gpa-outpredicts-act-college-graduation.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

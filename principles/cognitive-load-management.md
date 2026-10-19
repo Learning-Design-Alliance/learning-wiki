@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (21 for, 23 mixed, 2 against) · 45 studies (20 causal, 11 review, 8 quant-synthesis, 5 theoretical, 1 design), `q1`–`q4` · 16 of 45 report an effect size · 38 claims rest on one study
+> **Evidence** · 49 claims (21 for, 25 mixed, 3 against) · 48 studies (22 causal, 11 review, 8 quant-synthesis, 6 theoretical, 1 design), `q1`–`q4` · 16 of 48 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,9 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Low information density reduces mental effort and increases efficiency during the collaborative learning phase](../claims/zambrano-2019-low-density-lower-effort-learning.md) [+W]
 - [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](../claims/collaborative-learning-collective-working-memory-advantage.md) [+W]
 - [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](../claims/disfluency-no-effect-test-expectancy.md) [~W]
+- [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](../claims/graphs-increase-mental-effort-silence.md) [~W]
+- [GCL-raising activations did not improve learning outcomes: neither prompted imagination nor disfluency produced a significant task-performance advantage](../claims/gcl-activation-no-task-performance-effect.md) [-W]
+- [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](../claims/effort-self-reports-not-valid-cognitive-requirements.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

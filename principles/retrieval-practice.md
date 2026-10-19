@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (40 for, 32 mixed, 1 against, 1 unmarked) · 36 studies (13 causal, 9 quant-synthesis, 7 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 36 report an effect size · 67 claims rest on one study
+> **Evidence** · 75 claims (40 for, 33 mixed, 1 against, 1 unmarked) · 36 studies (13 causal, 9 quant-synthesis, 7 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 36 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -207,6 +207,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](../claims/testing-effect-persists-without-immediate-feedback.md) [+W]
 - [The retention benefit of spaced recall quizzes holds regardless of the hour of the day the class meets](../claims/spaced-recall-effective-regardless-class-hour.md) [+W]
 - [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](../claims/practice-test-specificity-negative-without-feedback.md) [~W]
+- [Feedback neutralizes the effect of prior study on final cued recall performance](../claims/feedback-neutralizes-prior-study-effects.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

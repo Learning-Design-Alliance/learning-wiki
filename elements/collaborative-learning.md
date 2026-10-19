@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 18 studies (6 quant-synthesis, 3 causal, 3 associational, 2 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 18 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 19 studies (6 quant-synthesis, 3 causal, 3 review, 3 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 19 report an effect size · 10 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -62,6 +62,7 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Without assigned roles, all group members generally participate in many core dimensions of group leadership, which emerges as an interactive group phenomenon](../claims/distributed-leadership-emergent-group-phenomenon.md) [~W]
 - [Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks](../claims/zambrano-2019-experienced-groups-outperform-inexperienced.md) [~W]
 - [Collaborative problem-solving improves attitudinal tendency (ES = 1.17) more than cognitive skills (ES = 0.70)](../claims/cps-attitudinal-tendency-stronger-than-cognitive-skills.md) [+W]
+- [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](../claims/group-advantage-joint-perceptual-decision-discussion.md) [+W]
 
 ## The evidence by question
 - *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]

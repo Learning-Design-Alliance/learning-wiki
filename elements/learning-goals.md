@@ -18,7 +18,7 @@ sources:
 # Learning Goals
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 14 studies (6 quant-synthesis, 3 causal, 2 review, 2 theoretical, 1 design), `q1`–`q4` · 6 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning goals are explicit statements of the intended outcomes of instruction — what learners should know, understand, or be able to do. They function as the anchor for [Constructive Alignment](../patterns/constructive-alignment.md): activities, materials, and assessments are all designed backward from them, and learners use them to monitor their own progress.
@@ -61,6 +61,7 @@ Well-specified goals improve achievement by directing learner attention to what 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
+- [A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims](../claims/goal-gap-performance-vs-development.md) [~W]
 
 ## The evidence by question
 

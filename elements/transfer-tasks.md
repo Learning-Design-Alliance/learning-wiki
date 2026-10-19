@@ -13,7 +13,7 @@ generated:
 # Transfer Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 14 studies (6 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 8 claims rest on one study
 
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
@@ -58,6 +58,7 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [Transfer task performance is the critical measure of what adaptive training accomplishes](../claims/transfer-task-measures-adaptive-training-effectiveness.md) [+W]
 - [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](../claims/capability-oriented-design-dimension.md) [~W]
 - [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [~W]
+- [Cognitive strategy application in a far-transfer task after hybrid training depends on the specific strategy: text highlighting transferred, conducting experiments did not versus non-hybrid training](../claims/far-transfer-cognitive-strategy-application-strategy-dependent.md) [~W]
 
 ## The evidence by question
 

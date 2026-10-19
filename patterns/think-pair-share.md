@@ -15,7 +15,7 @@ grain_size: lesson
 # Think-Pair-Share
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (4 for, 11 mixed) · 33 studies (11 causal, 10 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 33 report an effect size · 5 claims rest on one study
+> **Evidence** · 16 claims (4 for, 12 mixed) · 34 studies (11 causal, 11 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 34 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -109,6 +109,7 @@ This pattern is scoped to a short routine embedded in a larger lesson. It is not
 ## Claims
 
 - [Learners change the direction of their assumptions more often to agree with a partner than to disagree](../claims/direction-change-more-often-to-agree.md) [+W]
+- [Fine-grained matching by ability level is reported to be optimal except in pairs where both students are at the very low ability level](../claims/fine-matching-optimal-except-very-low-pairs.md) [~W]
 
 ## Related Patterns
 - [Peer Instruction](peer-instruction.md)

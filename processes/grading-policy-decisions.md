@@ -12,7 +12,7 @@ generated:
 # Grading Policy Decisions
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 10 claims (2 for, 8 mixed) · 8 studies (3 associational, 2 theoretical, 1 causal, 1 review, 1 qualitative), `q2`–`q3` · 1 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (3 for, 9 mixed, 1 against) · 11 studies (3 associational, 3 theoretical, 2 review, 2 qualitative, 1 causal), `q1`–`q3` · 1 of 11 report an effect size · 13 claims rest on one study
 
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
@@ -59,6 +59,9 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](../claims/students-accept-teacher-decisions-more-than-ai-decisions.md) [~W]
 - [CPS ninth-grade math final grade distributions show sharp peaks at 60, 70, 80, and 90 points, with students on the cusp between two grades much more likely to receive the higher grade](../claims/cps-gradebook-cusp-grades-higher-grade-peaks.md) [+W]
 - [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](../claims/ai-se-assessment-project-based-not-exams.md) [~W]
+- [Excluding graduate attributes from assessment carries four disadvantages, including that unassessed attributes will not be taken seriously by students or teachers](../claims/exclusion-of-attributes-from-assessment-disadvantages.md) [+W]
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](../claims/grades-detrimental-creative-thinking-retention.md) [-W]
+- [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](../claims/genai-uneven-playing-field-assessment-fairness.md) [~W]
 
 ## Related Principles
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — grading decisions inherit the underlying assessment's validity and reliability properties, but add a further, separable layer of composition choices

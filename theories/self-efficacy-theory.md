@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 49 claims (35 for, 13 mixed, 1 against) · 40 studies (19 associational, 10 review, 9 causal, 1 design, 1 theoretical), `q1`–`q3` · 7 of 40 report an effect size · 48 claims rest on one study
+> **Evidence** · 50 claims (35 for, 14 mixed, 1 against) · 40 studies (19 associational, 10 review, 9 causal, 1 design, 1 theoretical), `q1`–`q3` · 7 of 40 report an effect size · 49 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -96,6 +96,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](../claims/country-differences-teacher-self-efficacy-autistic-children.md) [~W]
 - [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](../claims/cse-partial-mediation-anx-peu-weakened.md) [+W]
+- [Goal orientations moderate self-efficacy perceptions in ways not originally predicted by self-efficacy theory](../claims/goal-orientations-moderate-efficacy-perceptions.md) [~W]
 
 ## The evidence by question
 

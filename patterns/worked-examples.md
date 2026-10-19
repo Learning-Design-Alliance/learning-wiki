@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (6 for, 7 mixed, 2 against, 3 unmarked) · 14 studies (8 causal, 3 review, 2 theoretical, 1 design), `q2`–`q3` · 0 of 14 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (6 for, 8 mixed, 2 against, 3 unmarked) · 15 studies (9 causal, 3 review, 2 theoretical, 1 design), `q2`–`q3` · 0 of 15 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -106,6 +106,7 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 - [Duration of the initial problem-solving phase reverses the PS-I versus WS-I transfer advantage](../claims/ps-phase-duration-reverses-ps-i-ws-i-transfer.md) [~W]
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](../claims/worked-examples-no-improvement-knowledge-application.md) [-W]
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](../claims/alternating-example-problem-pairs.md) [~W]
+- [Erroneous examples and problem solving do not differ significantly on an immediate posttest](../claims/erroneous-examples-no-immediate-difference.md) [~W]
 
 ## Key Sources
 

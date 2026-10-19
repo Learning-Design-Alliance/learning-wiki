@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (10 for, 15 mixed, 9 against) · 29 studies (18 causal, 5 associational, 3 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 11 of 29 report an effect size · 32 claims rest on one study
+> **Evidence** · 36 claims (10 for, 16 mixed, 10 against) · 32 studies (18 causal, 7 associational, 3 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 11 of 32 report an effect size · 33 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -84,6 +84,8 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](../claims/accurate-jol-repetition-benefit.md) [+W]
 - [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](../claims/bias-index-predicts-achievement.md) [~W]
 - [Student teachers' self-assessed preparedness did not predict first-year effectiveness (r = 0.03), while mentor teachers' ratings of student teachers did (r = 0.24)](../claims/cps-early-indicators-mentor-ratings-predict-first-year-effectiveness.md) [-W]
+- [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](../claims/explicit-metacognition-limited-access-inaccurate-reports.md) [-W]
+- [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](../claims/equation-difficulty-self-ranks-mismatch-performance.md) [~W]
 
 ## The evidence by question
 

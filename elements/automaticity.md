@@ -13,7 +13,7 @@ generated:
 # Automaticity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 8 studies (3 review, 1 causal, 1 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 9 studies (3 review, 2 theoretical, 1 causal, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 1 of 9 report an effect size · 4 claims rest on one study
 
 ## Description
 Automaticity is the state in which a component skill — decoding words, retrieving math facts, typing, parsing syntax — executes quickly, accurately, and with little conscious effort. It develops through repeated, spaced, and increasingly varied practice after initial accuracy is achieved. Its instructional significance lies in what it *releases*: when lower-level processes run without deliberate attention, working memory is available for comprehension, problem-solving, and composition.
@@ -56,6 +56,7 @@ Automaticity of component skills is a precondition for complex performance: read
 - [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/strong-evidence-fluency-building-activities-grades-4-9.md) [+W]
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](../claims/spanish-decoding-rate-better-predictor-than-accuracy.md) [+W]
 - [Automaticity does not predict decoding or reading comprehension in middle-school students](../claims/automaticity-not-predict-decoding-comprehension.md) [-W]
+- [Experts have reduced access to memory traces of their own cognitive processes due to automatization, and large domain knowledge can disadvantage performance on certain tasks](../claims/expert-automaticity-reduces-access-to-processes.md) [+W]
 
 ## The evidence by question
 

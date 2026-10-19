@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 7 studies (3 review, 3 associational, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (1 for, 6 mixed) · 9 studies (5 associational, 3 review, 1 theoretical), `q1`–`q3` · 0 of 9 report an effect size · 6 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -56,6 +56,8 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Test scores measure accumulated knowledge at a moment in time, not innate student ability](../claims/test-scores-measure-opportunity-not-innate-ability.md) [+W]
 - [Children with ADHD perform worse than controls on WISC-IV Coding but not on Coding Copy, indicating deficits beyond graphomotor speed](../claims/adhd-coding-deficit-beyond-graphomotor-speed.md) [~W]
 - [Curve estimation shows linear decline in processing speed after age 30, quadratic trajectories for category fluency and IQ, and no age change in letter fluency](../claims/curve-estimation-differential-age-trajectories.md) [~W]
+- [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](../claims/ef-predictors-of-achievement-differ-across-grades.md) [~W]
+- [Full-scale IQ is genetically related but not redundant with common cognitive variance](../claims/fsiq-genetically-related-not-redundant-with-common-cognitive-variance.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

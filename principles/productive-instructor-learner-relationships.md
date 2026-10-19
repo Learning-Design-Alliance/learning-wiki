@@ -23,7 +23,7 @@ sources:
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (13 for, 6 mixed) · 25 studies (7 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 25 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (14 for, 6 mixed) · 26 studies (7 causal, 7 associational, 4 review, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 26 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,10 @@ For example, a working parent in an evening certificate course may want only to 
 The expectation should weaken if comparisons of adult courses with and without early relationship work, with comparable learners, show no difference in participation, persistence or openness to opposing views; if the school findings (greetings, empathic responses) do not carry to adults; or if, as in the tutoring finding, relationship quality and learning move apart so that time spent on relationships costs learning. It should be narrowed if the effect appears only for learners with reason to mistrust instructors, as the belonging and empathic-discipline findings suggest for their groups. Do not protect the model by calling every failure "not enough rapport" after the fact.
 
 A good reported relationship, participation, persistence, openness to opposing arguments and achievement are separate claims. The present evidence establishes no dose of relationship time, no order of steps and no effect on adult learning.
+
+## Claims
+
+- [Faculty-signaled classroom climate relates to engagement: courses where instructors treat no question as too elementary and own responsibility for student success show more engaged students](../claims/faculty-climate-signals-engage-students.md) [+W]
 
 ## Related Principles
 

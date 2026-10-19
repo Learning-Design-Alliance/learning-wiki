@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (14 for, 18 mixed, 1 against) · 34 studies (8 causal, 8 qualitative, 6 associational, 6 theoretical, 4 quant-synthesis, 2 review), `q1`–`q4` · 4 of 34 report an effect size · 31 claims rest on one study
+> **Evidence** · 35 claims (15 for, 19 mixed, 1 against) · 35 studies (8 causal, 8 qualitative, 6 associational, 6 theoretical, 4 quant-synthesis, 3 review), `q1`–`q4` · 4 of 35 report an effect size · 33 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -83,6 +83,8 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](../claims/collaborative-inquiry-outperforms-individual-overall.md) [+W]
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](../claims/cll-four-ethical-tensions.md) [-W]
 - [Homogeneous CS-major groups reported higher CPSE in collaborative programming than homogeneous non-CS and heterogeneous groups, with no significant difference between the latter two](../claims/cpse-cs-major-groups-higher-collaborative.md) [~W]
+- [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](../claims/equal-inquiry-skills-gains-all-groups.md) [+W]
+- [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](../claims/gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) [~W]
 
 ## The evidence by question
 

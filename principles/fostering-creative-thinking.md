@@ -27,7 +27,7 @@ sources:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (14 for, 8 mixed, 2 against) · 25 studies (9 causal, 5 review, 4 theoretical, 3 design, 2 quant-synthesis, 2 associational), `q1`–`q4` · 7 of 25 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (16 for, 8 mixed, 2 against) · 27 studies (9 causal, 6 review, 4 theoretical, 3 design, 2 quant-synthesis, 2 associational, 1 qualitative), `q1`–`q4` · 7 of 27 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,8 @@ Output during an activity, originality judged by raters, interest afterwards, un
 
 - [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [~W]
 - [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](../claims/create-immediate-originality-gain.md) [+W]
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](../claims/grades-detrimental-creative-thinking-retention.md) [+W]
+- [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](../claims/genai-authorship-boundary-rejected-substitution.md) [+W]
 
 ## Related Principles
 - [Transfer of Learning](transfer-of-learning.md) — divergent, abstraction-oriented thinking is also one of the general mechanisms that supports transfer

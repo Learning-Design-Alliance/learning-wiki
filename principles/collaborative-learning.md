@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (26 for, 34 mixed, 4 against) · 69 studies (15 causal, 13 review, 12 theoretical, 10 associational, 8 quant-synthesis, 8 qualitative, 3 design), `q1`–`q4` · 9 of 69 report an effect size · 58 claims rest on one study
+> **Evidence** · 65 claims (26 for, 35 mixed, 4 against) · 70 studies (15 causal, 13 review, 12 theoretical, 10 associational, 8 quant-synthesis, 8 qualitative, 4 design), `q1`–`q4` · 9 of 70 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Two transactivity-supporting scripts each help dyads, but combining them appears to interfere](../claims/combined-transactivity-scripts-interfere.md) [~W]
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](../claims/cll-four-ethical-tensions.md) [-W]
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](../claims/discussion-improves-individual-perception.md) [+W]
+- [Emergent group understanding is an empirical phenomenon arising from the interplay of a social object and a technology object, revealed by two subprocesses: spontaneous information provision and setting localized goals](../claims/emergent-group-understanding-phenomenon.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

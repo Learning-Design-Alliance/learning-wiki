@@ -35,7 +35,7 @@ sources:
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (18 for, 7 mixed, 1 against) · 12 studies (5 theoretical, 3 quant-synthesis, 2 causal, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 12 report an effect size · 25 claims rest on one study
+> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 13 studies (5 theoretical, 3 quant-synthesis, 2 causal, 2 associational, 1 qualitative), `q1`–`q4` · 4 of 13 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,10 @@ For example, a secondary school may aim at fewer exclusions, while a group of le
 The expectation should weaken if schoolwide programmes with class meetings, service and conflict-resolution discipline show no more change in behaviour or civic commitment than a separate character course with the same learners, or if the behaviour effects found by WWC reviews disappear in independent replications. If curriculum alone matches curriculum plus service, step 5's action component is a preference, not a requirement. If attitude and value measures keep showing no discernible effect while behaviour changes, the model should say it changes conduct and say less about character. Do not protect the model by calling every null "not schoolwide enough" after the fact.
 
 Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what learners do after they leave are separate claims. The present evidence establishes no dose for class meetings, no project length and no stage-change criterion.
+
+## Claims
+
+- [Students' perceptions of ethicality and of rule compliance were strongly and positively correlated, with rule ratings consistently higher than ethicality ratings](../claims/ethicality-and-rule-compliance-perceptions-strongly-correlated.md) [~W]
 
 ## Related Principles
 - [Social-Emotional Learning (pattern)](../patterns/social-emotional-learning.md) — explicit teaching of named social and emotional skills; overlaps with character education programmes, owns the skill sequence

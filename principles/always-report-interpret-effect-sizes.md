@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 21 studies (7 quant-synthesis, 6 causal, 4 review, 4 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 22 studies (8 quant-synthesis, 6 causal, 4 review, 4 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Reporting an effect size, interpreting it against a reference class, and the dec
 ## Claims
 
 - [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](../claims/comprehension-strategy-large-effect-unreliable.md) [~W]
+- [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](../claims/genai-writing-effect-robustness-checks.md) [+W]
 
 ## Related Principles
 

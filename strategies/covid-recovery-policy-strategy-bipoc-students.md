@@ -17,7 +17,7 @@ sources:
 # Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report offers a set of policy recommendations meant to encompass a wide range of supports: improving remote learning (broadband, devices, technical support, family communication, teacher professional development), extending learning time (summer enrichment, early school start, extended days, high-quality tutoring tied to school curriculum), targeting federal resources equitably to districts and schools with higher concentrations of BIPOC and low-income students, and addressing academic, social, and emotional needs through regular assessment, mental health screening and counseling, and expanded school meal programs.
@@ -39,6 +39,7 @@ The report offers a set of policy recommendations meant to encompass a wide rang
 ## Claims
 
 - [High-poverty schools were overrepresented among New York charter schools that had not provided devices to students before building closure (86.8% of non-providers vs 79.3% of the sample)](../claims/device-provision-equity-high-poverty.md) [~W]
+- [Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges](../claims/ell-mll-remote-support-challenges.md) [~W]
 
 ## Related Strategies
 

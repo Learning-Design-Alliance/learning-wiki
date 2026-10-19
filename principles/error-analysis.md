@@ -26,7 +26,7 @@ sources:
 # Error Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (12 for, 3 mixed, 1 against) · 23 studies (9 causal, 5 theoretical, 4 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 11 claims rest on one study
+> **Evidence** · 21 claims (14 for, 6 mixed, 1 against) · 24 studies (9 causal, 5 theoretical, 4 quant-synthesis, 3 review, 2 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,11 @@ Correct procedures, conceptual understanding, recall of a correction and comfort
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](../claims/fraction-errors-systematic-misconception-patterns.md) [+W]
 - [The delayed erroneous-examples advantage replicated at one school but was not statistically significant at the other](../claims/delayed-advantage-mixed-across-schools.md) [+W]
 - [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](../claims/discrimination-unchanged-after-training.md) [-W]
+- [Erroneous examples were beneficial only in combination with elaborated feedback, not with corrective feedback alone](../claims/errex-beneficial-only-with-elaborated-feedback.md) [~W]
+- [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](../claims/erroneous-examples-benefit-both-prior-knowledge-levels.md) [+W]
+- [In the acquisition of negative knowledge, erroneous examples outperformed correct examples](../claims/errex-negative-knowledge-advantage.md) [+W]
+- [Learning with erroneous examples often imposed higher cognitive load than correct examples or problem-solving](../claims/errex-higher-cognitive-load.md) [~W]
+- [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](../claims/errexs-vs-correx-mixed-benefit.md) [~W]
 
 ## Related Principles
 - [Explaining Their Thinking](cognitive-activation.md) — self-explanation is the mechanism by which error analysis works.

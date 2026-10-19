@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (19 for, 17 mixed) · 42 studies (12 quant-synthesis, 11 causal, 5 associational, 5 qualitative, 4 review, 3 design, 2 theoretical), `q1`–`q4` · 12 of 42 report an effect size · 28 claims rest on one study
+> **Evidence** · 37 claims (19 for, 18 mixed) · 43 studies (12 causal, 12 quant-synthesis, 5 associational, 5 qualitative, 4 review, 3 design, 2 theoretical), `q1`–`q4` · 12 of 43 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,7 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [The more confident a learning partner's answers, the more competent the partner is perceived](../claims/partner-confidence-raises-perceived-competence.md) [~W]
 - [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](../claims/student-tutors-cognitive-congruency-focus-group.md) [+W]
 - [Asking the class to agree with a student's answer and directing students to help one another are associated with higher math achievement](../claims/class-agreement-and-peer-help-higher-achievement.md) [+W]
+- [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](../claims/gbsri-interview-attributions-and-pair-work-discomfort.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

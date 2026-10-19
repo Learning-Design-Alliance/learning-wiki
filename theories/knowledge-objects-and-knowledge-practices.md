@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 36 claims (27 for, 8 mixed, 1 against) · 29 studies (11 qualitative, 5 review, 5 associational, 5 design, 2 theoretical, 1 causal), `q1`–`q3` · 0 of 29 report an effect size · 36 claims rest on one study
+> **Evidence** · 38 claims (28 for, 9 mixed, 1 against) · 30 studies (11 qualitative, 5 review, 5 associational, 5 design, 3 theoretical, 1 causal), `q1`–`q3` · 0 of 30 report an effect size · 38 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -74,6 +74,8 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](../claims/virtual-objects-shared-vr-collaborative-knowledge-building.md) [+W]
 - [At the discourse-act level, expression of uncertainty predicts more follow-up while community orientation predicts less, and notes lacking building-knowledge openness receive less follow-up](../claims/uncertainty-discourse-act-more-followup.md) [~W]
 - [AI-supported examination and construction practices (explanation, creation) qualify only as expanded or transformed epistemic practices because they can be performed without AI](../claims/ai-explanation-creation-expanded-not-novel-practices.md) [~W]
+- [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](../claims/four-episodes-exploratory-content-generation.md) [+W]
+- [Externalizing knowledge into a wiki can itself produce individual learning through deeper processing](../claims/externalization-produces-individual-learning.md) [~W]
 
 ## Related Theories
 

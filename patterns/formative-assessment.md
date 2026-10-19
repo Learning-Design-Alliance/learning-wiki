@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 33 claims (16 for, 16 mixed, 1 unmarked) · 43 studies (14 causal, 12 quant-synthesis, 6 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 43 report an effect size · 22 claims rest on one study
+> **Evidence** · 35 claims (18 for, 16 mixed, 1 unmarked) · 44 studies (14 causal, 12 quant-synthesis, 7 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 44 report an effect size · 24 claims rest on one study
 
 ## Description
 
@@ -208,6 +208,8 @@ This is the article's described classroom pattern for formative assessment in la
 - [In the diagram-only condition teachers rely mainly on performance cues but fabricate student cues for half the students](../claims/teacher-cue-utilization-fabricated-student-cues-diagram-only.md) [~W]
 - [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](../claims/self-assessment-feedback-reduced-learning-phase-task-selection.md) [~W]
 - [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](../claims/diagnosticity-intervention-no-accuracy-gain.md) [~W]
+- [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](../claims/formative-assessment-self-efficacy-low-achievers.md) [+W]
+- [Regular classroom formative assessment can raise student achievement by 0.4–0.7 standard deviations, per studies the chapter cites](../claims/formative-assessment-raises-achievement-04-07-sd.md) [+W]
 
 ## Key Sources
 

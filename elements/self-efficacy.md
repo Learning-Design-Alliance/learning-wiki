@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (22 for, 15 mixed, 1 against, 1 unmarked) · 37 studies (16 associational, 9 review, 8 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 10 of 37 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (23 for, 15 mixed, 1 against, 1 unmarked) · 38 studies (16 associational, 10 review, 8 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 10 of 38 report an effect size · 36 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -87,6 +87,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](../claims/country-differences-teacher-self-efficacy-autistic-children.md) [~W]
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [~W]
 - [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
+- [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](../claims/formative-assessment-self-efficacy-low-achievers.md) [+W]
 
 ## The evidence by question
 

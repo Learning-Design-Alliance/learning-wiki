@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 48 claims (20 for, 24 mixed, 4 against) · 48 studies (10 associational, 9 qualitative, 8 causal, 7 design, 6 review, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 5 of 48 report an effect size · 46 claims rest on one study
+> **Evidence** · 65 claims (28 for, 32 mixed, 5 against) · 60 studies (13 associational, 10 qualitative, 9 causal, 9 review, 7 quant-synthesis, 7 design, 5 theoretical), `q1`–`q4` · 11 of 60 report an effect size · 63 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -73,6 +73,23 @@ Technology integration is the element in which digital tools are used in direct 
 - [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](../claims/critical-ai-literacy-dimension.md) [~W]
 - [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](../claims/did-2-34-mark-advantage-verified-ai-materials.md) [~W]
 - [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](../claims/cobi-privacy-and-performance-monitoring-concerns.md) [~W]
+- [Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction](../claims/educational-robotics-moderate-overall-effect-stem-learning.md) [+W]
+- [Effective AI use positively influences sustainable learning performance](../claims/effective-ai-use-improves-sustainable-learning-performance.md) [+W]
+- [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](../claims/emerging-tech-tefl-pooled-effect-g038.md) [+W]
+- [Educational robotics shows no significant effect on students' computational thinking in STEM education](../claims/educational-robotics-no-significant-ct-effect.md) [-W]
+- [Students perceived eight GenAI roles but lacked engagement and a sense of achievement](../claims/eight-perceived-genai-roles-low-achievement.md) [~W]
+- [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](../claims/eight-ai-factors-positive-engagement-satisfaction.md) [+W]
+- [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](../claims/genai-communication-benefits-depend-on-integration.md) [~W]
+- [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](../claims/functional-fragmentation-persists-despite-llm-advances.md) [~W]
+- [Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines](../claims/genai-partial-integration-preferences-hss.md) [~W]
+- [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](../claims/genai-moderate-positive-effect-hot.md) [+W]
+- [GenAI-assisted education produces significantly higher academic achievement than non-GenAI-assisted approaches (g = 0.40)](../claims/genai-higher-academic-achievement-g040.md) [+W]
+- [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](../claims/genai-privacy-bias-accuracy-concerns-limited-evidence.md) [~W]
+- [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](../claims/genai-use-adjusted-positive-ct-disposition.md) [~W]
+- [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](../claims/genai-raises-unaided-essay-quality.md) [+W]
+- [Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions](../claims/gains-uncorrelated-with-prior-literacy.md) [+W]
+- [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](../claims/genai-performance-gains-assessment-caution.md) [~W]
+- [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](../claims/genai-writing-instruction-pooled-effect-g-080.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

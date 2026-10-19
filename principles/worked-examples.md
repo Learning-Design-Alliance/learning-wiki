@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (17 for, 10 mixed, 3 against) · 26 studies (18 causal, 3 quant-synthesis, 3 theoretical, 2 review), `q2`–`q4` · 6 of 26 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (17 for, 12 mixed, 3 against) · 27 studies (19 causal, 3 quant-synthesis, 3 theoretical, 2 review), `q2`–`q4` · 6 of 27 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,8 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 - [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](../claims/practice-problems-lower-mental-effort.md) [-W]
 - [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](../claims/worked-examples-no-self-explanation-quality-advantage.md) [-W]
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](../claims/worked-examples-no-improvement-knowledge-application.md) [-W]
+- [Erroneous examples and problem solving do not differ significantly on an immediate posttest](../claims/erroneous-examples-no-immediate-difference.md) [~W]
+- [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](../claims/expertise-reversal-conceptual-understanding-statistics.md) [~W]
 
 ## Key Sources
 

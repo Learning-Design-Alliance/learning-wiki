@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (14 for, 11 mixed) · 19 studies (5 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 23 claims rest on one study
+> **Evidence** · 26 claims (15 for, 11 mixed) · 20 studies (6 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 20 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,10 @@ For example, teachers in a school adopting a new method may value keeping the ro
 The expectation should weaken if trials comparing a planned combination with wholesale adoption of either method, on outcomes measured by component, show no advantage for the combination, or show that the combination does worse than the stronger method alone because each half gets too little time. It should narrow if the vocabulary finding (combined beats either alone) does not appear in other domains. If, in a domain, one method turns out to serve every component as well as the other, the case for balancing there disappears. Do not protect the model by calling every failure "the wrong balance" after the fact.
 
 Combining two methods, the share of time each gets, the order of the two, and the criterion for moving on are separate questions; the present evidence settles none of them in general.
+
+## Claims
+
+- [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](../claims/educational-factors-support-adolescent-creativity.md) [+W]
 
 ## Related Principles
 

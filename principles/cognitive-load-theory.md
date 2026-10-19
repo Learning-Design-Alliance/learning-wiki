@@ -31,7 +31,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (16 for, 29 mixed, 2 against) · 49 studies (23 causal, 12 review, 7 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 8 of 49 report an effect size · 37 claims rest on one study
+> **Evidence** · 49 claims (16 for, 31 mixed, 2 against) · 50 studies (23 causal, 12 review, 8 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 8 of 50 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity](../claims/cognitive-load-effects-reexplained-via-element-interactivity.md) [+W]
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](../claims/clt-motivation-gap.md) [-W]
 - [Cognitive load in concurrent storage-processing tasks has a negative linear effect on memory span](../claims/cognitive-load-negative-linear-span-effect.md) [+W]
+- [Element interactivity underlies extraneous cognitive load as well as intrinsic cognitive load](../claims/element-interactivity-underlies-extraneous-load.md) [~W]
+- [Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory](../claims/germane-load-activities-require-external-methods.md) [~W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

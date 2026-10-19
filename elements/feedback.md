@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 151 claims (72 for, 66 mixed, 13 against) · 122 studies (45 causal, 19 quant-synthesis, 19 review, 14 associational, 11 qualitative, 9 design, 5 theoretical), `q1`–`q4` · 31 of 122 report an effect size · 130 claims rest on one study
+> **Evidence** · 158 claims (74 for, 71 mixed, 13 against) · 123 studies (47 causal, 19 quant-synthesis, 19 review, 14 associational, 9 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 32 of 123 report an effect size · 137 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -200,6 +200,13 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](../claims/anonymous-online-peer-review-differential-responses.md) [~W]
 - [Acceptance rates increase with writing progress, with the L2-over-L1 advantage widening in later stages](../claims/acceptance-increases-with-writing-progress.md) [~W]
 - [The study compared feedback-uptake relationships across two immersion settings totaling 18.3 hr of French and 14.8 hr of Japanese classroom interaction](../claims/comparative-feedback-analysis-french-japanese-immersion-hours.md) [~W]
+- [ENL students were near-evenly split in preference between AI-generated and human tutor feedback](../claims/enl-near-even-split-ai-human-feedback-preference.md) [~W]
+- [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](../claims/feedback-source-no-posttest-effect-enl.md) [~W]
+- [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](../claims/genai-reshaping-cs-assessment-automation-scalability-feedback.md) [+W]
+- [Feedback direction moderates effects: student-to-student feedback is most effective (d = 0.85), teacher-to-student d = 0.47, student-to-teacher d = 0.35](../claims/feedback-direction-moderator-student-student-highest.md) [~W]
+- [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](../claims/genai-peer-feedback-shifts-feedback-quality-profile.md) [~W]
+- [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](../claims/gpt4-feedback-no-superior-linguistic-progress-enl.md) [~W]
+- [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](../claims/genai-feedback-rated-higher-genuineness-blind.md) [+M]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
