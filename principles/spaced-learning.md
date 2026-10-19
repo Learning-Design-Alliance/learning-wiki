@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (24 for, 15 mixed, 1 unmarked) · 31 studies (17 causal, 8 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 34 claims rest on one study
+> **Evidence** · 40 claims (22 for, 17 mixed, 1 unmarked) · 31 studies (17 causal, 8 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 34 claims rest on one study
 
 ## Description
 

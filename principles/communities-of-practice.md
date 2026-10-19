@@ -35,7 +35,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (24 for, 6 mixed, 1 against) · 28 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 28 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (21 for, 9 mixed, 1 against) · 28 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 28 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,11 @@ Changed participation norms, changed understanding, changed practice and a membe
 - Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
 - Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
 - Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
+- Fulton, K., Doerr, H., & Britton, T. (2010). STEM Teachers in Professional Learning Communities: A Knowledge Synthesis. National Commission on Teaching & America's Future / WestEd. https://www.nctaf.org/resources/events/STEMWingspreadConference.htm
+- Spain, A.K., Ehrlich, S.B., Cowhy, J.R., Dasgupta, D.K., & Lockaby, T. (2018). A community effort to support the transition from pre-K to kindergarten. Chicago, IL: University of Chicago Consortium on School Research and Chapin Hall at the University of Chicago. https://consortium.uchicago.edu/publications/community-effort-support-transition-pre-k-kindergarten
+- Sutcher, L., Podolsky, A., & Espinoza, D. (2017). Supporting principals' learning: Key features of effective programs. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/supporting-principals-learning
+- Wabike, P. (2021). Enhancing Learning through Community Membership: Honours Students' Perceptions of Community Membership and Its Impact on Learning. Journal of Educational Issues, 7(2). [doi:10.5296/jei.v7i2.18814](https://doi.org/10.5296/jei.v7i2.18814)
+- Region 15 Comprehensive Center at WestEd. (2024). Listening Deeply and Responding Accordingly: R15CC Facilitates a Community of Practice Rooted in the Perspectives of American Indian Education Directors. https://www.wested.org/resources/working-respectfully-with-indigenous-communities-around-data-and-evidence-a-resource-for-state-education-agencies/
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
