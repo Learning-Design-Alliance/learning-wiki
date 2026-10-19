@@ -29,7 +29,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (14 for, 11 mixed) · 25 studies (13 quant-synthesis, 4 design, 3 review, 2 causal, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 25 report an effect size · 17 claims rest on one study
+> **Evidence** · 32 claims (17 for, 15 mixed) · 31 studies (13 quant-synthesis, 6 design, 5 causal, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 13 of 31 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,13 @@ This pattern is scoped to small-group work where each member's individual learni
 - [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](../claims/cooperative-learning-location-moderator.md) [~M]
 - [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W]
 - [Accountability can produce positive or negative effects depending on type, decision context, and task nature](../claims/accountability-effects-depend-on-type-context-task.md) [~W]
+- [Editorial reports that meta-level talk about group process, but not about individual actions, is associated with superior group outcomes](../claims/editorial-reports-meta-group-talk-aids-group-performance.md) [~W]
+- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](../claims/off-task-more-common-in-larger-making-teams.md) [~W]
+- [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](../claims/kindergarten-triads-shared-computer-social-skills.md) [+W]
+- [Team regulation correlates positively with learning results only in the CHT condition](../claims/team-regulation-learning-results-correlation-cht.md) [~W]
+- [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](../claims/cooperative-learning-usefulness-attendance.md) [+W]
+- [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](../claims/cooperative-learning-skill-specific-ct-gains.md) [~W]
+- [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
 
 ## Related Patterns
 

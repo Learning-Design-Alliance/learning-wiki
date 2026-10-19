@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 93 claims (49 for, 38 mixed, 6 against) · 75 studies (15 associational, 13 causal, 12 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 10 of 75 report an effect size · 83 claims rest on one study
+> **Evidence** · 99 claims (52 for, 41 mixed, 6 against) · 78 studies (16 associational, 15 causal, 12 review, 11 quant-synthesis, 9 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 11 of 78 report an effect size · 89 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,15 @@ Record: **learner plan and named obstacles → contacts scheduled and actually m
 [Coaching](../elements/coaching.md), [check-ins](../elements/check-in.md), [goal setting](../elements/goal-setting.md), [feedback](../elements/feedback.md) and [learning analytics feedback](../elements/learning-analytics-feedback.md).
 
 This pattern is scoped to support around self-paced online courses and programmes: planning contact, triggered outreach, feedback on work, and the division between people and automated help. Course design itself, peer-learning formats, tutoring as instruction and the design of an AI tutor's dialogue need their own configurations and evidence. The causal evidence recorded in the wiki comes from campus and online college courses and MOOCs, mostly in the United States, measured on persistence, grades and completion over one or two years; it does not test contact frequency or dose for learners (the one dose finding is about coaching teachers), hand-off rules, a belonging message inside a self-paced course, what a mentor should do when an alert repeats (that evidence is one qualitative classroom study), or any mentor model inside a competency-based programme, and the diagnostic branches above remain to be tested with actual learners.
+
+## Claims
+
+- [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](../claims/guiding-support-stimulated-targeted-group-interactions.md) [+W]
+- [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-lexical-help-use.md) [~W]
+- [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-metacognitive-help-use.md) [+W]
+- [Learners heed proactive promptings more systematically when a human tutor is accessible than when it is not](../claims/promptings-heeded-more-with-human-tutor.md) [+W]
+- [Learners use navigational help less when a human tutor is accessible, contradicting the expected direction](../claims/human-tutor-presence-reduces-navigational-help-use.md) [~M]
+- [Support demand across participants is concentrated: the most active decile accounts for 34.6% of queries and 42.9% of participants raised exactly one query](../claims/demand-concentration-across-participants-lorenz-gini.md) [~W]
 
 ## Related Patterns
 

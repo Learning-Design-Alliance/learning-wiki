@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 6 studies (3 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -55,6 +55,8 @@ Peer teaching works because explaining to another person demands deeper processi
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](../claims/student-tutors-no-achievement-difference-pbl.md) [~W] — attached 2026-10-18 from Catherine De Rijdt et al. (2012), which proposed "Rigorous selection and 36-hour training programme for senior student tutors in PBL"; tests this page's relationship.
 - [Student perceptions of tutors are generally positive for both staff and student tutors, with significant differences appearing in only one course and not consistently across courses](../claims/tutor-perceptions-positive-inconsistent-differences.md) [~W] — attached 2026-10-18 from Catherine De Rijdt et al. (2012), which proposed "Rigorous selection and 36-hour training programme for senior student tutors in PBL".
+- [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](../claims/student-tutors-cognitive-congruency-focus-group.md) [+W]
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](../claims/tutor-behavior-ratings-interaction-year.md) [~W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

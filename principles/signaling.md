@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (10 for, 14 mixed, 1 against, 1 unmarked) · 18 studies (8 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (10 for, 15 mixed, 1 against, 1 unmarked) · 19 studies (9 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 19 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,10 @@ The designer's objective is that learners select the essential material and see 
 ## What would revise this model?
 
 The expectation should weaken if comparisons with comparable novice learners, holding content and time equal, find no learning advantage for cued over uncued material on aligned tests, or if the advantage seen on an immediate test is absent at a delay. It should be narrowed if more studies like Richter et al. and Clinton et al. find cues harming learners with moderate prior knowledge, which would make a prior-knowledge probe a requirement rather than a refinement. If the gains turn out to come from the cues matching the test items rather than from organising the material, the explanation should shift from organisation to attention alone. Do not protect the model by calling every null result a case of too many cues after the fact.
+
+## Claims
+
+- [In 5-year-olds the transparent-cue benefit appears only with finger tracking, producing a significant Cue × Tracking interaction](../claims/cue-tracking-interaction-5yo-recall.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

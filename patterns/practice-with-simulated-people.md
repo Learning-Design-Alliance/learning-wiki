@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 111 claims (55 for, 43 mixed, 13 against) · 54 studies (12 causal, 12 quant-synthesis, 11 review, 8 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 16 of 54 report an effect size · 106 claims rest on one study
+> **Evidence** · 115 claims (55 for, 46 mixed, 14 against) · 57 studies (13 review, 12 causal, 12 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 16 of 57 report an effect size · 110 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,10 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 ## Claims
 
 - [Overall 3E communication scores were higher among participants with prior communication training](../claims/prior-training-higher-3e-scores.md) [~W] (associational; useful for reading baseline differences between learners, not as an effect of the practice)
+- [Recurring movements between professional (in-role) and educational (out-of-role) contexts during simulation are important for simulator training to fulfil its pedagogical potential](../claims/role-shifts-between-professional-and-educational-contexts.md) [~W]
+- [Simulation and hybrid authentic-learning approaches do not necessarily differ in participants or experienced meaningfulness of collaboration](../claims/simulation-hybrid-approaches-differ-not-participants-meaningfulness.md) [~W]
+- [Simulation functions as a site where professional knowledge is produced, negotiated, and reshaped, not merely a tool for skill rehearsal](../claims/simulation-site-professional-knowledge-transformation.md) [~W]
+- [Teachers' most common concern is that agreeable AI companions remove the developmental friction through which adolescents learn to sustain human relationships](../claims/agreeable-companions-remove-developmental-friction.md) [-W]
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

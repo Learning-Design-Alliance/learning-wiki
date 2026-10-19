@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (15 for, 12 mixed, 1 unmarked) · 39 studies (12 quant-synthesis, 10 causal, 6 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 16 of 39 report an effect size · 17 claims rest on one study
+> **Evidence** · 33 claims (16 for, 16 mixed, 1 unmarked) · 43 studies (14 causal, 12 quant-synthesis, 6 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 43 report an effect size · 22 claims rest on one study
 
 ## Description
 
@@ -203,6 +203,11 @@ This is the article's described classroom pattern for formative assessment in la
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](../claims/agentic-feedback-42-undergrads-rubric-alignment-gain.md) [+W]
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](../claims/high-level-feedback-remains-human-responsibility.md) [~W]
+- [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](../claims/diagnostic-cues-improve-teacher-judgment-accuracy.md) [+W]
+- [Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers](../claims/mct-pd-more-complete-contingent-teaching-cycles.md) [~W]
+- [In the diagram-only condition teachers rely mainly on performance cues but fabricate student cues for half the students](../claims/teacher-cue-utilization-fabricated-student-cues-diagram-only.md) [~W]
+- [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](../claims/self-assessment-feedback-reduced-learning-phase-task-selection.md) [~W]
+- [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](../claims/diagnosticity-intervention-no-accuracy-gain.md) [~W]
 
 ## Key Sources
 

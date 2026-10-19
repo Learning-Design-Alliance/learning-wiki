@@ -79,7 +79,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (30 for, 41 mixed, 5 against) · 52 studies (14 review, 12 causal, 11 quant-synthesis, 6 qualitative, 5 theoretical, 3 design, 1 associational), `q1`–`q4` · 11 of 52 report an effect size · 71 claims rest on one study
+> **Evidence** · 86 claims (34 for, 45 mixed, 7 against) · 61 studies (17 causal, 14 review, 12 quant-synthesis, 9 qualitative, 5 theoretical, 3 design, 1 associational), `q1`–`q4` · 15 of 61 report an effect size · 81 claims rest on one study
 
 ## Conditional relationship
 
@@ -264,6 +264,19 @@ The expectation should weaken if simulation practice shows no advantage over equ
 For laboratories, the substitution rule above (a guided virtual lab may stand in for concepts, not for manipulative skill) should change if a trial comparing a guided virtual lab with an equally guided hands-on lab finds no difference on a real-equipment skill test, or finds the conceptual equivalence fails at a delay; it should change for remote labs and technology sandboxes only once claims about them exist in this wiki.
 
 Success inside the simulation, immediate performance outside it, delayed retention, transfer to the real setting and effects on patients or clients are separate claims. The present evidence sets no number of runs, no debrief length and no fidelity level.
+
+## Claims
+
+- [Undergraduate students learning nanoscience with agent-based models show greater gains in explanatory knowledge than students learning with visualization videos](../claims/abm-greater-explanatory-knowledge-gains-nanoscience.md) [+W]
+- [Concrete-task participants achieved higher performance success than intermediate-task participants in simulation-based inquiry, while intermediate and abstract conditions did not differ significantly](../claims/concrete-task-higher-performance-success-than-intermediate.md) [~W]
+- [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](../claims/mobile-ar-families-immersive-geoscience-lotm.md) [+W]
+- [Simulator feedback responds authentically to student error, e.g. logs fall from the cargo when the grapple is opened incorrectly.](../claims/simulator-authentic-error-feedback-log-drops.md) [+W]
+- [Secondary school students learn more complex marine ecology content from interactive computer simulations than from hands-on experiments, with a larger advantage for the more complex multidimensional topic](../claims/simulations-beat-experiments-complex-content-knowledge.md) [+W]
+- [Simulator-based VET instruction in this study centres on volume training of routine tasks rather than rehearsing specific high-stakes, risky situations.](../claims/vet-simulator-instruction-volume-training-not-high-stakes.md) [-W]
+- [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](../claims/explicit-cvs-knowledge-equal-conditions.md) [~W]
+- [In a rule-based simulation game with narrow scope and high distance, facilitator interventions were predominantly first- and second-order and participant learning was mainly first- and second-order](../claims/rule-based-sg-yields-first-second-order-learning.md) [~W]
+- [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](../claims/virtual-lab-transfer-from-demonstration-limited.md) [-W]
+- [The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods](../claims/active-comparison-instruction-reverses-simulation-game-advantage.md) [~M]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

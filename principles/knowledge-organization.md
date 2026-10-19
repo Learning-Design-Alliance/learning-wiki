@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (15 for, 6 mixed) · 24 studies (8 causal, 5 quant-synthesis, 5 review, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 24 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (15 for, 8 mixed) · 26 studies (10 causal, 5 quant-synthesis, 5 review, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 26 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,11 @@ For example, an adult apprentice electrician may want to find faults quickly on 
 The expectation should weaken if further comparisons of organized against single-level teaching of the same content, with learners outside physics and with aligned integrative tasks, show no advantage, or if an advantage at two weeks disappears at a longer delay. If closed-book retrieval of the content's items, without any taught organization, matches organized teaching on integrative tasks, the organization adds nothing beyond retrieval and this page should defer to [Retrieval Practice](retrieval-practice.md). If low-attaining learners consistently gain nothing, the model should say who it is for. If studies of causal, sequence or comparison organizations behave unlike hierarchies, the top-level and depth advice is hierarchy-specific. Do not protect the model by calling every failure "the wrong organization" after the fact; name the matching task before teaching.
 
 Assisted sorting, unaided rebuilding, integrative-task performance, detail recall and use in the learner's own setting are separate claims. The present evidence establishes no number of levels, no session dose and no criterion for moving on.
+
+## Claims
+
+- [The Timeline condition's advantage was concentrated in time-related test items and disappeared in the long run](../claims/timeline-advantage-driven-by-time-related-items.md) [~W]
+- [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](../claims/cooperative-concept-mapping-better-than-individual.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — knowledge organization is often one concrete route to load reduction

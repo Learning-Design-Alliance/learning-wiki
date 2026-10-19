@@ -31,7 +31,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (9 for, 11 mixed) · 25 studies (9 causal, 4 quant-synthesis, 4 review, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 4 of 25 report an effect size · 14 claims rest on one study
+> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 30 studies (13 causal, 4 quant-synthesis, 4 review, 4 associational, 3 theoretical, 2 design), `q1`–`q4` · 5 of 30 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,14 @@ For example, an apprentice electrician may value getting a circuit working on si
 The expectation should weaken if tasks that demand generation beyond the material, compared with tasks of the same topic, time and feedback that do not, show no advantage on aligned changed-case probes. If the gains attributed to activating tasks are explained by extra time, extra feedback or test-like probes that came with them, credit those instead. If the constructive-over-active ordering keeps failing in authentic classrooms, stop using it to classify tasks and keep only the contrast between generating and not generating. If novices given explanation followed by ordinary practice do as well as novices given explanation followed by activating tasks, the claim narrows to learners who already hold the relation. If a dimension of teaching quality called cognitive activation is recorded here with its own studies, test this task-level model against it rather than assuming they agree. Do not protect the model by relabelling every failure as "not really activating" after the fact.
 
 Immediate understanding, near transfer, delayed retention and use in the setting the learner values are separate claims. The present evidence does not establish how much challenge is optimal, which kind of activating task is best for a given goal, or an effect for any individual learner.
+
+## Claims
+
+- [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](../claims/key-features-improve-explanation-in-case-comparison.md) [~W]
+- [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](../claims/closed-book-no-delayed-posttest-added-value.md) [-W]
+- [Student teachers struggled to self-explain expert features from faded double-content examples and to transfer them to their analyses](../claims/struggled-self-explain-faded-examples.md) [-W]
+- [Comparison prompts are strongly concentrated in process diagrams (93%) and rare in photos (20%)](../claims/comparison-frequency-varies-by-image-type.md) [~W]
+- [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle](../claims/assisting-prompts-foster-conceptual-knowledge.md) [+W]
 
 ## Related Principles
 - [Active Learning](active-learning.md) — active learning becomes more valuable when the activity is cognitively demanding rather than merely participatory

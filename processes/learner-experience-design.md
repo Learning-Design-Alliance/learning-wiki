@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 18 studies (8 causal, 3 quant-synthesis, 3 design, 2 review, 2 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 19 studies (8 causal, 4 design, 3 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 8 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -71,6 +71,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](../claims/bloom-ui-low-workload-high-usability.md) [+W]
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](../claims/hero-elementary-ebooks-not-user-friendly-images-covering-text.md) [-W]
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](../claims/usability-test-strengths-and-limits.md) [~W]
+- [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](../claims/agent-identifies-confusing-content-actionable-feedback.md) [+W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

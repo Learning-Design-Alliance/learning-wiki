@@ -13,7 +13,7 @@ generated:
 # Misconception Probes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 qualitative, 1 review, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 2 qualitative, 1 review, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 A misconception probe is a carefully constructed question, scenario, or two-tier item (answer plus reasoning) that targets a known, documented misconception. Learners commit to an answer *before* instruction, making their intuitive model visible to themselves and the instructor. The probe functions as diagnosis, not assessment — its purpose is to activate the faulty schema so that subsequent instruction can directly challenge it.
@@ -56,6 +56,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](../claims/tools-should-surface-misconceptions-track-difficulties.md) [+W]
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception](../claims/collearn-misconception-mining-f1.md) [~W]
+- [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](../claims/lab-expository-instruction-probes-effective.md) [~W]
 
 ## The evidence by question
 

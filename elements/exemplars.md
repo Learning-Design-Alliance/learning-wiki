@@ -13,7 +13,7 @@ generated:
 # Exemplars
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 9 studies (4 causal, 2 review, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 11 studies (6 causal, 2 review, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 An exemplar is a high-quality model of a finished product or performance — an essay, design, proof, or solution — that learners study to internalize quality criteria before producing their own work. Unlike a [Demonstration](demonstration.md), which shows a *process*, an exemplar shows the *product* of expertise, making implicit standards observable and discussable.
@@ -54,6 +54,8 @@ Exemplars make quality criteria concrete: learners calibrate their own standards
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](../claims/trainer-calibration-expected-align-rater-judgments.md) [+W]
+- [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](../claims/expert-standards-relative-accuracy-null.md) [-W]
+- [Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts](../claims/example-quality-moderation-null.md) [~W]
 
 ## The evidence by question
 

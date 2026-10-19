@@ -39,7 +39,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 8 mixed) · 32 studies (13 causal, 5 review, 4 quant-synthesis, 4 qualitative, 4 theoretical, 1 associational, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 10 claims rest on one study
+> **Evidence** · 25 claims (11 for, 12 mixed, 2 against) · 37 studies (16 causal, 5 review, 5 theoretical, 4 quant-synthesis, 4 qualitative, 2 associational, 1 design), `q1`–`q4` · 4 of 37 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,16 @@ For example, a first-year nursing student may want to know whether a herbal reme
 The expectation should weaken if controlled comparisons of comparable learners find that several sessions of explicit standards and practice do not improve judgments of new claims of the taught kind, or that gains fade well before a few weeks. If instruction in one standard is found to improve untaught kinds of judgment as well, the specificity limit above should be relaxed rather than defended. If a single well-designed session proves as effective as several, the dose guidance should change. If learners' confidence ratings track their accuracy no better after instruction, the calibration step should be dropped or redesigned. If teaching source-checking moves for the web is found not to change how learners check AI answers, the AI row should become a design of its own rather than an extension of the source-evaluation default. Do not protect the model by calling every failure a lack of motivation or domain knowledge after the fact.
 
 A shift in the reasons learners write, a better verdict on new material, durability over months, and better judgment in their own lives are separate claims. The evidence here reaches the first two, at horizons up to five weeks, for particular kinds of evidence. It establishes no general epistemic development, no optimal dose and no measure of epistemic beliefs as an outcome.
+
+## Claims
+
+- [Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts](../claims/example-quality-moderation-null.md) [~W]
+- [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](../claims/expert-example-standards-improve-judgment-accuracy.md) [+W]
+- [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](../claims/expert-standards-relative-accuracy-null.md) [-W]
+- [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](../claims/training-impact-higher-evaluation-than-search.md) [~W]
+- [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](../claims/idea-unit-standards-ineffective-example-generation.md) [-W]
+- [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](../claims/ai-intuition-epistemic-judgment-not-prompt-engineering.md) [~W]
+- [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](../claims/development-epistemic-beliefs-predict-science-knowledge.md) [~W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence

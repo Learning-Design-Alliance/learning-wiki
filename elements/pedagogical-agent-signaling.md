@@ -18,7 +18,7 @@ sources:
 # Pedagogical Agent Signaling for Feedback Salience
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 An embodied pedagogical agent already central to the learning task (e.g., a teachable agent whose in-game success depends on the student's help) turns to face and points at a feedback text box the moment it appears, using gaze and gesture rather than a purely directional cue like an animated arrow. The mechanism is social: gaze and pointing recruit reflexive joint-attention responses and load the pointed-at content with the implicit message "this matters," in a way a non-social directional cue does not.
@@ -45,6 +45,8 @@ An embodied pedagogical agent already central to the learning task (e.g., a teac
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance](../claims/primary-aoi-followup-rate-no-difference.md) [-W]
+- [Gaze feedback and PCA suggestions interact on proportional learning gains, with synergy favoring the visible-gaze/visible-agent condition](../claims/gaze-pca-interaction-on-learning-gains.md) [+W]
+- [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](../claims/process-performance-correlation-only-both-tools.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md)

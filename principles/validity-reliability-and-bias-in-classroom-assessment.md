@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 164 claims (68 for, 83 mixed, 13 against) · 125 studies (41 associational, 30 design, 19 theoretical, 18 review, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 125 report an effect size · 159 claims rest on one study
+> **Evidence** · 185 claims (81 for, 90 mixed, 14 against) · 144 studies (50 associational, 37 design, 19 review, 19 theoretical, 14 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 12 of 144 report an effect size · 179 claims rest on one study
 
 ## Conditional relationship
 
@@ -262,6 +262,27 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](../claims/race-gender-grade-differences-persist.md) [-W]
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](../claims/single-administration-theoretical-reliability-vectors.md) [~W]
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](../claims/swcpm-arm-high-correlation-grades-1-5.md) [~W]
+- [Comprehension judgments and performance predictions correlate highly, supporting the validity of the study's z-standardized bias measure to some extent](../claims/comprehension-judgment-performance-prediction-correlation.md) [~W]
+- [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](../claims/existing-online-srl-scales-reliability-issues.md) [+W]
+- [Construct validity of the QCGE-SAS is supported by significant correlations between its subscales and pre-validated related scales](../claims/qcge-sas-construct-validity-significant-correlations.md) [+W]
+- [High-school grades do not capture the preparation gap: controlling for high-school scores did not eliminate the gap, possibly due to a ceiling effect](../claims/high-school-grades-ceiling-effect-gap.md) [~W]
+- [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](../claims/perceived-task-difficulty-correlates-with-relative-task-difficulty.md) [+W]
+- [Expert ratings support the content validity of the SKT-SRL scenarios and strategies](../claims/skt-srl-expert-content-validity.md) [+W]
+- [The SKT-SRL correlates moderately with self-reported SRL strategy usage (convergent validity)](../claims/skt-srl-convergent-validity-questionnaire.md) [+W]
+- [Nine of the ten SRL-O subscales showed internal consistency above 0.70, with study environment lower (omega = 0.665)](../claims/srl-o-internal-consistency.md) [+W]
+- [Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample](../claims/qcge-sas-criterion-validity-learning-outcomes.md) [+W]
+- [Type-1 performance in reading-related experimental tasks correlates with standardized reading test performance, validating the task battery](../claims/type1-orthographic-tasks-correlate-reading-tests.md) [+W]
+- [Teachers' judgments of students' performance deviated 21.96% from students' actual performance, tending to overestimate it](../claims/teachers-overestimate-students-performance-22-percent.md) [+W]
+- [AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse](../claims/ai-detectors-reported-unreliable-biased.md) [-W]
+- [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](../claims/aes-high-agreement-calibration-constraint.md) [~W]
+- [The Who Has More task showed moderate test-retest reliability (r = .46) in preschoolers, and the authors call for more stable ANS measures for this age](../claims/ans-task-moderate-test-retest-reliability-preschoolers.md) [~W]
+- [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](../claims/anvil-llm-judge-analogy-screening.md) [~W]
+- [Almost all middle and high school academic indicators demonstrated similar predictive strength across student groups, with exceptions for science and English language arts proficiency in middle school and science proficiency and community service learning enrollment in high school](../claims/academic-indicator-predictive-strength-similar.md) [~W]
+- [CMS shows acceptable test-retest reliability and internal consistency](../claims/cms-reliability-icc-alpha.md) [+M]
+- [Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range](../claims/classification-accuracy-22-lo-combinations.md) [~W]
+- [Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64](../claims/closed-llm-graders-below-human-floor.md) [+W]
+- [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](../claims/detector-61-3-percent-false-positives-non-native-toefl.md) [+W]
+- [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](../claims/desr-eight-item-scale-high-internal-consistency.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

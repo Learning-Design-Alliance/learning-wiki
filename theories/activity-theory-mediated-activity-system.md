@@ -17,7 +17,7 @@ sources:
 # Activity theory: a mediated activity system framework for analyzing cognition in context
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper presents activity theory, originating with Leont'ev and extended by Cole, Engestrom, Nardi, Kuutti, and Kaptelinin, as a descriptive framework centered on a "mediated activity system" that "comprises the individual practitioner, the colleagues and co-workers of the workplace community, the conceptual and practical tools, and the shared objects as a unified dynamic whole" (Engestrom, 1992). Components continually influence and transform one another, and each system is a node in a network of related activity systems shaped by layers of historical development. The paper argues it offers a broader framework than distributed cognition for examining cognition distribution, and applies it to computers as cognitive tools.
@@ -41,6 +41,7 @@ The paper presents activity theory, originating with Leont'ev and extended by Co
 - [Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)](../claims/effects-with-versus-effects-of-computer.md) [~M]
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](../claims/tool-effectiveness-depends-on-context-configuration.md) [+M]
 - [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](../claims/user-goals-contradict-educational-objectives.md) [~M]
+- [Presentation technologies such as paper posters and PowerPoint mediate the sharing of ways of seeing in design studio critique sessions](../claims/presentation-technologies-mediate-ways-of-seeing.md) [+W]
 
 ## Related Theories
 

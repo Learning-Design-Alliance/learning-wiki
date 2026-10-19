@@ -13,7 +13,7 @@ generated:
 # Consensus Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 design), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 A consensus discussion asks a group of learners to move beyond stating positions toward agreeing on a shared judgment, decision, or jointly worded answer. Unlike [Debate](debate.md), the goal is not to win but to integrate perspectives into a single defensible position that all participants can endorse.
@@ -53,7 +53,9 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](../claims/fragmented-premature-shared-understanding.md) [~W]
+- [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](../claims/peer-prompts-argumentation-consensus-efficacy.md) [+W]
+- [Consensus reaching and task division together predict learning gains across conditions](../claims/process-codes-predict-learning-gains.md) [+W]
 
 ## Related Elements
 - [Debate](debate.md) — the adversarial counterpart; debate sharpens positions that consensus discussion then integrates

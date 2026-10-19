@@ -13,7 +13,7 @@ generated:
 # Collaborative Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (3 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Collaborative inquiry is the element in which learners investigate a question together through shared sensemaking and evidence use.
@@ -27,6 +27,8 @@ Collaborative inquiry is the element in which learners investigate a question to
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](../claims/third-space-distributes-authority-among-students.md) [+W]
+- [Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time](../claims/groups-vary-first-sensemaking-timing.md) [~W]
+- [The editorial reports that teacher–student collaborative discourse scaffolds data-representation sensemaking and narrative construction](../claims/teacher-collaborative-discourse-scaffolds-data-sensemaking.md) [+W]
 
 ## Related Elements
 - [Group Work](group-work.md)

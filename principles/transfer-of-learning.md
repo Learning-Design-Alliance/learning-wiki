@@ -23,7 +23,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (15 for, 10 mixed) · 25 studies (10 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 25 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (16 for, 10 mixed) · 26 studies (11 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 26 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](../claims/no-three-way-interaction-test-question-type-transfer.md) [+W]
 - [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
+- [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](../claims/variation-theory-transfer-novel-issues.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

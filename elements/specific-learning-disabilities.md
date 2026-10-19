@@ -13,7 +13,7 @@ generated:
 # Specific Learning Disabilities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 5 studies (3 associational, 1 review, 1 qualitative), `q2`–`q3` · 1 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 A **learning disability (LD)** is a specific impairment of academic learning that interferes significantly with one particular aspect of schoolwork — reading, writing, listening, speaking, or math — without necessarily affecting the others. By definition, an LD is diagnosed only after other explanations are ruled out: it is not an LD if the difficulty stems from a physical, sensory, or motor impairment, from a general intellectual impairment, or from the ordinary challenges of learning English as a second language. A genuine LD is also one that ordinary teaching effort hasn't resolved, though what counts as "ordinary effort" varies across teachers, schools, and students. LDs are by far the most common special-education category, accounting for roughly half of all students receiving special-education services and an estimated 5-20% of all students overall (U.S. Department of Education, 2005; Ysseldyke & Bielinski, 2002) — common enough that most teachers encounter at least one affected student every year regardless of grade level.
@@ -47,6 +47,9 @@ Because a specific learning disability affects one narrow academic area rather t
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](../claims/bilingual-staff-differentiation-no-systematic-process.md) [~W]
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](../claims/dd-adults-backup-strategies-prolonged-latencies.md) [+W]
+- [Developmental dyscalculia prevalence was 5.6% in this UK sample, with no significant gender difference](../claims/dd-prevalence-5-6-percent-no-gender-difference.md) [~W]
+- [The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD](../claims/consonants-in-noise-model-predicts-reading-and-diagnostic-category-older-children.md) [~W]
 
 ## Related Elements
 

@@ -13,7 +13,7 @@ generated:
 # Optional Quizzes or Discussion Sections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 17 studies (6 quant-synthesis, 4 review, 3 causal, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 18 studies (6 quant-synthesis, 4 review, 3 causal, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 5 claims rest on one study
 
 ## Description
 Optional quizzes and discussion sections are supplementary, typically ungraded or low-stakes activities that let learners rehearse and consolidate course content outside required assessments. Quizzes enact [retrieval practice](../principles/retrieval-practice.md); discussion sections add social elaboration and instructor feedback. Because they are optional, their effectiveness depends heavily on whether learners actually choose to use them.
@@ -56,6 +56,7 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+W]
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](../claims/high-but-heterogeneous-voluntary-ai-discussion-uptake.md) [~W]
 - [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [-W]
+- [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](../claims/ungraded-tests-mediating-practice.md) [+W]
 
 ## The evidence by question
 - *In real courses, do quizzes raise achievement, and when, how often and with what questions should they be given?* [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+M]

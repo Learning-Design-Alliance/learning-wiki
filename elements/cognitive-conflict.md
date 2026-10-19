@@ -13,7 +13,7 @@ generated:
 # Cognitive Conflict
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (4 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 2 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 13 studies (5 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size · 5 claims rest on one study
 
 ## Description
 Cognitive conflict is the deliberate introduction of evidence, questions, or situations that contradict learners' existing conceptions, creating a state of [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) that motivates accommodation. Rooted in Piaget's equilibration model, it functions as the trigger for conceptual change: learners must notice the conflict, experience dissatisfaction with their current conception, and construct a replacement that resolves it.
@@ -55,6 +55,8 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](../claims/constructive-conflict-increases-idea-editing.md) [+M]
 - [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](../claims/conflict-seed-induces-deeper-reflection.md) [+W]
+- [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](../claims/medium-incongruity-inverted-u-cognitive-conflict.md) [~W]
+- [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](../claims/anger-does-not-mediate-concession-effects.md) [~W]
 
 ## The evidence by question
 

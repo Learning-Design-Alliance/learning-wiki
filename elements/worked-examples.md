@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (11 for, 6 mixed) · 26 studies (13 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 associational), `q1`–`q4` · 4 of 26 report an effect size · 8 claims rest on one study
+> **Evidence** · 26 claims (13 for, 9 mixed, 4 against) · 32 studies (18 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 32 report an effect size · 17 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -51,6 +51,15 @@ Worked examples are the element in which learners study complete or partial solu
 - [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](../claims/variability-effect-format-interaction.md) [~W]
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
 - [Adults randomly assigned to a worked-example educational intervention made higher post-intervention monitoring judgments on health math problems than control participants](../claims/worked-example-intervention-raised-monitoring-judgments.md) [+W] — attached 2026-10-19 from Scheibe et al. (2022), which proposed "Worked-example educational intervention with apple-orchard analogy for case-fatality-rate problems".
+- [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](../claims/practice-problems-lower-mental-effort.md) [-W]
+- [Time-on-task during practice was significantly higher for correct and erroneous examples than for contrasting examples and practice problems](../claims/time-on-task-example-conditions-higher.md) [~W]
+- [In Experiment 2, the heuristic worked examples condition significantly affected socio-discursive MAS, with maximal worked examples descriptively best and no significant post-hoc differences](../claims/maximal-worked-examples-descriptively-best-socio-discursive-mas.md) [~W]
+- [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](../claims/worked-examples-improve-cdr-declarative-knowledge.md) [+W]
+- [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](../claims/self-explanation-prompts-no-added-benefit.md) [-W]
+- [The benefit of worked examples over problem-solving increases with decreasing shifting ability, reproducing Schwaighofer et al. (2016)](../claims/shifting-ability-moderates-worked-example-benefit.md) [+W]
+- [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](../claims/worked-examples-no-self-explanation-quality-advantage.md) [-W]
+- [Heuristic worked examples do not improve fifth graders' mathematical modeling competency](../claims/worked-examples-no-grade5-modeling-competency-effect.md) [-W]
+- [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](../claims/answer-items-no-difference-self-explanation-tutor.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

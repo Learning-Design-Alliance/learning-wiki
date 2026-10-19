@@ -13,7 +13,7 @@ generated:
 # Creating Visual Representations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 causal, 1 review), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (2 causal, 1 review, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.
@@ -27,6 +27,7 @@ Creating visual representations is the element in which learners externalize und
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
 - [Content-specific external representations increase appropriate resource use without increasing shared knowledge after collaboration](../claims/content-specific-representation-more-appropriate-resources-no-more-sharing.md) [~W] — attached 2026-10-18 from Frank Fischer (2005), which proposed "External representation tools (content-specific vs. content-independent graphical representations) as collaboration supports".
+- [Triads with access to each other's concept maps were more efficient in collaborative problem solving](../claims/shared-concept-maps-improve-triad-efficiency.md) [+W]
 
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)

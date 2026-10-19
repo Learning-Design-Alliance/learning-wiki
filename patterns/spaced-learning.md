@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (11 for, 13 mixed, 1 against, 1 unmarked) · 23 studies (10 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 23 report an effect size · 21 claims rest on one study
+> **Evidence** · 32 claims (16 for, 14 mixed, 1 against, 1 unmarked) · 25 studies (12 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 25 report an effect size · 27 claims rest on one study
 
 ## Description
 
@@ -114,6 +114,12 @@ The examples are local design instances, not additional observations from those 
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](../claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) [+M]
+- [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](../claims/spaced-recall-effective-regardless-instructor-experience.md) [+W]
+- [The retention benefit of spaced recall quizzes holds regardless of the hour of the day the class meets](../claims/spaced-recall-effective-regardless-class-hour.md) [+W]
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](../claims/spaced-recall-improves-posttest-without-harming-new-learning.md) [+W]
+- [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](../claims/testing-effect-persists-without-immediate-feedback.md) [+W]
+- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](../claims/contextual-spacing-effect-survives-orienting-tasks.md) [+W]
+- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
 
 ## Key Sources
 

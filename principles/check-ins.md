@@ -13,7 +13,7 @@ generated:
 # Check-ins
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (2 for, 6 mixed, 1 against) · 19 studies (8 causal, 3 quant-synthesis, 3 review, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 2 of 19 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (2 for, 7 mixed, 1 against) · 20 studies (9 causal, 3 quant-synthesis, 3 review, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 2 of 20 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -89,6 +89,7 @@ An immediate change in what learners report, a change in engagement, later perfo
 ## Claims
 
 - [Students' self-assessments of social well-being and work habits provide valuable information about their development](../claims/student-self-assessments-valuable-development-information.md) [~W]
+- [Confidence ratings do not impede category learning per se: no condition differences in training accuracy or on unambiguous and trained transfer items](../claims/no-confidence-rating-effect-training-or-unambiguous-items.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — check-ins are one lightweight way to gather evidence during learning rather than after it.

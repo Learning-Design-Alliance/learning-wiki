@@ -13,7 +13,7 @@ generated:
 # Mental Models
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 26 studies (11 causal, 7 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 2 claims rest on one study
+> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 27 studies (11 causal, 7 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 3 claims rest on one study
 
 ## Description
 A mental model is a learner's internal representation of how a system, process, or domain works — a runnable structure they can use to explain phenomena, predict outcomes, and simulate "what happens if…" scenarios. Instruction that targets mental models aims to build, refine, or repair these representations rather than only transmitting facts or procedures.
@@ -55,6 +55,7 @@ Instruction is more durable when it helps learners construct a coherent causal m
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](../claims/no-gender-difference-day-night-mental-models.md) [~W]
 - [Children described the chatbot in five themes — knowledge, utility, fun, smart, and limitations — and showed varied, partial understanding of how it works](../claims/children-describe-chatbot-five-themes.md) [+W]
+- [Constructive conflict positively predicts the development of a shared mental model of the task in teams](../claims/constructive-conflict-builds-shared-mental-models.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

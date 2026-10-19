@@ -14,7 +14,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (3 design, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.
@@ -66,6 +66,10 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 ### Claims
 
 - [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](../claims/teacher-pilot-thonny-log-visualizer-160-students.md) [+W]
+- [Collaboration with experts during design and enactment contributed to the quality of designed artefacts and to teacher learning across all three cases](../claims/expert-collaboration-quality-and-teacher-learning.md) [+W]
+- [Editorial reports that optimizing a collaborative learning design after reflecting on misalignment significantly improved design-enactment alignment and improved group performance](../claims/editorial-reports-design-optimization-improves-alignment-and-group-performance.md) [+W]
+- [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](../claims/dbr-two-macro-cycles-114-participants-standards.md) [+W]
+- [Design-based research is important for the development of technology-enhanced learning environments](../claims/dbr-importance-for-tele-development.md) [+W]
 
 #### Supporting
 - None yet recorded in the wiki from a DBR study's own evidence

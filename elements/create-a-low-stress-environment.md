@@ -13,7 +13,7 @@ generated:
 # Create a Low-Stress Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 7 studies (5 review, 1 quant-synthesis, 1 associational), `q1`–`q3` · 1 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 8 studies (5 review, 1 causal, 1 quant-synthesis, 1 associational), `q1`–`q3` · 2 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
@@ -28,6 +28,7 @@ Create a low-stress environment is the element of designing routines, norms, and
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W]
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [~W]
+- [Studying flashcards in pairs raised negative affect in Experiment 1, an effect eliminated by an icebreaker and relaxed feedback rules in Experiment 2](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
 
 ## The evidence by question
 

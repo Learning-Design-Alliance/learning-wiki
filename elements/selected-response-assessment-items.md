@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 13 studies (4 associational, 3 review, 3 design, 2 causal, 1 qualitative), `q1`–`q3` · 1 of 13 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (4 for, 12 mixed, 2 against) · 16 studies (5 associational, 3 causal, 3 review, 3 design, 2 qualitative), `q1`–`q3` · 3 of 16 report an effect size · 17 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
@@ -73,6 +73,9 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs](../claims/distractor-distribution-does-not-differ-across-sources.md) [~W]
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](../claims/lo-alignment-judgment-more-subjective-than-answering.md) [~M]
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](../claims/mcq-accuracy-no-significant-condition-difference.md) [~W]
+- [Children are considerably more overconfident about incorrect answers to true-false questions than about incorrect answers to open-ended questions](../claims/overconfidence-incorrect-answers-higher-true-false.md) [-W]
+- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](../claims/answer-format-availability-affects-difficulty-and-ratings.md) [+W]
+- [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](../claims/ai-not-capable-math-output-generation.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

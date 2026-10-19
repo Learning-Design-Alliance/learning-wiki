@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (8 for, 5 mixed, 1 against) · 22 studies (11 causal, 5 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 30 studies (14 causal, 6 quant-synthesis, 4 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 6 of 30 report an effect size · 16 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -61,6 +61,14 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](../claims/prompting-effort-and-verbose-response-costs.md) [~W]
 - [PCA metacognitive suggestions improve consensus reaching, task division and reciprocal interaction during collaboration](../claims/pca-suggestions-improve-consensus-and-task-division.md) [+M] — attached 2026-10-18 from Hayashi (2020), which proposed "PCA with five types of metacognitive suggestion delivered during dyadic explanation"; tests this page's relationship.
 - [Cognitive and metacognitive prompts did not increase self-reported online strategy use, the quality of strategies in learners' notes, or learning outcomes in hypermedia learning](../claims/prompts-no-effect-strategy-use-outcomes-hypermedia.md) [-W] — attached 2026-10-19 from Nadja Gentner et al. (2020), which proposed "Hypermedia environment on empirical research methods with six page-linked cognitive and metacognitive prompts"; tests this page's relationship.
+- [Typical-gain teacher's students received the most inappropriate directions and prompts for setting a purpose and were seldom reminded to return to the purpose with evidence](../claims/inappropriate-directions-prompts-typical-teacher.md) [~W]
+- [Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes](../claims/cognitive-load-no-mediation-video-learning.md) [~W]
+- [When facing students' major conceptual challenges, the teacher shifted from prompting cued questions to providing explanations himself](../claims/teacher-shifts-cued-questions-to-explanations.md) [-W]
+- [Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts](../claims/anticipatory-prompts-lower-extraneous-load.md) [~W]
+- [Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge](../claims/problematizing-scaffolds-most-domain-knowledge.md) [+W]
+- [Closed-book self-explanation prompts reduce the number of generated self-explanations when learners are not prompted to actively process the instructional explanations beforehand](../claims/closed-book-prompts-reduce-self-explanations-without-active-processing.md) [~W]
+- [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](../claims/combine-cognitive-metacognitive-prompts.md) [~W]
+- [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](../claims/cscl-effectiveness-independent-of-number-of-activity-prompts.md) [~W]
 
 ## The evidence by question
 

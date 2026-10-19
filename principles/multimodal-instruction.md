@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (4 for, 7 mixed, 1 against) · 24 studies (9 causal, 9 review, 5 quant-synthesis, 1 associational), `q2`–`q4` · 6 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 19 claims (6 for, 10 mixed, 3 against) · 30 studies (13 causal, 9 review, 5 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q4` · 7 of 30 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,13 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [~W]
+- [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](../claims/coordination-of-two-representations-correctless.md) [-W]
+- [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](../claims/no-format-knowledge-type-mapping.md) [~W]
+- [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](../claims/teacher-gestures-recreate-3d-space-on-2d-screen.md) [+W]
+- [In inquiry learning of combinatorics, learners given a Text + Arithmetic representation outperformed learners given tree diagrams on total post-test scores](../claims/text-arithmetic-outperformed-diagram-total-posttest.md) [+W]
+- [Students adapted representation choices to task: the model was viewed more for the three-dimensional dihedral animation, the graph more for the two-dimensional bending and stretching animations](../claims/representation-choice-varies-with-animation-content.md) [~W]
+- [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](../claims/no-medium-context-effect-integration.md) [-W]
+- [Complex additions are more accurate in visual than auditory format, with the auditory deficit shrinking with age](../claims/auditory-format-accuracy-deficit-complex-additions.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

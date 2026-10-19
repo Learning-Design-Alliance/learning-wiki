@@ -18,7 +18,7 @@ sources:
 # Epistemic Games: Shared-Understanding Moves
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Five recurring interaction moves that interdisciplinary teams use, often supported by a shared visual representation (a whiteboard, a sketch), to build a single, integrated problem statement out of individually held knowledge and perspectives:
@@ -52,7 +52,8 @@ These moves are not sequential steps; a team can enter, exit, and re-enter any o
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](../claims/organizing-principles-emerge-implicit-negotiation.md) [+W]
+- [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](../claims/shared-object-regrouping-after-off-task.md) [~W]
 
 ## Related Elements
 - (none yet linked)

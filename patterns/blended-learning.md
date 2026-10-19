@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 12 studies (4 quant-synthesis, 4 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 13 studies (5 quant-synthesis, 4 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 5 of 13 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -113,6 +113,11 @@ Record: **activity and the mode it was assigned to, with the reason → online w
 [Pre-class video lecture](../elements/pre-class-videolecture.md), [self-paced learning](../elements/self-paced-learning.md), [in-process comprehension checks](../elements/in-process-comprehension-checks.md), [quizzes](../elements/quizzes.md), [self-monitoring](../elements/self-monitoring.md), [check-in](../elements/check-in.md), [discussion](../elements/discussion.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md) and [lecture](../elements/lectures.md).
 
 This pattern is scoped to dividing a course between online and in-person work. It does not establish that a blend outperforms a single-mode course with the same time and materials, an optimal online share, a weekly rhythm, or a forecast for an individual learner. Fully online courses, MOOCs and the narrower flipped configuration have their own pages and evidence. The requirement that instructors shift towards facilitation, and the constraint that a poorly integrated blend feels redundant or disconnected, come from the earlier page and remain untested here.
+
+## Claims
+
+- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](../claims/blended-larger-advantage-than-pure-online.md) [+W]
+- [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](../claims/curriculum-equivalence-moderates-effect-size.md) [~W]
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

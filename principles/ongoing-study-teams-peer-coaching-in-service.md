@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (29 for, 14 mixed, 2 against) · 28 studies (9 design, 6 review, 5 associational, 4 qualitative, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 28 report an effect size · 43 claims rest on one study
+> **Evidence** · 46 claims (29 for, 14 mixed, 3 against) · 29 studies (9 design, 6 review, 5 associational, 4 qualitative, 3 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 29 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,10 @@ For example, a K–3 teacher may want a calmer reading block, while the school's
 The expectation should weaken if studies comparing ongoing school-based structures plus group sessions with group sessions alone, with observed practice as the outcome, show no difference, or if peer coaching without a trained coach shows no effect on observed practice. If peer coaching works only with a coach training the peers, the default should make the coach the carrier and peers the supplement. If the meta-analytic association with group training reverses in direct comparisons, drop step 1's emphasis. If maintenance studies show practice holding without a standing team, the sustain step is a preference, not a requirement. Do not protect the model by explaining every null result as "not enough time" or "not enough buy-in" after the fact.
 
 Observed practice, student achievement, teacher satisfaction and maintenance after support are separate claims. The present evidence in this wiki establishes no dose, no team size and no peer-coaching cycle.
+
+## Claims
+
+- [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](../claims/assistments-sensitivity-lower-cost-scenarios.md) [-W]
 
 ## Related Principles
 

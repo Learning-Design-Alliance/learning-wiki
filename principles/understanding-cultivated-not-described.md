@@ -27,7 +27,7 @@ sources:
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (11 for, 5 mixed, 2 against) · 22 studies (6 causal, 4 quant-synthesis, 4 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 13 claims rest on one study
+> **Evidence** · 20 claims (12 for, 5 mixed, 3 against) · 24 studies (7 causal, 4 quant-synthesis, 4 review, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,11 @@ For example, a first-year architecture student may want to make a striking model
 The expectation should weaken if comparisons of question-led against explanation-led guidance during the same exploration, with comparable learners and an outcome on new cases, show no advantage, or show that the advantage disappears at a delay. If teachers prepared to ask questions still mostly interject explanations (as the recorded episodes suggest unprepared teachers do), the model becomes a teacher-preparation problem before it is a learner one. If naming the principle at the end adds nothing beyond critique, drop step 6; if naming it first and then critiquing matches the default, the order matters less than the critique. Do not protect the model by calling every failure "too much telling" after the fact.
 
 Understanding shown in an oral explanation of one's own work, judgement of a new case, independent design work later in the course, and lasting understanding are separate claims. The present evidence establishes no amount of exploration time, no number of clues and no hand-over criterion.
+
+## Claims
+
+- [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [-W]
+- [Empirical case of martial arts instruction grounds the argument that practice can support discovery](../claims/martial-arts-instruction-case-practice-discovery.md) [+W]
 
 ## Related Principles
 

@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (12 for, 7 mixed) · 20 studies (9 causal, 5 review, 3 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 20 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 21 studies (9 causal, 5 review, 4 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,11 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms](../claims/brain-breaks-teacher-adoption-after-presentation.md) [+W] — a principal's estimate in one school's case report; bears on teacher adoption of breaks, not on their effect.
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](../claims/playworks-rct-more-vigorous-recess-activity.md) [+M] — the same programme evaluation, measuring how active recess was (accelerometers, teacher surveys); it shows organised recess raises activity, not learning or behavior in class. Also listed under the evidence by question.
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [~W] — a review reporting lower heart rate and stress with green window views, and healthier cortisol rhythms in forest schooling that the review says could not be attributed to physical activity; bears on outdoor active breaks only as a reminder that setting and movement are separate causes.
+
+## Claims
+
+- [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](../claims/cbpa-effects-moderated-cognitive-engagement-timing.md) [~W]
+- [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](../claims/cbpa-improves-attention-on-task-schoolchildren.md) [+W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

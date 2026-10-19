@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (25 for, 26 mixed, 4 against, 5 unmarked) · 64 studies (21 review, 18 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 64 report an effect size · 55 claims rest on one study
+> **Evidence** · 63 claims (25 for, 28 mixed, 5 against, 5 unmarked) · 67 studies (23 review, 18 causal, 8 qualitative, 7 theoretical, 4 associational, 4 design, 3 quant-synthesis), `q1`–`q4` · 7 of 67 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,12 @@ For example, a child learning to request with an AAC system may value being unde
 The expectation should weaken if experiments that hold content and final assessment constant find personalized paths no better than a fixed sequence on delayed or transfer outcomes, or if the time saving in the one path experiment here does not replicate beyond one topic and one session. If learner-named contexts do not raise interest or achievement more than standard contexts in randomized comparisons, step 6 should be dropped to a motivational option. If preference-matched AAC systems are not acquired or maintained better than non-preferred ones, preference assessment becomes a matter of the child's voice rather than learning. If school-level personalization stays near +0.1 SD even with full implementation, the model's gains belong to the tutoring and diagnosis, not to personalization as a program. Do not protect the model by calling every null result "not personalized enough" after the fact.
 
 Engagement, immediate achievement on an aligned test, time saved, delayed retention and the outcome a learner values are separate claims. The present evidence sets no number of options, no diagnostic length and no pace threshold.
+
+## Claims
+
+- [Industry-targeted videos scored only slightly higher on personalization depth than generic-audience videos (0.32 points; modeled increment 0.25, p = 0.11), an effect not resolved under reviewer clustering](../claims/bespoke-industry-personalization-increment-small-nonsignificant.md) [~W]
+- [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](../claims/chatgpt-education-benefits-taxonomy.md) [~W]
+- [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](../claims/cook-medical-education-no-style-interaction.md) [-W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

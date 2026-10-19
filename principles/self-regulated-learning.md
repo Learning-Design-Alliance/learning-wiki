@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (45 for, 29 mixed, 3 against) · 60 studies (22 causal, 10 review, 9 quant-synthesis, 9 associational, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 60 report an effect size · 66 claims rest on one study
+> **Evidence** · 108 claims (52 for, 50 mixed, 6 against) · 80 studies (27 causal, 16 review, 14 associational, 11 quant-synthesis, 8 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 21 of 80 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,37 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](../claims/srl-interventions-increase-logged-time-investment-online-math-prep-course.md) [~W]
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](../claims/llms-scalable-personalized-feedback-large-courses.md) [+W]
 - [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](../claims/agentic-ai-evidence-strongest-tutoring-srl-coaching.md) [+W]
+- [Reflection increased in the adaptable and non-adaptable script conditions, but only the adaptable script had positive effects on monitoring, supporting overall positive effects on self-regulation](../claims/adaptable-script-monitoring-self-regulation-effects.md) [~W]
+- [Child-centered instruction is associated with students' SRL monitoring accuracy](../claims/child-centered-instruction-student-monitoring-accuracy.md) [~W]
+- [Effective self-regulators score significantly higher than less effective self-regulators on achievement goals, metacognition, all four study strategies and exam scores, with equal intellectual ability](../claims/effective-regulators-higher-goals-metacognition-strategies-exam.md) [+W]
+- [Students are better calibrated in predicting achievement than in reporting specific study tactics (Winne & Jamieson-Noel 2002)](../claims/achievement-vs-tactic-calibration-winne-jamieson-noel.md) [~W]
+- [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](../claims/effective-restudy-distinguishes-metacognition-profiles.md) [~W]
+- [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](../claims/cognitive-capability-dominance-benefit-rarely-mentioned.md) [~W]
+- [Both adaptable and non-adaptable collaboration scripts decreased student planning, while planning increased in the non-scripted condition](../claims/collaboration-scripts-decrease-planning-nonscript-increases.md) [-W]
+- [Metacognitive strategies predict L2 writing more strongly than L1 writing](../claims/metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md) [+W]
+- [Explicit instruction of SRL strategies is rare among primary teachers in both an iSELF-trained group and an untrained control group](../claims/explicit-srl-instruction-rare-primary-teachers-both-conditions.md) [~W]
+- [Lower-prior-knowledge apprentices gained more self-efficacy with retrospective prompts, while anticipatory prompts were detrimental for them](../claims/prior-knowledge-moderates-prompt-direction-self-efficacy.md) [~W]
+- [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](../claims/regulation-macro-script-monitoring-support.md) [+W]
+- [Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning](../claims/regulation-interventions-programming-average-effect.md) [+W]
+- [Successful hypermedia learners showed more orientation and planning before processing content, deeper elaboration, constant monitoring, and evaluation compared to less successful students](../claims/process-mining-successful-learners-orientation-planning.md) [~W]
+- [Direct SRL promotion in observed classrooms was dominated by implicit strategy instruction, metacognitive support, and metacognitive reflection, with explicit strategy instruction rare](../claims/implicit-strategy-instruction-dominates-direct-srl-promotion.md) [~W]
+- [Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference](../claims/inconsistent-absolute-accuracy-competitiveness.md) [~W]
+- [In Experiment 2, self-regulation skills significantly positively predicted domain-specific MAS only in the minimal heuristic worked examples condition](../claims/self-regulation-predicts-domain-specific-mas-minimal-worked-examples.md) [~W]
+- [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](../claims/srl-interventions-reduced-mooc-dropout.md) [+W]
+- [Student-reported SRL promotion is associated with students' self-efficacy, utility value and attainment value for SRL at class and student levels, but not with perceived cost](../claims/student-reported-srl-promotion-linked-to-student-motivation.md) [~W]
+- [Teachers typically provide only little explicit support for SRL in their classrooms](../claims/teachers-provide-little-explicit-srl-support.md) [+W]
+- [The hypothesised mediation of prompt effects on self-efficacy via strategy use was not confirmed because prompts did not affect strategy use](../claims/strategy-mediation-of-prompt-self-efficacy-not-confirmed.md) [-W]
+- [Review evidence: students' SRL improves from cognitive-approach PD interventions only when students themselves participate, not when only their teachers are trained](../claims/student-srl-improves-only-with-direct-student-intervention.md) [~W]
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](../claims/regulatory-support-no-increase-srl-aptitude.md) [-W]
+- [Teachers often hold misconceptions about which students benefit from SRL scaffolding](../claims/teachers-misconceptions-srl-beneficiaries.md) [~W]
+- [Teachers perceive SRL as desirable for students but not feasible to implement in their classrooms](../claims/teachers-srl-desirable-but-not-feasible.md) [~W]
+- [Interventions delivered by teachers or task materials are more effective than researcher-delivered interventions for two self-regulated learning outcomes](../claims/teacher-material-delivery-beats-researcher-delivery.md) [~W]
+- [Veenman's 2007 discussion addresses assessment and instruction of self-regulation in computer-based environments with attention to metacognitive skill measurement and intelligent tutoring systems](../claims/veenman-2007-discussion-self-regulation-computer-based.md) [~W]
+- [In Experiment 2, actual regulation of adaptable heuristic worked examples showed no significant correlation with self-regulation skills or MAS outcomes](../claims/work-example-adaptation-no-significant-correlations.md) [~W]
+- [Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking](../claims/adaptive-versus-dependent-help-seeking.md) [+W]
+- [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](../claims/ai-srl-end-outcomes-academic-performance-most-frequent.md) [~W]
+- [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](../claims/cooperative-learning-moderates-srl-training-effects.md) [~W]
+- [L1 writing metacognitive strategies facilitate L2 writing performance indirectly via L2 writing metacognitive strategies](../claims/cross-language-facilitation-l1-strategies-l2-writing-via-mediation.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

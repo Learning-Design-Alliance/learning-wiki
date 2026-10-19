@@ -13,7 +13,7 @@ generated:
 # Self-Regulation Questionnaire (SRQ)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Self-Regulation Questionnaire (SRQ; Brown, Miller, & Lawendowski, 1999) is a self-report assessment built directly on Miller and Brown's seven-step model of self-regulation (Miller & Brown, 1991; Brown, 1998), itself built on Kanfer's foundational work (Kanfer, 1970a, 1970b). Respondents rate each item on a five-point scale (Strongly Disagree to Strongly Agree), covering behaviors such as goal-tracking, distractibility, follow-through, learning from mistakes, and resistance to peer conformity. Scores above 239 indicate high (intact) self-regulation capacity (top quartile); scores from 214-238 indicate moderate self-regulation capacity; scores below 213 indicate low (impaired) self-regulation capacity (bottom quartile).
@@ -40,7 +40,7 @@ Because the instrument's items map onto the seven-step model's stages (receiving
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [In the case study, the student with the most coded activities scored highest on the questionnaire and the student with the fewest scored lowest, but all four over-rated Orienting & planning relative to their protocols](../claims/case-study-activity-count-questionnaire-trend.md) [-W]
 
 ## Related Elements
 

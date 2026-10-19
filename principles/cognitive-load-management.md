@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (19 for, 16 mixed, 1 against) · 37 studies (15 causal, 8 quant-synthesis, 8 review, 5 theoretical, 1 design), `q1`–`q4` · 11 of 37 report an effect size · 28 claims rest on one study
+> **Evidence** · 46 claims (21 for, 23 mixed, 2 against) · 45 studies (20 causal, 11 review, 8 quant-synthesis, 5 theoretical, 1 design), `q1`–`q4` · 16 of 45 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,16 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/voice-media-outperform-picture-text-overall.md) [+W]
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [+W]
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](../claims/extraneous-load-eliminates-germane-load-learning-gains.md) [~W]
+- [Disfluency benefits retention and comprehension only for learners with high working memory capacity](../claims/disfluency-benefits-high-working-memory-only.md) [~W]
+- [Material difficulty is not determined solely by element number and interactivity](../claims/difficulty-beyond-element-interactivity.md) [~W]
+- [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](../claims/input-before-raises-germane-lowers-extraneous-load.md) [~W]
+- [Task sequence effects on mental effort reverse between learning phase and transfer test](../claims/effort-reversal-learning-versus-transfer-phase.md) [~W]
+- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](../claims/drawing-support-increased-perceived-difficulty.md) [-W]
+- [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](../claims/zambrano-2019-efficiency-advantage-only-high-density.md) [~W]
+- [Expert example standards increase subjective task difficulty and mental effort during example evaluation](../claims/expert-standards-increase-difficulty-effort.md) [~W]
+- [Low information density reduces mental effort and increases efficiency during the collaborative learning phase](../claims/zambrano-2019-low-density-lower-effort-learning.md) [+W]
+- [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](../claims/collaborative-learning-collective-working-memory-advantage.md) [+W]
+- [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](../claims/disfluency-no-effect-test-expectancy.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

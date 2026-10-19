@@ -39,7 +39,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 7 mixed, 2 against) · 22 studies (7 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 3 of 22 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (8 for, 9 mixed, 2 against) · 23 studies (8 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 23 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,11 @@ For example, a second-year law student may want to pass a doctrinal exam that re
 The model should weaken if well-controlled comparisons with comparable learners find no transfer advantage for revisiting concepts across varied, compared cases over studying the same material once in one form, or find the advantage gone at the delay the objective needs. If the advantage is consistently procedural (choosing methods) and never conceptual, keep that distinction rather than calling both flexibility. If novices given varied cases from the start do as well as those given a simple start, step 2 should be dropped; if they do worse, it becomes a requirement. If the recall cost seen in the one direct test persists and matters to the objective, the design needs separate fact practice by default. Do not protect the model by calling every transfer failure a sign that the cases were not varied enough.
 
 Noticing that a case differs, saying what changes, choosing an appropriate method, applying a concept in a new case, doing so in another domain, and remembering it later are separate claims. The present evidence does not establish how many cases or perspectives to use, how different they should be, or whether multiple perspectives add anything beyond case comparison.
+
+## Claims
+
+- [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](../claims/variation-theory-transfer-novel-issues.md) [~W]
+- [Walking the body-scale number line disrupted students' prior misconceptions and erroneous rules, which resurfaced when they returned to the desk-scale number line](../claims/walking-disrupts-misconceptions-which-resurface.md) [~W]
 
 ## Related Principles
 - [Perspective-Taking](perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation

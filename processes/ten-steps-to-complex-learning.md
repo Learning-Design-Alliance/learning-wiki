@@ -14,7 +14,7 @@ grain_size: programme
 # Ten Steps to Complex Learning
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 unmarked) · 12 studies (4 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 1 mixed, 1 against, 1 unmarked) · 13 studies (4 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 1 of 13 report an effect size · 3 claims rest on one study
 
 ## Description
 Ten Steps is the design process that produces a [4C/ID](../patterns/4cid-four-component-instructional-design.md) blueprint. The pattern describes what the resulting instruction looks like — learning tasks, supportive information, procedural information, part-task practice. This page describes what a designer does to arrive at it, which is a different object and a genuinely different way of working.
@@ -63,6 +63,9 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 - [Behaviorism](../theories/behaviorism.md) — the objectives-first tradition Ten Steps was formulated against, which decomposes a domain into separately-taught parts
 
 ### Claims
+
+- [Ten Steps design of a workplace PD program is time and resource-intensive, spanning nearly two years for a five-month program](../claims/ten-steps-design-cost-time-intensive.md) [-W]
+
 #### Supporting
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — the model's central bet
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M] — the fourth component, and why whole-task design does not mean whole-task only

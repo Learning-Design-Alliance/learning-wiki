@@ -20,7 +20,7 @@ sources:
 # Authentic Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (11 for, 8 mixed, 1 against) · 27 studies (9 quant-synthesis, 8 causal, 5 review, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 27 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (12 for, 8 mixed, 1 against) · 28 studies (9 quant-synthesis, 8 causal, 5 review, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 9 of 28 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,7 @@ This pattern is scoped to judging a performance capability through an extended, 
 - [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](../claims/aa-formative-feedback-dominates-sustainable-rare.md) [~M]
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](../claims/aa-students-passive-users-of-rubrics.md) [-W]
 - [Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed](../claims/aa-cognitive-challenges-knowledge-and-21st-century-skills.md) [+W]
+- [Students perceived CCS tasks as authentic problems whose answers teachers did not already know (52.2%) versus everyday school (8%)](../claims/ccs-tasks-authentic-teacher-no-answer.md) [+W]
 
 ## Related Patterns
 - [Constructive Alignment](constructive-alignment.md) — authentic assessment is the assessment half of alignment; outcomes, tasks, and criteria must point at the same competence

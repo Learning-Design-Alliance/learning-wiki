@@ -15,7 +15,7 @@ grain_size: lesson
 # Programmed Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (5 for, 10 mixed, 2 against) · 16 studies (7 quant-synthesis, 3 causal, 3 associational, 2 theoretical, 1 review), `q1`–`q4` · 5 of 16 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (5 for, 11 mixed, 2 against) · 17 studies (8 quant-synthesis, 3 causal, 3 associational, 2 theoretical, 1 review), `q1`–`q4` · 5 of 17 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,10 @@ Record: **content steps and their right answers → placement items and response
 [Self-paced learning](../elements/self-paced-learning.md), [immediate feedback](../elements/immediate-feedback.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md), [hints](../elements/hints.md), [fading](../elements/fading.md), [retrieval practice](../elements/retrieval-practice.md), [adaptive mastery learning](../elements/adaptive-mastery-learning.md) and [assessment](../elements/assessment.md). Principles the pattern draws on: [Mastery Learning](../principles/mastery-learning.md), [Immediate Feedback](../principles/immediate-feedback.md), [Adaptive Learning](../principles/adaptive-learning.md), [Active Learning](../principles/active-learning.md), [Scaffolding and Fading](../principles/scaffolding-and-fading.md) and [Chunking](../principles/chunking.md). Theory: [Behaviorism](../theories/behaviorism.md) and the [six-element programmed-instruction framework](../theories/programmed-instruction-six-element-framework.md), whose source also reports that the generality of its principles came into question.
 
 This pattern is scoped to well-defined content whose steps have checkable answers. Open, ill-structured and whole-task goals need other configurations ([case-based learning](case-based-learning.md), [worked examples](worked-examples.md), [direct instruction](direct-instruction.md) with feedback on reasoning). Whether frames with a response and immediate correction teach more than the same content in other forms, for which learners, at what cost in completion, and at what horizon, remains to be tested.
+
+## Claims
+
+- [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](../claims/design-moderators-unadjusted-only-hypothesis-generating.md) [~W]
 
 ## Related Patterns
 

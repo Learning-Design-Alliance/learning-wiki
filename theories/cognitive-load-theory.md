@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 50 claims (38 for, 9 mixed, 3 against) · 48 studies (23 causal, 10 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 11 of 48 report an effect size · 40 claims rest on one study
+> **Evidence** · 66 claims (42 for, 16 mixed, 8 against) · 57 studies (26 causal, 11 review, 10 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 57 report an effect size · 56 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -118,6 +118,22 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](../claims/vr-reverse-modality-effect-recall.md) [+W] — attached 2026-10-18 from Patrick Albus (2023), which proposed "Boundary-condition account of the reverse modality effect in immersive VR".
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](../claims/vr-visual-only-higher-germane-load.md) [+W] — attached 2026-10-18 from Patrick Albus (2023), which proposed "Boundary-condition account of the reverse modality effect in immersive VR".
 - [A forward linear review strategy predicted lower cognitive load regardless of modality, while scanning and slowing predicted higher cognitive load](../claims/linear-strategy-lower-cognitive-load.md) [+W] — attached 2026-10-18 from Mikko Haavisto (2026), which proposed "The modality effect grounded in cognitive load theory, with hybrid learner control as a dual-advantage design".
+- [A confirmatory factor analysis across all six studies favored the three-factor model over a unitary-factor model of cognitive load](../claims/cfa-three-factor-over-unitary-model.md) [~W]
+- [The claim that high-variability practice imposes germane load rests on post-hoc explanation and does not always replicate](../claims/high-variability-germane-load-post-hoc.md) [-W]
+- [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](../claims/cognitive-load-mediates-guidance-effect.md) [+W]
+- [Reducing extraneous load can also remove affordances for germane processes](../claims/extraneous-load-reduction-may-remove-germane-affordances.md) [~W]
+- [Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes](../claims/cognitive-load-no-mediation-video-learning.md) [-W]
+- [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](../claims/load-type-distinction-conceptually-problematic.md) [-W]
+- [Disfluency benefits retention and comprehension only for learners with high working memory capacity](../claims/disfluency-benefits-high-working-memory-only.md) [~W]
+- [Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown](../claims/load-measures-cannot-detect-overload.md) [-W]
+- [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](../claims/collaborative-learning-collective-working-memory-advantage.md) [+W]
+- [Cognitive load in concurrent storage-processing tasks has a negative linear effect on memory span](../claims/cognitive-load-negative-linear-span-effect.md) [+W]
+- [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](../claims/clt-motivation-gap.md) [-W]
+- [A dual-channel assumption for emotions is discussed as part of integrating emotion into cognitive load theory](../claims/dual-channel-assumption-emotions-clt.md) [~W]
+- [The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity](../claims/cognitive-load-effects-reexplained-via-element-interactivity.md) [+W]
+- [The definitions of cognitive load used in cognitive load theory are not fully equivalent](../claims/cognitive-load-definitions-not-equivalent.md) [~W]
+- [A dual intrinsic/extraneous load framework is sufficient, non-redundant, and makes the boundaries of cognitive load theory transparent](../claims/dual-intrinsic-extraneous-framework-sufficient.md) [~W]
+- [Dual-task (secondary-task) measures offer concurrent cognitive load assessment but are rarely used](../claims/dual-task-concurrent-load-measurement.md) [~W]
 
 ## The evidence by question
 

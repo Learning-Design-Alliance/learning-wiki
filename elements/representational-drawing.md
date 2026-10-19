@@ -13,7 +13,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
@@ -24,3 +24,4 @@ Representational drawing is the element in which learners sketch, diagram, or dr
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](../claims/drawing-improves-learning.md) [+M]
+- [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](../claims/representation-based-cues-support-draw-relative-accuracy.md) [~W]

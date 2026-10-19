@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 31 claims (25 for, 5 mixed, 1 against) · 27 studies (13 associational, 7 review, 5 causal, 1 design, 1 theoretical), `q1`–`q3` · 3 of 27 report an effect size · 30 claims rest on one study
+> **Evidence** · 49 claims (35 for, 13 mixed, 1 against) · 40 studies (19 associational, 10 review, 9 causal, 1 design, 1 theoretical), `q1`–`q3` · 7 of 40 report an effect size · 48 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -78,6 +78,24 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Participants induced to hold high self-efficacy show greater improvement in visual discrimination sensitivity than participants induced to hold low self-efficacy](../claims/high-self-efficacy-improves-visual-discrimination-sensitivity.md) [+M] — attached 2026-10-17 from Zacharopoulos G et al. (2014), which proposed "Self-efficacy theory as a social-cognitive account of behavioural change"; tests this page's relationship.
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](../claims/fake-feedback-induces-self-efficacy-changes.md) [+M] — attached 2026-10-17 from Zacharopoulos G et al. (2014), which proposed "Self-efficacy theory as a social-cognitive account of behavioural change".
 - [Learners' perceived self-efficacy during learning moderated the effect of prompts on learning outcomes](../claims/self-efficacy-moderates-prompt-effect-outcomes.md) [+W] — attached 2026-10-19 from Nadja Gentner et al. (2020), which proposed "Aptitude-treatment interaction perspective: state-like self-efficacy during learning as a moderator of instructional support effectiveness".
+- [DBT-based video tutorials significantly raise both task relevance and self-efficacy from before to after training](../claims/dbt-tutorials-raise-task-relevance-self-efficacy.md) [+M]
+- [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](../claims/male-students-higher-self-efficacy-video-modeling.md) [~W]
+- [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](../claims/achievement-goals-predict-self-efficacy.md) [+W]
+- [Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels](../claims/performance-avoidance-goals-negative-self-beliefs.md) [~W]
+- [Narrative instruction leads to higher germane cognitive load and self-efficacy, and lower extraneous cognitive load, than expository instruction](../claims/narrative-instruction-learning-mechanisms-cognitive-load-self-efficacy.md) [+W]
+- [Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance](../claims/predictors-of-bias-in-performance-self-assessment.md) [~W]
+- [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](../claims/predictors-of-self-assessed-creative-performance.md) [+W]
+- [Teachers' self-efficacy for SRL promotion, but not their attainment value, is positively related to their self-reported SRL promotion when both are modelled simultaneously](../claims/teacher-self-efficacy-predicts-srl-promotion.md) [+W]
+- [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](../claims/attributional-feedback-credibility-effort-ability.md) [+W]
+- [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](../claims/belonging-task-relevance-mindset-predict-self-efficacy.md) [~W]
+- [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](../claims/boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) [+W]
+- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
+- [Coping versus mastery model benefits depend on task difficulty and observers' prior success](../claims/coping-versus-mastery-models-task-difficulty.md) [~W]
+- [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [~W]
+- [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](../claims/creative-inquiry-course-creative-self-efficacy-increase.md) [+W]
+- [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](../claims/country-differences-teacher-self-efficacy-autistic-children.md) [~W]
+- [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
+- [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](../claims/cse-partial-mediation-anx-peu-weakened.md) [+W]
 
 ## The evidence by question
 

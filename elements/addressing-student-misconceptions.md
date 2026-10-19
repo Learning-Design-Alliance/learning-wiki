@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 2 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 16 claims (12 for, 4 mixed) · 14 studies (5 causal, 2 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 design), `q2`–`q4` · 5 of 14 report an effect size · 14 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -51,6 +51,16 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](../claims/belief-consistent-facts-better-recognized.md) [~W]
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](../claims/llm-misconception-analysis-reveals-insights-beyond-performance-data.md) [+W]
+- [Knowledge gains correlate positively with belief change, more strongly for higher relational-understanding levels](../claims/knowledge-gains-correlate-belief-change.md) [~W]
+- [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](../claims/refutation-text-think-sheet-compensate-misconception-comprehension.md) [+W]
+- [Multimedia-learning misconceptions are highly prevalent among student teachers, with the learning-styles misconception endorsed most commonly (84%)](../claims/multimedia-misconceptions-prevalent-student-teachers.md) [+W]
+- [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](../claims/refutation-texts-greater-conceptual-change-than-standard.md) [+W]
+- [When correcting pupil work, the teacher revoices rather than dismisses pupils' solutions, challenging them toward more sophisticated ones](../claims/teacher-revoicing-pupil-solutions.md) [+W]
+- [More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence](../claims/refutation-text-think-sheet-counteract-comprehension-overconfidence.md) [+W]
+- [Think sheets counteracted the positive effect of misconceptions on transfer in the control group, though the overall interaction only approached significance](../claims/think-sheet-misconception-effect-transfer.md) [~W]
+- [Completing a think sheet yields higher response-confidence accuracy than reading a refutation text or a standard text with a misconception list](../claims/think-sheet-higher-response-confidence-accuracy.md) [+W]
+- [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](../claims/anger-does-not-mediate-concession-effects.md) [~W]
+- [SRL interventions for teachers become more effective when addressing teachers' opposing beliefs to facilitate conceptual change](../claims/srl-teacher-interventions-conceptual-change-beliefs.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Summarization and Synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 6 studies (3 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (2 for, 4 mixed, 2 against) · 10 studies (5 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 3 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 Summarization asks learners to condense material into their own words, selecting and restating the most important ideas. Synthesis goes further: learners integrate ideas across multiple sources or experiences into a new, coherent account. Both are generative activities — the learner must construct meaning rather than recognize it.
@@ -54,6 +54,10 @@ Summarization is one of the most consistently supported study strategies, but on
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](../claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) [-M]
+- [Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes](../claims/summary-task-weaker-outcomes-and-disputational-talk.md) [-W]
+- [Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning](../claims/summary-writing-more-utterances-more-off-analysis.md) [~W]
+- [Young adults exhibit my-side bias when writing summaries of contradictory historical accounts, with 72% producing one-sided reports despite explicit instructions to summarize both texts](../claims/my-side-bias-written-summaries-controversial-history.md) [~W]
+- [During group discussion, students either relied primarily on their own synthesis artifacts or frequently drew on peers' syntheses, with use patterns related to artifact nature and emergent group roles](../claims/two-patterns-of-synthesis-artifact-use.md) [+W]
 
 ## The evidence by question
 - *Does writing summaries improve learning more than rereading or other study activities, and does training learners to summarize matter?* [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M]

@@ -22,7 +22,7 @@ sources:
 # Video-Based Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (2 for, 4 mixed) · 4 studies (2 causal, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Video-based reflection is the element in which learners or practitioners review a recording of their own past activity to analyze choices, patterns, and next steps. The reviewer, not only an outside observer, does the interpreting — this is what distinguishes it from an instructor simply watching and evaluating footage. It has been used at very different grain sizes: young children interpreting video of their own unscripted play, and teacher teams interpreting video of their own classroom teaching within an ongoing professional-development partnership.
@@ -51,6 +51,9 @@ Video-based reflection is the element in which learners or practitioners review 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students developed varied perceptions of video annotation, citing benefits for SRL and acting alongside embarrassment and added workload](../claims/varied-student-perceptions-video-annotation.md) [~W] — attached 2026-10-18 from Hengtao Tang (2025), which proposed "VideoAnt video annotation tool used for time-stamped self-critique of rehearsal videos".
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](../claims/novices-more-negative-noticing-valence.md) [+W] — attached 2026-10-18 from Keller et al. (2022), which proposed "Mobile eye-tracking (MET) video feedback with think-aloud protocols for teacher self-reflection".
+- [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](../claims/professional-vision-coding-interrater-agreement-icc.md) [~W]
+- [The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement](../claims/srl-hypothesized-mediator-video-annotation-acting.md) [~W]
+- [A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores](../claims/srl-video-annotation-improved-acting-rubric-scores.md) [+W]
 
 ## Related Elements
 

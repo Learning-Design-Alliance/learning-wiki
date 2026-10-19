@@ -13,7 +13,7 @@ generated:
 # Think-Aloud
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 causal, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Think-aloud is the element in which an instructor, peer, or learner verbalizes reasoning while performing a task. It makes otherwise hidden judgment, strategy, and error-checking processes visible so learners can observe not just what to do, but how to decide.
@@ -43,6 +43,7 @@ Think-aloud is the element in which an instructor, peer, or learner verbalizes r
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [+W]
+- [Thinking aloud does not affect teachers' monitoring accuracy](../claims/think-aloud-no-effect-teacher-monitoring-accuracy.md) [-W]
 
 ## Related Elements
 - [Demonstration](demonstration.md)

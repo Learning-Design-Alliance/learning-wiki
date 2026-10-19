@@ -26,7 +26,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (14 for, 5 mixed, 1 against) · 36 studies (11 causal, 11 quant-synthesis, 6 review, 3 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 36 report an effect size · 9 claims rest on one study
+> **Evidence** · 22 claims (15 for, 6 mixed, 1 against) · 37 studies (11 causal, 11 quant-synthesis, 6 review, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 37 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ A good debrief conversation, a correct stated change, the next performance, dela
 
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
 - [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](../claims/reflection-debriefing-time-underscheduled.md) [+W]
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [~W]
+- [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action

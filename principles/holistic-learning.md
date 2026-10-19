@@ -18,7 +18,7 @@ sources:
 # Holistic Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (6 for, 9 mixed) · 19 studies (6 causal, 5 review, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (7 for, 9 mixed) · 20 studies (7 causal, 5 review, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Performance on tasks matched to the whole, recall of details, delayed retention 
 ## Claims
 
 - [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](../claims/global-change-holistic-and-local-analysis-challenge.md) [~W]
+- [In a human experiment, verbatim facts are learned better from practice-only training while general skills are learned better from example-integrated training (cross-over content-treatment interaction)](../claims/crossover-content-treatment-interaction-facts-practice-skills-examples.md) [+M]
 
 ## Related Principles
 

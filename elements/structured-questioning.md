@@ -26,7 +26,7 @@ sources:
 # Structured Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 18 studies (5 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 18 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 19 studies (5 causal, 5 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 19 report an effect size · 2 claims rest on one study
 
 ## Description
 Structured questioning is an instructional element in which the instructor sequences purposeful questions — moving from factual retrieval toward explanation, application, and evaluation — to guide learners through inquiry without giving answers directly. The questions function as scaffolds: each one directs attention, elicits reasoning, and prompts learners to construct and articulate understanding themselves.
@@ -66,7 +66,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [When facing students' major conceptual challenges, the teacher shifted from prompting cued questions to providing explanations himself](../claims/teacher-shifts-cued-questions-to-explanations.md) [-W]
 
 ## The evidence by question
 - *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+S]

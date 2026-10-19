@@ -12,7 +12,7 @@ generated:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (13 for, 3 mixed, 1 against) · 21 studies (6 review, 5 quant-synthesis, 4 qualitative, 3 associational, 2 causal, 1 theoretical), `q2`–`q4` · 3 of 21 report an effect size · 13 claims rest on one study
+> **Evidence** · 24 claims (19 for, 4 mixed, 1 against) · 28 studies (9 review, 5 quant-synthesis, 4 qualitative, 4 theoretical, 3 causal, 3 associational), `q1`–`q4` · 3 of 28 report an effect size · 20 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills (Polly et al., 2018).
@@ -79,6 +79,13 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [In a networked second-language classroom, different small groups of students evolve alternative approaches to appropriating a representational tool during collaborative L2 writing](../claims/groups-evolve-alternative-approaches-appropriating-representational-tool.md) [+W] — attached 2026-10-18 from Wen et al. (2015), which proposed "Cross-media appropriation of representational tools in the networked classroom".
 - [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](../claims/cumulative-co-constructive-text-generation.md) [+W] — attached 2026-10-18 from Pifarré et al. (2011), which proposed "Dialogic space and intersubjectivity as a framework for analysing wiki-supported collaborative learning".
 - [The teacher supported understanding of assignments by reformulating scientific terms into everyday concepts and by contextualising the lab experiment](../claims/teacher-reformulates-terms-contextualises-experiment.md) [+W] — attached 2026-10-18 from Anniken Furberg (2016), which proposed "Sociocultural perspective on support and help-seeking in CSCL settings".
+- [The article connects its treatment of scaffolding to Vygotsky's theory, as indicated by its own keyword metadata](../claims/pea-2004-scaffolding-grounds-vygotsky-theory.md) [+W]
+- [Task-level and process-level prompts in support software mediate and alter students' group argumentation discourse practice and potentially their individual argumentation style](../claims/task-process-prompts-alter-argumentation-style.md) [~W]
+- [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](../claims/wiki-dialogic-space-co-construction.md) [+W]
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](../claims/teacher-guidance-mediation-cscl.md) [+W]
+- [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](../claims/co-regulation-shared-understanding-patient-management.md) [+W]
+- [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](../claims/discussion-improves-individual-perception.md) [+W]
+- [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](../claims/collaborative-technologies-enable-sharing-ideas-and-digital-products.md) [+W]
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

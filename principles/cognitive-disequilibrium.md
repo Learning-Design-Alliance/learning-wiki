@@ -22,7 +22,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (11 for, 11 mixed, 2 against) · 25 studies (10 causal, 5 quant-synthesis, 4 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 25 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (13 for, 12 mixed, 2 against) · 28 studies (11 causal, 5 quant-synthesis, 4 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 7 of 28 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,9 @@ Surprise or confusion during the lesson, a correct answer immediately after it, 
 ## Claims
 
 - [Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes](../claims/high-mixture-increases-regressive-changes.md) [~W]
+- [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](../claims/conflicting-evidence-increases-argumentation.md) [+W]
+- [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](../claims/refutation-texts-greater-conceptual-change-than-standard.md) [+W]
+- [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](../claims/medium-incongruity-inverted-u-cognitive-conflict.md) [~W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — cognitive disequilibrium often begins by surfacing and examining an incorrect but plausible model

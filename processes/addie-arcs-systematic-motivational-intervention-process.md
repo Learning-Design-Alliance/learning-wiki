@@ -17,7 +17,7 @@ sources:
 # Use a systematic instructional design process (ADDIE) with a motivational model to diagnose and address motivational problems
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues motivational studies lack systematicity and linkage between theory and practice, and proposes pairing a generic instructional design process with a motivational model: "The ADDIE process is geared towards solving instructional problems in five general steps" — analysis, design, development, implementation, and evaluation. Triangulating quantitative IMMS frequencies with coded qualitative data identifies which instructional components influence which ARCS components, making motivational interventions diagnosable and evaluable.
@@ -37,6 +37,8 @@ The article argues motivational studies lack systematicity and linkage between t
 - improving learning motivation in computer-based instruction
 
 ### Claims
+
+- [ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation](../claims/arcs-motivation-drives-use-behavior-not-intention.md) [~W]
 
 ## Related Principles
 - 

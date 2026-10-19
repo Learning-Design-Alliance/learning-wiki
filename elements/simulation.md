@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 37 claims (26 for, 9 mixed, 2 against) · 39 studies (12 review, 10 quant-synthesis, 8 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 39 report an effect size · 27 claims rest on one study
+> **Evidence** · 48 claims (31 for, 14 mixed, 3 against) · 48 studies (12 causal, 12 review, 11 quant-synthesis, 6 design, 4 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 48 report an effect size · 38 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -92,6 +92,17 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](../claims/ai-simulation-authenticity-gap.md) [~W]
 - [Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice](../claims/convergence-corroborated-by-surveys-and-human-raters.md) [~W]
 - [Domain-specific challenges and authentic environmental prompting in the VR simulation fostered both experiential and vicarious learning of teaching](../claims/vr-authentic-prompting-fosters-experiential-vicarious-learning.md) [+W] — attached 2026-10-18 from Ke et al. (2021), which proposed "Multiuser VR-supported teaching simulation for participatory training of student instructors".
+- [Topic complexity moderates the simulation advantage: the multidimensional Baltic Sea topic showed a much larger simulation benefit than the one-dimensional ocean acidification topic](../claims/complexity-moderates-simulation-advantage.md) [+W]
+- [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](../claims/cvs-predicts-proportion-valid-experiments.md) [~W]
+- [Simulator feedback responds authentically to student error, e.g. logs fall from the cargo when the grapple is opened incorrectly.](../claims/simulator-authentic-error-feedback-log-drops.md) [+W]
+- [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](../claims/no-subgroup-differences-method-comparison.md) [+M]
+- [In an open simulation game, third-order interventions effectively evoked third-order responses](../claims/open-sg-tol-interventions-elicit-tol-responses.md) [~W]
+- [Secondary school students learn more complex marine ecology content from interactive computer simulations than from hands-on experiments, with a larger advantage for the more complex multidimensional topic](../claims/simulations-beat-experiments-complex-content-knowledge.md) [+W]
+- [Support conditions did not differ from control in learning scores within the environment](../claims/no-condition-differences-learning-scores-swlep.md) [~W]
+- [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](../claims/explicit-cvs-knowledge-equal-conditions.md) [~W]
+- [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](../claims/virtual-lab-transfer-from-demonstration-limited.md) [-W]
+- [In a medical ABC-VR case, 12 of 14 students met the required learning goals of a post-VR mock knee exam](../claims/abc-vr-medical-case-12-of-14-met-goals.md) [+W]
+- [The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods](../claims/active-comparison-instruction-reverses-simulation-game-advantage.md) [~M]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

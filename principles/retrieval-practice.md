@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (36 for, 29 mixed, 1 against, 1 unmarked) · 35 studies (12 causal, 9 quant-synthesis, 7 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 35 report an effect size · 60 claims rest on one study
+> **Evidence** · 74 claims (40 for, 32 mixed, 1 against, 1 unmarked) · 36 studies (13 causal, 9 quant-synthesis, 7 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 36 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 
@@ -200,6 +200,13 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](../claims/testing-effect-generalizes-education-levels.md) [+W]
+- [Overall posttest performance does not differ between targeted and holistic retrieval conditions](../claims/no-overall-performance-difference-between-retrieval-task-types.md) [~W]
+- [Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis](../claims/free-recall-increases-situational-interest-performance-mediated.md) [~W]
+- [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](../claims/spaced-recall-effective-regardless-instructor-experience.md) [+W]
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](../claims/spaced-recall-improves-posttest-without-harming-new-learning.md) [+W]
+- [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](../claims/testing-effect-persists-without-immediate-feedback.md) [+W]
+- [The retention benefit of spaced recall quizzes holds regardless of the hour of the day the class meets](../claims/spaced-recall-effective-regardless-class-hour.md) [+W]
+- [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](../claims/practice-test-specificity-negative-without-feedback.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

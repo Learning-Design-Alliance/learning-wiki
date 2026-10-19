@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (12 for, 7 mixed) · 20 studies (7 quant-synthesis, 6 causal, 4 theoretical, 3 review), `q1`–`q4` · 5 of 20 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (12 for, 8 mixed) · 21 studies (7 quant-synthesis, 6 causal, 4 review, 4 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,10 @@ For example, a school leader wants to know whether a reading program will help t
 The expectation should weaken if studies of readers (teachers, leaders, researchers) given effect sizes with intervals and translations make no better, or worse, adoption decisions than readers given p values alone, judged against later outcomes; or if readers routinely misread effect sizes in ways that cost more than misreading p values. If measure-type gaps disappear in studies with well-aligned standardized tests, step 3 becomes a reporting detail rather than an interpretive rule. If bias-corrected or pre-registered estimates in education turn out close to the significant published ones, step 8's discount should shrink. Do not protect the model by blaming every misread effect on a missing translation.
 
 Reporting an effect size, interpreting it against a reference class, and the decision that follows are separate claims. The present evidence establishes no threshold that makes an education effect worth acting on, no discount factor for a single study, and no reference class that serves every outcome.
+
+## Claims
+
+- [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](../claims/comprehension-strategy-large-effect-unreliable.md) [~W]
 
 ## Related Principles
 

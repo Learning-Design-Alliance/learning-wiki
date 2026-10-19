@@ -17,7 +17,7 @@ sources:
 # Materialized Action
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (4 qualitative), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Constructionism holds that learners deepen understanding by building external artifacts that make their internal mental models tangible and shareable. Materialized action extends this by treating the material itself as an active participant in that process, not a passive substrate for a pre-formed idea. As a learner physically acts on a material (stitching, folding, tensioning), the material's own properties — how yarn behaves under tension, how fabric springs back after folding, how a needle's size scales a stitch — feed back into and co-construct the learner's understanding, not just record it. This is analyzed across three nested levels of unit construction: a **stitch/fold unit** (a small, repeatable material action), a **pattern unit** (repetition of that action into a larger structure), and a **project unit** (the completed artifact). Understanding develops through fluid movement across these three levels, driven by the interplay between the learner's actions and the material's responses — not by the learner's cognition alone.
@@ -38,6 +38,8 @@ Constructionism holds that learners deepen understanding by building external ar
 
 - [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+M]
 - [Computation in fabric manipulation is characterized as speculative physical 3D modeling](../claims/fabric-manipulation-speculative-3d-modeling.md) [+W] — attached 2026-10-18 from Anna Keune (2022), which proposed "Material syntonicity: ongoing physical intra-action with materials shapes what can be learned computationally".
+- [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](../claims/weaving-algorithm-one-dimension-at-a-time.md) [+W]
+- [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](../claims/human-material-collaboration-fibre-craft-algorithms.md) [+W]
 
 ## Related Theories
 - Constructionism (Papert; Harel & Papert) — extended here by foregrounding material agency rather than treating materials only as a means to externalize an individual's cognition

@@ -13,7 +13,7 @@ generated:
 # Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 14 studies (5 review, 3 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 16 studies (5 review, 3 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 16 report an effect size · 5 claims rest on one study
 
 ## Description
 Integration is the phase in which learners consolidate new knowledge by connecting it to what they already know, to their personal and professional experience, and to situations where they will apply it in the future. It is the fourth of [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md): learning is promoted when learners integrate the new knowledge into their everyday world through reflection, discussion, and public demonstration.
@@ -56,6 +56,8 @@ Integration activities convert learning from an isolated instructional event int
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
+- [Students' postings of personal experiences in discussion forums support, rather than undermine, knowledge building](../claims/personal-experiences-support-knowledge-building.md) [+W]
+- [Internalizing wiki information can yield emergent knowledge that was in neither the person's prior knowledge nor the wiki](../claims/emergent-knowledge-from-internalization.md) [~W]
 
 ## The evidence by question
 - *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]

@@ -17,7 +17,7 @@ sources:
 # Reflexive Noticing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Teacher professional talk about students tends to sustain a shared **lived ideology** (Billig et al.) — a "common sense" that works through contradictions rather than resolving them, and that can protect teachers from difficult realities while also freezing what they see as possible ("that's just how it is here"). Drawing on activity theory's distinction between **stabilization knowledge** (which freezes practice) and **possibility knowledge** (which opens it and supports teachers' sense of agency), this theory identifies why contrary evidence often fails to shift a limiting lived ideology: surprising positive evidence (e.g., a disengaged student succeeding at a new task) is frequently discursively **re-stabilized** — reframed as an exception ("that was strange," "I wouldn't do this again with this lot") that leaves the frozen view intact. **Reflexive noticing** is the alternative discursive move that does produce a shift, built from three devices: **sustained puzzle** (holding a difficulty open and connecting it to a need to change, rather than sealing it as unsolvable), **dilemmas as the origin of change** (treating a contradiction as the source of, not the impediment to, future work), and **discursive consciousness** (teachers becoming metacognitively aware of their own institutional common sense and starting to question it explicitly). These devices create a **dialogic space** (Wegerif) in which competing perspectives on students' capabilities can coexist long enough for a new possibility discourse to emerge.
@@ -35,7 +35,9 @@ Teacher professional talk about students tends to sustain a shared **lived ideol
 - Shifting collective teacher discourse from viewing student difficulty as fixed and outside teachers' influence to viewing it as the object of ongoing, agentic instructional work
 
 ## Claims
+
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](../claims/reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) [+M]
+- [Individual trajectories varied: 9 of 14 teachers increased dialogic noticing per episode, while two teachers slightly decreased, which the authors attribute to limits of the nondirective intervention](../claims/individual-noticing-trajectories-vary.md) [~W]
 
 ## Related Theories
 - (none yet linked)

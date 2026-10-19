@@ -13,7 +13,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 25 studies (8 review, 6 causal, 6 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (12 for, 6 mixed, 1 against) · 26 studies (9 review, 6 causal, 6 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 15 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -67,6 +67,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](../claims/ai-implemented-as-intervention-adaptive-systems-personalization.md) [~W]
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](../claims/stem-more-amenable-difficulty-scaling.md) [~W]
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](../claims/woot-math-rct-adaptivity-significant-effects.md) [+W]
+- [Adaptive learning showed a statistically significant effect on learning skills but not on building factual knowledge in a meta-analysis of 21 Health & Welfare studies](../claims/adaptive-learning-effect-learning-skills-not-factual-knowledge.md) [~W]
 
 ## The evidence by question
 

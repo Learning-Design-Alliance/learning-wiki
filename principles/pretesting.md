@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (6 for, 14 mixed, 3 against) · 21 studies (9 causal, 5 quant-synthesis, 4 review, 3 theoretical), `q1`–`q4` · 10 of 21 report an effect size · 17 claims rest on one study
+> **Evidence** · 24 claims (6 for, 15 mixed, 3 against) · 22 studies (10 causal, 5 quant-synthesis, 4 review, 3 theoretical), `q1`–`q4` · 11 of 22 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,10 @@ The designer's objective is that learners remember and can use the questioned co
 ## What would revise this model?
 
 The expectation should weaken if classroom comparisons with comparable learners and equal time find no advantage on questioned content at a delay, or find that the gain on questioned content is matched by a loss on unquestioned content, so that learning of the whole material is unchanged. It should be narrowed if the effect holds only for fact-like content and not for concepts or application. If unscored, explained pretests still reduce persistence in courses learners can leave, the self-paced row should drop pretests. Studies with children or school-age learners would extend or limit a model that rests on adults. Do not protect the model by calling every null "the wrong questions" after the fact.
+
+## Claims
+
+- [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](../claims/curiosity-higher-incorrect-than-correct-trials.md) [~M]
 
 ## Related Principles
 

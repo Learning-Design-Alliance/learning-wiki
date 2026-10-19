@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge Activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Prior knowledge activation is the element in which learners recall, surface, or organize what they already know before engaging with new material. It is useful when new learning depends on connection to existing ideas or experiences.
@@ -39,6 +39,7 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M]
 - [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
+- [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](../claims/relevant-not-breadth-prior-knowledge-activation.md) [~W]
 
 ## Related Elements
 - [Activation](activation.md)

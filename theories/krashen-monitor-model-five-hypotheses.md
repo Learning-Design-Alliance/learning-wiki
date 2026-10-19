@@ -17,7 +17,7 @@ sources:
 # Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents Krashen's theory of second language acquisition as an explanatory framework built on five hypotheses: the Acquisition-Learning distinction, the Natural Order Hypothesis, the Monitor Hypothesis, the Input Hypothesis, and the Affective Filter Hypothesis. The article states that "Krashen's theory (1983) of L2 acquisition, based on research from applied linguistics, consists of five hypotheses." Learning is conscious rule knowledge, while acquisition is a subconscious process driven by comprehensible input and shaped by motivation, self-confidence, and anxiety.
@@ -40,6 +40,7 @@ The article presents Krashen's theory of second language acquisition as an expla
 ### Claims
 
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+- [The three planning conditions produced different accuracy orders for regular and irregular past, questioning the stability of the natural order](../claims/condition-dependent-accuracy-orders-natural-order-unstable.md) [-W]
 
 ## Related Theories
 

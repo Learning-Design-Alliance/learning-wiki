@@ -18,7 +18,7 @@ sources:
 # Keep the learner in control of the information flow with on-demand tools and supports
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (9 for, 10 mixed, 1 against) · 20 studies (8 causal, 3 quant-synthesis, 2 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 3 of 20 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (9 for, 10 mixed, 2 against) · 21 studies (9 causal, 3 quant-synthesis, 2 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 3 of 21 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,10 @@ For example, a business traveller (the earlier page's product example) may want 
 The expectation should weaken if comparisons of the same helps offered on request against the same helps pushed by the system or the teacher, with comparable learners and an unaided outcome, show no advantage for on request, or show that learners who choose their help retain less at a delay. If such comparisons repeat the motor-learning result that only a choice made after an attempt helps, step 3 becomes the core of the model. If learners at the target level rarely open the helps, availability alone is not the design and the prompts in steps 5 and 6 carry it. If glosses help vocabulary but not comprehension in video as they did in reading, the model should claim the words, not the whole. Do not protect the model by calling every failure "the learner did not use the tools properly" after the fact.
 
 Use of a help, assisted performance, unaided immediate performance, delayed retention and use in the setting the learner values are separate claims. The present evidence establishes no number of helps, no order of helps, and no threshold for moving on.
+
+## Claims
+
+- [Providing navigation features in an instructional video does not improve retention or comprehension when learning time is controlled](../claims/navigation-features-no-learning-benefit-controlled-time.md) [-W]
 
 ## Related Principles
 - [Segmenting](segmenting.md) — cutting a continuous scene into pieces and deciding who sets the pauses; this page assumes it and adds the content helps.

@@ -13,7 +13,7 @@ generated:
 # Hypothesis Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 3 causal, 1 theoretical), `q2`–`q4` · 5 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (6 quant-synthesis, 4 causal, 1 theoretical), `q2`–`q4` · 6 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Hypothesis testing asks learners to commit to an explicit, testable prediction before encountering evidence, then to evaluate that prediction against the outcome. The commitment step is critical: a stated hypothesis makes the learner's prior conception inspectable, so subsequent evidence is interpreted as confirmation or disconfirmation of something specific rather than absorbed passively.
@@ -53,6 +53,7 @@ Committing to a prediction before instruction activates prior conceptions and cr
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Hypothesis specificity differed by task type: intermediate participants stated fewer partially-specified hypotheses than abstract participants, but more fully-specified hypotheses than concrete participants](../claims/hypothesis-specificity-varies-by-task-type.md) [~W]
 
 ## The evidence by question
 - *Does conflict-based instruction improve conceptual learning more than standard exposition?* [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+S]

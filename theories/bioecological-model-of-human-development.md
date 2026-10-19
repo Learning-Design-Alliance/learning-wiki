@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 12 studies (7 associational, 3 quant-synthesis, 2 review), `q2`–`q3` · 2 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 14 studies (9 associational, 3 quant-synthesis, 2 review), `q2`–`q3` · 2 of 14 report an effect size · 12 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -53,6 +53,8 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Teacher-child conflict does not predict subsequent increases in children's inattention and impulsivity, contradicting a bidirectional transaction](../claims/no-bidirectional-conflict-to-self-regulation-effect.md) [-W] — attached 2026-10-17 from Portilla Ximena A. et al. (2014), which proposed "Transactional model of development applied to early schooling: children's behaviors and teacher-child relationship quality shape each other bidirectionally over time"; tests this page's relationship.
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](../claims/low-self-regulation-predicts-teacher-conflict-persisting.md) [~W] — attached 2026-10-17 from Portilla Ximena A. et al. (2014), which proposed "Transactional model of development applied to early schooling: children's behaviors and teacher-child relationship quality shape each other bidirectionally over time"; tests this page's relationship.
 - [Family climate and school attachment exert reciprocal positive influences on each other over the middle school years](../claims/family-climate-school-attachment-reciprocal-influences.md) [+W] — attached 2026-10-17 from Xia et al. (2016), which proposed "Multi-contextual family-systems and ecological framework of adolescent school success"; tests this page's relationship.
+- [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](../claims/adversity-parent-involvement-mediate-financial-difficulty-adhd.md) [~W]
+- [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](../claims/closeness-benefits-concurrent-not-prospective.md) [~W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

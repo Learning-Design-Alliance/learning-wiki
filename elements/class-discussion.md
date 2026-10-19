@@ -13,7 +13,7 @@ generated:
 # Class Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Class discussion is a structured conversational format in which learners collectively analyze, question, and reflect on content, guided by an instructor or discussion protocol. It functions as a social processing mechanism: learners articulate interpretations, encounter alternative perspectives, and negotiate shared understanding rather than receiving conclusions directly.
@@ -55,7 +55,7 @@ Discussion supports learning primarily when learners are doing generative cognit
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Evidence-based rubric scripting produced more high-quality discussion than future-thinking scripting in long-term small-group collaboration.](../claims/evidence-based-rubric-scripting-more-quality-discussion.md) [+W]
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the questioning technique that drives productive discussion

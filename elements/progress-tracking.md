@@ -18,7 +18,7 @@ sources:
 # Progress Tracking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 qualitative, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (1 for, 4 mixed) · 5 studies (2 theoretical, 1 causal, 1 review, 1 qualitative), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time. It is useful when visibility into progress supports planning, motivation, and coordination.
@@ -43,6 +43,9 @@ Progress tracking is the element in which learners or instructors monitor advanc
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](../claims/dashboard-monitoring-orchestration-type.md) [~W]
 - [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](../claims/progress-monitoring-guides-next-steps-instruction.md) [+W]
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](../claims/mirroring-alerting-dashboards-teacher-withitness.md) [~W]
+- [Teacher-facing dashboards that mirror or guide increase teacher awareness and targeted interventions during classroom orchestration](../claims/dashboard-conditions-increase-teacher-awareness-and-interventions.md) [~W]
+- [Mirroring-condition teachers consulted the dashboard more often than guiding-condition teachers (137 vs 95 consultations) but missed aspects needing reaction](../claims/mirroring-more-dashboard-consultation-focused-on-content.md) [~W]
 
 ## Examples
 

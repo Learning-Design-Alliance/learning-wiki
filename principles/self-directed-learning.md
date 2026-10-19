@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (11 for, 14 mixed, 1 against) · 34 studies (11 review, 7 causal, 6 theoretical, 5 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 34 report an effect size · 17 claims rest on one study
+> **Evidence** · 27 claims (12 for, 14 mixed, 1 against) · 35 studies (12 review, 7 causal, 6 theoretical, 5 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 35 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,10 @@ For example, an adult in a workplace course may want to be able to handle one di
 The expectation should weaken if comparisons of learner-directed against teacher-directed study, with comparable learners and aligned outcomes, show no difference once the regulation routine is taught, or show that the learners who directed their own study did not go on directing it after the course. If learners who are taught which strategies work still choose poorly once the plan template is removed, building strategies into the template is the active ingredient, not the hand-over. If deadlines and checkpoints in self-paced study do not restore completion, the pace hand-over has a cost the design cannot pay. If novices given content choices with strong checkpoints learn as much as those taught directly, the readiness check is too strict. Do not protect the model by calling every failure "not enough support" or "handed over too early" after the fact.
 
 Completion, achievement at the end of the course, self-reported autonomy or motivation, and later independent learning are separate claims. The present evidence establishes no number of sessions for the hand-over, no readiness threshold and no checkpoint interval.
+
+## Claims
+
+- [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](../claims/process-mining-successful-unsuccessful-srl-models.md) [+W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

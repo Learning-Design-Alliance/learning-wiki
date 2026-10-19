@@ -27,7 +27,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (29 for, 27 mixed, 3 against) · 67 studies (17 causal, 16 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 67 report an effect size · 50 claims rest on one study
+> **Evidence** · 63 claims (30 for, 30 mixed, 3 against) · 71 studies (18 causal, 16 review, 12 quant-synthesis, 11 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 12 of 71 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,10 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](../claims/ngcc-impact-moderators-context.md) [~W]
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](../claims/structured-ai-tutor-raises-post-test-scores-field-experiment.md) [+M]
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](../claims/wileyplus-adaptive-courseware-statistics-outcomes.md) [~W]
+- [Sharing a projected display with multiple mice produced significant collaborative-learning gains for a whole classroom](../claims/multiple-mice-shared-display-collaborative-gains.md) [~W]
+- [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](../claims/adaptive-feedback-improves-diagnosis-justification.md) [+W]
+- [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](../claims/ai-use-positive-adaptation-associations.md) [~W]
+- [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](../claims/curriculum-equivalence-moderates-effect-size.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

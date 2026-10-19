@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 5 studies (1 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -55,6 +55,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools](../claims/portfolio-adds-equity-context-holistic-review.md) [~W] — attached 2026-10-10 from Willis et al. (2022), which proposed "Ross Admissions Portfolio (Business Case Discussion + Artifact)".
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](../claims/innovative-assessments-capture-pog-competencies.md) [+W]
 - [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](../claims/specialisation-demographic-stratification-linkedin.md) [~W]
+- [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](../claims/kf-portfolio-principles-higher-atk-inquiry.md) [+W]
 
 ## The evidence by question
 - *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+W]

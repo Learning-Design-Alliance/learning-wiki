@@ -17,7 +17,7 @@ sources:
 # Evaluate principal replacement by comparing achievement changes in replaced-principal schools to matched comparison schools that kept the same principal
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 This evaluation strategy measures the effect of replacing a school principal by comparing changes in student achievement before and after a leadership change against changes over the same period in comparison schools within the same district that retained their principal. The brief states the goal was to measure "whether students in a school with a new principal performed better on standardized tests than they would have if the original principal had been retained." It was applied to DCPS principal changes from 2007-2008 through 2010-2011.
@@ -40,6 +40,10 @@ This evaluation strategy measures the effect of replacing a school principal by 
 ## Claims
 
 - [New principals' math achievement gains followed a similar trend to reading but were smaller](../claims/dcps-new-principals-math-gains-smaller-than-reading.md) [+W]
+- [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](../claims/dcps-new-principals-reading-gain-4-percentile-points.md) [+W]
+- [For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading](../claims/dcps-grades-6-8-gains-significant-both-subjects.md) [+W]
+- [It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines](../claims/dcps-principal-gains-took-three-years-no-declines.md) [+W]
+- [Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools](../claims/dcps-principal-gains-larger-faster-middle-schools.md) [+W]
 
 ## Related Strategies
 

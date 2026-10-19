@@ -50,7 +50,7 @@ sources:
 # Concreteness Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (12 for, 8 mixed, 1 against, 1 unmarked) · 25 studies (13 causal, 4 quant-synthesis, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 4 of 25 report an effect size · 18 claims rest on one study
+> **Evidence** · 23 claims (12 for, 9 mixed, 1 against, 1 unmarked) · 26 studies (14 causal, 4 quant-synthesis, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 26 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,10 @@ The designer's objective is that learners can use the notation as meaning someth
 ## What would revise this model?
 
 The expectation should weaken if direct comparisons with comparable learners and equal time find that the fading sequence does no better than starting abstract on a delayed test in notation, or no better than staying concrete on transfer items without the objects. It should be narrowed if the benefit appears only for learners who cannot yet read the notation, or only in mathematics. It should be extended by tests of stage length, of the iconic stage on its own, and of self-paced versions where the links are built into the material.
+
+## Claims
+
+- [Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition](../claims/concrete-task-lower-exploratory-experiments.md) [~W]
 
 ## Related Principles
 

@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 13 claims (5 for, 4 mixed, 1 against, 3 unmarked) · 11 studies (6 causal, 3 review, 1 design, 1 theoretical), `q2`–`q3` · 0 of 11 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (6 for, 7 mixed, 2 against, 3 unmarked) · 14 studies (8 causal, 3 review, 2 theoretical, 1 design), `q2`–`q3` · 0 of 14 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -101,6 +101,11 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 ## Claims
 
 - [Pedagogical-criterion breakdown shows worked examples in only about 42% of responses, the weakest criterion despite 312 practice problems in the knowledge base](../claims/algorag-worked-example-retrieval-42-percent.md) [-W]
+- [Prior knowledge and working memory capacity did not moderate the worked example effect](../claims/no-prior-knowledge-wmc-moderation-worked-examples.md) [~W]
+- [Worked examples improved the exchange of relevant information in the CDR process, driven by the initial-situation step](../claims/worked-examples-improve-information-exchange-process.md) [+W]
+- [Duration of the initial problem-solving phase reverses the PS-I versus WS-I transfer advantage](../claims/ps-phase-duration-reverses-ps-i-ws-i-transfer.md) [~W]
+- [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](../claims/worked-examples-no-improvement-knowledge-application.md) [-W]
+- [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](../claims/alternating-example-problem-pairs.md) [~W]
 
 ## Key Sources
 

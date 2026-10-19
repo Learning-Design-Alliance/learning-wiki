@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (23 for, 17 mixed, 1 unmarked) · 34 studies (18 causal, 8 review, 7 quant-synthesis, 1 theoretical), `q1`–`q4` · 11 of 34 report an effect size · 34 claims rest on one study
+> **Evidence** · 45 claims (26 for, 18 mixed, 1 unmarked) · 37 studies (21 causal, 8 review, 7 quant-synthesis, 1 theoretical), `q1`–`q4` · 11 of 37 report an effect size · 38 claims rest on one study
 
 ## Description
 
@@ -456,6 +456,10 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]
+- [The retention benefit of spaced recall quizzes holds regardless of the hour of the day the class meets](../claims/spaced-recall-effective-regardless-class-hour.md) [+W]
+- [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](../claims/spaced-recall-effective-regardless-instructor-experience.md) [+W]
+- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
+- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](../claims/contextual-spacing-effect-survives-orienting-tasks.md) [+W]
 
 ## Key Sources
 

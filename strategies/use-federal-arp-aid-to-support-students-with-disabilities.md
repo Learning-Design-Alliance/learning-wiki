@@ -16,7 +16,7 @@ sources:
 # Use federal COVID-19 aid, including the American Recovery Plan influx, to transform education for students with disabilities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The webinar offers "recommendations for states and districts on how to use the recent federal aid to transform education for students with disabilities." The page notes that "the unprecedented influx of federal funding for K-12 education, most recently through the American Recovery Plan, presents an opportunity to accelerate learning and provide supports for our most vulnerable communities." This strategy directs state and district leaders to treat recovery funding as a chance to accelerate learning for students with disabilities.
@@ -34,6 +34,10 @@ The webinar offers "recommendations for states and districts on how to use the r
 
 ### Target Learning Goals
 - Academic recovery and acceleration of learning after COVID-19 disruptions
+
+## Claims
+
+- [The American Rescue Plan provides $122 billion for COVID recovery in schools](../claims/arp-provides-122-billion-covid-school-recovery.md) [+W]
 
 ## Related Strategies
 

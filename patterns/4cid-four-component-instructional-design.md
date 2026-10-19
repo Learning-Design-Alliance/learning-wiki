@@ -33,7 +33,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (12 for, 5 mixed) · 20 studies (8 causal, 5 theoretical, 4 review, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 1 of 20 report an effect size · 14 claims rest on one study
+> **Evidence** · 22 claims (14 for, 8 mixed) · 25 studies (9 causal, 5 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 2 of 25 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -127,6 +127,11 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](../claims/scaffolded-task-progression-diagnostic-shift.md) [~W]
 - [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](../claims/four-cas-integrate-pedagogical-theories.md) [+W]
+- [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](../claims/cvs-level-difficulty-ordering.md) [+W]
+- [Students in simulator training encounter a progression from simplified low-fidelity tasks to more complex higher-fidelity tasks as a deliberate instructional logic.](../claims/simulator-task-progression-low-to-high-fidelity.md) [+W]
+- [Students mostly start at the lowest complexity level and move to higher levels, but many still choose level 1 tasks in the second half of learning](../claims/lowest-level-first-then-increasing-complexity.md) [~W]
+- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](../claims/drawing-support-increased-perceived-difficulty.md) [~W]
+- [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](../claims/within-teacher-performance-trajectories-as-scaffolds-faded.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

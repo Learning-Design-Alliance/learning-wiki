@@ -13,7 +13,7 @@ generated:
 # Group Roles
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 causal, 2 design, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 9 studies (2 causal, 2 review, 2 design, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 9 report an effect size · 4 claims rest on one study
 
 ## Description
 Group roles are assigned or negotiated responsibilities — such as facilitator, recorder, checker, or resource manager — that structure how members of a small group contribute to a shared task. Roles function as a form of procedural scaffolding: they specify who does what, reduce coordination overhead, and prevent the free-riding and status hierarchies that undermine collaborative work.
@@ -55,6 +55,9 @@ Roles improve the quality of collaboration when they distribute *cognitive* work
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](../claims/role-rotation-perspective-taking-and-challenges.md) [~M]
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](../claims/role-design-facilitates-higher-order-behavior-transitions.md) [+W]
+- [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](../claims/device-ratio-affordances-role-interaction.md) [~W]
+- [Scripted roles scaffold students' cognitive responsibility for building common knowledge in knowledge-building environments](../claims/scripted-roles-scaffold-cognitive-responsibility-knowledge-building.md) [+W]
+- [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](../claims/scripting-little-difference-learning-outcomes.md) [~W]
 
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — the physical/positional counterpart used in whole-class and lab settings

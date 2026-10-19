@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (29 for, 10 mixed) · 29 studies (12 causal, 8 associational, 3 quant-synthesis, 3 review, 2 theoretical, 1 design), `q1`–`q4` · 6 of 29 report an effect size · 37 claims rest on one study
+> **Evidence** · 62 claims (34 for, 28 mixed) · 45 studies (15 causal, 15 associational, 9 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 45 report an effect size · 60 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -102,6 +102,29 @@ Information processing models are often criticized as overly linear and serial, 
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](../claims/whole-number-ccs-one-level-per-wm-unit.md) [+W] — attached 2026-10-18 from Morra et al. (2019), which proposed "Case's central conceptual structures theory, reconsidered with working memory capacity as the developmental driver of quantitative concepts"; tests this page's relationship.
 - [Rational-number CCS test performance is predicted by working memory capacity and, to a lesser extent, by intrusion errors in the listening span](../claims/rational-number-ccs-predicted-by-wm-and-intrusions.md) [+W] — attached 2026-10-18 from Morra et al. (2019), which proposed "Case's central conceptual structures theory, reconsidered with working memory capacity as the developmental driver of quantitative concepts"; tests this page's relationship.
 - [The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles](../claims/voluntary-involuntary-attention-distinction-explains-multimedia-principles.md) [+W] — attached 2026-10-19 from Judith Schweppe et al. (2015), which proposed "The embedded-processes model as a unitary framework for attention, working memory, and long-term memory in multimedia learning".
+- [In self-cued directed forgetting, selected words were better recalled than unselected words regardless of whether they were designated to-be-remembered or to-be-forgotten](../claims/self-cued-directed-forgetting-selection-benefit.md) [~W]
+- [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](../claims/wmc-predicts-comprehension-only-disfluency-condition.md) [~W]
+- [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](../claims/wmc-predicts-retention-only-disfluency-condition.md) [~W]
+- [Disfluency benefits retention and comprehension only for learners with high working memory capacity](../claims/disfluency-benefits-high-working-memory-only.md) [~W]
+- [Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test](../claims/zambrano-2019-low-density-benefit-shortlived.md) [~W]
+- [Processing of affective stimuli is prioritized and interferes with target processing during the attentional blink interval in early adolescence](../claims/affective-stimuli-interfere-attentional-blink-adolescents.md) [~W]
+- [Acetylcholine gates memory encoding: surprising outcomes drive high release that encodes new memories distinct from prior ones, and focus lags alertness by several minutes](../claims/acetylcholine-surprise-encoding-focus-lag.md) [~W]
+- [Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search](../claims/attention-facilitates-wm-retrieval.md) [+W]
+- [Age differences in text processing are examined in terms of the roles of working memory, inhibition, and processing speed](../claims/age-differences-text-processing-working-memory-inhibition-processing-speed.md) [~W]
+- [Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources](../claims/adult-subtraction-strategy-reliance-working-memory-cost.md) [~W]
+- [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](../claims/attention-more-associated-reading-than-hyperactivity.md) [~W]
+- [Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines](../claims/blocked-decline-mixed-no-decline-aging-span.md) [~W]
+- [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](../claims/bilingual-flatter-attended-encoding-pattern.md) [~W]
+- [A model of kindergarten writing development including an attention factor fits better than a model with only language and literacy factors](../claims/attention-factor-improves-model-fit.md) [+W]
+- [A common attentional component is needed for feature binding, running digit span, and visual short-term memory tasks, while phonological storage is separate](../claims/common-attentional-component-binding-running-span-visual-stm.md) [~W]
+- [Children shift from counting to memory-based retrieval strategies in single-digit addition over a 1.2-year interval in middle childhood](../claims/counting-to-retrieval-shift-longitudinal-childhood.md) [+W]
+- [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](../claims/dd-visuospatial-stm-wm-impairment.md) [+W]
+- [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](../claims/developmental-capacity-gain-primary.md) [~W]
+- [Congenitally blind adults show higher verbal backwards digit span than sighted controls](../claims/congenitally-blind-higher-backwards-digit-span.md) [~W]
+- [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](../claims/early-encoding-modulation-predicts-wm-accuracy.md) [+W]
+- [Digit span running loaded on the focus of attention factor rather than the phonological factor, supporting Cowan's claim that running span performance reflects attentional capacity](../claims/digit-span-running-loads-focus-of-attention.md) [~W]
+- [Disabled readers show working memory deficits at every age on the blocked listening span task](../claims/disabled-readers-lower-listening-span-all-ages.md) [~W]
+- [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](../claims/developmental-selective-attention-deployment-mechanisms.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

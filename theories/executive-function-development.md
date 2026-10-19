@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 42 claims (28 for, 12 mixed, 2 against) · 30 studies (25 associational, 2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 14 of 30 report an effect size · 41 claims rest on one study
+> **Evidence** · 83 claims (45 for, 36 mixed, 2 against) · 59 studies (38 associational, 9 review, 6 causal, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 24 of 59 report an effect size · 78 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -83,6 +83,47 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](../claims/self-regulation-frontal-activation-proactive-inhibition.md) [+W] — attached 2026-10-17 from Pas P. et al. (2021), which proposed "Frontal control over subcortical regions as the developmental basis of proactive inhibitory control".
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](../claims/self-regulation-striatal-motor-coupling-reactive.md) [-W] — attached 2026-10-17 from Pas P. et al. (2021), which proposed "Frontal control over subcortical regions as the developmental basis of proactive inhibitory control".
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+W] — attached 2026-10-17 from Valiente Carlos et al. (2011), which proposed "Effortful control as temperamentally based self-regulation grounded in the executive attention network".
+- [Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency](../claims/inhibition-improves-kindergarten-to-grade-2.md) [+W]
+- [Maternal contingency at 12 months predicts children's effortful control at 24 months, explaining 14% unique variance](../claims/contingency-12m-predicts-effortful-control-24m.md) [+W]
+- [The benefit of worked examples over problem-solving increases with decreasing shifting ability, reproducing Schwaighofer et al. (2016)](../claims/shifting-ability-moderates-worked-example-benefit.md) [~W]
+- [The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition](../claims/monitoring-does-not-predict-later-inhibition.md) [~W]
+- [In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not](../claims/adhd-i-wm-impaired-stm-not-more-common.md) [~W]
+- [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](../claims/adolescent-happy-nogo-false-alarm-ventral-striatum.md) [~W]
+- [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](../claims/adults-higher-accuracy-startle-load-group-interaction.md) [+W]
+- [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](../claims/adhd-poorer-accuracy-wm-change-trials.md) [~W]
+- [Affective theory of mind is positively related to inhibition, updating, and shifting](../claims/affective-tom-related-to-all-three-executive-functions.md) [+W]
+- [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](../claims/aerobic-exercise-dose-response-ef.md) [+W]
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](../claims/aerobic-exercise-improves-executive-function-children.md) [~W]
+- [Antisaccade performance follows a curvilinear developmental trajectory best fit by an inverse function, with intra-subject latency variability decreasing with age](../claims/antisaccade-curvilinear-inverse-trajectory.md) [+W]
+- [Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age](../claims/age-differences-in-inhibition-and-reward-response.md) [+W]
+- [Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory](../claims/age-moderates-exercise-effects-opposite-directions.md) [+M]
+- [Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations](../claims/asymmetrical-switch-costs-not-unambiguous-inhibition-marker.md) [~W]
+- [Age differences in text processing are examined in terms of the roles of working memory, inhibition, and processing speed](../claims/age-differences-text-processing-working-memory-inhibition-processing-speed.md) [~W]
+- [Behavioral inhibition skills of prelingually deaf children are related to several audiological outcome measures after cochlear implantation](../claims/behavioral-inhibition-related-audiological-outcomes-ci-children.md) [~W]
+- [Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents](../claims/bilingual-effect-inhibition-flexibility-not-working-memory.md) [~W]
+- [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](../claims/bilinguals-marginally-smaller-stroop-effect.md) [+W]
+- [Bully group children complete the Stroop color-word card faster than victim and bully-victim children](../claims/bullies-faster-stroop-color-word-card.md) [~W]
+- [Bullied preadolescents show thinner cortices in left-hemisphere temporal, precentral, and right rostral middle frontal regions, and precentral thinning mediates 7% of the bullying effect on inhibitory control/attention](../claims/bullying-thinner-cortices-precentral-mediation.md) [~W]
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](../claims/bullying-lower-reading-processing-speed-inhibitory-control.md) [~W]
+- [Children show larger and more sustained frontal ERP conflict effects than adults, indicating less efficient executive attention](../claims/children-larger-sustained-erp-conflict-effects-than-adults.md) [~W]
+- [Consistently high childhood ADHD symptoms correlate with both reduced N2 amplitude and longer SSRT in adolescence](../claims/childhood-adhd-symptoms-correlate-n2-ssrt.md) [~W]
+- [The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples](../claims/clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md) [~W]
+- [Higher inattention symptoms throughout childhood uniquely predict reduced adolescent N2 amplitude during successful inhibition, beyond hyperactivity-impulsivity symptoms](../claims/childhood-inattention-predicts-reduced-adolescent-n2.md) [~W]
+- [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](../claims/chronic-exercise-improves-executive-function-children.md) [+S]
+- [Children's cognitive flexibility improved on average from preschool to first grade](../claims/cognitive-flexibility-increases-preschool-to-first-grade.md) [+W]
+- [Cognitive flexibility does not add unique explained variance to literacy or mathematics achievement in Grade 2](../claims/cognitive-flexibility-no-unique-contribution-grade-2.md) [~W]
+- [Congruency effects on both numerical and non-numerical inhibition tasks occur in all three age groups, with an age-by-congruency interaction only on the numerical task](../claims/congruency-effects-all-age-groups-numerical-interaction.md) [~W]
+- [Children aged 8–11 show significant activation in frontal-striatal-parietal regions during proactive inhibition and striatal activation during reactive inhibition, similar to regions reported in adults](../claims/children-frontal-striatal-activation-inhibition.md) [+W]
+- [The Chicago School Readiness Project, a classroom-based RCT, improved low-income children's executive function and academic skills with effect sizes of 0.34 to 0.63](../claims/csrp-intervention-improved-self-regulation-and-academics.md) [+W]
+- [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](../claims/cool-ef-ascending-growth-adolescence.md) [+W]
+- [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](../claims/dccs-flexibility-gain-training-group.md) [~W]
+- [Children typically perseverate on the Dimensional Change Card Sort at age 3 but can switch sorting rules from age 4](../claims/dccs-rule-switching-emerges-age-four.md) [+W]
+- [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](../claims/developmental-capacity-gain-primary.md) [+W]
+- [Cool EF (Stroop inhibition and CNT cognitive flexibility) predicts academic performance, while no hot EF variable does](../claims/cool-ef-predicts-academic-performance.md) [~W]
+- [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](../claims/dd-visuospatial-stm-wm-impairment.md) [+W]
+- [Disabled readers show working memory deficits at every age on the blocked listening span task](../claims/disabled-readers-lower-listening-span-all-ages.md) [~W]
+- [An apparent switching advantage in dyslexia (lower switching reaction-time cost) disappears after controlling for processing speed](../claims/dyslexia-switching-advantage-disappears-speed-control.md) [~W]
+- [Children show initially reduced DLPFC activation relative to adults for REL-1 and REL-2 trials, but sustained DLPFC activation for REL-1 problems in the later trial phase](../claims/dlpfc-immature-activation-children-rel1.md) [~W]
 
 ## Related Theories
 

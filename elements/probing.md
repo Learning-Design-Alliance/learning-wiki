@@ -13,7 +13,7 @@ generated:
 # Probing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 21 studies (10 quant-synthesis, 4 causal, 4 review, 2 associational, 1 design), `q1`–`q4` · 9 of 21 report an effect size · 2 claims rest on one study
+> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 24 studies (10 quant-synthesis, 4 causal, 4 review, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 9 of 24 report an effect size · 5 claims rest on one study
 
 ## Description
 Probing is the instructional element of asking follow-up questions that press past a learner's first response — asking for justification, elaboration, counterexamples, or connections to prior knowledge. It functions as a form of [Assessment for Learning](../principles/assessment-for-learning.md): the probe diagnoses the learner's current understanding while simultaneously prompting the learner to reconstruct and extend it.
@@ -56,6 +56,9 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](../claims/followup-low-initiation-high-completion.md) [~W]
 - [Interaction traces cannot establish answerability or justificatory dispossession because StudyChat does not elicit reconstruction and defense of reasoning](../claims/interaction-traces-cannot-establish-answerability.md) [+W]
+- [Feedback probing for deeper conceptual understanding is reported to be particularly effective in classwide peer feedback, though cognitively more demanding](../claims/deep-probing-feedback-especially-effective.md) [+W]
+- [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](../claims/llamalo-social-shift-no-resume.md) [-W]
+- [Students' social reasoning is less likely to be followed by teachers' high-level prompting and more likely to be followed by specific praise](../claims/social-reasoning-predicts-teacher-subsequent-moves.md) [~W]
 
 ## The evidence by question
 

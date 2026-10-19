@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (19 for, 8 mixed) · 18 studies (6 causal, 6 quant-synthesis, 4 review, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 18 report an effect size · 23 claims rest on one study
+> **Evidence** · 33 claims (19 for, 14 mixed) · 22 studies (10 causal, 6 quant-synthesis, 4 review, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 22 report an effect size · 29 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -78,6 +78,12 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [~W]
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
+- [Individual learners complete more flashcard practice cycles than paired learners, though inconsistently across experiments](../claims/individual-learners-complete-more-practice-cycles.md) [~W]
+- [Requiring overt retrieval eliminates the metacognitive calibration advantage of paired flashcard learning](../claims/overt-retrieval-drives-paired-metacognitive-benefit.md) [~W]
+- [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](../claims/short-answer-tasks-improve-metacognitive-calibration.md) [~W]
+- [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](../claims/paired-flashcards-improve-immediate-metacognitive-calibration.md) [~W]
+- [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](../claims/practice-retrieval-scores-no-condition-differences.md) [~W]
+- [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](../claims/school-type-significant-condition-not.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

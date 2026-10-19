@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 21 studies (6 review, 4 causal, 4 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (9 for, 6 mixed, 2 against) · 24 studies (7 causal, 6 review, 4 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 12 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -60,6 +60,9 @@ Pre-class video works only when paired with accountability and application: stud
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](../claims/video-pause-rewind-sequences-negative-performance.md) [~W]
 - [Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups](../claims/recorded-lectures-controversial-accessibility-strategy.md) [~W]
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](../claims/ai-video-viewing-yields-quiz-scores-4-3.md) [+W]
+- [Preservice teachers rated the video as simpler and more superficial than the text with the same content](../claims/video-rated-simpler-than-text-study2.md) [~W]
+- [Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies](../claims/review-strategies-vary-by-modality.md) [~W]
+- [Watching an instructional video on sourcing before viewing had no significant effect on source recognition or convincingness judgments](../claims/instructional-video-no-effect-source-consideration.md) [-W]
 
 ## The evidence by question
 - *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]

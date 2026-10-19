@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (28 for, 10 mixed, 4 against) · 56 studies (15 quant-synthesis, 14 causal, 7 review, 6 qualitative, 6 design, 6 theoretical, 2 associational), `q1`–`q4` · 14 of 56 report an effect size · 29 claims rest on one study
+> **Evidence** · 48 claims (29 for, 14 mixed, 5 against) · 62 studies (18 causal, 15 quant-synthesis, 7 review, 7 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 14 of 62 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,12 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [~W]
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](../claims/ai-assisted-inquiry-largest-decision-making-gains-climate.md) [~W]
 - [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](../claims/remote-case-d-full-cycle-disembodied.md) [~W]
+- [TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ](../claims/taia-perceived-support-hypothesis-argumentation.md) [+W]
+- [Direct instruction and discovery are complementary rather than opposite, linked by repetitive yet explorative practice](../claims/direct-instruction-discovery-complementary-explorative-practice.md) [~W]
+- [Teachers' guidance and support in collaborative science inquiry differed by teacher perceptions and group outcomes, and teacher affect was compounded by student affect, per the editorial's report of Pietarinen et al.](../claims/teacher-guidance-varies-perceptions-outcomes-reciprocal-affect.md) [~W]
+- [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](../claims/natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) [-W]
+- [The PISG and PSGI script sequences showed no statistically significant differences on high- and low-level inquiry processes, with small effect sizes despite descriptive trends favoring PISG on high-level processes](../claims/pisg-psgi-no-significant-inquiry-process-difference.md) [~W]
+- [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](../claims/approach-specific-process-profiles.md) [~W]
 
 ## Related Principles
 

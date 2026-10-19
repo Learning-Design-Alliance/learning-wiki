@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (1 causal, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 6 studies (2 causal, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -39,6 +39,9 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](../claims/tool-change-most-disruption-online-teaching.md) [+W]
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](../claims/hyperinteractivity-can-intensify-inequality.md) [-W]
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](../claims/hero-elementary-training-discussion-facilitation-online-resources-challenge.md) [~W]
+- [Computer-mediated (videoconferencing) collaboration leads learners to use a wider range of knowledge resources than face-to-face collaboration](../claims/videoconferencing-wider-range-of-resources.md) [~W]
+- [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](../claims/multimedia-redesign-sustains-skill-mastery-predictions.md) [~W]
+- [Digital network mapping tools support students in critically selecting and reviewing online data on socio-scientific controversies](../claims/gephi-mapping-supports-critical-data-review.md) [+W]
 
 ## Related Elements
 

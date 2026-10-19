@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (7 for, 6 mixed, 3 against) · 28 studies (12 causal, 6 quant-synthesis, 6 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 28 report an effect size · 7 claims rest on one study
+> **Evidence** · 22 claims (7 for, 12 mixed, 3 against) · 30 studies (13 causal, 6 quant-synthesis, 6 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 6 of 30 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,6 +97,15 @@ For example, a nursing student may value getting through a long clinical guideli
 ## What would revise this model?
 
 Part 1 should weaken if well-selected learner highlighting fails to improve performance on the marked content in comparable readers, or if it improves comprehension of the whole passage, against the meta-analytic and review evidence above. Part 2 is the larger gap. It would gain support from a comparison of learner-written elaborative annotations against reading, or against highlighting, with comprehension or transfer outcomes and a stated delay. It would lose support if such a comparison found no difference once reading time is matched, or if trained question generation helped while margin annotation did not. If prompts or modelling explain the whole gain, the active ingredient is the prompt, not the annotation, and the model should say so. Do not protect it by attributing every null to poor annotation quality after the fact.
+
+## Claims
+
+- [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](../claims/compliance-suggested-actions-essay-scores-mixed.md) [~W]
+- [High-learning groups show a significantly shorter time gap between initiating annotations and re-annotations than low-learning groups, indicating reduced attention distance](../claims/high-learning-groups-shorter-reannotation-time-gap.md) [~W]
+- [High- and low-learning groups do not differ significantly in the quantity or breadth of initiating annotations and re-annotations](../claims/reannotation-quantity-breadth-no-group-difference.md) [~W]
+- [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](../claims/ena-high-learning-dense-reannotation-discourse-networks.md) [~W]
+- [Initiating annotation frequency strongly correlates with re-annotation frequency across groups (Kendall's tau = 0.95)](../claims/initiating-and-reannotation-strong-correlation.md) [~W]
+- [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](../claims/annotation-engagement-no-comprehension-effect.md) [~W]
 
 ## Related Principles
 - [Note-taking](note-taking.md) — annotation is note-taking anchored directly to a source text

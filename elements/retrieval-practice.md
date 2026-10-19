@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (11 for, 1 mixed) · 11 studies (5 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 9 of 11 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (11 for, 2 mixed) · 12 studies (6 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 10 of 12 report an effect size · 10 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -47,6 +47,7 @@ Retrieval practice is the element in which learners recall information from memo
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](../claims/metacognitive-illusion-pretesting-underrated.md) [+W]
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](../claims/testing-yields-transfer-versus-reexposure-control-d-040.md) [+W]
+- [Holistic retrieval via free-recall raises self-efficacy, fully mediated by performance during retrieval practice](../claims/free-recall-raises-self-efficacy-via-perceived-success.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

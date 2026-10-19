@@ -66,7 +66,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (8 for, 20 mixed, 4 against) · 25 studies (10 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q3` · 8 of 25 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (9 for, 20 mixed, 4 against) · 26 studies (10 causal, 6 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 26 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,10 @@ The designer's objective is that learners understand what a picture shows well e
 ## What would revise this model?
 
 The expectation should weaken if new system-paced comparisons, with comparable learners and the same words and pictures, find no advantage for narration on transfer, or if the advantage disappears on delayed tests. It should narrow if the field-of-study difference turns out to reflect the kind of picture (a process diagram rather than a photograph) rather than the discipline. It should be extended, not reversed, by studies in long online courses, with second-language learners and with learners who use captions as a matter of course.
+
+## Claims
+
+- [Domain-specific interference, attributed by the embedded-processes model to similarity-based interference, underpins multimedia learning's modality benefits](../claims/domain-specific-interference-basis-of-multimedia-learning.md) [+W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

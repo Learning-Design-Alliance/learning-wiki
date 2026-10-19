@@ -15,7 +15,7 @@ grain_size: lesson
 # Think-Pair-Share
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (3 for, 11 mixed) · 32 studies (10 causal, 10 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 32 report an effect size · 4 claims rest on one study
+> **Evidence** · 15 claims (4 for, 11 mixed) · 33 studies (11 causal, 10 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 33 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -105,6 +105,10 @@ Record: **prompt and intended target → think-phase time and individual note �
 [Individual reflection](../elements/individual-reflection.md), [discussion prompt](../elements/discussion-prompt.md), [peer discussion](../elements/peer-discussion.md), [eliciting student thinking](../elements/eliciting-student-thinking.md), [sentence starters](../elements/sentence-starters.md), [class discussion](../elements/class-discussion.md) and [feedback](../elements/feedback.md). Principles the routine draws on: [Peer Discussion](../principles/peer-discussion.md), [Formative Assessment](../principles/formative-assessment.md), [Purposeful Reflection](../principles/reflection.md) and [Immediate Feedback](../principles/immediate-feedback.md).
 
 This pattern is scoped to a short routine embedded in a larger lesson. It is not a substitute for extended inquiry, seminar discussion or collaborative projects, and procedural fluency and recall need other configurations. The policy supports observation and design reasoning; the effect of the whole routine, of think time before pairing, of any phase length and of share mode on learning remains to be tested with learners.
+
+## Claims
+
+- [Learners change the direction of their assumptions more often to agree with a partner than to disagree](../claims/direction-change-more-often-to-agree.md) [+W]
 
 ## Related Patterns
 - [Peer Instruction](peer-instruction.md)

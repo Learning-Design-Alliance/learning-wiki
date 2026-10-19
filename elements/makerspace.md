@@ -13,7 +13,7 @@ generated:
 # Makerspace
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A makerspace is "an informal site for creative production in art, science, and engineering where people of all ages blend digital and physical technologies to explore ideas, learn technical skills, and create new products" (Sheridan et al., 2014, as cited in Dousay, 2017). Makerspaces sit at the intersection of [Constructivism](../theories/constructivism.md) (learning through social interaction, at the learner's own pace) and constructionism (Papert & Harel) — the idea that learning is strengthened specifically by making a tangible artifact.
@@ -49,6 +49,10 @@ Learning in a makerspace is driven by a learner-centered, self-regulated dynamic
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Students in a school-based makerspace enact four intertwined multimodal knowledge practices combining embodied action, talk, space and artifact use](../claims/four-multimodal-knowledge-practices-makerspace.md) [+W]
+- [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](../claims/multimodal-mediation-makerspace-knowledge-practices.md) [+W]
+- [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](../claims/talk-types-mediate-makerspace-knowledge-practices.md) [+W]
+- [An adjacent corridor served as an improvised spatial expansion of the makerspace mediating students' knowledge practices](../claims/corridor-improvised-spatial-expansion-makerspace.md) [~W]
 
 ## Related Elements
 - [Simulations](simulation.md)

@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (8 for, 13 mixed) · 22 studies (10 quant-synthesis, 8 causal, 3 review, 1 design), `q2`–`q4` · 9 of 22 report an effect size · 14 claims rest on one study
+> **Evidence** · 26 claims (9 for, 17 mixed) · 26 studies (11 quant-synthesis, 10 causal, 3 review, 2 design), `q2`–`q4` · 11 of 26 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -89,6 +89,14 @@ For example, a student in an undergraduate chemistry lab group may value a finis
 The expectation should weaken if comparable learners in structured groups, with both interdependence and individual accountability in place, fail to outperform matched individual or competitive conditions on individually measured, independent outcomes. If gains turn out to be carried by the individual quizzes, feedback or time on task rather than by group interaction, the model should credit those components instead. If structure without rewards works as well as rewards plus structure, as the review cited above suggests it sometimes does, drop rewards from the required core. Do not protect the model by relabelling every failure as "not real cooperative learning" after the fact; record the structure in advance.
 
 Immediate group performance, individual achievement at the end of a unit, delayed retention, collaboration skill and belonging are separate claims. The present evidence does not establish an optimal group size, composition or reward scheme, effects for adult workplace teams or online groups, or benefit for every learner in a group.
+
+## Claims
+
+- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](../claims/off-task-more-common-in-larger-making-teams.md) [~W]
+- [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](../claims/script-shifts-effort-toward-grounding.md) [~W]
+- [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
+- [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](../claims/cooperative-learning-moderates-srl-training-effects.md) [~W]
+- [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](../claims/cooperative-learning-skill-specific-ct-gains.md) [~W]
 
 ## Related Principles
 

@@ -26,7 +26,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (9 for, 16 mixed, 3 against) · 31 studies (8 causal, 7 review, 6 quant-synthesis, 5 theoretical, 4 qualitative, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (9 for, 20 mixed, 3 against) · 34 studies (9 causal, 7 review, 6 quant-synthesis, 5 qualitative, 5 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 34 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,10 @@ At the curriculum level, the expectation of a small and variable average should 
 - [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](../claims/ai-pbl-adaptive-personalized-engagement.md) [+W]
 - [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](../claims/srl-meta-analysis-publication-bias-absent.md) [~W]
+- [Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis](../claims/anomalous-data-handling-conditions-pbl.md) [~W]
+- [The PBL assumption that student-generated learning issues guide self-directed learning had never been empirically tested before this study](../claims/pbl-learning-issues-assumption-untested.md) [~W]
+- [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](../claims/pbl-discussion-mainly-theory-building.md) [~W]
+- [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](../claims/ai-pbl-high-ngain-versus-control-low.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

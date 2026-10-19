@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (7 for, 11 mixed) · 19 studies (6 review, 4 causal, 3 qualitative, 2 quant-synthesis, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (9 for, 11 mixed) · 21 studies (6 review, 5 qualitative, 4 causal, 2 quant-synthesis, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,11 @@ For example, a second-language university student may want every grammar error m
 The expectation should weaken if comparisons of full-sentence with coded or cryptic comments, or of two or three priorities with comprehensive commentary, on comparable learners and drafts, show no difference in which comments are acted on in the next draft or in later writing quality. If clearer formats change learners' ratings and never their revisions, the model is about satisfaction, not learning, and should say so. If developing writers act on comprehensive feedback as well as on a short list once they have been taught how to use it, the cap on comments is a matter of training, not of number. If an explained routine (a key, a walk-through) makes no difference to uptake beyond clear wording alone, drop step 1. Do not protect the model by calling every unrevised draft "too many comments" after the fact.
 
 Learners' ratings of feedback, their uptake in the next draft, later writing quality and their motivation to keep writing are separate outcomes. The present evidence establishes no number of comments, no wording rule and no effect of an explained feedback routine on revisions.
+
+## Claims
+
+- [Feedback Contemplators with High Emotional Strain perceived poorly structured feedback content—lacking depth, clarity, actionable information, and personalisation—as their biggest challenge in making sense of feedback](../claims/contemplators-poorly-structured-feedback-challenge.md) [+W]
+- [Students value GenAI corrective feedback with rationales and report increased motivation and confidence](../claims/genai-corrective-feedback-motivation-benefits.md) [+W]
 
 ## Related Principles
 

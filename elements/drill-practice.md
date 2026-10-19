@@ -22,7 +22,7 @@ sources:
 # Drill & Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 2 studies (1 causal, 1 theoretical), `q1`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic. It is useful when subskills need rapid, accurate execution to support later complex performance.
@@ -51,6 +51,7 @@ Drill and practice is the element in which learners repeatedly perform a focused
 - [Mechanical Drills Limited Use Meaning Form](../claims/mechanical-drills-limited-use-meaning-form.md) [+W]
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](../claims/meaningful-effortful-practice-beneficial-essential-l2.md) [+W]
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](../claims/low-salience-elements-need-extensive-practice.md) [+W]
+- [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](../claims/additional-practice-no-effect-primary-javelin.md) [-W]
 
 ## Related Elements
 - [Part-Task Practice](part-task-practice.md)

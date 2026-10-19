@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 27 studies (5 review, 5 qualitative, 5 design, 4 causal, 4 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 27 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (22 for, 12 mixed, 1 against) · 29 studies (6 review, 5 causal, 5 qualitative, 5 design, 4 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 2 of 29 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,9 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](../claims/motivation-social-presence-boost-engagement-agentic-ai.md) [+W]
 - [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](../claims/nd-nt-prefer-some-instructor-involvement-in-person.md) [~W]
 - [A significant portion of participants said they would have exited LER onboarding without live human support](../claims/live-support-prevents-ler-onboarding-exit.md) [+W]
+- [Disclosing personal histories related to course topics tends to lead to longer and deeper discussion threads, especially when instructors encourage such identity presence](../claims/identity-presence-deeper-discussion-threads.md) [+W]
+- [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](../claims/instructor-presence-perception-performance-gap.md) [~W]
+- [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](../claims/parasocial-greetings-and-co-learning-presence-in-danmaku.md) [+W]
 
 ## Related Principles
 - [Community of Inquiry](community-of-inquiry.md) — the parent framework situating social presence alongside teaching and cognitive presence

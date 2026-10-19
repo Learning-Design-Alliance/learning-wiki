@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 13 studies (5 causal, 3 review, 3 associational, 2 quant-synthesis), `q2`–`q3` · 3 of 13 report an effect size · 6 claims rest on one study
+> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 17 studies (7 causal, 4 associational, 3 review, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 17 report an effect size · 13 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -39,6 +39,13 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](../claims/teacher-aes-agree-tails-diverge-middle.md) [~W]
 - [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](../claims/rubric-wording-lower-grading-variance.md) [+W] — attached 2026-10-15 from Kulkarni et al. (2015), which proposed "Data-driven approach highlighting high-variance grading items for rubric improvement".
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](../claims/rubric-interrater-reliability-visualization-assessment.md) [+W] — attached 2026-10-18 from Francisco José Jiménez-Hornero (2026), which proposed "Two author-developed five-criterion rubrics operationalizing conceptual understanding and procedural execution in data visualization".
+- [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](../claims/rubrics-reduce-self-assessment-bias.md) [+W]
+- [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](../claims/rubric-benefits-independent-of-task-performance.md) [+W]
+- [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](../claims/rubric-benefits-independent-of-inferential-level.md) [~W]
+- [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](../claims/rubrics-improve-absolute-self-assessment-accuracy.md) [+W]
+- [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](../claims/bespoke-content-strongest-production-weakest-voice.md) [+W]
+- [Authorship scores were highly concentrated near the maximum of the rubric scale](../claims/authorship-ceiling-concentration.md) [-W]
+- [Combining the revised rubric with rationale-first evaluation yields the highest human–machine alignment, with dimension-specific gains](../claims/combined-rubric-rationale-highest-alignment.md) [+W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

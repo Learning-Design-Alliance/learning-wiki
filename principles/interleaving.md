@@ -31,7 +31,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 14 studies (7 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,8 @@ The expectation should weaken if comparisons with comparable learners find no ad
 ## Claims
 
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](../claims/learning-techniques-benefit-low-ability-not-high-ability-students.md) [~W]
+- [Interleaved practice improves delayed posttest performance compared with blocked practice](../claims/interleaved-practice-improves-posttest-performance.md) [+W]
+- [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](../claims/accuracy-decreases-mixed-block-trials.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

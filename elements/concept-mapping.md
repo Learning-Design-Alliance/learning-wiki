@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 4 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 8 studies (3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -46,6 +46,8 @@ Concept mapping is the element in which learners represent concepts and their re
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]
 - [AI-section students showed tool-linked self-efficacy and attenuated metacognitive calibration, with the human-pair contrast group showing larger concept-map gains in cross-links and hierarchy](../claims/attenuated-calibration-tool-linked-self-efficacy.md) [~W]
+- [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](../claims/concept-map-performance-age-difference.md) [~W]
+- [ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy](../claims/concept-mapping-greater-self-efficacy-gains-esl.md) [+W]
 
 ## The evidence by question
 

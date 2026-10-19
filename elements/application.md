@@ -13,7 +13,7 @@ generated:
 # Application
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 16 studies (6 causal, 3 quant-synthesis, 3 theoretical, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 17 studies (6 causal, 3 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 17 report an effect size · 6 claims rest on one study
 
 ## Description
 Application asks learners to use newly acquired knowledge and skills to perform meaningful tasks — solving problems, producing artifacts, or working through realistic scenarios — rather than merely recalling or recognizing content. It converts declarative knowledge into procedural competence by requiring learners to act on what they know under conditions that approximate real use.
@@ -56,6 +56,7 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](../claims/authentic-intellectual-work-complex-thinking-gains.md) [+W]
+- [Participation in a collaborative, project-based engineering design course produced gains only in declarative knowledge, not other knowledge types or interest](../claims/project-based-course-declarative-gain-only.md) [-W]
 
 ## The evidence by question
 

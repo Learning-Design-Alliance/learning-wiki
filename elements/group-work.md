@@ -13,7 +13,7 @@ generated:
 # Group Work
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 quant-synthesis, 2 causal, 2 qualitative, 1 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 13 studies (4 causal, 4 quant-synthesis, 3 qualitative, 1 review, 1 theoretical), `q1`–`q4` · 6 of 13 report an effect size · 6 claims rest on one study
 
 ## Description
 Group work is the element in which learners work together on a shared task, product, or problem. It is useful when the task benefits from distributed reasoning, division of labor, or collaborative sensemaking.
@@ -43,6 +43,9 @@ Group work is the element in which learners work together on a shared task, prod
 - [Collaborative Writing Improves Text Quality](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](../claims/ai-workspaces-equitable-collaborative-problem-solving.md) [+W]
+- [Specific pedagogic design characteristics supported students' joint interaction in the wiki: initial text propositions, Thinking Together preparation, a collectively created artefact, and asynchrony](../claims/pedagogic-design-characteristics-wiki-collaboration.md) [+W]
+- [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](../claims/unequal-participation-lower-satisfaction.md) [~W]
+- [Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups](../claims/cultural-diversity-cooperative-task-increases-childrens-creativity.md) [~W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

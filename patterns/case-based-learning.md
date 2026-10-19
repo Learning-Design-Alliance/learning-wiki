@@ -36,7 +36,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (16 for, 23 mixed) · 31 studies (12 causal, 6 quant-synthesis, 5 review, 3 design, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 6 of 31 report an effect size · 34 claims rest on one study
+> **Evidence** · 44 claims (18 for, 25 mixed, 1 against) · 32 studies (13 causal, 6 quant-synthesis, 5 review, 3 design, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 7 of 32 report an effect size · 39 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,11 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 ## Claims
 
 - [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
+- [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](../claims/input-before-raises-germane-lowers-extraneous-load.md) [~W]
+- [Timing of instructional input (before vs. after case comparison) did not significantly affect conceptual knowledge acquisition](../claims/input-timing-no-effect-knowledge-case-comparison.md) [~W]
+- [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](../claims/key-features-improve-explanation-in-case-comparison.md) [+W]
+- [Providing key features during case comparison reduces learning time](../claims/key-features-reduce-learning-time.md) [+W]
+- [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](../claims/no-group-difference-theory-usage-increase.md) [-W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

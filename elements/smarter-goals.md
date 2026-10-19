@@ -22,7 +22,7 @@ sources:
 # SMARTER Goals
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 SMARTER goals are a structured goal-setting element that asks learners to define goals that are specific, measurable, achievable, relevant, time-bound, evaluated, and revised or rewarded, depending on the local formulation. In this wiki, the main instructional value of SMARTER goals is not the acronym itself but the discipline it brings to making goals concrete enough to monitor and adjust.
@@ -57,7 +57,7 @@ SMARTER goals are a structured goal-setting element that asks learners to define
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [ADHD coaching helped college students with ADHD set more specific goals broken into component steps with incremental deadlines](../claims/adhd-coaching-improved-goal-attainment-process.md) [+W]
 
 ## Related Elements
 - [Assessment](assessment.md)

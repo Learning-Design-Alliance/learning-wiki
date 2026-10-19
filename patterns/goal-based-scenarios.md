@@ -20,7 +20,7 @@ grain_size: unit
 # Goal-Based Scenarios
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 12 studies (4 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 13 studies (4 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 13 report an effect size · 3 claims rest on one study
 
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario. This page serves as the canonical short-form pattern target for references that point to the GBS family without the explicit acronym.
@@ -59,10 +59,13 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 
 ### Theory
 #### Supporting
+
 - Situated learning perspectives — knowledge is more usable when learned in context.
 - Experiential learning perspectives — action, consequence, and reflection support deeper learning.
 - Goal-oriented motivation perspectives — clear missions can organize attention and persistence.
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+- [Learning in ecologically valid, authentic contexts is more rapid, durable, and transferable](../claims/authentic-contexts-improve-durability-transfer.md) [+W]
+
 #### Contradicting / Qualifying
 - Scenario immersion alone does not guarantee learning without debrief and support.
 - Scenarios need instructional discipline; immersion alone does not guarantee learning.

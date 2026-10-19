@@ -14,7 +14,7 @@ grain_size: course
 # Successive Approximation Model (SAM)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (4 quant-synthesis, 1 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 10 studies (4 quant-synthesis, 2 causal, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 SAM is an iterative design process for courses, formulated by Michael Allen as an explicit alternative to running [ADDIE](systematic-instructional-design.md) as a waterfall. Its argument is empirical rather than philosophical: the phases of a systematic process are all sound, but performing each one *completely* before starting the next means the first real evidence about whether the design works arrives after the budget is spent.
@@ -65,6 +65,8 @@ Where the scope itself is unsettled, SAM is the wrong tool and [Design Thinking]
 ### Claims
 
 - [Participant feedback in macro cycle one prompted renaming the Administrator standard to Coordinator and reordering the standards](../claims/administrator-renamed-coordinator-feedback.md) [+W]
+- [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](../claims/prototyping-exercise-promotes-idea-exchange-shared-image.md) [+W]
+- [Scheduled design cycles and peer review most successfully evoked iteration; the resources message and chat sessions were less successful](../claims/scheduled-cycles-and-peer-review-evoked-iteration-most.md) [+W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the standard each review cycle has to meet

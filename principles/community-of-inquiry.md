@@ -18,7 +18,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 19 studies (5 causal, 3 quant-synthesis, 3 review, 3 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 1 of 19 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (5 for, 10 mixed, 1 against) · 21 studies (5 causal, 4 review, 4 qualitative, 3 quant-synthesis, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 1 of 21 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,11 @@ For example, a working MBA student may value peers' judgement of how a strategy 
 The model should gain support if comparisons that vary facilitation, prompts or social-presence activities, with time and content held constant, show better individual understanding or transfer than discussion without them. It should weaken if such comparisons show no learning difference while presence ratings rise, which would make the presences descriptions of a satisfying course rather than conditions for learning. If teaching presence keeps showing no relationship with learners' regulation while peer co-regulation does, shift the emphasis from instructor facilitation to designing peer roles. Do not protect the model by calling every stalled discussion a lack of one presence after the fact.
 
 Perceived presence, the quality of the discourse, each learner's understanding at the end of the course and its later use are separate claims. The present evidence does not establish that the three presences cause learning, how much facilitation is enough, or whether the framework holds outside online postsecondary courses.
+
+## Claims
+
+- [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](../claims/resolution-promotes-collective-knowledge-advancement.md) [~W]
+- [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](../claims/role-playing-forum-interaction-pilot.md) [~W]
 
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md) — community of inquiry explains one strong form of collaborative meaning-making

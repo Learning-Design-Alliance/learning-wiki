@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 231 claims (116 for, 72 mixed, 43 against) · 164 studies (52 causal, 35 review, 20 design, 20 theoretical, 18 quant-synthesis, 10 qualitative, 9 associational), `q1`–`q4` · 33 of 164 report an effect size · 217 claims rest on one study
+> **Evidence** · 263 claims (130 for, 88 mixed, 45 against) · 186 studies (63 causal, 40 review, 22 design, 22 theoretical, 18 quant-synthesis, 11 qualitative, 10 associational), `q1`–`q4` · 39 of 186 report an effect size · 249 claims rest on one study
 
 ## Description and scope
 
@@ -239,6 +239,38 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 
 - [Multi-agent AI standardized-patient training improved OSCE-aligned exam scores](../claims/ma-scaffolding-improves-osce-exam-score.md) [+M]
 - [Role-play agent failures become more frequent after turn 6](../claims/rpla-failure-onset-second-half-of-dialogue.md) [-M]
+- [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](../claims/conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) [+W]
+- [Students' learning strategies can be detected and interpreted from activity sequences in the Betty's Brain open-ended learning environment](../claims/bettys-brain-strategy-detection-activity-sequences.md) [~W]
+- [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](../claims/pedagogical-experts-less-deep-learning-tutoring.md) [+W]
+- [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](../claims/scaffolding-alters-strategy-use-not-learning-gains.md) [~W]
+- [Pilot testing of RESPE revealed privacy concerns, difficulty reflecting on the learning process, and complaints about repetitiveness or usefulness of scaffolds](../claims/respe-pilot-privacy-reflection-repetitiveness-issues.md) [~W]
+- [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](../claims/solution-access-differs-hints-do-not.md) [~W]
+- [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](../claims/withholding-improves-output-bound-accuracy-help-seeking-not.md) [+M]
+- [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-lexical-help-use.md) [+W]
+- [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-metacognitive-help-use.md) [+W]
+- [Students perceive conversational-agent interventions as disruptive and react to the automatic disruptions differently](../claims/agent-interruptions-perceived-disruption-varies.md) [~W]
+- [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](../claims/ai-assistance-withdrawal-performance-decline.md) [~W]
+- [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](../claims/ai-assistance-performance-without-internalization.md) [-W]
+- [AI-assisted feedback does not reduce student-perceived usefulness of rated feedback](../claims/ai-assisted-feedback-preserves-student-usefulness.md) [~W]
+- [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](../claims/ai-assisted-performance-no-unassisted-transfer.md) [~W]
+- [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](../claims/ai-feedback-reduces-perceived-personal-risk.md) [+W]
+- [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](../claims/ai-performance-metacognition-dissociation.md) [~W]
+- [Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control](../claims/ai-human-tutoring-beat-control-gre-gains.md) [+W]
+- [Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes](../claims/ai-practice-less-effortful-fewer-keystrokes.md) [-W]
+- [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](../claims/ai-tutor-scale-benefit-teachers-perceive.md) [~W]
+- [Short-term gains from Air Tutors tutoring on district benchmark assessments did not persist to statewide math assessments 1 year later](../claims/air-tutors-short-term-gains-did-not-persist.md) [~W]
+- [The best AI tutors exceeded human mean learning gains in Quantitative domains while human tutoring led pooled AI means in all Verbal domains](../claims/best-ai-tutors-lead-quantitative-not-verbal-domains.md) [~W]
+- [Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap](../claims/calibration-gap-configuration-dependent.md) [+W]
+- [Ambient consumer AI use in the holdout did not close the structured-tutor gap](../claims/ambient-consumer-ai-did-not-close-tutor-gap.md) [+W]
+- [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](../claims/boundary-conditions-verification-reliance-genai.md) [~W]
+- [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](../claims/chatbot-homework-study-assistance.md) [+W]
+- [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](../claims/chatgpt-teachable-agent-fewer-submission-attempts.md) [+W]
+- [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](../claims/chatgpt-education-benefits-taxonomy.md) [+W]
+- [Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness](../claims/chatgpt-teachable-agent-code-clearness-readability.md) [+W]
+- [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](../claims/chatgpt-experimental-mean-81-81-vs-control-70-45.md) [+W]
+- [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](../claims/chatgpt-support-increases-final-confidence.md) [~W]
+- [Adaptive multi-turn interactions substantially amplify LLM vulnerabilities to conventional safety risks in educational contexts](../claims/dynamic-multi-turn-amplifies-conventional-risks.md) [~W]
+- [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](../claims/dtr-does-not-predict-tutoring-quality.md) [~W]
 
 ## Related Patterns
 

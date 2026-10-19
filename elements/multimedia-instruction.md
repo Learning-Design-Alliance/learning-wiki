@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (10 for, 3 mixed) · 20 studies (9 causal, 5 quant-synthesis, 4 review, 1 design, 1 theoretical), `q1`–`q4` · 8 of 20 report an effect size · 8 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 22 studies (9 causal, 6 quant-synthesis, 5 review, 1 design, 1 theoretical), `q1`–`q4` · 9 of 22 report an effect size · 10 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -49,6 +49,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](../claims/voice-media-outperform-picture-text-overall.md) [+W]
 - [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](../claims/outcome-constructs-test-formats-moderate-redundancy.md) [~W]
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](../claims/verbal-redundancy-small-overall-effect.md) [~W]
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](../claims/animation-small-overall-advantage-over-static-graphics.md) [~W]
+- [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](../claims/conversational-narration-style-large-learning-effect.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

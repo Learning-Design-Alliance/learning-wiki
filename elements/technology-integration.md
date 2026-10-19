@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 29 studies (9 associational, 5 design, 4 review, 4 qualitative, 3 theoretical, 2 causal, 2 quant-synthesis), `q1`–`q4` · 4 of 29 report an effect size · 27 claims rest on one study
+> **Evidence** · 48 claims (20 for, 24 mixed, 4 against) · 48 studies (10 associational, 9 qualitative, 8 causal, 7 design, 6 review, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 5 of 48 report an effect size · 46 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -53,6 +53,26 @@ Technology integration is the element in which digital tools are used in direct 
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](../claims/experts-superficial-technology-integration.md) [~W]
 - [The Jill Watson AI teaching assistant met student expectations in a Georgia Tech online course without being detected as non-human](../claims/jill-watson-ai-teaching-assistant-georgia-tech.md) [+W] — attached 2026-10-15 from Popenici et al. (2017), which proposed "Teacherbots: AI-based virtual teaching assistants for content delivery, feedback and supervision".
 - [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](../claims/chatgpt-instruction-enhanced-efl-writing-motivation.md) [+M] — attached 2026-10-15 from Song et al. (2023), which proposed "ChatGPT as an AI chatbot writing-assistance tool in EFL academic writing instruction"; tests this page's relationship.
+- [Translation students perceive GenAI tools as improving translation efficiency and translated-text quality](../claims/genai-translation-efficiency-quality-benefits.md) [~W]
+- [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](../claims/ai-assistance-raises-task-performance-larger-gains-lower-education.md) [+W]
+- [Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation](../claims/ai-assessment-integrity-bias-transparency-concerns.md) [~W]
+- [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](../claims/ai-challenges-engagement-satisfaction.md) [~W]
+- [AI-assisted feedback does not reduce student-perceived usefulness of rated feedback](../claims/ai-assisted-feedback-preserves-student-usefulness.md) [+W]
+- [AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning](../claims/ai-multimodal-monitoring-increases-engagement.md) [+W]
+- [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](../claims/ai-generated-readings-positive-perceived-value-graduate-course.md) [~W]
+- [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries](../claims/ai-questions-deepen-reflective-writing-quality.md) [+W]
+- [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](../claims/ai-technological-support-rising-quantile-pattern.md) [+W]
+- [AI-ALOE technology deployments were associated with improved adult learner outcomes, including higher course grades and retention for Jill Watson and higher-quality written work for SMART, though VERA outcomes varied by course structure](../claims/aialoe-deployments-improved-adult-learner-outcomes.md) [+W]
+- [Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula](../claims/business-students-support-genai-curriculum-integration.md) [~W]
+- [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](../claims/chatgpt-concerns-accuracy-integrity-development.md) [-W]
+- [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](../claims/chatgpt-assisted-higher-coding-performance.md) [+W]
+- [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](../claims/chatgpt-support-or-superficial-completion.md) [~W]
+- [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](../claims/chatgpt-supports-interdisciplinary-integration-ratings.md) [~W]
+- [Teachers with constructivist beliefs are more likely to integrate educational AI-based tools than teachers with transmissive orientations (reported from a South Korean teacher study)](../claims/constructivist-beliefs-predict-ai-integration.md) [+W]
+- [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](../claims/chatgpt-steam-ibl-teaching-process-advantages.md) [+W]
+- [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](../claims/critical-ai-literacy-dimension.md) [~W]
+- [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](../claims/did-2-34-mark-advantage-verified-ai-materials.md) [~W]
+- [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](../claims/cobi-privacy-and-performance-monitoring-concerns.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

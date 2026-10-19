@@ -13,7 +13,7 @@ generated:
 # Analogies and prior knowledge activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (3 review, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies (3 review, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 This element uses comparisons to familiar concepts to support understanding of new, often abstract material, and deliberately activates relevant prior knowledge before new content is introduced. The analogy supplies a source structure the learner already possesses; activation ensures that structure is actually retrieved and available for mapping onto the target concept.
@@ -52,7 +52,7 @@ Analogies support comprehension by letting learners import a known relational st
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Participants' pre-teaching conceptions of the republic conflated it with democracy or associated it with Atatürk](../claims/pre-teaching-republic-alternative-conceptions.md) [~W]
 
 ## Related Elements
 - [Analogies](analogies.md) — the comparison mechanism itself, without the activation component

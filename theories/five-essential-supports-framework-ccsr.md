@@ -25,7 +25,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 46 claims (31 for, 15 mixed) · 35 studies (21 associational, 6 qualitative, 4 review, 3 design, 1 causal), `q1`–`q3` · 2 of 35 report an effect size · 45 claims rest on one study
+> **Evidence** · 47 claims (32 for, 15 mixed) · 36 studies (21 associational, 6 qualitative, 4 review, 3 design, 2 causal), `q1`–`q3` · 2 of 36 report an effect size · 46 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -103,6 +103,7 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](../claims/sustained-weakness-one-support-few-improve.md) [+W]
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
+- [For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading](../claims/dcps-grades-6-8-gains-significant-both-subjects.md) [+W]
 
 ## The evidence by question
 - *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]

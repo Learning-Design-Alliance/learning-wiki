@@ -50,7 +50,7 @@ sources:
 # Contiguity Principle (Spatial and Temporal)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (13 for, 13 mixed) · 20 studies (6 causal, 6 review, 5 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 20 report an effect size · 21 claims rest on one study
+> **Evidence** · 29 claims (16 for, 13 mixed) · 21 studies (6 causal, 6 review, 5 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,12 @@ The designer's objective is usually an explanation of how a system works, or the
 ## What would revise this model?
 
 The expectation should weaken if new comparisons with novice learners on complex material, holding content and time equal, find no advantage for integrated or synchronised designs at a delayed test, or if the advantage disappears when separated designs give learners full control of pace. The expertise boundary needs a direct test: integrated against diagram-only versions with learners measured for prior knowledge of the specific content, on the same transfer test. If integration helps learners who report no difference in effort, that would be consistent with Schroeder & Cenkci (2020) and would revise the mechanism, not the design.
+
+## Claims
+
+- [Time to first fixation of referred-to picture elements during interpretation phases is shorter with an LDI integrated than an LDI separated audio structure](../claims/ldi-integrated-faster-first-fixation.md) [+W]
+- [The effects of LDI structure on recall and recognition of linkages are fully mediated by fixation times on the referred-to picture elements](../claims/fixation-times-fully-mediate-ldi-linkage-memory.md) [+W]
+- [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](../claims/fewer-than-half-images-direct-placement.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)
