@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (130 show a difference, 34 mixed, 19 no difference, 2 unmarked) · 147 studies (51 associational, 41 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 35 of 147 report an effect size · 173 claims rest on one study
+> **Evidence** · 187 claims (130 show a difference, 35 mixed, 20 no difference, 2 unmarked) · 148 studies (52 associational, 41 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 35 of 148 report an effect size · 175 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -234,6 +234,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](../claims/value-of-creativity-indirect-through-interest.md) [+W] — learners who differ on it differ in outcomes
 - [Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience](../claims/task-interest-stable-across-creativity-tasks.md) [+W] — learners who differ on it differ in outcomes
 - [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](../claims/goal-profiles-differ-motivation-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [No significant direct effects exist between teachers' motivation to promote SRL and students' SRL motivation](../claims/no-direct-teacher-student-motivation-effects.md) [-W] — instruction changes it
+- [Teachers' self-efficacy for SRL promotion shows significant indirect effects on students' self-efficacy, utility value and attainment value via teacher- and student-reported SRL promotion, with no indirect path to cost](../claims/indirect-effects-teacher-self-efficacy-via-srl-promotion.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

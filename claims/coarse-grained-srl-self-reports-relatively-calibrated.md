@@ -62,4 +62,5 @@ Review reports Wang (2015), a multimethod chemistry problem-solving study using 
 
 
 ## Related Claims
--
+- [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](alternative-explanations-low-correlations-strategies-tasks.md) — related
+- [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](task-specific-questionnaire-think-aloud-correlation-51.md) — related

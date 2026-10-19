@@ -62,4 +62,4 @@ Same Table 4 overview of effects for the 20 students. The article reports that f
 
 
 ## Related Claims
--
+- [In the case study, the student with the most coded activities scored highest on the questionnaire and the student with the fewest scored lowest, but all four over-rated Orienting & planning relative to their protocols](case-study-activity-count-questionnaire-trend.md) — related

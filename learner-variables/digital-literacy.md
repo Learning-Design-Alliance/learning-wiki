@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 46 claims (33 show a difference, 6 mixed, 7 no difference) · 39 studies (14 associational, 9 causal, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 8 of 39 report an effect size · 44 claims rest on one study
+> **Evidence** · 47 claims (34 show a difference, 6 mixed, 7 no difference) · 40 studies (15 associational, 9 causal, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 8 of 40 report an effect size · 45 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -79,6 +79,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](../claims/ai-literacy-aspects-support-prompt-engineering.md) [+M] — learners who differ on it differ in outcomes
 - [Digital literacy workshops ameliorate older adults' digital competence in both face-to-face and blended modalities](../claims/workshops-ameliorate-older-adult-digital-competence.md) [+M] — instruction changes it
 - [The blended workshop group increased digital competence more than the face-to-face group after the workshops](../claims/blended-group-greater-digital-competence-gain.md) [+M] — instruction changes it
+- [Verbal ability and Internet experience predict correct answering of comprehension questions about digital texts in e-learning](../claims/verbal-ability-internet-experience-predict-elearning-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

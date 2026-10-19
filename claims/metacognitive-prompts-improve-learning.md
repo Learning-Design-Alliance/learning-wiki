@@ -117,3 +117,4 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Prior CBLEs for programming education have mostly supported SRL individually while disregarding the social context's influence on regulation](programming-cbles-focus-srl-disregarding-social-context.md) — related
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — a narrower finding that bears on this claim
 - [Rule-triggered pedagogical agents increased SRL activities and learning outcomes relative to untriggered agents](rule-triggered-pedagogical-agents-srl.md) — a narrower finding that bears on this claim
+- [Self-reported metacognitive regulation of reading contributes to expository digital text comprehension in a home e-learning environment](metacognitive-regulation-digital-text-comprehension-elearning.md) — related

@@ -18,7 +18,7 @@ sources:
 # Self-Regulated Strategy Development (SRSD)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Self-Regulated Strategy Development is a structured instructional framework developed by Karen Harris and Steven Graham for teaching academic strategies and self-regulation skills, especially in writing and other achievement domains.
@@ -30,14 +30,16 @@ Self-Regulated Strategy Development is a structured instructional framework deve
 - [SRSD had potentially positive effects on writing achievement for students with a specific learning disability, with 88% of single-case experiments showing positive effects](../claims/srsd-potentially-positive-writing-achievement-sld.md) [+M]
 - [No SRSD study met WWC group design standards; 10 of 14 eligible single-case design studies met pilot standards with reservations](../claims/srsd-evidence-base-group-design-null.md) [+W]
 - [Single-case design evidence for SRSD on math achievement does not reach the WWC threshold for inclusion in effectiveness ratings](../claims/srsd-math-evidence-below-threshold.md) [-W]
+- [French fourth- and fifth-graders who received SRSD instruction produced higher-quality stories than matched peers who received regular writing instruction](../claims/srsd-improves-french-pupils-story-quality.md) [+M]
+- [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](../claims/srsd-improves-monitoring-accuracy-overestimation-persists.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Self-Regulated Strategy Development: WWC Intervention Report. (2017). What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/680
-
 <!-- merged 2026-10-10 from theories/srsd-six-stage-model ("Self-Regulated Strategy Development (SRSD): a six-stage explicit strategy-instruction model with graduated responsibility transfer"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Jonathan Fernandez, Jessica Guilbert. (2024). Self-regulated strategy development's effectiveness: underlying cognitive and metacognitive mechanisms. Metacognition and Learning (2024) 19:1091–1135. https://doi.org/10.1007/s11409-024-09398-7
 
 # Self-Regulated Strategy Development (SRSD): a six-stage explicit strategy-instruction model with graduated responsibility transfer
 

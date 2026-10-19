@@ -12,7 +12,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (45 show a difference, 14 mixed, 6 no difference, 2 unmarked) · 50 studies (15 causal, 13 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 8 of 50 report an effect size · 64 claims rest on one study
+> **Evidence** · 73 claims (50 show a difference, 15 mixed, 6 no difference, 2 unmarked) · 51 studies (15 causal, 14 associational, 8 qualitative, 7 review, 4 design, 3 theoretical), `q1`–`q4` · 9 of 51 report an effect size · 70 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -101,6 +101,12 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [English vocabulary correlates with metacognitive monitoring and control at both time points, but only with the negative emotions boredom and anxiety at T1](../claims/l2-vocabulary-correlates-metacognition-negative-emotions.md) [~W] — learners who differ on it differ in outcomes
 - [Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text](../claims/epistemic-beliefs-anger-predict-low-epistemic-processing.md) [+W] — learners who differ on it differ in outcomes
 - [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](../claims/sadness-prior-knowledge-predict-coherence-processing.md) [+W] — learners who differ on it differ in outcomes
+- [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](../claims/negative-achievement-emotions-poorer-text-comprehension.md) [~W] — learners who differ on it differ in outcomes
+- [Stronger positive emotions are associated with less underconfident postdictions, and anxiety and shame with more underconfident postdictions](../claims/emotions-postdiction-accuracy-underconfidence.md) [+W] — learners who differ on it differ in outcomes
+- [Stronger positive emotions are associated with more overconfident predictions, and stronger negative emotions (anxiety, shame, hopelessness) with more underconfident predictions](../claims/emotions-prediction-accuracy-over-underconfidence.md) [+W] — learners who differ on it differ in outcomes
+- [Students also use achievement emotions as cues when making postdictions about their comprehension](../claims/emotions-as-cues-postdictions.md) [+M] — learners who differ on it differ in outcomes
+- [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](../claims/emotions-as-cues-predictions.md) [+M] — learners who differ on it differ in outcomes
+- [Three emotion profiles (positive, neutral, negative) differ in prediction and postdiction magnitude and accuracy, with the positive group most overconfident in predictions and least underconfident in postdictions](../claims/emotion-profile-groups-judgment-differences.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

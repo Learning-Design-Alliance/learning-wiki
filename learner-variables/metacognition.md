@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (66 show a difference, 19 mixed, 13 no difference) · 70 studies (30 causal, 13 associational, 8 theoretical, 7 review, 7 qualitative, 3 quant-synthesis, 2 design), `q1`–`q4` · 21 of 70 report an effect size · 97 claims rest on one study
+> **Evidence** · 99 claims (67 show a difference, 19 mixed, 13 no difference) · 71 studies (30 causal, 14 associational, 8 theoretical, 7 review, 7 qualitative, 3 quant-synthesis, 2 design), `q1`–`q4` · 21 of 71 report an effect size · 98 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -139,6 +139,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Subjective confidence ratings did not differ between performance quartiles for university or secondary school students, failing to replicate Miller and Geraci](../claims/sojs-do-not-differ-by-performance-quartile.md) [-M] — learners who differ on it differ in outcomes
 - [Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition](../claims/teacher-monitoring-accuracy-null-differences-name-only-vs-diagram-conditions.md) [-M] — instruction changes it
 - [Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis](../claims/teacher-monitoring-accuracy-higher-name-plus-diagram-than-diagram-only.md) [+M] — instruction changes it
+- [Self-reported metacognitive regulation of reading contributes to expository digital text comprehension in a home e-learning environment](../claims/metacognitive-regulation-digital-text-comprehension-elearning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.
