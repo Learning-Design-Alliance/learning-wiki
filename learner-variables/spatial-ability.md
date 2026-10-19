@@ -3,6 +3,7 @@ type: learner-variable
 id: spatial-ability
 title: Spatial Ability
 description: "The ability to generate, retain, retrieve and transform visual and spatial images, such as mentally rotating an object or relating shapes to one another."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

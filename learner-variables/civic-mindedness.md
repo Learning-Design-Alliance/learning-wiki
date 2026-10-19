@@ -3,6 +3,7 @@ type: learner-variable
 id: civic-mindedness
 title: Civic Mindedness
 description: "A learner's sense of themselves as a contributor to their community: attending to others' needs, understanding how civic systems work and affect people, and acting with others toward shared goals."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

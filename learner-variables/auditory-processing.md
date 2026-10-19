@@ -3,6 +3,7 @@ type: learner-variable
 id: auditory-processing
 title: Auditory Processing
 description: "How the brain makes sense of the sounds that reach it through hearing: locating, distinguishing and interpreting sounds, especially speech."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

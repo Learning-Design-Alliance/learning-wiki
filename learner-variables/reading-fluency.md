@@ -3,6 +3,7 @@ type: learner-variable
 id: reading-fluency
 title: Reading Fluency
 description: "A learner's ability to read connected text accurately, at a good pace and smoothly, silently or aloud, so that attention is free for comprehension."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

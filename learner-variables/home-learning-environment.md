@@ -3,6 +3,7 @@ type: learner-variable
 id: home-learning-environment
 title: Home Learning Environment
 description: "The learning opportunities, materials, practices and attitudes a learner's home, family and community provide outside formal instruction."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

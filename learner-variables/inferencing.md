@@ -3,6 +3,7 @@ type: learner-variable
 id: inferencing
 title: Inferencing
 description: "A reader's ability to fill in what a text leaves unsaid by connecting it with background knowledge, experience and other parts of the text."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

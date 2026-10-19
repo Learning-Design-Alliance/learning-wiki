@@ -3,6 +3,7 @@ type: learner-variable
 id: phonological-awareness
 title: Phonological Awareness
 description: "A learner's ability to notice and work with the sounds of spoken language (rhymes, syllables and individual phonemes) and to process those sounds quickly when reading and spelling."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

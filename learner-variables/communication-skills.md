@@ -3,6 +3,7 @@ type: learner-variable
 id: communication-skills
 title: Communication Skills
 description: "A learner's ability to express thoughts, ideas and feelings and to understand others, through speech, sign, writing, gesture, drawing or technology, including talking about subject matter such as mathematics."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

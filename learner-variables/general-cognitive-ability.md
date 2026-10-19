@@ -3,6 +3,7 @@ type: learner-variable
 id: general-cognitive-ability
 title: General Cognitive Ability
 description: "A learner's general reasoning and problem-solving capacity, measured by intelligence or general ability tests, as it bears on learning and on how instruction works."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

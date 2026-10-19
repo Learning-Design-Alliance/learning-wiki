@@ -3,6 +3,7 @@ type: learner-variable
 id: number-sense
 title: Number Sense
 description: "A learner's understanding of numerical magnitudes and the relations among numbers, shown in tasks such as comparing two quantities or placing a number on a number line."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

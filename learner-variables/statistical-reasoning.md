@@ -3,6 +3,7 @@ type: learner-variable
 id: statistical-reasoning
 title: Statistical Reasoning
 description: "A learner's ability to reason about data and uncertainty: posing questions, collecting and organising data, and describing and drawing inferences from it."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: learner-variable
 id: social-awareness-and-relationship-skills
 title: Social Awareness and Relationship Skills
 description: "A learner's ability to understand others' perspectives and feelings and to build and keep positive relationships with peers, teachers and colleagues."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

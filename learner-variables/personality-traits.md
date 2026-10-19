@@ -3,6 +3,7 @@ type: learner-variable
 id: personality-traits
 title: Personality Traits
 description: "A learner's characteristic patterns of thinking, feeling and behaving, usually described by the Big Five: conscientiousness, openness, agreeableness, extraversion and neuroticism."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: learner-variable
 id: executive-function
 title: Executive Function
 description: "The set of control processes, inhibition, working-memory updating and cognitive flexibility, that let a learner direct attention and behaviour toward a goal."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

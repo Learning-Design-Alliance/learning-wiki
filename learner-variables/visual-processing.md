@@ -3,6 +3,7 @@ type: learner-variable
 id: visual-processing
 title: Visual Processing
 description: "The cognitive work of making sense of what the eyes take in: recognising, ordering and interpreting visual information such as letters, numbers, shapes and diagrams."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

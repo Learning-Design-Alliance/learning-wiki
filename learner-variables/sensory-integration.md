@@ -3,6 +3,7 @@ type: learner-variable
 id: sensory-integration
 title: Sensory Integration
 description: "The brain's ability to take in, organise and combine information from several senses and turn it into fitting physical and emotional responses."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

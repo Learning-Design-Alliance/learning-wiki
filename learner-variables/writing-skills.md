@@ -3,6 +3,7 @@ type: learner-variable
 id: writing-skills
 title: Writing Skills
 description: "A learner's ability to write, from the foundational skills of handwriting, spelling and conventions to composing texts in a genre and arguing from evidence."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

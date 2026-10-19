@@ -3,6 +3,7 @@ type: learner-variable
 id: epistemic-beliefs
 title: Epistemic Beliefs
 description: "A learner's beliefs about the nature of knowledge and knowing: whether knowledge is certain or tentative, simple or complex, handed down by authority or built from evidence."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: learner-variable
 id: mindset
 title: Mindset
 description: "A learner's belief about whether ability or intelligence is fixed or can grow with effort and good strategies (implicit theories of intelligence)."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

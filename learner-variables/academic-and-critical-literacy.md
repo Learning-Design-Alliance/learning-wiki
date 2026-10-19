@@ -3,6 +3,7 @@ type: learner-variable
 id: academic-and-critical-literacy
 title: Academic and Critical Literacy
 description: "A learner's command of the ways of reading, writing and reasoning used in academic disciplines and real-world domains, including questioning a text's purpose and bias."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: learner-variable
 id: safety
 title: Safety
 description: "Being, and feeling, physically and psychologically secure at home, at school or work, and in the neighbourhood and wider community."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

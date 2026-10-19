@@ -3,6 +3,7 @@ type: learner-variable
 id: social-supports
 title: Social Supports
 description: "The network of people, such as family, friends, teachers and community, that a learner has and believes they could turn to for help."
+canonical: true
 status: review
 generated:
   by: claude/unspecified
