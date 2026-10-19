@@ -125647,7 +125647,7 @@
 "description":"",
 "id":"observation-cannot-establish-a-prerequisite-edge",
 "path":"claims/observation-cannot-establish-a-prerequisite-edge.md",
-"status":"draft",
+"status":"review",
 "title":"Learner Records Rarely Establish That a Prerequisite Edge Exists",
 "type":"claim"
 },
@@ -125664,7 +125664,7 @@
 "description":"",
 "id":"observation-orients-edges-only-where-prerequisites-gate",
 "path":"claims/observation-orients-edges-only-where-prerequisites-gate.md",
-"status":"draft",
+"status":"review",
 "title":"The Orientation Statistic Read From Learner Records Is a Difficulty Sort",
 "type":"claim"
 },

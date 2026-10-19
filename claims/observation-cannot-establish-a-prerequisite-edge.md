@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Learner Records Rarely Establish That a Prerequisite Edge Exists
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-15

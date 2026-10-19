@@ -1,19 +1,14 @@
 # ============================================================================
-# EMBARGOED — staged in learning-engineering-research (private), not in the wiki.
-#
 # EVERY LEARNER IN THIS RECORD IS SIMULATED, and two observations are about
 # authored graphs rather than learners. No person is represented. Read its
 # companion, lazuli-graph-external-corpora-2026, before pooling anything from
 # here: it holds the one timing measurement of the load exponent this model
 # assumes, and the error-cost ordering below is checked against it.
 #
-# Nothing has been released, so it is corrected in place. On 2026-10-14, when
-# the release was corrected to describe Paper II only
-# (research/article/what-learner-records-can-say-about-a-prerequisite-edge.md),
-# the orientation record was brought in step with that article; it is the only
-# record here the release's evidence still names. The other records belong to
-# the earlier Paper 1 draft, their analyses are no longer declared in the
-# release, and they are kept for the maintainer's decision.
+# From research release learning-graph-budget-2026 1.0.0 (Paper II),
+# https://doi.org/10.5281/zenodo.23480842. The orientation record matches the
+# published article and is the only record here the release's evidence names;
+# the others come from an earlier draft.
 #
 # READ `provenance.source_type`: `platform-experiment`. Our own simulation of
 # our own model, not a published research finding.

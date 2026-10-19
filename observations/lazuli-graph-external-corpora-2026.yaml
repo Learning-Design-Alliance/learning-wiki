@@ -1,6 +1,4 @@
 # ============================================================================
-# EMBARGOED — staged in learning-engineering-research (private), not in the wiki.
-#
 # THE REAL-DATA HALF OF THE RELEASE. Its companion, lazuli-graph-simulation-2026,
 # is simulated; this record is where real learners appear. It carries the
 # existence results and the lag decay of the positivity estimand that the
@@ -8,12 +6,10 @@
 # measurement of the load exponent and the hint analysis) that it no longer
 # names.
 #
-# Nothing has been released, so it is corrected in place. On 2026-10-14 the
-# existence and lag records were brought in step with Paper II
-# (research/article/what-learner-records-can-say-about-a-prerequisite-edge.md),
-# when the release was corrected to describe that article only. The load and
-# hint records, and their analyses, belong to the earlier Paper 1 draft and are
-# kept for the maintainer's decision.
+# From research release learning-graph-budget-2026 1.0.0 (Paper II),
+# https://doi.org/10.5281/zenodo.23480842. The existence and lag records match
+# the published article. The load and hint records come from an earlier draft;
+# the release's evidence does not name them.
 #
 # READ `provenance.source_type` BEFORE POOLING ANYTHING: `platform-experiment`
 # — our own secondary analysis of other people's deposits, not a published

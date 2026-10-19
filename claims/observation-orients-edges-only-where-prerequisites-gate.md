@@ -1,7 +1,7 @@
 ---
 type: claim
 title: The Orientation Statistic Read From Learner Records Is a Difficulty Sort
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-15
