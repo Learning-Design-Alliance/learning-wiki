@@ -8,7 +8,7 @@ canonical: true
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-10-02
+  at: 2026-10-19
 sources:
   - id: jacobson-1995
     resource: "https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn"
@@ -39,7 +39,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 22 studies (7 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 3 of 22 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (8 for, 7 mixed, 2 against) · 22 studies (7 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 3 of 22 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 

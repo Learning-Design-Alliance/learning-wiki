@@ -8,7 +8,7 @@ canonical: true
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-10-05
+  at: 2026-10-19
 author: Ann L. Brown and Joseph C. Campione
 grain_size: course
 sources:
@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (15 for, 8 mixed) · 38 studies (13 quant-synthesis, 10 review, 6 causal, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 9 of 38 report an effect size · 12 claims rest on one study
+> **Evidence** · 23 claims (14 for, 9 mixed) · 38 studies (13 quant-synthesis, 10 review, 6 causal, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 9 of 38 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,9 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
 - Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
+- Stevens, W. D., with Kahne, J. (2006). Professional Communities and Instructional Improvement Practices: A study of small high schools in Chicago. Consortium on Chicago School Research at the University of Chicago. https://consortium.uchicago.edu/publications/professional-communities-and-instructional-improvement-practices-study-small-high
+- Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
+- Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245-281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 

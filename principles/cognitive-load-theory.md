@@ -8,7 +8,7 @@ canonical: true
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-10-01
+  at: 2026-10-19
 sources:
   - id: sweller-1998
     resource: "https://doi.org/10.1023/A:1022193728205"
@@ -31,7 +31,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (17 for, 20 mixed) · 42 studies (19 causal, 10 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 5 of 42 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (12 for, 27 mixed) · 42 studies (19 causal, 10 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 5 of 42 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
