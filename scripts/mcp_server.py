@@ -54,7 +54,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib
 
 WIKI_ROOT = Path(__file__).parent.parent
-SITE_URL = "https://learning-design-alliance.github.io/learning-wiki/"
+SITE_URL = "https://wiki.learningdesignalliance.org/"
 SERVER_INFO = {"name": "learning-wiki", "version": "1.0.0"}
 PROTOCOL_VERSIONS = ["2025-06-18", "2025-03-26", "2024-11-05"]
 
