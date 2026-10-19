@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09440-2"
     title: "Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2"
     author: Catharina Tibken, Simon P. Tiffin-Richards
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Longer first-pass reading time at the final word of the target sentence was negatively associated with consistency judgement accuracy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Longer first-pass reading time at the sentence-final word of the target sentence was negatively associated with consistency judgement accuracy (b = -0.32, z = -2.11, p =.035). [→ Catharina Tibken 2025](#catharina-tibken-2025)
@@ -26,7 +33,7 @@ sources:
 
 Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 GLMM analysis of sentence-final word measures in the eye-tracking experiment with 96 adults. The article reports "longer first-pass reading time was negatively associated with judgement accuracy" at the final word of the target sentence, while lookback probability showed no significant effect (b = 0.12, p =.105).
 

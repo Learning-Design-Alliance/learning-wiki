@@ -15,9 +15,14 @@ sources:
     author: "Jemstedt, A., Kubik, V., & Jönsson, F. U."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # EOL judgments are highly accurate when items vary widely in difficulty within a list, but poorly accurate when variation is small
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 1, EOL accuracy (gamma) was reliably higher for the high-variability list (M = .74) than the low-variability list (M = .21), d = 2.70. [→ Jemstedt 2017](#jemstedt-2017)
@@ -28,7 +33,7 @@ sources:
 
 Jemstedt, A., Kubik, V., & Jönsson, F. U. (2017). What moderates the accuracy of ease of learning judgments? Metacognition and Learning, 12, 337–355. https://doi.org/10.1007/s11409-017-9172-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Within-group experiment with 31 Stockholm University psychology students judging and learning two lists of 40 word pairs each, one high and one low in semantic-relatedness variability. The main effect of list was significant, F(1, 30) = 110.82, p < .001, with "d = 2.70" described as a very large effect size.
 

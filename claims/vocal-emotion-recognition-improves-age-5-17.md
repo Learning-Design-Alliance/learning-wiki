@@ -49,3 +49,4 @@ Cross-sectional mixed-model logistic regression on 225 participants aged 5–17 
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
 - [Confusion patterns between vocal emotions are broadly stable across development: children miscategorize anger as fear, adolescents as sadness](vocal-emotion-confusion-patterns-development.md) — related
 - [In CSCL written civic discussions, gaps exist between a composer's emotion labeling and others' emotion recognition](emotion-labeling-recognition-gap-digital-discussions.md) — related
+- [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related

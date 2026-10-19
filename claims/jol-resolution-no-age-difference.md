@@ -12,10 +12,17 @@ sources:
   - id: murphy-2024
     resource: "https://doi.org/10.1007/s11409-024-09391-0"
     title: "Murphy, D. H., Rhodes, M. G., & Castel, A. D. (2024). Age-related differences in metacognitive reactivity in younger and older adults. Metacognition and Learning, 19, 863–877. https://doi.org/10.1007/s11409-024-09391-0"
-    author: "Murphy, D. H., Rhodes, M. G., & Castel, A. D"
+    author: "Murphy, D. H., Rhodes, M. G., & Castel, A. D."
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 3
 ---
 
 # JOL resolution (relative accuracy) did not differ between younger and older adults
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` There were no significant differences in Gamma correlations between JOLs and recall between younger and older adults (d = 0.18). [→ Murphy 2024](#murphy-2024)
@@ -26,7 +33,7 @@ sources:
 
 Murphy, D. H., Rhodes, M. G., & Castel, A. D. (2024). Age-related differences in metacognitive reactivity in younger and older adults. Metacognition and Learning, 19, 863–877. https://doi.org/10.1007/s11409-024-09391-0
 
-`q3 · i0`
+`q3 · i0` · `causal · r3`
 
 Appendix analysis of the same experiment: "no significant differences in Gammas (a measure of the relative accuracy of JOLs) between younger and older adults", t(242) = 1.44, p = .152, d = 0.18, BF01 = 2.69. Mean Gammas were 0.65 for younger and 0.70 for older adults.
 

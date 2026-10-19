@@ -16,6 +16,9 @@ sources:
 
 # Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends having students compare their own problem solutions to objectively correct answers and then re-judge their performance. The authors conclude that "self-scoring may be a suitable tool to foster primary school students' monitoring accuracy and that this translates to some extent into more accurate regulation decisions." The procedure fits existing Dutch classroom practice where students complete a task, self-score it, and then decide whether to practice more or ask for help.
 

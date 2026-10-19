@@ -12,10 +12,17 @@ sources:
   - id: bjork-2016
     resource: "https://doi.org/10.1007/s11409-016-9156-8"
     title: "Bjork, R. A., & Yue, C. L. (2016). Commentary: Is disfluency desirable? Metacognition Learning, 11, 133–137. https://doi.org/10.1007/s11409-016-9156-8"
-    author: "Bjork, R. A., & Yue, C. L"
+    author: "Bjork, R. A., & Yue, C. L."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Eye tracking shows fluency does not affect recall but learners spend more time on later sentences of degraded text
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Strukelj et al. found fluency had no impact on recall, but learners spent more time on later sentences of degraded text than on earlier sentences. [→ Bjork 2016](#bjork-2016)
@@ -26,7 +33,7 @@ sources:
 
 Bjork, R. A., & Yue, C. L. (2016). Commentary: Is disfluency desirable? Metacognition Learning, 11, 133–137. https://doi.org/10.1007/s11409-016-9156-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Strukelj, Scheiter, Nystrom, and Holmqvist used eye tracking to measure how learners interacted with fluent versus degraded expository text (as summarized in this commentary). Recall was unaffected by fluency, but reading time increased on later sentences of degraded text.
 

@@ -51,3 +51,4 @@ Standard multiple regression with epistemic processing during other-side text re
 - [Participants with evaluativist epistemic beliefs are more likely to write two-sided reports than those with absolutist or multiplist epistemic beliefs](evaluativist-beliefs-two-sided-reports.md) — related
 - [Emotions reported during think-aloud reading were mostly negative (anger, sadness) for both texts, in contrast to positive questionnaire-reported emotions toward the other ethnic group](negative-think-aloud-emotions-both-texts.md) — related
 - [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](sadness-prior-knowledge-predict-coherence-processing.md) — related
+- [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related

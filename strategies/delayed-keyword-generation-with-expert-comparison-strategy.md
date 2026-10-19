@@ -16,6 +16,9 @@ sources:
 
 # Prompt learners to generate delayed keywords and then compare them with expert keywords as external standards
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that learners who need support in judging which text they understood less well generate keywords after a delay, and that providing "external standards in the form of expert keywords" after self-generation optimizes the keyword effect. In the study, learners generated five keywords per text, then compared them with expert keywords, assessing overlap; this increased relative accuracy beyond keyword generation alone, though it increased underconfidence.
 
@@ -35,7 +38,7 @@ The article recommends that learners who need support in judging which text they
 - accurate relative judgment of text comprehension to support regulation of effort allocation
 
 ### Affordances
-- [Situation Model Account Keyword Effect](../theories/situation-model-account-keyword-effect.md)
+- [Situation Model Account Keyword Effect](../theories/metacognition.md)
 
 ## Related Strategies
 - 

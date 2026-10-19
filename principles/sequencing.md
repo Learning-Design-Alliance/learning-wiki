@@ -47,7 +47,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (17 for, 20 mixed) · 31 studies (10 causal, 10 theoretical, 7 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 31 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (18 for, 20 mixed) · 32 studies (11 causal, 10 theoretical, 7 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — cited by the earlier page; about grouping material into units, not about order. It bears on this page only as the reason a stage should not hold more new elements than a novice can process; [Chunking](chunking.md) owns it.
 - [Personal connection to data supports critical data-literacy stance-taking](../claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) [~M] — attached with the folded Data Storytelling pattern (forage, remix, DIY, in the deprecated block below); it is about choosing a dataset learners have a personal stake in, not about the order of the three phases, so it bears on topic choice rather than on sequencing.
+- [Teams receiving part-task congruent representational tools (causal then simulation) outperformed teams with partly matched or mismatched tools on a complex business-economics learning task](../claims/matched-representational-tools-better-complex-task-performance.md) [+W] — attached 2026-10-19 from B. Slof et al. (2012), which proposed "Introduce qualitative representations before quantitative ones and let learners construct representations congruent with the tasks to be carried out".
 
 ## Objective and learner-valued goal
 

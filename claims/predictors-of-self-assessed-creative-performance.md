@@ -15,9 +15,14 @@ sources:
     author: "Lebuda, I., Hofer, G., & Benedek, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In hierarchical regressions, divergent thinking creativity, creative self-efficacy, creative self-concept, and task-related motivation each uniquely predicted more positive self-assessed creative performance. [→ Lebuda 2025](#lebuda-2025)
@@ -28,7 +33,7 @@ sources:
 
 Lebuda, I., Hofer, G., & Benedek, M. (2025). Determinants of creative metacognitive monitoring: creativity, personality, and task-related predictors of self-assessed ideas and creative performance. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09432-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical multiple regression (N = 425) predicting self-assessed creative performance in steps of creative ability, real-life creativity, core personality, surface personality, and task-related factors; the final model showed these four predictors with significant unique effects.
 

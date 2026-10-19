@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09196-6"
     title: "Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6"
     author: "Dave Neale & David Whitebread"
+    q: 2
+    i: 3
+    kind: associational
+    rigour: 2
   - id: dave-neale-david-whitebread-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09196-6"
     title: "Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6"
     author: "Dave Neale & David Whitebread"
+    q: 2
+    i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Maternal contingency at 12 months predicts children's effortful control at 24 months, explaining 14% unique variance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2`–`i3`
 
 ## Subclaims
 `q2 i3` A partial correlation of 12-month contingency with 24-month delay task scores, controlling for 12-month Grasping Task performance, yielded r = .38 and R2 = .14. [→ Dave Neale & David Whitebread 2019](#dave-neale-david-whitebread-2019)
@@ -31,7 +42,7 @@ sources:
 
 Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Partial correlation analysis in the longitudinal sample controlling for 12-month Grasping Task ratio, following a regression in which 12-month effortful control, contingency and directiveness explained 21% of variance in 24-month effortful control. The article reports r = .38 and "explained 14% unique variance".
 
@@ -41,7 +52,7 @@ Partial correlation analysis in the longitudinal sample controlling for 12-month
 
 Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Correlational analyses of all scaffolding variables at each time point against child effortful control and cognitive measures; the printed effect sizes were r = .36 with Grasping Task scores and r = .46 with delay task scores, with no significant correlations at 18 or 24 months.
 

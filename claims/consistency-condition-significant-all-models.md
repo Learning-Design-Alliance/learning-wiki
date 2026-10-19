@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09440-2"
     title: "Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2"
     author: Catharina Tibken, Simon P. Tiffin-Richards
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Consistency condition was significant in all GLMM models, with higher consistency judgement accuracy for consistent than inconsistent texts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Consistency condition was a significant predictor of consistency judgement accuracy in every GLMM, favoring consistent texts. [→ Catharina Tibken 2025](#catharina-tibken-2025)
@@ -26,7 +33,7 @@ sources:
 
 Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus statement of the GLMM analyses across all twelve text-area × eye-movement-measure models in the eye-tracking experiment. The article reports "consistency condition was significant in all models, with significantly higher consistency judgement accuracy for consistent, compared to inconsistent texts"; Table 3 prints condition coefficients from b = 0.73 to b = 1.27, all p <.001.
 

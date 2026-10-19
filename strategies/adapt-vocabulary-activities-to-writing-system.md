@@ -16,6 +16,9 @@ sources:
 
 # Adapt vocabulary-building activities to the writing system of the target language, adding auditory support for Arabic-script learners and visual support for spoken-word learning in alphabetic languages
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors derive a pedagogical recommendation from their modality-specific findings: vocabulary instruction in formal language classrooms should be matched to the writing system of the target language. They suggest that "providing auditory support may well enhance students' learning of written words in Arabic, while visual support aids may have the same effect on spoken word learning in alphabetic languages, ultimately improve students' pronunciation and expediting vocabulary expansion." They state that activities for vocabulary learning in formal classrooms should be adapted to the writing system of the target language, and plan future research on how vocabulary-building activities can be so adapted.
 
@@ -34,7 +37,7 @@ The authors derive a pedagogical recommendation from their modality-specific fin
 - Vocabulary acquisition, pronunciation, and metacognitively well-monitored word learning in foreign-language study
 
 ### Affordances
-- [Writing System Metacognition Account](../theories/writing-system-metacognition-account.md)
+- [Writing System Metacognition Account](../theories/metacognition.md)
 
 ## Related Strategies
 - 

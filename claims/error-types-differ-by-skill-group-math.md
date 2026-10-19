@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-021-09281-9"
     title: "Sophie Oudman, Janneke van de Pol, Tamara van Gog. (2021). Effects of self-scoring their math problem solutions on primary school students' monitoring and regulation. Metacognition and Learning (2022) 17:213–239. https://doi.org/10.1007/s11409-021-09281-9"
     author: Sophie Oudman, Janneke van de Pol, Tamara van Gog
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Low- and high-performing students make different types of errors and therefore need different kinds of support
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Low-performing students mostly made procedural errors and needed additional instruction, whereas high-performing students mostly made computational errors and needed additional practice. [→ Sophie Oudman 2021](#sophie-oudman-2021)
@@ -26,7 +33,7 @@ sources:
 
 Sophie Oudman, Janneke van de Pol, Tamara van Gog. (2021). Effects of self-scoring their math problem solutions on primary school students' monitoring and regulation. Metacognition and Learning (2022) 17:213–239. https://doi.org/10.1007/s11409-021-09281-9
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Authors' interpretation of the coded actual-need data (discussion section), based on the study's coding scheme distinguishing procedural errors (wrong strategy) from computational errors (sloppiness or lack of fluency with basic math facts).
 

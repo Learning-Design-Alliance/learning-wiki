@@ -15,9 +15,14 @@ sources:
     author: "Lebuda, I., Hofer, G., & Benedek, M."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Self-assessed creative performance correlates moderately with divergent thinking, but self-assessed idea creativity does not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Self-assessed creative performance correlated moderately with rated divergent thinking (r = .30). [→ Lebuda 2025](#lebuda-2025)
@@ -29,7 +34,7 @@ sources:
 
 Lebuda, I., Hofer, G., & Benedek, M. (2025). Determinants of creative metacognitive monitoring: creativity, personality, and task-related predictors of self-assessed ideas and creative performance. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09432-2
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Correlational analysis in the online study (N = 425) with BCa bootstrapped confidence intervals: "self-assessed creative performance correlated moderately with rated divergent thinking (max-3 score; r =.30; p <.001)" while idea self-assessment showed only a small correlation.
 

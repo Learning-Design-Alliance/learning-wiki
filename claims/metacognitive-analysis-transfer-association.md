@@ -15,9 +15,14 @@ sources:
     author: Joep van der Graaf, Lyn Lim, Yizhou Fan, Jonathan Kilgour, Johanna Moore, Dragan Gašević, Maria Bannert, Inge Molenaar
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Metacognitive analysis activities were positively associated with transfer, but metacognitive activities showed no association with essay quality
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The metacognitive activity analysis was positively associated with transfer test scores (deep, independent concepts). [→ Joep van der Graaf 2022](#joep-van-der-graaf-2022)
@@ -29,7 +34,7 @@ sources:
 
 Joep van der Graaf, Lyn Lim, Yizhou Fan, Jonathan Kilgour, Johanna Moore, Dragan Gašević, Maria Bannert, Inge Molenaar. (2022). The Dynamics Between Self-Regulated Learning and Learning Outcomes: an Exploratory Approach and Implications. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09308-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM results from the 44-participant exploratory study. The article reports the positive analysis–transfer association and no metacognition–essay association, partially supporting hypothesis H3 that metacognition relates to deep knowledge.
 

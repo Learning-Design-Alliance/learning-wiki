@@ -15,9 +15,14 @@ sources:
     author: Iordanou, K.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Microgenetic analysis showed the reflection condition diverged from the control condition in Weakening-Other usage only after reflective activities were introduced
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During the first four dialog sessions the two conditions showed comparable Weakening-Other usage; a difference appeared in the last four sessions, after reflective activities began. [→ Iordanou 2022](#iordanou-2022)
@@ -28,7 +33,7 @@ sources:
 
 Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Microgenetic examination of the eight electronic dialog sessions (pair as unit of analysis, since pairs stayed fixed). Figure 1 and Table 3 show comparable Weakening-Other usage in sessions 1–4 and greater experimental usage in sessions 5–8, which the article interprets as due to the reflective activities from the 4th to the 8th dialog session.
 

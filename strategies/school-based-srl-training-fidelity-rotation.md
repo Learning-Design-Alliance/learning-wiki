@@ -16,6 +16,9 @@ sources:
 
 # Implement SRL training in regular school with researcher-administered, fidelity-monitored sessions and rotated instructors
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article describes implementing the SRL training "alongside regular classes in school", with random allocation of participants to groups, a blocked 90-minute time slot in the regular timetable, and researchers administering all training conditions "while observed by additional researchers in order to keep the intervention fidelity high". Researchers took turns leading the training group after 2 weeks (first week observing, second week teaching) to prevent teacher effects. The authors present this as a strength for field interventions, which are generally harder to implement than laboratory studies.
 

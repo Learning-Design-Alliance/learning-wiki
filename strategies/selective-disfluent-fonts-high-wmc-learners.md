@@ -16,6 +16,9 @@ sources:
 
 # Use disfluent fonts selectively in special learning environments with learners of sufficient working memory capacity
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends cautious, targeted use of disfluent fonts rather than blanket application. The authors state that "disfluent fonts can pay off in special learning environments, for example classes with highly talented students in the middle of a learning process of one special topic". They caution that teachers face practical problems: if disfluency only pays off with medium prior knowledge and sufficient WMC, teachers cannot quickly and cheaply identify which learners will profit, and only a possibly very small part of learners may benefit. Fonts are noted as a surface characteristic that is quite easy and cheap to manipulate.
 
@@ -37,7 +40,7 @@ The article recommends cautious, targeted use of disfluent fonts rather than bla
 - Deeper processing and better retention and comprehension of text-based material
 
 ### Affordances
-- [Disfluency Metacognitive Regulation Theory](../theories/disfluency-metacognitive-regulation-theory.md)
+- [Disfluency Metacognitive Regulation Theory](../theories/metacognition.md)
 
 ## Related Strategies
 - 

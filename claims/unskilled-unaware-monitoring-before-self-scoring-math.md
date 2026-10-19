@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-021-09281-9"
     title: "Sophie Oudman, Janneke van de Pol, Tamara van Gog. (2021). Effects of self-scoring their math problem solutions on primary school students' monitoring and regulation. Metacognition and Learning (2022) 17:213–239. https://doi.org/10.1007/s11409-021-09281-9"
     author: Sophie Oudman, Janneke van de Pol, Tamara van Gog
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Before self-scoring, high-performing primary students make more accurate monitoring judgments of math problem performance than low-performing students (unskilled-and-unaware effect)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` On both multiplication and division tasks, skill group significantly predicted absolute monitoring accuracy before self-scoring, with high-performing students more accurate than low-performing students. [→ Sophie Oudman 2021](#sophie-oudman-2021)
@@ -26,7 +33,7 @@ sources:
 
 Sophie Oudman, Janneke van de Pol, Tamara van Gog. (2021). Effects of self-scoring their math problem solutions on primary school students' monitoring and regulation. Metacognition and Learning (2022) 17:213–239. https://doi.org/10.1007/s11409-021-09281-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Multilevel regression analysis of judgments from fourth-grade students (495 multiplication, 359 division analyses) across two days, comparing low- versus high-performing quartiles. The study found "high-performing students making more accurate monitoring judgments than low-performing students" on both tasks; low performers substantially overestimated (multiplication monitoring bias M = 1.34).
 

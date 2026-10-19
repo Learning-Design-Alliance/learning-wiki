@@ -12,10 +12,17 @@ sources:
   - id: polyanskaya-2024
     resource: "https://doi.org/10.1007/s11409-024-09380-3"
     title: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M. (2024). The effect of writing script on efficiency and metacognitive monitoring in inferential word learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09380-3"
-    author: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M"
+    author: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M."
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Linguistic group and perceptual modality show a significant disordinal interaction in metacognition: Arabic speakers monitor better in the auditory modality, Chinese speakers in the visual modality
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Metacognition is higher in the auditory than visual modality among Arabic speakers, whereas the pattern is reversed for Chinese speakers; the group*modality interaction on meta-d' was significant (η²p = 0.121). [→ Polyanskaya 2024](#polyanskaya-2024)
@@ -26,7 +33,7 @@ sources:
 
 Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M. (2024). The effect of writing script on efficiency and metacognitive monitoring in inferential word learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09380-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 The experiment's omnibus group*modality interaction on meta-d' was significant with printed effect size η²p = 0.121 (medium-to-large), and the authors characterise it as a significant and strong disordinal interaction, with opposite modality patterns in the Arabic and Chinese groups.
 

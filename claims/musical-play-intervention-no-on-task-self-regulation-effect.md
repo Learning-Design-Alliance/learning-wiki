@@ -15,9 +15,14 @@ sources:
     author: "Zachariou, A., Bonneville-Roussy, A., Hargreaves, D., & Neokleous, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No intervention effect on directly observed on-task self-regulation in the musical play study
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No group × time interaction was found on any on-task self-regulation observational measure or its three areas, so there was no indication of an intervention effect on directly observed self-regulation. [→ Zachariou 2023](#zachariou-2023)
@@ -28,7 +33,7 @@ sources:
 
 Zachariou, A., Bonneville-Roussy, A., Hargreaves, D., & Neokleous, R. (2023). Exploring the effects of a musical play intervention on young children's self-regulation and metacognition. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09342-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Coded utterance-level observations of the Train Track Task using the C.Ind.Le scheme at pre- and post-test; multivariate repeated-measures ANCOVA found no time, group or interaction effects, and the authors state "there was no indication of an intervention effect on on-task self-regulation".
 

@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11409-022-09315-w"
     title: "Juan-Carlos Pérez-González, Gemma Filella, Anna Soldevila, Yasmine Faiad, Maria-Jose Sanchez-Ruiz. (2022). Integrating self-regulated learning and individual differences in the prediction of university academic achievement across a three-year-long degree. Metacognition and Learning (2022) 17:1141–1165. https://doi.org/10.1007/s11409-022-09315-w"
     author: Juan-Carlos Pérez-González, Gemma Filella, Anna Soldevila, Yasmine Faiad, Maria-Jose Sanchez-Ruiz
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A latent global non-cognitive factor predicts a latent three-year GPA factor, explaining 27–29% of its variance
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+
 ## Subclaims
-`q3 i?` Two nested SEMs, with a latent non-cognitive predictor regressed on a latent GPA factor, each showed good fit and explained 27–29% of GPA variance. [→ Juan-Carlos Pérez-González 2022](#juan-carlos-pérez-gonzález-2022)
+`q3 i?` Two nested SEMs, with a latent non-cognitive predictor regressed on a latent GPA factor, each showed good fit and explained 27–29% of GPA variance. [→ Juan-Carlos Pérez-González 2022](#juan-carlos-perez-gonzalez-2022)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Juan-Carlos Pérez-González, Gemma Filella, Anna Soldevila, Yasmine Faiad, Maria-Jose Sanchez-Ruiz. (2022). Integrating self-regulated learning and individual differences in the prediction of university academic achievement across a three-year-long degree. Metacognition and Learning (2022) 17:1141–1165. https://doi.org/10.1007/s11409-022-09315-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Comparison of the two fitted SEMs (n = 386): the theory-driven MABC model (Model 1) explained 29% of latent GPA variance with PCFI = 0.49; the narrower MA model explained 27% with PCFI = 0.42. Both showed good fit on RMSEA, TLI and CFI.
 

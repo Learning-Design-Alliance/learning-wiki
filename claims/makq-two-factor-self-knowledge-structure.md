@@ -47,3 +47,4 @@ Exploratory factor analysis (maximum likelihood, oblimin rotation, loading cut-o
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](makq-strategy-knowledge-inhibitory-control.md) — related
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md) — related
+- [The metacognitive scale yields two factors: Global/Monitoring and Problem Solving](metacognitive-scale-two-factors-global-monitoring-problem-solving.md) — related

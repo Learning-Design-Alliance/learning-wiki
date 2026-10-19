@@ -12,10 +12,17 @@ sources:
   - id: murphy-2024
     resource: "https://doi.org/10.1007/s11409-024-09391-0"
     title: "Murphy, D. H., Rhodes, M. G., & Castel, A. D. (2024). Age-related differences in metacognitive reactivity in younger and older adults. Metacognition and Learning, 19, 863–877. https://doi.org/10.1007/s11409-024-09391-0"
-    author: "Murphy, D. H., Rhodes, M. G., & Castel, A. D"
+    author: "Murphy, D. H., Rhodes, M. G., & Castel, A. D."
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Exploratory analyses suggest older adults' negative reactivity was specific to unrelated word pairs, with no reactivity for related pairs in either age group
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In exploratory post hoc tests, making JOLs impaired recall for unrelated words in older adults (d = 0.54) but did not impact recall for related words in older adults or for either pair type in younger adults. [→ Murphy 2024](#murphy-2024)
@@ -26,7 +33,7 @@ sources:
 
 Murphy, D. H., Rhodes, M. G., & Castel, A. D. (2024). Age-related differences in metacognitive reactivity in younger and older adults. Metacognition and Learning, 19, 863–877. https://doi.org/10.1007/s11409-024-09391-0
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Exploratory post hoc tests following a non-significant three-way interaction: for older adults, JOLs impaired recall of unrelated words, "t(223) = 4.01, p < .001, d = 0.54"; JOLs did not impact recall for related words in older adults (d = 0.21, p = .120) or either type in younger adults.
 

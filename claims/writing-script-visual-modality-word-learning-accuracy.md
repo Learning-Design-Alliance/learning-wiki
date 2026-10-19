@@ -12,14 +12,25 @@ sources:
   - id: polyanskaya-2024
     resource: "https://doi.org/10.1007/s11409-024-09380-3"
     title: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M. (2024). The effect of writing script on efficiency and metacognitive monitoring in inferential word learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09380-3"
-    author: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M"
+    author: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M."
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 1
   - id: polyanskaya-2024-2
     resource: "https://doi.org/10.1007/s11409-024-09380-3"
     title: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M. (2024). The effect of writing script on efficiency and metacognitive monitoring in inferential word learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09380-3"
-    author: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M"
+    author: "Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Inferential word learning accuracy differs between Arabic, Chinese and Portuguese speakers only in the visual modality, with Arabic speakers lower than both Chinese and Portuguese speakers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In the visual modality, Arabic speakers' word-learning accuracy was lower than that of Chinese speakers (d = 0.612) and Portuguese speakers (d = 0.713), while Chinese and Portuguese did not differ significantly. [→ Polyanskaya 2024](#polyanskaya-2024)
@@ -31,7 +42,7 @@ sources:
 
 Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M. (2024). The effect of writing script on efficiency and metacognitive monitoring in inferential word learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09380-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Mixed-design ANOVA on accuracy (group between-subject, modality within-subject) in the experiment with 84 Arabic, 70 Chinese and 72 Portuguese speakers. The visual-modality group effect was significant with printed effect size η²p = 0.096 (medium), and Arabic speakers scored lower than Chinese (d = 0.612) and Portuguese (d = 0.713) speakers; Chinese vs Portuguese was not significant (p = 0.547).
 
@@ -41,7 +52,7 @@ Mixed-design ANOVA on accuracy (group between-subject, modality within-subject) 
 
 Polyanskaya, L., El-Dakhs, D. A. S., Tao, M., Chu, F., & Ordin, M. (2024). The effect of writing script on efficiency and metacognitive monitoring in inferential word learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09380-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Separate ANOVA on accuracy in the auditory modality of the same inferential word-learning experiment found no significant group differences, "F(2,223) = 1.329, p = 0.267"; equivalence was not tested.
 

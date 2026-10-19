@@ -13,7 +13,7 @@ generated:
 # Metacognitive Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 mixed) · 2 studies (1 associational, 1 qualitative), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next. It is useful when the goal is to make reflection more explicitly about thinking and strategy, not just about feelings or outcomes.
@@ -38,6 +38,7 @@ Metacognitive reflection is the element in which learners examine how they thoug
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](../claims/plc-metacognition-lower-and-higher-levels.md) [~W]
 - [The indirect effect of GenAI use on critical thinking via feedback literacy is conditional on reflective thinking, strengthening as reflectivity rises](../claims/moderated-mediation-indirect-effect-conditional-reflective-thinking.md) [~W]
+- [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](../claims/reflection-boosts-weakening-other-argument-skill.md) [+W] — attached 2026-10-19 from Iordanou (2022), which proposed "Reflection sheets prompting reflection on one's own dialog transcript during argumentation"; tests this page's relationship.
 
 ## Related Elements
 - [Reflection Activities](reflection-activities.md)

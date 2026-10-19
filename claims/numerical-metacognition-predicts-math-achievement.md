@@ -71,3 +71,4 @@ Metacognition measures were not correlated with KBIT-2 general intelligence (emo
 - [Self-regulation and metacognition correlate strongly with mathematics achievement (r = .42 and .37)](self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md) — a broader claim this one bears on
 - [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](metacognition-not-risk-preference-or-response-time.md) — related
 - [Children aged 5 to 8 show metacognitive sensitivity in a nonverbal wagering task, betting more on correct than incorrect discriminations](young-children-metacognitive-wagering-task.md) — related
+- [Metacognitive efficiency shows partial domain-general structure: strong shared metacognition between lexical decision and emotion recognition tasks](partial-domain-general-metacognition-early-readers.md) — related

@@ -16,6 +16,9 @@ sources:
 
 # Teachers should make task demands explicit, compelling, varied, and metacognitively supported when assigning text-study tasks
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 From the finding that tenth-graders show limited task awareness, the authors derive four instructional suggestions: provide sufficient information about intended task demands aligned with the tasks ultimately set; make task demands "convincing and compelling enough" so students cannot succeed with routine strategies alone; vary the types of study tasks (e.g., memorization versus deep comprehension, different disciplinary perspectives); and give metacognitive support by asking students to judge the importance of text units and explain their judgments. The article states students must learn that author-based, reader-based, and instruction-based relevance criteria exist.
 

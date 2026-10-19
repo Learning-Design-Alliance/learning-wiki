@@ -16,6 +16,9 @@ sources:
 
 # Help teachers ignore non-diagnostic cues to improve judgment accuracy of students' monitoring
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends targeting teachers' cue use rather than only their knowledge: 'To further improve teachers' ability to accurately judge students' monitoring, it may be worthwhile to help teachers ignore non-diagnostic cues.' The strategy builds on the Lens Model assumption that judgments are more accurate when diagnostic cues are used and non-diagnostic cues are ignored, and on the study's finding that even accurate judgments involved non-diagnostic cues such as students' IQ and reading self-concept. It is offered as a direction for improving teachers' judgment accuracy of students' monitoring skills.
 

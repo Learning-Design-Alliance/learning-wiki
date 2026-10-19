@@ -15,12 +15,17 @@ sources:
     author: Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Adapting the scoring mechanism substantially reduced ceiling effects found in the pilot study
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r3` · `q2`
+
 ## Subclaims
-`q2 i?` The revised two-point scoring scheme reduced ceiling effects from six scales in the pilot to two scales in Validation Study 1. [→ Laura Dörrenbächer-Ulrich 2024](#laura-dörrenbächer-ulrich-2024)
+`q2 i?` The revised two-point scoring scheme reduced ceiling effects from six scales in the pilot to two scales in Validation Study 1. [→ Laura Dörrenbächer-Ulrich 2024](#laura-dorrenbacher-ulrich-2024)
 
 ## Evidence
 
@@ -28,7 +33,7 @@ sources:
 
 Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels. (2024). Knowing how to learn: development and validation of the strategy knowledge test for self-regulated learning (SKT-SRL) for college students. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09379-w
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Comparison of ceiling-effect percentages across the pilot (N = 143) and Validation Study 1 (N = 99) after revising scoring so differences of 2 or 3 points earned 2 points instead of 1, aiming to better represent differing knowledge levels.
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-010-9067-z"
     title: "Gonny L. M. Schellings & Hein Broekkamp. (2011). Signaling task awareness in think-aloud protocols from students selecting relevant information from text. Metacognition and Learning 6:65–82. https://doi.org/10.1007/s11409-010-9067-z"
     author: "Gonny L. M. Schellings & Hein Broekkamp"
+    q: 3
+    i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The most prevalent verbalization type was labeling text parts as important without stating any reason for selection
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Short utterances that merely valued text information (e.g., 'this is important') without clarifying why were the most common verbalization category, occurring 101 times across 27 of the 36 protocols. [→ Gonny L. M. Schellings & Hein Broekkamp 2011](#gonny-l-m-schellings-hein-broekkamp-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gonny L. M. Schellings & Hein Broekkamp. (2011). Signaling task awareness in think-aloud protocols from students selecting relevant information from text. Metacognition and Learning 6:65–82. https://doi.org/10.1007/s11409-010-9067-z
 
-`q3 · i?`
+`q3 · i?` · `qualitative · r2`
 
 Coding of the 36 think-aloud protocols showed labeling utterances (valuing text parts without reasons) were most frequent: 101 occurrences in 27 protocols, up to 20 in one protocol. These verbalizations did not indicate why text information was considered important.
 

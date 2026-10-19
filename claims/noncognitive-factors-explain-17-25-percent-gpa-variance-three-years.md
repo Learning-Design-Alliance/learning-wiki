@@ -13,12 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11409-022-09315-w"
     title: "Juan-Carlos Pérez-González, Gemma Filella, Anna Soldevila, Yasmine Faiad, Maria-Jose Sanchez-Ruiz. (2022). Integrating self-regulated learning and individual differences in the prediction of university academic achievement across a three-year-long degree. Metacognition and Learning (2022) 17:1141–1165. https://doi.org/10.1007/s11409-022-09315-w"
     author: Juan-Carlos Pérez-González, Gemma Filella, Anna Soldevila, Yasmine Faiad, Maria-Jose Sanchez-Ruiz
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+
 ## Subclaims
-`q3 i?` Non-cognitive predictors (academic engagement, academic self-efficacy, regulation of behavior and context, conscientiousness) alone explained 17–25% of GPA variance across the three years. [→ Juan-Carlos Pérez-González 2022](#juan-carlos-pérez-gonzález-2022)
+`q3 i?` Non-cognitive predictors (academic engagement, academic self-efficacy, regulation of behavior and context, conscientiousness) alone explained 17–25% of GPA variance across the three years. [→ Juan-Carlos Pérez-González 2022](#juan-carlos-perez-gonzalez-2022)
 
 ## Evidence
 
@@ -26,7 +33,7 @@ sources:
 
 Juan-Carlos Pérez-González, Gemma Filella, Anna Soldevila, Yasmine Faiad, Maria-Jose Sanchez-Ruiz. (2022). Integrating self-regulated learning and individual differences in the prediction of university academic achievement across a three-year-long degree. Metacognition and Learning (2022) 17:1141–1165. https://doi.org/10.1007/s11409-022-09315-w
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish undergraduates: the three non-cognitive variables were significant predictors, with "adjusted R2 = 0.25". Comparable Step 1 models for years 2 and 3 yielded adjusted R² of 0.22 and 0.17.
 

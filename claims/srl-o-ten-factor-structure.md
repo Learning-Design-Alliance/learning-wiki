@@ -12,14 +12,25 @@ sources:
   - id: broadbent-2023
     resource: "https://doi.org/10.1007/s11409-022-09319-6"
     title: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M. (2023). The self-regulation for learning online (SRL-O) questionnaire. Metacognition and Learning, 18, 135–163. https://doi.org/10.1007/s11409-022-09319-6"
-    author: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M"
+    author: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M."
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 3
   - id: broadbent-2023-2
     resource: "https://doi.org/10.1007/s11409-022-09319-6"
     title: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M. (2023). The self-regulation for learning online (SRL-O) questionnaire. Metacognition and Learning, 18, 135–163. https://doi.org/10.1007/s11409-022-09319-6"
-    author: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M"
+    author: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M."
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The SRL-O has a 10-factor structure covering motivational beliefs and learning strategies for online learners
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Exploratory factor analysis in a sample of 313 students yielded ten distinct factors accounting for 59% of shared variance among items. [→ Broadbent 2023](#broadbent-2023)
@@ -31,7 +42,7 @@ sources:
 
 Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M. (2023). The self-regulation for learning online (SRL-O) questionnaire. Metacognition and Learning, 18, 135–163. https://doi.org/10.1007/s11409-022-09319-6
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Exploratory factor analysis (maximum likelihood, oblique rotation) of 44 retained items in a training sample of 313 university students. The ten factors represent online self-efficacy, intrinsic and extrinsic motivation, negative achievement emotion, planning and time management, metacognition, study environment, effort regulation, social support, and task strategies; "these ten distinct factors accounted for 59% of the shared variance among these items".
 
@@ -41,7 +52,7 @@ Exploratory factor analysis (maximum likelihood, oblique rotation) of 44 retaine
 
 Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M. (2023). The self-regulation for learning online (SRL-O) questionnaire. Metacognition and Learning, 18, 135–163. https://doi.org/10.1007/s11409-022-09319-6
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Confirmatory factor analysis in a non-duplicate hold-out sample of 321 students validated the ten-factor solution after adding seven theoretically plausible item covariances identified via modification indices; the revised model "had acceptable fit" with CFI = 0.901 and RMSEA = 0.048.
 

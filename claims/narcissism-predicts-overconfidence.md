@@ -15,15 +15,22 @@ sources:
     author: "de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: de-bruin-2017-2
     resource: "https://doi.org/10.1007/s11409-016-9159-5"
     title: "de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21–43. https://doi.org/10.1007/s11409-016-9159-5"
     author: "de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Grandiose narcissism predicted overconfidence in exam score predictions at both time points, while vulnerable narcissism predicted less overconfidence only at course start and optimism was unrelated
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Higher NPI (grandiose narcissism) scores were significantly positively related to overconfidence at t=0 and t=2; HSNS (vulnerable narcissism) was negatively related at t=0 only; LOT-R optimism was not significantly related at either time. [→ de Bruin 2017](#de-bruin-2017)
@@ -34,7 +41,7 @@ sources:
 
 de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21–43. https://doi.org/10.1007/s11409-016-9159-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multiple regression analyses at t=0 and t=2 with absolute accuracy as dependent variable and NPI, HSNS, LOT-R, language and sex as predictors (t=0 multilevel with random course intercept). At t=0, NPI: B = 0.011, p = .001; HSNS: B = −0.153, p = .008.
 
@@ -44,7 +51,7 @@ Multiple regression analyses at t=0 and t=2 with absolute accuracy as dependent 
 
 de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21–43. https://doi.org/10.1007/s11409-016-9159-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multiple regression on absolute accuracy during the Monitoring Exercise (t=1a) found no significant personality effects; the article notes this analysis was based on a rather small number of participants.
 

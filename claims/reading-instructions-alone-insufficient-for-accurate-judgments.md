@@ -15,9 +15,14 @@ sources:
     author: "Knellesen, J., Händel, M., & Golke, S."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Reading instructions without further instructional support are not sufficient to help students accurately judge their text comprehension
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors conclude that reading instructions without further support did not reliably debias comprehension judgments and that text characteristics may moderate instruction effects. [→ Knellesen 2024](#knellesen-2024)
@@ -28,7 +33,7 @@ sources:
 
 Knellesen, J., Händel, M., & Golke, S. (2024). Effects of reading instructions on pre-service teachers' judgment bias when learning from texts. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09371-w
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 The authors' overall interpretation across both experiments, stated in the general discussion. This is the authors' conclusion drawn from the mixed pattern of hypothesis tests, not an additional statistical result; no effect size is printed for this summary statement.
 

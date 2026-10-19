@@ -15,9 +15,14 @@ sources:
     author: "de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Monitoring accuracy in exam score predictions and in key-term definition judgments during the Monitoring Exercise were uncorrelated, suggesting different cues underlie the two measures
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Absolute accuracy at t=0 did not correlate significantly with absolute accuracy during the Monitoring Exercise (r = .15, p = .18). [→ de Bruin 2017](#de-bruin-2017)
@@ -28,7 +33,7 @@ sources:
 
 de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21–43. https://doi.org/10.1007/s11409-016-9159-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Correlational analysis within the intervention study comparing the two monitoring accuracy measures; the article interprets the non-significant correlation as indicating the measures draw on partially different cues.
 

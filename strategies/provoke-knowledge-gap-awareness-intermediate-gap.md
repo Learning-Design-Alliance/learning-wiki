@@ -16,6 +16,9 @@ sources:
 
 # Provoke learners' awareness of their knowledge gap and prompt frequent knowledge-level evaluation to target the intermediate gap
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article draws an educational implication from its finding that the Not Sure metacognitive state predicts learning: educators should make learners aware of what they do not yet know, and learners should regularly assess their own knowledge levels to locate an intermediate gap. As the authors write, "educators could explicitly provoke learners' awareness of their knowledge gap to boost learning, whereas learners could frequently evaluate their knowledge levels to identify an intermediate gap to maximise learning". This operationalises the region of proximal learning account in classroom practice.
 
@@ -38,7 +41,7 @@ The article draws an educational implication from its finding that the Not Sure 
 - maximising learning efficiency
 
 ### Affordances
-- [Knowledge Vs Correctness Confidence Distinction](../theories/knowledge-vs-correctness-confidence-distinction.md)
+- [Knowledge Vs Correctness Confidence Distinction](../theories/metacognition.md)
 
 ## Related Strategies
 - 

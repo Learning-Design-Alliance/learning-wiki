@@ -15,15 +15,22 @@ sources:
     author: "Lebuda, I., Hofer, G., & Benedek, M."
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
   - id: lebuda-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09432-2"
     title: "Lebuda, I., Hofer, G., & Benedek, M. (2025). Determinants of creative metacognitive monitoring: creativity, personality, and task-related predictors of self-assessed ideas and creative performance. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09432-2"
     author: "Lebuda, I., Hofer, G., & Benedek, M."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Self-assessed creative performance is slightly underestimated while self-assessed idea creativity is moderately overestimated
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0`–`i2`
 
 ## Subclaims
 `q2 i0` Bias in self-assessed creative performance corresponds to a significant but very small underestimation (d = -0.19). [→ Lebuda 2025](#lebuda-2025)
@@ -35,7 +42,7 @@ sources:
 
 Lebuda, I., Hofer, G., & Benedek, M. (2025). Determinants of creative metacognitive monitoring: creativity, personality, and task-related predictors of self-assessed ideas and creative performance. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09432-2
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 In the online study (N = 425), bias was computed by subtracting sample DT percentile from performance self-assessment; the article reports "a significant, but very small underestimation (d = -0.19, 95% BCa CI [-0.28, -0.09])".
 
@@ -45,7 +52,7 @@ In the online study (N = 425), bias was computed by subtracting sample DT percen
 
 Lebuda, I., Hofer, G., & Benedek, M. (2025). Determinants of creative metacognitive monitoring: creativity, personality, and task-related predictors of self-assessed ideas and creative performance. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09432-2
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Response-level bias was computed by subtracting external raters' creativity ratings from participants' self-ratings of their own ideas; the article reports "a significant, moderate overestimation (d = 0.74, 95% BCa CI [0.64, 0.84])".
 

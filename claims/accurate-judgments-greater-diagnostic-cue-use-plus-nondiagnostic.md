@@ -15,9 +15,14 @@ sources:
     author: "van de Pol, J., & Oudman, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When making accurate judgments, teachers used diagnostic cues to a greater extent than when making inaccurate judgments, yet also used two non-diagnostic cues: students' IQ and self-concept regarding reading comprehension. [→ van de Pol 2024](#van-de-pol-2024)
@@ -28,7 +33,7 @@ sources:
 
 van de Pol, J., & Oudman, S. (2024). Teachers' judgment accuracy of students' monitoring skills: a conceptual and methodological framework and explorative study. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09349-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Explorative study of 46 secondary teachers judging 406 students; the article reports that accurate judgments involved greater use of diagnostic cues, but also use of the non-diagnostic cues students' IQ and reading self-concept. No effect size is printed in the supplied text.
 

@@ -15,19 +15,26 @@ sources:
     author: Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
   - id: laura-dörrenbächer-ulrich-2024-2
     resource: "https://doi.org/10.1007/s11409-024-09379-w"
     title: "Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels. (2024). Knowing how to learn: development and validation of the strategy knowledge test for self-regulated learning (SKT-SRL) for college students. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09379-w"
     author: Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The SKT-SRL correlates moderately with self-reported SRL strategy usage (convergent validity)
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+
 ## Subclaims
-`q2 i?` The SKT-SRL total score correlated substantially with the SRL questionnaire total (r = 0.32 in the pilot), with convergent subscale correlations higher than divergent ones. [→ Laura Dörrenbächer-Ulrich 2024](#laura-dörrenbächer-ulrich-2024)
-`q2 i?` In Validation Study 1, moderate convergent correlations appeared for the metacognitive and motivational subscales but not the cognitive subscale. [→ Laura Dörrenbächer-Ulrich 2024 (2)](#laura-dörrenbächer-ulrich-2024-2)
+`q2 i?` The SKT-SRL total score correlated substantially with the SRL questionnaire total (r = 0.32 in the pilot), with convergent subscale correlations higher than divergent ones. [→ Laura Dörrenbächer-Ulrich 2024](#laura-dorrenbacher-ulrich-2024)
+`q2 i?` In Validation Study 1, moderate convergent correlations appeared for the metacognitive and motivational subscales but not the cognitive subscale. [→ Laura Dörrenbächer-Ulrich 2024 (2)](#laura-dorrenbacher-ulrich-2024-2)
 
 ## Evidence
 
@@ -35,7 +42,7 @@ sources:
 
 Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels. (2024). Knowing how to learn: development and validation of the strategy knowledge test for self-regulated learning (SKT-SRL) for college students. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09379-w
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Pilot study (N = 143 teacher education students) correlating SKT-SRL scores with a 53-item SRL questionnaire; total-scale correlation was r = 0.32, with convergent subscale correlations (0.18–0.33) numerically exceeding divergent ones.
 
@@ -45,7 +52,7 @@ Pilot study (N = 143 teacher education students) correlating SKT-SRL scores with
 
 Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels. (2024). Knowing how to learn: development and validation of the strategy knowledge test for self-regulated learning (SKT-SRL) for college students. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09379-w
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Validation Study 1 (N = 99) replicated convergent validity for metacognitive and motivational subscales; the cognitive subscale did not show the expected convergent correlation, possibly influenced by the questionnaire's low cognitive-subscale reliability (α = 0.57).
 

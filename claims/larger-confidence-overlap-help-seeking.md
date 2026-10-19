@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-021-09259-7"
     title: "Monika Undorf, Iris Livneh, Rakefet Ackerman. (2021). Metacognitive control processes in question answering: help seeking and withholding answers. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09259-7"
     author: Monika Undorf, Iris Livneh, Rakefet Ackerman
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # The overlap in confidence ranges between submitted answers and strategy use is larger for help seeking than for withholding answers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 1, the overlap in confidence range was larger in the help-seeking than in the don't-know condition, t(50) = 3.40, p = 0.001, d = 0.94. [→ Monika Undorf 2021](#monika-undorf-2021)
@@ -26,7 +33,7 @@ sources:
 
 Monika Undorf, Iris Livneh, Rakefet Ackerman. (2021). Metacognitive control processes in question answering: help seeking and withholding answers. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09259-7
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 (54 undergraduates, between-participants design) compared confidence ranges associated with submitting versus using the available strategy, shown in Fig. 1. The overlap was "larger in the help-seeking than in the don't-know condition, t(50) = 3.40, p = 0.001, d = 0.94".
 

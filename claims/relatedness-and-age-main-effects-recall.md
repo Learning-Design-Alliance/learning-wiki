@@ -12,10 +12,17 @@ sources:
   - id: murphy-2024
     resource: "https://doi.org/10.1007/s11409-024-09391-0"
     title: "Murphy, D. H., Rhodes, M. G., & Castel, A. D. (2024). Age-related differences in metacognitive reactivity in younger and older adults. Metacognition and Learning, 19, 863–877. https://doi.org/10.1007/s11409-024-09391-0"
-    author: "Murphy, D. H., Rhodes, M. G., & Castel, A. D"
+    author: "Murphy, D. H., Rhodes, M. G., & Castel, A. D."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 3
 ---
 
 # Related word pairs were far better recalled than unrelated pairs, while younger and older adults recalled a similar overall proportion of pairs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Related word pairs were better recalled (M = 0.86) than unrelated word pairs (M = 0.40), a very large effect (d = 2.03). [→ Murphy 2024](#murphy-2024)
@@ -26,7 +33,7 @@ sources:
 
 Murphy, D. H., Rhodes, M. G., & Castel, A. D. (2024). Age-related differences in metacognitive reactivity in younger and older adults. Metacognition and Learning, 19, 863–877. https://doi.org/10.1007/s11409-024-09391-0
 
-`q3 · i3`
+`q3 · i3` · `causal · r3`
 
 Main effect of relatedness in the pre-registered experiment: "related word pairs were better recalled (M = 0.86, SD = 0.16) than unrelated word pairs (M = 0.40, SD = 0.27)", F(1, 477) = 2,182.68, ηp2 = 0.82; t-test d = 2.03.
 

@@ -12,10 +12,17 @@ sources:
   - id: bjork-2016
     resource: "https://doi.org/10.1007/s11409-016-9156-8"
     title: "Bjork, R. A., & Yue, C. L. (2016). Commentary: Is disfluency desirable? Metacognition Learning, 11, 133–137. https://doi.org/10.1007/s11409-016-9156-8"
-    author: "Bjork, R. A., & Yue, C. L"
+    author: "Bjork, R. A., & Yue, C. L."
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The authors speculate that to the degree responding to disfluency exercises useful processes, positive effects would most likely show on a later perceptual task such as reading a new hard-to-read typeface, not on remembering text content. [→ Bjork 2016](#bjork-2016)
@@ -26,7 +33,7 @@ sources:
 
 Bjork, R. A., & Yue, C. L. (2016). Commentary: Is disfluency desirable? Metacognition Learning, 11, 133–137. https://doi.org/10.1007/s11409-016-9156-8
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The authors' concluding speculation, framed from the perspective of transfer. They argue responding to disfluent text does not exercise processes transfer-appropriate for remembering text content, but may exercise lower-level processes transfer-appropriate for reading new hard-to-read typefaces.
 

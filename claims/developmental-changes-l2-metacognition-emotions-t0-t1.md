@@ -70,3 +70,4 @@ Paired t tests on the AEQ-ES emotion scales showed boredom rising from M = 1.51 
 - [Better metacognitive monitoring and control at the start of the year predict lower boredom and anxiety about English at year's end](early-metacognition-predicts-later-negative-emotions.md) — related
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](metacognition-predicts-l2-vocabulary-growth-primary-school.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
+- [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related

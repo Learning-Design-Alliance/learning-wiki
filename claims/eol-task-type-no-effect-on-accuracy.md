@@ -15,15 +15,22 @@ sources:
     author: "Jemstedt, A., Kubik, V., & Jönsson, F. U."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: jemstedt-2017-2
     resource: "https://doi.org/10.1007/s11409-017-9172-3"
     title: "Jemstedt, A., Kubik, V., & Jönsson, F. U. (2017). What moderates the accuracy of ease of learning judgments? Metacognition and Learning, 12, 337–355. https://doi.org/10.1007/s11409-017-9172-3"
     author: "Jemstedt, A., Kubik, V., & Jönsson, F. U."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The type of EOL task (difficulty vs. trials-to-learn scale) does not reliably affect EOL accuracy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 2, with EOL task manipulated between groups, mean gamma did not reliably differ between the difficulty task (M = .82) and TTL task (M = .76), p = .226. [→ Jemstedt 2017](#jemstedt-2017)
@@ -35,7 +42,7 @@ sources:
 
 Jemstedt, A., Kubik, V., & Jönsson, F. U. (2017). What moderates the accuracy of ease of learning judgments? Metacognition and Learning, 12, 337–355. https://doi.org/10.1007/s11409-017-9172-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Experiment 2 between-groups study with 48 undergraduates removed the task-order confound of Experiment 1; the TTL-task advantage did not replicate, t(46) = 1.23, p = .226. The authors conclude making a judgment twice, not the task itself, may have driven the Experiment 1 effect.
 
@@ -45,7 +52,7 @@ Experiment 2 between-groups study with 48 undergraduates removed the task-order 
 
 Jemstedt, A., Kubik, V., & Jönsson, F. U. (2017). What moderates the accuracy of ease of learning judgments? Metacognition and Learning, 12, 337–355. https://doi.org/10.1007/s11409-017-9172-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 3 replicated the nil effect of EOL task with 64 participants, F(1, 56) = .03, p = .863. The authors state the EOL task, as operationalized, did not affect EOL accuracy, nor did task–criterion consistency (transfer-appropriate monitoring was not supported).
 

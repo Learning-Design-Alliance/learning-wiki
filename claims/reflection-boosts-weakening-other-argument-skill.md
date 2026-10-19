@@ -15,15 +15,22 @@ sources:
     author: Iordanou, K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: iordanou-2022-2
     resource: "https://doi.org/10.1007/s11409-021-09289-1"
     title: "Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1"
     author: Iordanou, K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Experimental (A&R) participants improved more than control (A) participants in Weakening-Other evidence usage from initial to final assessment, with a significant condition-by-time interaction. [→ Iordanou 2022](#iordanou-2022)
@@ -35,7 +42,7 @@ sources:
 
 Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 GLMM (Poisson) on essays of 19 students per condition from two equivalent 6th-grade classes, one randomly assigned to A&R and one to argumentation-only. The condition-by-time interaction was significant, "F(1, 72)  = 7.095, p = 0.010"; A&R rose from M = 0.105 to M = 1.842 Weakening-Other units versus 0.158 to 0.737 for controls. No effect size printed.
 
@@ -45,7 +52,7 @@ GLMM (Poisson) on essays of 19 students per condition from two equivalent 6th-gr
 
 Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Individual-level analysis (Table 2) confirmed the group-level result: both conditions had n = 2 users of Weakening-Other units initially, but at final assessment "(n = 14)" experimental versus "( n = 9)" control participants used them, Fisher's Exact Test p = 0.033. Only a p-value is printed.
 

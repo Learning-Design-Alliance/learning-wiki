@@ -12,14 +12,25 @@ sources:
   - id: schuster-2020
     resource: "https://doi.org/10.1007/s11409-020-09237-5"
     title: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5"
-    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J"
+    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: schuster-2020-2
     resource: "https://doi.org/10.1007/s11409-020-09237-5"
     title: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5"
-    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J"
+    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Hybrid training fosters far transfer of metacognitive skills to a new cognitive strategy, though one hybrid condition did not beat control
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Hybrid training (MT) significantly increased metacognitive skill application at T3 in a far-transfer task compared to non-hybrid (T) and control (R) training. [→ Schuster 2020](#schuster-2020)
@@ -31,7 +42,7 @@ sources:
 
 Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Analysis of the MST_T at T3 in the randomized training study found a significant condition effect, F(5,162) = 17.13, p < .01, partial η2 = .35; the article reports "receiving hybrid training (MT) significantly increased metacognitive skill application at T3" against both comparison groups.
 
@@ -41,7 +52,7 @@ Analysis of the MST_T at T3 in the randomized training study found a significant
 
 Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Analysis of the MST_E at T3 found a significant condition effect, F(5,205) = 6.32, p < .01, partial η2 = .09, but the ME-versus-control contrast was not significant, so far-transfer support was mixed across the two hybrid conditions.
 

@@ -15,9 +15,14 @@ sources:
     author: "Waldeyer, J., & Roelle, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Generating or comparing keywords had no substantial effect on posttest learning performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The three conditions did not differ significantly in posttest performance, indicating keyword generation and comparison affected judgment accuracy rather than learning itself in this study. [→ Waldeyer 2021](#waldeyer-2021)
@@ -28,7 +33,7 @@ sources:
 
 Waldeyer, J., & Roelle, J. (2021). The keyword effect: A conceptual replication, effects on bias, and an optimization. Metacognition and Learning, 16, 37–56. https://doi.org/10.1007/s11409-020-09235-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Preliminary ANOVA comparing the three conditions on the 20-item inference posttest (Cronbach's α = .61). "we did not find a statistically significant difference between the groups regarding posttest performance", F(2, 105) = 2.57, p = .082; the printed ηp2 = .05 was descriptive of this non-significant test.
 

@@ -15,9 +15,14 @@ sources:
     author: "Zachariou, A., Bonneville-Roussy, A., Hargreaves, D., & Neokleous, R."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Musical play intervention significantly increased children's metacognitive knowledge at interview compared with controls
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A significant time × group interaction on metacognitive knowledge at interview showed the intervention group increased while the control group remained stable (η²p = .16). [→ Zachariou 2023](#zachariou-2023)
@@ -28,7 +33,7 @@ sources:
 
 Zachariou, A., Bonneville-Roussy, A., Hargreaves, D., & Neokleous, R. (2023). Exploring the effects of a musical play intervention on young children's self-regulation and metacognition. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09342-1
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Metacognitive Knowledge Interview after the Train Track Task, analysed with repeated-measures ANCOVA controlling for age, gender and SES; "F(1, 93) = 18.24, p < .001, η2p = .16" with the intervention group increasing and controls stable.
 

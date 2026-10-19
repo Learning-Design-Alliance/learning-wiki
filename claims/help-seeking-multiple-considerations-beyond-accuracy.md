@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-021-09259-7"
     title: "Monika Undorf, Iris Livneh, Rakefet Ackerman. (2021). Metacognitive control processes in question answering: help seeking and withholding answers. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09259-7"
     author: Monika Undorf, Iris Livneh, Rakefet Ackerman
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors interpret the weaker confidence-help seeking association and the absent accuracy benefit as evidence that help seeking serves goals such as informativeness, curiosity, and feedback, and is inhibited by self-esteem and time costs. [→ Monika Undorf 2021](#monika-undorf-2021)
@@ -26,7 +33,7 @@ sources:
 
 Monika Undorf, Iris Livneh, Rakefet Ackerman. (2021). Metacognitive control processes in question answering: help seeking and withholding answers. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09259-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Authors' interpretation in the abstract, elaborated in the introduction: people might seek instrumental help "to improve the informativeness of answers, satisfy curiosity... or receive feedback about the accuracy of their knowledge", and may hesitate due to self-esteem threat or reluctance to spend more time. This is an interpretation, not a directly tested mechanism.
 

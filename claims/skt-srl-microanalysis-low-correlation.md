@@ -15,12 +15,17 @@ sources:
     author: Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r3` · `q2`
+
 ## Subclaims
-`q2 i?` SKT-SRL scores correlated low and non-significantly with microanalysis subscales, except a moderate correlation between the SKT-SRL motivational subscale and the microanalysis metacognitive subscale. [→ Laura Dörrenbächer-Ulrich 2024](#laura-dörrenbächer-ulrich-2024)
+`q2 i?` SKT-SRL scores correlated low and non-significantly with microanalysis subscales, except a moderate correlation between the SKT-SRL motivational subscale and the microanalysis metacognitive subscale. [→ Laura Dörrenbächer-Ulrich 2024](#laura-dorrenbacher-ulrich-2024)
 
 ## Evidence
 
@@ -28,7 +33,7 @@ sources:
 
 Laura Dörrenbächer-Ulrich, Jörn R. Sparfeldt, Franziska Perels. (2024). Knowing how to learn: development and validation of the strategy knowledge test for self-regulated learning (SKT-SRL) for college students. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09379-w
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Validation Study 1 (N = 99) compared the offline SKT-SRL with an online microanalytic assessment during a text-learning task on Sepak Takraw, coded by two trained raters with high interrater agreement (ICC mean 0.78–0.87).
 

@@ -15,6 +15,9 @@ sources:
 
 # Research SRL transfer by capturing how learners draw on previous regulatory experiences to adapt to new challenges, with a focus on conditions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The dissertation's concluding recommendation is that new research on transfer of SRL should examine "how learners draw on previous regulatory experiences to adapt to new challenges", using Winne and Hadwin's (1998) model as the framework "with a focus on conditions". It identifies capturing transfer of SRL across domains and mechanisms of transfer as future directions, and highlights the importance of appropriate measures to capture event- and aptitude-based SRL.
 
@@ -35,7 +38,7 @@ The dissertation's concluding recommendation is that new research on transfer of
 - transfer of self-regulated learning across sport and academic domains
 
 ### Affordances
-- [Winne Hadwin Copes Srl Transfer Framework](../theories/winne-hadwin-copes-srl-transfer-framework.md)
+- [Winne Hadwin Copes Srl Transfer Framework](../theories/self-regulated-learning.md)
 
 ## Related Strategies
 - 

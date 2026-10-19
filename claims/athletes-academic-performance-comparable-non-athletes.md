@@ -11,13 +11,24 @@ evidence_strength: weak
 sources:
   - id: mccardle-2015
     title: "McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]."
-    author: McCardle, L
+    author: McCardle, L.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: "?"
   - id: mccardle-2015-2
     title: "McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]."
-    author: McCardle, L
+    author: McCardle, L.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Athletes graduate and perform academically at rates comparable to or greater than non-athletes despite extensive training time
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` NCAA-reported graduation rates for the 2004 entering class were comparable for athletes and non-athletes (65% to 63%). [→ McCardle 2015](#mccardle-2015)
@@ -29,7 +40,7 @@ sources:
 
 McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria].
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The dissertation's synthesis of background literature reports NCAA data showing athletes graduated at rates "comparable to non-athletes (65% to 63%, respectively)", with variation by sport and gender (e.g., men's football 64%; women's lacrosse 94%).
 
@@ -39,7 +50,7 @@ The dissertation's synthesis of background literature reports NCAA data showing 
 
 McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria].
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 The dissertation reports, citing Aries et al. (2004) and Richards and Aries (1999), that athletes entered with lower SAT scores, particularly verbal, yet "athletes' GPA did not differ from non-athletes when matched for demographic variables and SAT scores".
 

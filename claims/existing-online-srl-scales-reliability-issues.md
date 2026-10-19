@@ -12,10 +12,17 @@ sources:
   - id: broadbent-2023
     resource: "https://doi.org/10.1007/s11409-022-09319-6"
     title: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M. (2023). The self-regulation for learning online (SRL-O) questionnaire. Metacognition and Learning, 18, 135–163. https://doi.org/10.1007/s11409-022-09319-6"
-    author: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M"
+    author: "Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across reviewed online SRL measures, Cronbach's alpha of relevant scales ranged from 0.52 to 0.95, and every questionnaire except two had at least one scale outside the 0.70–0.90 range. [→ Broadbent 2023](#broadbent-2023)
@@ -26,7 +33,7 @@ sources:
 
 Broadbent, J., Panadero, E., Lodge, J. M., & Fuller-Tyszkiewicz, M. (2023). The self-regulation for learning online (SRL-O) questionnaire. Metacognition and Learning, 18, 135–163. https://doi.org/10.1007/s11409-022-09319-6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The authors' review of Cronbach's alpha for relevant scales of existing online SRL questionnaires, retrieved from the original articles, found a range of 0.52 to 0.95; for example the MSLQ had help-seeking as low as 0.52 and the OSLQ had two of six subscales below 0.70.
 

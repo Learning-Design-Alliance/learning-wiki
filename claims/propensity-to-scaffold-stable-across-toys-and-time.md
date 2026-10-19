@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09196-6"
     title: "Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6"
     author: "Dave Neale & David Whitebread"
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Maternal propensity to scaffold during infant play is consistent both across toys and over time from 12 to 24 months
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Mothers who spent more time scaffolding at 12 and 18 months also spent more time scaffolding at 24 months, and propensity to scaffold correlated across the two toys at 12 months. [→ Dave Neale & David Whitebread 2019](#dave-neale-david-whitebread-2019)
@@ -26,7 +33,7 @@ sources:
 
 Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Longitudinal correlational analysis of 36 mother-child dyads observed in dyadic play at 12, 18 and 24 months, testing consistency of scaffolding variables across toys and time. The article reports "a relatively robust aspect of maternal interaction style" for propensity to scaffold, with significant correlations across toys and time-points (Table 3).
 

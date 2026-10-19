@@ -15,9 +15,14 @@ sources:
     author: "van de Pol, J., & Oudman, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Performance cues were found most diagnostic for students' reading comprehension performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Van de Pol et al. (2021b), that performance cues were most diagnostic for students' reading comprehension performance, with correlations of at least 0.40 that were significant. [→ van de Pol 2024](#van-de-pol-2024)
@@ -28,7 +33,7 @@ sources:
 
 van de Pol, J., & Oudman, S. (2024). Teachers' judgment accuracy of students' monitoring skills: a conceptual and methodological framework and explorative study. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09349-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The review attributes this to a previous study (Van de Pol et al., 2021b) investigating the diagnosticity of a wide array of cues for students' reading comprehension performance; performance cues reached 'r >  = 0.40 and significant'. No standardized effect size for a comparison is printed, so impact is null.
 

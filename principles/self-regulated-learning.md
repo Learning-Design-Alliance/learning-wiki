@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 72 claims (40 for, 29 mixed, 3 against) · 56 studies (20 causal, 10 review, 9 quant-synthesis, 7 associational, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 56 report an effect size · 61 claims rest on one study
+> **Evidence** · 74 claims (42 for, 29 mixed, 3 against) · 57 studies (21 causal, 10 review, 9 quant-synthesis, 7 associational, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 57 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,8 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Both SRL intervention modes produced higher course exit quiz scores than control in a programming MOOC](../claims/srl-interventions-raised-exit-quiz-scores-mooc.md) [+M] — attached 2026-10-18 from Psathas et al. (2023), which proposed "Deliver even low-effort, general weekly SRL interventions in MOOCs to scaffold participation, retention, and learning"; tests this page's relationship.
 - [Child-centered instruction positively predicts children's self-monitoring accuracy and, for second graders, restudy effectiveness](../claims/child-centered-instruction-predicts-metacognition.md) [+M] — attached 2026-10-19 from Mariëtte H. van Loon (2021), which proposed "Support children's metacognition through the way instructions are given, not only their content"; tests this page's relationship.
 - [Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy](../claims/teacher-directed-instruction-negative-metacognition.md) [+W] — attached 2026-10-19 from Mariëtte H. van Loon (2021), which proposed "Support children's metacognition through the way instructions are given, not only their content"; tests this page's relationship.
+- [MITCA homework prescription improved environmental management relative to traditional homework in primary students](../claims/mitca-improves-environmental-management.md) [+W] — attached 2026-10-19 from Tania Vieites et al. (2024), which proposed "Prescribe homework following MITCA's premises to support students' self-regulatory skills"; tests this page's relationship.
+- [MITCA prevented the growth of self-regulatory deficits seen under traditional homework over twelve weeks](../claims/mitca-limits-self-regulatory-deficits.md) [+W] — attached 2026-10-19 from Tania Vieites et al. (2024), which proposed "Prescribe homework following MITCA's premises to support students' self-regulatory skills"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

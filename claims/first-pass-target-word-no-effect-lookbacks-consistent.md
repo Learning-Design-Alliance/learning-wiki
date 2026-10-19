@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09440-2"
     title: "Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2"
     author: Catharina Tibken, Simon P. Tiffin-Richards
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
   - id: catharina-tibken-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09440-2"
     title: "Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2"
     author: Catharina Tibken, Simon P. Tiffin-Richards
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # First-pass reading measures at the target word showed no main effect on inconsistency identification, and lookbacks from the target word were associated with lower accuracy in consistent texts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` First-pass reading time and lookback probability at the target word had no main effect on consistency judgement accuracy (b = 0.22, p =.153; b = -0.10, p =.222). [→ Catharina Tibken 2025](#catharina-tibken-2025)
@@ -31,7 +42,7 @@ sources:
 
 Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 GLMM analysis of first-pass eye-movement measures at the target word in the 96-participant eye-tracking experiment. The article reports that "first-pass reading of the target word (first-pass reading time and lookback probability) had no main effect on consistency judgement accuracy".
 
@@ -41,7 +52,7 @@ GLMM analysis of first-pass eye-movement measures at the target word in the 96-p
 
 Catharina Tibken, Simon P. Tiffin-Richards. (2025). Reading behavior as an indicator of comprehension monitoring when reading expository texts. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09440-2
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Simple-slopes analysis of the significant lookback × condition interaction at the target word. The article reports that "initiating a lookback from the target word in consistent texts was significantly associated with lower consistency judgement accuracy" with no significant effect for inconsistent texts.
 

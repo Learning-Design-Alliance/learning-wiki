@@ -15,9 +15,14 @@ sources:
     author: Joep van der Graaf, Lyn Lim, Yizhou Fan, Jonathan Kilgour, Johanna Moore, Dragan Gašević, Maria Bannert, Inge Molenaar
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # High cognitive activities were positively associated with essay quality but not with concept maps
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` High cognition was positively associated with essay quality (deep, connected concepts). [→ Joep van der Graaf 2022](#joep-van-der-graaf-2022)
@@ -29,7 +34,7 @@ sources:
 
 Joep van der Graaf, Lyn Lim, Yizhou Fan, Jonathan Kilgour, Johanna Moore, Dragan Gašević, Maria Bannert, Inge Molenaar. (2022). The Dynamics Between Self-Regulated Learning and Learning Outcomes: an Exploratory Approach and Implications. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09308-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM results from the exploratory study of 44 university students thinking aloud during a 45-minute learning task. The article reports the positive essay association and the absence of association with concept maps, partially supporting hypothesis H2.
 

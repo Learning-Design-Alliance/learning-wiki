@@ -35622,5 +35622,53 @@
  "test-format\tmultiple-choice testing\tfree-response testing": {
   "label": "free-response vs multiple-choice",
   "treatment_is_a": false
+ },
+ "explicit-instruction\tSRSD explicit strategy instruction\tregular writing instruction": {
+  "label": "explicit strategy instruction vs regular writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD intervention\tregular writing instruction": {
+  "label": "explicit strategy instruction vs regular writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD planning-strategy instruction\tregular writing instruction": {
+  "label": "explicit strategy instruction vs regular writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD self-evaluation instruction\tregular writing instruction": {
+  "label": "explicit strategy instruction vs regular writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD writing instruction\tregular writing instruction": {
+  "label": "explicit strategy instruction vs regular writing instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tbiology texts with instructional images\ttext-only biology texts": {
+  "label": "instructional visuals vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tbiology texts with instructional visualizations\tbiology texts only": {
+  "label": "instructional visuals vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tchemistry texts with instructional visualizations\tchemistry texts only": {
+  "label": "instructional visuals vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tchemistry texts with instructional visuals\tchemistry texts only": {
+  "label": "instructional visuals vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\ttext with instructional images\ttext only": {
+  "label": "instructional visuals vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\ttext with instructional visuals\ttext-only": {
+  "label": "instructional visuals vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\ttexts with instructional visuals\ttext-only": {
+  "label": "instructional visuals vs text-only",
+  "treatment_is_a": true
  }
 }

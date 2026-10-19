@@ -16,6 +16,9 @@ sources:
 
 # Use the integrative framework and non-cognitive predictor set as a road map for counseling, assessment and interventions with students at academic risk
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend applying their framework and Structural Model 1 in educational practice: professionals can "implement strategies that foster the development of behaviors associated with these non-cognitive factors, focusing on counseling and training for the improvement of the regulation of motivation, affect, behavior and context". The framework is also proposed for targeting interventions at students facing academic difficulties and for designing future research on how personal characteristics contribute to each phase of the SRL cycle.
 
@@ -36,7 +39,7 @@ The authors recommend applying their framework and Structural Model 1 in educati
 - improvement of academic performance
 
 ### Affordances
-- [Integrative Srl Individual Differences Framework](../theories/integrative-srl-individual-differences-framework.md)
+- Integrative Srl Individual Differences Framework
 
 ## Related Strategies
 - 

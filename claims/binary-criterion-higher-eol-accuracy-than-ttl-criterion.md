@@ -15,9 +15,14 @@ sources:
     author: "Jemstedt, A., Kubik, V., & Jönsson, F. U."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # EOL relative accuracy is reliably higher when correlated with a binary recall criterion than with a trials-to-learn criterion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` In Experiment 1, gamma was reliably higher against the binary criterion than the TTL criterion, but the article describes the effect size as very small (d =. 1 4, below d = 0.2). [→ Jemstedt 2017](#jemstedt-2017)
@@ -28,7 +33,7 @@ sources:
 
 Jemstedt, A., Kubik, V., & Jönsson, F. U. (2017). What moderates the accuracy of ease of learning judgments? Metacognition and Learning, 12, 337–355. https://doi.org/10.1007/s11409-017-9172-3
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Experiment 1 within-group analysis of EOL accuracy by criterion measure found the binary criterion outperformed the TTL criterion, F(1, 30) = 9.60, p = .004; the article states the effect size was "very small, d =. 1 4", a negligible magnitude, and the direction was unexpected.
 

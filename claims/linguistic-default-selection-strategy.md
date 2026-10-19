@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-010-9067-z"
     title: "Gonny L. M. Schellings & Hein Broekkamp. (2011). Signaling task awareness in think-aloud protocols from students selecting relevant information from text. Metacognition and Learning 6:65–82. https://doi.org/10.1007/s11409-010-9067-z"
     author: "Gonny L. M. Schellings & Hein Broekkamp"
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Linguistic selection reasons were uttered most regardless of the selection task, suggesting a default linguistic selection strategy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Across all three selection tasks, linguistic reasons for selecting text parts were the most frequent (45 of 72 definite reasons), suggesting students use default selection strategies corresponding with the linguistic approach. [→ Gonny L. M. Schellings & Hein Broekkamp 2011](#gonny-l-m-schellings-hein-broekkamp-2011)
@@ -26,7 +33,7 @@ sources:
 
 Gonny L. M. Schellings & Hein Broekkamp. (2011). Signaling task awareness in think-aloud protocols from students selecting relevant information from text. Metacognition and Learning 6:65–82. https://doi.org/10.1007/s11409-010-9067-z
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Analysis of coded selection reasons in the 36 think-aloud protocols: linguistic reasons totalled 45 (21 linguistic task, 16 educational, 8 personal), while educational and personal reasons appeared mainly in their corresponding tasks. The article interprets this as a default linguistic selection strategy.
 

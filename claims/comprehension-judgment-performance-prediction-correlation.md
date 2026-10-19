@@ -15,9 +15,14 @@ sources:
     author: "Waldeyer, J., & Roelle, J."
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Comprehension judgments and performance predictions correlate highly, supporting the validity of the study's z-standardized bias measure to some extent
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` In a small follow-up study, judgments of comprehension and predictions of posttest performance correlated at r = .75, p < .001. [→ Waldeyer 2021](#waldeyer-2021)
@@ -28,7 +33,7 @@ sources:
 
 Waldeyer, J., & Roelle, J. (2021). The keyword effect: A conceptual replication, effects on bias, and an optimization. Metacognition and Learning, 16, 37–56. https://doi.org/10.1007/s11409-020-09235-7
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Small follow-up study with N = 92 university students who provided both comprehension judgments and performance predictions (number of correctly answered posttest questions). "We found a correlation of r = .75, p < .001 between these two measures", which the authors take to show the bias measure is valid to some extent.
 

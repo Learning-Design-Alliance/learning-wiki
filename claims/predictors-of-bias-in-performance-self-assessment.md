@@ -15,9 +15,14 @@ sources:
     author: "Lebuda, I., Hofer, G., & Benedek, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the final regression model, more positive bias in self-assessed creative performance was predicted by low creative achievements, high creative self-efficacy, and high task motivation. [→ Lebuda 2025](#lebuda-2025)
@@ -28,7 +33,7 @@ sources:
 
 Lebuda, I., Hofer, G., & Benedek, M. (2025). Determinants of creative metacognitive monitoring: creativity, personality, and task-related predictors of self-assessed ideas and creative performance. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09432-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical multiple regression (N = 425) predicting bias in self-assessed creative performance, with real-life creativity, core personality, surface personality, and task-related factors entered in steps; the final model retained achievements (negative), self-efficacy, and motivation.
 

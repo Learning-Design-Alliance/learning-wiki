@@ -12,14 +12,25 @@ sources:
   - id: schuster-2020
     resource: "https://doi.org/10.1007/s11409-020-09237-5"
     title: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5"
-    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J"
+    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 3
   - id: schuster-2020-2
     resource: "https://doi.org/10.1007/s11409-020-09237-5"
     title: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5"
-    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J"
+    author: "Schuster, C., Stebner, F., Leutner, D., & Wirth, J."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 3
 ---
 
 # Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Students receiving hybrid training (ME) applied metacognitive skills more often in a near-transfer task at T2 than students receiving non-hybrid (E) or control (R) training. [→ Schuster 2020](#schuster-2020)
@@ -31,7 +42,7 @@ sources:
 
 Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5
 
-`q3 · i3`
+`q3 · i3` · `causal · r3`
 
 ANCOVA on the MST_E at T2 (controlling for T1 cognitive strategy application) in the randomized six-condition training study showed a significant condition effect, F(5,177) = 11.72, p < .01, partial η2 = .26; "receiving hybrid training (ME) significantly increased the metacognitive strategy application at T2".
 
@@ -41,7 +52,7 @@ ANCOVA on the MST_E at T2 (controlling for T1 cognitive strategy application) in
 
 Schuster, C., Stebner, F., Leutner, D., & Wirth, J. (2020). Transfer of metacognitive skills in self-regulated learning: an experimental training study. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09237-5
 
-`q3 · i3`
+`q3 · i3` · `causal · r3`
 
 ANCOVA on the MST_T at T2 in the same randomized study showed a significant condition effect, F(5,175) = 48.74, p < .01, partial η2 = .59, with the printed contrast effect sizes η2 = .41 versus non-hybrid and η2 = .13 versus control.
 

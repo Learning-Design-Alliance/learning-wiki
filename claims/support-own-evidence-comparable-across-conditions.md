@@ -15,9 +15,14 @@ sources:
     author: Iordanou, K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The two conditions performed comparably in using evidence to support their own position, the less demanding argument function
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For Support-Own usage the condition-by-time interaction was not significant and the two conditions showed comparable performance. [→ Iordanou 2022](#iordanou-2022)
@@ -28,7 +33,7 @@ sources:
 
 Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 GLMM on Support-Own units in essays of 19 students per condition found no interaction ("F(1, 72)  = 0.217, p = 0.643"); the article states "Results showed comparable performance in the two conditions" for this less demanding function. Usage of Support-Other and Weakening-Own units was negligible in both conditions.
 

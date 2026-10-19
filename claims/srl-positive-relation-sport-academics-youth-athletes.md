@@ -11,10 +11,17 @@ evidence_strength: moderate
 sources:
   - id: mccardle-2015
     title: "McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria]."
-    author: McCardle, L
+    author: McCardle, L.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # SRL engagement in sport and academics is positively related, with more reported SRL engagement in sport than in school among competitive youth athletes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Competitive youth athletes' self-reported SRL in sport and academics showed a positive relation. [→ McCardle 2015](#mccardle-2015)
@@ -26,7 +33,7 @@ sources:
 
 McCardle, L. (2015). Self-regulated learning in and across sport and academic domains [Doctoral dissertation, University of Victoria].
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Survey study of competitive youth athletes (N = 215) self-reporting self-regulatory and motivational engagement in both domains. The article reports "a positive relation between SRL in these contexts" and higher reported SRL engagement in sport than school; no effect size is printed.
 

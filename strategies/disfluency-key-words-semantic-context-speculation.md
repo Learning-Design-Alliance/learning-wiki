@@ -16,6 +16,9 @@ sources:
 
 # Test whether disfluency aids learning when key words are hard to read in isolation but readable given surrounding semantic context
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The commentary closes with a speculation for future research: although hard-to-read typefaces do not exercise transfer-appropriate processes for remembering text content, disfluency might be made to exercise higher-order processes. The authors propose examining "whether there might be benefits of disfluency when key words are presented in a form that makes them hard to read in isolation, but readable, if with a little effort, given the semantic context created by the surrounding (clear) words," analogous to letter-deletion benefits that involve drawing on relationships between a to-be-generated word and surrounding text.
 
@@ -34,7 +37,7 @@ The commentary closes with a speculation for future research: although hard-to-r
 - Recall and comprehension of text content
 
 ### Affordances
-- [Desirable Difficulties Conditions Bjork Yue](../theories/desirable-difficulties-conditions-bjork-yue.md)
+- [Desirable Difficulties Conditions Bjork Yue](../theories/strength-and-retrieval-effort-account-of-retrieval-practice.md)
 
 ## Related Strategies
 - 

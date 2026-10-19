@@ -15,15 +15,22 @@ sources:
     author: Iordanou, K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: iordanou-2022-2
     resource: "https://doi.org/10.1007/s11409-021-09289-1"
     title: "Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1"
     author: Iordanou, K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Both conditions improved in overall idea units, evidence-based units and functional units, with no significant condition-by-time differences
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` The group-by-time interaction for the number of idea units was not statistically significant; both conditions increased from initial to final assessment. [→ Iordanou 2022](#iordanou-2022)
@@ -35,7 +42,7 @@ sources:
 
 Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 GLMM (Poisson) on essay idea units, 19 students per condition. The interaction "F(1, 72) = 2.293, p = 0.134" was non-significant; the time effect was significant, with A&R rising from M = 1.526 to 3.842 and controls from 2.000 to 3.368.
 
@@ -45,7 +52,7 @@ GLMM (Poisson) on essay idea units, 19 students per condition. The interaction "
 
 Iordanou, K. (2022). Supporting strategic and meta-strategic development of argument skill: the role of reflection. Metacognition and Learning, 17, 399–425. https://doi.org/10.1007/s11409-021-09289-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 GLMM on evidence-based units in essays showed no condition-by-time interaction ("F(1, 72) = 0.740, p = 0.393") but a significant time effect: A&R rose from M = 1.421 to 3.737, controls from 1.211 to 3.053. Functional units showed the same pattern (interaction p = 0.096).
 

@@ -15,9 +15,14 @@ sources:
     author: "Jemstedt, A., Kubik, V., & Jönsson, F. U."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Experiment 1, participants judged they would need more study trials than they actually did, and this was reliably more pronounced for the low-variability list (M = −.85) than the high-variability list (M = −.58), d = 0.51. [→ Jemstedt 2017](#jemstedt-2017)
@@ -28,7 +33,7 @@ sources:
 
 Jemstedt, A., Kubik, V., & Jönsson, F. U. (2017). What moderates the accuracy of ease of learning judgments? Metacognition and Learning, 12, 337–355. https://doi.org/10.1007/s11409-017-9172-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Absolute-accuracy secondary analysis in Experiment 1 compared mean TTL judgments with actual TTL performance; t(30) = 2.20, p = .036, "d = 0.51". The authors relate the general underconfidence to a stability bias and note the low-variability list was in fact easier to learn across tests.
 

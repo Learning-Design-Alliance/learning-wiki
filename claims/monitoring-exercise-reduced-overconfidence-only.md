@@ -15,15 +15,22 @@ sources:
     author: "de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: de-bruin-2017-2
     resource: "https://doi.org/10.1007/s11409-016-9159-5"
     title: "de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21–43. https://doi.org/10.1007/s11409-016-9159-5"
     author: "de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students who completed the Monitoring Exercise were underconfident at t=2, unlike the overconfident control group, but their exam scores did not improve. [→ de Bruin 2017](#de-bruin-2017)
@@ -34,7 +41,7 @@ sources:
 
 de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21–43. https://doi.org/10.1007/s11409-016-9159-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 2x2 ANCOVA on absolute accuracy at t=2 covarying t=0 accuracy; the ME main effect was not significant, F(1,124) = 2.29, p = .133, and control-group overconfidence (M = .45) differed from zero, t(27) = 2.17, p = .039, while the ME group's accuracy did not.
 
@@ -44,7 +51,7 @@ de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact
 
 de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact of an online tool for monitoring and regulating learning at university: overconfidence, learning strategy, and personality. Metacognition and Learning, 12, 21–43. https://doi.org/10.1007/s11409-016-9159-5
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Multilevel exam-score analysis found no main effect of the Monitoring Exercise; mean exam scores were 6.35 in both control and ME conditions on the 10-point scale.
 

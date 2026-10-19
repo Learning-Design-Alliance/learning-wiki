@@ -61,3 +61,4 @@ Correlation analysis across both groups related CTOPP Elision standard scores to
 - [In-scanner sentence judgment accuracy declines with faster word presentation rates, and dyslexic readers' accuracy declines disproportionately across rates](presentation-rate-accuracy-decline-dyslexia-disproportionate.md) — related
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related
 - [Group differences in activation are more extensive when behavioral performance is equated across groups, indicating they are not a consequence of worse performance](performance-equated-activation-differences-persist.md) — related
+- [Type-1 performance in reading-related experimental tasks correlates with standardized reading test performance, validating the task battery](type1-orthographic-tasks-correlate-reading-tests.md) — related

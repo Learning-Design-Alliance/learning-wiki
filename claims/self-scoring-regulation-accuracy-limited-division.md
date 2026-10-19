@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-021-09281-9"
     title: "Sophie Oudman, Janneke van de Pol, Tamara van Gog. (2021). Effects of self-scoring their math problem solutions on primary school students' monitoring and regulation. Metacognition and Learning (2022) 17:213–239. https://doi.org/10.1007/s11409-021-09281-9"
     author: Sophie Oudman, Janneke van de Pol, Tamara van Gog
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Regulation accuracy improved after self-scoring across the whole sample on both tasks, but for low- and high-performing subsets only on multiplication, not division. [→ Sophie Oudman 2021](#sophie-oudman-2021)
@@ -26,7 +33,7 @@ sources:
 
 Sophie Oudman, Janneke van de Pol, Tamara van Gog. (2021). Effects of self-scoring their math problem solutions on primary school students' monitoring and regulation. Metacognition and Learning (2022) 17:213–239. https://doi.org/10.1007/s11409-021-09281-9
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Multilevel regression of self-scoring effects on absolute regulation accuracy. Across the whole sample, students made more accurate regulation judgments on both tasks after self-scoring; the improvement was smaller than for monitoring (e.g., multiplication whole sample B = −0.17).
 

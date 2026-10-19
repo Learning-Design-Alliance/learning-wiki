@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09196-6"
     title: "Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6"
     author: "Dave Neale & David Whitebread"
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
   - id: dave-neale-david-whitebread-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09196-6"
     title: "Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6"
     author: "Dave Neale & David Whitebread"
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Maternal contingent interventions led to children's successful actions at 12 and 18 months but not at 24 months, while children's success led to contingent withdrawal of support at every time-point
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Chi-square sequential analyses showed contingent interventions led to child success more than chance at 12 and 18 months but not at 24 months. [→ Dave Neale & David Whitebread 2019](#dave-neale-david-whitebread-2019)
@@ -31,7 +42,7 @@ sources:
 
 Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Chi-square sequential analysis of turn-based mother-infant behaviour codes (e.g., 34 dyads and 707 behaviours at 12 months with the ring toy), testing whether contingent interventions preceded child success beyond chance (Figs. 1 and 2).
 
@@ -41,7 +52,7 @@ Chi-square sequential analysis of turn-based mother-infant behaviour codes (e.g.
 
 Dave Neale & David Whitebread. (2019). Maternal scaffolding during play with 12- to 24-month-old infants: stability over time and relations with emerging effortful control. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09196-6
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The second sequential analysis set on the same turn-based coded dataset, testing whether child success preceded contingent maternal interventions. The article reports the reverse direction held "with both toys and at every time-point".
 

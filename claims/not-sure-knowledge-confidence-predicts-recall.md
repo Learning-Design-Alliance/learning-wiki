@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s11409-024-09407-9"
     title: "Xiaoyun Chen, Katherine E. Twomey, Miranda Hayes, Gert Westermann. (2024). The limits of curiosity? New evidence for the roles of metacognitive abilities and curiosity in learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09407-9"
     author: Xiaoyun Chen, Katherine E. Twomey, Miranda Hayes, Gert Westermann
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The Not Sure state of Knowledge Confidence predicts better recall of object names, consistent with the region of proximal learning framework
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the surprise memory recall analysis of trials with initially incorrect guesses, the Not Sure Knowledge Confidence response was positively associated with recall accuracy. [→ Xiaoyun Chen 2024](#xiaoyun-chen-2024)
@@ -26,7 +33,7 @@ sources:
 
 Xiaoyun Chen, Katherine E. Twomey, Miranda Hayes, Gert Westermann. (2024). The limits of curiosity? New evidence for the roles of metacognitive abilities and curiosity in learning. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09407-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Binomial GLMM on 4010 trials (incorrect guesses only) from 100 adults; the article reports "the Not Sure response of Knowledge Confidence was positively associated with recall accuracy ( β(logit) = 0.29, SE = 0.11, z = 2.71, p =.007)"; full-null comparison χ2 = 12.00, df = 4, p =.017, R2 = 0.39.
 
