@@ -16,7 +16,7 @@ sources:
 # Extended TAM with perceived contextual value (PCV) for mobile learning acceptance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article extends Davis' Technology Acceptance Model, which predicts actual system use via perceived usefulness (PU), perceived ease of use (PEOU), attitude, and behavioral intention (BI), by adding a mobile-learning-specific exogenous construct. Building on Lee/Jun's perceived contextual value and Huang et al.'s perceived mobility value, "this study proposes to add PCV as a mobile learning specific construct to predict BI in the mobile adapted TAM." The resulting model tests paths from PU, PEOU and PCV to BI, and from PCV and PEOU to PU, with PCV operationalized from items adapted from Akour (2009), Huang et al. (2007) and Lee/Jun (2007).
@@ -37,10 +37,6 @@ The article extends Davis' Technology Acceptance Model, which predicts actual sy
 - predicting behavioral intention to use mobile language learning applications
 
 ### Claims
-- [Pcv Significantly Predicts Bi Contextual Language App](../claims/pcv-significantly-predicts-bi-contextual-language-app.md) [+M]
-- [Pu Strongest Predictor Bi Colale](../claims/pu-strongest-predictor-bi-colale.md) [+M]
-- [Peou Non Significant Bi Contextual App](../claims/peou-non-significant-bi-contextual-app.md) [+M]
-- [Pcv Primary Driver Pu](../claims/pcv-primary-driver-pu.md) [+M]
 
 ## Related Theories
 

@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (19 show a difference, 7 mixed, 5 no difference) · 23 studies (6 causal, 6 associational, 5 review, 4 quant-synthesis, 1 design, 1 theoretical), `q2`–`q3` · 1 of 23 report an effect size · 28 claims rest on one study
+> **Evidence** · 30 claims (18 show a difference, 7 mixed, 5 no difference) · 22 studies (6 causal, 5 review, 5 associational, 4 quant-synthesis, 1 design, 1 theoretical), `q2`–`q3` · 1 of 22 report an effect size · 27 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -54,7 +54,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+M] — instruction changes it
 - [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](../claims/proactive-fof-reduces-error-fossilization.md) [+W] — instruction changes it
 - [Processing instruction produces significant gains in both sentence-level comprehension and production](../claims/processing-instruction-gains-comprehension-and-production.md) [+M] — instruction changes it
-- [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](../claims/teacher-led-outperformed-student-centered-grammar.md) [+W] — instruction changes it
+- Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning [+W] — instruction changes it
 - [Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](../claims/proactive-fof-beats-reactive-upper-intermediate-grammar.md) [+M] — instruction changes it
 - [Each narrative writing measure is longitudinally stable within itself across the upper elementary grades, with no significant cross-lagged relationships across measures](../claims/narrative-measures-stable-within-not-across.md) [~W] — instruction changes it
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](../claims/ef-no-direct-effect-syntactic-complexity-story-content.md) [-W] — instruction changes it

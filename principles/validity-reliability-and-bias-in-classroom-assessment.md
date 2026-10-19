@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 222 claims (89 for, 118 mixed, 15 against) · 167 studies (57 associational, 44 design, 25 review, 18 theoretical, 16 causal, 4 quant-synthesis, 3 qualitative), `q1`–`q3` · 13 of 167 report an effect size · 216 claims rest on one study
+> **Evidence** · 220 claims (87 for, 118 mixed, 15 against) · 166 studies (56 associational, 44 design, 25 review, 18 theoretical, 16 causal, 4 quant-synthesis, 3 qualitative), `q1`–`q3` · 13 of 166 report an effect size · 214 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,8 +177,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W]: describes how one set of early-education surveys was refined with Rasch criteria; a development record, not a test of a decision.
 - [Iar Cdr Factor Scores Low Intercorrelations](../claims/iar-cdr-factor-scores-low-intercorrelations.md) [+M]: two locus-of-control questionnaires with weakly related factor scores (188 ninth-graders); bears on construct validity of research instruments, not on classroom achievement assessment.
 - Eleven Components Iar Cdr [+M]: the factor structure behind the line above; descriptive, same limit.
-- [Loa Correlates Predictions Borne Out](../claims/loa-correlates-predictions-borne-out.md) [+W]: in a 1963 monograph on an occupational aspiration scale, predicted correlates held about half the time and predicted non-correlates about 70 per cent (`q2`, associational). Construct validation of a research and counselling instrument, not of a classroom assessment (reread 2026-10-19).
-- [Free Response Loa High Nonresponse](../claims/free-response-loa-high-nonresponse.md) [+W]: a free-response version of the same aspiration measure left 17 and 25 per cent of answers uncodable (`q2`, design). A small point about open self-report items, not about scoring learners' work (reread 2026-10-19).
+- Loa Correlates Predictions Borne Out [+W]: in a 1963 monograph on an occupational aspiration scale, predicted correlates held about half the time and predicted non-correlates about 70 per cent (`q2`, associational). Construct validation of a research and counselling instrument, not of a classroom assessment (reread 2026-10-19).
+- Free Response Loa High Nonresponse [+W]: a free-response version of the same aspiration measure left 17 and 25 per cent of answers uncodable (`q2`, design). A small point about open self-report items, not about scoring learners' work (reread 2026-10-19).
 - Cohen's kappa exceeds Scott's pi when coders show unequal marginal category preferences, counting those disagreements as agreement [+W] — attached 2026-10-16 from Klaus Krippendorff (2004). It would bear on how step 7 and the term plan report marker agreement (a chance-corrected coefficient rather than per cent agreement), but the wiki has no claim page for it, so there is no evidence entry to read and it is not used (reread 2026-10-19).
 - Lombard et al.'s fallback criterion (alpha below .700, accept if %-agreement above .900) accepts data whose chance-corrected coefficients indicate near-zero reliability [+W] — attached 2026-10-16 from Klaus Krippendorff (2004). Same as the line above: relevant to reporting marker agreement, no claim page in the wiki, not used (reread 2026-10-19).
 - [Comprehension judgments and performance predictions correlate highly, supporting the validity of the study's z-standardized bias measure to some extent](../claims/comprehension-judgment-performance-prediction-correlation.md) [~W]: two metacognitive self-ratings correlated .75 in 92 university students; a check on a research measure of judgement bias, not on assessing learners' capability (reread 2026-10-19, second pass).
@@ -528,8 +528,6 @@ The article recommends its easily administered, structured-response, multiple-it
 - vocational counseling and prediction of occupational choice
 
 ### Claims
-- [Loa Correlates Predictions Borne Out](../claims/loa-correlates-predictions-borne-out.md) [+W]
-- [Free Response Loa High Nonresponse](../claims/free-response-loa-high-nonresponse.md) [+W]
 
 ## Related Principles
 - 

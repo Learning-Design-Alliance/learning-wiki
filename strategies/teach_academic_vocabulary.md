@@ -100,7 +100,7 @@ Vocabulary knowledge is one of the strongest predictors of reading comprehension
 - Graves, M. F. (2016). *The vocabulary book: Learning and instruction* (2nd ed.). Teachers College Press.
 - Carlo, M. S., August, D., McLaughlin, B., Snow, C. E., Dressler, C., Lippman, D. N., Lively, T. J., & White, C. E. (2004). Closing the gap: Addressing the vocabulary needs of English-language learners in bilingual and mainstream classrooms. *Reading Research Quarterly, 39*(2), 188–215. [doi:10.1598/rrq.39.2.3](https://doi.org/10.1598/rrq.39.2.3)
 - Marzano, R. J. (2004). *Building background knowledge for academic achievement: Research on what works in schools*. ASCD.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
+- Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 
 <!-- merged 2026-10-09 from strategies/teaching_academic_vocabulary ("Teaching Academic Vocabulary"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -180,5 +180,5 @@ Vocabulary knowledge is one of the strongest correlates of reading comprehension
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/rrq.011](https://doi.org/10.1002/rrq.011)
 - Carlo, M. S., August, D., McLaughlin, B., Snow, C. E., Dressler, C., Lippman, D. N., Lively, T. J., & White, C. E. (2004). Closing the gap: Addressing the vocabulary needs of English-language learners in bilingual and mainstream classrooms. *Reading Research Quarterly, 39*(2), 188–215. [doi:10.1598/rrq.39.2.3](https://doi.org/10.1598/rrq.39.2.3)
 - Marzano, R. J. (2004). *Building background knowledge for academic achievement: Research on what works in schools*. ASCD.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
+- Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 -->

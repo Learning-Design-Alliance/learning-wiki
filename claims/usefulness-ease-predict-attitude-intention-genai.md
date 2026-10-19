@@ -48,9 +48,9 @@ PLS-SEM analysis in the 434-teacher sample testing H1–H4. PU→AOU (β = 0.178
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
 - [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools](self-efficacy-predicts-usefulness-ease-genai.md) — related
 - [Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention](enjoyment-predicts-attitude-ease-intention-genai.md) — related
-- [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](peou-non-significant-bi-contextual-app.md) — related
+- Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
-- [Perceived contextual value is the primary driver of perceived usefulness of the contextual app](pcv-primary-driver-pu.md) — related
-- [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](pu-strongest-predictor-bi-colale.md) — related
+- Perceived contextual value is the primary driver of perceived usefulness of the contextual app — related
+- Perceived usefulness is the strongest predictor of intention to use the contextual language learning app — related
 - [Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use](insight-training-no-change-behavioural-intention.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related

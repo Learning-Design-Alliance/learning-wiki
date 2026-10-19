@@ -16,7 +16,7 @@ sources:
 # Technology Acceptance Model (revised by Venkatesh and Davis) as a framework for evaluating L2 learners' acceptance of writing technologies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study applies the Technology Acceptance Model, adapted from Venkatesh and Davis's (2000) revised TAM, in which intention to use new technologies is based on perceived usefulness and perceived ease of use. Perceived usefulness is "the degree to which a person believes that using a particular system would enhance his or her job performance", and ease of use is learning the technology being perceived as "free from effort". The revision adds job relevance, output quality, and result demonstrability as influences on perceived usefulness, operationalized here as academic relevance. The framework structured the survey and interview analysis of ASR acceptance.
@@ -41,7 +41,6 @@ The study applies the Technology Acceptance Model, adapted from Venkatesh and Da
 - [Esl Learners Positive Perceptions Asr Writing](../claims/esl-learners-positive-perceptions-asr-writing.md) [+M]
 - [Tam Construct Means Asr Writing Study](../claims/tam-construct-means-asr-writing-study.md) [+M]
 - [Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness](../claims/low-proficiency-intelligibility-barrier-asr.md) [-W]
-- [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](../claims/pu-strongest-predictor-bi-colale.md) [+W]
 
 ## Related Theories
 

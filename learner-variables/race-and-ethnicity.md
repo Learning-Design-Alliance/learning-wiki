@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 182 claims (152 show a difference, 25 mixed, 5 no difference) · 135 studies (81 associational, 22 review, 13 causal, 7 qualitative, 7 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 135 report an effect size · 180 claims rest on one study
+> **Evidence** · 182 claims (152 show a difference, 25 mixed, 5 no difference) · 136 studies (82 associational, 22 review, 13 causal, 7 qualitative, 7 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 136 report an effect size · 180 claims rest on one study
 
 ## How to read this page
 

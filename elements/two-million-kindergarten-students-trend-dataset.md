@@ -17,7 +17,7 @@ sources:
 # National dataset of over 2 million kindergarten students used to estimate 2010-2017 school-entry skill trends
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 associational), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The study draws on assessment data from a very large national sample of kindergarten students to estimate trends in math and reading skills at school entry between 2010 and 2017. The abstract states the study examines "academic skills at kindergarten entry from 2010 and 2017 using data from over 2 million kindergarten students". This scale is what allows nationally representative trend and subgroup-gap estimates.

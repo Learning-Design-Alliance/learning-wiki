@@ -102,7 +102,7 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — possibly the same claim (merge candidate)
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — a narrower finding that bears on this claim
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
-- [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](teacher-led-outperformed-student-centered-grammar.md) — related
+- Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning — related
 - [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — a narrower finding that bears on this claim
 - [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — reports the opposite

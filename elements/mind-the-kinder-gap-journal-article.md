@@ -17,7 +17,7 @@ sources:
 # Companion journal article: Mind the kinder-gap — new data on children's math and reading skills at kindergarten entry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (3 associational), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 A journal article listed on the page as associated research for the school-entry trends study. Its title, as printed, is "Mind the kinder-gap: New data on children's math and reading skills as they enter kindergarten", indicating it reports new data on children's math and reading skills at kindergarten entry. It serves as the peer-reviewed companion output to the 2019 research brief and working paper on the same topic.

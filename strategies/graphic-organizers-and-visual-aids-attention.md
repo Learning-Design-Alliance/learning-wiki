@@ -114,7 +114,7 @@ Graphic organizers work by externalizing structure, reducing the working-memory 
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820. [doi:10.1037/0022-0663.99.4.808](https://doi.org/10.1037/0022-0663.99.4.808)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
+- Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 
 <!-- merged 2026-10-09 from strategies/graphic-organizers-and-visual-aids-for-attention ("Graphic Organizers and Visual Aids (for Attention)"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -246,5 +246,5 @@ Graphic organizers work by imposing structure on to-be-learned material, which r
 - Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820. [doi:10.1037/0022-0663.99.4.808](https://doi.org/10.1037/0022-0663.99.4.808)
 - Robinson, D. H., & Kiewra, K. A. (1995). Visual argument: Graphic organizers are superior to outlines in improving learning from text. *Journal of Educational Psychology, 87*(3), 455–467. [doi:10.1037/0022-0663.87.3.455](https://doi.org/10.1037/0022-0663.87.3.455)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
+- Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 -->

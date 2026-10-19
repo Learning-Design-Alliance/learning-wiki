@@ -16,7 +16,7 @@ sources:
 # Knowles' andragogy (Adult Learning Theory) as the framework for adult immigrant instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Andragogy, the art and science of leading and educating adults, is the study's organizing lens. The article presents Knowles' six characteristics differentiating adult learners from child learners: adults need to know what they are learning at onset, are self-directed, bring greater volume of experience, are prepared to learn things of value, are task and problem centered, and are responsive to motivated life factors. The study uses andragogy to hypothesize relationships between learner perspectives, self-directed learning, English acquisition and integration.
@@ -39,8 +39,6 @@ Andragogy, the art and science of leading and educating adults, is the study's o
 ### Claims
 
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](../claims/learning-format-perspectives-correlate-immigrant-integration.md) [+W]
-- [Positive perspectives of learning formats help discriminate between poor and optimal integration in immigrant adults](../claims/positive-learning-format-perspectives-discriminate-integration.md) [+W]
-- [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](../claims/teacher-led-outperformed-student-centered-grammar.md) [-W]
 
 ## Related Theories
 

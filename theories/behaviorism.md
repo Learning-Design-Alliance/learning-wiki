@@ -12,7 +12,7 @@ generated:
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (4 for, 3 mixed, 2 against, 1 unmarked) · 17 studies (7 review, 4 theoretical, 3 causal, 3 quant-synthesis), `q1`–`q4` · 1 of 17 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (3 for, 3 mixed, 2 against, 1 unmarked) · 16 studies (6 review, 4 theoretical, 3 causal, 3 quant-synthesis), `q1`–`q4` · 1 of 16 report an effect size · 5 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -71,7 +71,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](../claims/praise-functions-as-verbal-reward.md) [-W]
 
 ## The evidence by question
-- *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](../claims/contingency-reinforcement-raises-achievement.md) [+M]
+- *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+M]
 - *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [-M]
 
 ## Related Theories

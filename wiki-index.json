@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22375,
+"claim":22362,
 "design":973,
 "element":1066,
 "learner-variable":75,
@@ -37402,15 +37402,6 @@
 "type":"claim"
 },
 {
-"description":"Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children",
-"evidence_strength":"weak",
-"id":"contingency-reinforcement-raises-achievement",
-"path":"claims/contingency-reinforcement-raises-achievement.md",
-"status":"review",
-"title":"Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children",
-"type":"claim"
-},
-{
 "description":"Higher levels of contingent support were related to higher appreciation of support, regardless of measurement occasion or independent working time",
 "evidence_strength":"moderate",
 "id":"contingency-relates-to-appreciation-of-support",
@@ -48775,15 +48766,6 @@
 "type":"claim"
 },
 {
-"description":"Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy",
-"evidence_strength":"weak",
-"id":"direct-loa-techniques-more-effective-than-indirect",
-"path":"claims/direct-loa-techniques-more-effective-than-indirect.md",
-"status":"review",
-"title":"Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy",
-"type":"claim"
-},
-{
 "description":"Early precursors predict adolescent N2 directly, not indirectly through childhood inattention symptoms",
 "evidence_strength":"moderate",
 "id":"direct-not-indirect-paths-early-precursors-n2",
@@ -59898,15 +59880,6 @@
 "path":"claims/equal-participation-across-collaboration-conditions.md",
 "status":"review",
 "title":"Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences",
-"type":"claim"
-},
-{
-"description":"Review reports equal-terms access to employment, housing, social care and education associated with immigrant integration in Sweden",
-"evidence_strength":"weak",
-"id":"equal-welfare-access-associated-integration-sweden",
-"path":"claims/equal-welfare-access-associated-integration-sweden.md",
-"status":"review",
-"title":"Review reports equal-terms access to employment, housing, social care and education associated with immigrant integration in Sweden",
 "type":"claim"
 },
 {
@@ -71667,15 +71640,6 @@
 "path":"claims/free-response-improvement-labels-by-format.md",
 "status":"review",
 "title":"Free-response improvement comments differed by format: stiffness of speech dominated for teacher–teacher and unnatural manner of speaking for student–student",
-"type":"claim"
-},
-{
-"description":"Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms",
-"evidence_strength":"weak",
-"id":"free-response-loa-high-nonresponse",
-"path":"claims/free-response-loa-high-nonresponse.md",
-"status":"review",
-"title":"Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms",
 "type":"claim"
 },
 {
@@ -104283,15 +104247,6 @@
 "type":"claim"
 },
 {
-"description":"Predicted correlates of LOA are borne out about half the time and predicted noncorrelates about 70 percent of the time",
-"evidence_strength":"weak",
-"id":"loa-correlates-predictions-borne-out",
-"path":"claims/loa-correlates-predictions-borne-out.md",
-"status":"review",
-"title":"Predicted correlates of LOA are borne out about half the time and predicted noncorrelates about 70 percent of the time",
-"type":"claim"
-},
-{
 "description":"Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology",
 "evidence_strength":"weak",
 "id":"loa-pilot-self-reported-increase-all-20-technologies",
@@ -107405,15 +107360,6 @@
 "path":"claims/mall-app-design-basic-limited-feedback-criticism.md",
 "status":"review",
 "title":"Language-learning app design is criticized as basic, replicating earlier technologies with limited instruction and feedback",
-"type":"claim"
-},
-{
-"description":"Mobile language learning apps are used mainly for vocabulary learning among surveyed app users",
-"evidence_strength":"weak",
-"id":"mall-vocabulary-most-supported-skill",
-"path":"claims/mall-vocabulary-most-supported-skill.md",
-"status":"review",
-"title":"Mobile language learning apps are used mainly for vocabulary learning among surveyed app users",
 "type":"claim"
 },
 {
@@ -118418,15 +118364,6 @@
 "path":"claims/natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md",
 "status":"review",
 "title":"Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success",
-"type":"claim"
-},
-{
-"description":"Review reports naturalization catalyzes social and political integration (Swiss longitudinal study)",
-"evidence_strength":"weak",
-"id":"naturalization-catalyzes-integration-switzerland",
-"path":"claims/naturalization-catalyzes-integration-switzerland.md",
-"status":"review",
-"title":"Review reports naturalization catalyzes social and political integration (Swiss longitudinal study)",
 "type":"claim"
 },
 {
@@ -131694,24 +131631,6 @@
 "type":"claim"
 },
 {
-"description":"Perceived contextual value is the primary driver of perceived usefulness of the contextual app",
-"evidence_strength":"moderate",
-"id":"pcv-primary-driver-pu",
-"path":"claims/pcv-primary-driver-pu.md",
-"status":"review",
-"title":"Perceived contextual value is the primary driver of perceived usefulness of the contextual app",
-"type":"claim"
-},
-{
-"description":"Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app",
-"evidence_strength":"moderate",
-"id":"pcv-significantly-predicts-bi-contextual-language-app",
-"path":"claims/pcv-significantly-predicts-bi-contextual-language-app.md",
-"status":"review",
-"title":"Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app",
-"type":"claim"
-},
-{
 "description":"Active learning was incorporated in 34 of 35 reviewed effective PD studies",
 "evidence_strength":"moderate",
 "id":"pd-active-learning-prevalence",
@@ -133168,15 +133087,6 @@
 "path":"claims/people-connections-top-transition-support.md",
 "status":"review",
 "title":"People and connections were the most-used learning transition supports among HSE participant-advisors",
-"type":"claim"
-},
-{
-"description":"Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app",
-"evidence_strength":"moderate",
-"id":"peou-non-significant-bi-contextual-app",
-"path":"claims/peou-non-significant-bi-contextual-app.md",
-"status":"review",
-"title":"Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app",
 "type":"claim"
 },
 {
@@ -138085,15 +137995,6 @@
 "path":"claims/positive-learning-conditions-double-odds-b-or-better-math.md",
 "status":"review",
 "title":"Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively",
-"type":"claim"
-},
-{
-"description":"Positive perspectives of learning formats help discriminate between poor and optimal integration in immigrant adults",
-"evidence_strength":"moderate",
-"id":"positive-learning-format-perspectives-discriminate-integration",
-"path":"claims/positive-learning-format-perspectives-discriminate-integration.md",
-"status":"review",
-"title":"Positive perspectives of learning formats help discriminate between poor and optimal integration in immigrant adults",
 "type":"claim"
 },
 {
@@ -145898,15 +145799,6 @@
 "path":"claims/pu-difficulty-stronger-than-gm-predicts-persistence.md",
 "status":"review",
 "title":"Physics understanding difficulty is a stronger predictor of in-game persistence than game mechanics difficulty in Physics Playground",
-"type":"claim"
-},
-{
-"description":"Perceived usefulness is the strongest predictor of intention to use the contextual language learning app",
-"evidence_strength":"moderate",
-"id":"pu-strongest-predictor-bi-colale",
-"path":"claims/pu-strongest-predictor-bi-colale.md",
-"status":"review",
-"title":"Perceived usefulness is the strongest predictor of intention to use the contextual language learning app",
 "type":"claim"
 },
 {
@@ -182547,15 +182439,6 @@
 "path":"claims/teacher-leaders-support-colleague-professional-learning.md",
 "status":"review",
 "title":"Teacher leaders can play a valuable role in supporting the professional learning of their colleagues",
-"type":"claim"
-},
-{
-"description":"Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning",
-"evidence_strength":"weak",
-"id":"teacher-led-outperformed-student-centered-grammar",
-"path":"claims/teacher-led-outperformed-student-centered-grammar.md",
-"status":"review",
-"title":"Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning",
 "type":"claim"
 },
 {
@@ -306120,7 +306003,6 @@
 "contingency-by-working-time-interaction-achievement":"contingency-by-working-time-interaction-achievement",
 "contingency-consistent-across-toys-not-over-time":"contingency-consistent-across-toys-not-over-time",
 "contingency-predicts-child-performance-scaffolding":"contingency-predicts-child-performance-scaffolding",
-"contingency-reinforcement-raises-achievement":"contingency-reinforcement-raises-achievement",
 "contingency-relates-to-appreciation-of-support":"contingency-relates-to-appreciation-of-support",
 "contingency-working-time-task-effort-interaction":"contingency-working-time-task-effort-interaction",
 "contingent-academic-employment-trend-australia":"contingent-academic-employment-trend-australia",
@@ -307405,7 +307287,6 @@
 "direct-instruction-lock-in-constrains-exploration":"direct-instruction-lock-in-constrains-exploration",
 "direct-llm-accuracy-varies-by-grade-early-grades-worse":"direct-llm-accuracy-varies-by-grade-early-grades-worse",
 "direct-llm-estimation-beats-dummy-regressor-k5-items":"direct-llm-estimation-beats-dummy-regressor-k5-items",
-"direct-loa-techniques-more-effective-than-indirect":"direct-loa-techniques-more-effective-than-indirect",
 "direct-not-indirect-paths-early-precursors-n2":"direct-not-indirect-paths-early-precursors-n2",
 "direct-placement-improves-comparison-accuracy":"direct-placement-improves-comparison-accuracy",
 "direct-questions-boost-poor-comprehenders-inferences":"direct-questions-boost-poor-comprehenders-inferences",
@@ -308657,7 +308538,6 @@
 "equal-attention-model-graph-low-equations":"equal-attention-model-graph-low-equations",
 "equal-inquiry-skills-gains-all-groups":"equal-inquiry-skills-gains-all-groups",
 "equal-participation-across-collaboration-conditions":"equal-participation-across-collaboration-conditions",
-"equal-welfare-access-associated-integration-sweden":"equal-welfare-access-associated-integration-sweden",
 "equality-and-positive-valence-monitoring-predict-collaborative-performance":"equality-and-positive-valence-monitoring-predict-collaborative-performance",
 "equated-predictions-forget-similar-to-unselected":"equated-predictions-forget-similar-to-unselected",
 "equated-wcpm-consistent-progress-monitoring-differences":"equated-wcpm-consistent-progress-monitoring-differences",
@@ -309996,7 +309876,6 @@
 "free-recall-lag-effect-structural-components":"free-recall-lag-effect-structural-components",
 "free-recall-raises-self-efficacy-via-perceived-success":"free-recall-raises-self-efficacy-via-perceived-success",
 "free-response-improvement-labels-by-format":"free-response-improvement-labels-by-format",
-"free-response-loa-high-nonresponse":"free-response-loa-high-nonresponse",
 "free-rider-transition-structure":"free-rider-transition-structure",
 "free-riders-lower-grades-two-active-trajectories-equal":"free-riders-lower-grades-two-active-trajectories-equal",
 "free-school-based-services-remove-access-barriers":"free-school-based-services-remove-access-barriers",
@@ -313684,7 +313563,6 @@
 "lms-quality-no-direct-effect-no-independent-mediation":"lms-quality-no-direct-effect-no-independent-mediation",
 "lms-quality-satisfaction-performance-chain":"lms-quality-satisfaction-performance-chain",
 "lo-alignment-judgment-more-subjective-than-answering":"lo-alignment-judgment-more-subjective-than-answering",
-"loa-correlates-predictions-borne-out":"loa-correlates-predictions-borne-out",
 "loa-pilot-self-reported-increase-all-20-technologies":"loa-pilot-self-reported-increase-all-20-technologies",
 "loa-presentation-software-modeled-not-taught-gain":"loa-presentation-software-modeled-not-taught-gain",
 "loa-revised-ten-level-scale-from-respondent-feedback":"loa-revised-ten-level-scale-from-respondent-feedback",
@@ -314034,7 +313912,6 @@
 "males-twice-likely-gaming-engagement":"males-twice-likely-gaming-engagement",
 "malik-student-perceptions-ai-writing-percentages":"malik-student-perceptions-ai-writing-percentages",
 "mall-app-design-basic-limited-feedback-criticism":"mall-app-design-basic-limited-feedback-criticism",
-"mall-vocabulary-most-supported-skill":"mall-vocabulary-most-supported-skill",
 "malleable-trait-beliefs-better-cbsr-kindergarten":"malleable-trait-beliefs-better-cbsr-kindergarten",
 "maltreated-adolescents-less-accurate-no-go-trials":"maltreated-adolescents-less-accurate-no-go-trials",
 "maltreated-children-emotion-identification-deficits":"maltreated-children-emotion-identification-deficits",
@@ -315285,7 +315162,6 @@
 "natural-language-except-strict-code-returns":"natural-language-except-strict-code-returns",
 "natural-language-feedback-lower-persistent-failure-odds":"natural-language-feedback-lower-persistent-failure-odds",
 "natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses":"natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses",
-"naturalization-catalyzes-integration-switzerland":"naturalization-catalyzes-integration-switzerland",
 "nature-based-learning-benefits-disadvantaged-students":"nature-based-learning-benefits-disadvantaged-students",
 "nature-contact-boosts-self-discipline-mixed":"nature-contact-boosts-self-discipline-mixed",
 "nature-exposure-reduces-learner-stress":"nature-exposure-reduces-learner-stress",
@@ -316777,8 +316653,6 @@
 "pcc-teacher-education-thirty-percent-ontime-graduation":"pcc-teacher-education-thirty-percent-ontime-graduation",
 "pcer-cma-a-nonsignificant-after-correction":"pcer-cma-a-nonsignificant-after-correction",
 "pck-subdomain-variation-ktm-hardest":"pck-subdomain-variation-ktm-hardest",
-"pcv-primary-driver-pu":"pcv-primary-driver-pu",
-"pcv-significantly-predicts-bi-contextual-language-app":"pcv-significantly-predicts-bi-contextual-language-app",
 "pd-active-learning-prevalence":"pd-active-learning-prevalence",
 "pd-behavior-management-lags-reading-instruction":"pd-behavior-management-lags-reading-instruction",
 "pd-benefits-early-career-principals":"pd-benefits-early-career-principals",
@@ -316946,7 +316820,6 @@
 "penquiry-v1-question-type-preferences":"penquiry-v1-question-type-preferences",
 "pension-debt-per-student-ca-tx-fl":"pension-debt-per-student-ca-tx-fl",
 "people-connections-top-transition-support":"people-connections-top-transition-support",
-"peou-non-significant-bi-contextual-app":"peou-non-significant-bi-contextual-app",
 "pepper-benefits-motivation-engagement-social-skills":"pepper-benefits-motivation-engagement-social-skills",
 "pepper-formal-education-evidence-small-qualitative":"pepper-formal-education-evidence-small-qualitative",
 "pepper-isolated-signs-recognized-better-than-sentences":"pepper-isolated-signs-recognized-better-than-sentences",
@@ -317497,7 +317370,6 @@
 "positive-interaction-change-co-occurs-positive-technique-attitude":"positive-interaction-change-co-occurs-positive-technique-attitude",
 "positive-ipe-memory-low-curiosity-answers-increase-with-age":"positive-ipe-memory-low-curiosity-answers-increase-with-age",
 "positive-learning-conditions-double-odds-b-or-better-math":"positive-learning-conditions-double-odds-b-or-better-math",
-"positive-learning-format-perspectives-discriminate-integration":"positive-learning-format-perspectives-discriminate-integration",
 "positive-mindsets-better-behaviors-grades":"positive-mindsets-better-behaviors-grades",
 "positive-mood-pal-better-perceived":"positive-mood-pal-better-perceived",
 "positive-negative-distortion-cancellation":"positive-negative-distortion-cancellation",
@@ -318378,7 +318250,6 @@
 "pthv-home-visits-improve-attendance-slightly":"pthv-home-visits-improve-attendance-slightly",
 "pthv-math-slight-gain-ela-no-difference":"pthv-home-visit-math-gain-no-ela-difference",
 "pu-difficulty-stronger-than-gm-predicts-persistence":"pu-difficulty-stronger-than-gm-predicts-persistence",
-"pu-strongest-predictor-bi-colale":"pu-strongest-predictor-bi-colale",
 "public-capstone-epportfolio-showcase-audience-effect":"public-capstone-epportfolio-showcase-audience-effect",
 "public-production-evokes-responsibility":"public-production-evokes-responsibility",
 "public-regard-decreases-discrimination-fluctuates":"public-regard-decreases-discrimination-fluctuates",
@@ -322541,7 +322412,6 @@
 "teacher-leader-facilitation-challenges":"teacher-leader-facilitation-challenges",
 "teacher-leader-more-productive-plc":"teacher-leader-more-productive-plc",
 "teacher-leaders-support-colleague-professional-learning":"teacher-leaders-support-colleague-professional-learning",
-"teacher-led-outperformed-student-centered-grammar":"teacher-led-outperformed-student-centered-grammar",
 "teacher-level-collaboration-remained-low-activities-targeted-leaders":"teacher-level-collaboration-remained-low-activities-targeted-leaders",
 "teacher-level-kam-participation-linked-to-implemented-ils":"teacher-level-kam-participation-linked-to-implemented-ils",
 "teacher-management-pedagogy-intertwined":"teacher-management-pedagogy-intertwined",

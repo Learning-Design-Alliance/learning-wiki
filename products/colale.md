@@ -18,7 +18,7 @@ sources:
 # CoLaLe
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A prototype mobile app developed to support German and Thai vocabulary learning through context-linked flashcards and geo-fence-triggered learning sessions.
@@ -28,11 +28,6 @@ A prototype mobile app developed to support German and Thai vocabulary learning 
 - **CoLaLe app prototype with geo-fence triggered vocabulary learning sessions**: The CoLaLe (Contextual Language Learning) app concept supports German and Thai vocabulary learning through flashcard sessions containing textual, visual and audible representations, deposited in categories linked to contexts such as home, university, and restaurants. Its core context-aware feature uses location filtering: "This area is then used as a “geo-fence” to trigger learning sessions by sending a push notification on the smartphone each time the user is entering this area." At the time of the study the app was in the concept phase, so a high-fidelity video prototype demonstrated the interface to participants. (Stephan Böhm et al. (2015))
 
 ### Claims
-- [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](../claims/mall-vocabulary-most-supported-skill.md) [+W]
-- [Perceived contextual value is the primary driver of perceived usefulness of the contextual app](../claims/pcv-primary-driver-pu.md) [+W]
-- [Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app](../claims/pcv-significantly-predicts-bi-contextual-language-app.md) [+W]
-- [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](../claims/peou-non-significant-bi-contextual-app.md) [+W]
-- [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](../claims/pu-strongest-predictor-bi-colale.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,11 +62,6 @@ The CoLaLe (Contextual Language Learning) app concept supports German and Thai v
 
 ## Claims
 
-- [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](../claims/mall-vocabulary-most-supported-skill.md) [+W]
-- [Perceived contextual value is the primary driver of perceived usefulness of the contextual app](../claims/pcv-primary-driver-pu.md) [+W]
-- [Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app](../claims/pcv-significantly-predicts-bi-contextual-language-app.md) [+W]
-- [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](../claims/peou-non-significant-bi-contextual-app.md) [+W]
-- [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](../claims/pu-strongest-predictor-bi-colale.md) [+W]
 
 ## Related Elements
 - 

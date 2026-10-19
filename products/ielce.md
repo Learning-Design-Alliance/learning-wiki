@@ -18,7 +18,7 @@ sources:
 # IELCE
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (1 associational, 1 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 associational, 1 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 A federally supported adult-education programme administered through state and local providers that combines English-language literacy instruction with civics education for adult learners, including immigrants.
@@ -29,7 +29,6 @@ A federally supported adult-education programme administered through state and l
 
 ### Claims
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](../claims/learning-format-perspectives-correlate-immigrant-integration.md) [+W]
-- [Positive perspectives of learning formats help discriminate between poor and optimal integration in immigrant adults](../claims/positive-learning-format-perspectives-discriminate-integration.md) [+W]
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](../claims/older-beginners-excluded-from-standard-adl-esl.md) [~W]
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
@@ -68,7 +67,6 @@ The Integrated English Literacy and Civics Education (IELCE) initiative is a fed
 ## Claims
 
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](../claims/learning-format-perspectives-correlate-immigrant-integration.md) [+W]
-- [Positive perspectives of learning formats help discriminate between poor and optimal integration in immigrant adults](../claims/positive-learning-format-perspectives-discriminate-integration.md) [+W]
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](../claims/older-beginners-excluded-from-standard-adl-esl.md) [~W]
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 

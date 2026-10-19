@@ -23,7 +23,7 @@ sources:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (19 for, 8 mixed, 2 against) · 36 studies (13 quant-synthesis, 10 review, 6 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (18 for, 8 mixed, 2 against) · 35 studies (13 quant-synthesis, 9 review, 6 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,7 +135,7 @@ Read against the model on 2026-10-15 and left here because none can carry a step
 - [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](../claims/effective-classroom-management-engages-students-over-90-percent-of-time.md) [+W] — a second-hand figure in a practitioner brief, with no study design printed; too thin to set a target for step 9's engagement sample.
 - [Student off-task behavior declined markedly in trained teachers' classrooms](../claims/off-task-behavior-declines-after-training.md) [+W] — teacher training in group-based mastery learning, not in classroom management; off-task behavior fell against control classrooms (ANCOVA, no effect size). Bears only indirectly: the change came from instruction, not from a management plan.
 - [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](../claims/pbis-suspensions-decreased-41-percent.md) [+W] — a single-school before-after count with no comparison school; bears on a schoolwide system a brief may name, but cannot attribute the drop to it.
-- [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels](../claims/contingency-reinforcement-raises-achievement.md) [+W] — a 1970 narrative survey with no effect sizes; the behavior-analytic tradition's case, on achievement rather than classroom behavior, and no comparison with other traditions.
+- Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels [+W] — a 1970 narrative survey with no effect sizes; the behavior-analytic tradition's case, on achievement rather than classroom behavior, and no comparison with other traditions.
 - [A non-peer-reviewed web essay asserts that behaviorist reinforcement methods are very effective in creating positive behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand assertion with no sample; listed because the earlier page linked reinforcement theory.
 - [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/feedback-most-effective-at-task-and-process-levels.md) [-W]
 - [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](../claims/rounds-surveillance-minimizes-off-task.md) [+W] — attached 2026-10-18 from Christian Greiffenhagen (2011), which proposed "Teacher rounds as the routine organization of monitoring during pair work at computers".

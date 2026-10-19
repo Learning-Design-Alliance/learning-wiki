@@ -74,4 +74,4 @@ Word maps work because they force elaborative processing: learners must connect 
 - Schwartz, R. M., & Raphael, T. E. (1985). Concept of definition: A key to improving students' vocabulary. *The Reading Teacher, 39*(2), 198–205.
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
 - Bos, C. S., & Anders, P. L. (1990). Effects of interactive vocabulary instruction on the vocabulary learning and reading comprehension of junior-high learning-disabled students. *Learning Disability Quarterly, 13*(1), 31–42. [doi:10.2307/1510390](https://doi.org/10.2307/1510390)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
+- Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

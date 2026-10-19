@@ -10,9 +10,9 @@ generated:
 evidence_strength: weak
 sources:
   - id: clark-1991
-    resource: "https://doi.org/10.1007/BF01320076"
+    resource: "https://doi.org/10.1007/bf01320076"
     title: "Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/bf01320076](https://doi.org/10.1007/bf01320076)"
-    author: Clark, J. M., & Paivio, A.
+    author: "Clark, J. M., & Paivio, A."
     q: 2
     i: "?"
     kind: theoretical
