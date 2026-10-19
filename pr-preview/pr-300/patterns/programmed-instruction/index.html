@@ -1,0 +1,1591 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A reusable sequence in which content is broken into small frames, each needing an active response that is confirmed or corrected at once, with progress at the learner's pace or by branching on the response, behind a unit check; expected to help with facts, rules and procedures that have checkable answers when steps fit prior knowledge and a dated schedule guards against non-completion. No claim in this wiki tests programmed instruction itself; the nearest evidence is from self-paced mastery programs (PSI), feedback after retrieval and intelligent tutoring.">
+      
+      
+        <meta name="author" content="B. F. Skinner (linear); Norman Crowder (branching/intrinsic)">
+      
+      
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/patterns/programmed-instruction/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lda-favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Programmed Instruction - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lda-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#programmed-instruction" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Programmed Instruction
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" ></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../situations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design for a Situation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Application
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Application
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Research
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Methods
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Methods
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    About
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description-and-scope" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Description and scope
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inputs-establish-the-design-brief" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inputs: establish the design brief
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequence-and-conditional-policy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sequence and conditional policy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fitting-the-design-to-a-situation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fitting the design to a situation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#choosing-configurations-from-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Choosing configurations from evidence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-evidence-by-question" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The evidence by question
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further evidence, not yet read against this model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#illustrative-design-instance-and-observation-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Illustrative design instance and observation record
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elements-and-limits" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elements and limits
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Claims
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related Patterns
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Examples
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Pattern"><span data-pagefind-filter="tier:canonical"></span>
+                
+                  
+
+
+
+<h1 id="programmed-instruction">Programmed Instruction<a class="headerlink" href="#programmed-instruction" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Pattern</strong> · <a href="../">All patterns</a>
+<strong>Evidence</strong> · 21 claims (5 for, 14 mixed, 2 against) · 19 studies (8 quant-synthesis, 4 causal, 3 associational, 2 review, 2 theoretical), <code>q1</code>–<code>q4</code> · 5 of 19 report an effect size · 17 claims rest on one study</p>
+</blockquote>
+<h2 id="description-and-scope">Description and scope<a class="headerlink" href="#description-and-scope" title="Permanent link">&para;</a></h2>
+<p>A reusable sequence for teaching well-defined content one small step at a time: <strong>a frame gives a little information → the learner makes an active response (writes or selects an answer) before the answer is shown → the answer is confirmed or corrected at once → the next frame follows, at the learner's own pace (linear programming) or chosen by the response (branching: a remedial frame after an error, a skip ahead after strong performance) → a unit check decides whether the learner moves on</strong>. The intended change is in recalling facts, applying rules and carrying out procedures (<code>factual</code>, <code>procedure</code>), measured on items the learner has not just seen in a frame.</p>
+<p>It sits inside three converted neighbours and does not repeat their models. The <a href="../mastery-learning/">Mastery Learning pattern</a> owns the unit criterion, the corrective loop and the recheck; this page uses that gate at the end of each run of frames. The <a href="../../principles/immediate-feedback/">Immediate Feedback principle</a> owns when feedback should come and what form it takes; this page applies it at the grain of one frame. The <a href="../../principles/adaptive-learning/">Adaptive Learning principle</a> owns when adjusting the path to the learner helps; branching programming is its oldest form. <a href="../game-based-mastery-learning/">Game-Based Mastery Learning</a> is a modern descendant that adds a game layer to the same small-step core, and <a href="../direct-instruction/">Direct Instruction</a> is the teacher-led, group-paced relative. Self-pacing as such belongs to the <a href="../self-directed-learning/">Self-Directed Learning</a> pattern and <a href="../../principles/self-directed-learning/">principle</a>.</p>
+<p><strong>No claim in this wiki tests programmed instruction itself</strong>: no recorded study compares frames with a response and immediate confirmation against another form of the same content, and none compares linear with branching programs or small steps with large ones. The nearest evidence is of four kinds, each carried here by extrapolation: Keller's Personalized System of Instruction (PSI), a descendant that keeps self-paced units and a mastery test, from one large 1990 meta-analysis; feedback after a retrieval attempt; intelligent tutoring systems, which branch on each response; and one experiment and one meta-analysis on learner control of pacing. The old page's account (Molenda, 2008) says that most of PI's specific hypotheses (small steps, linear order, confirmation as a universal reinforcer) did not hold up under testing, while PI as a format still did better than conventional group instruction in comparison studies; that history is the old page's, from its Key Sources, not from a claim page. The sequence below is the earlier page's, kept as the default, with each step's evidence status stated.</p>
+<h2 id="inputs-establish-the-design-brief">Inputs: establish the design brief<a class="headerlink" href="#inputs-establish-the-design-brief" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record or elicit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner and starting observation</td>
+<td>Before the first frame, a short set of unprompted items from the end of the unit and one or two from its prerequisites. Record each response, whether it was right, and how long it took. Use <code>expertise</code> values where known (<code>novice</code>, <code>intermediate</code>, <code>advanced</code>); record unknowns as unknown rather than assuming <code>novice</code>.</td>
+</tr>
+<tr>
+<td>The content</td>
+<td>Whether it breaks into steps that each have a checkable right answer (<code>factual</code>, <code>procedure</code>, a rule), or whether answers are open, contested or judged as a whole (<code>complex-skill</code>, design, argument). Which steps depend on which. Which errors learners commonly make.</td>
+</tr>
+<tr>
+<td>Context and activities</td>
+<td>Setting (<code>classroom</code>, <code>online-self-paced</code>, <code>online-instructor-led</code>, <code>workplace-clinical</code>), device (paper, computer, phone only), <code>single-session</code> or <code>days-weeks</code>, whether a teacher, tutor or proctor is present and for how long, whether learners must finish by a date.</td>
+</tr>
+<tr>
+<td>Learner-valued goal</td>
+<td>Ask what the learner wants to be able to do and by when (pass a certification, do a task at work, keep up with a class). Record disagreement with the designer objective, and how much extra time the learner will accept for repeating frames.</td>
+</tr>
+<tr>
+<td>Designer objective</td>
+<td>The capability each unit stands for, its knowledge type, the unit criterion (the share correct on the unit check) and its justification, and which later units depend on it. If the brief names its own check, rubric or criterion, record it as given.</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>The unit check and the course examination, scored on items not shown in the frames; whether the examination is written locally or is an independent standardized test; completion (<code>persistence</code>) and time to criterion (<code>learning-time</code>); and any delayed horizon.</td>
+</tr>
+</tbody>
+</table>
+<p>A request to "turn this module into self-paced bite-sized steps" does not specify these. Ask what the right answer to each step is, what the learner should be able to do at the end, and whether the learner must finish by a date, before choosing step size, branching rules or a criterion.</p>
+<h2 id="sequence-and-conditional-policy">Sequence and conditional policy<a class="headerlink" href="#sequence-and-conditional-policy" title="Permanent link">&para;</a></h2>
+<p>The default sequence is the earlier page's five steps, with a placement step and a unit gate added from the neighbouring patterns. Steps 3 and 6 have neighbouring claims, carried by extrapolation; the others are untested here.</p>
+<ol>
+<li><strong>Place the learner.</strong> Give the starting items (inputs, above). A learner who meets the unit criterion on them skips the unit's frames and takes the unit check; a learner who misses a prerequisite starts with its frames. Evidence status: untested proposal. More proficient learners respond faster at the step level in tutoring data (<a href="../../claims/higher-proficiency-faster-step-responses/">higher prior proficiency goes with faster step-level responses</a> [~W], associational, eight algebra-tutor deployments), which is a reason to expect placement to save their time, not evidence that it does.</li>
+<li><strong>Break the content into frames.</strong> Each frame presents one piece of information or one step, then asks for a response that uses it. For a new rule, state the rule, give one or two examples, then give incomplete examples for the learner to complete. Evidence status: <a href="../../claims/rule-example-sequence-efficient-rule-introduction/">the rule-example sequence</a> [~W], a 1966 conceptual paper reporting that this order "appeared to be an excellent method" in early programmed-instruction work; an argument, not a comparison. Step size is untested here: start with steps a novice gets right on about four frames in five (a proposal), and enlarge them when errors are rare.</li>
+<li><strong>Require a response before showing the answer, then confirm or correct at once.</strong> Constructed responses (typed or written) for recall; selected responses only where the final task is recognition. After an error, show the correct answer and, for a rule, the reason; after a correct answer, a short confirmation is enough. Evidence status: <a href="../../claims/feedback-enhances-retrieval-practice/">feedback after retrieval</a> [+M]: in a laboratory word-pair study, giving the correct answer after a wrong retrieval greatly raised retention a week later while feedback after correct answers made little difference; in classroom studies, quizzes with corrective feedback gave a larger testing effect than quizzes without, a between-study comparison that <a href="../../claims/feedback-no-significant-moderation/">an earlier meta-analysis did not find</a> [~M]. These are quizzes and word pairs, not programmed frames.</li>
+<li><strong>Branch on the response.</strong> After two errors on frames of the same kind (a proposal), route the learner to remedial frames that teach the step a different way, then return; after a run of correct, fast responses (a proposal: five in a row), offer a skip to the next section's first check. Evidence status: untested for frames. <a href="../../claims/adaptive-learning-improves-outcomes/">Intelligent tutoring systems</a> [~S], which adjust to each response, outperformed teacher-led large-group instruction, other computer-based instruction and textbooks in two meta-analyses, but not individual human tutoring or small groups, and their gains were smaller on standardized than on locally written tests.</li>
+<li><strong>Let the learner go at their own pace inside a dated schedule.</strong> Each learner works through the frames on their own time, but each unit has a target date, and a learner who falls behind is contacted. Evidence status: <a href="../../claims/self-paced-mastery-programs-reduce-college-course-completion/">self-paced mastery programs (PSI) reduced college course completion</a> [-M] (23 of 32 studies found higher completion in the conventional class), and <a href="../../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type/">group-based mastery programs had larger effects than self-paced ones</a> [~M]. The dated schedule is the claim page's own suggestion (deadlines or pacing support), not a tested remedy.</li>
+<li><strong>Gate the unit on a check without prompts.</strong> End each unit with items the learner has not seen in a frame, with no cues; advance at or above the criterion; below it, give corrective frames and a parallel recheck (run as the <a href="../mastery-learning/">Mastery Learning pattern</a> sets out). If the brief names its own check, use it as the gate and add no other test. Evidence status: <a href="../../claims/mastery-learning-improves-outcomes/">mastery programs, PSI among them, raised examination performance</a> [+M] over conventional instruction (mean 0.52 SD across 103 studies; PSI 0.48, not significantly different from group-based programs), and <a href="../../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type/">higher unit standards went with larger effects</a> [~M]. Those programs had units, tests and proctors, not necessarily frames.</li>
+</ol>
+<p><strong>Dose and progression across sessions</strong> (labelled proposals; no claim here gives a number):</p>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Session length</th>
+<th>Frames and support</th>
+<th>Moves on when</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Early sessions (first unit or two)</td>
+<td>15–20 minutes of frames, one sitting</td>
+<td>Small steps; each frame carries a cue (a highlighted word, a partly completed answer); rule given before examples; remedial branch after two errors of one kind</td>
+<td>The unit check, without cues, is at or above the criterion</td>
+</tr>
+<tr>
+<td>Middle sessions</td>
+<td>20–25 minutes</td>
+<td>Cues removed from about half the frames; steps combine two earlier steps; two or three review frames from earlier units at the start</td>
+<td>Unit check at criterion, and the review frames from earlier units are answered without cues</td>
+</tr>
+<tr>
+<td>Late sessions</td>
+<td>25–30 minutes, including a mixed review</td>
+<td>Frames without cues; larger steps or whole short problems; one in four frames draws on earlier units; the learner explains one answer in their own words</td>
+<td>Course check at criterion on items from all units, with no cues</td>
+</tr>
+</tbody>
+</table>
+<p>A session ends early when the learner has made three errors on remedial frames for the same step (a proposal): stop, record the step, and have a person look at it before the next session.</p>
+<table>
+<thead>
+<tr>
+<th>Observation</th>
+<th>Discriminating probe</th>
+<th>Proposed action, with its uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frames answered correctly, unit check failed</td>
+<td>Give two unit-check items with the frame's cue restored and two without.</td>
+<td>If the cued items are right and the uncued wrong, the cues were carrying the answer: remove cues sooner and add frames without them. If both are wrong, the step was learned in the frame's wording only: add frames that vary the surface. Untested.</td>
+</tr>
+<tr>
+<td>Repeated errors on one kind of frame</td>
+<td>Ask the learner to say what the frame is asking; give one prerequisite item.</td>
+<td>If they misread the frame, rewrite it; if the prerequisite fails, branch back to it; if both are fine, the step is too large: split it. One error pattern does not settle which.</td>
+</tr>
+<tr>
+<td>Very fast responses</td>
+<td>Check accuracy on the fast items and give one constructed-response item where the frames used selected responses.</td>
+<td>Fast and accurate on constructed items suggests the learner already knows the step (<a href="../../claims/higher-proficiency-faster-step-responses/">faster step responses go with higher proficiency</a> [~W], associational): offer the skip. Fast and inaccurate suggests guessing or clicking through: require typed responses.</td>
+</tr>
+<tr>
+<td>Very slow responses</td>
+<td>Ask what the learner is doing on a slow frame; compare with their accuracy.</td>
+<td>Slow and accurate may be careful work; slow and inaccurate may mean stuck. In tutoring data, slower response tendencies went with faster learning for higher-proficiency students and slightly slower learning for lower-proficiency ones (<a href="../../claims/rt-propensity-proficiency-interaction-learning/">response time and prior proficiency</a> [~W], associational). Branch the second case to remedial frames; do not hurry the first.</td>
+</tr>
+<tr>
+<td>Learner looks at the answer before responding</td>
+<td>Compare first-attempt accuracy on frames where the answer was hidden with those where it could be seen.</td>
+<td>Hide the answer until a response is entered; on paper, use a mask or a separate answer page.</td>
+</tr>
+<tr>
+<td>Learner stops working or falls behind the dated schedule</td>
+<td>Ask what the learner wants from the course and what got in the way.</td>
+<td>Contact at the missed date, agree a new date, offer a short session with a person; see the completion row in the table below.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="fitting-the-design-to-a-situation">Fitting the design to a situation<a class="headerlink" href="#fitting-the-design-to-a-situation" title="Permanent link">&para;</a></h2>
+<p><strong>The three facts that most change the decision:</strong></p>
+<ul>
+<li><strong>Whether each step has a checkable right answer.</strong> Frames with immediate confirmation suit facts, rules and procedures; where the task is judged as a whole or has no single answer, bare right/wrong confirmation does little and may mislead. If unstated, ask: for each step, can you write the correct answer in advance?</li>
+<li><strong>Whether learners must finish by a date and who will notice if they stop.</strong> Self-pacing raised non-completion in PSI. If unstated, ask: what happens to a learner who has not finished by the end of the course, and is there a person who checks?</li>
+<li><strong>What the learner already knows.</strong> Placement and step size depend on it, and a learner who already knows the unit gains nothing from its frames. If unstated, ask: can you give five unprompted items from the end of the unit before the first frame?</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learners are <code>novice</code> in the domain</td>
+<td>Smallest steps; rule then examples then incomplete examples; a cue on every early frame; remedial branch after two errors of one kind; remove cues over three sessions (dose table above).</td>
+<td><a href="../../claims/rule-example-sequence-efficient-rule-introduction/">Rule-example sequence</a> [~W] (an argument from early programmed-instruction work, not a test); step sizes untested</td>
+</tr>
+<tr>
+<td>Learners are <code>intermediate</code> or <code>advanced</code>, or vary widely in prior knowledge</td>
+<td>Place each learner with unprompted unit items; let those at criterion take the unit check directly; give larger steps and fewer cues to the rest.</td>
+<td>Untested proposal; <a href="../../claims/higher-proficiency-faster-step-responses/">faster step responses with higher proficiency</a> [~W] is associational and from algebra tutors</td>
+</tr>
+<tr>
+<td>Learners are <code>child</code> (upper primary) or in secondary school</td>
+<td>Sessions of 10–15 minutes, a teacher present to see who is stuck, the class working through a unit by a shared date and taking its check together.</td>
+<td><a href="../../claims/mastery-learning-improves-outcomes/">Mastery programs raised examination performance</a> [+M] in college, high-school and upper-elementary settings; <a href="../../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type/">group-based programs had larger effects</a> [~M]; not frame-based programs</td>
+</tr>
+<tr>
+<td>The goal is a fact, rule or procedure with one right answer per step</td>
+<td>Use the full sequence; constructed responses for recall; correct answer and reason after each error.</td>
+<td><a href="../../claims/feedback-enhances-retrieval-practice/">Feedback after retrieval</a> [+M] (word pairs and classroom quizzes, not frames)</td>
+</tr>
+<tr>
+<td>The goal is a complex judgment, a design, an argument or an open problem</td>
+<td>Do not build it from right/wrong frames. Use frames only for the prerequisite facts and rules; teach the whole task through worked examples, cases or practice with feedback on the reasoning (<a href="../worked-examples/">worked examples</a>, <a href="../direct-instruction/">direct instruction</a>).</td>
+<td><a href="../../claims/outcome-feedback-impedes-complex-task-learning-mcpl/">Outcome-only feedback impedes learning of complex tasks</a> [-W] (a review's report on a laboratory cue-learning paradigm); <a href="../../claims/task-type-moderates-induction-error-usefulness/">induction and errorful learning suit some task types and not others</a> [~W] (1966 argument)</td>
+</tr>
+<tr>
+<td>The brief wants a whole-task performance kept whole (a full procedure at work, a case, a performance)</td>
+<td>Keep the whole task as the unit check and the goal; use frames only for the parts learners keep getting wrong, and return them to the whole task at once.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td><code>online-self-paced</code>, no teacher, learners must finish by a date</td>
+<td>Dated targets per unit, an automatic reminder at each missed date and a person who contacts anyone two targets behind; keep the unit gate.</td>
+<td><a href="../../claims/self-paced-mastery-programs-reduce-college-course-completion/">Self-paced mastery programs reduced completion</a> [-M] (college PSI courses); reminders and contact are untested remedies</td>
+</tr>
+<tr>
+<td><code>classroom</code>, one teacher for many learners</td>
+<td>The software or the printed program confirms each response; the teacher sees who is branched to remedial frames twice and goes to them; the class keeps a shared unit date and takes the unit check together.</td>
+<td><a href="../../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type/">Group-based programs had larger effects than self-paced ones</a> [~M]; the teacher's routine is untested</td>
+</tr>
+<tr>
+<td>Scarce facilitator time (volunteers, a tutor checking in briefly, a busy shift)</td>
+<td>The program does all confirmation; the person's time goes only to learners stopped by the three-error rule, for 5 minutes each, with the stuck step shown to them.</td>
+<td>Untested proposal (the old page's Programmed Tutoring descendant used a human tutor for hints)</td>
+</tr>
+<tr>
+<td>A human tutor or a small group is available for every learner</td>
+<td>Keep the person; use frames for practice between sessions, not in place of the tutor.</td>
+<td><a href="../../claims/adaptive-learning-improves-outcomes/">Intelligent tutoring systems did not outperform individual human tutoring or small-group instruction</a> [~S]; carried from tutoring systems to programmed frames</td>
+</tr>
+<tr>
+<td>Some learners remote and some in the room, or phone only</td>
+<td>One frame per screen, responses by tapping a choice or typing a short answer, no frame that needs a printed sheet; the same dated schedule and unit check for both groups; remote learners get the contact by message.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td><code>single-session</code> only</td>
+<td>One program of 20–30 minutes covering one rule or procedure, ending with five unprompted items; no unit gate across sessions, and a note to the learner of which steps to revisit.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td>A fixed short time budget (for example 15 minutes)</td>
+<td>Placement 2 minutes, frames 10 minutes (about 15–20 frames), check 3 minutes; cut content rather than frames' response steps.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td>Learners with low confidence or low literacy</td>
+<td>Early frames that most learners get right, audio for frame text, responses by selecting or pointing, the learner's record private to them; move to constructed responses once accuracy is steady.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td>Adults in work settings</td>
+<td>Place by unprompted items so known steps are skipped; frames use the learner's own job tasks and forms; the unit check is the job task.</td>
+<td>Untested proposal (the old page names military and corporate training as PI's main users)</td>
+</tr>
+<tr>
+<td>The brief names its own check, rubric, criterion or categories</td>
+<td>Use them as given: the brief's check is the unit gate, its categories label the frames, its criterion is the cut score; change only step size, the response before the answer, and the immediate correction. Add no test, quiz or survey the brief did not ask for.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td>Private or sensitive material (health, finances, personal history)</td>
+<td>Responses stay with the learner; a person sees only whether the unit check was passed, unless the learner chooses to share more.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td>A product or performance for a real audience</td>
+<td>Not a programmed-instruction goal; use frames only for prerequisite facts and conventions, and teach the product through drafts and feedback on the whole.</td>
+<td>Untested proposal</td>
+</tr>
+<tr>
+<td>High stakes, or an independent standardized test at the end</td>
+<td>Write the unit checks as items the frames did not show; expect a smaller gain on the standardized test than on the course's own tests; check at the stated delay.</td>
+<td><a href="../../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type/">Mastery effects were near zero on standardized tests in four studies with both kinds</a> [~M]; <a href="../../claims/adaptive-learning-improves-outcomes/">tutoring-system gains were smaller on standardized tests</a> [~S]</td>
+</tr>
+<tr>
+<td>Complex material presented as animation or video inside the program, or learners want to set the pace</td>
+<td>Cut it into short segments the learner advances, with pause and replay; do not expect learner control in general to help.</td>
+<td><a href="../../claims/learner-paced-beats-system-paced-complex-material/">Learner pacing helped on difficult questions in one experiment, while learner control in general showed almost no effect across 18 studies</a> [~M] (primary-school students, one animation)</td>
+</tr>
+</tbody>
+</table>
+<p>Ten of the twenty rows link a claim (novices, varied prior knowledge, children, a rule or procedure, a complex goal, self-paced online, one teacher, a tutor available, high stakes, complex animated material), each carried beyond the population or design its claim page reports, as its Basis cell says; the other rows are untested proposals.</p>
+<h2 id="choosing-configurations-from-evidence">Choosing configurations from evidence<a class="headerlink" href="#choosing-configurations-from-evidence" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Self-paced units with a mastery gate (PSI).</strong> <a href="../../claims/mastery-learning-improves-outcomes/">Mastery Learning Improves Outcomes</a> [+M]: one meta-analysis of 108 controlled evaluations (67 of PSI, almost all self-paced and in college; 36 of group-based Learning for Mastery); across 103 studies of examination performance the mean effect was 0.52 SD, with PSI at 0.48 and LFM at 0.59, not significantly different. Its synthesis table gathers 7 distinct studies. <a href="../../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type/">The moderator analysis</a> [~M] found larger effects for group-based than self-paced programs, for higher unit standards, on locally written than on standardized tests (standardized effects near zero, -0.05 to 0.09, in four studies with both), and where the comparison group got less quiz feedback; its table gathers 6 distinct studies. The cost: <a href="../../claims/self-paced-mastery-programs-reduce-college-course-completion/">PSI reduced completion</a> [-M], h = -0.14 across 32 studies, not enough to explain the examination advantage (0.46 SD where PSI completion was lower, 0.55 where higher). Carry to frames only this far: a self-paced program with a unit gate can raise course-test scores, and self-pacing without dates costs completion.</li>
+<li><strong>Confirmation and correction after each response.</strong> <a href="../../claims/feedback-enhances-retrieval-practice/">Feedback Enhances Retrieval Practice</a> [+M]: in classroom studies, quizzes with corrective feedback gave g = 0.537 against g = 0.374 without, a between-study comparison; in one laboratory experiment (258 participants, Luganda–English word pairs), the correct answer after a wrong retrieval raised retention a week later by 494%, and feedback after correct responses made little difference. Its table gathers 6 distinct studies. Qualified by <a href="../../claims/feedback-no-significant-moderation/">Adesope et al.'s meta-analysis</a> [~M], where testing effects did not differ with and without feedback (g = 0.63 and 0.60). So the correction after an error is the part to keep; a confirmation after every correct answer may add time and little else.</li>
+<li><strong>Branching on each response.</strong> <a href="../../claims/adaptive-learning-improves-outcomes/">Intelligent tutoring systems improve achievement over non-individualised instruction</a> [~S]: tutoring systems against teacher-led large-group instruction g = 0.42, against other computer-based instruction 0.57, textbooks 0.35, human tutoring -0.11, small groups 0.05 (Ma et al. 2014, from the abstract); median 0.66 SD in 50 evaluations, smaller on standardized tests (Kulik &amp; Fletcher 2016). Its table gathers 10 distinct studies, one of which found adaptive task difficulty did not help second-graders. Tutoring systems model the learner far more finely than a branching program; carry it to "routing on the response can beat a fixed group sequence", no further.</li>
+<li><strong>Who sets the pace.</strong> <a href="../../claims/learner-paced-beats-system-paced-complex-material/">Learner pacing on complex material</a> [~M]: learner-paced animation beat system-paced animation on difficult questions only, for primary-school students in one experiment; learner control in general had an effect near zero (g = 0.05) across 18 studies. Its table gathers 8 distinct studies. PI's self-pacing is not by itself where its benefit lies.</li>
+<li><strong>Limits on bare confirmation.</strong> <a href="../../claims/outcome-feedback-impedes-complex-task-learning-mcpl/">Outcome feedback impedes complex-task learning</a> [-W] (Kluger &amp; DeNisi's report of laboratory cue-learning work, no effect size) and <a href="../../claims/knowledge-of-results-no-effect-achievement-test-dimensionality/">immediate knowledge of results during computerised testing made essentially no difference to achievement estimates</a> [~W] (Weiss 1980, a testing study, not instruction): right/wrong alone is weak where the task has many cues or no single answer.</li>
+</ul>
+<p>Do not rank programmed instruction against teacher-led instruction, worked examples or tutoring from these claims: none tests frames. A precise abstention names the missing comparison (the same content as frames with response and immediate correction, against the same content as text with end-of-section questions, on new items at a stated delay, with completion recorded) and the local observation that would stand in for it: unit-check accuracy on unseen items, time to criterion and completion, for learners placed into the program against those placed out.</p>
+<h2 id="the-evidence-by-question">The evidence by question<a class="headerlink" href="#the-evidence-by-question" title="Permanent link">&para;</a></h2>
+<ul>
+<li><em>Self-paced or group-paced progression through small units, at what criterion, measured how?</em> <a href="../../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type/">Mastery learning effects vary with the mastery standard, pacing, test type and the control group's feedback</a> [~M]</li>
+<li><em>Does confirming or correcting each response add to learning from making the response?</em> <a href="../../claims/feedback-enhances-retrieval-practice/">Feedback Enhances Retrieval Practice</a> [+M]</li>
+</ul>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<p>Claims read for this page that bear on it less directly; each says how far.</p>
+<ul>
+<li><a href="../../claims/mastery-learning-effects-larger-for-lower-aptitude-students/">Mastery learning effects are larger for lower-aptitude students</a> [+M] — from the same 1990 synthesis (13 studies; 0.61 SD against 0.40, not significant): bears on who gains from a gated program, not on frames.</li>
+<li><a href="../../claims/mastery-learning-gains-persist-at-follow-up/">Mastery learning gains persist at follow-up</a> [+M] — the same synthesis (11 studies, about eight weeks): bears on the delayed horizon for gated programs, PSI included.</li>
+<li><a href="../../claims/feedback-timing-moderates-pretesting/">A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed</a> [~M] — bears on whether the confirmation must come at once; for simple paired items it must, for richer facts it may wait. Owned by the <a href="../../principles/immediate-feedback/">Immediate Feedback principle</a>.</li>
+<li><a href="../../claims/its-improve-learning-outcomes-with-actionable-feedback/">Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback</a> [+W] — a framework paper's second-hand report of tutoring meta-analyses; adds no study.</li>
+</ul>
+<h2 id="illustrative-design-instance-and-observation-record">Illustrative design instance and observation record<a class="headerlink" href="#illustrative-design-instance-and-observation-record" title="Permanent link">&para;</a></h2>
+<p><em>Invented illustration, not a tested program.</em> New pharmacy assistants, adults on rotating shifts, must learn to read prescription abbreviations and calculate quantities before working alone in four weeks; they study on their phones, and one pharmacist has about 15 minutes a week for the group. The table changed the default: placement with ten unprompted abbreviation and calculation items skips two learners past the abbreviation unit; frames show one abbreviation or one calculation step per screen, require a typed answer, and show the correct answer and its reason after an error; the pharmacist's 15 minutes go to anyone stopped by the three-error rule; each unit has a target date, with a message at a missed date. The brief names the pharmacy's own dispensing checklist, so the unit check is that checklist applied to five new prescriptions, and no other test is added. A learner says she wants to stop asking colleagues what abbreviations mean; the designer's objective is error-free quantities. They agree to record both. The claims cover college PSI courses, classroom quizzes and tutoring systems, not this population, device or horizon; these are local choices to observe.</p>
+<p>Record: <strong>content steps and their right answers → placement items and responses, with time → frames shown, response to each, first-attempt accuracy, cue present or not → branches taken and why → time per session and dates met or missed → unit-check items (unseen), score, criterion → candidate interpretations (cue-dependence, prerequisite gap, step too large, guessing, already known) and their basis → recheck and delayed check at the stated horizon</strong>. Preserve the learner's stated purpose and any change in it. An agent may summarize this record but must not fabricate missing inputs or assign numerical probabilities of mastery without a calibrated model.</p>
+<h2 id="elements-and-limits">Elements and limits<a class="headerlink" href="#elements-and-limits" title="Permanent link">&para;</a></h2>
+<p><a href="../../elements/self-paced-learning/">Self-paced learning</a>, <a href="../../elements/immediate-feedback/">immediate feedback</a>, <a href="../../elements/practice/">practice</a>, <a href="../../elements/feedback/">feedback</a>, <a href="../../elements/hints/">hints</a>, <a href="../../elements/fading/">fading</a>, <a href="../../elements/retrieval-practice/">retrieval practice</a>, <a href="../../elements/adaptive-mastery-learning/">adaptive mastery learning</a> and <a href="../../elements/assessment/">assessment</a>. Principles the pattern draws on: <a href="../../principles/mastery-learning/">Mastery Learning</a>, <a href="../../principles/immediate-feedback/">Immediate Feedback</a>, <a href="../../principles/adaptive-learning/">Adaptive Learning</a>, <a href="../../principles/active-learning/">Active Learning</a>, <a href="../../principles/scaffolding-and-fading/">Scaffolding and Fading</a> and <a href="../../principles/chunking/">Chunking</a>. Theory: <a href="../../theories/behaviorism/">Behaviorism</a> and the <a href="../../theories/programmed-instruction-six-element-framework/">six-element programmed-instruction framework</a>, whose source also reports that the generality of its principles came into question.</p>
+<p>This pattern is scoped to well-defined content whose steps have checkable answers. Open, ill-structured and whole-task goals need other configurations (<a href="../case-based-learning/">case-based learning</a>, <a href="../worked-examples/">worked examples</a>, <a href="../direct-instruction/">direct instruction</a> with feedback on reasoning). Whether frames with a response and immediate correction teach more than the same content in other forms, for which learners, at what cost in completion, and at what horizon, remains to be tested.</p>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/design-moderators-unadjusted-only-hypothesis-generating/">Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only</a> [~W]</li>
+<li><a href="../../claims/immediate-feedback-limits-downstream-error-learning/">Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences</a> [~W]</li>
+<li><a href="../../claims/participant-computer-controller-no-recall-difference/">Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping</a> [~W]</li>
+<li><a href="../../claims/skipping-decisions-diverge-from-computer/">Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses</a> [~W]</li>
+</ul>
+<h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../mastery-learning/">Mastery Learning</a> — owns the unit criterion, correction and recheck this pattern uses at the end of each run of frames; PSI, its self-paced variant, is programmed instruction's direct descendant</li>
+<li><a href="../direct-instruction/">Direct Instruction</a> — the teacher-led, group-paced descendant with scripted small steps and unison responding</li>
+<li><a href="../game-based-mastery-learning/">Game-Based Mastery Learning</a> — a modern descendant that adds game mechanics (streaks, levels, adaptive difficulty) to the same small-step, immediate-feedback, self-paced core PI established</li>
+<li><a href="../../designs/tutor-led-strategies-adult-language-lessons/">Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Skinner's original teaching-machine frames and linear programmed textbooks (e.g., <em>English 2600</em>)</li>
+<li>Crowder's AutoTutor and TutorText branching programmed books</li>
+<li>The Personalized System of Instruction ("Keller Plan"): self-paced units with a mastery test and proctor feedback before advancing</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Molenda, M. (2008). The programmed instruction era: When effectiveness mattered. <em>TechTrends, 52</em>(2), 52–58. Republished in R. West (Ed.), <em>Foundations of Learning and Instructional Design Technology</em>. EdTech Books. <a href="https://edtechbooks.org/lidtfoundations/programmed_instruction">https://edtechbooks.org/lidtfoundations/programmed_instruction</a></li>
+<li>Skinner, B. F. (1954). The science of learning and the art of teaching. <em>Harvard Educational Review, 24</em>, 86–97.</li>
+<li>Keller, F. S. (1968). Goodbye, teacher... <em>Journal of Applied Behavior Analysis, 1</em>, 78–79.</li>
+<li>Kulik, C.-L. C., Kulik, J. A., &amp; Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. <em>Review of Educational Research, 60</em>(2), 265–299. <a href="https://doi.org/10.3102/00346543060002265">doi:10.3102/00346543060002265</a></li>
+</ul>
+<!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
+## Description
+Programmed Instruction (PI) restructures content as a sequence of small "frames," each presenting a small amount of information and then requiring the learner to make an active response — write or select an answer — before immediately revealing whether it was correct. Skinner's original **linear programming** moved every learner through the same fixed sequence of small steps; Norman Crowder's **intrinsic (branching) programming** let learners skip ahead through easy material or branch to remedial frames when they struggled, based on their responses (Molenda, 2008).
+
+PI was devised as a humane alternative to lock-step, group-paced instruction: it lets each learner work at their own pace, guarantees a response at every step (rather than passive listening), and provides confirmation immediately rather than after a delay. It was the first instructional format subjected to the "90/90 criterion" (at least 90% of the target population achieving 90% of objectives) as a mandatory development standard, which drove a discipline of testing and revising materials during development — a direct precursor to systematic instructional design.
+
+While PI itself receded after the 1960s once most of its specific hypotheses (small steps, linear sequencing, immediate reinforcement as universally necessary) failed to hold up under testing, several descendants inherited its core mechanism — a small step, an active response, and confirmation or correction — while adding features PI lacked: **Programmed Tutoring** (Ellson) added a human tutor providing social reinforcement and hints instead of a mechanical device; **Direct Instruction** (Engelmann) added fast-paced, scripted, teacher-led group unison responding; and the **Personalized System of Instruction** ("Keller Plan") added self-paced units with a mastery test and proctor feedback at the end of each unit before the learner advances — the direct forerunner of mastery-based and self-paced distance education.
+
+## Implications
+
+### Context
+#### Requirements
+- Content that can be broken into small, sequential, well-defined steps, each pairing information with a checkable response
+- A mechanism (mechanical device, book layout, tutor, or software) for withholding the correct answer until after the learner responds, and revealing it immediately after
+#### Constraints
+- Small-step, linear sequencing is not itself necessary for effectiveness — later research found branching and larger chunks worked as well or better for many learners; the pattern's value lies in active responding and immediate confirmation, not the specific step size
+- Poorly suited to open-ended, ill-structured content where there is no single correct response to confirm at each step
+- Schools found PI materials effective in isolation but could not realize gains without restructuring surrounding classroom routines and pacing — the pattern strains against institutions built around fixed group pacing
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- Discrete, checkable knowledge and skills: recall of facts, application of rules, execution of procedures
+- Self-paced mastery, letting faster learners advance without waiting and slower learners repeat without holding others back
+
+### Target Learners
+- Learners who benefit from working independently at their own pace rather than a fixed group pace
+- Learners in domains (military and corporate training, in particular) where efficiency and measurable objective attainment matter enough to justify the design and testing investment PI requires
+
+### Theory
+#### Supporting
+- [Behaviorism](../theories/behaviorism.md) [+S] — PI is behaviorism's most direct instructional expression: small stimulus-response steps strengthened by immediate reinforcement (confirmation of the correct response)
+#### Contradicting / Qualifying
+- Subsequent research undermined several of PI's specific behaviorist hypotheses (that steps must be small, sequencing must be linear, and "knowledge of correct response" is a universal reinforcer), even though PI as a format continued to outperform "conventional" group instruction in comparison studies
+
+### Claims
+
+- [Higher prior proficiency is associated with faster step-level response-time propensities](../../claims/higher-proficiency-faster-step-responses/) [~W]
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../../claims/learner-paced-beats-system-paced-complex-material/) [~W]
+
+## Design
+
+### Sequence
+1. Break the content into small, sequential frames, each presenting a bit of information.
+2. Require the learner to make an active response (write or select an answer) before moving on.
+3. Reveal the correct answer or confirm the learner's response immediately.
+4. For branching/intrinsic programming: route the learner to a remedial frame on an incorrect response, or let them skip ahead on strong performance.
+5. Let the learner progress through the full sequence at their own pace, rather than a fixed group pace.
+
+### Elements Used
+- [Self-Paced Learning](../elements/self-paced-learning.md)
+- [Immediate Feedback](../elements/immediate-feedback.md)
+- [Practice](../elements/practice.md)
+
+### Affordances
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+
+### Personalization
+- Branching (intrinsic) programming personalizes the path itself, sending struggling learners to remedial frames and letting confident learners skip ahead
+- Even linear programming personalizes pace, since every learner moves through the same steps but on their own schedule
+
+## Related Patterns
+
+- [Game-Based Mastery Learning](game-based-mastery-learning.md) — a modern descendant that adds game mechanics (streaks, levels, adaptive difficulty) to the same small-step, immediate-feedback, self-paced core PI established
+- [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](../designs/tutor-led-strategies-adult-language-lessons.md)
+
+## Examples
+- Skinner's original teaching-machine frames and linear programmed textbooks (e.g., *English 2600*)
+- Crowder's AutoTutor and TutorText branching programmed books
+- The Personalized System of Instruction ("Keller Plan"): self-paced units with a mastery test and proctor feedback before advancing
+
+## Key Sources
+- Molenda, M. (2008). The programmed instruction era: When effectiveness mattered. *TechTrends, 52*(2), 52–58. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/programmed_instruction](https://edtechbooks.org/lidtfoundations/programmed_instruction)
+- Skinner, B. F. (1954). The science of learning and the art of teaching. *Harvard Educational Review, 24*, 86–97.
+- Keller, F. S. (1968). Goodbye, teacher... *Journal of Applied Behavior Analysis, 1*, 78–79.
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>pattern</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>programmed-instruction</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Programmed Instruction</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A reusable sequence in which content is broken into small frames, each needing an active response that is confirmed or corrected at once, with progress at the learner's pace or by branching on the response, behind a unit check; expected to help with facts, rules and procedures that have checkable answers when steps fit prior knowledge and a dated schedule guards against non-completion. No claim in this wiki tests programmed instruction itself; the nearest evidence is from self-paced mastery programs (PSI), feedback after retrieval and intelligent tutoring.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>grain_size</code></td>
+<td><code>lesson</code></td>
+</tr>
+<tr>
+<td><code>author</code></td>
+<td><code>B. F. Skinner (linear); Norman Crowder (branching/intrinsic)</code></td>
+</tr>
+<tr>
+<td><code>canonical</code></td>
+<td><code>True</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-15</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      <span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
