@@ -1,0 +1,39 @@
+---
+type: claim
+title: Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts
+description: Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts
+id: example-quality-moderation-null
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: weak
+sources:
+  - id: linda-froese-2023
+    resource: "https://doi.org/10.1007/s11409-023-09347-w"
+    title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
+    author: Linda Froese, Julian Roelle
+---
+
+# Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts
+
+## Subclaims
+`q2 i?` Exploratory moderation analyses found no statistically significant moderation of the standards' effects by example quality when aggregated across the eight concepts. [→ Linda Froese 2023](#linda-froese-2023)
+
+## Evidence
+
+### Linda Froese 2023
+
+Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w
+
+`q2 · i?`
+
+Exploratory moderation analyses (16 total: example quality as moderator for bias and absolute accuracy across eight concepts) found significant interactions with example quality in three analyses for expert example standards, but "no statistically significant moderation effects were found" when aggregated across concepts.
+
+> "When aggregated across the eight concepts, however, no statistically significant moderation effects were found. Jointly, these findings suggest that at least for the effects of expert example standards, example quality might be a potential moderator, though its effects likely are small and not consistent."
+
+## Discussion
+
+
+## Related Claims
+-
