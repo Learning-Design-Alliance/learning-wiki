@@ -31,7 +31,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (9 for, 13 mixed, 2 against) · 29 studies (12 causal, 4 quant-synthesis, 4 review, 4 associational, 3 theoretical, 2 design), `q1`–`q4` · 5 of 29 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 30 studies (13 causal, 4 quant-synthesis, 4 review, 4 associational, 3 theoretical, 2 design), `q1`–`q4` · 5 of 30 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](../claims/closed-book-no-delayed-posttest-added-value.md) [-W]
 - [Student teachers struggled to self-explain expert features from faded double-content examples and to transfer them to their analyses](../claims/struggled-self-explain-faded-examples.md) [-W]
 - [Comparison prompts are strongly concentrated in process diagrams (93%) and rare in photos (20%)](../claims/comparison-frequency-varies-by-image-type.md) [~W]
+- [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle](../claims/assisting-prompts-foster-conceptual-knowledge.md) [+W]
 
 ## Related Principles
 - [Active Learning](active-learning.md) — active learning becomes more valuable when the activity is cognitively demanding rather than merely participatory

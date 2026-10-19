@@ -13,7 +13,7 @@ generated:
 # Open-Ended Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 18 studies (5 review, 4 causal, 4 quant-synthesis, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 19 studies (5 review, 4 causal, 4 quant-synthesis, 3 qualitative, 2 associational, 1 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 5 claims rest on one study
 
 ## Description
 Open-ended discussion is facilitated dialogue in which learners collectively explore a question, text, or problem that has no single predetermined answer. The instructor's role shifts from transmitting content to structuring and steering talk — posing probing questions, requiring justification, and distributing participation — so that learners construct and test ideas against one another.
@@ -59,6 +59,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - [Context characteristics (community type, trimester, teacher-student role) have little impact on openness; teachers contribute more social openness and receive less follow-up](../claims/context-effects-on-openness-and-teacher-followup.md) [~W]
 - [A single student's open question can trigger dissolution of a non-dialogic network and autonomous dialogic argumentation](../claims/student-question-triggers-dialogic-network.md) [+W]
 - [Mixed and exclusively soft disagreement episodes featured more extended turns and more perspectives than exclusively direct episodes](../claims/mixed-soft-episodes-longer-more-perspectives.md) [+W]
+- [The beginner tutor was unnerved by a dominant, critical student and by posting complexity, did not respond at times, and made no active contribution in the end phase](../claims/beginner-tutor-overwhelmed-withdrew.md) [~W]
 
 ## The evidence by question
 

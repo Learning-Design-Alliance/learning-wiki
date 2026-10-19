@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (8 for, 4 mixed, 1 against) · 14 studies (6 causal, 3 review, 3 associational, 2 quant-synthesis), `q2`–`q3` · 4 of 14 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 16 studies (6 causal, 4 associational, 3 review, 2 quant-synthesis, 1 design), `q2`–`q3` · 4 of 16 report an effect size · 12 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -43,6 +43,8 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](../claims/rubric-benefits-independent-of-task-performance.md) [+W]
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](../claims/rubric-benefits-independent-of-inferential-level.md) [~W]
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](../claims/rubrics-improve-absolute-self-assessment-accuracy.md) [+W]
+- [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](../claims/bespoke-content-strongest-production-weakest-voice.md) [+W]
+- [Authorship scores were highly concentrated near the maximum of the rubric scale](../claims/authorship-ceiling-concentration.md) [-W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

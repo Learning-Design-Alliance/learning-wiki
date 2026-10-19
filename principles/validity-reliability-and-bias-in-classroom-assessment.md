@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 175 claims (77 for, 85 mixed, 13 against) · 133 studies (46 associational, 32 design, 19 theoretical, 18 review, 13 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 133 report an effect size · 170 claims rest on one study
+> **Evidence** · 180 claims (77 for, 89 mixed, 14 against) · 138 studies (49 associational, 34 design, 19 theoretical, 18 review, 13 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 11 of 138 report an effect size · 175 claims rest on one study
 
 ## Conditional relationship
 
@@ -273,6 +273,11 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample](../claims/qcge-sas-criterion-validity-learning-outcomes.md) [+W]
 - [Type-1 performance in reading-related experimental tasks correlates with standardized reading test performance, validating the task battery](../claims/type1-orthographic-tasks-correlate-reading-tests.md) [+W]
 - [Teachers' judgments of students' performance deviated 21.96% from students' actual performance, tending to overestimate it](../claims/teachers-overestimate-students-performance-22-percent.md) [+W]
+- [AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse](../claims/ai-detectors-reported-unreliable-biased.md) [-W]
+- [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](../claims/aes-high-agreement-calibration-constraint.md) [~W]
+- [The Who Has More task showed moderate test-retest reliability (r = .46) in preschoolers, and the authors call for more stable ANS measures for this age](../claims/ans-task-moderate-test-retest-reliability-preschoolers.md) [~W]
+- [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](../claims/anvil-llm-judge-analogy-screening.md) [~W]
+- [Almost all middle and high school academic indicators demonstrated similar predictive strength across student groups, with exceptions for science and English language arts proficiency in middle school and science proficiency and community service learning enrollment in high school](../claims/academic-indicator-predictive-strength-similar.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 11 studies (6 causal, 2 quant-synthesis, 2 associational, 1 review), `q2`–`q4` · 1 of 11 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (7 for, 4 mixed, 1 against) · 11 studies (6 causal, 2 quant-synthesis, 2 associational, 1 review), `q2`–`q4` · 1 of 11 report an effect size · 11 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
@@ -50,6 +50,7 @@ Self-explanation is the element in which learners explain to themselves why some
 - [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](../claims/worked-examples-no-self-explanation-quality-advantage.md) [-W]
 - [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](../claims/males-gaming-more-self-explanation-game-condition.md) [~W]
 - [Gaming the system in the self-explanation step predicts delayed posttest scores beyond pretest, adding 3 percent of variance](../claims/se-gaming-predicts-delayed-posttest.md) [~W]
+- [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle](../claims/assisting-prompts-foster-conceptual-knowledge.md) [+W]
 
 ## The evidence by question
 - *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

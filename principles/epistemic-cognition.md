@@ -39,7 +39,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (11 for, 10 mixed, 2 against) · 35 studies (16 causal, 5 review, 4 quant-synthesis, 4 qualitative, 4 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 35 report an effect size · 15 claims rest on one study
+> **Evidence** · 24 claims (11 for, 11 mixed, 2 against) · 36 studies (16 causal, 5 review, 5 theoretical, 4 quant-synthesis, 4 qualitative, 1 associational, 1 design), `q1`–`q4` · 4 of 36 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](../claims/expert-standards-relative-accuracy-null.md) [-W]
 - [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](../claims/training-impact-higher-evaluation-than-search.md) [~W]
 - [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](../claims/idea-unit-standards-ineffective-example-generation.md) [-W]
+- [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](../claims/ai-intuition-epistemic-judgment-not-prompt-engineering.md) [~W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence

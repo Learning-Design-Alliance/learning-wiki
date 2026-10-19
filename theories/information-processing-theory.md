@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 44 claims (29 for, 15 mixed) · 33 studies (15 causal, 8 associational, 4 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 7 of 33 report an effect size · 42 claims rest on one study
+> **Evidence** · 53 claims (31 for, 22 mixed) · 41 studies (15 causal, 13 associational, 7 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 8 of 41 report an effect size · 51 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -107,6 +107,15 @@ Information processing models are often criticized as overly linear and serial, 
 - [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](../claims/wmc-predicts-retention-only-disfluency-condition.md) [~W]
 - [Disfluency benefits retention and comprehension only for learners with high working memory capacity](../claims/disfluency-benefits-high-working-memory-only.md) [~W]
 - [Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test](../claims/zambrano-2019-low-density-benefit-shortlived.md) [~W]
+- [Processing of affective stimuli is prioritized and interferes with target processing during the attentional blink interval in early adolescence](../claims/affective-stimuli-interfere-attentional-blink-adolescents.md) [~W]
+- [Acetylcholine gates memory encoding: surprising outcomes drive high release that encodes new memories distinct from prior ones, and focus lags alertness by several minutes](../claims/acetylcholine-surprise-encoding-focus-lag.md) [~W]
+- [Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search](../claims/attention-facilitates-wm-retrieval.md) [+W]
+- [Age differences in text processing are examined in terms of the roles of working memory, inhibition, and processing speed](../claims/age-differences-text-processing-working-memory-inhibition-processing-speed.md) [~W]
+- [Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources](../claims/adult-subtraction-strategy-reliance-working-memory-cost.md) [~W]
+- [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](../claims/attention-more-associated-reading-than-hyperactivity.md) [~W]
+- [Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines](../claims/blocked-decline-mixed-no-decline-aging-span.md) [~W]
+- [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](../claims/bilingual-flatter-attended-encoding-pattern.md) [~W]
+- [A model of kindergarten writing development including an attention factor fits better than a model with only language and literacy factors](../claims/attention-factor-improves-model-fit.md) [+W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

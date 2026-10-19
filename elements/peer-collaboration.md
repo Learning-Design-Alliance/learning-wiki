@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (13 for, 14 mixed) · 29 studies (6 causal, 6 associational, 6 theoretical, 5 qualitative, 4 quant-synthesis, 2 review), `q1`–`q4` · 4 of 29 report an effect size · 25 claims rest on one study
+> **Evidence** · 30 claims (13 for, 17 mixed) · 31 studies (7 qualitative, 6 causal, 6 associational, 6 theoretical, 4 quant-synthesis, 2 review), `q1`–`q4` · 4 of 31 report an effect size · 28 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -77,6 +77,9 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Performing social activities negatively predicts group performance in CSCL inquiry tasks](../claims/social-activities-negatively-predict-group-performance.md) [~W]
 - [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](../claims/regulation-of-social-activities-predicts-group-performance.md) [~W]
 - [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](../claims/zambrano-2019-learning-phase-manova-main-effects.md) [+W]
+- [High challenge dyads show an isolated bi-directional cycle between social challenge and off-task activities, while low challenge dyads' challenges feed into metacognitive activities](../claims/challenge-off-task-vicious-cycle-high-challenge.md) [~W]
+- [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](../claims/challenges-hinder-mutual-trust-shared-mental-models.md) [~W]
+- [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](../claims/bodily-material-interaction-off-screen.md) [~W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 142 claims (69 for, 61 mixed, 12 against) · 116 studies (44 causal, 19 quant-synthesis, 18 review, 13 associational, 9 qualitative, 9 design, 4 theoretical), `q1`–`q4` · 31 of 116 report an effect size · 121 claims rest on one study
+> **Evidence** · 150 claims (72 for, 65 mixed, 13 against) · 121 studies (45 causal, 19 quant-synthesis, 19 review, 13 associational, 11 qualitative, 9 design, 5 theoretical), `q1`–`q4` · 31 of 121 report an effect size · 129 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -191,6 +191,14 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](../claims/self-assessment-feedback-no-benefit-absence-of-feedback.md) [-W]
 - [Within the feedback condition, students rated test taking and receiving feedback as equally useful for monitoring their performance](../claims/test-taking-and-feedback-equally-useful-for-monitoring.md) [~W]
 - [Person praise raises state self-esteem (d = 0.40), and under task-involving feedback higher state self-esteem is negatively related to motivation, supporting a distraction mechanism only in the low-threat condition](../claims/state-self-esteem-distraction-mechanism-task-involving.md) [~W]
+- [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](../claims/adaptive-feedback-improves-diagnosis-justification.md) [+W]
+- [AI-assisted feedback does not reduce student-perceived usefulness of rated feedback](../claims/ai-assisted-feedback-preserves-student-usefulness.md) [+W]
+- [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](../claims/accurate-diagnosis-not-actionable-feedback.md) [-W]
+- [AI-correcting is a newly observed orchestration type in which the teacher identifies erroneous AI feedback, points it out to students, and re-guides or edits AI prompts (10 of 46 episodes)](../claims/ai-correcting-orchestration-type.md) [~W]
+- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](../claims/ai-feedback-interest-workload-timeliness.md) [~W]
+- [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](../claims/ai-feedback-preference-clarity-availability-reasons.md) [+W]
+- [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](../claims/anonymous-online-peer-review-differential-responses.md) [~W]
+- [Acceptance rates increase with writing progress, with the L2-over-L1 advantage widening in later stages](../claims/acceptance-increases-with-writing-progress.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

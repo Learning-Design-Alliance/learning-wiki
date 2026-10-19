@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (21 for, 26 mixed, 2 against) · 41 studies (21 causal, 9 quant-synthesis, 6 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 13 of 41 report an effect size · 41 claims rest on one study
+> **Evidence** · 50 claims (21 for, 27 mixed, 2 against) · 42 studies (21 causal, 10 quant-synthesis, 6 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 42 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](../claims/single-picture-beats-animation-for-spatial-arrangements.md) [~W]
 - [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](../claims/related-pictures-improve-metacognitive-monitoring-exp2.md) [~W]
 - [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](../claims/theory-annotation-no-extra-skill-benefit.md) [~W]
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](../claims/animation-small-overall-advantage-over-static-graphics.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

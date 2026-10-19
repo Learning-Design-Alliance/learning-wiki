@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 qualitative), `q1`–`q3` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 9 studies (4 quant-synthesis, 3 review, 1 causal, 1 qualitative), `q1`–`q3` · 4 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -53,6 +53,12 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms](../claims/brain-breaks-teacher-adoption-after-presentation.md) [+W]
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](../claims/acute-cardio-exercise-improves-executive-function-adhd-children.md) [+W]
+- [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](../claims/acute-physical-activity-improves-attention-preadolescents.md) [+W]
+- [Acute exercise significantly improves cognitive flexibility in children and adolescents with a small effect size (SMD = −0.34)](../claims/acute-exercise-improves-cognitive-flexibility-children.md) [+W]
+- [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](../claims/cbpa-improves-attention-on-task-schoolchildren.md) [+W]
+- [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](../claims/cbpa-effects-moderated-cognitive-engagement-timing.md) [~W]
+- [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](../claims/cbpa-null-results-two-studies.md) [~W]
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

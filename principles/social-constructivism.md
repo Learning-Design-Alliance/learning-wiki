@@ -17,7 +17,7 @@ sources:
 # Social Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 5 mixed, 3 unmarked) · 25 studies (6 quant-synthesis, 5 causal, 5 review, 5 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 3 of 25 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (8 for, 5 mixed, 3 unmarked) · 26 studies (6 quant-synthesis, 5 causal, 5 review, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 3 of 26 report an effect size · 11 claims rest on one study
 
 ## Description
 Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity. It emphasizes that knowledge formation is not only individual but also social, mediated by dialogue, tools, and participation.
@@ -70,6 +70,7 @@ Social constructivism is strongest when learning depends on language, comparison
 - [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](../claims/talk-types-mediate-makerspace-knowledge-practices.md) [+W]
 - [Shared technology resources can act as positioning artifacts around which students negotiate power and status differentials in CSCL groups](../claims/technology-as-positioning-artifact-power-status.md) [~W]
 - [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](../claims/teacher-guidance-mediation-cscl.md) [~W]
+- [The editorial reports the squib's argument that ambitious learning practices can empower students, support shared meaning-making, and potentially disrupt social inequality](../claims/ambitious-learning-practices-argument.md) [+W]
 
 ## The evidence by question
 

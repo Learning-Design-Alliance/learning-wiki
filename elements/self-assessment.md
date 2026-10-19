@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (9 for, 14 mixed, 8 against) · 26 studies (17 causal, 3 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 10 of 26 report an effect size · 29 claims rest on one study
+> **Evidence** · 33 claims (10 for, 15 mixed, 8 against) · 28 studies (18 causal, 4 associational, 3 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 10 of 28 report an effect size · 31 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -81,6 +81,8 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](../claims/students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) [~W]
 - [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](../claims/unskilled-unaware-monitoring-after-self-scoring.md) [~W]
 - [Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch](../claims/scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) [~W]
+- [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](../claims/accurate-jol-repetition-benefit.md) [+W]
+- [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](../claims/bias-index-predicts-achievement.md) [~W]
 
 ## The evidence by question
 

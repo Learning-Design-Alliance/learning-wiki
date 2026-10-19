@@ -17,7 +17,7 @@ sources:
 # Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 review), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The digest enumerates four teacher strategies for encouraging older language learners: "eliminating affective barriers", incorporating adult learning strategies, making the learning situation and materials relevant to older refugees' needs and desires, and tapping into the goals of the refugee community. It grounds them in the teacher's belief that older adults are not necessarily poor learners.
@@ -40,6 +40,7 @@ The digest enumerates four teacher strategies for encouraging older language lea
 
 - [No Evidence Older Adults Cannot Learn Language](../claims/no-evidence-older-adults-cannot-learn-language.md) [+W]
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](../claims/depression-decisive-factor-refugee-language-learning.md) [+W]
+- [The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners](../claims/anxiety-interferes-language-learning-long-interest.md) [+W]
 
 ## Related Principles
 

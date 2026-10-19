@@ -17,7 +17,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 15 studies (4 review, 3 qualitative, 3 theoretical, 2 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 1 of 15 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (13 for, 1 mixed) · 18 studies (4 review, 4 qualitative, 3 causal, 3 theoretical, 2 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 11 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -69,6 +69,9 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - Inclusion Alone Cannot Bring Substantial Change [+M]
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](../claims/disability-inclusion-starts-from-exclusion.md) [+W]
 - [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](../claims/subgroup-differences-reflect-opportunities-to-learn.md) [~W]
+- [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](../claims/belonging-associated-with-persistence-science-identity-differentiates-leavers.md) [+W]
+- [Girls' lower sense of belonging mediates the relation between gender-interest stereotypes and their lower interest in computer science, with the opposite mediation for boys](../claims/belonging-mediation-gender-interest-stereotypes.md) [+W]
+- [School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)](../claims/belonging-gpa-correlation-latino-sixth-graders.md) [+W]
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

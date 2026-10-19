@@ -35,7 +35,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (30 for, 22 mixed, 4 against) · 56 studies (22 causal, 14 review, 6 quant-synthesis, 6 design, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 56 report an effect size · 49 claims rest on one study
+> **Evidence** · 57 claims (30 for, 23 mixed, 4 against) · 57 studies (22 causal, 14 review, 7 design, 6 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 57 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable](../claims/stochastic-router-higher-conversion-rate.md) [+M]
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](../claims/drl-policy-favors-guided-examples-distribution.md) [+W]
+- [In a classroom study of the G4L system, the Bayesian knowledge propagation algorithm demonstrated the highest knowledge gains, and log-data analysis revealed significant differences in self-regulated learning patterns between learners](../claims/bn-highest-knowledge-gains-g4l.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

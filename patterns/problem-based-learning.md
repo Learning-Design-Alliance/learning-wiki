@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (11 for, 29 mixed, 4 against) · 37 studies (14 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 37 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (11 for, 30 mixed, 4 against) · 37 studies (14 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 37 report an effect size · 40 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Verbal interaction in a PBL tutorial group shows only part of the underlying cognitive and metacognitive processes](../claims/pbl-verbal-interaction-tip-of-iceberg.md) [~W]
 - [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](../claims/staff-tutoring-small-achievement-advantage-pbl.md) [~W]
 - [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](../claims/productive-failure-deeper-learning-lower-posttests.md) [~W]
+- [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](../claims/ai-pbl-high-ngain-versus-control-low.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (18 for, 32 mixed, 7 against) · 42 studies (23 causal, 6 review, 4 quant-synthesis, 3 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 12 of 42 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (18 for, 32 mixed, 8 against) · 43 studies (23 causal, 6 review, 4 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 12 of 43 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](../claims/within-teacher-performance-trajectories-as-scaffolds-faded.md) [~W]
 - [Provided support does not influence task regulation between conditions](../claims/support-does-not-influence-task-regulation.md) [~W]
 - [On the knowledge assignment, neither the occasion-by-contingency interaction nor the three-way interaction with independent working time was significant](../claims/knowledge-assignment-null-contingency-effects.md) [~W]
+- [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](../claims/ai-assisted-performance-no-unassisted-transfer.md) [-W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 136 claims (66 for, 64 mixed, 6 against) · 114 studies (43 associational, 35 causal, 10 quant-synthesis, 9 review, 7 theoretical, 5 qualitative, 5 design), `q1`–`q4` · 31 of 114 report an effect size · 121 claims rest on one study
+> **Evidence** · 140 claims (69 for, 65 mixed, 6 against) · 118 studies (44 associational, 35 causal, 11 review, 10 quant-synthesis, 7 theoretical, 6 qualitative, 5 design), `q1`–`q4` · 32 of 118 report an effect size · 125 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -183,6 +183,10 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Students self-report help-seeking as their strongest SRL skill and reflection for action as their weakest](../claims/students-help-seeking-strong-reflection-for-action-weak.md) [~W]
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](../claims/training-scores-partial-correlations-exams.md) [+W]
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](../claims/teachers-instruct-cognitive-more-than-metacognitive-strategies.md) [-W]
+- [Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking](../claims/adaptive-versus-dependent-help-seeking.md) [+W]
+- [ADHD coaching helped college students with ADHD set more specific goals broken into component steps with incremental deadlines](../claims/adhd-coaching-improved-goal-attainment-process.md) [+W]
+- [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](../claims/asr-predicts-gpa-and-school-adjustment.md) [~W]
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](../claims/ai-stem-higher-order-thinking-effects.md) [+W]
 
 ## The evidence by question
 

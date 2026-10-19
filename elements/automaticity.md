@@ -13,7 +13,7 @@ generated:
 # Automaticity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (3 review, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 8 studies (3 review, 1 causal, 1 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Automaticity is the state in which a component skill — decoding words, retrieving math facts, typing, parsing syntax — executes quickly, accurately, and with little conscious effort. It develops through repeated, spaced, and increasingly varied practice after initial accuracy is achieved. Its instructional significance lies in what it *releases*: when lower-level processes run without deliberate attention, working memory is available for comprehension, problem-solving, and composition.
@@ -55,6 +55,7 @@ Automaticity of component skills is a precondition for complex performance: read
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/strong-evidence-fluency-building-activities-grades-4-9.md) [+W]
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](../claims/spanish-decoding-rate-better-predictor-than-accuracy.md) [+W]
+- [Automaticity does not predict decoding or reading comprehension in middle-school students](../claims/automaticity-not-predict-decoding-comprehension.md) [-W]
 
 ## The evidence by question
 

@@ -12,7 +12,7 @@ generated:
 # Foreign Language Anxiety
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 6 studies (2 review, 2 associational, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 7 studies (3 review, 2 associational, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 7 report an effect size · 9 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1182973, eric-ed537603, eric-ej1117239. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -48,6 +48,7 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](../claims/incidental-vocabulary-anxiety-positive-predictor.md) [-M]
 - [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](../claims/l2-anxiety-negative-correlation-achievement-meta-analysis.md) [+M] — attached 2026-10-15 from Yasser Teimouri et al. (2019), which proposed "L2 anxiety as a negatively acting affective variable in L2 learning with (non)linguistic moderators"; tests this page's relationship.
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](../claims/anxiety-achievement-moderators-levels-languages-anxiety-types.md) [~M] — attached 2026-10-15 from Yasser Teimouri et al. (2019), which proposed "L2 anxiety as a negatively acting affective variable in L2 learning with (non)linguistic moderators".
+- [The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners](../claims/anxiety-interferes-language-learning-long-interest.md) [+W]
 
 ## The evidence by question
 - *Do learners who are more anxious about a foreign language achieve less in it, and for which kinds of anxiety, outcome and learner?* [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](../claims/l2-anxiety-negative-correlation-achievement-meta-analysis.md) [+M]

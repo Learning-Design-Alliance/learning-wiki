@@ -17,7 +17,7 @@ sources:
 # Sociomaterial Agency of Tools
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (13 for, 4 mixed) · 12 studies (6 qualitative, 3 causal, 2 theoretical, 1 review), `q1`–`q3` · 2 of 12 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (16 for, 5 mixed) · 15 studies (8 qualitative, 4 causal, 2 theoretical, 1 review), `q1`–`q3` · 2 of 15 report an effect size · 21 claims rest on one study
 
 ## Description
 Drawing on new materialist and posthumanist theory (Barad's concept of intra-action, in which matter and meaning co-constitute each other rather than matter being a passive backdrop to human intention), this perspective treats instructional tools and materials as active participants in learning, not neutral vehicles for a lesson's content. Materials carry forward cultural histories and associations — including gendered ones, such as sewing being coded feminine and circuit-building coded masculine — that shape who feels invited to use them and how they think while using them. The practical implication for design is that choosing "neutral" materials is not actually possible; material choices always carry some cultural coding, and thoughtful design can use that fact deliberately (e.g., pairing historically feminine-coded craft materials with rigorous technical content) rather than pretending it away.
@@ -52,6 +52,10 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](../claims/weaving-algorithm-one-dimension-at-a-time.md) [~W]
 - [Algorithms developed over time through changes in youth-material collaborations, defining learning as physical expansion of algorithmic production](../claims/algorithms-expand-over-time-youth-material-changes.md) [+W]
 - [Students are far more inclined to use conceptual and textual representational tools than arithmetical ones, and collaboration does not stimulate arithmetical tool use](../claims/format-affects-inclination-to-use-tool.md) [~W]
+- [An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing](../claims/agentic-cursor-increases-agent-understandability.md) [+W]
+- [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](../claims/agency-narrowed-to-tool-adoption.md) [~W]
+- [Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content](../claims/ai-lowers-cognitive-barriers-conceptual-understanding.md) [+W]
+- [Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects](../claims/bias-transfer-without-awareness-llm-writing.md) [+W]
 
 ## The evidence by question
 - *Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]

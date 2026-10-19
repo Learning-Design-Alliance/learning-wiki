@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 240 claims (121 for, 76 mixed, 43 against) · 172 studies (56 causal, 36 review, 21 design, 21 theoretical, 18 quant-synthesis, 10 associational, 10 qualitative), `q1`–`q4` · 35 of 172 report an effect size · 226 claims rest on one study
+> **Evidence** · 256 claims (126 for, 85 mixed, 45 against) · 183 studies (62 causal, 39 review, 22 theoretical, 21 design, 18 quant-synthesis, 11 qualitative, 10 associational), `q1`–`q4` · 36 of 183 report an effect size · 242 claims rest on one study
 
 ## Description and scope
 
@@ -248,6 +248,22 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](../claims/withholding-improves-output-bound-accuracy-help-seeking-not.md) [+M]
 - [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-lexical-help-use.md) [+W]
 - [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-metacognitive-help-use.md) [+W]
+- [Students perceive conversational-agent interventions as disruptive and react to the automatic disruptions differently](../claims/agent-interruptions-perceived-disruption-varies.md) [~W]
+- [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](../claims/ai-assistance-withdrawal-performance-decline.md) [~W]
+- [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](../claims/ai-assistance-performance-without-internalization.md) [-W]
+- [AI-assisted feedback does not reduce student-perceived usefulness of rated feedback](../claims/ai-assisted-feedback-preserves-student-usefulness.md) [~W]
+- [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](../claims/ai-assisted-performance-no-unassisted-transfer.md) [~W]
+- [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](../claims/ai-feedback-reduces-perceived-personal-risk.md) [+W]
+- [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](../claims/ai-performance-metacognition-dissociation.md) [~W]
+- [Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control](../claims/ai-human-tutoring-beat-control-gre-gains.md) [+W]
+- [Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes](../claims/ai-practice-less-effortful-fewer-keystrokes.md) [-W]
+- [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](../claims/ai-tutor-scale-benefit-teachers-perceive.md) [~W]
+- [Short-term gains from Air Tutors tutoring on district benchmark assessments did not persist to statewide math assessments 1 year later](../claims/air-tutors-short-term-gains-did-not-persist.md) [~W]
+- [The best AI tutors exceeded human mean learning gains in Quantitative domains while human tutoring led pooled AI means in all Verbal domains](../claims/best-ai-tutors-lead-quantitative-not-verbal-domains.md) [~W]
+- [Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap](../claims/calibration-gap-configuration-dependent.md) [+W]
+- [Ambient consumer AI use in the holdout did not close the structured-tutor gap](../claims/ambient-consumer-ai-did-not-close-tutor-gap.md) [+W]
+- [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](../claims/boundary-conditions-verification-reliance-genai.md) [~W]
+- [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](../claims/chatbot-homework-study-assistance.md) [+W]
 
 ## Related Patterns
 

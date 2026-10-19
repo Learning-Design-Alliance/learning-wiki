@@ -16,7 +16,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 7 mixed, 2 against) · 15 studies (5 theoretical, 3 quant-synthesis, 2 causal, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 15 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 15 studies (5 theoretical, 3 quant-synthesis, 2 causal, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 15 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,10 @@ For example, an engineer writing reports in English may want her reports to read
 The expectation should weaken if studies comparing conceptual explanation with structural or phrase-based teaching of the same form, with comparable learners and measures of use in the learners' own production, show no advantage, or show that a gain at post-test is gone at a delay. If explanation helps learners only to judge or edit the form and not to use it in unplanned speech, the model should say so and move its weight to practice. If deviations attributed to the L1 turn out, on checking, to be shared by learners of many L1s, the contrast step should give way to L2-internal contrasts. If the core-sense account does not predict the uses learners get wrong, it is the wrong account for that form. Do not protect the model by calling every failure "not enough practice" after the fact.
 
 Understanding the core sense, choosing correctly on practice items, choosing correctly in one's own writing, and doing so weeks later are separate claims. The present evidence establishes none of the doses or thresholds given above.
+
+## Claims
+
+- [The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing](../claims/and-multifunctional-l1-essays.md) [+W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — learners studying errors beside correct examples; the teacher's analysis of learner language is the diagnostic step here.

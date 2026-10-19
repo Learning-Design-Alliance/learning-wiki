@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 qualitative), `q2`–`q4` · 4 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 12 studies (4 causal, 4 quant-synthesis, 2 review, 1 qualitative, 1 design), `q2`–`q4` · 4 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -77,6 +77,7 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](../claims/process-tracing-measures-for-learning.md) [+W]
 - [AI tools collected and organized a previously unavailable granularity of data, including individual student exchanges and classroom discussion data, to generate actionable recommendations](../claims/ai-granular-data-collection-actionable-recommendations.md) [+W]
 - [Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months](../claims/rapid-experimentation-cumulative-metric-gains.md) [+W]
+- [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](../claims/agent-identifies-confusing-content-actionable-feedback.md) [+W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative

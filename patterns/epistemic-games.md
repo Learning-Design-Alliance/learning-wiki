@@ -15,7 +15,7 @@ grain_size: unit
 # Epistemic Games
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (7 for, 10 mixed) · 16 studies (4 quant-synthesis, 4 qualitative, 3 review, 3 theoretical, 1 causal, 1 design), `q2`–`q4` · 4 of 16 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (7 for, 11 mixed) · 17 studies (4 quant-synthesis, 4 qualitative, 3 review, 3 theoretical, 2 design, 1 causal), `q1`–`q4` · 4 of 17 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,7 @@ This pattern is scoped to learning one profession's way of deciding through a gu
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](../claims/ai-ambulatory-case-simulations-diagnostic-reasoning.md) [+W]
 - [Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction](../claims/spatial-positions-display-work-role-understanding.md) [+W]
 - [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](../claims/role-play-activity-context-simulator.md) [~W]
+- [Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments](../claims/ar-game-features-scaffold-argumentation.md) [~W]
 
 ## Related Patterns
 - [Evidence-Centered Design](../methods/evidence-centered-design.md) — the assessment-design method Rupp, Gushta, Mislevy and Shaffer (2010) worked out against epistemic games specifically, which is how a game about professional judgment yields anything scoreable

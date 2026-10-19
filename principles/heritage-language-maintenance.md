@@ -13,7 +13,7 @@ generated:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (17 for, 5 mixed) · 20 studies (5 review, 5 theoretical, 3 quant-synthesis, 3 qualitative, 2 causal, 2 associational), `q1`–`q3` · 2 of 20 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (18 for, 5 mixed) · 21 studies (5 review, 5 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 2 causal), `q1`–`q3` · 2 of 21 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,10 @@ For example, a secondary school's objective for a 14-year-old newcomer may be pa
 The expectation should weaken if studies following comparable learners over years, with heritage-language use or instruction recorded and the same total instructional time, found that more heritage-language use or instruction predicted lower school-language achievement; or if the English-learner null in the Portland lottery study were replicated as a loss rather than no difference. If independent replications of the Finnish-migrant findings did not show the association, the "transfer" half rests on Cummins's account alone and should be stated as a hypothesis. If dual language programmes help native speakers of the school language but not heritage-language learners, programme choice should be justified on maintenance and identity grounds, not on school-language gains. Do not protect the model by calling every null result "too little heritage-language development" after the fact; record how much heritage-language use and instruction there was before the outcomes are known.
 
 Heritage-language proficiency, school-language conversational fluency, school-language academic achievement, subject learning, accurate identification of disorders and the learner's own goals are separate outcomes. The present evidence sets no dose of heritage-language instruction, no age at which to add the school language and no exit criterion.
+
+## Claims
+
+- [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](../claims/bilingual-services-higher-el-outcomes-than-refusal.md) [+W]
 
 ## Related Principles
 - [Support Early Language Development](supporting-early-language-development.md) — the same responsive-interaction principle, applied specifically to maintaining a heritage language alongside a new one

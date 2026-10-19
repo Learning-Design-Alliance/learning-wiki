@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 16 studies (4 review, 4 theoretical, 2 causal, 2 associational, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 16 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (11 for, 7 mixed) · 19 studies (4 review, 4 associational, 4 theoretical, 2 causal, 2 qualitative, 2 design, 1 quant-synthesis), `q1`–`q3` · 2 of 19 report an effect size · 17 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -50,6 +50,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [A representational tool offers beneficial affordances that supplement face-to-face communication for second-language learning](../claims/representational-tool-affordances-supplement-face-to-face-l2.md) [+W] — attached 2026-10-18 from Wen et al. (2015), which proposed "Representational tool for collaborative L2 writing in a networked classroom".
 - [Students re-purpose social networking tools like Facebook as course back-channels, and user characteristics correlate with reported propensity to collaborate](../claims/facebook-backchannel-course-collaboration.md) [~W]
 - [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](../claims/synchronous-communication-most-common-in-vrls.md) [~W]
+- [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](../claims/aida-usage-time-doubled-not-significant.md) [~W]
+- [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](../claims/ai-technological-support-rising-quantile-pattern.md) [+W]
+- [Academic use of ChatGPT correlates most strongly with its use for language-related tasks](../claims/chatgpt-academic-use-correlates-language-use.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -27,8 +27,8 @@ The wiki holds **5,962 distinct studies** behind 22,201 claims. What they add up
 - **Few print an effect size.** 1,359 of 5,962 studies (23%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 589 studies are rated `r3`, done well for their kind; 381 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
-- **Not all research reaches design.** 63% of studies, and 36% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
-- **Principles and patterns.** Of 222 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 116 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 6% strong, 46% moderate and 48% weak, and 51% supporting, 44% conditional and 5% against.
+- **Not all research reaches design.** 64% of studies, and 37% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
+- **Principles and patterns.** Of 222 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 116 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 6% strong, 46% moderate and 49% weak, and 51% supporting, 44% conditional and 5% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
 

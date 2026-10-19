@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (30 for, 13 mixed, 3 against) · 46 studies (12 causal, 12 review, 10 quant-synthesis, 6 design, 4 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 46 report an effect size · 36 claims rest on one study
+> **Evidence** · 48 claims (31 for, 14 mixed, 3 against) · 48 studies (12 causal, 12 review, 11 quant-synthesis, 6 design, 4 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 48 report an effect size · 38 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -101,6 +101,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Support conditions did not differ from control in learning scores within the environment](../claims/no-condition-differences-learning-scores-swlep.md) [~W]
 - [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](../claims/explicit-cvs-knowledge-equal-conditions.md) [~W]
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](../claims/virtual-lab-transfer-from-demonstration-limited.md) [-W]
+- [In a medical ABC-VR case, 12 of 14 students met the required learning goals of a post-VR mock knee exam](../claims/abc-vr-medical-case-12-of-14-met-goals.md) [+W]
+- [The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods](../claims/active-comparison-instruction-reverses-simulation-game-advantage.md) [~M]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

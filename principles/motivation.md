@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (38 for, 22 mixed, 3 against) · 66 studies (19 review, 15 causal, 8 associational, 7 quant-synthesis, 7 qualitative, 7 theoretical, 3 design), `q1`–`q4` · 7 of 66 report an effect size · 49 claims rest on one study
+> **Evidence** · 66 claims (39 for, 24 mixed, 3 against) · 68 studies (19 review, 17 causal, 8 associational, 7 quant-synthesis, 7 qualitative, 7 theoretical, 3 design), `q1`–`q4` · 9 of 68 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,9 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](../claims/predictors-of-self-assessed-creative-performance.md) [~W]
 - [Task complexity and desirable difficulties do not significantly affect intrinsic interest or expectancies for success](../claims/complexity-and-difficulty-no-effect-self-task-perception.md) [+W]
 - [A pronounced drop in performance occurs at week 8 after the first exam in an area of law, which is attributed to cyclic drops in motivation](../claims/week-8-performance-drop-motivation.md) [~W]
+- [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](../claims/adhd-motivation-profile-sdt-dimensions.md) [~W]
+- [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](../claims/automated-marking-higher-exam-confidence.md) [~W]
+- [Students who received the ability signal enrolled in and passed about one more AP course the following year](../claims/ability-signal-one-more-ap-course.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

@@ -27,7 +27,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (29 for, 28 mixed, 3 against) · 68 studies (18 causal, 16 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 68 report an effect size · 51 claims rest on one study
+> **Evidence** · 62 claims (30 for, 29 mixed, 3 against) · 70 studies (18 causal, 16 review, 11 quant-synthesis, 11 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 70 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,8 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](../claims/structured-ai-tutor-raises-post-test-scores-field-experiment.md) [+M]
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](../claims/wileyplus-adaptive-courseware-statistics-outcomes.md) [~W]
 - [Sharing a projected display with multiple mice produced significant collaborative-learning gains for a whole classroom](../claims/multiple-mice-shared-display-collaborative-gains.md) [~W]
+- [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](../claims/adaptive-feedback-improves-diagnosis-justification.md) [+W]
+- [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](../claims/ai-use-positive-adaptation-associations.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

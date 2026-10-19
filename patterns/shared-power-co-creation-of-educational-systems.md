@@ -26,7 +26,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 18 studies (12 qualitative, 2 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 18 report an effect size · 24 claims rest on one study
+> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 19 studies (13 qualitative, 2 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 19 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,7 @@ This pattern is scoped to sharing a real decision with a group the existing proc
 - [Perceived-desired discrepancies decreased for co-designers but often increased or decreased less for the rest of the class](../claims/pd-discrepancy-negative-for-rest-of-class.md) [~W]
 - [Teacher–student disagreement diminished for co-designers and, in most cases, for the rest of the class](../claims/pd-disagreement-decreased-codesigners.md) [~W]
 - [Student awareness of improvement differed sharply by role: most co-designers noticed improvement, most control students noticed none](../claims/pd-student-change-question-differences.md) [+W]
+- [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](../claims/centering-teacher-of-color-voice-distributed-leadership.md) [+W]
 
 ## Related Patterns
 - (none yet linked)

@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (15 for, 15 mixed, 9 against) · 34 studies (10 review, 8 associational, 6 theoretical, 4 causal, 3 qualitative, 3 design), `q1`–`q3` · 3 of 34 report an effect size · 37 claims rest on one study
+> **Evidence** · 40 claims (15 for, 16 mixed, 9 against) · 35 studies (10 review, 8 associational, 7 theoretical, 4 causal, 3 qualitative, 3 design), `q1`–`q3` · 3 of 35 report an effect size · 38 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -85,6 +85,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [SAGLET's real-time learning analytics provided alerts that enabled the teacher to monitor groups and give appropriate feedback](../claims/saglet-alerts-teacher-monitoring-feedback.md) [+W]
 - [Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition](../claims/teacher-confidence-highest-with-guiding-dashboard.md) [+W]
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](../claims/sequence-patterns-beat-frequencies-pbl-grades.md) [~W]
+- [Machine perception and learning depend on large, unbiased training data](../claims/ai-big-ideas-data-and-knowledge-dependence.md) [~W]
 
 ## The evidence by question
 

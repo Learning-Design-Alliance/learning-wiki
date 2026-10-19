@@ -26,7 +26,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (9 for, 19 mixed, 3 against) · 33 studies (8 causal, 7 review, 6 quant-synthesis, 5 qualitative, 5 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 33 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (9 for, 20 mixed, 3 against) · 34 studies (9 causal, 7 review, 6 quant-synthesis, 5 qualitative, 5 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 34 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis](../claims/anomalous-data-handling-conditions-pbl.md) [~W]
 - [The PBL assumption that student-generated learning issues guide self-directed learning had never been empirically tested before this study](../claims/pbl-learning-issues-assumption-untested.md) [~W]
 - [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](../claims/pbl-discussion-mainly-theory-building.md) [~W]
+- [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](../claims/ai-pbl-high-ngain-versus-control-low.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

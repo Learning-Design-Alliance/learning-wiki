@@ -14,7 +14,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (9 for, 1 mixed, 2 against) · 16 studies (5 causal, 4 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (9 for, 2 mixed, 2 against) · 17 studies (6 causal, 4 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 17 report an effect size · 9 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -61,6 +61,7 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [Female low achievers from the general track started with the lowest knowledge scores but achieved the highest learning gains in Web-based collaborative inquiry](../claims/female-low-achiever-general-track-highest-gain.md) [+W]
 - [The PISG and PSGI script sequences showed no statistically significant differences on high- and low-level inquiry processes, with small effect sizes despite descriptive trends favoring PISG on high-level processes](../claims/pisg-psgi-no-significant-inquiry-process-difference.md) [~W]
 - [TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ](../claims/taia-perceived-support-hypothesis-argumentation.md) [+W]
+- [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](../claims/approach-specific-process-profiles.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

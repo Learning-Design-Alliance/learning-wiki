@@ -55,7 +55,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (14 for, 15 mixed, 5 against, 1 unmarked) · 24 studies (13 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 9 of 24 report an effect size · 32 claims rest on one study
+> **Evidence** · 36 claims (14 for, 16 mixed, 5 against, 1 unmarked) · 25 studies (14 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 10 of 25 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](../claims/vf-high-as-effective-as-pf.md) [~W]
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quantity-no-mediation.md) [~W]
 - [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [~W]
+- [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](../claims/assistments-grade-6-differential-impact.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

@@ -17,7 +17,7 @@ sources:
 # Use the report's three themes to guide district and CMO decision-making about driving student achievement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report offers its three themes — teachers' key role, school leaders as instructional leaders, and shared and well-communicated mission, vision, and goals — as a guide for leaders. It states that the themes are ones "district and CMO leaders can use to guide their decision-making about how to drive improvements in student achievement." Leaders facing many potential supports can use these themes to prioritize practices and policies.
@@ -35,6 +35,10 @@ The report offers its three themes — teachers' key role, school leaders as ins
 
 ### Target Learning Goals
 - Selecting levers to most effectively improve student achievement
+
+## Claims
+
+- [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](../claims/achievement-focused-mission-charter-impacts.md) [+W]
 
 ## Related Strategies
 

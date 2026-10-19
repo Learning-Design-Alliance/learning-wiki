@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 138 claims (88 for, 41 mixed, 9 against) · 111 studies (27 qualitative, 25 theoretical, 22 review, 17 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 111 report an effect size · 134 claims rest on one study
+> **Evidence** · 141 claims (89 for, 42 mixed, 10 against) · 113 studies (27 qualitative, 26 theoretical, 22 review, 18 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 113 report an effect size · 137 claims rest on one study
 
 ## Conditional relationship
 
@@ -262,6 +262,12 @@ For example, a postgraduate student may want to use generative AI efficiently ac
 The expectation should weaken if randomised comparisons with comparable learners show that solution-giving AI use produces unaided and delayed performance as good as hint-limited use; the two randomised studies in which AI access did not lower (or raised) unaided scores already point that way for unrestricted access in some tasks, and the model should then say which tasks. If metacognitive feedback or reflection prompts do not raise unaided performance in replications (the one estimate's interval includes no effect), drop step 6 to a proposal. If a comparison of simulation or VR used *instead of* hands-on practice shows equal real-world performance at a delay, "complement, not replace" becomes a cost decision rather than a learning one. Do not protect the model by calling every failure "the wrong kind of use" after the fact; classify use before seeing the outcome.
 
 Assisted performance, unaided immediate performance, delayed retention, transfer, ownership and the learner's own goal are separate outcomes. The present evidence establishes no safe amount of AI use, no minimum length of independent work before access, and no sequence of hands-on and virtual training that has been tested against another.
+
+## Claims
+
+- [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](../claims/ai-assistance-performance-without-internalization.md) [+W]
+- [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](../claims/ai-assistance-withdrawal-performance-decline.md) [~W]
+- [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](../claims/ai-performance-metacognition-dissociation.md) [-W]
 
 ## Related Principles
 

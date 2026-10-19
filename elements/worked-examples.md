@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (13 for, 8 mixed, 4 against) · 31 studies (18 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 31 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (13 for, 9 mixed, 4 against) · 32 studies (18 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 32 report an effect size · 17 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -59,6 +59,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [The benefit of worked examples over problem-solving increases with decreasing shifting ability, reproducing Schwaighofer et al. (2016)](../claims/shifting-ability-moderates-worked-example-benefit.md) [+W]
 - [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](../claims/worked-examples-no-self-explanation-quality-advantage.md) [-W]
 - [Heuristic worked examples do not improve fifth graders' mathematical modeling competency](../claims/worked-examples-no-grade5-modeling-competency-effect.md) [-W]
+- [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](../claims/answer-items-no-difference-self-explanation-tutor.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

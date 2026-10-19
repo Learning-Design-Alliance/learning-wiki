@@ -23,7 +23,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (20 for, 8 mixed, 1 against) · 36 studies (13 qualitative, 8 causal, 4 associational, 3 quant-synthesis, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 1 of 36 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (20 for, 9 mixed, 1 against) · 37 studies (14 qualitative, 8 causal, 4 associational, 3 quant-synthesis, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 1 of 37 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Ties formed, ties used, reduced isolation, persistence, and employment or settle
 
 - [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](../claims/contact-duration-predicts-new-collaboration-partner-selection.md) [+W]
 - [The multi-step activity proved usable, fostered workplace connections, and engaged teacher and students](../claims/tapacarp-activity-usable-workplace-engagement.md) [+W]
+- [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](../claims/all-staff-family-communication-channels.md) [~W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — networks deepen when they become recurring communities around shared work

@@ -17,7 +17,7 @@ sources:
 # Deploy federal recovery funding to support recovery, accelerate learning, and transform schools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The webinar recommends that policymakers and education leaders use the pandemic-era influx of federal funding as an opportunity for recovery and systemic change. The page states that "policymakers and education leaders can deploy the unprecedented influx of federal funding to support recovery, accelerate learning, and transform schools," framing aid spending around historically underserved students.
@@ -39,6 +39,10 @@ The webinar recommends that policymakers and education leaders use the pandemic-
 - Academic recovery
 - Learning acceleration
 - Equitable system transformation
+
+## Claims
+
+- [The American Rescue Plan provides $122 billion for COVID recovery in schools](../claims/arp-provides-122-billion-covid-school-recovery.md) [+W]
 
 ## Related Strategies
 

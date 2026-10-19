@@ -24,7 +24,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 63 claims (21 for, 35 mixed, 7 against) · 63 studies (20 causal, 10 quant-synthesis, 9 associational, 7 design, 6 review, 6 theoretical, 5 qualitative), `q1`–`q4` · 12 of 63 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (21 for, 36 mixed, 7 against) · 64 studies (20 causal, 10 quant-synthesis, 9 associational, 7 review, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 12 of 64 report an effect size · 56 claims rest on one study
 
 ## Description and scope
 
@@ -169,6 +169,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](../claims/cmi-ela-test-precision-declines-above-40th-percentile.md) [~W]
 - [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
 - [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]
+- [El uso de IA para evaluaciones basadas en competencias no es actualmente la mejor práctica](../claims/ai-assessment-not-best-practice-microcredentials.md) [~W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)

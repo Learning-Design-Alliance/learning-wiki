@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 104 claims (51 for, 47 mixed, 6 against) · 77 studies (27 causal, 14 review, 14 associational, 10 quant-synthesis, 8 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 21 of 77 report an effect size · 93 claims rest on one study
+> **Evidence** · 106 claims (52 for, 48 mixed, 6 against) · 79 studies (27 causal, 16 review, 14 associational, 10 quant-synthesis, 8 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 21 of 79 report an effect size · 95 claims rest on one study
 
 ## Conditional relationship
 
@@ -196,6 +196,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Interventions delivered by teachers or task materials are more effective than researcher-delivered interventions for two self-regulated learning outcomes](../claims/teacher-material-delivery-beats-researcher-delivery.md) [~W]
 - [Veenman's 2007 discussion addresses assessment and instruction of self-regulation in computer-based environments with attention to metacognitive skill measurement and intelligent tutoring systems](../claims/veenman-2007-discussion-self-regulation-computer-based.md) [~W]
 - [In Experiment 2, actual regulation of adaptable heuristic worked examples showed no significant correlation with self-regulation skills or MAS outcomes](../claims/work-example-adaptation-no-significant-correlations.md) [~W]
+- [Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking](../claims/adaptive-versus-dependent-help-seeking.md) [+W]
+- [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](../claims/ai-srl-end-outcomes-academic-performance-most-frequent.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

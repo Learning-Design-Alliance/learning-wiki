@@ -47,7 +47,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (19 for, 20 mixed, 1 against) · 34 studies (12 causal, 10 theoretical, 7 review, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 3 of 34 report an effect size · 36 claims rest on one study
+> **Evidence** · 41 claims (19 for, 21 mixed, 1 against) · 35 studies (12 causal, 10 theoretical, 7 review, 2 quant-synthesis, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 35 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 
 - [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](../claims/cvs-level-difficulty-ordering.md) [+W]
 - [After reading the first text, embedded-source trustworthiness evaluations did not vary between sequences](../claims/es-evaluation-no-sequence-difference-position-one.md) [-W]
+- [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](../claims/calculus1-need-not-prerequisite-lower-level-cs.md) [~W]
 
 ## Related Principles
 - [Holistic Learning](holistic-learning.md)

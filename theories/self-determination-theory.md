@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 29 claims (17 for, 11 mixed, 1 against) · 30 studies (7 review, 7 associational, 6 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 6 of 30 report an effect size · 23 claims rest on one study
+> **Evidence** · 34 claims (21 for, 12 mixed, 1 against) · 34 studies (9 associational, 8 review, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 8 of 34 report an effect size · 28 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -83,6 +83,11 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Autonomous motivation decreased and controlled motivation increased overall, with no differences between the need-supportive and baseline conditions](../claims/autonomous-controlled-motivation-unaffected.md) [-W] — attached 2026-10-18 from Louise Maddens et al. (2023), which proposed "Self-determination theory and Basic Psychological Need Theory as a framework for motivation in complex-skill learning"; tests this page's relationship.
 - [Instruction-only students perceived learning control comparably high to example generators, while provided-example students perceived lower control](../claims/perceived-control-high-instruction-only-and-generation.md) [~W]
 - [No significant associations between relational goals and autonomy, nor between mastery goals and evaluation or autonomy](../claims/lao-goals-no-association-autonomy-evaluation.md) [~W]
+- [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](../claims/adhd-motivation-profile-sdt-dimensions.md) [+W]
+- [Adult learners score much higher in autonomous than controlled regulation, with autonomous regulation mean 3.44 versus controlled 2.42](../claims/adults-higher-autonomous-than-controlled-regulation.md) [+W]
+- [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](../claims/autonomous-regulation-correlations-outcomes.md) [+W]
+- [No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies](../claims/anthropomorphism-no-clear-effect-autonomy-agency.md) [~W]
+- [Capacity, opportunity, and transition empowerment predicted students' self-reported self-determination, but degree of inclusion in general education did not](../claims/capacity-opportunity-empowerment-predict-self-determination-not-inclusion.md) [+W]
 
 ## The evidence by question
 

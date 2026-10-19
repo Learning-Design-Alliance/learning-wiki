@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (12 for, 7 mixed, 5 against) · 29 studies (18 causal, 6 quant-synthesis, 3 review, 2 associational), `q2`–`q4` · 10 of 29 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (12 for, 8 mixed, 5 against) · 30 studies (18 causal, 6 quant-synthesis, 3 review, 3 associational), `q2`–`q4` · 11 of 30 report an effect size · 19 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -69,6 +69,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [Generating own examples after instruction produced better retention and transfer than studying provided examples](../claims/self-generated-beat-provided-examples-retention-transfer.md) [+W]
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](../claims/no-prompt-effect-within-domain-elaborations-additions.md) [-W]
+- [Older adults produce fewer internal details than younger adults during elaboration across both experiments](../claims/aging-fewer-internal-details-elaboration.md) [~W]
 
 ## The evidence by question
 

@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 46 claims (30 for, 14 mixed, 2 against) · 33 studies (27 associational, 2 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 16 of 33 report an effect size · 45 claims rest on one study
+> **Evidence** · 64 claims (37 for, 25 mixed, 2 against) · 48 studies (34 associational, 6 review, 4 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q3` · 21 of 48 report an effect size · 62 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -87,6 +87,24 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Maternal contingency at 12 months predicts children's effortful control at 24 months, explaining 14% unique variance](../claims/contingency-12m-predicts-effortful-control-24m.md) [+W]
 - [The benefit of worked examples over problem-solving increases with decreasing shifting ability, reproducing Schwaighofer et al. (2016)](../claims/shifting-ability-moderates-worked-example-benefit.md) [~W]
 - [The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition](../claims/monitoring-does-not-predict-later-inhibition.md) [~W]
+- [In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not](../claims/adhd-i-wm-impaired-stm-not-more-common.md) [~W]
+- [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](../claims/adolescent-happy-nogo-false-alarm-ventral-striatum.md) [~W]
+- [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](../claims/adults-higher-accuracy-startle-load-group-interaction.md) [+W]
+- [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](../claims/adhd-poorer-accuracy-wm-change-trials.md) [~W]
+- [Affective theory of mind is positively related to inhibition, updating, and shifting](../claims/affective-tom-related-to-all-three-executive-functions.md) [+W]
+- [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](../claims/aerobic-exercise-dose-response-ef.md) [+W]
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](../claims/aerobic-exercise-improves-executive-function-children.md) [~W]
+- [Antisaccade performance follows a curvilinear developmental trajectory best fit by an inverse function, with intra-subject latency variability decreasing with age](../claims/antisaccade-curvilinear-inverse-trajectory.md) [+W]
+- [Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age](../claims/age-differences-in-inhibition-and-reward-response.md) [+W]
+- [Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory](../claims/age-moderates-exercise-effects-opposite-directions.md) [+M]
+- [Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations](../claims/asymmetrical-switch-costs-not-unambiguous-inhibition-marker.md) [~W]
+- [Age differences in text processing are examined in terms of the roles of working memory, inhibition, and processing speed](../claims/age-differences-text-processing-working-memory-inhibition-processing-speed.md) [~W]
+- [Behavioral inhibition skills of prelingually deaf children are related to several audiological outcome measures after cochlear implantation](../claims/behavioral-inhibition-related-audiological-outcomes-ci-children.md) [~W]
+- [Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents](../claims/bilingual-effect-inhibition-flexibility-not-working-memory.md) [~W]
+- [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](../claims/bilinguals-marginally-smaller-stroop-effect.md) [+W]
+- [Bully group children complete the Stroop color-word card faster than victim and bully-victim children](../claims/bullies-faster-stroop-color-word-card.md) [~W]
+- [Bullied preadolescents show thinner cortices in left-hemisphere temporal, precentral, and right rostral middle frontal regions, and precentral thinning mediates 7% of the bullying effect on inhibitory control/attention](../claims/bullying-thinner-cortices-precentral-mediation.md) [~W]
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](../claims/bullying-lower-reading-processing-speed-inhibitory-control.md) [~W]
 
 ## Related Theories
 

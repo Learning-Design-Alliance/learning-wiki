@@ -17,7 +17,7 @@ sources:
 # Fund comprehensive support programs combining direct financial, academic, and personal supports to improve completion for underserved students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends a new federal fund offering grants that support the development, evaluation, and scaling of completion strategies, including "comprehensive support programs that provide direct financial, academic, and personal supports, including transportation, child care, career counseling, academic advising, tutoring, tuition and fee waivers, and textbook vouchers." Grants should be tiered by sector and institution type and last at least 150% of program length.
@@ -38,6 +38,10 @@ The report recommends a new federal fund offering grants that support the develo
 ### Target Learning Goals
 - college completion
 - retention
+
+## Claims
+
+- [Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports](../claims/ca-promise-academic-support-services-prevalence.md) [+W]
 
 ## Related Strategies
 - 

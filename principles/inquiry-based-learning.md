@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (29 for, 13 mixed, 5 against) · 61 studies (17 causal, 15 quant-synthesis, 7 review, 7 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 14 of 61 report an effect size · 34 claims rest on one study
+> **Evidence** · 48 claims (29 for, 14 mixed, 5 against) · 62 studies (18 causal, 15 quant-synthesis, 7 review, 7 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 14 of 62 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Teachers' guidance and support in collaborative science inquiry differed by teacher perceptions and group outcomes, and teacher affect was compounded by student affect, per the editorial's report of Pietarinen et al.](../claims/teacher-guidance-varies-perceptions-outcomes-reciprocal-affect.md) [~W]
 - [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](../claims/natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) [-W]
 - [The PISG and PSGI script sequences showed no statistically significant differences on high- and low-level inquiry processes, with small effect sizes despite descriptive trends favoring PISG on high-level processes](../claims/pisg-psgi-no-significant-inquiry-process-difference.md) [~W]
+- [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](../claims/approach-specific-process-profiles.md) [~W]
 
 ## Related Principles
 

@@ -13,7 +13,7 @@ generated:
 # Educational Readiness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (14 for, 5 mixed) · 18 studies (7 associational, 3 review, 2 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 18 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (14 for, 6 mixed) · 19 studies (8 associational, 3 review, 2 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 19 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,10 @@ The designer's objective at entry is usually that learners can take part in and 
 The expectation should weaken if comparisons of entry-check-and-adjust designs against uniform-start designs, with comparable learners and outcomes measured across the first year, show no difference, or if a well-designed study shows lasting gains from delayed entry or repetition for a defined group of learners. If the attendance link disappears under designs that separate attendance from the reasons for absence, the attendance step becomes a matter of family support rather than of exposure to instruction. If entry checks of the kind proposed here misclassify many learners (especially those with disabilities or in a second language), the check should be replaced by observation in the first tasks themselves. Do not protect the model by calling every failure "the adjustment was not enough" after the fact.
 
 Early-grade levels, growth across a year, later-grade achievement and the learner's own sense of belonging are separate outcomes; the present evidence establishes no readiness threshold, no length for a bridging segment and no rule for when a learner should be held back.
+
+## Claims
+
+- [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](../claims/calculus1-need-not-prerequisite-lower-level-cs.md) [~W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md) — once a mismatch between student readiness and task demand is identified, scaffolding is one primary response

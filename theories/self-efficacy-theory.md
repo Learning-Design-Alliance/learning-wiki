@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (30 for, 8 mixed, 1 against) · 33 studies (16 associational, 8 causal, 7 review, 1 design, 1 theoretical), `q1`–`q3` · 6 of 33 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (32 for, 10 mixed, 1 against) · 37 studies (18 associational, 9 causal, 8 review, 1 design, 1 theoretical), `q1`–`q3` · 7 of 37 report an effect size · 42 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -86,6 +86,10 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance](../claims/predictors-of-bias-in-performance-self-assessment.md) [~W]
 - [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](../claims/predictors-of-self-assessed-creative-performance.md) [+W]
 - [Teachers' self-efficacy for SRL promotion, but not their attainment value, is positively related to their self-reported SRL promotion when both are modelled simultaneously](../claims/teacher-self-efficacy-predicts-srl-promotion.md) [+W]
+- [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](../claims/attributional-feedback-credibility-effort-ability.md) [+W]
+- [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](../claims/belonging-task-relevance-mindset-predict-self-efficacy.md) [~W]
+- [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](../claims/boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) [+W]
+- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
 
 ## The evidence by question
 

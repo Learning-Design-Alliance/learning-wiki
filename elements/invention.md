@@ -13,7 +13,7 @@ generated:
 # Invention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 10 studies (5 causal, 3 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4` · 4 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (2 for, 6 mixed) · 11 studies (5 causal, 3 theoretical, 1 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 4 of 11 report an effect size · 7 claims rest on one study
 
 ## Description
 An invention task presents learners with a novel problem and asks them to create their own solution procedure, formula, or representation — typically before any direct instruction on the canonical method. The goal is not to produce the correct answer but to surface gaps in prior knowledge and build readiness for the instruction that follows. This is the core move of "inventing to prepare for future learning" [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+M].
@@ -59,6 +59,7 @@ Invention tasks work by activating relevant prior knowledge and making learners 
 - [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](../claims/ps-i-superior-only-with-student-solutions.md) [~W]
 - [In PS-I, prompting students to generate multiple strategies during the initial phase generally outperformed inventing one strategy or I-PS](../claims/multiple-strategies-prompt-outperformed-other-conditions.md) [~W]
 - [Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not](../claims/canonical-components-correlate-conceptual-knowledge.md) [~W]
+- [The increase in students inventing their own ways of solving tasks was minor, but there was a marked increase in students agreeing the CCS tasks required inventing their own ideas](../claims/ccs-marked-increase-inventing-own-ideas.md) [~W]
 
 ## Related Elements
 - [Demonstration](demonstration.md) — the canonical instruction that must follow invention; the pairing is what produces the effect

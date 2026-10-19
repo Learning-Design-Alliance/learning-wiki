@@ -14,7 +14,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 22 studies (8 causal, 5 theoretical, 3 review, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 22 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 23 studies (8 causal, 5 theoretical, 3 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 5 of 23 report an effect size · 11 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
@@ -62,6 +62,7 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](../claims/vsdr-alternative-problem-solving-reflection.md) [+W]
 - [Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers](../claims/bioworld-successful-solvers-faster-fewer-actions.md) [~W]
 - [Providing contrasting cases reduces the number of solution attempts students generate, both before and after instruction](../claims/contrasting-cases-reduce-solution-attempt-quantity.md) [-W]
+- [Older adults describe less effective problem-solving solutions, producing fewer relevant steps than younger adults](../claims/aging-fewer-relevant-steps-meps.md) [~W]
 
 ## The evidence by question
 - *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]

@@ -47,7 +47,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (18 for, 16 mixed, 2 against) · 37 studies (14 causal, 6 review, 6 theoretical, 4 associational, 4 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 4 of 37 report an effect size · 29 claims rest on one study
+> **Evidence** · 37 claims (18 for, 17 mixed, 2 against) · 38 studies (14 causal, 7 theoretical, 6 review, 4 associational, 4 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 4 of 38 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Higher levels of contingent support were related to higher appreciation of support, regardless of measurement occasion or independent working time](../claims/contingency-relates-to-appreciation-of-support.md) [+W]
 - [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](../claims/expert-scaffolding-associated-with-adoption-except-fading.md) [~W]
 - [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](../claims/mct-pd-increased-teaching-quality-more-than-control.md) [~W]
+- [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](../claims/ai-assistance-withdrawal-performance-decline.md) [~W]
 
 ## Related Principles
 - [Concreteness Fading](concreteness-fading.md)

@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (16 for, 11 mixed, 1 against, 1 unmarked) · 30 studies (13 associational, 7 review, 6 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 9 of 30 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (19 for, 12 mixed, 1 against, 1 unmarked) · 34 studies (15 associational, 8 review, 7 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 10 of 34 report an effect size · 29 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -77,6 +77,10 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Student-reported SRL promotion is associated with students' self-efficacy, utility value and attainment value for SRL at class and student levels, but not with perceived cost](../claims/student-reported-srl-promotion-linked-to-student-motivation.md) [~W]
 - [Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance](../claims/predictors-of-bias-in-performance-self-assessment.md) [~W]
 - [The review tutorial yields higher post-training task relevance than the control, but no condition effect on self-efficacy](../claims/review-condition-raises-task-relevance-not-self-efficacy.md) [-W]
+- [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](../claims/belonging-task-relevance-mindset-predict-self-efficacy.md) [+W]
+- [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](../claims/attributional-feedback-credibility-effort-ability.md) [+W]
+- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
+- [Academic self-efficacy is positively associated with school satisfaction among student parents, both directly and indirectly through school-family balance](../claims/academic-self-efficacy-predicts-school-satisfaction-student-parents.md) [+W]
 
 ## The evidence by question
 

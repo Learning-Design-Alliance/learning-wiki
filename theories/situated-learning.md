@@ -17,7 +17,7 @@ sources:
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 16 studies (5 causal, 5 qualitative, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 2 of 16 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 17 studies (5 causal, 5 qualitative, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 17 report an effect size · 11 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -42,6 +42,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities](../claims/quasi-community-storytelling-knowledge.md) [+W]
 - [Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction](../claims/spatial-positions-display-work-role-understanding.md) [+W]
 - [Students reconstruct authentic work practices in the simulator even when the simulation has removed the relevant environmental elements.](../claims/students-reconstruct-authentic-practice-in-simplified-simulation.md) [~W]
+- [Learning in ecologically valid, authentic contexts is more rapid, durable, and transferable](../claims/authentic-contexts-improve-durability-transfer.md) [+W]
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

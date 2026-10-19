@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (10 for, 9 mixed, 1 against) · 33 studies (15 causal, 7 quant-synthesis, 6 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 6 of 33 report an effect size · 12 claims rest on one study
+> **Evidence** · 22 claims (11 for, 9 mixed, 2 against) · 35 studies (16 causal, 7 quant-synthesis, 7 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 6 of 35 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,8 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [Adding concessive statements to refutation texts yields no added benefit for conceptual change about multimedia-learning misconceptions](../claims/concessive-statements-no-added-benefit-conceptual-change.md) [~W]
 - [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](../claims/self-explanation-prompts-no-added-benefit.md) [-W]
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](../claims/think-sheet-misconceptions-positive-transfer-effect.md) [~W]
+- [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle](../claims/assisting-prompts-foster-conceptual-knowledge.md) [+W]
+- [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](../claims/answer-items-no-difference-self-explanation-tutor.md) [-W]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

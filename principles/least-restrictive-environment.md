@@ -23,7 +23,7 @@ sources:
 # Least Restrictive Environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (11 for, 11 mixed) · 13 studies (4 associational, 3 causal, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (11 for, 11 mixed, 1 against) · 14 studies (5 associational, 3 causal, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,10 @@ For example, an adolescent with a learning disability may want to stay in the sa
 The expectation should change if well-designed comparisons (randomised or credibly quasi-experimental, with comparable students at baseline) show that for an identifiable group of students a separate setting with a stated kind of instruction produces better learning or adjustment than the supported general class; the model would then name that group and that instruction as a condition. If pull-out harm does not replicate for students with disabilities, or disappears when separate instruction is scheduled outside core classes, step 3 becomes a scheduling preference rather than a rule. If moderators (severity, age, part- or full-time inclusion, co-teaching) come to explain the heterogeneity the review found, the situation table should take its rows from them. If teams using the two-check review cycle move students toward restriction as often as away from it, the cycle is not doing what it claims. Do not protect the model by calling every poor result "supports not delivered" after the fact; record delivery as it happens.
 
 Placement, the instruction delivered in each setting, achievement, adjustment and participation are separate claims. The present evidence in the wiki establishes no average learning advantage for either placement, no rule for when a student should move, and no dose of separate instruction.
+
+## Claims
+
+- [Capacity, opportunity, and transition empowerment predicted students' self-reported self-determination, but degree of inclusion in general education did not](../claims/capacity-opportunity-empowerment-predict-self-determination-not-inclusion.md) [-W]
 
 ## Related Principles
 - [Flexible Grouping](flexible-grouping.md) — temporary small groups inside a class are often how specially designed instruction can be delivered without removing a student from it

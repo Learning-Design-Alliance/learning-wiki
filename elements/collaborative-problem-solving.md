@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (14 for, 16 mixed, 1 against) · 29 studies (6 causal, 6 theoretical, 4 quant-synthesis, 4 review, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 3 of 29 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (14 for, 17 mixed, 1 against) · 30 studies (7 causal, 6 theoretical, 4 quant-synthesis, 4 review, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 3 of 30 report an effect size · 30 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -82,6 +82,7 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [SSRL-directed question prompts enhanced individual participation in collaborative problem-solving, and socioemotional interaction diversity related to regulation contributions (reported findings)](../claims/ssrl-support-and-socioemotional-diversity-findings.md) [+W]
 - [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](../claims/qualitative-cases-interaction-quality-variation.md) [~W]
 - [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](../claims/ssmr-contributions-higher-vs-lower-performing-groups.md) [+W]
+- [Awareness visualizations of shared task perception improved reported strategy success and equalized expected effectiveness of planning and teamwork strategies](../claims/awareness-visualization-shared-task-perception.md) [~W]
 
 ## The evidence by question
 

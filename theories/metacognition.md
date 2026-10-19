@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 283 claims (145 for, 124 mixed, 14 against) · 147 studies (81 causal, 31 associational, 10 review, 9 qualitative, 8 theoretical, 5 quant-synthesis, 3 design), `q1`–`q4` · 55 of 147 report an effect size · 279 claims rest on one study
+> **Evidence** · 291 claims (147 for, 129 mixed, 15 against) · 153 studies (85 causal, 32 associational, 10 review, 9 qualitative, 9 theoretical, 5 quant-synthesis, 3 design), `q1`–`q4` · 56 of 153 report an effect size · 287 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -325,6 +325,14 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Teachers' self-reported cue utilization attributes are not significantly correlated with their monitoring accuracy (Experiment 2).](../claims/teacher-self-reported-cue-use-not-linked-to-accuracy.md) [-W]
 - [Working memory and shifting in kindergarten were not significant predictors of later metacognitive monitoring](../claims/working-memory-shifting-not-predict-monitoring.md) [~W]
 - [JOLs with word stems and retrieval practice reduce prior-list intrusions on the List-5 test, whereas JOLs with complete words do not](../claims/word-stem-jols-reduce-prior-list-intrusions.md) [~W]
+- [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](../claims/accurate-jol-repetition-benefit.md) [+W]
+- [Better calibration (lower Absolute Accuracy Index) is associated with higher Word Reading and Composite achievement scores](../claims/absolute-accuracy-index-predicts-reading-composite.md) [~W]
+- [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](../claims/ai-performance-metacognition-dissociation.md) [-W]
+- [Older adults allocate proportionally more study time to easy and medium items while younger adults allocate more to difficult items, yet older adults recall less despite studying more](../claims/age-differences-study-time-allocation-recall.md) [~W]
+- [Application reading instructions did not reduce overestimation of application performance (no debiasing effect), with effects varying by text](../claims/application-instruction-no-debiasing-effect.md) [~W]
+- [Metacognitive ability was not correlated with task difficulty or perceptual sensitivity (d′)](../claims/aroc-uncorrelated-with-difficulty-and-dprime.md) [~W]
+- [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](../claims/bias-index-predicts-achievement.md) [~W]
+- [Anchoring-and-adjustment explains the underconfidence-with-practice effect, with JOLs anchored between 30 and 50% correct recall](../claims/anchoring-explains-underconfidence-with-practice.md) [+W]
 
 ## The evidence by question
 

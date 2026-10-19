@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 56 claims (28 for, 26 mixed, 2 against) · 44 studies (25 causal, 8 quant-synthesis, 6 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 14 of 44 report an effect size · 47 claims rest on one study
+> **Evidence** · 60 claims (29 for, 29 mixed, 2 against) · 47 studies (26 causal, 9 quant-synthesis, 6 review, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 47 report an effect size · 51 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,10 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](../claims/no-medium-context-effect-integration.md) [-W]
 - [University students spent longer processing time watching two complementary videos than reading two complementary digital texts](../claims/videos-longer-processing-time-than-texts.md) [~W]
 - [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](../claims/single-picture-beats-animation-for-spatial-arrangements.md) [~W]
+- [The animation advantage is larger when animation is coupled with auditory commentary](../claims/animation-advantage-larger-auditory-commentary.md) [~W]
+- [The animation advantage is larger when the animation is system-paced](../claims/animation-advantage-larger-system-paced.md) [~W]
+- [Audiovisual presentation yields significantly higher sentence recognition than auditory-alone presentation for most children with cochlear implants](../claims/av-sentence-recognition-exceeds-auditory-alone-ci-children.md) [+W]
+- [Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues](../claims/bespoke-free-text-voice-reveal-layout-issues.md) [~W]
 
 ## Examples
 
