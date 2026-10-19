@@ -19,7 +19,7 @@ sources:
 # Disciplinary Literacy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 24 studies (12 causal, 4 theoretical, 3 review, 2 quant-synthesis, 2 qualitative, 1 design), `q1`–`q4` · 4 of 24 report an effect size · 10 claims rest on one study
+> **Evidence** · 18 claims (9 for, 9 mixed) · 25 studies (12 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,10 @@ For example, a history class's objective may be sourcing and corroborating prima
 The expectation should weaken if comparisons with well-taught generic comprehension-strategy instruction, on the same texts and outcomes, show no advantage for disciplinary instruction; if gains on new texts vanish at a delay beyond the course; or if teachers without deep disciplinary knowledge, using a published curriculum, produce the same gains (then teacher knowledge is not the boundary the earlier page assumed). If disciplinary writing improves only when explicit writing support is added, the default design's writing step becomes required rather than recommended. If the expert–novice reading contrast adds nothing to modelling alone, drop it. Do not protect the model by calling every null result "superficial implementation" after the fact.
 
 Comprehension of new texts, the practised disciplinary thinking skill, disciplinary writing, factual knowledge and use outside the course are separate claims. The present evidence establishes no dose per practice and no criterion for moving on.
+
+## Claims
+
+- [Reading Apprenticeship® shows uncertain effects on social studies achievement in one study](../claims/reading-apprenticeship-uncertain-social-studies.md) [~W]
 
 ## Related Principles
 - [Annotating](annotating.md) — annotation schemes can be discipline-specific (e.g., sourcing marginalia in history), making expert reading moves visible

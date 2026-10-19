@@ -18,7 +18,7 @@ sources:
 # Observation/Shadowing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (9 for, 13 mixed) · 23 studies (4 causal, 4 review, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design, 2 associational), `q1`–`q4` · 3 of 23 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (10 for, 13 mixed) · 24 studies (4 causal, 4 review, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 24 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,10 @@ For example, a newly qualified teacher sent to observe a colleague may want abov
 The expectation should weaken if comparisons of focused shadowing or peer observation with an alternative of matched time (reading a case, a staged and narrated demonstration, or going straight to supervised practice), with comparable newcomers and outcomes measured in the learner's own later performance, show no advantage, or an advantage only in what the learner can say rather than do. If a written focus and a record that separates seeing from meaning do not reduce the contradictions and omissions novices show when watching complex practice, drop those steps. If authentic material keeps its advantage over simplified material when order is counterbalanced, start with authentic recordings; if the advantage disappears, the sequence in the default is only a second round of practice. If observers who are asked to explain what they saw do no better than those who only describe it, the explanation prompt is a lab finding only. Do not protect the model by calling every failure "the observer was not focused enough" after the fact.
 
 What the observer can describe, what they can explain, their confidence, their own immediate attempt, their performance weeks later and their staying in the practice are separate outcomes. The present evidence establishes no length of observation, no number of sessions, no order of material and no point at which observation should give way to practice.
+
+## Claims
+
+- [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](../claims/squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) [+W]
 
 ## Related Principles
 - [Mentoring/Coaching](mentoring-and-coaching.md) — observation and shadowing are often most effective when paired with guided interpretation from a mentor or coach.

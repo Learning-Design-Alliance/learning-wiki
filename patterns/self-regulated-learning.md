@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 55 claims (19 for, 33 mixed, 3 against) · 49 studies (19 causal, 9 associational, 8 review, 6 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 49 report an effect size · 48 claims rest on one study
+> **Evidence** · 62 claims (23 for, 36 mixed, 3 against) · 55 studies (21 causal, 10 associational, 9 review, 8 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 55 report an effect size · 55 claims rest on one study
 
 ## Description and scope
 
@@ -155,6 +155,13 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](../claims/low-prior-knowledge-students-struggle-self-regulation.md) [~W]
 - [Teachers allocated on average five percent of intervention sessions to predicting and purpose setting, with fidelity of implementation averaging 45.4%](../claims/low-time-and-fidelity-engaged-reader-processes.md) [~W]
 - [Learners often fail to regulate their own learning in computer-based learning environments](../claims/learners-fail-self-regulation-in-cbles.md) [~W]
+- [Instructional approaches do not differ significantly in monitoring or reflecting, and omnibus differences in orienting and planning show no significant pairwise differences](../claims/no-approach-differences-monitoring-reflecting.md) [~W]
+- [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](../claims/srl-scaffolds-positive-effect-academic-performance.md) [+W]
+- [SRL interventions are effective in improving both SRL activity and achievement in higher education](../claims/srl-interventions-improve-activity-achievement.md) [+W]
+- [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](../claims/sri-implementation-observations-modeling-evaluation.md) [+W]
+- [Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]
+- [Students use strategies to regulate their own motivation and affect](../claims/students-regulate-motivation-affect-strategies.md) [+W]
+- [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](../claims/task-motivation-time-on-task-moderators-hypothesis.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

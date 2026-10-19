@@ -24,7 +24,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (15 for, 12 mixed, 1 against) · 31 studies (12 quant-synthesis, 7 causal, 6 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 31 report an effect size · 21 claims rest on one study
+> **Evidence** · 30 claims (15 for, 14 mixed, 1 against) · 32 studies (12 quant-synthesis, 7 causal, 7 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 32 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -176,6 +176,8 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 - [The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures](../claims/experanto-interaction-design-four-l2-structures.md) [~W]
 - [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](../claims/guided-discovery-outperformed-both-extremes.md) [-W]
+- [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](../claims/peer-instruction-less-effective-low-achievers-creativity.md) [~W]
+- [No differential effect of explicit instruction depending on the variable complexity](../claims/no-differential-explicit-instruction-effect-complexity.md) [~W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from

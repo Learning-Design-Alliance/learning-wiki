@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 19 studies (5 review, 5 associational, 4 causal, 2 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 19 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (11 for, 9 mixed, 2 against) · 22 studies (6 causal, 6 review, 5 associational, 2 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 22 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,9 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 
 - [Lay forecasters predicted that practicing alone would produce more learning than practicing with AI, contrary to the experimental results](../claims/forecasters-predicted-ai-practice-would-harm-learning.md) [+W]
 - [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](../claims/genai-pedagogical-effects-investigation-limited.md) [~W]
+- [Only 20% of the 100 most used edtech products have a research rationale](../claims/only-20-percent-top-edtech-research-rationale.md) [+W]
+- [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](../claims/psm-baseline-equivalence-mtss-study.md) [~W]
+- [The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings](../claims/rwt-evidence-base-single-small-trial.md) [~W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

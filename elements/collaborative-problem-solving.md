@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (17 for, 21 mixed, 1 against) · 35 studies (7 causal, 7 theoretical, 6 associational, 5 quant-synthesis, 4 review, 4 qualitative, 2 design), `q1`–`q4` · 4 of 35 report an effect size · 37 claims rest on one study
+> **Evidence** · 44 claims (19 for, 24 mixed, 1 against) · 40 studies (10 associational, 7 causal, 7 theoretical, 5 quant-synthesis, 5 review, 4 qualitative, 2 design), `q1`–`q4` · 5 of 40 report an effect size · 42 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -90,6 +90,11 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](../claims/groups-outperform-individuals-complex-problem-creativity.md) [+W]
 - [Information discussion and regulation of task-related activities did not significantly predict group performance](../claims/information-discussion-task-regulation-no-performance-effect.md) [~W]
 - [Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative](../claims/group-interaction-type-profiles-differ.md) [~W]
+- [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](../claims/real-groups-higher-synchrony-than-false-groups.md) [+W]
+- [Physiological synchrony among collaborating students related only to cognitive regulation, while motivational regulation changes related to achievement](../claims/physiological-synchrony-cognitive-regulation-dindar.md) [~W]
+- [Session-level physiological synchrony occurred in the two groups that struggled with the collaborative exam, while the two groups that found the task easy showed no synchrony.](../claims/physiological-synchrony-occurs-with-difficulties.md) [~W]
+- [Teamwork predicts critical thinking via educational motivation (Ind2: Twork→EdMot→CThink, β=.052, 95% CI .0318-.0747)](../claims/teamwork-via-educational-motivation-indirect-effect.md) [+W]
+- [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](../claims/temporal-motifs-differ-by-perception-group.md) [~W]
 
 ## The evidence by question
 

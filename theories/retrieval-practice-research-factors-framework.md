@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 9 studies (5 causal, 3 quant-synthesis, 1 review), `q3`–`q4` · 6 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 14 studies (9 causal, 3 quant-synthesis, 2 review), `q3`–`q4` · 7 of 14 report an effect size · 11 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -45,6 +45,12 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](../claims/covert-retrieval-tests-improve-map-learning.md) [+W] — attached 2026-10-16 from Shana K. Carpenter et al. (2007), which proposed "Covert retrieval with self-scoring as a method for extending the testing effect to nonverbal, visuospatial materials"; tests this page's relationship.
 - [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](../claims/inserted-questions-longer-initial-reading.md) [~W]
 - [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](../claims/practice-retrieval-scores-no-condition-differences.md) [~W]
+- [Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping](../claims/participant-computer-controller-no-recall-difference.md) [~W]
+- [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](../claims/operational-definitions-incomplete-in-ivr-studies.md) [~W]
+- [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](../claims/quiz-accuracy-declines-after-one-week-delay.md) [+W]
+- [Information retrieval questions were consistently easier than comprehension questions across both visualisation formats](../claims/retrieval-easier-than-comprehension-questions.md) [~W]
+- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
+- [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](../claims/tap-identical-formats-stronger-effect.md) [+W]
 
 ## Related Theories
 - 

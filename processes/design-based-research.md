@@ -14,7 +14,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 5 claims (5 for) · 5 studies (3 design, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (3 design, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.
@@ -70,6 +70,7 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 - [Editorial reports that optimizing a collaborative learning design after reflecting on misalignment significantly improved design-enactment alignment and improved group performance](../claims/editorial-reports-design-optimization-improves-alignment-and-group-performance.md) [+W]
 - [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](../claims/dbr-two-macro-cycles-114-participants-standards.md) [+W]
 - [Design-based research is important for the development of technology-enhanced learning environments](../claims/dbr-importance-for-tele-development.md) [+W]
+- [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](../claims/rns-collaborative-design-relevant-feasible-sustainable.md) [+W]
 
 #### Supporting
 - None yet recorded in the wiki from a DBR study's own evidence

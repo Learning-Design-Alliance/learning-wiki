@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (26 for, 29 mixed, 6 against, 5 unmarked) · 69 studies (23 review, 19 causal, 8 qualitative, 8 theoretical, 4 associational, 4 design, 3 quant-synthesis), `q1`–`q4` · 7 of 69 report an effect size · 61 claims rest on one study
+> **Evidence** · 70 claims (28 for, 31 mixed, 6 against, 5 unmarked) · 73 studies (24 review, 20 causal, 8 qualitative, 8 theoretical, 5 associational, 4 quant-synthesis, 4 design), `q1`–`q4` · 8 of 73 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,10 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Preservice teachers chose the easy video significantly more often for an ethnic minority student than for an ethnic majority student, all other information being equal](../claims/ethnic-minority-student-given-easy-video-study1.md) [-W]
 - [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](../claims/learner-context-personalizes-ai-tutor-explanations.md) [+W]
 - [Participants required GSR self-knowledge of an assertive, conscientious, friendly personality with a customizable role](../claims/gsr-self-knowledge-personality-role-requirements.md) [~W]
+- [Nearly nine in ten students ranked a personalized video as their top choice](../claims/personalized-video-top-choice-88-percent.md) [+W]
+- [In mathematics, personalized-learning students in the lowest baseline quintile were the most likely to out-grow their matched comparison students](../claims/pl-lowest-baseline-students-greatest-growth.md) [+W]
+- [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](../claims/school-level-moderates-ai-stem-effects.md) [~W]
+- [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](../claims/policy-multilabel-concentrated-constraints-scaffolding-personalization.md) [~W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

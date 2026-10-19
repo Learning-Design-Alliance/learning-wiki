@@ -13,7 +13,7 @@ generated:
 # Communities of Innovation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 West's (2014) Communities of Innovation (COI) framework identifies characteristics at three levels that predict a group's capacity for collaborative creativity, positioned as an evolution of Communities of Practice (Lave & Wenger, 1991; Wenger, 1998) specifically for groups whose purpose is producing innovative output.
@@ -57,6 +57,8 @@ West's (2014) Communities of Innovation (COI) framework identifies characteristi
 - Builds explicitly on Communities of Practice (Lave & Wenger, 1991; Wenger, 1998) as a specifically innovation-focused evolution of that framework
 
 ## Claims
+
+- [Mastery in a quasi-community is dynamically and relatively distributed rather than structured as stable core-periphery hierarchy](../claims/quasi-community-distributed-mastery.md) [+W]
 
 ## Related Principles
 - [Four Boundaries of Learning Community (Access, Relationships, Vision, Function)](four-boundaries-of-learning-community.md) — a Community of Innovation is one kind of bounded community; this framework describes what makes such a community specifically productive of innovation once it exists

@@ -36,7 +36,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (18 for, 25 mixed, 1 against) · 32 studies (13 causal, 6 quant-synthesis, 5 review, 3 design, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 7 of 32 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (19 for, 25 mixed, 1 against) · 33 studies (13 causal, 6 quant-synthesis, 6 review, 3 design, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 7 of 33 report an effect size · 40 claims rest on one study
 
 ## Description and scope
 
@@ -157,6 +157,7 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](../claims/key-features-improve-explanation-in-case-comparison.md) [+W]
 - [Providing key features during case comparison reduces learning time](../claims/key-features-reduce-learning-time.md) [+W]
 - [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](../claims/no-group-difference-theory-usage-increase.md) [-W]
+- [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](../claims/structure-emphasizing-cover-stories-categorization.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

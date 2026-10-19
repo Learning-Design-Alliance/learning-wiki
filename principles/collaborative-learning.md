@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (27 for, 38 mixed, 4 against) · 73 studies (16 causal, 13 review, 13 theoretical, 10 associational, 9 qualitative, 8 quant-synthesis, 4 design), `q1`–`q4` · 10 of 73 report an effect size · 63 claims rest on one study
+> **Evidence** · 75 claims (29 for, 41 mixed, 5 against) · 78 studies (18 causal, 14 review, 14 theoretical, 10 associational, 9 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 11 of 78 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,12 @@ Group performance during the task, individual understanding straight after it, d
 - [Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions](../claims/human-pairing-highest-collaboration-social-presence.md) [+W]
 - [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [~W]
 - [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](../claims/information-sharing-without-interpretation-prevalent.md) [~W]
+- [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](../claims/measurement-level-moderator-not-significant.md) [~W]
+- [In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question](../claims/prestudy-ddr-perspective-integration.md) [+W]
+- [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](../claims/script-no-direct-effect-learning-gains.md) [-W]
+- [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](../claims/task-and-collaboration-regulation-both-important.md) [~W]
+- [Schnaubert and Bodemer propose a six-part framework of defining aspects of group awareness for regulating joint activity](../claims/six-defining-aspects-group-awareness-framework.md) [+W]
+- [Learning partners converge strongly in their use of knowledge resources during collaboration](../claims/strong-convergence-resource-use-during-collaboration.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

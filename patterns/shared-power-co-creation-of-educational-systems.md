@@ -26,7 +26,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 19 studies (13 qualitative, 2 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 19 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 21 studies (13 qualitative, 4 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 21 report an effect size · 28 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,9 @@ This pattern is scoped to sharing a real decision with a group the existing proc
 - [Teacher–student disagreement diminished for co-designers and, in most cases, for the rest of the class](../claims/pd-disagreement-decreased-codesigners.md) [~W]
 - [Student awareness of improvement differed sharply by role: most co-designers noticed improvement, most control students noticed none](../claims/pd-student-change-question-differences.md) [+W]
 - [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](../claims/centering-teacher-of-color-voice-distributed-leadership.md) [+W]
+- [Participatory redesign produced significantly more positive perception effects on instruction aspects relevant to the formulated improvements than on irrelevant ones](../claims/pd-relevant-scales-more-positive-effects.md) [+W]
+- [Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint](../claims/power-as-structural-and-capacity-to-act.md) [~W]
+- [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](../claims/student-authored-instructor-ai-rules-accountability.md) [+W]
 
 ## Related Patterns
 - (none yet linked)

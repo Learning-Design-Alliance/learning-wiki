@@ -13,7 +13,7 @@ generated:
 # Justification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 causal, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Justification is the element in which learners explain why a claim, choice, or solution is warranted using reasons, criteria, or evidence. It is useful when the instructional goal is to strengthen explanation quality rather than only reach an answer.
@@ -38,6 +38,7 @@ Justification is the element in which learners explain why a claim, choice, or s
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](../claims/elementary-students-prefer-mechanistic-explanations.md) [+W]
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](../claims/pseudo-agency-surface-engagement-without-purpose.md) [~W]
+- [Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices](../claims/moral-disengagement-most-common-justification.md) [+W]
 
 ## Related Elements
 - [Justification & Argumentation](justification-argumentation.md)

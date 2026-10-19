@@ -14,7 +14,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (10 for, 3 mixed, 2 against) · 17 studies (6 causal, 4 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (11 for, 3 mixed, 3 against) · 18 studies (7 causal, 4 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 13 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -64,6 +64,8 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](../claims/approach-specific-process-profiles.md) [~W]
 - [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](../claims/equal-inquiry-skills-gains-all-groups.md) [+W]
 - [Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments](../claims/generation-approaches-elicit-more-learning-processes.md) [~W]
+- [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](../claims/persistent-misconceptions-computer-based-ibl.md) [-W]
+- [Web-based collaborative inquiry produces a small but significant improvement in students' interest in science](../claims/small-significant-interest-gain-web-inquiry.md) [+W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

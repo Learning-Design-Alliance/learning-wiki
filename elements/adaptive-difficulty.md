@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (2 quant-synthesis, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 8 studies (2 quant-synthesis, 2 design, 1 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -56,6 +56,8 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](../claims/challenge-support-imbalance-effects-novice-learners.md) [~W]
 - [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](../claims/case-study-scaffolding-lowers-difficulty-ability-rises.md) [+W]
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [~W]
+- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](../claims/optimal-challenge-sustains-gaming-engagement.md) [+W]
+- [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](../claims/mastery-probability-covariate-ancova-favors-adaptive.md) [~W]
 
 ## The evidence by question
 

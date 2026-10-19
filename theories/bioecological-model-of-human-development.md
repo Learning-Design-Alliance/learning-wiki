@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 15 studies (9 associational, 3 quant-synthesis, 3 review), `q2`–`q3` · 2 of 15 report an effect size · 13 claims rest on one study
+> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 22 studies (13 associational, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q3` · 4 of 22 report an effect size · 23 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -56,6 +56,16 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](../claims/adversity-parent-involvement-mediate-financial-difficulty-adhd.md) [~W]
 - [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](../claims/closeness-benefits-concurrent-not-prospective.md) [~W]
 - [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](../claims/household-community-factors-constrain-input.md) [~W]
+- [Neighborhood effects on graduation appear to operate in part through neighborhood effects on parents (time-varying family characteristics)](../claims/neighborhood-effects-mediated-through-parents.md) [+W]
+- [The rate of change in mothers' growth mindset predicted both children's later growth mindset level and children's own rate of change](../claims/maternal-mindset-change-predicts-child-trajectory.md) [+W]
+- [Mothers' engagement in positive activities with children remains stable over early childhood while fathers' engagement shows significant linear growth](../claims/mothers-stable-fathers-growing-engagement-trajectories.md) [~W]
+- [Neighborhood context is a transient ecological setting, with many families moving between neighborhood disadvantage quintiles during childhood](../claims/neighborhood-context-transient-frequent-mobility.md) [~W]
+- [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](../claims/parental-presence-support-buffers-stress.md) [+W]
+- [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](../claims/paternal-mindset-predicts-girls-not-boys.md) [~W]
+- [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](../claims/poverty-cortisol-executive-function-mediation.md) [~W]
+- [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](../claims/process-praise-toddlerhood-predicts-incremental-frameworks.md) [~W]
+- [Quality of the kindergarten teacher–child relationship moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](../claims/teacher-relationship-moderates-ecls-k-math-growth.md) [+W]
+- [Social norms shape role positioning in parent-child dyads playing an educational video game, with children sometimes more expert](../claims/social-norms-role-positioning-parent-child-game.md) [~W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

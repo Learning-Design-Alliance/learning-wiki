@@ -26,7 +26,7 @@ sources:
 # Demonstration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (2 causal, 1 review, 1 theoretical), `q3` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (3 causal, 1 review, 1 theoretical), `q3` · 0 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.
@@ -64,7 +64,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Most 3-year-olds deployed a demonstrated external marking strategy, but none modified it to solve a conceptually similar transfer task](../claims/three-year-olds-copy-but-do-not-modify-external-strategy.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; demonstration without practice rarely transfers

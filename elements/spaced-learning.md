@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (10 for, 2 mixed) · 14 studies (7 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 3 of 14 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 15 studies (8 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 3 of 15 report an effect size · 13 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -33,6 +33,9 @@ Spaced learning is the element in which practice or review is distributed over t
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](../claims/contextual-spacing-effect-survives-orienting-tasks.md) [+W]
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](../claims/free-recall-lag-effect-structural-components.md) [~W]
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](../claims/lag-effect-eliminated-long-retention-no-associations.md) [~W]
+- [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](../claims/proportionality-rule-long-spacing-weeks.md) [~M]
+- [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](../claims/same-different-task-no-lag-interaction.md) [~W]
+- [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](../claims/spacing-effect-free-recall-dp-beats-mp.md) [+W]
 
 ## The evidence by question
 - *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]

@@ -26,7 +26,7 @@ sources:
 # Mindfulness Activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (8 for, 10 mixed, 1 against) · 11 studies (4 quant-synthesis, 4 review, 1 causal, 1 design, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (8 for, 11 mixed, 1 against) · 12 studies (5 quant-synthesis, 4 review, 1 causal, 1 design, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Settling at the start of a task, sustained attention, lower anxiety, learning on
 ## Claims
 
 - [Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training](../claims/individual-differences-program-characteristics-shape-mindfulness-effectiveness.md) [~W]
+- [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](../claims/mindfulness-yoga-interventions-improved-sr-4-of-8.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — mindfulness routines can function as a brief transition or readiness check-in.

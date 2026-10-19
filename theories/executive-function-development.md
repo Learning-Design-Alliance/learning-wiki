@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 125 claims (61 for, 62 mixed, 2 against) · 77 studies (48 associational, 11 causal, 10 review, 7 quant-synthesis, 1 theoretical), `q1`–`q4` · 31 of 77 report an effect size · 119 claims rest on one study
+> **Evidence** · 177 claims (82 for, 91 mixed, 4 against) · 95 studies (56 associational, 17 review, 13 causal, 7 quant-synthesis, 2 theoretical), `q1`–`q4` · 40 of 95 report an effect size · 169 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -166,6 +166,58 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](../claims/lower-pretest-skills-greater-gains-moderators-null.md) [~M]
 - [Instructions to maintain feelings of disgust do not disrupt working memory performance in either age group](../claims/maintaining-disgust-no-performance-cost.md) [~W]
 - [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](../claims/makq-strategy-knowledge-inhibitory-control.md) [+W]
+- [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](../claims/metacognitive-scaffolding-n2-erp-increase-children.md) [~W]
+- [Mothers' cognitive support during problem-solving did not predict children's later cognitive flexibility](../claims/maternal-cognitive-support-did-not-predict-flexibility.md) [-W]
+- [Higher maternal education predicts membership in faster self-regulation trajectories](../claims/maternal-education-predicts-self-regulation-trajectory.md) [~W]
+- [Non-Hispanic White children showed better cognitive flexibility and received more emotionally supportive caregiving than children from minority backgrounds](../claims/minority-status-disparities-in-flexibility-and-emotional-support.md) [~W]
+- [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](../claims/mindfulness-yoga-ef-gains-poorest-gain-most.md) [~W]
+- [Middle school's escalated executive function demands cause a crash for students with ADHD/EDF, and 504 plans rarely meet EDF needs](../claims/middle-school-ef-demands-crash-504-inadequate.md) [~W]
+- [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](../claims/music-training-verbal-working-memory-backward-span.md) [~M]
+- [Music training is associated with improved inhibitory control in children, though the largest studies found no executive function differences](../claims/music-training-improves-inhibitory-control-children.md) [~M]
+- [Only one identified study found improved visuospatial working memory after music training](../claims/music-training-visuospatial-working-memory-single-study.md) [+W]
+- [N-2 language repetition costs are a less ambiguous marker of inhibition in language switching, though their pattern across languages is inconsistent](../claims/n2-language-repetition-costs-inhibition-marker.md) [~W]
+- [No age differences emerge in how threat and cognitive load interact on working memory accuracy or reaction time](../claims/no-age-by-threat-by-load-interaction.md) [~W]
+- [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](../claims/nback-practice-effect-all-groups.md) [~W]
+- [Social exclusion has no significant effect on visuo-spatial dot-matrix working memory accuracy in any age group](../claims/no-exclusion-effect-visuospatial-working-memory.md) [~W]
+- [Deaf non-native signers scored lower than hearing children on executive-loaded non-verbal working memory tasks, while deaf native signers did not differ from hearing children](../claims/non-native-signers-poorer-executive-loaded-nvwm.md) [+W]
+- [Training benefits did not extend to processing speed tasks, indicating specificity to cognitive control processes](../claims/no-transfer-processing-speed-tasks.md) [~W]
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](../claims/paths-csrp-addon-ef-improvement.md) [+W]
+- [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](../claims/perseverator-proportion-declines-preschool.md) [+W]
+- [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](../claims/physical-activity-positively-correlated-self-regulation-children.md) [+W]
+- [Specific physical fitness components are differentially associated with specific executive function domains in adolescents](../claims/pf-components-map-onto-ef-domains.md) [~W]
+- [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](../claims/poverty-cortisol-executive-function-mediation.md) [~W]
+- [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](../claims/proactive-inhibition-present-pre-adolescence.md) [+W]
+- [Physical activity is positively correlated with children's working memory, and integrated exercise with gestures yields the best preschool foreign-language vocabulary learning](../claims/physical-activity-working-memory-vocabulary.md) [+W]
+- [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](../claims/quadratic-best-fit-restricted-age-range.md) [+W]
+- [Processing speed is linked to working memory in both studies, but its link to short-term memory is inconsistent across studies](../claims/processing-speed-links-wm-consistent-stm-inconsistent.md) [~W]
+- [Children too young to use attentional refreshing are limited by retention interval duration, while older children and adults are limited by cognitive load](../claims/refreshing-phase-change-in-childhood.md) [+W]
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](../claims/reactive-inhibition-improves-age-8-11.md) [+W]
+- [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](../claims/rapid-initiation-delay-behaviours-successful-toddlers.md) [+W]
+- [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](../claims/reward-prospect-improves-inhibitory-control-meta-analysis.md) [~W]
+- [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](../claims/rt-congruency-difference-correlates-with-math.md) [+W]
+- [Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents](../claims/reward-improves-ssrt-cancellation-and-restraint.md) [+W]
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](../claims/screen-time-less-efficient-cognitive-control-adolescence.md) [-W]
+- [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](../claims/sex-specific-inhibition-coupling-development.md) [~W]
+- [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](../claims/rtms-ifj-causal-top-down-modulation-wm.md) [+W]
+- [Children with better selective attention were more flexible (used more different conceptual categories) in the Alternative Uses Task](../claims/selective-attention-predicts-flexibility.md) [+W]
+- [Shifting is moderately to strongly associated with reading comprehension, with large associations when reading-specific shifting tasks are paired with literal comprehension measures](../claims/shifting-reading-comprehension-moderate-strong.md) [+W]
+- [Shifting shows small to moderate associations with listening comprehension (r = .12 to .45) across three studies](../claims/shifting-listening-comprehension-small-moderate.md) [~W]
+- [Children who slept <9 hours/day at ages 5-7 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children sleeping ≥10 hours/day](../claims/short-sleep-5-7-years-worse-maternal-neurobehavioral.md) [~W]
+- [Shifting is generally moderately to strongly associated with word reading, with reading-specific shifting tasks most strongly linked to accuracy-based word reading assessments](../claims/shifting-word-reading-moderate-strong.md) [+W]
+- [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](../claims/short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md) [~W]
+- [Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations](../claims/sleep-quality-time-in-bed-predict-morning-working-memory.md) [~W]
+- [Spontaneous flexibility, but not reactive flexibility, significantly predicts children's reading comprehension and writing](../claims/spontaneous-flexibility-predicts-academic-skills.md) [~W]
+- [SSRT was faster in the cancellation task than in the restraint task, supporting inhibition as a non-unitary construct](../claims/ssrt-faster-cancellation-than-restraint.md) [~W]
+- [Sport-specific disciplines relate to distinct executive functions: tennis and football with inhibitory control and working memory, with a larger tennis association in males](../claims/sport-disciplines-executive-functions-tennis-football.md) [+W]
+- [Social communication skills uniquely predict kindergarten executive functions after accounting for vocabulary, which does not predict EF](../claims/social-communication-uniquely-predicts-kindergarten-executive-functions.md) [~W]
+- [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](../claims/ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) [~W]
+- [Stroop inhibition correlates with linguistic competition resolution in bilinguals but not monolinguals](../claims/stroop-correlates-competitor-inhibition-bilinguals-not-monolinguals.md) [~W]
+- [Task-switching ability matures earlier than task maintenance and selection abilities in childhood](../claims/switching-matures-earlier-than-maintenance.md) [+W]
+- [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](../claims/task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) [+W]
+- [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](../claims/threat-impairs-accuracy-low-medium-not-high-load.md) [~W]
+- [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](../claims/task-relevant-emotions-stronger-response-inhibition-effect.md) [~W]
+- [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](../claims/tools-montessori-curricula-improve-efs.md) [+W]
+- [Current daytime tiredness predicts children's afternoon working memory performance fluctuations](../claims/tiredness-predicts-afternoon-working-memory.md) [~W]
 
 ## Related Theories
 

@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (16 for, 3 mixed) · 16 studies (7 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (17 for, 3 mixed) · 17 studies (7 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 17 report an effect size · 16 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -59,6 +59,7 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
 - [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](../claims/expanding-not-better-than-fixed-interval.md) [~W]
+- [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](../claims/spacing-benefits-diverse-learning-educational-settings.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -16,7 +16,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (20 for, 7 mixed) · 43 studies (14 causal, 13 quant-synthesis, 12 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 43 report an effect size · 14 claims rest on one study
+> **Evidence** · 32 claims (23 for, 9 mixed) · 48 studies (15 causal, 14 review, 13 quant-synthesis, 3 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 48 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -148,6 +148,11 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](../claims/sel-programs-reduce-behavior-problems-distress.md) [+W]
 - [SEL programs are associated with an 11 percentile-point improvement in academic performance](../claims/sel-programs-improve-academic-performance.md) [+W]
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](../claims/sel-requires-educative-inclusive-environments.md) [~W]
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](../claims/paths-csrp-addon-ef-improvement.md) [+W]
+- [There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.](../claims/no-clear-pattern-characteristics-and-effectiveness.md) [~W]
+- [SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019](../claims/scoe-3000-educators-ruler-sel-training.md) [+W]
+- [No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics](../claims/sel-no-prediction-chronic-absenteeism.md) [~W]
+- [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](../claims/sel-meta-analysis-graduation-increases.md) [+M]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

@@ -13,7 +13,7 @@ generated:
 # Writing Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 17 studies (6 quant-synthesis, 5 causal, 3 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 17 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 18 studies (6 causal, 6 quant-synthesis, 3 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 A writing prompt specifies a task that requires learners to generate written text — an explanation, argument, reflection, or summary — rather than select or recognize a response. Prompts function both as learning activities (writing to consolidate understanding) and as assessment instruments (writing to reveal it), and their design determines which of these functions dominates.
@@ -58,6 +58,7 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](../claims/teacher-readiness-belief-predicts-first-prompt-growth.md) [~W]
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](../claims/assessment-shift-task-articulation-over-text-quality.md) [+W]
 - [Gaps in reflective training: 42.9 per cent of trainees had not experienced on-line collaborative talk and 42 per cent had not been asked to produce written assignments about ELT in Oman](../claims/gaps-collaborative-talk-and-written-assignments.md) [+W]
+- [No significant medium, context, or medium-by-context effects on written response length as a measure of behavioral engagement](../claims/no-medium-context-effect-response-length.md) [~W]
 
 ## The evidence by question
 

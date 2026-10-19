@@ -17,7 +17,7 @@ sources:
 # Track targeted supports with causal evaluation beyond annual performance summaries
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that Nevada evaluate its At-risk supports with methods that separate cause from correlation rather than relying on summary performance tables. It argues that "tracking the progress of the state's efforts in helping students who are identified as At-risk to succeed will require more than annual performance summaries," and demonstrates the point by using a regression discontinuity design to estimate the impact of One-Star school supports on At-risk students' math and ELA scores. It also notes some interventions improve outcomes for At-risk students even when their scores remain below peers'.
@@ -38,6 +38,7 @@ The report recommends that Nevada evaluate its At-risk supports with methods tha
 
 ## Claims
 
+- [In NAEP regression discontinuity estimates, exceeding the state threshold increases math achievement by 2.6 points (9.1% of a standard deviation) and reading achievement by 4.4 points (12.2% of a standard deviation)](../claims/sbp-mandate-naep-rd-achievement.md) [~W]
 
 ## Related Strategies
 - 

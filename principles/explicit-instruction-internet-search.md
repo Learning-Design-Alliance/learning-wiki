@@ -18,7 +18,7 @@ sources:
 # Explicit Instruction: Internet Search
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 28 studies (13 causal, 5 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 28 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 29 studies (13 causal, 6 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 29 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,10 @@ For example, an adult in a returning-to-study course may want to find out whethe
 The expectation should weaken if comparisons of taught search routines with unguided exploration, on matched learners and new search tasks, show no difference in sources found, revisions or abandonment, or a gain that disappears within weeks or in a new tool. If teaching operators alone matches the full routine, the routine is overhead. If asking for reasons slows learners without improving their searches, drop the log for all but the hardest tasks. If generative tools that answer directly make query revision rare in learners' own work, the target should move from building queries to checking what an answer rests on. Do not protect the model by calling every failure too little practice or too little background knowledge after the fact.
 
 Finding relevant sources on a practice question, choosing trustworthy ones, searching well in a new tool, and searching well weeks later in the learner's own work are separate claims. The evidence here reaches none of them directly for searching; it establishes no number of sessions, no routine and no hand-over criterion.
+
+## Claims
+
+- [The number of search blocks impacts search quality: fewer blocks yield higher sensitivity and lower precision](../claims/search-block-count-impacts-sensitivity-precision.md) [~W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — search and source evaluation are interdependent

@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (19 for, 14 mixed) · 22 studies (10 causal, 6 quant-synthesis, 4 review, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 22 report an effect size · 29 claims rest on one study
+> **Evidence** · 41 claims (25 for, 16 mixed) · 26 studies (12 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative), `q1`–`q4` · 13 of 26 report an effect size · 37 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -84,6 +84,14 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](../claims/paired-flashcards-improve-immediate-metacognitive-calibration.md) [~W]
 - [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](../claims/practice-retrieval-scores-no-condition-differences.md) [~W]
 - [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](../claims/school-type-significant-condition-not.md) [~W]
+- [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](../claims/mc-testing-boosts-later-performance.md) [+W]
+- [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](../claims/mc-testing-prose-cued-recall-benefit.md) [+W]
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](../claims/practice-tests-improve-judgment-sensitivity.md) [+W]
+- [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](../claims/retention-interval-one-to-six-days-largest.md) [+W]
+- [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](../claims/retrieval-benefit-item-level.md) [+W]
+- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](../claims/ttst-advantage-not-different-at-5min-24h.md) [+W]
+- [A single practice test produced a larger effect (g = 0.70) than two or more practice tests (g = 0.51)](../claims/single-practice-test-larger-effect.md) [~W]
+- [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](../claims/skipping-feedback-fixed-time-improves-recall.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

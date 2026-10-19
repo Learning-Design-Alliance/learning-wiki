@@ -17,7 +17,7 @@ sources:
 # Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends state incentives that recruit candidates into high-need fields and locations: service scholarships and loan forgiveness covering tuition and living expenses, and high-retention 1-year postbaccalaureate programs "such as teacher residency models." Residents apprentice with a master teacher for a school year and commit to teach in hard-to-staff positions for at least 3 to 4 years. Evidence cited includes North Carolina Teaching Fellows retention and San Francisco Teacher Residency outcomes (80% of graduates still in SFUSD after 5 years versus 38% of other pathway hires).
@@ -39,6 +39,7 @@ The report recommends state incentives that recruit candidates into high-need fi
 ## Claims
 
 - [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](../claims/shortage-subjects-special-education-math-science.md) [+W]
+- [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](../claims/shrinking-teacher-supply-top-cited-shortage-cause.md) [~W]
 
 ## Related Strategies
 

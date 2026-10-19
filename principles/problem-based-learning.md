@@ -26,7 +26,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (9 for, 21 mixed, 3 against) · 34 studies (9 causal, 8 review, 6 quant-synthesis, 5 theoretical, 4 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 34 report an effect size · 28 claims rest on one study
+> **Evidence** · 42 claims (13 for, 26 mixed, 3 against) · 40 studies (10 review, 9 causal, 7 quant-synthesis, 6 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 6 of 40 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,15 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](../claims/pbl-discussion-mainly-theory-building.md) [~W]
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](../claims/ai-pbl-high-ngain-versus-control-low.md) [~W]
 - [Despite extensive research on PBL, there is heated debate about its effectiveness](../claims/heated-debate-pbl-effectiveness.md) [~W]
+- [PBL offers potential to help students develop flexible understanding and lifelong learning skills](../claims/pbl-potential-flexible-understanding-lifelong-learning.md) [~W]
+- [Student engagement is higher during PBL than during traditional instruction](../claims/pbl-engagement-higher-than-traditional.md) [+W]
+- [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](../claims/pbl-evidence-uneven-across-goals.md) [~W]
+- [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](../claims/scope-of-pbl-implementation-shapes-discussion.md) [~W]
+- [Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL](../claims/self-generated-learning-issues-benefit-pbl.md) [+W]
+- [Learning through the experience of solving problems can build both content knowledge and thinking strategies](../claims/problem-experience-builds-content-and-thinking-strategies.md) [+W]
+- [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](../claims/stable-early-regulatory-patterns-limited-change.md) [~W]
+- [One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude](../claims/teacher-guided-inquiry-larger-effects.md) [+M]
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](../claims/tutorial-group-size-moderates-sdl.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

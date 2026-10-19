@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (11 for, 20 mixed, 10 against) · 33 studies (18 causal, 7 associational, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 11 of 33 report an effect size · 38 claims rest on one study
+> **Evidence** · 51 claims (12 for, 26 mixed, 13 against) · 40 studies (21 causal, 9 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q2`–`q4` · 15 of 40 report an effect size · 48 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -91,6 +91,16 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Group settings and guidelines each promoted calibration accuracy and achievement in a high school biology factorial experiment](../claims/group-settings-and-guidelines-promote-calibration.md) [+W]
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](../claims/hard-easy-effect-calibration.md) [~W]
 - [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](../claims/incentives-improve-calibration-lower-achievers.md) [~W]
+- [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](../claims/negative-example-standards-inconsistent-effects.md) [-W]
+- [Self-assessed creative performance and self-assessed idea creativity are moderately correlated but empirically distinct judgments](../claims/performance-and-idea-self-assessments-moderately-related.md) [~W]
+- [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](../claims/perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) [~W]
+- [Postdictions of performance are typically more accurate than predictions](../claims/postdictions-more-accurate-than-predictions.md) [+W]
+- [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](../claims/self-assessment-accuracy-achievement-level-pbl.md) [~W]
+- [Young and older adults make accurate retrospective confidence judgments but not prospective ease-of-selection judgments about their arithmetic strategy selections](../claims/retrospective-not-prospective-accuracy-strategy-selection.md) [-W]
+- [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](../claims/sequential-likert-no-forget-reactivity.md) [-W]
+- [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](../claims/tell-none-conditions-mixed-jol-correlations.md) [~W]
+- [Text topic moderates judgment bias: the CLT text produced higher overconfidence for application performance than the CVT text](../claims/text-topic-moderates-application-overconfidence.md) [~W]
+- [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](../claims/slower-children-rate-own-performance-worse-grades-3-4.md) [~W]
 
 ## The evidence by question
 

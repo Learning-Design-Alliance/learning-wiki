@@ -18,7 +18,7 @@ sources:
 # Mastery criterion with remediation and retesting
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A mastery criterion is a single criterion — such as a specified number of correct responses or a quality of performance — that defines when learning is complete. If a student fails to meet the required level, the article describes directing the student to remediation such as the 'textbook', the tutor, or other support before retesting. It functions as the decision rule underlying contract grading and mastery-learning program formats.
@@ -39,7 +39,7 @@ A mastery criterion is a single criterion — such as a specified number of corr
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested](../claims/map-growth-attrition-demographic-differences-2020.md) [~W]
 
 ## Related Elements
 - [Grading By Contract Fricke](../principles/competency-based-assessment.md)

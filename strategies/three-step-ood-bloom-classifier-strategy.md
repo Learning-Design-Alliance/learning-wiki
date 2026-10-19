@@ -17,7 +17,7 @@ sources:
 # Three-step decision strategy for addressing model performance loss on novel OOD educational question datasets
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors distill their findings into a decision rule for practitioners validating AI-assisted educational questions. As printed: "First, if no access to annotated datasets, use BERT and LLMS which provide robust bloom classification performance. Second, if with access to sample OOD datasets with labels, explore feature engineering approaches (e.g., text splicing and addition of learning objectives) to transform OOD dataset to be similar to IID data. Third, if one has access to a large OOD labeled dataset (N > 1,000 samples), retrain the model."
@@ -35,6 +35,10 @@ The authors distill their findings into a decision rule for practitioners valida
 
 ### Target Learning Goals
 - Scalable automated validation of pedagogical alignment of AI-generated educational materials
+
+## Claims
+
+- [Text splicing into single sentences improves ML and BERT Bloom classification on the Scaria OOD dataset](../claims/text-splicing-improves-ood-bloom-classification.md) [+W]
 
 ## Related Strategies
 - 

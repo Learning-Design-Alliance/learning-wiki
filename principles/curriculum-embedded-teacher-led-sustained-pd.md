@@ -17,7 +17,7 @@ sources:
 # Design professional development around curriculum-embedded, teacher-led, sustained learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (3 review, 1 qualitative, 1 design), `q2` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 5 studies (3 review, 1 qualitative, 1 design), `q2` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 MISE's core guiding principles for professional development remained constant across a decade of adaptation. Professional development should be "Linked to specific curriculum units and focused on the content teachers must teach," based on a clear vision of good practice, immediately useful in classrooms, respectful of teachers and grounded in a coherent theory of adult learning, intensive yet extended over time with on-site support, led by accomplished teachers modeling good practice, easily accessible, and sustainable over time by local districts. The article notes these principles are consistent with the prevailing consensus on effective professional development and that MISE's use of district priorities, rather than individual teacher choice, aimed to build shared vision and communities of practice.
@@ -46,6 +46,7 @@ MISE's core guiding principles for professional development remained constant ac
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](../claims/clear-expectations-learning-walks-reinforce-hqim-use.md) [+W]
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
+- [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](../claims/pd-models-and-curriculum-support.md) [+W]
 
 ## The evidence by question
 

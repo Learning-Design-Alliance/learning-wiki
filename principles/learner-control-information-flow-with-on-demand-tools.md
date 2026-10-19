@@ -18,7 +18,7 @@ sources:
 # Keep the learner in control of the information flow with on-demand tools and supports
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (9 for, 10 mixed, 2 against) · 21 studies (9 causal, 3 quant-synthesis, 2 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 3 of 21 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 22 studies (10 causal, 3 quant-synthesis, 2 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 3 of 22 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Use of a help, assisted performance, unaided immediate performance, delayed rete
 ## Claims
 
 - [Providing navigation features in an instructional video does not improve retention or comprehension when learning time is controlled](../claims/navigation-features-no-learning-benefit-controlled-time.md) [-W]
+- [In the responsive condition, learners requested less than half of the information the PAL was designed to deliver](../claims/responsive-pal-requests-underused.md) [~W]
 
 ## Related Principles
 - [Segmenting](segmenting.md) — cutting a continuous scene into pieces and deciding who sets the pauses; this page assumes it and adds the content helps.

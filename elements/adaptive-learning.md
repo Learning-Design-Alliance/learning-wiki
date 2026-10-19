@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 18 studies (4 causal, 4 review, 3 associational, 3 qualitative, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (12 for, 7 mixed) · 19 studies (5 causal, 4 review, 3 associational, 3 qualitative, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 18 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -70,6 +70,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](../claims/tool-effectiveness-depends-initial-grasp.md) [~W] — attached 2026-10-18 from Ming Fai Pang (2013), which proposed "Two alternative sets of pedagogical tools for teaching the price-change principle"; tests this page's relationship.
 - [Low- and high-performing students make different types of errors and therefore need different kinds of support](../claims/error-types-differ-by-skill-group-math.md) [+W]
 - [The grade effect of learning-strategy differentiation is driven by instruction-dependent and instruction-independent students, not the average group](../claims/grade-effect-driven-by-dependent-independent-groups.md) [~W]
+- [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](../claims/mastery-probability-covariate-ancova-favors-adaptive.md) [~W]
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

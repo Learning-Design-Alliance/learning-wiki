@@ -21,7 +21,7 @@ sources:
 # Bayesian Knowledge Tracing (Two-State Hidden Markov Model)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (5 for, 6 mixed, 2 against) · 8 studies (3 causal, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (5 for, 6 mixed, 3 against) · 8 studies (3 causal, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 14 claims rest on one study
 
 ## Description
 The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and Anderson, as a special case of the Hidden Markov Model with learning parameters (transition, forgetting) and performance parameters (guess, slip) plus an initial mastery probability. "BKT operates within a two-state student modeling framework: knowledge is either learned or unlearned, and there is no forgetting once a student has mastered the knowledge." Dynamic Bayesian knowledge tracing extends it to model hierarchies and relationships among knowledge concepts jointly.
@@ -64,6 +64,7 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [Corbett and Anderson's original individualization attempts produced mixed results](../claims/corbett-anderson-individualization-mixed-results.md) [~W]
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](../claims/hmm-identifies-a5-bottleneck.md) [~W]
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](../claims/individualized-kt-parameters-change-practice-decisions.md) [~W]
+- [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](../claims/standard-knowledge-tracing-lacks-individualization.md) [-W]
 
 ## The evidence by question
 - *Does choosing practice or scaffolding by BKT's mastery estimate improve learning or reduce the practice needed, compared with fixed or random sequencing, and for whom?* [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+M]

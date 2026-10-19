@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (19 for, 19 mixed) · 44 studies (12 causal, 12 quant-synthesis, 5 associational, 5 qualitative, 4 review, 3 design, 3 theoretical), `q1`–`q4` · 12 of 44 report an effect size · 30 claims rest on one study
+> **Evidence** · 43 claims (21 for, 22 mixed) · 48 studies (12 causal, 12 quant-synthesis, 7 review, 5 associational, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 12 of 48 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -189,6 +189,11 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Asking the class to agree with a student's answer and directing students to help one another are associated with higher math achievement](../claims/class-agreement-and-peer-help-higher-achievement.md) [+W]
 - [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](../claims/gbsri-interview-attributions-and-pair-work-discomfort.md) [~W]
 - [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](../claims/individual-dialogue-dominant-speaker-learns-more.md) [~W]
+- [Multiple peer reviews produced greater improvement between draft and final paper than a single expert reviewer in a SWoRD evaluation](../claims/multiple-peer-reviews-beat-single-expert-reviewer-sword.md) [+W]
+- [Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit](../claims/perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit.md) [~W]
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](../claims/peers-undermark-self-assessors-overmark.md) [~W]
+- [Peer assessment of oral presentations improves self-concept relative to control and improves presentation performance, but outcome studies remain few](../claims/peer-oral-presentation-outcomes.md) [+W]
+- [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](../claims/peer-assessment-quality-control-proactive-reactive.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

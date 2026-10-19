@@ -21,7 +21,7 @@ sources:
 # Funds of Knowledge
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (1 review, 1 qualitative, 1 design), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Funds of knowledge (Moll, Amanti, Neff & Gonzalez, 1992) refers to the historically accumulated and culturally developed bodies of knowledge and skill that households use for everyday functioning and well-being — practical know-how around work, caregiving, navigation, budgeting, and problem-solving. The framework treats this household and community knowledge as a genuine instructional asset, typically surfaced through family interviews or home visits, rather than as background irrelevant to formal disciplinary content. It is more operationally specific than a general commitment to valuing learners' backgrounds: it points instructors toward concretely identifying particular practices (e.g., how a family plans a bus route, or sequences steps in a caregiving routine) and building instructional tasks that connect those practices to disciplinary concepts.
@@ -41,8 +41,10 @@ Funds of knowledge (Moll, Amanti, Neff & Gonzalez, 1992) refers to the historica
 - Revealing competencies (e.g., informal computational thinking: sequencing, abstraction, data reasoning) that decontextualized assessments underestimate or miss entirely
 
 ## Claims
+
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](../claims/funds-of-knowledge-tasks-reveal-computational-thinking.md) [+M]
 - [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+M] — validating culturally specific movement as legitimate disciplinary expression is the mechanism through which this expanded fund of knowledge does its instructional work
+- [Students participating in community mathematics practices regarded their everyday home math as inferior to higher-status school math](../claims/students-valorize-school-math-over-home-math.md) [-W]
 
 ## Related Theories
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md) — funds of knowledge is a more operationally concrete instantiation of this broader principle

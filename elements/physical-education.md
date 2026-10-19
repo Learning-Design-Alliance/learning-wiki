@@ -13,7 +13,7 @@ generated:
 # Physical Education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 10 studies (5 quant-synthesis, 3 review, 2 causal), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 review, 2 causal, 1 associational), `q2`–`q4` · 4 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Physical Education is a curricular domain in which the primary content is movement itself: motor skills, game tactics, physical fitness, and health-related dispositions. Because performance is embodied and immediate, PE relies on instructional elements — demonstration, practice, feedback, and game play — that operate in real time and in shared physical space, making it a distinctive context for applying learning design principles.
@@ -54,6 +54,7 @@ Effective PE instruction sequences observation, guided practice, and application
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](../claims/pf-components-associated-adolescent-academic-achievement.md) [~W]
 
 ## The evidence by question
 - *Does feedback improve physical and motor skill outcomes, and does letting learners decide when they receive it help?* [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](../claims/feedback-outcome-measure-moderator-cognitive-physical.md) [+M]

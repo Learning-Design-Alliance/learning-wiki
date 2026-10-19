@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (21 for, 27 mixed, 2 against) · 42 studies (21 causal, 10 quant-synthesis, 6 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 42 report an effect size · 42 claims rest on one study
+> **Evidence** · 55 claims (22 for, 30 mixed, 3 against) · 46 studies (23 causal, 11 quant-synthesis, 7 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 16 of 46 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,11 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](../claims/related-pictures-improve-metacognitive-monitoring-exp2.md) [~W]
 - [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](../claims/theory-annotation-no-extra-skill-benefit.md) [~W]
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](../claims/animation-small-overall-advantage-over-static-graphics.md) [~W]
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](../claims/modality-matching-complementary-channels-video.md) [+W]
+- [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](../claims/multimedia-only-benefits-interactive-features-detrimental.md) [~W]
+- [No overall multimedia effect on problem-solving performance in vector calculus: graphs did not significantly improve correctness](../claims/no-overall-multimedia-effect-vector-calculus.md) [-W]
+- [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](../claims/signaling-improves-retention-transfer-video.md) [~W]
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](../claims/sketching-animation-best-understanding-photograph-worst.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

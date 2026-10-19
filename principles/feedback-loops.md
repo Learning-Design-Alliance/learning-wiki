@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (17 for, 9 mixed, 2 against) · 42 studies (11 causal, 9 quant-synthesis, 9 review, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 7 of 42 report an effect size · 19 claims rest on one study
+> **Evidence** · 29 claims (17 for, 10 mixed, 2 against) · 43 studies (12 causal, 9 quant-synthesis, 9 review, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 7 of 43 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Following the information on the corrected item, unaided performance on a new it
 - [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
 - [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
+- [In water-jug problems, presenting information about available moves and their consequences did not enhance planning, though looping moves reliably decreased](../claims/move-availability-information-did-not-enhance-water-jug-planning.md) [~W]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md)

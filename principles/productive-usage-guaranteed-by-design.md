@@ -18,7 +18,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (14 for, 11 mixed) · 23 studies (7 causal, 6 theoretical, 3 qualitative, 3 design, 2 review, 2 associational), `q1`–`q3` · 6 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 26 claims (15 for, 11 mixed) · 23 studies (7 causal, 6 theoretical, 3 qualitative, 3 design, 2 review, 2 associational), `q1`–`q3` · 6 of 23 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Productive use in the tool, assisted performance, unaided immediate performance,
 ## Claims
 
 - [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](../claims/withholding-improves-output-bound-accuracy-help-seeking-not.md) [+M]
+- [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](../claims/prefer-harder-constraint-reduces-overpractice.md) [+W]
 
 ## Related Principles
 - [User-Centered Design for Learning](user-centered-design-for-learning.md) — the user-testing loop that finds where an interface needs text it should not.

@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (17 for, 12 mixed, 3 against) · 27 studies (19 causal, 3 quant-synthesis, 3 theoretical, 2 review), `q2`–`q4` · 6 of 27 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (17 for, 13 mixed, 3 against) · 28 studies (20 causal, 3 quant-synthesis, 3 theoretical, 2 review), `q2`–`q4` · 7 of 28 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](../claims/worked-examples-no-improvement-knowledge-application.md) [-W]
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](../claims/erroneous-examples-no-immediate-difference.md) [~W]
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](../claims/expertise-reversal-conceptual-understanding-statistics.md) [~W]
+- [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](../claims/no-posttest-differences-mvc-convergence.md) [~W]
 
 ## Key Sources
 

@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 62 claims (31 for, 29 mixed, 2 against) · 49 studies (27 causal, 9 quant-synthesis, 7 review, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 49 report an effect size · 53 claims rest on one study
+> **Evidence** · 68 claims (33 for, 33 mixed, 2 against) · 54 studies (30 causal, 10 quant-synthesis, 8 review, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 16 of 54 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 
@@ -148,6 +148,12 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues](../claims/bespoke-free-text-voice-reveal-layout-issues.md) [~W]
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](../claims/chun-plass-text-picture-outperformed-text-video.md) [+W]
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](../claims/congruent-pictures-with-text-facilitate-comprehension.md) [+W]
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](../claims/modality-matching-complementary-channels-video.md) [+W]
+- [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](../claims/multimedia-only-benefits-interactive-features-detrimental.md) [~W]
+- [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](../claims/multi-representational-learning-integration-failure.md) [~W]
+- [Readers judge a diagram's argumentative position above chance in all conditions except when both text and color are absent, and deleting graphics is more detrimental than deleting text](../claims/reading-position-judgments-cue-conditions.md) [~W]
+- [The segmentation advantage is maintained across repeated readings and is widespread across participants](../claims/segmentation-effect-maintained-repeated-readings.md) [~W]
+- [Strategy guidance yields better immediate recall and comprehension and higher efficiency than continuous presentation without learner control](../claims/strategy-guidance-beats-continuous-presentation-immediate.md) [+W]
 
 ## Examples
 

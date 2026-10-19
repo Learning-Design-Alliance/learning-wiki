@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 160 claims (75 for, 72 mixed, 13 against) · 124 studies (47 causal, 20 review, 19 quant-synthesis, 14 associational, 9 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 32 of 124 report an effect size · 139 claims rest on one study
+> **Evidence** · 168 claims (77 for, 78 mixed, 13 against) · 128 studies (47 causal, 22 review, 19 quant-synthesis, 15 associational, 9 qualitative, 9 design, 7 theoretical), `q1`–`q4` · 32 of 128 report an effect size · 147 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -209,6 +209,14 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](../claims/genai-feedback-rated-higher-genuineness-blind.md) [+M]
 - [Learners prefer receiving corrective feedback more than teachers feel they should provide it](../claims/learners-prefer-cf-more-than-teachers-provide.md) [+W]
 - [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](../claims/learners-selectively-filter-ai-feedback-agency.md) [~W]
+- [NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)](../claims/nlp-feedback-reduced-grading-effort-85-percent.md) [+W]
+- [No significant relationship was found between positive feedback and positive emotions in CPS](../claims/no-positive-feedback-positive-emotion-link.md) [~W]
+- [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](../claims/person-praise-induces-fixed-mindset.md) [+W]
+- [Peer assessment of writing yields outcomes at least as good as teacher assessment and sometimes better](../claims/peer-writing-assessment-as-good-as-teacher.md) [~W]
+- [Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement](../claims/prompt-writing-new-feedback-literacy-capacity.md) [~W]
+- [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](../claims/small-effect-sizes-human-ai-feedback-differences.md) [~W]
+- [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](../claims/trust-customized-agents-accuracy-contextual-alignment.md) [~W]
+- [Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen](../claims/teacher-roles-vary-by-orchestration-type.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -17,7 +17,7 @@ sources:
 # Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (3 for, 3 mixed, 1 unmarked) · 8 studies (6 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (4 for, 5 mixed, 1 unmarked) · 11 studies (7 quant-synthesis, 3 causal, 1 review), `q1`–`q4` · 4 of 11 report an effect size · 9 claims rest on one study
 
 ## Description
 This account holds that effortful retrieval strengthens knowledge and that "The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval". Bjork and Bjork's new theory of disuse distinguishes storage and retrieval strength; the bifurcation account of Kornell et al. (2011) adds that only retrieved items are strengthened, explaining delay-dependent effects.
@@ -44,6 +44,9 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](../claims/retention-interval-moderates-testing-effect.md) [+W] — attached 2026-10-13 from The effect of testing versus restudy on retention: A meta-analytic review of the testing e, which proposed "The bifurcation model of the testing effect".
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](../claims/retrieval-effort-support-testing-effect.md) [+M]
 - [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](../claims/spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) [+W] — attached 2026-10-18 from Lindquist et al. (2024), which proposed "Testing effect and desired difficulty account for durable retention through effortful spaced retrieval".
+- [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](../claims/retrieval-benefit-item-level.md) [~W]
+- [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](../claims/retention-interval-one-to-six-days-largest.md) [+W]
+- [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](../claims/skipping-feedback-fixed-time-improves-recall.md) [~W]
 
 ## The evidence by question
 

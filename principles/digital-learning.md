@@ -27,7 +27,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (30 for, 34 mixed, 3 against) · 73 studies (18 causal, 16 review, 12 quant-synthesis, 12 theoretical, 6 associational, 5 qualitative, 4 design), `q1`–`q4` · 13 of 73 report an effect size · 58 claims rest on one study
+> **Evidence** · 69 claims (32 for, 34 mixed, 3 against) · 75 studies (19 causal, 16 review, 12 quant-synthesis, 12 theoretical, 6 associational, 5 qualitative, 5 design), `q1`–`q4` · 13 of 75 report an effect size · 60 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,8 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](../claims/eleven-of-thirteen-practice-variables-nonsignificant.md) [~W]
 - [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](../claims/few-rigorous-k12-online-studies.md) [~W]
 - [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](../claims/maic-ui-learning-agency-gains-attributed.md) [~W]
+- [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](../claims/olpc-randomized-hardware-null-no-score-effect.md) [+M]
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](../claims/self-explanation-prompts-geometry-tutor-robust-learning.md) [+W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

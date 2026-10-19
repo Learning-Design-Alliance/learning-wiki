@@ -17,7 +17,7 @@ sources:
 # Four-Phase Taxonomy of Knowledge Tracing Variants
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 3 studies (2 design, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 The survey's second organizing axis groups extensions of the fundamental models by the learning phase they add: "we classify and review current variants of fundamental KT models into four categories" — individualization before learning, engagement during learning, forgetting after learning, and side information across learning. Examples include student-node BKT and DKT-DSC clustering, KAT and EEG-BKT, BKT-Forget and DKT-forget, and FAST and EKT.
@@ -43,6 +43,7 @@ The survey's second organizing axis groups extensions of the fundamental models 
 - [Bkt Overestimates Accuracy After A Day Elapses](../claims/bkt-overestimates-accuracy-after-a-day-elapses.md) [+W]
 - [Language Proficiency Side Information Improves Kt Models](../claims/language-proficiency-side-information-improves-kt-models.md) [+W]
 - [Customizing knowledge-node priors from pretest scores improves model accuracy, but tailoring SE-tendency priors yields no significant improvement](../claims/knowledge-priors-help-se-tendency-priors-do-not.md) [~W]
+- [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](../claims/standard-knowledge-tracing-lacks-individualization.md) [+W]
 
 ## The evidence by question
 - *Does extending a knowledge-tracing model with individual parameters, engagement signals, forgetting or other side information improve how well it predicts learners' answers?* [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](../claims/no-single-knowledge-tracing-model-is-always-best.md) [+W]

@@ -29,7 +29,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (13 for, 13 mixed, 1 against) · 24 studies (7 quant-synthesis, 6 causal, 3 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (13 for, 14 mixed, 1 against) · 25 studies (7 causal, 7 quant-synthesis, 3 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,7 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](../claims/mastery-learning-effects-larger-for-lower-aptitude-students.md) [~M]
 - [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]
 - [Mastery learning improves students' attitudes toward the instruction and toward the subject](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]
+- [Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset](../claims/natural-language-feedback-lower-persistent-failure-odds.md) [~W]
 
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)

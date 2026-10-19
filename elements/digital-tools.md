@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (17 for, 11 mixed) · 27 studies (7 associational, 6 review, 5 theoretical, 3 causal, 3 design, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 27 report an effect size · 27 claims rest on one study
+> **Evidence** · 38 claims (20 for, 18 mixed) · 37 studies (9 associational, 8 review, 6 theoretical, 4 causal, 4 design, 3 quant-synthesis, 3 qualitative), `q1`–`q4` · 5 of 37 report an effect size · 37 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -63,6 +63,16 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users](../claims/lecturaagents-student-survey-perceptions.md) [+W]
 - [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](../claims/llm-support-learning-across-education-levels.md) [+W]
 - [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](../claims/ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) [~W]
+- [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](../claims/non-user-reasons-training-trust-integrity.md) [~W]
+- [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](../claims/olpc-randomized-hardware-null-no-score-effect.md) [~M]
+- [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](../claims/pepper-vs-tablets-higher-participation-sen-language.md) [~W]
+- [Integrating scientific visualization into secondary education faces three named problems: basic scientific practices, classroom-format incompatibility, and infrastructure needs](../claims/scivis-secondary-integration-problems.md) [~W]
+- [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](../claims/platform-switch-catalyses-teaching-innovation.md) [~W]
+- [The main student use of GAI tools consistently in view was supporting language-usage and text production](../claims/student-gai-use-text-production.md) [~W]
+- [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](../claims/technology-interventions-positive-pooled-metacognition-effect.md) [+W]
+- [A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period](../claims/social-media-training-improves-inhibitory-control-older-adults.md) [~W]
+- [Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources](../claims/students-perceive-genai-academic-benefits.md) [+W]
+- [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](../claims/teacher-dbdm-use-increases-dls-effectiveness.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

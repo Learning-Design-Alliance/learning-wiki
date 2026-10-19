@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (9 for, 10 mixed) · 23 studies (6 review, 5 causal, 5 associational, 3 qualitative, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (9 for, 11 mixed) · 24 studies (6 review, 5 causal, 5 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 24 report an effect size · 18 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -69,6 +69,7 @@ Peer interaction supports learning when it requires learners to actively constru
 - [First-language heterogeneity is negatively related to time spent getting to know each other and positively related to time spent on task-related communication](../claims/heterogeneity-correlates-with-initial-activity-time-patterns.md) [~W]
 - [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](../claims/individual-anger-inflection-lisa.md) [~W]
 - [The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects](../claims/llm-effects-on-group-dynamics-idea-generation-consensus-productivity.md) [~W]
+- [The two phases of the argumentative task required different organizing principles, and groups changed or failed to change accordingly](../claims/two-phases-require-different-principles.md) [~W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]

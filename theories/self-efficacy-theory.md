@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 54 claims (37 for, 16 mixed, 1 against) · 42 studies (20 associational, 11 review, 9 causal, 1 design, 1 theoretical), `q1`–`q3` · 8 of 42 report an effect size · 53 claims rest on one study
+> **Evidence** · 62 claims (42 for, 19 mixed, 1 against) · 47 studies (23 associational, 11 causal, 11 review, 1 design, 1 theoretical), `q1`–`q3` · 9 of 47 report an effect size · 61 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -101,6 +101,14 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](../claims/lower-initial-self-efficacy-predicts-peer-help.md) [+W]
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](../claims/individual-supportive-factors-adolescent-creativity.md) [+W]
 - [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](../claims/higher-initial-self-efficacy-predicts-accomplishing-it.md) [~W]
+- [Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy](../claims/prior-experience-predicts-prompting-outcomes.md) [+W]
+- [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](../claims/school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) [+W]
+- [Programming self-efficacy and programming literacy did not significantly moderate the trust–appropriate reliance relationship](../claims/programming-measures-no-moderation.md) [~W]
+- [Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals](../claims/proximal-goals-benefit-efficacy-and-skill.md) [+W]
+- [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](../claims/self-efficacy-predicts-motivation-and-performance.md) [+W]
+- [Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback](../claims/self-efficacy-does-not-moderate-feedback-gains.md) [~W]
+- [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](../claims/self-modeling-raises-efficacy-and-skill.md) [+W]
+- [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools](../claims/self-efficacy-predicts-usefulness-ease-genai.md) [~W]
 
 ## The evidence by question
 

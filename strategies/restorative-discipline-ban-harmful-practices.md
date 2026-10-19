@@ -17,7 +17,7 @@ sources:
 # Adopt positive, restorative discipline approaches and ban harmful exclusionary practices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends states influence district discipline by setting clear goals to reduce disparities and overuses in discipline, ensuring transparent data, and "adopting more positive approaches to discipline, such as restorative justice." Improvement priorities include banning corporal punishment, zero tolerance policies, discriminatory hair and grooming codes, and exclusionary discipline for non-violent, subjective or minor offenses like defiance; restricting restraint to trained staff in instances of immediate harm and prohibiting prone restraints; and co-developing student-centered codes of conduct with families.
@@ -36,6 +36,10 @@ The brief recommends states influence district discipline by setting clear goals
 
 ### Target Learning Goals
 - Safe school climates that protect opportunities to learn and develop holistically
+
+## Claims
+
+- [The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct](../claims/philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses.md) [+W]
 
 ## Related Strategies
 

@@ -35,7 +35,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (21 for, 9 mixed, 1 against) · 28 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 28 report an effect size · 28 claims rest on one study
+> **Evidence** · 32 claims (22 for, 9 mixed, 1 against) · 29 studies (7 qualitative, 6 causal, 5 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 29 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 
 - [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [+W]
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](../claims/stem-plcs-deepen-teacher-content-knowledge.md) [+W]
+- [Integrating principals into district MiC leadership teams grounded CoP conversations in practice and helped teams interpret school-level achievement data](../claims/principals-in-leadership-teams-ground-cop-in-practice.md) [+W]
 
 ## Related Principles
 - [Ask Experts](ask-experts.md) — communities widen access to expertise beyond isolated expert encounters

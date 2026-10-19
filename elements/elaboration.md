@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (14 for, 10 mixed, 6 against) · 32 studies (19 causal, 6 quant-synthesis, 4 associational, 3 review), `q2`–`q4` · 12 of 32 report an effect size · 24 claims rest on one study
+> **Evidence** · 34 claims (17 for, 11 mixed, 6 against) · 35 studies (20 causal, 6 quant-synthesis, 5 review, 4 associational), `q1`–`q4` · 12 of 35 report an effect size · 28 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -75,6 +75,10 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [Instruction followed by either self-generated or provided illustrative examples outperformed instruction only on knowledge retention and transfer in student teachers](../claims/examples-after-instruction-beat-instruction-only-retention-transfer.md) [+W]
 - [Elaboration was not correlated with goal attainment in MOOCs](../claims/elaboration-not-correlated-goal-attainment.md) [-W]
 - [Generation and elaboration specificity correlate for autobiographical memory but not for problem solving in both age groups](../claims/generation-elaboration-correlation-memory-only.md) [~W]
+- [Observational learning devotes a significantly lower percentage of learning activity to elaborative processing than the other three approaches](../claims/observational-learning-lowest-elaborative-percentage.md) [~W]
+- [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](../claims/question-asking-interventions-mixed-success.md) [+W]
+- [Teacher students who generated their own examples after instruction achieved better retention and transfer than those given examples, with text-only performing worst](../claims/self-generated-examples-better-retention-transfer.md) [+W]
+- [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](../claims/schema-related-facts-better-remembered.md) [+W]
 
 ## The evidence by question
 

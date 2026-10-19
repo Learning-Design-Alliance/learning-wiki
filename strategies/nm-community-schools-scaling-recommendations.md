@@ -17,7 +17,7 @@ sources:
 # Short-term and longer-term state steps to scale community schools to all high-poverty schools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends a sequenced set of state actions: during the COVID-19 recovery, support districts and tribally controlled schools to "blend and braid" state and federal funds, position community schools as hubs for cross-agency coordination, develop targeted educator professional learning (including micro-credentials modeled on the NEA's Community Schools Improvement Science Micro-Credentials), and collect outcome plus process and implementation data. Longer term, it recommends reinstating K–5 Plus and expanded learning time funding, establishing regional technical assistance, and creating incentives for local nonprofit and business partnerships so every school with at least 80% low-income students has sustainable community schools infrastructure including a full-time coordinator.
@@ -41,6 +41,10 @@ The report recommends a sequenced set of state actions: during the COVID-19 reco
 
 ### Affordances
 - [Community Schools Four Pillars Framework](../products/community-schools-framework-four-pillars-for-a-whole-child-whole-school-whole-community-ap.md)
+
+## Claims
+
+- [New Mexico LESC study: community schools operating more than 5 years with full pillar implementation showed better-than-average achievement growth](../claims/nm-lesc-community-schools-growth.md) [~W]
 
 ## Related Strategies
 

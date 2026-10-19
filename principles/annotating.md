@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (7 for, 13 mixed, 3 against) · 31 studies (13 causal, 6 quant-synthesis, 6 review, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 14 claims rest on one study
+> **Evidence** · 24 claims (8 for, 13 mixed, 3 against) · 32 studies (13 causal, 6 quant-synthesis, 6 review, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -107,6 +107,7 @@ Part 1 should weaken if well-selected learner highlighting fails to improve perf
 - [Initiating annotation frequency strongly correlates with re-annotation frequency across groups (Kendall's tau = 0.95)](../claims/initiating-and-reannotation-strong-correlation.md) [~W]
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](../claims/annotation-engagement-no-comprehension-effect.md) [~W]
 - [After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer](../claims/insert-strategy-independent-use-transfer-case.md) [~W]
+- [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](../claims/snippet-selection-predicts-integration-above-reading-skills.md) [+W]
 
 ## Related Principles
 - [Note-taking](note-taking.md) — annotation is note-taking anchored directly to a source text

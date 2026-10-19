@@ -27,7 +27,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 8 mixed, 4 against) · 38 studies (15 causal, 12 review, 8 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 16 claims rest on one study
+> **Evidence** · 27 claims (13 for, 9 mixed, 5 against) · 39 studies (16 causal, 12 review, 8 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 39 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,8 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](../claims/congruent-pictures-with-text-facilitate-comprehension.md) [+W]
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](../claims/drawing-no-recognition-benefit-local-worse.md) [-W]
 - [Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing](../claims/inconsistent-drawing-evidence-organized-by-hypotheses.md) [~W]
+- [No overall multimedia effect on problem-solving performance in vector calculus: graphs did not significantly improve correctness](../claims/no-overall-multimedia-effect-vector-calculus.md) [-W]
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](../claims/sketching-animation-best-understanding-photograph-worst.md) [~W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)

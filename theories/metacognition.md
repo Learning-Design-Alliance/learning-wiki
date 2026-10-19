@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 329 claims (161 for, 150 mixed, 18 against) · 168 studies (90 causal, 38 associational, 11 review, 10 qualitative, 10 theoretical, 6 quant-synthesis, 3 design), `q1`–`q4` · 62 of 168 report an effect size · 323 claims rest on one study
+> **Evidence** · 374 claims (180 for, 173 mixed, 21 against) · 182 studies (92 causal, 44 associational, 13 review, 12 theoretical, 10 qualitative, 7 quant-synthesis, 4 design), `q1`–`q4` · 66 of 182 report an effect size · 368 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -371,6 +371,51 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](../claims/incentives-improve-calibration-lower-achievers.md) [~W]
 - [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](../claims/makq-two-factor-self-knowledge-structure.md) [~W]
 - [Generating delayed keywords does not reduce bias in comprehension judgments](../claims/keyword-generation-does-not-reduce-bias.md) [~W]
+- [In Yao students, metacognitive knowledge and vocabulary breadth showed a common growth trend: higher initial MCK predicted higher initial VK, and faster MCK growth predicted faster VK growth](../claims/mck-vk-common-growth-yao.md) [+W]
+- [Memory metacognitive efficiency correlates with Wechsler Memory Scale scores, but perceptual metacognition does not](../claims/memory-metacognition-correlates-with-wms-scores.md) [~W]
+- [Memory metacognitive efficiency shows a non-significant negative relationship with age](../claims/memory-metacognitive-efficiency-nonsignificant-age-decline.md) [~W]
+- [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](../claims/metacognition-dual-impact-generative-exploratory-stages.md) [~W]
+- [Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)](../claims/metacognition-math-correlation-adolescence-pooled.md) [+W]
+- [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](../claims/metacognition-not-risk-preference-or-response-time.md) [+W]
+- [Metacognitive scaffolding added to computer-based executive attention training produces larger intelligence gains in preschoolers than regular training or an untrained active control](../claims/metacognitive-scaffolding-larger-intelligence-gains-preschoolers.md) [+W]
+- [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](../claims/metacognition-math-heterogeneity-high.md) [~W]
+- [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](../claims/metacognitive-scaffolding-n2-erp-increase-children.md) [~W]
+- [Prompting metacognitive strategies before cognitive strategies improves strategy quality and conceptual knowledge](../claims/metacognitive-first-prompt-sequence.md) [+W]
+- [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](../claims/mixed-age-differences-confidence-judgment-resolution.md) [~W]
+- [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](../claims/most-studies-significant-positive-association.md) [+W]
+- [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](../claims/monitoring-effects-without-test-performance-gains.md) [~W]
+- [Students with more misconceptions before studying more strongly underestimated their transfer performance, regardless of instructional method](../claims/more-misconceptions-underestimate-transfer.md) [+W]
+- [Age did not interact with associative relatedness or effective encoding-strategy use in predicting JOLs, indicating no age differences in the use of these two sources of information when making judgments of learning](../claims/no-age-difference-jol-information-sources.md) [~W]
+- [Offloading is decodable from metacognitive monitoring and control brain processes](../claims/neural-metacognitive-decoding-offloading.md) [+W]
+- [Low and high social challenge dyads do not differ in the frequency of metacognitive activities](../claims/no-frequency-difference-metacognitive-activities.md) [~W]
+- [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](../claims/no-age-deficit-eol-difficulty-assessment.md) [~W]
+- [When recalling their own experiences, 5- and 6-year-olds use metacognitive strategies more to alleviate sadness and fear than anger](../claims/metacognitive-strategies-more-for-sadness-fear-than-anger.md) [+W]
+- [Metacognitive skills initially develop in separate domains and later become generalized across domains, but the transfer processes remain unknown](../claims/metacognitive-skills-domain-development-trajectory.md) [~W]
+- [Off-line self-report instruments show low concurrent validity with on-line measures and do not predict learning outcomes very well](../claims/offline-self-reports-low-concurrent-validity-veenman.md) [-W]
+- [Peer interactions supported both children's metacognitive tasks and strategies, with children organizing performance using others' directions and evaluating others' performance](../claims/peer-interactions-support-metacognitive-tasks-strategies.md) [+W]
+- [The Not Sure state of Knowledge Confidence predicts better recall of object names, consistent with the region of proximal learning framework](../claims/not-sure-knowledge-confidence-predicts-recall.md) [+W]
+- [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](../claims/perceptual-metacognitive-efficiency-declines-with-age.md) [~W]
+- [Individuals show a systematic positive reminder bias, setting more reminders than optimal](../claims/positive-reminder-bias.md) [~W]
+- [Postdictions of performance are typically more accurate than predictions](../claims/postdictions-more-accurate-than-predictions.md) [~W]
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](../claims/practice-tests-improve-judgment-sensitivity.md) [+W]
+- [Collecting metacognitive judgments did not disrupt typical strategy selection and execution: both age groups selected the better strategy more on rounding-up homogeneous problems and executed rounding-down faster on homogeneous problems](../claims/problem-features-replicated-strategy-selection-execution.md) [~W]
+- [The acquired strategy-selection knowledge did not make PROTO-TEG more efficient in terms of student performance](../claims/proto-teg-self-improvement-no-student-performance-gain.md) [-W]
+- [Reading instructions without further instructional support are not sufficient to help students accurately judge their text comprehension](../claims/reading-instructions-alone-insufficient-for-accurate-judgments.md) [+W]
+- [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](../claims/self-set-ai-rules-better-assignments.md) [+W]
+- [Words participants said they would remember were recalled earlier in output than words predicted to be forgotten or words not given a prediction](../claims/remember-predictions-recall-and-output-order.md) [+M]
+- [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](../claims/sequential-likert-no-forget-reactivity.md) [-W]
+- [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](../claims/qualitative-selective-verification-intensive-use.md) [~W]
+- [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](../claims/second-order-metacognition-smaller-error-difference.md) [~W]
+- [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](../claims/slower-children-rate-own-performance-worse-grades-3-4.md) [~W]
+- [Social comparison information affects the magnitude of metacognitive judgments, with greater magnitude for higher peer performance](../claims/social-comparisons-affect-metacognitive-judgments.md) [+W]
+- [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](../claims/study-test-practice-reduces-foresight-bias.md) [+W]
+- [Strategy perseveration: prior offloading experience biases later offloading choices](../claims/strategy-perseveration-offloading.md) [~W]
+- [Retrospective metacognitive accuracy for strategy selection is higher in the selection-only task than the selection-execution task and on homogeneous than heterogeneous unit-digit problems](../claims/task-and-problem-effects-rcj-accuracy.md) [+W]
+- [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](../claims/technology-interventions-positive-pooled-metacognition-effect.md) [+W]
+- [Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3](../claims/task-type-directional-bias-partner-ai-estimates.md) [~W]
+- [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](../claims/technology-type-did-not-moderate-metacognition-effects.md) [~W]
+- [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](../claims/suddenness-certainty-decrease-rapm-difficulty.md) [~W]
+- [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](../claims/tell-none-conditions-mixed-jol-correlations.md) [~W]
 
 ## The evidence by question
 

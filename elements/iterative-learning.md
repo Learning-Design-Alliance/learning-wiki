@@ -13,7 +13,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 13 studies (3 causal, 3 design, 2 quant-synthesis, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 4 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (10 for, 4 mixed, 1 against) · 15 studies (4 causal, 4 design, 2 quant-synthesis, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 4 of 15 report an effect size · 14 claims rest on one study
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.
@@ -50,6 +50,8 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](../claims/ai-iteration-generation-selection-evaluation-revision.md) [+W]
 - [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](../claims/ct-aspect-coverage-across-ct-literature.md) [~W]
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](../claims/clinical-feedback-predicts-tpa-passing-preservice-only.md) [~W]
+- [Improvement across critique axes during iterative UI generation is not monotonic](../claims/non-monotonic-improvement-across-critique-axes.md) [~W]
+- [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](../claims/robot-embodiment-perceptual-evidence-debugging.md) [+W]
 
 ## The evidence by question
 

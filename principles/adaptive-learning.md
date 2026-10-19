@@ -35,7 +35,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (30 for, 24 mixed, 4 against) · 58 studies (22 causal, 14 review, 7 design, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 58 report an effect size · 51 claims rest on one study
+> **Evidence** · 60 claims (30 for, 26 mixed, 4 against) · 59 studies (22 causal, 14 review, 8 design, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 59 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,8 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](../claims/drl-policy-favors-guided-examples-distribution.md) [+W]
 - [In a classroom study of the G4L system, the Bayesian knowledge propagation algorithm demonstrated the highest knowledge gains, and log-data analysis revealed significant differences in self-regulated learning patterns between learners](../claims/bn-highest-knowledge-gains-g4l.md) [~W]
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](../claims/individualized-kt-parameters-change-practice-decisions.md) [~W]
+- [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](../claims/mastery-probability-covariate-ancova-favors-adaptive.md) [~W]
+- [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](../claims/multi-skill-prior-strategy-best-prediction-error.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

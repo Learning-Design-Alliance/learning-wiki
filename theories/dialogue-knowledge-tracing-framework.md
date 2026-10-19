@@ -17,7 +17,7 @@ sources:
 # Dialogue Knowledge Tracing (dialogueKT) Framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 3 studies (3 design), `q2` · 1 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 4 studies (4 design), `q1`–`q2` · 1 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 DialogueKT is the task the article proposes, which "analyzes student discourse within the knowledge tracing (KT) framework". It treats tutor turns as posing tasks tied to knowledge components (KCs) and student turns as correct or incorrect responses, so that "A pair of tutor-student dialogue turns corresponds to a time step in KT". The framework has three stages: identify the KCs in each turn, classify student correctness, then apply KT methods. Because most turns involve several KCs, it adopts "a compensatory model rather than a conjunctive model", predicting correctness as average KC mastery.
@@ -47,6 +47,7 @@ DialogueKT is the task the article proposes, which "analyzes student discourse w
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](../claims/learned-difficulty-correlates-empirical-difficulty.md) [+M] — attached 2026-10-11 from Shuyan Huang et al. (2026), which proposed "Interpretable difficulty-aware conversational knowledge tracing framework (knowledge estimator + difficulty estimator + IRT-based predictor)".
 - [Separating ability estimation from correctness prediction yields smoother, more stable learning trajectories than probability-based mastery estimation](../claims/ability-difficulty-separation-stable-learning-trajectories.md) [+W] — attached 2026-10-11 from Shuyan Huang et al. (2026), which proposed "Interpretable difficulty-aware conversational knowledge tracing framework (knowledge estimator + difficulty estimator + IRT-based predictor)".
 - [Applied to the full dataset of 936 students, the LLM reproduced the human-observed growth trends, detecting significant growth on Q25 and Q26 but none on Q27](../claims/llm-scales-ct-growth-detection.md) [+W]
+- [The framework offers a scalable alternative to manual curation, but the small dataset and label dependence limit current conclusions](../claims/scalable-curation-alternative-with-limits.md) [~W]
 
 ## The evidence by question
 - *Can an LLM-based knowledge tracing model estimate what a student knows from a tutoring dialogue more accurately than standard knowledge tracing, and how accurate is it in absolute terms?* [LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [+M]

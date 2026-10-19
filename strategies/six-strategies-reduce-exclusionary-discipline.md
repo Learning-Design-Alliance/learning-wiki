@@ -17,7 +17,7 @@ sources:
 # Six-part state and local policy strategy for reducing exclusionary discipline and suspension gaps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 9 studies (3 causal, 3 associational, 2 review, 1 qualitative), `q2`–`q3` · 0 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 10 studies (4 causal, 3 associational, 2 review, 1 qualitative), `q2`–`q3` · 0 of 10 report an effect size · 16 claims rest on one study
 
 ## Description
 The report recommends that states and districts eliminate zero-tolerance policies and restrict suspensions for minor offenses; support evidence-based alternatives such as "schoolwide restorative practices and teaching social and emotional skills"; collect and publicly report disaggregated discipline data and use it for equity reviews; develop educator preparation standards for positive climates and restorative practices; fund professional learning on implicit bias, empathy, and culturally responsive environments; and invest in support services and staff such as counselors and restorative justice coordinators.
@@ -50,6 +50,10 @@ The report recommends that states and districts eliminate zero-tolerance policie
 - [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](../claims/partial-implementation-schools-peer-outcomes-declined.md) [~W]
 - [Truancy rates increased in Philadelphia following the discipline policy reform](../claims/philadelphia-reform-truancy-increased.md) [-W]
 - [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](../claims/suspension-declines-48-states-substitution.md) [~W]
+- [The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct](../claims/philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses.md) [+W]
+- [Peer outcomes following a district suspension reform varied with school-level implementation](../claims/school-level-implementation-moderates-discipline-reform-peer-effects.md) [~W]
+- [Over 60% of the largest school districts reported zero school-related arrests, and no state had fully met ESSA school-policing report-card requirements](../claims/school-policing-data-noncompliance.md) [~W]
+- [Total suspensions in Philadelphia remained unchanged following the discipline policy reform](../claims/philadelphia-reform-total-suspensions-unchanged.md) [-W]
 
 ## Related Strategies
 

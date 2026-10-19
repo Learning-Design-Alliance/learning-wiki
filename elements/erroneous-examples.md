@@ -18,7 +18,7 @@ sources:
 # Erroneous Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q3` · 2 of 5 report an effect size · 9 claims rest on one study
 
 ## Description
 Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct. They are useful when the design goal is to make misconceptions visible and strengthen conceptual discrimination, not just demonstrate a correct procedure.
@@ -54,6 +54,9 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](../claims/errexs-vs-correx-mixed-benefit.md) [~W]
 - [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](../claims/erroneous-examples-benefit-both-prior-knowledge-levels.md) [+W]
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](../claims/liking-is-not-learning-decimals-tutor.md) [-W]
+- [Correlations between the number of prompt mistakes and number of messages sent were non-significant or weak, giving little evidence that mistake count influenced prompting effort](../claims/mistake-count-message-count-weak-correlation.md) [~W]
+- [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](../claims/prior-knowledge-moderates-errex-effectiveness.md) [~W]
+- [Time on task does not explain the erroneous-examples delayed learning advantage](../claims/time-on-task-does-not-explain-delayed-advantage.md) [~W]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md)

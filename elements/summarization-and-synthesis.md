@@ -13,7 +13,7 @@ generated:
 # Summarization and Synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (3 for, 4 mixed, 2 against) · 11 studies (5 causal, 3 quant-synthesis, 2 design, 1 qualitative), `q2`–`q4` · 4 of 11 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (5 for, 5 mixed, 2 against) · 13 studies (6 causal, 3 quant-synthesis, 2 design, 1 associational, 1 qualitative), `q2`–`q4` · 4 of 13 report an effect size · 10 claims rest on one study
 
 ## Description
 Summarization asks learners to condense material into their own words, selecting and restating the most important ideas. Synthesis goes further: learners integrate ideas across multiple sources or experiences into a new, coherent account. Both are generative activities — the learner must construct meaning rather than recognize it.
@@ -59,6 +59,9 @@ Summarization is one of the most consistently supported study strategies, but on
 - [Young adults exhibit my-side bias when writing summaries of contradictory historical accounts, with 72% producing one-sided reports despite explicit instructions to summarize both texts](../claims/my-side-bias-written-summaries-controversial-history.md) [~W]
 - [During group discussion, students either relied primarily on their own synthesis artifacts or frequently drew on peers' syntheses, with use patterns related to artifact nature and emergent group roles](../claims/two-patterns-of-synthesis-artifact-use.md) [+W]
 - [Group A scored higher than the other groups on Knowledge Quality of collaborative summary notes, with effect sizes of at least 0.7](../claims/group-a-knowledge-quality-highest.md) [+W]
+- [Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly](../claims/page-presentation-summary-details-recall.md) [~W]
+- [Nearly half of sixth graders' written products from multiple texts show poor integration quality](../claims/poor-integration-quality-sixth-graders-written-products.md) [+W]
+- [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](../claims/snippet-selection-predicts-integration-above-reading-skills.md) [+W]
 
 ## The evidence by question
 - *Does writing summaries improve learning more than rereading or other study activities, and does training learners to summarize matter?* [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M]

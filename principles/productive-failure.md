@@ -55,7 +55,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (14 for, 16 mixed, 5 against, 1 unmarked) · 25 studies (14 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 10 of 25 report an effect size · 33 claims rest on one study
+> **Evidence** · 39 claims (14 for, 19 mixed, 5 against, 1 unmarked) · 26 studies (15 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 11 of 26 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,9 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quantity-no-mediation.md) [~W]
 - [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [~W]
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](../claims/assistments-grade-6-differential-impact.md) [~W]
+- [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](../claims/mechanisms-explain-positive-and-negative-ps-i-effects.md) [~W]
+- [The three preparatory conditions did not differ on procedural knowledge acquisition](../claims/no-condition-differences-procedural-knowledge.md) [~W]
+- [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](../claims/solution-attempts-not-correlated-with-conceptual-knowledge.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

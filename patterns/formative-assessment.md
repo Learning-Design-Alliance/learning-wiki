@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (18 for, 17 mixed, 1 unmarked) · 45 studies (15 causal, 12 quant-synthesis, 7 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 45 report an effect size · 25 claims rest on one study
+> **Evidence** · 39 claims (18 for, 19 mixed, 1 against, 1 unmarked) · 45 studies (15 causal, 12 quant-synthesis, 7 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 45 report an effect size · 28 claims rest on one study
 
 ## Description
 
@@ -211,6 +211,9 @@ This is the article's described classroom pattern for formative assessment in la
 - [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](../claims/formative-assessment-self-efficacy-low-achievers.md) [+W]
 - [Regular classroom formative assessment can raise student achievement by 0.4–0.7 standard deviations, per studies the chapter cites](../claims/formative-assessment-raises-achievement-04-07-sd.md) [+W]
 - [Learners' self-assessments of response correctness are imperfect, with asymmetric error rates for incorrect and correct responses](../claims/imperfect-correctness-self-assessment.md) [~W]
+- [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](../claims/non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) [~W]
+- [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](../claims/skipping-decisions-diverge-from-computer.md) [~W]
+- [Teachers are largely aware which cues are diagnostic, but often mistakenly treat students' interest in the text topic as diagnostic](../claims/teacher-awareness-of-cue-diagnosticity-partial.md) [-W]
 
 ## Key Sources
 

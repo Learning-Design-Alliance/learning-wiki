@@ -22,7 +22,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (13 for, 12 mixed, 2 against) · 28 studies (11 causal, 5 quant-synthesis, 4 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 7 of 28 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (14 for, 12 mixed, 2 against) · 29 studies (12 causal, 5 quant-synthesis, 4 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 8 of 29 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Surprise or confusion during the lesson, a correct answer immediately after it, 
 - [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](../claims/conflicting-evidence-increases-argumentation.md) [+W]
 - [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](../claims/refutation-texts-greater-conceptual-change-than-standard.md) [+W]
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](../claims/medium-incongruity-inverted-u-cognitive-conflict.md) [~W]
+- [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](../claims/misconception-refutation-conceptual-change-strategies.md) [+W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — cognitive disequilibrium often begins by surfacing and examining an incorrect but plausible model

@@ -22,7 +22,7 @@ sources:
 # Peer Discussion
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (7 for, 13 mixed, 1 against) · 32 studies (11 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q2`–`q4` · 9 of 32 report an effect size · 12 claims rest on one study
+> **Evidence** · 24 claims (9 for, 14 mixed, 1 against) · 33 studies (12 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 33 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -107,6 +107,9 @@ An immediate isomorphic-question gain, delayed retention, transfer to an unfamil
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](../claims/low-own-confidence-drives-assumption-change.md) [~W]
 - [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](../claims/script-all-or-none-input-answering.md) [~W]
 - [The small groups did not improve on questions 1 and 4, G2 declined on questions 2 and 3, and G3 improved only on question 2](../claims/small-groups-no-improvement-hate-speech-scores.md) [-W]
+- [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](../claims/partner-confidence-no-effect-on-change.md) [~W]
+- [In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question](../claims/prestudy-ddr-perspective-integration.md) [+W]
+- [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](../claims/script-improves-adherence-activity-order.md) [+W]
 
 ## Related Principles
 - [Peer Feedback/Peer Review](peer-learning.md) — feedback is one specific form of peer discussion centered on improvement of work.

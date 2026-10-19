@@ -12,7 +12,7 @@ generated:
 # Play and Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 7 studies (2 causal, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 7 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 12 studies (4 causal, 4 associational, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Play is self-directed, individually constructed, imaginative activity, distinct from product-focused work, that serves cognitive skill development, social-emotional learning, and identity exploration. Piaget identified types of play that track a child's cognitive maturation; Smilansky added an intermediate category; Vygotsky offered a complementary account of *why* pretend play matters developmentally, independent of Piaget's stage framework.
@@ -54,6 +54,12 @@ Vygotsky treated pretend play as central to development in its own right: it let
 - [Anger in collaborative gameplay can drive students to link game mechanics to real-world phenomena to defend their strategies](../claims/anger-drives-real-world-game-linking.md) [~W]
 - [DIBELS subtests show significant negative relationships with peer-play difficulties and weaker links to social-behavioral than cognitive measures](../claims/dibels-discriminant-social-behavioral-validity.md) [~W]
 - [Children structure their play to reduce uncertainty and deconfound causal variables](../claims/children-play-deconfound-causal-variables.md) [+W]
+- [Joint narratives after augmented play were rated more creative, and per-child creativity correlated with cooperative play (r = 0.72) and negatively with parallel play](../claims/narrative-creativity-linked-to-cooperative-play.md) [+W]
+- [Musical play intervention produced a significantly greater increase in teacher-reported self-regulation than usual music lessons in 6-year-olds](../claims/musical-play-intervention-teacher-reported-self-regulation-gains.md) [+W]
+- [Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)](../claims/preschoolers-design-informative-interventions-ambiguous-evidence.md) [+W]
+- [Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play](../claims/single-noncompetitive-play-largest-media-effects.md) [+W]
+- [Most LEAs used multiple TK curricula and play-based, developmentally appropriate strategies, but 20% still used kindergarten curriculum in TK classrooms](../claims/tk-curriculum-and-sel-practices-2023-24.md) [+W]
+- [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](../claims/traditional-game-genres-positive-spsic-predictors.md) [~W]
 
 ## Related Theories
 

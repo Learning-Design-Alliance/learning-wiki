@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 293 claims (142 for, 105 mixed, 46 against) · 203 studies (73 causal, 42 review, 24 theoretical, 23 design, 19 quant-synthesis, 11 associational, 11 qualitative), `q1`–`q4` · 43 of 203 report an effect size · 279 claims rest on one study
+> **Evidence** · 319 claims (147 for, 124 mixed, 48 against) · 214 studies (77 causal, 43 review, 26 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 45 of 214 report an effect size · 305 claims rest on one study
 
 ## Description and scope
 
@@ -301,6 +301,32 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](../claims/llama-guard-failure-cases-subtle-education-risks.md) [~W]
 - [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](../claims/longitudinal-trust-studies-omit-skill-outcomes.md) [~W]
 - [A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful](../claims/lsa-word-overlap-regex-best-semantic-matcher.md) [~W]
+- [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](../claims/no-ai-use-high-comprehension-level3-low.md) [~W]
+- [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](../claims/math-agent-guidance-limit-tradeoff.md) [~M]
+- [Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement](../claims/math-agent-reduction-livelatency-engagement-gains.md) [~W]
+- [Education-oriented tuning produces the largest gains in scaffolded instruction and use of longitudinal student evidence, with LongTutor Evidence averages rising sharply at all scales](../claims/omniedu-largest-gains-scaffolding-longitudinal-evidence.md) [+W]
+- [Neither tutoring mode nor human tutor access affects learners' use of conceptual help tools](../claims/no-tutoring-effect-on-conceptual-help-use.md) [~W]
+- [Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance](../claims/pn-ps-counterfactuals-help-and-skill-effects.md) [~W]
+- [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](../claims/prior-genai-use-poorer-unaided-reasoning.md) [~W]
+- [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](../claims/prompt-response-interface-limits-learning-value.md) [+W]
+- [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](../claims/policy-multilabel-concentrated-constraints-scaffolding-personalization.md) [+W]
+- [Tutor promptings and information items explain only a limited share of variance in help tool use](../claims/promptings-limited-explanatory-power-help-use.md) [~W]
+- [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](../claims/scenario-lessons-pooled-74-percent-gain.md) [+W]
+- [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](../claims/recovery-declines-with-impasse-depth.md) [~W]
+- [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](../claims/scaffolding-associated-with-next-student-move.md) [~W]
+- [Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact](../claims/reliance-type-differential-outcomes-regression.md) [-W]
+- [The adaptive router reduces turns in long conversations (turns≥5) but not across the unfiltered dataset](../claims/router-reduces-turns-long-conversations.md) [~W]
+- [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](../claims/prompting-raises-perspicuity-dependability-lowers-novelty.md) [~W]
+- [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](../claims/standalone-llm-tutors-lack-trajectory-control.md) [-W]
+- [Essays written under Standard Chatbot sat closest to AI-only essays in semantic embedding space, and Engage-to-Unlock differed significantly from Standard Chatbot along PC1](../claims/standard-chatbot-essays-closest-to-ai-only-semantics.md) [~W]
+- [Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases](../claims/student-pressure-shifts-ai-toward-answers.md) [~W]
+- [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](../claims/students-find-chatgpt-useful-but-lacking-depth.md) [~W]
+- [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](../claims/students-view-llms-useful-but-requiring-critical-use.md) [~W]
+- [Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops](../claims/teaching-sessions-conclude-within-30-turns.md) [~W]
+- [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](../claims/trust-customized-agents-accuracy-contextual-alignment.md) [~W]
+- [Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction](../claims/trace-exposure-raises-trust-and-hedonic-appeal.md) [~W]
+- [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](../claims/tutor-alone-significant-peers-alone-not-math.md) [~W]
+- [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](../claims/tutor-practice-greater-learning-gains-than-paper.md) [+W]
 
 ## Related Patterns
 

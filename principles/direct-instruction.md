@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (13 for, 14 mixed, 1 against) · 34 studies (11 quant-synthesis, 10 causal, 5 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 34 report an effect size · 20 claims rest on one study
+> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 37 studies (12 causal, 12 quant-synthesis, 5 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 37 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,6 +113,9 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](../claims/diy-digital-learning-hits-wall.md) [+W]
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](../claims/expertise-reversal-conceptual-understanding-statistics.md) [~W]
 - [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](../claims/guided-discovery-outperformed-both-extremes.md) [-W]
+- [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](../claims/minimal-guidance-inquiry-inferior-explicit-instruction.md) [+W]
+- [No differential effect of explicit instruction depending on the variable complexity](../claims/no-differential-explicit-instruction-effect-complexity.md) [~W]
+- [Prior studies reviewed show exploratory learning outperformed proceduralized instruction for training performance and transfer](../claims/prior-evidence-exploratory-beats-proceduralized.md) [-W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

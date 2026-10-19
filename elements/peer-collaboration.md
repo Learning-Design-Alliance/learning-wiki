@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 44 claims (16 for, 27 mixed, 1 against) · 42 studies (9 causal, 9 associational, 9 qualitative, 6 theoretical, 5 review, 4 quant-synthesis), `q1`–`q4` · 4 of 42 report an effect size · 42 claims rest on one study
+> **Evidence** · 52 claims (19 for, 32 mixed, 1 against) · 47 studies (11 causal, 10 qualitative, 9 associational, 7 review, 6 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 47 report an effect size · 50 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -94,6 +94,14 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Visualizing group awareness information strongly impacts dyads' joint regulation of the collaborative process](../claims/group-awareness-visualization-impacts-joint-regulation.md) [~W]
 - [MR of less successful outcome groups focused more on low-level cognitive activity in Finnish high school and Australian veterinary contexts](../claims/low-focus-mr-less-successful-two-contexts.md) [~W]
 - [Group performance can be predicted with advanced machine-learning techniques, and collaboration synergy depends on skill diversity, equal workload distribution and high interaction concurrency](../claims/machine-learning-predicts-group-performance-synergy.md) [~W]
+- [MOR comprised the majority of social MR turns in both less and more successful outcome groups in Finnish senior high school science](../claims/mor-majority-finnish-high-school.md) [~W]
+- [Low and high social challenge dyads do not differ in the frequency of metacognitive activities](../claims/no-frequency-difference-metacognitive-activities.md) [~W]
+- [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](../claims/process-mining-heterogeneous-yellow-group-more-efficient.md) [~W]
+- [Web-based collaborative inquiry produces a small but significant improvement in students' interest in science](../claims/small-significant-interest-gain-web-inquiry.md) [+W]
+- [Regulation of social activities positively affected group performance (Janssen et al.)](../claims/social-activities-regulation-group-performance.md) [+W]
+- [Learning partners converge strongly in their use of knowledge resources during collaboration](../claims/strong-convergence-resource-use-during-collaboration.md) [~W]
+- [Students report regulation strategies mainly at the self- and shared-level, with significantly fewer strategies at the co-level](../claims/shared-and-self-level-dominate-over-co-level.md) [~W]
+- [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](../claims/ssrl-empirical-evidence-occurrence-and-effects.md) [+W]
 
 ## The evidence by question
 

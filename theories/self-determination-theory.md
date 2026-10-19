@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 37 claims (23 for, 13 mixed, 1 against) · 35 studies (10 associational, 8 review, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 8 of 35 report an effect size · 31 claims rest on one study
+> **Evidence** · 40 claims (24 for, 15 mixed, 1 against) · 36 studies (10 associational, 9 review, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 8 of 36 report an effect size · 34 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -91,6 +91,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations](../claims/counterfactual-autonomy-increase-modest-ict-aspiration-effect.md) [+W]
 - [Men show significantly lower autonomous regulation than women among adult learners](../claims/gender-difference-autonomous-regulation-adults.md) [~W]
 - [Adult learners' motivation clusters into four profiles combining autonomous and controlled regulation, replicating the structure expected from SDT research with younger students](../claims/four-motivational-profiles-adult-learners.md) [+W]
+- [More effective autonomy-support training programs trained multiple elements of autonomy support](../claims/multiple-elements-moderator-autonomy-training.md) [+W]
+- [Parental factors: autonomous motivation relates to adolescent creativity more strongly with high maternal involvement](../claims/maternal-involvement-moderates-autonomous-motivation-creativity.md) [~W]
+- [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](../claims/robot-exposure-mixed-direction-autonomy-agency.md) [~W]
 
 ## The evidence by question
 

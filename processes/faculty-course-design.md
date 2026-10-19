@@ -14,7 +14,7 @@ grain_size: course
 # Faculty Course Design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 14 studies (6 quant-synthesis, 3 causal, 2 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Most courses in higher education are not designed by instructional designers. They are designed by the person who will teach them, in the weeks before term, alongside a full teaching and research load, with no budget, no team and no client. A teaching and learning centre may consult, run a workshop or read a draft syllabus — but it advises, it does not approve, and the instructor holds the decision. This is the most common design process in the sector and it is a distinct pattern, not a degraded version of a professional one.
@@ -63,6 +63,7 @@ Treating it as an inferior [systematic process](systematic-instructional-design.
 ### Claims
 
 - [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](../claims/instructional-decisions-hub-of-co-occurrence-structure.md) [~W]
+- [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](../claims/teachers-retain-ultimate-control-responsibility-not-delegable.md) [+W]
 
 #### Supporting
 - [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+M] — the case for writing objectives before the schedule

@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (20 for, 20 mixed, 1 against) · 27 studies (8 associational, 5 quant-synthesis, 4 causal, 3 review, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (20 for, 21 mixed, 1 against) · 28 studies (8 associational, 5 quant-synthesis, 4 causal, 4 qualitative, 3 review, 3 design, 1 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 39 claims rest on one study
 
 ## Description and scope
 
@@ -160,6 +160,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Disclosing personal histories related to course topics tends to lead to longer and deeper discussion threads, especially when instructors encourage such identity presence](../claims/identity-presence-deeper-discussion-threads.md) [~W]
 - [The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.](../claims/interaction-assumed-important-online-course-questions-remain.md) [+W]
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](../claims/icebreaker-collaboration-top-learner-learner-strategies.md) [+W]
+- [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](../claims/time-zone-differences-asynchronous-participation-balance.md) [~W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

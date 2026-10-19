@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (1 causal, 1 review, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -27,6 +27,8 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 
 - [College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading](../claims/integrated-illustrations-increase-creative-transfer-solutions.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Generative theory of multimedia learning".
 - [The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs](../claims/annotations-not-proximity-drive-illustration-benefit.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Generative theory of multimedia learning"; tests this page's relationship.
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](../claims/modality-matching-complementary-channels-video.md) [+W]
+- [Students perceived data comics as more accessible, more engaging, and easier to retain information from than conventional visualisations](../claims/students-perceive-data-comics-accessible-engaging-memorable.md) [+W]
 
 ## Related Theories
 

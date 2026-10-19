@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 10 studies (4 quant-synthesis, 3 review, 2 causal, 1 qualitative), `q1`–`q3` · 4 of 10 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 12 studies (4 quant-synthesis, 4 review, 3 causal, 1 qualitative), `q1`–`q3` · 4 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -60,6 +60,12 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](../claims/cbpa-effects-moderated-cognitive-engagement-timing.md) [~W]
 - [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](../claims/cbpa-null-results-two-studies.md) [~W]
 - [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](../claims/closed-skill-exercise-improves-stm-older-children-only.md) [~W]
+- [No significant differences in attention or working memory were found between intervention and control groups at either follow-up](../claims/no-attention-working-memory-effects-social-media-training.md) [-W]
+- [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](../claims/open-skill-exercise-improves-stm-both-ages.md) [+W]
+- [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](../claims/physical-activity-improves-children-selective-attention.md) [+W]
+- [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](../claims/three-year-cbpa-mvpa-time-on-task.md) [+W]
+- [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](../claims/two-bouts-better-than-one-selective-attention.md) [~W]
+- [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](../claims/time-age-exercise-interaction-stm.md) [~W]
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

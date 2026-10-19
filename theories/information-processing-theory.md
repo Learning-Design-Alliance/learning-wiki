@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 72 claims (38 for, 34 mixed) · 50 studies (17 causal, 17 associational, 10 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 10 of 50 report an effect size · 69 claims rest on one study
+> **Evidence** · 93 claims (47 for, 46 mixed) · 59 studies (22 associational, 18 causal, 12 review, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 12 of 59 report an effect size · 90 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -135,6 +135,27 @@ Information processing models are often criticized as overly linear and serial, 
 - [The relative strength of MA's pathways varies by mathematical task type: WM dominates for numeracy, both WM and number processing operate for arithmetic](../claims/ma-pathways-vary-by-task-type.md) [~W]
 - [Hearing children significantly outscored the deaf group as a whole on Spatial Span Backward and Odd One Out](../claims/hearing-outscore-deaf-executive-loaded-nvwm.md) [~W]
 - [Math anxiety has a statistically significant indirect effect on arithmetic calculation through working memory (affective drop pathway)](../claims/ma-indirect-effect-wm-arithmetic.md) [+W]
+- [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](../claims/math-anxiety-compromises-working-memory-when-aroused.md) [~W]
+- [Deaf children's working memory disadvantage is task-dependent: no group differences on Spatial Span Forward or narrative measures](../claims/nvwm-group-differences-task-dependent.md) [~W]
+- [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](../claims/perceptual-attention-necessary-not-sufficient-wm-encoding.md) [+W]
+- [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](../claims/memory-capacity-linked-utterance-complexity.md) [+W]
+- [Phonological short-term memory capacity selectively predicts new vocabulary learning](../claims/phonological-memory-predicts-vocabulary-learning.md) [+W]
+- [Processing speed is linked to working memory in both studies, but its link to short-term memory is inconsistent across studies](../claims/processing-speed-links-wm-consistent-stm-inconsistent.md) [~W]
+- [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](../claims/retrieval-development-through-adolescence-adulthood.md) [+W]
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](../claims/predictive-cues-pre-encoding-modulation-wm-benefit.md) [+W]
+- [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](../claims/rtms-ifj-causal-top-down-modulation-wm.md) [+W]
+- [Longer inter-item response times follow larger semantic distances in children's semantic search paths](../claims/semantic-distance-predicts-longer-response-times.md) [~W]
+- [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](../claims/retro-cues-dynamically-modulate-wm-maintenance.md) [~W]
+- [Serial order STM shows raw concurrent and longitudinal correlations with vocabulary at both ages](../claims/serial-order-stm-raw-correlations-vocabulary.md) [~W]
+- [Phonological memory gains disappeared when central executive was controlled, but visuospatial memory gains remained substantial, suggesting different underlying mechanisms](../claims/phonological-gains-strategy-based-visuospatial-gains-persist.md) [~W]
+- [Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge](../claims/prior-knowledge-consistency-brain-systems-memory.md) [~W]
+- [Short-term memory predicts vocabulary over and above book exposure and intelligence](../claims/short-term-memory-predicts-vocabulary.md) [+W]
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](../claims/shared-resource-storage-processing-wm.md) [~W]
+- [Older adults show a small but disproportionate age-related cost of concurrent processing on storage accuracy in working memory dual tasks](../claims/small-disproportionate-aging-dual-task-storage-cost.md) [~W]
+- [Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing](../claims/shared-resource-perceptual-attention-wm-unconvincing.md) [~W]
+- [Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later](../claims/specific-processing-speed-predicts-grade9-entrance-exam-math.md) [+W]
+- [The two-factor STM/WM structure holds for both younger (8-10) and older (11-13) children](../claims/stm-wm-distinction-holds-across-childhood.md) [+W]
+- [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](../claims/threat-impairs-accuracy-low-medium-not-high-load.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]
