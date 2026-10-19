@@ -1,0 +1,41 @@
+---
+type: claim
+title: Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies
+description: Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies
+id: self-report-subcomponents-unreliable
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: moderate
+sources:
+  - id: craig-2020
+    resource: "https://doi.org/10.1007/s11409-020-09222-y"
+    title: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y"
+    author: "Craig, K., Hale, D., Grainger, C., & Stewart, M. E."
+    q: 3
+    i: "?"
+---
+
+# Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies
+
+## Subclaims
+`q3 i?` The number of subcomponents recovered from self-report measures varied widely across measures and across repeated assessments of the same measure, so no conclusion can be made about assessing distinct subcomponents. [→ Craig 2020](#craig-2020)
+
+## Evidence
+
+### Craig 2020
+
+Craig, K., Hale, D., Grainger, C., & Stewart, M. E. (2020). Evaluating metacognitive self-reports: systematic reviews of the value of self-report in metacognitive research. Metacognition and Learning, 15, 155-213. https://doi.org/10.1007/s11409-020-09222-y
+
+`q3 · i?`
+
+Systematic review of 22 factor-structure studies. Component analysis "varied widely both across the measures as well as on repeated assessments of the same measure," with "Structures with two, three, four, five, six, eight, and nine components were found (see Table 1)" and no discernable pattern by age.
+
+> "Structures with two, three, four, five, six, eight, and nine components were found (see Table 1). Just in the MAI, four, five, six, and eight subcomponents were found."
+
+## Discussion
+
+
+## Related Claims
+-

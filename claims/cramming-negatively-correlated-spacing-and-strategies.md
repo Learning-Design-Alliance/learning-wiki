@@ -1,0 +1,39 @@
+---
+type: claim
+title: Cramming was negatively correlated with spacing (r = -0.54) and with all other learning strategies investigated
+description: Cramming was negatively correlated with spacing (r = -0.54) and with all other learning strategies investigated
+id: cramming-negatively-correlated-spacing-and-strategies
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: moderate
+sources:
+  - id: rebecca-hey-mark-mcdaniel-flaviu-a-hodis-2024
+    resource: "https://doi.org/10.1007/s11409-024-09389-8"
+    title: "Rebecca Hey · Mark McDaniel · Flaviu A. Hodis. (2024). How undergraduate students learn: uncovering interrelationships between factors that support self-regulated learning and strategy use. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09389-8"
+    author: Rebecca Hey · Mark McDaniel · Flaviu A. Hodis
+---
+
+# Cramming was negatively correlated with spacing (r = -0.54) and with all other learning strategies investigated
+
+## Subclaims
+`q2 i3` Cramming and spacing shared a strong negative association, and cramming correlated negatively with every other strategy measured. [→ Rebecca Hey · Mark McDaniel · Flaviu A. Hodis 2024](#rebecca-hey-mark-mcdaniel-flaviu-a-hodis-2024)
+
+## Evidence
+
+### Rebecca Hey · Mark McDaniel · Flaviu A. Hodis 2024
+
+Rebecca Hey · Mark McDaniel · Flaviu A. Hodis. (2024). How undergraduate students learn: uncovering interrelationships between factors that support self-regulated learning and strategy use. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09389-8
+
+`q2 · i3`
+
+Correlational analysis of strategy self-reports (Table 2) in the survey of NZ undergraduates; the article reports "a significant strong negative relationship was found between cramming and spacing (r = -0.54)" and notes cramming was negatively correlated with all other strategies, generally with small coefficients.
+
+> "A significant strong negative relationship was found between cramming and spacing (r = -0.54). This indicates that students who used cramming a lot employed spacing to a lesser degree (and vice versa)."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,39 @@
+---
+type: claim
+title: High social challenge dyads show more off-task activities than low social challenge dyads
+description: High social challenge dyads show more off-task activities than low social challenge dyads
+id: high-challenge-dyads-more-off-task
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: moderate
+sources:
+  - id: cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019
+    resource: "https://doi.org/10.1007/s11409-019-09204-9"
+    title: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9"
+    author: "Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers"
+---
+
+# High social challenge dyads show more off-task activities than low social challenge dyads
+
+## Subclaims
+`q3 i3` Off-task activities were more frequent for high challenge dyads than for low challenge dyads. [→ Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers 2019](#cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019)
+
+## Evidence
+
+### Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers 2019
+
+Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers. (2019). How social challenges affect children's regulation and assignment quality in hypermedia: a process mining study. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09204-9
+
+`q3 · i3`
+
+Mann-Whitney U test on relative frequencies of off-task verbal turns for the 18 low- and 12 high-challenge dyads. Medians "Mdn = 09.12" versus "Mdn = 2.71", r = .61.
+
+> "off-task activities were more frequent for high challenge dyads (Mdn = 09.12) than for low challenge dyads ( Mdn = 2.71), U =2 9,Z= 3.34,p = .001, r =. 6 1 ."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**21835 entries** · 0 stable · 21835 in review · 0 drafts
+**21840 entries** · 0 stable · 21840 in review · 0 drafts
 
 ---
 

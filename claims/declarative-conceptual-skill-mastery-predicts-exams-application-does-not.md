@@ -1,0 +1,39 @@
+---
+type: claim
+title: Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not
+description: Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not
+id: declarative-conceptual-skill-mastery-predicts-exams-application-does-not
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: moderate
+sources:
+  - id: matthew-l-bernacki-2023
+    resource: "https://doi.org/10.1007/s11409-023-09356-9"
+    title: "Matthew L. Bernacki, Megan Claire Cogliano, Shelbi L. Kuhlmann, Jenifer Utz, Christy Strong, Jonathan C. Hilpert, Jeffrey A. Greene. (2023). Relations between undergraduates’ self-regulated learning skill mastery during digital training and biology performance. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09356-9"
+    author: Matthew L. Bernacki, Megan Claire Cogliano, Shelbi L. Kuhlmann, Jenifer Utz, Christy Strong, Jonathan C. Hilpert, Jeffrey A. Greene
+---
+
+# Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not
+
+## Subclaims
+`q2 i?` In Study 1, skill mastery measured at declarative and conceptual levels predicted exam performance, whereas application-level knowledge did not. [→ Matthew L. Bernacki 2023](#matthew-l-bernacki-2023)
+
+## Evidence
+
+### Matthew L. Bernacki 2023
+
+Matthew L. Bernacki, Megan Claire Cogliano, Shelbi L. Kuhlmann, Jenifer Utz, Christy Strong, Jonathan C. Hilpert, Jeffrey A. Greene. (2023). Relations between undergraduates’ self-regulated learning skill mastery during digital training and biology performance. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09356-9
+
+`q2 · i?`
+
+Study 1 path model (Model 2) tested mastery by depth of knowledge among n = 49 completers. The article summarizes that "Declarative and conceptual levels of skill-mastery predicted exam performance; application-level knowledge did not." No effect size is printed for this summary finding.
+
+> "Declarative and conceptual levels of skill-mastery predicted exam performance; application-level knowledge did not."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6244 entries** · 0 stable · 6244 in review · 0 drafts
+**6245 entries** · 0 stable · 6245 in review · 0 drafts
 
 ---
 

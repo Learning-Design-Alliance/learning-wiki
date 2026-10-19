@@ -1,0 +1,39 @@
+---
+type: claim
+title: Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems
+description: Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems
+id: math-self-efficacy-predicts-monitoring-judgments
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: moderate
+sources:
+  - id: scheibe-2022
+    resource: "https://doi.org/10.1007/s11409-022-09300-3"
+    title: "Scheibe, D. A., Fitzsimmons, C. J., Mielicki, M. K., Taber, J. M., Sidney, P. G., Coifman, K., & Thompson, C. A. (2022). Confidence in COVID problem solving: What factors predict adults’ item-level metacognitive judgments on health-related math problems before and after an educational intervention? Metacognition and Learning. https://doi.org/10.1007/s11409-022-09300-3"
+    author: "Scheibe, D. A., Fitzsimmons, C. J., Mielicki, M. K., Taber, J. M., Sidney, P. G., Coifman, K., & Thompson, C. A"
+---
+
+# Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems
+
+## Subclaims
+`q3 i?` Higher math self-efficacy was associated with higher item-level monitoring judgments across all four problems, controlling for other predictors. [→ Scheibe 2022](#scheibe-2022)
+
+## Evidence
+
+### Scheibe 2022
+
+Scheibe, D. A., Fitzsimmons, C. J., Mielicki, M. K., Taber, J. M., Sidney, P. G., Coifman, K., & Thompson, C. A. (2022). Confidence in COVID problem solving: What factors predict adults’ item-level metacognitive judgments on health-related math problems before and after an educational intervention? Metacognition and Learning. https://doi.org/10.1007/s11409-022-09300-3
+
+`q3 · i?`
+
+Linear regressions predicting item-level monitoring judgments for each of the four problems in the secondary analysis of 1,177 adults. The SNS self-perceived math ability subscale was significant on all four problems, with "β’s ≥ 0.12, t’s ≥ 4.10, p’s < 0.001".
+
+> "the only variable which was a significant predictor of monitoring judgments on all four problems was the 4-item SNS self-perceived math ability subscale (β’s ≥ 0.12, t’s ≥ 4.10, p’s < 0.001)"
+
+## Discussion
+
+
+## Related Claims
+-

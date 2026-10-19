@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":21835,
+"claim":21840,
 "design":965,
 "element":1066,
 "learner-variable":74,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1807,
 "research-method":471,
-"strategy":6244,
+"strategy":6245,
 "theory":1361
 },
 "kinds":[
@@ -15834,6 +15834,15 @@
 "type":"claim"
 },
 {
+"description":"Athletes graduate and perform academically at rates comparable to or greater than non-athletes despite extensive training time",
+"evidence_strength":"weak",
+"id":"athletes-academic-performance-comparable-non-athletes",
+"path":"claims/athletes-academic-performance-comparable-non-athletes.md",
+"status":"review",
+"title":"Athletes graduate and perform academically at rates comparable to or greater than non-athletes despite extensive training time",
+"type":"claim"
+},
+{
 "description":"Affinity for technology interaction differed across clusters, with text reproducers highest and integrators scoring higher than reconstructors (d = 0.59)",
 "evidence_strength":"moderate",
 "id":"ati-differs-across-uptake-clusters",
@@ -23514,6 +23523,15 @@
 "path":"claims/case-study-scaffolding-lowers-difficulty-ability-rises.md",
 "status":"review",
 "title":"Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily",
+"type":"claim"
+},
+{
+"description":"A single student-athlete showed clear similarities in SRL engagement across sport and academic contexts, with differences suggesting unequal support for SRL in the two contexts",
+"evidence_strength":"weak",
+"id":"case-study-srl-similarities-sport-school",
+"path":"claims/case-study-srl-similarities-sport-school.md",
+"status":"review",
+"title":"A single student-athlete showed clear similarities in SRL engagement across sport and academic contexts, with differences suggesting unequal support for SRL in the two contexts",
 "type":"claim"
 },
 {
@@ -166546,6 +166564,15 @@
 "type":"claim"
 },
 {
+"description":"SRL occurs in the presence of external constraints such as coach-directed practice or teacher-directed classroom learning",
+"evidence_strength":"weak",
+"id":"srl-occurs-under-external-constraints",
+"path":"claims/srl-occurs-under-external-constraints.md",
+"status":"review",
+"title":"SRL occurs in the presence of external constraints such as coach-directed practice or teacher-directed classroom learning",
+"type":"claim"
+},
+{
 "description":"SRL activity only partially mediates the effect of SRL interventions on achievement in higher education",
 "evidence_strength":"moderate",
 "id":"srl-partial-mediation-achievement-higher-ed",
@@ -166570,6 +166597,15 @@
 "path":"claims/srl-phase-transitions-cyclical-clinical-reasoning.md",
 "status":"review",
 "title":"SRL phase transitions during clinical reasoning with a multimedia system are frequent, cyclical, and dominated by Forethought→Performance and Performance→Forethought transitions",
+"type":"claim"
+},
+{
+"description":"SRL engagement in sport and academics is positively related, with more reported SRL engagement in sport than in school among competitive youth athletes",
+"evidence_strength":"moderate",
+"id":"srl-positive-relation-sport-academics-youth-athletes",
+"path":"claims/srl-positive-relation-sport-academics-youth-athletes.md",
+"status":"review",
+"title":"SRL engagement in sport and academics is positively related, with more reported SRL engagement in sport than in school among competitive youth athletes",
 "type":"claim"
 },
 {
@@ -185410,6 +185446,15 @@
 "path":"claims/transfer-task-measures-adaptive-training-effectiveness.md",
 "status":"review",
 "title":"Transfer task performance is the critical measure of what adaptive training accomplishes",
+"type":"claim"
+},
+{
+"description":"Theories of transfer do not apply to SRL because SRL is a dynamic process rather than static knowledge",
+"evidence_strength":"weak",
+"id":"transfer-theories-do-not-apply-to-srl",
+"path":"claims/transfer-theories-do-not-apply-to-srl.md",
+"status":"review",
+"title":"Theories of transfer do not apply to SRL because SRL is a dynamic process rather than static knowledge",
 "type":"claim"
 },
 {
@@ -254148,6 +254193,14 @@
 "type":"strategy"
 },
 {
+"description":"The dissertation's concluding recommendation is that new research on transfer of SRL should examine \\\"how learners draw on previous regulatory experiences to adapt to new challenges\\\", using Winne and Hadwin's (1998) mo...",
+"id":"future-research-capture-srl-transfer-conditions",
+"path":"strategies/future-research-capture-srl-transfer-conditions.md",
+"status":"review",
+"title":"Research SRL transfer by capturing how learners draw on previous regulatory experiences to adapt to new challenges, with a focus on conditions",
+"type":"strategy"
+},
+{
 "description":"The review's implications section recommends that future work conduct longitudinal studies across well-differentiated age groups (pre-school through late puberty), distinguish late childhood, pre-adolescence, early ad...",
 "id":"future-research-differentiate-ages-disciplines-cognitively-active",
 "path":"strategies/future-research-differentiate-ages-disciplines-cognitively-active.md",
@@ -298476,6 +298529,7 @@
 "at-risk-students-overrepresented-one-star-schools":"at-risk-students-overrepresented-one-star-schools",
 "at-risk-students-satisfied-prefer-frequent-feedback":"at-risk-students-satisfied-prefer-frequent-feedback",
 "athlete-personality-affects-perceived-relationship-quality":"athlete-personality-affects-perceived-relationship-quality",
+"athletes-academic-performance-comparable-non-athletes":"athletes-academic-performance-comparable-non-athletes",
 "ati-differs-across-uptake-clusters":"ati-differs-across-uptake-clusters",
 "ati-structure-ability-interactions-mixed":"ati-structure-ability-interactions-mixed",
 "attempt-reduction-varies-by-course-part":"attempt-reduction-varies-by-course-part",
@@ -299336,6 +299390,7 @@
 "case-study-activity-count-questionnaire-trend":"case-study-activity-count-questionnaire-trend",
 "case-study-reveals-lack-assessment-integrity-information":"case-study-reveals-lack-assessment-integrity-information",
 "case-study-scaffolding-lowers-difficulty-ability-rises":"case-study-scaffolding-lowers-difficulty-ability-rises",
+"case-study-srl-similarities-sport-school":"case-study-srl-similarities-sport-school",
 "case-study-transfer-and-load-friction":"case-study-transfer-and-load-friction",
 "case1-blame-shifted-from-shitty-teacher-to-parents":"case1-blame-shifted-from-shitty-teacher-to-parents",
 "case2-students-foils-missed-opportunities":"case2-students-foils-missed-opportunities",
@@ -315516,9 +315571,11 @@
 "srl-o-internal-consistency":"srl-o-internal-consistency",
 "srl-o-metacognition-single-factor-planning-time-management":"srl-o-metacognition-single-factor-planning-time-management",
 "srl-o-ten-factor-structure":"srl-o-ten-factor-structure",
+"srl-occurs-under-external-constraints":"srl-occurs-under-external-constraints",
 "srl-partial-mediation-achievement-higher-ed":"srl-partial-mediation-achievement-higher-ed",
 "srl-partially-mediates-identity-mastery":"srl-partially-mediates-identity-mastery",
 "srl-phase-transitions-cyclical-clinical-reasoning":"srl-phase-transitions-cyclical-clinical-reasoning",
+"srl-positive-relation-sport-academics-youth-athletes":"srl-positive-relation-sport-academics-youth-athletes",
 "srl-promotion-not-linked-to-student-cost":"srl-promotion-not-linked-to-student-cost",
 "srl-questionnaire-facets-empirically-disparate":"srl-questionnaire-facets-empirically-disparate",
 "srl-scaffolds-positive-effect-academic-performance":"srl-scaffolds-positive-effect-academic-performance",
@@ -317647,6 +317704,7 @@
 "transfer-offer-effects-teacher-willingness-and-school-dynamics":"transfer-offer-effects-teacher-willingness-and-school-dynamics",
 "transfer-practice-timing-mismatch-delayed-review":"transfer-practice-timing-mismatch-delayed-review",
 "transfer-task-measures-adaptive-training-effectiveness":"transfer-task-measures-adaptive-training-effectiveness",
+"transfer-theories-do-not-apply-to-srl":"transfer-theories-do-not-apply-to-srl",
 "transfer-weakest-rearranged-untested-materials-worked-examples":"transfer-weakest-rearranged-untested-materials-worked-examples",
 "transformational-leadership-gender-specific-pathways":"transformational-leadership-gender-specific-pathways",
 "transformational-servant-leadership-negatively-associated-workplace-harassment":"transformational-servant-leadership-negatively-associated-workplace-harassment",
@@ -326480,6 +326538,7 @@
 "future-oriented-scenarios-personas-equity-research":"future-oriented-scenarios-personas-equity-research",
 "future-research-affect-structural-systemic":"future-research-affect-structural-systemic",
 "future-research-agenda-visual-display-support":"future-research-agenda-visual-display-support",
+"future-research-capture-srl-transfer-conditions":"future-research-capture-srl-transfer-conditions",
 "future-research-differentiate-ages-disciplines-cognitively-active":"future-research-differentiate-ages-disciplines-cognitively-active",
 "future-research-genai-motivation-boundary-conditions":"future-research-genai-motivation-boundary-conditions",
 "future-research-higher-order-skills-moderators-adult-literacy":"future-research-higher-order-skills-moderators-adult-literacy",

@@ -1,0 +1,41 @@
+---
+type: claim
+title: Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer
+description: Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer
+id: metacognition-domain-generality-specificity-open-issue
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: weak
+sources:
+  - id: roger-azevedo-2020
+    resource: "https://doi.org/10.1007/s11409-020-09231-x"
+    title: "Roger Azevedo. (2020). Reflections on the field of metacognition: issues, challenges, and opportunities. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09231-x"
+    author: Roger Azevedo
+    q: 1
+    i: "?"
+---
+
+# Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer
+
+## Subclaims
+`q1 i?` Distinguishing domain-general from domain-specific metacognition is a major issue deserving priority, since general metacognition is expected to transfer whereas specific metacognition must be taught per task or domain. [→ Roger Azevedo 2020](#roger-azevedo-2020)
+
+## Evidence
+
+### Roger Azevedo 2020
+
+Roger Azevedo. (2020). Reflections on the field of metacognition: issues, challenges, and opportunities. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09231-x
+
+`q1 · i?`
+
+The editorial restates the position attributed to Veenman et al. (2006) on domain-generality versus domain-specificity and argues the issue deserves priority given twenty-first-century skills and workforce automation demands. This is the author's framing, not a new empirical test.
+
+> "It is argued that general metacognition may be instructed concurrently in different learning situations and thus expected to transfer to new learning situations, whereas specific metacognition must be taught for each task or domain separately (Veenman et al. 2006)."
+
+## Discussion
+
+
+## Related Claims
+-
