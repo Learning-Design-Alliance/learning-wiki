@@ -267,6 +267,10 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
 - Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
 - Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
+- O'Shea, B., Terry, L., & Benenson, W. (2013). From F=ma to Flying Squirrels: Curricular Change in an Introductory Physics Course. CBE-Life Science Education (accepted). https://www.lifescied.org
+- Liu, X., Liu, S., Lee, S.-h., & Magjuka, R. J. (2010). Cultural Differences in Online Learning: International Student Perceptions. *Educational Technology & Society, 13*(3), 177-188. https://www.jstor.org/stable/jeductechsoci.13.3
+- Higgin, T., Holl-Cross, C., Moorjani, A., & Edwards, A., et al. (2025). Faculty and student perspectives on gateway math courses and courseware. WestEd. https://eric.ed.gov/?id=ED677594
+- Chu, H., Perry, R., Reade, F., & Marple, S. (2019). Understanding complex instructional change: Classroom observations of Math in Common districts. WestEd. https://eric.ed.gov/?id=ED601889
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
