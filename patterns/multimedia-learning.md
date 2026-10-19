@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 68 claims (33 for, 33 mixed, 2 against) · 54 studies (30 causal, 10 quant-synthesis, 8 review, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 16 of 54 report an effect size · 59 claims rest on one study
+> **Evidence** · 71 claims (34 for, 34 mixed, 3 against) · 55 studies (30 causal, 10 quant-synthesis, 8 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 16 of 55 report an effect size · 62 claims rest on one study
 
 ## Description and scope
 
@@ -154,6 +154,9 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Readers judge a diagram's argumentative position above chance in all conditions except when both text and color are absent, and deleting graphics is more detrimental than deleting text](../claims/reading-position-judgments-cue-conditions.md) [~W]
 - [The segmentation advantage is maintained across repeated readings and is widespread across participants](../claims/segmentation-effect-maintained-repeated-readings.md) [~W]
 - [Strategy guidance yields better immediate recall and comprehension and higher efficiency than continuous presentation without learner control](../claims/strategy-guidance-beats-continuous-presentation-immediate.md) [+W]
+- [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](../claims/visigarp-diagram-prepost-null.md) [-W]
+- [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](../claims/videos-studied-faster-than-illustrated-texts-fifth-graders.md) [~W]
+- [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](../claims/yoshii-text-picture-definition-supply-only.md) [+W]
 
 ## Examples
 

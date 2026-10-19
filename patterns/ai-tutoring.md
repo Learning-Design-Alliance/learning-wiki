@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 319 claims (147 for, 124 mixed, 48 against) · 214 studies (77 causal, 43 review, 26 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 45 of 214 report an effect size · 305 claims rest on one study
+> **Evidence** · 322 claims (147 for, 127 mixed, 48 against) · 215 studies (77 causal, 43 review, 27 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 45 of 215 report an effect size · 308 claims rest on one study
 
 ## Description and scope
 
@@ -327,6 +327,9 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction](../claims/trace-exposure-raises-trust-and-hedonic-appeal.md) [~W]
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](../claims/tutor-alone-significant-peers-alone-not-math.md) [~W]
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](../claims/tutor-practice-greater-learning-gains-than-paper.md) [+W]
+- [Voice and text tutoring produced statistically equivalent weekly mastery within students, while voice transformed the interaction at a 2.8× cost premium](../claims/voice-text-mastery-equivalent-interaction-transformed.md) [~W]
+- [Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts](../claims/vista-mathspace-significant-summer-math-gains.md) [~W]
+- [Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors](../claims/worked-examples-discouraged-cognitive-tutor-algebra.md) [~W]
 
 ## Related Patterns
 

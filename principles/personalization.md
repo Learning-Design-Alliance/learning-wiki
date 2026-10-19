@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (28 for, 31 mixed, 6 against, 5 unmarked) · 73 studies (24 review, 20 causal, 8 qualitative, 8 theoretical, 5 associational, 4 quant-synthesis, 4 design), `q1`–`q4` · 8 of 73 report an effect size · 65 claims rest on one study
+> **Evidence** · 71 claims (29 for, 31 mixed, 6 against, 5 unmarked) · 74 studies (24 review, 20 causal, 8 qualitative, 8 theoretical, 5 associational, 5 design, 4 quant-synthesis), `q1`–`q4` · 8 of 74 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [In mathematics, personalized-learning students in the lowest baseline quintile were the most likely to out-grow their matched comparison students](../claims/pl-lowest-baseline-students-greatest-growth.md) [+W]
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](../claims/school-level-moderates-ai-stem-effects.md) [~W]
 - [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](../claims/policy-multilabel-concentrated-constraints-scaffolding-personalization.md) [~W]
+- [Verbosity preference is associated with systematic variation in LLM response length](../claims/verbosity-preference-response-length.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

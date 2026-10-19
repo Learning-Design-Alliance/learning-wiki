@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (20 for, 18 mixed) · 37 studies (9 associational, 8 review, 6 theoretical, 4 causal, 4 design, 3 quant-synthesis, 3 qualitative), `q1`–`q4` · 5 of 37 report an effect size · 37 claims rest on one study
+> **Evidence** · 39 claims (20 for, 19 mixed) · 38 studies (10 associational, 8 review, 6 theoretical, 4 causal, 4 design, 3 quant-synthesis, 3 qualitative), `q1`–`q4` · 5 of 38 report an effect size · 38 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -73,6 +73,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period](../claims/social-media-training-improves-inhibitory-control-older-adults.md) [~W]
 - [Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources](../claims/students-perceive-genai-academic-benefits.md) [+W]
 - [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](../claims/teacher-dbdm-use-increases-dls-effectiveness.md) [+W]
+- [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](../claims/weak-year-usage-frequency-association.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 177 claims (82 for, 91 mixed, 4 against) · 95 studies (56 associational, 17 review, 13 causal, 7 quant-synthesis, 2 theoretical), `q1`–`q4` · 40 of 95 report an effect size · 169 claims rest on one study
+> **Evidence** · 190 claims (88 for, 98 mixed, 4 against) · 103 studies (60 associational, 18 review, 15 causal, 7 quant-synthesis, 3 theoretical), `q1`–`q4` · 40 of 103 report an effect size · 182 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -218,6 +218,19 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](../claims/task-relevant-emotions-stronger-response-inhibition-effect.md) [~W]
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](../claims/tools-montessori-curricula-improve-efs.md) [+W]
 - [Current daytime tiredness predicts children's afternoon working memory performance fluctuations](../claims/tiredness-predicts-afternoon-working-memory.md) [~W]
+- [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](../claims/visuospatial-wm-inhibition-predict-maths.md) [+W]
+- [Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children](../claims/verbal-wm-intelligence-visuospatial-null.md) [~W]
+- [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](../claims/vocabulary-predicts-executive-loaded-nvwm.md) [+W]
+- [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](../claims/wm-distinct-from-stm-subsystems-function.md) [+W]
+- [Working memory shows a moderate average correlation with mathematics (r = 0.35), stronger for calculation and problem solving than geometry, per a meta-analysis of 110 studies cited in the article](../claims/wm-math-correlation-r-035-meta-analysis.md) [+M]
+- [Working memory and inhibition both contribute to spontaneous flexibility, whereas only inhibition contributes to reactive flexibility](../claims/wm-inhibition-differential-flexibility-contributions.md) [~W]
+- [In a prospective longitudinal sample (ECLS-K:2011), numbers reversed performance follows a logarithmic growth pattern, decelerating over ages 6–11](../claims/wm-logarithmic-growth-ecls.md) [+W]
+- [Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps](../claims/working-memory-demand-increases-with-math-problem-complexity.md) [+W]
+- [The advantage of a large working-memory span on children's arithmetic strategy use decreases across grades: span predicts retrieval frequency in second grade only and retrieval efficiency in second and fourth grade only](../claims/wm-span-advantage-decreases-across-grades.md) [~M]
+- [Working memory effectiveness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls](../claims/working-memory-mediation-chronic-stereotype-threat.md) [~W]
+- [Weekly average sleep measures show no association with working memory performance in older adolescents](../claims/weekly-sleep-no-working-memory-association.md) [~W]
+- [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](../claims/young-children-self-initiate-external-metacognitive-strategies.md) [~W]
+- [In e-learning text comprehension, higher working memory and lower self-reported navigation behavior predict better comprehension](../claims/wm-positive-navigation-negative-elearning-comprehension.md) [~W]
 
 ## Related Theories
 

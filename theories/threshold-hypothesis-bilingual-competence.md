@@ -17,7 +17,7 @@ sources:
 # The threshold hypothesis: two levels of bilingual competence mediate cognitive and academic effects of bilingualism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The threshold hypothesis holds that there are threshold levels of linguistic competence bilingual children must attain, such that "there may be threshold levels of linguistic competence which bilingual children must attain both in order to avoid cognitive disadvantages and allow the potentially beneficial aspects of bilingualism to influence his/her cognitive and academic functioning." The paper's preferred form posits two thresholds: attaining a lower threshold suffices to avoid negative cognitive effects, while a second, higher level is necessary for accelerated cognitive growth. The hypothesis treats level of competence in the two languages as an intervening variable mediating bilingualism's effects on cognition, and is expressed in a figure relating type of bilingualism (additive, dominant, semilingualism) to positive, neutral, or negative cognitive effects.
@@ -42,6 +42,7 @@ The threshold hypothesis holds that there are threshold levels of linguistic com
 - [High L2 Achievers Show Iq Gains In Immersion](../claims/high-l2-achievers-show-iq-gains-in-immersion.md) [+M]
 - [Semilingualism Associated With Negative Cognitive Effects](../claims/semilingualism-associated-with-negative-cognitive-effects.md) [+M]
 - [About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold](../claims/750-contact-hours-esl-support-tangible-effect.md) [~W]
+- [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](../claims/young-arrivals-risk-losing-both-l1-and-l2.md) [+W]
 
 ## Related Theories
 

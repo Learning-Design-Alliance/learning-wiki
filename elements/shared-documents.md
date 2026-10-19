@@ -13,7 +13,7 @@ generated:
 # Shared Documents
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 causal, 1 review), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Shared documents are the element in which multiple learners contribute to a common editable artifact.
@@ -25,6 +25,7 @@ Shared documents are the element in which multiple learners contribute to a comm
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](../claims/ddr-script-more-discussions-fewer-edits.md) [~W]
+- [Wikipedia's bold-edit collaboration script led to lower article quality than a discussion-first alternative script](../claims/wikipedia-script-lower-article-quality.md) [~W]
 
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)

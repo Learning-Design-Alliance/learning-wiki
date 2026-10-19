@@ -18,7 +18,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (1 for, 3 mixed, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.
@@ -43,6 +43,7 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 - [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](../claims/gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) [~W]
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](../claims/lomicka-no-statistical-difference-gloss-groups.md) [~W]
 - [A multiple-choice gloss format (L1 + L2) produced significantly higher vocabulary posttest scores than a single-gloss format in Nagata's Japanese study](../claims/multiple-choice-gloss-beats-single-gloss-nagata.md) [+W]
+- [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](../claims/yoshii-text-picture-definition-supply-only.md) [~W]
 
 ## Related Elements
 

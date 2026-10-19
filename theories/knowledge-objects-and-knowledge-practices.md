@@ -17,7 +17,7 @@ sources:
 # Knowledge Objects and Knowledge Practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 42 claims (31 for, 10 mixed, 1 against) · 33 studies (11 qualitative, 7 associational, 5 review, 5 design, 4 theoretical, 1 causal), `q1`–`q3` · 0 of 33 report an effect size · 42 claims rest on one study
+> **Evidence** · 44 claims (32 for, 11 mixed, 1 against) · 34 studies (11 qualitative, 7 associational, 5 review, 5 design, 5 theoretical, 1 causal), `q1`–`q3` · 0 of 34 report an effect size · 44 claims rest on one study
 
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
@@ -80,6 +80,8 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](../claims/online-behaviour-transforms-discourse-knowledge.md) [+W]
 - [A regularity view of causation is less suited than practice analysis to explaining how interaction patterns unfold over time](../claims/regularity-view-less-suited-interaction-explanations.md) [~W]
 - [The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building](../claims/social-and-technology-objects-reconstruction-phase.md) [+W]
+- [Wiki pages produced by many anonymous edits exhibit group-generated meaning not attributable to any individual contributor](../claims/wiki-page-group-generated-meaning-unplanned-edits.md) [+W]
+- [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](../claims/wikipedia-cscl-external-assimilation-example.md) [~W]
 
 ## Related Theories
 

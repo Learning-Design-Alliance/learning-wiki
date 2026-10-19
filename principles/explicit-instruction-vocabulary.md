@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (24 for, 5 mixed, 1 against) · 36 studies (12 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 36 report an effect size · 20 claims rest on one study
+> **Evidence** · 31 claims (24 for, 6 mixed, 1 against) · 37 studies (12 causal, 11 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 37 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 
 - [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](../claims/gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) [+W]
 - [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](../claims/diverse-contexts-speed-word-identification.md) [+W]
+- [Vocabulary instruction effects on taught words do not generalize to untaught words; wide reading is the most reliable gateway](../claims/vocabulary-instruction-no-generalization.md) [~W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable

@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 51 claims (12 for, 26 mixed, 13 against) · 40 studies (21 causal, 9 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q2`–`q4` · 15 of 40 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (12 for, 27 mixed, 13 against) · 41 studies (21 causal, 9 associational, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative, 1 design), `q2`–`q4` · 15 of 41 report an effect size · 49 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -101,6 +101,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](../claims/tell-none-conditions-mixed-jol-correlations.md) [~W]
 - [Text topic moderates judgment bias: the CLT text produced higher overconfidence for application performance than the CVT text](../claims/text-topic-moderates-application-overconfidence.md) [~W]
 - [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](../claims/slower-children-rate-own-performance-worse-grades-3-4.md) [~W]
+- [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](../claims/verbalizing-overconfidence-consistency-local-failures.md) [~W]
 
 ## The evidence by question
 

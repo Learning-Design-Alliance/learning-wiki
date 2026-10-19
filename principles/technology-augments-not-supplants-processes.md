@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 148 claims (91 for, 44 mixed, 13 against) · 117 studies (28 theoretical, 27 qualitative, 22 review, 19 causal, 12 design, 9 associational), `q1`–`q4` · 8 of 117 report an effect size · 144 claims rest on one study
+> **Evidence** · 149 claims (91 for, 44 mixed, 14 against) · 117 studies (28 theoretical, 27 qualitative, 22 review, 19 causal, 12 design, 9 associational), `q1`–`q4` · 8 of 117 report an effect size · 145 claims rest on one study
 
 ## Conditional relationship
 
@@ -275,6 +275,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](../claims/passive-engagement-aid-subzone-mis-skilling.md) [~W]
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](../claims/qualitative-selective-verification-intensive-use.md) [+W]
 - [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](../claims/prior-genai-use-poorer-unaided-reasoning.md) [-W]
+- [Most students report using LLMs to get solutions more often than they believe is ideal for learning, and this gap widened after the lesson](../claims/usage-exceeds-ideal-for-solution-generation.md) [-W]
 
 ## Related Principles
 

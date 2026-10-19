@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (14 for, 7 mixed) · 26 studies (11 causal, 7 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 16 claims rest on one study
+> **Evidence** · 22 claims (15 for, 7 mixed) · 27 studies (11 causal, 8 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 10 of 27 report an effect size · 17 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -57,6 +57,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](../claims/publication-bias-present-but-effects-robust.md) [~W]
 - [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](../claims/tts-narration-equivalent-instructor-voice-retrospective.md) [~W]
 - [Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)](../claims/supplementary-video-strong-benefit.md) [+W]
+- [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](../claims/yoshii-text-picture-definition-supply-only.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

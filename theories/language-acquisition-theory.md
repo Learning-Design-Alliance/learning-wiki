@@ -12,7 +12,7 @@ generated:
 # Language Acquisition Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (10 for, 3 mixed) · 8 studies (4 associational, 3 review, 1 causal), `q2`–`q3` · 0 of 8 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 8 studies (4 associational, 3 review, 1 causal), `q2`–`q3` · 0 of 8 report an effect size · 13 claims rest on one study
 
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
@@ -53,6 +53,7 @@ The current consensus among researchers is that no single account is sufficient 
 - [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](../claims/maternal-talk-variability-within-low-ses-sample.md) [~W]
 - [Parent narrative utterances at 42 months predict child PPVT at 54 months with quantity, SES, and prior vocabulary controlled](../claims/narrative-utterances-42-months-predict-vocabulary-54-months.md) [+W]
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](../claims/ses-differences-quantity-quality-parental-input.md) [+W]
+- [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](../claims/vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) [~W]
 
 ## Related Theories
 

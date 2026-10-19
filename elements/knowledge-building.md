@@ -13,7 +13,7 @@ generated:
 # Knowledge-Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 9 studies (4 qualitative, 2 review, 1 associational, 1 design, 1 theoretical), `q1`–`q2` · 0 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 10 studies (5 qualitative, 2 review, 1 associational, 1 design, 1 theoretical), `q1`–`q2` · 0 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them. It is useful when the goal is shared understanding that improves through contribution and revision.
@@ -43,6 +43,7 @@ Knowledge-building is the element in which learners collectively construct, refi
 - [A promising-ideas tool enabled children of about 8 years old to identify, communicate, respond to and build upon promising ideas in knowledge-building discourse](../claims/promising-ideas-tool-young-children.md) [+W]
 - [Most inquiry threads produced by low-achieving students were classified as knowledge construction or knowledge building rather than knowledge sharing.](../claims/inquiry-threads-knowledge-construction-building.md) [+W]
 - [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](../claims/knowledge-sharing-most-common-knowledge-building-rare.md) [-W]
+- [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](../claims/wow-thread-length-linear-with-contributors.md) [~W]
 
 ## Related Elements
 - [Knowledge-Building Discourse](knowledge-building-discourse.md)

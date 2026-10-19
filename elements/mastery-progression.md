@@ -13,7 +13,7 @@ generated:
 # Mastery Progression
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Mastery progression is a structural rule for sequencing learning: advancement to new content is gated on demonstrated competence with foundational content. Rather than moving a whole cohort forward on a fixed schedule, the system (or instructor) requires evidence — an assessment, performance task, or criterion-referenced check — that the learner has met a defined standard before unlocking the next unit. It converts time-in-seat from the constant and achievement from the variable into the reverse.
@@ -55,6 +55,7 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort](../claims/chicago-gate-dropout-rates-flat-then-declined.md) [+W]
+- [Sixth graders promoted in 1997 without meeting the test cutoff fared poorly at the eighth-grade gate, while Summer Bridge passers did relatively well](../claims/waived-students-poor-outcomes-second-gate.md) [+W]
 
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the parent model; mastery progression is its sequencing mechanism

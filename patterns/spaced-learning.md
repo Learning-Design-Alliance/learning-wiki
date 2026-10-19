@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (18 for, 20 mixed, 1 against, 1 unmarked) · 28 studies (14 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 28 report an effect size · 35 claims rest on one study
+> **Evidence** · 41 claims (18 for, 21 mixed, 1 against, 1 unmarked) · 28 studies (14 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 28 report an effect size · 36 claims rest on one study
 
 ## Description
 
@@ -128,6 +128,7 @@ The examples are local design instances, not additional observations from those 
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](../claims/same-different-task-no-lag-interaction.md) [~W]
 - [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](../claims/spacing-effect-free-recall-dp-beats-mp.md) [+W]
 - [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](../claims/spacing-benefits-diverse-learning-educational-settings.md) [+W]
+- [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, disconfirming a pure context-retrieval account for that condition](../claims/within-list-lag-persists-with-interitem-associations.md) [~W]
 
 ## Key Sources
 

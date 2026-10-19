@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 214 claims (92 for, 107 mixed, 15 against) · 163 studies (56 associational, 43 design, 25 review, 18 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 163 report an effect size · 208 claims rest on one study
+> **Evidence** · 216 claims (93 for, 108 mixed, 15 against) · 165 studies (57 associational, 44 design, 25 review, 18 theoretical, 16 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 13 of 165 report an effect size · 210 claims rest on one study
 
 ## Conditional relationship
 
@@ -312,6 +312,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](../claims/skt-srl-no-gpa-correlation.md) [~W]
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](../claims/stealth-assessment-accuracy-and-bias-audits.md) [+W]
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](../claims/test-retest-reliability-079-full-survey.md) [+W]
+- [Same-construct memory task correlations exceed different-construct correlations](../claims/within-construct-span-correlations-larger.md) [+W]
+- [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](../claims/within-judge-stability-llm-rubric.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations
