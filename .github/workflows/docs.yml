@@ -69,9 +69,13 @@ jobs:
       # to keep the previews, and so kept every page ever renamed or deleted as well:
       # the published site only grew (2026-10-10). Not `mkdocs gh-deploy`, which
       # force-replaces the branch history.
+      # cname: a branch-deployed Pages site keeps its custom domain in gh-pages/CNAME,
+      # which keep_files: false deleted on every deploy, sending the domain to a 404
+      # until it was set again by hand (2026-10-19). Writing it here keeps it.
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@329bcc8f12caed2cefe5a5b80781499a6f3b361b  # v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           keep_files: false
+          cname: wiki.learningdesignalliance.org
