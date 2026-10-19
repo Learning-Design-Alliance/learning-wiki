@@ -8,7 +8,7 @@ canonical: true
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-10-02
+  at: 2026-10-19
 sources:
   - id: freeman-2014
     resource: "https://doi.org/10.1073/pnas.1319030111"
@@ -26,12 +26,44 @@ sources:
     resource: "https://www.sif.it"
     title: "Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it"
     author: Benedetti R., Mariotti E., Montalbano V., Porri A
+  - id: theobald-2020
+    resource: "https://doi.org/10.1073/pnas.1916903117"
+    title: "Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S., … Freeman, S. (2020). Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math. *Proceedings of the National Academy of Sciences, 117*(12), 6476–6483"
+    author: "Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S., … Freeman, S"
+  - id: haak-2011
+    resource: "https://doi.org/10.1126/science.1204820"
+    title: "Haak, D. C., HilleRisLambers, J., Pitre, E., & Freeman, S. (2011). Increased structure and active learning reduce the achievement gap in introductory biology. *Science, 332*(6034), 1213–1216"
+    author: "Haak, D. C., HilleRisLambers, J., Pitre, E., & Freeman, S"
+  - id: lorenzo-2006
+    resource: "https://doi.org/10.1119/1.2162549"
+    title: "Lorenzo, M., Crouch, C. H., & Mazur, E. (2006). Reducing the gender gap in the physics classroom. *American Journal of Physics, 74*(2), 118–122"
+    author: "Lorenzo, M., Crouch, C. H., & Mazur, E"
+  - id: bisra-2018
+    resource: "https://doi.org/10.1007/s10648-018-9434-x"
+    title: "Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing self-explanation: A meta-analysis. *Educational Psychology Review, 30*(3), 703–725"
+    author: "Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H"
+  - id: beege-2025
+    resource: "https://doi.org/10.1007/s11251-024-09693-5"
+    title: "Beege, M., & Ploetzner, R. (2025). Learning from interactive video: the influence of self-explanations, navigation, and cognitive load. *Instructional Science*"
+    author: "Beege, M., & Ploetzner, R"
+  - id: noetel-2021
+    resource: "https://doi.org/10.3102/0034654321990713"
+    title: "Noetel, M., Griffith, S., Delaney, O., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2021). Video improves learning in higher education: A systematic review. *Review of Educational Research, 91*(2), 204–236"
+    author: "Noetel, M., Griffith, S., Delaney, O., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C"
+  - id: kirkwood-watts-2022
+    resource: "https://doi.org/10.1128/jmbe.00038-22"
+    title: "Kirkwood-Watts, D. L., Bremers, E. K., Robinson, E. A., Brazeal, K. R., & Couch, B. A. (2022). Revisiting clickers: In-class questions followed by at-home reflections are associated with higher student performance on related exam questions. *Journal of Microbiology and Biology Education*"
+    author: "Kirkwood-Watts, D. L., Bremers, E. K., Robinson, E. A., Brazeal, K. R., & Couch, B. A"
+  - id: metcalfe-2017
+    resource: "https://doi.org/10.1146/annurev-psych-010416-044022"
+    title: "Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489"
+    author: "Metcalfe, J"
 ---
 
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (17 for, 19 mixed, 1 against) · 35 studies (10 causal, 6 quant-synthesis, 6 associational, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 35 report an effect size · 30 claims rest on one study
+> **Evidence** · 37 claims (16 for, 20 mixed, 1 against) · 35 studies (10 causal, 6 quant-synthesis, 6 associational, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 35 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
