@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Micro Credentials And Badging - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="micro-credentials-and-badging">Micro Credentials And Badging<a class="headerlink" href="#micro-credentials-and-badging" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 3 claims (1 for, 1 mixed, 1 against) · 9 studies (3 quant-synthesis, 2 causal, 2 review, 1 qualitative, 1 theoretical), <code>q1</code>–<code>q4</code> · 3 of 9 report an effect size</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Micro credentials and digital badges certify that a learner has demonstrated a specific, defined competency — a skill, task, or body of knowledge — typically assessed against explicit criteria rather than awarded for seat time. Badges are usually digital, metadata-rich (issuer, criteria, evidence), and stackable toward larger credentials. The strategy restructures recognition around demonstrated performance and makes progress visible in small, frequent increments.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Badging works when it functions as a competency signal, not a participation trophy: credentials tied to rigorous, transparent assessment criteria carry motivational and signaling value, while badges awarded for mere completion undermine both [~M]. Because badges make sub-goals explicit and progress visible, they can support motivation through goal-gradient and feedback effects, but only when learners perceive the criteria as meaningful and attainable <a href="../../claims/autonomy-supports-intrinsic-motivation/">Autonomy supports intrinsic motivation.</a> [~M] — externally imposed badge checklists can crowd out intrinsic interest if they feel like arbitrary gamification.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A competency map that decomposes the domain into assessable, well-defined units (<a href="../../principles/competency-based-assessment/">Competency-Based Assessment</a>)</li>
+<li>Valid, reliable assessment of each competency with explicit criteria (<a href="../../elements/assessment/">Assessment</a>); badges without evidence requirements lose employer and learner trust</li>
+<li>An issuing and display infrastructure (e.g., Open Badges standard) so credentials are verifiable and portable</li>
+<li>Feedback loops so learners know what evidence they still need before submitting</li>
+<li>A precisely worded competency statement with observable performance criteria</li>
+<li>A rubric or scoring guide applied consistently, ideally by trained evaluators or against exemplars</li>
+<li>A digital representation (e.g., Open Badges) carrying metadata: criteria, evidence, issuer, date</li>
+<li>A stacking architecture so credentials combine toward larger qualifications</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Badges for low-effort completion produce no learning benefit and can dilute the value of rigorous credentials [-M]</li>
+<li>Overly granular badging fragments learning into checklist-chasing, undermining integration and transfer; learners optimize for badge acquisition rather than understanding [~M]</li>
+<li>Extrinsic rewards for tasks learners already find interesting can reduce intrinsic motivation when the reward feels controlling rather than informational <a href="../../claims/autonomy-supports-intrinsic-motivation/">Autonomy supports intrinsic motivation.</a> [~M]</li>
+<li>Labor-intensive to design: each badge requires criteria, assessment tasks, and moderation; poorly resourced implementations default to completion badges</li>
+<li>Checklist-style evaluation of isolated sub-skills online is ineffective at verifying integrated competence <a href="../../claims/checklist-evaluation-ineffective-online/">Checklist evaluation is ineffective for online assessment.</a> [-M] — badges earned by clicking through content modules certify exposure, not ability</li>
+<li>Granular decomposition can fragment learning; assessing tiny isolated skills risks learners never integrating them into coherent performance [~M]</li>
+<li>Employer and institutional recognition remains uneven; unmotivated stacking occurs when learners collect badges without a coherent trajectory [-W]</li>
+<li>Low-stakes, unlimited-attempt formats invite gaming unless tasks require transfer or novel application [~M]</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Skill badges vs. completion badges</strong> — evidence-based badges certify performance; attendance badges only mark engagement and should be labeled as such</li>
+<li><strong>Stackable pathways</strong> — badges accumulate toward certificates or degrees, supporting <a href="../../patterns/competency-based-learning/">Competency-Based Learning</a></li>
+<li><strong>Learner-choice badging</strong> — learners select which optional badges to pursue, preserving autonomy while structuring stretch goals</li>
+<li><strong>Peer- or expert-endorsed badges</strong> — endorsement metadata signals who vouches for the evidence</li>
+<li><strong>Skill-specific badges</strong> (e.g., "data visualization in R") vs. <strong>dispositional credentials</strong> (e.g., "collaboration"), which are far harder to assess validly</li>
+<li><strong>Stackable ladders</strong> within a program vs. <strong>standalone</strong> credentials for just-in-time upskilling</li>
+<li><strong>Instructor-scored</strong>, <strong>peer-reviewed</strong>, or <strong>automated</strong> evidence evaluation, with validity decreasing as task complexity increases</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Adult and professional learners who need portable, granular evidence of skills for employment [~M]</li>
+<li>Learners in self-paced or online environments who benefit from visible progress markers and frequent closure</li>
+<li>Less effective for learners who already have strong intrinsic interest in the domain and find badge mechanics distracting [~W]</li>
+<li>Adult and professional learners seeking targeted, verifiable upskilling without enrolling in full programs</li>
+<li>Learners who benefit from visible progress markers; granular milestones support persistence and motivation [~W]</li>
+<li>Less suited to novices who need integrated, sequenced instruction rather than isolated competency checks — the credential certifies the endpoint, not the learning process</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Discrete, assessable skills and competencies (procedural knowledge, tool proficiency)</li>
+<li>Incremental mastery tracking within longer programs (<a href="../../claims/assessment-for-learning-improves-achievement/">Assessment for learning improves achievement.</a> [+S])</li>
+<li>Motivation and persistence through structured short-term goals [~M]</li>
+<li>Procedural and technical skill certification with clear performance standards</li>
+<li>Formative goal-setting: the credential defines a concrete target that structures practice and <a href="../../principles/assessment-for-learning/">Assessment for Learning</a> [+M]</li>
+<li>Portfolio building: accumulated, verifiable evidence of capability for employers or institutions</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Decompose the domain into competencies using a <a href="../../principles/competency-based-assessment/">Competency-Based Assessment</a> framework; each badge maps to one demonstrable competency.</li>
+<li>Define explicit evidence criteria and an assessment task for each badge; publish the criteria to learners in advance.</li>
+<li>Build the assessment into the learning sequence so earning the badge requires <a href="../../elements/practice/">Practice</a> and performance, not just content consumption.</li>
+<li>Deliver <a href="../../elements/feedback/">Feedback</a> on submissions against the published criteria; award the badge only when evidence meets the standard.</li>
+<li>Stack badges into visible pathways so learners see how micro credentials accumulate toward larger goals.</li>
+<li>Review badge rigor periodically — retire or tighten badges that are awarded near-universally.</li>
+</ol>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../competency-based-progression/">Competency-Based Progression</a> — badging is the recognition layer for competency-based pacing</li>
+<li><a href="../gamification/">Gamification</a> — badges are one gamification mechanic; rigor of assessment is the key differentiator</li>
+<li><a href="../mastery-learning/">Mastery Learning</a> — badges awarded only on demonstrated mastery enact mastery-based advancement</li>
+<li><a href="../atc-title-i-salary-supplement-strategy/">Reward service in high-poverty Title I schools with a salary supplement and portable credential for recognized effective teachers</a></li>
+<li><a href="../e2l-badge-based-competency-coaching/">Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice</a></li>
+<li>Mastery-based progression — micro credentials share the "demonstrate before advancing" logic at a finer grain</li>
+<li>Portfolio assessment — portfolios frequently serve as the evidence base for a credential</li>
+<li><a href="../digital-badges-maker-education-recognition/">Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education</a></li>
+<li><a href="../five-domains-micro-credentialing-policy/">Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness</a></li>
+<li><a href="../cross-institution-joint-credential-issuance/">Issue joint cross-institution credentials via smart-contract credit verification and co-signed certificates</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="https://openbadges.org">Mozilla Open Badges</a></strong> — open technical standard for verifiable digital badges with issuer, criteria, and evidence metadata; the de facto interoperability standard.</li>
+<li><strong><a href="https://info.credly.com">Credly</a></strong> — enterprise badging platform used by universities and employers (e.g., IBM's digital badge program) to issue skill-verified credentials.</li>
+<li><strong><a href="https://www.coursera.org">Coursera Professional Certificates</a></strong> — stackable industry certificates composed of course-level credentials, assessed through graded projects.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — skill badges and mastery levels awarded for demonstrated proficiency on exercise sets, structuring progress through the math curriculum.</li>
+<li><strong><a href="https://skillsbuild.org">IBM SkillsBuild</a></strong> and <strong>IBM Digital Badges</strong> — industry-recognized badges for technical skills, each tied to an assessment with published criteria</li>
+<li><strong><a href="https://info.credly.com">Credly</a></strong> — a major Open Badges platform used by universities and employers to issue and verify competency credentials</li>
+<li><strong><a href="https://www.deakin.edu.au">Deakin University</a></strong> — a pioneer of stackable micro credentials embedded in degree programs, with credentials counting toward full qualifications</li>
+<li><strong><a href="https://grow.google/certificates/">Google Career Certificates</a></strong> — short credential programs assessed through applied projects, recognized by an employer consortium</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Grant, S. L. (2014). What counts as learning: Open digital badging for credentialing and assessment. <em>Doctoral dissertation, University of Michigan.</em></li>
+<li>Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., &amp; Knight, E. (2015). Digital badges in education. <em>Education and Information Technologies, 20</em>(2), 403-410. <a href="https://doi.org/10.1007/s10639-013-9291-7">doi:10.1007/s10639-013-9291-7</a></li>
+<li>Deci, E. L., Koestner, R., &amp; Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. <em>Psychological Bulletin, 125</em>(6), 627–668. <a href="https://doi.org/10.1037/0033-2909.125.6.627">doi:10.1037/0033-2909.125.6.627</a></li>
+<li>Oliver, B. (2019). Making micro-credentials work for learners, employers and providers. <em>Deakin University.</em></li>
+<li>Oliver, B. (2019). Making micro-credentials work for learners, employers and providers. <em>Deakin University</em>. https://dteach.deakin.edu.au/2019/07/31/microcredentials-report/</li>
+<li>Carey, K. (2016). The end of college-level credentialing? <em>Change: The Magazine of Higher Learning, 48</em>(1), 6–11.</li>
+<li>Wheelahan, L., &amp; Moodie, G. (2021). Analysing micro-credentials in higher education: A Bernsteinian analysis. <em>Journal of Curriculum Studies, 53</em>(2), 212–228. <a href="https://doi.org/10.1080/00220272.2021.1887358">doi:10.1080/00220272.2021.1887358</a></li>
+<li>Black, P., &amp; Wiliam, D. (1998). Assessment and classroom learning. <em>Assessment in Education: Principles, Policy &amp; Practice, 5</em>(1), 7–74. <a href="https://doi.org/10.1080/0969595980050102">doi:10.1080/0969595980050102</a></li>
+</ul>
+<!-- merged 2026-10-13 from strategies/micro-credentials ("Micro Credentials"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Micro Credentials
+
+> **Strategy** · [All strategies](../)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3` · 2 of 6 report an effect size
+
+## Description
+Micro credentials are compact, assessable certifications of a specific competency — a skill, task, or body of knowledge — earned by demonstrating performance against defined criteria rather than by seat time. They are typically stacked (accumulating toward larger qualifications), digitally badgeable, and assessed through evidence such as portfolios, performance tasks, or proctored demonstrations.
+
+## Design Implications
+
+Micro credentials operationalize [Competency-Based Assessment](../../principles/competency-based-assessment/) at fine grain: the unit of certification is what a learner can *do*, not time enrolled or content covered. Their validity depends entirely on assessment quality — a badge backed by a weak or easily gamed assessment certifies nothing [Assessment for learning improves achievement when evidence is used to verify understanding.](../../claims/assessment-for-learning-improves-achievement/) [+M]. Because the credential is public and portable, alignment between the stated competency, the assessment task, and the evidence standard must be explicit and auditable.
+
+### Context
+#### Requirements
+- A precisely worded competency statement with observable performance criteria
+- An assessment task that elicits authentic evidence of that competency ([Assessment](../../elements/assessment/)), ideally performance-based rather than recognition-based
+- A rubric or scoring guide applied consistently, ideally by trained evaluators or against exemplars
+- A digital representation (e.g., Open Badges) carrying metadata: criteria, evidence, issuer, date
+- A stacking architecture so credentials combine toward larger qualifications
+
+#### Constraints
+- Checklist-style evaluation of isolated sub-skills online is ineffective at verifying integrated competence [Checklist evaluation is ineffective for online assessment.](../../claims/checklist-evaluation-ineffective-online/) [-M] — badges earned by clicking through content modules certify exposure, not ability
+- Granular decomposition can fragment learning; assessing tiny isolated skills risks learners never integrating them into coherent performance [~M]
+- Employer and institutional recognition remains uneven; unmotivated stacking occurs when learners collect badges without a coherent trajectory [-W]
+- Low-stakes, unlimited-attempt formats invite gaming unless tasks require transfer or novel application [~M]
+
+#### Implementation Variability
+- **Skill-specific badges** (e.g., "data visualization in R") vs. **dispositional credentials** (e.g., "collaboration"), which are far harder to assess validly
+- **Stackable ladders** within a program vs. **standalone** credentials for just-in-time upskilling
+- **Instructor-scored**, **peer-reviewed**, or **automated** evidence evaluation, with validity decreasing as task complexity increases
+
+### Target Learners
+- Adult and professional learners seeking targeted, verifiable upskilling without enrolling in full programs
+- Learners who benefit from visible progress markers; granular milestones support persistence and motivation [~W]
+- Less suited to novices who need integrated, sequenced instruction rather than isolated competency checks — the credential certifies the endpoint, not the learning process
+
+### Target Learning Goals
+- Procedural and technical skill certification with clear performance standards
+- Formative goal-setting: the credential defines a concrete target that structures practice and [Assessment for Learning](../../principles/assessment-for-learning/) [+M]
+- Portfolio building: accumulated, verifiable evidence of capability for employers or institutions
+
+### Instructions
+1. Define the competency in observable, assessable terms; align it with program-level outcomes ([Constructive Alignment](../../patterns/constructive-alignment/))
+2. Design a performance task that requires applying the skill in a realistic context, not recognizing content ([Authentic Assessment](../../patterns/authentic-assessment/))
+3. Publish the rubric and exemplar work so learners know the standard before attempting ([Assessment](../../elements/assessment/))
+4. Evaluate evidence against the rubric; require resubmission until the standard is met, consistent with [Competency-Based Learning](../../patterns/competency-based-learning/)
+5. Issue a verifiable digital badge with metadata linking to criteria and evidence
+6. Design stacking pathways so multiple credentials compose toward a larger qualification
+
+## Related Strategies
+
+- Mastery-based progression — micro credentials share the "demonstrate before advancing" logic at a finer grain
+- Portfolio assessment — portfolios frequently serve as the evidence base for a credential
+- [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](../digital-badges-maker-education-recognition/)
+- [Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness](../five-domains-micro-credentialing-policy/)
+- [Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice](../e2l-badge-based-competency-coaching/)
+
+## Examples
+- **[IBM SkillsBuild](https://skillsbuild.org)** and **IBM Digital Badges** — industry-recognized badges for technical skills, each tied to an assessment with published criteria
+- **[Credly](https://info.credly.com)** — a major Open Badges platform used by universities and employers to issue and verify competency credentials
+- **[Deakin University](https://www.deakin.edu.au)** — a pioneer of stackable micro credentials embedded in degree programs, with credentials counting toward full qualifications
+- **[Google Career Certificates](https://grow.google/certificates/)** — short credential programs assessed through applied projects, recognized by an employer consortium
+
+## Key Sources
+- Oliver, B. (2019). Making micro-credentials work for learners, employers and providers. *Deakin University*. https://dteach.deakin.edu.au/2019/07/31/microcredentials-report/
+- Carey, K. (2016). The end of college-level credentialing? *Change: The Magazine of Higher Learning, 48*(1), 6–11.
+- Wheelahan, L., & Moodie, G. (2021). Analysing micro-credentials in higher education: A Bernsteinian analysis. *Journal of Curriculum Studies, 53*(2), 212–228. [doi:10.1080/00220272.2021.1887358](https://doi.org/10.1080/00220272.2021.1887358)
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>micro-credentials-and-badging</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>micro-credentials</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Micro Credentials And Badging</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Awarding granular, verifiable credentials (digital badges or certificates) for demonstrating specific competencies, rather than only for completing whole courses.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

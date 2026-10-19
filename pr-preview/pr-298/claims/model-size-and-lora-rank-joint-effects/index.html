@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1 - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="base-model-size-effects-persist-after-lora-adaptation-the-7b-model-gained-more-on-rouge-2-and-rouge-l-yet-3b-r16-outperformed-7b-r4-on-rouge-l-and-bertscore-f1">Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1<a class="headerlink" href="#base-model-size-effects-persist-after-lora-adaptation-the-7b-model-gained-more-on-rouge-2-and-rouge-l-yet-3b-r16-outperformed-7b-r4-on-rouge-l-and-bertscore-f1" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r1</code>–<code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> After LoRA fine-tuning at r=16, the 7B model's advantage increased on ROUGE-2 and ROUGE-L while the ROUGE-1 gap narrowed in favor of the 3B model. <a href="#shaowen-lu-2026">→ Shaowen Lu 2026</a>
+<code>q2 i?</code> A smaller model with higher-rank LoRA adaptation can outperform a larger model with lower-rank adaptation on some metrics. <a href="#shaowen-lu-2026-2">→ Shaowen Lu 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="shaowen-lu-2026">Shaowen Lu 2026<a class="headerlink" href="#shaowen-lu-2026" title="Permanent link">&para;</a></h3>
+<p>Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&amp;A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918 <a href="https://doi.org/10.48550/arxiv.2609.13918">doi:10.48550/arxiv.2609.13918</a></p>
+<p><code>q2 · i?</code> · <code>causal · r1</code></p>
+<p>Direct comparison of base models and r=16 fine-tuned models on the 54-item test set (Section 5.5). The article reports the 3B model narrowed the ROUGE-1 gap while the 7B model gained more on ROUGE-2 and ROUGE-L under the same LoRA setting.</p>
+<blockquote>
+<p>"The ROUGE-1 difference decreased from +0.0263 to +0.0148, indicating that the 3B model narrowed the lexical-overlap gap through LoRA adaptation. In contrast, the ROUGE-2 difference increased from +0.0199 to +0.0318, and the ROUGE-L difference increased from +0.0207 to +0.0317."</p>
+</blockquote>
+<h3 id="shaowen-lu-2026-2">Shaowen Lu 2026 (2)<a class="headerlink" href="#shaowen-lu-2026-2" title="Permanent link">&para;</a></h3>
+<p>Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&amp;A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Cross-size comparison on the current test set (Section 5.5). The article reports 3B-r16 achieved ROUGE-L 0.3776 versus 0.3615 for 7B-r4, and BERTScore-F1 0.8606 versus 0.8579, which the authors note is relevant for local deployment under limited resources.</p>
+<blockquote>
+<p>"Its ROUGE-L score of 0.3776 exceeded the 0.3615 achieved by 7B-r4. Its BERTScore-F1 of 0.8606 likewise exceeded the 0.8579 of 7B-r4."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../bootstrap-stability-lora-gains-7b-r4-rouge1/">Bootstrap stability of LoRA gains is not uniform: the ROUGE-1 confidence interval crossed zero at 7B-r4, so that increase is a trend rather than a stable improvement</a> — related</li>
+<li><a href="../lora-improves-reference-answer-similarity-control-systems/">LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes</a> — related</li>
+<li><a href="../lora-rank-diminishing-parameter-efficiency-returns/">Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters</a> — related</li>
+<li><a href="../lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales/">LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales</a> — related</li>
+<li><a href="../manova-cluster-effect-text-metrics/">Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p &lt; 0.001)</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>model-size-and-lora-rank-joint-effects</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>shaowen-lu-2026</code>, <code>shaowen-lu-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,5901 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A persistent, LLM-maintained knowledge base for learning design — principles, elements, patterns, designs, products and programmes, strategies, design processes and methods, research methods, theories, learner variables, and empirical claims.">
+      
+      
+      
+        <link rel="canonical" href="https://wiki.learningdesignalliance.org/situations/single-session/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lda-favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Designing for single-session - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lazuli-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#designing-for-single-session" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Designing for single-session
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" ></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design for a Situation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Application
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Application
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../patterns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Research
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Methods
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Methods
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    About
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ai-tutoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI Tutoring
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#always-report-and-interpret-effect-sizes-alongside-p-values-for-primary-outcomes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Always report and interpret effect sizes alongside p values for primary outcomes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assessment-for-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Assessment for Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#building-empathy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Building Empathy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cognitive-flexibility" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cognitive Flexibility
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coherence-principle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Coherence Principle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#constructive-alignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Constructive Alignment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#culturally-responsive-classroom-norms" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Culturally Responsive Classroom Norms
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#developing-your-cultural-awareness" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Developing Your Cultural Awareness
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#effective-classroom-management-plan-criteria" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Effective Classroom Management Plan Criteria
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elaborative-reasoning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elaborative Reasoning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#epistemic-cognition" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Epistemic Cognition
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#error-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Error Analysis
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evaluating-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evaluating Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#formative-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Formative Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#functional-behavior-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Functional Behavior Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#game-based-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Game-based Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modeling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Modeling
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#physical-activity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Physical Activity
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#practice-with-simulated-people" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Practice with Simulated People
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pretesting-prequestions-before-study" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pretesting (Prequestions Before Study)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#professional-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Professional Development
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#redundancy-principle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Redundancy Principle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reflection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Reflection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#segmenting-principle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Segmenting Principle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-affirmation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Self Affirmation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#social-emotional-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Social Emotional Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spaced-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Spaced Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#strengths-based-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Strengths-based Approach
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#transfer-of-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Transfer of Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wise-feedback-across-racial-and-ethnic-difference" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wise Feedback Across Racial and Ethnic Difference
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#worked-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Worked Examples
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#workshop-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Workshop Model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#adopt-humanistic-and-radical-approaches-so-adult-learners-develop-as-individuals-and-can-question-social-injustice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anchored-instruction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Anchored Instruction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#annotating" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Annotating
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ask-experts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ask Experts
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#authentic-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Authentic Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#balanced-pronunciation-curriculum-covering-suprasegmentals-segmentals-and-fluency-with-a-short-list-of-central-features-selected-by-diagnosis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#blended-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Blended Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#build-productive-instructor-learner-relationships-so-adults-feel-connected-and-take-an-active-role-in-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Build productive instructor-learner relationships so adults feel connected and take an active role in learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bullying-prevention-and-intervention" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bullying Prevention and Intervention
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#character-education" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Character Education
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#classroom-space-and-procedural-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Classroom Space and Procedural Design
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cognitive-activation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cognitive Activation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cognitive-styles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cognitive Styles
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#collaborative-evaluation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Collaborative Evaluation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#combine-intentional-and-incidental-vocabulary-learning-rather-than-relying-on-incidental-learning-alone" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-based-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community-Based Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#compensate-for-age-related-sensory-impairments-by-combining-audio-input-with-visual-presentation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Compensate for age-related sensory impairments by combining audio input with visual presentation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#concept-attainment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Concept Attainment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#concreteness-fading" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Concreteness Fading
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#considering-the-opposite" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Considering The Opposite
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contiguity-principle-spatial-and-temporal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Contiguity Principle (Spatial and Temporal)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cooperative-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cooperative Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criterion-and-norm-referenced-testing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Criterion- and Norm-Referenced Testing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cultural-life-experiences-connections" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cultural &amp; Life Experiences Connections
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debriefing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Debriefing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deliberate-practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Deliberate Practice
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#design-tools-so-productive-usage-is-guaranteed-by-affordances-and-constraints-rather-than-instructions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#develop-understanding" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Develop Understanding
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disciplinary-literacy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Disciplinary Literacy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#discussing-race" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Discussing Race
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#distributed-cognition" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Distributed Cognition
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#educational-readiness" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Educational Readiness
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#educators-should-act-as-mediators-and-facilitators-of-learning-rather-than-content-disseminators" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Educators should act as mediators and facilitators of learning rather than content disseminators
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elaboration-theory" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elaboration Theory
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#emergent-curriculum" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Emergent Curriculum
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#employ-flexible-error-treatment-strategies-matched-to-objectives-competence-affect-and-correction-effectiveness" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#engagement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Engagement
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#epistemic-games" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Epistemic Games
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evidence-based-teaching-and-scientific-reasoning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evidence-Based Teaching and Scientific Reasoning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#expanding-social-networks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Expanding Social Networks
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#experience-with-languaging-activities-elas-guided-by-a-sequence-of-experience-based-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#experiential-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Experiential Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#experiential-learning-cycle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Experiential Learning Cycle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#explicit-instruction-computer-basics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Explicit Instruction: Computer Basics
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#explicit-instruction-internet-search" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Explicit Instruction: Internet Search
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#explicit-instruction-math-strategies" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Explicit Instruction: Math Strategies
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#explicit-instruction-online-reading-strategies" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Explicit Instruction: Online Reading Strategies
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#explicit-instruction-vocabulary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Explicit Instruction: Vocabulary
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#feedback-loops" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Feedback Loops
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#flexible-grouping" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Flexible Grouping
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#flipped-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Flipped Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fostering-communities-of-learning-fcl" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fostering Communities of Learning (FCL)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fostering-creative-thinking" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fostering Creative Thinking
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#free-choice-learning-environment-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Free-Choice Learning Environment Design
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#game-based-mastery-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Game-Based Mastery Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gamification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Gamification
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#goal-setting-monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Goal Setting &amp; Monitoring
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#graphic-organizers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Graphic Organizers
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guided-practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Guided Practice
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#harmonize-opposites-strike-a-balance-between-competing-educational-ideas-rather-than-embracing-one-method-wholesale" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#holistic-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Holistic Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#include-parents-teachers-or-mentors-in-any-self-regulation-intervention-and-support-their-own-skills-and-coaching-capacity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instructor-accessibility" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Instructor Accessibility
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interleaving" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Interleaving
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#journaling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Journaling
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#keep-the-learner-in-control-of-the-information-flow-with-on-demand-tools-and-supports" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Keep the learner in control of the information flow with on-demand tools and supports
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#knowledge-organization" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Knowledge Organization
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-by-producing-multimedia-production-as-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning by Producing (multimedia production as learning)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-for-use-lfu-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning-for-Use (LfU) Model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#least-restrictive-environment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Least Restrictive Environment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#link-program-elements-to-workforce-entry-points-and-employer-recognized-credentials-so-learners-see-an-immediate-economic-payoff" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Link program elements to workforce entry points and employer-recognized credentials so learners see an immediate economic payoff
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#massive-open-online-course-mooc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Massive Open Online Course (MOOC)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#match-the-form-and-content-of-staff-development-interventions-to-clients-assessed-stages-of-concern" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Match the form and content of staff development interventions to clients' assessed Stages of Concern
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#memory-consolidation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Memory Consolidation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mindfulness-activities" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mindfulness Activities
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#minimize-student-frustration-by-making-feedback-clear-legible-focused-and-transparent" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Minimize student frustration by making feedback clear, legible, focused, and transparent
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mnemonic-device" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mnemonic Device
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modality-principle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Modality Principle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motivation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Motivation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multimodal-instruction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multimodal Instruction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multiple-methods-of-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multiple Methods of Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#note-taking" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Note-taking
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#observationshadowing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Observation/Shadowing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pair-c-framework-pattern-agents-interactions-relations-causality" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pairing-non-examples-with-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pairing Non-examples with Examples
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#peer-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Peer Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#peer-teaching" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Peer Teaching
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#personalization" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Personalization
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phonics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Phonics
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#positive-behavioral-interventions-and-supports" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Positive Behavioral Interventions And Supports
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#positive-self-talk" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Positive Self-talk
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pre-reading-questioning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pre-reading Questioning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pre-training-principle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pre-training Principle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preserve-heritage-language-while-acquiring-an-additional-language" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preserve Heritage Language While Acquiring an Additional Language
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#procedural-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Procedural Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#process-based-writing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Process-based Writing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#professional-development-should-guide-teachers-on-integrating-digital-content-and-tools-not-just-offer-technical-know-how" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#programmed-instruction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Programmed Instruction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-space-and-instructional-space" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Project Space and Instructional Space
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#provide-positive-comments-alongside-constructive-criticism-when-responding-to-student-writing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Provide positive comments alongside constructive criticism when responding to student writing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quiet-learning-spaces" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quiet Learning Spaces
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#responsive-teaching" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Responsive Teaching
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rhetorical-skill-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rhetorical Skill Development
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-directed-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Self-Directed Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-directed-learning_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Self-Directed Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Self-monitoring
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-regulated-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Self-Regulated Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequencing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sequencing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shared-power-previously-excluded-students-families-and-communities-co-create-and-shape-educational-systems-policies-and-practices" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#signaling-principle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Signaling Principle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#simulations-immersive-virtual-environments" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Simulations &amp; Immersive Virtual Environments
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#skills-sprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Skills Sprint
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#social-interdependence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Social Interdependence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#social-presence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Social Presence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#standardized-test-fairness-and-bias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Standardized Test Fairness and Bias
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#structured-academic-controversy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Structured Academic Controversy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#structured-peer-review" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Structured Peer Review
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summative-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summative Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#support-early-language-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Support Early Language Development
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#supporting-gifted-and-talented-students" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Supporting Gifted and Talented Students
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#supporting-students-with-intellectual-disabilities" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Supporting Students with Intellectual Disabilities
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#teach-response-precision-and-new-associations-with-minimal-errors-using-mediators-and-stimulus-fading" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teach response precision and new associations with minimal errors, using mediators and stimulus fading
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#teach-the-conceptual-underpinnings-of-l2-forms-rather-than-only-their-structural-aspects-or-formulaic-units" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#teacher-professional-development-should-include-ongoing-activities-like-study-teams-and-peer-coaching-rather-than-only-occasional-large-group-sessions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#team-based-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Team Based Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technology-should-augment-not-supplant-learning-processes-in-student-centered-environments" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Technology should augment, not supplant, learning processes in student-centered environments
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#text-chats" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Text Chats
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#text-to-speech" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Text-to-Speech
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#traditional-lecture-based-instruction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Traditional Lecture-Based Instruction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#treat-talking-and-writing-as-means-to-learning-through-dialogue-based-student-centered-instruction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Treat talking and writing as means to learning through dialogue-based, student-centered instruction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-must-be-cultivated-through-exploration-not-described-or-told" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Understanding must be cultivated through exploration, not described or told
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#universal-design-for-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Universal Design For Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#use-computer-tools-that-let-students-explore-hypotheses-and-solutions-faster-so-they-can-test-many-ideas-without-frustration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validity-reliability-and-bias-in-classroom-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Validity, Reliability, and Bias in Classroom Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-replay-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Video Replay Analysis
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body>
+                
+                  
+
+
+
+<h1 id="designing-for-single-session">Designing for <code>single-session</code><a class="headerlink" href="#designing-for-single-session" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Duration</strong> · one sitting · <a href="../">All situations</a></p>
+</blockquote>
+<p>170 rows from 168 pages say what to change when the brief's duration is <code>single-session</code>; 33 of them cite a claim. Pages whose rows cite claims come first. Read the basis before relying on a row: many carry a claim to learners or settings it did not test, and say so.</p>
+<h2 id="ai-tutoring"><a href="../../patterns/ai-tutoring/">AI Tutoring</a><a class="headerlink" href="#ai-tutoring" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Short time: one session or a single lesson <em>(from the wording)</em></td>
+<td>A research-designed tutor can replace a lesson for an immediate outcome; do not extrapolate to a course</td>
+<td><a href="../../claims/ai-tutor-less-time-on-task/">AI tutor beat active learning in less time</a> [+M] (one lesson, immediate test)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="always-report-and-interpret-effect-sizes-alongside-p-values-for-primary-outcomes"><a href="../../principles/always-report-interpret-effect-sizes/">Always report and interpret effect sizes alongside p values for primary outcomes</a><a class="headerlink" href="#always-report-and-interpret-effect-sizes-alongside-p-values-for-primary-outcomes" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A small pilot of one course or class, or a single session only <em>(from the wording)</em></td>
+<td>Report the effect size, interval and minimum detectable effect; call a non-significant result inconclusive; plan the next test rather than a verdict</td>
+<td><a href="../../claims/cluster-randomized-quasi-experiment-powered-for-large-effects/">The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)</a> [+M] (pre-service teachers; carried to any small pilot)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="assessment-for-learning"><a href="../../principles/assessment-for-learning/">Assessment for Learning</a><a class="headerlink" href="#assessment-for-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The assessment is a one-off entry or placement test <em>(from the wording)</em></td>
+<td>Treat it as summative: tell learners beforehand what it covers and what it decides, and gather formative evidence elsewhere; a single sitting offers no revision step</td>
+<td><a href="../../claims/placement-perceived-one-shot-deal/">Students experience placement as a one-day isolated event with little advance information</a> [-W] (describes experience, no outcome measured)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="building-empathy"><a href="../../principles/building-empathy/">Building Empathy</a><a class="headerlink" href="#building-empathy" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session or a single exercise <em>(from the wording)</em></td>
+<td>Use one concrete account, a prompt to take the person's perspective, and a comparison of readings; do not promise lasting attitude change, and re-measure later if you can</td>
+<td><a href="../../claims/building-empathy-improves-intergroup-attitudes/">Building empathy improves intergroup attitudes</a> [~M] (a review of 418 experiments: most test light-touch interventions whose long-term impact is unclear)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cognitive-flexibility"><a href="../../principles/cognitive-flexibility/">Cognitive Flexibility</a><a class="headerlink" href="#cognitive-flexibility" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Duration <code>single-session</code></td>
+<td>Use two or three contrasting cases with a similarities prompt and the principle stated after; test on a new case the same day. If the course allows, revisit the cases later under a new theme.</td>
+<td><a href="../../claims/comparing-contrasting-cases-improves-learning/">Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge</a> [+M]: comparison helped in single experiments, more at immediate tests</td>
+</tr>
+</tbody>
+</table>
+<h2 id="coherence-principle"><a href="../../principles/coherence/">Coherence Principle</a><a class="headerlink" href="#coherence-principle" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session, or a fixed short time budget <em>(from the wording)</em></td>
+<td>Spend the minutes on the essential explanation and the brief's own check. Do not plan on cutting extras to save time: a combined revision made no reliable difference to time with the lesson</td>
+<td><a href="../../claims/coherence-principle-irrelevant-material-hurts-learning/">Coherence principle</a> [+S]; <a href="../../claims/revisions-no-effect-time-with-lesson/">Revisions made no reliable difference to time</a> [~M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="constructive-alignment"><a href="../../patterns/constructive-alignment/">Constructive Alignment</a><a class="headerlink" href="#constructive-alignment" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Large lecture class, one session at a time <em>(from the wording)</em></td>
+<td>Replace part of lecture with questions or problems answered in class that demand the outcome; use some at a higher level than the exam.</td>
+<td><a href="../../claims/active-learning-improves-exam-performance/">Active learning</a> [+M] (undergraduate STEM; held across class sizes); <a href="../../claims/hocs-clickers-improve-locs-exam-performance/">HOCS clickers</a> [~M]</td>
+</tr>
+<tr>
+<td>Only one session or unit can be changed <em>(from the wording)</em></td>
+<td>Audit the whole course, then align the one unit's outcome with an assessed item that exists; do not promise a course-level effect.</td>
+<td>Untested; from the earlier page ("a single aligned lesson inside a misaligned course changes little")</td>
+</tr>
+</tbody>
+</table>
+<h2 id="culturally-responsive-classroom-norms"><a href="../../principles/culturally-responsive-classroom-norms/">Culturally Responsive Classroom Norms</a><a class="headerlink" href="#culturally-responsive-classroom-norms" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>State the session's conventions at the start (how to answer, how to ask for help, what counts as working together); use written or paired answers before any public one; do not run a one-off identity or belonging exercise and expect a lasting change</td>
+<td>Belonging boundary: <a href="../../claims/belonging-interventions-improve-outcomes/">Belonging Interventions Improve Outcomes</a> [~M] (college entry). Rest untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="developing-your-cultural-awareness"><a href="../../principles/developing-your-cultural-awareness/">Developing Your Cultural Awareness</a><a class="headerlink" href="#developing-your-cultural-awareness" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (one workshop, one in-service hour) <em>(from the wording)</em></td>
+<td>Run the scenario step (20–30 minutes), one group comparison of readings (15 minutes), and one written decision change with a named follow-up check (10 minutes); arrange for a peer tally or data review a few weeks later, even by email. Do not claim lasting change from the session</td>
+<td><a href="../../claims/brief-intervention-empathic-discipline-cuts-suspensions/">Brief empathic-discipline exercise reduced suspensions</a> [~S] (one targeted belief about discipline, middle-school mathematics teachers; carried to other decisions, untested); otherwise untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="effective-classroom-management-plan-criteria"><a href="../../principles/effective-classroom-management-plan/">Effective Classroom Management Plan Criteria</a><a class="headerlink" href="#effective-classroom-management-plan-criteria" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (cover teacher, a one-off workshop, a guest) <em>(from the wording)</em></td>
+<td>Do not build a plan; state three expectations at the start, greet each learner, use the host's existing routines where you know them, redirect with the least intrusive move, and leave a short note on what happened for the regular teacher</td>
+<td><a href="../../claims/positive-greetings-at-the-door-improve-engagement/">Greetings at the door</a> [+M], carried to a single session it did not test; the rest untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="elaborative-reasoning"><a href="../../principles/elaborative-reasoning/">Elaborative Reasoning</a><a class="headerlink" href="#elaborative-reasoning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A fixed short time budget, or a single session only <em>(from the wording)</em></td>
+<td>Elaborate only the five to ten statements that matter most; plan about 20 minutes for 10 prompts with one modelled answer; do not claim retention from one session</td>
+<td><a href="../../claims/elaborative-interrogation-increases-difficulty-and-time-on-lesson/">Elaborative interrogation increased perceived difficulty and time spent with the lesson</a> [~M]; minutes are an untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="epistemic-cognition"><a href="../../principles/epistemic-cognition/">Epistemic Cognition</a><a class="headerlink" href="#epistemic-cognition" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session (e.g. a library visit) <em>(from the wording)</em></td>
+<td>Teach one move (leave the page and search what others say about the source) rather than a long checklist, and expect modest gains; schedule a follow-up task if at all possible.</td>
+<td><a href="../../claims/checklist-evaluation-ineffective-online/">Checklist-based evaluation</a> [~M]: one-session checklist and networked framework did not differ; gains modest</td>
+</tr>
+</tbody>
+</table>
+<h2 id="error-analysis"><a href="../../principles/error-analysis/">Error Analysis</a><a class="headerlink" href="#error-analysis" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code>: one lesson or less</td>
+<td>Use one comparison set per target misconception with explanation prompts and a short immediate check; do not expect the delayed effect to be shown.</td>
+<td><a href="../../claims/erroneous-examples-build-conceptual-knowledge/">erroneous examples</a> [+M] (brief session, immediate outcome)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="evaluating-sources"><a href="../../principles/evaluating-sources/">Evaluating Sources</a><a class="headerlink" href="#evaluating-sources" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session (a library visit, an orientation) <em>(from the wording)</em></td>
+<td>Teach one move (leave the page and search the source's name) and one practice round rather than a long checklist; tell the course teacher what to follow up</td>
+<td><a href="../../claims/checklist-evaluation-ineffective-online/">One-session checklist (CRAAP) instruction did no better than the alternatives it was compared with</a> [~M] (first-year business and nursing students; one session of either method, modest gains, no difference)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="formative-assessment"><a href="../../patterns/formative-assessment/">Formative Assessment</a><a class="headerlink" href="#formative-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A large lecture with a polling system, checking several times within one session <em>(from the wording)</em></td>
+<td>Interrupt the lecture with multiple-choice questions, show the class's response distribution, and follow it at once with a related question or a discussion; decide the number of checks locally and record what changed after each</td>
+<td><a href="../../claims/wireless-keypads-convert-passive-audience-to-active-learners/">Wireless keypads convert a passive audience to active learners</a> [+W] (the authors' account of their own lectures, no comparison); the frequency is an untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="functional-behavior-assessment"><a href="../../principles/functional-behavior-assessment/">Functional Behavior Assessment</a><a class="headerlink" href="#functional-behavior-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session (a cover teacher, a one-off workshop) <em>(from the wording)</em></td>
+<td>Do not attempt an assessment; use antecedent defaults: greet each learner by name at the door, give instructions one step at a time, show a way to ask for help or take a short break, and pass a note on what happened to the regular teacher</td>
+<td><a href="../../claims/positive-greetings-at-the-door-improve-engagement/">Greetings at the door</a> [+M] (middle-school classes, carried to a single session it did not test); the rest untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="game-based-learning"><a href="../../principles/game-based-learning/">Game-based Learning</a><a class="headerlink" href="#game-based-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a <code>single-session</code></td>
+<td>Use one short game round, a worked example, a second round and a debrief; do not expect a gain over non-game teaching; if <code>days-weeks</code> are available, spread play over several sessions rather than lengthening one</td>
+<td><a href="../../claims/multiple-sessions-benefit-single-session-null/">Sessions</a> [+M] (single-session games g = 0.08, not different from non-game conditions; total minutes unrelated to effect); the single-session plan itself is an untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="modeling"><a href="../../principles/modeling/">Modeling</a><a class="headerlink" href="#modeling" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Model one item fully with narration, then a partial model the learners finish, then one unaided item; record what the unaided item shows and do not claim retention</td>
+<td><a href="../../claims/worked-examples-with-practice-improve-transfer/">Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer</a> [+M] (example-first beat problem-first in one short troubleshooting task, immediate test)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="physical-activity"><a href="../../principles/physical-activity/">Physical Activity</a><a class="headerlink" href="#physical-activity" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>One bout of about 5 minutes vigorous (or a 10-minute active segment) at the point the group first drifts, with the next task named; observe on-task behavior in the 10 minutes after; claim nothing about learning</td>
+<td>Dose: <a href="../../claims/classroom-physical-activity-improves-attention/">Classroom physical activity…</a> [+S] (children). Single-session framing: untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="practice-with-simulated-people"><a href="../../patterns/practice-with-simulated-people/">Practice with Simulated People</a><a class="headerlink" href="#practice-with-simulated-people" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is short (one session) <em>(from the wording)</em></td>
+<td>Run at least one baseline encounter, feedback and debrief, and a repeat; tell learners the gain on the repeat will be larger than on a new scenario</td>
+<td><a href="../../claims/mpathic-vr-repeat-runthrough-improvement/">Large first-to-second run-through improvement</a> [+M]; <a href="../../claims/task-repetition-fluency-complexity-same-task-only/">repetition did not transfer to a new task</a> [~M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pretesting-prequestions-before-study"><a href="../../principles/pretesting/">Pretesting (Prequestions Before Study)</a><a class="headerlink" href="#pretesting-prequestions-before-study" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session <em>(from the wording)</em></td>
+<td>Pretest, study, done; expect the effect on a later test of the same content, not a lasting course effect</td>
+<td><a href="../../claims/pretesting-enhances-learning/">Pre-instruction testing enhances memory for directly tested text content</a> [+M] (immediate and one-week posttests)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="professional-development"><a href="../../patterns/professional-development/">Professional Development</a><a class="headerlink" href="#professional-development" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only a single session is available (an inset day, a one-off workshop) <em>(from the wording)</em></td>
+<td>Use it to model and rehearse one narrow practice and to set up a follow-up the school can run without the presenter: one peer observation with a look-for list within two weeks and one team meeting to review the clips. Do not promise changed practice from the session alone.</td>
+<td><a href="../../claims/expert-presenter-model-most-prevalent/">Half of inservice activities lasted four hours or less, mostly talks or brief workshops</a> [~W] (prevalence, not effect); <a href="../../claims/systemic-approach-in-service-teacher-education/">short, fragmented training is reported to hinder a holistic view</a> [-W]; the follow-up is untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="redundancy-principle"><a href="../../principles/redundancy/">Redundancy Principle</a><a class="headerlink" href="#redundancy-principle" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session <em>(from the wording)</em></td>
+<td>Apply steps 2–5 of the default; skip the across-session withdrawal of text</td>
+<td><a href="../../claims/redundancy-principle-mayer-2008/">Redundancy principle (Mayer 2008)</a> [+M]; the rest is the default above</td>
+</tr>
+</tbody>
+</table>
+<h2 id="reflection"><a href="../../principles/reflection/">Reflection</a><a class="headerlink" href="#reflection" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time available: one session (<code>single-session</code>) or a <code>term-plus</code> course</td>
+<td>One session: one reflection of three prompts, about five minutes, at the end, ending in one change to try; no portfolio. A term: reflect after each comparable performance, keep the same criterion, and compare across attempts at least once.</td>
+<td>single session untested, from the earlier page; intervention duration is a moderator in <a href="../../claims/reflective-practice-evidence-mixed-in-professional-education/">reflection interventions</a> [~M], direction not stated on the claim page</td>
+</tr>
+</tbody>
+</table>
+<h2 id="segmenting-principle"><a href="../../principles/segmenting/">Segmenting Principle</a><a class="headerlink" href="#segmenting-principle" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Segment within the session and budget extra minutes for the segmented version</td>
+<td><a href="../../claims/segmenting-increases-learning-time/">Segmentation increases learning time</a> [~M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="self-affirmation"><a href="../../principles/self-affirmation/">Self Affirmation</a><a class="headerlink" href="#self-affirmation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (one workshop, one exam day) <em>(from the wording)</em></td>
+<td>Place it immediately before the evaluation in that session (10 minutes), and claim no lasting effect</td>
+<td><a href="../../claims/self-affirmation-improves-outcomes/">self-affirmation claim</a> [~S] and <a href="../../claims/expressive-writing-improves-exam-performance/">Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible</a> [~S]: one-off writing exercises have small and fragile effects on performance</td>
+</tr>
+</tbody>
+</table>
+<h2 id="social-emotional-learning"><a href="../../patterns/social-emotional-learning/">Social Emotional Learning</a><a class="headerlink" href="#social-emotional-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session, assembly or workshop only <em>(from the wording)</em></td>
+<td>Do not promise durable change. Teach one skill and leave a routine (a check-in card, a breathing step) the teacher will run daily; or spend the session on the adults' discipline mindset instead.</td>
+<td><a href="../../claims/building-empathy-improves-intergroup-attitudes/">Empathy-building claim</a> [~M]: most prejudice-reduction studies test light-touch interventions with unclear long-term effects; <a href="../../claims/brief-intervention-empathic-discipline-cuts-suspensions/">empathic discipline</a> [+M]: a brief teacher exercise reduced suspensions for high-risk groups, with a marginal overall effect in the preregistered replication</td>
+</tr>
+</tbody>
+</table>
+<h2 id="spaced-learning"><a href="../../principles/spaced-learning/">Spaced Learning</a><a class="headerlink" href="#spaced-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single workshop or one-off session <em>(from the wording)</em></td>
+<td>Add at least one later review: short spaced quizzes after the session, spread over days and weeks rather than given together. A credit workshop followed by spaced quizzes retained more at about five months than massed quizzes or none, and massed quizzes did not differ detectably from none</td>
+<td><a href="../../claims/spaced-beats-massed-and-control-financial-knowledge/">Spaced retrieval after a financial workshop improved retention at five months</a> [+M]; <a href="../../claims/spaced-beats-massed-and-control-financial-knowledge/">Spaced beat massed retrieval and no practice</a> [+M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="strengths-based-approach"><a href="../../principles/strengths-based-approach/">Strengths-based Approach</a><a class="headerlink" href="#strengths-based-approach" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Give one low-stakes task, then one piece of specific feedback naming what worked and a next target; do not run a mindset or encouragement talk in place of it, and claim nothing about lasting change</td>
+<td><a href="../../claims/growth-mindset-improves-achievement/">Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial</a> [~S] (a brief online intervention moved ninth graders' GPA by a negligible amount; meta-analyses weak overall); carried from mindset messages to strengths framing</td>
+</tr>
+</tbody>
+</table>
+<h2 id="transfer-of-learning"><a href="../../principles/transfer-of-learning/">Transfer of Learning</a><a class="headerlink" href="#transfer-of-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Teach two cases side by side, prompt the comparison, state the principle, and end with one near-transfer item; do not claim far or delayed transfer</td>
+<td><a href="../../claims/comparing-contrasting-cases-improves-learning/">Analogical Reasoning Improves Transfer</a> [+S] (immediate tests favoured in the meta-analysis)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="wise-feedback-across-racial-and-ethnic-difference"><a href="../../principles/wise-feedback-across-difference/">Wise Feedback Across Racial and Ethnic Difference</a><a class="headerlink" href="#wise-feedback-across-racial-and-ethnic-difference" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (one workshop, one assessed piece, a one-off review) <em>(from the wording)</em></td>
+<td>Consistency cannot build; make the assurance concrete by pointing to evidence in the work, and give one revision in the session; claim no lasting effect</td>
+<td><a href="../../claims/self-affirmation-improves-outcomes/">A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect</a> [~M] and <a href="../../claims/growth-mindset-improves-achievement/">Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial</a> [~M]: one-off identity-targeted messages are fragile</td>
+</tr>
+</tbody>
+</table>
+<h2 id="worked-examples"><a href="../../patterns/worked-examples/">Worked Examples</a><a class="headerlink" href="#worked-examples" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One lesson with room for about four pairs <em>(from the wording)</em></td>
+<td>Sequence example → problem in each pair, never problem → example</td>
+<td><a href="../../claims/worked-example-problem-sequences/">Example-first beat problem-first on an immediate test</a> [+M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="workshop-model"><a href="../../patterns/workshop-model/">Workshop Model</a><a class="headerlink" href="#workshop-model" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a one-off workshop) <em>(from the wording)</em></td>
+<td>One product, revised once: 10-minute model, 20-minute draft, 10-minute partner or group share, 10-minute revision against one criterion, 5-minute whole-group share.</td>
+<td><a href="../../claims/shareback-inflection-point-engagement/">A shareback of newly made work</a> [+W] (adult workshops, one practitioner's observation); the timings are untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="adopt-humanistic-and-radical-approaches-so-adult-learners-develop-as-individuals-and-can-question-social-injustice"><a href="../../principles/humanistic-radical-adult-education/">Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice</a><a class="headerlink" href="#adopt-humanistic-and-radical-approaches-so-adult-learners-develop-as-individuals-and-can-question-social-injustice" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only <em>(from the wording)</em></td>
+<td>One 90-minute session: 10 minutes own experience, 25 minutes one source, 35 minutes discussion with every view answered, 10 minutes private written stance, 10 minutes on whether anyone wants to act and how; claim no change in critical reflection</td>
+<td>untested proposal; the recorded studies ran for months</td>
+</tr>
+</tbody>
+</table>
+<h2 id="anchored-instruction"><a href="../../patterns/anchored-instruction/">Anchored Instruction</a><a class="headerlink" href="#anchored-instruction" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session is available <em>(from the wording)</em></td>
+<td>Use one short anchor, connect it explicitly to the concept within the session, and end with one individual item on a new situation</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="annotating"><a href="../../principles/annotating/">Annotating</a><a class="headerlink" href="#annotating" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session <em>(from the wording)</em></td>
+<td>Give one reading purpose, have learners mark and annotate a short passage, then use the marks at once (pairs compare and answer two questions); do not promise lasting gains</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ask-experts"><a href="../../principles/ask-experts/">Ask Experts</a><a class="headerlink" href="#ask-experts" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only (a guest visit, a site visit) <em>(from the wording)</em></td>
+<td>Collect learners' questions beforehand and send them to the expert; spend the session on the expert's reasoning about two or three of them; set a follow-up task within a week that applies one point, reviewed by the course teacher; do not claim lasting change</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="authentic-assessment"><a href="../../patterns/authentic-assessment/">Authentic Assessment</a><a class="headerlink" href="#authentic-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Short time (one or two weeks, or a single session) <em>(from the wording)</em></td>
+<td>Shrink the task to one realistic decision or product, give one feedback point before submission, and drop the public exhibition.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="balanced-pronunciation-curriculum-covering-suprasegmentals-segmentals-and-fluency-with-a-short-list-of-central-features-selected-by-diagnosis"><a href="../../patterns/balanced-pronunciation-curriculum-three-areas/">Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis</a><a class="headerlink" href="#balanced-pronunciation-curriculum-covering-suprasegmentals-segmentals-and-fluency-with-a-short-list-of-central-features-selected-by-diagnosis" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Do not attempt the three-area arc. Record one spontaneous sample, give each learner one or two features that most disrupt understanding with a model and a self-practice routine, and arrange a later recording if possible.</td>
+<td>Untested; short ASR programmes pooled to a negligible effect (<a href="../../claims/asr-guided-practice-improves-overall-pronunciation-accuracy/">guided ASR practice</a> [~S])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="blended-learning"><a href="../../patterns/blended-learning/">Blended Learning</a><a class="headerlink" href="#blended-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session, or a few days <em>(from the wording)</em></td>
+<td>Use a single online preparation task before the session and a short online follow-up; the course-level split does not apply.</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="build-productive-instructor-learner-relationships-so-adults-feel-connected-and-take-an-active-role-in-learning"><a href="../../principles/productive-instructor-learner-relationships/">Build productive instructor-learner relationships so adults feel connected and take an active role in learning</a><a class="headerlink" href="#build-productive-instructor-learner-relationships-so-adults-feel-connected-and-take-an-active-role-in-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a workshop, a one-off training) <em>(from the wording)</em></td>
+<td>Spend about 5 of the first 15 minutes on names, why each person came, and the working terms; take participation in pairs before the whole group; make no promise of follow-up you will not keep</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="bullying-prevention-and-intervention"><a href="../../principles/bullying-prevention-and-intervention/">Bullying Prevention and Intervention</a><a class="headerlink" href="#bullying-prevention-and-intervention" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session or a fixed short slot (for example 45 minutes) <em>(from the wording)</em></td>
+<td>Do not call it a programme or expect less bullying: 10 minutes on the definition and roles, 20 minutes rehearsing two defending moves in one scenario, 10 minutes on how and where to report, 5 minutes for anonymous questions</td>
+<td>untested proposal; the controlled evidence comes from two- to four-year schoolwide programmes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="character-education"><a href="../../principles/character-education/">Character Education</a><a class="headerlink" href="#character-education" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a single session or a short unit only <em>(from the wording)</em></td>
+<td>Do not call it character education; use one real problem from the learners' own setting, one decision, and one reflection, and record it as a single activity</td>
+<td>untested proposal; the programmes reviewed ran for a year or more</td>
+</tr>
+</tbody>
+</table>
+<h2 id="classroom-space-and-procedural-design"><a href="../../principles/classroom-space-and-procedural-design/">Classroom Space and Procedural Design</a><a class="headerlink" href="#classroom-space-and-procedural-design" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a cover lesson, a one-off workshop) <em>(from the wording)</em></td>
+<td>Do not build a system: arrange seats for the main activity before learners arrive, state three expectations and one attention signal, have every material ready so there is no gap, and use the host's routines where you know them</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cognitive-activation"><a href="../../principles/cognitive-activation/">Cognitive Activation</a><a class="headerlink" href="#cognitive-activation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only (<code>single-session</code>)</td>
+<td>One relation, one activating task, one probe at the end; leave comparison of methods and justification for later. In a unit (<code>days-weeks</code>), sequence example, then prompts, then comparison, then justification, with a delayed probe.</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cognitive-styles"><a href="../../principles/cognitive-styles/">Cognitive Styles</a><a class="headerlink" href="#cognitive-styles" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Give every learner the structure or check the task needs, model it once (5 minutes), and leave it in place; do not try to change a habit or claim it changed</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="collaborative-evaluation"><a href="../../patterns/collaborative-evaluation/">Collaborative Evaluation</a><a class="headerlink" href="#collaborative-evaluation" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code>, no follow-up</td>
+<td>One round: two anchors of known quality, alone judgment, reveal and compare, reference, then one new object judged alone. Do not attempt co-constructed criteria.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="combine-intentional-and-incidental-vocabulary-learning-rather-than-relying-on-incidental-learning-alone"><a href="../../principles/combine-intentional-and-incidental-vocabulary-learning/">Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone</a><a class="headerlink" href="#combine-intentional-and-incidental-vocabulary-learning-rather-than-relying-on-incidental-learning-alone" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short time budget (for example 30 minutes) <em>(from the wording)</em></td>
+<td>5 minutes pre-teaching 3 words, 15 minutes reading a short glossed text where they recur, 5 minutes keeping 3 words with their sentences, 5 minutes using them; give the words on a card for later review; do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="community-based-learning"><a href="../../principles/community-based-learning/">Community-Based Learning</a><a class="headerlink" href="#community-based-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The service is a one-off visit or a few hours <em>(from the wording)</em></td>
+<td>Treat it as exposure, not as the relationship the page describes; add structured reflection tied to concepts</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="compensate-for-age-related-sensory-impairments-by-combining-audio-input-with-visual-presentation"><a href="../../principles/combine-audio-visual-compensate-sensory-loss/">Compensate for age-related sensory impairments by combining audio input with visual presentation</a><a class="headerlink" href="#compensate-for-age-related-sensory-impairments-by-combining-audio-input-with-visual-presentation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a talk, a one-off workshop) <em>(from the wording)</em></td>
+<td>Do the room fixes and written support from the start, with no fading; hand out the full text at the end; ask once, to the whole group, whether everyone can hear and see</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="concept-attainment"><a href="../../patterns/concept-attainment/">Concept Attainment</a><a class="headerlink" href="#concept-attainment" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> and many concepts in the unit</td>
+<td>Use concept attainment for the one or two concepts learners most often confuse; teach the rest definition-first with examples and non-examples.</td>
+<td>Untested; from the earlier page</td>
+</tr>
+</tbody>
+</table>
+<h2 id="concreteness-fading"><a href="../../principles/concreteness-fading/">Concreteness Fading</a><a class="headerlink" href="#concreteness-fading" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session <em>(from the wording)</em></td>
+<td>Run all three stages in one session at about 10 minutes each, and end on two items in notation</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="considering-the-opposite"><a href="../../principles/considering-the-opposite/">Considering The Opposite</a><a class="headerlink" href="#considering-the-opposite" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short time budget (say 10 minutes) <em>(from the wording)</em></td>
+<td>One judgment: 2 minutes to commit with a confidence rating, 4 minutes for the opposite case, 2 minutes to see the evidence and decide again, 2 minutes on what changed; claim nothing about a habit</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="contiguity-principle-spatial-and-temporal"><a href="../../principles/contiguity/">Contiguity Principle (Spatial and Temporal)</a><a class="headerlink" href="#contiguity-principle-spatial-and-temporal" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session, or a fixed short time budget <em>(from the wording)</em></td>
+<td>Integrate the existing materials; it moves words rather than adding them, so it costs no learner time</td>
+<td>untested proposal; the effects are on <a href="../../claims/integration-of-related-elements-large-mean-effect/">immediate tests of short lessons</a> [+M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cooperative-learning"><a href="../../principles/cooperative-learning/">Cooperative Learning</a><a class="headerlink" href="#cooperative-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only <em>(from the wording)</em></td>
+<td>Use a brief structure with individual answers before and after the group step; do not expect the multi-week effect</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="criterion-and-norm-referenced-testing"><a href="../../principles/criterion-and-norm-referenced-testing/">Criterion- and Norm-Referenced Testing</a><a class="headerlink" href="#criterion-and-norm-referenced-testing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only a single session is available (a one-off placement) <em>(from the wording)</em></td>
+<td>Use a criterion-referenced placement check on the entry skills, 20 to 30 minutes; treat near-cut results as provisional and re-check in the first week of teaching</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cultural-life-experiences-connections"><a href="../../principles/cultural-life-experiences-connections/">Cultural &amp; Life Experiences Connections</a><a class="headerlink" href="#cultural-life-experiences-connections" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Use one private prompt for a learner-supplied context and one explanation prompt; record what learners offer and claim nothing about lasting change</td>
+<td>untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="debriefing"><a href="../../principles/debriefing/">Debriefing</a><a class="headerlink" href="#debriefing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only (<code>single-session</code>)</td>
+<td>One short experience, a debrief of at least equal length, then a two-minute retry of the key moment with the change; do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="deliberate-practice"><a href="../../principles/deliberate-practice/">Deliberate Practice</a><a class="headerlink" href="#deliberate-practice" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>One component, three rounds of three to five attempts, then a scored whole-task attempt; report the change against the baseline as immediate only, not as retained</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="design-tools-so-productive-usage-is-guaranteed-by-affordances-and-constraints-rather-than-instructions"><a href="../../principles/productive-usage-guaranteed-by-design/">Design tools so productive usage is guaranteed by affordances and constraints rather than instructions</a><a class="headerlink" href="#design-tools-so-productive-usage-is-guaranteed-by-affordances-and-constraints-rather-than-instructions" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only <em>(from the wording)</em></td>
+<td>10 to 15 minutes of exploration with the constrained tool, a 15 to 20 minute challenge, a 5 minute unaided item; claim nothing about retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="develop-understanding"><a href="../../patterns/develop-understanding/">Develop Understanding</a><a class="headerlink" href="#develop-understanding" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only</td>
+<td>Run the five steps once, keep step 5 to one comparison, and record that understanding at a delay was not checked.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="disciplinary-literacy"><a href="../../principles/disciplinary-literacy/">Disciplinary Literacy</a><a class="headerlink" href="#disciplinary-literacy" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only <em>(from the wording)</em></td>
+<td>Model one practice on one short text (15 min), set an expert and a novice reading side by side (10 min), guided practice on one new text (20 min), one unaided question with a quotation (5 min); do not claim a lasting gain</td>
+<td>untested proposal; the tested curricula ran a semester or more</td>
+</tr>
+</tbody>
+</table>
+<h2 id="discussing-race"><a href="../../principles/discussing-race/">Discussing Race</a><a class="headerlink" href="#discussing-race" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Use one shared object, private written entry, pairs, a short whole-group discussion and a private debrief; do not ask for personal disclosure; name what will not be resolved today and where learners can go next</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="distributed-cognition"><a href="../../principles/distributed-cognition/">Distributed Cognition</a><a class="headerlink" href="#distributed-cognition" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Use a laid-out representation and assigned roles throughout; spend the last 10 minutes on one unaided item per learner; report the session's result as performance with aids and one unaided check, not as learning that lasts</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="educational-readiness"><a href="../../principles/educational-readiness/">Educational Readiness</a><a class="headerlink" href="#educational-readiness" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a one-off workshop, a short course start) <em>(from the wording)</em></td>
+<td>Spend the first 5 to 10 minutes on two or three prerequisite questions answered by everyone at once (cards, a poll); adjust the session's starting example to the answers; claim nothing about later readiness</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="educators-should-act-as-mediators-and-facilitators-of-learning-rather-than-content-disseminators"><a href="../../principles/teacher-as-mediator-not-content-disseminator/">Educators should act as mediators and facilitators of learning rather than content disseminators</a><a class="headerlink" href="#educators-should-act-as-mediators-and-facilitators-of-learning-rather-than-content-disseminators" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only <em>(from the wording)</em></td>
+<td>Run the six steps in one session (goal 5, explanation 10, task 20, expression 10, transfer 5 minutes); record what learners could explain at the end and do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="elaboration-theory"><a href="../../patterns/elaboration-theory/">Elaboration Theory</a><a class="headerlink" href="#elaboration-theory" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session (<code>single-session</code>) rather than a unit or course</td>
+<td>Present the epitome and one level of elaboration only, end with one synthesis task and one application task; leave further levels for later sessions rather than compressing them.</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="emergent-curriculum"><a href="../../patterns/emergent-curriculum/">Emergent Curriculum</a><a class="headerlink" href="#emergent-curriculum" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short time budget (for example 45 minutes) <em>(from the wording)</em></td>
+<td>Do not run an emergent curriculum; use the moves inside the plan: 5 minutes to collect questions about the entry point, 30 minutes on the activity with the class's chosen question as its focus, 10 minutes to share what was found and record questions for later.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="employ-flexible-error-treatment-strategies-matched-to-objectives-competence-affect-and-correction-effectiveness"><a href="../../principles/flexible-error-treatment-strategies/">Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness</a><a class="headerlink" href="#employ-flexible-error-treatment-strategies-matched-to-objectives-competence-affect-and-correction-effectiveness" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only <em>(from the wording)</em></td>
+<td>Pick one or two forms; correct only those, in a five-minute slot at the end; record what was corrected and do not claim lasting change</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="engagement"><a href="../../principles/engagement/">Engagement</a><a class="headerlink" href="#engagement" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session, or a one-off workshop <em>(from the wording)</em></td>
+<td>Use the reason-for-task and a constructive task; do not claim durable engagement; record one learning probe</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="epistemic-games"><a href="../../patterns/epistemic-games/">Epistemic Games</a><a class="headerlink" href="#epistemic-games" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only (one workshop)</td>
+<td>Drop the full game: one case, one role, a modelled decision, one learner decision with feedback, and a 15-minute debrief on the frame. Do not expect a change in identity from one session.</td>
+<td>Untested proposal; <a href="../../principles/communities-of-practice/">Communities of Practice</a> notes norms take a term to form</td>
+</tr>
+</tbody>
+</table>
+<h2 id="evidence-based-teaching-and-scientific-reasoning"><a href="../../principles/evidence-based-teaching-and-scientific-reasoning/">Evidence-Based Teaching and Scientific Reasoning</a><a class="headerlink" href="#evidence-based-teaching-and-scientific-reasoning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (one meeting or one in-service day) <em>(from the wording)</em></td>
+<td>If the brief sets its own end-of-session assessment, schedule it first (step 11); otherwise do steps 1–5 in 45 minutes on one live decision; end with a decision to trial, not to adopt; schedule the review of the trial</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="expanding-social-networks"><a href="../../principles/expanding-social-networks/">Expanding Social Networks</a><a class="headerlink" href="#expanding-social-networks" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Make one introduction per learner to a named person or organisation that fits their goal, exchange contact details on the spot, and set one follow-up step with a date; do not claim a network was built</td>
+<td>untested proposal; <a href="../../claims/core-to-college-interactions-primarily-information-sharing/">Core to College network interactions were primarily information sharing and making connections between K–12 and higher education</a> [~M] (contact without deeper collaboration)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="experience-with-languaging-activities-elas-guided-by-a-sequence-of-experience-based-questions"><a href="../../patterns/experience-with-languaging-activities/">Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions</a><a class="headerlink" href="#experience-with-languaging-activities-elas-guided-by-a-sequence-of-experience-based-questions" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only</td>
+<td>Run one cycle on one experience; end with each learner's step 5 question written on an exit card and answered in a short follow-up message or handout.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="experiential-learning"><a href="../../principles/experiential-learning/">Experiential Learning</a><a class="headerlink" href="#experiential-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session (<code>single-session</code>)</td>
+<td>Run one complete loop (brief experience, prompted debrief, named rule, one retry) rather than a long experience with no debrief; cut loops, not stages</td>
+<td>untested proposal, from the experiential-learning-cycle pattern</td>
+</tr>
+</tbody>
+</table>
+<h2 id="experiential-learning-cycle"><a href="../../patterns/experiential-learning-cycle/">Experiential Learning Cycle</a><a class="headerlink" href="#experiential-learning-cycle" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code></td>
+<td>One complete loop: a 15-minute experience, a 10-minute written debrief, a stated rule, one changed attempt; no second loop.</td>
+<td>Untested; from the earlier page's compressed-timeframe guidance</td>
+</tr>
+</tbody>
+</table>
+<h2 id="explicit-instruction-computer-basics"><a href="../../principles/explicit-instruction-computer-basics/">Explicit Instruction: Computer Basics</a><a class="headerlink" href="#explicit-instruction-computer-basics" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a single session only (a drop-in clinic, one workshop) <em>(from the wording)</em></td>
+<td>Plan one routine from the learner's own task: about 5 minutes finding where they stop, 5 minutes demonstration, 20 minutes guided and then unaided run-throughs, 5 minutes writing the step card. Do not add a second routine; record what the learner did unaided at the end and do not claim it will last</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="explicit-instruction-internet-search"><a href="../../principles/explicit-instruction-internet-search/">Explicit Instruction: Internet Search</a><a class="headerlink" href="#explicit-instruction-internet-search" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a library visit, an orientation) <em>(from the wording)</em></td>
+<td>Model one search including a failed one and its repair, then one logged practice search on the learners' own assignment question; give the course teacher the planning sheet to reuse</td>
+<td>Untested; the one-session evidence in <a href="../../claims/checklist-evaluation-ineffective-online/">One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments</a> [~M] is for source evaluation, where one session of either method gave modest gains</td>
+</tr>
+</tbody>
+</table>
+<h2 id="explicit-instruction-math-strategies"><a href="../../principles/explicit-instruction-math-strategies/">Explicit Instruction: Math Strategies</a><a class="headerlink" href="#explicit-instruction-math-strategies" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Check the concept on one real item (5 min), model one strategy with its reason (10 min), one side-by-side comparison, using an observed error if there is one (10 min), one unaided item from the work with a stated reason (5 min); do not claim flexibility or retention</td>
+<td>untested proposal; a three-week unit showed no significant gain in one class (<a href="../../claims/explicit-strategy-instruction-no-significant-gain/">Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="explicit-instruction-online-reading-strategies"><a href="../../principles/explicit-instruction-online-reading-strategies/">Explicit Instruction: Online Reading Strategies</a><a class="headerlink" href="#explicit-instruction-online-reading-strategies" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>45 minutes: goal and questions 3, think-aloud 8, guided practice on a curated set of four pages 22, synthesis 6, debrief on one drift 5, and one unaided question 1–2; record what it shows and claim no lasting change</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="explicit-instruction-vocabulary"><a href="../../principles/explicit-instruction-vocabulary/">Explicit Instruction: Vocabulary</a><a class="headerlink" href="#explicit-instruction-vocabulary" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short time budget (for example 20 minutes) <em>(from the wording)</em></td>
+<td>Teach 3 words, not more: 6–8 minutes introducing them, 8–10 minutes reading or doing a task that uses them, 3–4 minutes of use in the learner's own sentence; give a take-away card for later review; do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="feedback-loops"><a href="../../principles/feedback-loops/">Feedback Loops</a><a class="headerlink" href="#feedback-loops" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only <em>(from the wording)</em></td>
+<td>Run at least two complete cycles inside the session and end with one unaided new item; report what that item shows and claim no retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="flexible-grouping"><a href="../../principles/flexible-grouping/">Flexible Grouping</a><a class="headerlink" href="#flexible-grouping" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only <em>(from the wording)</em></td>
+<td>No regrouping cycle is possible: run a two-minute opening check, one similar-need group with the teacher for 15 minutes while others work in mixed pairs, and an individual exit item; do not claim regrouping effects</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="flipped-learning"><a href="../../principles/flipped-learning/">Flipped Learning</a><a class="headerlink" href="#flipped-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session, with no time before it <em>(from the wording)</em></td>
+<td>Do not flip; give 10 minutes of exposition in the session, then application with feedback and an exit item</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>The brief fixes its own session structure (two short sessions a week, a retrieval check before class, a simulation in one session) <em>(from the wording)</em></td>
+<td>Keep that structure: put the pre-class check where the brief puts it and give the application or simulation the session the brief names; change only the pre-class dose, what the opening minutes check, and how peers support each other when facilitator cover is thin</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="fostering-communities-of-learning-fcl"><a href="../../patterns/fostering-communities-of-learning-fcl/">Fostering Communities of Learning (FCL)</a><a class="headerlink" href="#fostering-communities-of-learning-fcl" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only</td>
+<td>Do not attempt the full pattern. Run one jigsaw on pre-read material with a teaching protocol and an individual check on every part; leave reciprocal-teaching handover out.</td>
+<td>Untested; reciprocal teaching's claim page says the routine needs sustained practice over multiple sessions</td>
+</tr>
+</tbody>
+</table>
+<h2 id="fostering-creative-thinking"><a href="../../principles/fostering-creative-thinking/">Fostering Creative Thinking</a><a class="headerlink" href="#fostering-creative-thinking" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>5 minutes content reminder, 6–8 minutes silent generation, 3 minutes sharing, 10 minutes converging on one idea and improving it once; report idea counts and the improved idea, not a gain in "creativity"</td>
+<td>untested proposal; the program evidence here ran three weeks (<a href="../../claims/short-term-interventions-change-creativity/">Short-term creativity interventions can be effective</a> [+W])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="free-choice-learning-environment-design"><a href="../../principles/free-choice-learning-environment-design/">Free-Choice Learning Environment Design</a><a class="headerlink" href="#free-choice-learning-environment-design" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only <em>(from the wording)</em></td>
+<td>One exhibit or challenge, a guided first loop then open building, and a one-minute look back; record dwell time and what learners could explain; do not claim lasting interest</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="game-based-mastery-learning"><a href="../../patterns/game-based-mastery-learning/">Game-Based Mastery Learning</a><a class="headerlink" href="#game-based-mastery-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a <code>single-session</code></td>
+<td>Do not build levels, streaks or a points economy; one short lesson with feedback and retry of missed items, one check at the end; claim nothing about persistence</td>
+<td>Untested; no claim here tests a single session</td>
+</tr>
+</tbody>
+</table>
+<h2 id="gamification"><a href="../../principles/gamification/">Gamification</a><a class="headerlink" href="#gamification" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a <code>single-session</code></td>
+<td>Do not build a points economy; at most one team quiz round with feedback after each question and a short debrief; do not claim a motivational effect</td>
+<td>untested; no claim here tests a single gamified session</td>
+</tr>
+</tbody>
+</table>
+<h2 id="goal-setting-monitoring"><a href="../../principles/goal-setting-monitoring/">Goal Setting &amp; Monitoring</a><a class="headerlink" href="#goal-setting-monitoring" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time available is one session <em>(from the wording)</em></td>
+<td>Set one proximal goal for the session and one check at its end; skip multi-week goal sheets</td>
+<td>untested proposal; proximal goals evidence is <a href="../../claims/proximal-goals-feedback-peer-models-build-learning-efficacy/">second-hand</a> [+W]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="graphic-organizers"><a href="../../principles/graphic-organizers/">Graphic Organizers</a><a class="headerlink" href="#graphic-organizers" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Provide one organizer with the material, one completion task and one explanation prompt; do not ask for construction from scratch; record what an unaided check shows and do not claim retention</td>
+<td>untested proposal; construction costs time and load (<a href="../../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive/">Placing heavier cognitive demands on learners can be counterproductive in mapping tasks</a> [~W])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="guided-practice"><a href="../../principles/guided-practice/">Guided Practice</a><a class="headerlink" href="#guided-practice" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Plan the session as model, three or four guided items, one unaided check; record what the check shows and do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="harmonize-opposites-strike-a-balance-between-competing-educational-ideas-rather-than-embracing-one-method-wholesale"><a href="../../principles/harmonize-opposites-in-educational-change/">Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale</a><a class="headerlink" href="#harmonize-opposites-strike-a-balance-between-competing-educational-ideas-rather-than-embracing-one-method-wholesale" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short time (say 45 minutes) <em>(from the wording)</em></td>
+<td>One component per method: about 15 minutes of the knowledge segment, 25 of application, 5 of a two-item check per component; do not claim the balance worked from one session</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="holistic-learning"><a href="../../principles/holistic-learning/">Holistic Learning</a><a class="headerlink" href="#holistic-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Give the whole and one part only; end with one placement and one integrative task; do not compress later parts into the same session or claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="include-parents-teachers-or-mentors-in-any-self-regulation-intervention-and-support-their-own-skills-and-coaching-capacity"><a href="../../principles/include-caregivers-as-self-regulation-coaches/">Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity</a><a class="headerlink" href="#include-parents-teachers-or-mentors-in-any-self-regulation-intervention-and-support-their-own-skills-and-coaching-capacity" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Spend it on the adults, not only the youth: one own-regulation routine and one co-regulation move, rehearsed; leave a cue card both sides share; do not promise lasting change</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="instructor-accessibility"><a href="../../principles/instructor-accessibility/">Instructor Accessibility</a><a class="headerlink" href="#instructor-accessibility" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a workshop, a one-off training) <em>(from the wording)</em></td>
+<td>State before the end how learners can reach you afterwards, for how long and for what (a two-week reply window by email, say), and collect one question from each learner before they leave</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="interleaving"><a href="../../principles/interleaving/">Interleaving</a><a class="headerlink" href="#interleaving" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Introduce the kinds, then one mixed set and one mixed check at the end; do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="journaling"><a href="../../principles/journaling/">Journaling</a><a class="headerlink" href="#journaling" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only <em>(from the wording)</em></td>
+<td>Do not set up a journal. Use one end-of-session reflection of three prompts (see <a href="../../principles/reflection/">Reflection</a>), ending in one change to try.</td>
+<td>untested proposal; the gains above come from term-long programmes (<a href="../../claims/writing-to-learn-improves-understanding/">Writing To Learn Improves Understanding</a> [+M], larger with longer treatment)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="keep-the-learner-in-control-of-the-information-flow-with-on-demand-tools-and-supports"><a href="../../principles/learner-control-information-flow-with-on-demand-tools/">Keep the learner in control of the information flow with on-demand tools and supports</a><a class="headerlink" href="#keep-the-learner-in-control-of-the-information-flow-with-on-demand-tools-and-supports" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Run steps 1, 2, 3 and 8 once on one scene (5 + 20 + 10 + 5 minutes); do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="knowledge-organization"><a href="../../principles/knowledge-organization/">Knowledge Organization</a><a class="headerlink" href="#knowledge-organization" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Show the organization, one sort task, one explained link, one closed-book rebuild at the end; record what the rebuild shows and claim nothing about retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="learning-by-producing-multimedia-production-as-learning"><a href="../../patterns/learning-by-producing-pattern/">Learning by Producing (multimedia production as learning)</a><a class="headerlink" href="#learning-by-producing-multimedia-production-as-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only</td>
+<td>Drop production of new media: teams annotate or re-sequence provided clips or slides into a 1-minute explanation, present to another team, and answer one question each.</td>
+<td>Untested proposal; the project-based meta-analysis (<a href="../../claims/project-based-learning-improves-achievement/">project-based learning</a> [+M]) excludes short single activities</td>
+</tr>
+</tbody>
+</table>
+<h2 id="learning-for-use-lfu-model"><a href="../../patterns/learning-for-use-lfu-model/">Learning-for-Use (LfU) Model</a><a class="headerlink" href="#learning-for-use-lfu-model" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only (one 60–90 minute block)</td>
+<td>Keep one arc: 10-minute attempt, 30–40 minutes of guided investigation with a 10-minute synthesis, 15–20 minutes on one consequential task, 5 minutes to write the idea in their own words. Do not expect transfer evidence from one session.</td>
+<td>Untested as a format; <a href="../../claims/psi-fidelity-time-span-interaction/">time span</a> [~M]: the fidelity benefit of problem-first designs tended to shrink for interventions of a few hours (marginal, p = .055)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="least-restrictive-environment"><a href="../../principles/least-restrictive-environment/">Least Restrictive Environment</a><a class="headerlink" href="#least-restrictive-environment" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only (one event, field trip, one-off workshop) <em>(from the wording)</em></td>
+<td>Plan the student's role and supports for that event in advance so they take part in the same activity; offer an alternative activity only if the IEP names one</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="link-program-elements-to-workforce-entry-points-and-employer-recognized-credentials-so-learners-see-an-immediate-economic-payoff"><a href="../../principles/link-programs-to-workforce-entry/">Link program elements to workforce entry points and employer-recognized credentials so learners see an immediate economic payoff</a><a class="headerlink" href="#link-program-elements-to-workforce-entry-points-and-employer-recognized-credentials-so-learners-see-an-immediate-economic-payoff" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (an information session, one workshop) <em>(from the wording)</em></td>
+<td>Give the pathway map: the job, its intake date, the credential, the wage steps, and one named employer contact; do not claim employment outcomes from it</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="massive-open-online-course-mooc"><a href="../../patterns/massive-open-online-course/">Massive Open Online Course (MOOC)</a><a class="headerlink" href="#massive-open-online-course-mooc" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a one-off open webinar or a single-module micro-course) <em>(from the wording)</em></td>
+<td>Treat it as one segment-and-practice block, not a course: 3–4 short segments, questions after each, one practice task with a model answer, one planning question at the end ("when will you use this?").</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="match-the-form-and-content-of-staff-development-interventions-to-clients-assessed-stages-of-concern"><a href="../../principles/match-interventions-to-stages-of-concern/">Match the form and content of staff development interventions to clients' assessed Stages of Concern</a><a class="headerlink" href="#match-the-form-and-content-of-staff-development-interventions-to-clients-assessed-stages-of-concern" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only a single session is possible <em>(from the wording)</em></td>
+<td>Use the first 10 minutes to collect written concern statements, then spend the session on the commonest peak; give one practical next step for use, and name who will follow up and when; do not claim the session changed use</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="memory-consolidation"><a href="../../principles/memory-consolidation/">Memory Consolidation</a><a class="headerlink" href="#memory-consolidation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session, no follow-up <em>(from the wording)</em></td>
+<td>Teach, then put a different 10–15 minute task in between, then an unaided recall; hand over a dated self-test sheet for days 2, 7 and 21; state that retention was not measured</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mindfulness-activities"><a href="../../principles/mindfulness-activities/">Mindfulness Activities</a><a class="headerlink" href="#mindfulness-activities" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a single session only, or a fixed short block <em>(from the wording)</em></td>
+<td>One routine of one minute or less before the hardest task, minutes counted in the session plan; record how long the group takes to start the task; claim nothing about lasting regulation</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="minimize-student-frustration-by-making-feedback-clear-legible-focused-and-transparent"><a href="../../principles/minimize-student-frustration-in-feedback/">Minimize student frustration by making feedback clear, legible, focused, and transparent</a><a class="headerlink" href="#minimize-student-frustration-by-making-feedback-clear-legible-focused-and-transparent" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, no later draft <em>(from the wording)</em></td>
+<td>One priority and one strength; the learner revises one paragraph on it in the session, so the comment is used at once</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mnemonic-device"><a href="../../principles/mnemonic-device/">Mnemonic Device</a><a class="headerlink" href="#mnemonic-device" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short time budget (for example 15 minutes) <em>(from the wording)</em></td>
+<td>One mnemonic: 5 minutes meaning and cue, 3 minutes cued then uncued recall, 5 minutes using the items in a task, 2 minutes to write the cue on a take-away card; do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="modality-principle"><a href="../../principles/modality/">Modality Principle</a><a class="headerlink" href="#modality-principle" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session, or a fixed short time budget <em>(from the wording)</em></td>
+<td>Keep the lesson as long as it is; narrating does not lengthen a system-paced lesson. Do not add a test the brief did not ask for</td>
+<td>untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motivation"><a href="../../principles/motivation/">Motivation</a><a class="headerlink" href="#motivation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Give the reason, one first success, and one choice; record the behaviour; do not claim lasting motivation</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="multimodal-instruction"><a href="../../principles/multimodal-instruction/">Multimodal Instruction</a><a class="headerlink" href="#multimodal-instruction" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only, or no teacher present <em>(from the wording)</em></td>
+<td>Use one representation pair, not a full set. Build the translation prompts and their model answers into the material, so a learner without a teacher can check a sketch or explanation.</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="multiple-methods-of-assessment"><a href="../../principles/multiple-methods-of-assessment/">Multiple Methods of Assessment</a><a class="headerlink" href="#multiple-methods-of-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Use two methods inside the session (a written item and a 1-minute spoken or drawn one) for the one goal that matters; use the result to steer the next step, not to grade</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="note-taking"><a href="../../principles/note-taking/">Note-taking</a><a class="headerlink" href="#note-taking" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Guided-notes outline, two pauses with a restatement prompt, and a 5-minute recall at the end from covered notes; do not plan the fade; do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="observationshadowing"><a href="../../principles/observationshadowing/">Observation/Shadowing</a><a class="headerlink" href="#observationshadowing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only <em>(from the wording)</em></td>
+<td>One focused observation of a whole performance and one debrief; state the outcome as what the observer can now name and explain, not as a change in their own performance</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pair-c-framework-pattern-agents-interactions-relations-causality"><a href="../../patterns/pair-c-framework/">PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)</a><a class="headerlink" href="#pair-c-framework-pattern-agents-interactions-relations-causality" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only (about 60 minutes)</td>
+<td>Steps 1–6 in one session: elicit 5, dimensions on ants 8, contrast table 7, simulation with prompts 25, rewrite and correct 15; name in the plan that near transfer is the most this session can aim at.</td>
+<td>Untested; minutes are proposals</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pairing-non-examples-with-examples"><a href="../../principles/pairing-non-examples-with-examples/">Pairing Non-examples with Examples</a><a class="headerlink" href="#pairing-non-examples-with-examples" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short time budget (e.g. 15 minutes) <em>(from the wording)</em></td>
+<td>One concept: one anchor (3 min), two pairs (6 min), five mixed items with feedback (5 min), one-line explanation of the deciding feature (1 min); record what the items show and do not claim retention</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="peer-learning"><a href="../../principles/peer-learning/">Peer Learning</a><a class="headerlink" href="#peer-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only, or a fixed short budget (for example 30 minutes) <em>(from the wording)</em></td>
+<td>One cycle: 3 minutes review, 5 minutes prepare, two 6-minute explain-and-question turns with roles swapped, 5 minutes individual check, 5 minutes teacher correction of the commonest error; report only immediate performance</td>
+<td>untested proposal; the tested contrast (teaching against studying) does not set a duration</td>
+</tr>
+</tbody>
+</table>
+<h2 id="peer-teaching"><a href="../../patterns/peer-teaching/">Peer Teaching</a><a class="headerlink" href="#peer-teaching" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only, or a fixed short budget (for example 30 minutes) <em>(from the wording)</em></td>
+<td>One cycle: 3 minutes to study the part, 5 to prepare, two 7-minute teaching turns with roles swapped, 5 for the individual check, 3 for the teacher's correction to the class. Report only immediate performance.</td>
+<td>Untested proposal; the tested contrast (teaching against studying) sets no duration (<a href="../../claims/learning-by-teaching-improves-tutor-learning/">Learning By Teaching Improves Tutor Learning</a> [+S])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="personalization"><a href="../../principles/personalization/">Personalization</a><a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Personalize only the context of problems and a choice of task; keep one path; record what each learner chose and how they did, and do not claim a lasting gain</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phonics"><a href="../../principles/phonics/">Phonics</a><a class="headerlink" href="#phonics" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Screen, then teach one correspondence and blend five to ten words with it; give the learner or family the next three correspondences to practise; do not report decoding gains</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="positive-behavioral-interventions-and-supports"><a href="../../patterns/positive-behavioral-interventions-and-supports/">Positive Behavioral Interventions And Supports</a><a class="headerlink" href="#positive-behavioral-interventions-and-supports" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session or one training day only <em>(from the wording)</em></td>
+<td>Do not attempt the full pattern; use the day to read the data, agree the expectations and setting matrix, and schedule the first week's lessons and the first monthly review.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="positive-self-talk"><a href="../../principles/positive-self-talk/">Positive Self-talk</a><a class="headerlink" href="#positive-self-talk" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Give 10–15 minutes: find the moment, model one cue, each learner writes one or two cues and rehearses on two items; report use, not a lasting change</td>
+<td>Untested proposal; brief one-off psychological exercises have weak average achievement effects (<a href="../../claims/growth-mindset-improves-achievement/">Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial</a> [~M], a different intervention)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pre-reading-questioning"><a href="../../principles/pre-reading-questioning/">Pre-reading Questioning</a><a class="headerlink" href="#pre-reading-questioning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only <em>(from the wording)</em></td>
+<td>Two questions, attempt, read, check, one whole-text summary; do not claim a lasting effect</td>
+<td>untested beyond the laboratory sessions on <a href="../../claims/pretesting-enhances-learning/">Pretesting enhances learning</a> [~M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pre-training-principle"><a href="../../principles/pretraining/">Pre-training Principle</a><a class="headerlink" href="#pre-training-principle" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session <em>(from the wording)</em></td>
+<td>Spend the first few minutes of that session on the primer, then the main lesson</td>
+<td>untested proposal for the timing; direction from <a href="../../claims/pretraining-principle-mayer-2008/">Mayer 2008</a> [+M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="preserve-heritage-language-while-acquiring-an-additional-language"><a href="../../principles/heritage-language-maintenance/">Preserve Heritage Language While Acquiring an Additional Language</a><a class="headerlink" href="#preserve-heritage-language-while-acquiring-an-additional-language" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only (a workshop or single lesson) <em>(from the wording)</em></td>
+<td>One move: let learners plan in the heritage language for 5 minutes, then do the task in the school language, with a bilingual glossary of the session's key terms; claim nothing about language maintenance</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="procedural-learning"><a href="../../principles/procedural-learning/">Procedural Learning</a><a class="headerlink" href="#procedural-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Model, three or four supported attempts, one unaided item at the end; record what the unaided item shows and do not claim retention or fluency; give learners a job aid and items to practise later</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="process-based-writing"><a href="../../principles/process-based-writing/">Process-based Writing</a><a class="headerlink" href="#process-based-writing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session is available <em>(from the wording)</em></td>
+<td>Plan for 10 minutes against a model text, draft, then one revision against a single criterion with a partner's response; collect the draft and the revision; do not claim a gain in writing ability</td>
+<td>untested; the strategy studies taught over at least three days (<a href="../../claims/strategy-instruction-improves-writing-quality/">strategy instruction</a> [+M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="professional-development-should-guide-teachers-on-integrating-digital-content-and-tools-not-just-offer-technical-know-how"><a href="../../principles/pd-integration-not-just-technical/">Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how</a><a class="headerlink" href="#professional-development-should-guide-teachers-on-integrating-digital-content-and-tools-not-just-offer-technical-know-how" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only a single session is possible <em>(from the wording)</em></td>
+<td>Run 60 minutes: 15 on one function, 20 on two subject examples, 25 planning one lesson to teach within two weeks; send one follow-up message offering a check-in. Do not claim sustained use from it</td>
+<td>untested proposal; <a href="../../claims/fifty-hours-content-specific-pd/">long-term content-specific support is argued to outperform one-shot sessions</a> [~M] (a review citing a survey and an earlier report)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="programmed-instruction"><a href="../../patterns/programmed-instruction/">Programmed Instruction</a><a class="headerlink" href="#programmed-instruction" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only</td>
+<td>One program of 20–30 minutes covering one rule or procedure, ending with five unprompted items; no unit gate across sessions, and a note to the learner of which steps to revisit.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="project-space-and-instructional-space"><a href="../../patterns/project-and-instructional-space/">Project Space and Instructional Space</a><a class="headerlink" href="#project-space-and-instructional-space" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only (one workshop)</td>
+<td>Run one milestone: 10 minutes launch, one planned freeze for the gap most learners will hit (15–20 minutes of instruction and a 5-item gate), 20 minutes back in the project. Name the further gaps for later.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="provide-positive-comments-alongside-constructive-criticism-when-responding-to-student-writing"><a href="../../principles/provide-positive-comments-on-student-writing/">Provide positive comments alongside constructive criticism when responding to student writing</a><a class="headerlink" href="#provide-positive-comments-alongside-constructive-criticism-when-responding-to-student-writing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only, or a fixed short time (for example 40 minutes) <em>(from the wording)</em></td>
+<td>One product revised once: about 15 minutes drafting, 5 minutes of response (one strength, one priority) from teacher or peer, 15 minutes revising, 5 minutes for the writer to name what changed. Adds no test or survey</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="quiet-learning-spaces"><a href="../../principles/quiet-learning-spaces/">Quiet Learning Spaces</a><a class="headerlink" href="#quiet-learning-spaces" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only <em>(from the wording)</em></td>
+<td>One focus block of 10–15 minutes on one task, the device rule, and an end-of-block tally; do not claim a change in habits</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="responsive-teaching"><a href="../../principles/responsive-teaching/">Responsive Teaching</a><a class="headerlink" href="#responsive-teaching" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>One idea map for the one task; two elicitation points (minute 5 and minute 30 of 45); one move per point; a final unaided item; do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="rhetorical-skill-development"><a href="../../principles/rhetorical-skill-development/">Rhetorical Skill Development</a><a class="headerlink" href="#rhetorical-skill-development" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only, including one short online session <em>(from the wording)</em></td>
+<td>Cut scope to <strong>one product revised once</strong>: one situation and reader, one move, one short script or paragraph. For a 30-minute session: 5 minutes on the reader and the criteria, 5 on one model choice, 8 drafting, 4 writing a one-sentence self-explanation of why the move suits this reader (a partner's comment instead, if there is a partner), 8 revising the same draft = 30. Do not draft or perform a second version for another audience; record what the revision shows and do not claim transfer</td>
+<td>untested; the strategy-instruction studies all ran at least three days (<a href="../../claims/strategy-instruction-improves-writing-quality/">Strategy Instruction Improves Writing Quality</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="self-directed-learning"><a href="../../principles/self-directed-learning/">Self-Directed Learning</a><a class="headerlink" href="#self-directed-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Do not hand over goals; give a choice among two or three practice tasks, a two-minute plan at the start, and a two-minute check against the criteria at the end; record what each learner chose and found, and do not claim independence</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="self-directed-learning_1"><a href="../../patterns/self-directed-learning/">Self-Directed Learning</a><a class="headerlink" href="#self-directed-learning_1" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Do not run the staged release; run steps 1 and 2 only (probe, a written plan with one if-then plan, a date), and hand the learner the plan to keep.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="self-monitoring"><a href="../../principles/self-monitoring/">Self-monitoring</a><a class="headerlink" href="#self-monitoring" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Teach and run the routine once on two or three items with every record checked; report the match between judgement and score; do not claim a habit or later effect</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="self-regulated-learning"><a href="../../patterns/self-regulated-learning/">Self-Regulated Learning</a><a class="headerlink" href="#self-regulated-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session, not a unit <em>(from the wording)</em></td>
+<td>Keep steps 1 and 3 only (a plan, a prediction, feedback on the gap); skip fading, which needs repeated observation, and do not read a change in regulation within the session as learning</td>
+<td>untested proposal; <a href="../../claims/srl-change-no-posttest-association/">Within-session SRL change not associated with post-test</a> [~W]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sequencing"><a href="../../principles/sequencing/">Sequencing</a><a class="headerlink" href="#sequencing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Order the session as primer or map (5 minutes), one example, guided items, one unaided check; teach only as many stages as the check can confirm, and do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="shared-power-previously-excluded-students-families-and-communities-co-create-and-shape-educational-systems-policies-and-practices"><a href="../../patterns/shared-power-co-creation-of-educational-systems/">Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices</a><a class="headerlink" href="#shared-power-previously-excluded-students-families-and-communities-co-create-and-shape-educational-systems-policies-and-practices" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Use it to document where the group drops out (step 1) and to agree with the group what decision it will hold and when it will meet again; do not call one session co-creation.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="signaling-principle"><a href="../../principles/signaling/">Signaling Principle</a><a class="headerlink" href="#signaling-principle" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session <em>(from the wording)</em></td>
+<td>Use the early-session design only; there is no later session to fade in</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="simulations-immersive-virtual-environments"><a href="../../principles/simulations-immersive-virtual-environments/">Simulations &amp; Immersive Virtual Environments</a><a class="headerlink" href="#simulations-immersive-virtual-environments" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>One primer (5 min), one run (15 min), one debrief (15 min), one second run (10 min), one non-simulated check item (5 min); record the check and claim no retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="skills-sprint"><a href="../../principles/skills-sprint/">Skills Sprint</a><a class="headerlink" href="#skills-sprint" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session, with a fixed short time budget (e.g. 90 minutes) <em>(from the wording)</em></td>
+<td>One deliverable, revised once: kickoff and criteria 10 min, build 30 min, checkpoint 10 min, revise 20 min, test 5 min, debrief 15 min (90 in all); shrink the deliverable before cutting the checkpoint or debrief</td>
+<td>untested proposal; the debrief's place rests on <a href="../../claims/reflective-practice-improves-outcomes-when-structured/">Reflective Practice Improves Outcomes When Structured</a> [+M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="social-interdependence"><a href="../../principles/social-interdependence/">Social Interdependence</a><a class="headerlink" href="#social-interdependence" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Use pairs, one short shared task, and an individual check at the end; do not claim an achievement effect</td>
+<td>untested; the reward evidence comes from programmes of four weeks or more (<a href="../../claims/cooperative-learning-group-rewards-and-individual-accountability/">free-riding without accountability</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="social-presence"><a href="../../principles/social-presence/">Social Presence</a><a class="headerlink" href="#social-presence" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (a workshop, a one-off training) <em>(from the wording)</em></td>
+<td>Replace profiles with a 3–5-minute paired introduction that asks each person what they want from the session and one related experience, then use those answers in the session's first task</td>
+<td>untested proposal; the earlier page says benefits shrink in short settings</td>
+</tr>
+</tbody>
+</table>
+<h2 id="standardized-test-fairness-and-bias"><a href="../../principles/standardized-test-fairness-and-bias/">Standardized Test Fairness and Bias</a><a class="headerlink" href="#standardized-test-fairness-and-bias" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only a single session is available before the real test <em>(from the wording)</em></td>
+<td>Use it for one timed practice in the real format with immediate feedback and a walk-through of the instructions; do not add new content</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="structured-academic-controversy"><a href="../../patterns/structured-academic-controversy/">Structured Academic Controversy</a><a class="headerlink" href="#structured-academic-controversy" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only (under 45 minutes)</td>
+<td>Keep restate, reverse, synthesise and the individual check. Cut open discussion and do preparation from a one-page source sheet. Do not cut the synthesis or the individual check: they are what distinguish SAC from debate.</td>
+<td>untested; from the earlier page ("strongest when the synthesis stage is treated as the instructional endpoint")</td>
+</tr>
+</tbody>
+</table>
+<h2 id="structured-peer-review"><a href="../../patterns/structured-peer-review/">Structured Peer Review</a><a class="headerlink" href="#structured-peer-review" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>single-session</code> only</td>
+<td>One short draft brought to the session; 10 minutes on one anchor; one review of one draft; 10 minutes to plan and start revising in the room; the author leaves with the plan.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="summative-assessment"><a href="../../principles/summative-assessment/">Summative Assessment</a><a class="headerlink" href="#summative-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a single session only (a one-day workshop) <em>(from the wording)</em></td>
+<td>Do not report a summative judgment of the capability; give an end-of-session check, report it as immediate performance, and say what it cannot show</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="support-early-language-development"><a href="../../principles/supporting-early-language-development/">Support Early Language Development</a><a class="headerlink" href="#support-early-language-development" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only (one parent workshop, one library story time) <em>(from the wording)</em></td>
+<td>Spend it on one modelled reading, each adult practising once with their own child with feedback, and a take-home card with two prompts; do not claim a change in children's language from it</td>
+<td>untested proposal; coaching evidence is from multi-session programmes (<a href="../../claims/parent-coaching-outperforms-information-only/">parent coaching</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="supporting-gifted-and-talented-students"><a href="../../principles/supporting-gifted-and-talented-students/">Supporting Gifted and Talented Students</a><a class="headerlink" href="#supporting-gifted-and-talented-students" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only a single session is available (a one-off enrichment day, a visiting class) <em>(from the wording)</em></td>
+<td>Give one hard, open task with a model of the standard, time to attempt it, and feedback naming what the student did; do not claim it as provision</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="supporting-students-with-intellectual-disabilities"><a href="../../principles/supporting-students-with-intellectual-disabilities/">Supporting Students with Intellectual Disabilities</a><a class="headerlink" href="#supporting-students-with-intellectual-disabilities" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only a single session is available (a one-off workshop, a visiting class) <em>(from the wording)</em></td>
+<td>Teach one step of one functional task, practise it three or four times with feedback naming what the student did, and end with one unaided attempt; record what it shows and do not claim retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="teach-response-precision-and-new-associations-with-minimal-errors-using-mediators-and-stimulus-fading"><a href="../../principles/minimize-errors-for-precision-and-associations/">Teach response precision and new associations with minimal errors, using mediators and stimulus fading</a><a class="headerlink" href="#teach-response-precision-and-new-associations-with-minimal-errors-using-mediators-and-stimulus-fading" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session, of fixed short length <em>(from the wording)</em></td>
+<td>In 20 minutes: 2 minutes measuring current attempts, 5 minutes introducing 6–8 items with mediators, 10 minutes cued practice with fading and correction, 3 minutes unaided check. Report only the end-of-session result; claim no retention</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="teach-the-conceptual-underpinnings-of-l2-forms-rather-than-only-their-structural-aspects-or-formulaic-units"><a href="../../principles/teach-conceptual-underpinnings-of-l2-forms/">Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units</a><a class="headerlink" href="#teach-the-conceptual-underpinnings-of-l2-forms-rather-than-only-their-structural-aspects-or-formulaic-units" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only (about 45 minutes) <em>(from the wording)</em></td>
+<td>5 minutes: diagnose from five sentences; 15: the core sense and two or three uses; 10: partner explanations; 10: choice items; 5: one short paragraph using the form. Record what the paragraph shows and claim no retention</td>
+<td>untested; <a href="../../claims/explicit-teaching-effective-but-not-durable/">Explicit teaching is more effective for EFL copular be learning but its effect is not durable</a> [~M] is why no lasting change should be claimed</td>
+</tr>
+</tbody>
+</table>
+<h2 id="teacher-professional-development-should-include-ongoing-activities-like-study-teams-and-peer-coaching-rather-than-only-occasional-large-group-sessions"><a href="../../principles/ongoing-study-teams-peer-coaching-in-service/">Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions</a><a class="headerlink" href="#teacher-professional-development-should-include-ongoing-activities-like-study-teams-and-peer-coaching-rather-than-only-occasional-large-group-sessions" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Only one session is available <em>(from the wording)</em></td>
+<td>Do not present it as ongoing PD. Use it to form the teams, practise one peer-observation cycle in the room on a video clip, and set the dates of the first two meetings; record that no change in practice can be claimed</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="team-based-learning"><a href="../../patterns/team-based-learning/">Team Based Learning</a><a class="headerlink" href="#team-based-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The brief is a one-off workshop, not a course <em>(from the wording)</em></td>
+<td>Run a single readiness cycle (individual test, team test with feedback, clarification, one application problem) with ad hoc teams; drop peer evaluation and appeals</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="technology-should-augment-not-supplant-learning-processes-in-student-centered-environments"><a href="../../principles/technology-augments-not-supplants-processes/">Technology should augment, not supplant, learning processes in student-centered environments</a><a class="headerlink" href="#technology-should-augment-not-supplant-learning-processes-in-student-centered-environments" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only <em>(from the wording)</em></td>
+<td>Independent attempt (10 minutes), tool in hint mode (20 minutes), unaided check (5 to 10 minutes); report only the unaided check, and claim no retention</td>
+<td>Untested proposal as a plan; the single-session effect of AI use on an unaided test is in <a href="../../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1/">the fraction-problem experiment</a> [+M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="text-chats"><a href="../../principles/text-chats/">Text Chats</a><a class="headerlink" href="#text-chats" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only, or a fixed short time budget (for example 30 minutes) <em>(from the wording)</em></td>
+<td>5 minutes norms and task, 5–10 minutes preparation, 10–15 minutes chat in groups of two to four, 5 minutes for each group to post its outcome; do not add a quiz or review the brief did not ask for</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="text-to-speech"><a href="../../principles/text-to-speech/">Text-to-Speech</a><a class="headerlink" href="#text-to-speech" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Ten minutes on the controls with a short text, then one section-by-section reading of the real text with supplied questions; record the answers and do not claim lasting benefit</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="traditional-lecture-based-instruction"><a href="../../patterns/traditional-lecture-based-instruction/">Traditional Lecture-Based Instruction</a><a class="headerlink" href="#traditional-lecture-based-instruction" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One session only (a guest lecture or a one-off talk) <em>(from the wording)</em></td>
+<td>Plan three segments of about 12 minutes, one check question after each, and a 3-minute written summary at the end; give one short reading to take away instead of assigned study before.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="treat-talking-and-writing-as-means-to-learning-through-dialogue-based-student-centered-instruction"><a href="../../principles/talking-and-writing-means-to-learning/">Treat talking and writing as means to learning through dialogue-based, student-centered instruction</a><a class="headerlink" href="#treat-talking-and-writing-as-means-to-learning-through-dialogue-based-student-centered-instruction" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Spend about 10 minutes explaining, 5 thinking or writing alone, 10 in pairs, 10 in a whole-class discussion on one evidence question, and 5 writing a short explanation; record what the writing shows and claim no change in confidence</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="understanding-must-be-cultivated-through-exploration-not-described-or-told"><a href="../../principles/understanding-cultivated-not-described/">Understanding must be cultivated through exploration, not described or told</a><a class="headerlink" href="#understanding-must-be-cultivated-through-exploration-not-described-or-told" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only, or a fixed short time (for example 50 minutes) <em>(from the wording)</em></td>
+<td>5 minutes clue and problem; 15 minutes making; 15 minutes critique of four or five works; 10 minutes naming the principle from those works; 5 minutes on one new case. Do not claim lasting understanding</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="universal-design-for-learning"><a href="../../principles/universal-design-for-learning/">Universal Design For Learning</a><a class="headerlink" href="#universal-design-for-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is a single session <em>(from the wording)</em></td>
+<td>Do only steps 1, 3 and 4 (goal, two routes into the content, segmenting and pause); skip format choice</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="use-computer-tools-that-let-students-explore-hypotheses-and-solutions-faster-so-they-can-test-many-ideas-without-frustration"><a href="../../principles/exploration-tools-fast-hypothesis-testing/">Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration</a><a class="headerlink" href="#use-computer-tools-that-let-students-explore-hypotheses-and-solutions-faster-so-they-can-test-many-ideas-without-frustration" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single session only, or a fixed short time budget (e.g. 50 minutes) <em>(from the wording)</em></td>
+<td>5 min tool familiarisation, 5 min question and predictions, 20 min exploration with the log (three to five cycles), 10 min groups state their rule and hear the canonical explanation, 5 min one unaided question, 5 min spare; claim only immediate understanding</td>
+<td>untested proposal; immediate gains may not last (<a href="../../claims/simulation-advantage-immediate-not-sustained/">AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="validity-reliability-and-bias-in-classroom-assessment"><a href="../../principles/validity-reliability-and-bias-in-classroom-assessment/">Validity, Reliability, and Bias in Classroom Assessment</a><a class="headerlink" href="#validity-reliability-and-bias-in-classroom-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time is one session only, or the assessment is a single short quiz <em>(from the wording)</em></td>
+<td>Use it to steer the next lesson, not to grade an individual; aim the few items at the one decision you need; combine with other evidence before any grade</td>
+<td>untested; from the earlier page (a single item's weight in a short test)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="video-replay-analysis"><a href="../../principles/video-replay-analysis/">Video Replay Analysis</a><a class="headerlink" href="#video-replay-analysis" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A single session only <em>(from the wording)</em></td>
+<td>Record and review in the same session: one 2–3 minute performance, one focus, 5 minutes of paused review, one change, a second short attempt recorded and compared; do not claim lasting change</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
