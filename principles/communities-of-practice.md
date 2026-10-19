@@ -8,7 +8,7 @@ canonical: true
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-10-02
+  at: 2026-10-19
 sources:
   - id: abedini-2021
     resource: "https://doi.org/10.1111/bjet.13120"
@@ -93,7 +93,7 @@ These are proposals, untested with learners. A probe can shift confidence betwee
 
 ## Evidence and qualifications
 
-No claim in the wiki tests this relationship as stated: none compares learners who take part in a community of practice with comparable learners who do not, on a measure of practice or understanding. Every claim below is a review of descriptive studies, a single qualitative case, a perception survey or an argument, and none has yet been checked against its source.
+No claim in the wiki tests this relationship as stated: none compares learners who take part in a community of practice with comparable learners who do not, on a measure of practice or understanding. Every claim below is a review of descriptive studies, a single qualitative case, a developmental evaluation, a perception survey or an argument, and none has yet been checked against its source.
 
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](../claims/plc-participation-changes-teacher-norms-understanding-practice.md) [+W]: a systematic review of mathematics professional learning communities (`synthesis-mixed`, `review · r2`, `q2`) synthesises outcome descriptions across its studies: teachers changed collaboration norms, understanding of mathematics and its teaching, and their ability to design and carry out teaching, including leaving more of the talking space to their students. No effect size and no comparison group are reported on the claim page; it describes what participants changed, not what participation caused. Teachers only, mathematics only.
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](../claims/plc-norms-three-categories-trust-prerequisite.md) [~M]: the same review, in schools where collaboration norms were established, groups productive norms as supporting participation and critical inquiry, supporting open communication and trust, and directing attention towards an object, with trust norms as prerequisites for critical inquiry; several studies concluded that productive norms develop over time. It qualifies the relationship: the community's effect is conditional on norms that take time to build. Descriptive synthesis, not a tested order.
@@ -120,20 +120,13 @@ Each question below links a general claim that gathers the studies behind it int
 - In an online community of inquiry, which presences go with learners' regulation and learning? [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](../claims/social-presence-strongest-metacognition-association-cbi.md) [~M]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
-<!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
-Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked. None was studied in a community of practice: they bear on mechanisms the earlier page attributed to communities (explaining reasoning, fading and contingent support, whole tasks), and should not be read as evidence that communities produce these effects.
+<!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. Re-read 2026-10-19; what remains below did not change the model. -->
+Re-read 2026-10-19 against the model above. The community-specific claims listed here before (the cross-grade transition PLC, STEM PLC knowledge gains, the two critiques of PLC formulations, the three objects of mathematics PLCs, the two teacher-metacognition claims, the American Indian Education Directors' CoP, principal networks, honours students' sense of safety, and mathematics student-learning existence proof) are now in the default design, the situation rows and the evidence list. What remains is mechanism evidence from individual study or tutoring. None of it was studied in a community of practice; it bears on default steps 4 and 5 by transport only, and it does not change the model.
 
-- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
-- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract)
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
-- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
-- [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](../claims/pktp-plc-supported-implementation.md) [+W] — attached 2026-10-08 from Spain et al. (2018), which proposed "Provide an external facilitator for multi-school transition programs to sustain collaboration and communicate a consistent vision".
-- [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](../claims/stem-plc-teacher-knowledge-attitude-gains.md) [+W] — attached 2026-10-10 from Fulton et al. (2010), which proposed "Design elements for STEM PLCs: time and pacing, subject composition, protocols, and facilitation with administrator support and trust"; tests this page's relationship.
-- [Plc Literature Trivializes Teacher Practice](../claims/plc-literature-trivializes-teacher-practice.md) [+W]
-- [Teacher Resistance Agency Challenges Plc](../claims/teacher-resistance-agency-challenges-plc.md) [+W]
-- [Plc Mathematics Three Objects Repertoire Most Common](../claims/plc-mathematics-three-objects-repertoire-most-common.md) [+M]
-- [Plc Nurtures Teacher Metacognition](../claims/plc-nurtures-teacher-metacognition.md) [+M]
-- [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](../claims/plc-metacognition-lower-and-higher-levels.md) [+W]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract). Individual learners prompted while studying (meta-analysis g = .55, immediate tests); supports asking members for reasoning (step 5) only by transport.
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract). Faded worked examples and a scaffolding review; the community analogue (facilitator handing over to members, step 2) is untested.
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract). A design argument about training, not about communities.
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract). One-to-one tutoring studies; bears on coaching newcomers responsively (step 4) by transport.
 
 ## Objective and learner-valued goal
 
@@ -231,18 +224,12 @@ Communities of practice support learning because people often learn complex work
 
 ### Claims
 
-Re-read 2026-10-19: the community-specific claims that were listed here are now in the model above (default steps 1, 2, 3, 5 and 7, the situation rows and the evidence list). What remains is mechanism evidence from individual study or tutoring. It bears on default steps 4 and 5 by transport only and does not change the model.
-
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — communities become more educative when members articulate and compare reasoning, not just exchange resources
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — newcomers benefit when experienced members provide responsive prompts, hints, and mediation
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — strong communities shift responsibility from experts to broader member participation over time
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — communities of practice are especially useful when learning remains tied to authentic, integrated work rather than isolated drills
 
 -->
-- [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](../claims/cop-relationships-combat-aie-director-isolation.md) [+W]
-- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](../claims/honours-community-safe-supportive-learning-environment.md) [+W]
-- [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](../claims/principal-networks-professional-learning-communities.md) [+W]
-- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](../claims/stem-plc-math-student-learning-existence-proof.md) [+W]
 
 <!-- merged 2026-10-14 from principles/engage-teachers-literacy-events-learner-to-learner ("Engage teachers in literacy events learner-to-learner to build trusting coaching relationships"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
 
