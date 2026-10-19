@@ -10,7 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: janssen-2010
-    title: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning."
+    resource: "https://doi.org/10.1007/s11409-010-9061-5"
+    title: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning. [doi:10.1007/s11409-010-9061-5](https://doi.org/10.1007/s11409-010-9061-5)"
     author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G."
     q: 2
     i: "?"
@@ -30,7 +31,7 @@ sources:
 
 ### Janssen 2010
 
-Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning.
+Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning. [doi:10.1007/s11409-010-9061-5](https://doi.org/10.1007/s11409-010-9061-5)
 
 `q2 · i?` · `associational · r2`
 
