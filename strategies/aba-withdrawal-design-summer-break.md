@@ -16,6 +16,9 @@ sources:
 
 # Use A-B-A withdrawal designs integrating the summer break to study reduced physical activity effects on cognition
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend the A-B-A (withdrawal) design, consisting of two baseline phases and a withdrawal phase, for studying how reduced physical activity affects children's cognitive and academic performance. Its key advantage is that "the re-implementation of the stimulus during the second baseline phase of the studies (i.e., higher levels of regular physical activity in the school period that follows the summer break), which allows for more robust conclusions" than A-B designs. The design can be extended to A-B-A-B-A across successive breaks to replicate observations, and can be implemented in both observational and intervention studies with the summer break as the natural withdrawal phase.
 
@@ -35,7 +38,7 @@ The authors recommend the A-B-A (withdrawal) design, consisting of two baseline 
 - establishing causal effects of reduced regular physical activity on cognitive and academic performance
 
 ### Affordances
-- [Structured Day Hypothesis Children](../theories/structured-day-hypothesis-children.md)
+- Structured Day Hypothesis Children
 
 ## Related Strategies
 - 

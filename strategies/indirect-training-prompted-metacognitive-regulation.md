@@ -16,6 +16,9 @@ sources:
 
 # Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 In the indirect training component, regular German language classes were adapted so teachers prompted students to apply metacognitive regulation steps learned in direct training, using the same vocabulary, symbols, and reflection tools. "Metacognitive regulation was not explicitly taught to the students but instead was prompted." Teachers had to incorporate metacognitive regulation into their lesson plans around a cognitive strategy of their own choosing, with prompts provided for consistency. The article states this component "initiated far metacognitive regulation transfer, promoting repeated metacognitive regulation in different contexts."
 

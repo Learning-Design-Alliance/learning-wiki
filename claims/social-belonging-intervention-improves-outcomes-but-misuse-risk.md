@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-025-10104-5"
     title: "Royel M. Johnson. (2026). Reframing Belonging in Higher Education: an Intersectional Ecological Model for Research, Policy, and Practice. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10104-5"
     author: Royel M. Johnson
+    q: 3
+    i: "?"
+    kind: theoretical
+    rigour: 2
   - id: royel-m-johnson-2026-2
     resource: "https://doi.org/10.1007/s10648-025-10104-5"
     title: "Royel M. Johnson. (2026). Reframing Belonging in Higher Education: an Intersectional Ecological Model for Research, Policy, and Practice. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10104-5"
     author: Royel M. Johnson
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` A randomized controlled trial showed a brief social belonging intervention significantly improved academic outcomes and well-being, especially among students experiencing identity threat at historically white institutions. [→ Royel M. Johnson 2026](#royel-m-johnson-2026)
@@ -31,7 +42,7 @@ sources:
 
 Royel M. Johnson. (2026). Reframing Belonging in Higher Education: an Intersectional Ecological Model for Research, Policy, and Practice. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10104-5
 
-`q3 · i?`
+`q3 · i?` · `theoretical · r2`
 
 The essay reports, citing Walton and Cohen (2011), a randomized controlled trial of a brief social belonging intervention comprising a reading exercise, written reflection, and short video; Black students' GPAs increased over three years and students reported better physical health and happiness.
 
@@ -41,7 +52,7 @@ The essay reports, citing Walton and Cohen (2011), a randomized controlled trial
 
 Royel M. Johnson. (2026). Reframing Belonging in Higher Education: an Intersectional Ecological Model for Research, Policy, and Practice. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10104-5
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The essay's synthesis of critique literature (Johnson, 2022; Matthews et al., 2024) reports that growing popularity of belonging interventions has raised concerns about individualizing a structural problem.
 

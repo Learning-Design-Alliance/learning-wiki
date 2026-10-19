@@ -12,10 +12,17 @@ sources:
   - id: loyens-2008
     resource: "https://doi.org/10.1007/s10648-008-9082-7"
     title: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P. (2008). Self-Directed Learning in Problem-Based Learning and its Relationships with Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-008-9082-7"
-    author: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P"
+    author: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Comparing groups of three, six, and nine students, the PBL course led to higher SDL in small and medium groups but lower SDL in large groups, with medium and large groups differing significantly. [→ Loyens 2008](#loyens-2008)
@@ -26,7 +33,7 @@ sources:
 
 Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P. (2008). Self-Directed Learning in Problem-Based Learning and its Relationships with Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-008-9082-7
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Review reports Lohman and Finkelstein's pretest–posttest comparison of small, medium, and large tutorial groups using Guglielmino's Self-Directed Learning Readiness Scale. The quote states the direction of change per group size and the significant medium–large difference; no effect size is printed.
 

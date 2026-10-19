@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-017-9409-3"
     title: "Patricia A. Alexander. (2017). Issues of Constructs, Contexts, and Continuity: Commentary on Learning in Higher Education. Educational Psychology Review, 29, 345–351. https://doi.org/10.1007/s10648-017-9409-3"
     author: Patricia A. Alexander
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Fryer argues that perceived control and need for competence may serve as unifiers bridging seemingly significant differences among models of learning in higher education, setting a foundation for a mega-theory. [→ Patricia A. Alexander 2017](#patricia-a-alexander-2017)
@@ -26,7 +33,7 @@ sources:
 
 Patricia A. Alexander. (2017). Issues of Constructs, Contexts, and Continuity: Commentary on Learning in Higher Education. Educational Psychology Review, 29, 345–351. https://doi.org/10.1007/s10648-017-9409-3
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The commentary describes Fryer's (2017) integrative argument that "perceived control and need for competence as potential unifiers" may bridge differences among models of learning in higher education. Second-hand report of a theoretical argument.
 

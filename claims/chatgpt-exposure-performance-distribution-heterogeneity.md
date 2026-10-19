@@ -66,3 +66,4 @@ Student-level distribution analysis restricted to tests reporting at least four 
 - [Time-varying educational ChatGPT exposure shows no significant effect on high school test scores in the balanced panel; significant unbalanced-panel results are not robust](time-varying-exposure-null-balanced-panel.md) — related
 - [Grades 3-8 test scores show no significant effect of educational ChatGPT exposure, supporting the design as an age placebo](grades-3-8-age-placebo-null.md) — related
 - [Grade effects of GenAI availability do not differ across terciles of students' prior academic preparation, robust across multiple ability proxies](null-grade-effects-across-prior-performance-terciles.md) — related
+- [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](practice-effect-varies-by-prior-achievement.md) — related

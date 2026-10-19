@@ -16,6 +16,9 @@ sources:
 
 # Promote a deep approach to learning to help offset burnout effects on achievement
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article reports evidence that a surface approach to learning (shallow information processing and extrinsic motivation) is associated with higher burnout, while a deep approach (deep information processing and intrinsic motivation) is associated with lower burnout. It therefore suggests that "encouraging and or creating environments that promote a deep approach to learning may be beneficial in regards to offsetting the effects of burnout for achievement". This positions instructional environments that foster intrinsic motivation and deep processing as a protective design choice.
 

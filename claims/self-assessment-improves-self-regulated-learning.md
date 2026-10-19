@@ -113,3 +113,6 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 - Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies — related
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](self-monitoring-four-key-components.md) — related
 - [Teachers' self-assessed reflection skill exceeds their externally assessed reflection level, with only a low correlation between the two](teacher-reflection-self-external-assessment-gap.md) — related
+- [Rubric use has a small positive effect on students' self-efficacy (g = 0.18), based on only four studies](rubrics-small-effect-self-efficacy.md) — related
+- [Rubric use has a small, statistically non-significant pooled effect on self-regulated learning (g = 0.23)](rubrics-small-effect-self-regulated-learning.md) — related
+- [For self-regulated learning outcomes, rubrics combined with both self- and peer assessment show a significantly larger effect than rubrics with self-assessment alone](rubrics-srl-self-plus-peer-assessment-larger-effect.md) — a narrower finding that bears on this claim

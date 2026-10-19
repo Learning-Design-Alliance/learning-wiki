@@ -37,7 +37,8 @@ The article recommends that training groups explicitly discuss how trained strat
 - transferring trained learning strategies to untrained tasks such as text learning
 
 ## Related Strategies
-- 
+
+- [Consider integrating mathematics and writing instruction by explicitly promoting transfer of shared language and cognitive skills](integrated-math-writing-instruction-transfer.md)
 
 ## Examples
 -

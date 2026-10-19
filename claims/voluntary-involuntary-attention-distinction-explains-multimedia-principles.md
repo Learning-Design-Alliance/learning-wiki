@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-015-9336-0"
     title: "Judith Schweppe & Ralf Rummer. (2015). Attention and Long-Term Memory in System and Process Theories of Working Memory: A Reply to Soemer's (2015) Comment on Schweppe and Rummer (2014). Educational Psychology Review. https://doi.org/10.1007/s10648-015-9336-0"
     author: "Judith Schweppe & Ralf Rummer"
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Involuntary attention allocation (driven by stimulus saliency or novelty) underlies the signaling and coherence principles, while voluntary allocation underlies the split-attention principle. [→ Judith Schweppe & Ralf Rummer 2015](#judith-schweppe-ralf-rummer-2015)
@@ -26,7 +33,7 @@ sources:
 
 Judith Schweppe & Ralf Rummer. (2015). Attention and Long-Term Memory in System and Process Theories of Working Memory: A Reply to Soemer's (2015) Comment on Schweppe and Rummer (2014). Educational Psychology Review. https://doi.org/10.1007/s10648-015-9336-0
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical mapping argument: the article links involuntary attention (stimulus saliency/novelty) to the signaling principle and to avoiding seductive details in the coherence principle, and voluntary allocation via the central executive to the split-attention principle's support for searching corresponding graphics and text.
 

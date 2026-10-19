@@ -65,6 +65,7 @@ Rubrics and exemplars make quality criteria visible, supporting self-regulated p
 - **Self-Assessment** — the internalization endpoint of rubric use
 - [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 - [Use multiple exemplars with scaffolded discussion rather than mere provision, balancing teacher guidance against student co-construction](multiple-exemplars-dialogic-discussion.md)
+- [Use rubrics to make assessment criteria and performance levels explicit so students can regulate their learning](rubrics-transparency-support-self-regulation.md)
 
 ## Examples
 - **[Explain Everything / model essays in AP courses](https://apcentral.collegeboard.org)** — College Board publishes scored sample essays with grader commentary for every free-response question; students study scored exemplars against the published rubric before writing.

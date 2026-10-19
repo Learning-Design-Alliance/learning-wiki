@@ -12,7 +12,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (126 show a difference, 39 mixed, 28 no difference) · 141 studies (97 associational, 24 causal, 5 qualitative, 4 review, 4 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 23 of 141 report an effect size · 185 claims rest on one study
+> **Evidence** · 197 claims (129 show a difference, 40 mixed, 28 no difference) · 144 studies (97 associational, 25 causal, 5 qualitative, 5 theoretical, 4 quant-synthesis, 4 review, 4 design), `q1`–`q4` · 23 of 144 report an effect size · 189 claims rest on one study
 
 ## How to read this page
 
@@ -230,6 +230,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](../claims/gender-stereotyped-performance-judgments-adults.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students provided lower local judgments with lower sensitivity but higher specificity than male students](../claims/gender-differences-local-judgments-sensitivity-specificity.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The homework management–homework behavior link is stronger for girls than for boys](../claims/homework-management-behavior-link-stronger-girls.md) [+M] — an instructional effect differs by group
+- [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](../claims/small-significant-gender-gap-ct-overall.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](../claims/pedagogical-tool-moderates-ct-gender-gap.md) [~M] — an instructional effect differs by group
+- [Perceived biased treatment linked to brilliance-oriented FABs explains a substantial portion of the gender gap in entry into brilliance-oriented fields](../claims/biased-treatment-explains-gender-gap-entry.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The learning benefit of mathematics test practice is larger for boys than for girls](../claims/math-practice-effect-larger-for-boys.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

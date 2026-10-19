@@ -67,3 +67,4 @@ Experiment 2 (94 introductory psychology students, two dropped) replicated the i
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related
 - [Relationships between individual differences and final test performance were nonsignificant in retrieval practice conditions but significant in the rereading condition](individual-difference-correlations-vary-by-strategy-condition.md) — related
+- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related

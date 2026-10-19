@@ -53,3 +53,4 @@ Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, u
 - [Rapid automatized naming is the only component skill weakly related to reading comprehension in struggling adult readers (r = .15)](ran-weakly-related-adult-comprehension.md) — reports the opposite
 - [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](real-word-vs-pseudoword-decoding-adults.md) — related
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — a narrower finding that bears on this claim
+- [Effect sizes linking reading components to comprehension are highly heterogeneous across studies, partly explained by age, country, and comprehension test used.](heterogeneity-age-country-comprehension-tests.md) — related

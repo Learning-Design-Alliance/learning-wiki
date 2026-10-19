@@ -16,6 +16,9 @@ sources:
 
 # Treat the low-active condition as the experimental condition in physical activity studies with children
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because intentionally reducing children's daily step count raises ethical concerns, the authors propose an alternative in which "a low-active condition" — usually designed as the control in physical activity interventions — is instead "considered ... as the experimental condition". Children with normal physical activity levels serve as the control group, producing time-constrained periods of reduced or increased activity without forcing a significant overall reduction. An exemplary design is a parallel-groups cluster randomized controlled trial contrasting a high-active control, a passive control, and two lower-active experimental groups whose activity distribution is manipulated so overall dosage stays similar across the intervention period.
 

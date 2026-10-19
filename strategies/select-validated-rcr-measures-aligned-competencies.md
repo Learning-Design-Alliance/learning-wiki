@@ -16,6 +16,9 @@ sources:
 
 # RCR educators should select or develop measures aligned with core RCR competencies and targeted learning outcomes, using the review's overview
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review offers its comprehensive overview of 15 validated measures as guidance for educators and researchers choosing evaluation instruments. Educators should match a measure's content (RI vs RE topics) and targeted learning outcomes (knowledge, attitude, sensitivity, judgement, behaviour) to their course's presuppositions and goals, and check the extent of its validation evidence. The authors also recommend developing new measures for topics currently missing from validated instruments.
 
@@ -36,7 +39,7 @@ The review offers its comprehensive overview of 15 validated measures as guidanc
 - aligning assessment with course learning outcomes
 
 ### Affordances
-- [Rcr Validation Evidence Framework Fenn Extended](../theories/rcr-validation-evidence-framework-fenn-extended.md)
+- [Rcr Validation Evidence Framework Fenn Extended](../research-methods/framework-of-reliability-and-validity-evidence-categories-for-classifying-rcr-outcome-meas.md)
 
 ## Related Strategies
 - 

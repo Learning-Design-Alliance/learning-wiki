@@ -48,3 +48,5 @@ Randomized experiment with 75 introductory psychology students (three dropped), 
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — reports the opposite
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
+- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related
+- [Situation-model-approach interventions produce a medium positive average effect (g = 0.46) on relative metacomprehension accuracy](situation-model-interventions-medium-average-effect-metacomprehension.md) — a broader claim this one bears on

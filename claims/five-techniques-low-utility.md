@@ -55,3 +55,4 @@ The monograph's overall assessment section lists the five low-utility techniques
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related
 - [Explicit transfer instructions, in which trainees discuss how trained strategies could apply to a new task, produced reliable transfer of imagery and sentence-generation training to unpracticed text learning in older adults](explicit-transfer-instructions-enable-strategy-transfer.md) — related
+- [Comprehension-test expectancy tended to be more effective than delayed-keywords listing and rereading, though interventions did not substantially differ overall](test-expectancy-tendency-larger-than-keywords-rereading.md) — related

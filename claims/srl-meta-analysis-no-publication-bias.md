@@ -55,3 +55,7 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related
 - [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — related
 - Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts — related
+- [A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias](egger-test-no-detectable-small-study-effects.md) — related
+- [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
+- [No evidence of publication bias was found in the meta-analysis](no-publication-bias-ct-gender-meta-analysis.md) — related
+- [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related

@@ -12,7 +12,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (59 show a difference, 15 mixed, 11 no difference) · 57 studies (22 causal, 19 associational, 6 review, 4 quant-synthesis, 3 design, 3 theoretical), `q1`–`q4` · 18 of 57 report an effect size · 80 claims rest on one study
+> **Evidence** · 88 claims (60 show a difference, 16 mixed, 12 no difference) · 58 studies (22 causal, 19 associational, 6 review, 5 quant-synthesis, 3 design, 3 theoretical), `q1`–`q4` · 19 of 58 report an effect size · 83 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -122,6 +122,9 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](../claims/profile-varying-predictive-effects-writing-achievement.md) [~M] — an instructional effect differs with it
 - [French fourth- and fifth-graders who received SRSD instruction produced higher-quality stories than matched peers who received regular writing instruction](../claims/srsd-improves-french-pupils-story-quality.md) [+M] — instruction changes it
 - [Improvements in planning skills mediated SRSD's effect on text quality, via better-structured stories containing more ideas](../claims/planning-skill-gains-mediate-srsd-writing-quality.md) [+M] — instruction changes it
+- [In primary grades, lower order writing and lower order mathematics skills show the strongest relation (r = 0.59); in adulthood the higher order pair is weak (r = 0.26)](../claims/subskill-pairs-relation-varies-by-grade.md) [~M] — learners who differ on it differ in outcomes
+- [Mathematics and writing skills are moderately correlated overall (r = 0.48) across 211 studies](../claims/math-writing-moderate-overall-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Mathematics and writing subskill category (lower vs. higher order) does not significantly moderate the mathematics–writing relation](../claims/subskill-category-no-moderation.md) [-M] — an instructional effect differs with it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

@@ -12,10 +12,17 @@ sources:
   - id: loyens-2008
     resource: "https://doi.org/10.1007/s10648-008-9082-7"
     title: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P. (2008). Self-Directed Learning in Problem-Based Learning and its Relationships with Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-008-9082-7"
-    author: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P"
+    author: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In an experiment comparing two PBL student groups, self-generating learning issues positively affected number of studied materials, self-study time, and time spent reporting literature. [→ Loyens 2008](#loyens-2008)
@@ -26,7 +33,7 @@ sources:
 
 Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P. (2008). Self-Directed Learning in Problem-Based Learning and its Relationships with Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-008-9082-7
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Experimental study by Verkoeijen et al. reviewed here: two PBL student groups received the same problem, one with learning issues incorporated and one generating issues themselves; outcomes were literature resources used, self-study time, and discussion time. The review reports the positive effects without printing statistics.
 

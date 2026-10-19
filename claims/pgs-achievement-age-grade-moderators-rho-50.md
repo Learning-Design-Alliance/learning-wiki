@@ -12,14 +12,25 @@ sources:
   - id: wilding-2024
     resource: "https://doi.org/10.1007/s10648-024-09928-4"
     title: "Wilding, K., Wright, M., & von Stumm, S. (2024). Using DNA to Predict Education: a Meta-analytic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09928-4"
-    author: "Wilding, K., Wright, M., & von Stumm, S"
+    author: "Wilding, K., Wright, M., & von Stumm, S."
+    q: 4
+    i: 3
+    kind: quant-synthesis
+    rigour: 2
   - id: wilding-2024-2
     resource: "https://doi.org/10.1007/s10648-024-09928-4"
     title: "Wilding, K., Wright, M., & von Stumm, S. (2024). Using DNA to Predict Education: a Meta-analytic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09928-4"
-    author: "Wilding, K., Wright, M., & von Stumm, S"
+    author: "Wilding, K., Wright, M., & von Stumm, S."
+    q: 4
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Age at assessment and achievement measure moderate polygenic score predictions of educational achievement; the adjusted pooled estimate rises to ρ = 0.50
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q4` · `i3` large
 
 ## Subclaims
 `q4 i3` After accounting for mean age at assessment, achievement measure, and sample ancestry, the pooled achievement association increased to ρ = 0.50 (95% CI 0.39–0.61). [→ Wilding 2024](#wilding-2024)
@@ -31,7 +42,7 @@ sources:
 
 Wilding, K., Wright, M., & von Stumm, S. (2024). Using DNA to Predict Education: a Meta-analytic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09928-4
 
-`q4 · i3`
+`q4 · i3` · `quant-synthesis · r2`
 
 Multiple-moderator meta-regression of achievement estimates including mean age, achievement measure, and ancestry; the pooled estimate "increased to ρ = 0.50, p < 0.001 (95% CI from 0.39 to 0.61)", indicative of a large effect size.
 
@@ -41,7 +52,7 @@ Multiple-moderator meta-regression of achievement estimates including mean age, 
 
 Wilding, K., Wright, M., & von Stumm, S. (2024). Using DNA to Predict Education: a Meta-analytic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09928-4
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r2`
 
 Meta-regression moderator effect of mean age at phenotypic assessment on achievement predictions; significant at p < 0.001, "with polygenic score predictions being stronger in adolescents than in younger children", consistent with age-increasing heritability via gene-environment correlations.
 

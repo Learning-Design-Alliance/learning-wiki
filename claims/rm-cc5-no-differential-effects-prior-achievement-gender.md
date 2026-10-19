@@ -53,3 +53,4 @@ Confirmatory RQ2 subgroup analyses of the MCIS RCT: students divided into four G
 - [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](a4l-grade5-ccu-no-impact.md) — related
 - [Grade 4 students in treatment schools scored significantly higher than control students on the CCU Assessments in each of the three study years, with effect sizes from 0.30 to 0.36](a4l-grade4-ccu-significant-impact.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
+- [Prior knowledge score did not significantly moderate the sequence effect within either experiment, though each experiment covered a restricted prior-knowledge range](prior-knowledge-not-significant-moderator-within-experiments.md) — related

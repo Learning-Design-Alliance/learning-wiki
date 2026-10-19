@@ -12,10 +12,17 @@ sources:
   - id: wirth-2025
     resource: "https://doi.org/10.1007/s10648-024-09983-x"
     title: "Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F. (2025). Far Transfer of Metacognitive Regulation: From Cognitive Learning Strategy Use to Mental Effort Regulation. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09983-x"
-    author: "Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F"
+    author: "Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Pandemic-related missingness in the field study occurred at random with respect to the hypotheses and did not bias the analyzed sample
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students from the seven control-group classes unavailable for posttest did not differ from other students on pretest scores, age, and gender, supporting the claim that missing data did not bias results. [→ Wirth 2025](#wirth-2025)
@@ -26,7 +33,7 @@ sources:
 
 Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F. (2025). Far Transfer of Metacognitive Regulation: From Cognitive Learning Strategy Use to Mental Effort Regulation. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09983-x
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Secondary missingness analysis in the Sample and Design section comparing the seven complete control-group classes lost to COVID-19 absence with remaining classes on four pretest scores, age, and gender; the test was non-significant (p = 0.083). A further MANOVA found no main effect of missingness (p = 0.172) and no group-by-missingness interaction (p = 0.085), with only a significant school effect (p < 0.001). No effect size is printed, so impact is null.
 

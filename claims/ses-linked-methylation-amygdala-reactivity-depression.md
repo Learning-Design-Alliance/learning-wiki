@@ -45,3 +45,4 @@ The Perspective reports, citing a longitudinal multimethod study of stress-relat
 ## Related Claims
 - [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
 - [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
+- [Higher serotonin is associated with persisting in challenging situations, and serotonin synthesis is greater when tryptophan is consumed in the morning or early afternoon](serotonin-persistence-tryptophan-timing.md) — related

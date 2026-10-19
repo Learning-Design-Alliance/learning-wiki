@@ -41,4 +41,4 @@ Hierarchical multiple regression (N = 81) predicting misconception RT; model 2b 
 
 
 ## Related Claims
--
+- [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — related

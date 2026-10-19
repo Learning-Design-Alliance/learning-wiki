@@ -12,10 +12,17 @@ sources:
   - id: madigan-2020
     resource: "https://doi.org/10.1007/s10648-020-09533-1"
     title: "Madigan, D. J. & Curran, T. (2020). Does burnout affect academic achievement? A meta-analysis of over 100,000 students. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09533-1"
-    author: "Madigan, D. J. & Curran, T"
+    author: "Madigan, D. J. & Curran, T."
+    q: 4
+    i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
 
 ## Subclaims
 `q4 i2` Across 29 studies, total burnout shows a small-to-medium significant negative weighted mean correlation with academic achievement. [→ Madigan 2020](#madigan-2020)
@@ -26,7 +33,7 @@ sources:
 
 Madigan, D. J. & Curran, T. (2020). Does burnout affect academic achievement? A meta-analysis of over 100,000 students. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09533-1
 
-`q4 · i2`
+`q4 · i2` · `quant-synthesis · r2`
 
 Robust variance random-effects meta-analysis of 29 studies reporting 89 effect sizes on burnout and academic achievement. The pooled corrected correlation was "rc+ = -.24, 95% CI = -.31, -.16", with small between-study heterogeneity (τ2 = .01).
 

@@ -46,3 +46,4 @@ Experiment 1 correlational analysis treating the RT difference between trial typ
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
 - [The association between nonsymbolic magnitude comparison and multiplication facts does not depend on trial type (OTS/ANS range or congruency) or numerical distance](nonsymbolic-multiplication-link-trial-type-independent.md) — related
+- [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — related

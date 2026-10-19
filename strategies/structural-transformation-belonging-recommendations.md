@@ -16,6 +16,9 @@ sources:
 
 # Move beyond individualized belonging approaches toward structural transformation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's concluding recommendation is that research, policy, and practice should move beyond individualized or superficial approaches toward structural transformation. It argues institutions bear the primary burden for creating belonging conditions, and that durable belonging 'requires more than episodic responses to crisis; it demands that colleges and universities resist cyclical retrenchment and instead build resilient structures of equity that persist, evolve, and remain accountable as social landscapes shift.' Practitioners can use the IEBM to decide which ecological level demands attention, and leaders to examine and shift policies, norms, and campus environments.
 
@@ -34,7 +37,7 @@ The article's concluding recommendation is that research, policy, and practice s
 - creating equitable institutional conditions in which all students can belong
 
 ### Affordances
-- [Iebm Intersectional Ecological Belonging Model](../theories/iebm-intersectional-ecological-belonging-model.md)
+- [Iebm Intersectional Ecological Belonging Model](../theories/bioecological-model-of-human-development.md)
 
 ## Related Strategies
 - 

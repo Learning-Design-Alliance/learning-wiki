@@ -65,6 +65,7 @@ Co-construction works because it makes evaluative criteria explicit and personal
 - [Peer Feedback](../elements/peer-feedback.md) — shared criteria make peer review consistent and trustworthy
 - [Exemplar Analysis](exemplar-analysis.md) — the induction activity that typically precedes co-construction
 - [Negotiated learning tasks: learners co-construct assignments with AI that meet curricular goals while being personally meaningful](negotiated-learning-tasks-ai.md)
+- [Use rubrics to make assessment criteria and performance levels explicit so students can regulate their learning](rubrics-transparency-support-self-regulation.md)
 
 ## Examples
 - **Andrade's rubric-referenced self-assessment studies** — middle and high school students co-developed writing rubrics and used them to self-assess drafts, improving essay quality and students' understanding of "good writing" (see Reddy & Andrade, 2010).

@@ -27,7 +27,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (27 for, 27 mixed, 3 against) · 66 studies (17 causal, 15 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 66 report an effect size · 48 claims rest on one study
+> **Evidence** · 59 claims (29 for, 27 mixed, 3 against) · 67 studies (17 causal, 16 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 67 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,8 @@ Claims read against this model that bear on it only at the edges. The other clai
 - [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W]
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+W] — attached 2026-10-15 from Ait Baha et al. (2024), which proposed "Integrate conversational agents into smart classrooms to create a supportive environment that encourages student interaction, engagement, and academic achievement"; tests this page's relationship.
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](../claims/physical-virtual-materials-equal-cvs-learning.md) [~W] — attached 2026-10-18 from Triona et al. (2003), which proposed "Substitute virtual for physical instructional materials without loss of learning when the instructional method is preserved"; tests this page's relationship.
+- [40% of IVR-vs-conventional comparisons had at least one confound related to instructional method and content](../claims/ivr-comparisons-40-percent-confounded.md) [+W] — attached 2026-10-19 from Lawson et al. (2024), which proposed "IVR comparison studies should control instructional methods and content between conditions before attributing learning gains to the medium".
+- [When activities were not controlled, the confound favored the IVR condition in 14 of 17 comparisons](../claims/activity-confounds-favor-ivr-condition.md) [+W] — attached 2026-10-19 from Lawson et al. (2024), which proposed "IVR comparison studies should control instructional methods and content between conditions before attributing learning gains to the medium".
 
 ## Objective and learner-valued goal
 

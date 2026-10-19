@@ -87,3 +87,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — related
 - [Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)](practice-testing-overall-meta-analytic-benefit.md) — related
 - [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
+- [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — related

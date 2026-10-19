@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1811 entries** · 0 stable · 1811 in review · 0 drafts
+**1814 entries** · 0 stable · 1814 in review · 0 drafts
 
 ---
 
@@ -510,6 +510,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Emerging Technology Adoption Framework](emerging-technology-adoption-framework.md) - A living edtech evaluation and procurement framework developed by Digital Promise and Educator CIRCLS, organizing stakeholder questions and criteria across initial evaluation, adoption, and post-adoption stages.
 * [eMINTS](emints.md) - A professional-development and coaching programme run by the eMINTS National Center that helps teachers integrate technology and inquiry-based learning into curriculum and instruction.
 * [Emotion Socialization Observation Scale (ESOS)](emotion-socialization-observation-scale-esos.md) - A structured classroom-observation assessment developed by Veraksa and colleagues to rate kindergarten teachers' reactions to children's emotions, modeling of emotional expressiveness, and teaching about emotions.
+* [Empirical-quality rubric instrument for evaluating rubric studies](empirical-quality-rubric-instrument-for-evaluating-rubric-studies.md) - A rubric-based assessment instrument developed by Panadero et al.
 * [Energizers](energizers.md) - Energizers is a classroom-based physical-activity programme developed for elementary students and implemented during the school day to increase activity and support on-task behaviour.
 * [Energy Skate Park: Basics (ESPB)](energy-skate-park-basics-espb.md) - A PhET Interactive Simulations physics simulation that lets learners explore conservation of energy and energy relationships by manipulating a skater, track, mass, and friction.
 * [ENGAGE](engage.md) - ENGAGE is a Unity-based game learning environment that teaches computational thinking to middle school students through an immersive underwater storyworld, visual programming tasks, and progressive challenge levels.
@@ -996,8 +997,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mentira](mentira.md) - Mentira is a place-based mobile game developed by Holden and Sykes that teaches Spanish sociopragmatic language use through collaborative crime-mystery interactions and contextual corrective feedback.
 * [Mentor Tech](mentor-tech.md) - Mentor Tech is a Texas Tech University programme that supports underrepresented students through matched faculty mentoring, workshops, community connections, and scholarships.
 * [Menu of Measures](menu-of-measures.md) - A curated resource developed by Mathematica and a panel of mathematics-instruction and measurement researchers for Bill & Melinda Gates Foundation grantees, listing valid, reliable, and accessible measures of middle-grades mathematics outcomes.
+* [Meta-analytic corpus of 77 studies and 276 effect sizes on school racial climate and belonging](meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon.md) - A research corpus assembled by Christy M.
 * [Meta-analytic corpus of 97 reports, 105 independent samples, and 216 effect sizes on L2 anxiety and achievement](meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi.md) - An open meta-analytic corpus assembled by Yasser Teimouri and colleagues from reports on second-language anxiety and achievement, with coded effect sizes and moderator information available through the IRIS database.
 * [Meta-analytic dataset of 38 RAE studies across 14 sports and 16 countries](meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries.md) - A dataset assembled and reanalysed by Cobley et al.
+* [Meta-analytic dataset of component–comprehension correlations in Spanish-speaking children](meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children.md) - A dataset assembled by Baker et al.
 * [Metacognitive Awareness of Reading Strategies Inventory](metacognitive-awareness-of-reading-strategies-inventory.md) - MARSI is a self-report assessment developed by Mokhtari and Reichard to measure learners' awareness and use of global, problem-solving, and support reading strategies.
 * [Metacognitive Interview Form for Younger and Older Students](metacognitive-interview-form-for-younger-and-older-students.md) - A semi-structured interview assessment developed by the North Central Regional Educational Laboratory (NCREL) to measure younger and older students' metacognitive reading-strategy use before, during, and after reading.
 * [Metacognitive Interview Form for Younger Students](metacognitive-interview-form-for-younger-students.md) - An informal, semi-structured NCREL reading assessment interview that elicits younger students’ awareness and use of metacognitive strategies before, during, and after reading.

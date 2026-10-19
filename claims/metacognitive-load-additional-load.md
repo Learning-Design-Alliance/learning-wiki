@@ -12,10 +12,17 @@ sources:
   - id: wirth-2025
     resource: "https://doi.org/10.1007/s10648-024-09983-x"
     title: "Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F. (2025). Far Transfer of Metacognitive Regulation: From Cognitive Learning Strategy Use to Mental Effort Regulation. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09983-x"
-    author: "Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F"
+    author: "Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F."
+    q: 1
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Metacognitive regulation of learning imposes additional cognitive load (metacognitive load) on top of the load of actual learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Metacognitive regulation demands cognitive resources additional to those required for actual learning, an extra burden some researchers call metacognitive load. [→ Wirth 2025](#wirth-2025)
@@ -26,7 +33,7 @@ sources:
 
 Wirth, J., Weber-Reuter, X.-L., Schuster, C., Fleischer, J., Leutner, D., & Stebner, F. (2025). Far Transfer of Metacognitive Regulation: From Cognitive Learning Strategy Use to Mental Effort Regulation. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09983-x
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Theoretical argument in the introduction, attributed to de Bruin et al. (2020), Seufert (2018), and Veenman (2012); the article notes some researchers propose the term "metacognitive load" for this extra burden, and that it may even decrease performance for learners with low prior knowledge. No empirical data are offered for this claim in the available text.
 

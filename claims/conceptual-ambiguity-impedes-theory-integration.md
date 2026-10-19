@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-017-9409-3"
     title: "Patricia A. Alexander. (2017). Issues of Constructs, Contexts, and Continuity: Commentary on Learning in Higher Education. Educational Psychology Review, 29, 345–351. https://doi.org/10.1007/s10648-017-9409-3"
     author: Patricia A. Alexander
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` When researchers do not explicate their definitions of key constructs, they introduce conceptual ambiguity, and theory integration is far less likely to result. [→ Patricia A. Alexander 2017](#patricia-a-alexander-2017)
@@ -26,7 +33,7 @@ sources:
 
 Patricia A. Alexander. (2017). Issues of Constructs, Contexts, and Continuity: Commentary on Learning in Higher Education. Educational Psychology Review, 29, 345–351. https://doi.org/10.1007/s10648-017-9409-3
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the commentary, illustrated by Zusho's finding that engagement is conceptualized variously as student effort, involvement, or academic and social engagement. The author argues there is "no reason to assume that even the same terms being voiced by researchers convey the similar meanings." No empirical test is offered.
 

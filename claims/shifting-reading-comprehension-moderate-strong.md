@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
     title: "Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5"
     author: Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards
+    q: 2
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: ting-zhou-2026-2
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
     title: "Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5"
     author: Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards
+    q: 2
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Shifting is moderately to strongly associated with reading comprehension, with large associations when reading-specific shifting tasks are paired with literal comprehension measures
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 14 studies, most showed moderate to strong shifting-reading comprehension links, with six studies reporting large associations. [→ Ting Zhou 2026](#ting-zhou-2026)
@@ -31,7 +42,7 @@ sources:
 
 Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Qualitative synthesis of 14 shifting-reading comprehension studies: "Most studies showed moderate to strong links", with one exception reporting r = .15 using the general Multiple Classification Card Sorting Test and GORT; no pooled effect size is printed.
 
@@ -41,7 +52,7 @@ Qualitative synthesis of 14 shifting-reading comprehension studies: "Most studie
 
 Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Pattern across six studies reporting large associations (Barber et al., 2020; Cartwright, 2002; Cartwright et al., 2010, 2019, 2020; Niedo et al., 2014): large effects occurred "particularly when the shifting task required higher-order conceptual or verbal switching" with literal comprehension measures.
 

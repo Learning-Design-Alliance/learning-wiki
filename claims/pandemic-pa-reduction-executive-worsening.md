@@ -12,10 +12,17 @@ sources:
   - id: herold-2025
     resource: "https://doi.org/10.1007/s10648-025-10031-5"
     title: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C. (2025). The Other Side of the Coin – A Call to Investigate the Influence of Reduced Levels of Physical Activity on Children's Cognition. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10031-5"
-    author: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C"
+    author: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C."
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Pandemic-related reduction in physical activity was associated with worsened executive functioning in younger adults, with reversal upon increased activity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` An observational study around the COVID-19 pandemic found that pandemic-related reduction in regular physical activity was associated with worsening of inhibitory control and working memory in younger adults, and the post-lockdown increase was associated with improvements. [→ Herold 2025](#herold-2025)
@@ -26,7 +33,7 @@ sources:
 
 Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C. (2025). The Other Side of the Coin – A Call to Investigate the Influence of Reduced Levels of Physical Activity on Children's Cognition. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10031-5
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The commentary reports, citing Macedonia et al., an observational pandemic study in younger adults in which "the pandemic-related reduction in regular physical activity levels was associated with worsening of executive functioning", and the post-lockdown increase was associated with performance improvements.
 

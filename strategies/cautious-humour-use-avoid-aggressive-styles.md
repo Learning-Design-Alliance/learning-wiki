@@ -16,6 +16,9 @@ sources:
 
 # Teachers should use classroom humour cautiously, avoiding aggressive styles and topics touching on students' protected characteristics
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on student reports across the reviewed studies, the review supports cautious, style-aware humour use: students suggested "teachers should use humour cautiously to avoid offence or timewasting", and in interviews highlighted aggressive jokes targeting hobbies, appearance, politics, and protected characteristics as topics to avoid. Positive reception was linked to good rapport, self-confidence, and being in tune with what the class finds funny.
 

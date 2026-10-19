@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
     title: "Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5"
     author: Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards
+    q: 2
+    i: 3
+    kind: quant-synthesis
+    rigour: "?"
   - id: ting-zhou-2026-2
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
     title: "Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5"
     author: Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards
+    q: 2
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Associations between inhibition and word reading are task-dependent, ranging from negligible to large (r = .59)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Some inhibition-word reading pairs show large associations, e.g., interference control with TOWRE word reading (r = .59). [→ Ting Zhou 2026](#ting-zhou-2026)
@@ -31,7 +42,7 @@ sources:
 
 Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5
 
-`q2 · i3`
+`q2 · i3` · `quant-synthesis · r?`
 
 Qualitative synthesis of 13 inhibition-word reading studies. Two reported large effects, including "interference control task to measure inhibition and the TOWRE to assess word reading (r = .59)"; the other reported r = .53 with WJ Letter-Word Identification.
 
@@ -41,7 +52,7 @@ Qualitative synthesis of 13 inhibition-word reading studies. Two reported large 
 
 Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Qualitative synthesis contrast: the same inhibition domain (interference control) showed a negligible association when paired with the Single Word Reading Test, unlike Stroop-based pairs with WRMT Word Identification and WIAT Word Reading.
 

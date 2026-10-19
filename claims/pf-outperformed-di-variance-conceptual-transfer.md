@@ -47,3 +47,4 @@ Classroom-based study with 9th-grade students learning the concept of variance; 
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — reports the opposite
 - [No significant differences among PF, VF-high, VF-low, and DI conditions on procedural knowledge acquisition](no-condition-effect-procedural-knowledge.md) — related
+- [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — a broader claim this one bears on

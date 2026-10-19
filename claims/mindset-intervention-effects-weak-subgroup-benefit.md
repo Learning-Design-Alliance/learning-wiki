@@ -54,3 +54,4 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
 - [Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances](no-intervention-effective-all-circumstances.md) — related
 - Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects — related
+- [GMT as a standalone intervention shows small average effects that approach zero when publication bias is controlled, per the review's account of Macnamara and Burgoyne's meta-analysis](gmt-standalone-small-mixed-effects.md) — a narrower finding that bears on this claim

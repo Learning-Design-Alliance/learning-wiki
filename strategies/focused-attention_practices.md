@@ -58,9 +58,11 @@ Focused-attention practices improve the attentional conditions for learning rath
 6. **Reflect and monitor.** Periodically have learners self-report focus and stress levels to build awareness of the practice's effect on their own learning.
 
 ## Related Strategies
+
 - Activating prior knowledge — both are pre-instructional routines that prepare the learner's cognitive state before new content
 - Check-ins — a related brief routine that surfaces emotional state rather than training attention
 - Chunking — the complementary load-side intervention: focused attention manages the learner's arousal, chunking manages the material's demand
+- [Use exhale-dominant and inhale-dominant breathing to tune alertness to the calm-alert range for learning](breathing-techniques-tune-alertness.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — Published K–8 curriculum built around a daily 3-minute "Core Practice" of breath and listening anchoring before academic lessons.

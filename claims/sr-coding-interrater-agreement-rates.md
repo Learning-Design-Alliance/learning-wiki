@@ -12,10 +12,17 @@ sources:
   - id: jiang-2025
     resource: "https://doi.org/10.1007/s10648-025-10066-8"
     title: "Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S. (2025). Untangling Conceptual Clutter: A Systematic Review of Adult-Reported Self-Regulation Measurement in Children Aged 0–8 Years. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10066-8"
-    author: "Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S"
+    author: "Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Facet coding reached 77.71% thematic and 68.57% identical agreement; alignment coding reached 80.57%; domain coding 79.43%; category coding 95%. [→ Jiang 2025](#jiang-2025)
@@ -26,7 +33,7 @@ sources:
 
 Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S. (2025). Untangling Conceptual Clutter: A Systematic Review of Adult-Reported Self-Regulation Measurement in Children Aged 0–8 Years. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10066-8
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Two coders independently open-coded all unique terms from measure manuals without a pre-existing code list, with disagreements resolved through discussion. The article reports "Thematic agree- ment was calculated as 77.71%." and identical agreement as 68.57%.
 

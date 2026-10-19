@@ -75,3 +75,4 @@ Interaction terms from the same mixed-effects regression model on posttest probl
 - [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](erroneous-examples-benefit-both-prior-knowledge-levels.md) — related
 - [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](pretest-accuracy-moderates-typical-argument-training.md) — related
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — reports the opposite
+- [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](practice-effect-varies-by-prior-achievement.md) — related

@@ -46,3 +46,4 @@ Computer simulation (Experiment 3) using the Lee & Sarnecka generative model to 
 - [The Excel sheet's knower-level inference closely matches fully Bayesian inference, with no discrepancies in posterior maxima](excel-sheet-matches-bayesian-knower-inference.md) — related
 - [Knower levels were longitudinally stable across sessions, replicating Wynn, while the CP-Non-Mapper/CP-Mapper distinction fluctuated across sessions](knower-levels-stable-mapper-distinction-unstable.md) — related
 - [Fully Bayesian inference on the calibration data set assigned 423 sessions across six knower levels and estimated an evidence value v of 16.94](calibration-knower-levels-and-evidence-value.md) — related
+- [Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates](observational-studies-increasingly-produce-practice-recommendations.md) — related

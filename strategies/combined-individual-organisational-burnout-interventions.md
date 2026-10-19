@@ -16,6 +16,9 @@ sources:
 
 # Combine individual and organisational interventions, plus burnout awareness-raising, to protect achievement
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that educators make the implications of burnout clear to teachers and students, arguing that "increasing burnout awareness (and literacy) will likely be an effective first step". For prevention and reduction, it points to interventions targeting the individual (e.g., stress training) and the organisation (e.g., reducing exams, exam pressure, and parental expectations), noting recent evidence outside education that "a combination of both individual and organisational interventions is likely to be most effective". It calls for research testing such strategies in educational contexts.
 

@@ -238,6 +238,8 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Reinforce growth mindsets through explicit messages plus implicit classroom practices](../strategies/growth-mindset-explicit-and-implicit-practices.md)
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](../strategies/chatbot-support-reinforces-effort-and-strategy.md)
 - [Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge](../strategies/mindset-theory-early-in-teacher-education.md)
+- [Combine metacognitive strategy information with motivational interventions that increase task value, and reduce need frustration](../strategies/combine-metacognitive-info-with-value-interventions.md)
+- [Raise serotonin through morning sunlight, timed tryptophan intake and exercise, and gratitude practices to support tolerance for failure](../strategies/sunlight-tryptophan-gratitude-serotonin-tools.md)
 
 ### Illustrative
 

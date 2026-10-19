@@ -78,3 +78,4 @@ The authors' comparison of achievement across gender groups in the same test fou
 - [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related
 - [Gender findings on adolescent creativity are mixed and depend on the domain or topic of the creativity test](gender-creativity-mixed-domain-dependent.md) — a broader claim this one bears on
 - [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related
+- [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related

@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
     title: "Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2"
     author: Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
   - id: pauliina-avola-2025-2
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
     title: "Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2"
     author: Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Intervention contents align with PERMA-H mainly through engagement (25), relationships (17), positive emotions (14) and health (8), with no content matching meaning or accomplishment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 43 of the 46 interventions had content aligning with the PERMA-H model; engagement aligned with 25 interventions, relationships with 17, positive emotions with 14, and health with 8. [→ Pauliina Avola 2025](#pauliina-avola-2025)
@@ -31,7 +42,7 @@ sources:
 
 Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Fourth analysis phase mapping intervention contents onto PERMA-H elements. The review reports "A total of 43 of the interventions included in the review had content that aligned with the PERMA-H model", with engagement the most frequent element (25 interventions) and relationships next (17).
 
@@ -41,7 +52,7 @@ Fourth analysis phase mapping intervention contents onto PERMA-H elements. The r
 
 Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review's mapping found gaps in the PERMA-H coverage: it states no contents related to meaning (M) and accomplishment (A) were identified from the intervention descriptions, while "contents related to physical health (H) were included in eight interventions (e.g. Abós et al., 2021; Gold et al., 2010)." In three studies no PERMA-H-related content was identified.
 

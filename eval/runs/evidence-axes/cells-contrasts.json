@@ -35690,5 +35690,113 @@
  "prompts\tpre-monitoring judgments for all four answer alternatives before recognition\tno pre-monitoring judgments": {
   "label": "pre-monitoring prompts vs no pre-monitoring prompts",
   "treatment_is_a": true
+ },
+ "autonomy-support\tneed-supportive, autonomy-supportive learning context\tneed-frustrating or controlling learning context": {
+  "label": "autonomy-supportive vs controlling learning context",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tsystem-directed learner control\tlearner-directed learner control": {
+  "label": "learner-directed vs system-directed learner control",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\ttechnology-use guidance\tno technology-use guidance": {
+  "label": "technology-use guidance vs no technology-use guidance",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback\tdelayed feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tinterventions with immediate feedback\tinterventions with delayed feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-assessment plus peer assessment\tself-assessment only": {
+  "label": "self- and peer-assessment vs self-assessment only",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tuse of rubrics\tcontrol condition": {
+  "label": "rubrics vs no rubrics",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tuse of rubrics\tcontrol group without rubrics": {
+  "label": "rubrics vs no rubrics",
+  "treatment_is_a": true
+ },
+ "practice-amount\t1 hour of additional mathematics problem-solving practice\tless mathematics content in the same 2-hour practice test": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tgreater amount of mathematics problem-solving practice\tless amount of mathematics problem-solving practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tgreater amount of mathematics problem-solving practice\tless mathematics practice with more science and reading practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore mathematics problem-solving practice\tless mathematics practice in a placebo test": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore mathematics problem-solving practice\tless mathematics problem-solving practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore mathematics problem-solving practice (G2)\tleast mathematics problem-solving practice (G1)": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore mathematics problem-solving practice (G3)\tleast mathematics problem-solving practice (G1)": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\texplicit instruction before problem-solving\tproblem-solving before explicit instruction": {
+  "label": "problem-solving before instruction vs instruction before problem-solving",
+  "treatment_is_a": false
+ },
+ "problem-first\texplicit instruction before problem-solving (I-PS)\tproblem-solving before explicit instruction (PS-I)": {
+  "label": "problem-solving before instruction vs instruction before problem-solving",
+  "treatment_is_a": false
+ },
+ "problem-first\tinstruction before problem-solving\tproblem-solving before instruction": {
+  "label": "problem-solving before instruction vs instruction before problem-solving",
+  "treatment_is_a": false
+ },
+ "problem-first\tinstruction before problem-solving (I-PS)\tproblem-solving before instruction (PS-I)": {
+  "label": "problem-solving before instruction vs instruction before problem-solving",
+  "treatment_is_a": false
+ },
+ "problem-first\tproblem-solving before explicit instruction\texplicit instruction before problem-solving": {
+  "label": "problem-solving before instruction vs instruction before problem-solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving before explicit instruction (PS-I)\texplicit instruction before problem-solving (I-PS)": {
+  "label": "problem-solving before instruction vs instruction before problem-solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure before instruction\tinstruction followed by problem-solving": {
+  "label": "problem-solving before instruction vs instruction before problem-solving",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfree-recall testing\trecognition testing": {
+  "label": "free-recall vs recognition",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice or testing\trestudying or re-reading": {
+  "label": "retrieval practice vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting or retrieval practice\trestudying": {
+  "label": "retrieval practice vs restudying",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tinternal pursuit motivation\texternal rewards": {
+  "label": "Intrinsic motivation vs extrinsic rewards",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying worked examples when motivated\tstudying worked examples when not motivated": {
+  "label": "motivated vs not motivated",
+  "treatment_is_a": true
  }
 }

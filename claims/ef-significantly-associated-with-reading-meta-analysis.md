@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
     title: "Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5"
     author: Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards
+    q: 4
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Executive functions show significant associations with reading outcomes in elementary school children (meta-analysis of 60 studies, 275 effect sizes)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4`
 
 ## Subclaims
 `q4 i?` Across 60 studies yielding 275 effect sizes, meta-analysis revealed significant associations between EF and reading outcomes. [→ Ting Zhou 2026](#ting-zhou-2026)
@@ -26,7 +33,7 @@ sources:
 
 Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r?`
 
 Pre-registered three-level random-effects meta-analysis of zero-order correlations from 60 of 69 included studies of typically developing English-first-language children aged 5-13. The meta-analysis revealed "significant associations between EF and reading outcomes"; no pooled effect size is printed in the provided text.
 

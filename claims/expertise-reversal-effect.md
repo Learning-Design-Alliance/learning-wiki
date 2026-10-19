@@ -220,3 +220,4 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs](phase4-truncation-mastered-variables.md) — a narrower finding that bears on this claim
 - [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — possibly the same claim (merge candidate)
 - [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](imagination-effect-expertise-reversal.md) — a narrower finding that bears on this claim
+- [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](expertise-reversal-evolutionary-interpretation.md) — a narrower finding that bears on this claim

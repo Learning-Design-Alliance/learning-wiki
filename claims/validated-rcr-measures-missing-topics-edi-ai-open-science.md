@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-026-10187-8"
     title: "M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8"
     author: M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Validated RCR measures omit emerging and social-safety topics including EDI, whistleblower protections, AI use in research, predatory journals and open-science practices
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No items in any measure addressed equity, diversity and inclusion, social safety or whistleblower protections. [→ M. van Loon 2026](#m-van-loon-2026)
@@ -27,7 +34,7 @@ sources:
 
 M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Content-analysis findings on topic coverage gaps across the 15 measures. The discussion adds that "more recent threats to research integrity, such as the use of AI in research methods and reporting, and knowledge of predatory journals were not evaluated in measures" and that intellectual property and new biotech ethics were coded but absent.
 

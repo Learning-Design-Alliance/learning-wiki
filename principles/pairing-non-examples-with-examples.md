@@ -22,7 +22,7 @@ sources:
 # Pairing Non-examples with Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 19 studies (9 causal, 4 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 20 studies (9 causal, 5 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,7 @@ Claims read for this page that bear on it less directly; none is part of the mod
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](../claims/worked-examples-improve-math-performance.md) [+M]: its Barbieri & Booth (2016) entry reports that worked-example variants including incorrect worked examples supported struggling algebra students; no source text was available to check it, and it is a different paper from the Barbieri & Booth (2020) study in Key Sources.
 - [Invention Tasks Prepare Future Learning](../claims/invention-tasks-prepare-future-learning.md) [~M]: ninth-graders who invented a statistics procedure before instruction later learned more from a worked-example resource; its Discussion says pairing invention with contrasting cases is the standard design, which the entry does not test.
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](../claims/self-explanation-effect-worked-examples.md) [+M]: a review reporting that self-explaining examples, and explaining their deep structure, went with better problem solving; it bears on step 3's explanation prompt, not on non-examples.
+- [Contrasting erroneous examples were more often effective than correct examples and problem-solving, sometimes equally or more effective than erroneous examples](../claims/con-errex-more-often-effective.md) [+W] — attached 2026-10-19 from Sonja Dieterich et al. (2025), which proposed "Use contrasting erroneous examples rather than erroneous examples alone when the goal is comparing incorrect and correct solutions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-025-10071-x"
     title: "Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x"
     author: Sonja Dieterich, Stefan Rumann, Marc Rodemer
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Erroneous examples were beneficial only in combination with elaborated feedback, not with corrective feedback alone
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In clinical-scenario studies, ErrEx was beneficial only when combined with elaborated feedback; ErrEx with corrective feedback alone was not beneficial. [→ Sonja Dieterich 2025](#sonja-dieterich-2025)
@@ -26,7 +33,7 @@ sources:
 
 Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Table 1 entries for Kopp et al. (2008) and Kopp et al. (2009a, b), ErrEx vs CorrEx comparisons in clinical scenarios, report that "ErrEx only beneficial in combina- tion with EFB". The influential factor coded was elaborated feedback, with a study prompt used.
 

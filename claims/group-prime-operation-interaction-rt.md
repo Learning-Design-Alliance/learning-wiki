@@ -62,4 +62,4 @@ Same analysis. Main effects of group (DD M = 977.8 ms vs Control M = 844 ms; F(1
 
 
 ## Related Claims
--
+- [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related

@@ -76,3 +76,4 @@ Cross-district finding on rubric comparability. The report frames this as a tens
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — a narrower finding that bears on this claim
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](locally-developed-performance-assessments-teacher-collaborative-scoring.md) — related
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related
+- [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related

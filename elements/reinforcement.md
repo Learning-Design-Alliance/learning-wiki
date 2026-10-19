@@ -75,6 +75,7 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 **Khan Academy (https://www.khanacademy.org)** — Energy points and mastery badges reinforce sustained [practice](practice.md) volume, though the platform pairs them with informational feedback so reinforcement does not stand alone.
 
 **Precision Teaching / fluency-based instruction** — Rate-of-response charting (the Standard Celeration Chart) makes reinforcement contingent on fluency improvement, used in special education and fluency programs since the 1960s.
+- [Reframe failure as part of success, break long-term goals into short-term controllable action goals, and use randomized intermittent external rewards](../strategies/reframe-failure-short-term-goals-intermittent-rewards.md)
 
 ## Key Sources
 - Skinner, B. F. (1968). *The technology of teaching*. Appleton-Century-Crofts.

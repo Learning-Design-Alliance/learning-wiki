@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-026-10187-8"
     title: "M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8"
     author: M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
   - id: m-van-loon-2026-2
     resource: "https://doi.org/10.1007/s10648-026-10187-8"
     title: "M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8"
     author: M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Publication and dissemination is the most frequent research integrity item topic, and consent the most frequent research ethics topic, in validated RCR measures
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Eleven measures included publication and dissemination items, the most frequent RI topic, centred on authorship and plagiarism. [→ M. van Loon 2026](#m-van-loon-2026)
@@ -31,7 +42,7 @@ sources:
 
 M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Qualitative content analysis of items in the 15 validated measures, coded deductively against the European Code of Conduct and European Textbook on Ethics in Research. Most frequent topics were "appropriate and inappropriate authorship contributions and plagiarism of text or ideas".
 
@@ -41,7 +52,7 @@ Qualitative content analysis of items in the 15 validated measures, coded deduct
 
 M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Content analysis of RE topics: ethics oversight appeared in eight measures and balancing harms and benefits in eight; consent items were most frequently knowledge items about elements of consent forms. The discussion notes a dominance reflecting "a very traditional understanding of research e[thics]".
 

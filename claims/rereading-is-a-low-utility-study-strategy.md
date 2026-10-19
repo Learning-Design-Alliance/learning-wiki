@@ -99,3 +99,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Retrieval practice conditions produced significantly higher cognitive load than rereading](retrieval-practice-increases-cognitive-load.md) — related
 - [Restudy of an evidence summary alone produces no measurable skill improvement between simulator attempts](restudy-alone-no-skill-improvement.md) — a narrower finding that bears on this claim
 - [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](video-model-improves-retrieval-questioning-skill.md) — related
+- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related

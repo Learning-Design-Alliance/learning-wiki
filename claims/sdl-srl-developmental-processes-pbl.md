@@ -12,10 +12,17 @@ sources:
   - id: loyens-2008
     resource: "https://doi.org/10.1007/s10648-008-9082-7"
     title: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P. (2008). Self-Directed Learning in Problem-Based Learning and its Relationships with Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-008-9082-7"
-    author: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P"
+    author: "Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # SDL and SRL are developmental processes: senior students show more self-directed and self-regulated learning across several reviewed studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across reviewed studies, college seniors were more self-directed and self-regulated than junior students, implying SDL and SRL can be learned. [→ Loyens 2008](#loyens-2008)
@@ -26,7 +33,7 @@ sources:
 
 Loyens, S. M. M., Magda, J., & Rikers, R. M. J. P. (2008). Self-Directed Learning in Problem-Based Learning and its Relationships with Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-008-9082-7
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review synthesis of empirical SDL and SRL studies in PBL settings. The review reports that "college seniors were found to be more self-directed and self-regulated in several studies", citing van den Hurk et al., Dolmans and Schmidt, Kivela and Kivela, Dahlgren and Dahlgren, and Evensen. No effect sizes are printed.
 

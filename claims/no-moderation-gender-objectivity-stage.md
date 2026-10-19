@@ -12,10 +12,17 @@ sources:
   - id: madigan-2020
     resource: "https://doi.org/10.1007/s10648-020-09533-1"
     title: "Madigan, D. J. & Curran, T. (2020). Does burnout affect academic achievement? A meta-analysis of over 100,000 students. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09533-1"
-    author: "Madigan, D. J. & Curran, T"
+    author: "Madigan, D. J. & Curran, T."
+    q: 3
+    i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Gender, achievement-measure objectivity, and education stage did not moderate the burnout–achievement relationship
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Objectivity of the achievement measure and gender did not emerge as moderating factors, and burnout manifested similarly for secondary and tertiary students. [→ Madigan 2020](#madigan-2020)
@@ -26,7 +33,7 @@ sources:
 
 Madigan, D. J. & Curran, T. (2020). Does burnout affect academic achievement? A meta-analysis of over 100,000 students. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09533-1
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression moderator analyses testing instrument, academic level, achievement measure, objectivity, and gender. Only the instrument moderator was significant; the authors report the present findings "seem to challenge these assertions" about secondary students' greater susceptibility.
 

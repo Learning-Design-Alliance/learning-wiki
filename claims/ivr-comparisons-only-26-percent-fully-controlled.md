@@ -12,10 +12,17 @@ sources:
   - id: lawson-2024
     resource: "https://doi.org/10.1007/s10648-024-09908-8"
     title: "Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E. (2024). Confounded or Controlled? A Systematic Review of Media Comparison Studies Involving Immersive Virtual Reality for STEM Education. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09908-8"
-    author: "Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E"
+    author: "Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Only 26% of IVR-vs-conventional comparisons in STEM media comparison studies were fully controlled on five key control criteria
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Of 50 comparisons across 38 studies, only 13 (26%) met all five control criteria (activities, non-IVR activities, practice with dependent measure, time, content). [→ Lawson 2024](#lawson-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E. (2024). Confounded or Controlled? A Systematic Review of Media Comparison Studies Involving Immersive Virtual Reality for STEM Education. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09908-8
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Systematic review (PRISMA-guided, pre-registered) coding 50 comparisons from 38 studies against five control criteria. The review reports "only 26% of all comparisons" were fully controlled; under a second approach treating 'difficult to determine' codes as unpenalized, 13 comparisons (26%) were fully controlled and 27 (54%) were difficult to determine.
 

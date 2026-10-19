@@ -98,3 +98,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related
 - [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — related
 - [Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels](prior-knowledge-moderates-scaffolding-effectiveness.md) — related
+- [Optimal task design determined in laboratory studies may depend on learners' level of effort-by-allocation](task-design-depends-on-effort-allocation.md) — related

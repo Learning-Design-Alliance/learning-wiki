@@ -66,3 +66,5 @@ In the graphing MANCOVA (n = 120 randomized students), the condition-by-pre-test
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Prior knowledge strongly predicts post-test application and transfer scores in both topics](pretest-predicts-inquiry-outcomes.md) — related
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
+- [For biochemistry students with relatively higher topic-specific prior knowledge, instruction-first (I-PS) outperformed problem-solving-first (PS-I) on a near-transfer test](i-ps-beats-ps-i-near-transfer-higher-prior-knowledge.md) — related
+- [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related

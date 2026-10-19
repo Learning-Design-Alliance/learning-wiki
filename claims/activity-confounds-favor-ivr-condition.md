@@ -12,10 +12,17 @@ sources:
   - id: lawson-2024
     resource: "https://doi.org/10.1007/s10648-024-09908-8"
     title: "Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E. (2024). Confounded or Controlled? A Systematic Review of Media Comparison Studies Involving Immersive Virtual Reality for STEM Education. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09908-8"
-    author: "Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E"
+    author: "Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # When activities were not controlled, the confound favored the IVR condition in 14 of 17 comparisons
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In 14 of 17 comparisons where activities were not (or likely not) controlled, the IVR condition seemed to have a learning advantage, mostly because it had activities the conventional condition lacked. [→ Lawson 2024](#lawson-2024)
@@ -26,7 +33,7 @@ sources:
 
 Lawson, A. P., Martella, A. M., LaBonte, K., Delgado, C. Y., Zhao, F., Gluck, J. A., Munns, M. E., LeRoy, A. W., & Mayer, R. E. (2024). Confounded or Controlled? A Systematic Review of Media Comparison Studies Involving Immersive Virtual Reality for STEM Education. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09908-8
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Analysis of Category 7 results in the review. Advantages consisted of the IVR condition having learning activities when the conventional condition did not (11 of 14) and an activity confound favoring IVR (3 of 14); in 3 comparisons the advantage direction was difficult to determine.
 

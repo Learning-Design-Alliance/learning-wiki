@@ -1,0 +1,50 @@
+---
+type: claim
+title: Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)
+description: Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)
+id: small-significant-gender-gap-ct-overall
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-19
+evidence_strength: moderate
+sources:
+  - id: suya-liu-yun-dai-oi-lam-ng-zhihui-cai-2025
+    resource: "https://doi.org/10.1007/s10648-025-10095-3"
+    title: "Suya Liu · Yun Dai · Oi Lam Ng · Zhihui Cai. (2025). Gender Disparity in Computational Thinking Pedagogy and Assessment: A Three-Level Meta-Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10095-3"
+    author: Suya Liu · Yun Dai · Oi Lam Ng · Zhihui Cai
+    q: 4
+    i: "?"
+    kind: quant-synthesis
+    rigour: 3
+---
+
+# Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+
+## Subclaims
+`q4 i?` Across 53 studies and 100 effect sizes, the three-level random-effects meta-analysis yields an overall effect size of g = 0.106 (95% CI [0.024, 0.188], p < 0.05) favoring males. [→ Suya Liu · Yun Dai · Oi Lam Ng · Zhihui Cai 2025](#suya-liu-yun-dai-oi-lam-ng-zhihui-cai-2025)
+
+## Evidence
+
+### Suya Liu · Yun Dai · Oi Lam Ng · Zhihui Cai 2025
+
+Suya Liu · Yun Dai · Oi Lam Ng · Zhihui Cai. (2025). Gender Disparity in Computational Thinking Pedagogy and Assessment: A Three-Level Meta-Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10095-3
+
+`q4 · i?` · `quant-synthesis · r3`
+
+Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yielding 100 effect sizes from 15,454 participants. The model found "a very small but statistically significant effect favoring males"; substantial heterogeneity was present (Q(99) = 338.367, p < 0.001), with 48.85% of variance at level 3.
+
+> "the three-level random-effects model yielded an overall effect size of g = 0.106 (SE = 0.041, 95% CI [0.024, 0.188], t = 2.569, p < 0.05), indicating a very small but statistically significant effect favoring males"
+
+## Discussion
+
+
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+
+## Related Claims
+- [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](pedagogical-tool-moderates-ct-gender-gap.md) — a narrower finding that bears on this claim
+- [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related

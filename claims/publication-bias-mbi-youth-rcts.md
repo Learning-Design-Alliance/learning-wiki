@@ -48,3 +48,4 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - Risk of bias moderates the Mindfulness effect in active-control RCTs, with higher-risk studies producing larger effect sizes — related
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
 - Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related
+- [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related

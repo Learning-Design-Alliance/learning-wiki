@@ -12,10 +12,17 @@ sources:
   - id: jiang-2025
     resource: "https://doi.org/10.1007/s10648-025-10066-8"
     title: "Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S. (2025). Untangling Conceptual Clutter: A Systematic Review of Adult-Reported Self-Regulation Measurement in Children Aged 0–8 Years. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10066-8"
-    author: "Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S"
+    author: "Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Systematic review identified 19 adult-reported self-regulation measures, 138 unique terms, 62 codes, and 25 facets
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Screening and coding of adult-reported measures yielded 19 measures (33 forms), 138 unique self-regulation terms, 62 codes, and 25 final facets. [→ Jiang 2025](#jiang-2025)
@@ -26,7 +33,7 @@ sources:
 
 Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S. (2025). Untangling Conceptual Clutter: A Systematic Review of Adult-Reported Self-Regulation Measurement in Children Aged 0–8 Years. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10066-8
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Systematic review searching PubMed, PsycINFO, ProQuest, and Academic Search Premier in April 2023. The review reports that "19 measures, encompassing the cognitive, emotional, and behavioral dimensions of self-regulation, were selected and reviewed."
 
@@ -36,4 +43,4 @@ Systematic review searching PubMed, PsycINFO, ProQuest, and Academic Search Prem
 
 
 ## Related Claims
--
+- [No instruments were found measuring teachers' self-regulation in relation to inclusive teaching of autistic children, a gap the review flags for future research](self-regulation-measurement-gap-autism-inclusive-teaching.md) — related

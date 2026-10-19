@@ -16,6 +16,9 @@ sources:
 
 # Pair erroneous examples with prompts that require learners to identify, explain, correct, or reflect on errors, while monitoring complexity to avoid overload
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review finds that prompts requiring learners to engage actively with embedded errors often promote deeper processing, but that this benefit must be balanced against cognitive load. It reports that "prompts that require learners to identify, explain, correct, or reflect on errors often promote deeper learning" while cautioning that "they may also shift the balance from productive engagement toward cognitive overload, particularly when the material is complex". The review codes twelve prompt categories, including explain/argue, reflect, identify, and correct.
 
@@ -36,7 +39,7 @@ The review finds that prompts requiring learners to engage actively with embedde
 - negative and positive knowledge acquisition
 
 ### Affordances
-- [Negative Knowledge Theory Osser](../theories/negative-knowledge-theory-osser.md)
+- Negative Knowledge Theory Osser
 
 ## Related Strategies
 - 

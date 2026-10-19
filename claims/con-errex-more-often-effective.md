@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-025-10071-x"
     title: "Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x"
     author: Sonja Dieterich, Stefan Rumann, Marc Rodemer
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
   - id: sonja-dieterich-2025-2
     resource: "https://doi.org/10.1007/s10648-025-10071-x"
     title: "Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x"
     author: Sonja Dieterich, Stefan Rumann, Marc Rodemer
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Contrasting erroneous examples were more often effective than correct examples and problem-solving, sometimes equally or more effective than erroneous examples
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Con-ErrEx vs CorrEx comparisons, Con-ErrEx was the beneficial example type in several studies, including significantly better merged-condition performance. [→ Sonja Dieterich 2025](#sonja-dieterich-2025)
@@ -31,7 +42,7 @@ sources:
 
 Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Table 1 entry for Barbieri and Devlin (2024), a Con-ErrEx vs CorrEx comparison with mathematical figures and KR feedback, reports "Con-ErrEx were significantly better as single type condition". The comparison and sequential Con-ErrEx conditions were not significantly different and were merged.
 
@@ -41,7 +52,7 @@ Table 1 entry for Barbieri and Devlin (2024), a Con-ErrEx vs CorrEx comparison w
 
 Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Table 1 entry for Corral and Carpenter (2020), combining data from two experiments with scenario texts and elaborated feedback, reports Con-ErrEx learned significantly more than CorrEx and ErrEx for classification questions, while for application questions ErrEx and Con-ErrEx enhanced learning equally.
 

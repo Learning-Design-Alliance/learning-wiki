@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-026-10187-8"
     title: "M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8"
     author: M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Fifteen unique RCR outcome measures with supporting validation evidence were identified, all covering research integrity but only ten covering research ethics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A total of 15 measures developed specifically for RCR course evaluation reported at least some reliability or validity evidence. [→ M. van Loon 2026](#m-van-loon-2026)
@@ -27,7 +34,7 @@ sources:
 
 M. van Loon, D. Crean, M. van den Hoven, J. Katsarov, N. Evans. (2026). How is the Impact of Responsible Conduct of Research Education Evaluated? A Review of Measures Used and a Content Analysis of Outcome Measures with Reported Validation Evidence. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10187-8
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Scoping review measure-selection stage: from 18 accessible measures with validation evidence, 7 were excluded for content unrelated to research conduct and 4 expert-suggested measures added. The review reports "Items addressing RI topics, as we defined them, were included in all 15 measures" and "Ten measuresincluded items on RE topics".
 

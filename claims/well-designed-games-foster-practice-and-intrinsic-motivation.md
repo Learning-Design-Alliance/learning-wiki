@@ -73,3 +73,5 @@ Authors' interpretation in the section on games as a culture medium: intrinsic i
 - [High GAI use is not a necessary condition for high learning engagement, and no single condition is strictly necessary](gai-use-not-necessary-high-engagement-fsqca.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](llm-over-reliance-deskilling-risk.md) — related
+- [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
+- [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related

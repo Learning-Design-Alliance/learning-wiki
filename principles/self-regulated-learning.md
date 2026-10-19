@@ -196,6 +196,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra](../elements/stellar-populations-inquiry-activity.md)
 - [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
 - [Apply evidence-based approaches from self-regulation, multimedia learning, motivation, and collaborative learning theories in distance and online course design](../strategies/evidence-based-approaches-next-generation-distance-learning.md)
+- [Combine metacognitive strategy information with motivational interventions that increase task value, and reduce need frustration](../strategies/combine-metacognitive-info-with-value-interventions.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

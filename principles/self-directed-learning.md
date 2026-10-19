@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 13 mixed, 1 against) · 33 studies (10 review, 7 causal, 6 theoretical, 5 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 33 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (11 for, 14 mixed, 1 against) · 34 studies (11 review, 7 causal, 6 theoretical, 5 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 34 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,7 @@ Learners, tasks, settings and outcomes differ across these claims (school studen
 Read against the model on 2026-10-15; the one claim below does not bear on a step, a row or the relationship.
 
 - [Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours](../claims/tough-1971-learning-projects-prevalence-self-planned.md) [+W]: background only. A 1994 review's report of an interview study of 66 adults; it says most adult learning projects are self-planned, which is context for designing for adults, not evidence about how a hand-over should be run or whether it works.
+- [Evidence that PBL fosters SDL is mixed across studies](../claims/pbl-fosters-sdl-mixed-evidence.md) [~W] — attached 2026-10-19 from Loyens et al. (2008), which proposed "Provide conceptual clarity and guidance to teachers and students so PBL can produce self-directed learners".
 
 ## Objective and learner-valued goal
 

@@ -12,14 +12,25 @@ sources:
   - id: herold-2025
     resource: "https://doi.org/10.1007/s10648-025-10031-5"
     title: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C. (2025). The Other Side of the Coin – A Call to Investigate the Influence of Reduced Levels of Physical Activity on Children's Cognition. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10031-5"
-    author: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C"
+    author: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C."
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
   - id: herold-2025-2
     resource: "https://doi.org/10.1007/s10648-025-10031-5"
     title: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C. (2025). The Other Side of the Coin – A Call to Investigate the Influence of Reduced Levels of Physical Activity on Children's Cognition. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10031-5"
-    author: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C"
+    author: "Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C."
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Adult detraining and bedrest studies suggest cessation of physical activity can worsen cognitive performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` A systematic review of detraining studies in older adults reported that cessation of a physical activity intervention is accompanied by worsening of cognitive performance. [→ Herold 2025](#herold-2025)
@@ -31,7 +42,7 @@ sources:
 
 Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C. (2025). The Other Side of the Coin – A Call to Investigate the Influence of Reduced Levels of Physical Activity on Children's Cognition. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10031-5
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The commentary reports, citing Ferreira et al., that a systematic review of detraining studies in older adults found cessation of physical activity intervention "is accompanied by a worsening of cognitive performance". The review attributes this finding to the cited review, not to new data.
 
@@ -41,7 +52,7 @@ The commentary reports, citing Ferreira et al., that a systematic review of detr
 
 Herold, F., Ludyga, S., Mavilidi, M. F., Benzing, V., Vazou, S., Tomporowski, P. D., & Pesce, C. (2025). The Other Side of the Coin – A Call to Investigate the Influence of Reduced Levels of Physical Activity on Children's Cognition. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10031-5
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The commentary reports, citing Barkaszi et al., that a review of bedrest studies found the evidence "mixed, and too premature for robust conclusions" due to methodological heterogeneity, while a small study in younger adults reported cognitive worsening after 60 days of bed rest.
 

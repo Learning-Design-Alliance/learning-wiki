@@ -73,3 +73,5 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
 - [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related
+- [Most moderator variables are not significantly related to rubric effects on academic performance, including rubric design specifics](rubric-moderators-mostly-non-significant.md) — related
+- [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related

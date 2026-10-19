@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
     title: "Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2"
     author: Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
   - id: pauliina-avola-2025-2
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
     title: "Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2"
     author: Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Professional development interventions showed mixed outcomes, with 14 of 20 studies supportive and 6 non-supportive
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 14 of 20 professional development interventions were supportive, improving self-efficacy, engagement and work satisfaction and reducing stress and burnout. [→ Pauliina Avola 2025](#pauliina-avola-2025)
@@ -31,7 +42,7 @@ sources:
 
 Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Review's outcome synthesis for the professional development theme. "We identified 14 out of 20 professional development studies as supportive inter - ventions", with reported benefits including higher self-efficacy, engagement, energy and work engagement, and reduced emotional exhaustion.
 
@@ -41,7 +52,7 @@ Review's outcome synthesis for the professional development theme. "We identifie
 
 Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review reports "A total of six (n=6) studies on professional development interventions were identified and categorised as non-supportive interventions", including Hayes et al. (2020) and Marlow et al. (2015) where there were no significant changes in teacher burnout or well-being despite enhanced classroom-management self-efficacy, and Lang et al. (2020) where teachers reported higher stress after the intervention.
 

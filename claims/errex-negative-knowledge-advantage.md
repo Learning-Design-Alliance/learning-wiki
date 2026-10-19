@@ -13,9 +13,16 @@ sources:
     resource: "https://doi.org/10.1007/s10648-025-10071-x"
     title: "Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x"
     author: Sonja Dieterich, Stefan Rumann, Marc Rodemer
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # In the acquisition of negative knowledge, erroneous examples outperformed correct examples
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` ErrEx outperformed CorrEx specifically in the acquisition of negative knowledge, with no interaction with prior knowledge. [→ Sonja Dieterich 2025](#sonja-dieterich-2025)
@@ -26,7 +33,7 @@ sources:
 
 Sonja Dieterich, Stefan Rumann, Marc Rodemer. (2025). Conditions for Effective Learning from Erroneous Examples: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10071-x
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Table 1 entry for Heemsoth and Heinze (2014), an ErrEx vs CorrEx comparison in mathematics using calculation-path errors, reports that "In the acquisition of negative knowledge, ErrEx outperformed CorrEx". High-prior-knowledge students in ErrEx significantly improved fraction learning.
 

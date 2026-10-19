@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
     title: "Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5"
     author: Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards
+    q: 2
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
   - id: ting-zhou-2026-2
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
     title: "Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5"
     author: Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards
+    q: 2
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Shifting is generally moderately to strongly associated with word reading, with reading-specific shifting tasks most strongly linked to accuracy-based word reading assessments
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Across 15 studies, shifting ability was generally moderately to strongly associated with word reading across different measures. [→ Ting Zhou 2026](#ting-zhou-2026)
@@ -31,7 +42,7 @@ sources:
 
 Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 Qualitative synthesis of 15 shifting-word reading studies: many showed moderate links (n = 6), four negligible, five larger; the review concludes shifting was "generally moderately to strongly associated with word reading" while noting further research is needed.
 
@@ -41,7 +52,7 @@ Qualitative synthesis of 15 shifting-word reading studies: many showed moderate 
 
 Ting Zhou, Thuy Anh Nguyen, Aprezo Pardodi Maba, Damon Thomas, Young-Suk Grace Kim, Elizabeth J. Edwards. (2026). Executive Functions and Reading in Children: A Systematic Review and Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10160-5
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 Pattern across three studies using the Multiple Classification Card Sorting Test (including reading-specific versions) with accuracy-based measures (WRMT Word Attack or WJ Letter-Word Identification); the authors hedge with "may be more strongly associated".
 

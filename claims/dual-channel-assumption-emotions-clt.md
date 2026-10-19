@@ -45,3 +45,4 @@ The article's abstract states that the authors "also discuss a dual-channel assu
 ## Related Claims
 - [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — related
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](emotion-as-intrinsic-load-emotion-regulation.md) — related
+- [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related

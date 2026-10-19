@@ -13,13 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
     title: "Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2"
     author: Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
   - id: pauliina-avola-2025-2
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
     title: "Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2"
     author: Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teacher well-being intervention content falls into seven activity themes, with professional development (n=20) and mindfulness/meditation (n=12) most common
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Qualitative content analysis identified seven themes: physical activity, mindfulness and meditation, professional development, mindfulness plus professional development, therapy-based, gratitude, and mix of activities. [→ Pauliina Avola 2025](#pauliina-avola-2025)
@@ -31,7 +42,7 @@ sources:
 
 Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Third analysis phase of the scoping review, thematising intervention design across the 46 studies. The review reports "Seven themes of contents and activities of the interventions were identified in the teacher well-being interventions", shown in Fig. 3.
 
@@ -41,7 +52,7 @@ Third analysis phase of the scoping review, thematising intervention design acro
 
 Pauliina Avola, Tiina Soini-Ikonen, Anne Jyrkiäinen, Viivi Pentikäinen. (2025). Interventions to Teacher Well-Being and Burnout A Scoping Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-09986-2
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Theme frequency counts from the review's contents section: professional development was the largest theme (n=20), covering stress management, student interaction and classroom management training; "Twelve (n=12) of the papers reviewed explored the implementation of intervention activities through interventions that combined physical and mental exercises such as yoga, meditation, and body awareness."
 

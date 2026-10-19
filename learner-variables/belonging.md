@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (50 show a difference, 9 mixed, 1 no difference) · 53 studies (14 review, 11 qualitative, 10 causal, 8 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 53 report an effect size · 55 claims rest on one study
+> **Evidence** · 62 claims (51 show a difference, 9 mixed, 2 no difference) · 54 studies (14 review, 11 qualitative, 10 causal, 8 associational, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 2 of 54 report an effect size · 57 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -96,6 +96,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](../claims/school-belonging-centrality-compensation-no-buffering.md) [~M] — learners who differ on it differ in outcomes
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](../claims/school-belonging-mediation-dominican-intrinsic-motivation.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~W] — learners who differ on it differ in outcomes
+- [Color-evasive socialization shows no significant association with school belonging, unlike the other socialization dimensions](../claims/color-evasive-socialization-no-significant-association-belonging.md) [-M] — instruction changes it
+- [Most measured dimensions of school racial climate are significantly correlated with students' school belonging across educational levels](../claims/racial-climate-dimensions-significantly-correlated-belonging.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

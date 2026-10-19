@@ -62,4 +62,4 @@ Follow-up connection-strength test in the Findings section: older adults' active
 
 
 ## Related Claims
--
+- [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related

@@ -50,3 +50,4 @@ Threshold-based estimates from the original evaluation, re-examined in this pape
 - [Allocation to Medly improved post-test GCSE science attainment relative to business-as-usual self-directed revision (Hedges' g = 0.33)](medly-micro-rct-improves-gcse-science-attainment.md) — related
 - [No clear evidence that Medly's effect differed by Pupil Premium disadvantage status](medly-no-differential-impact-pupil-premium.md) — related
 - [About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold](750-contact-hours-esl-support-tangible-effect.md) — related
+- [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related

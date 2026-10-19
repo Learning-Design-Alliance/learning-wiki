@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 132 claims (91 for, 37 mixed, 4 against) · 87 studies (46 causal, 14 associational, 8 review, 8 qualitative, 7 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 30 of 87 report an effect size · 128 claims rest on one study
+> **Evidence** · 134 claims (93 for, 37 mixed, 4 against) · 89 studies (47 causal, 14 associational, 8 review, 8 qualitative, 7 theoretical, 3 quant-synthesis, 2 design), `q1`–`q4` · 31 of 89 report an effect size · 130 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -174,6 +174,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [When facing higher demands regarding retrieval processes, mnemonic experience (age) seems to play the more important role in metacognitive performance](../claims/experience-more-important-under-higher-retrieval-demands.md) [~W] — attached 2026-10-19 from Krebs et al. (2012), which proposed "Metacognitive development is fueled by both cognitive resources (achievement level) and mnemonic experience (age)".
 - [Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders](../claims/pre-monitoring-increases-overconfidence-children.md) [+M] — attached 2026-10-19 from Sophie Wacker (2024), which proposed "Memory-metamemory interplay account of children's overconfidence".
 - [Children's recognition choices overwhelmingly follow the alternative given the highest pre-monitoring judgment](../claims/highest-pre-monitoring-judgment-predicts-recognition-choice.md) [+W] — attached 2026-10-19 from Sophie Wacker (2024), which proposed "Memory-metamemory interplay account of children's overconfidence"; tests this page's relationship.
+- [Metacognitive regulation of learning imposes additional cognitive load (metacognitive load) on top of the load of actual learning](../claims/metacognitive-load-additional-load.md) [+W] — attached 2026-10-19 from Wirth et al. (2025), which proposed "Effort Monitoring and Regulation (EMR) framework for metacognitive regulation of investing mental effort".
+- [Situation-model-approach interventions produce a medium positive average effect (g = 0.46) on relative metacomprehension accuracy](../claims/situation-model-interventions-medium-average-effect-metacomprehension.md) [+W] — attached 2026-10-19 from Anja Prinz et al. (2020), which proposed "Situation-model approach to metacomprehension within the cue-utilization framework".
 
 ## The evidence by question
 
