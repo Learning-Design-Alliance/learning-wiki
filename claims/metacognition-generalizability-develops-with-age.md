@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1007/s11409-024-09400-2"
     title: "Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2"
     author: Mariëtte van Loon, Claudia M. Roebers
+    q: 2
+    i: "?"
 ---
 
 # Generalizability of metacognitive skills across tasks increases between ages eight and eleven
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` At M1, metacognition appeared less generalizable across the text and Kanji tasks than at M2, with all fourth-grade profiles generalizable at M2. [→ Mariëtte van Loon 2024](#mariëtte-van-loon-2024)
+`q2 i?` At M1, metacognition appeared less generalizable across the text and Kanji tasks than at M2, with all fourth-grade profiles generalizable at M2. [→ Mariëtte van Loon 2024](#mariette-van-loon-2024)
 
 ## Evidence
 

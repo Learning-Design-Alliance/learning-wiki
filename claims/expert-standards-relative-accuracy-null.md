@@ -47,3 +47,4 @@ The 2×2 ANOVA on intra-individual gamma correlations between students' and expe
 - [Benefits of expert example standards depend on example quality: largest for incorrect examples, absent for correct ones](expert-standards-benefit-scope-by-example-quality.md) — related
 - [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](idea-unit-standards-ineffective-example-generation.md) — possibly the same claim (merge candidate)
 - [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related
+- [Thinking aloud does not affect teachers' monitoring accuracy](think-aloud-no-effect-teacher-monitoring-accuracy.md) — related

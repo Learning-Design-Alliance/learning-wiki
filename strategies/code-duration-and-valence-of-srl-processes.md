@@ -16,6 +16,9 @@ sources:
 
 # Code the duration and valence of SRL processes when analyzing temporally unfolding process data
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The commentary argues that future research on sequential SRL analysis should record how long each regulatory process lasts and whether it is positive or negative in valence, since "they are integral to examining the qua lity and nature of the temporally unfolding processes." Duration matters because a note-taking strategy taking over a minute versus a content evaluation lasting only seconds creates unbalanced code density and risks inaccurate inferences. Valence differentiates monitoring utterances such as negative versus positive judgments of learning and correct versus incorrect summaries.
 

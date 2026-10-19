@@ -12,10 +12,15 @@ sources:
   - id: malmberg-2022
     resource: "https://doi.org/10.1007/s11409-022-09320-z"
     title: "Malmberg, J., Haataja, E., & Järvelä, S. (2022). Exploring the connection between task difficulty, task perceptions, physiological arousal and learning outcomes in collaborative learning situations. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09320-z"
-    author: "Malmberg, J., Haataja, E., & Järvelä, S"
+    author: "Malmberg, J., Haataja, E., & Järvelä, S."
+    q: 3
+    i: "?"
 ---
 
 # Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` GEE models showed post-task understanding (p < .005), pre- and post-task difficulty (p < .05), and EDA peaks (p = < 0.000) positively predicted quiz learning outcomes. [→ Malmberg 2022](#malmberg-2022)

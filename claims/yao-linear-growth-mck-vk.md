@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
     title: "Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z"
     author: Mark Feng Teng, Lawrence Jun Zhang
+    q: 3
+    i: "?"
 ---
 
 # For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Linear growth models fit Yao students' MCK and VK breadth data better than quadratic models, with significant intercept and slope components. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

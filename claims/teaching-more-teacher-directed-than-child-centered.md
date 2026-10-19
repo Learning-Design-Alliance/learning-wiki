@@ -13,13 +13,18 @@ sources:
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
     title: "Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2"
     author: Mariëtte H. van Loon, et al
+    q: 2
+    i: "?"
 ---
 
 # Elementary teaching practices during a standardized lesson are more often teacher-directed than child-centered, with no grade differences in frequency
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Teachers used a combination of practices but teaching was most often teacher-directed. [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
-`q2 i?` Second- and fourth-grade teachers did not differ in frequency of cognitive, metacognitive, teacher-directed, or child-centered instructions. [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
+`q2 i?` Teachers used a combination of practices but teaching was most often teacher-directed. [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
+`q2 i?` Second- and fourth-grade teachers did not differ in frequency of cognitive, metacognitive, teacher-directed, or child-centered instructions. [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
 
 ## Evidence
 

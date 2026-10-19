@@ -13,13 +13,18 @@ sources:
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
     title: "Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2"
     author: Mariëtte H. van Loon, et al
+    q: 2
+    i: "?"
 ---
 
 # Teaching cognitive strategies is associated with more accurate self-monitoring, while metacognitive strategy instruction shows no relation
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` More teaching for cognitive strategies was related to better self-monitoring, as indicated by how strongly confidence judgments discriminated correct from incorrect responses. [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
-`q2 i?` There was no effect of teaching metacognitive strategies on self-monitoring accuracy and no main effect of grade. [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
+`q2 i?` More teaching for cognitive strategies was related to better self-monitoring, as indicated by how strongly confidence judgments discriminated correct from incorrect responses. [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
+`q2 i?` There was no effect of teaching metacognitive strategies on self-monitoring accuracy and no main effect of grade. [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
 
 ## Evidence
 

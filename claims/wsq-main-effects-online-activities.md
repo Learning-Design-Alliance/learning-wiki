@@ -12,14 +12,21 @@ sources:
   - id: tillema-2011
     resource: "https://doi.org/10.1007/s11409-011-9072-x"
     title: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x"
-    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T"
+    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
+    q: 2
+    i: "?"
   - id: tillema-2011-2
     resource: "https://doi.org/10.1007/s11409-011-9072-x"
     title: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x"
-    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T"
+    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
+    q: 2
+    i: "?"
 ---
 
 # Planner and reviser questionnaire scores show frequency main effects on several online activities, with no interaction with episode
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Planner scores had significant main effects on reading the assignment, planning, text production and revising. [→ Tillema 2011](#tillema-2011)

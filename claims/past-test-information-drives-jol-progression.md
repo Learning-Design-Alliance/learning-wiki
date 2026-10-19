@@ -12,14 +12,21 @@ sources:
   - id: kubik-2022
     resource: "https://doi.org/10.1007/s11409-021-09288-2"
     title: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U. (2022). The underconfidence-with-practice effect in action memory: The contribution of retrieval practice to metacognitive monitoring. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09288-2"
-    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U"
+    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U."
+    q: 3
+    i: "?"
   - id: kubik-2022-2
     resource: "https://doi.org/10.1007/s11409-021-09288-2"
     title: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U. (2022). The underconfidence-with-practice effect in action memory: The contribution of retrieval practice to metacognitive monitoring. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09288-2"
-    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U"
+    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U."
+    q: 3
+    i: "?"
 ---
 
 # Past-test correlations exceed concurrent resolution scores, and JOLs rise for previously recalled items while falling for nonrecalled items
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Past-test correlations were significantly higher than corresponding resolution scores for both encoding types. [→ Kubik 2022](#kubik-2022)

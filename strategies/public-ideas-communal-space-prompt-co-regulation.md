@@ -16,6 +16,9 @@ sources:
 
 # Make students' ideas public in a communal technology-supported space to prompt co-regulation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review recommends that making students' ideas visible and revisable in a shared technological space fosters co-regulation. It states that "when students can make their ideas explicit in a communal space, supported by technology, they may be better able to regulate, monitor and reflect on their thoughts, both individually and collectively", and that making ideas public with opportunities for shared and revised understanding may prompt more co-regulation. Knowledge Forum is given as an example, with scaffolds such as 'putting our knowledge together' and meta-discourse prompts.
 

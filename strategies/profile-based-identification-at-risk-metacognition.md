@@ -16,6 +16,9 @@ sources:
 
 # Identify at-risk fourth graders via multi-indicator metacognition profiling to target personalized metacognition support
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article proposes using person-oriented latent profile analysis over multiple procedural metacognition indicators, rather than single-task mean values, to uncover heterogeneity in children's monitoring and control. It states that "A better understanding of such heterogeneity within children's metacognitive skills may improve the identification of children who are at risk for low metacognition and benefit the design of personalized metacognition support." Because fourth-grade at-risk children tended to stay low over a year, early profiling in mid-to-late elementary school can flag children needing support, especially for restudy decisions.
 

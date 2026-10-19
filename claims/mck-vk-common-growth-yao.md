@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
     title: "Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z"
     author: Mark Feng Teng, Lawrence Jun Zhang
+    q: 3
+    i: "?"
 ---
 
 # In Yao students, metacognitive knowledge and vocabulary breadth showed a common growth trend: higher initial MCK predicted higher initial VK, and faster MCK growth predicted faster VK growth
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the Yao parallel development model, the MCK intercept correlated significantly with the VK intercept, and the MCK slope correlated significantly with the VK slope. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

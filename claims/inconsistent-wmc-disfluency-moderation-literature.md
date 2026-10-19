@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09366-7"
     title: "Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer. (2024). Is the perceptual disfluency effect moderated by working memory capacity? Direct replication of Lehmann et al. (2016). Metacognition and Learning. https://doi.org/10.1007/s11409-023-09366-7"
     author: Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer
+    q: 2
+    i: "?"
 ---
 
 # Across the four existing experiments on WMC moderation of disfluency, results are inconsistent: one finds the effect restricted to high-span, one to low-span, and two find null moderation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The literature contains one experiment showing the disfluency effect restricted to high-span subjects (Lehmann et al., 2016), one showing it restricted to low-span subjects (Miyakawa & Hattori, 2017), and two showing null moderation (Strukelj et al., 2016; the present study). [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)

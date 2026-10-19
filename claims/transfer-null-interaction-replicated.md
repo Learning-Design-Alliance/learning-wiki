@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09366-7"
     title: "Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer. (2024). Is the perceptual disfluency effect moderated by working memory capacity? Direct replication of Lehmann et al. (2016). Metacognition and Learning. https://doi.org/10.1007/s11409-023-09366-7"
     author: Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer
+    q: 3
+    i: "?"
 ---
 
 # The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The disfluency × WMC interaction did not significantly predict transfer performance (β = -1.57, p = 0.804), aligning with the primary study's null result and negative coefficient. [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)

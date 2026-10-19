@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
     title: "Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z"
     author: Mark Feng Teng, Lawrence Jun Zhang
+    q: 3
+    i: "?"
   - id: mark-feng-teng-2024-2
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
     title: "Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z"
     author: Mark Feng Teng, Lawrence Jun Zhang
+    q: 3
+    i: "?"
 ---
 
 # For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Model-fit comparisons showed the quadratic model fit Han students' MCK development better than the linear model, indicating accelerating MCK growth. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
     title: "Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x"
     author: Sonja Kälin, Claudia M. Roebers
+    q: 3
+    i: 3
 ---
 
 # Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+
 ## Subclaims
-`q3 i3` The Stroop inverse-efficiency score improved significantly from T1 to T2 (ηp² = 0.295). [→ Sonja Kälin 2022](#sonja-kälin-2022)
+`q3 i3` The Stroop inverse-efficiency score improved significantly from T1 to T2 (ηp² = 0.295). [→ Sonja Kälin 2022](#sonja-kalin-2022)
 
 ## Evidence
 

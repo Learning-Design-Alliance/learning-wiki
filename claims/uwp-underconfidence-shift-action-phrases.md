@@ -12,10 +12,15 @@ sources:
   - id: kubik-2022
     resource: "https://doi.org/10.1007/s11409-021-09288-2"
     title: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U. (2022). The underconfidence-with-practice effect in action memory: The contribution of retrieval practice to metacognitive monitoring. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09288-2"
-    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U"
+    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U."
+    q: 3
+    i: 0
 ---
 
 # Calibration of JOLs shifts toward underconfidence across learning cycles for action phrases under both verbal and enactive encoding, without first-cycle overconfidence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
 
 ## Subclaims
 `q3 i0` Calibration shifted significantly toward underconfidence across cycles, with underconfidence in Cycles 2 and 3 but only nonsignificant overestimation in Cycle 1, and this pattern did not vary by encoding type. [→ Kubik 2022](#kubik-2022)

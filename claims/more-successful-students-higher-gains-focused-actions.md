@@ -44,4 +44,4 @@ The paper reports that analyses using hidden Markov models, differential sequenc
 
 
 ## Related Claims
--
+- [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](scaffolding-alters-strategy-use-not-learning-gains.md) — related

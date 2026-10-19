@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
     title: "Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z"
     author: Mark Feng Teng, Lawrence Jun Zhang
+    q: 3
+    i: 3
 ---
 
 # Han students' metacognitive knowledge scores were significantly higher than Yao students' at each of four annual measurements from grade 3 to grade 6
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` The main effect of ethnic group on MCK was significant, with Han students scoring significantly higher than Yao students across all four measurements. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

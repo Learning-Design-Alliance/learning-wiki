@@ -68,6 +68,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](../claims/motivation-changes-independent-of-achievement.md) [-W] — learners who differ on it differ in outcomes
 - [Co-teaching does not differ from solo teaching in the development of students' mathematics self-concept and interest](../claims/co-teaching-no-motivation-development-benefit.md) [-W] — instruction changes it
 - [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](../claims/math-self-concept-interest-decline-one-school-year.md) [+W] — instruction changes it
+- [Domain-specific self-concept consistently predicts metacognitive judgments and accuracy: higher self-concept means higher judgments, higher sensitivity, lower specificity, and more overconfidence](../claims/domain-specific-self-concept-predicts-judgments.md) [+M] — learners who differ on it differ in outcomes
+- [Global predictions rely on domain-specific self-concept but not on test performance, unlike postdictions](../claims/predictions-rely-on-self-concept-not-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Motivational and personality variables relate more strongly to global than to local postdicted judgments](../claims/global-judgments-more-trait-driven-than-local.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

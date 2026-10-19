@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1007/s11409-024-09400-2"
     title: "Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2"
     author: Mariëtte van Loon, Claudia M. Roebers
+    q: 2
+    i: "?"
 ---
 
 # Effective restudy selection is the metacognitive skill that most distinguishes children's profiles
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` The most pronounced difference between profiles was the extent to which children made effective restudy selections, with low-metacognition profiles often selecting almost nothing for restudy. [→ Mariëtte van Loon 2024](#mariëtte-van-loon-2024)
+`q2 i?` The most pronounced difference between profiles was the extent to which children made effective restudy selections, with low-metacognition profiles often selecting almost nothing for restudy. [→ Mariëtte van Loon 2024](#mariette-van-loon-2024)
 
 ## Evidence
 

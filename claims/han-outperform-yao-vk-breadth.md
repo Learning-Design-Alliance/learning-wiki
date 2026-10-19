@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
     title: "Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z"
     author: Mark Feng Teng, Lawrence Jun Zhang
+    q: 3
+    i: 3
   - id: mark-feng-teng-2024-2
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
     title: "Mark Feng Teng, Lawrence Jun Zhang. (2024). Ethnic minority multilingual young learners' longitudinal development of metacognitive knowledge and breadth of vocabulary knowledge. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09360-z"
     author: Mark Feng Teng, Lawrence Jun Zhang
+    q: 3
+    i: 3
 ---
 
 # Han students significantly outperformed Yao students in breadth of English vocabulary knowledge, with a significant time-by-group interaction in development patterns
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` The ethnic group main effect on VK breadth was significant, with Han students significantly outperforming Yao students. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

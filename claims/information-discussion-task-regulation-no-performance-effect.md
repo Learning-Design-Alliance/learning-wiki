@@ -11,10 +11,15 @@ evidence_strength: moderate
 sources:
   - id: janssen-2010
     title: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning."
-    author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G"
+    author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G."
+    q: 2
+    i: "?"
 ---
 
 # Information discussion and regulation of task-related activities did not significantly predict group performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Neither information discussion (β=.123, p=.56) nor regulation of task-related activities (β=−.036, p=.87) significantly predicted group performance. [→ Janssen 2010](#janssen-2010)

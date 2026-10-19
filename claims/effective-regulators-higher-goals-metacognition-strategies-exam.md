@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-008-9022-4"
     title: "Anneke Vrugt & Frans J. Oort. (2008). Metacognition, achievement goals, study strategies and academic achievement: pathways to achievement. Metacognition Learning. https://doi.org/10.1007/s11409-008-9022-4"
     author: "Anneke Vrugt & Frans J. Oort"
+    q: 2
+    i: "?"
 ---
 
 # Effective self-regulators score significantly higher than less effective self-regulators on achievement goals, metacognition, all four study strategies and exam scores, with equal intellectual ability
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students with high effort investment (N=421) scored significantly higher than low-effort students (N=383) on all three achievement goals, metacognition, all study strategies and exam scores (M=27.75 vs 24.92), while mean intellectual ability did not differ (p=0.279). [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)

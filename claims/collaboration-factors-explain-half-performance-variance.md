@@ -11,10 +11,15 @@ evidence_strength: moderate
 sources:
   - id: janssen-2010
     title: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related and social regulation during online collaborative learning. Metacognition and Learning."
-    author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G"
+    author: "Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G."
+    q: 2
+    i: "?"
 ---
 
 # The four collaborative-activity factors jointly explain almost 50% of the variance in group performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The regression model with four factor scores explained R²=.494 of variance in group performance (F(4,96)=23.471, p=.000). [→ Janssen 2010](#janssen-2010)

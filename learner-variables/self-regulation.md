@@ -203,6 +203,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Metacognitive judgement positively predicts perceived individual performance in CPS, which mediates perceived group performance](../claims/metacognitive-judgement-predicts-perceived-cps-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](../claims/diagramming-metacomprehension-accuracy-cues-null.md) [~M] — instruction changes it
 - [Time pressure weakens monitoring-based self-regulation of study time: gamma correlations between judgments of learning and study time are stronger in the untimed than the timed condition](../claims/time-pressure-weakens-self-regulated-study-time-allocation.md) [~M] — learners who differ on it differ in outcomes
+- [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](../claims/self-assessment-scaffold-no-added-benefit.md) [-M] — instruction changes it
+- [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](../claims/monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

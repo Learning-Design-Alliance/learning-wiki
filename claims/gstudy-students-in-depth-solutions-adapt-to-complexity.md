@@ -12,10 +12,15 @@ sources:
   - id: azevedo-2014
     resource: "https://doi.org/10.1007/s11409-014-9123-1"
     title: "Azevedo, R. (2014). Issues in dealing with sequential and temporal characteristics of self- and socially-regulated learning. Metacognition and Learning, 9, 217–228. https://doi.org/10.1007/s11409-014-9123-1"
-    author: Azevedo, R
+    author: Azevedo, R.
+    q: 2
+    i: "?"
 ---
 
 # Elementary school students solving science tasks in gStudy provided in-depth task solutions and adapted to task complexity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Twelve elementary school students using gStudy across two science study lessons could provide in-depth task solutions and adapt to task complexity on well- and ill-structured tasks. [→ Azevedo 2014](#azevedo-2014)
@@ -36,4 +41,4 @@ The commentary reports, citing Malmberg et al., a study in which twelve elementa
 
 
 ## Related Claims
--
+- [Learning patterns in ill-structured tasks are less strategic than in well-structured tasks, and on-track students apply learning strategies in later phases than off-track students](ill-structured-tasks-less-strategic-patterns.md) — reports the opposite

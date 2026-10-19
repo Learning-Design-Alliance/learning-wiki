@@ -233,6 +233,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Perceived difficulty and task interest in Task 1 indirectly inform expectancy beliefs for Task 2](../claims/difficulty-interest-cues-subsequent-expectancy.md) [+W] — learners who differ on it differ in outcomes
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](../claims/value-of-creativity-indirect-through-interest.md) [+W] — learners who differ on it differ in outcomes
 - [Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience](../claims/task-interest-stable-across-creativity-tasks.md) [+W] — learners who differ on it differ in outcomes
+- [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](../claims/goal-profiles-differ-motivation-regulation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
     title: "Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x"
     author: Sonja Kälin, Claudia M. Roebers
+    q: 3
+    i: "?"
 ---
 
 # Working memory and shifting in kindergarten were not significant predictors of later metacognitive monitoring
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` Working memory and shifting at T1 explained only 1% additional variance in T2 monitoring after accounting for inhibition and were not significant predictors. [→ Sonja Kälin 2022](#sonja-kälin-2022)
+`q3 i?` Working memory and shifting at T1 explained only 1% additional variance in T2 monitoring after accounting for inhibition and were not significant predictors. [→ Sonja Kälin 2022](#sonja-kalin-2022)
 
 ## Evidence
 

@@ -12,10 +12,15 @@ sources:
   - id: malmberg-2022
     resource: "https://doi.org/10.1007/s11409-022-09320-z"
     title: "Malmberg, J., Haataja, E., & Järvelä, S. (2022). Exploring the connection between task difficulty, task perceptions, physiological arousal and learning outcomes in collaborative learning situations. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09320-z"
-    author: "Malmberg, J., Haataja, E., & Järvelä, S"
+    author: "Malmberg, J., Haataja, E., & Järvelä, S."
+    q: 3
+    i: 1
 ---
 
 # Students perceive collaborative physics tasks as less difficult after completing them
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Paired-sample t-tests showed task difficulty ratings dropped significantly from before to after the collaborative task (d = 0.373). [→ Malmberg 2022](#malmberg-2022)

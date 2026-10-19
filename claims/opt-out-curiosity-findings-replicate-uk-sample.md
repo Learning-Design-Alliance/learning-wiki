@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
     title: "Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y"
     author: Sunae Kim, Paul L Harris, Benjamin Néher
+    q: 3
+    i: 3
 ---
 
 # The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` With 4 answer options and scoring instructions, UK participants were less likely to opt out on correct than incorrect trials and were more curious about incorrect trials. [→ Sunae Kim 2025](#sunae-kim-2025)

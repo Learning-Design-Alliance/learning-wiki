@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
+    q: 2
+    i: "?"
 ---
 
 # Learners are substantially overconfident when judging the quality of their self-generated examples
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Learners overestimate the quality of their self-generated examples relative to expert ratings, especially for poor examples. [→ Linda Froese 2023](#linda-froese-2023)

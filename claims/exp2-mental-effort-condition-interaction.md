@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09189-5"
     title: "Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog. (2019). Effects of self-assessment feedback on self-assessment and task-selection accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09189-5"
     author: Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog
+    q: 3
+    i: 2
 ---
 
 # In Experiment 2, mental effort over time interacted with condition: the feedback + contrast condition increased effort from learning to test phase while other conditions decreased
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` A test moment × condition interaction on mental effort (ηp² = .063) showed the contrast condition's effort rose from learning to test phase while other conditions' effort fell. [→ Steven F. Raaijmakers 2019](#steven-f-raaijmakers-2019)

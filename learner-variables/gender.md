@@ -228,6 +228,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](../claims/test-anxiety-varies-by-subject-and-gender.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](../claims/gender-grades-not-test-performance.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](../claims/gender-stereotyped-performance-judgments-adults.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students provided lower local judgments with lower sensitivity but higher specificity than male students](../claims/gender-differences-local-judgments-sensitivity-specificity.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The homework management–homework behavior link is stronger for girls than for boys](../claims/homework-management-behavior-link-stronger-girls.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09366-7"
     title: "Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer. (2024). Is the perceptual disfluency effect moderated by working memory capacity? Direct replication of Lehmann et al. (2016). Metacognition and Learning. https://doi.org/10.1007/s11409-023-09366-7"
     author: Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer
+    q: 2
+    i: "?"
 ---
 
 # The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Simulation-based power analysis showed the primary study had around 45% power to detect an interaction effect of the size it obtained (X1X2-Y r = 0.386), and 150 participants would be needed for 80% power. [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)

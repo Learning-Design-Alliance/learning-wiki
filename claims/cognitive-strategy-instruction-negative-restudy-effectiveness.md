@@ -13,13 +13,18 @@ sources:
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
     title: "Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2"
     author: Mariëtte H. van Loon, et al
+    q: 2
+    i: 2
 ---
 
 # More frequent cognitive strategy instruction is negatively related to the effectiveness of children's restudy selections
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+
 ## Subclaims
-`q2 i2` When teachers more often talked about cognitive strategy use, children less accurately differentiated incorrect from correct responses in restudy selections (β = −.24, p = .010). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
-`q2 i?` Teaching metacognitive strategies showed no significant effect on restudy effectiveness (β = −.16, p = .091). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
+`q2 i2` When teachers more often talked about cognitive strategy use, children less accurately differentiated incorrect from correct responses in restudy selections (β = −.24, p = .010). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
+`q2 i?` Teaching metacognitive strategies showed no significant effect on restudy effectiveness (β = −.16, p = .091). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
 
 ## Evidence
 

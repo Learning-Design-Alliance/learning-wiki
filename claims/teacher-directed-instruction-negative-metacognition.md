@@ -13,13 +13,18 @@ sources:
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
     title: "Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2"
     author: Mariëtte H. van Loon, et al
+    q: 2
+    i: 1
 ---
 
 # Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+
 ## Subclaims
-`q2 i1` Frequency of teacher-directed instructions was negatively related to children's strategic selection of incorrectly answered items for restudy (β = −.17, p = .038). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
-`q2 i2` More teacher-directed instruction was related to less accurate discrimination between correct and incorrect responses in confidence judgments (β = −.26, p = .001). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
+`q2 i1` Frequency of teacher-directed instructions was negatively related to children's strategic selection of incorrectly answered items for restudy (β = −.17, p = .038). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
+`q2 i2` More teacher-directed instruction was related to less accurate discrimination between correct and incorrect responses in confidence judgments (β = −.26, p = .001). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
 
 ## Evidence
 

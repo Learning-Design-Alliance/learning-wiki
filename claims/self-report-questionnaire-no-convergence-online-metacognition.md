@@ -12,10 +12,15 @@ sources:
   - id: jacobse-2012
     resource: "https://doi.org/10.1007/s11409-012-9088-x"
     title: "Jacobse, A. E., & Harskamp, E. G. (2012). Towards efficient measurement of metacognition in mathematical problem solving. Metacognition and Learning. https://doi.org/10.1007/s11409-012-9088-x"
-    author: "Jacobse, A. E., & Harskamp, E. G"
+    author: "Jacobse, A. E., & Harskamp, E. G."
+    q: 2
+    i: "?"
 ---
 
 # A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The self-report questionnaire was not related to the mathematics test and showed no convergence with the think-aloud or VisA on-line measures. [→ Jacobse 2012](#jacobse-2012)
@@ -36,4 +41,4 @@ Correlational analysis of three metacognition measures in a grade 5 sample (effe
 
 
 ## Related Claims
--
+- [No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ](no-mslq-relationship-dlc.md) — a narrower finding that bears on this claim

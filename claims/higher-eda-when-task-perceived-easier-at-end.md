@@ -12,10 +12,15 @@ sources:
   - id: malmberg-2022
     resource: "https://doi.org/10.1007/s11409-022-09320-z"
     title: "Malmberg, J., Haataja, E., & Järvelä, S. (2022). Exploring the connection between task difficulty, task perceptions, physiological arousal and learning outcomes in collaborative learning situations. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09320-z"
-    author: "Malmberg, J., Haataja, E., & Järvelä, S"
+    author: "Malmberg, J., Haataja, E., & Järvelä, S."
+    q: 3
+    i: 1
 ---
 
 # Physiological arousal is higher in sessions where the task is perceived as less difficult at the end
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Independent t-tests showed significantly fewer EDA peaks in sessions where the task was perceived as less difficult at the end (d = 0.32); task understanding changes showed no significant difference. [→ Malmberg 2022](#malmberg-2022)

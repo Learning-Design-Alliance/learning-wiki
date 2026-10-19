@@ -13,13 +13,18 @@ sources:
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
     title: "Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2"
     author: Mariëtte H. van Loon, et al
+    q: 2
+    i: 2
 ---
 
 # Child-centered instruction positively predicts children's self-monitoring accuracy and, for second graders, restudy effectiveness
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+
 ## Subclaims
-`q2 i2` In classrooms with more child-centered instructions, children more accurately discriminated well-learned from less-learned items in their confidence judgments (β = .23, p = .019). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
-`q2 i2` A grade × child-centered instruction interaction showed child-centered instruction was more strongly and positively related to restudy effectiveness for second than fourth graders (β = .32, p = .021). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
+`q2 i2` In classrooms with more child-centered instructions, children more accurately discriminated well-learned from less-learned items in their confidence judgments (β = .23, p = .019). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
+`q2 i2` A grade × child-centered instruction interaction showed child-centered instruction was more strongly and positively related to restudy effectiveness for second than fourth graders (β = .32, p = .021). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
 
 ## Evidence
 

@@ -12,10 +12,15 @@ sources:
   - id: tillema-2011
     resource: "https://doi.org/10.1007/s11409-011-9072-x"
     title: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x"
-    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T"
+    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
+    q: 2
+    i: "?"
 ---
 
 # Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Lower reviser scorers read the assignment slightly more at the start, but from episode 2 onwards higher reviser scorers read the assignment more, with the gap growing towards the end. [→ Tillema 2011](#tillema-2011)

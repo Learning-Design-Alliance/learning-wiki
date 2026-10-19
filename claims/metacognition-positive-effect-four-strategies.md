@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-008-9022-4"
     title: "Anneke Vrugt & Frans J. Oort. (2008). Metacognition, achievement goals, study strategies and academic achievement: pathways to achievement. Metacognition Learning. https://doi.org/10.1007/s11409-008-9022-4"
     author: "Anneke Vrugt & Frans J. Oort"
+    q: 2
+    i: "?"
 ---
 
 # Metacognition positively affects the use of all four study strategies, with medium effects on metacognitive, deep cognitive and resource management strategies and a small effect on surface strategies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Metacognition had medium-sized effects on metacognitive (β=.41), deep cognitive (β=.39) and resource management (β=.38) strategies and a small effect on surface cognitive strategies (β=.24) among effective self-regulators. [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)

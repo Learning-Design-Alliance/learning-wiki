@@ -48,3 +48,12 @@ The introduction reports, citing Pijeira-Díaz et al. (this issue), a three-cond
 
 ## Related Claims
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related
+- [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — possibly the same claim (merge candidate)
+- [Diagramming scaffold improves relative metacomprehension accuracy for causal relations in expository texts](diagramming-improves-relative-metacomprehension-accuracy.md) — related
+- [Diagramming conditions show no significant differences from control in regulation measures or reading comprehension test scores for causal relations](diagramming-no-effect-regulation-test-scores.md) — related
+- [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) — related
+- [Prompted self-assessment decreases utilization of the low-diagnosticity commission-errors cue](self-assessment-decreases-commission-errors-cue-utilization.md) — related
+- [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](self-assessment-scaffold-no-added-benefit.md) — related
+- [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](self-assessments-more-accurate-than-comprehension-judgments.md) — related
+- [Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis](teacher-monitoring-accuracy-higher-name-plus-diagram-than-diagram-only.md) — related
+- [Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition](teacher-monitoring-accuracy-null-differences-name-only-vs-diagram-conditions.md) — related

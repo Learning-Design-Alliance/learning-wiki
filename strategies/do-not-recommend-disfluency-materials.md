@@ -16,6 +16,9 @@ sources:
 
 # Do not recommend applying perceptual disfluency to study materials absent convincing evidence of a (moderated) effect
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article draws a practical consequence from the pattern of replication failures: if neither moderated nor universal disfluency effects can be reliably found, "The practical consequence is to not recommend the use of disfluency." The authors frame the decision rule as: reliably replicating interactions or main effects would question the effect's nonexistence, whereas failure to find convincing evidence for any disfluency effect reinforces that the effect is fickle. Given their null replication with doubled sample size and higher power, they conclude the disfluency manipulation should not be recommended for learning materials.
 

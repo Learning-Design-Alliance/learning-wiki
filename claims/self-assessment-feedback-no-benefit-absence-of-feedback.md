@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09189-5"
     title: "Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog. (2019). Effects of self-assessment feedback on self-assessment and task-selection accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09189-5"
     author: Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog
+    q: 3
+    i: "?"
   - id: steven-f-raaijmakers-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09189-5"
     title: "Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog. (2019). Effects of self-assessment feedback on self-assessment and task-selection accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09189-5"
     author: Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog
+    q: 3
+    i: "?"
 ---
 
 # Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In both experiments, feedback focused on self-assessment accuracy did not improve subsequent self-assessment accuracy measured without feedback. [→ Steven F. Raaijmakers 2019](#steven-f-raaijmakers-2019)

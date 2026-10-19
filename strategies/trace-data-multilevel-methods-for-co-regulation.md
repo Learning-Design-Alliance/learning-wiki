@@ -16,6 +16,9 @@ sources:
 
 # Broaden co-regulation methodology using trace data, server logs, episodic coding and multilevel modelling
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review recommends methodological expansion for studying co-regulation as a group phenomenon. It suggests "wider use of log server and trace data to illustrate how students are working in the computer-based environment as it relates to other activities", coding co-regulation across connected discourse and episodic tracts rather than single utterances, and multilevel modelling to explain relationships between individuals nested under groups. Multiple measures are needed for convergence and construct validity.
 

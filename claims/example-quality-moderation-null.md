@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
+    q: 2
+    i: "?"
 ---
 
 # Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Exploratory moderation analyses found no statistically significant moderation of the standards' effects by example quality when aggregated across the eight concepts. [→ Linda Froese 2023](#linda-froese-2023)

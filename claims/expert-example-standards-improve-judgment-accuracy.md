@@ -13,17 +13,26 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
+    q: 3
+    i: 2
   - id: linda-froese-2023-2
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
+    q: 3
+    i: 2
   - id: linda-froese-2023-3
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
+    q: 3
+    i: 2
 ---
 
 # Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Providing expert example standards during self-evaluation significantly reduced bias in judging self-generated examples. [→ Linda Froese 2023](#linda-froese-2023)

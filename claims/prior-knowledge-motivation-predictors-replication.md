@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09366-7"
     title: "Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer. (2024). Is the perceptual disfluency effect moderated by working memory capacity? Direct replication of Lehmann et al. (2016). Metacognition and Learning. https://doi.org/10.1007/s11409-023-09366-7"
     author: Sophia C. Weissgerber, Denia Indah Permatasari Terhorst, Ralf Rummer
+    q: 3
+    i: "?"
 ---
 
 # Prior knowledge significantly predicted comprehension and transfer performance in the replication, and motivation during learning predicted retention
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Prior knowledge was the only significant predictor of comprehension (β = 9.19, p = 0.002) and transfer (β = 14.06, p < 0.001); motivation during learning was the only significant predictor of retention (β = 7.32, p = 0.026). [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)

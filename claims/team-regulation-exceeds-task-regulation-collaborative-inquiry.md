@@ -45,3 +45,4 @@ Paired-samples t-tests comparing task and team regulation frequencies within eac
 ## Related Claims
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — related
 - [Team regulation correlates positively with learning results only in the CHT condition](team-regulation-learning-results-correlation-cht.md) — related
+- [Dyads given the full Process Coordinator used the regulative tool about three times as long and twice as often as dyads with the empty version](full-pc-more-frequent-prolonged-regulative-tool-use.md) — related

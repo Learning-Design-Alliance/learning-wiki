@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
     title: "Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y"
     author: Sunae Kim, Paul L Harris, Benjamin Néher
+    q: 3
+    i: 2
   - id: sunae-kim-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
     title: "Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y"
     author: Sunae Kim, Paul L Harris, Benjamin Néher
+    q: 3
+    i: 2
 ---
 
 # Exposure to others' discrepant curiosity ratings reduces the curiosity gap between opted-out and non-opted-out trials and between incorrect and correct trials, altering metacognitive control
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The interaction between opt-out choice and Experiment (3A vs 3B) was significant: the curiosity difference between opted-out and non-opted-out trials was smaller in 3B than 3A. [→ Sunae Kim 2025](#sunae-kim-2025)

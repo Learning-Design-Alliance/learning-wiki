@@ -50,6 +50,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Openness protects against well-being decline only when emotional stability is average or high](../claims/openness-protects-only-with-emotional-stability.md) [~M] — learners who differ on it differ in outcomes
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](../claims/openness-predicts-creativity-not-gf.md) [~M] — learners who differ on it differ in outcomes
 - [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](../claims/openness-predicts-creative-metaphor.md) [+W] — learners who differ on it differ in outcomes
+- [Big Five personality factors show few consistent effects on metacognitive judgments in domain-specific tests](../claims/big-five-few-consistent-effects-on-judgments.md) [~W] — learners who differ on it differ in outcomes
+- [Motivational and personality variables relate more strongly to global than to local postdicted judgments](../claims/global-judgments-more-trait-driven-than-local.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -67,3 +67,4 @@ Bonferroni post hoc analysis following the MANCOVA compared team regulation freq
 - [Team regulation correlates positively with learning results only in the CHT condition](team-regulation-learning-results-correlation-cht.md) — related
 - [RIDE instruction shows no direct effect on discovery learning results (SWLE or domain knowledge posttest)](ride-instruction-no-direct-effect-learning-results.md) — related
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
+- [Dyads given the full Process Coordinator used the regulative tool about three times as long and twice as often as dyads with the empty version](full-pc-more-frequent-prolonged-regulative-tool-use.md) — related

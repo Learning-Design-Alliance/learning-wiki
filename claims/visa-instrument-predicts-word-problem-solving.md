@@ -12,10 +12,15 @@ sources:
   - id: jacobse-2012
     resource: "https://doi.org/10.1007/s11409-012-9088-x"
     title: "Jacobse, A. E., & Harskamp, E. G. (2012). Towards efficient measurement of metacognition in mathematical problem solving. Metacognition and Learning. https://doi.org/10.1007/s11409-012-9088-x"
-    author: "Jacobse, A. E., & Harskamp, E. G"
+    author: "Jacobse, A. E., & Harskamp, E. G."
+    q: 2
+    i: 3
 ---
 
 # The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` The VisA instrument correlated r = .48 with word problem solving test scores and explained 23 percent of variance in performance. [→ Jacobse 2012](#jacobse-2012)

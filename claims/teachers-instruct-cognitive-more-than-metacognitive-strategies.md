@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
     title: "Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2"
     author: Mariëtte H. van Loon, et al
+    q: 2
+    i: "?"
 ---
 
 # Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Teachers addressed both strategy types but discussed cognitive strategies more often than metacognitive strategies. [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
+`q2 i?` Teachers addressed both strategy types but discussed cognitive strategies more often than metacognitive strategies. [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
 
 ## Evidence
 

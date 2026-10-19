@@ -61,6 +61,10 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](../claims/moderated-mediation-belonging-srl-efficacy.md) [~W] — instruction changes it
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](../claims/srl-partially-mediates-identity-mastery.md) [+W] — instruction changes it
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](../claims/no-competitiveness-differences-motivation-measures.md) [-M] — learners who differ on it differ in outcomes
+- [Achievement goal profiles did not differ significantly in argumentative writing achievement, but did differ in narrative writing achievement](../claims/profile-differences-narrative-not-argumentative-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](../claims/goal-profiles-differ-writing-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](../claims/goal-profiles-differ-motivation-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](../claims/profile-varying-predictive-effects-writing-achievement.md) [~W] — an instructional effect differs with it
 
 ## Related Learner Variables
 

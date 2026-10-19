@@ -66,3 +66,4 @@ The strongest effect in the Table 2 regressions, for perceived consequences on c
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — related
 - [Better resolution on the laboratory phishing task predicts lower odds of malicious files on participants' home computers](resolution-predicts-lower-real-world-malicious-files.md) — related
 - [Participants are consistently overconfident for phishing emails but relatively well calibrated for legitimate emails except at 100% confidence](overconfident-phishing-well-calibrated-legitimate.md) — related
+- [Big Five personality factors show few consistent effects on metacognitive judgments in domain-specific tests](big-five-few-consistent-effects-on-judgments.md) — related

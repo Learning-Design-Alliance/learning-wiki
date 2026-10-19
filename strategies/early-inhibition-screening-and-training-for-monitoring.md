@@ -16,6 +16,9 @@ sources:
 
 # Identify children with weak inhibition skills in kindergarten and provide intervention or training programs to support later monitoring accuracy
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that kindergarten inhibition predicted less overconfident monitoring almost two years later, the authors recommend identifying children with poorly developed inhibition skills in kindergarten and supporting them with intervention or training programs targeting EF skills. The rationale is that improving early inhibition might also foster more accurate monitoring skills and consequently academic achievement.
 

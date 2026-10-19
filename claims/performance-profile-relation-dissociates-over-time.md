@@ -13,17 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11409-024-09400-2"
     title: "Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2"
     author: Mariëtte van Loon, Claudia M. Roebers
+    q: 2
+    i: "?"
   - id: mariëtte-van-loon-2024-2
     resource: "https://doi.org/10.1007/s11409-024-09400-2"
     title: "Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive monitoring and control skills in elementary school: a latent profile approach. Metacognition and Learning. https://doi.org/10.1007/s11409-024-09400-2"
     author: Mariëtte van Loon, Claudia M. Roebers
+    q: 2
+    i: "?"
 ---
 
 # Task performance relates to metacognition profile membership at the first measurement point but not one year later
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` At M1, profiles differed in task performance (text task for second graders: χ²(2) = 9.46, p = .008; Kanji task for fourth graders: χ²(2) = 7.94, p = .019). [→ Mariëtte van Loon 2024](#mariëtte-van-loon-2024)
-`q2 i?` At M2, profile membership was unrelated to task performance on both tasks for both grades. [→ Mariëtte van Loon 2024 (2)](#mariëtte-van-loon-2024-2)
+`q2 i?` At M1, profiles differed in task performance (text task for second graders: χ²(2) = 9.46, p = .008; Kanji task for fourth graders: χ²(2) = 7.94, p = .019). [→ Mariëtte van Loon 2024](#mariette-van-loon-2024)
+`q2 i?` At M2, profile membership was unrelated to task performance on both tasks for both grades. [→ Mariëtte van Loon 2024 (2)](#mariette-van-loon-2024-2)
 
 ## Evidence
 

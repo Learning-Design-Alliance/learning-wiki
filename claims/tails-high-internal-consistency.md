@@ -55,3 +55,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related
 - [The IEA-provided Instruction to Engage Students in Learning Scale has practically zero correlation to student achievement, according to IEA (2011) exhibit data cited in the article](iea-engagement-scale-zero-achievement-correlation.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

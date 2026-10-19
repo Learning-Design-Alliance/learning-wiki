@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-012-9086-z"
     title: "Carol K. K. Chan. (2012). Co-regulation of learning in computer-supported collaborative learning environments: a discussion. Metacognition and Learning, 7, 63–73. https://doi.org/10.1007/s11409-012-9086-z"
     author: Carol K. K. Chan
+    q: 2
+    i: "?"
 ---
 
 # In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students engage most often in regulation of task-related activities, and regulation of social activities predicts group performance, whereas social activities themselves are negatively related to group performance. [→ Carol K. K. Chan 2012](#carol-k-k-chan-2012)

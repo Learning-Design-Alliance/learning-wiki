@@ -16,6 +16,9 @@ sources:
 
 # Future self-assessment interventions should redirect students' attention from invalid cues toward valid, predictive cues rather than providing self-assessment accuracy feedback
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because self-assessment feedback did not improve accuracy in either experiment, the authors propose a different approach: interventions that "redirect students’ attention from the invalid cues they used (i.e., cues that are not predictive of their actual performance) towards more valid (i.e., predictive) cues". The idea is that valid cues might better enable students to adjust their internal standards, yielding more accurate self-assessments even without feedback. The authors also suggest uncovering which cues students actually use would require process measures such as interviews or think-aloud protocols.
 

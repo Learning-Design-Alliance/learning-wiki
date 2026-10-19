@@ -99,6 +99,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](../claims/example-problem-pairs-raise-perceived-competence.md) [-M] — instruction changes it
 - [Boredom is the only achievement emotion predicting English vocabulary growth in primary school L2 learners; enjoyment and anxiety show no significant effect](../claims/boredom-predicts-l2-vocabulary-growth.md) [~W] — learners who differ on it differ in outcomes
 - [English vocabulary correlates with metacognitive monitoring and control at both time points, but only with the negative emotions boredom and anxiety at T1](../claims/l2-vocabulary-correlates-metacognition-negative-emotions.md) [~W] — learners who differ on it differ in outcomes
+- [Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text](../claims/epistemic-beliefs-anger-predict-low-epistemic-processing.md) [+W] — learners who differ on it differ in outcomes
+- [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](../claims/sadness-prior-knowledge-predict-coherence-processing.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

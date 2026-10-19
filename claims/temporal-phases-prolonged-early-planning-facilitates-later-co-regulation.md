@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-012-9086-z"
     title: "Carol K. K. Chan. (2012). Co-regulation of learning in computer-supported collaborative learning environments: a discussion. Metacognition and Learning, 7, 63–73. https://doi.org/10.1007/s11409-012-9086-z"
     author: Carol K. K. Chan
+    q: 2
+    i: "?"
 ---
 
 # Temporal phases of co-regulation matter: prolonged early planning to establish shared goals and common ground facilitates co-regulation and collaboration in later phases
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Groups using the interactive whiteboard initially engage in prolonged planning to establish shared goals and common ground, which facilitates co-regulation and collaboration in later phases. [→ Carol K. K. Chan 2012](#carol-k-k-chan-2012)

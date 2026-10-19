@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
     title: "Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y"
     author: Sunae Kim, Paul L Harris, Benjamin Néher
+    q: 2
+    i: "?"
 ---
 
 # Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In Experiment 1, curiosity peaked at an intermediate confidence level (around 0.43), with a significant quadratic coefficient. [→ Sunae Kim 2025](#sunae-kim-2025)

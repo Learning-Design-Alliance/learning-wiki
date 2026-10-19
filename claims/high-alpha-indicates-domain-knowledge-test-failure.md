@@ -52,3 +52,4 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](reflective-model-misrepresents-domain-knowledge.md) — related
 - [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related
 - [Detection accuracy is more internally consistent within phishing and within legitimate emails (α = 0.77 each) than across all emails (α = 0.59)](cronbach-alpha-higher-within-email-categories.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

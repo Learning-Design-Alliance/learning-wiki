@@ -63,3 +63,4 @@ EFA on 89 seventh-graders (SG1) grouped 15 of 18 items into five factors; a CFA 
 
 ## Related Claims
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
     title: "Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y"
     author: Sunae Kim, Paul L Harris, Benjamin Néher
+    q: 3
+    i: 3
 ---
 
 # Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Curiosity ratings were higher on incorrect-answer trials than on correct-answer trials in Experiment 1. [→ Sunae Kim 2025](#sunae-kim-2025)

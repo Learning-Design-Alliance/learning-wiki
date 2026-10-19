@@ -13,14 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
     title: "Mariëtte H. van Loon, et al. (2021). Connecting teachers' classroom instructions with children's metacognition and learning in elementary school. Metacognition and Learning. https://doi.org/10.1007/s11409-020-09248-2"
     author: Mariëtte H. van Loon, et al
+    q: 2
+    i: "?"
 ---
 
 # Fourth graders outperform second graders on secret-code performance and restudy effectiveness, but not on self-monitoring discrimination
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Performance was higher for fourth than second graders (t(304) = 3.60, p < .001). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
-`q2 i?` Fourth graders' restudy selections were more effective than second graders' (t(206) = 2.74, p = .007), because they selected more incorrect-response items for restudy (45.10% vs 29.79%). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
-`q2 i?` The ability to discriminate correct from incorrect responses in confidence judgments did not differ between grades (t(193) = .09, p = .93). [→ Mariëtte H. van Loon 2021](#mariëtte-h-van-loon-2021)
+`q2 i?` Performance was higher for fourth than second graders (t(304) = 3.60, p < .001). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
+`q2 i?` Fourth graders' restudy selections were more effective than second graders' (t(206) = 2.74, p = .007), because they selected more incorrect-response items for restudy (45.10% vs 29.79%). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
+`q2 i?` The ability to discriminate correct from incorrect responses in confidence judgments did not differ between grades (t(193) = .09, p = .93). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)
 
 ## Evidence
 

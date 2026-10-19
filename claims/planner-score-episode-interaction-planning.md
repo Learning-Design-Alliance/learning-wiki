@@ -12,10 +12,15 @@ sources:
   - id: tillema-2011
     resource: "https://doi.org/10.1007/s11409-011-9072-x"
     title: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2011). Relating self reports of writing behaviour and online task execution using a temporal model. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9072-x"
-    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T"
+    author: "Tillema, M., van den Bergh, H., Rijlaarsdam, G., & Sanders, T."
+    q: 2
+    i: "?"
 ---
 
 # Reported planner scores interact with episode: high planners plan more at the start and less at the end of task execution
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The effect of planner scores on online planning activities varies across episodes, with higher planners applying more planning early and less late in the writing process. [→ Tillema 2011](#tillema-2011)

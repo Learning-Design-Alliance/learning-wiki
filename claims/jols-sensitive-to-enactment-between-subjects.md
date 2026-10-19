@@ -12,10 +12,15 @@ sources:
   - id: kubik-2022
     resource: "https://doi.org/10.1007/s11409-021-09288-2"
     title: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U. (2022). The underconfidence-with-practice effect in action memory: The contribution of retrieval practice to metacognitive monitoring. Metacognition and Learning. https://doi.org/10.1007/s11409-021-09288-2"
-    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U"
+    author: "Kubik, V., Jemstedt, A., Mahjub Eshratabadi, H., Schwartz, B. L., & Jönsson, F. U."
+    q: 3
+    i: "?"
 ---
 
 # Learners' JOLs are sensitive to the enactment benefit even when encoding type is manipulated between subjects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Participants gave higher JOLs after enactive than verbal encoding, and predicted action phrases to profit more from enactment with practice. [→ Kubik 2022](#kubik-2022)

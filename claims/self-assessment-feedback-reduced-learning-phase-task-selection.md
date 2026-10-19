@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11409-019-09189-5"
     title: "Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog. (2019). Effects of self-assessment feedback on self-assessment and task-selection accuracy. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09189-5"
     author: Steven F. Raaijmakers, Martine Baars, Fred Paas, Jeroen J. G. van Merriënboer, Tamara van Gog
+    q: 3
+    i: 2
 ---
 
 # In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Task selections during the learning phase were significantly less accurate in the feedback conditions than in the control condition (d = 0.46), contrary to Hypothesis 1. [→ Steven F. Raaijmakers 2019](#steven-f-raaijmakers-2019)

@@ -16,6 +16,9 @@ sources:
 
 # Provide pedagogical interventions to enhance ethnolinguistic minority students' metacognitive knowledge and English vocabulary knowledge
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's forward-looking recommendation is that the observed lags call for targeted pedagogical interventions. As the authors state, "The findings suggest a need for pedagogical interventions to enhance ethnolinguistic minority students' metacognitive knowledge and English vocabulary knowledge." The intervention target follows directly from the study's finding that Yao minority students lagged behind Han peers in both constructs and that metacognitive knowledge predicted vocabulary breadth growth. The article does not specify the intervention content, so this strategy names the goal rather than a fixed recipe.
 

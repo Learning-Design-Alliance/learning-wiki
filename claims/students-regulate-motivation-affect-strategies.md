@@ -43,4 +43,4 @@ The chapter reports, citing Wolters (1998), that college students intentionally 
 
 
 ## Related Claims
--
+- [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](goal-profiles-differ-motivation-regulation.md) — a narrower finding that bears on this claim

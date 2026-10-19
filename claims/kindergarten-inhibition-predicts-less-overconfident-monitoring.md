@@ -13,17 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
     title: "Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x"
     author: Sonja Kälin, Claudia M. Roebers
+    q: 3
+    i: "?"
   - id: sonja-kälin-2022-2
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
     title: "Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x"
     author: Sonja Kälin, Claudia M. Roebers
+    q: 3
+    i: 2
 ---
 
 # Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+
 ## Subclaims
-`q3 i?` Inhibition assessed in kindergarten was the only significant longitudinal predictor of monitoring accuracy in 2nd grade, explaining 11% of variance, with better inhibition associated with less overconfidence. [→ Sonja Kälin 2022](#sonja-kälin-2022)
-`q3 i2` In a cross-lagged panel model, inhibition at T1 significantly predicted monitoring at T2 (β = −0.35, p < .01). [→ Sonja Kälin 2022 (2)](#sonja-kälin-2022-2)
+`q3 i?` Inhibition assessed in kindergarten was the only significant longitudinal predictor of monitoring accuracy in 2nd grade, explaining 11% of variance, with better inhibition associated with less overconfidence. [→ Sonja Kälin 2022](#sonja-kalin-2022)
+`q3 i2` In a cross-lagged panel model, inhibition at T1 significantly predicted monitoring at T2 (β = −0.35, p < .01). [→ Sonja Kälin 2022 (2)](#sonja-kalin-2022-2)
 
 ## Evidence
 

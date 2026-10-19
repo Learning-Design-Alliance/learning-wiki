@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
     title: "Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y"
     author: Sunae Kim, Paul L Harris, Benjamin Néher
+    q: 3
+    i: 2
   - id: sunae-kim-2025-2
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
     title: "Sunae Kim, Paul L Harris, Benjamin Néher. (2025). Curiosity can influence metacognitive processes. Metacognition and Learning (2025) 20:39. https://doi.org/10.1007/s11409-025-09444-y"
     author: Sunae Kim, Paul L Harris, Benjamin Néher
+    q: 3
+    i: 3
 ---
 
 # Adults opt out of answering more on trials they later answer incorrectly, and curiosity is higher on opted-out trials (metacognitive control)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` Participants were less likely to opt out on correct than on incorrect trials in Experiment 2. [→ Sunae Kim 2025](#sunae-kim-2025)

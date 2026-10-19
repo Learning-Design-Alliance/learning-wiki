@@ -16,6 +16,9 @@ sources:
 
 # Use reflection prompts focusing on the teacher vs. on the students in video-based professional development for SRL instruction
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The editorial describes Michalsky's quasi-experimental study examining "how reflection prompts that focus on the teacher vs. on the students when watching a classroom video affected preservice teachers' instruction of SRL strategies as well as their students' achievement". It introduces the concept of professional vision into research on teachers' support of SRL, and the findings indicate which type of reflection prompt is most beneficial for pre-service teachers' learning about supporting students' SRL.
 

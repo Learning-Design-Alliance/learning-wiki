@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
     title: "Sonja Kälin, Claudia M. Roebers. (2022). Longitudinal associations between executive functions and metacognitive monitoring in 5- to 8-year-olds. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09306-x"
     author: Sonja Kälin, Claudia M. Roebers
+    q: 3
+    i: "?"
 ---
 
 # The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` Earlier monitoring skills had no significant effect on later inhibition skills in the cross-lagged panel model. [→ Sonja Kälin 2022](#sonja-kälin-2022)
+`q3 i?` Earlier monitoring skills had no significant effect on later inhibition skills in the cross-lagged panel model. [→ Sonja Kälin 2022](#sonja-kalin-2022)
 
 ## Evidence
 

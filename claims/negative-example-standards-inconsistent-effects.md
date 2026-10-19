@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
+    q: 3
+    i: "?"
   - id: linda-froese-2023-2
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
     title: "Linda Froese, Julian Roelle. (2023). Expert example but not negative example standards help learners accurately evaluate the quality of self-generated examples. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09347-w"
     author: Linda Froese, Julian Roelle
+    q: 3
+    i: 1
 ---
 
 # Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i?` Negative example standards showed no statistically significant main effect on bias or absolute accuracy. [→ Linda Froese 2023](#linda-froese-2023)

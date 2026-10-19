@@ -49,3 +49,4 @@ One-way ANOVAs comparing the four clusters with Tukey HSD post hoc tests. The HL
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
 - [Motivational profile membership significantly predicts self-efficacy, learning strategies, and behavioral engagement, with high-autonomous groups scoring higher](profiles-predict-self-efficacy-strategies-engagement.md) — related
+- [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](goal-profiles-differ-writing-self-efficacy.md) — related

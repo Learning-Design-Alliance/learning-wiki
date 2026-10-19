@@ -12,14 +12,21 @@ sources:
   - id: rovers-2019
     resource: "https://doi.org/10.1007/s11409-019-09188-6"
     title: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6"
-    author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G"
+    author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
+    q: 2
+    i: "?"
   - id: rovers-2019-2
     resource: "https://doi.org/10.1007/s11409-019-09188-6"
     title: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: comparing different ways of measuring self-regulated learning. Metacognition and Learning. https://doi.org/10.1007/s11409-019-09188-6"
-    author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G"
+    author: "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G."
+    q: 2
+    i: 2
 ---
 
 # When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Studies examining global self-regulation find relatively high convergence between self-reports and behavioral measures. [→ Rovers 2019](#rovers-2019)

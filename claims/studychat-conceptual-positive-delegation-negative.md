@@ -50,3 +50,4 @@ Interpretation of individually significant traits from the pooled incremental re
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
 - [Students' conceptual-question and editing-request LLM usage is positively correlated with exam outcomes in the spring semester](conceptual-questions-editing-positive-exam-outcomes.md) — related
 - [Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters](contextual-questions-negative-assignment-outcomes.md) — related
+- [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related
