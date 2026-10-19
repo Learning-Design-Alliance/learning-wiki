@@ -218838,7 +218838,7 @@
 },
 {
 "canonical":true,
-"description":"For a task too large for one learner to hold or do alone, putting part of the work into shared representations, tools or partners is expected to raise performance with those aids present, and to build what the learner can do alone only when the parts the target requires stay with the learner and the learner's decisions to rely on aids are calibrated; no claim tests distributed against individual work, while single studies test how much to hand to an AI tool and feedback that calibrates offloading.",
+"description":"For a task too large for one learner to hold or do alone, putting part of the work into shared representations, tools or partners is expected to raise performance with those aids present, and to build what the learner can do alone only when the parts the target requires stay with the learner and the learner's decisions to rely on aids are calibrated; no claim recorded in the wiki tests distributed against individual work at first hand, while single studies test how much to hand to an AI tool, feedback that calibrates offloading, and the form of a group's shared representation.",
 "id":"distributed-cognition",
 "path":"principles/distributed-cognition.md",
 "status":"review",
@@ -218848,7 +218848,7 @@
 {
 "aliases":["creating-visual-representations"],
 "canonical":true,
-"description":"For a learner without a working model of a structure or process, pairing the words that explain it with a visual of the same idea, supplied or learner-made, is expected to improve comprehension over words alone; claims test each half against words alone, none tests the sequence, and direct tests favour provided over learner-built organizers for transfer.",
+"description":"For a learner without a working model of a structure or process, pairing the words that explain it with a visual of the same idea, supplied or learner-made, is expected to improve comprehension over words alone; claims test each half against words alone, none tests the sequence, direct tests favour provided over learner-built organizers for transfer, and the drawing supports tested did not help.",
 "id":"dual-coding",
 "path":"principles/dual-coding.md",
 "status":"review",
@@ -219129,7 +219129,7 @@
 {
 "aliases":["learning-embedded-in-the-core-mechanic","add-worked-examples-to-commercial-off-the-shelf-games-for-training"],
 "canonical":true,
-"description":"For a learner who has not yet reached a stated capability, a game whose winning move is the target reasoning, with modelling for novices and a debrief that asks for the reasoning outside the game, is expected to improve aligned outside-game performance; enjoyment and game score are separate outcomes, and no claim here tests games as a whole against non-game instruction.",
+"description":"For a learner who has not yet reached a stated capability, a game whose winning move is the target reasoning, played over several sessions inside a course of instruction, with modelling for novices and a debrief that asks for the reasoning outside the game, is expected to improve aligned outside-game performance over passive or no instruction; meta-analyses find small-to-moderate average gains that vary widely and disappear against active non-game instruction, and enjoyment and game score are separate outcomes.",
 "id":"game-based-learning",
 "path":"principles/game-based-learning.md",
 "status":"review",
@@ -219941,7 +219941,7 @@
 {
 "aliases":["vr-visual-experiential-scaffolding-literacy"],
 "canonical":true,
-"description":"For a learner preparing for a risky, costly, rare or invisible performance, repeated runs in a simulation that keeps the task's decisions and cues, guided during exploration and followed by feedback or a debrief, are expected to improve performance on the represented task more than no simulated practice, with more immersion adding nothing by itself; claims test simulation against no intervention or non-game instruction and guided against free VR exploration, but not the debrief, dose or fidelity.",
+"description":"For a learner preparing for a risky, costly, rare or invisible performance, repeated runs in a simulation that keeps the task's decisions and cues, guided during exploration and followed by feedback or a debrief, are expected to improve performance on the represented task more than no simulated practice, with more immersion adding nothing by itself; claims test simulation against no intervention, passive and active instruction (no advantage over active methods) and guided against free VR exploration, but not the debrief, dose or fidelity.",
 "id":"simulations-immersive-virtual-environments",
 "path":"principles/simulations-immersive-virtual-environments.md",
 "status":"review",
@@ -220142,7 +220142,7 @@
 {
 "aliases":["physical-world-augments-simulation-learning","vr-radiation-training-complementary-to-hands-on","pair-simulation-and-observation-in-research-labs"],
 "canonical":true,
-"description":"When a tool could do part of a task the learner must learn to do unaided, using it so the learner still does that part (attempt first; hints, questions and feedback rather than solutions; simulation or VR beside hands-on practice, not instead of it) is expected to give better performance once the tool is removed than letting it take the part over; single studies of generative AI with adults test this, two randomised studies limit it, and no claim tests complement against replacement for simulation or VR.",
+"description":"When a tool could do part of a task the learner must learn to do unaided, using it so the learner still does that part (attempt first; hints, questions and feedback rather than solutions; simulation or VR beside hands-on practice, not instead of it) is expected to give better performance once the tool is removed than letting it take the part over; single studies of generative AI with adults test this, three experiments limit it, and no claim tests complement against replacement for simulation or VR.",
 "id":"technology-augments-not-supplants-processes",
 "path":"principles/technology-augments-not-supplants-processes.md",
 "status":"review",

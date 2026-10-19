@@ -5,6 +5,39 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-19 — open-access journal sweep, orphan-claim linking, two re-read waves
+
+- **Journal sweep** (`source_lists.py --list journal --issn`, OpenAlex with a Crossref + Unpaywall fallback when
+  its daily budget runs out; repository copies preferred, `tandfonline.com` skipped as blocking): JLS 17 sources,
+  Cognition and Instruction 10, IJCSCL 170, Instructional Science 242, Metacognition and Learning 125, Educational
+  Psychology Review batch 1; 564+ sources, about 2,750 claims. Paused after `j-epr-1`; queues for EPR onward
+  (RER, Educational Psychologist, L&I, JEP, npj SoL, IJAIED, ERR, ETR&D, C&E) are built and waiting on the
+  maintainer. Two wrong-document ingests (a HAL copy of a different Sandoval paper; McCardle's thesis served as
+  McCardle & Hadwin 2015) were caught and their pages removed; a DOI added to thesis-based claims was withdrawn.
+- **Orphan-claim linking** (`link_pages.py --orphan-claims --verify --apply`, one model proposes, a second
+  checks, about a quarter kept): 3,259 links over ~3,700 page changes, PRs #287–#290. Claims cited by a non-claim
+  page: sweep claims 1,031 → 2,088 of 2,756; all claims 14,039 → 16,436 of 22,201; cited by a principle,
+  pattern, element, strategy or theory 8,170 → 10,535.
+- **The linker writes into a page's `## Claims` list, not its "Further evidence" section**, so
+  `upgrade_worklist.py --step reread` does not see most of what it adds, and it counts annotated bullets as
+  unread. The second wave was picked by counting bullets the linker added per page (`git diff`), ≥10.
+- **Re-reads**: wave 1, 42 canonical pages (Further evidence); wave 2, 29 pages (the linker's additions), each
+  passing `check_design_page.py`. Corrections worth knowing: modality's VR row (printed text beat narration in
+  one VR study); productive failure's "short sessions reverse the benefit" rested on p = .055; game-based
+  learning and digital learning each claimed "no claim tests X" while three meta-analyses / Triona & Klahr 2003
+  were attached; spaced-learning's quiz row cited spaced-vs-massed retrieval as recall-over-rereading;
+  simulations and games now expect an advantage over passive or no instruction only (Sitzmann 2011: d = −.19
+  against active methods). One finding runs against a default: full complexity beat gradual build-up two days
+  later (Zeitlhofer 2026), so cognitive-load-management now defers intrinsic load only for tasks learners cannot
+  yet coordinate.
+- **`lint.py` fix**: `check_broken_links` tested `page.md#section` destinations as files; it now strips the
+  fragment (`check_dead_anchors` owns it).
+- **Re-read commits must rebuild `reverse-index.json`**: they change which claims a page cites; CI caught one
+  that did not.
+- **Open**: the fragment step (59 non-canonical pages to fold) is not started; duplicate claim pairs flagged in
+  passing (multiple-choice lure-feedback pair, two interleaving pairs); Ramírez Ruiz 2018 and Walkington 2013
+  have no claim pages.
+
 ## 2026-10-17 (later) — existing pages enriched for competency-based online programmes
 
 - `patterns/competency-based-learning`: 18 to 63 claims; 11 situation rows (self-paced online with mentors, health
