@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 11 studies (5 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 10 claims rest on one study
+> **Evidence** · 31 claims (9 for, 14 mixed, 8 against) · 26 studies (17 causal, 3 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 10 of 26 report an effect size · 29 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -62,6 +62,25 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](../claims/elicit-condition-jol-accuracy-correlations.md) [+W]
 - [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](../claims/self-assessment-scaffold-no-added-benefit.md) [~W] — attached 2026-10-19 from Pijeira-Díaz et al. (2023), which proposed "Diagram self-assessment scaffold (prompting students to estimate completed and correct diagram boxes)"; tests this page's relationship.
 - [Prompted self-assessment decreases utilization of the low-diagnosticity commission-errors cue](../claims/self-assessment-decreases-commission-errors-cue-utilization.md) [-W] — attached 2026-10-19 from Pijeira-Díaz et al. (2023), which proposed "Diagram self-assessment scaffold (prompting students to estimate completed and correct diagram boxes)".
+- [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](../claims/confidence-ratings-impair-rule-learning.md) [-W]
+- [Bias scores did not improve over the school year, but school year level mattered: year 1 students became less overconfident while year 3 students improved their underconfidence](../claims/bias-no-change-year-level-effects.md) [~W]
+- [Calibration (judgment accuracy) measures such as the Goodman-Kruskall gamma coefficient and signal detection theory's d' can be empirically compared, and calibration may vary across knowledge domains](../claims/calibration-measures-gamma-versus-dprime-compared.md) [~W]
+- [Correctness Confidence did not significantly predict recall accuracy, contrary to the authors' hypothesis](../claims/correctness-confidence-did-not-predict-recall.md) [-W]
+- [Generating examples produces overconfident judgments of learning, especially for principles and procedures](../claims/example-generation-overconfidence-judgment-bias.md) [-W]
+- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](../claims/monitoring-exercise-reduced-overconfidence-only.md) [~W]
+- [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](../claims/paired-flashcards-improve-immediate-metacognitive-calibration.md) [+W]
+- [Learners are substantially overconfident when evaluating the quality of their self-generated examples](../claims/overconfidence-evaluating-self-generated-examples.md) [-W]
+- [Response-time effects are limited to slower responding in the JOL condition during the first two training blocks](../claims/jol-slower-early-training-response-times.md) [~W]
+- [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](../claims/exp2-feedback-correct-answers-no-gain.md) [-W]
+- [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](../claims/rubrics-improve-absolute-self-assessment-accuracy.md) [+W]
+- [Calibration accuracy improvements on French did not transfer to German and Math courses without the intervention, arguing against a maturation explanation](../claims/no-calibration-transfer-german-math.md) [+W]
+- [JOL resolution (relative accuracy) did not differ between younger and older adults](../claims/jol-resolution-no-age-difference.md) [~W]
+- [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](../claims/rating-scope-confidence-versus-jol-reactivity.md) [~W]
+- [Learners are substantially overconfident when judging the quality of their self-generated examples](../claims/overconfidence-judging-self-generated-examples.md) [-W]
+- [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](../claims/self-assessments-more-accurate-than-comprehension-judgments.md) [~W]
+- [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](../claims/students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) [~W]
+- [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](../claims/unskilled-unaware-monitoring-after-self-scoring.md) [~W]
+- [Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch](../claims/scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) [~W]
 
 ## The evidence by question
 

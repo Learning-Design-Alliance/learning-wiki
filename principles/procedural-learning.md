@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 41 studies (21 causal, 7 theoretical, 6 quant-synthesis, 6 review, 1 qualitative), `q1`–`q4` · 4 of 41 report an effect size · 13 claims rest on one study
+> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 41 studies (21 causal, 7 theoretical, 6 quant-synthesis, 6 review, 1 qualitative), `q1`–`q4` · 4 of 41 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,8 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution](../claims/opportunity-count-no-effect-execution.md) [~W]
 - [No significant differences in posttest rule accuracy across scaffolding conditions](../claims/no-rule-accuracy-difference-across-conditions.md) [-W]
 - [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](../claims/trainee-experience-moderates-aiding-transfer.md) [~W]
+- [DBT-based video tutorials significantly improve procedural knowledge for software tasks from pre-test to practice and post-tests](../claims/dbt-video-tutorials-improve-procedural-knowledge.md) [+W]
+- [Procedural knowledge gained during video training declines significantly from practice to the post-tests](../claims/practice-to-posttest-decline-software-video.md) [~W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

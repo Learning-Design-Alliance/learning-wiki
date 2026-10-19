@@ -18,7 +18,7 @@ sources:
 # Three-Lesson Web-Based SRL Training
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 6 studies (4 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 6 report an effect size · 10 claims rest on one study
 
 ## Description
 A web-based training on self-regulated learning that "can be attended by virtually unlimited numbers of participants" choosing their own time and place. "The WBT comprises three lessons of approximately 90 min each", covering the pre-action, action and post-action phases, and using videos, presentations, self-tests, exercises and bulletin boards. In this study lessons unlocked at 1-week intervals, videos used real actors, and mean self-reported compliance was 82.18%.
@@ -51,6 +51,9 @@ A web-based training on self-regulated learning that "can be attended by virtual
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~W]
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](../claims/peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) [+W]
 - [Behavioral and environmental regulation knowledge demonstrated during digital SRL training predicted biology midterm and final exam grades, while knowledge of SRL processes did not](../claims/behavioral-environmental-regulation-knowledge-predicts-biology-exams.md) [+W] — attached 2026-10-19 from Matthew L. Bernacki et al. (2023), which proposed "Science of Learning to Learn: a three-module digital SRL skill training embedded in undergraduate biology courses".
+- [Teachers' initial SRL competence profiles moderate training effectiveness: initially high-competence teachers benefit more from training](../claims/competence-profiles-moderate-srl-training-effect.md) [~W]
+- [KC lesson duration increased significantly only in the SRL-AIDE group (d = 1.14), not in the comparison group (d = 0.12)](../claims/kc-duration-increase-only-srl-aide.md) [+W]
+- [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not](../claims/mrs-strategy-increased-exam-scores.md) [~W]
 
 ## The evidence by question
 

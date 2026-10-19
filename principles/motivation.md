@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (37 for, 19 mixed, 3 against) · 63 studies (19 review, 14 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 6 associational, 3 design), `q1`–`q4` · 7 of 63 report an effect size · 45 claims rest on one study
+> **Evidence** · 63 claims (38 for, 22 mixed, 3 against) · 66 studies (19 review, 15 causal, 8 associational, 7 quant-synthesis, 7 qualitative, 7 theoretical, 3 design), `q1`–`q4` · 7 of 66 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -208,6 +208,10 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - Mindset interventions reliably change beliefs and goal orientations; achievement effects depend on contextual support [~M]
 - Process-focused feedback supports motivation and persistence more than trait-focused praise [~M]
 - Large-scale trial effects concentrate among lower-achieving students [~M]
+- [Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students](../claims/feedback-manner-main-effect-motivation-gap-closes-with-praise.md) [~W]
+- [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](../claims/predictors-of-self-assessed-creative-performance.md) [~W]
+- [Task complexity and desirable difficulties do not significantly affect intrinsic interest or expectancies for success](../claims/complexity-and-difficulty-no-effect-self-task-perception.md) [+W]
+- [A pronounced drop in performance occurs at week 8 after the first exam in an area of law, which is attributed to cyclic drops in motivation](../claims/week-8-performance-drop-motivation.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

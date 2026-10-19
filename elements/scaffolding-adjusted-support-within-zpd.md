@@ -18,7 +18,7 @@ sources:
 # Scaffolding: adjusting support to the child's level of development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (2 causal, 1 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper identifies scaffolding as a key teaching skill within the ZPD: "Scaffolding is an instructional process by which the teacher adjusts or modifies the amount and type of support offered to the child that is best suited to his level of development". It states the concept implies that teachers intervene more at the tougher parts so that task difficulty stays within the learner's ability range, with tasks developmentally sequenced from easier to harder aspects. It reports this has been well demonstrated in a variety of tasks by early childhood educators and researchers.
@@ -43,6 +43,7 @@ The paper identifies scaffolding as a key teaching skill within the ZPD: "Scaffo
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]
+- [Maternal contingency is the only scaffolding variable related to child performance during scaffolding across all three time-points](../claims/contingency-predicts-child-performance-scaffolding.md) [+W]
 
 ## Related Elements
 - 

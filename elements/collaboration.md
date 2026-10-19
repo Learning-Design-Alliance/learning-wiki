@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (4 quant-synthesis, 1 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 10 studies (4 quant-synthesis, 2 review, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 5 claims rest on one study
 
 ## Description
 Collaboration is the short-form canonical target for learners working together toward a shared product, understanding, or decision.
@@ -40,6 +40,8 @@ Collaboration is the short-form canonical target for learners working together t
 - [Collaborative Writing Improves Text Quality](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](../claims/plc-norms-three-categories-trust-prerequisite.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
+- [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](../claims/virtual-objects-shared-vr-collaborative-knowledge-building.md) [+W]
+- [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](../claims/merged-technical-understanding-minecraft-nomenclature.md) [+W]
 
 ## The evidence by question
 

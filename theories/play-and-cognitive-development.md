@@ -12,7 +12,7 @@ generated:
 # Play and Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 5 studies (2 review, 1 causal, 1 associational, 1 qualitative), `q1`–`q3` · 1 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Play is self-directed, individually constructed, imaginative activity, distinct from product-focused work, that serves cognitive skill development, social-emotional learning, and identity exploration. Piaget identified types of play that track a child's cognitive maturation; Smilansky added an intermediate category; Vygotsky offered a complementary account of *why* pretend play matters developmentally, independent of Piaget's stage framework.
@@ -48,6 +48,10 @@ Vygotsky treated pretend play as central to development in its own right: it let
 
 - [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](../claims/block-play-complexity-predicts-later-math-achievement.md) [+W]
 - [A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82%](../claims/tk-sel-strategies-adoption-growth.md) [+W]
+- [Children aged 6–8 combining augmented reality with socio-dramatic play make significant progress toward explicit physics discourse](../claims/augmented-reality-play-physics-trajectory-young-children.md) [+W]
+- [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](../claims/musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) [~W]
+- [Musical play intervention significantly increased children's metacognitive knowledge at interview compared with controls](../claims/musical-play-intervention-metacognitive-knowledge-interview-gains.md) [+W]
+- [Anger in collaborative gameplay can drive students to link game mechanics to real-world phenomena to defend their strategies](../claims/anger-drives-real-world-game-linking.md) [~W]
 
 ## Related Theories
 

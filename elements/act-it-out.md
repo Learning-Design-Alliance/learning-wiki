@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 16 studies (8 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 17 studies (9 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 3 of 17 report an effect size · 4 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -53,7 +53,9 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Enactment impairs resolution of JOLs relative to verbal encoding of action phrases](../claims/enactment-impairs-jol-resolution.md) [-W]
+- [Learners' JOLs are sensitive to the enactment benefit even when encoding type is manipulated between subjects](../claims/jols-sensitive-to-enactment-between-subjects.md) [+W]
+- [Enactive encoding yields higher cued recall than verbal encoding, and the enactment effect remains stable across learning cycles](../claims/enactment-effect-stable-across-cycles.md) [+W]
 
 ## The evidence by question
 

@@ -23,7 +23,7 @@ sources:
 # Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 11 studies (3 causal, 3 review, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 11 report an effect size · 16 claims rest on one study
+> **Evidence** · 18 claims (10 for, 8 mixed) · 12 studies (3 causal, 3 review, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 12 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,10 @@ For example, a music student exploring a sequencer may want to make a track that
 The expectation should weaken if studies comparing the same guided exploration with fast and slow feedback find no difference in learning. It should also weaken if more cycles per round add nothing once guidance is held constant, or if the time saved by a tool goes into covering more material with no gain. If guided exploration with a fast tool still loses to explicit instruction for novices on aligned conceptual tests, the tool belongs after instruction, as practice, not as the way in. If built-in prompts work as well as a responding teacher (as the guidance-type finding hints), the classroom rows can lean on the tool rather than on circulating. Do not protect the model by calling every failure "not enough guidance" or "not enough cycles" after the fact.
 
 Speed of the test cycle, number of cycles, guidance, immediate understanding, delayed retention and inquiry skill are separate claims. The present evidence establishes that guidance matters and that tools can shorten a lab. It establishes no number of cycles, no familiarisation time and no hand-over criterion.
+
+## Claims
+
+- [Task design relates to emphases within the cognitive elements: the technology-enhanced task elicited more task exploration, while the physical-objects task elicited more coordination](../claims/task-design-shifts-task-exploration-versus-coordination.md) [+W]
 
 ## Related Principles
 - [Inquiry-Based Learning](inquiry-based-learning.md) — the general relationship of investigating with guidance; this page is its tool layer.

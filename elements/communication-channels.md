@@ -13,7 +13,7 @@ generated:
 # Communication Channels
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 quant-synthesis, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 6 studies (3 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 0 of 6 report an effect size · 10 claims rest on one study
 
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.
@@ -41,6 +41,10 @@ Communication channels are the element in which learners use designated tools or
 - [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](../claims/sns-learning-unbounded-space-time.md) [+W]
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](../claims/student-generated-hidden-curriculum-sns.md) [+W]
 - [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](../claims/thread-structure-designerly-talk-corpus.md) [+W]
+- [Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups](../claims/danmaku-collective-flow-vs-threaded-small-groups.md) [~W]
+- [Students re-purpose social networking tools like Facebook as course back-channels, and user characteristics correlate with reported propensity to collaborate](../claims/facebook-backchannel-course-collaboration.md) [~W]
+- [Collaborative problem framing unfolds as sequential comment-and-edit organization across Stack Overflow's dual-space design of distinct question and commenting spaces](../claims/dual-space-comment-edit-sequential-organization.md) [~W]
+- [Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)](../claims/mass-participation-depends-on-tools.md) [~W]
 
 ## The evidence by question
 - *Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](../claims/scmc-small-advantage-overall-l2-outcomes.md) [~M]

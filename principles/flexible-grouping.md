@@ -31,7 +31,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (18 for, 13 mixed, 2 against) · 37 studies (11 causal, 11 quant-synthesis, 8 review, 3 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 9 of 37 report an effect size · 22 claims rest on one study
+> **Evidence** · 35 claims (18 for, 14 mixed, 3 against) · 39 studies (12 causal, 11 quant-synthesis, 8 review, 3 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 9 of 39 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,11 @@ For example, an adult learner in an English class at work may want to handle pho
 The expectation should weaken if comparisons of regrouped small-group teaching with whole-class teaching, with comparable learners and individual outcomes, show no advantage; if flexible grouping in practice converges on stable groups that behave like ability tracks (the same learners in the same groups across a term), in which case "flexible" is a description of intent only; or if mixed groups with explaining roles show losses for higher-attaining learners on individual measures. If similar-need groups help only when the teacher can give near one-to-one attention, the similar-need step is a staffing decision, not a grouping one. If short, task-specific similar-need groups turn out to show the same relative-standing effects on grades, or the same concentration of disruption, that whole-class sorting showed in Chicago, then "temporary" does not remove those costs and the low-stigma steps carry more weight than the model gives them; if a mixed core class with added support does not reproduce the Chicago spillover outside ninth-grade algebra, the default's preference for it rests on one district. Do not protect the model by calling every failure "not flexible enough" after the fact.
 
 Achievement on the grouped task, delayed retention, participation, belonging and the learner's own valued goal are separate claims. The present evidence establishes no group size, duration, regrouping interval or composition rule.
+
+## Claims
+
+- [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](../claims/homogeneous-groups-greater-learning-gains-than-heterogeneous.md) [~W]
+- [The mixed-algorithm grouping intervention did not significantly change comprehension test performance despite slightly higher experimental mean](../claims/comprehension-no-significant-difference-mixed-ga.md) [-W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — flexible grouping often structures when and how peer talk happens

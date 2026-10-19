@@ -13,7 +13,7 @@ generated:
 # Knowledge-Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (3 qualitative, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 9 studies (4 qualitative, 2 review, 1 associational, 1 design, 1 theoretical), `q1`–`q2` · 0 of 9 report an effect size · 5 claims rest on one study
 
 ## Description
 Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them. It is useful when the goal is shared understanding that improves through contribution and revision.
@@ -39,6 +39,10 @@ Knowledge-building is the element in which learners collectively construct, refi
 - [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]
 - [Embodied collaborative construction can build shared geometric reasoning](../claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) [+W]
 - [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](../claims/student-understanding-alternates-between-local-coherences-tickertape.md) [+M]
+- [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](../claims/virtual-objects-shared-vr-collaborative-knowledge-building.md) [+W]
+- [A promising-ideas tool enabled children of about 8 years old to identify, communicate, respond to and build upon promising ideas in knowledge-building discourse](../claims/promising-ideas-tool-young-children.md) [+W]
+- [Most inquiry threads produced by low-achieving students were classified as knowledge construction or knowledge building rather than knowledge sharing.](../claims/inquiry-threads-knowledge-construction-building.md) [+W]
+- [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](../claims/knowledge-sharing-most-common-knowledge-building-rare.md) [-W]
 
 ## Related Elements
 - [Knowledge-Building Discourse](knowledge-building-discourse.md)

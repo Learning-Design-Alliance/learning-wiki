@@ -13,7 +13,7 @@ generated:
 # Proximity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 9 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Proximity (spatial contiguity) is the design principle that related pieces of information — a label and the object it names, an explanation and the graphic it describes, feedback and the work it addresses — should be placed near one another rather than separated. When corresponding words and images are integrated, learners do not have to visually search for connections or hold one representation in working memory while locating the other.
@@ -54,6 +54,8 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](../claims/spatial-colocation-benefit-task-dependent.md) [~W]
 - [College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading](../claims/integrated-illustrations-increase-creative-transfer-solutions.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotated lightning-formation illustrations integrated with explanatory text"; tests this page's relationship.
+- [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](../claims/fewer-than-half-images-direct-placement.md) [+W]
+- [Anatomy images were more likely than evolution images to have direct placement only](../claims/anatomy-more-direct-placement-than-evolution.md) [~W]
 
 ## The evidence by question
 

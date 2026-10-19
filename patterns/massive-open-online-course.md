@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (8 for, 16 mixed, 4 against) · 27 studies (7 associational, 6 review, 5 quant-synthesis, 3 causal, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 27 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (8 for, 17 mixed, 4 against) · 28 studies (7 associational, 6 review, 5 quant-synthesis, 4 causal, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 28 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,10 @@ Record: **registrant's stated purpose and route → device and time available �
 [Open Educational Resources (5Rs)](../elements/open-educational-resources.md) (when the content is openly licensed), [feedback](../elements/feedback.md), [discussion prompt](../elements/discussion-prompt.md) and [discussion](../elements/discussion.md). Theory: [Connectivism](../theories/connectivism.md). Principles and patterns the course draws on: [Self-Regulated Learning](../principles/self-regulated-learning.md), [Self-Directed Learning](../principles/self-directed-learning.md), [Segmenting](../principles/segmenting.md), [Multimedia Learning](../principles/multimedia-learning.md), [Digital Learning](../principles/digital-learning.md), [Structured Peer Review](structured-peer-review.md) and [Online Course Design](online-course-design.md).
 
 This pattern is scoped to open courses at a scale where teacher time per learner is negligible. With a tutor for each small cohort, [Online Course Design](online-course-design.md) applies; with regular in-person time, [Blended Learning](blended-learning.md). The policy supports design and observation; whether a MOOC built this way teaches as much as the same content taught another way, for which learners, at what cost and with what completion among those who intend to finish, remains untested in this wiki.
+
+## Claims
+
+- [Personalized SRL email interventions increased post-course self-regulation scores relative to control in a MOOC, while the general intervention did not](../claims/personalized-srl-interventions-raised-srl-scores-mooc.md) [~W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

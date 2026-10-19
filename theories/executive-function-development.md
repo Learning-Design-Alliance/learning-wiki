@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 42 claims (28 for, 12 mixed, 2 against) · 30 studies (25 associational, 2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 14 of 30 report an effect size · 41 claims rest on one study
+> **Evidence** · 46 claims (30 for, 14 mixed, 2 against) · 33 studies (27 associational, 2 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 16 of 33 report an effect size · 45 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -83,6 +83,10 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](../claims/self-regulation-frontal-activation-proactive-inhibition.md) [+W] — attached 2026-10-17 from Pas P. et al. (2021), which proposed "Frontal control over subcortical regions as the developmental basis of proactive inhibitory control".
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](../claims/self-regulation-striatal-motor-coupling-reactive.md) [-W] — attached 2026-10-17 from Pas P. et al. (2021), which proposed "Frontal control over subcortical regions as the developmental basis of proactive inhibitory control".
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+W] — attached 2026-10-17 from Valiente Carlos et al. (2011), which proposed "Effortful control as temperamentally based self-regulation grounded in the executive attention network".
+- [Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency](../claims/inhibition-improves-kindergarten-to-grade-2.md) [+W]
+- [Maternal contingency at 12 months predicts children's effortful control at 24 months, explaining 14% unique variance](../claims/contingency-12m-predicts-effortful-control-24m.md) [+W]
+- [The benefit of worked examples over problem-solving increases with decreasing shifting ability, reproducing Schwaighofer et al. (2016)](../claims/shifting-ability-moderates-worked-example-benefit.md) [~W]
+- [The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition](../claims/monitoring-does-not-predict-later-inhibition.md) [~W]
 
 ## Related Theories
 

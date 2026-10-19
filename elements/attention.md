@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (8 for, 3 against) · 23 studies (8 causal, 7 quant-synthesis, 5 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 23 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (8 for, 2 mixed, 3 against) · 25 studies (9 causal, 7 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 25 report an effect size · 7 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -56,6 +56,8 @@ Because working memory is severely limited and attention is selective, instructi
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](../claims/long-recorded-lectures-impeded-focus.md) [+W]
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](../claims/auto-updates-drew-users-from-explanations.md) [-W]
 - [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](../claims/part-whole-coordination-preserves-initial-idea.md) [+W]
+- [Students allocated roughly equal attention to the graph and the molecular model, both above chance, while attending little to the equations](../claims/equal-attention-model-graph-low-equations.md) [~W]
+- [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](../claims/graph-attention-away-from-statement.md) [~M]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

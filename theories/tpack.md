@@ -18,7 +18,7 @@ sources:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (13 for, 13 mixed) · 14 studies (5 associational, 3 theoretical, 2 causal, 2 design, 1 review, 1 qualitative), `q1`–`q3` · 4 of 14 report an effect size · 26 claims rest on one study
+> **Evidence** · 27 claims (13 for, 14 mixed) · 15 studies (5 associational, 3 causal, 3 theoretical, 2 design, 1 review, 1 qualitative), `q1`–`q3` · 4 of 15 report an effect size · 27 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -78,6 +78,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](../claims/gender-differences-technological-genai-knowledge-small-effects.md) [~W]
 - [Online Tpack Program Shift Student Centered Strategies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+M]
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [~W]
+- [Pre-service teachers' second-order knowledge integration is mediated by their first-order knowledge integration](../claims/first-order-knowledge-integration-mediation.md) [~W]
 
 ## The evidence by question
 

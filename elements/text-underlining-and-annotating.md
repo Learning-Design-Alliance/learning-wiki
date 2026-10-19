@@ -26,7 +26,7 @@ sources:
 # Text underlining and annotating
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (2 for, 4 mixed, 2 against) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (2 for, 8 mixed, 2 against) · 8 studies (3 causal, 2 quant-synthesis, 2 associational, 1 review), `q2`–`q4` · 3 of 8 report an effect size · 11 claims rest on one study
 
 ## Description
 A study aid involving marking text to indicate importance. Underlining (or highlighting) designates important information within the text; annotating adds marginal notes or written responses that go beyond selection to interpretation. The two differ in cognitive depth: underlining is a selection activity, while annotating is a generative one.
@@ -71,6 +71,10 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](../claims/children-underline-subordinate-details-not-superordinate-material.md) [~W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Underlining and conceptual postquestion manipulation for children's text study (Rickards & Denner 1979 experiment)".
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](../claims/underlining-plus-postquestions-most-depress-detail-recall.md) [-W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Underlining and conceptual postquestion manipulation for children's text study (Rickards & Denner 1979 experiment)".
 - [Trace-data cognitive learning strategy codes show no correlation with highlighted key words or auxiliary words, while key-word and auxiliary-word highlighting correlate highly](../claims/trace-data-highlighting-weak-internal-relations.md) [~W] — attached 2026-10-18 from Laura Dörrenbächer-Ulrich et al. (2021), which proposed "Trace data from text highlighting and notes as an objective measure of cognitive strategy use".
+- [High-learning groups show a significantly shorter time gap between initiating annotations and re-annotations than low-learning groups, indicating reduced attention distance](../claims/high-learning-groups-shorter-reannotation-time-gap.md) [~W]
+- [High- and low-learning groups do not differ significantly in the quantity or breadth of initiating annotations and re-annotations](../claims/reannotation-quantity-breadth-no-group-difference.md) [~W]
+- [Initiating annotation frequency strongly correlates with re-annotation frequency across groups (Kendall's tau = 0.95)](../claims/initiating-and-reannotation-strong-correlation.md) [~W]
+- [When every word was judged, words circled as to-be-remembered were recalled better and words underlined as to-be-forgotten worse than a no-instruction control group's recall](../claims/judging-every-item-remember-enhanced-forget-impaired.md) [~W]
 
 ## The evidence by question
 - *Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [+S]

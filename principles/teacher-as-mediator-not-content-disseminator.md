@@ -67,7 +67,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (30 for, 15 mixed, 1 against) · 42 studies (9 quant-synthesis, 9 review, 9 qualitative, 9 theoretical, 3 causal, 3 associational), `q1`–`q4` · 4 of 42 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (31 for, 15 mixed, 1 against) · 43 studies (10 theoretical, 9 quant-synthesis, 9 review, 9 qualitative, 3 causal, 3 associational), `q1`–`q4` · 4 of 43 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,10 @@ For example, adult language learners may want to pass a grammar-heavy placement 
 The model should weaken if comparisons of teachers using the mediating moves (questioning, holding back answers, learner explanation, transfer tasks) against teachers presenting the same content, with comparable learners and aligned unaided outcomes, show no advantage; or if the gain on reported engagement does not appear on understanding or a delayed test. If the active ingredient turns out to be what learners do, whoever prompts it (software, peers, materials), then this page's model reduces to [Active Learning](active-learning.md) and the teacher's role is a matter of logistics. If explicit instruction followed by practice matches the mediating design on transfer and use, the model should say so for that domain (second-language grammar is the likeliest). Do not protect the model by calling every failure "not real facilitation" after the fact.
 
 Reported engagement, end-of-unit understanding, exam performance, delayed retention and use outside class are separate claims. The present evidence in this wiki sets no ratio of teacher talk to learner work and no rule for when to step in.
+
+## Claims
+
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](../claims/teacher-guidance-mediation-cscl.md) [+W]
 
 ## Related Principles
 - [Constructivism](cognitive-activation.md)

@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 14 studies (5 quant-synthesis, 2 causal, 2 associational, 2 theoretical, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 4 of 14 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (5 for, 6 mixed) · 17 studies (5 quant-synthesis, 3 causal, 3 associational, 2 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 4 of 17 report an effect size · 8 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -58,6 +58,9 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](../claims/calli-districts-valued-peer-learning-experts-structure.md) [+W]
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](../claims/dr-outperforms-ci-task-performance.md) [~W]
 - [In Pilot District 4, student-led Small Writing Groups showed growing attendance and increased writing confidence among participating students, per Core Team reflections](../claims/small-writing-groups-attendance-confidence-growth.md) [~W]
+- [Synthesized factors reflect a bidirectional relationship between individual participation and group performance in collaborative learning](../claims/bidirectional-participation-group-performance.md) [~W]
+- [Without assigned roles, all group members generally participate in many core dimensions of group leadership, which emerges as an interactive group phenomenon](../claims/distributed-leadership-emergent-group-phenomenon.md) [~W]
+- [Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks](../claims/zambrano-2019-experienced-groups-outperform-inexperienced.md) [~W]
 
 ## The evidence by question
 - *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]

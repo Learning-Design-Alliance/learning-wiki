@@ -27,7 +27,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (8 for, 24 mixed, 1 against) · 33 studies (7 causal, 7 theoretical, 6 associational, 6 design, 4 review, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 1 of 33 report an effect size · 28 claims rest on one study
+> **Evidence** · 34 claims (8 for, 25 mixed, 1 against) · 34 studies (8 causal, 7 theoretical, 6 associational, 6 design, 4 review, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 2 of 34 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](../claims/llms-support-competency-based-assessment-design.md) [+W]
 - [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](../claims/elpac-pl4-threshold-validated-replication.md) [+W]
+- [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](../claims/rubrics-reduce-self-assessment-bias.md) [~W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

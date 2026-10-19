@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (17 for, 17 mixed) · 31 studies (8 theoretical, 7 causal, 7 review, 4 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 31 report an effect size · 29 claims rest on one study
+> **Evidence** · 40 claims (21 for, 19 mixed) · 37 studies (10 theoretical, 8 causal, 7 review, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 4 of 37 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,12 @@ Claims the earlier page cited, each now placed above (in the model, the evidence
 - [Cognitive offloading is positively, not negatively, associated with transformative learning experience, contrary to the hypothesized negative effect](../claims/cognitive-offloading-positively-predicts-transformative-learning.md) [+W]
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](../claims/ai-reliance-correlated-lower-critical-thinking-offloading.md) [~W]
 - [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](../claims/offloading-content-constrains-volume.md) [~W]
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](../claims/making-team-success-coordination-entanglement.md) [+W]
+- [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](../claims/merged-technical-understanding-minecraft-nomenclature.md) [+W]
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](../claims/multimodal-representations-as-metaphors-joint-reasoning.md) [~W]
+- [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](../claims/oner-coordinated-math-social-resources.md) [~W]
+- [Presentation technologies such as paper posters and PowerPoint mediate the sharing of ways of seeing in design studio critique sessions](../claims/presentation-technologies-mediate-ways-of-seeing.md) [+W]
+- [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](../claims/zambrano-2019-learning-phase-manova-main-effects.md) [+W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others

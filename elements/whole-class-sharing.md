@@ -13,7 +13,7 @@ generated:
 # Whole-Class Sharing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 8 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Whole-class sharing brings individual or small-group thinking before the entire class for presentation, discussion, and synthesis. It functions as the public, collective phase of a learning sequence — consolidating private reasoning into shared knowledge and giving learners an authentic audience for their ideas.
@@ -55,7 +55,8 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Textual evidence for interpretive claims appeared in whole-class discussion but students struggled to reason about why evidence supported claims](../claims/evidence-in-discussion-but-reasoning-struggle.md) [-W]
+- [Student proportion of words spoken in whole-class talk increased in both dose groups after VSDR](../claims/vsdr-increased-student-talk-proportion.md) [+W]
 
 ## Related Elements
 - [Peer Discussion](peer-discussion.md) — the small-group phase that generates the ideas sharing makes public

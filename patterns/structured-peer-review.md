@@ -24,7 +24,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 29 claims (17 for, 12 mixed) · 45 studies (13 causal, 10 quant-synthesis, 7 review, 5 associational, 4 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 8 of 45 report an effect size · 16 claims rest on one study
+> **Evidence** · 35 claims (19 for, 15 mixed, 1 against) · 48 studies (13 causal, 10 quant-synthesis, 7 review, 7 associational, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 48 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,12 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
 - [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [~W]
 - [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W]
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](../claims/cognitive-feedback-benefits-assessors-not-assessees.md) [-W]
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](../claims/giving-suggestions-predicts-assessor-performance.md) [+W]
+- [During feedback provision, most students compared the text with internal manifestations of quality criteria, which supported error identification and evaluation](../claims/internal-quality-criteria-guide-error-identification.md) [+W]
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](../claims/giving-problem-identification-feedback-predicts-assessor-performance.md) [~W]
+- [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](../claims/receiving-positive-affective-feedback-predicts-assessee-performance.md) [~W]
+- [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](../claims/reviser-score-episode-reading-assignment.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

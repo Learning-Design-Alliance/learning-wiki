@@ -18,7 +18,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 11 mixed) · 22 studies (6 causal, 6 theoretical, 3 qualitative, 3 design, 2 review, 2 associational), `q1`–`q3` · 5 of 22 report an effect size · 21 claims rest on one study
+> **Evidence** · 25 claims (14 for, 11 mixed) · 23 studies (7 causal, 6 theoretical, 3 qualitative, 3 design, 2 review, 2 associational), `q1`–`q3` · 6 of 23 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,10 @@ For example, a nursing student using a dosage-calculation tutor wants to pass th
 The expectation should weaken if a comparison of a tool with built-in limits against the same tool with written guidance, on aligned unaided outcomes, finds no difference: then the cheaper instruction route is enough, as the prompt-literacy study hints for use. It should weaken if hints-only assistants keep preventing harm without ever producing a gain over no assistant, which would make the constraint a safety measure rather than a design for learning. If constraints help only learners with inefficient strategies with real learners as they did with simulated ones, the default should target those learners rather than bound everyone. If learners routinely get round in-tool limits with other tools, the constraint belongs in the task and the assessment. Do not protect the model by calling every failure "the affordance was not salient enough" after the fact.
 
 Productive use in the tool, assisted performance, unaided immediate performance, delayed retention and use in the setting the learner values are separate claims. The evidence here establishes no time-to-first-action threshold, no constraint level and no schedule for loosening bounds.
+
+## Claims
+
+- [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](../claims/withholding-improves-output-bound-accuracy-help-seeking-not.md) [+M]
 
 ## Related Principles
 - [User-Centered Design for Learning](user-centered-design-for-learning.md) — the user-testing loop that finds where an interface needs text it should not.

@@ -31,7 +31,7 @@ sources:
 # Explicit Instruction: Math Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (14 for, 4 mixed) · 26 studies (12 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 4 of 26 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (16 for, 4 mixed) · 28 studies (13 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 28 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,11 @@ For example, an adult in a basic-skills class may want to check whether a "30% o
 The expectation should weaken if comparisons of explicit strategy instruction (with when and why) against practice without it, after the same concept teaching and with comparable learners, show no advantage on unaided new problems, or if gains at the end of a unit disappear at a delay. If comparing methods raises flexibility but never accuracy or solution rates, the page should say comparison serves flexibility only. If whole-problem planning keeps matching phrase translation on solving problems, as in the one study here, the case for it rests on equation writing alone. If problem-first designs keep beating strategy-first teaching on the outcomes a design targets, the default sequence should start with the attempt more often. Do not protect the model by calling every failure "not enough conceptual footing" after the fact.
 
 Choosing a method, writing a correct equation, solving correctly, explaining why, and delayed transfer are separate claims. The present evidence sets no number of strategies, no dose and no move-on criterion.
+
+## Claims
+
+- [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [+W]
+- [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](../claims/vsdr-alternative-problem-solving-reflection.md) [+W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — strategy instruction often begins with explicit modeled solutions

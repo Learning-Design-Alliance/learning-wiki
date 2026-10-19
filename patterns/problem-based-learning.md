@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 29 claims (7 for, 19 mixed, 3 against) · 26 studies (9 causal, 5 theoretical, 4 quant-synthesis, 4 review, 3 qualitative, 1 design), `q1`–`q4` · 5 of 26 report an effect size · 24 claims rest on one study
+> **Evidence** · 44 claims (11 for, 29 mixed, 4 against) · 37 studies (14 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 37 report an effect size · 39 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,21 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
 - [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](../claims/ai-pbl-adaptive-personalized-engagement.md) [~W]
 - [Prepare And Assess Pbl Process Reflection](../strategies/prepare-and-assess-pbl-process-reflection.md) [+M]
+- [Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis](../claims/anomalous-data-handling-conditions-pbl.md) [~W]
+- [Students perceived CCS tasks as authentic problems whose answers teachers did not already know (52.2%) versus everyday school (8%)](../claims/ccs-tasks-authentic-teacher-no-answer.md) [+W]
+- [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](../claims/pbl-discussion-mainly-theory-building.md) [~W]
+- [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](../claims/pf-outperformed-di-variance-conceptual-transfer.md) [~W]
+- [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](../claims/pf-problem-sweet-spot-complexity-pilot-tests.md) [+W]
+- [Prior knowledge strongly predicts post-test application and transfer scores in both topics](../claims/pretest-predicts-inquiry-outcomes.md) [~W]
+- [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](../claims/pbl-discussion-no-increase-in-immediate-inferences.md) [-W]
+- [Solution rates in the initial problem-solving phase moderate whether studies find beneficial PS-I effects](../claims/solution-rate-moderates-ps-i-benefits.md) [+W]
+- [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](../claims/pbl-recall-benefit-general-not-explanation-specific.md) [+W]
+- [Prior problem-based discussion does not change the number of inaccurate propositions recalled](../claims/pbl-discussion-no-change-in-inaccurate-recall.md) [~W]
+- [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](../claims/pbl-group-sequence-derails-to-social.md) [~W]
+- [The PBL assumption that student-generated learning issues guide self-directed learning had never been empirically tested before this study](../claims/pbl-learning-issues-assumption-untested.md) [~W]
+- [Verbal interaction in a PBL tutorial group shows only part of the underlying cognitive and metacognitive processes](../claims/pbl-verbal-interaction-tip-of-iceberg.md) [~W]
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](../claims/staff-tutoring-small-achievement-advantage-pbl.md) [~W]
+- [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](../claims/productive-failure-deeper-learning-lower-posttests.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

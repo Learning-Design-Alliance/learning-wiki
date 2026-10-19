@@ -13,7 +13,7 @@ generated:
 # Knowledge Synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Knowledge synthesis asks learners to integrate information from multiple sources, perspectives, or group members into a single coherent account, model, or argument. Rather than recalling or summarizing individual inputs, learners must reconcile differences, resolve contradictions, and organize ideas into a unified structure — the integration itself is the learning work.
@@ -53,7 +53,8 @@ Synthesis tasks push learners beyond comprehension toward higher-order organizat
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Groups' success in merging perspectives was related to the time they allocated to the interdisciplinary cognitive processes, especially transforming knowledge and critical stance](../claims/time-allocation-relates-to-merging-extent.md) [+W]
+- [Three discourse patterns emerged during collaborative multidisciplinary modeling, differing in the extent to which students merged disciplinary perspectives](../claims/three-interdisciplinary-discourse-patterns.md) [~W]
 
 ## Related Elements
 

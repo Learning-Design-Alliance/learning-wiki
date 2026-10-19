@@ -18,7 +18,7 @@ sources:
 # Daily Before-and-After SRL Learning Diary
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 mixed, 2 against) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (1 for, 6 mixed, 2 against) · 7 studies (5 causal, 1 design, 1 theoretical), `q2`–`q3` · 1 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 A daily online learning diary with two sections per learning day. "Before learning, open-ended questions triggered goal-setting, planning, and self-motivation", asking which chapters, goals, strategies and time were planned. The evening section "triggered reflection and goal-setting for the following day", comparing goals to achievement and naming obstacles. Participants averaged 12.58 entries; used alone, it produced no significant gains in this study.
@@ -47,6 +47,11 @@ A daily online learning diary with two sections per learning day. "Before learni
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~W]
 - [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [-W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Standardized learning journal (structured learning diary) for fostering self-monitoring in university courses"; tests this page's relationship.
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](../claims/diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) [~W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Standardized learning journal (structured learning diary) for fostering self-monitoring in university courses"; tests this page's relationship.
+- [Prompts increased learners' self-efficacy during learning within the prompted group but did not produce between-group differences at mid-learning or post-learning](../claims/prompts-increase-self-efficacy-during-learning.md) [~W]
+- [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](../claims/self-report-srl-limitations-combined-approach.md) [~W]
+- [The choice of online versus offline measures of SRL moderates the strength of the relationship between SRL processes and achievement](../claims/measure-type-moderates-srl-achievement-relation.md) [~W]
+- [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not](../claims/mrs-strategy-increased-exam-scores.md) [+W]
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](../claims/regulatory-support-no-increase-srl-aptitude.md) [~W]
 
 ## The evidence by question
 - *Does keeping a learning diary by itself improve learners' self-regulation, or only when it comes with self-regulation training or prompts?* [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [-M]

@@ -14,7 +14,7 @@ grain_size: course
 # Design Thinking
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (3 quant-synthesis, 2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 9 studies (3 quant-synthesis, 2 causal, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Design Thinking organizes the *design* of a course around five moves: empathize with the people who will learn, define the problem their situation actually poses, ideate broadly before committing, prototype cheaply, and test with real learners. Its defining commitment is that the design problem is discovered rather than assumed — the designer begins by investigating learners and their context, and treats the first course outline as a hypothesis to be falsified rather than a plan to be executed.
@@ -68,6 +68,7 @@ The same five moves are also used *with learners* — students empathizing with 
 ### Claims
 
 - [Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs](../claims/students-unknow-questions-until-too-late.md) [~W]
+- [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](../claims/prototyping-exercise-promotes-idea-exchange-shared-image.md) [+W]
 
 #### Supporting
 - [Multiple varied cases support learning in ill-structured domains.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M] — the case for encountering several framings of a problem before committing to one

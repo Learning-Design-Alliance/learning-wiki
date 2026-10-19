@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 7 studies (3 causal, 3 review, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 11 studies (6 causal, 3 review, 1 associational, 1 theoretical), `q1`–`q3` · 2 of 11 report an effect size · 8 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -56,6 +56,11 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Directly after training, students who observed a modeling example generated significantly more overall feedback than students who practiced giving feedback](../claims/modeling-example-more-overall-feedback-direct-measure.md) [+W] — attached 2026-10-18 from Floris M. van Blankenstein et al. (2019), which proposed "Modeling example intervention: teacher demonstrates giving feed-back and feed-forward on good and bad presentation videos"; tests this page's relationship.
 - [Directly after training, students who observed a modeling example referred to assessment criteria in their feedback significantly more often than students who practiced](../claims/modeling-example-more-assessment-criteria-direct-measure.md) [+W] — attached 2026-10-18 from Floris M. van Blankenstein et al. (2019), which proposed "Modeling example intervention: teacher demonstrates giving feed-back and feed-forward on good and bad presentation videos"; tests this page's relationship.
+- [Students with good-quality or moderately positive profiles self-assessed more accurately after studying video modeling examples than students with poor-quality or moderately negative profiles](../claims/motivational-profile-self-assessment-accuracy.md) [+W]
+- [The authors argue instructor presence is unlikely to improve learning outcomes unless the instructor's visible behavior provides information learners can directly use for the task](../claims/instructor-presence-requires-usable-task-relevant-information.md) [~W]
+- [Studying a video modeling example produces large pretest-to-posttest gains in learning and near transfer of probability calculation for novice secondary students, regardless of model or observer gender](../claims/video-modeling-examples-large-gains-probability-novices.md) [+W]
+- [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](../claims/theory-annotation-no-extra-skill-benefit.md) [~W]
+- [Judgment-of-learning accuracy after video modeling examples does not differ by model or observer gender, and students of both genders predict their performance accurately](../claims/jol-accuracy-unaffected-by-gender-video-modeling.md) [~W]
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]

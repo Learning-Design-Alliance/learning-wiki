@@ -26,7 +26,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (12 for, 8 mixed, 1 against) · 17 studies (12 qualitative, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 17 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 18 studies (12 qualitative, 2 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 18 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,12 @@ Record: **the decision on the table and its written standing → the group and i
 [Belonging](../elements/belonging.md), the [Rightful Presence Implementation Guide](../elements/rightful-presence-implementation-guide.md), [co-designed research questions](../elements/seernet-co-designed-research-questions.md), the method [Make the Invisible Visible (Power Dynamics)](../methods/make-the-invisible-visible-power-dynamics.md), the process [Humanizing Co-design with Educators](../processes/humanizing-co-design-with-educators.md), and the strategies [engaging student voice](../strategies/promising-practices-engaging-student-voice.md), [family-school partnerships](../strategies/family-school-partnerships-for-school-climate.md), [listening to the voices of students in PBL](../strategies/racial_equity_in_pbl_-_listen_to_the_voices_of_students.md) and [building a trusting community](../strategies/building_a_trusting_community.md). Theory: [Cultural-Historical Activity Theory](../theories/cultural-historical-activity-theory.md) reads the redesign as a formative intervention that introduces new tools and roles to resolve a double-bind, and the separation of group-level from system-level learning in step 6 comes from it.
 
 This pattern is scoped to sharing a real decision with a group the existing process excludes. It does not cover consultation (gathering views for others to decide), which is a legitimate design if named as one, or classroom participation norms, which the culturally responsive norms principle owns. Whether a redesigned structure sustains participation better than partial measures, across sites, and whether it changes anything students learn, remains to be tested; the wiki's evidence is one before/after case and participants' accounts.
+
+## Claims
+
+- [Perceived-desired discrepancies decreased for co-designers but often increased or decreased less for the rest of the class](../claims/pd-discrepancy-negative-for-rest-of-class.md) [~W]
+- [Teacher–student disagreement diminished for co-designers and, in most cases, for the rest of the class](../claims/pd-disagreement-decreased-codesigners.md) [~W]
+- [Student awareness of improvement differed sharply by role: most co-designers noticed improvement, most control students noticed none](../claims/pd-student-change-question-differences.md) [+W]
 
 ## Related Patterns
 - (none yet linked)

@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 12 studies (4 review, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 6 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 19 studies (5 causal, 5 review, 3 associational, 2 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 19 report an effect size · 13 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -58,6 +58,13 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Seeding student groups with alternative ideas improves learning more than randomly assigning students to groups](../claims/seeding-groups-alternative-ideas-improves-learning.md) [+W]
 - [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
 - [Active participation in interaction matters for second language developmental outcomes](../claims/active-participation-in-interaction-drives-development.md) [~W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
+- [Collaboration aids learning of mathematical elaboration skills but not procedural skills](../claims/collaboration-aids-elaboration-not-procedural-skills.md) [~W]
+- [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](../claims/collaboration-quality-ratio-group-individual-activity.md) [~W]
+- [Online peer assessment activities account for about 12.8% of variance in project performance, with feedback activities adding 14.2% variance change](../claims/peer-assessment-activities-variance-project-performance.md) [+W]
+- [Argumentation quality in multiplayer game chat is an attribute of group interaction, not of individual utterances](../claims/group-argumentation-attribute-of-group-interaction.md) [~W]
+- [Engaging in argumentation-triggered, information-triggered, or socially-triggered interaction sequences is positively associated with grades, while facilitated discussions is not](../claims/initiating-sequence-clusters-associate-grades.md) [+W]
+- [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](../claims/disagreement-resolution-consensus-concession.md) [~W]
+- [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](../claims/unequal-participation-lower-satisfaction.md) [~W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 17 studies (8 causal, 6 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 19 studies (10 causal, 6 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 5 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -53,6 +53,9 @@ Imagery-based encoding improves recall and comprehension because information sto
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](../claims/fading-builds-memorable-images.md) [+W]
+- [Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals](../claims/internal-vs-external-visual-cue-use-draw-judgments.md) [~W]
+- [Students in the image condition gave higher draw judgment magnitude than text-only students in Study 1a](../claims/image-condition-inflated-draw-judgment-magnitude.md) [+W]
+- [LDI structure does not significantly affect cued recall of picture details or of interpretations themselves](../claims/ldi-structure-no-effect-recall-details-interpretations.md) [~W]
 
 ## The evidence by question
 

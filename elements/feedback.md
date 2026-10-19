@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 128 claims (64 for, 55 mixed, 9 against) · 108 studies (41 causal, 19 quant-synthesis, 18 review, 10 associational, 9 design, 7 qualitative, 4 theoretical), `q1`–`q4` · 29 of 108 report an effect size · 107 claims rest on one study
+> **Evidence** · 142 claims (69 for, 61 mixed, 12 against) · 116 studies (44 causal, 19 quant-synthesis, 18 review, 13 associational, 9 qualitative, 9 design, 4 theoretical), `q1`–`q4` · 31 of 116 report an effect size · 121 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -177,6 +177,20 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](../claims/prompts-more-effective-than-recasts-overall.md) [+W] — attached 2026-10-15 from Ahlem Ammar et al. (2006), which proposed "Four-week form-focused intervention on third-person possessive determiners his and her"; tests this page's relationship.
 - [Trained human evaluators provided higher-quality formative feedback than ChatGPT on four of five components, while ChatGPT outperformed humans on criteria-based feedback](../claims/chatgpt-feedback-quality-versus-human-raters.md) [~W] — attached 2026-10-15 from Steiss et al. (2023), which proposed "ChatGPT v.3.5 prompting protocol for generating formative writing feedback".
 - [ChatGPT feedback quality varied by essay quality: accuracy declined as essay quality rose, prioritization was best for average essays, and supportive tone was lowest for low-quality essays](../claims/ai-feedback-quality-varies-by-essay-quality.md) [~W] — attached 2026-10-15 from Steiss et al. (2023), which proposed "ChatGPT v.3.5 prompting protocol for generating formative writing feedback".
+- [Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students](../claims/feedback-manner-main-effect-motivation-gap-closes-with-praise.md) [~W]
+- [Students value GenAI corrective feedback with rationales and report increased motivation and confidence](../claims/genai-corrective-feedback-motivation-benefits.md) [+W]
+- [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](../claims/receiving-positive-affective-feedback-predicts-assessee-performance.md) [+W]
+- [Students who received corrective feedback post-processed practice tests more intensely and rated the tests as more useful for monitoring than students without feedback](../claims/feedback-raises-post-processing-and-perceived-usefulness.md) [+W]
+- [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](../claims/exp2-feedback-correct-answers-no-gain.md) [-W]
+- [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](../claims/practice-test-specificity-negative-without-feedback.md) [+W]
+- [Feedback in full-mission simulator training is delivered through recurring, multidimensional, multimodal feedback cycles built on instructors' embedded assessments of the fit between learning objectives and the ongoing task](../claims/multimodal-feedback-cycles-embedded-assessment-simulator.md) [+W]
+- [Comparing self-generated keywords with expert keywords increases bias, specifically underconfidence](../claims/expert-keyword-comparison-increases-underconfidence.md) [~W]
+- [In Experiment 2, task-selection accuracy during the learning phase did not differ between feedback and control conditions, unlike Experiment 1](../claims/exp2-learning-phase-task-selection-null.md) [~W]
+- [In Experiment 1, task-selection accuracy during the no-feedback test phase did not differ between feedback and control conditions](../claims/exp1-test-phase-task-selection-null.md) [-W]
+- [A trusting, supportive teacher-student relationship emerged as a prominent motivator for acting on feedback, especially for Information Seekers with Low Emotional Strain](../claims/teacher-relationship-motivates-feedback-action.md) [~W]
+- [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](../claims/self-assessment-feedback-no-benefit-absence-of-feedback.md) [-W]
+- [Within the feedback condition, students rated test taking and receiving feedback as equally useful for monitoring their performance](../claims/test-taking-and-feedback-equally-useful-for-monitoring.md) [~W]
+- [Person praise raises state self-esteem (d = 0.40), and under task-involving feedback higher state self-esteem is negatively related to motivation, supporting a distraction mechanism only in the low-threat condition](../claims/state-self-esteem-distraction-mechanism-task-involving.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

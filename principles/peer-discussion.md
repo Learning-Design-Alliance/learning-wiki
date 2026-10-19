@@ -22,7 +22,7 @@ sources:
 # Peer Discussion
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (7 for, 11 mixed) · 29 studies (8 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q2`–`q4` · 7 of 29 report an effect size · 9 claims rest on one study
+> **Evidence** · 21 claims (7 for, 13 mixed, 1 against) · 32 studies (11 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q2`–`q4` · 9 of 32 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -101,6 +101,12 @@ For example, a nursing student may value explaining to a peer why a drug dose ch
 The expectation should weaken if, with comparable learners and questions, an isomorphic-question design shows no gain from discussion over an individual reconsideration period of the same length, or if instructor explanation alone matches the combination. If revote gains are explained by the most confident member's initial answer rather than by the reasoning exchanged, the copying explanation should take priority. If gains on the isomorphic question do not appear on a delayed or transfer measure, keep the immediate claim and do not extend it. Do not protect the model by relabelling every failure as a weak question or weak facilitation after the fact.
 
 An immediate isomorphic-question gain, delayed retention, transfer to an unfamiliar problem and a change in reasoning ability are separate claims. The present evidence does not establish an optimal discussion time, group size, threshold of initial correctness or effect size for any learner.
+
+## Claims
+
+- [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](../claims/low-own-confidence-drives-assumption-change.md) [~W]
+- [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](../claims/script-all-or-none-input-answering.md) [~W]
+- [The small groups did not improve on questions 1 and 4, G2 declined on questions 2 and 3, and G3 improved only on question 2](../claims/small-groups-no-improvement-hate-speech-scores.md) [-W]
 
 ## Related Principles
 - [Peer Feedback/Peer Review](peer-learning.md) — feedback is one specific form of peer discussion centered on improvement of work.

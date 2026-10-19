@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 15 studies (6 causal, 6 quant-synthesis, 2 review, 1 design), `q2`–`q4` · 8 of 15 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 16 studies (7 causal, 6 quant-synthesis, 2 review, 1 design), `q2`–`q4` · 8 of 16 report an effect size · 6 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -58,6 +58,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [+W]
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](../claims/detailed-answer-keys-improve-momentum-only.md) [~W]
 - [Quiz mode's course-blind Python question generation was the only cross-course failure requiring a code change during onboarding](../claims/course-blind-code-question-generation-failure.md) [~W]
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](../claims/spaced-recall-improves-posttest-without-harming-new-learning.md) [+W]
 
 ## The evidence by question
 

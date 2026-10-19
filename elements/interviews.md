@@ -13,7 +13,7 @@ generated:
 # Interviews
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 1 of 3 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 causal, 1 quant-synthesis), `q3` · 2 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 An interview places learners in direct contact with a source of knowledge — a domain expert, practitioner, community member, or peer — whom they question using a prepared protocol. The learner acts as an active inquirer rather than a recipient of pre-packaged content, and the resulting material (notes, transcripts, recordings) becomes an artifact for analysis, synthesis, or presentation.
@@ -54,7 +54,7 @@ Interviews make learning situated and purposeful: learners must activate prior k
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](../claims/instructional-video-lowered-trustworthiness-ratings.md) [~W]
 
 ## Related Elements
 - [Case Studies](case-studies.md) — interviews can supply primary material for cases; cases give interviews an analytical frame

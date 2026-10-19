@@ -13,7 +13,7 @@ generated:
 # Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 22 studies (9 causal, 9 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 22 report an effect size
+> **Evidence** · 15 claims (8 for, 7 mixed) · 29 studies (10 causal, 9 quant-synthesis, 4 review, 3 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 7 of 29 report an effect size · 7 claims rest on one study
 
 ## Description
 Discussion is a structured verbal exchange — whole-class, small-group, or online — in which learners articulate their thinking, respond to peers, and negotiate meaning under facilitation. It functions as both an assessment surface (making reasoning visible to the instructor) and a learning mechanism (eliciting explanation, elaboration, and cognitive conflict).
@@ -55,7 +55,13 @@ Discussion improves achievement when it is structured around a clear goal and re
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Eager students (high talk, high engagement) achieved the best reading literacy scores and disconnected students (low talk, low engagement) the worst, with only the eager–disconnected difference statistically significant](../claims/eager-best-disconnected-worst-achievement.md) [~W]
+- [Discussion participation shifted from teacher-driven exchanges with few contributors to broader student participation and student-to-student argumentation](../claims/discussion-participation-shift-over-module.md) [+W]
+- [Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model](../claims/editorial-mcc-vivid-image-collaboration-sensitive-topics.md) [~W]
+- [Emotional framing intensity is associated with types of talk in argumentation, with low-intensity framing linked to cumulative talk and high-intensity framing to disputational talk](../claims/emotional-framing-linked-to-talk-types.md) [~W]
+- [Resistance messages in asynchronous discussions elicit most messages with perspectival understanding](../claims/resistance-messages-elicit-perspectival-understanding.md) [~W]
+- [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](../claims/high-cognitive-kindles-high-cognitive.md) [~W]
+- [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](../claims/script-all-or-none-input-answering.md) [~W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]

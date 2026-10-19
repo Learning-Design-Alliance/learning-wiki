@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (10 for, 3 mixed) · 19 studies (9 quant-synthesis, 4 causal, 3 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 8 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (11 for, 3 mixed) · 20 studies (9 quant-synthesis, 4 causal, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 8 of 20 report an effect size · 8 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -69,6 +69,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Students' evaluation of group processing increased over the course and after](../claims/group-processing-perceived-value-increases-over-time.md) [+M]
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
+- [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

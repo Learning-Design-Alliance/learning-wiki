@@ -13,7 +13,7 @@ generated:
 # Knowledge-Building Discourse
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 12 studies (5 causal, 4 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q4` · 3 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 18 claims (13 for, 2 mixed, 3 against) · 21 studies (7 causal, 4 quant-synthesis, 4 associational, 3 qualitative, 2 review, 1 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 15 claims rest on one study
 
 ## Description
 Knowledge-building discourse is structured, sustained discussion in which learners collectively work to improve ideas rather than merely exchange opinions. Talk is treated as a medium for advancing community understanding — questioning, elaborating, and revising explanations — in the tradition of Scardamalia and Bereiter's knowledge-building pedagogy.
@@ -55,6 +55,17 @@ Structured discourse deepens conceptual understanding because articulating and d
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained idea-developing discourse (SIDD)](../claims/sidd-mechanism-for-ai-ive-pbl-outcomes.md) [+W]
 - [The top of the student-discourse distribution contains essentially no categories of explicit conceptual reasoning, prediction, comparison to similar problems, or critical engagement with the tutor's suggestions](../claims/conceptual-reasoning-absent-from-discourse-head.md) [-W]
+- [Damşa's study concludes that increased discourse about textual knowledge objects leads to better learning or knowledge building](../claims/discourse-about-textual-objects-improves-learning.md) [+W]
+- [Grade 5 Science students predominantly engaged in fact-oriented, repetitive, and cumulative discourse, suggesting difficulty sustaining conversational exchanges online](../claims/grade5-fact-oriented-repetitive-cumulative-discourse.md) [-W]
+- [Contributions to online knowledge building discourse show moderate socio-cognitive openness, with higher social than cognitive openness](../claims/higher-social-than-cognitive-openness.md) [~W]
+- [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](../claims/knowledge-sharing-most-common-knowledge-building-rare.md) [-W]
+- [Students whose beliefs aligned with knowledge building showed more productive participation patterns on Knowledge Forum](../claims/kb-aligned-beliefs-productive-participation.md) [+W]
+- [A promising-ideas tool enabled children of about 8 years old to identify, communicate, respond to and build upon promising ideas in knowledge-building discourse](../claims/promising-ideas-tool-young-children.md) [+W]
+- [The intervention increased students' elaborated explanations and cumulative and exploratory talk](../claims/qt-increases-explanations-cumulative-exploratory-talk.md) [+W]
+- [Group meta-discourse in Knowledge Forum is associated with higher individual learning among university students](../claims/meta-discourse-groups-higher-individual-learning.md) [+W]
+- [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](../claims/super-notes-epistemic-ladder-cross-class-knowledge-building.md) [+W]
+- [The more skilled adult partners displayed skilled counterargument, evidence use, frequent questioning, and meta-talk about the discourse](../claims/skilled-partner-discourse-moves.md) [+W]
+- [At the discourse-act level, expression of uncertainty predicts more follow-up while community orientation predicts less, and notes lacking building-knowledge openness receive less follow-up](../claims/uncertainty-discourse-act-more-followup.md) [~W]
 
 ## The evidence by question
 

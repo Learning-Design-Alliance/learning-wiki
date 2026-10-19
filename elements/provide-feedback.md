@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (8 for, 8 mixed, 1 against, 1 unmarked) · 24 studies (7 quant-synthesis, 6 review, 5 causal, 2 qualitative, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 24 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (8 for, 9 mixed, 1 against, 1 unmarked) · 25 studies (7 quant-synthesis, 6 review, 5 causal, 2 associational, 2 qualitative, 2 design, 1 theoretical), `q2`–`q4` · 6 of 25 report an effect size · 13 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -64,6 +64,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites](../claims/subtle-cueing-feedback-higher-impact.md) [~W]
 - [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](../claims/human-feedback-rated-superior-to-ai-feedback.md) [+W]
 - [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](../claims/students-need-guidance-ecree-feedback-advanced-writers.md) [~W]
+- [A trusting, supportive teacher-student relationship emerged as a prominent motivator for acting on feedback, especially for Information Seekers with Low Emotional Strain](../claims/teacher-relationship-motivates-feedback-action.md) [~W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]

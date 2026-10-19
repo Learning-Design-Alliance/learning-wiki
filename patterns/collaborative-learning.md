@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (7 for, 11 mixed, 1 against) · 19 studies (4 causal, 4 quant-synthesis, 3 qualitative, 2 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 17 claims rest on one study
+> **Evidence** · 38 claims (13 for, 23 mixed, 2 against) · 35 studies (10 causal, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 35 report an effect size · 36 claims rest on one study
 
 ## Description and scope
 
@@ -112,6 +112,25 @@ This pattern is scoped to pairs and small groups where each member's individual 
 ## Claims
 
 - [Among AI-exposed students, open collaboration predicted higher aggregate offloading, which was associated with lower Week 8 higher-order thinking (indirect estimate −0.34)](../claims/offloading-mediation-lower-independent-hot.md) [-W]
+- [In one reviewed study, students who first collaborate and then complete an activity individually in the VRL are more successful than students who complete an individual task first and then collaborate](../claims/collaborate-first-then-individual-more-successful-vrl.md) [+W]
+- [Collaborative learners outperform individuals on intuitive knowledge, indicating collaboration rather than representation construction drives the advantage](../claims/collaboration-enhances-intuitive-knowledge.md) [~W]
+- [Students who collaborated (in collaborative and combined conditions) reported higher situational interest in the fractions activity](../claims/collaborating-students-higher-situational-interest.md) [~W]
+- [Effective collaborative learning in discussion forums requires relatively small group sizes](../claims/forum-collaborative-learning-small-group-sizes.md) [~W]
+- [Collaborative multidisciplinary modeling tasks elicit all four cognitive processes of interdisciplinary understanding in student group discourse](../claims/modeling-task-elicits-four-interdisciplinary-processes.md) [~W]
+- [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](../claims/fragmented-premature-shared-understanding.md) [~W]
+- [Learners' knowledge gains focused particularly on interactions required for solving information pooling tasks, such as sharing information](../claims/gains-limited-to-information-pooling-interactions.md) [+W]
+- [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](../claims/persistence-affordance-supports-collaborative-explanation.md) [+W]
+- [Knowledge creation occurred in neither fixed nor opportunistic collaboration groups; interactions were mostly knowledge sharing](../claims/knowledge-creation-absent-fixed-and-opportunistic-groups.md) [-W]
+- [Specific pedagogic design characteristics supported students' joint interaction in the wiki: initial text propositions, Thinking Together preparation, a collectively created artefact, and asynchrony](../claims/pedagogic-design-characteristics-wiki-collaboration.md) [+W]
+- [Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk](../claims/self-constructed-cm-deep-exploratory-talk.md) [~W]
+- [Interference during tabletop use can play a productive role, but small-group collaboration processes primarily influence learning](../claims/tabletop-interference-productive-collaboration-processes-primary.md) [+W]
+- [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quality-no-mediation.md) [~W]
+- [Students perceive collaborative physics tasks as less difficult after completing them](../claims/task-difficulty-decreases-after-collaborative-task.md) [~W]
+- [Tentative evidence that groups receiving the collaboration support more often achieved near-equal participation, since most groups failing the gini criterion were controls](../claims/tentative-support-equal-participation.md) [+W]
+- [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](../claims/unequal-participation-lower-satisfaction.md) [~W]
+- [Students' task understanding confidence increases after collaborative tasks](../claims/task-understanding-increases-after-collaborative-task.md) [~W]
+- [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quantity-no-mediation.md) [~W]
+- [Teacher orchestration of collaborative-learning scripts is at least as important as the quality of the script design itself](../claims/teacher-orchestration-over-script-design.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

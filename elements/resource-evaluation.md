@@ -13,7 +13,7 @@ generated:
 # Resource Evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 18 studies (9 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 21 studies (11 causal, 3 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 21 report an effect size · 10 claims rest on one study
 
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
@@ -60,6 +60,10 @@ Resource evaluation works when learners actively apply criteria to real, contras
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](../claims/llm-hallucination-risk-science-education.md) [+W]
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](../claims/course-embedded-modules-improve-credibility-scores.md) [+M] — attached 2026-10-15 from Breakstone et al. (2021), which proposed "Four one-hour course-embedded modules teaching fact checkers' evaluation strategies in an asynchronous nutrition course"; tests this page's relationship.
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](../claims/lateral-reading-increased-post-intervention.md) [+M] — attached 2026-10-15 from Breakstone et al. (2021), which proposed "Four one-hour course-embedded modules teaching fact checkers' evaluation strategies in an asynchronous nutrition course"; tests this page's relationship.
+- [Students most commonly cited authorial credentials and publication type as credibility cues](../claims/authorial-credential-credibility-cues.md) [~W]
+- [High school students used Google page rank as a first-order heuristic for relevance](../claims/google-page-rank-first-order-relevance-heuristic.md) [+W]
+- [Embedded-source trustworthiness evaluations do not change across positions when both document sources have similar trustworthiness](../claims/es-evaluation-stable-homogeneous-sequences.md) [~W]
+- [Online reading for academic purposes is a complex activity involving analysing task requirements, assessing information needs, accessing relevant contents, and evaluating relevance and reliability of information.](../claims/online-reading-academic-multicomponent-activity.md) [+W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

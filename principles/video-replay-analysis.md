@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (12 for, 10 mixed) · 26 studies (9 qualitative, 4 quant-synthesis, 4 review, 3 causal, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 4 of 26 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (15 for, 10 mixed) · 28 studies (10 qualitative, 4 quant-synthesis, 4 review, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 4 of 28 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,12 @@ For example, a new nurse's programme may set "closed-loop communication during h
 The expectation should weaken if studies comparing review of one's own recording with a matched-time debrief from memory or an observer's notes, with comparable learners and an outcome measured on the next real performance, show no advantage; if focused replay does no better than unfocused rewatching; or if gains in clip analysis do not appear in later performance. If others' clips alone produce the same change as one's own, the self-review steps are a preference, not a requirement. If a debrief led by the learner does no better than one led by the coach, drop the "ask before telling" step. If the analytic plateau after three or four sessions does not recur in other populations, drop the proposal to change the focus at that point. Do not protect the model by calling every failure "the wrong focus" or "not enough psychological safety" after the fact.
 
 Noticing in a recording, explaining it, the next performance and lasting change in practice are separate claims. The present evidence establishes no number of review cycles, no clip length and no criterion for handing the choice of clip to the learner.
+
+## Claims
+
+- [Findings suggest VR-mediated mentoring with 360VR supports newly qualified teachers' noticing, classroom management competencies and self-efficacy](../claims/abc-vr-mentoring-supports-teacher-noticing-self-efficacy.md) [+W]
+- [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](../claims/participants-prefer-high-tech-vad-debriefing.md) [+W]
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.

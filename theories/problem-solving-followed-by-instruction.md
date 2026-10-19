@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (7 for, 7 mixed, 4 against) · 15 studies (11 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4` · 4 of 15 report an effect size · 17 claims rest on one study
+> **Evidence** · 38 claims (14 for, 18 mixed, 6 against) · 22 studies (15 causal, 3 review, 3 theoretical, 1 quant-synthesis), `q2`–`q4` · 7 of 22 report an effect size · 37 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -54,6 +54,26 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](../claims/ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) [+W] — attached 2026-10-19 from Cheng-Wen He et al. (2025), which proposed "Competing theoretical accounts: cognitive load theory versus productive failure for instructional sequencing"; tests this page's relationship.
 - [For biochemistry students with relatively higher topic-specific prior knowledge, instruction-first (I-PS) outperformed problem-solving-first (PS-I) on a near-transfer test](../claims/i-ps-beats-ps-i-near-transfer-higher-prior-knowledge.md) [-W] — attached 2026-10-19 from Cheng-Wen He et al. (2025), which proposed "Competing theoretical accounts: cognitive load theory versus productive failure for instructional sequencing"; tests this page's relationship.
 - [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](../claims/prior-knowledge-sequence-relationship-not-straightforward.md) [~W] — attached 2026-10-19 from Cheng-Wen He et al. (2025), which proposed "Competing theoretical accounts: cognitive load theory versus productive failure for instructional sequencing"; tests this page's relationship.
+- [In PS-I, prompting students to generate multiple strategies during the initial phase generally outperformed inventing one strategy or I-PS](../claims/multiple-strategies-prompt-outperformed-other-conditions.md) [~W]
+- [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](../claims/additional-practice-no-effect-primary-javelin.md) [-W]
+- [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](../claims/pf-problem-sweet-spot-complexity-pilot-tests.md) [+W]
+- [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](../claims/pf-outperformed-di-variance-conceptual-transfer.md) [+W]
+- [Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction](../claims/instruction-first-fewer-better-solution-attempts.md) [-W]
+- [Initial failure did not hurt subsequent learning during instruction: no condition differences on example generation or immediate learning tests](../claims/no-condition-differences-example-generation-immediate-tests.md) [+W]
+- [Error conditions differed in negative affect but not positive affect after the PS-phase learning materials](../claims/negative-affect-differs-positive-affect-not.md) [~W]
+- [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](../claims/ps-i-benefits-conceptual-knowledge-transfer.md) [+W]
+- [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](../claims/no-condition-pretest-interaction-we-ps.md) [~W]
+- [PS-I over a year in a university linear algebra course was followed by significantly higher final exam performance versus baseline cohorts](../claims/ps-i-linear-algebra-higher-exam-performance.md) [+W]
+- [No significant differences among PF, VF-high, VF-low, and DI conditions on procedural knowledge acquisition](../claims/no-condition-effect-procedural-knowledge.md) [~W]
+- [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](../claims/ps-i-simulation-better-mvc-transfer.md) [+W]
+- [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](../claims/relevant-not-breadth-prior-knowledge-activation.md) [~W]
+- [Duration of the initial problem-solving phase reverses the PS-I versus WS-I transfer advantage](../claims/ps-phase-duration-reverses-ps-i-ws-i-transfer.md) [~W]
+- [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](../claims/ps-i-superior-only-with-student-solutions.md) [~W]
+- [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](../claims/ps-i-manipulation-check-problem-solving-sheets.md) [~W]
+- [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quality-no-mediation.md) [~W]
+- [Solution rates in the initial problem-solving phase moderate whether studies find beneficial PS-I effects](../claims/solution-rate-moderates-ps-i-benefits.md) [~W]
+- [Sense-making-first preparation supports learning more strongly than fluency-first because conceptual intermediate knowledge alters second-phase learning processes](../claims/sense-making-first-preparation-alters-second-phase-processes.md) [+W]
+- [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](../claims/working-memory-no-moderation-correlated-declarative.md) [~W]
 
 ## The evidence by question
 

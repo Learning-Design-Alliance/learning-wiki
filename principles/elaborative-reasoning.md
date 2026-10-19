@@ -35,7 +35,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (19 for, 13 mixed, 1 against) · 26 studies (13 causal, 7 quant-synthesis, 3 review, 2 associational, 1 qualitative), `q2`–`q4` · 10 of 26 report an effect size · 28 claims rest on one study
+> **Evidence** · 40 claims (20 for, 16 mixed, 4 against) · 32 studies (18 causal, 7 quant-synthesis, 3 review, 3 associational, 1 qualitative), `q2`–`q4` · 12 of 32 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,16 @@ For example, a nursing assistant reading about infection control may want to kno
 The expectation should weaken if further comparisons of why-prompts against reading or rereading, with comparable learners and aligned delayed tests, show no advantage when study time is matched, or if the six-month result does not replicate. If answer quality turns out to matter for facts as well as for principles, the design should require checked answers, not just answering. If the probability-lesson result recurs for other `principle` and `procedure` targets with novices, the page should restrict why-prompts to content learners can already partly explain. If self-generated and supplied elaborations come out equal in larger studies, step 5 should go. Do not protect the model by calling every failure "not enough prior knowledge" after the fact; record the prior-knowledge probe before the lesson.
 
 Immediate recall, delayed recall, explanation and transfer are separate claims; the present evidence establishes no number of prompts, no answer-quality threshold and no rule for when to move from supplied to self-generated prompts.
+
+## Claims
+
+- [Elaborating with relevant prior knowledge yielded significantly higher immediate recall than elaborating without relevant prior knowledge](../claims/elaboration-with-prior-knowledge-beats-elaboration-without.md) [+W]
+- [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](../claims/closed-book-no-delayed-posttest-added-value.md) [-W]
+- [Anticipatory self-explanation prompts benefited higher-prior-knowledge apprentices on diagnostic strategy description scores, whereas retrospective prompts benefited lower-prior-knowledge apprentices](../claims/prior-knowledge-moderates-prompt-direction-strategy-description.md) [~W]
+- [Elaboration during the problem-based discussion had no significant main effect on immediate or delayed recall](../claims/no-main-effect-of-elaboration-on-recall.md) [-W]
+- [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](../claims/no-prompt-effect-within-domain-elaborations-additions.md) [-W]
+- [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](../claims/example-quality-correlates-transfer-control.md) [~W]
+- [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
 
 ## Related Principles
 

@@ -17,7 +17,7 @@ sources:
 # Ontological Alignment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Computational modeling tools such as agent-based modeling (ABM) environments structure a phenomenon in a specific way — for example, foregrounding individual agents' properties and interactions rather than aggregate-level events. Ontological alignment names the instructional work of coordinating between students' own existing ideas about a phenomenon and that specific representational structure, rather than treating any mismatch simply as a student misconception to correct. Because different tools foreground different ontologies (agent-based tools highlight micro-level mechanism; other representational systems might better suit macro-level phenomena), the alignment work is tool-specific: a teacher must help students recognize which of their existing ideas map onto the tool's building blocks, and where the tool's structure doesn't match their intuitive framing.
@@ -35,7 +35,10 @@ Computational modeling tools such as agent-based modeling (ABM) environments str
 - Building mechanistic, agent-level explanations of a phenomenon (e.g., particle diffusion) using a computational modeling tool, rather than accepting the tool's outputs without connecting them to one's own reasoning
 
 ## Claims
+
 - [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](../claims/external-evidence-can-refute-computational-models-of-particle-interactions.md) [+W]
+- [Novices can and do reason across ontological categories in everyday and scientific contexts](../claims/novices-reason-across-ontological-categories.md) [~W]
+- [No significant performance difference was found between the causal-only and simulation-only conditions, nor between the mismatched and partly matched conditions](../claims/no-difference-single-tool-and-mismatched-conditions.md) [~W]
 
 ## Related Theories
 - (none yet linked)

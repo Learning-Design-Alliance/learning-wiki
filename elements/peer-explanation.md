@@ -26,7 +26,7 @@ sources:
 # Peer Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 2 associational, 1 causal), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (3 associational, 2 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Peer explanation asks learners to verbalize their reasoning, solution methods, or conceptual understanding to a classmate. The act of articulating forces learners to reconstruct, organize, and monitor their own understanding, while the listener's questions expose gaps the explainer did not know they had.
@@ -67,6 +67,7 @@ Peer explanation converts passive comprehension into generative processing: expl
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](../claims/depth-predicts-task-quality.md) [+W]
+- [Low social challenge dyads verbalize more cognitive processing and more high-cognition than high social challenge dyads](../claims/low-challenge-dyads-more-cognition-frequencies.md) [~W]
 
 ## Related Elements
 - [Articulation](articulation.md) — the broader element of making thinking explicit; peer explanation is its social form

@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (16 for, 20 mixed, 1 against) · 35 studies (10 causal, 6 quant-synthesis, 6 associational, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 35 report an effect size · 30 claims rest on one study
+> **Evidence** · 38 claims (16 for, 21 mixed, 1 against) · 36 studies (10 causal, 7 associational, 6 quant-synthesis, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 36 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ A course-end exam advantage, a narrowed achievement gap, durable retention, tran
 ## Claims
 
 Every claim this page cites is in the model above or under Further evidence (re-read 2026-10-19).
+- [Student self-determination was infrequent and more common during Active, Constructive, and Interactive tasks than Passive tasks](../claims/student-self-determination-rare-higher-in-active-tasks.md) [~W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 11 studies (3 causal, 3 quant-synthesis, 3 associational, 1 review, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 12 studies (4 associational, 3 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size · 8 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -49,6 +49,9 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](../claims/peer-self-assessment-improve-performance-equally.md) [+W]
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](../claims/peer-assessment-improves-unit-quiz-achievement.md) [+W] — attached 2026-10-15 from Sun DL et al. (2015), which proposed "Online homework platform enabling anonymized peer assessment distribution and in-class randomized experiments".
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](../claims/cognitive-feedback-benefits-assessors-not-assessees.md) [~W]
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](../claims/giving-problem-identification-feedback-predicts-assessor-performance.md) [+W]
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](../claims/giving-suggestions-predicts-assessor-performance.md) [+W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 2 mixed, 3 against) · 21 studies (11 causal, 6 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 7 of 21 report an effect size · 8 claims rest on one study
+> **Evidence** · 24 claims (12 for, 7 mixed, 5 against) · 29 studies (18 causal, 6 quant-synthesis, 3 review, 2 associational), `q2`–`q4` · 10 of 29 report an effect size · 18 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -59,6 +59,16 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](../claims/response-quality-little-effect-on-elaborative-interrogation-retention.md) [~W]
 - [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](../claims/elaborative-interrogation-improves-science-fact-learning.md) [+W]
 - [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](../claims/elaborative-interrogation-reduces-confidence-in-errors.md) [+W]
+- [Elaborating with relevant prior knowledge yielded significantly higher immediate recall than elaborating without relevant prior knowledge](../claims/elaboration-with-prior-knowledge-beats-elaboration-without.md) [+W]
+- [Elaboration during the problem-based discussion had no significant main effect on immediate or delayed recall](../claims/no-main-effect-of-elaboration-on-recall.md) [-W]
+- [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](../claims/example-quality-correlates-transfer-control.md) [~W]
+- [Inserted questions elicit more correct and fewer incorrect elaborations than post-reading questions, with no condition differences in paraphrases](../claims/inserted-questions-more-correct-elaborations.md) [~W]
+- [Reading provided examples is not more effective than generating examples for learning relational categories](../claims/reading-not-superior-to-generating-examples.md) [+W]
+- [Anticipatory self-explanation prompts benefited higher-prior-knowledge apprentices on diagnostic strategy description scores, whereas retrospective prompts benefited lower-prior-knowledge apprentices](../claims/prior-knowledge-moderates-prompt-direction-strategy-description.md) [~W]
+- [Self-explanation quality correlated with prior knowledge and post-test knowledge but not with learning gains](../claims/self-explanation-quality-correlations-null-gain.md) [~W]
+- [Generating own examples after instruction produced better retention and transfer than studying provided examples](../claims/self-generated-beat-provided-examples-retention-transfer.md) [+W]
+- [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
+- [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](../claims/no-prompt-effect-within-domain-elaborations-additions.md) [-W]
 
 ## The evidence by question
 

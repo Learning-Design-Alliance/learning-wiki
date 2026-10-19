@@ -19,7 +19,7 @@ grain_size: lesson
 # Socratic Seminar
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 15 studies (4 causal, 4 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size
+> **Evidence** · 6 claims (1 for, 5 mixed) · 16 studies (4 causal, 4 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory. The goal is disciplined interpretation: learners listen closely, build on one another's ideas, test assumptions, and return to the text or shared source as they refine understanding.
@@ -68,7 +68,9 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
+
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+- [Textual evidence for interpretive claims appeared in whole-class discussion but students struggled to reason about why evidence supported claims](../claims/evidence-in-discussion-but-reasoning-struggle.md) [~W]
 
 ## Design
 

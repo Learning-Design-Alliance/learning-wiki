@@ -27,7 +27,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (9 for, 9 mixed, 2 against) · 26 studies (10 causal, 6 quant-synthesis, 6 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 13 claims rest on one study
+> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 28 studies (11 causal, 7 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,14 @@ For example, adults starting a unit on household electricity may want to know wh
 The expectation should weaken if comparable learners, prompts and aligned outcomes show no benefit of activation over starting instruction directly, especially on delayed outcomes; two recorded experiments already point that way for open topic activation. It should be narrowed if the benefit appears only for question-first forms (pre-questions, organizers) and not for learner-generated recall. If activating a misconception and then refuting it does no better than refutation alone, the claim that activation is needed to surface misconceptions loses its support. If the number of relevant ideas a learner produces predicts later learning only because both reflect prior knowledge, the activation adds nothing a pretest would not reveal. Do not protect the model by relabelling every null as "the wrong knowledge was activated".
 
 The present evidence does not establish an optimal activation format or duration, a benefit for learners with little relevant knowledge, or durability beyond the tests the studies used.
+
+## Claims
+
+- [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](../claims/no-condition-pretest-interaction-we-ps.md) [~W]
+- [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](../claims/pbl-discussion-no-increase-in-immediate-inferences.md) [~W]
+- [Prior problem-based discussion does not change the number of inaccurate propositions recalled](../claims/pbl-discussion-no-change-in-inaccurate-recall.md) [~W]
+- [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](../claims/relevant-not-breadth-prior-knowledge-activation.md) [~W]
+- [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](../claims/pbl-recall-benefit-general-not-explanation-specific.md) [+W]
 
 ## Related Principles
 

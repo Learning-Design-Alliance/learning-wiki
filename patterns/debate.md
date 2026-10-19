@@ -28,7 +28,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 25 studies (7 review, 6 causal, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (3 for, 12 mixed, 1 against) · 26 studies (7 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 26 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -126,6 +126,7 @@ This pattern is scoped to structured adversarial argument on a question that adm
 
 - [More controversial, unresolved AI-coder debates produce higher discussion-prompted coding accuracy, while compromising and collaborating modes reduce it](../claims/claim-controversial-debates-improve-discussion-prompted-accuracy.md) [~W]
 - Defending Consistent Positions Improves Advocacy [+W]
+- [Students in the GD and TD conditions did not differ significantly in time online or in adding, editing, or deleting elements in the Debate-tool.](../claims/no-condition-difference-tool-activity.md) [~W]
 
 ## Related Patterns
 - [Socratic Seminar](socratic-seminar.md)

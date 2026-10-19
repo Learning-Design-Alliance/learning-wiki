@@ -23,7 +23,7 @@ sources:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (18 for, 7 mixed, 2 against) · 34 studies (13 quant-synthesis, 9 review, 6 causal, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (19 for, 7 mixed, 2 against) · 35 studies (13 quant-synthesis, 9 review, 6 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [+W]
 - [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](../claims/teacher-intervention-escalation-ladder.md) [+W]
+- [Student-perceived classroom management is significantly associated with mathematics achievement at both student and classroom levels in Swedish grade 4 TIMSS 2019](../claims/classroom-management-math-achievement-both-levels.md) [+W]
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan

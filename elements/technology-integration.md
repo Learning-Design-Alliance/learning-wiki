@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 29 studies (9 associational, 5 design, 4 review, 4 qualitative, 3 theoretical, 2 causal, 2 quant-synthesis), `q1`–`q4` · 4 of 29 report an effect size · 27 claims rest on one study
+> **Evidence** · 29 claims (11 for, 15 mixed, 3 against) · 30 studies (9 associational, 5 qualitative, 5 design, 4 review, 3 theoretical, 2 causal, 2 quant-synthesis), `q1`–`q4` · 4 of 30 report an effect size · 28 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -53,6 +53,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](../claims/experts-superficial-technology-integration.md) [~W]
 - [The Jill Watson AI teaching assistant met student expectations in a Georgia Tech online course without being detected as non-human](../claims/jill-watson-ai-teaching-assistant-georgia-tech.md) [+W] — attached 2026-10-15 from Popenici et al. (2017), which proposed "Teacherbots: AI-based virtual teaching assistants for content delivery, feedback and supervision".
 - [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](../claims/chatgpt-instruction-enhanced-efl-writing-motivation.md) [+M] — attached 2026-10-15 from Song et al. (2023), which proposed "ChatGPT as an AI chatbot writing-assistance tool in EFL academic writing instruction"; tests this page's relationship.
+- [Translation students perceive GenAI tools as improving translation efficiency and translated-text quality](../claims/genai-translation-efficiency-quality-benefits.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

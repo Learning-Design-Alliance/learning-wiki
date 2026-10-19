@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (15 for, 8 mixed, 1 unmarked) · 26 studies (11 associational, 7 review, 4 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 7 of 26 report an effect size · 20 claims rest on one study
+> **Evidence** · 29 claims (16 for, 11 mixed, 1 against, 1 unmarked) · 30 studies (13 associational, 7 review, 6 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 9 of 30 report an effect size · 25 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -72,6 +72,11 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Organizational support positively predicts both AI literacy and technological self-efficacy among university faculty](../claims/organizational-support-predicts-ai-literacy-and-self-efficacy.md) [+W]
 - [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](../claims/math-response-times-motivation-self-efficacy.md) [~W]
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](../claims/self-efficacy-positive-career-persistence-agriculture-teachers.md) [+W]
+- [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](../claims/male-students-higher-self-efficacy-video-modeling.md) [~W]
+- [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](../claims/predictors-of-self-assessed-creative-performance.md) [+W]
+- [Student-reported SRL promotion is associated with students' self-efficacy, utility value and attainment value for SRL at class and student levels, but not with perceived cost](../claims/student-reported-srl-promotion-linked-to-student-motivation.md) [~W]
+- [Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance](../claims/predictors-of-bias-in-performance-self-assessment.md) [~W]
+- [The review tutorial yields higher post-training task relevance than the control, but no condition effect on self-efficacy](../claims/review-condition-raises-task-relevance-not-self-efficacy.md) [-W]
 
 ## The evidence by question
 

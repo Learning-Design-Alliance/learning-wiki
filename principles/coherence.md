@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (9 for, 18 mixed) · 32 studies (15 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 32 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (10 for, 18 mixed) · 33 studies (16 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 8 of 33 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,10 @@ The designer's objective is understanding that transfers: explaining a mechanism
 ## What would revise this model?
 
 The expectation should weaken if independent comparisons with comparable learners, holding the essential content equal, find no comprehension or transfer cost from added interesting material, or if a cost on immediate tests disappears at a delay. It should be qualified, not reversed, if added material that raises interest is shown to improve persistence or later learning in self-paced settings enough to offset its cost. A finding that middle or high prior knowledge learners do worse with stripped materials on learning outcomes, not only on processing measures, would move the boundary in the table. Do not protect the model by relabelling any addition that helped as "relevant" after the fact.
+
+## Claims
+
+- [Related decorative pictures do not enhance transfer performance in either experiment (null results for correctness and metacognitive monitoring)](../claims/related-decorative-pictures-no-transfer-effect.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

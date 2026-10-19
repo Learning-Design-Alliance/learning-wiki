@@ -19,7 +19,7 @@ sources:
 # Problem Scenario
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 15 studies (4 review, 3 quant-synthesis, 3 theoretical, 2 causal, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 15 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 16 studies (4 review, 3 quant-synthesis, 3 theoretical, 2 causal, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 16 report an effect size · 7 claims rest on one study
 
 ## Description
 A problem scenario places learners inside a structured, realistic situation — a business decision, a patient case, a design brief — that cannot be resolved without applying target knowledge. Unlike a [Case Study](case-study.md), which typically presents how a situation unfolded, a problem scenario is deliberately incomplete: learners must define the problem, gather or request information, and commit to decisions with consequences.
@@ -70,6 +70,7 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](../claims/dewey-rejects-fixed-moral-stages.md) [+W]
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](../claims/llm-simulations-bridge-theory-practice-gap.md) [+W]
 - [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](../claims/reasoning-llm-outperforms-standard-on-dp-quality.md) [+W]
+- [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](../claims/visigarp-scenario2-difficulty.md) [~W]
 
 ## The evidence by question
 - *For which outcomes: basic knowledge, application and transfer, or professional skills?* [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](../claims/pbl-null-basic-knowledge-positive-transfer.md) [~M]

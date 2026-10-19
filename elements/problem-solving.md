@@ -14,7 +14,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 19 studies (7 causal, 5 theoretical, 3 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 22 studies (8 causal, 5 theoretical, 3 review, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 22 report an effect size · 10 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
@@ -59,6 +59,9 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](../claims/problem-based-principal-preparation-self-efficacy.md) [+W]
 - [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](../claims/genai-evaluation-null-summative-algorithms.md) [~W]
 - [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](../claims/active-learning-pedagogies-qr-redesign.md) [+W]
+- [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](../claims/vsdr-alternative-problem-solving-reflection.md) [+W]
+- [Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers](../claims/bioworld-successful-solvers-faster-fewer-actions.md) [~W]
+- [Providing contrasting cases reduces the number of solution attempts students generate, both before and after instruction](../claims/contrasting-cases-reduce-solution-attempt-quantity.md) [-W]
 
 ## The evidence by question
 - *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]

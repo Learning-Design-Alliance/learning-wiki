@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (14 for, 2 mixed) · 21 studies (10 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 21 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (14 for, 5 mixed) · 22 studies (11 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 22 report an effect size · 15 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -52,6 +52,9 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](../claims/animations-pacify-learners-navigation-imbalance.md) [~W]
 - [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](../claims/eye-transitions-between-representations.md) [+W] — attached 2026-10-18 from Mike Stieff et al. (2011), which proposed "Multi-representational molecular mechanics Flash animation with model, general equation, numerical equation, and graph"; tests this page's relationship.
+- [Students allocated roughly equal attention to the graph and the molecular model, both above chance, while attending little to the equations](../claims/equal-attention-model-graph-low-equations.md) [~W]
+- [Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true](../claims/picture-bias-graphs-confirm-statements.md) [~W]
+- [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](../claims/verbal-protocol-representation-reference-frequencies.md) [~W]
 
 ## The evidence by question
 

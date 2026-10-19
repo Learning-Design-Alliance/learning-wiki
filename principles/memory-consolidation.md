@@ -27,7 +27,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 6 mixed, 2 against) · 31 studies (17 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 31 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (11 for, 7 mixed, 2 against) · 33 studies (19 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 33 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,8 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)](../claims/genai-learning-gain-persists-one-week.md) [+W]
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](../claims/h3-product-process-dissociation-hypothesis.md) [+W]
 - [Mastery learning gains persist at follow-up examinations about eight weeks after instruction](../claims/mastery-learning-gains-persist-at-follow-up.md) [+M]
+- [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](../claims/relevant-discussion-immediate-recall-advantage-fades.md) [~W]
+- [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](../claims/ct-performance-improves-further-after-delay.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

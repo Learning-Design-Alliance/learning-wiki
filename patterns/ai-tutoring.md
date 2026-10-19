@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 231 claims (116 for, 72 mixed, 43 against) · 164 studies (52 causal, 35 review, 20 design, 20 theoretical, 18 quant-synthesis, 10 qualitative, 9 associational), `q1`–`q4` · 33 of 164 report an effect size · 217 claims rest on one study
+> **Evidence** · 240 claims (121 for, 76 mixed, 43 against) · 172 studies (56 causal, 36 review, 21 design, 21 theoretical, 18 quant-synthesis, 10 associational, 10 qualitative), `q1`–`q4` · 35 of 172 report an effect size · 226 claims rest on one study
 
 ## Description and scope
 
@@ -239,6 +239,15 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 
 - [Multi-agent AI standardized-patient training improved OSCE-aligned exam scores](../claims/ma-scaffolding-improves-osce-exam-score.md) [+M]
 - [Role-play agent failures become more frequent after turn 6](../claims/rpla-failure-onset-second-half-of-dialogue.md) [-M]
+- [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](../claims/conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) [+W]
+- [Students' learning strategies can be detected and interpreted from activity sequences in the Betty's Brain open-ended learning environment](../claims/bettys-brain-strategy-detection-activity-sequences.md) [~W]
+- [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](../claims/pedagogical-experts-less-deep-learning-tutoring.md) [+W]
+- [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](../claims/scaffolding-alters-strategy-use-not-learning-gains.md) [~W]
+- [Pilot testing of RESPE revealed privacy concerns, difficulty reflecting on the learning process, and complaints about repetitiveness or usefulness of scaffolds](../claims/respe-pilot-privacy-reflection-repetitiveness-issues.md) [~W]
+- [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](../claims/solution-access-differs-hints-do-not.md) [~W]
+- [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](../claims/withholding-improves-output-bound-accuracy-help-seeking-not.md) [+M]
+- [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-lexical-help-use.md) [+W]
+- [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](../claims/proactive-tutoring-increases-metacognitive-help-use.md) [+W]
 
 ## Related Patterns
 

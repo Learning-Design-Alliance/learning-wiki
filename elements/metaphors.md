@@ -13,7 +13,7 @@ generated:
 # Metaphors
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 qualitative, 1 associational), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (3 qualitative, 1 associational), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Metaphors are explanatory comparisons that map a less familiar concept onto a more familiar image or experience. They are useful when learners need a concrete entry point into abstract or complex ideas.
@@ -38,6 +38,7 @@ Metaphors are explanatory comparisons that map a less familiar concept onto a mo
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](../claims/prior-experience-shapes-view-engagement.md) [~M]
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](../claims/role-metaphors-genai-frenemy-ambivalence.md) [+W]
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](../claims/multimodal-representations-as-metaphors-joint-reasoning.md) [+W]
 
 ## Related Elements
 - [Analogies](analogies.md)

@@ -31,7 +31,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (12 for, 27 mixed) · 42 studies (19 causal, 10 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 5 of 42 report an effect size · 29 claims rest on one study
+> **Evidence** · 44 claims (14 for, 29 mixed, 1 against) · 47 studies (23 causal, 11 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 8 of 47 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,11 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](../claims/genai-training-comparable-load-marginal-intrinsic-increase.md) [~W]
 - [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](../claims/redundant-text-no-effect-posterior-probability-lesson.md) [~W]
+- [Reducing extraneous load can also remove affordances for germane processes](../claims/extraneous-load-reduction-may-remove-germane-affordances.md) [~W]
+- [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](../claims/input-before-raises-germane-lowers-extraneous-load.md) [~W]
+- [Task difficulty strongly determined task performance: boredom conditions scored highest and overload conditions lowest in both ICL studies](../claims/difficulty-determines-task-performance-boredom-highest.md) [+W]
+- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](../claims/drawing-support-increased-perceived-difficulty.md) [-W]
+- [Low information density reduces mental effort and increases efficiency during the collaborative learning phase](../claims/zambrano-2019-low-density-lower-effort-learning.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

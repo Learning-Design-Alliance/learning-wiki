@@ -30,7 +30,7 @@ sources:
 # Quiet Learning Spaces
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 7 mixed) · 27 studies (9 causal, 5 quant-synthesis, 5 review, 5 associational, 3 theoretical), `q2`–`q4` · 5 of 27 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 28 studies (10 causal, 5 quant-synthesis, 5 review, 5 associational, 3 theoretical), `q2`–`q4` · 6 of 28 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,10 @@ Claims this page cited before it was rewritten, and neighbouring claims found wh
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [+W] — same survey as the self-regulation claim above; associational.
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](../claims/technical-competency-associated-lower-distraction.md) [+W] — same survey; associational, weak association.
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](../claims/demographics-not-associated-lower-distraction.md) [~W] — same survey; a non-significant result that does not establish equivalence.
+
+## Claims
+
+- [Students with visible notifications check their phones more frequently in class than students with hidden notifications](../claims/notification-revealed-higher-phone-use-frequency.md) [+W]
 
 ## Related Principles
 - [Instructor Accessibility](instructor-accessibility.md) — accessible learning conditions include environmental supports, not just interpersonal support.

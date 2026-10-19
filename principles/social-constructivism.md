@@ -17,7 +17,7 @@ sources:
 # Social Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 2 mixed, 3 unmarked) · 18 studies (6 quant-synthesis, 4 causal, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 3 claims rest on one study
+> **Evidence** · 15 claims (7 for, 5 mixed, 3 unmarked) · 25 studies (6 quant-synthesis, 5 causal, 5 review, 5 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 3 of 25 report an effect size · 10 claims rest on one study
 
 ## Description
 Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity. It emphasizes that knowledge formation is not only individual but also social, mediated by dialogue, tools, and participation.
@@ -63,6 +63,13 @@ Social constructivism is strongest when learning depends on language, comparison
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](../claims/ai-fosters-collaborative-social-construction.md) [+W]
 - [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
+- [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](../claims/co-regulation-shared-understanding-patient-management.md) [+W]
+- [Collaborative learners outperform individuals on intuitive knowledge, indicating collaboration rather than representation construction drives the advantage](../claims/collaboration-enhances-intuitive-knowledge.md) [+W]
+- [The quality of mutual models appears to depend more on the quality of interactions than on individual representational abilities](../claims/interaction-quality-drives-mutual-modelling.md) [+W]
+- [Task-level and process-level prompts in support software mediate and alter students' group argumentation discourse practice and potentially their individual argumentation style](../claims/task-process-prompts-alter-argumentation-style.md) [~W]
+- [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](../claims/talk-types-mediate-makerspace-knowledge-practices.md) [+W]
+- [Shared technology resources can act as positioning artifacts around which students negotiate power and status differentials in CSCL groups](../claims/technology-as-positioning-artifact-power-status.md) [~W]
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](../claims/teacher-guidance-mediation-cscl.md) [~W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 10 studies (4 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 8 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 11 studies (5 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 8 of 11 report an effect size · 7 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
@@ -57,6 +57,7 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [The classroom testing effect increases with the number of test repetitions on the same content.](../claims/test-repetitions-positive-relationship-classroom.md) [+W]
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](../claims/instructions-promote-three-recall-criterion.md) [+W]
 - [In simulated learners with forgetting, study-practice yields higher skill gains while practice-only yields higher fact gains, mirroring the human pattern](../claims/al-simple-effects-mirror-human-pattern.md) [~W]
+- [Requiring overt retrieval eliminates the metacognitive calibration advantage of paired flashcard learning](../claims/overt-retrieval-drives-paired-metacognitive-benefit.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

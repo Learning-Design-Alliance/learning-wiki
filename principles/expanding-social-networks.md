@@ -23,7 +23,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 34 studies (13 qualitative, 8 causal, 3 quant-synthesis, 3 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 1 of 34 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (20 for, 8 mixed, 1 against) · 36 studies (13 qualitative, 8 causal, 4 associational, 3 quant-synthesis, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 1 of 36 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,11 @@ The designer's objective is usually a set of usable ties (a peer partner, a ment
 The expectation should weaken if comparisons of structured network-building with no programme, among comparable learners, show no difference in ties used, isolation or later outcomes; the one randomised trial in the wiki of a programme building parents' social support already points that way for families. It should change shape if one-off introductions turn out to be as useful as repeated peer contact, or if outreach to non-joiners makes no difference to who takes part. If ties formed in programmes are used mainly by learners who were already well connected, the equity step should become the centre of the design rather than a check. Do not protect the model by calling every null "too short to show network effects" after the fact; say in advance at what point, and on what outcome, the programme will be judged.
 
 Ties formed, ties used, reduced isolation, persistence, and employment or settlement are separate claims, and the present evidence establishes none of them causally.
+
+## Claims
+
+- [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](../claims/contact-duration-predicts-new-collaboration-partner-selection.md) [+W]
+- [The multi-step activity proved usable, fostered workplace connections, and engaged teacher and students](../claims/tapacarp-activity-usable-workplace-engagement.md) [+W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — networks deepen when they become recurring communities around shared work

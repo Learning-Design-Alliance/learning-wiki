@@ -39,7 +39,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (10 for, 14 mixed, 1 unmarked) · 37 studies (11 quant-synthesis, 9 causal, 7 review, 3 associational, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 14 of 37 report an effect size · 15 claims rest on one study
+> **Evidence** · 26 claims (11 for, 14 mixed, 1 unmarked) · 38 studies (11 quant-synthesis, 10 causal, 7 review, 3 associational, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 15 of 38 report an effect size · 16 claims rest on one study
 
 ## Description
 
@@ -251,6 +251,7 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](../claims/usefulness-associated-actionability-accuracy.md) [~W]
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](../claims/high-level-feedback-remains-human-responsibility.md) [~W]
+- [Providing a rubric reduces perceived difficulty of self-assessment but not invested mental effort](../claims/rubrics-reduce-perceived-difficulty-not-mental-effort.md) [+W]
 
 ## Key Sources
 

@@ -16,7 +16,7 @@ sources:
 # IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (7 design), `q1`–`q2` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 8 studies (7 design, 1 review), `q1`–`q3` · 0 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 The taxonomy identifies four attributes of high-impact ePortfolio practice: "1. ePortfolio is central to the curricular design of the course, program, or university experience. 2. ePortfolio pedagogies support integrative, self-directed learning, and student identity development. 3. ePortfolio making skills are explicitly taught to students. 4. ePortfolio assessment is holistic and aligned with learning processes and outcomes." Each attribute is described along three levels of impact—high, higher, and highest—with each level incorporating all characteristics of previous levels. Impact increases as adoption scales from a single course to course sequences, degree programs, and the whole undergraduate experience.
@@ -46,6 +46,7 @@ The taxonomy identifies four attributes of high-impact ePortfolio practice: "1. 
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](../claims/intensive-professional-development-stronger-epportfolio-outcomes.md) [+M]
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W]
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W]
+- [Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students](../claims/portfolio-environment-no-deeper-learning-surface-increase.md) [-W]
 
 ## The evidence by question
 - *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+M]

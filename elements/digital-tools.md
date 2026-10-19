@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 14 studies (3 review, 3 theoretical, 2 causal, 2 associational, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 16 studies (4 review, 4 theoretical, 2 causal, 2 associational, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 16 report an effect size · 14 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -48,6 +48,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Using ChatGPT during technology learning produces significantly higher post-test learning outcomes than conventional learning in a quasi-experiment of two classes of 31 students](../claims/chatgpt-technology-learning-higher-outcomes.md) [+W] — attached 2026-10-16 from Hakiki et al. (2023), which proposed "ChatGPT as a conversational AI communication tool integrated into technology learning".
 - [The iPad helped a student with ADHD focus attention and become more metacognitive about his reading](../claims/ipad-supported-attention-and-metacognition-adhd-reader.md) [+W] — attached 2026-10-16 from McClanahan et al. (2012), which proposed "iPad with reading apps and downloadable activities as the medium for individualized reading intervention".
 - [A representational tool offers beneficial affordances that supplement face-to-face communication for second-language learning](../claims/representational-tool-affordances-supplement-face-to-face-l2.md) [+W] — attached 2026-10-18 from Wen et al. (2015), which proposed "Representational tool for collaborative L2 writing in a networked classroom".
+- [Students re-purpose social networking tools like Facebook as course back-channels, and user characteristics correlate with reported propensity to collaborate](../claims/facebook-backchannel-course-collaboration.md) [~W]
+- [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](../claims/synchronous-communication-most-common-in-vrls.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

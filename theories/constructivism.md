@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 19 studies (5 causal, 4 quant-synthesis, 3 associational, 2 review, 2 design, 2 theoretical, 1 qualitative), `q2`–`q4` · 4 of 19 report an effect size · 6 claims rest on one study
+> **Evidence** · 17 claims (5 for, 10 mixed, 2 against) · 26 studies (6 theoretical, 5 causal, 4 quant-synthesis, 4 associational, 3 design, 2 review, 2 qualitative), `q1`–`q4` · 4 of 26 report an effect size · 13 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -46,6 +46,13 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels](../claims/no-smooth-shift-behaviourism-to-constructivism-iranian-elt.md) [~W]
 - [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](../claims/constructivist-valued-but-not-applicable-person-level.md) [~W]
 - [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](../claims/teacher-audience-promotes-evaluation-not-construction.md) [+W] — attached 2026-10-17 from Kingir (2013), which proposed "Knowledge-transforming model of writing as a mode of learning in science".
+- [Between 2005 and 2009 only around 11% of CSCL papers were underpinned by information processing theory, while constructivism (33%), socio-cultural theories (25%) and social psychology (15%) were most popular](../claims/cscl-theoretical-framework-distribution-2005-2009.md) [~W]
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](../claims/conceptions-constructivist-learning-relate-to-regulation-processing.md) [~W]
+- [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](../claims/no-paradox-constructivist-learning-environments.md) [~W]
+- [Some participants' ChatGPT interactions followed a pattern of inquiry-based learning with iterative prompt refinement](../claims/chatgpt-inquiry-based-learning-pattern.md) [~W]
+- [In a constructivist learning environment, students' perceptions of assessment shifted toward deeper demands but their actual learning approaches did not, and surface approaches increased](../claims/perception-shift-without-approach-change.md) [-W]
+- [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](../claims/persistence-affordance-supports-collaborative-explanation.md) [~W]
+- [In a CSCL biology problem-solving session, procedural problem solving tended to dominate students' interactions, with conceptual knowledge construction present only where strictly necessary](../claims/procedural-dominance-cscl-biology.md) [-W]
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

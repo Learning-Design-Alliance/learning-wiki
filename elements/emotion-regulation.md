@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 16 studies (5 quant-synthesis, 4 causal, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 16 report an effect size · 7 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 19 studies (5 causal, 5 quant-synthesis, 3 review, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 19 report an effect size · 10 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) [Gross, 1998]. In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -61,6 +61,9 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion](../claims/affective-reinforcement-stabilizes-engagement-structure.md) [~W]
 - [AI anxiety is negatively associated with emotion regulation among university students](../claims/ai-anxiety-negatively-associated-emotion-regulation.md) [~W]
 - [Micro-interventions work by targeting the cognitive appraisal sequence: altering primary appraisal of threat and bolstering secondary appraisal of coping resources](../claims/micro-intervention-targets-cognitive-appraisal-sequence.md) [+W]
+- [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](../claims/regulation-macro-script-monitoring-support.md) [+W]
+- [Groups reacted to the large majority of monitoring events, but negative-valence monitoring of motivation or emotion received the lowest reaction rate](../claims/negative-motivation-emotion-monitoring-lowest-reaction-rate.md) [~W]
+- [SES moderated change in emotional/motivational regulation, with lower-SES children increasing and higher-SES children slightly decreasing](../claims/ses-moderates-emotional-motivational-regulation-change.md) [~W]
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]

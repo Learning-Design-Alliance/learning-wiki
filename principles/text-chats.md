@@ -18,7 +18,7 @@ sources:
 # Text Chats
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 16 studies (5 causal, 5 qualitative, 2 review, 1 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 1 of 16 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (12 for, 9 mixed, 1 against) · 19 studies (7 qualitative, 6 causal, 2 review, 1 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 1 of 19 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,12 @@ For example, an adult learning English for work may want to follow and answer me
 The expectation should weaken if comparisons of the same task with and without a chat (or chat against speaking) show no difference in learning, or in the participation of learners who speak least, or if negotiation in chat does not predict later language gains. If open tasks routinely produce as much negotiation as closed ones in chat, drop step 2; if prepared content does not replicate beyond small samples, drop step 3 to a suggestion. If anonymous posting raises participation but lowers the quality of posts, the low-confidence row needs a limit. If studies with children show chat working differently from university students, the age rows need their own evidence. Do not protect the model by calling every quiet chat "a moderation problem" after the fact.
 
 Participation in the chat, the share of negotiated turns, self-correction, unaided writing or speaking afterwards, and course achievement are separate claims. The present evidence establishes no group size, segment length, or best mode for any of them.
+
+## Claims
+
+- [Subjects appreciated the peer review intervention (average 4.0) while rating the chat session less positively (average 3.1)](../claims/peer-review-rated-above-chat-sessions.md) [-W]
+- [Disengaged teenage boys engaged in quality argumentation in 81% of their argumentative exchanges while chatting in World of Warfare](../claims/wow-chat-quality-argumentation-81-percent.md) [+W]
+- [Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups](../claims/danmaku-collective-flow-vs-threaded-small-groups.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — text chat is one medium for structured peer exchange.

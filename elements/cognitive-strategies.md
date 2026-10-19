@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 15 studies (5 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 5 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 18 studies (6 review, 5 causal, 4 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -68,6 +68,9 @@ Strategy instruction improves learning most when strategies are taught explicitl
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](../claims/spontaneous-strategy-transfer-one-week-delay.md) [+W]
+- [Students' strategy use formed mixed constellations: organisation and elaboration correlated strongly (r = 0.64), and effective strategies were also positively related to less effective ones such as rehearsal](../claims/mixed-strategy-constellations.md) [~W]
+- [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](../claims/rehearsal-negative-concept-dlc-interaction.md) [-W]
+- [Successful hypermedia learners showed more orientation and planning before processing content, deeper elaboration, constant monitoring, and evaluation compared to less successful students](../claims/process-mining-successful-learners-orientation-planning.md) [+W]
 
 ## The evidence by question
 

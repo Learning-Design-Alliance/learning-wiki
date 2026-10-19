@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (13 for, 14 mixed, 1 against) · 17 studies (10 quant-synthesis, 5 causal, 1 review, 1 design), `q2`–`q4` · 9 of 17 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (13 for, 14 mixed, 2 against) · 17 studies (10 quant-synthesis, 5 causal, 1 review, 1 design), `q2`–`q4` · 9 of 17 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -123,6 +123,10 @@ Record: **material and parts → starting task per learner and pairing → roles
 [Peer teaching](../elements/peer-teaching.md), [peer discussion](../elements/peer-discussion.md), [peer explanation](../elements/peer-explanation.md) and [reciprocal teaching](../elements/reciprocal-teaching.md). Strategies that run parts of the routine: [Peer Tutoring](../strategies/peer-tutoring.md), [Reciprocal Peer Tutoring](../strategies/reciprocal-peer-tutoring.md), [Learning by Teaching](../strategies/learning-by-teaching.md), [Peer-Assisted Learning Strategies](../strategies/peer-assisted-learning-strategies-pals.md) and [training students before peer-tutoring roles](../strategies/train-students-before-peer-tutoring-roles.md). Principle: [Peer Learning](../principles/peer-learning.md).
 
 This pattern is scoped to learners teaching one another material they have met, in a scripted, reciprocal session with an individual check. It does not cover commit-and-discuss on conceptual questions ([Peer Instruction](peer-instruction.md)), peer review of drafts ([Structured Peer Review](structured-peer-review.md)) or group projects. Whether it does better than an equal-time individual or adult-led alternative, for which learners, with what dose and at what horizon, is not shown in the wiki; in early reading it has the most support, in mathematics for learners with learning disabilities none, and for learners who have not responded to class-wide teaching an adult did as well.
+
+## Claims
+
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](../claims/staff-tutoring-small-achievement-advantage-pbl.md) [-W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

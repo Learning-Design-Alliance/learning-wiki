@@ -13,7 +13,7 @@ generated:
 # Pre-Reading Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Pre-reading questioning is the element in which learners preview a text through guiding questions before or during initial reading.
@@ -26,7 +26,7 @@ Pre-reading questioning is the element in which learners preview a text through 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](../claims/inserted-questions-longer-initial-reading.md) [~W]
 
 ## Related Elements
 - [Pre-Reading Activities](pre-reading-activities.md)

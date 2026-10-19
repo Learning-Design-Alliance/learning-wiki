@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (17 for, 10 mixed) · 23 studies (15 causal, 3 quant-synthesis, 3 theoretical, 2 review), `q2`–`q4` · 6 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (17 for, 10 mixed, 3 against) · 26 studies (18 causal, 3 quant-synthesis, 3 theoretical, 2 review), `q2`–`q4` · 6 of 26 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,12 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 ## Key Sources
 - Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 -->
+
+## Claims
+
+- [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](../claims/practice-problems-lower-mental-effort.md) [-W]
+- [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](../claims/worked-examples-no-self-explanation-quality-advantage.md) [-W]
+- [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](../claims/worked-examples-no-improvement-knowledge-application.md) [-W]
 
 ## Key Sources
 

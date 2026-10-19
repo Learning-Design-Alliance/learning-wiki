@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (7 for, 12 mixed, 1 against) · 39 studies (16 causal, 8 quant-synthesis, 7 review, 5 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 5 of 39 report an effect size · 9 claims rest on one study
+> **Evidence** · 23 claims (8 for, 14 mixed, 1 against) · 42 studies (16 causal, 8 quant-synthesis, 7 review, 5 theoretical, 3 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 42 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,9 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](../claims/self-reported-jol-motivation-and-behaviour-change.md) [~W]
 - [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](../claims/engagement-surviving-proxy.md) [+W]
 - [Learners define engagement through cognitive, behavioral, and emotional criteria that align with the tripartite framework but differ across individuals](../claims/learner-definitions-span-tripartite-dimensions.md) [~W]
+- [Students entered the projects strongly motivated to shape their neighborhood, and disagreement that the area was fine as it is rose to 84%](../claims/ccs-student-motivation-change-neighborhood.md) [+W]
+- [High social challenge dyads show more off-task activities than low social challenge dyads](../claims/high-challenge-dyads-more-off-task.md) [~W]
+- [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](../claims/temporal-fragmentation-joint-attention-makerspace.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement

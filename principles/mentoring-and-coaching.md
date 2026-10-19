@@ -26,7 +26,7 @@ sources:
 # Mentoring/Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (23 for, 14 mixed, 2 against) · 32 studies (8 review, 8 associational, 7 qualitative, 4 causal, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 1 of 32 report an effect size · 36 claims rest on one study
+> **Evidence** · 40 claims (23 for, 15 mixed, 2 against) · 33 studies (8 review, 8 associational, 8 qualitative, 4 causal, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 1 of 33 report an effect size · 37 claims rest on one study
 
 ## Description
 Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.
@@ -107,6 +107,7 @@ Mentoring and coaching are effective because they attach support to the learner�
 - [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](../claims/edtech-coaches-reached-out-more-during-closures.md) [~W]
 - [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](../claims/mentoring-did-not-vary-by-district-characteristics.md) [~W]
 - [Colleagues, not coaches, were teachers' main source of technology support, and over a third of post-survey respondents reported no support](../claims/pr-colleagues-main-support-coaches-rare.md) [-W]
+- [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](../claims/bioworld-coaching-styles-cognitive-apprenticeship.md) [~W]
 
 ## The evidence by question
 - *Does mentoring and induction support for new teachers keep them in teaching?* [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](../claims/mentoring-influences-new-teacher-retention.md) [+M]

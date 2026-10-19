@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 27 claims (17 for, 9 mixed, 1 against) · 28 studies (7 review, 6 associational, 5 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 28 report an effect size · 21 claims rest on one study
+> **Evidence** · 29 claims (17 for, 11 mixed, 1 against) · 30 studies (7 review, 7 associational, 6 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 6 of 30 report an effect size · 23 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -81,6 +81,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](../claims/autonomy-support-training-effective-d63.md) [+W] — attached 2026-10-15 from Su et al. (2011), which proposed "Autonomy-supportive training programs as a class of interventions grounded in self-determination theory".
 - [Amotivation increased in both conditions during the intervention, but the increase was smaller in the need-supportive condition](../claims/amotivation-increase-lower-need-support.md) [+W] — attached 2026-10-18 from Louise Maddens et al. (2023), which proposed "Self-determination theory and Basic Psychological Need Theory as a framework for motivation in complex-skill learning".
 - [Autonomous motivation decreased and controlled motivation increased overall, with no differences between the need-supportive and baseline conditions](../claims/autonomous-controlled-motivation-unaffected.md) [-W] — attached 2026-10-18 from Louise Maddens et al. (2023), which proposed "Self-determination theory and Basic Psychological Need Theory as a framework for motivation in complex-skill learning"; tests this page's relationship.
+- [Instruction-only students perceived learning control comparably high to example generators, while provided-example students perceived lower control](../claims/perceived-control-high-instruction-only-and-generation.md) [~W]
+- [No significant associations between relational goals and autonomy, nor between mastery goals and evaluation or autonomy](../claims/lao-goals-no-association-autonomy-evaluation.md) [~W]
 
 ## The evidence by question
 

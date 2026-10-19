@@ -31,7 +31,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (19 for, 6 mixed) · 23 studies (6 review, 4 causal, 4 associational, 3 quant-synthesis, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 5 of 23 report an effect size · 21 claims rest on one study
+> **Evidence** · 29 claims (22 for, 7 mixed) · 26 studies (6 causal, 6 review, 4 associational, 4 qualitative, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 5 of 26 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,13 @@ For example, an adult second-language learner in a community class may want to e
 The expectation should weaken if comparisons of talk- and writing-centered lessons against well-designed teacher explanation, with second-language or minority learners and an understanding measure aligned to both, show no advantage; or if the gain from writing-to-learn disappears once the time spent writing is matched by other active tasks. If anxiety-reducing moves raise participation but not understanding, the atmosphere step is a precondition for speaking, not a cause of learning, and the page should say so. If responding to form during talk proves no more harmful than delaying it, drop step 6's ordering. If learners who stay attentive but silent do as well on an unaided measure as those who talk, once prior achievement is controlled, step 3's "every learner speaks" becomes "every learner produces something", spoken or written. Do not protect the model by calling every failure "not enough talk" or "the atmosphere was not yet safe" after the fact.
 
 Participation, willingness to speak, the reasoning in talk, written explanation, unaided understanding, and use of the language outside class are separate claims. The present evidence establishes no amount of talk time, no ratio of teacher to learner talk and no dose of writing for second-language learners.
+
+## Claims
+
+- [Collaborative wiki texts are longer, contain more t-units and more reasoning connectors than the initial pair-written texts](../claims/collaborative-text-longer-richer-than-initial.md) [+W]
+- [The intervention increased students' elaborated explanations and cumulative and exploratory talk](../claims/qt-increases-explanations-cumulative-exploratory-talk.md) [+W]
+- [Student proportion of words spoken in whole-class talk increased in both dose groups after VSDR](../claims/vsdr-increased-student-talk-proportion.md) [+W]
+- [Talk time and internal behavioral engagement are only weakly correlated, indicating they are separate phenomena](../claims/talk-and-engagement-separate-phenomena.md) [~W]
 
 ## Related Principles
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)

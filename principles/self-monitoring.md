@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 5 mixed, 2 against) · 21 studies (7 causal, 7 quant-synthesis, 3 review, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 21 report an effect size · 4 claims rest on one study
+> **Evidence** · 20 claims (7 for, 11 mixed, 2 against) · 26 studies (10 causal, 7 quant-synthesis, 3 review, 3 associational, 3 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,16 @@ For example, an adult apprentice electrician may want to pass a practical assess
 The expectation should weaken if, with comparable learners and the same task, adding trained, test-based self-monitoring with a next-move menu shows no gain over the task alone on an aligned outcome, or if gains appear only on self-reported regulation and never on scored work or behaviour traces. If learners whose judgements match outside scores do no better than those whose judgements do not, the mechanism (accurate detection leads to useful action) is wrong for that task. If gains vanish when prompts are withdrawn, the model describes prompted performance, not an acquired habit, and should say so. If on-task self-recording raises on-task behaviour without changing work completed or accuracy, behaviour monitoring should be treated as classroom management, not as a learning design.
 
 Accuracy of judgement, on-task behaviour, immediate task performance, delayed retention, self-efficacy and continued use without prompts are separate claims. The present evidence establishes no checkpoint interval for learning tasks, no number of training sessions, no calibration threshold for hand-over and no durable transfer.
+
+## Claims
+
+- [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](../claims/practice-tests-improve-absolute-judgment-accuracy.md) [~W]
+- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
+- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](../claims/self-scoring-regulation-accuracy-limited-division.md) [~W]
+- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](../claims/monitoring-exercise-reduced-overconfidence-only.md) [~W]
+- [Teaching cognitive strategies is associated with more accurate self-monitoring, while metacognitive strategy instruction shows no relation](../claims/cognitive-strategy-instruction-better-self-monitoring.md) [~W]
+- [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](../claims/gender-difference-monitoring-judgments-health-math.md) [~W]
+- [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](../claims/unskilled-unaware-monitoring-after-self-scoring.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — monitoring depends on having a target worth tracking.

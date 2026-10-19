@@ -47,7 +47,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (15 for, 12 mixed, 2 against) · 32 studies (12 causal, 6 review, 6 theoretical, 3 qualitative, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 22 claims rest on one study
+> **Evidence** · 36 claims (18 for, 16 mixed, 2 against) · 37 studies (14 causal, 6 review, 6 theoretical, 4 associational, 4 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 4 of 37 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,13 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [~W]
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
+- [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](../claims/bioworld-coaching-styles-cognitive-apprenticeship.md) [~W]
+- [Less successful teachers tended to provide less support because they mistakenly thought prompting was not part of scaffolding](../claims/less-successful-teachers-misconception-prompting-not-scaffolding.md) [~W]
+- [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](../claims/scaffolding-intervention-increases-independent-working-time.md) [+W]
+- [Maternal contingent interventions led to children's successful actions at 12 and 18 months but not at 24 months, while children's success led to contingent withdrawal of support at every time-point](../claims/sequential-contingency-success-bidirectional.md) [+W]
+- [Higher levels of contingent support were related to higher appreciation of support, regardless of measurement occasion or independent working time](../claims/contingency-relates-to-appreciation-of-support.md) [+W]
+- [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](../claims/expert-scaffolding-associated-with-adoption-except-fading.md) [~W]
+- [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](../claims/mct-pd-increased-teaching-quality-more-than-control.md) [~W]
 
 ## Related Principles
 - [Concreteness Fading](concreteness-fading.md)

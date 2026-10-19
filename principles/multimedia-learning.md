@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (20 for, 19 mixed) · 36 studies (17 causal, 9 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 10 of 36 report an effect size · 31 claims rest on one study
+> **Evidence** · 49 claims (21 for, 26 mixed, 2 against) · 41 studies (21 causal, 9 quant-synthesis, 6 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 13 of 41 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,16 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](../claims/verbal-redundancy-small-overall-effect.md) [~W]
 - [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](../claims/redundant-text-no-effect-posterior-probability-lesson.md) [~W]
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](../claims/segmentation-moderates-verbal-redundancy.md) [~W]
+- [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](../claims/animation-beats-static-pictures-for-identifying-motions.md) [~W]
+- [Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy](../claims/instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) [-W]
+- [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](../claims/coordination-of-two-representations-correctless.md) [-W]
+- [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](../claims/reanalysis-features-of-change-moderator.md) [~W]
+- [Students in the image condition gave higher draw judgment magnitude than text-only students in Study 1a](../claims/image-condition-inflated-draw-judgment-magnitude.md) [+W]
+- [Reading a text with related decorative pictures yields more correct answers to knowledge items than reading the text without pictures (Experiment 1, university students)](../claims/related-decorative-pictures-improve-knowledge-exp1.md) [~M]
+- [Related decorative pictures do not enhance transfer performance in either experiment (null results for correctness and metacognitive monitoring)](../claims/related-decorative-pictures-no-transfer-effect.md) [~W]
+- [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](../claims/single-picture-beats-animation-for-spatial-arrangements.md) [~W]
+- [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](../claims/related-pictures-improve-metacognitive-monitoring-exp2.md) [~W]
+- [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](../claims/theory-annotation-no-extra-skill-benefit.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

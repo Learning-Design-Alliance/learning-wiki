@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 18 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (9 for, 2 mixed, 2 against) · 21 studies (6 causal, 6 review, 5 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 9 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -58,6 +58,9 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Open-ended tasks produce higher AI literacy performance than structured tasks](../claims/oet-outperforms-stt-ai-literacy-performance.md) [+M]
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [-W]
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](../claims/chatgpt-steam-ibl-learner-advantages.md) [+W]
+- [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](../claims/natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) [-W]
+- [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
+- [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](../claims/performance-not-indicator-learning-open-ended.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

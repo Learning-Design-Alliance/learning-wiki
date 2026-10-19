@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 14 studies (4 quant-synthesis, 3 causal, 3 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 14 report an effect size · 8 claims rest on one study
+> **Evidence** · 31 claims (14 for, 16 mixed, 1 against) · 29 studies (6 causal, 6 theoretical, 4 quant-synthesis, 4 review, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 3 of 29 report an effect size · 29 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -61,6 +61,27 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](../claims/genai-collaborative-troubleshooting-varied-by-group.md) [~W]
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](../claims/high-performing-groups-fail-without-collaboration.md) [+W]
+- [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](../claims/co-regulation-shared-understanding-patient-management.md) [+W]
+- [Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task](../claims/conceptual-knowledge-interaction-and-time-on-task.md) [~W]
+- [Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs](../claims/content-analysis-little-variation-problem-reanalysis-most-frequent.md) [~W]
+- [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](../claims/early-coordination-continuous-interaction-equal-participation.md) [+W]
+- [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](../claims/four-collaborative-problem-solver-profiles-pisa.md) [~W]
+- [CSCL collaboration scripts substantially improve domain-specific and collaborative-skill outcomes compared with unstructured CSCL](../claims/cscl-scripts-improve-learning-outcomes.md) [~W]
+- [In-service teachers used motivational regulation significantly more frequently than pre-service teachers during collaborative problem-solving](../claims/in-service-higher-motivational-regulation-frequency.md) [~W]
+- [Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time](../claims/groups-vary-first-sensemaking-timing.md) [~W]
+- [Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation](../claims/cognitive-regulation-negotiation-direction-reversed.md) [~W]
+- [Argumentation quality in multiplayer game chat is an attribute of group interaction, not of individual utterances](../claims/group-argumentation-attribute-of-group-interaction.md) [~W]
+- [Unrecognised prior-knowledge asymmetry and absent prior group experience negatively affect learning in complex collaborative tasks](../claims/knowledge-asymmetry-prior-experience-harm-collaboration.md) [~W]
+- [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](../claims/oner-coordinated-math-social-resources.md) [~W]
+- [The editorial reports that a mixed methods study of 42 participant pairs found partly contradictory and partly complementary results on physiological synchrony and collaborative learning](../claims/physiological-synchrony-collaborative-learning-mixed-methods.md) [~W]
+- [Pre-service teachers used sociocognitive controlling strategies significantly more frequently than in-service teachers during collaborative problem-solving](../claims/pre-service-higher-sociocognitive-controlling-frequency.md) [~W]
+- [Exploratory analyses find evidence for a relation between aspects of the collaborative process and knowledge convergence](../claims/process-aspects-relate-to-knowledge-convergence-exploratory.md) [+W]
+- [Outcome convergence after collaboration is low, and higher for application-oriented than factual knowledge](../claims/outcome-convergence-low-higher-application-knowledge.md) [~W]
+- [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](../claims/situational-knowledge-setting-format-tooluse.md) [+W]
+- [Teacher and peer explanations of the scientific concepts during problem solving were at times scientifically misleading or wrong](../claims/teacher-scientific-concepts-misleading.md) [-W]
+- [SSRL-directed question prompts enhanced individual participation in collaborative problem-solving, and socioemotional interaction diversity related to regulation contributions (reported findings)](../claims/ssrl-support-and-socioemotional-diversity-findings.md) [+W]
+- [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](../claims/qualitative-cases-interaction-quality-variation.md) [~W]
+- [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](../claims/ssmr-contributions-higher-vs-lower-performing-groups.md) [+W]
 
 ## The evidence by question
 

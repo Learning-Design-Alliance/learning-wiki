@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (18 for, 22 mixed, 4 against) · 32 studies (16 causal, 5 review, 4 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 32 report an effect size · 38 claims rest on one study
+> **Evidence** · 57 claims (18 for, 32 mixed, 7 against) · 42 studies (23 causal, 6 review, 4 quant-synthesis, 3 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 12 of 42 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,19 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost](../claims/no-short-term-dependence-cost-unsupported-application.md) [~W]
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](../claims/genai-supported-performance-independent-divergence.md) [+M]
 - [LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant](../claims/scaffolding-varies-by-request-and-assignment.md) [-W]
+- [Less successful teachers tended to provide less support because they mistakenly thought prompting was not part of scaffolding](../claims/less-successful-teachers-misconception-prompting-not-scaffolding.md) [~W]
+- [Neither global nor local drawing support increased drawing quality, and local support significantly decreased it relative to unsupported drawing](../claims/drawing-support-did-not-increase-quality.md) [-W]
+- [In Experiment 1, dyads that more often chose maximum CSCL scaffolding had lower post-test socio-discursive MAS](../claims/more-maximal-script-choices-correlated-lower-socio-discursive-mas.md) [-W]
+- [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](../claims/problematizing-scaffolds-metacognitive-knowledge.md) [~W]
+- [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](../claims/problematizing-scaffolds-transfer-effect.md) [~W]
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](../claims/cscl-scripts-positive-learning-collaboration-skills.md) [~W]
+- [Problematizing scaffolds produced a medium significant positive effect on group performance compared to structuring scaffolds](../claims/problematizing-scaffolds-better-group-performance.md) [~W]
+- [Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types](../claims/scaffolds-increase-metacognitive-activities-equally.md) [~W]
+- [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](../claims/scaffolding-no-domain-knowledge-effect.md) [-W]
+- [Scripted roles scaffold students' cognitive responsibility for building common knowledge in knowledge-building environments](../claims/scripted-roles-scaffold-cognitive-responsibility-knowledge-building.md) [~W]
+- [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](../claims/within-teacher-performance-trajectories-as-scaffolds-faded.md) [~W]
+- [Provided support does not influence task regulation between conditions](../claims/support-does-not-influence-task-regulation.md) [~W]
+- [On the knowledge assignment, neither the occasion-by-contingency interaction nor the three-way interaction with independent working time was significant](../claims/knowledge-assignment-null-contingency-effects.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

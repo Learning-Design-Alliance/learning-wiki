@@ -46,7 +46,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (16 for, 21 mixed, 2 against) · 45 studies (10 causal, 8 quant-synthesis, 7 theoretical, 6 review, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 7 of 45 report an effect size · 33 claims rest on one study
+> **Evidence** · 60 claims (25 for, 32 mixed, 3 against) · 65 studies (14 causal, 12 review, 12 theoretical, 10 associational, 8 quant-synthesis, 6 qualitative, 3 design), `q1`–`q4` · 9 of 65 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,27 @@ Group performance during the task, individual understanding straight after it, d
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](../claims/students-report-peer-collaboration-supports-learning.md) [+W]
 - [Trialogical Learning Design Characteristics](../theories/trialogical-learning-design-characteristics.md) [+M]
 - [Kagan Pies Cooperative Learning Principles](../theories/kagan-pies-cooperative-learning-principles.md) [+M]
+- [CSCL collaboration scripts substantially improve domain-specific and collaborative-skill outcomes compared with unstructured CSCL](../claims/cscl-scripts-improve-learning-outcomes.md) [+W]
+- [Collaborative and metacognitive engagement reciprocally predict each other over time](../claims/ce-me-reciprocal-temporal-relation.md) [~W]
+- [Learners change the direction of their assumptions more often to agree with a partner than to disagree](../claims/direction-change-more-often-to-agree.md) [+W]
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](../claims/cscl-scripts-positive-learning-collaboration-skills.md) [+W]
+- [Effective collaborative learning in discussion forums requires relatively small group sizes](../claims/forum-collaborative-learning-small-group-sizes.md) [~W]
+- [Macro scripts foster knowledge-productive interactions: argumentation, explanations and mutual regulation](../claims/macro-scripts-foster-productive-interactions.md) [+W]
+- [Evidence-based rubric scripting produced more high-quality discussion than future-thinking scripting in long-term small-group collaboration.](../claims/evidence-based-rubric-scripting-more-quality-discussion.md) [~W]
+- [Learning with collaboration scripts outdoors yields biology knowledge gains in both iterations, with joint regulation activities mediating script-component effects](../claims/outdoor-cscl-script-knowledge-gains-and-joint-regulation-mediator.md) [+W]
+- [Knowledge creation occurred in neither fixed nor opportunistic collaboration groups; interactions were mostly knowledge sharing](../claims/knowledge-creation-absent-fixed-and-opportunistic-groups.md) [-W]
+- [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](../claims/peer-prompts-argumentation-consensus-efficacy.md) [+W]
+- [No age difference in the strength of active–constructive connections in collaborative discourse networks](../claims/no-age-difference-active-constructive-connection.md) [~W]
+- [Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill](../claims/partner-model-quality-emerges-through-task.md) [~W]
+- [Higher equality of participation in monitoring interactions and more monitoring with positive valence predict better collaborative task performance](../claims/equality-and-positive-valence-monitoring-predict-collaborative-performance.md) [+W]
+- [First-language heterogeneity in CSCL groups reduces students' precourse–postcourse gains in online interaction self-efficacy, independent of students' own language status](../claims/first-language-heterogeneity-reduces-online-interaction-self-efficacy-gains.md) [~W]
+- [Teacher orchestration of collaborative-learning scripts is at least as important as the quality of the script design itself](../claims/teacher-orchestration-over-script-design.md) [~W]
+- [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](../claims/regulation-macro-script-monitoring-support.md) [~W]
+- [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](../claims/wiki-dialogic-space-co-construction.md) [+W]
+- [Interference during tabletop use can play a productive role, but small-group collaboration processes primarily influence learning](../claims/tabletop-interference-productive-collaboration-processes-primary.md) [+W]
+- [The three groups exhibited three distinct collaboration forms—a centralized model, loosely coordinated collaboration, and balanced and regulated collaboration—with group 3 showing the highest regulative-action percentage (40% during synthesis)](../claims/three-discourse-patterns-across-groups.md) [~W]
+- [Temporal phases of co-regulation matter: prolonged early planning to establish shared goals and common ground facilitates co-regulation and collaboration in later phases](../claims/temporal-phases-prolonged-early-planning-facilitates-later-co-regulation.md) [~W]
+- [Dyad composition by gender and achievement level is not a confounding variable for knowledge acquisition after Web-based collaborative inquiry](../claims/dyad-composition-not-confounding-knowledge.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

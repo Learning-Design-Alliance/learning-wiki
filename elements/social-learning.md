@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 11 studies (5 qualitative, 4 quant-synthesis, 1 review, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (11 for, 3 mixed) · 14 studies (5 qualitative, 4 quant-synthesis, 3 causal, 1 review, 1 design), `q1`–`q4` · 4 of 14 report an effect size · 12 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -34,6 +34,10 @@ Social learning is the element in which interaction with peers, models, or commu
 - [A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning](../claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md) [+W]
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
 - [Collaboration spread outside formal grant activities via the observational effect of collaboration in three grantee sites but did not extend beyond the grant in other sites](../claims/observational-effect-spread-collaboration-three-sites.md) [~W]
+- [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](../claims/male-model-boosts-perceived-competence.md) [~W]
+- [Learning from a male model is more enjoyable and leads to greater willingness to receive similar instruction for male students than for female students](../claims/gender-interaction-instruction-enjoyment.md) [~W]
+- [Learners converge toward an unknown other's assumptions after seeing the other's answers and confidence, reducing the distance between their own and the partner's answers](../claims/convergence-toward-others-assumptions.md) [+M]
+- [Focus group data indicate student tutors show more social congruence, being more involved with the group and more open to student opinions](../claims/student-tutors-social-congruence-focus-group.md) [+W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

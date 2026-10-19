@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 11 studies (6 causal, 2 quant-synthesis, 2 associational, 1 review), `q2`–`q4` · 1 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
@@ -45,6 +45,11 @@ Self-explanation is the element in which learners explain to themselves why some
 - [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [+W]
 - [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](../claims/faded-steps-hypothesized-trigger-self-explanations.md) [~W]
 - [Both open and assisting self-explanation prompts foster procedural knowledge when learning with multiple representations, an effect mediated by self-explanations directed to domain principles](../claims/self-explanation-prompts-foster-procedural-knowledge.md) [+W] — attached 2026-10-15 from Berthold et al. (2009), which proposed "Multi-representational worked-out examples on probability theory with self-explanation prompts"; tests this page's relationship.
+- [Generated self-explanations mediate the immediate posttest advantage of open-book over closed-book prompts](../claims/self-explanations-mediate-open-book-immediate-advantage.md) [+W]
+- [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](../claims/worked-examples-improve-cdr-declarative-knowledge.md) [+W]
+- [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](../claims/worked-examples-no-self-explanation-quality-advantage.md) [-W]
+- [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](../claims/males-gaming-more-self-explanation-game-condition.md) [~W]
+- [Gaming the system in the self-explanation step predicts delayed posttest scores beyond pretest, adding 3 percent of variance](../claims/se-gaming-predicts-delayed-posttest.md) [~W]
 
 ## The evidence by question
 - *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

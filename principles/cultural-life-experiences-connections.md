@@ -67,7 +67,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (36 for, 10 mixed) · 47 studies (13 qualitative, 11 causal, 8 design, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 3 of 47 report an effect size · 40 claims rest on one study
+> **Evidence** · 47 claims (37 for, 10 mixed) · 48 studies (13 qualitative, 11 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 48 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -206,6 +206,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Connecting CT education to real community opportunities is powerful for teachers and students](../claims/connect-ct-to-community-opportunities.md) [+W]
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
 - [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](../claims/teacher-brings-home-culture-into-teaching.md) [+W]
+- [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](../claims/personal-experiences-as-classroom-learning-resources.md) [+W]
 
 ## Related Principles
 

@@ -13,7 +13,7 @@ generated:
 # Consensus Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 design), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Consensus building is a structured collaborative activity in which learners with differing positions or interpretations must negotiate toward a shared conclusion that all members can accept and articulate. Unlike debate, the goal is not victory but synthesis: participants must integrate opposing arguments into a joint position, which forces them to evaluate evidence, acknowledge partial merit in rival views, and construct a defensible rationale together.
@@ -55,7 +55,7 @@ Consensus building supports learning because articulating and defending a positi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](../claims/fragmented-premature-shared-understanding.md) [~W]
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the decision-oriented variant; consensus building adds the requirement of a jointly reasoned rationale

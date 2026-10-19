@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (10 for, 10 mixed, 9 against) · 26 studies (9 review, 6 associational, 5 theoretical, 3 qualitative, 2 design, 1 causal), `q1`–`q2` · 1 of 26 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (15 for, 15 mixed, 9 against) · 34 studies (10 review, 8 associational, 6 theoretical, 4 causal, 3 qualitative, 3 design), `q1`–`q3` · 3 of 34 report an effect size · 37 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -75,6 +75,16 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](../claims/cross-semester-auc-decline-without-retraining.md) [-W]
 - [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](../claims/large-prediction-window-real-time-intervention.md) [+W]
 - [Students rarely mentioned the adaptive prompts and those who did perceived them as generic and ignored them](../claims/adaptive-prompts-perceived-generic-ignored.md) [-M] — attached 2026-10-18 from Strauß et al. (2021), which proposed "Group awareness tool with gini-triggered adaptive prompts implemented as Moodle plugins"; tests this page's relationship.
+- [Teacher-facing dashboards that mirror or guide increase teacher awareness and targeted interventions during classroom orchestration](../claims/dashboard-conditions-increase-teacher-awareness-and-interventions.md) [+W]
+- [Response time declined across dashboard trials in all conditions, with no statistically significant difference between mirroring, alerting, and advising conditions](../claims/dashboard-trial-practice-reduces-response-time.md) [~W]
+- [Group-level feedback visualizations increased shared vocabulary connections, but student metadiscourse remained teacher-dependent](../claims/group-level-feedback-visualizations-metadiscourse.md) [~W]
+- [With the alerting & guiding dashboard, teachers' workload dropped most on the performance and frustration subscales, while cognitive load, temporal demand and effort differences were non-significant](../claims/guiding-dashboard-performance-frustration-subscales-drop.md) [+W]
+- [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](../claims/guiding-support-stimulated-targeted-group-interactions.md) [+W]
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](../claims/guiding-dashboard-did-not-increase-coregulation.md) [~W]
+- [Tabletop learning-analytics correlations with collaboration were not statistically significant but suggest post hoc identification of less collaborative teams](../claims/tabletop-analytics-nonsignificant-posthoc-identification.md) [~W]
+- [SAGLET's real-time learning analytics provided alerts that enabled the teacher to monitor groups and give appropriate feedback](../claims/saglet-alerts-teacher-monitoring-feedback.md) [+W]
+- [Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition](../claims/teacher-confidence-highest-with-guiding-dashboard.md) [+W]
+- [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](../claims/sequence-patterns-beat-frequencies-pbl-grades.md) [~W]
 
 ## The evidence by question
 

@@ -55,7 +55,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (8 for, 8 mixed, 4 against, 1 unmarked) · 19 studies (10 causal, 5 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 7 of 19 report an effect size · 18 claims rest on one study
+> **Evidence** · 35 claims (14 for, 15 mixed, 5 against, 1 unmarked) · 24 studies (13 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 9 of 24 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,23 @@ The designer's objective is understanding deep enough to use a concept on proble
 ## What would revise this model?
 
 The expectation should weaken if new comparisons with comparable learners, holding total time and practice equal, find no conceptual or transfer advantage for attempting first; or if the advantage disappears when the instruction-first condition also builds on typical student errors, which would locate the effect in the instruction rather than the order. It should be extended, not reversed, by studies of self-paced online versions and of learners outside mathematics and science. The procedure rows should change if further trials of brief repeated attempts replicate, or fail to replicate, the one procedural gain recorded here, and the group rows if a powered trial shows attempting alone equivalent to, or worse than, attempting in groups.
+
+## Claims
+
+- [Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not](../claims/canonical-components-correlate-conceptual-knowledge.md) [~W]
+- [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](../claims/pf-problem-sweet-spot-complexity-pilot-tests.md) [+W]
+- [PS-I over a year in a university linear algebra course was followed by significantly higher final exam performance versus baseline cohorts](../claims/ps-i-linear-algebra-higher-exam-performance.md) [+W]
+- [Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction](../claims/instruction-first-fewer-better-solution-attempts.md) [-W]
+- [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](../claims/pf-outperformed-di-variance-conceptual-transfer.md) [+W]
+- [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](../claims/ps-i-benefits-conceptual-knowledge-transfer.md) [+W]
+- [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](../claims/ps-i-superior-only-with-student-solutions.md) [+W]
+- [Solution rates in the initial problem-solving phase moderate whether studies find beneficial PS-I effects](../claims/solution-rate-moderates-ps-i-benefits.md) [~W]
+- [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](../claims/ps-i-simulation-better-mvc-transfer.md) [+W]
+- [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](../claims/ps-i-manipulation-check-problem-solving-sheets.md) [~W]
+- [Duration of the initial problem-solving phase reverses the PS-I versus WS-I transfer advantage](../claims/ps-phase-duration-reverses-ps-i-ws-i-transfer.md) [~W]
+- [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](../claims/vf-high-as-effective-as-pf.md) [~W]
+- [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](../claims/pf-solution-quantity-no-mediation.md) [~W]
+- [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

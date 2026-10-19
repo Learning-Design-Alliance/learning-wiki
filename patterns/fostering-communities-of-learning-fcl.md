@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (14 for, 9 mixed) · 38 studies (13 quant-synthesis, 10 review, 6 causal, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 9 of 38 report an effect size · 12 claims rest on one study
+> **Evidence** · 25 claims (14 for, 11 mixed) · 40 studies (13 quant-synthesis, 11 review, 6 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 9 of 40 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +125,11 @@ Record: **theme and parts → starting check by part → research group, sources
 [Peer collaboration](../elements/peer-collaboration.md), [reciprocal teaching](../elements/reciprocal-teaching.md), [peer discussion](../elements/peer-discussion.md), [knowledge-building discourse](../elements/knowledge-building-discourse.md), [reflection](../elements/reflection.md) and [formative assessment](../elements/formative-assessment.md); the [jigsaw classroom](../strategies/jigsaw-classroom.md) strategy. Principles the pattern draws on: [Communities of Practice](../principles/communities-of-practice.md), [Inquiry-based Learning](../principles/inquiry-based-learning.md), [Peer Discussion](../principles/peer-discussion.md), [Mentoring/Coaching](../principles/mentoring-and-coaching.md), [Scaffolding and Fading](../principles/scaffolding-and-fading.md) and [Social Interdependence](../principles/social-interdependence.md).
 
 This pattern is scoped to a class or cohort that researches the parts of a shared theme and teaches them to one another, over several weeks. Short coverage of a fixed syllabus, content learners cannot learn from available sources, and goals that are one learner's skill rather than shared understanding need other configurations ([direct instruction](direct-instruction.md), [cooperative learning](cooperative-learning.md), [peer instruction](peer-instruction.md)). Whether the full research-and-teach cycle produces better individual understanding than its components alone, or than direct teaching of the same content, for which learners, at what time cost and at what horizon, remains to be tested.
+
+## Claims
+
+- [Knowledge-building practices are defined at the community unit of analysis but enacted at the small-group discursive unit](../claims/practices-community-level-enacted-small-group.md) [~W]
+- [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](../claims/test-review-brings-expertise-to-open.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

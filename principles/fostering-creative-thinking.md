@@ -27,7 +27,7 @@ sources:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (13 for, 7 mixed, 2 against) · 23 studies (8 causal, 5 review, 4 theoretical, 3 design, 2 quant-synthesis, 1 associational), `q1`–`q4` · 5 of 23 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (14 for, 8 mixed, 2 against) · 25 studies (9 causal, 5 review, 4 theoretical, 3 design, 2 quant-synthesis, 2 associational), `q1`–`q4` · 7 of 25 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,11 @@ For example, a teacher's objective may be fluent use of ten new vocabulary words
 The expectation should weaken if studies comparing creative activities with and without evaluation in the same session, on matched learners and tasks, find no difference in idea count, originality or later unaided output; or if reward per idea raises output without lowering later voluntary engagement, in which case the caution about rewards in step 7 is too broad for idea generation. If think-first sequencing with AI does not replicate beyond one university sample, or the unaided advantage disappears at a longer delay, step 6 becomes a preference. If one-group gains from short creativity programs vanish against a control group that takes the same tests, the arc's dose has no support at all. If explicit strategy instruction does not beat brainstorm practice outside one secondary school, or its advantage is gone a few weeks later, the opening strategy lesson in step 2 becomes optional; if a gap before choosing does not improve learners' choices in classrooms, step 5's gap goes. Do not protect the model by blaming every null result on hidden evaluation after the fact.
 
 Output during an activity, originality judged by raters, interest afterwards, unaided performance on a new task, and creative work the learner values are separate outcomes, and the present evidence ties none of them to the separation of generating from judging.
+
+## Claims
+
+- [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [~W]
+- [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](../claims/create-immediate-originality-gain.md) [+W]
 
 ## Related Principles
 - [Transfer of Learning](transfer-of-learning.md) — divergent, abstraction-oriented thinking is also one of the general mechanisms that supports transfer

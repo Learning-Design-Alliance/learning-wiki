@@ -37,7 +37,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (9 for, 5 mixed, 2 against, 1 unmarked) · 19 studies (7 causal, 4 qualitative, 3 quant-synthesis, 3 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 19 report an effect size · 13 claims rest on one study
+> **Evidence** · 22 claims (9 for, 9 mixed, 3 against, 1 unmarked) · 23 studies (9 causal, 4 qualitative, 3 quant-synthesis, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 2 of 23 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -135,6 +135,11 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment](../claims/web-based-ca-instructor-time-burden.md) [~W]
 - [Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners](../claims/education-population-moderates-scaffolding-effect.md) [~W]
 - [No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis](../claims/fading-no-effect-productive-learning-events.md) [-W]
+- [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](../claims/bioworld-coaching-styles-cognitive-apprenticeship.md) [~W]
+- [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](../claims/expert-scaffolding-associated-with-adoption-except-fading.md) [~W]
+- [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](../claims/gender-interaction-mental-effort-example-study.md) [~W]
+- [No significant differences in learning measures across teacher-coached, researcher-coached, and BioWorld-alone conditions](../claims/bioworld-coaching-condition-null-manova.md) [-W]
+- [Students start with video modeling examples but shift toward worked examples and practice problems as the learning phase progresses](../claims/video-examples-first-shift-to-worked-examples.md) [~W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning

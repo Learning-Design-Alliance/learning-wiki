@@ -47,7 +47,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (18 for, 20 mixed) · 32 studies (11 causal, 10 theoretical, 7 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 34 claims rest on one study
+> **Evidence** · 40 claims (19 for, 20 mixed, 1 against) · 34 studies (12 causal, 10 theoretical, 7 review, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 3 of 34 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,11 @@ For example, an adult learning spreadsheets for a job may want to build this mon
 The expectation should weaken if units ordered by a dependency map, compared with the same content in a convenience order with comparable learners and aligned unaided outcomes, show no advantage at the end of the unit or at a delay. If problem-first orders turn out to help procedural outcomes too, or example-first orders help conceptual transfer as much, the goal-dependent choice in the default design should collapse into one order. If the blocked-then-mixed order loses to mixing from the start for novices, step 8 should change. If prerequisite checks fail to predict who stalls at later stages, the move-on rule is a scheduling device, not a diagnostic. Do not protect the model by calling every failure a missing prerequisite after the fact.
 
 Performance during practice, unaided performance at the end of the unit, delayed retention, transfer and use in the setting the learner values are separate claims. The present evidence establishes no stage length, no number of stages and no move-on criterion.
+
+## Claims
+
+- [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](../claims/cvs-level-difficulty-ordering.md) [+W]
+- [After reading the first text, embedded-source trustworthiness evaluations did not vary between sequences](../claims/es-evaluation-no-sequence-difference-position-one.md) [-W]
 
 ## Related Principles
 - [Holistic Learning](holistic-learning.md)

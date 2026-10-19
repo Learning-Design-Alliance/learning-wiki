@@ -17,7 +17,7 @@ sources:
 # Germane load operationalized as learning effects measured by test-score increases
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 4 studies (3 causal, 1 design), `q2`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test problems. As the article states, "germane load assigned in the learning phase was evaluated based on the increase of the test scores." This measurement approach treats pre- to post-test gains as the index of germane load, and the article uses it to distinguish two types of germane load related to intrinsic load.
@@ -40,6 +40,8 @@ The article operationalizes germane load as learning effects: the portion of wor
 
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](../claims/extraneous-load-eliminates-germane-load-learning-gains.md) [~W]
 - [Per-question pre/post analysis showed significant improvement on almost all questions, with Q1 (DBMS use) and Q4 (basic normalization) as exceptions due to high pre-test scores](../claims/per-question-prepost-gains-five-of-seven.md) [+W]
+- [Only the high-dose VSDR group showed statistically significant improvement in ICT subject knowledge, from pre-test to post-test](../claims/vsdr-high-dose-significant-knowledge-gain.md) [~W]
+- [Pre-test/post-test learning gains showed no significant difference compared to a control group](../claims/tapacarp-learning-gain-null-vs-control.md) [-W]
 
 ## Related Theories
 - 

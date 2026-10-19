@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (13 for, 8 mixed, 1 against) · 34 studies (15 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 34 report an effect size · 11 claims rest on one study
+> **Evidence** · 28 claims (14 for, 12 mixed, 2 against) · 39 studies (18 causal, 8 quant-synthesis, 7 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 39 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,12 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 ## Claims
 
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
+- [Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](../claims/graph-helpful-harmful-contrasting-cases.md) [~W]
+- [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](../claims/no-format-knowledge-type-mapping.md) [-W]
+- [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](../claims/concept-mapping-more-historical-metahistorical-concepts.md) [+W]
+- [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](../claims/expert-example-alone-no-learning-gain-concept-mapping.md) [~W]
+- [Weak initial organization enables experimentation with alternative graphical organizing principles](../claims/weak-organization-enables-principle-experimentation.md) [~W]
+- [Triads with access to each other's concept maps were more efficient in collaborative problem solving](../claims/shared-concept-maps-improve-triad-efficiency.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.

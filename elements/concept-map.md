@@ -19,7 +19,7 @@ sources:
 # Concept Map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 9 studies (4 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 14 studies (6 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 8 claims rest on one study
 
 ## Description
 A concept map is a diagram in which concepts appear as nodes and labeled links express the relationships between them, forming a propositional structure ("concept — linking word — concept"). It functions both as a learning activity (learners construct maps) and as an assessment or advance organizer (instructors provide or score maps). Concept maps make knowledge structure — not just knowledge items — visible and revisable.
@@ -66,6 +66,12 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [-W]
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
+- [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](../claims/concept-map-performance-age-difference.md) [~W]
+- [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](../claims/older-adults-no-learning-gain-cscl-concept-maps.md) [~W]
+- [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](../claims/expert-example-alone-no-learning-gain-concept-mapping.md) [+W]
+- [Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes](../claims/summary-task-weaker-outcomes-and-disputational-talk.md) [~W]
+- [High cognitive activities were positively associated with essay quality but not with concept maps](../claims/high-cognition-essay-not-concept-maps.md) [~W]
+- [Weak initial organization enables experimentation with alternative graphical organizing principles](../claims/weak-organization-enables-principle-experimentation.md) [~W]
 
 ## The evidence by question
 - *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]

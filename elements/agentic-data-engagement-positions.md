@@ -18,7 +18,7 @@ sources:
 # Agentic Data-Engagement Positions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 3 studies (3 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 This element names four proactive roles learners can take up when engaging with real-world, ongoing ("lively") data about an issue that affects them: (1) **active researcher/consumer** — navigating, cross-checking, and tracking data and data narratives across sources and scales to determine credibility; (2) **analyst** — constructing knowledge by comparing, recontextualizing, and critiquing data (e.g., relating national vaccination statistics to one's own family's experience); (3) **author** — producing new data or narratives, such as documenting one's own or a community's first-hand experience where official data is missing or delayed; and (4) **socio-scientific communicator/advocate** — relaying, explaining, or advocating for data-informed action to others, such as a peer group or family. Learners do not necessarily move through these in a fixed sequence; the same learner can occupy different positions at different points as an issue unfolds, and a single episode can layer multiple positions at once.
@@ -46,6 +46,7 @@ This element names four proactive roles learners can take up when engaging with 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](../claims/family-muac-empowers-caregivers-as-health-advocates.md) [+W]
+- [Digital network mapping tools support students in critically selecting and reviewing online data on socio-scientific controversies](../claims/gephi-mapping-supports-critical-data-review.md) [~W]
 
 ## Related Elements
 - (none yet linked)

@@ -12,7 +12,7 @@ generated:
 # Design Layers Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Gibbons (2003/2018) argues that instructional designs are not unitary objects but stacks of layers, borrowing the analogy directly from architect Stewart Brand's account of how buildings are actually structured — site, structure, skin, services, space plan, and stuff, each aging and changing at a different rate, each requiring deliberate "articulation" with the others so a change to one layer doesn't force a rebuild of the whole. Gibbons and colleagues found the same structure holds for instructional designs, identifying seven layers: **model/content** (subject-matter structure — concepts, rules, principles, tasks), **strategy** (event structures — problems, exercises, instructional periods), **control** (rules governing learner actions and system responses), **message** (main ideas, examples, feedback, explanations), **representation** (media selection and display structures), **media-logic** (the underlying program/logic implementation), and **management** (session control, record-keeping, evaluation planning). Each layer carries its own design goals, constructs, theoretic principles, tools, and specialized skills — which is why, over time, these skills harden into separate professional roles (a media producer, a strategy/instructional designer, a programmer).
@@ -43,6 +43,7 @@ The theory's most distinctive claim is about designer cognition: designers predi
 ## Claims
 
 - [Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions](../claims/monolithic-llm-architectures-hinder-responsible-educational-design.md) [+W]
+- [Quantitative experimental results on representational formats left the role of representations in dyad discussion unexplained](../claims/representational-format-study-unexplained-dyad-role.md) [~W]
 
 ## Related Theories
 - [First Principles of Instruction](first-principles-of-instruction.md) — Merrill's problem-centered principles reflect a model-centered design stance in Gibbons' framework, entering through subject-matter and problem structure rather than media or message

@@ -13,7 +13,7 @@ generated:
 # Simple-to-complex sequencing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 causal, 4 review, 2 theoretical), `q2`–`q3` · 0 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (4 causal, 4 review, 2 theoretical, 1 qualitative), `q2`–`q3` · 0 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Simple-to-complex sequencing orders instruction so that learners first master basic, prerequisite concepts and skills before encountering more detailed, complex, or integrated ones. It is the default sequencing logic for subjects with cumulative knowledge structures — mathematics, languages, programming — where later content presupposes earlier content. The approach is central to [Elaboration Theory](../patterns/elaboration-theory.md), which prescribes starting with the simplest, most general representation of a topic (an "epitome") and progressively elaborating toward complexity.
@@ -52,7 +52,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students in simulator training encounter a progression from simplified low-fidelity tasks to more complex higher-fidelity tasks as a deliberate instructional logic.](../claims/simulator-task-progression-low-to-high-fidelity.md) [+W]
 
 ## The evidence by question
 

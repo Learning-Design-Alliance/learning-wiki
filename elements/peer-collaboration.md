@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 11 studies (4 quant-synthesis, 2 causal, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 27 claims (13 for, 14 mixed) · 29 studies (6 causal, 6 associational, 6 theoretical, 5 qualitative, 4 quant-synthesis, 2 review), `q1`–`q4` · 4 of 29 report an effect size · 25 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -57,6 +57,26 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](../claims/dr-outperforms-ci-task-performance.md) [~W]
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](../claims/genai-collaborative-troubleshooting-varied-by-group.md) [+W]
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](../claims/students-report-peer-collaboration-supports-learning.md) [+W]
+- [Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions](../claims/a3c-joint-interaction-levels-in-scaled-mooc-tools.md) [~W]
+- [Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation](../claims/cognitive-regulation-negotiation-direction-reversed.md) [~W]
+- [Students who collaborated (in collaborative and combined conditions) reported higher situational interest in the fractions activity](../claims/collaborating-students-higher-situational-interest.md) [+W]
+- [Grade 5 students can sustain productive knowledge-building collaboration over a whole school year with a facilitative rather than guiding teacher](../claims/grade-5-sustain-productive-collaboration-whole-year-knowledge-building.md) [+W]
+- [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](../claims/early-coordination-continuous-interaction-equal-participation.md) [+W]
+- [High social challenge dyads show more off-task activities than low social challenge dyads](../claims/high-challenge-dyads-more-off-task.md) [~W]
+- [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](../claims/collaboration-quality-ratio-group-individual-activity.md) [~W]
+- [Dyad composition by gender and achievement level is not a confounding variable for knowledge acquisition after Web-based collaborative inquiry](../claims/dyad-composition-not-confounding-knowledge.md) [~W]
+- [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](../claims/ssmr-contributions-higher-vs-lower-performing-groups.md) [+W]
+- [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](../claims/multi-touch-collaboration-kit-reduced-discussion-bias.md) [+W]
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](../claims/making-team-success-coordination-entanglement.md) [+W]
+- [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](../claims/oner-coordinated-math-social-resources.md) [~W]
+- [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](../claims/homogeneous-groups-greater-learning-gains-than-heterogeneous.md) [~W]
+- [Triads with access to each other's concept maps were more efficient in collaborative problem solving](../claims/shared-concept-maps-improve-triad-efficiency.md) [~W]
+- [Low social challenge dyads verbalize more cognitive processing and more high-cognition than high social challenge dyads](../claims/low-challenge-dyads-more-cognition-frequencies.md) [~W]
+- [Students reported using the collaboration support mainly for self-regulation of their own contribution rather than for socially shared regulation of the group's participation](../claims/support-used-for-self-not-shared-regulation.md) [~W]
+- [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](../claims/wiki-negotiation-collaboration-reasoning-keywords.md) [+W]
+- [Performing social activities negatively predicts group performance in CSCL inquiry tasks](../claims/social-activities-negatively-predict-group-performance.md) [~W]
+- [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](../claims/regulation-of-social-activities-predicts-group-performance.md) [~W]
+- [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](../claims/zambrano-2019-learning-phase-manova-main-effects.md) [+W]
 
 ## The evidence by question
 

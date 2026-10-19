@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 29 claims (14 for, 15 mixed) · 26 studies (8 causal, 6 quant-synthesis, 5 theoretical, 4 review, 3 associational), `q1`–`q4` · 7 of 26 report an effect size · 22 claims rest on one study
+> **Evidence** · 50 claims (18 for, 29 mixed, 3 against) · 45 studies (18 causal, 7 review, 7 associational, 6 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 13 of 45 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,27 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](../claims/srl-strategies-large-effect-academic-achievement.md) [+W]
 - [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](../claims/srl-effect-no-course-type-difference.md) [~W]
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](../claims/verification-bottleneck-confidence-dissociation.md) [~W]
+- [Reflection increased in the adaptable and non-adaptable script conditions, but only the adaptable script had positive effects on monitoring, supporting overall positive effects on self-regulation](../claims/adaptable-script-monitoring-self-regulation-effects.md) [~W]
+- [Groups perceiving a learning situation as challenging switched frequently between planning and performance phases of regulation](../claims/challenging-situations-drive-plan-perform-switching.md) [~W]
+- [Explicit instruction of SRL strategies is rare among primary teachers in both an iSELF-trained group and an untrained control group](../claims/explicit-srl-instruction-rare-primary-teachers-both-conditions.md) [~W]
+- [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](../claims/compliance-suggested-actions-essay-scores-mixed.md) [~W]
+- [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](../claims/cognitive-capability-dominance-benefit-rarely-mentioned.md) [~W]
+- [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not](../claims/mrs-strategy-increased-exam-scores.md) [+W]
+- [Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference](../claims/inconsistent-absolute-accuracy-competitiveness.md) [~W]
+- [Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning](../claims/regulation-interventions-programming-average-effect.md) [+W]
+- [No intervention effect on directly observed on-task self-regulation in the musical play study](../claims/musical-play-intervention-no-on-task-self-regulation-effect.md) [-W]
+- [No effects of reported planner or reviser scores were found on evaluating own text](../claims/no-effects-evaluating-own-text.md) [-W]
+- [Prompts increased learners' self-efficacy during learning within the prompted group but did not produce between-group differences at mid-learning or post-learning](../claims/prompts-increase-self-efficacy-during-learning.md) [~W]
+- [In Experiment 2, self-regulation skills significantly positively predicted domain-specific MAS only in the minimal heuristic worked examples condition](../claims/self-regulation-predicts-domain-specific-mas-minimal-worked-examples.md) [~W]
+- [Lower-prior-knowledge apprentices gained more self-efficacy with retrospective prompts, while anticipatory prompts were detrimental for them](../claims/prior-knowledge-moderates-prompt-direction-self-efficacy.md) [~W]
+- [Students showed significant learning gains on domain knowledge (large effect) and concept maps (medium effect) after a 45-minute SRL-rich learning task](../claims/srl-task-learning-gains-domain-concept-maps.md) [+W]
+- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](../claims/self-scoring-regulation-accuracy-limited-division.md) [~W]
+- [Teachers typically provide only little explicit support for SRL in their classrooms](../claims/teachers-provide-little-explicit-srl-support.md) [+W]
+- [The three-way group × time × practice interaction was significant for explicitness but not duration: MCS explicitness rose more in the SRL-AIDE group while KC explicitness rose more in the comparison group](../claims/three-way-interaction-explicitness-not-duration.md) [~W]
+- [Teachers perceive SRL as desirable for students but not feasible to implement in their classrooms](../claims/teachers-srl-desirable-but-not-feasible.md) [~W]
+- [The hypothesised mediation of prompt effects on self-efficacy via strategy use was not confirmed because prompts did not affect strategy use](../claims/strategy-mediation-of-prompt-self-efficacy-not-confirmed.md) [-W]
+- [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](../claims/student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md) [~W]
+- [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](../claims/srlt-module-scores-improvement-adam-ben.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

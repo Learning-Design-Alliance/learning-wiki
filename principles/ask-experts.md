@@ -35,7 +35,7 @@ sources:
 # Ask Experts
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (6 for, 10 mixed) · 26 studies (8 causal, 5 quant-synthesis, 5 associational, 3 theoretical, 2 review, 2 qualitative, 1 design), `q1`–`q4` · 3 of 26 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (6 for, 11 mixed, 1 against) · 28 studies (9 causal, 5 quant-synthesis, 5 associational, 4 theoretical, 2 review, 2 qualitative, 1 design), `q1`–`q4` · 3 of 28 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,8 @@ The present evidence establishes no length or frequency of consultation, no numb
 
 - [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](../claims/human-tutoring-effect-d-079.md) [+W]
 - [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](../claims/human-tas-stronger-teaching-effectiveness-than-chatgpt.md) [+W]
+- [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](../claims/pedagogical-experts-less-deep-learning-tutoring.md) [-W]
+- [First-year students do not attach great importance to the tutor's domain specific expertise, which may explain why staff tutors' extra expertise does not yield achievement advantages](../claims/domain-expertise-less-important-first-year-pbl.md) [~W]
 
 ## Related Principles
 - [Mentoring/Coaching](mentoring-and-coaching.md) — a broader relationship structure in which expert guidance is sustained over time rather than episodic

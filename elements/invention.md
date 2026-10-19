@@ -13,7 +13,7 @@ generated:
 # Invention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 10 studies (5 causal, 3 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4` · 4 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 An invention task presents learners with a novel problem and asks them to create their own solution procedure, formula, or representation — typically before any direct instruction on the canonical method. The goal is not to produce the correct answer but to surface gaps in prior knowledge and build readiness for the instruction that follows. This is the core move of "inventing to prepare for future learning" [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+M].
@@ -54,6 +54,11 @@ Invention tasks work by activating relevant prior knowledge and making learners 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Productive failure, problem-solving before instruction, shows a measured benefit of about d = 0.36 rising to about 0.58 at high design fidelity (as reported)](../claims/productive-failure-improves-conceptual-learning.md) [+W]
+- [Contrary to expectation, the worked-example group applied suboptimal criteria more often, and fewer suboptimal applications mediated inventing's transfer](../claims/suboptimal-criteria-application-worked-example-contrary-hypothesis.md) [~W]
+- [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](../claims/pf-solution-quality-correlation-individual-only.md) [~W]
+- [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](../claims/ps-i-superior-only-with-student-solutions.md) [~W]
+- [In PS-I, prompting students to generate multiple strategies during the initial phase generally outperformed inventing one strategy or I-PS](../claims/multiple-strategies-prompt-outperformed-other-conditions.md) [~W]
+- [Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not](../claims/canonical-components-correlate-conceptual-knowledge.md) [~W]
 
 ## Related Elements
 - [Demonstration](demonstration.md) — the canonical instruction that must follow invention; the pairing is what produces the effect

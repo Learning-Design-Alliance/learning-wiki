@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 43 claims (26 for, 17 mixed) · 36 studies (19 causal, 8 quant-synthesis, 6 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 36 report an effect size · 34 claims rest on one study
+> **Evidence** · 56 claims (28 for, 26 mixed, 2 against) · 44 studies (25 causal, 8 quant-synthesis, 6 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 14 of 44 report an effect size · 47 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,19 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](../claims/segmentation-moderates-verbal-redundancy.md) [~W]
 - [Sol Multimedia Lesson Sequence Eb](../designs/sol-multimedia-lesson-sequence-eb.md) [+M]
+- [Anatomy images were more likely than evolution images to have direct placement only](../claims/anatomy-more-direct-placement-than-evolution.md) [~W]
+- [Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy](../claims/instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) [-W]
+- [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](../claims/animation-benefits-retention-over-static-graphics.md) [+W]
+- [Time to first fixation of referred-to picture elements during interpretation phases is shorter with an LDI integrated than an LDI separated audio structure](../claims/ldi-integrated-faster-first-fixation.md) [+W]
+- [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](../claims/graph-attention-away-from-statement.md) [~M]
+- [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](../claims/animation-research-lacks-clear-evidence-over-static.md) [~W]
+- [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](../claims/animation-beats-static-pictures-for-identifying-motions.md) [~W]
+- [Strategy guidance in using pause and scrollbar controls yields better immediate comprehension and higher performance efficiency than unguided learner control](../claims/strategy-guidance-beats-unguided-learner-control-immediate.md) [~W]
+- [Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true](../claims/picture-bias-graphs-confirm-statements.md) [~W]
+- [Students adapted representation choices to task: the model was viewed more for the three-dimensional dihedral animation, the graph more for the two-dimensional bending and stretching animations](../claims/representation-choice-varies-with-animation-content.md) [~W]
+- [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](../claims/no-medium-context-effect-integration.md) [-W]
+- [University students spent longer processing time watching two complementary videos than reading two complementary digital texts](../claims/videos-longer-processing-time-than-texts.md) [~W]
+- [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](../claims/single-picture-beats-animation-for-spatial-arrangements.md) [~W]
 
 ## Examples
 

@@ -13,7 +13,7 @@ generated:
 # Generative Processing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 18 studies (5 causal, 5 quant-synthesis, 5 review, 3 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 20 studies (7 causal, 5 quant-synthesis, 5 review, 3 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 7 claims rest on one study
 
 ## Description
 Generative processing is the cognitive work learners do to actively construct meaning from instructional material — summarizing, self-explaining, drawing, mapping, questioning, or teaching — rather than passively receiving it. It originates in generative learning theory (Wittrock), which holds that learning occurs when learners generate relations between new content and their prior knowledge and between different parts of the material. In Mayer's cognitive theory of multimedia learning, generative processing is one of three demands on working memory, alongside extraneous processing and essential processing; instruction must manage the first two to leave capacity for the third.
@@ -57,6 +57,8 @@ Learning improves when learners are prompted to generate content-relevant cognit
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](../claims/genai-offloading-bypasses-desirable-difficulties.md) [~W]
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](../claims/ai-scaffold-or-shortcut-pathways.md) [~W]
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
+- [Closed-book self-explanation prompts reduce the number of generated self-explanations when learners are not prompted to actively process the instructional explanations beforehand](../claims/closed-book-prompts-reduce-self-explanations-without-active-processing.md) [~W]
+- [Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts](../claims/anticipatory-prompts-lower-extraneous-load.md) [~W]
 
 ## The evidence by question
 - *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]

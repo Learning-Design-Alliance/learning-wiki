@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (29 for, 10 mixed) · 29 studies (12 causal, 8 associational, 3 quant-synthesis, 3 review, 2 theoretical, 1 design), `q1`–`q4` · 6 of 29 report an effect size · 37 claims rest on one study
+> **Evidence** · 44 claims (29 for, 15 mixed) · 33 studies (15 causal, 8 associational, 4 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 7 of 33 report an effect size · 42 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -102,6 +102,11 @@ Information processing models are often criticized as overly linear and serial, 
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](../claims/whole-number-ccs-one-level-per-wm-unit.md) [+W] — attached 2026-10-18 from Morra et al. (2019), which proposed "Case's central conceptual structures theory, reconsidered with working memory capacity as the developmental driver of quantitative concepts"; tests this page's relationship.
 - [Rational-number CCS test performance is predicted by working memory capacity and, to a lesser extent, by intrusion errors in the listening span](../claims/rational-number-ccs-predicted-by-wm-and-intrusions.md) [+W] — attached 2026-10-18 from Morra et al. (2019), which proposed "Case's central conceptual structures theory, reconsidered with working memory capacity as the developmental driver of quantitative concepts"; tests this page's relationship.
 - [The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles](../claims/voluntary-involuntary-attention-distinction-explains-multimedia-principles.md) [+W] — attached 2026-10-19 from Judith Schweppe et al. (2015), which proposed "The embedded-processes model as a unitary framework for attention, working memory, and long-term memory in multimedia learning".
+- [In self-cued directed forgetting, selected words were better recalled than unselected words regardless of whether they were designated to-be-remembered or to-be-forgotten](../claims/self-cued-directed-forgetting-selection-benefit.md) [~W]
+- [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](../claims/wmc-predicts-comprehension-only-disfluency-condition.md) [~W]
+- [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](../claims/wmc-predicts-retention-only-disfluency-condition.md) [~W]
+- [Disfluency benefits retention and comprehension only for learners with high working memory capacity](../claims/disfluency-benefits-high-working-memory-only.md) [~W]
+- [Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test](../claims/zambrano-2019-low-density-benefit-shortlived.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

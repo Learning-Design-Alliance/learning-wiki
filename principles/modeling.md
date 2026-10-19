@@ -23,7 +23,7 @@ sources:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (19 for, 7 mixed) · 38 studies (12 causal, 7 review, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 3 of 38 report an effect size · 16 claims rest on one study
+> **Evidence** · 27 claims (20 for, 7 mixed) · 39 studies (13 causal, 7 review, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 39 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Imitation right after the model, unaided immediate performance, delayed retentio
 ## Claims
 
 - [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](../claims/mentor-modeling-shapes-novice-advocacy-beliefs.md) [+W]
+- [Studying a video modeling example produces large pretest-to-posttest gains in learning and near transfer of probability calculation for novice secondary students, regardless of model or observer gender](../claims/video-modeling-examples-large-gains-probability-novices.md) [+W]
 
 ## Related Principles
 - [Observation/Shadowing](observationshadowing.md) — both principles rely on seeing performance, but modeling is usually more intentionally annotated and instructional

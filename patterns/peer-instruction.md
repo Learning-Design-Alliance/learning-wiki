@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 25 studies (6 causal, 5 quant-synthesis, 5 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (8 for, 11 mixed) · 27 studies (8 causal, 5 quant-synthesis, 5 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 5 of 27 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -114,6 +114,8 @@ This pattern is scoped to conceptual questions with a defensible answer. Open-en
 
 - [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](../claims/revealing-answer-undesired-feedback-higher-succscore.md) [+W]
 - [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](../claims/clicker-vote-patterns-null-on-homework-explanations.md) [~W]
+- [Mean answer scores in the large group rose continually across the interaction phases, especially from phase 4 onward, but stagnated on question 3](../claims/large-group-mean-scores-rose-phases.md) [~W]
+- [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](../claims/low-own-confidence-drives-assumption-change.md) [~W]
 
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)

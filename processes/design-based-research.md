@@ -14,7 +14,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 design, 1 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.
@@ -66,6 +66,8 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 ### Claims
 
 - [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](../claims/teacher-pilot-thonny-log-visualizer-160-students.md) [+W]
+- [Collaboration with experts during design and enactment contributed to the quality of designed artefacts and to teacher learning across all three cases](../claims/expert-collaboration-quality-and-teacher-learning.md) [+W]
+- [Editorial reports that optimizing a collaborative learning design after reflecting on misalignment significantly improved design-enactment alignment and improved group performance](../claims/editorial-reports-design-optimization-improves-alignment-and-group-performance.md) [+W]
 
 #### Supporting
 - None yet recorded in the wiki from a DBR study's own evidence
