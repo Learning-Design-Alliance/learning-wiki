@@ -61,6 +61,7 @@ TEMPLATE = """<!doctype html>
 <main class="lt-main"><article class="md-typeset"{pagefind}>
 {body}
 </article></main>
+<footer class="lt-footer">{footer}</footer>
 </body>
 </html>
 """
@@ -73,7 +74,9 @@ def _init(site: str, css_paths: list, owned: set) -> None:
     import yaml
     import page_metadata
     page_metadata.LEGEND_URL = "../evidence-codes/"
-    _state.update(site=Path(site), css=css_paths, owned=owned, yaml=yaml, pm=page_metadata,
+    # The footer line is mkdocs.yml's `copyright`, so the two tiers carry the same one.
+    footer = yaml.safe_load((ROOT / "mkdocs.yml").read_text(encoding="utf-8")).get("copyright", "")
+    _state.update(site=Path(site), css=css_paths, owned=owned, yaml=yaml, pm=page_metadata, footer=footer,
                   md=markdown.Markdown(extensions=EXTENSIONS, extension_configs=EXT_CONFIG))
 
 
@@ -87,7 +90,8 @@ def _write(url: str, title: str, folder: str, body_html: str, index: bool, kind:
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(TEMPLATE.format(title=html.escape(title), rel=rel, css=_css(rel), folder=folder,
                                    label=two_tier.LABELS.get(folder, folder.title()), body=body_html,
-                                   pagefind=two_tier.pagefind_attrs(kind) if index else ""), encoding="utf-8")
+                                   pagefind=two_tier.pagefind_attrs(kind) if index else "",
+                                   footer=_state["footer"]), encoding="utf-8")
 
 
 class _Page:
@@ -164,7 +168,7 @@ def main() -> None:
     site = Path(args.site)
     css = sorted(str(p.relative_to(site)) for p in (site / "assets" / "stylesheets").glob("main.*.min.css"))
     css += sorted(str(p.relative_to(site)) for p in (site / "assets" / "stylesheets").glob("palette.*.min.css"))
-    css += ["branding/lazuli-theme.css"]
+    css += ["branding/lda-theme.css"]
     if not css[0].startswith("assets/"):
         sys.exit(f"no Material stylesheet in {site}/assets: run mkdocs build first")
     owned = sorted(two_tier.longtail(ROOT))

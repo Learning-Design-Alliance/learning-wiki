@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22362,
+"claim":22364,
 "design":973,
 "element":1066,
 "learner-variable":75,
@@ -125581,12 +125581,28 @@
 "type":"claim"
 },
 {
+"description":"",
+"id":"observation-cannot-establish-a-prerequisite-edge",
+"path":"claims/observation-cannot-establish-a-prerequisite-edge.md",
+"status":"review",
+"title":"Learner Records Rarely Establish That a Prerequisite Edge Exists",
+"type":"claim"
+},
+{
 "description":"All seven dimensions of instructional practice with quantitative data are modestly but significantly related to teachers' value-added scores",
 "evidence_strength":"moderate",
 "id":"observation-dimensions-modestly-significantly-related-to-value-added",
 "path":"claims/observation-dimensions-modestly-significantly-related-to-value-added.md",
 "status":"review",
 "title":"All seven dimensions of instructional practice with quantitative data are modestly but significantly related to teachers' value-added scores",
+"type":"claim"
+},
+{
+"description":"",
+"id":"observation-orients-edges-only-where-prerequisites-gate",
+"path":"claims/observation-orients-edges-only-where-prerequisites-gate.md",
+"status":"review",
+"title":"The Orientation Statistic Read From Learner Records Is a Difficulty Sort",
 "type":"claim"
 },
 {
@@ -315967,7 +315983,9 @@
 "objective-support-null-correlation-prosocial":"objective-support-null-correlation-prosocial",
 "obpp-most-effective-for-perpetration":"obpp-most-effective-for-perpetration",
 "observable-metrics-improve-help-seeking-prediction-auroc":"observable-metrics-improve-help-seeking-prediction-auroc",
+"observation-cannot-establish-a-prerequisite-edge":"observation-cannot-establish-a-prerequisite-edge",
 "observation-dimensions-modestly-significantly-related-to-value-added":"observation-dimensions-modestly-significantly-related-to-value-added",
+"observation-orients-edges-only-where-prerequisites-gate":"observation-orients-edges-only-where-prerequisites-gate",
 "observation-pattern-predominantly-copied-models":"observation-pattern-predominantly-copied-models",
 "observation-practice-gaps-principal-teacher":"observation-practice-gaps-principal-teacher",
 "observation-ratings-46-percent-basic-unsatisfactory":"observation-ratings-46-percent-basic-unsatisfactory",

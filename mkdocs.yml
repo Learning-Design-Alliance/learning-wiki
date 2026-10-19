@@ -4,7 +4,12 @@ site_url: https://wiki.learningdesignalliance.org/
 repo_url: https://github.com/Learning-Design-Alliance/learning-wiki
 repo_name: Learning-Design-Alliance/learning-wiki
 edit_uri: ""
-copyright: Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+copyright: >-
+  <span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> ·
+  <a href="https://reports.learningdesignalliance.org">Research reports</a> ·
+  <a href="https://wiki.learningdesignalliance.org">Wiki</a> ·
+  <a href="https://lazuli.design">Lazuli</a></span>
+  Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
 
 docs_dir: docs
 
@@ -19,6 +24,9 @@ theme:
   name: material
   logo: branding/lda-monogram-lapis.svg
   favicon: branding/lda-favicon.png
+  # The LDA faces (DM Sans, DM Mono, Baskervville) load from branding/lda-theme.css, which
+  # both tiers carry; false stops Material loading Roboto as well.
+  font: false
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -48,7 +56,7 @@ extra:
   generator: false
 
 extra_css:
-  - branding/lazuli-theme.css
+  - branding/lda-theme.css
 
 hooks:
   - docs_hooks/page_metadata.py

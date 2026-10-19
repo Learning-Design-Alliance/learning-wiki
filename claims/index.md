@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**22362 entries** · 0 stable · 22362 in review · 0 drafts
+**22364 entries** · 0 stable · 22364 in review · 0 drafts
 
 ---
 
@@ -10370,6 +10370,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) - Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464
 * [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md)
 * [Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring](learner-presence-three-qualities-mba.md) - Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring
+* [Learner Records Rarely Establish That a Prerequisite Edge Exists](observation-cannot-establish-a-prerequisite-edge.md)
 * [Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion](repair-patterns-vary-by-feedback-type-and-setting.md) - Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion
 * [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) - Learner-centeredness is a universal theme across SLA theories and language teaching methods
 * [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) - Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop
@@ -20273,6 +20274,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) - The optimal interstudy interval increases as the retention interval increases
 * [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](withholding-improves-output-bound-accuracy-help-seeking-not.md) - The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so
 * [The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading](oral-silent-divergence-increases-with-reading-experience.md) - The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading
+* [The Orientation Statistic Read From Learner Records Is a Difficulty Sort](observation-orients-edges-only-where-prerequisites-gate.md)
 * [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) - The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence
 * [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](osp-overcomes-ict-barriers.md) - The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education
 * [The outcomes study estimated associations between specific coaching activity types and student outcomes using multiple administrative data sources](rethinks-outcomes-study-design-activities.md) - The outcomes study estimated associations between specific coaching activity types and student outcomes using multiple administrative data sources
