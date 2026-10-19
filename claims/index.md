@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**22375 entries** · 0 stable · 22375 in review · 0 drafts
+**22377 entries** · 0 stable · 22375 in review · 2 drafts
 
 ---
 
@@ -22469,3 +22469,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](9th-grade-on-track-nsi-pass-rates-suspension.md) - 9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates
 * [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](9th-grade-on-track-nsi-gpa-improvement.md) - 9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale
 
+
+## Draft
+
+* [Learner Records Rarely Establish That a Prerequisite Edge Exists](observation-cannot-establish-a-prerequisite-edge.md)
+* [The Orientation Statistic Read From Learner Records Is a Difficulty Sort](observation-orients-edges-only-where-prerequisites-gate.md)

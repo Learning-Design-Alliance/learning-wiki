@@ -1,6 +1,6 @@
 {
 "coverage":{
-"claims->claims":21150,
+"claims->claims":21152,
 "claims->designs":12,
 "claims->elements":102,
 "claims->learner-variables":3571,
@@ -13950,7 +13950,9 @@
 "objective-support-null-correlation-prosocial":{"claims":[{"slug":"subjective-support-dimension-mediation"}]},
 "obpp-most-effective-for-perpetration":{"claims":[{"slug":"anti-bullying-effectiveness-varies-by-country"},{"slug":"anti-bullying-program-effectiveness-heterogeneous"},{"slug":"anti-bullying-programs-reduce-perpetration-and-victimization-globally"},{"slug":"notrap-most-effective-victimization-visc-negative"}],"learner-variables":[{"polarity":"~","slug":"safety","strength":"M"}],"products":[{"polarity":"+","slug":"kiva-olweus-bullying-prevention-program-obpp-notrap-and-visc","strength":"M"}],"strategies":[{"polarity":"+","slug":"culturally-tailor-anti-bullying-programs","strength":"M"},{"polarity":"+","slug":"new-research-program-on-anti-bullying-effectiveness","strength":"M"}]},
 "observable-metrics-improve-help-seeking-prediction-auroc":{"claims":[{"slug":"cold-start-first-queries-dependent-help-seeking"}],"products":[{"polarity":"+","slug":"tutortrace-dataset-of-ide-telemetry-behavioral-segments-and-observable-metrics-from-480-le","strength":"M"}]},
+"observation-cannot-establish-a-prerequisite-edge":{"claims":[{"slug":"observation-orients-edges-only-where-prerequisites-gate"}]},
 "observation-dimensions-modestly-significantly-related-to-value-added":{"claims":[{"slug":"classroom-management-dimension-strongest-value-added-relationship"},{"slug":"eight-of-ten-dimensions-common-across-five-observation-instruments"},{"slug":"reach-observation-value-added-correlation-0349"}],"elements":[{"polarity":"+","slug":"met-project-data-five-instrument-comparison","strength":"W"}]},
+"observation-orients-edges-only-where-prerequisites-gate":{"claims":[{"slug":"observation-cannot-establish-a-prerequisite-edge"}]},
 "observation-pattern-predominantly-copied-models":{"claims":[{"slug":"modeling-behavior-patterns-evolve-over-time"},{"slug":"nine-markov-clusters-map-three-behavior-types"},{"slug":"three-behavioral-patterns-self-directed-modeling"}],"theories":[{"polarity":"~","slug":"social-learning-theory","strength":"W"}]},
 "observation-practice-gaps-principal-teacher":{"claims":[{"slug":"high-end-rating-inflation"},{"slug":"principal-framework-knowledge-subjectivity-perception"},{"slug":"principal-rater-severity-variation"},{"slug":"principals-inflate-distinguished-ratings"}]},
 "observation-ratings-46-percent-basic-unsatisfactory":{"claims":[{"slug":"classroom-management-gates-other-instruction-ratings"},{"slug":"framework-identifies-more-unsatisfactory-teachers"},{"slug":"high-end-rating-inflation"},{"slug":"principal-rater-severity-variation"},{"slug":"weak-communication-and-question-quality"}],"products":[{"polarity":"-","slug":"chicago-public-schools-three-pronged-theory-of-change","strength":"W"}]},
@@ -26100,7 +26102,7 @@
 },
 "note":"Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
 "totals":{
-"claims":22375,
+"claims":22377,
 "designs":973,
 "elements":1066,
 "learner-variables":75,

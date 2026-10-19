@@ -12,6 +12,8 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-10-19
 
+* **Ingest**: [claims/observation-orients-edges-only-where-prerequisites-gate](claims/observation-orients-edges-only-where-prerequisites-gate.md) — From research release learning-graph-budget-2026 1.0.0 (Paper II), https://doi.org/10.5281/zenodo.23480842
+* **Ingest**: [claims/observation-cannot-establish-a-prerequisite-edge](claims/observation-cannot-establish-a-prerequisite-edge.md) — From research release learning-graph-budget-2026 1.0.0 (Paper II), https://doi.org/10.5281/zenodo.23480842
 * **Ingest**: [claims/germane-load-measurement-problems](claims/germane-load-measurement-problems.md) — Ingested from jrnl-2c47f5a8dd57 (A Systematic Meta-analysis of the Reliability and Validity of Subjective Cognitive Load Questionnaires in Experimental Multimedia Learning Research) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/criterion-validity-supports-three-factor-model](claims/criterion-validity-supports-three-factor-model.md) — Ingested from jrnl-2c47f5a8dd57 (A Systematic Meta-analysis of the Reliability and Validity of Subjective Cognitive Load Questionnaires in Experimental Multimedia Learning Research) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/load-type-correlations-partially-contradict-clt](claims/load-type-correlations-partially-contradict-clt.md) — Ingested from jrnl-2c47f5a8dd57 (A Systematic Meta-analysis of the Reliability and Validity of Subjective Cognitive Load Questionnaires in Experimental Multimedia Learning Research) via eval_harness.py + ingest_extractions.py

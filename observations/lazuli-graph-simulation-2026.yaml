@@ -1,0 +1,219 @@
+# ============================================================================
+# EMBARGOED — staged in learning-engineering-research (private), not in the wiki.
+#
+# EVERY LEARNER IN THIS RECORD IS SIMULATED, and two observations are about
+# authored graphs rather than learners. No person is represented. Read its
+# companion, lazuli-graph-external-corpora-2026, before pooling anything from
+# here: it holds the one timing measurement of the load exponent this model
+# assumes, and the error-cost ordering below is checked against it.
+#
+# Nothing has been released, so it is corrected in place. On 2026-10-14, when
+# the release was corrected to describe Paper II only
+# (research/article/what-learner-records-can-say-about-a-prerequisite-edge.md),
+# the orientation record was brought in step with that article; it is the only
+# record here the release's evidence still names. The other records belong to
+# the earlier Paper 1 draft, their analyses are no longer declared in the
+# release, and they are kept for the maintainer's decision.
+#
+# READ `provenance.source_type`: `platform-experiment`. Our own simulation of
+# our own model, not a published research finding.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-graph-simulation-2026
+  citation: 'David S. Porcaro. (2026). What learner records can say about a prerequisite edge. Research release learning-graph-budget-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480842'
+  design:
+    family: simulation
+    design_detail: >-
+      Repeated-measures counterfactuals over generated capability graphs. Each
+      condition is applied to EVERY simulated learner under a shared seed, so
+      every contrast is the same learner with and without the manipulation and
+      no ability confound can survive. The sampling unit is the WORLD, not the
+      learner: each world has its own graph, and a contrast that varies by graph
+      shape has to be paired within world or the variation is hidden. One
+      result in this record exists because it was not, the first time. The
+      motif census compares authored graphs with matched random DAGs and has no
+      learners at all.
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-25
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: observation-orients-edges-only-where-prerequisites-gate
+    bearing: supports
+    note: >-
+      The orientation statistic is identically a sort from the easier skill to
+      the harder, so it is right only as far as difficulty rises along the
+      true edges: 0.998 to 1.000 where latent difficulty rises with depth,
+      0.883 and 0.773 where it is independent, and 0.069 to 0.098 under
+      disjunctive prerequisites where it falls.
+evidence_base:
+  unit: participants
+  size:
+    value: 900
+    unit: participants
+  additional_sizes:
+    - value: 40
+      unit: comparisons
+      note: >-
+        Worlds in the budget-prediction re-run, paired within world. The
+        original ran 12 and averaged across them, which is how a coin flip was
+        published as a 6% effect.
+    - value: 3000
+      unit: participants
+      note: Simulated learners per world in the orientation sweep, over 15 worlds.
+    - value: 200
+      unit: participants
+      note: Simulated learners per run in the error-cost analysis, over 20 runs.
+    - value: 250
+      unit: participants
+      note: >-
+        Simulated learners per world in the facilitation and substitution
+        analyses, over 10 worlds.
+    - value: 18
+      unit: other
+      note: >-
+        Human-authored or reviewed graphs in the reference corpus; the motif
+        census uses the seven with at least 20 connected triples.
+  population:
+    description: >-
+      SIMULATED learners. An ability draw, and the prior knowledge that ability
+      would coherently have produced: a learner never holds a capability whose
+      prerequisites they lack. No person is represented and no figure here is
+      a figure about people.
+    age_or_stage: Not applicable
+    prior_knowledge: >-
+      Generated from ability against capability difficulty, with difficulty
+      drawn INDEPENDENTLY of graph position. Correlating difficulty with fan-in
+      or depth from 0 to 0.88 moves the budget comparison by about one point,
+      inside its per-world spread.
+  context:
+    setting: Simulation.
+    delivery_mode: >-
+      Four modelled environments differing in what a facilitator can do:
+      self-paced with nobody to notice, a novice who repairs willingly and
+      prunes badly, an instructor over a cohort, and an expert who does both.
+    duration: Runs executed 2026-09-14 to 2026-09-25.
+  arms:
+    - id: conjunctive-gate
+      description: >-
+        Prerequisite hardness 1.0: a missing prerequisite blocks the dependent,
+        with slip and guess.
+    - id: load-only
+      description: >-
+        Prerequisite hardness 0.0: a missing prerequisite only raises the
+        dependent's effective difficulty.
+comparisons:
+  - id: hardness-sweep
+    kind: between-groups
+    index_arm: load-only
+    reference_arm: conjunctive-gate
+    description: >-
+      Orientation accuracy when prerequisites only add load, against when they
+      gate, on the same graphs, regimes and statistic.
+observations:
+  - id: orientation-needs-a-gate
+    sample:
+      value: 3000
+      unit: participants
+    comparison_ref: hardness-sweep
+    analysis_ref: orientation-sortability
+    outcome:
+      construct: >-
+        Whether the direction of a prerequisite edge can be recovered from
+        learner outcomes, and under what conditions
+      source_language: >-
+        share of true edges oriented correctly by the asymmetric conditional
+        failure statistic, by mechanism, hardness and difficulty regime
+      measure: >-
+        Share of the true edges that the statistic s(a, b) = j/f_a - j/f_b
+        orients from prerequisite to dependent.
+      scale: proportion
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/observation-orients-edges-only-where-prerequisites-gate
+    time:
+      label: After a simulated cohort completes
+    result:
+      measure_type: other
+      estimate: 0.773
+      model: >-
+        With f_a and f_b the failure rates on a and b and j the rate of failing
+        both, s(a, b) = j/f_a - j/f_b equals j(f_b - f_a)/(f_a f_b), so whenever
+        j is positive its sign is the sign of f_b - f_a: the statistic orients
+        every pair from the easier skill to the harder one, and in all 30 cells
+        of the sweep it oriented every scored edge exactly as a difficulty sort
+        did. 15 worlds of 30 skills and 3,000 learners in each cell; hardness
+        runs from 1.0 (a missing prerequisite blocks the dependent) to 0.0 (it
+        only raises the dependent's difficulty). Under conjunctive
+        prerequisites, where latent difficulty rises with depth, 0.998 to 1.000
+        of edges at every hardness. Where latent difficulty is independent of
+        depth, 0.883 [0.854, 0.910] at hardness 1.0 and 0.773 [0.736, 0.809] at
+        0.0; where it falls with depth, 0.772 [0.721, 0.814] and 0.520 [0.462,
+        0.580]. Intervals resample worlds. Under disjunctive prerequisites,
+        0.969 to 0.975 where difficulty rises with depth, 0.551 to 0.558 where
+        it is independent and 0.069 to 0.098 where it falls, and 0.009 to 0.020
+        on edges into skills with two or more prerequisites in that last
+        regime. Restricting to pairs of similar difficulty (failure rates within
+        0.05; orientation-under-soft-prerequisites) lowers accuracy where
+        difficulty is independent of depth from 0.883 to 0.665 at hardness 1.0
+        and from 0.773 to 0.568 at 0.0.
+      interpretation: >-
+        THE STATISTIC IS A DIFFICULTY SORT. It is right exactly as often as the
+        true edges run from an easier skill to a harder one, the property
+        Reisach et al. call sortability. Prerequisites themselves make observed
+        difficulty rise along edges, because learners who reach a skill without
+        its prerequisite fail it more often, which is why accuracy stays well
+        above 0.5 where latent difficulty is independent of depth. Where any one
+        of a skill's prerequisites suffices and later skills are easier, it
+        points most edges the wrong way. Sortability therefore has to be
+        measured in each corpus: on ASSISTments, with grades assigned by a
+        name-matching rule that no person checked, the skill from the higher
+        Common Core grade was harder in 0.576 [0.503, 0.647] of pairs, and along
+        Junyi's authored edges the dependent was harder in 0.579, a sign
+        established by a floor that failed on power. Matching on difficulty
+        removes the signal along with the confound, since a prerequisite's
+        effect is itself a difference in failure rate.
+    moderators:
+      reported:
+        - variable: difficulty regime
+          relationship: >-
+            Under conjunctive prerequisites at hardness 0.0, accuracy runs from
+            0.998 to 1.000 where latent difficulty rises with depth to 0.520
+            [0.462, 0.580] where it falls.
+          source_quote: >-
+            The sweep's accuracies are therefore a map of how far observed
+            difficulty rises along the true edges
+        - variable: prerequisite mechanism
+          relationship: >-
+            A disjunctive prerequisite hardly raises the dependent's failure
+            rate, so the statistic points the wrong way wherever difficulty
+            falls with depth (0.069 to 0.098).
+          source_quote: >-
+            Under disjunctive prerequisites the statistic points the wrong way
+            wherever difficulty falls with depth.
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Simulated. The worlds' mechanisms, difficulty regimes and densities were
+      chosen by the program, so the accuracies hold for the class of
+      structures simulated. The identity itself is algebraic and holds wherever
+      some learners failed both skills.
+    source_quote: >-
+      the statistic orients every pair from the easier skill to the harder one
+    source_location: >-
+      studies/simulation/orientation-sortability/;
+      studies/simulation/learner-sim/orientation-soft-result.json
+

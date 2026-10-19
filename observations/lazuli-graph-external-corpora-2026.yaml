@@ -1,0 +1,368 @@
+# ============================================================================
+# EMBARGOED — staged in learning-engineering-research (private), not in the wiki.
+#
+# THE REAL-DATA HALF OF THE RELEASE. Its companion, lazuli-graph-simulation-2026,
+# is simulated; this record is where real learners appear. It carries the
+# existence results and the lag decay of the positivity estimand that the
+# release's evidence names, and two Paper 1 observations (the timing
+# measurement of the load exponent and the hint analysis) that it no longer
+# names.
+#
+# Nothing has been released, so it is corrected in place. On 2026-10-14 the
+# existence and lag records were brought in step with Paper II
+# (research/article/what-learner-records-can-say-about-a-prerequisite-edge.md),
+# when the release was corrected to describe that article only. The load and
+# hint records, and their analyses, belong to the earlier Paper 1 draft and are
+# kept for the maintainer's decision.
+#
+# READ `provenance.source_type` BEFORE POOLING ANYTHING: `platform-experiment`
+# — our own secondary analysis of other people's deposits, not a published
+# research finding from those depositors.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-graph-external-corpora-2026
+  citation: 'David S. Porcaro. (2026). What learner records can say about a prerequisite edge. Research release learning-graph-budget-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480842'
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of five archival learner corpora, with no manipulation
+      of anything. Existence is read as positivity: for each ordered capability
+      pair, the learners whose first attempt at B came after failing A, against
+      those who had passed A. A negative verdict additionally needs an observed,
+      readable and powered merge node. Timing and hint contrasts are fixed-effect
+      comparisons chosen to separate a property of the item from a property of
+      the learner. Where two fixed effects disagree, the disagreement is the
+      result.
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-25
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: observation-cannot-establish-a-prerequisite-edge
+    bearing: supports
+    note: >-
+      Most pairs share few learners (median pair: none in common on EDM Cup, 4
+      on ASSISTments), and where the cell fills, most supported verdicts do not
+      survive an adjustment for general ability (at most 27.6% in the four
+      corpora checked) and most negative ones fail for want of power at the
+      merge node, a sample-size limit.
+evidence_base:
+  unit: other
+  size:
+    value: 5
+    unit: other
+  additional_sizes:
+    - value: 29018
+      unit: participants
+      note: ASSISTments 2012-13 learners in the positivity reading.
+    - value: 34580
+      unit: participants
+      note: EDM Cup 2023 learners in the positivity atlas.
+    - value: 18066
+      unit: participants
+      note: XES3G5M learners in the positivity atlas.
+    - value: 118971
+      unit: participants
+      note: Eedi learners in the positivity atlas.
+    - value: 6000
+      unit: participants
+      note: >-
+        EdNet learners in the positivity, lag and domain analyses: the
+        re-issued, regenerable prefix of the archive.
+    - value: 1976159
+      unit: sessions
+      note: >-
+        EdNet bundle sessions in the load analysis, from 30,000 users drawn by
+        seeded shuffle out of 784,309.
+    - value: 1516162
+      unit: pairs
+      note: >-
+        ASSISTments consecutive attempt pairs in the hint analysis, over
+        377,769 (student, skill) sequences, after the 2026-09-24 extract
+        correction.
+  population:
+    description: >-
+      Five PROXY populations, none of them Lazuli learners. (1) US school
+      students on a mathematics tutor, 2012-13 (ASSISTments). (2) US school
+      students on the same platform's later release (EDM Cup 2023). (3) Chinese
+      primary-school pupils on a competition-mathematics practice platform
+      (XES3G5M). (4) UK school pupils answering diagnostic mathematics
+      questions (Eedi). (5) Adults using a commercial TOEIC preparation app in
+      Korea (EdNet). The first two sequence learners by the platform's
+      curriculum; the last three let learners choose what to attempt.
+    age_or_stage: >-
+      School-age in four corpora (grade not used); adults in EdNet, stage not
+      recorded.
+    prior_knowledge: >-
+      Estimated per learner per capability from their own prior history in the
+      same corpus, never assumed.
+  context:
+    setting: >-
+      Archival. Every corpus was collected years before this work and for other
+      purposes.
+    delivery_mode: Self-paced software, with no human facilitator in any corpus.
+    duration: Analyses executed 2026-09-14 to 2026-09-25.
+  arms:
+    - id: met-b-after-failing-a
+      description: >-
+        Learners whose first attempt at capability B came after they had failed
+        capability A: the identifying cell.
+    - id: met-b-after-passing-a
+      description: Learners whose first attempt at B came after they had passed A.
+comparisons:
+  - id: identifying-cell
+    kind: other
+    index_arm: met-b-after-failing-a
+    reference_arm: met-b-after-passing-a
+    description: >-
+      Drop in first-attempt accuracy on B after failing A, against the claimed
+      prerequisite effect of 0.10. A pair is readable if both cells reach the
+      floor, SUPPORTED if the drop clears 0.10 at its minimum detectable effect,
+      CONTRADICTED only if it does not and a merge node on the pair is
+      observed, readable and powered, and UNKNOWN otherwise. The same contrast,
+      split by lag band, is the lag analysis.
+observations:
+  - id: existence-cell-empty-where-order-is-fixed
+    sample:
+      value: 29018
+      unit: participants
+    comparison_ref: identifying-cell
+    analysis_ref: positivity-atlas
+    outcome:
+      construct: >-
+        Whether the records of platforms that set the order of skills
+        (ASSISTments 2012-13, EDM Cup 2023) contain the learners needed to test
+        whether a prerequisite edge exists
+      source_language: >-
+        median learners in common per pair, and share of pairs decided after
+        the reachability gate
+      measure: >-
+        Share of ordered skill pairs decided (SUPPORTED or CONTRADICTED) at the
+        0.10 claimed effect, after the reachability gate.
+      scale: proportion
+      direction: higher-is-better
+      role: other
+      role_basis: ambiguous
+      anchors:
+        - claims/observation-cannot-establish-a-prerequisite-edge
+    time:
+      label: Whole corpus, first attempts, lag uncontrolled
+    result:
+      measure_type: other
+      estimate: 0.0022
+      model: >-
+        ASSISTments 2012-13, 29,018 learners, 40,000 pairs scored: median
+        learners in common 4, 87 SUPPORTED, 0 CONTRADICTED, 0.22% decided; all
+        46 powered pairwise nulls return to unknown at the gate, and 24 of 87
+        supported pairs survive the adjustment for general ability. EDM Cup
+        2023, 34,580 learners: median learners in common 0, 3 SUPPORTED, 0
+        CONTRADICTED, 0.015% decided. In ASSISTments' random-order
+        configuration (17,502 units of one problem set and one student), 3,838
+        combinations of a problem set and a pair of skills were seen together
+        by at least one student; within no problem set did more than 15
+        students meet a pair of skills in the less common order, and the two
+        combinations seen by the most students split 0 against 490 and 4
+        against 475.
+      interpretation: >-
+        FEW LEARNERS IN COMMON, NOT A FIXED ORDER, EMPTIES MOST CELLS. Coverage
+        is the cause of most empty identifying cells on EDM Cup in both
+        directions and on ASSISTments in the backward direction. Where a pair is
+        covered, a uniform order hides only the reverse direction: it stops the
+        test of an edge against the curriculum's direction, not the test of the
+        curriculum's own edges. On ASSISTments, pairs with 20 to 99 learners in
+        common read RETRY-LIMITED forward, as its mastery-gated skill builders
+        require. The number of learners did not predict the decided share: EDM
+        Cup has the second largest number of learners in the atlas and decides
+        0.015% of its pairs, against 4.03% on XES3G5M with 18,066 learners. The
+        random-order configuration shuffles problems within a skill; the order
+        of skills stays fixed.
+    moderators:
+      reported:
+        - variable: platform assignment policy
+          relationship: >-
+            How a platform documents its order did not predict which corpora
+            could decide pairs: of the 19 labels predicted from the corpora's
+            documentation before the reading, 13 were not observed, and the
+            pre-registered verdict is DOCUMENTATION DISAGREES.
+          source_quote: >-
+            How a platform documents its order did not predict which corpora
+            could decide pairs.
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A structural property of the corpus rather than a sampled estimate; the
+      decided share carries no interval. No scheduler here was shown to obey a
+      prerequisite graph. The drop is read at an uncontrolled lag.
+    source_quote: >-
+      ASSISTments 2012–13, EDM Cup 2023, Junyi and Duolingo SLAM decide at most
+      0.22% of their pairs
+    source_location: >-
+      studies/identifiability/overlap/out/positivity-assist.json;
+      studies/identifiability/overlap/out/random_order.json;
+      studies/identifiability/empty-cell/out/result.json
+
+  - id: free-choice-fills-the-cell-not-the-verdict
+    sample:
+      value: 118971
+      unit: participants
+    comparison_ref: identifying-cell
+    analysis_ref: positivity-atlas
+    outcome:
+      construct: >-
+        Whether corpora in which the identifying cell fills (Eedi, XES3G5M,
+        EdNet) can decide prerequisite edges, once general ability is taken
+        into account
+      source_language: >-
+        decided share, background drop, supported pairs surviving an ability
+        adjustment, and contradictions taken back by the reachability gate
+      measure: >-
+        The drop an arbitrary ordered pair shows (background) against the 0.10
+        claimed effect, and the share of pairs decided after the gate.
+      scale: proportion
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      anchors:
+        - claims/observation-cannot-establish-a-prerequisite-edge
+    time:
+      label: Whole corpus, first attempts, lag uncontrolled
+    result:
+      measure_type: other
+      estimate: 0.125
+      model: >-
+        Eedi, 118,971 learners: median learners in common 420, median
+        identifying cell among readable pairs 178, 4,935 SUPPORTED, 138
+        CONTRADICTED, 25.36% decided, background drop +0.125; 684 of 4,935
+        supported pairs (13.9%) survive the adjustment for general ability.
+        XES3G5M, 18,066 learners: median identifying cell 50, 736 SUPPORTED, 69
+        CONTRADICTED, 4.03% decided, background +0.087; 99 of 736 (13.5%)
+        survive. EdNet (re-issued, 6,000 learners): median identifying cell 43,
+        119 SUPPORTED, 9 CONTRADICTED, 0.65% decided, background +0.048; 11 of
+        119 (9.2%) survive. The pre-registered verdict on each is VERDICTS ARE
+        MOSTLY ABILITY.
+      interpretation: >-
+        A FILLED CELL IS NOT A DECIDED VERDICT. A learner who has not passed one
+        skill tends to score lower on others, so an arbitrary ordered pair
+        already shows a positive drop, on Eedi more than the 0.10 the verdict
+        tests for, and most supported verdicts do not survive an adjustment for
+        each learner's accuracy on other skills. A pair that fails the check is
+        not shown to have no edge: the adjustment can remove real dependence
+        along with ability. Most negative verdicts fail on power: across the
+        atlas file's corpora, the gate returned 1,183 of 1,399 powered pairwise
+        nulls to unknown, and in 1,155 of those (97.6%) a merge node was
+        readable but not powered, which more learners reaching it would fix.
+        How a platform documents its order did not predict which corpora could
+        decide pairs: on XES3G5M, only 0.2% of the learners on its median pair
+        met the two skills in the less common order, and it decides the second
+        largest share.
+    moderators:
+      reported:
+        - variable: background drop
+          relationship: >-
+            Where the background drop approaches or exceeds the claimed effect,
+            a SUPPORTED verdict says little about the pair.
+          source_quote: >-
+            +0.125 on Eedi, more than the 0.10 the verdict tests for, and +0.087
+            on XES3G5M
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Eedi keeps only each pupil's latest answer to a question, so its order and
+      first-attempt outcomes are read from last answers. The drop is read at an
+      uncontrolled lag. Accuracy on other skills measures ability with error, so
+      the survival shares estimate rather than count how many verdicts rest on
+      something beyond it.
+    source_quote: >-
+      13.9% of the supported pairs survived on Eedi (684 of 4,935)
+    source_location: >-
+      studies/identifiability/overlap/out/atlas.json;
+      studies/identifiability/empty-cell/out/result.json
+
+  - id: prerequisite-drop-decays-with-lag-across-domains
+    sample:
+      value: 13
+      unit: other
+    comparison_ref: identifying-cell
+    analysis_ref: lag-decay-by-domain
+    outcome:
+      construct: >-
+        Whether the positivity drop depends on the lag between first attempting
+        A and first attempting B, and whether that decay differs by domain
+      source_language: >-
+        D = drop 7+ days after A minus drop within a day, per domain; spread R
+        between domains
+      measure: >-
+        Within-pair difference between the drop at a lag of seven days or more
+        and the drop within a day, over pairs readable in both bands.
+      scale: proportion difference
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+    time:
+      label: Lag bands under 1 day and 7 days or more between first attempts
+    result:
+      measure_type: other
+      model: >-
+        Corpus level (studies/identifiability/overlap/LAG-BANDS.md): D is
+        -0.048 [-0.052, -0.043] on Eedi, -0.033 [-0.060, -0.007] on XES3G5M,
+        -0.015 [-0.022, -0.007] on EdNet and -0.062 [-0.080, -0.043] on
+        ASSISTments; EDM Cup has no pair readable within a day. By domain
+        (studies/identifiability/domain-mechanism/README.md): the drop shrinks
+        in 12 of 13 domains across seven competition-maths modules, four school
+        maths strands and both TOEIC sections, and is unresolved in the
+        thirteenth (XES3G5M travel). Spread between domains: Eedi 0.025, above
+        its permutation null (97.5th percentile 0.020) but under the
+        pre-registered 0.03 bar; no corpus reached 0.03, and none was narrow
+        enough to call the domains invariant. Programme verdict MIXED: every
+        corpus UNRESOLVED on the domain question.
+      interpretation: >-
+        DECAY IS NOT A FEATURE OF ONE DOMAIN. The same-day band carries the
+        largest share of the signal everywhere it can be read, so a positivity
+        verdict read at an unstated lag mixes estimands. No corpus shows domains
+        differing by the pre-registered amount, and none is tight enough to call
+        them invariant. Domains also differ in difficulty, pacing and learners,
+        so even a larger spread would describe the estimand, not a mechanism.
+    moderators:
+      reported:
+        - variable: domain
+          relationship: >-
+            Eedi's Number and Algebra strands decay about twice as much as Data
+            and Statistics, but the spread stays under the material bar.
+          source_quote: >-
+            On Eedi the spread, 0.025 [0.012, 0.039], exceeds the 97.5th
+            percentile of its permutation null, 0.020, but stays below 0.03.
+      candidate:
+        - variable: load and conjunctive structure by domain
+          rationale: >-
+            Out of scope for the pre-registered split and unpowered on these
+            corpora. Construction-heavy and procedural domains are untested.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Pre-registered, with a synthetic floor that passed before any real corpus
+      was read. The bands hold different learners, so this is not a forgetting
+      curve for any edge. The ASSISTments corpus-level figure is from
+      lag_bands.py; the domain split reads XES3G5M, Eedi and EdNet.
+    source_quote: >-
+      The drop shrinks with lag in 12 of 13 domains, and in the thirteenth it is
+      unresolved.
+    source_location: studies/identifiability/domain-mechanism/README.md
+
