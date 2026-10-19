@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (12 for, 21 mixed, 1 against) · 38 studies (11 review, 6 causal, 6 qualitative, 6 theoretical, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 38 report an effect size · 26 claims rest on one study
+> **Evidence** · 34 claims (11 for, 22 mixed, 1 against) · 38 studies (11 review, 6 causal, 6 qualitative, 6 theoretical, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 5 of 38 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,7 +158,7 @@ For example, an adult apprentice electrician may value wiring a real circuit at 
 
 The model should weaken if well-controlled comparisons of autonomy-supportive against controlling conditions, in real courses, show no difference in voluntary engagement or persistence at a delayed horizon. It should also weaken if the reward-undermining effect turns out to be confined to laboratory tasks. If choice keeps showing motivation gains with no learning gains, keep that split rather than calling both "engagement". If well-timed, performance-contingent control (as in the feedback experiment) replicates in academic tasks while open choice does not, the principle should be restated around when the learner controls what, not around choice in general. Do not protect the model by calling every failure of choice a lack of structure, or every success of direct instruction a hidden form of autonomy support.
 
-Motivation during a task, free-choice engagement afterwards, immediate learning, delayed retention and the learner's own valued use are separate claims. The present evidence does not establish how many options to offer, how to sequence widening choice, or how culture and age moderate any of it.
+Motivation during a task, free-choice engagement afterwards, immediate learning, delayed retention and the learner's own valued use are separate claims. The present evidence does not establish how many options to offer, how to sequence widening choice, or how culture and age moderate any of it. For young children there is one report's argument and observation, and no comparison.
 
 ## Claims
 
